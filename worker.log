@@ -1,0 +1,31 @@
+[14:57:16] MERLib Mirror worker starting
+[14:57:16] Mirroring the Internet's Modern Energy Research into a Library
+[14:57:16] Repo: /Users/esaruoho/work/merlib-mirror
+[14:57:16] Mirror engine: /Users/esaruoho/work/merlib-mirror/mirror.py
+[14:57:16] Output: /Users/esaruoho/work/merlib-mirror/sites
+
+[14:57:18] ━━━ MERLib Mirror — New job ━━━━━━━━━━━━━━━━
+[14:57:18] Domain: padrak.com
+[14:57:18] Mode:   wayback
+[14:57:18] Target: padrak.com/ine
+[14:57:18] Path filter: /ine
+[14:57:18] Running: python3 /Users/esaruoho/work/merlib-mirror/mirror.py wayback padrak.com --resume --output-dir /Users/esaruoho/work/merlib-mirror/sites --path /ine
+usage: mirror.py [-h] [--version] {wayback,live,status} ...
+mirror.py: error: unrecognized arguments: --path /ine
+[14:57:18] ERROR: mirror.py failed for padrak.com
+
+[14:58:19] ━━━ MERLib Mirror — New job ━━━━━━━━━━━━━━━━
+[14:58:19] Domain: amasci.com
+[14:58:19] Mode:   wayback
+[14:58:19] Target: amasci.com
+[14:58:19] Running: python3 /Users/esaruoho/work/merlib-mirror/mirror.py wayback amasci.com --resume --output-dir /Users/esaruoho/work/merlib-mirror/sites
+[2026-03-04 14:58:19] ============================================================
+[2026-03-04 14:58:19] WAYBACK MIRROR: amasci.com
+[2026-03-04 14:58:19] Output: /Users/esaruoho/work/merlib-mirror/sites/amasci.com
+[2026-03-04 14:58:19] Delay: 1.0s
+[2026-03-04 14:58:19] ============================================================
+[2026-03-04 14:58:19] Resuming: phase=init, 0 already done
+[2026-03-04 14:58:19] 
+=== PHASE 1: URL Discovery ===
+[2026-03-04 14:58:19] Querying CDX for amasci.com...
+[14:58:27] ERROR: mirror.py failed for amasci.com

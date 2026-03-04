@@ -1,0 +1,48 @@
+Betavoltaic Battery
+
+ Return to the INE Devices Page 
+ Return to the INE Inventors Page 
+ Return to the INE Interest Ranking Page 
+ Return to the INE Commercial Ranking Page 
+
+ BETAVOLTAIC BATTERY 
+ Posted: Oct. 24, 2001 
+
+See the Database Guidelines file for: 
+Additions, Changes, and Your Supportive Input into the data in these files. 
+
+Device Name: Betavoltaic Battery
+Device Catagory: Nuc. Isotopic
+Device Type: Over-Unity
+Inventor Name: Brown, Paul
+Inventor Address: International Fission Fuelsm Inc., 20100 E. 32nd Ave.
+ Pkwy., Suite 185, Aurora, CO 80011
+Date First Demo: 1990
+Watts Generated: 24 W/kg
+Date Last Demo: 1999
+Watts Generated: 24 W/kg
+% O/U Claimed: Yes.
+% O/U Measured: 
+% Weight Loss: 
+Date Witnessed: 
+Witnesses Name: 
+Witness Address: 
+Date Tested: 1999
+Tester Name: 
+Tester Address: 
+Researcher Contact: 
+Researcher Address: 
+Ranking, Interest: 5
+Ranking, Commercial: 5
+References: COFE 1999. US Patent 5,087,533
+Last Ref. & Date: COFE 1999.
+File Name: BROWNP3
+Date Last Modified: 10/25/2001
+
+ Return to the INE Devices Page 
+ Return to the INE Inventors Page 
+ Return to the INE Interest Ranking Page 
+ Return to the INE Commercial Ranking Page 
+
+www.padrak.com/ine/db/brownp3.html 
+Oct. 24, 2001.

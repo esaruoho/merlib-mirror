@@ -1,0 +1,46 @@
+N-Motor
+
+ Return to the INE Devices Page 
+ Return to the INE Inventors Page 
+ Return to the INE Interest Ranking Page 
+ Return to the INE Commercial Ranking Page 
+
+ N-MOTOR 
+
+See the Database Guidelines file for: 
+Additions, Changes, and Your Supportive Input into the data in these files. 
+
+Device Name: N-Motor
+Device Category: Elect. Magnetic
+Device Type: Over-Unity
+Inventor Name: Ward, Sonne
+Inventor Address: PO Box 235, Hamer, ID 83425
+Date First Demo: 11/10/94
+Watts Generated: 0
+Date Last Demo: 
+Watts Generated: 
+% O/U Claimed: >100%
+% O/U Measured: 0 (18% efficiency)
+% Weight Loss: 
+Date Witnessed: 
+Witnesses Name: 
+Witness Address: 
+Date Tested: 11/10/94
+Tester Name: Toby Grotz
+Tester Address: 760 Prairie Ave, Craig, CO 81625
+Researcher Contact: 
+Researcher Address: 
+Ranking, Interest: 1
+Ranking, Commercial: 2
+References: New Energy News, Feb. 1995, pp15-16.
+Last Ref. & Date: NEN 1995.
+File Name: WARD
+Date Last Modified: 7/23/97
+
+ Return to the INE Devices Page 
+ Return to the INE Inventors Page 
+ Return to the INE Interest Ranking Page 
+ Return to the INE Commercial Ranking Page 
+
+www.padrak.com/ine/db/ward.html 
+Jul. 31, 1998.

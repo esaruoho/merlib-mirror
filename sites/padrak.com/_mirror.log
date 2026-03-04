@@ -1,0 +1,139 @@
+[2026-03-04 15:04:25] ============================================================
+[2026-03-04 15:04:25] WAYBACK MIRROR: padrak.com
+[2026-03-04 15:04:25] Output: /Users/esaruoho/work/merlib-mirror/sites/padrak.com
+[2026-03-04 15:04:25] Delay: 1.0s
+[2026-03-04 15:04:25] ============================================================
+[2026-03-04 15:04:25] Resuming: phase=init, 0 already done
+[2026-03-04 15:04:25] 
+=== PHASE 1: URL Discovery ===
+[2026-03-04 15:04:25] Querying CDX for padrak.com...
+[2026-03-04 15:04:31]   Rate limited (503), waiting 30s...
+[2026-03-04 15:05:06]   Rate limited (503), waiting 60s...
+[2026-03-04 15:06:12]   CDX query failed for padrak.com
+[2026-03-04 15:06:12] Querying CDX for www.padrak.com...
+[2026-03-04 15:06:44]   Found 2577 URLs for www.padrak.com
+[2026-03-04 15:08:14]   Rate limited (503), waiting 30s...
+[2026-03-04 15:08:49]   Rate limited (503), waiting 60s...
+[2026-03-04 15:09:55] Path filter '/ine': 2556 -> 883 URLs
+[2026-03-04 15:09:55] Total unique valid URLs: 883
+[2026-03-04 15:09:55]   text/html: 804
+[2026-03-04 15:09:55]   image/gif: 45
+[2026-03-04 15:09:55]   image/jpeg: 12
+[2026-03-04 15:09:55]   application/pdf: 10
+[2026-03-04 15:09:55]   im: 5
+[2026-03-04 15:09:55]   unk: 4
+[2026-03-04 15:09:55]   text/plain: 2
+[2026-03-04 15:09:55]   application/msword: 1
+[2026-03-04 15:09:55] 
+=== PHASE 2: Downloading ===
+[2026-03-04 15:12:18] [10/883] OK ine/AEINEWS.html (1,129b) @20010302
+[2026-03-04 15:14:21] [20/883] OK ine/AWARDS.html (3,713b) @19990129
+[2026-03-04 15:16:28] [30/883] OK ine/BASS_8.html (1,506b) @20060517
+[2026-03-04 15:18:42] [40/883] OK ine/BTPPAPER.html (24,475b) @19990202
+[2026-03-04 15:20:43] [50/883] OK ine/CFPOSFBK.html (1,756b) @19970302
+[2026-03-04 15:20:53] --- Progress: 50/883 (5%) | New: 50 | Rate: 5/min ---
+[2026-03-04 15:22:55] [60/883] OK ine/CRAWARD.html (1,751b) @19980214
+[2026-03-04 15:26:05] [70/883] OK ine/Dangers_Fig4A.gif (3,208b) @20070314
+[2026-03-04 15:28:08] [80/883] OK ine/DANGERSPOWER.html (25,943b) @20011125
+[2026-03-04 15:31:13] [90/883] OK ine/db/aspden2.html (1,832b) @19981202
+[2026-03-04 15:33:18] [100/883] OK ine/db/BESSLER.HTML (2,043b) @20031125
+[2026-03-04 15:33:28] --- Progress: 100/883 (11%) | New: 100 | Rate: 4/min ---
+[2026-03-04 15:35:34] [110/883] OK ine/db/carr.html (1,704b) @19981205
+[2026-03-04 15:37:46] [120/883] OK ine/db/deavenp.html (1,801b) @19981201
+[2026-03-04 15:39:53] [130/883] OK ine/db/ewing.html (2,001b) @20000119
+[2026-03-04 15:41:55] [140/883] OK ine/db/greaneau.html (1,888b) @19981206
+[2026-03-04 15:44:01] [150/883] OK ine/db/hyde.html (1,716b) @19990128
+[2026-03-04 15:44:11] --- Progress: 150/883 (16%) | New: 150 | Rate: 4/min ---
+[2026-03-04 15:46:13] [160/883] OK ine/db/keely.html (2,053b) @19990202
+[2026-03-04 15:48:24] [170/883] OK ine/db/macneill2.html (1,798b) @19981202
+[2026-03-04 15:50:24] [180/883] OK ine/db/meyer.html (1,750b) @19990423
+[2026-03-04 15:52:45] [190/883] OK ine/db/perreau.html (1,847b) @19981207
+[2026-03-04 15:55:54] [200/883] OK ine/db/rqm.html (1,724b) @19981202
+[2026-03-04 15:56:04] --- Progress: 200/883 (22%) | New: 200 | Rate: 4/min ---
+[2026-03-04 15:58:04] [210/883] OK ine/db/smithw2.html (1,792b) @19981205
+[2026-03-04 16:00:09] [220/883] OK ine/db/taylor.html (1,891b) @19981202
+[2026-03-04 16:02:14] [230/883] OK ine/db/watsond.html (1,877b) @19981207
+[2026-03-04 16:04:19] [240/883] OK ine/DEVICES_I.html (18,616b) @20060221
+[2026-03-04 16:11:15] ============================================================
+[2026-03-04 16:11:15] LIVE MIRROR: padrak.com
+[2026-03-04 16:11:15] Seed: https://padrak.com/ine
+[2026-03-04 16:11:15] Output: /Users/esaruoho/work/merlib-mirror/sites/padrak.com
+[2026-03-04 16:11:15] Max discovery pages: 500
+[2026-03-04 16:11:15] ============================================================
+[2026-03-04 16:11:15] Discovering links (BFS)...
+[2026-03-04 16:22:23] ============================================================
+[2026-03-04 16:22:23] LIVE MIRROR: padrak.com
+[2026-03-04 16:22:23] Seed: https://padrak.com/ine
+[2026-03-04 16:22:23] Output: /Users/esaruoho/work/merlib-mirror/sites/padrak.com
+[2026-03-04 16:22:23] Max discovery pages: 500
+[2026-03-04 16:22:23] ============================================================
+[2026-03-04 16:22:23] Discovering links (BFS)...
+[2026-03-04 16:22:24]   BFS [1/500] https://padrak.com/ine
+[2026-03-04 16:22:24]     +531 new links (532 total)
+[2026-03-04 16:29:10]   BFS [2/500] http://www.padrak.com/agn/AGN4SALE.html
+[2026-03-04 16:29:10]     +1 new links (533 total)
+[2026-03-04 16:42:47] ============================================================
+[2026-03-04 16:42:47] LIVE MIRROR: padrak.com
+[2026-03-04 16:42:47] Seed: https://padrak.com/ine
+[2026-03-04 16:42:47] Seed path: /ine
+[2026-03-04 16:42:47] Max link depth: 5
+[2026-03-04 16:42:47] Output: /Users/esaruoho/work/merlib-mirror/sites/padrak.com
+[2026-03-04 16:42:47] ============================================================
+[2026-03-04 16:42:47] Crawling /ine (download-as-you-go)...
+[2026-03-04 16:42:49]   [1 d0*] https://padrak.com/ine  (1 OK, 0 queued)
+[2026-03-04 16:42:49]     +531 links (532 total known)
+[2026-03-04 16:42:50]   [2 d0*] http://www.padrak.com/ine/ELEWIS6.html  (2 OK, 530 queued)
+[2026-03-04 16:42:50]     +8 links (540 total known)
+[2026-03-04 16:42:50]   [3 d0*] http://www.padrak.com/ine/ELEWIS2.html  (3 OK, 537 queued)
+[2026-03-04 16:42:50]     +1 links (541 total known)
+[2026-03-04 16:42:53]   [5 d0*] http://www.padrak.com/ine  (4 OK, 536 queued)
+[2026-03-04 16:42:53]     +526 links (1067 total known)
+[2026-03-04 16:42:54]   [6 d0*] http://www.padrak.com/ine/ELEWIS3.html  (5 OK, 1061 queued)
+[2026-03-04 16:42:54]     +2 links (1069 total known)
+[2026-03-04 16:42:55]   [8 d0*] http://www.padrak.com/ine/ELEWIS3A.html  (6 OK, 1061 queued)
+[2026-03-04 16:42:55]     +3 links (1072 total known)
+[2026-03-04 16:42:56]   [9 d0*] http://www.padrak.com/ine/ELEWIS3.html#ELEWIS3A1  (7 OK, 1063 queued)
+[2026-03-04 16:42:57]   [10 d0*] http://www.padrak.com/ine/ELEWISGIF1.gif  (8 OK, 1062 queued)
+[2026-03-04 16:43:07]   [20 d0*] http://www.padrak.com/ine/ELEWIS5A.html  (14 OK, 1057 queued)
+[2026-03-04 16:43:07]     +1 links (1078 total known)
+[2026-03-04 16:43:25]   [40] 17 OK, 23 failed, 1039 queued
+[2026-03-04 16:43:43]   [60] 17 OK, 43 failed, 1019 queued
+[2026-03-04 16:44:00]   [80] 17 OK, 63 failed, 999 queued
+[2026-03-04 16:44:18]   [100] 17 OK, 83 failed, 979 queued
+[2026-03-04 16:44:35]   [120] 17 OK, 103 failed, 959 queued
+[2026-03-04 16:44:53]   [140] 17 OK, 123 failed, 939 queued
+[2026-03-04 16:45:10]   [160] 17 OK, 143 failed, 919 queued
+[2026-03-04 16:45:28]   [180] 17 OK, 163 failed, 899 queued
+[2026-03-04 16:45:45]   [200] 17 OK, 183 failed, 879 queued
+[2026-03-04 16:45:50]   [205 d1*] http://www.padrak.com/ine/NEN_6_5_9.html  (20 OK, 929 queued)
+[2026-03-04 16:45:53]   [210 d1*] http://www.padrak.com/ine/INE8.html  (24 OK, 960 queued)
+[2026-03-04 16:45:53]     +16 links (1186 total known)
+[2026-03-04 16:46:57] ============================================================
+[2026-03-04 16:46:57] LIVE MIRROR: padrak.com
+[2026-03-04 16:46:57] Seed: https://padrak.com/ine
+[2026-03-04 16:46:57] Seed path: /ine
+[2026-03-04 16:46:57] Max link depth: 5
+[2026-03-04 16:46:57] Output: /Users/esaruoho/work/merlib-mirror/sites/padrak.com
+[2026-03-04 16:46:57] ============================================================
+[2026-03-04 16:46:57] Crawling /ine (download-as-you-go)...
+[2026-03-04 16:46:57]   [1 d0*] https://padrak.com/ine  (1 OK, 0 queued)
+[2026-03-04 16:46:57]     +522 links (523 total known)
+[2026-03-04 16:46:58] Generating index...
+[2026-03-04 16:46:58] Index: 478 files
+[2026-03-04 16:46:58]   .html: 232
+[2026-03-04 16:46:58]   .txt: 220
+[2026-03-04 16:46:58]   .gif: 14
+[2026-03-04 16:46:58]   .jpg: 7
+[2026-03-04 16:46:58]   (none): 1
+[2026-03-04 16:46:58]   .[2: 1
+[2026-03-04 16:46:58]   .pdf: 1
+[2026-03-04 16:46:58]   . box 58639, salt lake city, ut : 1
+[2026-03-04 16:46:58]   . features : 1
+[2026-03-04 16:46:58] 
+============================================================
+[2026-03-04 16:46:58] LIVE MIRROR COMPLETE
+[2026-03-04 16:46:58] Downloaded: 1, OK: 1, Failed: 0
+[2026-03-04 16:46:58] Total URLs seen: 523
+[2026-03-04 16:46:58] ============================================================
+[2026-03-04 16:46:58] 
+Next step: fe-ingest.sh /Users/esaruoho/work/merlib-mirror/sites/padrak.com

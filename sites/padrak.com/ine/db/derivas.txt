@@ -1,0 +1,46 @@
+Electromagnetic Generator
+
+ Return to the INE Devices Page 
+ Return to the INE Inventors Page 
+ Return to the INE Interest Ranking Page 
+ Return to the INE Commercial Ranking Page 
+
+ ELECTROMAGNETIC GENERATOR 
+
+See the Database Guidelines file for: 
+Additions, Changes, and Your Supportive Input into the data in these files. 
+
+Device Name: Electromagnetic Generator
+Device Category: Rotat. Magnetic
+Device Type: Over-Unity
+Inventor Name: de Rivas, Villasnor
+Inventor Address: 
+Date First Demo: 
+Watts Generated: 
+Date Last Demo: 
+Watts Generated: 
+% O/U Claimed: 
+% O/U Measured: 
+% Weight Loss: 
+Date Witnessed: 
+Witnesses Name: 
+Witness Address: 
+Date Tested: 
+Tester Name: 
+Tester Address: 
+Researcher Contact: 
+Researcher Address: 
+Ranking, Interest: M
+Ranking, Commercial: M
+References: US Patent 4,006,401.
+Last Ref. & Date: 
+File Name: DERIVAS
+Date Last Modified: 7/23/97
+
+ Return to the INE Devices Page 
+ Return to the INE Inventors Page 
+ Return to the INE Interest Ranking Page 
+ Return to the INE Commercial Ranking Page 
+
+www.padrak.com/ine/db/derivas.html 
+Jul. 31, 1998.

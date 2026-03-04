@@ -1,0 +1,73 @@
+Advanced Electromagnetism Book Review
+
+ Return to the INE Main Page 
+
+ ADVANCED ELECTROMAGNETISM: 
+FOUNDATIONS, THEORY AND APPLICATIONS 
+A Book Review by Hal Fox 
+
+From: NEN, Vol. 4, No. 5, September 1996, pp. 17-19.
+
+New Energy News (NEN) copyright 1996 by Fusion Information Center, Inc. 
+COPYING NOT ALLOWED without written permission. 
+ALL RIGHTS RESERVED.
+
+Terence W. Barrett & Dale M. Grimes, Editors, "Advanced Electromagnetism: Foundations, Theory and Applications", c 1995, World Scientific Publishing Co., Singapore, River Edge, NJ., 791 pages, 26 chapters. 
+
+Terence W. Barrett & Dale M. Grimes, in addition to editing a much needed addition to modernize the science of electromagnetics, have, themselves, written important chapters in this book. Terence W. Barrett presents, "Sagnac Effect: A consequence of conservation of action due to gauge field global conformal invariance in a multiply-joined topology of coherent fields." In simpler terms, Barrett shows us that the three current theoretical explanation of the ring laser gyro (normally using two sets of optical fibers and measuring angular displacement of the gyro by noting the difference in the light that move clockwise and the light moving counterclockwise). The effect is called the Sagnac Effect and is difficult to conceptualize in our complex relativistic world. However, Barrett shows us that Maxwell's equation with the addition of the Yang-Mills theory can explain observed reality. Barrett ends his discussion with the following powerful logical conclusion: Taken to its logical conclusion, the approach adopted here requires that under the special topological conditions described above, and only under those conditions, the photon associated with the Phi* field will acquire mass and propagate as a disturbance of the gravitational metric. Using field conversion, a Phi* field-based mechanism would efficiently propagate energy as well as communications, and penetrate media normally impenetrable to force field photons. 
+
+Dale M. Grimes (co-editor) and Craig A. Grimes (Univ. of Kentucky) provide another interesting chapter: "Classical Field Theory Explanation of Photons." In this discussion it is stated: "It is the primary purpose of this work to show that the classical field equations and our proposed electron model predict low-Q atomic radiation with the kinematic and radiative properties of photons." The authors discuss the shortcomings of, for example, the design of small, efficient antennas. Ultimately they show that certain types of antennas can be efficient radiators contrary to previous equations. At the end of this paper they describe a radiation field that is emitted from a virtual, spherical surface and is photon-like. Their final two sentences are important: If radiation is triggered by an external plane wave, the radiated wave has the same frequency, phase, polarization, and direction of travel as the trigger. In these terms, a photon is fully described by the classical field equations. 
+
+Grimes and Grimes also end the book with "Transmission and Reception of Power by Antennas." In this chapter the authors state that this article includes complete analytical and partial numerical field solutions for the transmission and reception of power. 
+
+Peter Graneau, a long-time friend of this publications, contributes a chapter entitled, "The Newtonian Electrodynamics and its Experimental Foundation." Here again, is the battle against fervent acceptance of the status quo fought with intellectual prowess and experimental proof as Graneau summarizes highlights of his life's work. 
+
+For those who delight in Tom Bearden's engaging presentations of hard-to-understand concepts, the first chapter will be of interest. R. Aldrovania (Institute of Theoretical Physics of the University of Sao Paulo, Brazil) presents, "Gauge Theories, and Beyond." In his conclusions, Aldrovania states: 
+
+The vacuum is trivial for most fields and for this reason quantum effects were looked for. However, one of the novel features of gauge fields is precisely the non-trivial properties of their vacua even at the classical level. It is only natural to try to bring the two approaches together. At the same time, the remaining problems both with gauge theories and General Relativity, suggest that their schemes should be somehow modified, preferably to approach each other. 
+
+This short review cannot cover all of the important concepts housed in this one important volume. The following list of other chapter titles provides an idea of the scope of this book: 
+
+"Helicity and Electromagnetic Field Topology," by G.E. Marsh. 
+
+"Electromagnetic Gauge as Integration Condition: Einstein's Mass-Energy Equivalence Law and Action-Reaction Opposition," by O.C. Beauregard. 
+
+"The Symmetry Between Electricity and Magnetism and the Problem of the Existence of a Magnetic Monopole," by G. Lochak. 
+
+"Quantization as a Wave Effect," by P. Cornille. 
+
+"Twistors in Field Theory," by J. Frauendiener & S.-T. Tsou. 
+
+"Foundational Electrodynamics and Beltrami Vector Fields," by D. Reed. 
+
+"Gravitation as a Fourth Order Electromagnetic Effect," by A.K.T. Assis. 
+
+"Hertzian Invariant Forms of Electromagnetism," by T.E. Phipp Jr. 
+
+"Pancharatnam's Phase in Polarization Optics," by W. Dultz & S. Klein. 
+
+"Frequency-Dependent Dyadic Green Functions for Bianisotropic Media," by W.S. Weiglhofer. 
+
+"Covariances and Invariances of the Maxwell Postulates," by A. Lakhtakia. 
+
+"Solitons and Chaos in Periodic Nonlinear Optical Media and Lasers," by J.-H. Feng & F. K. Kneubuhl. 
+
+"The Balance Equations of Energy and Momentum in Classical Electrodynamics," by J.L. Jimenez & I. Campos. 
+
+"Non-Abelian Stokes Theorem," by B. Broda. 
+
+"Extension of Ohm's Law to Electric and Magnetic Dipole Currents," by H.F. Harmuth. 
+
+"Relativistic Implications in Electromagnetic Field Theory," by M. Sachs. 
+
+"Symmetries, Conservation Laws, and Maxwell's Equations," by J. Pohjanpelto. "Six Experiments with Magnetic Charge," by V.F. Mikhailov. 
+
+"Ampere Force: Experimental Tests," by R. Saumont. 
+
+"Localized Waves and Limited Diffraction Beams," by M.R. Palmer. 
+
+"Analytical and Numerical Methods for Evaluation Electromagnetic Field Integrals Associated with Current-Carrying Wire Antennas," by D. H. Werner. 
+
+To conclude this review, it is important to state that Barrett and Grimes have provided a excellent compendium of papers to support the paradigm shift that is occurring and must occur in physical science if we are to accelerate our understanding of the physical world. The price tag of $124 may seem high, but if you are a professional involved in changing the world to a better one, we highly recommend this book. If you have problems with higher mathematics, then read between the equations. The topics and concepts presented are important and should be carefully reviewed by any who are attempting to more fully understand the nature of electromagnetism. 
+
+ Return to the INE Main Page

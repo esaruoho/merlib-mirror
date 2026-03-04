@@ -1,0 +1,47 @@
+MRA Device S/N 95-3
+
+ Return to the INE Devices Page 
+ Return to the INE Inventors Page 
+ Return to the INE Interest Ranking Page 
+ Return to the INE Commercial Ranking Page 
+
+ MRA DEVICE S/N 95-3 
+
+See the Database Guidelines file for: 
+Additions, Changes, and Your Supportive Input into the data in these files. 
+
+Device Name: MRA Device S/N 95-3
+Device Category: Elect. Magnetic
+Device Type: Over-Unity
+Inventor Name: Taylor, Robert
+Inventor Address: 365 Market Place, Roswell, GA 30075 PO Box 2164,
+ Roswell GA 30075
+Date First Demo: 
+Watts Generated: 
+Date Last Demo: 
+Watts Generated: 1.7EE-6 W
+% O/U Claimed: 620%
+% O/U Measured: 0%
+% Weight Loss: 
+Date Witnessed: 
+Witnesses Name: 
+Witness Address: 
+Date Tested: 
+Tester Name: Robert Emmerich
+Tester Address: 6915 Alogonquin Drive, Loveland, CO 80537
+Researcher Contact: 
+Researcher Address: 
+Ranking, Interest: 1
+Ranking, Commercial: 2
+References: ISNE 1996, pp 415-426.
+Last Ref. & Date: ISNE 1996.
+File Name: TAYLOR
+Date Last Modified: 7/23/97
+
+ Return to the INE Devices Page 
+ Return to the INE Inventors Page 
+ Return to the INE Interest Ranking Page 
+ Return to the INE Commercial Ranking Page 
+
+www.padrak.com/ine/db/taylor.html 
+Jul. 31, 1998.

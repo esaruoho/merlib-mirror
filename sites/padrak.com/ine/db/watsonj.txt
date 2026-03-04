@@ -1,0 +1,46 @@
+Watson
+
+ Return to the INE Devices Page 
+ Return to the INE Inventors Page 
+ Return to the INE Interest Ranking Page 
+ Return to the INE Commercial Ranking Page 
+
+ WATSON 
+
+See the Database Guidelines file for: 
+Additions, Changes, and Your Supportive Input into the data in these files. 
+
+Device Name: Watson
+Device Category: Motor-Generator
+Device Type: Over Unity
+Inventor Name: Watson, Jim
+Inventor Address: Colorado Springs, Cripple Creek Area
+Date First Demo: 1984
+Watts Generated: 12 Kw
+Date Last Demo: 1984
+Watts Generated: 
+% O/U Claimed: 
+% O/U Measured: 
+% Weight Loss: 
+Date Witnessed: 
+Witnesses Name: 1984 Tesla Centenial Symposium
+Witness Address: 
+Date Tested: 
+Tester Name: 
+Tester Address: 
+Researcher Contact: H.W. ""Bill"" Jones
+Researcher Address: PO Box 3704 LaHabra, CA 90632
+Ranking, Interest: 1
+Ranking, Commercial: 2
+References: Manual of Free Energy Devices, SEA/US.
+Last Ref. & Date: 
+File Name: WATSONJ
+Date Last Modified: 7/23/97
+
+ Return to the INE Devices Page 
+ Return to the INE Inventors Page 
+ Return to the INE Interest Ranking Page 
+ Return to the INE Commercial Ranking Page 
+
+www.padrak.com/ine/db/watsonj.html 
+Aug. 25, 1999.

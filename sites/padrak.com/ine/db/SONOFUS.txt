@@ -1,0 +1,47 @@
+Sonofusion Reactor
+
+ Return to the INE Devices Page 
+ Return to the INE Inventors Page 
+ Return to the INE Interest Ranking Page 
+ Return to the INE Commercial Ranking Page 
+
+ SONOFUSION REACTOR 
+ Posted: Oct. 24, 2001 
+
+See the Database Guidelines file for: 
+Additions, Changes, and Your Supportive Input into the data in these files. 
+
+Device Name: Sonofusion Reactor
+Device Catagory: Fusion
+Device Type: Over-Unity
+Inventor Name: Roger Stringham
+Inventor Address: First Gate Energies
+Date First Demo: 2000
+Watts Generated: 2.5 W
+Date Last Demo: current
+Watts Generated: 
+% O/U Claimed: 500%
+% O/U Measured: 500%
+% Weight Loss: 
+Date Witnessed: 
+Witnesses Name: NERL
+Witness Address: 
+Date Tested: 
+Tester Name: 
+Tester Address: 
+Researcher Contact: Eugene Mallove
+Researcher Address: IE Magazine
+Ranking, Interest: 9
+Ranking, Commercial: 8
+References: IE Mag., V6 N36, 2001.
+Last Ref. & Date: IE 2001.
+File Name: SONOFUS
+Date Last Modified: 10/25/2001
+
+ Return to the INE Devices Page 
+ Return to the INE Inventors Page 
+ Return to the INE Interest Ranking Page 
+ Return to the INE Commercial Ranking Page 
+
+www.padrak.com/ine/db/sonofus.html 
+Oct. 24, 2001.

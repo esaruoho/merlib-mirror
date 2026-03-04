@@ -1,0 +1,408 @@
+Review and Status of Reported Innovative Energy Conversion Technologies, Contrasted Using A Consistent R&D Ranking Scale
+
+ Return to the INE Main Page 
+
+ REVIEW AND STATUS OF REPORTED INNOVATIVE ENERGY CONVERSION TECHNOLOGIES, CONTRASTED USING A CONSISTENT R&D RANKING SCALE 
+
+By: Patrick Bailey, Toby Grotz, and James Hurtak 
+
+An updated and revised version of a paper orginally submitted in June 1997 to the 1997 Intersociety Energy Conversion Engineering Conference, the 32nd IECEC, held July 27 - August 1, 1997, in Honolulu, Hawaii. 
+
+Posted to the INE Website with the permission of authors. 
+
+REVIEW AND STATUS OF REPORTED INNOVATIVE ENERGY CONVERSION TECHNOLOGIES, CONTRASTED USING A CONSISTENT R&D RANKING SCALE 
+
+Patrick G. Bailey 
+Institute for New Energy 
+P. O. Box 201 
+Los Altos, CA 94023-0201 
+ ine@padrak.com 
+ www.padrak.com/ine/ 
+
+Toby Grotz 
+Wireless Engineering 
+760 Prairie Avenue 
+Craig, CO 81625 
+ wireless@rmii.com 
+ shell.rmi.net/~wireless 
+
+James J. Hurtak 
+Academy for Future Science 
+P.O. Box FE 
+Los Gatos, CA 95031 
+ affs@affs.org 
+ www.affs.org 
+
+ABSTRACT 
+
+A summary review and status is presented of the experiments, motors, generators, devices, and demonstrations that have been reported in the past several years to produce near-unity or over-unity operation. The concepts of free-energy, zero-point energy, and over-unity devices are not new, and many examples of such devices have been built within the last 100 years. Several devices are reviewed and ranked by a consistent research, development, and commercialization ranking scale. Those devices nearest to commercialization are identified and summarized. Whether new forms of potential energy can be demonstrated and successfully utilized within the near future for the ultimate benefit of the human race remains to be seen. 
+
+INTRODUCTION 
+
+"We Cannot Teach People Anything; 
+&#160;We Can Only Help Them Discover It Within Themselves." 
+&#160;- Galileo Galilei. 
+
+This paper concerns the examination and ranking of experiments, motors, generators, devices, and demonstrations that have been reported in the past several years to produce near-unity or over-unity operation. This means that these devices appear to create more energy than they use. Actually, these are all energy conversion devices that obviously convert energy from some other source into their output energy. As the 'other source' may as yet be unidentified, these devices are not usually examined by the mainstream scientific community. 
+
+An introduction into these concepts and these devices is given in a companion paper [ www.padrak.com/ine/BGH97_1.html ]. 
+
+From that paper: " 'Over-unity Devices' are those systems which appear to produce more energy than they use. In analyzing such systems, a box is drawn around the device and energy balances are formulated to measure the amounts of energy coming into and going out of that box. Whether or not the device is termed an 'over-unity' device will depend upon the size of the box. When the box is drawn large enough, all systems or devices will have a net energy transfer of zero. On the other hand, when the box is drawn just small enough, the device will seem to produce energy out of nothing, and can be said to be an 'over-unity' device - and any intelligent person will know better. " 
+
+Readers of this paper are strongly encouraged to read this other companion paper first, before proceeding with this paper. 
+
+As this work at times appears to be somewhat of a deep spiritual quest, the authors have chosen to pattern the sections of this paper after "The Laws of the Spirit" (Millman, 1995). One of the authors, P. Bailey, is a friend of Mr. Millman, and was on the U.C. Berkeley gymnastics team with Dan during 1963-1967, on the trampoline, for growth and balance. 
+
+ACHIEVING BALANCE 
+
+To Balance: "To deliberate upon by weighing opposing issues." This requires that all of the issues be addressed and considered, especially those that may be most opposed, before deliberation, and before a deliberation can be brought into harmony. 
+
+To review or expound the points of one side of an argument is to debate one side of an issue. To not be familiar with or to not understand the points of the opposite argument is a choice - a very unwise choice. To be familiar with both sides of an issue - and to be able to debate from either side of an issue - provides the balance and clarity necessary to be able to choose the proper course of action. 
+
+THE CHOICES 
+
+We chose to examine ALL of the experiments, motors, generators, devices, and demonstrations that have been reported in the past several years to produce near-unity or over-unity operation or other advanced physics capabilities. This is an important choice, and has produced a very large list. In doing so, we chose to keep track of the theories, the claims, the data, the research, and the often conflicting viewpoints that are being reported on each device of interest. The use of computers and the internet will not make this choice difficult. 
+
+We choose to not always be entirely accurate, and we will be as accurate as we can with all of the information that is made available to us. Additional information will always be welcome. 
+
+We choose to look for the diamonds among the dirt. 
+
+We choose to have most of these devices fail in their claims. We would be content if only 1 out of 100 actually works. 
+
+We choose to keep accurate facts on all of the devices, even the most obvious failures, so that the information is available to others that may not have heard about these devices before. 
+
+We choose to honor all of the researchers and to honestly report all of the data that we have. 
+
+We choose to look forward to the positive results and not let the negative results interfere with or stop our forward progress. 
+
+We choose to assist in the bringing forth of the new technologies that will mark the beginning of a new paradigm of science for our use and growth. 
+
+THE PROCESS 
+
+"We Rise To Great Heights By A Winding Staircase" 
+&#160;- Francis Bacon. 
+
+A large database spreadsheet is being used to store all of the information for each device. Each separate device is represented by one row in this database and all of the data that is made available for each device is summarized in that row. The data that is currently available for each device in the database columns include: 
+
+ Device Name or Inventor 
+ Category 
+ Device Type 
+ Inventor Name 
+ Inventor Address 
+ Date First Demonstrated 
+ Watts Generated 
+ Date Last Demonstrated 
+ Watts Generated 
+ % O/U Claimed (O/U: Over-Unity) 
+ % Weight Loss Claimed 
+ Date Witnessed 
+ Witnesses Name 
+ Witness Address 
+ Date Tested 
+ Tester Name 
+ Tester Address 
+ % O/U Measured 
+ % Weight Loss Measured 
+ Researcher Contact 
+ Researcher Address 
+ Ranking, Commercialization 
+ Ranking, Interest 
+ References 
+ Last Reference 
+ Comments 
+ File Name for the INE Website 
+
+These data groups are self-explanatory. 
+
+Other columns of data will be added as necessary to provide the capability of storing all of the summary data available. 
+
+In those cases where an inventor may not want to disclose his or her real name, personal information, or even the actual name of the device, psudonames are used and arrangements are made to communicate through designated contact personnel. 
+
+The ranking criteria are described below. 
+
+The file name entry is used by a computer code that automatically generates a HTML file website page with all of this data for each device in the database, and stores that file as a link in the INE website, and as a separate page as the Devices Listing (listed alphabetically by the device names) at: www.padrak.com/ine/db/devices.html . 
+
+These device pages are also available as links on pages that sort the device names by their 'Interest Ranking' and their 'Commercialization Ranking', at: www.padrak.com/ine/db/devices_i.html and www.padrak.com/ine/db/devices_c.html , respectively. 
+
+As this information becomes more and more utilized by researchers world-wide, all the additional information received on each device will be reviewed, evaluated, and placed into the database, and all of the website files will be recreated and posted periodically onto the internet. 
+
+THE PRESENCE TO GATHER THE DATA 
+
+The data for each device are being gathered from the promoters and the critics alike. As reviewers, we do not add any bias to the information and data that is received. It is very important that all points of view on each device be made available. 
+
+Requests for this information has been made and will continue to be made at meetings, at conferences, by letter, by email, and on various website pages. 
+
+All summary data includes the name and location and source of the data. 
+
+It is always hoped that the data received is truthful. However, experience has shown that many researchers intentionally bias their data to promote their own point-of-view. By posting all of the data received and by including the names and sources of the data, any questions and arguments about the validity of the data soon become apparent, and any open questions are usually resolved fairly quickly. Those questions not resolved will remain open until additional information and data are made available to close each open question. 
+
+COMPASSION TO RANK THE DEVICES 
+
+We choose to rank all the devices based upon only the information we have available in order to show the status of our work and to stimulate both the promoter and the critic to provide additional information and data on each device. 
+
+By this process, we are being open to receive all information on any device, and we are remaining fair to all sides of all issues. 
+
+We are using two separate ranking systems to rank all of the devices in the database: 
+
+ Ranking by Interest Criteria (Table 1) 
+
+ Ranking by Commercialization Criteria (Table 2) 
+
+Although similar in scope, these separate criteria were chosen to represent different viewpoints of the devices being studied. 
+
+Ranking By Interest 
+
+The ranking by interest focuses on the status of the known data of the device and the possible implications that would result from the successful operation of that device. In this ranking, a higher emphasis may be placed upon the implications than on the data. 
+
+A 13 point ranking scale index has been formed to rank the devices into six sections based on their current level of interest: listed in Table 1. This index ranks each device in sections from the 'Lowest Interest' to the 'Highest Interest', and includes a section for 'More Information Is Needed' [ www.padrak.com/ine/db/DBGUIDE.html.html ]. 
+
+TABLE 1. INTEREST RANKING INDEX FOR TRACKING ADVANCED ENERGY CONVERSION DEVICES 
+
+0 to 10, with an I and a N; as follows: 
+
+MORE INFORMATION IS NEEDED 
+&#160;N - No Information. 
+&#160;I - Incomplete: Not Enough Information. 
+
+LOWEST INTEREST 
+&#160;0 - Not Substantiated. 
+&#160;1 - Evidence That It May Be Not Substantiated 
+
+LOW INTEREST 
+&#160;2 - Being Researched By Only One Person. 
+&#160;3 - Something Unusual Was Demonstrated By One Person. 
+
+MEDIUM INTEREST - New Physics, Small Impact; or: 
+&#160;4 - That Something Was Again Demonstrated 
+&#160;&#160;&#160;&#160;&#160;By One Person. 
+&#160;5 - That Something Was Again Demonstrated And 
+&#160;&#160;&#160;&#160;&#160;Witnessed By Others. 
+
+HIGH INTEREST - New Physics, Large Impact; or: 
+&#160;6 - That Something Was Replicated By Another. 
+&#160;7 - The Operational Techniques And Measurements 
+&#160;&#160;&#160;&#160;&#160;Are Being Refined. 
+&#160;8 - The Phenomena Is Repeatable. 
+
+HIGHEST INTEREST - New Physics, Great Impact; or: 
+&#160;9 - The Device Seems To Be Scaleable To A Larger Size. 
+10 - A Larger Size Prototype Seems To Be Proven. 
+
+The ranking of devices based upon this interest index is summarized in a companion paper [ www.padrak.com/ine/BGH97_1.html ]. The full listing of all devices ranked by these interest rankings is avaiable at www.padrak.com/ine/db/devices_i.html . 
+
+Ranking By Commercialization 
+
+A similar yet separate 13 point ranking index has been formed to rank the devices into eleven sections based on their current level of commercialization: listed in Table 2 [ www.padrak.com/ine/db/DBGUIDE.html.html ]. The focus of this ranking index is the ability of researchers to repeat, scale-up, or commercialize the device. This index includes devices from those that are 'Found To Be Lies', i.e. they really do not work as advertised, to devices that have already passed scaled-up prototype tests, are 'Proven. Commercialization Is Now Possible', and ready for use in the world-wide market today. 
+
+TABLE 2. COMMERCIALIZATION RANKING INDEX FOR TRACKING ADV. ENERGY CONVERSION DEVICES: 
+
+0 to 10, with an I and a N; as follows: 
+
+&#160;N - No Information. 
+&#160;I - Incomplete: Not Enough Information. 
+
+&#160;0 - Found To Be Lies. 
+&#160;1 - Evidence That It May Be Lies. 
+&#160;2 - Being Researched By Only One Person. 
+&#160;3 - Something Unusual Was Demonstrated By One Person. 
+&#160;4 - That Something Was Again Demonstrated 
+&#160;&#160;&#160;&#160;&#160;By One Person. 
+&#160;5 - That Something Was Again Demonstrated And 
+&#160;&#160;&#160;&#160;&#160;Witnessed By Others. 
+&#160;6 - That Something Was Replicated By Another. 
+&#160;7 - The Operational Techniques And Measurements 
+&#160;&#160;&#160;&#160;&#160;Are Being Refined. 
+&#160;8 - The Device Works: The Phenomena Is Repeatable. 
+&#160;9 - The Device Can Be Scaled To A Larger Size. 
+10 - Proven Prototype. Commercialization Is Now Possible. 
+
+FAITH FOR CHANGES AND ADVANCES 
+
+"Faith Dares The Soul To Go Farther Than It Can See." 
+&#160;- William Clarke. 
+
+We have faith that both the promoters and the critics will provide additional information, and will change or update their information and data based upon the input received from others. In this manner, the status of each device will be held in balance by all points of view, and an accurate representation of the capabilities of that device will emerge. 
+
+EXPECTATIONS 
+
+"Our Lives Are Shaped Not As Much By Our Experience, As By Our &#160;Expectations." 
+&#160;- George Bernard Shaw. 
+
+We expect to be successful in this project. 
+
+We expect to find out the truth about each device. 
+
+We do not have any expectations about the capabilities or usefulness of any particular device. 
+
+And, we expect the critics to be as active in this process as the promoters, for each device. 
+
+Most importantly, we do not expect to be judged or rewarded by the number of successful devices that are eventually found. We expect to find most if not all of the devices studied to not perform up to the capabilities that the promoter may advertise. In this process, we will also find new methods and techniques that will be of benefit to existing technology. 
+
+It is important to document and list the failures. 
+
+It is important to expect that any day, one device will actually work and perform as advertised. One success will more than balance out all of the failures. 
+
+INTEGRITY 
+
+We will continue to be complete and honest in the reporting of the data that we receive. 
+
+It is hoped that both the promoters and the critics will be as honest in their documentation and submittals. 
+
+When two parties reach opposing points of view on question that does not resolve itself, then the integrity of others is called upon to provide the additional data needed to resolve the question. 
+
+It is interesting to note that most people seem to have and exhibit an open and honest truthfulness or integrity within themselves. For some, this trait seems to be learned faster than in others. Also, some people seem to never learn this trait. It is important that we continue to not allow those without integrity to get in the way or spoil the efforts of those who do have the integrity to contribute and work in these efforts. 
+
+ACTION 
+
+"You Can't Cross The Sea 
+&#160;Merely By Staring At The Water." 
+&#160;- Rabindranath Tagore. 
+
+Thinking about this is not enough! We have to do something to support one another and move this effort forward! 
+
+Several organizations from all over the world are now cooperating and exchanging information in this project and related efforts! (Bailey, Grotz, and Hurtak, 1997) 
+
+The internet has made information transfer fast, cheap - and by way of review - accurate! 
+
+We should be willing to move forward and confront the issues, and not to stand back and be afraid to 'cause trouble', 'make waves', or 'be confrontive.' Of course we want to be confrontive! With integrity! 
+
+The only reason that you will do anything is because: YOU SAID SO! 
+
+We will accept all support and assistance that anyone wishes to provide us this important work. 
+
+REVIEWS AND CYCLES 
+
+The Truth Is Out There: Let's Find It! 
+
+A key in the integrity of this work is the ability to expect and accept additional information, conflicting reviews, and cyclic input. We expect this; we have seen this; and we need this. 
+
+For each device: "The truth is out there." For most of the devices studied, we expect 'THE TRUTH' to be somewhere in between the most positive and the most negative information. 
+
+Periodic updates of the device webpages will continue to provide the ability for additional reviews and cycles of understanding, confronting, additional data, input, and the resolution of all open questions that arise for each device. 
+
+A review of the devices in the database as ranked by the Commercialization Index (Table 2) as of June 1997 is given in Table 3. In the interest of space, only the top and most interesting sections of the ranking list are included in Table 2. The entire list ranked in this manner may be found at: www.padrak.com/ine/db/devices_c.html . 
+
+The US Patent Office and 'National Security' 
+
+It is important to include here a summary observation of the review process that is made when a researcher or an inventor submits his idea or device to the official US Patent Office. In our opinion, our country is in a cycle whereby the needs of 'National Security' far outweigh the needs or rights of the individual, or any citizen. From our research, we make the following observations: 
+
+(1) All US Patent requests are first submitted to five separate review boards, each representing a separate US Military Service. 
+
+(2) If ANY of these five review boards feels that a submitted device will be of benefit to the support of the 'National Defense' or the 'National Security' of the United States Federal Government, then, 
+
+(3) THAT PATENT WILL BE REMOVED FROM THE PATENT OFFICE REVIEW PROCESS AND WILL BE CLASSIFIED! 
+
+(4) The inventor will then be notified that his patent project has been classified, by: 
+
+(5) SECRECY ORDER (Title 35, United States Code (1952), sections 181-188): " You are hereby notified that your application as above identified has been found to contain subject matter, the unauthorized disclosure of which might be detrimental to the national security, and you are ordered in nowise to publish or disclose the invention or any material information with respect thereto, including hitherto unpublished details of the subject matter of said application, in any way to any person not cognizant of the invention prior to the date of the order, including any employee of the principals, but to keep the same secret except by written consent first obtained of the Commissioner of Patents, under the penalties of 35 U.S.C. (1952) 182, 186. " 
+
+The entire Secrecy Order (Title 35, United States Code (1952), sections 181-188) is available on the internet at: www.padrak.com/ine/INE14.html . Read it! 
+
+As many , if not ALL, of these devices listed in Table 3 may also be of use to the US Military in the interest of 'National Security', then the idea to file for a US Patent for ANY of these devices MAY NOT BE A GOOD IDEA! 
+
+Several successful products on the market today never applied for a US Patent; they obtained a trade mark or a licensing agreement instead (e.g. Coca-Cola)! This may be a legal avenue to pursue instead, within the US. Several inventors, aware of these facts, have obtained patents in other countries first, putting the information into the public domain internationally, before later applying the to US Patent Office. At present, it is not clear to us what path will allow a device to easily become available. 
+
+It is also to be remembered that many aspects of the financial structure of the US Federal Government and the (so-called) Federal Reserve Bank (Figgie, H. E. Jr., 1992) have also been CLASSIFIED in the interests of 'National Security', as well as have many other internal banking matters, mostly by Presidential Executive Order. As over one-half of all of the oil that is now consumed in the US is imported, any attempts to reduce the flow of imported oil into the US may be met with 'official resistance'. It seems that the problem lies not with the oil producers, who would like to conserve and replace their oil with alternate energy conversion production facilities, but rather with the oil importers. This is a very serious matter and deserves serious attention. 
+
+SURRENDER AND EXPANDED AWARENESS 
+
+"Some Think That It Is Holding On 
+&#160;That Makes One Strong; 
+&#160;Sometimes It's Letting Go." 
+&#160;- Sylvia Robinson. 
+
+By letting go of some of our preconceived ideas and closely held beliefs, it is clearly seen that several of these innovative energy conversion devices are now ready and able to make a significant difference in the world TODAY! And: Other devices may not be so far behind as we think! 
+
+Let us surrender our old and limiting perspective that "nothing new is possible." 
+
+Understand that: 
+
+IF IT IS REALLY NEW - 
+OF COURSE YOU WON'T UNDERSTAND IT! 
+
+That's why it's new! 
+
+It doesn't matter if you can understand it!!! 
+All that matters is that it really works! - 
+
+And that it is not more dangerous to ourselves and our environment than the existing technologies it would replace. 
+
+The understanding of what it may be and how it may work will come later - as it has with all inventions and with all past advances in science and technology [ www.padrak.com/ine/FABFACTS.html ]. 
+
+Let us include the expanded awareness that such 'new' devices are possible, are being advertised, may be here, and others may be ready for commercialization very soon! 
+
+UNITY OF PURPOSE 
+
+Scientific devices that have come into the world and that have been successful have one common aspect: They all required the people associated with them to have a 'Unity of Purpose' to see the device come forth from the idea stage, to the experiment stage, to the working device stage, the larger prototype stage, and finally into the commercialization stage. 
+
+Several devices that evidently were successfully demonstrated to interested researchers seemed to have died with their inventor, due to a lack of this unity of purpose. Examples include: Nikola Tesla, T. Henry Moray, Townsend Brown, Lester Hindershot, and Hans Coler. These are examples where, at the time, the greed of the industry or of the political climate was larger than the perceived benefits of each device. 
+
+Today, there are several devices that have been presented and/or demonstrated for years, and all research has stopped, only because the inventors demand a huge sum of money and refuse to work with others who will assist them. In such cases, we wonder: What is their real purpose? 
+
+Our purpose is to gather the data on all the devices possible, to review that data, allow conflict, change, and resolution, and with integrity find out and report the truth about each of these devices. 
+
+CONCLUSIONS 
+
+A summary review and status is presented of the experiments, motors, generators, devices, and demonstrations that have been reported in the past several years to produce near-unity or over-unity operation. A database has been formed and will be continually updated that contains a summary of all of the information we receive on each of the devices. The database information is being made available on the internet for review, constructive feedback, and closure. 
+
+All the devices in the June 1997 database have been reviewed and ranked by a consistent research, development, and commercialization ranking scale. Those devices nearest to commercialization are identified and summarized. 
+
+All of the factors that are required to bring any new device into successful commercial operation have been described. 
+
+The US Patent Office and the US Federal Government may be interested in not allowing some or all of these new technologies into the public domain for 'National Security' or 'other' reasons. 
+
+Whether new forms of potential energy can be demonstrated and successfully utilized within the near future for the ultimate benefit of the human race remains to be seen. 
+
+We are all desperately looking for the next big breakthrough in modern physics to assist us in solving the escalating energy and environmental crises! 
+
+Do something to promote and encourage the continuation of these researchers and these works! If you don't do it, who will? If not now, when? 
+
+ACKNOWLEDGMENTS 
+
+The authors gratefully acknowledge these and many other researchers, scientists, and skeptics that have contributed serious open research and documentation to boldly advance science and technology for the benefit of the human race. 
+
+REFERENCES 
+
+AFS, Academy for Future Sciences, PO Box FE, Los Gatos, CA 95031. [ www.affs.org ] 
+
+Bailey, P., and Grotz, T., "A Critical review of the Available Information Regarding Claims of Zero-Point Energy, Free-Energy, and Over-Unity Experiments and Devices," 28th IECEC, August 1993. [ www.padrak.com/ine/INE21.html ] 
+
+Bailey, P., Grotz, T., and Hurtak, J., "Survey And Critical Review Of Recent Innovative Energy Conversion Technologies." [ www.padrak.com/ine/BGH97_1.html ] 
+
+Davis, Barry, "Blue Energy International, Nova Energy Ltd., Tidal Power Now! Executive Summary", 1100 Harwood Street, No. 607, Vancouver, BC, Canada V6E 1R7, 1996. Martin_Burger@mindlink.bc.ca & www.3dvisions.com/webpages/nova.htm . 
+
+Figgie, H. E. Jr., Bankruptcy 1995: The Coming Collapse of America and How to Stop It, Little, Brown and Company, US and Canada, 1992. 
+
+INE, Institute for New Energy, P.O. Box 58639, Salt Lake City, UT 84158-8639, $35.00/yr. [ www.padrak.com/ine/ ] 
+
+INE Authors: www.padrak.com/ine/AUTHORS.html . 
+
+INE Devices: www.padrak.com/ine/db/devices.html . 
+
+INE Subjects: www.padrak.com/ine/SUBJECTS.html . 
+
+INE Website: www.padrak.com/ine/ . 
+
+INE Websites (Of Related Subjects): www.padrak.com/ine/WEBSITES.html . 
+
+ISNE, Proceedings of the International Symposium on New Energy, April 16-18, 1993: International Association for New Science (IANS), 1304 South College Avenue, Fort Collins, CO 80524; (303) 482-3731, $45.00. [ www.padrak.com/ine/INE4.html ] 
+
+ISNE, 1994, $50.00. [ www.padrak.com/ine/INE5.html ] 
+
+ISNE, 1996, $50.00. [ www.padrak.com/ine/ISNE_96TOC.html ] 
+
+ISNE, 1997, $50.00. [ www.padrak.com/ine/ISNE_97TOC.html ] 
+
+MacNeill, Ken, "Insights Into The Proprietary Syndrome", Proceedings of the Second International Symposium on Non-Conventional Energy Technology, pp. 125-126, Sept. 1983. [ www.padrak.com/ine/INE14.html ] 
+
+Millman, D., The Laws of the Spirit, H. J. Kramer Inc., P.O. Box 1082, Tiburon, CA 94920, 1995. 
+
+"New Energy News", PO Box 58639, Salt Lake City, UT 84158-8639. Large monthly newsletter free to INE members. 
+Past Issues and TOCs: www.padrak.com/ine/INE8.html . 
+
+"Security Order (Title 35, United States Code (1952), Sections 181-188), www.padrak.com/ine/INE14.html . 
+
+ Return to the INE Main Page 
+
+www.padrak.com/ine/BGH97_2.html 
+Oct. 20, 1997.

@@ -1,0 +1,47 @@
+Lutec 1000
+
+ Return to the INE Devices Page 
+ Return to the INE Inventors Page 
+ Return to the INE Interest Ranking Page 
+ Return to the INE Commercial Ranking Page 
+
+ LUTEC 1000 
+ Posted: Oct. 24, 2001 
+
+See the Database Guidelines file for: 
+Additions, Changes, and Your Supportive Input into the data in these files. 
+
+Device Name: Lutec 1000
+Device Catagory: Rotat. Magnetic
+Device Type: Over-Unity
+Inventor Name: Lou Brits and John Christie
+Inventor Address: Cairns, Australia
+Date First Demo: 2000
+Watts Generated: 24 kW
+Date Last Demo: Sept. 2001
+Watts Generated: 
+% O/U Claimed: Yes.
+% O/U Measured: No.
+% Weight Loss: 
+Date Witnessed: 
+Witnesses Name: 
+Witness Address: 
+Date Tested: Sept. 2001
+Tester Name: Walter Rosenthal
+Tester Address: INE
+Researcher Contact: Bruce Meland
+Researcher Address: http://www.electrifyingtimes.com 
+Ranking, Interest: 3
+Ranking, Commercial: 1
+References: El. Times, V8, N3.
+Last Ref. & Date: 
+File Name: LUTEC
+Date Last Modified: 10/25/2001
+
+ Return to the INE Devices Page 
+ Return to the INE Inventors Page 
+ Return to the INE Interest Ranking Page 
+ Return to the INE Commercial Ranking Page 
+
+www.padrak.com/ine/db/lutec.html 
+Oct. 24, 2001.

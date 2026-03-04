@@ -1,0 +1,46 @@
+Magnicogenerator
+
+ Return to the INE Devices Page 
+ Return to the INE Inventors Page 
+ Return to the INE Interest Ranking Page 
+ Return to the INE Commercial Ranking Page 
+
+ MAGNICOGENERATOR 
+
+See the Database Guidelines file for: 
+Additions, Changes, and Your Supportive Input into the data in these files. 
+
+Device Name: Magnicogenerator
+Device Category: Electr. Magnetic
+Device Type: Over Unity
+Inventor Name: Perrigo, Joeseph or Harry
+Inventor Address: Deceased.
+Date First Demo: 1919
+Watts Generated: 1600 W
+Date Last Demo: unknown
+Watts Generated: 
+% O/U Claimed: infinite
+% O/U Measured: 
+% Weight Loss: 
+Date Witnessed: 1919
+Witnesses Name: Russell P. Howard
+Witness Address: Phoenix, AZ (deceased)
+Date Tested: 
+Tester Name: 
+Tester Address: 
+Researcher Contact: 
+Researcher Address: 
+Ranking, Interest: N
+Ranking, Commercial: N
+References: Burridge, Gaston, Physic Observer undated photo copy.
+Last Ref. & Date: 
+File Name: PERRIGO
+Date Last Modified: 7/31/98
+
+ Return to the INE Devices Page 
+ Return to the INE Inventors Page 
+ Return to the INE Interest Ranking Page 
+ Return to the INE Commercial Ranking Page 
+
+www.padrak.com/ine/db/perrigo.html 
+Jul. 31, 1998.

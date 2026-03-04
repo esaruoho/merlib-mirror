@@ -1,0 +1,46 @@
+Stevens Generator
+
+ Return to the INE Devices Page 
+ Return to the INE Inventors Page 
+ Return to the INE Interest Ranking Page 
+ Return to the INE Commercial Ranking Page 
+
+ STEVENS GENERATOR 
+
+See the Database Guidelines file for: 
+Additions, Changes, and Your Supportive Input into the data in these files. 
+
+Device Name: Stevens Generator
+Device Category: Electr. Magnetic
+Device Type: Over Unity
+Inventor Name: Mark, Stephen
+Inventor Address: 7435 Hummingbird Lane, Anaheim Hills, CA 92808
+Date First Demo: circa 1992
+Watts Generated: 1000 W
+Date Last Demo: circa 1996
+Watts Generated: 100 W Claim
+% O/U Claimed: infinite
+% O/U Measured: 0
+% Weight Loss: 
+Date Witnessed: 1992-1996
+Witnesses Name: confidential
+Witness Address: 
+Date Tested: 
+Tester Name: confidential
+Tester Address: 
+Researcher Contact: 
+Researcher Address: 
+Ranking, Interest: 5
+Ranking, Commercial: 2
+References: Video Tape, Inventor Profile on the World Wide Web.
+Last Ref. & Date: Video 1997.
+File Name: MARK
+Date Last Modified: 7/23/97
+
+ Return to the INE Devices Page 
+ Return to the INE Inventors Page 
+ Return to the INE Interest Ranking Page 
+ Return to the INE Commercial Ranking Page 
+
+www.padrak.com/ine/db/mark.html 
+Jul. 31, 1998.

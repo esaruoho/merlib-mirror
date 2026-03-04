@@ -1,0 +1,62 @@
+[13:37:41] MERLib Mirror worker starting
+[13:37:41] Mirroring the Internet's Modern Energy Research into a Library
+[13:37:41] Repo: /Users/esaruoho/work/merlib-mirror
+[13:37:41] Mirror engine: /Users/esaruoho/work/merlib-mirror/mirror.py
+[13:37:41] Output: /Users/esaruoho/work/merlib-mirror/sites
+
+[13:37:42] ━━━ MERLib Mirror — New job ━━━━━━━━━━━━━━━━
+[13:37:42] Domain: riess.org
+[13:37:42] Mode:   wayback
+[13:37:42] Target: riess.org
+[13:37:42] Running: python3 /Users/esaruoho/work/merlib-mirror/mirror.py wayback riess.org --resume --output-dir /Users/esaruoho/work/merlib-mirror/sites
+[2026-03-04 13:37:42] ============================================================
+[2026-03-04 13:37:42] WAYBACK MIRROR: riess.org
+[2026-03-04 13:37:42] Output: /Users/esaruoho/work/merlib-mirror/sites/riess.org
+[2026-03-04 13:37:42] Delay: 1.0s
+[2026-03-04 13:37:42] ============================================================
+[2026-03-04 13:37:42] Resuming: phase=init, 0 already done
+[2026-03-04 13:37:42] 
+=== PHASE 1: URL Discovery ===
+[2026-03-04 13:37:42] Querying CDX for riess.org...
+[2026-03-04 13:37:53]   Found 82 URLs for riess.org
+[2026-03-04 13:37:53] Querying CDX for www.riess.org...
+[2026-03-04 13:38:20]   Found 82 URLs for www.riess.org
+[2026-03-04 13:39:33] Total unique valid URLs: 82
+[2026-03-04 13:39:33]   text/html: 52
+[2026-03-04 13:39:33]   text/css: 10
+[2026-03-04 13:39:33]   text/javascript: 9
+[2026-03-04 13:39:33]   image/gif: 7
+[2026-03-04 13:39:33]   application/javascript: 4
+[2026-03-04 13:39:33] 
+=== PHASE 2: Downloading ===
+[2026-03-04 13:40:16] [4/82] FAIL https://riess.org/cdn/shop/t/7/assets/base.css
+[2026-03-04 13:41:11] [5/82] FAIL https://riess.org/cdn/shop/t/7/assets/base.css?v=202320770793010848416
+[2026-03-04 13:43:14] [6/82] FAIL https://riess.org/cdn/shop/t/7/assets/component-list-social.css
+[2026-03-04 13:43:47] [7/82] FAIL https://riess.org/cdn/shop/t/7/assets/component-list-social.css?v=7368
+[2026-03-04 13:44:45] [8/82] FAIL https://riess.org/cdn/shop/t/7/assets/component-newsletter.css
+[2026-03-04 13:45:41] [9/82] FAIL https://riess.org/cdn/shop/t/7/assets/component-newsletter.css?v=71305
+[2026-03-04 13:46:32] [10/82] FAIL https://riess.org/cdn/shop/t/7/assets/details-modal.js
+[2026-03-04 13:47:29] [11/82] FAIL https://riess.org/cdn/shop/t/7/assets/details-modal.js?v=2823698460638
+[2026-03-04 13:48:54] [12/82] FAIL https://riess.org/cdn/shop/t/7/assets/global.js
+[2026-03-04 13:49:54] [13/82] FAIL https://riess.org/cdn/shop/t/7/assets/global.js?v=13018926706196956659
+[2026-03-04 13:50:45] [14/82] FAIL https://riess.org/cdn/shop/t/7/assets/newsletter-section.css
+[2026-03-04 13:51:37] [15/82] FAIL https://riess.org/cdn/shop/t/7/assets/newsletter-section.css?v=1087066
+[2026-03-04 13:53:38] [16/82] FAIL https://riess.org/cdn/shop/t/7/assets/password-modal.js
+[2026-03-04 13:55:00] [17/82] FAIL https://riess.org/cdn/shop/t/7/assets/password-modal.js?v=779219355310
+[2026-03-04 13:55:47] [18/82] FAIL https://riess.org/cdn/shop/t/7/assets/section-password.css
+[2026-03-04 13:56:18] [19/82] FAIL https://riess.org/cdn/shop/t/7/assets/section-password.css?v=171994550
+[2026-03-04 13:57:46] [21/82] FAIL https://riess.org/cdn/shopifycloud/shopify/assets/storefront/load_feat
+[2026-03-04 13:58:49] [22/82] FAIL https://riess.org/cdn/shopifycloud/shopify/assets/storefront/load_feat
+[2026-03-04 13:59:50] [23/82] FAIL https://riess.org/checkouts/internal/preloads.js
+[2026-03-04 14:00:27] [24/82] FAIL https://riess.org/checkouts/internal/preloads.js?locale=en-FI
+[2026-03-04 14:01:30] [25/82] FAIL https://riess.org/checkouts/internal/preloads.js?locale=en-FR
+[2026-03-04 14:04:47] [31/82] OK collections/frontpage.html (56,648b) @20211028
+[2026-03-04 14:07:08] [33/82] FAIL https://riess.org/collections/well-another-collection
+[2026-03-04 14:08:35] [35/82] FAIL http://www.riess.org:80/earth_water.html
+[2026-03-04 14:10:40] [42/82] FAIL http://www.riess.org:80/mission.html
+[2026-03-04 14:11:58] [43/82] FAIL http://www.riess.org:80/mystery.html
+[2026-03-04 14:12:18] [45/82] OK newhg.html (1,060b) @20231015
+[2026-03-04 14:13:27] --- Progress: 50/82 (60%) | New: 25 | Rate: 1/min ---
+[2026-03-04 14:15:21] [55/82] OK products/inspiration-display-starter-kit.html (86,879b) @20201128
+Done                       python3 "$MIRROR_PY" "${mirror_args[@]}" 2>&1 | tee "$REPO_DIR/sites/$domain/_mirror_worker.log" 2> /dev/null
+[14:16:25] ERROR: mirror.py failed for riess.org

@@ -1,0 +1,46 @@
+Energy Conserver Circuit
+
+ Return to the INE Devices Page 
+ Return to the INE Inventors Page 
+ Return to the INE Interest Ranking Page 
+ Return to the INE Commercial Ranking Page 
+
+ ENERGY CONSERVER CIRCUIT 
+
+See the Database Guidelines file for: 
+Additions, Changes, and Your Supportive Input into the data in these files. 
+
+Device Name: Energy Conserver Circuit
+Device Category: Elect. Magnetic
+Device Type: Over-Unity
+Inventor Name: Cobb, Melvin
+Inventor Address: 239 East 69th Way, North Longbeach, CA 90805
+Date First Demo: circa 1990
+Watts Generated: 
+Date Last Demo: 1994
+Watts Generated: 
+% O/U Claimed: 120%
+% O/U Measured: 
+% Weight Loss: 
+Date Witnessed: 
+Witnesses Name: 
+Witness Address: 
+Date Tested: 4/27/96
+Tester Name: Emmerich/Grotz
+Tester Address: 6915 Alogonquin Drive, Loveland, CO 80537
+Researcher Contact: J.J. Hurtak
+Researcher Address: PO Box FE, Los Gatos, CA 95030
+Ranking, Interest: 1
+Ranking, Commercial: 2
+References: ISNE 1994, pp 97-108. ISNE 1996, pp129-140.
+Last Ref. & Date: ISNE 1994.
+File Name: COBB
+Date Last Modified: 7/23/97
+
+ Return to the INE Devices Page 
+ Return to the INE Inventors Page 
+ Return to the INE Interest Ranking Page 
+ Return to the INE Commercial Ranking Page 
+
+www.padrak.com/ine/db/cobb.html 
+Jul. 31, 1998.
