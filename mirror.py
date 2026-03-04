@@ -881,19 +881,41 @@ def run_live(url, seeds_file=None, delay=None, max_pages=None, output_base=None)
         if depth > max_depth:
             continue
 
-        # Download the page
-        content, ct, ok = fetch_url(page_url, timeout=30, retries=1)
-        downloaded_count += 1
-
-        if not ok or not content:
-            failed_urls.append(page_url)
-            if downloaded_count % 20 == 0:
-                log(f"  [{downloaded_count}] {ok_count} OK, {len(failed_urls)} failed, {len(queue)} queued")
-            time.sleep(_current_delay)
+        # Strip fragments — they're the same page
+        page_url = urllib.parse.urldefrag(page_url)[0]
+        if page_url in seen and page_url != url:  # dedup after defrag
             continue
 
-        save_page(page_url, content)
-        ok_count += 1
+        # Skip if already downloaded on disk
+        local_path = os.path.join(output_dir, sanitize_path(page_url))
+        if os.path.exists(local_path) and os.path.getsize(local_path) > 0:
+            ok_count += 1
+            downloaded_count += 1
+            # Still extract links from cached HTML
+            try:
+                with open(local_path, 'rb') as f:
+                    cached = f.read()
+                ct_guess = 'text/html' if local_path.endswith(('.html', '.htm')) else ''
+                content, ct, ok = cached, ct_guess, True
+            except Exception:
+                continue
+            # Fall through to link extraction below
+        else:
+            # Download the page
+            content, ct, ok = fetch_url(page_url, timeout=30, retries=1)
+            downloaded_count += 1
+
+            if not ok or not content:
+                failed_urls.append(page_url)
+                if downloaded_count % 20 == 0:
+                    log(f"  [{downloaded_count}] {ok_count} OK, {len(failed_urls)} failed, {len(queue)} queued")
+                    if failed_urls:
+                        log(f"    last fail: {failed_urls[-1]}")
+                time.sleep(_current_delay)
+                continue
+
+            save_page(page_url, content)
+            ok_count += 1
 
         # Determine label for logging
         under_seed = is_under_seed_path(page_url)
@@ -911,6 +933,7 @@ def run_live(url, seeds_file=None, delay=None, max_pages=None, output_base=None)
                 extractor.feed(html)
                 new_count = 0
                 for link in extractor.links:
+                    link = urllib.parse.urldefrag(link)[0]
                     if link in seen:
                         continue
                     if should_skip_url(link, domain):
