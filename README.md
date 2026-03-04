@@ -4,6 +4,16 @@
 
 Using the Wayback Machine and other tools to preserve rare websites from the most experimental physicists, professors, experimenters, electrical engineers, students, inventors, and innovators — retaining this combined knowledge for future generations.
 
+### Why this exists
+
+Websites disappear. Servers go offline. Domains expire. Researchers die and their life's work vanishes from the internet. In fields like LENR, zero-point energy, electrogravitics, and advanced electromagnetic research, this happens constantly — small personal sites run by physicists, engineers, and independent researchers simply stop resolving one day, and decades of experimental data, papers, circuit diagrams, and correspondence are gone.
+
+This tool exists to prevent that loss. It systematically archives these sites — from the Wayback Machine when they're already gone, or directly when they're still live but at risk — so that the next generation of researchers doesn't have to start from scratch.
+
+The value isn't just preservation. It's discovery. Most people working in these fields don't know that sites like cheniere.org, riess.org, or amasci.com existed, let alone what they contained. By mirroring and indexing this material, we make it findable. A researcher studying Moray's radiant energy work can stumble into Tesla's longitudinal wave experiments, or Puthoff's zero-point papers, or Shoulders' charge cluster documentation — connections that would never happen if each site lived and died in isolation.
+
+This is a library project, not piracy. We're preserving publicly-available scientific research, experimental data, and educational material that is actively disappearing from the web. The same work that archive.org does, focused on a field where the stakes are highest because the material exists nowhere else.
+
 ## How It Works
 
 MERLib Mirror is a queue-based mirroring daemon. Submit a domain or URL, and the worker fetches a complete site archive using the bundled [Unified Mirror Engine](MIRROR-ENGINE.md) (`mirror.py`). Results are committed and pushed to this repo so they're accessible from anywhere.
