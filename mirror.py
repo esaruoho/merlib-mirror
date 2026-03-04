@@ -862,6 +862,7 @@ def run_live(url, seeds_file=None, delay=None, max_pages=None, output_base=None)
             continue
 
         pages_crawled += 1
+        log(f"  BFS [{pages_crawled}/{discover_limit}] {page_url}")
 
         try:
             html = content.decode('utf-8', errors='ignore')
@@ -873,8 +874,8 @@ def run_live(url, seeds_file=None, delay=None, max_pages=None, output_base=None)
                     discovered.add(link)
                     to_crawl.append(link)
                     new_count += 1
-            if new_count > 0 and pages_crawled % 10 == 0:
-                log(f"  Crawled {pages_crawled} pages, {len(discovered)} URLs found so far...")
+            if new_count > 0:
+                log(f"    +{new_count} new links ({len(discovered)} total)")
         except Exception:
             pass
         time.sleep(0.2)
