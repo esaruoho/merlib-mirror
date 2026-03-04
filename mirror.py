@@ -144,6 +144,16 @@ def fetch_url(url, timeout=60, retries=3):
                 continue
             return None, str(e), False
 
+    # HTTPS failed — try HTTP fallback
+    if url.startswith('https://'):
+        http_url = 'http://' + url[8:]
+        try:
+            req = urllib.request.Request(http_url, headers=headers)
+            with urllib.request.urlopen(req, timeout=timeout) as resp:
+                return resp.read(), resp.headers.get('Content-Type', ''), True
+        except Exception:
+            pass
+
     return None, "Max retries exceeded", False
 
 
