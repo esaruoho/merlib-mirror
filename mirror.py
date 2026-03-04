@@ -61,6 +61,7 @@ WAYBACK_STRIP_PATTERNS = [
 SKIP_PATTERNS = [
     '.well-known/', '?subject=', '?mc_cid=', '?problem',
     '&quot', '%20%20', 'mailto:', '/cgi-bin/', 'robots.txt',
+    '/cdn/shop/', '/cdn/shopifycloud/', '/cdn/s/files/',
 ]
 
 
