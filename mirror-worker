@@ -148,10 +148,11 @@ process_job_file() {
   filename="$(basename "$job_file")"
 
   # Extract fields from the .job file
-  local target domain mode
+  local target domain mode path_filter
   target="$(grep '^target:' "$job_file" | head -1 | sed 's/^target: *//')"
   domain="$(grep '^domain:' "$job_file" | head -1 | sed 's/^domain: *//')"
   mode="$(grep '^mode:' "$job_file" | head -1 | sed 's/^mode: *//')"
+  path_filter="$(grep '^path_filter:' "$job_file" | head -1 | sed 's/^path_filter: *//' || true)"
 
   if [[ -z "$domain" || -z "$mode" ]]; then
     log "ERROR: Missing domain or mode in $filename"
@@ -174,6 +175,10 @@ process_job_file() {
 
   if [[ "$mode" == "wayback" ]]; then
     mirror_args=(wayback "$domain" --resume --output-dir "$SITES_DIR")
+    if [[ -n "$path_filter" ]]; then
+      mirror_args+=(--path "$path_filter")
+      log "Path filter: $path_filter"
+    fi
   elif [[ "$mode" == "live" ]]; then
     mirror_args=(live "$target" --output-dir "$SITES_DIR")
   else

@@ -52,7 +52,53 @@ extract_domain() {
     return 0
   fi
 
+  # domain/path format (e.g. padrak.com/ine)
+  if [[ "$input" == *.* && "$input" == */* && ! "$input" =~ ^https?:// ]]; then
+    echo "${input%%/*}"
+    return 0
+  fi
+
   return 1
+}
+
+extract_path_filter() {
+  local input="$1"
+  local domain="$2"
+
+  # From "domain/path" style input (e.g. padrak.com/ine)
+  if [[ "$input" == "${domain}/"* ]]; then
+    local path="${input#${domain}}"
+    echo "$path"
+    return
+  fi
+
+  # From Wayback URL: extract path after domain
+  if [[ "$input" =~ web\.archive\.org ]]; then
+    # Match path after domain in wayback URL
+    local re="(https?://)?([^/]+)(/.+)"
+    if [[ "$input" =~ web\.archive\.org/web/[^/]+/\*?${re} ]]; then
+      echo "${BASH_REMATCH[3]}" | sed 's|/\*$||; s|/$||'
+      return
+    fi
+    # Try simpler: everything after domain in the target part
+    local after_domain
+    after_domain="$(echo "$input" | sed -n "s|.*${domain}\(/[^*]*\).*|\1|p" | sed 's|/$||')"
+    if [[ -n "$after_domain" && "$after_domain" != "/" ]]; then
+      echo "$after_domain"
+      return
+    fi
+  fi
+
+  # From full URL with path
+  if [[ "$input" =~ ^https?://[^/]+(/.+) ]]; then
+    local path="${BASH_REMATCH[1]}"
+    if [[ "$path" != "/" ]]; then
+      echo "$path" | sed 's|/$||'
+      return
+    fi
+  fi
+
+  echo ""
 }
 
 detect_mode() {
@@ -64,8 +110,8 @@ detect_mode() {
     return
   fi
 
-  # Bare domain → wayback mode
-  if [[ "$input" != */* && "$input" == *.* && ! "$input" =~ ^https?:// ]]; then
+  # Bare domain or domain/path → wayback mode
+  if [[ "$input" == *.* && ! "$input" =~ ^https?:// ]]; then
     echo "wayback"
     return
   fi
@@ -83,22 +129,29 @@ queue_job() {
   local target="$1"
   local domain="$2"
   local mode="$3"
+  local path_filter="$4"
 
-  # Check for duplicate pending jobs
-  if grep -rql "domain: $domain" "$REPO_DIR/queue/" 2>/dev/null; then
-    echo "  Skipped (already queued): $domain"
-    return 1
+  # Check for duplicate pending jobs (match domain + path_filter)
+  local search_key="domain: $domain"
+  if grep -rql "$search_key" "$REPO_DIR/queue/" 2>/dev/null; then
+    # If path_filter differs, it's a different job
+    if [[ -z "$path_filter" ]] || grep -rql "path_filter: $path_filter" "$REPO_DIR/queue/" 2>/dev/null; then
+      echo "  Skipped (already queued): $domain${path_filter}"
+      return 1
+    fi
   fi
 
   local ts
   ts="$(date +%s)"
-  local filename="${ts}_${domain}.job"
+  local safe_name="${domain}${path_filter//\//_}"
+  local filename="${ts}_${safe_name}.job"
   local filepath="$PENDING_DIR/$filename"
 
   cat > "$filepath" <<JOBEOF
 target: $target
 domain: $domain
 mode: $mode
+path_filter: $path_filter
 submitted: $(date -u +%Y-%m-%dT%H:%M:%SZ)
 submitted_from: $(hostname -s)
 JOBEOF
@@ -193,7 +246,9 @@ for target in "${TARGETS[@]}"; do
     continue
   fi
 
-  if queue_job "$target" "$domain" "$mode"; then
+  path_filter="$(extract_path_filter "$target" "$domain")"
+
+  if queue_job "$target" "$domain" "$mode" "$path_filter"; then
     ((queued++)) || true
   fi
 done

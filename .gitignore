@@ -32,3 +32,4 @@ _progress.json.tmp
 
 # OS junk
 .DS_Store
+__pycache__/
