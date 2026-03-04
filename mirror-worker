@@ -1,0 +1,211 @@
+#!/opt/homebrew/bin/bash
+set -euo pipefail
+
+REPO_DIR="$(cd "$(dirname "$0")" && pwd)"
+PENDING_DIR="$REPO_DIR/queue/pending"
+PROCESSING_DIR="$REPO_DIR/queue/processing"
+DONE_DIR="$REPO_DIR/queue/done"
+FAILED_DIR="$REPO_DIR/queue/failed"
+SITES_DIR="$REPO_DIR/sites"
+MIRROR_PY="$HOME/work/merlib-dump/scripts/mirror.py"
+
+# 1GB threshold in KB (1048576 KB = 1 GB)
+MAX_PUSH_SIZE_KB=1048576
+
+POLL_IDLE=300    # seconds between checks when queue is empty
+POLL_ACTIVE=60   # seconds between jobs (mirrors are heavy)
+RUN_ONCE=false
+for arg in "$@"; do
+  case "$arg" in
+    --once)    RUN_ONCE=true ;;
+    --verbose) export VERBOSE=1 ;;
+  esac
+done
+
+log()  { echo "[$(date +%H:%M:%S)] $*"; }
+idle() { [[ "${VERBOSE:-}" == "1" ]] && log "$*" || true; }
+
+# Write PID so mirror-submit can wake us
+PIDFILE="$REPO_DIR/.worker.pid"
+echo $$ > "$PIDFILE"
+trap 'rm -f "$PIDFILE"' EXIT
+
+# SIGUSR1 interrupts sleep — used by mirror-submit to wake worker immediately
+trap 'log "Woken by signal"; true' USR1
+
+WORKER_HASH=""
+
+get_worker_hash() {
+  md5 -q "$REPO_DIR/mirror-worker" "$REPO_DIR/start-mirror.sh" 2>/dev/null | md5 -q
+}
+
+sync_repo() {
+  cd "$REPO_DIR"
+  local pull_output
+  pull_output="$(git pull --rebase --autostash 2>&1 || git pull 2>&1 || true)"
+
+  if [[ "$pull_output" != *"Already up to date"* && "$pull_output" != *"up-to-date"* && -n "$pull_output" ]]; then
+    log "Pulled updates: $pull_output"
+  fi
+
+  # Self-update: restart if worker scripts changed
+  local new_hash
+  new_hash="$(get_worker_hash)"
+  if [[ -n "$WORKER_HASH" && "$new_hash" != "$WORKER_HASH" ]]; then
+    log "Scripts updated — restarting worker..."
+    exec "$REPO_DIR/mirror-worker"
+  fi
+  WORKER_HASH="$new_hash"
+}
+
+commit_and_push() {
+  local msg="$1"
+  local domain="$2"
+  cd "$REPO_DIR"
+  git add -A
+
+  if git diff --cached --quiet 2>/dev/null; then
+    return 0
+  fi
+
+  git commit -m "$msg"
+
+  # Check size of domain directory before pushing
+  local domain_dir="$SITES_DIR/$domain"
+  if [[ -d "$domain_dir" ]]; then
+    local size_kb
+    size_kb="$(du -sk "$domain_dir" 2>/dev/null | cut -f1)"
+    local size_mb=$(( size_kb / 1024 ))
+
+    if [[ "$size_kb" -gt "$MAX_PUSH_SIZE_KB" ]]; then
+      log "WARNING: $domain is ${size_mb}MB (>${MAX_PUSH_SIZE_KB}KB) — committed locally, skipping push"
+      return 0
+    fi
+    log "Size: ${size_mb}MB — under 1GB threshold, pushing"
+  fi
+
+  git push || {
+    log "Push failed, will retry next cycle"
+    return 0
+  }
+}
+
+process_job_file() {
+  local job_file="$1"
+  local filename
+  filename="$(basename "$job_file")"
+
+  # Extract fields from the .job file
+  local target domain mode
+  target="$(grep '^target:' "$job_file" | head -1 | sed 's/^target: *//')"
+  domain="$(grep '^domain:' "$job_file" | head -1 | sed 's/^domain: *//')"
+  mode="$(grep '^mode:' "$job_file" | head -1 | sed 's/^mode: *//')"
+
+  if [[ -z "$domain" || -z "$mode" ]]; then
+    log "ERROR: Missing domain or mode in $filename"
+    mv "$job_file" "$FAILED_DIR/$filename"
+    echo "error: missing domain or mode" >> "$FAILED_DIR/$filename"
+    return 1
+  fi
+
+  echo ""
+  log "━━━ MERLib Mirror — New job ━━━━━━━━━━━━━━━━"
+  log "Domain: $domain"
+  log "Mode:   $mode"
+  log "Target: $target"
+
+  # Move to processing
+  mv "$job_file" "$PROCESSING_DIR/$filename"
+
+  # Build mirror.py command
+  local mirror_args=()
+
+  if [[ "$mode" == "wayback" ]]; then
+    mirror_args=(wayback "$domain" --resume --output-dir "$SITES_DIR")
+  elif [[ "$mode" == "live" ]]; then
+    mirror_args=(live "$target" --output-dir "$SITES_DIR")
+  else
+    log "ERROR: Unknown mode '$mode'"
+    mv "$PROCESSING_DIR/$filename" "$FAILED_DIR/$filename"
+    echo "error: unknown mode $mode" >> "$FAILED_DIR/$filename"
+    return 1
+  fi
+
+  log "Running: python3 $MIRROR_PY ${mirror_args[*]}"
+
+  # Run mirror.py
+  if ! python3 "$MIRROR_PY" "${mirror_args[@]}" 2>&1 | tee "$REPO_DIR/sites/$domain/_mirror_worker.log" 2>/dev/null; then
+    log "ERROR: mirror.py failed for $domain"
+    mv "$PROCESSING_DIR/$filename" "$FAILED_DIR/$filename"
+    echo "error: mirror.py failed" >> "$FAILED_DIR/$filename"
+    return 1
+  fi
+
+  # Move queue file to done
+  mv "$PROCESSING_DIR/$filename" "$DONE_DIR/$filename"
+
+  # Commit and push
+  commit_and_push "mirror: $domain" "$domain"
+
+  log "Done: $domain"
+  log "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+  echo ""
+  return 0
+}
+
+recover_processing() {
+  # On startup, move any stuck processing files back to pending
+  local count=0
+  for f in "$PROCESSING_DIR"/*.job; do
+    [[ -f "$f" ]] || continue
+    mv "$f" "$PENDING_DIR/$(basename "$f")"
+    ((count++)) || true
+  done
+  if [[ "$count" -gt 0 ]]; then
+    log "Recovered $count stuck job(s) from processing queue."
+  fi
+}
+
+# --- Main loop ---
+
+log "MERLib Mirror worker starting"
+log "Mirroring the Internet's Modern Energy Research into a Library"
+log "Repo: $REPO_DIR"
+log "Mirror engine: $MIRROR_PY"
+log "Output: $SITES_DIR"
+
+recover_processing
+sync_repo
+
+while true; do
+  # Pick the oldest pending .job file (FIFO by filename = unix timestamp)
+  next_file=""
+  for f in "$PENDING_DIR"/*.job; do
+    [[ -f "$f" ]] || continue
+    next_file="$f"
+    break
+  done
+
+  if [[ -z "$next_file" ]]; then
+    if [[ "${SHOWED_IDLE:-}" != "1" ]]; then
+      log "Waiting for mirror requests..."
+      SHOWED_IDLE=1
+    fi
+    sleep "$POLL_IDLE"
+    sync_repo
+    continue
+  fi
+
+  # A job arrived — reset idle flag
+  SHOWED_IDLE=""
+
+  process_job_file "$next_file" || true
+
+  if [[ "$RUN_ONCE" == true ]]; then
+    log "Single job mode (--once). Exiting."
+    exit 0
+  fi
+
+  sleep "$POLL_ACTIVE"
+  sync_repo
+done

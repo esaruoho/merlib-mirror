@@ -1,0 +1,222 @@
+#!/opt/homebrew/bin/bash
+set -euo pipefail
+
+REPO_DIR="$(cd "$(dirname "$0")" && pwd)"
+PENDING_DIR="$REPO_DIR/queue/pending"
+MIRROR_PY="$HOME/work/merlib-dump/scripts/mirror.py"
+
+usage() {
+  cat <<'EOF'
+MERLib Mirror — Mirroring the Internet's Modern Energy Research into a Library
+
+Usage:
+  mirror-submit DOMAIN                # Mirror domain via Wayback Machine
+  mirror-submit URL                   # Auto-detect mode (wayback or live)
+  mirror-submit --no-push TARGET      # Queue locally without git push
+  mirror-submit status                # Show queue status
+
+Options:
+  --no-push         Skip git commit+push (for bot use)
+  -h, --help        Show this help
+
+Examples:
+  mirror-submit riess.org
+  mirror-submit https://web.archive.org/web/2022/https://cheniere.org/
+  mirror-submit https://some-live-site.org
+EOF
+  exit 0
+}
+
+extract_domain() {
+  local input="$1"
+
+  # Wayback URL → extract domain
+  if [[ "$input" =~ web\.archive\.org/web/[^/]+/(https?://)?([^/]+) ]]; then
+    local d="${BASH_REMATCH[2]}"
+    # Strip www.
+    d="${d#www.}"
+    echo "$d"
+    return 0
+  fi
+
+  # Full URL → extract domain
+  if [[ "$input" =~ ^https?://([^/]+) ]]; then
+    local d="${BASH_REMATCH[1]}"
+    d="${d#www.}"
+    echo "$d"
+    return 0
+  fi
+
+  # Bare domain (has a dot, no slashes)
+  if [[ "$input" == *.* && "$input" != */* ]]; then
+    echo "$input"
+    return 0
+  fi
+
+  return 1
+}
+
+detect_mode() {
+  local input="$1"
+
+  # Wayback URL → wayback mode
+  if [[ "$input" =~ web\.archive\.org ]]; then
+    echo "wayback"
+    return
+  fi
+
+  # Bare domain → wayback mode
+  if [[ "$input" != */* && "$input" == *.* && ! "$input" =~ ^https?:// ]]; then
+    echo "wayback"
+    return
+  fi
+
+  # Full URL → live mode
+  if [[ "$input" =~ ^https?:// ]]; then
+    echo "live"
+    return
+  fi
+
+  echo "unknown"
+}
+
+queue_job() {
+  local target="$1"
+  local domain="$2"
+  local mode="$3"
+
+  # Check for duplicate pending jobs
+  if grep -rql "domain: $domain" "$REPO_DIR/queue/" 2>/dev/null; then
+    echo "  Skipped (already queued): $domain"
+    return 1
+  fi
+
+  local ts
+  ts="$(date +%s)"
+  local filename="${ts}_${domain}.job"
+  local filepath="$PENDING_DIR/$filename"
+
+  cat > "$filepath" <<JOBEOF
+target: $target
+domain: $domain
+mode: $mode
+submitted: $(date -u +%Y-%m-%dT%H:%M:%SZ)
+submitted_from: $(hostname -s)
+JOBEOF
+
+  echo "  Queued: $domain ($mode mode) -> $filename"
+  return 0
+}
+
+show_status() {
+  local pending processing done failed
+  pending=$(find "$REPO_DIR/queue/pending" -name '*.job' 2>/dev/null | wc -l | tr -d ' ')
+  processing=$(find "$REPO_DIR/queue/processing" -name '*.job' 2>/dev/null | wc -l | tr -d ' ')
+  done=$(find "$REPO_DIR/queue/done" -name '*.job' 2>/dev/null | wc -l | tr -d ' ')
+  failed=$(find "$REPO_DIR/queue/failed" -name '*.job' 2>/dev/null | wc -l | tr -d ' ')
+
+  echo "MERLib Mirror Queue Status"
+  echo "Pending:    $pending"
+  echo "Processing: $processing"
+  echo "Done:       $done"
+  echo "Failed:     $failed"
+
+  # Show what's currently processing
+  if [[ "$processing" -gt 0 ]]; then
+    echo ""
+    echo "Currently processing:"
+    for f in "$REPO_DIR/queue/processing"/*.job; do
+      [[ -f "$f" ]] || continue
+      local d
+      d="$(grep '^domain:' "$f" | head -1 | sed 's/^domain: *//')"
+      echo "  $d"
+    done
+  fi
+
+  # Show pending queue
+  if [[ "$pending" -gt 0 ]]; then
+    echo ""
+    echo "Pending:"
+    for f in "$REPO_DIR/queue/pending"/*.job; do
+      [[ -f "$f" ]] || continue
+      local d
+      d="$(grep '^domain:' "$f" | head -1 | sed 's/^domain: *//')"
+      echo "  $d"
+    done
+  fi
+}
+
+# --- Parse arguments ---
+
+DO_PUSH=true
+TARGETS=()
+
+while [[ $# -gt 0 ]]; do
+  case "$1" in
+    --no-push)
+      DO_PUSH=false
+      shift
+      ;;
+    -h|--help) usage ;;
+    status)
+      show_status
+      exit 0
+      ;;
+    -*)
+      echo "Unknown option: $1" >&2
+      exit 1
+      ;;
+    *)
+      TARGETS+=("$1")
+      shift
+      ;;
+  esac
+done
+
+if [[ ${#TARGETS[@]} -eq 0 ]]; then
+  echo "Error: No target provided." >&2
+  echo "Run 'mirror-submit --help' for usage." >&2
+  exit 1
+fi
+
+# --- Queue each target ---
+
+queued=0
+for target in "${TARGETS[@]}"; do
+  domain="$(extract_domain "$target")" || {
+    echo "  Skipped (cannot extract domain): $target" >&2
+    continue
+  }
+
+  mode="$(detect_mode "$target")"
+  if [[ "$mode" == "unknown" ]]; then
+    echo "  Skipped (cannot detect mode): $target" >&2
+    continue
+  fi
+
+  if queue_job "$target" "$domain" "$mode"; then
+    ((queued++)) || true
+  fi
+done
+
+echo ""
+echo "Queued $queued new mirror job(s)."
+
+if [[ "$queued" -gt 0 && "$DO_PUSH" == true ]]; then
+  cd "$REPO_DIR"
+  git add queue/pending/
+  git commit -m "queue: mirror $queued domain(s)"
+  git push
+  echo "Pushed to remote."
+fi
+
+if [[ "$queued" -gt 0 ]]; then
+  # Wake the worker if it is sleeping
+  PIDFILE="$REPO_DIR/.worker.pid"
+  if [[ -f "$PIDFILE" ]]; then
+    WORKER_PID=$(cat "$PIDFILE")
+    if kill -0 "$WORKER_PID" 2>/dev/null; then
+      kill -USR1 "$WORKER_PID" 2>/dev/null && echo "Woke mirror-worker (PID $WORKER_PID)"
+    fi
+  fi
+fi
