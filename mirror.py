@@ -61,7 +61,6 @@ WAYBACK_STRIP_PATTERNS = [
 SKIP_PATTERNS = [
     '.well-known/', '?subject=', '?mc_cid=', '?problem',
     '&quot', '%20%20', 'mailto:', '/cgi-bin/', 'robots.txt',
-    '/cdn/shop/', '/cdn/shopifycloud/', '/cdn/s/files/',
 ]
 
 
@@ -581,7 +580,7 @@ def generate_index(output_dir, domain, source='web.archive.org', progress=None):
 
 # ── 15. Main loop — wayback mode ────────────────────────────────────────────
 
-def run_wayback(domain, resume=False, ts_from=None, ts_to=None, delay=None, output_base=None, dry_run=False):
+def run_wayback(domain, resume=False, ts_from=None, ts_to=None, delay=None, output_base=None, dry_run=False, path_filter=None):
     """3-phase wayback mirror: CDX discovery -> download -> index."""
     global _current_delay
 
@@ -697,6 +696,13 @@ def run_wayback(domain, resume=False, ts_from=None, ts_to=None, delay=None, outp
 
         # Filter valid URLs
         valid = [u for u in seen.values() if is_valid_content_url(u['original'], domain)]
+
+        # Apply path filter if specified (e.g. --path /ine/ only keeps URLs with /ine/ in path)
+        if path_filter:
+            before = len(valid)
+            valid = [u for u in valid if path_filter in urllib.parse.urlparse(u['original']).path]
+            log(f"Path filter '{path_filter}': {before} -> {len(valid)} URLs")
+
         log(f"Total unique valid URLs: {len(valid)}")
 
         if not valid:
@@ -1042,6 +1048,7 @@ Smart mode (auto-detects):
     wb.add_argument('--delay', type=float, help=f'Delay between requests (default: {DEFAULT_WAYBACK_DELAY}s)')
     wb.add_argument('--dry-run', action='store_true', help='Run CDX discovery only, show URL count without downloading')
     wb.add_argument('--output-dir', dest='output_dir', help='Override output base directory')
+    wb.add_argument('--path', dest='path_filter', help='Only download URLs containing this path (e.g. /ine/)')
 
     # live
     lv = sub.add_parser('live', help='Live crawl a website')
@@ -1063,7 +1070,8 @@ Smart mode (auto-detects):
     if args.mode == 'wayback':
         run_wayback(args.domain, resume=args.resume,
                     ts_from=args.ts_from, ts_to=args.ts_to, delay=args.delay,
-                    output_base=output_base, dry_run=getattr(args, 'dry_run', False))
+                    output_base=output_base, dry_run=getattr(args, 'dry_run', False),
+                    path_filter=getattr(args, 'path_filter', None))
     elif args.mode == 'live':
         run_live(args.url, seeds_file=args.seeds, delay=args.delay,
                  max_pages=args.max_pages, output_base=output_base)
