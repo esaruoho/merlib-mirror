@@ -34,6 +34,7 @@ WEB_EXTS = {'.html', '.htm', '.php', '.asp', '.aspx', '.jsp', '.css', '.js', '.x
 DEFAULT_WAYBACK_DELAY = 1.0
 DEFAULT_LIVE_DELAY = 0.5
 MAX_DISCOVER_PAGES = 500
+MAX_LINK_DEPTH = 5
 BATCH_SIZE = 50
 BATCH_PAUSE = 10
 MAX_TIMESTAMP_ATTEMPTS = 8
@@ -808,24 +809,30 @@ def run_wayback(domain, resume=False, ts_from=None, ts_to=None, delay=None, outp
 # ── 16. Main loop — live mode ───────────────────────────────────────────────
 
 def run_live(url, seeds_file=None, delay=None, max_pages=None, output_base=None):
-    """Live crawl: BFS link discovery from seed URL(s), download all."""
+    """Live crawl: download-as-you-go BFS from seed URL(s).
+
+    Priority: download everything under the seed path first, then
+    follow outbound links up to MAX_LINK_DEPTH hops away.
+    """
     global _current_delay
 
     parsed = urllib.parse.urlparse(url)
     domain = parsed.hostname or ''
+    seed_path = parsed.path.rstrip('/') or '/'
     base = output_base or ARCHIVE_DIR
     output_dir = os.path.join(base, domain)
 
     init_logging(output_dir)
 
     _current_delay = delay or DEFAULT_LIVE_DELAY
-    discover_limit = max_pages or MAX_DISCOVER_PAGES
+    max_depth = MAX_LINK_DEPTH
 
     log("=" * 60)
     log(f"LIVE MIRROR: {domain}")
     log(f"Seed: {url}")
+    log(f"Seed path: {seed_path}")
+    log(f"Max link depth: {max_depth}")
     log(f"Output: {output_dir}")
-    log(f"Max discovery pages: {discover_limit}")
     log("=" * 60)
 
     # Collect seed URLs
@@ -838,62 +845,89 @@ def run_live(url, seeds_file=None, delay=None, max_pages=None, output_base=None)
                     seed_urls.add(line)
         log(f"Loaded {len(seed_urls)} seed URLs")
 
-    # BFS link discovery — crawl discovered pages for MORE links
-    discovered = set(seed_urls)
-    to_crawl = list(seed_urls)
-
-    log("Discovering links (BFS)...")
-    crawl_idx = 0
-    pages_crawled = 0
-
-    while crawl_idx < len(to_crawl) and pages_crawled < discover_limit:
-        page_url = to_crawl[crawl_idx]
-        crawl_idx += 1
-
-        # Only extract links from HTML pages
-        ext = os.path.splitext(urllib.parse.urlparse(page_url).path)[1].lower()
-        if ext and ext not in WEB_EXTS:
-            continue
-
-        content, ct, ok = fetch_url(page_url)
-        if not ok or not content:
-            continue
-        if ct and 'html' not in ct.lower():
-            continue
-
-        pages_crawled += 1
-        log(f"  BFS [{pages_crawled}/{discover_limit}] {page_url}")
-
-        try:
-            html = content.decode('utf-8', errors='ignore')
-            extractor = LinkExtractor(page_url)
-            extractor.feed(html)
-            new_count = 0
-            for link in extractor.links:
-                if not should_skip_url(link, domain) and link not in discovered:
-                    discovered.add(link)
-                    to_crawl.append(link)
-                    new_count += 1
-            if new_count > 0:
-                log(f"    +{new_count} new links ({len(discovered)} total)")
-        except Exception:
-            pass
-        time.sleep(0.2)
-
-    log(f"Discovered {len(discovered)} URLs (crawled {pages_crawled} pages for links)")
-
-    # Download
-    total = len(discovered)
-    count = 0
+    # BFS queue: (url, depth) — depth 0 = seed path content
+    from collections import deque
+    queue = deque()
+    seen = set()
+    downloaded_count = 0
     ok_count = 0
+    failed_urls = []
 
-    for u in sorted(discovered):
-        success, size = download_live_url(u, domain, output_dir)
-        count += 1
-        if success:
-            ok_count += 1
-        if count % 20 == 0:
-            log(f"Progress: {count}/{total} ({ok_count} OK)")
+    for seed in seed_urls:
+        queue.append((seed, 0))
+        seen.add(seed)
+
+    def is_under_seed_path(u):
+        """Check if URL is under the seed path."""
+        p = urllib.parse.urlparse(u)
+        return (p.path or '/').startswith(seed_path)
+
+    def save_page(page_url, content):
+        """Save downloaded content to disk."""
+        path = sanitize_path(page_url)
+        local_path = os.path.join(output_dir, path)
+        if os.path.exists(local_path) and os.path.getsize(local_path) > 0:
+            return True
+        ensure_dir_path(local_path)
+        with open(local_path, 'wb') as f:
+            f.write(content)
+        return True
+
+    log(f"Crawling {seed_path} (download-as-you-go)...")
+
+    while queue:
+        page_url, depth = queue.popleft()
+
+        if depth > max_depth:
+            continue
+
+        # Download the page
+        content, ct, ok = fetch_url(page_url, timeout=30, retries=1)
+        downloaded_count += 1
+
+        if not ok or not content:
+            failed_urls.append(page_url)
+            if downloaded_count % 20 == 0:
+                log(f"  [{downloaded_count}] {ok_count} OK, {len(failed_urls)} failed, {len(queue)} queued")
+            time.sleep(_current_delay)
+            continue
+
+        save_page(page_url, content)
+        ok_count += 1
+
+        # Determine label for logging
+        under_seed = is_under_seed_path(page_url)
+        label = f"d{depth}" if not under_seed else f"d{depth}*"
+        if downloaded_count % 5 == 0 or downloaded_count <= 10:
+            log(f"  [{downloaded_count} {label}] {page_url}  ({ok_count} OK, {len(queue)} queued)")
+
+        # Extract links from HTML pages
+        is_html = (ct and 'html' in ct.lower()) or (not ct and not os.path.splitext(
+            urllib.parse.urlparse(page_url).path)[1])
+        if is_html:
+            try:
+                html = content.decode('utf-8', errors='ignore')
+                extractor = LinkExtractor(page_url)
+                extractor.feed(html)
+                new_count = 0
+                for link in extractor.links:
+                    if link in seen:
+                        continue
+                    if should_skip_url(link, domain):
+                        continue
+                    seen.add(link)
+
+                    # Links under seed path stay at same depth (priority)
+                    if is_under_seed_path(link):
+                        queue.appendleft((link, depth))
+                    else:
+                        queue.append((link, depth + 1))
+                    new_count += 1
+                if new_count > 0 and (downloaded_count <= 10 or downloaded_count % 10 == 0):
+                    log(f"    +{new_count} links ({len(seen)} total known)")
+            except Exception:
+                pass
+
         time.sleep(_current_delay)
 
     # Post-crawl
@@ -902,7 +936,8 @@ def run_live(url, seeds_file=None, delay=None, max_pages=None, output_base=None)
 
     log("\n" + "=" * 60)
     log("LIVE MIRROR COMPLETE")
-    log(f"URLs: {total}, Downloaded: {ok_count}")
+    log(f"Downloaded: {downloaded_count}, OK: {ok_count}, Failed: {len(failed_urls)}")
+    log(f"Total URLs seen: {len(seen)}")
     log("=" * 60)
     log(f"\nNext step: fe-ingest.sh {output_dir}")
 
