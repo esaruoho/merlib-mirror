@@ -1,0 +1,20 @@
+{
+  "source": "live",
+  "domain": "padrak.com",
+  "mirror_date": "2026-03-04T16:51:22.600949",
+  "total_urls": 0,
+  "downloaded": 478,
+  "failed": 0,
+  "files": 478,
+  "file_types": {
+    "(none)": 1,
+    ".html": 232,
+    ".[2": 1,
+    ".txt": 220,
+    ".pdf": 1,
+    ".gif": 14,
+    ".jpg": 7,
+    ".\u00a0box\u00a058639,\u00a0salt\u00a0lake\u00a0city,\u00a0ut\u00a0": 1,
+    ".\u00a0features\u00a0": 1
+  }
+}

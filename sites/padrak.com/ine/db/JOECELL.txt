@@ -1,0 +1,49 @@
+Joe Cell
+
+ Return to the INE Devices Page 
+ Return to the INE Inventors Page 
+ Return to the INE Interest Ranking Page 
+ Return to the INE Commercial Ranking Page 
+
+ JOE CELL 
+ Posted: Jul. 7, 2000 
+
+See the Database Guidelines file for: 
+Additions, Changes, and Your Supportive Input into the data in these files. 
+
+Device Name: Joe Cell
+Device Catagory: Fuel Cell
+Device Type: Over Unity
+Inventor Name: Joe
+Inventor Address: 
+Date First Demo: 
+Watts Generated: 
+Date Last Demo: 
+Watts Generated: 
+% O/U Claimed: Infinite
+% O/U Measured: 
+% Weight Loss: 
+Date Witnessed: 
+Witnesses Name: 
+Witness Address: 
+Date Tested: 
+Tester Name: 
+Tester Address: 
+Researcher Contact: Ian Hacon
+Researcher Address: nutech@arc.net.
+ au 
+Ranking, Interest: M
+Ranking, Commercial: M
+References: http://encyclopedia.educator.webjum
+ p.com/orgone.html 
+Last Ref. & Date: 8-Jul-99
+File Name: JOECELL
+Date Last Modified: 6/28/2000
+
+ Return to the INE Devices Page 
+ Return to the INE Inventors Page 
+ Return to the INE Interest Ranking Page 
+ Return to the INE Commercial Ranking Page 
+
+www.padrak.com/ine/db/joecell.html 
+Jul. 7, 2000.

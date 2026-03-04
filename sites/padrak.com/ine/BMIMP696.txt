@@ -1,0 +1,95 @@
+Implications Of The Bockris-Minevski & Mizuno, Et Al. Papers
+
+ Return to the INE Main Page 
+
+ IMPLICATIONS OF THE BOCKRIS-MINEVSKI & MIZUNO, ET AL. PAPERS 
+
+By Hal Fox 
+
+From: NEN, Vol. 4, No. 2, June 1996, pp. 3-6.
+
+New Energy News (NEN) copyright 1996 by Fusion Information Center, Inc. 
+COPYING NOT ALLOWED without written permission. 
+ALL RIGHTS RESERVED.
+
+The recent paper by Bockris and Minevski [1] reports on finding a thin-layer of "impurities" at a depth of one micron below the surface of a palladium cathode. See Fig. 1. Although called impurities, it is obvious that these elements are the result of nuclear reactions. 
+
+The recent paper by Mizuno, Ohmori, & Enyo [2] reports similar results. These authors report, "...but the element concentrations at 1 micron below the electrode surface were almost the same as at the surface." 
+
+The authors [1] have reported the factual results of an experiment that, as replicated by other electrochemists, must have profound results in changing our concepts of permitted nuclear reactions at low-energy levels! The data shows that in this thin layer, one micron below the surface of the palladium cathode, there is developed a thin cylindrical shell of elements, many of which were not present at the start of the experiment. 
+
+The authors [2] have reported similar results but have added other factors that were not provided in [1]. For example, Mizuno, et al., state in their summary, "It was confirmed by several analytic methods that reaction products with atomic numbers ranging from 20 to 28, 46 to 54, and 72 to 82 are produced in palladium cathodes..." Assuming the data is correct, palladium under electrolysis can produce groups of elements that would clearly be expected to be fission products (daughter products) in two groups: calcium to nickel and silver to xenon. In addition, and worthy of serious attention by theorists, the palladium under electrolysis produces lesser amounts of what appears to be fusion reactions that range through hafnium, rhenium, iridium, platinum, mercury, and even lead! 
+
+The following are the measurements of various impurities at about 1 micron depth in the palladium cathode after three weeks of electrolysis as found by Bockris and Minevski [1]: 
+
+ Element Mg Si Cl K Ca Ti
+Atomic No. 12 14 17 19 20 22
+Percent 6.7 10.2 3.0 1.1 19.9 1.6
+
+Element Fe Cu Zn Pd Ag Pt
+Atomic No. 26 29 30 46 47 78
+Percent 10.5 1.9 4.2 31.9 1.9 7.1
+
+Note: All percent accuracy is +/- 1.0 percent. Palladium, in this thin layer, has been reduced from 99.8 to 31.9 atomic percent! 
+
+Mizuno, et al. [2] performed their elemental analysis by energy dispersive X-ray spectroscopy (EDX), Auger electron spectroscopy (AES), secondary ion mass spectroscopy (SIMS), and electron probe microanalyzer (EPMA). With EDX they found chromium, iron, copper, and platinum. With EDX and SIMS the presence of calcium (20), titanium (22), chromium (24), manganese (25), iron (26), cobalt (27), copper (29), zinc (30), cadmium (48), tin (50), platinum (78), and lead (82) were determined. The SIMS analysis showed these additional elements: gallium (31), arsenic (33), bromine (35), antimony (51), tellurium (52), iodine (53), xenon (54), hafnium (72), rhenium (75), and iridium (77). The SIMS counts ranged from 103 to 106 where background was about 10. 
+
+Dr. Xian Jin, when reading the Bockris paper [1] wrote, "This could lead to applications in reducing radioactivity." Dr. Robert W. Bass, in a telephone call, suggested that these results are strong evidence for resonance. A 0.8 eV deuteron could have a Schrdinger wave length of about one micron. The thought occurs as to whether this one micron effect could be the result of the "comb filter" resonance transmission as suggested by Leaf Turner [3] and further developed by Bass [4] and Bush [5]. Mizuno, et al. [2], made the following observation: "AES and SIMS measurements were also made after bombardment by Ar+ or O2- ions, thus removing surface layers, but the element concentrations at 1 micron below the electrode surface were almost the same as at the surface." 
+
+One would suggest that some of the elements might be created by the accretion of neutrons. Bockris [1] does not report neutron measurements. Mizuno, et al., reported, "Neutron intensity and energy measurements were carried out simultaneously, in parallel. The neutron evolution rate as sporadic and weak...with levels of about 0.4 counts per second." 
+
+Those who suggest that protons or deuterons might easily penetrate the Coulomb barrier of high-mass palladium, should note that experts in the field can marshall significant experimental evidence to show that the probability of such charged particle penetration of nuclei having high proton count is many orders of magnitude less probable than a p+d fusion. 
+
+It is noted that the highly-successful thermal-energy producing Patterson Power CellTM uses nickel- palladium-nickel plated spheres where the outer plating thicknesses are about one micron. It is certain that further experiments will be devised to determine the significance of this "about one micron" parameter. The following experiment is suggested: plate a single rod-shaped silver cathode with palladium by incrementally withdrawing it from a palladium electro-plating solution so that a series of 0.5 micron layers are successively plated to provide areas of palladium thicknesses ranging from 0.5 micron to 5 micron. After prolonged electrolysis, using the protocols observed in Bockris and Minevski's work [1], or in Mizuno's work [2] it would be fruitful to determine both depths and intensities of any layers of nuclear transformations. It would also be of interest to determine if there is any significant post-run radioactivity developed in the various layers of thin palladium plating. A simple self-radiography test would be of interest. Neither Bockris [1] nor Mizuno [2] report measurements of beta emission nor of X-ray emission. 
+
+We commend Bockris and Minevski & Mizuno, Ohmori, and Enyo on their experimental work and for reporting these remarkable discoveries. 
+
+IMPLICATIONS OF THESE EXPERIMENTS 
+
+This editor has elsewhere reported on experiments that appear to produce protons and electrons from the aether (Fusion Facts, April 1996, page 10). The suggestion is made that this would be an explanation of how to avoid the Coulomb barrier. Universal agreement of this explanation is not expected. However, we must admit that there is nothing in any present theory or model of atomic nuclei and/or metal crystal lattices that would explain the highly unusual anomaly provided by these experiments. 
+
+Assume that a plausible explanation is found for palladium nuclei to be fused with protons or deuterons. The idea of a nucleus becoming unstable with the addition of one or more protons or deuterons and fissioning into two small elements such as iron and calcium may be an acceptable model. The most anomalous experimental discovery is that the palladium can create elements with atomic numbers ranging from 72 to 82. 
+
+According to experimental results reported by Mizuno, et al. [2], the number of elements in the range of atomic numbers from 72 to 82 is less than 5% of the total number of elements produced in this element- creating palladium lattice. A possible model is the following: A palladium atom combines with one or more protons or deuterons producing an instability that causes fission of the palladium into iron and calcium. The iron nucleus has sufficient energy from this fission event to impact an adjacent palladium atom, resulting in fusion and the creation of an atom of reasonably higher atomic mass. To obtain sufficient energy for this hypothetical case, the mass defect (sum of the isotopic masses of the fusion products minus the isotopic masses of the fission products) must exist, be turned into energy (using e = mc2), and the energy be imparted to the fission products. By using a table of Nuclides and Isotopes, and observing all of the conservation rules (conservation of baryon number, conservation of spin, conservation of neutron number, etc.) a possible nuclear reaction could be proposed. 
+
+The next experimental step is to determine if those specific isotopes exist in the elements produced. A further step would be to perform experiments with isotopically pure palladium. Palladium has the following long-term stable isotopes (with indicated percentage as naturally occurring): Pd-102 (1.02); Pd- 104 (11.14); Pd-105 (22.33); Pd-106 (27.33); Pd-108 (26.46); Pd-108 (26.46); and Pd-110 (11.72). The isotopic masses range from 101.90562 to 109.90616. To have the largest mass defect, one would try the heavier Pd isotopes fused with deuterons or protons (maybe even more than one) and fission into something like the isotopes of iron and calcium. According to the Bockris and Minevski data, iron and calcium are relatively abundant. However, the iron is less, suggesting that some of the iron nuclei may have fused with palladium to make hafnium (which was found in Mizuno's data). The occurrence of platinum is a little harder to explain but one could possibly consider zinc and palladium plus two protons or zinc and silver plus a proton. These are number games to help guide the experimenter. [We will print papers treating this subject in the next issue of the Journal of New Energy.] 
+
+Depending on which isotopes of palladium are involved, on the number of protons and/or deuterons involved, and on which of the several daughter products are involved, a range of elements in the 72 to 82 atomic numbers could be produced. The fusing particles could feasibly be iron, copper, zinc, gallium, and arsenic. Of course, there is the possibility that these fused nuclei could also fuse with a proton and be increased in their atomic number. 
+
+With this type of scenario, we can suggest the following implications: 
+
+1. There will definitely be new models of nuclear reactions suggested. 
+
+2. The much ridiculed concept of cold nuclear fusion will become an accepted part of nuclear science. 
+
+3. The concept that high energy is required for atomic fusion or fission to occur will be considerably modified. 
+
+4. New applications will be found for a large range of discoveries, for example, the concept of stabilizing radioactive nuclei will not be dismissed as being without merit. 
+
+5. The concept of low-energy nuclear reactions will be adopted and become one of the most explored subjects in nuclear physics. 
+
+6. The creation of scarce materials from abundant materials will be successfully demonstrated for several elements. 
+
+7. The concept of an energetic aether will be adopted by new scientists (the old scientists will die off). 
+
+8. Most important, a variety of new methods of providing clean, abundant, and inexpensive energy will be achieved, commercialized, and improve the world. 
+
+REFERENCES 
+
+[1] J.O'M. Bockris & Z. Minevski, "Two Zones of Impurities Observed After Prolonged Electrolysis of Deuterium on Palladium," Infinite Energy, vol 1, no 5&6, 1996, pp 67-69, 2 tables, 3 figs, 8 refs. 
+
+[2] T. Mizuno, T. Ohmori & M. Enyo, "Anomalous Isotopic Distribution in Palladium Cathode after Electrolysis," INET# Document Id: UX00e.BUX0462455. 
+
+[3] Leaf Turner, "Peregrinations on Cold Fusion," Journal of Fusion Energy, vol 9, no 4, 1990, pp 447- 450, 4 refs, 2 figs. 
+
+[4] Robert W. Bass, "Proof that Zero-Point Fluctuations of Bound Deuterons in a Supersaturated Palladium Lattice Provide Sufficient Line-Broadening to Permit Low-Energy Resonant Penetration of Coulomb 'Barrier' to Cold Aneutronic Fusion," presented at ICCF4, 16 pages, 8 refs, 3 figs. Copy available from Fusion Information Center. 
+
+[5] Robert T. Bush, "A Unifying Model for Cold Fusion," Fusion Technology, vol 26, no 4T, Dec. 1994, pp 431-441, 9 figs, 37 refs. 
+
+COMMENTS FROM JOHN O'M. BOCKRIS 
+
+I would like to make the following comment: There is suggestive evidence that new nuclei occur in occupied sites within the palladium and that these sites are "damage areas" consisting of "holes" in the palladium. Similar observations were made by Nate Hoffman when he analyzed our palladium samples in March 1992, where he found Helium-4. Russ George and Stringham have also reported within their sonoluminescence work (sono-fusion), the new nuclei turned up always at the point of damage. 
+
+Now damage in metals which absorb hydrogen is an old phenomenon redolent with > 1,000 publications. In fact, Minevski's thesis contains an account of the damage in terms of the high H2 fugacity concepts. But another speculation might be that the so-called holes are made by local melting of the metal lattice due to local nuclear reactions forming new materials. 
+
+ Return to the INE Main Page

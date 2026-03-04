@@ -1,0 +1,46 @@
+Harmonic Frequency Generator Circuit
+
+ Return to the INE Devices Page 
+ Return to the INE Inventors Page 
+ Return to the INE Interest Ranking Page 
+ Return to the INE Commercial Ranking Page 
+
+ HARMONIC FREQUENCY GENERATOR CIRCUIT 
+
+See the Database Guidelines file for: 
+Additions, Changes, and Your Supportive Input into the data in these files. 
+
+Device Name: Harmonic Frequency Generator Circuit
+Device Category: Room Temperature Superconductivity
+Device Type: Frequency Generator
+Inventor Name: Ewing, David & Walt Myers
+Inventor Address: 6315C Gessner Rd. Houston, Texas 77041
+Date First Demo: Jun-94
+Watts Generated: N/A
+Date Last Demo: Sep-99
+Watts Generated: 40
+% O/U Claimed: None
+% O/U Measured: 
+% Weight Loss: 
+Date Witnessed: Jul-94
+Witnesses Name: International Tesla Society Symposium
+Witness Address: Colorado Springs, Co.
+Date Tested: Jul-94
+Tester Name: J.W. McGinnis; Steven Elswick
+Tester Address: Same
+Researcher Contact: Walt Myers
+Researcher Address: 6315C Gessner Rd. Houston, Texas 77041
+Ranking, Interest: 10
+Ranking, Commercial: 10
+References: 
+Last Ref. & Date: Email; Aug. 1999.
+File Name: EWING
+Date Last Modified: 8/24/99
+
+ Return to the INE Devices Page 
+ Return to the INE Inventors Page 
+ Return to the INE Interest Ranking Page 
+ Return to the INE Commercial Ranking Page 
+
+www.padrak.com/ine/db/ewing.html 
+Aug. 25, 1999.

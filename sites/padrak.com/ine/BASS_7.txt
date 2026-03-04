@@ -1,0 +1,52 @@
+Bass_7: Recent Advances in LENT and Proposed CF via Deuterium Crystals
+
+ Return to the Robert Bass TOC Page 
+
+As submitted to the INE for posting by Robert Bass.
+
+ Recent Advances in LENT and Proposed CF via Deuterium Crystals 
+
+written by
+
+Robert W. Bass & Wm. Stan Gleeson
+
+presented by
+
+Patrick G. Bailey
+
+INE/EEMF Conference on New Energy Conversion
+
+Salt Lake City, September 8-9, 2000
+
+Introduction
+
+We challenge predominant view that Low Energy Nuclear Transmutations (LENTs) are 
+prohibited by standard Quantum Mechanics (QM). This view, supposedly based on 
+standard nuclear theory, need not apply in condensed-matter environments. These 
+considerations indicate that seemingly novel experimental evidence of rapid 
+aneutronic bulk-process transmutation, at extraordinarily low energy levels, in 
+a simple electrochemical reactor, can occur. This explains: (1) induced rapid 
+decay of radioactive Thorium into stable nuclides, e.g. Cu; (2) resulting, 
+anomalous distribution of Cu isotopes.
+
+Description of Actual Work
+
+We re-examine arguments of P.J.E. Peebles (1) cited as evidence that standard QM 
+"forbids" Cold Fusion (CF). We note (2) over-simplifications in those and 
+present an alternative, more sophisticated calculation [cf. Bass, (3)-(8)] 
+demonstrating that conventional wisdom about impenetrability of the "Coulomb 
+barrier" fails as a result of periodic-order-induced resonance.
+
+We also examine empirical evidence (9)-(15). In three independent tests of a 
+LENT electrolysis cell, using different I-V-T (current/voltage/time) protocols, 
+the percentage of Radiation Reduction (RR) transmutation achieved A = [23%, 50%, 
+83%] versus expended energy E = [0.6535, 32.5, 74.6] (Watt-hrs), obtained by 
+numerical integration of recorded product I.V for processing time T, provides 
+near-perfect straight-line correlation:
+
+A = alf.E + Ao, (alf = 0.8105, Ao = 22.888, (0.65 
+
+ Return to the Robert Bass TOC Page 
+
+www.padrak.com/ine/BASS_7.html 
+Aug. 28, 2000.

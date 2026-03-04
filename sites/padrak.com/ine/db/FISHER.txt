@@ -1,0 +1,48 @@
+Fisher Engine
+
+ Return to the INE Devices Page 
+ Return to the INE Inventors Page 
+ Return to the INE Interest Ranking Page 
+ Return to the INE Commercial Ranking Page 
+
+ FISHER ENGINE 
+ Posted: Jul. 7, 2000 
+
+See the Database Guidelines file for: 
+Additions, Changes, and Your Supportive Input into the data in these files. 
+
+Device Name: Fisher Engine
+Device Catagory: Heat Engine
+Device Type: Over-Unity
+Inventor Name: Fisher, Victor
+Inventor Address: New Jersey (Promoted by Dennis Lee of BWT.)
+Date First Demo: 1988 (About)
+Watts Generated: 200 W
+Date Last Demo: 1999
+Watts Generated: 
+% O/U Claimed: 400%
+% O/U Measured: 
+% Weight Loss: 
+Date Witnessed: No data.
+Witnesses Name: 
+Witness Address: Skeptic's Review 
+Date Tested: 
+Tester Name: 
+Tester Address: 
+Researcher Contact: 
+Researcher Address: 
+Ranking, Interest: M
+Ranking, Commercial: M
+References: http://www.uscofa.
+ com 
+Last Ref. & Date: Eric Krieg, 9/99.
+File Name: FISHER
+Date Last Modified: 6/28/2000
+
+ Return to the INE Devices Page 
+ Return to the INE Inventors Page 
+ Return to the INE Interest Ranking Page 
+ Return to the INE Commercial Ranking Page 
+
+www.padrak.com/ine/db/fisher.html 
+Jul. 7, 2000.

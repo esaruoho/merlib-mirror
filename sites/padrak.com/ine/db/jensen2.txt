@@ -1,0 +1,47 @@
+Unidirectional Transformer
+
+ Return to the INE Devices Page 
+ Return to the INE Inventors Page 
+ Return to the INE Interest Ranking Page 
+ Return to the INE Commercial Ranking Page 
+
+ UNIDIRECTIONAL TRANSFORMER 
+
+See the Database Guidelines file for: 
+Additions, Changes, and Your Supportive Input into the data in these files. 
+
+Device Name: Unidirectional Transformer
+Device Category: Electr. Magnetic
+Device Type: Over Unity
+Inventor Name: Jensen, Paul Raymond
+Inventor Address: last known address: 524 east Valerio St. Apt.
+ C Santa Barbra, CA 93103
+Date First Demo: 
+Watts Generated: 
+Date Last Demo: 
+Watts Generated: 
+% O/U Claimed: 
+% O/U Measured: 
+% Weight Loss: 
+Date Witnessed: 
+Witnesses Name: 
+Witness Address: 
+Date Tested: 1994
+Tester Name: Walt Rosenthal
+Tester Address: 4876 Bethany Lane, Santa Maria, CA 93455
+Researcher Contact: 
+Researcher Address: 
+Ranking, Interest: 1
+Ranking, Commercial: M
+References: ISNE 1994, pp 537-544.
+Last Ref. & Date: ISNE 1994.
+File Name: JENSEN2
+Date Last Modified: 7/23/97
+
+ Return to the INE Devices Page 
+ Return to the INE Inventors Page 
+ Return to the INE Interest Ranking Page 
+ Return to the INE Commercial Ranking Page 
+
+www.padrak.com/ine/db/jensen2.html 
+Jul. 31, 1998.

@@ -1,0 +1,22 @@
+Calibration of the Pd-D2O System Abstract
+
+ Return to the INE Main Page 
+
+ Calibration of the Pd-D2O System: 
+Effects of Procedure and Positive Feedback 
+
+CF POSITIVE FEEDBACK 
+
+S. Pons, M. Fleischmann (Cent. Sci., IMRA Europe SA, Valbonne, France), "Calibration of the Pd-D2O System: Effects of Procedure and Positive Feedback," J. Chim. Phys. Phys.-Chim. Biol., vol 93, no 4, (1996), pg 711-730. 
+
+From: NEN, Vol. 4, No. 5, September 1996, p. 9.
+
+New Energy News (NEN) copyright 1996 by Fusion Information Center, Inc. 
+COPYING NOT ALLOWED without written permission. 
+ALL RIGHTS RESERVED.
+
+AUTHORS' ABSTRACT 
+
+The authors outline some of the considerations which have prompted their research on anomalously fast nuclear reactions of D+ compressed electrochem. into Pd (and Pd alloy) host lattices. The most surprising result has been that the generation of high levels of excess enthalpy is not accompanied by the expected levels of tritium and neutron generation. Some of the major steps in the development of this particular aspect are outlined; it has been found that excess heat production is dependent on the protocol of the experiments mainly because of "positive feedback." A rationale for such "positive feedback" is presented which also explains oscillations in the system properties. The authors illustrate the progressive development of the investigation leading to the achievement of specific rates of excess enthalpy production of 4 kW cc at temperatures up to 100 degrees (i.e. of low-grade heat). 
+
+ Return to the INE Main Page

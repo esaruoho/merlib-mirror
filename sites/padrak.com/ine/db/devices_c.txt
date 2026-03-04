@@ -1,0 +1,179 @@
+INE Devices Database - Commercialization Criteria
+
+ Return to the INE Page 
+
+ INE DEVICES DATABASE - COMMERCIALIZATION CRITERIA 
+
+See the Database Guidelines file for: 
+Additions, Changes, and Your Supportive Input into the data in these files. 
+
+INE DATABASE LISTING BY COMMERCIALIZATION CRITERIA:
+
+PROVEN PROTOTYPE (10) 
+
+ Davis Tidal Turbine Davis, Barry
+ Patterson Power Cell Patterson, James
+
+CAN BE SCALED LARGER ( 9)
+
+THE DEVICE WORKS( 8) 
+
+ Alcon Technologies Devices Ames, Alan
+ Capacitive Discharge Motor Gray, Edwin V.
+ Capacitive Discharge Motor Ide, Osamu
+ Cold Fusion Results Fox, Hal
+ Jefimenko Electrostatic Generators Jefimenko, Oleg
+ Motional Electric Field Effect Hooper, William
+ Ponds and Fleischmann Status (France) Ponds and Fleischmann
+
+TECHNIQUES UNDER R&D ( 7)
+
+ Crystal Energy Converter Hutchinson, John
+ Kwai Motor Kawai, Teruo
+ Los Alamos Experimental Research Results Storms, Edmond
+ Moray Radient Energy Equipment Moray, T. Henry
+ N-Machine (India) Tewari, Paramahamsa
+ N-Machine (Japan) Inomata, Shiuji
+ Newman Energy Machine Newman, Joseph
+ Noble Gas Motors (Papp Engine) Papp, Joseph
+ Orgone Energy Phenomena Reich, Willhelm
+ Reich Orgonne Motor Reich, Willhelm
+ RQM Devices (Switzerland) RQM
+ SRI Experimental Research Results McKubre, Michael
+ Sweet Vacuum Triode Amplifier (VTA) Sweet, Floyd
+ T.T. Brown Devices Brown, T. T.
+ T.T. Brown Devices Replication Deavenport, Larry
+ Takahashi Magnet Motor (Japan) Takahashi, Yasunori
+ Theracore Cold Fusion Thermacore Co.
+
+REPLICATED BY OTHER ( 6) 
+
+ Bedini Energy Converter Bedini, John
+ Podkletnov Device (Finland) Podkletnov, Eugene
+ WIN Device Lambertson, Wingate
+
+MORE DATA & PERSONS ( 5) 
+
+ Brown Resonance Device (US Patent) Brown, Paul
+ Energy From Electrical Discharges Pappas, Panos
+ Finsrud Motion Machine (Norway) Finsrud, Reidar
+ Hendershot Coil Device Hendershot, Lester
+ Hyde Device Hyde, William
+ Keely Motor (Hydro-Vacuo Engine) Keely, John E. W.
+ Kidd Device Kidd, Sandy
+ Magnetstromapparat Coler, Hans
+ Magnetic Distributer Generator Brown, Paul
+ Musical Dynasphere (Globe Motor) Pond, Dale; and Keely, John E. W.
+ Reed Magnetic Motor Reed, Troy
+ Russell Optical Dynamo Generator Grotz, Toby
+ Schauberger Vortex Effects Schauberger, Viktor
+ Searl Generator (England) Searl, John
+ Searl Levitation Device (England) Searl, John
+ Stromerzeuger (Germany) Coler, Hans
+ Swiss ML Converter (Switzerland) Baumann, Paul
+ Watson VTA Device Watson, Don
+
+MORE DATA, 1 PERSON ( 4) 
+
+ Gravito Magnetic Device (Canada) Sinclaire, Pierre
+ Sinclaire Generator (Canada) Sinclaire, Pierre
+ Venetin Coliu (Austria)) Marinov, Stefan
+
+DATA ONCE, 1 PERSON ( 3) 
+
+ Angus Engine Angus, Neil
+ Muller Magnetic Motor Muller, William, J.F.
+ N-Machine (Trombly-Kahn) Trombly, Adam, Kahn, Joeseph
+ Permanent Magnet Energy Conversion Dragone, Leon, R.
+ The Energetic Vacuum (ZPE) Puthoff, Hal
+
+R&D BY 1 PERSON ( 2) 
+
+ Ampere-Neuman Electrodynamics Graneau, Peter
+ Apparatus to Rectify Ether Energy Markovitch, Peter
+ Aqua Fuel Richardson, William, H.
+ Carr Anti-Gravity Device Carr, Otis T.
+ E-Beam Discharge Power Converter Caro, Charles, R.
+ Ecklin Motor Ecklin, John W.
+ Energy Conserver Circuit Cobb, Melvin
+ Energy Extractor Crump, Lloyd, R.
+ Energy Conversion System Spence, Geoffery M.
+ Farnsworth/Trombly Energy Generator Farnsworth/Trombly
+ Fogal Fogal, Bill
+ Free Energy Accumulator Wiseman, George
+ Gary's Magnetic Motor (1879) Gary, Wesley W.
+ Geomagnetic Generator Smith, Wilbert B.
+ Graham Grahm, Roy
+ Jamison Energizer System Jamison, Lawrence
+ Kromey Converter Kromrey, Raymond
+ Magnepulsion Motor Teal, Bob
+ McKie Power On Demand Module (PODMOD) McKie, Scott
+ MRA Device S/N 95-3 Taylor, Robert
+ N-Machine dePalma, Bruce
+ N-Motor Ward, Sonne
+ Permanent Magnet Motor Johnson, Howard
+ Radient Energy Capture Device Perreault, Bruce A.
+ Siberian Coliu Marinov, Stefan
+ Stevens Generator Mark, Stephen
+ Stoneburg Motor Generator Stoneburg, William, G.
+ Wanlass Motor-Generator Wanlass, Chris
+ Water Fuel Cell Meyer, Stan
+ Watson Watson, Jim
+ Wiseman Energy Conserver Circuit Wiseman, George
+
+APPEARS TO BE LIES ( 1) 
+
+ Adams Motor (New Zealand) Adams, Robert
+
+FOUND TO BE LIES ( 0) 
+
+MORE INFO. IS NEEDED (M) 
+
+ Advanced Fuel Cell Designs Bailey, Patrick
+ Autogenous Pulsed Glow Discharge Correa, Paulo and Alexandra
+ Brown's Gas Brown, Yull
+ Electromagnetic Generator de Rivas, Villasnor
+ Electrical Generator Merrit, Thomas D.
+ Hubbard Coil Motor Hubbard, Alfred
+ Hubbard Coil Research Hubbard, Alfred
+ Landau Oscillator (Seike, Japan) Seike, Shinichi
+ Magnetic Sink Smith, Wilbert B.
+ Magnetic Resonance Amplifier (MRA) McClain, Joel
+ MNL-DHE Generator Leibowitz, Martin, N..
+ Noble Gas Motors (AEROPS Engine) Britt, Robert Gordon
+ Non-Linear Shuttle Circuit Tesla, Nikola
+ Nuclear Decay Effects Experiments (Smith) Smith
+ Power from Magnetism (England) Aspden, Harold
+ Proposed Hubbard Coil Motor MacNeill, Ken
+ Reluctance Generator MacNeill, Ken
+ Ro-Mag Magnetic Generator Orlowski, Gerald
+ Rodin Coil Research Rodin, Marcos
+ Series Resonant LC Circuit Jensen, Paul Raymond
+ SpinBreeder Generator Buerger, Douglas
+ Stephens Motor Stephens, William
+ Switched Reluctance Motor (England) Aspden, Harold
+ Tesla Non-linear Shuttle Circuit Barrett, Terrance
+ Unidirectional Transformer Jensen, Paul Raymond
+ Unipolar Dynamo (Canada) Hathaway, George
+ Vacuum Spin (England) Aspden, Harold
+ Windmill Home Generator (Earle) Earle,
+
+NO INFO. ON FILE (N) 
+
+ Advanced Battery Technology 
+ Air And Water Engine 
+ Alternative Non-Metallic Fuel Cell Catalysts 
+ Automobile Fuel Cells 
+ B.A.S.E. 
+ CEACU (Centrifugal Energy Amp. Conversion Unit) 
+ Clem Over-Unity Engine Clem, Richard
+ Hot Fusion Reactor Status (US and Russia) 
+ Lindsey 
+ Magnetic Distributer Generator 
+ Magnicogenerator Perrigo, Joeseph or Harry
+ Pulsed Cold Plasmas Power Generation (Canada) 
+
+ Return to the INE Page 
+
+www.padrak.com/ine/db/devices_c.html 
+Oct. 29, 1997.

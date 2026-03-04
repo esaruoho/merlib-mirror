@@ -1,0 +1,46 @@
+Free Energy Accumulator
+
+ Return to the INE Devices Page 
+ Return to the INE Inventors Page 
+ Return to the INE Interest Ranking Page 
+ Return to the INE Commercial Ranking Page 
+
+ FREE ENERGY ACCUMULATOR 
+
+See the Database Guidelines file for: 
+Additions, Changes, and Your Supportive Input into the data in these files. 
+
+Device Name: Free Energy Accumulator
+Device Category: Antenna
+Device Type: Antenna
+Inventor Name: Wiseman, George
+Inventor Address: PO Box 145, Eastport, ID 83826
+Date First Demo: 4/27/94
+Watts Generated: 0
+Date Last Demo: 4/27/97
+Watts Generated: 
+% O/U Claimed: 
+% O/U Measured: 
+% Weight Loss: 
+Date Witnessed: 
+Witnesses Name: 
+Witness Address: 
+Date Tested: 
+Tester Name: Emmerich/Grotz
+Tester Address: 6915 Alogonquin Drive, Loveland, CO 80537
+Researcher Contact: 
+Researcher Address: 
+Ranking, Interest: 1
+Ranking, Commercial: 2
+References: ISNE 1994, pp 451-465.
+Last Ref. & Date: ISNE 1994.
+File Name: WISEMAN1
+Date Last Modified: 7/23/97
+
+ Return to the INE Devices Page 
+ Return to the INE Inventors Page 
+ Return to the INE Interest Ranking Page 
+ Return to the INE Commercial Ranking Page 
+
+www.padrak.com/ine/db/wiseman1.html 
+Jul. 31, 1998.
