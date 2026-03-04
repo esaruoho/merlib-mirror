@@ -1,9 +1,8 @@
-#!/opt/homebrew/bin/bash
+#!/usr/bin/env bash
 set -euo pipefail
 
 REPO_DIR="$(cd "$(dirname "$0")" && pwd)"
 PENDING_DIR="$REPO_DIR/queue/pending"
-MIRROR_PY="$HOME/work/merlib-dump/scripts/mirror.py"
 
 usage() {
   cat <<'EOF'

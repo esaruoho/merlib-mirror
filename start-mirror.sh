@@ -1,10 +1,12 @@
-#!/opt/homebrew/bin/bash
+#!/usr/bin/env bash
 set -euo pipefail
 
 cd "$(dirname "$0")"
 
-# Set up Homebrew environment (for python3, etc.)
-eval "$(/opt/homebrew/bin/brew shellenv)"
+# Set up Homebrew environment (macOS only)
+if [[ -x /opt/homebrew/bin/brew ]]; then
+  eval "$(/opt/homebrew/bin/brew shellenv)"
+fi
 
 echo "=== MERLib Mirror ==="
 echo "Mirroring the Internet's Modern Energy Research into a Library"

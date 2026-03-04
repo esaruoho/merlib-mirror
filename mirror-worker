@@ -1,4 +1,4 @@
-#!/opt/homebrew/bin/bash
+#!/usr/bin/env bash
 set -euo pipefail
 
 REPO_DIR="$(cd "$(dirname "$0")" && pwd)"
@@ -7,7 +7,15 @@ PROCESSING_DIR="$REPO_DIR/queue/processing"
 DONE_DIR="$REPO_DIR/queue/done"
 FAILED_DIR="$REPO_DIR/queue/failed"
 SITES_DIR="$REPO_DIR/sites"
-MIRROR_PY="$HOME/work/merlib-dump/scripts/mirror.py"
+
+# Resolve mirror.py: $MIRROR_PY env var → PATH lookup → default
+if [[ -z "${MIRROR_PY:-}" ]]; then
+  if command -v mirror.py &>/dev/null; then
+    MIRROR_PY="$(command -v mirror.py)"
+  else
+    MIRROR_PY="$REPO_DIR/mirror.py"
+  fi
+fi
 
 # 1GB threshold in KB (1048576 KB = 1 GB)
 MAX_PUSH_SIZE_KB=1048576

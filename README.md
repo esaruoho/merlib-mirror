@@ -6,7 +6,7 @@ Using the Wayback Machine and other tools to preserve rare websites from the mos
 
 ## How It Works
 
-MERLib Mirror is a queue-based mirroring daemon. Submit a domain or URL, and the worker fetches a complete site archive using the [Unified Mirror Engine](https://github.com/esaruoho/merlib-dump). Results are committed and pushed to this repo so they're accessible from anywhere.
+MERLib Mirror is a queue-based mirroring daemon. Submit a domain or URL, and the worker fetches a complete site archive using the bundled [Unified Mirror Engine](MIRROR-ENGINE.md) (`mirror.py`). Results are committed and pushed to this repo so they're accessible from anywhere.
 
 ### Supported Modes
 
@@ -58,6 +58,21 @@ sites/             → mirror output (one subdirectory per domain)
 ```
 !pk mirror riess.org
 !pk mirror status
+```
+
+## Setup
+
+`mirror.py` is bundled in this repo. The worker finds it automatically. If you need to override:
+
+1. **`$MIRROR_PY` environment variable** — set to a custom path
+2. **PATH lookup** — if `mirror.py` is on your `$PATH`
+3. **Default** — uses `./mirror.py` from the repo directory
+
+```bash
+# Clone and start — that's it
+git clone https://github.com/esaruoho/merlib-mirror.git
+cd merlib-mirror
+./start-mirror.sh
 ```
 
 ## Size Limits
