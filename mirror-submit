@@ -61,6 +61,15 @@ extract_domain() {
   return 1
 }
 
+extract_wayback_timestamp() {
+  local input="$1"
+  if [[ "$input" =~ web\.archive\.org/web/([0-9]+) ]]; then
+    echo "${BASH_REMATCH[1]:0:8}"  # YYYYMMDD
+    return
+  fi
+  echo ""
+}
+
 extract_path_filter() {
   local input="$1"
   local domain="$2"
@@ -147,11 +156,14 @@ queue_job() {
   local filename="${ts}_${safe_name}.job"
   local filepath="$PENDING_DIR/$filename"
 
+  local ts_to="$5"
+
   cat > "$filepath" <<JOBEOF
 target: $target
 domain: $domain
 mode: $mode
 path_filter: $path_filter
+ts_to: $ts_to
 submitted: $(date -u +%Y-%m-%dT%H:%M:%SZ)
 submitted_from: $(hostname -s)
 JOBEOF
@@ -247,8 +259,9 @@ for target in "${TARGETS[@]}"; do
   fi
 
   path_filter="$(extract_path_filter "$target" "$domain")"
+  ts_to="$(extract_wayback_timestamp "$target")"
 
-  if queue_job "$target" "$domain" "$mode" "$path_filter"; then
+  if queue_job "$target" "$domain" "$mode" "$path_filter" "$ts_to"; then
     ((queued++)) || true
   fi
 done
