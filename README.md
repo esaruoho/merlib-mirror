@@ -70,7 +70,7 @@ sites/             → mirror output (one subdirectory per domain)
 
 ```bash
 # Clone and start — that's it
-git clone https://github.com/esaruoho/merlib-mirror.git
+git clone git@github.com:esaruoho/merlib-mirror.git
 cd merlib-mirror
 ./start-mirror.sh
 ```
