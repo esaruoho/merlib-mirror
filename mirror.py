@@ -8,7 +8,8 @@ Modes:
   live URL [--seeds file.txt] [--delay 0.5]
   status DOMAIN
 
-Stdlib only. No pip dependencies.
+Optional: pip install scrapling (better TLS fingerprinting for live sites)
+Falls back to stdlib urllib if scrapling is not installed.
 """
 
 import os
@@ -21,6 +22,19 @@ import urllib.request
 import urllib.parse
 from datetime import datetime
 from html.parser import HTMLParser
+
+try:
+    from scrapling.fetchers import Fetcher as _ScraplingFetcher
+    _fetcher = _ScraplingFetcher()
+    HAS_SCRAPLING = True
+except ImportError:
+    HAS_SCRAPLING = False
+
+try:
+    from scrapling.parser import Selector as _ScraplingSelector
+    HAS_SCRAPLING_PARSER = True
+except ImportError:
+    HAS_SCRAPLING_PARSER = False
 
 # ── 1. Constants ─────────────────────────────────────────────────────────────
 
@@ -112,37 +126,40 @@ def save_progress(progress, progress_file):
 _current_delay = None  # tracks rate-limit escalation
 
 
-def fetch_url(url, timeout=60, retries=3):
-    """Fetch URL with retries + exponential backoff + 429/503 handling.
+def _fetch_scrapling(url, timeout, retries):
+    """Fetch using Scrapling (TLS fingerprint spoofing, stealth headers)."""
+    response = _fetcher.get(
+        url,
+        timeout=timeout,
+        retries=retries,
+        retry_delay=2,
+        stealthy_headers=True,
+        follow_redirects=True,
+    )
+    status = response.status
+    content_type = response.headers.get('content-type', '')
+    body = response.body if isinstance(response.body, bytes) else response.body.encode('utf-8')
+    return body, content_type, status
 
-    Returns (content_bytes, content_type_str, success_bool).
-    """
-    global _current_delay
+
+def _fetch_urllib(url, timeout, retries):
+    """Fetch using stdlib urllib (zero dependencies)."""
     headers = {'User-Agent': USER_AGENT}
-
     for attempt in range(retries):
         try:
             req = urllib.request.Request(url, headers=headers)
             with urllib.request.urlopen(req, timeout=timeout) as resp:
-                return resp.read(), resp.headers.get('Content-Type', ''), True
+                return resp.read(), resp.headers.get('Content-Type', ''), resp.status
         except urllib.error.HTTPError as e:
-            if e.code in (429, 503) and attempt < retries - 1:
-                # Rate limit — escalate delay
-                wait = 30 * (attempt + 1)
-                log(f"  Rate limited ({e.code}), waiting {wait}s...")
-                time.sleep(wait)
-                if _current_delay is not None:
-                    _current_delay = min(_current_delay * 2, 10.0)
-                continue
             if attempt < retries - 1:
                 time.sleep(2 * (attempt + 1))
                 continue
-            return None, f"HTTP {e.code}", False
+            return None, '', e.code
         except Exception as e:
             if attempt < retries - 1:
                 time.sleep(2 * (attempt + 1))
                 continue
-            return None, str(e), False
+            return None, str(e), 0
 
     # HTTPS failed — try HTTP fallback
     if url.startswith('https://'):
@@ -150,11 +167,40 @@ def fetch_url(url, timeout=60, retries=3):
         try:
             req = urllib.request.Request(http_url, headers=headers)
             with urllib.request.urlopen(req, timeout=timeout) as resp:
-                return resp.read(), resp.headers.get('Content-Type', ''), True
+                return resp.read(), resp.headers.get('Content-Type', ''), resp.status
         except Exception:
             pass
 
-    return None, "Max retries exceeded", False
+    return None, "Max retries exceeded", 0
+
+
+def fetch_url(url, timeout=60, retries=3):
+    """Fetch URL with retries + 429/503 handling.
+
+    Uses Scrapling if installed (TLS fingerprint spoofing), falls back to urllib.
+    Returns (content_bytes, content_type_str, success_bool).
+    """
+    global _current_delay
+
+    if HAS_SCRAPLING:
+        try:
+            body, content_type, status = _fetch_scrapling(url, timeout, retries)
+        except Exception:
+            # Scrapling failed entirely — fall back to urllib for this request
+            body, content_type, status = _fetch_urllib(url, timeout, retries)
+    else:
+        body, content_type, status = _fetch_urllib(url, timeout, retries)
+
+    if status in (429, 503):
+        if _current_delay is not None:
+            _current_delay = min(_current_delay * 2, 10.0)
+        return None, f"Rate limited ({status})", False
+    if isinstance(status, int) and status >= 400:
+        return None, f"HTTP {status}", False
+    if body is None:
+        return None, content_type, False
+
+    return body, content_type, True
 
 
 # ── 5. Content validation ───────────────────────────────────────────────────
@@ -326,8 +372,8 @@ def extract_text(html):
 
 # ── 10. Live crawl support ──────────────────────────────────────────────────
 
-class LinkExtractor(HTMLParser):
-    """Extract links from HTML for live crawling."""
+class _LinkExtractorHTML(HTMLParser):
+    """Extract links from HTML using stdlib HTMLParser (fallback)."""
 
     def __init__(self, base_url):
         super().__init__()
@@ -349,6 +395,42 @@ class LinkExtractor(HTMLParser):
         if href and not href.startswith(('#', 'javascript:', 'mailto:', 'data:')):
             full = urllib.parse.urljoin(self.base_url, href)
             self.links.add(full)
+
+
+def extract_links(html_content, base_url):
+    """Extract links from HTML. Uses Scrapling if available, else HTMLParser."""
+    text = html_content if isinstance(html_content, str) else html_content.decode('utf-8', errors='replace')
+
+    if HAS_SCRAPLING_PARSER:
+        page = _ScraplingSelector(text)
+        links = set()
+        for a in page.css('a[href]'):
+            href = a.attrib.get('href', '')
+            if href:
+                links.add(urllib.parse.urljoin(base_url, href))
+        for img in page.css('img[src]'):
+            src = img.attrib.get('src', '')
+            if src:
+                links.add(urllib.parse.urljoin(base_url, src))
+        for img in page.css('img[data-lazy-src]'):
+            src = img.attrib.get('data-lazy-src', '')
+            if src:
+                links.add(urllib.parse.urljoin(base_url, src))
+        for link in page.css('link[href]'):
+            href = link.attrib.get('href', '')
+            if href:
+                links.add(urllib.parse.urljoin(base_url, href))
+        for script in page.css('script[src]'):
+            src = script.attrib.get('src', '')
+            if src:
+                links.add(urllib.parse.urljoin(base_url, src))
+        links = {l for l in links if not l.startswith(('javascript:', 'mailto:', 'data:', '#'))}
+        return links
+
+    # Fallback: stdlib HTMLParser
+    extractor = _LinkExtractorHTML(base_url)
+    extractor.feed(text)
+    return extractor.links
 
 
 def should_skip_url(url, domain):
@@ -938,11 +1020,9 @@ def run_live(url, seeds_file=None, delay=None, max_pages=None, output_base=None)
             urllib.parse.urlparse(page_url).path)[1])
         if is_html:
             try:
-                html = content.decode('utf-8', errors='ignore')
-                extractor = LinkExtractor(page_url)
-                extractor.feed(html)
+                found_links = extract_links(content, page_url)
                 new_count = 0
-                for link in extractor.links:
+                for link in found_links:
                     link = urllib.parse.urldefrag(link)[0]
                     if link in seen:
                         continue

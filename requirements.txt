@@ -1,0 +1,3 @@
+# Optional — mirror.py works without any dependencies (stdlib urllib fallback)
+# Install scrapling for better TLS fingerprinting on live sites
+scrapling

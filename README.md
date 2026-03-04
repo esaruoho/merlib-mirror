@@ -89,6 +89,15 @@ cd merlib-mirror
 
 Sites under 1 GB are automatically committed and pushed to GitHub. Sites over 1 GB are committed locally but not pushed, to stay within GitHub's repository size guidelines.
 
+## Dependencies
+
+No dependencies required — works with Python stdlib out of the box.
+
+**Optional:** Install [Scrapling](https://github.com/D4Vinci/Scrapling) for better TLS fingerprinting and stealth headers when crawling live sites:
+```bash
+pip install scrapling
+```
+
 ## License
 
 MIT
