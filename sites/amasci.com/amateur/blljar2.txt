@@ -1,0 +1,297 @@
+**************************************************************************
+*  -----------------------------------                 ----------------  *  
+*   the Bell Jar (electronic version)                  #2 (October 1994) *  
+*  -----------------------------------                 ----------------  *  
+*                                                                        *
+*  This newsletter contains material which has been extracted from the   *
+*  hard-copy newsletter of the same name. Devoted to the vacuum          *
+*  experimenter, the intent of "the Bell Jar" is to broaden interest     *
+*  in vacuum technology through useful discussions of theory and         *
+*  technique, and to present ways in which a variety of apparatus may    *
+*  be assembled using common and inexpensive materials. Information      *
+*  on "the Bell Jar" may be obtained by sending email to the editor,     *
+*  Steve Hansen, at shansen@tiac.net or by writing to 35 Windsor Dr.,    *     
+*  Amherst, NH 03031. Please feel free to circulate this electronic      *
+*  version, intact, to others who might be interested in the subject     *
+*  matter. New numbers will be mailed at approx. quarterly intervals.    *
+*  Email subscriptions are free and may be obtained by contacting the    *
+*  editor. Comments, contributions and criticisms are always welcome.    *
+*  Copyright 1994, Stephen P. Hansen.                                    *
+**************************************************************************
+
+Notice:
+
+After the posting of the first issue of this newsletter, several people
+sent me email requesting to be put on the distribution list for subsequent
+issues. Failing to place the requests in a safe file area, those 
+requests were deleted. Please try again and I will maintain a protected
+copy of the distribution list.
+
+In this issue:
+
+Old TV tubes are used as cold cathode x-ray emitters in a simple
+apparatus developed by Bob Templeman. With some beam tubes, the
+intensity is adequate to make x-ray photographs of objects using
+standard films.  
+
+Summary of the contents of "the Bell Jar" for the 1992, 1993 and 1994 
+volumes plus a look-ahead to 1995.
+
+                       ***********************
+
+GENERATING X-RAYS WITH RECEIVING TUBES
+
+This article, which describes the experiments of Bob Templeman of
+Chicago, IL, is condensed from material originally presented in
+Volume 3, Numbers 1 & 2 (Winter & Spring 1994) of "the Bell Jar". Full 
+circuit schematics as well as sample radiographs are presented in the 
+original articles.
+
+Introduction: Cold and Hot Cathode X-Ray Tubes
+
+     The earliest x-ray tubes were of the cold cathode variety.
+These tubes, referred to as Crookes or Hittorf tubes, were of the
+general class of gas tubes since the pressure  had to be in the
+`soft' vacuum range (about 10-3 to 10-4 Torr) to permit the
+passage of electrons from the cathode to the x-ray producing
+target in a so-called `dark' discharge. Higher pressures would
+result in a luminous discharge (as in a neon lamp) with only a
+small potential drop across the tube. Lower pressures (a `hard'
+vacuum) would result in no current flow regardless of applied
+voltage.  
+     The cold cathode tube went out of use shortly after 1910
+when W. D. Coolidge introduced a tube with a hot cathode
+(thermionic) electron emitter. The Coolidge tube, which uses 
+high vacuum (i.e. below 10-5 Torr), has a number of advantages
+over the gas tube.
+     With the gas tube, the electron current, at a given voltage,
+is dependent the voltage across the tube which, in turn, can vary
+depending upon the degree of vacuum. Furthermore, the degree of
+vacuum will change over time. This will affect the spectrum
+(hence the penetrating quality) of the x-ray output as well as
+the intensity. With a heated cathode in a high vacuum tube, the
+electron current may be controlled simply by varying the filament
+temperature. Then, by varying the voltage across the tube, the
+penetrating power of the x-rays (a function of the x-ray energy)
+may be varied. Thus, two important parameters may be controlled
+independently. 
+
+Using Receiving Tubes in a Cold Cathode Mode
+
+     Bob Templeman has been able to use conventional vacuum tubes
+as cold cathode x-ray tubes. He has done most of his work with
+the 6BK4B, a beam triode used for voltage regulation of high
+voltage, low current dc power supplies in color and 
+black-and-white television sets. The tube has an octal base and a
+plate cap. Bob has also tried several other tubes including the
+6EN4 (which is very similar to the 6BK4B), 3AT2, 3CZ3A, and 3BW4.
+He has found that all will emit measurable amounts of x-radiation
+but only the beam tubes appear to provide sufficient radiation to
+expose standard films. 
+     Since the tube is operated in a cold cathode mode, the
+tube's degree of vacuum is quite important. Bob found that about
+one in eight tubes is able to produce enough radiation to expose
+his film. One might ask "why not just heat the filament to get an
+assured, controlled emission of x-rays?" The answer lies in the
+basic characteristics of a high vacuum diode.  A `normal' vacuum
+diode, such as a rectifier tube, operates in a region where the
+tube current varies nearly linearly with the voltage drop. Thus,
+substantial increases in current would be required to produce a
+voltage drop across the tube significant enough to produce useful
+levels of x-rays. For normal tubes, the current would be well in
+excess of the tube's power rating.  Normal operation for a
+rectifier tube is moderate to high current with a low voltage
+drop.
+     What is good for rectifiers is not good for x-ray tubes. In
+the case of the x-ray tube, the tube is operated in the upper
+part of the characteristic curve, the 'saturation' region. In
+this mode, the voltage can be increased with little increase of
+electron current. Getting the right balance between current and
+voltage is part of each tube's design. Also, as noted before,
+varying the filament temperature (e.g. by means of varying the
+filament voltage) allows the intensity of the tube's output to be
+adjusted. For each filament temperature, there is a different
+current vs. voltage characteristic.  
+
+The High Voltage Power Supply
+
+     Bob uses a TV flyback driven voltage multiplier to power his
+tubes.  This is a fairly common implementation using a pair of
+general purpose NPN transistors to drive a 10 turn  primary which
+is added to a stock flyback. 
+     The multiplier is of the cascade (Cockcroft-Walton) type. A
+modular tripler scavenged from a TV set can be used as these can
+usually be pushed to about 40 kV without failing. A better
+alternative is to make the multiplier from scratch using discrete
+diodes and ceramic disk capacitors. The diodes should be rated at
+20 kV. A good value for the capacitors would  be 0.001 mF at 15
+kV. 
+     As the flyback circuit will provide about 10 kV into the
+multiplier, six stages are required to boost the voltage to a
+maximum of 60 kV. 
+     The multiplier can be assembled on a piece of bare perf
+board with good separation between the components. To avoid
+excessive leakage or arcing, immerse the whole multiplier
+assembly in mineral oil. A rectangular plastic food storage dish
+makes a good container for this assembly.
+     A means of measuring the high voltage output is essential. A
+resistive divider is appropriate for this application. However,
+standard components are not suitable for high voltages, low
+current measurements. A good circuit for measuring the output
+voltage is a potted TV focus divider (RCA SK series or
+equivalent) which contains the necessary high voltage/high value
+resistors. The only additional components needed are one external
+resistor and a standard high impedance dc meter.
+     When testing the completed multiplier, avoid the temptation
+to draw sparks from the output. This will only stress the
+components and lead to premature failure.
+
+Producing X-Rays
+
+     When all is set with the high voltage circuitry and several
+candidate tubes are in hand, it is time to try generating some
+x-rays. First, make sure that you have an operating x-ray
+monitor. This will be needed for checking tubes for output as
+well as for checking the effectiveness of the shielding. Bob uses
+a simple Geiger counter circuit which is provided as a kit from
+Electronic Goldmine (P.O. Box 5408, Scottsdale, AZ 85261). This
+kit, #C6430, which has an audio output, currently lists for
+$59.95.
+     Bob notes that the tubes tend to operate better when the
+normal cathode is positive, probably because of the slightly
+higher impedance in this configuration. As this tube element is
+smaller, the image tends to be a bit sharper. Still, receiving
+tubes are relatively diffuse emitters of x-rays and the images
+will be slightly fuzzy.
+     X-rays are nothing to be treated casually. Bob surrounds 
+his tubes with 2 to 4 inches of lead. (At 60 kV, 1/16 inch of
+lead is the absolute minimum.) Maintaining a dosimetry program is
+advisable and some suggestions are provided later in the article.
+Finally, the safest practice is to operate the tube from a remote
+location.
+     Arc-over is a problem at the voltages Bob has been using.
+Encasing the tubes in wax was tried but found to be only
+partially effective. Bob's prize 6EN4, the best emitter of
+x-rays, was destroyed in spite of this encapsulation. Immersing
+the tubes in mineral oil appears to be more effective. (Watch
+your druggist's face when you purchase the several bottles of
+mineral oil which will be needed for insulation of the tube and
+multiplier!)
+     Even operating in a cold cathode mode, the current through
+these tubes at 40 to 60 kV is enough to cause heating.
+Furthermore, as the tube elements warm up, the cathode begins to
+emit electrons thermionically. This leads to increasing
+dissipation, lowered potential, and a shift of the x-ray emission
+toward the soft, less penetrating, region of the spectrum. 
+     Bob supplied a number of radiographs which were printed with
+the original article. These showed the internal circuitry of
+several potted modules as well as the internal structure of a
+.308 Winchester rifle shell. 
+     The best radiographs taken to date have used Agfapan 400 sheet
+film. Typical exposures were 30 minutes with the tube about 8.5
+inches from the film plane. With a negative bias of 40 kV applied
+to the plate cap, the tubes draw about 20 microamps.
+     Bob has been investigating the sensitivities of various
+phosphors to the x-rays emitted from his tubes. He had no luck
+with the phosphor salvaged from a fluorescent light tube but he
+did get a faint fluorescence from the phosphor scraped from the
+face of a broken color picture tube. The brightness was about
+comparable to that from a piece of standard medical rare earth
+phosphor x-ray intensifier screen.
+
+Dosimetry
+
+     Any person who regularly works with any combination of high
+voltage and vacuum should maintain a dosimetry program.  
+     Landauer (2 Science Road, Glenwood, IL 60425-1586, (708)
+755-7000) provides film and thermoluminescent (TLD) dosimeters as
+part of their service. These are provided as either wearable
+badges or as room monitors. To sign up for the service you select
+a monitoring frequency (weekly, monthly, quarterly) and pay a
+small set-up fee plus a year's payment in advance. Before the end
+of each monitoring period, you receive a new badge. At the end of
+each period you send in the current badge and within 5 days you
+receive a report giving dosage for the period plus cumulative
+dosage. For a TLD dosimeter sensitive to x-ray, gamma, and beta
+radiation with a quarterly schedule, the cost is under $100 for a
+year.
+     Another approach to dosimetry and one which gives a
+continuous record is a Geiger counter provided by Aware
+Electronics (P.O. Box 4299, Wilmington, DE 19807, (302)
+655-3800). Their RM-60 is a small monitor which interfaces
+directly to an IBM compatible computer via a phone type cable to
+the serial or printer port. A dedicated PC is not required as the
+software gathers the data and stores it to disk even while the
+computer is running other applications. The software displays the
+data in a scrolling bar chart format with date and time for each
+bar. Also provided is the cumulative average dosage. Cost for the
+RM-60 package is about $150.  Aware's catalog also describes
+several other radiation monitoring items.
+
+Further Reading
+
+     Using standard vacuum tubes to produce x-rays is nothing
+new. C. L. Stong's "Scientific American Book of Projects for the
+Amateur Scientist" (Simon and Schuster, 1960) has a chapter
+describing Harry Simons' impressive experiments using antique 01
+tubes driven by a homebuilt Oudin coil. Mr. Simons also
+fabricated a variety of his own tubes, simple bulbs with a
+sealed-in molybdenum cathode with a magnesium target. The latter
+was deposited on the inside of the bulb, opposite the cathode, 
+and was capacitively coupled to the Oudin coil by means of a
+layer of aluminum foil which was wrapped on the outside of the
+bulb. Simons evacuated his tubes to 0.1 mTorr before sealing.
+     A large number of books are available which deal with the
+physics of x-rays, x-ray production, radiographic techniques, and
+safety. Before proceeding too far with experimentation with
+x-rays, please visit your local library to obtain further
+background information, particularly with regard to  safety
+issues.
+
+                       ***********************
+
+"the Bell Jar": CONTENT SUMMARY FOR 1992-1994; PLANS FOR 1995
+
+1992-Vacuum basics, elements of an amateur's system, conversion of 
+refrigeration and auto a/c compressors to vacuum service, a discharge
+tube gauge, magnetically driven plasma accelerators demonstrated with
+a rail gun, history of vacuum units, a mini system for fabricating
+graded density optical filters, a universal thermocouple gauge 
+controller.
+
+1993-Plasma apparatus developed from microwave ovens, vacuum system
+operation, a coaxial plasma gun, synthesizing fullerenes, easy 
+fabrication of glass to metal seals, reconfigurable vacuum chambers  
+standard glassware components, a baffle chiller made from a room 
+dehumidifier, exploding wires, units of outgassing, Magdeburg hemispheres 
+made from plastic pipe fittings, production of low temperatures, a 
+homebuilt diffusion pump, principle of the pseudospark electron beam 
+source.
+
+1994-Experiments with x-rays produced by receiving tubes, building a 
+multiplate chamber pseudospark electron beam source, a kit of components 
+for conducting gaseous discharge and electron beam experiments, building 
+a simple cathode ray tube, a De Forest style audion triode, electron 
+optics kits from the 50's and 60's, a simple chilled baffle for small 
+diffusion pumps, an amateur's homemade transmission electron microscope, 
+compression fittings from the sink drain, simple electrical feedthroughs,
+amateurs rebuild a large vacuum coater for telescope mirror making, original
+thought experiments in vacuum, a 250 kV impulse transformer, a cheap
+oil mist filter, simple ways of making electron and ion optics, a radio
+using the homemade vacuum triode, cleaning procedures for epoxy bonding.
+
+Plans for 1995 (and probably beyond) include simple apparatus for 
+classroom use, simple Pirani and Penning gauges, a windowed vacuum tube 
+for transmitting electron beams into the air, ideas for original research, 
+a shock tube for simulating micrometeorite impacts, the Mather device, 
+a crossed-field tube capable of initiating nuclear reactions, a 1-1/2" 
+diffusion pump, topics in ultra-high vacuum, novel high voltage pulse 
+and dc power supplies, vacuum coating, demonstrating the multipactor 
+(electron multiplication) effect.
+
+
+
+
+
+
+                                                           *************tBJ

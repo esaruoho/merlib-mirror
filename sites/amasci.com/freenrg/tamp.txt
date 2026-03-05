@@ -1,0 +1,103 @@
+> From: Troy Dawson <td@twics.com>
+> Newsgroups: sci.physics.research
+> Subject: Tampere Replication -- How to
+> Date: Saturday, January 11, 1997 5:34 AM
+> 
+> [Moderator's Note: as directed by the author, please follow up by
+> e-mail until this experiment is made public. The author of the article
+> has informed me that his intent was primarily to make it known how
+> easily reproduced this experiment is, presumably in the hope of
+> wide spread replication. Hopefully papers describing these replication
+> attempts will be forthcoming for our future discussion. -WGA]
+> 
+> A researcher in Ohio has attempted to replicate Podkletnov's
+> gravity modification superconductor results.
+>  
+> The Setup
+> ---------
+> 
+>  1) 1" YBCO superconducting disc.
+> 
+>  2) Magnetic field generator (producing a 600 gauss/60Hz EM field). 
+>  
+>  3) Pan-and-beam balance:
+> 
+>     Beam: bamboo, coming to a point on one end (24.6cm long,
+>     weight 1.8647g) 
+> 
+>     Pan: a cardboard rectangle (15.8cm x 10.0cm x 0.131mm) is suspended 
+>     from the balance with 28.1cm of cotton string.
+>     
+>     A polystyrene "pan" (7.2cm x 8.7cm x 1.78 mm) is attached with paper
+>     masking tape to the cardboard rectangle.
+>  
+>     The pan assembly (w/ string, cardboard, tape) weighs 1.6502g.
+>  
+>     The balance is suspended from the end of a 5' wood beam by ~30cm
+>     of monofilament fishing line (8lb. test) attached to the balance's
+>     center of mass (5.5cm from the pan end).
+> 
+>     The other end of the crossbeam is firmly anchored by a heavy
+>     steel tripod (normally used for holding photographic lights).
+> 
+>  4) Thermal and EM isolation is hopefully provided by a glass plate
+>     (15cm x 30cm, 0.7cm thick) with a brass screen attachment.
+> 
+>     This plate-and-brass-screen assembly is held about ~4.5cm below the
+>     pan by a '3-finger' ring stand clamp.
+>  
+>  5) A straightsided, 6" diameter, 10" deep dewar with 3 - 4" of
+>     liquid nitrogen is used to cool the sc below its Tc, and is
+>     removed from the experiment area before the trial.
+>  
+>  
+> Experiment Procedure
+> --------------------
+> 
+>  1) The YBCO superconductor is placed in a liquid nitrogen bath and
+>     allowed to come to liq N temp (as indicated when the boiling of
+>     the liq N ceases). The sc will remain below its 90C Tc for the
+>     duration of the trial (less than 20sec).
+>     
+>  3) The disc is then removed from the bath & placed on a strong NdFeB
+>     magnet to induce a supercurrent. The Meissner effect is counteracted
+>     by a wooden stick. The sc disc has a cotton string attached to it to
+>     assist handling.
+>     
+>  3) The HTSC and wooden stick assembly is placed on the EM field
+>     generator, about 33cm below the glass/screen isolation plate.
+> 
+>     The HTSC is ~40cm *directly* below the pan.
+>     
+>  4) The AC field generator is then cycled for ~ 5sec with 0.75sec
+>     equal-time on/off pulses.
+> 
+> 
+> Experiment Findings
+> -------------------
+> 
+>  o  While AC current was flowing though the AC field generator, the
+>     balance pointer was deflected 2.1mm downward.
+> 
+>  o  When the AC field generator was pulsed with no superconductor
+>     present, there was no measurable pointer deflection.
+> 
+>  
+> Experimenter's Comments
+> -----------------------
+>  
+>  o  The additional pan weight required to *raise* the balance pointer
+>     2.1mm was later found to be 0.0891g (~5% of the pan's weight).
+> 
+>  o  The idea was that the 'column' of modified gravity (as described by
+>     Podkletnov) HAS to hit the pan somewhere ...as the HTC is only 1"
+>     diameter and the pan is larger.
+> 
+>  o  Only one experimental setup was constructed, with several trials.
+>     The experimenter welcomes further replication attempts & comments.
+> 
+> ==
+> 
+> Please direct questions & comments to e-mail, as further
+> discussion on s.p.r seems unwarranted as of yet.
+> 

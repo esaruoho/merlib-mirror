@@ -1,0 +1,112 @@
+WILLIAM J. BEATY							Home:   206-789-0775
+7540 NW 20th Ave							email: billbeskimo.com
+Seattle, WA 98117							http://amasci.com/me.html
+
+		      ELECTRICAL AND SOFTWARE ENGINEER
+	Ten years experience in EE /SWE.  Extremely fast learner.  Strong 
+	communication skills.  Creative problem solving in HW, SW, test, and 
+	production.  Strong in analytical & debugging, yet also a creative,
+	intuitive thinker. 
+
+TECH SKILLS 
+   - Fluent in C and assembler, device level programming, realtime, interrupts.
+   - Extensive experience in embedded HW design, embedded SW, device drivers
+   - HW & SW for realtime background diagnostics
+   - PCB Design, low noise layouts for industrial EMI/ESD, Tango
+   - Hi-volume, multi product manuf issues, qual test, prod test planning, stats
+   - Expert HW/SW debugger, component level troubleshooting
+   - Robotics & motion control, electromechanical design and prototype fab
+   - Test equip: simulators, emulators, DSOs, RF
+   - Simulations of physics/electronics systems, motion control
+   - High voltage design: cap discharge, electrostatics
+   - Creation of novel physics edu. devices and science museum physics demos
+   - Proto shop: smd, pcb fab, lathe, bandsaw, drillpress, etc.
+   - Software Experience:
+	C, assembler, basic, html, pals
+	Assembler for: Hitachi SH2 & H8, PIC16Cxx, MC68x05, 808x, 6502
+	OS:  Microscan RTOS,  IrDA stack,  msDOS, Unix
+	Apps: Autocad 9, pSpice, Tango schem/PCB, EWB, Win3.1
+	Art: Illustrator, Freehand, Paintshop
+	
+TECH KNOWLEDGE
+   - BSEE, University of Rochester, NY
+   - Tech writer, tech trainer, conference presentations
+   - Vacuum systems,  power RF,  glassblowing
+   - Website design, Perl/CGI
+   - 3D display technology, some optical design
+   - Artist w/Freehand and Adobe Illustrator
+   - Software training:
+	C, C++, Phillips CAN bus, perl/CGI, Unix/C,  Moto 68000,
+	Win3.1/C++, Fortran4, Forth
+
+2001 - pres RESEARCH ENGINEER, CHEMISTRY DEPT., U. OF WASHINGTON, SEATTLE
+
+1997 - 01  SOFTWARE ENGINEER, MICROSCAN SYSTEMS, RENTON WA
+Extensive embedded programming in C and assembler (H8, SH2) on four major laser
+scanner products.  Completed all IrDA stack integration and IrDA hw design for
+one product.  Added background diagnostics, network autoconfig to several 
+scanners.  Wrote file utils under msDOS.  Ported an entire product's assem. to
+C.  Designed ESD/EMI hw interfaces.  Solved motion control PID issues w/sim 
+of physics and of FPGA firmware in C.
+
+			Page 1 of 2
+------------------------------------------------------------------------------
+			Page 2 of 2			WILLIAM J. BEATY
+
+1993- 97 OPTOELECTRONIC DESIGN ENGINEER, CUTLER-HAMMER, EVERETT WA Project 
+engineer in an ISO-9001 environment.  Took Zero-pressure conveyor sensor 
+net from brainstorming to full production, including mcu design and 
+embedded SW.  Solved ESD/EMI immunity issues for many existing products.  
+FMECA, marg. analysis, component stats etc.  Team lead on thru-beam sensor 
+redesign for EMI immunity, PCB, etched shielding, multiple production 
+issues.  Planned and implemented qual testing on thrubeam, wafer scanner, 
+& slot sensor projects.  Wrote motor contr sw for wafer scanner product 
+R&D and qual testing.  Conceived, designed, and built numerous fast-turn 
+sensor prototypes for new product proposals.  Training & experience in ISO 
+product development procedures, structured team problem solving, 
+corrective action procedures.
+
+1991- 93  ELECTRICAL ENGINEER & CO-OWNER, TEKNOS INC. SEATTLE, WA
+Designed/fab many interactive science exhibit devices and embedded controllers.
+Designed user interface hw for high-abuse environments.  Extensive design and 
+programming with Motorola 8-bit embedded controllers,  hw interfacing, assy. 
+lang. routines for realtime high speed control, and product/software tech 
+writing. Embedded designs: Insect matching game with scanned electrostatic prox 
+sensors & light/sound control. "Cannon car" physics demo w/motion control.  
+Designed hall-effect maglev track, ramped-on-off projector lamp preserver, 
+outreach electricity kit with devices to make electricity flow visible.  
+Designed 100 KV Tesla coil for commercial lightning photography.  Designed PC-
+based fiber optic stepper motor shutter system.  Extensive use of digital and 
+analog design, PC interface, PCB design and CAD, desktop PCB fab, component 
+level debug, wire wrap.
+
+1989 - 91   CONCEPTS FORMULATION,  DINAMATION INT'L INC., SEATTLE, WA
+Designed robotic motion controls and interactive museum exhibits in water 
+physics, electricity, and optics.  Designed and built PC interfaces for robotic 
+dinosaurs.  Wrote PC software for robot sequencer programming and motion 
+editing.  Designed and built the computer, motion control, power, audio, drive 
+subsystems, and  enclosures for Giant Earthquake table exhibit, Giant Shark 
+Robot, Giant Whale Robot, interactive water fountain, "Frozen Water" LED strobe 
+fountain, and  Rainbow Projector exhibits. Designed electricity and physics edu
+products for Dinamation's school outreach  programs.  Tech writing: Created 
+exhibit artwork, lables, and product manuals using Illustrator, MSWord.  PCB 
+design and fab.  Debug & repair of PCs & motion control. equipment.
+
+OTHER EMPLOYMENT:
+
+ELECTRICAL ENGINEER,  MUSEUM OF SCIENCE,  BOSTON
+Created numerous devices for exhibits on Robotics & AI, Electricity/Electronics,
+Chaos &  Fractals, Newtonian Mechanics, 3-D Technology, and Telephone 
+Technology.  Extensive use of TTL, CMOS, and analog circuit design & fab,
+triac power control, computer interfacing, systems programming in assembler,
+AV Systems Integration, and pcb design & fab.   Systems programming of PC, 
+Apple, Wang, and DG-Eclipse computers.  Wrote numerous articles on explaining 
+physics to the public.  Wrote articles on physics misconceptions, gave 
+lectures at conventions, schools, and workshops.
+
+ELECTRICAL ENGINEER, SYKES DATATRONICS, ROCHESTER NY Redesigned hw and 
+wrote all embedded sw for "Callscan" hotel phoneline monitor products.  
+Designed interface modules and wrote sw for production test ATE system 
+(Trace Inc.)  Redesiged various proto PCBs.  Wrote EPROM monitor/debug 
+packages for several new products.  Wrote sw in assembler for Z-80 6502 & 
+6809.

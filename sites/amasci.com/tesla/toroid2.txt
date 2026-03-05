@@ -1,0 +1,24 @@
+Making an upper Toroid terminal
+ - Bill Beaty
+
+I've made a couple of small (1ft x 5in) toroids from florist's foam, that
+crunchy green stuff, bought from a foam supply co. in Seattle.  I
+"cheated" by forcing a big block of foam down onto a 5" PVC pipe and
+sculpted it on a lathe using an old file as a scraper.  I then painted
+it with resin and coated it with that adhesive foil tape sold in
+hardware stores (downspout repair tape?  Metal duct tape?) I burnished
+the tape down with a spoon.  Works great!  I bet you could make a very
+large terminal this way by building a hot-wire bandsaw and using blocks of
+styrofoam.  The surface needs to be painted with polyester coating or
+something similar, to give the foil tape something smooth and solid to
+stick to.
+
+Another possible technique is to cover a large balloon with several 
+layers of Elmer's-glue-wetted newspaper strips, then while it is still 
+wet, carefully crush the balloon into a torus shape with some sort of 
+wooden bracket (like a big, crude C-clamp)  When dry, this papier-mache 
+form can be coated with the same adhesive foil as above.  This technique 
+was used by a hobbyist in Wisconsin to create 4ft diameter VandeGraff 
+terminals of various shapes.
+
+

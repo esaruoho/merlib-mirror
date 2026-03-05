@@ -1,0 +1,327 @@
+                        
+                         A LEGAL OPINION OF THE HONES PATENT 
+                        IN LIGHT OF TWO PRIOR ART REFERENCES
+
+I. ISSUE POSED
+
+The validity of the invention disclosed in US Patent No. 5,404,062, issued
+on April 4, 1995 - commonly referred to as the "Hones Patent" and on which
+the commercial "Levitron" device is based - ("subject invention") over the
+following two prior art references:
+
+Ref. 1:  Roy M. Harrigan's "Levitation Device" disclosed in US Patent No.
+4,382,245 issued on May 3, 1983
+and
+Ref. 2:  "The Levitator" device disclosed in plans allegedly sold through an
+ad in Popular Science Magazine sometime prior to September 29, 1992
+
+II. REQUIREMENT FOR PATENTABILITY
+
+Under the United States Patent Law, an invention must satisfy the following
+three requirements to be patented:
+
+(i) Utility;
+(ii) Novelty; and
+(iii) Non-obviousness.
+
+III. SUBJECT INVENTION
+As shown in the claims of the subject invention, the subject invention may
+be classified into the following two categories: 
+
+(i) A levitation device comprising a first magnet having a first axis, a
+polygonal periphery and a substantially planer first surface; a second
+magnet having a second axis and a second surface; and means for rotating
+said second magnet about the second axis (see claims 1 to 14); and
+
+(ii) A method of levitating a magnet comprising the steps of supporting on a
+horizontal surface a first magnet having a first axis and an upper surface;
+placing a non-magnetic lifter plate over the upper surface of the first
+magnet; placing a second magnet having a second axis and a lower surface on
+said lifter plate; spinning the second magnet about the second axis;
+substantially aligning the second axis of the second magnet with the first
+axis of the first magnet; raising the lifter plate vertically upwardly from
+the first magnet; and removing the lifter plate from between the first and
+second magnets (see claims 15 to 20).
+
+IV. VALIDITY OF THE SUBJECT INVENTION
+ 
+1. Claim 1 of the subject invention
+
+A levitation device in accordance with claim 1 of the subject invention
+comprises: 
+
+(a) a first magnet having a first axis, a polygonal periphery and
+substantially planar first surface, said first magnet being magnetized
+normal to said first surface and parallel to said first axis such that said
+first surface has a first polar orientation;
+
+(b) a second magnet having a second axis and a second surface, said second
+magnet being magnetized normal to said second surface and parallel to said
+second axis such that said second surface has the same orientation as the
+first surface of the first magnet; and
+
+(c) means for rotating said second magnet about the second axis whereby when
+said second magnet is rotated and disposed vertically above said first
+magnet with the first and second surfaces in confronting relation, said
+second magnet levitates over said first magnet.
+
+However, Ref. 1 discloses a levitation device in accordance with claim 1
+comprising a first magnet, a second magnet and means for stabilizing said
+second magnet over said first magnet.  It is self-evident that a first
+magnet of Ref. 1 has a first axis and a first surface, said first magnet
+being magnetized normal to said first surface and parallel to said first
+axis such that said first surface has a first polar orientation.  It is
+further clear that the second magnet has a second axis and a second surface,
+said second magnet being magnetized normal to said second surface and
+parallel to said second axis such that said second surface has the same
+orientation as the first surface of the first magnet.  The means for
+stabilizing said second magnet over said first magnet in Ref. 1 is
+considered as means for rotating the second magnet as shown in lines 25-29,
+column 2.  The only difference between the subject invention and Ref. 1 is
+the shape of the first magnet.  That is, a shape of the subject invention
+has a polygonal periphery and a substantially planar surface, whereas Ref. 1
+has a dish-shaped first magnet with concave surface.
+
+Furthermore, Ref. 2 clearly describes a levitation device with a composite
+of ceramic rectangular magnets whose function is to repel and constrain the
+vehicle - and there is no difference between the shape of the first magnet
+in both the subject invention and Ref. 2.  Also, Ref. 2 shows a ring magnet
+and a vehicle spinner which are equivalent to the second magnet and means
+for rotating the second magnet of the subject invention, respectively.
+
+Accordingly, we tend to believe that claim 1 of the subject invention is
+invalid as being anticipated by the disclosures contained in Ref. 2.
+
+2. Claim 2 
+
+The levitation device of claim 2 of the subject invention further limits the
+periphery of the first magnet to be a square.  In view of the rectangular
+shape of the magnetic levitation support plate of Ref. 2, the above
+limitation is meaningless; and, therefore, we are of the opinion that claim
+2 still lacks novelty.
+
+3. Claim 3
+
+Although the levitation device of claim 3 of the subject invention further
+limits the first and the second magnets to be ceramic magnets, Ref. 2
+indicates ceramic rectangular magnet and pivoted ceramic ring magnet.
+Accordingly, claim 3 does not add any novel element to claim 1; and,
+therefore, claim 3 also lacks novelty.
+
+4. Claim 4
+
+Claim 4 of the subject invention describes that the second magnet comprises
+a ring magnet having a central hole, the second surface being substantially
+planar, said rotating means comprising a spindle affixed in said central
+hole.  However, since the second magnet system is identical to the magnetic
+levitation vehicle with vehicle spinner of Ref. 2, the limitation of claim 4
+does not constitute any patentable subject matter.  In this regard, claim 4
+undoubtedly lacks novelty.
+
+5. Claim 5
+
+Claim 5 of the subject invention includes means for varying the weight of
+said second magnet to change the height above said first magnet at which
+said second magnet levitates.  However, Ref. 1, in lines 46-55, column 2,
+clearly teaches that weights can be added or removed to control the weight
+of the second magnet. The same weight control means is also illustrated in
+Ref. 2.  Therefore, claim 5 does not add any novel matter to claim 1.
+
+6. Claim 6
+
+Claim 6 of the subject invention shows that said weight varying means
+comprises at least one washer having a central opening adapted to fit over
+said spindle.  As can be seen in Fig 1 of Ref. 1, washer 11 is illustrated
+to have a central opening adapted to fit over the spindle 12.  Thus, the
+limitation of claim 6 cannot make the subject invention patentable.
+
+7. Claim 7
+
+As claim 7 of the subject invention mentions that said washer and said
+spindle are made of a nonmagnetic material, Ref. 2 describes that the
+vehicle spinner is made of round head brass machine screw with nut and
+rubber washer.  Such material as brass or rubber is a nonmagnetic material;
+and, therefore, claim 7 also lacks novelty.
+
+8. Claim 8
+
+Although claim 8 of the subject invention includes a lifter plate made of a
+nonmagnetic material, Ref. 1 indicates that the top assembly may be spun
+manually on a piece of aluminum or other non-magnetic material as shown in
+lines 29-31, column 2.  Accordingly, the limitation cannot make the claim 8
+invention patentable.
+
+9. Claim 9
+
+It is no doubt that the first magnet and the second magnet of both Ref. 1
+and Ref. 2 can be permanent magnets.  So, the same technical limitation of
+claim 9 of the subject invention does not add any patentable element to
+claim 1.  Claim 9 lacks novelty.
+
+10. Claim 10
+
+Claim 10 of the subject invention includes a bore disposed through the
+geometric center of said first magnet.  It is noted that an alternate
+construction of the magnet having a central bore is shown in lines 9-11,
+column 3, in accordance with Ref. 1.  In this connection, the limitation of
+claim 10 is also known by Ref. 1, and thus claim 10 is still in an
+unpatentable position.
+
+11. Claim 11
+
+Claim 11 of the subject invention includes a third magnet having a third
+surface and being positioned adjacent the geometric center of the first
+magnet, said third magnet being magnetized normal to said third surface such
+that said third surface has a polar orientation opposite the polar
+orientation of the first surface of the first magnet.  As mentioned above,
+Ref. 1 describes the base magnet to have a central bore.  Theoretically and
+experimentally, the area of the bore has a polar orientation opposite the
+polar orientation of the first surface of the base magnet.  This means that
+forming a bore in the base magnet is almost similar to place a magnet having
+an opposite magnetic orientation and provides a same magnetic effect with
+the second top magnet.  Accordingly, positioning the third magnet at the
+center of the first magnet can be easily invented by an ordinary person
+skilled in the art.  Thus, Claim 11 is obvious to a person skilled in the
+art, thereby causing the claim to lack the non-obviousness requirement.
+
+12. Claims 12 and 13
+
+Claim 12 and 13 limit that the third magnet is an electromagnet or a
+permanent magnet.  However, it is noted that the use of an electromagnet
+forms substantially the same function in substantially the same way to
+obtain the same result as with the use of a permanent magnet.  In light of
+claim 12 and 13 describing the third magnet as an electromagnet or a
+permanent magnet, it is presumed that  the subject inventors admit that both
+of the magnets have the same function and result.  Accordingly, claims 12
+and 13 are obvious to a person skilled in the art, in line with the reasons
+for claim 11 of the subject invention.
+
+13. Claim 14
+
+As claim 14 of the subject invention limits the first magnet as an
+electromagnet, it is also described, in lines 46-48, column 3 in Ref. 1 that
+the lower magnetic field may be created by suitably shaped electromagnet.
+In this regard, claim 14 is unpatentable in which every element is known and
+has no characteristic features.
+
+14. Claim 15
+
+Claim 15 of the subject invention relates to a method of levitating a magnet
+comprising the steps of:
+
+(a) supporting on a horizontal surface a first magnet having a first axis
+and an upper surface, said first magnet being magnetized normal to said
+upper surface and parallel to said first axis such that said upper has a
+polar orientation;
+
+(b) placing a non-magnet lifter plate over the upper surface of the first
+magnet; 
+
+(c) placing a second magnet having a second axis and a lower surface on said
+lifter plate, said second magnet being magnetized normal to said lower
+surface and parallel to said second axis such that said lower surface has
+the same polar orientation as the upper surface of the first magnet;
+
+(d) spinning the second magnet about the second axis while it is on the
+lifter plate; 
+
+(e) substantially aligning the second axis of the spinning second magnet
+with the first axis of the first magnet;
+
+(f) raising the lifter plate vertically upwardly from the first magnet from
+the first magnet until said spinning second magnet levitates above the
+lifter plate and the upper surface of the first magnet; and 
+
+(g) removing the lifter plate from between the first and second magnets. 
+
+Ref. 1 shows, in line 67, column 3 to line 3, column 4, "a suitable base is
+provided which will position the magnet 14 so that the cone defined by the
+arrows 16 is coincident with the gravitational force imposed on the
+assembly10."  Therefore, this method is substantially the same as the above
+step (a) of the subject invention.
+
+Ref. 1 teaches, in lines 25-28, column 2, "the top assembly 10 is given
+rotational movement about the axis thereof and positioned above the lower
+repelling magnet 14" and further describes, in lines 29-31, column 2, "the
+top assembly may be spun on a piece of aluminum or other non-magnetic
+material."  This is the same expression as step (b) of the subject invention.
+
+Ref. 1 discloses, in lines 29-31, column 2, "the top assembly may be spun
+manually on a piece of aluminum or other non-magnetic material."  This is
+the exact same procedure as step (c) of the subject invention.
+
+Ref. 1 explains, lines 29-31 in column 2, "the top assembly may be spun
+manually on a piece of aluminum or other non-magnetic material."
+Accordingly, it is readily considered that step (d) of the subject invention
+is a known method based on this description.
+
+Ref. 1 illustrates, in lines 60-62 in column 4, "when said first axis and
+said axis are coaxial."  It is acknowledged that, in technical terms, when
+the top assembly is levitated over the base magnet, the axes of the two
+magnets become naturally coaxial by the centering force to the top assembly.
+This means that the step (e) of the subject invention is also described or
+suggested by Ref. 1.
+
+Ref. 1 describes, in lines 32-34 in column 2, "the top moved by means of a
+conventional mechanism until the top reaches a height where the magnet field
+is strong enough to support it." This expression implies that the top
+assembly on the piece of non-magnetic material is raised until the top
+assembly levitates.  Accordingly, it is acknowledged that there are no
+substantial differences between the description of Ref. 1 and the step (f)
+of the subject invention.
+Ref. 1 shows, in lines 37-39 in column 2, "the non-magnetic material may
+then be removed and the top assembly 10 will be suspended with no visible
+means of support."  This explanation is just the same as step (g) of the
+subject invention.
+
+As discussed above, all of the elements of claim 15 are described by the
+Ref. 1; and, therefore, we are of the opinion that claim 15 of the subject
+invention is invalid, as it is fully anticipated by the disclosures
+contained in Ref. 1.
+
+15. Claim 16
+
+Claim 16 of the subject invention limits claim 15 on the point that said
+spinning step comprises manually spinning said second magnet.  However, in
+light of the indication in Ref. 1, in lines 29 and 30, column 2, that the
+top assembly may be spun manually, the limitation of claim 16 does not add
+any novel matter to claim 15 of the subject invention.  As long as claim 15
+lacks novelty, claim 16 is also invalid as all of the elements are described
+in Ref. 1.
+
+16. Claim 17
+ 
+Claim 17 of the subject invention limits claim 15 on the point that said
+raising step comprises manually raising said lifter plate and said removing
+step comprises manually removing said lifter plate.  Ref. 1 teaches, in
+lines 32-34, column 2, that the top is moved by means of a conventional
+mechanism.  Since the top assembly is spun manually on the non-magnetic
+material, said conventional raising mechanism undoubtedly includes manually
+raising the top assembly on the non-magnetic material and manually removing
+the non-magnetic material.  In this regard, it is considered that claim 17
+is invalid, as being obvious to a person skilled in the art.
+
+17. Claims 18 and 19
+  
+Claims 18 and 19 of the subject invention limit the shape of the first
+magnet as a polygonal periphery or a square form.  However, the polygonal or
+rectangular shape of the first magnet is described in Ref. 2, as discussed
+in claim 1.  Therefore, claims 18 and 19 are invalid.
+
+18. Claim 20
+
+Claim 20 of the subject invention includes the step of placing a third
+magnet adjacent to the geometric center of the first magnet, said third
+magnet having a polar orientation opposite the polar orientation of said
+first magnet.  As far as the third magnet is concerned, it is obvious as
+discussed in claim 11.  Accordingly, elements of claim 20 are known or
+obvious; and, therefore, it also lacks the non-obviousness requirement.
+
+V. CONCLUSION
+
+In view of the foregoing, it is concluded that claims 1-20 of the subject
+invention are invalid as they lack both the novelty and non-obviousness
+required over Ref. 1 and Ref. 2.
+
+
+

@@ -1,0 +1,167 @@
+
+OBSOLTE FILE!
+
+Moved to http://amasci.com/tesla/tradio.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+TESLA INVENTED RADIO?                                     1997 W. Beaty
+
+> In all of the mass comm books I have used over the past 20 years credit
+> for early development in radio goes to Marconi, Fessenden, De Forest
+> and Armstrong.  On occasion, and seldom at that, Tesla is mentioned. But
+> he is never discussed as a major player in the beginnings of radio.
+
+The books don't mention that Marconi's powerful transmitter was a Tesla 
+coil, nor do they point out that Marconi's radio patents were later struck 
+down because of Tesla's prior art.
+
+Tesla's problem was that he set his sights too high.  He didn't bother
+with radio communication between transmitter and receiver.  Instead he was
+aiming for a centralized *worldwide* radio communication system and
+wireless power distribution system.  He failed at this.  Another major
+problem was that Tesla apparently did not take Marconi seriously, and so
+Tesla did not fiercely defend his work when it was stolen.  The history of
+Radio was written by the winners, and since the winners' success was based
+on the stolen transmitter invention, they certainly avoided mentioning
+Tesla!
+
+Initially Tesla rejected fame and wealth, and gave away his ideas via
+lectures, rather than employing secrecy and courtroom patent-battles.  He
+also made the mistake of attempting to perfect his entire system before
+releasing it to the world, rather than releasing it immediately and then
+improving it over time.  He made radio possible, but his own dreams
+failed.  He invented modern radio, but made such serious business mistakes
+that the recognition (to say nothing of the money!) was given to others.
+
+The simplified history: Tesla, the expert in high frequency, high power
+systems, follows a vision of worldwide instantaneous communication and
+invents a radio TRANSMITTER whose output power far outstrips anything of
+the period, and which is based on several key Tesla techniques: rotary
+spark gap, lumped resonance (rather than antenna resonance,) capacitor
+energy storage, and a ground connection.  Radio recievers already existed
+(the coherer, NOT invented by Marconi but by Branly.)  Earlier radio
+systems existed, but had extremely limited range.  Tesla's amazing
+transmitter put out 1000 to 10,000 times the power of existing
+transmitters, and made worldwide communication feasible.  This was the
+status in 1893, with several patents granted to Tesla in 1898 and on.  
+Besides the transmitter, Tesla's inventions also included the four tuned
+circuits of modern radio systems: a transmitter and receiver at both ends
+of a radio link, all four using tuning.
+
+Next stage: Marconi takes the Branly coherer and Tesla's inventions, and
+commercializes them. But Tesla ignores this threat, believing that his
+completed "world system"  will be far superior than Marconi's
+demonstration, so Tesls pursues power transmission rather than simple
+communications alone, and he says something to the effect "good luck to
+Marconi, he's using seventeen of my patents."
+
+Tesla also remains aloof from the community of early radio developers
+while single-mindedly pursuing his own vision.  Nearly twenty years later
+Tesla finally takes Marconi to court.  He loses!  Though Tesla's patents
+were prior to Marconi, Marconi had the press behind him.  Marconi also had
+both the US government as well as big business behind him, and this
+probably was the reason why Marconi's patents went through in the first
+place.  Tesla was an unknown, and the judge was not a technical expert.
+Tesla loses his R&D financing in later decades, while Marconi's company is
+wildly successful.  Tesla is not vindicated until 1946, when the US
+Supreme court reverses the old decision, strikes down the Marconi patents,
+and awards priority to Tesla #645,576.
+
+See:
+http://home.navisoft.com/horn/inventor.htm
+
+Also: "Tesla, Man out of Time", Margaret Cheney, especially "The Great
+Radio Controvery."  This book references as a thorough account an article
+"Priority of Invention of Radio - Tesla vs. Marconi", from The Antique
+Wireless Association No. 4, March 1980.  (I haven't tracked this down.) 
+
+Why is Tesla ignored today?  Of course there's the old saw that "history
+is written by the winners".  This remains true even if the winners used
+dishonest means.  But there are better explanations.  Tesla lectured about
+his discoveries, and in a very short time his ideas were incorporated into
+the technical culture of the period.  When this happens, people of the
+time tend to deny that a single inventor originated the ideas, and they
+tend to believe that the ideas simply arose spontaneously in many places,
+or by unnoticed team effort.  Historians of much later decades are
+particularly prone to this mastake.  The history of the Wright Brothers
+followed a similar path; the Wrights published articles about their
+boxkite-winged glider, and within a few years everyone was copying it and
+assuming that this was the "natural way to proceed."  Only in hindsight
+does the overwhelming influence of the Wrights' boxkite-glider become
+obvious.  And so with radio, inventors copied Tesla without realizing it,
+assuming that his methods were simply the "obvious way" it should be done.  
+High-power transmitter systems, high frequency resonance and grounding,
+the keys to successful radio, were thought to be "in the air," and only
+through the hindsight of today can we see that Tesla, and not Marconi, was
+the one who put them there.
+
+My own experience as a textbook consultant points to another reason why
+Tesla is ignored:  reference books support each other.  Reference books in
+many ways strive for consistency rather than for truth.  To an extent they
+are "inbred", and to an extent their information is not absolute truth,
+but rather is a consensus perception of the truth.  However, most authors
+would vigorously deny this embarrassing view, and would prefer to believe
+that reference books contain only truth.  In other words, since most books
+say the same thing, they must all be correct, no?  No.  Not if the goal of
+consensus is placed higher than the goal of accuracy.  If concensus is
+more important than fact, then the books would be expected to all agree,
+whether their concensus facts were correct or not.
+
+For this reason it is nearly impossible to change the contents of text and
+reference books, even if the material in them is clearly erroneous.  If
+all the books say the same thing, no single author is willing to buck the
+majority and stand out from the crowd.  After all, that many books
+couldn't be wrong!  Yet if they are, then acknowledging this fact would
+rub our noses in the fragility of the foundations of our whole system of
+knowledge.  And so our maintaining of a unified front of "illusory
+truthfulness" becomes more important to us than the correcting of
+mistakes. If we must maintain respect for reference books at any cost,
+then whenever they all make major flubs, we don't correct those flubs.  
+We don't even see them, since we automatically indulge in unsupported
+disbelief, blindness, and denial.
+
+If a major mistake regarding Tesla's priority to inventing Radio is made
+in 1915, and if this mistake is not officially righted until 1946, then
+reference books and textbooks had thirty years to mistakenly elevate
+Marconi as the inventor of radio.  How many decades do you think it would
+take before the thirty years of Marconi-worship finally wears off, before
+the textbook concensus shifts and begins to recognize Tesla?  Well, fifty
+years have passed, and clamor to recognize Tesla is finally starting to be
+heard.  However, the major players currently dismiss it as coming from
+fringe groups and "Tesla worshippers."  I suspect that it will take far
+longer than fifty years before all the textbooks finally reverse
+themselves.  It can only happen slowly, so nobody is threatened or
+embarrassed.  Politics and face-saving becomes far more important than
+historical accuracy!  The real story must invade the books slowly, so no
+one is directly forced to confront the staggering extent of this
+historical error.
+
+(((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))
+William J. Beaty                            SCIENCE HOBBYIST website
+billb at amasci com                         http://amasci.com
+EE/programmer/sci-exhibits   amateur science, hobby projects, sci fair
+Seattle, WA  425-222-5066    unusual phenomena, tesla coils, weird sci

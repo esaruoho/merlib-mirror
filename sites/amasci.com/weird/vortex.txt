@@ -1,0 +1,525 @@
+From owner-vortex-l@eskimo.com Sat Feb 18 14:14:33 1995
+Return-Path: <owner-vortex-l@eskimo.com>
+Received: by eskimo.com (5.65c/1.35)
+	id AA22360; Sat, 18 Feb 1995 14:14:32 -0800
+Date: Sat, 18 Feb 1995 14:14:32 -0800
+Message-Id: <199502182214.AA22360@eskimo.com>
+To: billbeskimo.com
+From: majordom@eskimo.com
+Subject: Welcome to vortex-l
+Reply-To: majordom@eskimo.com
+Status: RO
+X-Status: 
+
+--
+
+Welcome to the vortex-l mailing list!
+
+If you ever want to remove yourself from this mailing list,
+you can send mail to "majordom@Eskimo.Com" with the following command
+in the body of your email message:
+
+    unsubscribe vortex-l billbeskimo.com
+
+Here's the general information for the list you've
+subscribed to, in case you don't already have it:
+
+#### No info available for vortex-l.
+
+Received: from big.aa.net by mail.eskimo.com (5.65c/1.35)
+	id AA29372; Wed, 10 May 1995 14:03:57 -0700
+Received: (from knuke@localhost) by big.aa.net (8.6.11/8.6.9) id OAA13781; Wed, 10 May 1995 14:04:07 -0700
+Date: Wed, 10 May 1995 14:04:06 -0700 (PDT)
+From: Michael Huffman <knuke@aa.net>
+To: vortex-l@mail.eskimo.com
+Subject: Re: Sapogin's e-mail address
+In-Reply-To: <950510185228_72240.1256_EHB129-1@CompuServe.COM>
+Message-Id: <Pine.LNX.3.91.950510134116.8888B-100000@big.aa.net>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Sender: owner-vortex-l@mail.eskimo.com
+Precedence: bulk
+Reply-To: vortex-l@mail.eskimo.com
+Status: RO
+X-Status: 
+
+To All,
+  
+  Many thanks to Jed for the update on the Sapogin device. I know that 
+when I was in Prague 18 months ago, the line to REGISTER for a phone was 
+3 blocks long. After that you could expect to wait 3-5 YEARS before it 
+was installed. I have two friends living there now that are still 
+waiting. The hottest enterprise going was the cellular phone industry. It 
+cost a fortune even by Western standards, but you didn't have to wait for 
+it. $2000 still sounds pretty cheap for a machine though, considering all 
+of the red tape it will have to go through. I wouldn't put that figure in 
+stone right now. That's five times cheaper than the cheapest Grigg's device.
+  I ran my machine today for about 1 hour. Nearly the entire time in pure 
+steam mode or thereabouts. It really blasts the steam. There is still a 
+bit of a rub at that temp, but I tore it apart to see what the inside 
+looked like, and I think I'll be able to run some measurements on it 
+tomorrow. Roughly speaking the flow rates look to be around 50% higher, 
+judging by the flowrotometer, so I'm expecting good results. With the 
+center housing piece in the offset position, the gap at the top is about 
+.005" right now, and at the bottom, about .06". My next move will be to 
+fill in the bottom portion with layers of that high temp epoxy until the 
+gap is more like .03 or less. I'll keep you posted. -Knuke
+
+
+From owner-vortex-l Thu May 11 18:58:30 1995
+Return-Path: <owner-vortex-l>
+Received: by mail.eskimo.com (5.65c/1.35)
+	id AA28712; Thu, 11 May 1995 18:58:28 -0700
+Received: from big.aa.net by mail.eskimo.com (5.65c/1.35)
+	id AA28676; Thu, 11 May 1995 18:58:20 -0700
+Received: (from knuke@localhost) by big.aa.net (8.6.11/8.6.9) id SAA32027; Thu, 11 May 1995 18:58:23 -0700
+Date: Thu, 11 May 1995 18:58:23 -0700 (PDT)
+From: Michael Huffman <knuke@aa.net>
+To: Vortex-1 <vortex-l@eskimo.com>
+Subject: Test results
+Message-Id: <Pine.LNX.3.91.950511185310.31774A-100000@big.aa.net>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Sender: owner-vortex-l@mail.eskimo.com
+Precedence: bulk
+Reply-To: vortex-l@mail.eskimo.com
+Status: RO
+X-Status: A
+
+To All,
+  I just finished calculating the results of today's tests, and they are 
+too good for me to believe (like 154%). There was still a rub at the 
+steam mode, so I ran at a lower temperature. I want to get more tests in 
+before I will let myself believe the results. I'll keep you posted. -Knuke
+ 
+
+From owner-vortex-l Fri May 12 06:24:02 1995
+Return-Path: <owner-vortex-l>
+Received: by mail.eskimo.com (5.65c/1.35)
+	id AA06836; Fri, 12 May 1995 06:23:59 -0700
+Received: from matrix.eden.com by mail.eskimo.com (5.65c/1.35)
+	id AA06817; Fri, 12 May 1995 06:23:54 -0700
+Received: from net-1-185.eden.com (net-1-185.eden.com [199.171.21.185]) by matrix.eden.com (8.6.12.1/8.6.5) with SMTP id IAA18833 for <vortex-l@mail.eskimo.com>; Fri, 12 May 1995 08:23:50 -0500
+Date: Fri, 12 May 1995 08:23:50 -0500
+Message-Id: <199505121323.IAA18833@matrix.eden.com>
+X-Sender: little@eden.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+To: vortex-l@mail.eskimo.com
+From: little@eden.com (Scott Little)
+Subject: Re: Test results
+X-Mailer: <PC Eudora Version 1.4>
+Sender: owner-vortex-l@mail.eskimo.com
+Precedence: bulk
+Reply-To: vortex-l@mail.eskimo.com
+Status: RO
+X-Status: 
+
+>I want to get more tests in 
+>before I will let myself believe the results.
+
+Good attitude, Mike.  You are plunging into the harsh world of measurement 
+errors and those damn things can be SNEAKY.  Double-check EVERYTHING....twice!
+
+Scott Little
+EarthTech International, Inc.  4030 Braker Lane West  Austin TX 78759  USA
+512-346-3848 (voice)  512-346-3017 (FAX)  little@eden.com (email)
+     
+
+
+From owner-vortex-l Tue May  2 21:49:30 1995
+Return-Path: <owner-vortex-l>
+Received: by mail.eskimo.com (5.65c/1.35)
+	id AA18631; Tue, 2 May 1995 21:49:26 -0700
+Received: from big.aa.net by mail.eskimo.com (5.65c/1.35)
+	id AA18599; Tue, 2 May 1995 21:49:18 -0700
+Received: (from knuke@localhost) by big.aa.net (8.6.9/8.6.9) id VAA09524; Tue, 2 May 1995 21:49:17 -0700
+Date: Tue, 2 May 1995 21:49:16 -0700 (PDT)
+From: Michael Huffman <knuke@aa.net>
+To: Vortex-1 <vortex-l@eskimo.com>
+Subject: News
+Message-Id: <Pine.LNX.3.91.950502214050.9071A-100000@big.aa.net>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Sender: owner-vortex-l@mail.eskimo.com
+Precedence: bulk
+Reply-To: vortex-l@eskimo.com
+Status: RO
+X-Status: 
+
+To All,
+  I just finished running a couple of tests with the copper tubing. The 
+results are better, but still not there. I used 33 feet of 1/8" OD soft 
+copper. I needed about 45 feet, but 33 was all they had in stock, so I 
+went ahead and took it. I just wrapped it around the case without 
+soldering it. I did manage to get a pretty good tight wrap without the 
+solder, so I don't think it's really necessary. I still haven't insulated 
+the whole thing yet, but will do that tomorrow. As it stands, the device 
+is running 94% efficient, measuring the thermal output over the 
+electrical input. I'll keep you posted -Knuke
+
+
+From owner-vortex-l Wed May 17 10:07:59 1995
+Return-Path: <owner-vortex-l>
+Received: by eskimo.com (5.65c/1.35)
+	id AA02644; Wed, 17 May 1995 10:07:54 -0700
+Received: by eskimo.com (5.65c/1.35)
+	id AA02624; Wed, 17 May 1995 10:07:46 -0700
+Date: Wed, 17 May 1995 10:07:44 -0700 (PDT)
+From: William Beaty <billbeskimo.com>
+To: vortex-l@eskimo.com
+Subject: Photo...
+Message-Id: <Pine.SUN.3.91.950517100548.1808B-100000@eskimo.com>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Sender: owner-vortex-l@mail.eskimo.com
+Precedence: bulk
+Reply-To: vortex-l@mail.eskimo.com
+Status: RO
+X-Status: 
+
+
+I finally put up a photo of Mike's device on my web page, under Weird 
+Science, down in the CF stuff, under Huffman Device.  This is the older 
+device, not his current one.  It's a bit blurry, but I couldn't get any 
+closer with the instant camera.
+
+.....................uuuu / oo \ uuuu........,.............................
+William Beaty  voice:206-762-3818   bbs:206-789-0775    cserv:71241,3623
+EE/Programmer/Science exhibit designer        http://amasci.com/
+Seattle, WA 98117  billbeskimo.com           SCIENCE HOBBYIST web page
+
+
+
+From owner-vortex-l Thu May 18 14:00:38 1995
+Return-Path: <owner-vortex-l>
+Received: by mail.eskimo.com (5.65c/1.35)
+	id AA14829; Thu, 18 May 1995 13:54:59 -0700
+Received: from big.aa.net by mail.eskimo.com (5.65c/1.35)
+	id AA14816; Thu, 18 May 1995 13:54:53 -0700
+Received: (from knuke@localhost) by big.aa.net (8.6.11/8.6.9) id NAA19930; Thu, 18 May 1995 13:54:54 -0700
+Date: Thu, 18 May 1995 13:54:54 -0700 (PDT)
+From: Michael Huffman <knuke@aa.net>
+To: Vortex-1 <vortex-l@eskimo.com>
+Subject: Magnets and Radioactivity
+Message-Id: <Pine.LNX.3.91.950518133305.17372D-100000@big.aa.net>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Sender: owner-vortex-l@mail.eskimo.com
+Precedence: bulk
+Reply-To: vortex-l@mail.eskimo.com
+Status: RO
+X-Status: A
+
+To All,
+  There is a saying taped up in the Polar Bear wheelhouse that goes "In 
+God we trust, everything else we check out". I decided to look into this 
+radioactivity business, and I've found some interesting things. First I 
+should explain that I tested the device with the motor off, so there was 
+no possibility of RF interference or noise. Then I should explain that my 
+Geiger counter is a pancake shaped Geiger-Mueller type tube which is 
+considered to be very good. It will detect alpha, beta, and high energy 
+beta or gamma rays. I should also say that 350 microroentgens is 
+considered to be quite high. If you were to expose yourself to this much 
+radiation for a year, it would be roughly equivilent to giving yourself 306 
+chest X-rays. Normal background radiation is 5-25 microroentgens per 
+hour, so 350 is NOT a safe amount.
+  I called the manufacturer of the Geiger counter, and he said that he 
+remembered reading somewhere that some magnets were made with radioactive 
+material. This led to three calls to different magnet distributers. After 
+telling the receptionists that I had a question regarding radioactivity 
+and magnets, only one of the engineers would talk to me. He told me that 
+ceramic ferrite magnets were generally made with either Barium or 
+Strontium-30. He said that the Barium magnets were deemed to be a serious 
+health hazard, and that his company _preferred_ to buy only the Strontium 
+variety. I tried looking up Strontium-30, but have had no luck. In fact, 
+this 30 number doesn't even make sense if it has anything to do with 
+atomic weight. I asked him for the number 3 times so I'm sure that's what 
+he said. I don't want to take up a whole lot of time with this line of 
+inquiry so I'm going to let it rest for now, but it's definitely worth 
+checking out at one point or another.  If any of you guys know anything 
+about this or just want to keep a lookout for info on this, please keep 
+the rest of us posted. -Knuke
+
+   
+
+From owner-vortex-l Fri May 19 14:19:20 1995
+Return-Path: <owner-vortex-l>
+Received: by mail.eskimo.com (5.65c/1.35)
+	id AA02318; Fri, 19 May 1995 14:03:17 -0700
+Received: from big.aa.net by mail.eskimo.com (5.65c/1.35)
+	id AA02205; Fri, 19 May 1995 14:02:35 -0700
+Received: (from knuke@localhost) by big.aa.net (8.6.11/8.6.9) id OAA16521; Fri, 19 May 1995 14:02:33 -0700
+Date: Fri, 19 May 1995 14:02:33 -0700 (PDT)
+From: Michael Huffman <knuke@aa.net>
+To: Vortex-1 <vortex-l@eskimo.com>
+Subject: RADS2
+Message-Id: <Pine.LNX.3.91.950519135521.16166A-100000@big.aa.net>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Sender: owner-vortex-l@mail.eskimo.com
+Precedence: bulk
+Reply-To: vortex-l@mail.eskimo.com
+Status: RO
+X-Status: 
+
+To All,
+  I just got off the phone with the manufacturer of my Geiger counter. He 
+asked me what the color of the tiles was, and I told him yellow. He said 
+that it was almost definitely uranium oxide, called "yellow cake", that 
+had been used to color the glaze on the tiles. He recommended that I call 
+my landlord immediately, and get that torn out of my kitchen. He also 
+said that as the uranium oxide decays that it releases radon gas, and 
+that I should leave the windows open all the time. What a mess. I'm not 
+going to be a very popular guy with my landlord, to be sure. All of the 
+apartments in this building are the same. -Knuke
+  
+
+From owner-vortex-l Mon May  1 01:25:57 1995
+Return-Path: <owner-vortex-l>
+Received: by mail.eskimo.com (5.65c/1.35)
+	id AA10601; Mon, 1 May 1995 01:25:55 -0700
+Received: from big.aa.net by mail.eskimo.com (5.65c/1.35)
+	id AA10589; Mon, 1 May 1995 01:25:51 -0700
+Received: (from knuke@localhost) by big.aa.net (8.6.9/8.6.9) id BAA21849; Mon, 1 May 1995 01:25:44 -0700
+Date: Mon, 1 May 1995 01:25:44 -0700 (PDT)
+From: Michael Huffman <knuke@aa.net>
+To: vortex-l@eskimo.com
+Subject: Re: A ZPE paper
+In-Reply-To: <Pine.SUN.3.91.950429162435.11482F-100000@eskimo.com>
+Message-Id: <Pine.LNX.3.91.950501003455.20533A-100000@big.aa.net>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Sender: owner-vortex-l@mail.eskimo.com
+Precedence: bulk
+Reply-To: vortex-l@eskimo.com
+Status: RO
+X-Status: 
+
+Bill,
+  I read the paper several times before I finally decided that in spite 
+of the equations, what this guy is talking about is pure metaphysics. It 
+also struck me as funny for the following reasons, also metaphysical in 
+nature. About sixteen years ago, I had an incredible string of tragedies 
+befall me in a span of about three months. Three people that I was very 
+close to died, two people became crippled for life in accidents, and 
+another was very badly injured. I had been reading a lot of philosophy at 
+the time, and the existentialists were in vogue. I was having a great 
+deal of difficulty coping with the grief of these tragedies, and in a 
+phone conversation with my father, I found myself adopting the line of 
+the existentialists. I was trying to convince him that nothing really 
+mattered. He was worried about the despondent tone of my voice, and 
+recommended that I read a book by Dr. Francis Schaeffer (no connection to 
+Karl Schaefer). Schaeffer had seen a lot of post war ennui in Europe, and 
+wrote about the fallacies of the existentialist philosophy. I went to 
+Switzerland to study under Schaeffer, and met a Dr. Tom Little, who 
+taught me how to program computers, and had a very good influence on my 
+life in general.
+  Fifteen years later, my father is urging me to study a Karl Schaefer. 
+I'm corresponding with another Dr. Little (no connection to Tom), and now 
+I'm trying to convince my father that Nothing really DOES matter. This 
+time I'm really excited by the idea. This leads me to postulate that 
+Nothing cannot be connected to Anything. Call it Huffman's First Law of 
+Relational Absurdity. -Knuke
+BTW - If there are no objections from the rest of the group, I propose 
+that we open up this listerv.
+
+
+From owner-vortex-l Wed May  3 15:19:05 1995
+Return-Path: <owner-vortex-l>
+Received: by mail.eskimo.com (5.65c/1.35)
+	id AA04472; Wed, 3 May 1995 15:19:02 -0700
+Received: from big.aa.net by mail.eskimo.com (5.65c/1.35)
+	id AA04400; Wed, 3 May 1995 15:18:46 -0700
+Received: (from knuke@localhost) by big.aa.net (8.6.9/8.6.9) id PAA17933; Wed, 3 May 1995 15:18:47 -0700
+Date: Wed, 3 May 1995 15:18:46 -0700 (PDT)
+From: Michael Huffman <knuke@aa.net>
+To: Vortex-1 <vortex-l@eskimo.com>
+Subject: Direction, Focus, Purpose
+Message-Id: <Pine.LNX.3.91.950503121047.10616A-100000@big.aa.net>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Sender: owner-vortex-l@mail.eskimo.com
+Precedence: bulk
+Reply-To: vortex-l@mail.eskimo.com
+Status: RO
+X-Status: 
+
+To All,
+  I would like to keep the focus of this group directed toward the 
+discussion of cavitational devices, Bernoulli principles, water hammer 
+effects, shock wave devices, that sort of thing. I would like to see a 
+group formed for "heretical devices", and I would enjoy being a part of 
+that discussion. The reasons for narrowing the focus of this group are 
+simple.
+  First of all, I've been getting some very positive feedback about some 
+of the more specific physical events that are happening in my device and 
+the machine that Griggs is selling. This kind of feedback is coming from 
+some very intelligent people with specific knowledge from their 
+respective backgrounds and perspectives. This kind of knowledge is 
+difficult to find, and as such is invaluable. These people have taken an 
+interest in this particular kind of device because they can actually 
+understand it, and see that it is a worthwhile endeavor. I don't want 
+them to be put off or distracted by a lot of other stuff. This isn't to 
+say that the other stuff might not be valid, it's only an issue of focus 
+and concentration. The devil is in the details, and it's in the details of 
+this phenomena that I need the most expert help to make the most of this 
+technology.
+  Right now there are four machines that I know of that use similar 
+principles. The Schaefer machine, Griggs Gadget, Patapov's machine, and 
+mine. I consider Griggs and myself to be bonehead engineers. Schaefer is 
+dead. Patapov is Russian, which means any verbal traffic between him and me 
+would be subject to the usual language translation problems. This 
+combined with the inherent limitations of the listserv format of 
+discussion, presents enough of an impediment to the USEFUL dialogue on one 
+technology, without the added distraction.
+  The second reason is that I am presently trying to convince ENECO that 
+that 1) my patent is worth buying, 2) that this method of information 
+sharing is good for product development (i.e. it saves industry tons of 
+R&D money). It is my feeling that this device could be in commercial 
+production for the purpose of heating homes by the end of this year. For 
+this to happen, ENECO has to be able to approach manufacturers with 
+evidence that 1) the technology is proven to deliver superior qualities 
+than the existing art (they need a working demonstration model), 2) there 
+is a large group of highly qualified people working to make that 
+technology even better. This listerv would be the nexus of that group, 
+and as such, should be limited to the discussion of this technology or 
+how this technology could be combined with others to made more useful.
+  The cold fusion industry (in my opinion, based upon what I have read as 
+to it's pro's and con's) is still pretty far away from realizing a 
+practical, mass produced product. There is still too much to learn about 
+the basic interactions between the materials involved to commit to the 
+production stage of development. The industry and ENECO in particular 
+could take credit for and benefit finacially from the commercialization 
+of what could be called a "spin off" technology of cold fusion research. 
+Even if this technology is found to be explainable by "normal physics", 
+it could be offered as an interim solution to our energy problems. The 
+profits of the commercialization of this "easy to explain - cheap and 
+quick to implement" technology could be used to further research and 
+develop the more difficult to understand and implement cold fusion 
+technologies. It's the credibility/feasibility issues that have always 
+plagued the cold fusion community, and made manufacturers hesitant to 
+commit R&D dollars. If the cold fusion community could show at least a 
+workable "spin off" product for their efforts, then maybe the large 
+corporations would be more willing to "ante up" for R&D funding. These 
+corporations employ serious people who are responsible for large amounts 
+of money. If they are invited to follow the discussion in this group, and 
+they find a lot of "weird science", they will shake their collective 
+heads in disgust, and decide the whole thing is a waste of time. That is 
+just a fact of life.
+  I would prefer that they look at the discussions, and see quality 
+people tackling the nuts and bolts problems of this particular 
+technology, and finding good solutions to those problems. Nothing comes 
+easy or cheap, and those corporate types know that. If they see that 
+there are serious, qualified people working on a technology for free, 
+then the corporate types will feel like they are getting a good value for 
+any funding that they add to the project.  
+  I propose that we leave the group open to all interested parties, but 
+that we keep the discussion narrow in focus. If anyone wants to 
+communicate with another about something else, they can do so in another 
+listserv or through private E-mail. This would be a good place to meet 
+other people of different backgrounds and experience etc. that might be 
+interested other technologies, and we can give them pointers as to where 
+they can find information on those topics, but let's keep this listserv 
+focused. 
+  BTW Bill, I need to know the exact instructions for subscribing to the 
+listserv. Also, on my machine, the name Vortex-1 looks like Vortex-l. Is 
+it a one or an "l" as in Light?
+  Also, I haven't heard anything from the rest of the group for a while. 
+Got any feedback/opinions on these ideas/developments? 
+                           -Knuke
+ 
+
+
+From owner-vortex-l Thu May  4 12:18:52 1995
+Return-Path: <owner-vortex-l>
+Received: by mail.eskimo.com (5.65c/1.35)
+	id AA15251; Thu, 4 May 1995 12:18:49 -0700
+Received: from big.aa.net by mail.eskimo.com (5.65c/1.35)
+	id AA15240; Thu, 4 May 1995 12:18:45 -0700
+Received: from d117.aa.net (d117.aa.net [204.157.220.117]) by big.aa.net (8.6.9/8.6.9) with SMTP id MAA07944 for <vortex-l@mail.eskimo.com>; Thu, 4 May 1995 12:18:45 -0700
+Date: Thu, 4 May 1995 12:18:45 -0700
+X-Intended-For: <vortex-l@mail.eskimo.com>
+Message-Id: <199505041918.MAA07944@big.aa.net>
+X-Sender: mwm@aa.net (Unverified)
+X-Mailer: Windows Eudora Version 1.4.4
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+To: vortex-l@mail.eskimo.com
+From: mwm@aa.net (Michael Mandeville)
+Subject: Re: Direction, Focus, Purpose
+Sender: owner-vortex-l@mail.eskimo.com
+Precedence: bulk
+Reply-To: vortex-l@mail.eskimo.com
+Status: RO
+X-Status: 
+
+
+>
+>> Rumor has it that ENECO has a Potopov device. Has anyone heard whether they 
+>> have gotten it to work as advertised (i.e. 4 kW in...12 kW out)?
+>
+>The last I heard from Fred on that was they were bench testing a Russian 
+>device that had no moving parts. This was a couple of months ago I think. 
+>Jed mentioned in one of his posts that efforts were underway to get a 
+>Potopov device to the States for analysis, but didn't say who was doing 
+>the getting. Griggs actually called me, and told me that he had spoken 
+>with Sapogin about the Potopov device. He said that it used a rotor that 
+>was slightly occulted or out of round. 
+>  The "no moving parts" machine is probably something like an eductor or 
+>a venturi tube. Bill and I talked about this over the phone, and I also 
+>saw some discussion about a device by a Victor Schauberger that sounded 
+>vaguely similar. I haven't seen either one so I can't really comment except 
+>that I would like to know more. It seems that if the Potopov device is 
+>actually an out of round rotor, that it would be getting some venturi 
+>type action within a close fitting case. My machine would get a similar 
+>reaction simply by offsetting the middle housing piece or by adding 
+>irregularities to the middle housing piece.
+>  Jed, if there is anything that you could tell us at all about the 
+>Potopov device, we sure would be interested in reading it.   
+>
+>-Knuke
+>
+
+
+From owner-vortex-l Wed May 17 13:19:31 1995
+Return-Path: <owner-vortex-l>
+Received: by mail.eskimo.com (5.65c/1.35)
+	id AA23448; Wed, 17 May 1995 13:19:28 -0700
+Received: from big.aa.net by mail.eskimo.com (5.65c/1.35)
+	id AA23424; Wed, 17 May 1995 13:19:21 -0700
+Received: (from knuke@localhost) by big.aa.net (8.6.11/8.6.9) id NAA11563; Wed, 17 May 1995 13:19:23 -0700
+Date: Wed, 17 May 1995 13:19:22 -0700 (PDT)
+From: Michael Huffman <knuke@aa.net>
+To: Vortex-1 <vortex-l@eskimo.com>
+Subject: Oh Dear, 
+Message-Id: <Pine.LNX.3.91.950517130429.10885A-100000@big.aa.net>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Sender: owner-vortex-l@mail.eskimo.com
+Precedence: bulk
+Reply-To: vortex-l@mail.eskimo.com
+Status: RO
+X-Status: 
+
+To All,
+  I've been putting off writing this because I wanted to be sure, but the 
+tests indicate the device is 96% efficient overall. I tested it over and 
+over and over, varied all kinds of things, and it still was a rock solid 
+96%. Sorry if I got anybody worked up. The only thing that I can think of 
+that would explain the 154% is stored heat. During that run I ran it at 
+steam mode for 20 minutes before increasing the water flow. I thought I 
+had given it enough time to dissipate the heat stored in the case etc., 
+but obviously not.
+  Now for the weird news. After this morning's test, I thought I would 
+run my geiger counter over the device to check for any radioactivity. I 
+tested the background of the room, and got readings ranging from 17-40 
+milliRem. The device checked out within this range as well. EXCEPT for 
+the portion of the motor where the wires come out of the case. This area 
+set off the alarm and was a steady 330-350 milliRem. I just finished 
+doing this, and it's been a number of years since I've used this thing, 
+so I need to read up on what this means, but does anybody have any clues 
+as to what would set this off? I've never seen readings this high before, 
+even when testing my smoke alarm. -Knuke
+ 
+

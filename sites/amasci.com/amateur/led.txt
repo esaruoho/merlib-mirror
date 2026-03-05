@@ -1,0 +1,160 @@
+OLD OBSOLETE FILE
+
+current file is here:  http://amasci.com/amateur/led.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How does an LED emit light?                  (c)1997 William J. Beaty
+http://amasci.com/amateur/led.txt
+
+Light from a Light Emitting Diode (LED) is created in much the same way
+that light is created in a flourescent tube or neon sign.  In an LED
+crystal the electrons of its atoms are pumped up to higher energy states,
+and when they fall back down again, each atom gives off a particle/wave of
+light.  However, the electrons in an LED are not exactly the same as the
+gas molecules in a neon sign.  They are not in orbitals stuck to
+individual atoms.  Instead the electrons occupy a contiguous "sea of
+charge," and they continually wander among all the atoms in the material.
+But while they do this, they maintain a particular energy level just like
+they do when stuck to individual atoms.  It's as if each electron in an
+LED crystal was "orbiting" among all the atoms of the substance as a
+whole, and the electron always "orbits" at a particular "height" above
+each of the atoms it passes. 
+
+Be aware that *all* substances contain electrons.  The electrons I'm
+discussing here are not supplied by the battery, they instead occur
+naturally in the wires, crystals, etc.  They are in the LED all the time,
+even when the battery is not connected.  Don't make my original mistake by
+imagining that electrons are injected into the LED by the power supply. 
+In fact, they are already in the material, and the power supply simply
+forces them to flow. 
+
+To create LED light, first we connect two conductive crystals of different
+characteristics together.  Both types of crystal contain movable
+electrons.  In one type of crystal the electrons "orbit" naturally at a
+high energy level, and in the other, they always "orbit" low.  When a
+voltage is applied across the joined crystals, the electrons inside are
+forced to flow across the boundary between the pair of crystals.  If the
+flow direction is correct, electrons in the "high" crystal flow into the
+"low" crystal and must begin orbiting at the lower energy level.  As they
+fall to the lower energy level, they give off light.  The frequency of the
+light (which we see as the color) is determined by the difference in
+energy levels between the two crystals. By manufacturing different types
+of crystals having different natural energy levels, various colors of
+light can be created.  Crystals with similar levels create low-energy
+photons of red light or even infrared light.  With a larger difference in
+energy levels, green light can be created.  An even larger energy-step can
+create blue light.
+
+The "high" and "low" crystals are usually called "n-type" and "p-type." 
+In n-type crystals the movable electrons wander around while staying at
+the upper energy level of an unfilled outer atomic orbital.  During an
+electric current they travel at this level.  In "p-type" crystals the
+mobile electrons naturally exist at a deeper orbital level.  When the two
+crystals are connected to each other and then connected properly in a
+circuit with a battery, the battery creates a current in the entire
+circuit.  It sucks electrons out of the end of the p-type crystal and into
+the wire.  At the same time it pushes electrons into the far end of the
+n-type crystal. The electrons already in the n-type crystal then are
+forced to flow across the crystal junction, fall down in energy, emit
+light, and end up back in the p-type crystal. 
+
+Where did the electrons get the energy to emit light?  How do they get to
+a higher energy level so they can enter the n-type crystal?  Well, in
+order for the battery to push electrons through the LED, it had to apply
+electrical attraction and repulsion forces to the electrons in the
+crystal.  To apply force to the electrons in the crystal, it had to apply
+a force to the electrons in the negative wire. This squeezes all the
+electrons on the surface of the negative wire together, which raises the
+voltage of the entire wire.  (If electrons were like water, then the wire
+is like a long trough.  The battery pumps water into one end of the
+trough, and this makes the water level 'voltage' rise everywhere in the
+trough.)  When the negative wire's electrons get to the energy level equal
+to the n-type crystal, they start flowing into the crystal and falling
+"down" the junction, emitting light as they go.  (This analogy is
+incomplete: at the same time that the battery was pumping up the "water
+level" of the negative wire to match the n-type crystal level, it also was
+REDUCING the "water level" of the positive wire so that the low-energy
+electrons of the p-type crystal could be sucked into the wire.)
+
+Here's another way to visualize LEDs.  In a neon sign, the electrons
+around each neon atom get pumped up in energy as they're whacked by
+incoming high-speed electrons.  In an LED the battery pumps up the
+electrons directly.  In a neon sign, each atom emits light when an
+electron falls back to its original energy level.  In an LED, the whole
+crystal junction emits light as electrons drop back to a lower level.
+Therefor an LED resembles a gigantic single neon atom!  An LED/atom is so
+large that we can connect its electron cloud directly to a battery with
+wires. It's so large that we can build in different characteristics, and
+change the color of its flourescence.
+
+Light Emitting Diodes are much like solar cells.  Both devices use n-type
+and p-type crystals, but in a solar cell the process runs backwards: 
+instead of falling down in energy and emitting light, light hitting the
+solar cell causes electrons in the p-type crystal to jump upwards in
+energy.  If these electrons are near the crystal junction, they can end up
+in the n-type crystal, and they can flow through wires to the outside
+world, falling down in energy as they do.  In fact, if light shines on an
+LED, the LED behaves as a tiny, inefficient solar cell.  And conversely,
+if a battery is used to create a current in a solar cell, the solar cell
+can emit a very tiny amount of (mostly infrared) light.  An LED gives
+light when charge is pumped through it, and when light shines on a solar
+cell, the solar cell becomes a charge pump. 
+
+Light Emitting Diodes are also like thermocouples.  N-type and p-type
+crystals are not the only materials whose electrons "orbit" at different
+energy levels.  Different metals have different levels too.  If a copper
+wire is twisted together with an iron wire, a junction is formed between
+them which contains an energy-step like that of an LED.  The energy-step
+in a thermocouple is much smaller than in an LED.  If electrons are forced
+to flow across the thermocouple's energy step, they fall down in energy
+level and emit energy.  But what do they emit?  Longwave Infrared light
+and crystal vibrations.  Together we call these by the name "heat energy". 
+The energy step in a thermocouple is too small, so it cannot emit photons
+of visible light.  Instead it creates "heat."  And conversely, if heated,
+a thermocouple can create an electric current.  When operated one way, a
+thermocouple is a bit like an LED which emits heat.  When operated the
+other way, it acts a bit like a "solar battery" and becomes a "heat
+battery." 
+
+Don't you love the way that different parts of physics can hang together
+and seem the same?
+
+http://amasci.com/amateur/led.txt
+
+See:
+
+  ELECTRICITY ARTICLES
+  http://amasci.com/ele-edu.html
+
+
+(((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))
+William J. Beaty                            SCIENCE HOBBYIST website
+billbeskimo.com                            http://amasci.com
+EE/programmer/sci-exhibits   amateur science, hobby projects, sci fair
+Seattle, WA  206-789-0775    unusual phenomena, tesla coils, weird sci

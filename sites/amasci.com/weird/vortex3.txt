@@ -1,0 +1,2529 @@
+From owner-vortex-l Sat Jun  3 00:02:31 1995
+Return-Path: <owner-vortex-l>
+Received: by mail.eskimo.com (5.65c/1.35)
+	id AA00634; Sat, 3 Jun 1995 00:02:26 -0700
+Received: from eskimo.com by mail.eskimo.com (5.65c/1.35)
+	id AA00617; Sat, 3 Jun 1995 00:02:19 -0700
+Received: by eskimo.com (5.65c/1.35)
+	id AA16671; Sat, 3 Jun 1995 00:02:17 -0700
+Date: Sat, 3 Jun 1995 00:02:16 -0700 (PDT)
+From: William Beaty <billbeskimo.com>
+To: vortex-l@mail.eskimo.com
+Subject: Re: Entropy reductions...energy gains
+In-Reply-To: <199506030519.AAA01073@matrix.eden.com>
+Message-Id: <Pine.SUN.3.91.950602231815.12020A@eskimo.com>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Sender: owner-vortex-l@mail.eskimo.com
+Precedence: bulk
+Reply-To: vortex-l@mail.eskimo.com
+Status: RO
+X-Status: 
+
+On Sat, 3 Jun 1995, Scott Little wrote:
+
+> Bill, I guess I answered a little too quickly.  Are you talking about 
+> entropy reducing situations, such as crystallization?  
+
+Nope.  I was wondering about Self Organizing Systems, and Emergent
+Properties, which come under Complexity theory and Chaotic Dynamics, I
+think.  Things like the ZB chemical oscillator, which organizes itself
+into colored spiral patterns in the petri dish.  Or Fractal patterns that
+arise in many systems.  In Self Organization, complex patterns emerge from
+nothing, caused (if 'caused' is the word) by interactions between many
+small parts.  Without the proper theory, you'd expect random white-noise 
+patterns to exist, but instead the microscopic elements somehow agree 
+among themselves to become organized into a macroscopic form.  I'd expect 
+the microscopic interactions to conserve energy.  But does the 
+spontaneous emergence of complexity ever represent a decrease in energy?
+
+I'm not that familiar with this field, and I was wondering if the small
+parts in any of these 'emergent' patterns were thermal vibrations.  If so,
+the large scale pattern would be a cohering of thermal vibrations, and the
+growth of the pattern would be a genuine entropy reversal.  The
+microscopic parts would be cooled as the macroscopic pattern was created,
+and the macroscopic pattern might be something like sound, and work could
+be extracted.  Or maybe this would take the form of some nonlinear effect
+which would allow thermal vibrations to directly power IR flourescence,
+allowing the construction of a Laser powered by reverse entropy.  
+
+But in describing this, I can see that the existance of such an effect
+would be as earthshaking as the discovery of a real Maxwell's Demon
+effect, and we'd have heard about it.  But since everyone assumes energy
+conservation and thermo laws are correct, I wonder if something like this
+could have been overlooked.  And if it involved the spontaneous 
+organization of ZPE, it probably would be discoverable only by accident or 
+lucky observation.  I have the impression that it's hard to predict 
+whether or not a self-organizing pattern will arise, and they are usually 
+explained after the fact rather than predicted in advance.
+
+Are you familiar with Conway's Life, or other Cellular Automata computer
+programs?  If something similar existed in nature at the atomic level, it
+would represent an entropy reversal as microscopic motion was cooled and
+used to drive macroscopic patterns. 
+
+> Now here's your 
+> assignment, Bill:  Build a practical energy converter that operates on this 
+> principle and draws enough power from the zero-point field to run itself and 
+> provide 1 watt of surplus power, thus satisfying Puthoff's "1 watt 
+> challenge".  If you need any diodes or resistors, let me know :)
+
+If I use photons way up in the cosmic ray gammas, so each one has the
+mass-energy of a small rabbit dropping, and use oppositely charged
+singularities in close orbit instead of atoms, as the photons bounce
+around in the system they strike mirrors connected to little rachet arms
+which would drive wooden gears.  It would be hard to keep running, because
+every once in a while the photon would tunnel through a mirror and you'd
+have to go chase it down and put it back. 
+
+.....................uuuu / oo \ uuuu........,.............................
+William Beaty  voice:206-762-3818   bbs:206-789-0775    cserv:71241,3623
+EE/Programmer/Science exhibit designer        http://amasci.com/
+Seattle, WA 98117  billbeskimo.com           SCIENCE HOBBYIST web page
+
+
+
+From owner-vortex-l Fri Jun  2 14:20:00 1995
+Return-Path: <owner-vortex-l>
+Received: by mail.eskimo.com (5.65c/1.35)
+	id AA11898; Fri, 2 Jun 1995 14:06:35 -0700
+Received: from big.aa.net by mail.eskimo.com (5.65c/1.35)
+	id AA10921; Fri, 2 Jun 1995 14:00:55 -0700
+Received: from d114.aa.net (d114.aa.net [204.157.220.114]) by big.aa.net (8.6.11/8.6.9) with SMTP id OAA12208 for <vortex-l@mail.eskimo.com>; Fri, 2 Jun 1995 14:00:38 -0700
+Date: Fri, 2 Jun 1995 14:00:38 -0700
+X-Intended-For: <vortex-l@mail.eskimo.com>
+Message-Id: <199506022100.OAA12208@big.aa.net>
+X-Sender: knuke@aa.net
+X-Mailer: Windows Eudora Version 1.4.4
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+To: vortex-l@mail.eskimo.com
+From: knuke@aa.net (Michael T. Huffman)
+Subject: Re: Inventor's potluck
+Sender: owner-vortex-l@mail.eskimo.com
+Precedence: bulk
+Reply-To: vortex-l@mail.eskimo.com
+Status: RO
+X-Status: 
+
+>
+>Gary, maybe we should try to get Mike H. out to the Inventor's potluck 
+>(which I've not heard back from yet) since Mike is very interested in 
+>carving plastic parts with CAM devices.
+>
+If it would mean that I have to cook anything besides water, it might not be
+a good idea:-) What is the Inventor's Potluck? Is it local? Does it involve
+food? I'm interested. BTW, I just wrote a rather lengthy letter to Mitch
+Schwartz regarding the latest developments on my machine. I've asked him if
+I can post the letter to this group so that I don't have to type it all out
+again. I also invited him to check out Vortex-l, so I expect that he will.
+-Knuke
+
+
+From owner-vortex-l Sat May 20 17:53:31 1995
+Return-Path: <owner-vortex-l>
+Received: by eskimo.com (5.65c/1.35)
+	id AA18358; Sat, 20 May 1995 17:52:28 -0700
+Received: by eskimo.com (5.65c/1.35)
+	id AA18345; Sat, 20 May 1995 17:52:21 -0700
+Date: Sat, 20 May 1995 17:52:19 -0700 (PDT)
+From: William Beaty <billbeskimo.com>
+To: vortex-l@eskimo.com
+Subject: s.p.f archive
+Message-Id: <Pine.SUN.3.91.950520174810.17074A-100000@eskimo.com>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Sender: owner-vortex-l@mail.eskimo.com
+Precedence: bulk
+Reply-To: vortex-l@mail.eskimo.com
+Status: RO
+X-Status: 
+
+
+I finally managed to make the sci.phys.fusion news archive work off of my 
+web page.  If you haven't seen this before, try it out.  Type in your 
+login name as a keyword, and it will (I think) give you every message you 
+ever posted there.  Immortality of a sort, and if CF proves to be 
+sucessful, it will be a very interesting historical document.
+
+It's at http://amasci.com/weird.html, down in the Cold Fusion 
+heading.
+
+.....................uuuu / oo \ uuuu........,.............................
+William Beaty  voice:206-762-3818   bbs:206-789-0775    cserv:71241,3623
+EE/Programmer/Science exhibit designer        http://amasci.com/
+Seattle, WA 98117  billbeskimo.com           SCIENCE HOBBYIST web page
+
+
+
+From ghawk@eskimo.com Tue May 23 20:03:58 1995
+Return-Path: <ghawk@eskimo.com>
+Received: from 204.122.16.4 by mail.eskimo.com (5.65c/1.35)
+	id AA18281; Tue, 23 May 1995 20:03:53 -0700
+Message-Id: <199505240303.AA18281@mail.eskimo.com>
+X-Sender: ghawk@mail.eskimo.com
+X-Mailer: Windows Eudora Version 1.4.4
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Date: Tue, 23 May 1995 20:08:19 -0700
+To: William Beaty <billbeskimo.com>
+From: ghawk@eskimo.com (Gary Hawkins)
+Subject: Re: vortex-l
+Status: RO
+X-Status: 
+
+>On Tue, 23 May 1995, Gary Hawkins wrote:
+>
+>> This is excellent.  I told Reed Huish about the mailing list, because he is
+>> head of 
+>> a company that is looking to invest in energy saving farout science
+>> projects.  Also 
+>> finally faxed the info about the company, to Michael H.  This warm
+welcome from 
+>> you, and where he can find more, couldn't have been better.
+>> -----------------------------------------------------------------------
+>
+>I just moved some messages there.  I killed lots, like things from Jed 
+>about tracking down the Popatov device.  Quite a bit I could put back...
+>
+>.....................uuuu / oo \ uuuu........,.............................
+>William Beaty  voice:206-762-3818   bbs:206-789-0775    cserv:71241,3623
+>EE/Programmer/Science exhibit designer        http://amasci.com/
+>Seattle, WA 98117  billbeskimo.com           SCIENCE HOBBYIST web page
+>
+>
+>
+>
+Your call.
+-----------------------------------------------------------------------
+      HORIZON TECHNOLOGY -- Tomorrow's Technology Today
+                        http://www.eskimo.com/~ghawk
+
+
+From owner-vortex-l Wed May 24 15:12:23 1995
+Return-Path: <owner-vortex-l>
+Received: by mail.eskimo.com (5.65c/1.35)
+	id AA13451; Wed, 24 May 1995 15:12:18 -0700
+Received: from ios.com by mail.eskimo.com (5.65c/1.35)
+	id AA13345; Wed, 24 May 1995 15:11:37 -0700
+Received: from 198.4.70.83 ([198.4.70.83]) by ios.com (8.6.9/8.6.9) with SMTP id SAA01610 for <vortex-l@mail.eskimo.com>; Wed, 24 May 1995 18:11:26 -0400
+Date: Wed, 24 May 1995 18:11:26 -0400
+Message-Id: <199505242211.SAA01610@ios.com>
+From: reedh@styx.ios.com
+Subject: Re: vortex-l
+To: vortex-l@mail.eskimo.com
+X-Mailer: AIR Mail 3.X (SPRY, Inc.)
+Sender: owner-vortex-l@mail.eskimo.com
+Precedence: bulk
+Reply-To: vortex-l@mail.eskimo.com
+Status: RO
+X-Status: A
+
+Thanks for the tip Bill.  I see that you are a EE.  Do you know anything about 
+homopolar generators (n-machines)?
+
+If so, lets talk.
+
+Reed
+
+From billbeskimo.com Wed May 24 20:19:42 1995
+Date: Wed, 24 May 1995 20:19:39 -0700 (PDT)
+From: William Beaty <billbeskimo.com>
+To: vortex-l@mail.eskimo.com
+Subject: Re: homopolar generators
+In-Reply-To: <199505250207.VAA15826@matrix.eden.com>
+Message-ID: <Pine.SUN.3.91.950524195658.8685A-100000@eskimo.com>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: O
+X-Status: 
+
+On Wed, 24 May 1995, Scott Little wrote:
+
+> Hi Reed, Scott Little here.
+> 
+> I have spent some time considering homopolar generators.  I have studied 
+> Faraday's paradox (the one he reportedly resolved himself some 20 years 
+> after first confronting it) and even performed the famous experiment 
+> ("cemented" magnet vs stationary magnet) and, at present, I don't feel that 
+> there is anything "unusual" or "magic" about these devices...of course, I'm 
+> always on the lookout :-)  They're damn peculiar, however, and require a 
+> bunch of clear-headed thinking not to get confused over...which is why, I 
+> believe, that many investigators have thought them to be "magic".
+
+The stationary/rotating magnet effect is pretty much a nonissue.  The
+drive and reaction forces are expressed relative to the static parts of
+the circuit, and the magnet never experiences forces, whether it rotates
+or not.  Yet people keep encountering these devices anew and getting all
+excited... 
+
+But there still is some 'magic' of the physics kind involved.  Why should
+an electric current, when deflected, take a conductor along with it
+instead of just changing paths within the conductor?  I don't think this
+case is covered under Maxwell's eqn's.  It involves an interaction between
+moving charges and the matrix in which they move.  The problem isn't very
+straightforward, at least I don't THINK so, because in closed circuits
+there is no nonmagnetic reaction force applied in parallel with a single
+conductor when a pulse of current is applied.  Why doesn't a ring of wire
+get jerked ahead when the current suddenly starts and stops flowing? 
+Because the current doesn't drag the metal matrix along with it?  But
+then, when a current flowing radially in a disk is forced to flow in a
+spiral (by the application of the axial field), I wouldn't expect the
+current to drag the metal and cause it to rotate.  Yet it does.  I'm
+confused. 
+
+This is not helped by the usual spoked-wagon-wheel model of these devices. 
+I WOULD expect a spoked wheel to be propelled into rotation by magnetic
+effects.  But a contiguous disk I would expect to remain still, even if
+the current was flowing in a spiral. 
+
+On another note:  I noticed a general rule with homopolar motors and 
+generators: A magnet makes the radial current in the disk flow in a 
+spiral pattern, which drags the disk along, and if curved slots are cut in 
+the disk to FORCE a spiral flow, the generator becomes self-regenerative 
+and the axial-field permanent magnet may be removed.  The classic 
+regenerative homopolar machine has a disk with spiral slots and no field- 
+magnets.
+
+I was thinking about cylindrical homopolar designs and realized that the
+same rule can be applied: trace the path that the current takes under the
+influence of the magnetic field, cut slots in the rotor to force this flow
+pattern, and then remove the magnet.  The result is a cylinder with a
+'chevron' pattern of slots, and the cylinder should rotate when current is
+applied to the edges, even if there is no applied magnetic field at all. 
+The current in the chevron creates both the "permanent magnet"  field, and
+the field in the metal rotor.  Will this really work?  I want to try this
+out someday, when I figure out how to be several people! 
+
+.....................uuuu / oo \ uuuu........,.............................
+William Beaty  voice:206-762-3818   bbs:206-789-0775    cserv:71241,3623
+EE/Programmer/Science exhibit designer        http://amasci.com/
+Seattle, WA 98117  billbeskimo.com           SCIENCE HOBBYIST web page
+
+
+
+From billbeskimo.com Thu May 25 07:45:45 1995
+Date: Thu, 25 May 1995 07:45:43 -0700 (PDT)
+From: William Beaty <billbeskimo.com>
+To: vortex-l@mail.eskimo.com
+Subject: Re: homopolar generators
+In-Reply-To: <199505250551.AAA02985@matrix.eden.com>
+Message-ID: <Pine.SUN.3.91.950525073752.1109A-100000@eskimo.com>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: O
+X-Status: 
+
+On Thu, 25 May 1995, Scott Little wrote:
+
+> >On another note:  I noticed a general rule with homopolar motors and 
+> >generators: A magnet makes the radial current in the disk flow in a 
+> >spiral pattern, which drags the disk along,
+> 
+> Bill, I'm not sure I understand this spiral current business.  Are you 
+> suggesting that this is WHY the disk rotates?  Surely the primary impetus 
+> for rotation comes simply from purely radial current "crossed into" the 
+> axial B, which results in tangential force. Am I missing something?
+
+But doesn't it result in a tangential force on the mobile *carriers*?  
+I can see why a b-field makes the radial electron flow become a spiral 
+electron flow.  But why should it drag the metal along?
+
+Now that you have me thinking, I guess the same can be said of the motor 
+principle: a current in a wire in a b-field will be deflected, and will 
+drag the wire along with it, rather than just causing a Hall effect 
+charge separation along the sides of the wire.  However, current in a 
+wire is in a closed loop, and it is energetically favorable for the loop 
+to reorient itself in the b-field, hence the force felt by each segment 
+of the loop.  But I can't see how this applies to the disk.  How can the 
+turning of the disk represent a move to a lower energy state?  And 
+besides, it doesn't represent a lower state, since it never changes 
+energy.  Maybe its actually the MOTION of the disk that is the lower 
+energy state, rather than any particular POSITION, and so the disk wants 
+to be continuously accelerating whenever current exists within?
+
+.....................uuuu / oo \ uuuu........,.............................
+William Beaty  voice:206-762-3818   bbs:206-789-0775    cserv:71241,3623
+EE/Programmer/Science exhibit designer        http://amasci.com/
+Seattle, WA 98117  billbeskimo.com           SCIENCE HOBBYIST web page
+
+
+
+From billbeskimo.com Thu May 25 08:02:19 1995
+Date: Thu, 25 May 1995 08:02:18 -0700 (PDT)
+From: William Beaty <billbeskimo.com>
+To: vortex-l@mail.eskimo.com
+Subject: Re: homopolar generators
+In-Reply-To: <Pine.SUN.3.91.950525073752.1109A-100000@eskimo.com>
+Message-ID: <Pine.SUN.3.91.950525075726.1109C-100000@eskimo.com>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: O
+X-Status: 
+
+On Thu, 25 May 1995, William Beaty wrote:
+
+>  But I can't see how this applies to the disk.  How can the 
+> turning of the disk represent a move to a lower energy state?  And 
+> besides, it doesn't represent a lower state, since it never changes 
+> energy.  Maybe its actually the MOTION of the disk that is the lower 
+> energy state, rather than any particular POSITION, and so the disk wants 
+> to be continuously accelerating whenever current exists within?
+
+By the way, I'm visualizing a radially symmetric machine with continuous
+liquid metal contacts on the entire edge, and disk/cylinder geometry for
+the external circuit rather than wires.  The usual "textbook" variety has
+a contact brush only at one point on the edge, and charges flow in the
+disk only between the disk center and this brush.  Forces MAY be applied 
+to the external circuit wires relative to the disk in the "textbook" 
+version, but this isnt true of the radially symmetric version, yet it 
+still turns.  I think.  At least it is SAID to turn.  Things like this 
+you almost have to try yourself, because the books say many incorrect 
+things about these machines.
+
+.....................uuuu / oo \ uuuu........,.............................
+William Beaty  voice:206-762-3818   bbs:206-789-0775    cserv:71241,3623
+EE/Programmer/Science exhibit designer        http://amasci.com/
+Seattle, WA 98117  billbeskimo.com           SCIENCE HOBBYIST web page
+
+
+
+From billbeskimo.com Thu May 25 19:28:46 1995
+Date: Thu, 25 May 1995 19:28:44 -0700 (PDT)
+From: William Beaty <billbeskimo.com>
+To: vortex-l@mail.eskimo.com
+Subject: Re: homopolar generators
+In-Reply-To: <199505252052.PAA00271@matrix.eden.com>
+Message-ID: <Pine.SUN.3.91.950525190716.5393A-100000@eskimo.com>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: O
+X-Status: 
+
+On Thu, 25 May 1995, Scott Little wrote:
+
+> I must say, your energy approach is confusing me.  You're right, in order 
+> for it to exert a force to move, it must be moving toward lower energies (by 
+> definition)....but the whole thing is perfectly symmertrical, nothing is 
+> moving in or out of the magnetic field!?  Damn, I thought I had this all 
+> figured out.
+
+Ha!  I'm still wondering how an electron beam can be deflected by 
+a magnetic field, since by what measurement does empty space full 
+of uniform b-field have position?  Every bit of the field must have 
+position relative to the electrons, yet the field is smooth, so how can 
+it have features which can be compared to the electron position, and 
+velocity be detected thereby?  Don't tell me that field lines are real 
+after all!
+
+With the homopolar motor, I was supposing that the back-emf of a rotating
+disk, in combination with the fields around it, might represent a lower
+energy state, and so the disk would start moving, but then a HIGHER speed
+would represent a lower energy state for it, and so the disk would attain a
+particular value of increasing RPMs, rather than behaving like a coil and
+attaining a particular position.  But I haven't thought about this in 
+depth, so the idea might be off the wall.
+
+.....................uuuu / oo \ uuuu........,.............................
+William Beaty  voice:206-762-3818   bbs:206-789-0775    cserv:71241,3623
+EE/Programmer/Science exhibit designer        http://amasci.com/
+Seattle, WA 98117  billbeskimo.com           SCIENCE HOBBYIST web page
+
+
+
+From billbeskimo.com Wed May 31 14:00:51 1995
+Date: Wed, 31 May 1995 14:00:49 -0700 (PDT)
+From: William Beaty <billbeskimo.com>
+To: vortex-l@mail.eskimo.com
+Subject: Re: New Developments in Homopolar Generators
+In-Reply-To: <199505311644.MAA23727@ios.com>
+Message-ID: <Pine.SUN.3.91.950531135914.29492A-100000@eskimo.com>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: O
+X-Status: 
+
+
+There are some Homopolar files in my WWW pages.  You can go directly
+to them at http://amasci.com/freenrg/fnrg.html
+Look down the list for "N-machine.'  Do you have WWW access?
+
+
+.....................uuuu / oo \ uuuu........,.............................
+William Beaty  voice:206-762-3818   bbs:206-789-0775    cserv:71241,3623
+EE/Programmer/Science exhibit designer        http://amasci.com/
+Seattle, WA 98117  billbeskimo.com           SCIENCE HOBBYIST web page
+
+
+
+From owner-vortex-l Thu May 25 13:54:42 1995
+Return-Path: <owner-vortex-l>
+Received: by mail.eskimo.com (5.65c/1.35)
+	id AA04733; Thu, 25 May 1995 13:54:39 -0700
+Received: from matrix.eden.com by mail.eskimo.com (5.65c/1.35)
+	id AA04450; Thu, 25 May 1995 13:53:06 -0700
+Received: from net-1-199.eden.com (net-1-199.eden.com [199.171.21.199]) by matrix.eden.com (8.6.12.1/8.6.5) with SMTP id PAA00271 for <vortex-l@mail.eskimo.com>; Thu, 25 May 1995 15:52:10 -0500
+Date: Thu, 25 May 1995 15:52:10 -0500
+Message-Id: <199505252052.PAA00271@matrix.eden.com>
+X-Sender: little@eden.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+To: vortex-l@mail.eskimo.com
+From: little@eden.com (Scott Little)
+Subject: Re: homopolar generators
+X-Mailer: <PC Eudora Version 1.4>
+Sender: owner-vortex-l@mail.eskimo.com
+Precedence: bulk
+Reply-To: vortex-l@mail.eskimo.com
+Status: RO
+X-Status: A
+
+
+>By the way, I'm visualizing a radially symmetric machine with continuous
+>liquid metal contacts on the entire edge, and disk/cylinder geometry for
+>the external circuit rather than wires. 
+
+Yeah, me too.
+
+I must say, your energy approach is confusing me.  You're right, in order 
+for it to exert a force to move, it must be moving toward lower energies (by 
+definition)....but the whole thing is perfectly symmertrical, nothing is 
+moving in or out of the magnetic field!?  Damn, I thought I had this all 
+figured out.
+
+Scott Little
+EarthTech International, Inc.  4030 Braker Lane West  Austin TX 78759  USA
+512-346-3848 (voice)  512-346-3017 (FAX)  little@eden.com (email)
+     
+
+
+From owner-vortex-l Fri May 26 21:18:34 1995
+Return-Path: <owner-vortex-l>
+Received: by mail.eskimo.com (5.65c/1.35)
+	id AA02043; Fri, 26 May 1995 21:18:30 -0700
+Received: from matrix.eden.com by mail.eskimo.com (5.65c/1.35)
+	id AA01986; Fri, 26 May 1995 21:18:08 -0700
+Received: from net-1-192.eden.com (net-1-192.eden.com [199.171.21.192]) by matrix.eden.com (8.6.12.1/8.6.12) with SMTP id XAA14475 for <vortex-l@mail.eskimo.com>; Fri, 26 May 1995 23:18:03 -0500
+Date: Fri, 26 May 1995 23:18:03 -0500
+Message-Id: <199505270418.XAA14475@matrix.eden.com>
+X-Sender: little@eden.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+To: vortex-l@mail.eskimo.com
+From: little@eden.com (Scott Little)
+Subject: Re: homopolar generators
+X-Mailer: <PC Eudora Version 1.4>
+Sender: owner-vortex-l@mail.eskimo.com
+Precedence: bulk
+Reply-To: vortex-l@mail.eskimo.com
+Status: RO
+X-Status: 
+
+>On Thu, 25 May 1995, Scott Little wrote:
+>
+>> I must say, your energy approach is confusing me.  You're right, in order 
+>> for it to exert a force to move, it must be moving toward lower energies (by 
+>> definition)... WRONG!
+
+Puthoff's clear thinking to the rescue:  True, in a situation involving 
+motion of bodies subject to conservative fields (e.g. gravity, or magnetism) 
+forces are a direct result of dE/dx...but, in the completely different 
+situation where external POWER is available in the form of, say, an electric 
+current passing through a conductor, one can develop forces that act 
+steadily as long as the power is applied.  Consider a small conductor 
+immersed in a homogenous magnetic field of infinite extent.  If you passed a 
+current thru that conductor, you WOULD INDEED observe a force exerted on it 
+equal to i*L X B.
+
+So at least that part of the homopolar generator does not appear to violate 
+any laws of Physics.
+
+Faraday's famous cemented disk paradox:  He built a homopolar generator 
+consisting of a rotating copper disc positioned near a circular magnet that 
+created an axial field thru the disk.  When he connected a brush to the 
+periphery of the disk and another brush to the disk's shaft, he observed a 
+voltage generated presumably by the motion of the disk (i.e. radial elements 
+thereof) "thru" the magnetic field.  So far so good, right?
+
+Now he "cemented" the magnet to the disk so it rotated with it.  Everything 
+else stayed the same.  He observed exactly the same voltage generated as 
+before!  As I understand it, for some number of years (perhaps 20) Faraday 
+thought that this experiment proved that the magnetic field created by the 
+magnet was always stationary, regardless of whether the magnetic material 
+itself was rotating.  This is a pretty far-reaching conclusion and Faraday 
+must have wrestled with its ramifications the most intriguing of which is 
+the possibility of applying forces directly to "the vacuum" via magnetic 
+fields.  If the field itself is stationary and this state is not dependant 
+upon the magnetic material being stationary, then the field must somehow be 
+attached to the fabric of space and thus, since one can easily exert forces 
+against a maganetic field (via i*L X B), one should therefore be able to 
+exert forces against the fabric of space...i.e. a reactionless space drive 
+would be possible!
+
+Apparently Faraday finally realized what is generally accepted as the real 
+reason that the voltage is exactly the same in the cemented case.  The field 
+DOES rotate with the magnet and since every "line of flux" that exits one 
+pole of the magnet and cuts through the disk MUST loop around enter the 
+other pole of the magnet, every such line must (once per revolution) ALSO 
+cut the external circuit containing the voltmeter.  Thus the induction for 
+the two cases is precisely identical but the "seat of induction" is quite 
+different.  
+
+Despite this clear understanding, I once tried an experiment to see if I 
+could detect any evidence of forces (in this case, torques) being applied to 
+the vacuum (fabric of space).  At one point I was sure I was seeing some 
+weak interaction but it turned out to be simply my apparatus reacting to the 
+Earth's field.  I had only constructed a crude electromagnetic compass!  It 
+was fun, though.
+
+
+
+From owner-vortex-l Mon May 29 07:20:42 1995
+Return-Path: <owner-vortex-l>
+Received: by mail.eskimo.com (5.65c/1.35)
+	id AA20991; Mon, 29 May 1995 07:20:39 -0700
+Received: from emout04.mail.aol.com by mail.eskimo.com (5.65c/1.35)
+	id AA20963; Mon, 29 May 1995 07:20:30 -0700
+Received: by emout04.mail.aol.com
+	(1.37.109.11/16.2) id AA018377027; Mon, 29 May 1995 10:17:07 -0400
+Date: Mon, 29 May 1995 10:17:07 -0400
+From: Puthoff@aol.com
+Message-Id: <950529101705_16457310@aol.com>
+To: vortex-l@mail.eskimo.com
+Cc: little@eden.com
+Subject: Re: n-machines
+Sender: owner-vortex-l@mail.eskimo.com
+Precedence: bulk
+Reply-To: vortex-l@mail.eskimo.com
+Status: RO
+X-Status: 
+
+In the latest issue of New Energy News (May 1995) there is a letter from a
+group who supported DePalma's work for the last seven years and have come to
+the conclusion after extensive testing by sympathetic but rigorous engineers
+that the device simply does not live up to its claim, no over-unity
+performance.  The test rig is now for sale by them if you're interested.
+
+Hal Puthoff
+
+From owner-vortex-l Wed May 31 09:47:46 1995
+Return-Path: <owner-vortex-l>
+Received: by mail.eskimo.com (5.65c/1.35)
+	id AA19359; Wed, 31 May 1995 09:46:43 -0700
+Received: from ios.com by mail.eskimo.com (5.65c/1.35)
+	id AA18971; Wed, 31 May 1995 09:44:59 -0700
+Received: from 198.4.70.83 ([198.4.70.83]) by ios.com (8.6.9/8.6.9) with SMTP id MAA23727 for <vortex-l@mail.eskimo.com>; Wed, 31 May 1995 12:44:52 -0400
+Date: Wed, 31 May 1995 12:44:52 -0400
+Message-Id: <199505311644.MAA23727@ios.com>
+From: reedh@styx.ios.com
+Subject: New Developments in Homopolar Generators
+To: vortex-l@mail.eskimo.com
+X-Mailer: AIR Mail 3.X (SPRY, Inc.)
+Sender: owner-vortex-l@mail.eskimo.com
+Precedence: bulk
+Reply-To: vortex-l@mail.eskimo.com
+Status: RO
+X-Status: A
+
+I appreciate several of you responding to my e-mail, particularly Bill Beaty 
+and Scott Little, even though I haven't been quick in responding to your 
+messages of this group.  And its a group of some very intelligent people, by 
+the way.
+
+My interest in homopolar generators comes from the fact that I have invested 
+money in the development of a prototype based on a new design.  The inventor 
+has kept a very low profile and has had very little written about him in the 
+publications such as New Energy News and Space Energy Journal (he wanted it 
+that way -- don't attract attention until you have something that works)
+
+I am not a technical person, but a businessman.  I started an energy 
+management company in Phoenix Arizona which has been successful in reducing 
+commercial & industrial facilities energy costs through methods such as 
+lighting retrofits, hvac upgrades, and cogeneration.  However, my interest in 
+the energy industry is not in conservation projects, which are simply 
+"band-aid" fixes to the energy problems we face (limited fossil fuels, 
+environmental destruction, and high power costs).  My interest is the quiet 
+energy revolution I see occuring, which is led by the emergence of new energy 
+technologies.
+
+If you review all the reports written about N-machines & homopolar generators, 
+you will find a few hints of secrets divulged or at least alluded to, which no 
+one has tried before in the design of a homopolar generator.  Once we obtain 
+our patent pending status, I will be much more comfortable with releasing any 
+details.  I obviously can't release anything now.  But suffice it to say, we 
+are building a generator based on a completely new design. 
+
+Preliminary reports look very encouraging.  Our prototype should be completed 
+within 45-60 days and then we'll know if all the time and money was worth it.
+
+The reason I am posting this message is for a couple of reasons:
+
+1. Once our prototype is completed, I want to contract with an independent 
+company (such as EarthTech Intl.) to validate over-unity output.  My concern 
+is how do we keep our design protected while undergoing testing?  Patents only 
+offer one very thin level of protection.  I would prefer to keep our design 
+confidential until we are large enough to handle the legal costs to defend it. 
+ In the near future, I plan to use what I call the "picket fence" approach for 
+our design, and in effect build a barrier around the original patent by 
+submitting variations of the original patent.  This is how the Japanese are 
+able to circumvent our patents.  
+
+2. Once overunity is validated, I am looking for engineering talent that wants 
+to join my company to help refine and improve this prototype for 
+manufacturing.  Our first product will be a home power unit (expected 10-15 Kw 
+output).  Our goal is to be marketing these home units by the end of this 
+year.  I am not looking for outside contract engineers, but people who want to 
+get involved with this company on a full time basis.  Once we have a working 
+generator, we need the talent to engineer different size generators for 
+different applications.
+
+Any comments on the above would be appreciated.  
+
+By the way, Bill asked about the status of Tewari.  He is working on a new 
+design of his N-machine, which he plans to build and test for any overunity.  
+I do not have any details of his new design.
+
+Thanks,
+
+Reed Huish
+The Energy Group
+
+
+
+From ghawk@eskimo.com Mon Jun  5 21:20:00 1995
+Return-Path: <ghawk@eskimo.com>
+Received: from 204.122.16.4 by mail.eskimo.com (5.65c/1.35)
+	id AA21291; Mon, 5 Jun 1995 21:19:50 -0700
+Message-Id: <199506060419.AA21291@mail.eskimo.com>
+X-Sender: ghawk@mail.eskimo.com
+X-Mailer: Windows Eudora Version 1.4.4
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Date: Mon, 05 Jun 1995 21:24:36 -0700
+To: knuke@aa.net (Michael T. Huffman)
+From: ghawk@eskimo.com (Gary Hawkins)
+Subject: Re: Glad you made it
+Cc: billbeskimo.com
+Status: RO
+X-Status: 
+
+
+>  I'm sure that at some level you must realize that your sonic experiments
+>are extremely important. 
+
+I think you were right there when that fellow asked me why I was doing it.  
+I was tongue tied, and more or less wanted to slap him around and ask him 
+what the heck is the matter with him, doesn't he appreciate the discovery of 
+nature, and have a fascination with how ordered it is, and doesn't he 
+realize how interesting it is that when resonance plays a part, order results, 
+and doesn't he see how it could have implications of what might be going on 
+at a microscopic level, and why doesn't he get a life, ha.  Words eluded me.
+
+I don't know if E-mail is the best way to discuss
+>this, but I have heard of people that are doing this kind of work in the
+>medical profession, and have gotten results that have driven them
+>underground. 
+
+Wow.
+
+I was racking my brains trying to figure out what the
+>mechanisms could be, with nothing more to go on but rumour and a few
+>snippets of information. After seeing your experiments, however, I think I
+>have some Ideas. In fact, I'm so excited by the possibilities, that I almost
+>wish that I could shitcan the stuff that I'm working on now, and throw all
+>my time and money into what you are doing.
+
+I've had that problem many times.  But don't let that happen.  I'm way too 
+diversified, not able to finish anything.
+
+Today, I bought a video from Laura Lee by some people who are doing this,
+and dammit, it was recorded by the company wrong, had a Nova program on 
+ants.  I sit huddled in a corner mumbling about how the universe is conspiring 
+against me.  All of her other videos were fine.  When I get it swapped, you 
+guys have just gotta come over for another movie.  Maybe this time it will be 
+more than just a few seconds long.
+
+>  If you are comfortable with talking about these things through E-mail, I'd
+>be happy to share my thoughts with you. I like E-mail for its' convenience,
+>and the simple act of typing things out forces a structure that helps
+>organize an otherwise loosely connected thought train. Some people are a bit
+>paranoid about the security of the E-mail system, and perhaps rightly so.
+>I've never felt comfortable with secrets, so for the most part, I don't
+>really care if people read my mail. If it suits you, I could just start
+>typing. If not, we could discuss it on the phone or in person. It's up to
+>you. I'd like to run the ideas past Bill as well. He's nothing short of a
+>genius, and I haven't met anyone like him in years. This could be BIG fun.
+>-Knuke
+>
+>
+>
+Go for it.  Unless something absolutely phenomenal crops up, I've become very 
+non-protective along this line.  Tomorrow I'll be showing one of the guys who 
+were at that meeting, the capacitor bank, and how that works.  I figure,
+heck, it 
+isn't going anywhere toward an income anyway, so if somebody else develops it, 
+I'll just work on something else.
+
+We can just carbon copy our messages if that's alright with you.  In fact,
+I'm sure 
+enough that it's alright with you, that I'm cc'ing this one to Bill as well.
+
+Gary
+-----------------------------------------------------------------------
+      Horizon Technology -- Tomorrow's Technology Today
+                      http://www.eskimo.com/~ghawk
+
+
+From little@eden.com Mon Jun  5 22:38:35 1995
+Return-Path: <little@eden.com>
+Received: from matrix.eden.com by mail.eskimo.com (5.65c/1.35)
+	id AA02523; Mon, 5 Jun 1995 22:38:34 -0700
+Received: from net-1-168.eden.com (net-1-168.eden.com [199.171.21.168]) by matrix.eden.com (8.6.12.1/8.6.12) with SMTP id AAA29286 for <billbeskimo.com>; Tue, 6 Jun 1995 00:38:31 -0500
+Date: Tue, 6 Jun 1995 00:38:31 -0500
+Message-Id: <199506060538.AAA29286@matrix.eden.com>
+X-Sender: little@eden.com (Unverified)
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+To: William Beaty <billbeskimo.com>
+From: little@eden.com (Scott Little)
+Subject: Hilsch vortex tubes
+X-Mailer: <PC Eudora Version 1.4>
+Status: RO
+X-Status: A
+
+
+Do you know anything about the thermodynamics of these things?
+
+I've been looking at the literature from Vortec and it doesn't seem to add 
+up.  For example, the biggest one they make produces 6000 BTU/hr of cooling 
+and, according to the formulas given, all this heat shows up in the hot air 
+exhaust stream.  In fact, they point to a "heat balance" equation and they 
+say that "all vortex tubes obey this equation".  What doesn't add up is the 
+input energy.  The 6000 BTU/hr tube requires 100 SCFM at 100 psi, which I 
+make out to be around 16,000 BTU/hr in air flow power.  Where does that 
+power go?  If I believe their numbers, it just disappears!
+
+Maybe a vortex tube is somehow NOT a heat engine and thus subject to 
+different rules...
+
+Any ideas?
+
+
+From little@eden.com Tue Jun  6 08:49:24 1995
+Return-Path: <little@eden.com>
+Received: from matrix.eden.com by mail.eskimo.com (5.65c/1.35)
+	id AA06024; Tue, 6 Jun 1995 08:49:21 -0700
+Received: from net-1-161.eden.com (net-1-161.eden.com [199.171.21.161]) by matrix.eden.com (8.6.12.1/8.6.12) with SMTP id KAA28317 for <billbeskimo.com>; Tue, 6 Jun 1995 10:49:15 -0500
+Date: Tue, 6 Jun 1995 10:49:15 -0500
+Message-Id: <199506061549.KAA28317@matrix.eden.com>
+X-Sender: little@eden.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+To: William Beaty <billbeskimo.com>
+From: little@eden.com (Scott Little)
+Subject: Re: Hilsch vortex tubes
+X-Mailer: <PC Eudora Version 1.4>
+Status: RO
+X-Status: A
+
+>I never heard any numbers quoted for these.  I assumed that the input 
+>energy appeared as heat at the exit tube, and the heat extracted from the 
+>cold stream ALSO appeared as heat at the exit tube.\
+
+Yeah, this is what I'd expect, too.
+
+>So the device in 
+>effect is a turbine-powered refridgerator, with the turbine and the 
+>working fluid being one in the same.  But adibatic expansion causes 
+>cooling. 
+
+They mention this (called Joule-Thompson cooling) but it is almost negligible.
+
+Their numbers don't add up.  BTW, I called their tech support and I knew 
+more about how it worked than that guy did!
+
+Scott Little
+EarthTech International, Inc.  4030 Braker Lane West  Austin TX 78759  USA
+512-346-3848 (voice)  512-346-3017 (FAX)  little@eden.com (email)
+     
+
+
+From little@eden.com Wed Jun  7 04:55:41 1995
+Return-Path: <little@eden.com>
+Received: from matrix.eden.com by mail.eskimo.com (5.65c/1.35)
+	id AA28181; Wed, 7 Jun 1995 04:55:39 -0700
+Received: from net-1-141.eden.com (net-1-141.eden.com [199.171.21.141]) by matrix.eden.com (8.6.12.1/8.6.12) with SMTP id GAA17448 for <billbeskimo.com>; Wed, 7 Jun 1995 06:55:31 -0500
+Date: Wed, 7 Jun 1995 06:55:31 -0500
+Message-Id: <199506071155.GAA17448@matrix.eden.com>
+X-Sender: little@eden.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+To: William Beaty <billbeskimo.com>
+From: little@eden.com (Scott Little)
+Subject: Re: Hilsch vortex tubes
+X-Mailer: <PC Eudora Version 1.4>
+Status: RO
+X-Status: 
+
+
+>than visualizing a spinning flow, I vizualize the entire tube as rotating,
+>like the artificial gravity of an 'L5' colony, and with strong enough
+>gravity that the atmosphere near the surface is at much higher pressure
+>than that at the center.  The flow probably stays laminar so different
+>layers don't mix.  
+
+Interesting that you should say this.  They go on quite a bit in the lit. 
+about how the rotation in the tube is different from an ordinary whirlpool 
+where the inner portion rotates must faster than the outer portion.  In the 
+tube, they say, all the air is in "lockstep" due to turbulence between 
+layers or something and it all rotates with the same angular velocity!
+
+But it's not a mysterious energy source...it's a sink!
+
+
+From knuke@aa.net Wed Jun  7 14:28:03 1995
+Return-Path: <knuke@aa.net>
+Received: from big.aa.net by mail.eskimo.com (5.65c/1.35)
+	id AA01570; Wed, 7 Jun 1995 14:25:50 -0700
+Received: from d205.aa.net (d205.aa.net [204.157.220.205]) by big.aa.net (8.6.11/8.6.9) with SMTP id OAA00463; Wed, 7 Jun 1995 14:24:21 -0700
+Date: Wed, 7 Jun 1995 14:24:21 -0700
+Message-Id: <199506072124.OAA00463@big.aa.net>
+X-Sender: knuke@aa.net (Unverified)
+X-Mailer: Windows Eudora Version 1.4.4
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+To: ghawk@eskimo.com (Gary Hawkins)
+From: knuke@aa.net (Michael T. Huffman)
+Subject: Re: Glad you made it
+Cc: billbeskimo.com
+Status: RO
+X-Status: 
+
+Gary,
+>
+>I think you were right there when that fellow asked me why I was doing it.  
+
+Yeah, I was there. I thought that he had asked "What are you guys trying to
+DOOOO with that thing, anyway?" About 2 million synapses in my brain
+suddenly misfired, and all I could think was "Well, we're not trying to
+DOOOO ANYTHING!! We're JUST LOOKING at it." I knew that wasn't a very good
+answer, and I thought "What ARE we doing? We're trying to observe - learn -
+understand." Then I looked to you for some help in answering this guy and
+saw the same shock on your face. I just had to laugh.
+
+>>have some Ideas. In fact, I'm so excited by the possibilities, that I almost
+>>wish that I could shitcan the stuff that I'm working on now, and throw all
+>>my time and money into what you are doing.
+>
+>I've had that problem many times.  But don't let that happen.  I'm way too 
+>diversified, not able to finish anything.
+
+Don't worry, I'm not going to stop work on my device. There are still too
+many unanswered questions, and design approaches that I would like to try. I
+still feel very strongly about its' importance. 
+
+>
+>Today, I bought a video from Laura Lee by some people who are doing this,
+>and dammit, it was recorded by the company wrong, had a Nova program on 
+>ants.  I sit huddled in a corner mumbling about how the universe is conspiring 
+>against me.  All of her other videos were fine.  When I get it swapped, you 
+>guys have just gotta come over for another movie.  Maybe this time it will be 
+>more than just a few seconds long.
+>
+ 
+I'd definitely like to see it.
+
+>We can just carbon copy our messages if that's alright with you.  In fact,
+>I'm sure 
+>enough that it's alright with you, that I'm cc'ing this one to Bill as well.
+>
+>Gary
+Cool!
+
+Well here goes. If you'll remember, when Bill switched from the salt
+crystals to the glass beads, you started getting little mountains of beads
+to form. These were about 1" in diameter, and about 1/2" - 3/4" tall, if I
+remember correctly. Then on one try, a larger mass formed ( about 2 1/2" -
+3" in diameter), and the center of it collapsed. The beads then appeared to
+be cycling around an invisible center core. Bill picked up a palmful of
+dirt, picked out the twigs and big chunks, and threw it into the mass of
+beads. I think he stirred them up, and the mass reformed exactly as it was
+before, but you could see the cycling of the beads a little better, because
+of the increase in contrast achieved by adding the dirt. As if this wasn't
+cool enough, the dirt particles started standing at attention, like
+polarized iron filings do when placed in a magnetic flux field. They cycled
+as well, along with the glass beads. I'm describing what I observed, just to
+get a consensus with the both of you.
+  It wasn't until later that night that this revelation came to me, but it
+finally occurred to me that those dirt particles were shaped like rods when
+they were cycling. In fact, they were very uniformly shaped like rods about
+1/16" long, and about 1/64" in diameter. It finally dawned on me that Bill
+didn't throw rods into the mass, he threw a bunch of randomly shaped, little
+dirt clods into it. The vibration/cycling of the glass beads had broken up
+the clods into fine particles which should have fallen down between the
+spaces between the beads. The mass of the dirt particles being much less
+than that of the beads. Instead, they were picked up, carried along with the
+beads, and RESHAPED into rods with a diameter/length ratio of roughly
+1/3.14. Now this in itself is way cool enough, but there is more.
+  I've read over the years about work being done with sound to accomplish
+various tasks. A few years ago, I read about a guy that had patented a
+process for strengthening glass with sound waves. Dow Corning bought the
+patent, and that's the last I heard of it. In the article that I read, the
+guy said that he was able to "line up" the glass molecules in the liquid
+state, so that when they cooled they had this extra strength. The article
+didn't report the frequency that gave the best results, but I would think
+that it would be in the patent spec. It would probably work on
+polycarbonates as well. In fact, I'm thinking that it would work on any
+carbon chain, but more on that later. I've also read that potters do the
+same thing with clay by hand, because it results in a stronger piece of clay
+after it is fired. I've also read that water, if it is allowed to flow down
+a shallow, rocky riverbed is supposed to be better for you, because the the
+water molecules are supposedly forced to "line up" as a result of the vortex
+actions that occurr as the water flows over the rocks in the riverbed.
+  I also know a woman in her middle sixties that told me a pretty incredible
+story about a year ago. She said that she had moved to a new area, and
+didn't have a personal doctor. She came down with a severe viral infection,
+and asked someone if they could recommend a good doctor. This person told
+her about an acupuncturist that they said got excellent results. The woman
+had never been to an acupuncturist before, and was skeptical, but the person
+that recommended him was so insistent that she thought she would give him a
+try. She was a bit averse to drug therapies, and was interested in trying an
+alternative. She said that this acupuncturist treated her with a sonic
+device, and sent her home. She said that when she first went in, she was
+absolutely miserable, and could barely even move. One half hour after the
+treatment, she said she felt like she had never been sick, and if fact, felt
+ten years younger. She was so shocked by the completeness and speed of her
+recovery, that she went back to the acupuncturist to find out what this
+sonic device was. The doctor told her that there were only two machines in
+the world, and that he was getting consistant, incredible results in
+treating viral illnesses. This woman asked if he had ever had the
+opportunity to treat an AIDS patient with this, and the doctor just smiled.
+He said that she must NEVER tell anyone about this, because the inventor had
+been jailed for just that. The woman didn't have the technical sense to find
+out what the frequencies were that were applied, but I think she could find
+out if I asked her to.
+  I also read just recently on the Internet that cancer was being treated
+experimentally with a sonic device, and that the frequencies were between
+400 - 500 Hz. Again, this was someone that was not a physician, that had
+treated and CURED himself of terminal cancer, and then shared the
+information on the NET. He's bound to encounter legal difficulties, and he
+knows it, but he's doing it anyway.
+  At any rate, it occurred to me that the way a virus attacks a healthy cell
+could be more mechanical in nature than chemical. Consider the fact that a
+virus is a very small entity compared to it's target cell. The virus itself
+is basically a protein chain like about the same size as the DNA molecule of
+the healthy cell. This smallness, and the fact that it is shaped like a
+coiled arrow or spring, gives it the mechanical ability to penetrate the
+tough outer skin of the larger, more organized cell structure. Once it is
+inside the cell, it replaces the DNA instruction mechanism for replicating
+another healthy cell, and the cell replicates according to the instruction
+of the virus. These new cells would be termed by "modern medicine" to be
+cancerous. With AIDS, the virus attacks the immune system cells themselves
+as a specialty, with especially disasterous collateral results. If you were
+to sonically create the vibration necessary to either induce the kind of
+cycling that we saw with the glass beads, only with the larger, rounder
+cells in the bloodstream, it is conceiveable that you could break down and
+reshape the virus before it had a chance to enter the cell wall. In tissue
+that was already invaded, perhaps the vibration would prevent the
+replication of that tissue, and it would eventually just die.
+  This is just a bare outline of a theory, but I think that it must be
+checked out. If it proved to be correct, it could usher in a whole new way
+of treating diseases without chemicals. It is a mechanical/shape approach. I
+was thinking that if you glue a small, piezoelectric speaker to the bottom
+of a pyrex container or something similar, and used that aluminum metal
+flake as a visual enhancer, you could find the frequencies that make water
+cycle in a flux or vortex pattern. Then you could "infect"  the water with a
+common bacteria such giardia, and see if the treatment would kill it. You
+would need a microscope to do before and after bacteria counts. My machine
+might be able to do the same thing, but I'd be more interested in the
+ability to generate precise wavelengths with just a speaker and a signal
+generator. You could then sneak it past the PTO as a water purification
+method. Are you guys interested in doing any of this? -Knuke
+
+PS. I just re-read this and realized that this might be a lot to digest in
+one reading. Read it a few times and sleep on it, you might see it better.
+As usual my explainations aren't the best.   
+
+
+From knuke@aa.net Wed Jun  7 14:29:09 1995
+Return-Path: <knuke@aa.net>
+Received: from big.aa.net by mail.eskimo.com (5.65c/1.35)
+	id AA01662; Wed, 7 Jun 1995 14:26:34 -0700
+Received: from d205.aa.net (d205.aa.net [204.157.220.205]) by big.aa.net (8.6.11/8.6.9) with SMTP id OAA00635; Wed, 7 Jun 1995 14:26:20 -0700
+Date: Wed, 7 Jun 1995 14:26:20 -0700
+Message-Id: <199506072126.OAA00635@big.aa.net>
+X-Sender: knuke@aa.net (Unverified)
+X-Mailer: Windows Eudora Version 1.4.4
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+To: ghawk@eskimo.com
+From: knuke@aa.net (Michael T. Huffman)
+Subject: Re: Glad you made it
+Cc: billbeskimo.com
+Status: RO
+X-Status: 
+
+>To: ghawk@eskimo.com (Gary Hawkins)
+>From: knuke@aa.net (Michael T. Huffman)
+>Subject: Re: Glad you made it
+>Cc: billbeskimo.com
+>Bcc: 
+>X-Attachments: 
+>
+>Gary,
+>>
+>>I think you were right there when that fellow asked me why I was doing it.  
+>
+>Yeah, I was there. I thought that he had asked "What are you guys trying to
+DOOOO with that thing, anyway?" About 2 million synapses in my brain
+suddenly misfired, and all I could think was "Well, we're not trying to
+DOOOO ANYTHING!! We're JUST LOOKING at it." I knew that wasn't a very good
+answer, and I thought "What ARE we doing? We're trying to observe - learn -
+understand." Then I looked to you for some help in answering this guy and
+saw the same shock on your face. I just had to laugh.
+>
+>>>have some Ideas. In fact, I'm so excited by the possibilities, that I almost
+>>>wish that I could shitcan the stuff that I'm working on now, and throw all
+>>>my time and money into what you are doing.
+>>
+>>I've had that problem many times.  But don't let that happen.  I'm way too 
+>>diversified, not able to finish anything.
+>
+>Don't worry, I'm not going to stop work on my device. There are still too
+many unanswered questions, and design approaches that I would like to try. I
+still feel very strongly about its' importance. 
+>
+>>
+>>Today, I bought a video from Laura Lee by some people who are doing this,
+>>and dammit, it was recorded by the company wrong, had a Nova program on 
+>>ants.  I sit huddled in a corner mumbling about how the universe is
+conspiring 
+>>against me.  All of her other videos were fine.  When I get it swapped, you 
+>>guys have just gotta come over for another movie.  Maybe this time it will be 
+>>more than just a few seconds long.
+>>
+> 
+>I'd definitely like to see it.
+>
+>>We can just carbon copy our messages if that's alright with you.  In fact,
+>>I'm sure 
+>>enough that it's alright with you, that I'm cc'ing this one to Bill as well.
+>>
+>>Gary
+>Cool!
+>
+>Well here goes. If you'll remember, when Bill switched from the salt
+crystals to the glass beads, you started getting little mountains of beads
+to form. These were about 1" in diameter, and about 1/2" - 3/4" tall, if I
+remember correctly. Then on one try, a larger mass formed ( about 2 1/2" -
+3" in diameter), and the center of it collapsed. The beads then appeared to
+be cycling around an invisible center core. Bill picked up a palmful of
+dirt, picked out the twigs and big chunks, and threw it into the mass of
+beads. I think he stirred them up, and the mass reformed exactly as it was
+before, but you could see the cycling of the beads a little better, because
+of the increase in contrast achieved by adding the dirt. As if this wasn't
+cool enough, the dirt particles started standing at attention, like
+polarized iron filings do when placed in a magnetic flux field. They cycled
+as well, along with the glass beads. I'm describing what I observed, just to
+get a consensus with the both of you.
+>  It wasn't until later that night that this revelation came to me, but it
+finally occurred to me that those dirt particles were shaped like rods when
+they were cycling. In fact, they were very uniformly shaped like rods about
+1/16" long, and about 1/64" in diameter. It finally dawned on me that Bill
+didn't throw rods into the mass, he threw a bunch of randomly shaped, little
+dirt clods into it. The vibration/cycling of the glass beads had broken up
+the clods into fine particles which should have fallen down between the
+spaces between the beads. The mass of the dirt particles being much less
+than that of the beads. Instead, they were picked up, carried along with the
+beads, and RESHAPED into rods with a diameter/length ratio of roughly
+1/3.14. Now this in itself is way cool enough, but there is more.
+>  I've read over the years about work being done with sound to accomplish
+various tasks. A few years ago, I read about a guy that had patented a
+process for strengthening glass with sound waves. Dow Corning bought the
+patent, and that's the last I heard of it. In the article that I read, the
+guy said that he was able to "line up" the glass molecules in the liquid
+state, so that when they cooled they had this extra strength. The article
+didn't report the frequency that gave the best results, but I would think
+that it would be in the patent spec. It would probably work on
+polycarbonates as well. In fact, I'm thinking that it would work on any
+carbon chain, but more on that later. I've also read that potters do the
+same thing with clay by hand, because it results in a stronger piece of clay
+after it is fired. I've also read that water, if it is allowed to flow down
+a shallow, rocky riverbed is supposed to be better for you, because the the
+water molecules are supposedly forced to "line up" as a result of the vortex
+actions that occurr as the water flows over the rocks in the riverbed.
+>  I also know a woman in her middle sixties that told me a pretty
+incredible story about a year ago. She said that she had moved to a new
+area, and didn't have a personal doctor. She came down with a severe viral
+infection, and asked someone if they could recommend a good doctor. This
+person told her about an acupuncturist that they said got excellent results.
+The woman had never been to an acupuncturist before, and was skeptical, but
+the person that recommended him was so insistent that she thought she would
+give him a try. She was a bit averse to drug therapies, and was interested
+in trying an alternative. She said that this acupuncturist treated her with
+a sonic device, and sent her home. She said that when she first went in, she
+was absolutely miserable, and could barely even move. One half hour after
+the treatment, she said she felt like she had never been sick, and if fact,
+felt ten years younger. She was so shocked by the completeness and speed of
+her recovery, that she went back to the acupuncturist to find out what this
+sonic device was. The doctor told her that there were only two machines in
+the world, and that he was getting consistant, incredible results in
+treating viral illnesses. This woman asked if he had ever had the
+opportunity to treat an AIDS patient with this, and the doctor just smiled.
+He said that she must NEVER tell anyone about this, because the inventor had
+been jailed for just that. The woman didn't have the technical sense to find
+out what the frequencies were that were applied, but I think she could find
+out if I asked her to.
+>  I also read just recently on the Internet that cancer was being treated
+experimentally with a sonic device, and that the frequencies were between
+400 - 500 Hz. Again, this was someone that was not a physician, that had
+treated and CURED himself of terminal cancer, and then shared the
+information on the NET. He's bound to encounter legal difficulties, and he
+knows it, but he's doing it anyway.
+>  At any rate, it occurred to me that the way a virus attacks a healthy
+cell could be more mechanical in nature than chemical. Consider the fact
+that a virus is a very small entity compared to it's target cell. The virus
+itself is basically a protein chain like about the same size as the DNA
+molecule of the healthy cell. This smallness, and the fact that it is shaped
+like a coiled arrow or spring, gives it the mechanical ability to penetrate
+the tough outer skin of the larger, more organized cell structure. Once it
+is inside the cell, it replaces the DNA instruction mechanism for
+replicating another healthy cell, and the cell replicates according to the
+instruction of the virus. These new cells would be termed by "modern
+medicine" to be cancerous. With AIDS, the virus attacks the immune system
+cells themselves as a specialty, with especially disasterous collateral
+results. If you were to sonically create the vibration necessary to either
+induce the kind of cycling that we saw with the glass beads, only with the
+larger, rounder cells in the bloodstream, it is conceiveable that you could
+break down and reshape the virus before it had a chance to enter the cell
+wall. In tissue that was already invaded, perhaps the vibration would
+prevent the replication of that tissue, and it would eventually just die.
+>  This is just a bare outline of a theory, but I think that it must be
+checked out. If it proved to be correct, it could usher in a whole new way
+of treating diseases without chemicals. It is a mechanical/shape approach. I
+was thinking that if you glue a small, piezoelectric speaker to the bottom
+of a pyrex container or something similar, and used that aluminum metal
+flake as a visual enhancer, you could find the frequencies that make water
+cycle in a flux or vortex pattern. Then you could "infect"  the water with a
+common bacteria such giardia, and see if the treatment would kill it. You
+would need a microscope to do before and after bacteria counts. My machine
+might be able to do the same thing, but I'd be more interested in the
+ability to generate precise wavelengths with just a speaker and a signal
+generator. You could then sneak it past the PTO as a water purification
+method. Are you guys interested in doing any of this? -Knuke
+>
+>PS. I just re-read this and realized that this might be a lot to digest in
+one reading. Read it a few times and sleep on it, you might see it better.
+As usual my explainations aren't the best.   
+>
+
+
+From ghawk@eskimo.com Wed Jun  7 19:13:59 1995
+Return-Path: <ghawk@eskimo.com>
+Received: from 204.122.16.4 by mail.eskimo.com (5.65c/1.35)
+	id AA18855; Wed, 7 Jun 1995 19:13:45 -0700
+Message-Id: <199506080213.AA18855@mail.eskimo.com>
+X-Sender: ghawk@mail.eskimo.com
+X-Mailer: Windows Eudora Version 1.4.4
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Date: Wed, 07 Jun 1995 19:18:40 -0700
+To: knuke@aa.net (Michael T. Huffman)
+From: ghawk@eskimo.com (Gary Hawkins)
+Subject: Re: Glad you made it
+Cc: billbeskimo.com
+Status: RO
+X-Status: 
+
+Note:  Cyberquest has gone out of business apparently.
+
+
+>understand." Then I looked to you for some help in answering this guy and
+>saw the same shock on your face. I just had to laugh.
+
+That's hilarious.  I've gotten a good laugh from this.
+>
+>Well here goes. If you'll remember, when Bill switched from the salt
+>crystals to the glass beads, you started getting little mountains of beads
+>to form. These were about 1" in diameter, and about 1/2" - 3/4" tall, if I
+>remember correctly. Then on one try, a larger mass formed ( about 2 1/2" -
+>3" in diameter), and the center of it collapsed. The beads then appeared to
+>be cycling around an invisible center core. Bill picked up a palmful of
+>dirt, picked out the twigs and big chunks, and threw it into the mass of
+>beads. I think he stirred them up, and the mass reformed exactly as it was
+>before, but you could see the cycling of the beads a little better, because
+>of the increase in contrast achieved by adding the dirt. As if this wasn't
+>cool enough, the dirt particles started standing at attention, like
+>polarized iron filings do when placed in a magnetic flux field. They cycled
+>as well, along with the glass beads. I'm describing what I observed, just to
+>get a consensus with the both of you.
+
+Close enough, by my memory.  What if a magnetic field is merely a virtual 
+effect, caused by micro vibrations, causing atoms to align because of their 
+geometry, and when those vibrations (which have a certain form or structure) 
+come close to another 'field' (vibrations) with its own structure, the two 
+either are in phase, and attract, or out of phase, and repel, or, etc.
+
+>  It wasn't until later that night that this revelation came to me, but it
+>finally occurred to me that those dirt particles were shaped like rods when
+>they were cycling. In fact, they were very uniformly shaped like rods about
+>1/16" long, and about 1/64" in diameter. It finally dawned on me that Bill
+>didn't throw rods into the mass, he threw a bunch of randomly shaped, little
+>dirt clods into it. The vibration/cycling of the glass beads had broken up
+>the clods into fine particles which should have fallen down between the
+>spaces between the beads. The mass of the dirt particles being much less
+>than that of the beads. Instead, they were picked up, carried along with the
+>beads, and RESHAPED into rods with a diameter/length ratio of roughly
+>1/3.14. Now this in itself is way cool enough, but there is more.
+
+Very observant.  I noticed this too, vaguely, but I suppose I concluded that 
+I didn't look closely enough at them originally.  Now that you mention it, 
+I think you are right.
+
+>  I've read over the years about work being done with sound to accomplish
+>various tasks. A few years ago, I read about a guy that had patented a
+>process for strengthening glass with sound waves. Dow Corning bought the
+>patent, and that's the last I heard of it. In the article that I read, the
+>guy said that he was able to "line up" the glass molecules in the liquid
+>state, so that when they cooled they had this extra strength. The article
+>didn't report the frequency that gave the best results, but I would think
+>that it would be in the patent spec. It would probably work on
+>polycarbonates as well. In fact, I'm thinking that it would work on any
+>carbon chain, but more on that later. 
+
+When copper work hardens, I'm told that the crystaline structure aligns in 
+a certain way.  It should be possible to work-harden copper without pounding 
+on it, but with a relatively gentle vibration of the right frequency.
+
+I've also read that potters do the
+>same thing with clay by hand, because it results in a stronger piece of clay
+>after it is fired. I've also read that water, if it is allowed to flow down
+>a shallow, rocky riverbed is supposed to be better for you, because the the
+>water molecules are supposedly forced to "line up" as a result of the vortex
+>actions that occurr as the water flows over the rocks in the riverbed.
+>  I also know a woman in her middle sixties that told me a pretty incredible
+>story about a year ago. She said that she had moved to a new area, and
+>didn't have a personal doctor. She came down with a severe viral infection,
+>and asked someone if they could recommend a good doctor. This person told
+>her about an acupuncturist that they said got excellent results. The woman
+>had never been to an acupuncturist before, and was skeptical, but the person
+>that recommended him was so insistent that she thought she would give him a
+>try. She was a bit averse to drug therapies, and was interested in trying an
+>alternative. She said that this acupuncturist treated her with a sonic
+>device, and sent her home. She said that when she first went in, she was
+>absolutely miserable, and could barely even move. One half hour after the
+>treatment, she said she felt like she had never been sick, and if fact, felt
+>ten years younger. She was so shocked by the completeness and speed of her
+>recovery, that she went back to the acupuncturist to find out what this
+>sonic device was. The doctor told her that there were only two machines in
+>the world, and that he was getting consistant, incredible results in
+>treating viral illnesses. This woman asked if he had ever had the
+>opportunity to treat an AIDS patient with this, and the doctor just smiled.
+>He said that she must NEVER tell anyone about this, because the inventor had
+>been jailed for just that. The woman didn't have the technical sense to find
+>out what the frequencies were that were applied, but I think she could find
+>out if I asked her to.
+
+
+>  I also read just recently on the Internet that cancer was being treated
+>experimentally with a sonic device, and that the frequencies were between
+>400 - 500 Hz. Again, this was someone that was not a physician, that had
+>treated and CURED himself of terminal cancer, and then shared the
+>information on the NET. He's bound to encounter legal difficulties, and he
+>knows it, but he's doing it anyway.
+
+If you find it again, please let me know.
+
+>  At any rate, it occurred to me that the way a virus attacks a healthy cell
+>could be more mechanical in nature than chemical. Consider the fact that a
+>virus is a very small entity compared to it's target cell. The virus itself
+>is basically a protein chain like about the same size as the DNA molecule of
+>the healthy cell. This smallness, and the fact that it is shaped like a
+>coiled arrow or spring, gives it the mechanical ability to penetrate the
+>tough outer skin of the larger, more organized cell structure. 
+
+Lyme is spiral like a spring, and spins to drill its way in.  Doug saw this 
+under the microscope.
+
+Once it is
+>inside the cell, it replaces the DNA instruction mechanism for replicating
+>another healthy cell, and the cell replicates according to the instruction
+>of the virus. These new cells would be termed by "modern medicine" to be
+>cancerous. With AIDS, the virus attacks the immune system cells themselves
+>as a specialty, with especially disasterous collateral results. If you were
+>to sonically create the vibration necessary to either induce the kind of
+>cycling that we saw with the glass beads, only with the larger, rounder
+>cells in the bloodstream, it is conceiveable that you could break down and
+>reshape the virus before it had a chance to enter the cell wall. 
+
+Doug saw the Lyme bacteria either straighten or break apart when he hit the 
+right frequency.
+
+In tissue
+>that was already invaded, perhaps the vibration would prevent the
+>replication of that tissue, and it would eventually just die.
+>  This is just a bare outline of a theory, but I think that it must be
+>checked out. If it proved to be correct, it could usher in a whole new way
+>of treating diseases without chemicals.
+
+Vaguely reminiscent of some of the stories I've heard about alien abductions 
+where a disease was cured.
+
+It is a mechanical/shape approach. I
+>was thinking that if you glue a small, piezoelectric speaker to the bottom
+>of a pyrex container or something similar, and used that aluminum metal
+>flake as a visual enhancer, you could find the frequencies that make water
+>cycle in a flux or vortex pattern. 
+
+Great idea, to try it with a container of water.
+
+Then you could "infect"  the water with a
+>common bacteria such giardia, and see if the treatment would kill it. You
+>would need a microscope to do before and after bacteria counts. My machine
+>might be able to do the same thing, but I'd be more interested in the
+>ability to generate precise wavelengths with just a speaker and a signal
+>generator. 
+
+Bill showed how bubbles can be trapped under water with an ultrasonic 
+transducer, clearly showing that the standing wave pattern in the water from 
+this small transducer was strong enough to establish  pockets.
+
+You could then sneak it past the PTO as a water purification
+>method. Are you guys interested in doing any of this? -Knuke
+>
+>PS. I just re-read this and realized that this might be a lot to digest in
+>one reading. Read it a few times and sleep on it, you might see it better.
+>As usual my explainations aren't the best.   
+>
+To the contrary, you're a very good writer.  Please give some thought to a book,
+when you eventually have time.
+
+--Gary
+-----------------------------------------------------------------------
+      Horizon Technology -- Tomorrow's Technology Today
+                      http://www.eskimo.com/~ghawk
+
+
+From ghawk@eskimo.com Wed Jun  7 20:39:21 1995
+Return-Path: <ghawk@eskimo.com>
+Received: from 204.122.16.4 by mail.eskimo.com (5.65c/1.35)
+	id AA01149; Wed, 7 Jun 1995 20:39:13 -0700
+Message-Id: <199506080339.AA01149@mail.eskimo.com>
+X-Sender: ghawk@mail.eskimo.com
+X-Mailer: Windows Eudora Version 1.4.4
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Date: Wed, 07 Jun 1995 20:44:09 -0700
+To: billbeskimo.com, knuke@aa.net
+From: ghawk@eskimo.com (Gary Hawkins)
+Subject: Setting up a new frequency device
+Status: RO
+X-Status: 
+
+I found some latex sheet material at Gardico on Elliott Ave.  
+Dan Y suggested a way to build a device that doesn't require 
+inputing a huge amount of energy into a speaker.  The amount of 
+energy I would like to apply to this thing is more than that speaker 
+can handle.  Need to either come up with a concert type, or go 
+with this design that Dan suggested, and would welcome any 
+input on how to best make it.
+
+Basically, picture a plexiglass cylinder, or a drum, with latex over 
+both ends.  A motor with an offset (from center of rotation) shaft 
+(like a steam engine) drives in a piston fashion, a rod that is 
+attached to one of the latex ends.  The air inside, acts to transfer 
+the motion to the other end, which is the top end.
+
+If another cylinder were around the first one, with holes so that 
+rotating the outside cylinder would either match up holes, so that 
+air could escape, or close them up, so that most all of the energy 
+of the driving end makes it to the driven end, then it would be like 
+changing the amplitude on a speaker.  But how to best build that.  
+Changing the speed of the motor, changes the frequency, but this 
+solves the problem of otherwise having to stop the motor, adjust 
+the shaft, and restart to change the amplitude of vibrations.
+
+Should the top be round, or maybe rectangular with rounded corners?  
+Seems that the cylinder would have to be well secured to try to 
+prevent vibrations from travelling along the sides and messing things 
+up.
+
+Anyway, thought just possibly someone might have a shortcut.
+
+Gary
+-----------------------------------------------------------------------
+      Horizon Technology -- Tomorrow's Technology Today
+                      http://www.eskimo.com/~ghawk
+
+
+From knuke@aa.net Thu Jun  8 01:15:19 1995
+Return-Path: <knuke@aa.net>
+Received: from big.aa.net by mail.eskimo.com (5.65c/1.35)
+	id AA05896; Thu, 8 Jun 1995 01:15:17 -0700
+Received: from d109.aa.net (d109.aa.net [204.157.220.109]) by big.aa.net (8.6.11/8.6.9) with SMTP id BAA01494; Thu, 8 Jun 1995 01:15:11 -0700
+Date: Thu, 8 Jun 1995 01:15:11 -0700
+Message-Id: <199506080815.BAA01494@big.aa.net>
+X-Sender: knuke@aa.net
+X-Mailer: Windows Eudora Version 1.4.4
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+To: ghawk@eskimo.com (Gary Hawkins), billbeskimo.com, knuke@aa.net
+From: knuke@aa.net (Michael T. Huffman)
+Subject: Re: Setting up a new frequency device
+Status: RO
+X-Status: 
+
+Gary,
+  Have you ever torn apart a diaphragm pump? I've got one if you'd like to
+give it a go. Just put it back together. I've seen several types. The air
+driven kind use a reciprocating air valve that pushes the plunger back and
+forth. The electric kind come in two flavors, the motor driven wheel and
+offset piston type that you mentioned, or a springloaded, adjustable thrust
+solenoid. The latter is your best bet, I think for what you want to do. With
+some solenoids, you can adjust the throw of the shaft from the bottom of the
+solenoid, while the thing is running. I've seen these kinds of solenoids in
+some banders that I've had to work on. This would obviate the need for the
+outside cylinder with the holes. It would also, in my opinion, give you more
+precise control over the amplitude. The frequency could be controlled with a
+general purpose relay that was PC controlled. This would also give you more
+precise control than a variable speed motor, and it would cost less, I
+think. BTW, whadda ya tryin ta DOOO with this thing, anyway? -Knuke
+
+
+From 72240.1256@compuserve.com Wed Jun 28 12:00:29 1995
+Return-Path: <72240.1256@compuserve.com>
+Received: from arl-img-3.compuserve.com by mail.eskimo.com (5.65c/1.35)
+	id AA17757; Wed, 28 Jun 1995 12:00:26 -0700
+Received: by arl-img-3.compuserve.com (8.6.10/5.950515)
+	id PAA04305; Wed, 28 Jun 1995 15:00:20 -0400
+Date: 28 Jun 95 14:55:31 EDT
+From: Jed Rothwell <72240.1256@compuserve.com>
+To: <billbeskimo.com>
+Subject: Have I got this right?
+Message-Id: <950628185531_72240.1256_EHB164-1@CompuServe.COM>
+Status: RO
+X-Status: A
+
+To: >INTERNET:billbeskimo.com
+
+You are in charge of vortex-l@mail.eskimo.com, aren't you? Gene and the others
+working on our Potapov experiment are having a lively discussion. As you see
+I have moved to move that discussion to the Vortex-1. Have I described it
+correctly? I presume that if someone showed and started flaming people, you
+could kick them off, couldn't you?
+
+I don't think that will happen.
+
+You might even consider advertising it on sci.physics.fusion, the way we
+advertise "Infinite Energy." I don't care who reads my postings, but I do
+object to having to wade through disruptive comments discussions of politics,
+hot fusion and other irrelevant topics. I hope Vortex-1 remains narrowly
+focussed on the Vortex Water Energy (VWE) -- whatever the hell that is.
+
+Does it cost you money to expand the subscriber list?
+
+- Jed
+
+
+T: Gene [76570,2270]; Chris [100433,1541]; Jeff [74063,3546];
+Don Bullock >INTERNET:DBULLX@aol.com; Mark Hugo >INTERNET:MHugo@epri.epri.com;
+Dr. Peter Gluck >INTERNET:itimc@utcluj.ro
+S: Closed loop test
+
+I concur with Gene. With 20-20 hindsight, I think the open loop test was a bad
+idea. I wonder why Potapov suggested it. Mike Huffman pointed another
+advantage of a closed loop: you preserve the inertia of the moving water, so
+the pump does less work. He explained this in a complicated fashion, but that
+is what his message boils down to.
+
+Also, as I pointed out in the Vortex forum, with a closed loop you don't need
+to heat up the whole barrel full of water to 60 C before starting.
+
+I suggest we do one or two more tests with the open loop. If they don't work,
+add a radiator (perhaps just a length of copper pipe) in a closed loop.
+Submerge the radiator in the bath. Perhaps, as Gene says, the air insulation
+around the Yusmar is necessary. In that case, in the final configuration you
+would have the pump and radiator submerged, and the Yusmar in the air above
+the tank. I do not think the air insulation is needed. The water flowing on
+the inside of Yusmar will remove far more heat than the outside bath.
+
+
+Question: Should we move this conversation to the Vortex forum
+(>INTERNET:vortex-l@mail.eskimo.com)? That is a redistribution list maintained
+by Beaty. There are some good people over there like Logajan, Beaty and
+Huffman. It is not like sci.physics.fusion. Flames are not allowed. Anyone can
+sign up but I presume that if they act like jerks they will be locked out. I
+think we should move the technical discussion there, and we should tell Bruce
+Klein and Mike Schaffer to join up. We plan to tell the whole world everything
+anyway, in the next issue of "Infinite Energy." Naturally, business and
+finance messages should be kept private.
+
+Note to people unfamiliar with the Vortex forum: to get on the distribution
+list, you send a message to William Beaty (billbeskimo.com). To post on it,
+just e-mail the message to "vortex-l@mail.eskimo.com." Then everyone on the
+list gets a copy. I am not sure who is on the list. Bill Beaty would know.
+
+- Jed
+
+
+From owner-vortex-l Sun Jul  2 02:46:45 1995
+Return-Path: <owner-vortex-l>
+Received: by mail.eskimo.com (5.65c/1.35)
+	id AA01570; Sun, 2 Jul 1995 02:10:18 -0700
+Received: from big.aa.net by mail.eskimo.com (5.65c/1.35)
+	id AA00462; Sun, 2 Jul 1995 01:51:30 -0700
+Received: from d108.aa.net (d108.aa.net [204.157.220.108]) by big.aa.net (8.6.11/8.6.9) with SMTP id NAA05507 for <vortex-l@mail.eskimo.com>; Sat, 1 Jul 1995 13:08:35 -0700
+Date: Sat, 1 Jul 1995 13:08:35 -0700
+X-Intended-For: <vortex-l@mail.eskimo.com>
+Message-Id: <199507012008.NAA05507@big.aa.net>
+X-Sender: knuke@aa.net (Unverified)
+X-Mailer: Windows Eudora Version 1.4.4
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+To: vortex-l@mail.eskimo.com
+From: knuke@aa.net (Michael T. Huffman)
+Subject: Re: Potapov bypass pipe
+Sender: owner-vortex-l@mail.eskimo.com
+Precedence: bulk
+Reply-To: vortex-l@mail.eskimo.com
+Status: RO
+X-Status: 
+
+To All,
+  After thinking about this a little more, I think the best way to put this
+is: The Formula for determining the PSI or Head that I gave you, and the one
+that Mike S. has described is only valid when the Suction Head Pressure is
+greater than 0 in an open system. It will always be valid in a closed
+system. If this is not what is being taught to engineers in Universities,
+then I can see where alot of problems have come from. -Knuke
+
+
+From owner-vortex-l Sun Jul  2 02:50:34 1995
+Return-Path: <owner-vortex-l>
+Received: by mail.eskimo.com (5.65c/1.35)
+	id AA01448; Sun, 2 Jul 1995 02:08:06 -0700
+Received: from big.aa.net by mail.eskimo.com (5.65c/1.35)
+	id AA00507; Sun, 2 Jul 1995 01:51:43 -0700
+Received: from d112.aa.net (d112.aa.net [204.157.220.112]) by big.aa.net (8.6.11/8.6.9) with SMTP id LAA00366 for <vortex-l@eskimo.com>; Sat, 1 Jul 1995 11:29:13 -0700
+Date: Sat, 1 Jul 1995 11:29:13 -0700
+X-Intended-For: <vortex-l@eskimo.com>
+Message-Id: <199507011829.LAA00366@big.aa.net>
+X-Sender: knuke@aa.net (Unverified)
+X-Mailer: Windows Eudora Version 1.4.4
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+To: vortex-l@eskimo.com
+From: knuke@aa.net (Michael T. Huffman)
+Subject: Re: Potapov bypass pipe
+Sender: owner-vortex-l@mail.eskimo.com
+Precedence: bulk
+Reply-To: vortex-l@mail.eskimo.com
+Status: RO
+X-Status: 
+
+>To: vortex-l@mail.eskimo.com
+>From: knuke@aa.net (Michael T. Huffman)
+>Subject: Re: Potapov bypass pipe
+>Cc: 
+>Bcc: 
+>X-Attachments: 
+>
+>>Thanks for joining us, Mike Schaffer.
+>>
+>>>(By the way, my Yusmar does not have the "bypass" loop, and there is
+>>>not even a hole where one could be installed, just solid metal.
+>>
+>>Appears to be standard issue.  Chris says it's drilled at installation time. 
+>> We don't know why yet. 
+>>
+>>>about 3.3 psi or about 7 ft or 2 m of hydraulic head.
+>>
+>>This is pretty low.  How about it, Knuke?  I hadn't done the calcs as 
+>>Schaffer has...his figures would indicate that it is not so bad to have an 
+>>open system.
+>>
+>>>The only way I can see that there will be cavitation in the Yusmar is by very
+>>>strong turbulence, such that local pressures reach zero. 
+>>
+>>This brings me to the crux of my message:
+>>
+>>Do we know which way the water flows in the "bypass" line?  Should it, in 
+>>fact, be called a "recirculation" line.  If there is a low pressure region 
+>>in the center of the main vortex, then it stands to reason that water would 
+>>flow "backwards" through this line from the bottom of the long tube into the 
+>>center of the main vortex.  Perhaps the arrival of this rotationally 
+>>stationary water is what sets up the shear planes for the cavitation.
+>>
+>>
+>>Scott Little
+>>EarthTech International, Inc.  4030 Braker Lane West  Austin TX 78759  USA
+>>512-346-3848 (voice)  512-346-3017 (FAX)  little@eden.com (email)
+>>     
+>>
+>
+>Sorry about not getting back to you immediately on this, but I've been
+working and playing pretty hard this week.  After years of encouraging him
+to do so, my best friend finally bought an 18' Bayliner inboard.  It meant
+widening his driveway, which I gave him a hand with. The physical labor of
+that, combined with the 90+ degree F weather that we've been blessed with in
+Seattle, plus the fact that we had to test run the boat for 12 hours almost
+did me in:-) It was a Blast.
+>  The comments by Mike Schaffer are excellent, I'm happy that he is sharing
+his experience with us. There are a couple of observations that I'd like to
+add. First, he has a Yusmar-1, and you have a Yusmar-2. While comparing the
+numbers on the two isn't exactly like comparing apple to oranges, there will
+be differences in the numbers, so don't be surpised. Second, he says that
+hydrodynamically there is no difference in calculating Head from the inlet
+pipe or the outlet pipe. I simply have to disagree. I have too much respect
+for you guys to say that your formulas are flat out wrong, but I'm having a
+little difficulty understanding why you can't see what I am seeing. I
+suppose that part of the problem is that in the marine industry we spend a
+great deal of time working with pumps and plumbing, and you guys don't have
+the opportunity to do that on a regular basis. I've personally rebuilt
+hundreds of pumps, and fit miles of pipe in my life, and I KNOW the
+limitations of the formulas. The simple fact is that is harder to suck water
+than it is to throw it, and that fact will become apparent to you
+eventually.  If you'll notice in the pictures accompanying C. Tinsley's
+article, Y. Potopov has quite a number of configurations for his devices,
+but the pumps are always as close to the floor as he can get them. I don't
+normally advocate a "monkey-see; monkey-do" approach very often, but in this
+case, since Potapov is reportedly getting 300% efficiency rates, and you are
+getting 80% rates, maybe you should take a closer look at how he does it.
+Right now you are just getting the general running characteristics of the
+device under your belt anyway, so the numbers aren't that important at this
+stage. Once you get the device operating in the overunity ranges, you can
+start dissecting the fine details and figure out the conditions that make it
+run optimally. It's going to be a lot of work for you, and you might as well
+start off with a configuration that most closely resembles the Potapov
+configuration just to establish a reference point for further experiment.
+Potapov has undoubtably made many mistakes and taken years to come up with
+his current designs. You should take as much of an advantage as you can,
+short of buying a complete system.
+>  You also had a very good question about the direction of flow in the
+secondary output pipe. I don't know of any way to test for flow direction
+without intalling something into the pipe itself. I would like to know if
+the shape of the inside of the device itself matches the shape of the
+outside - i.e are there any baffles, flow directors, or flow "lenses" inside
+the can? Is there a diagram of the inside of the device? -Knuke
+>
+
+
+From owner-vortex-l Sun Jul  2 02:53:07 1995
+Return-Path: <owner-vortex-l>
+Received: by mail.eskimo.com (5.65c/1.35)
+	id AB01607; Sun, 2 Jul 1995 02:18:25 -0700
+Received: from big.aa.net by mail.eskimo.com (5.65c/1.35)
+	id AA00742; Sun, 2 Jul 1995 01:52:36 -0700
+Received: from d112.aa.net (d112.aa.net [204.157.220.112]) by big.aa.net (8.6.11/8.6.9) with SMTP id LAA00307 for <vortex-l@mail.eskimo.com>; Sat, 1 Jul 1995 11:27:22 -0700
+Date: Sat, 1 Jul 1995 11:27:22 -0700
+X-Intended-For: <vortex-l@mail.eskimo.com>
+Message-Id: <199507011827.LAA00307@big.aa.net>
+X-Sender: knuke@aa.net (Unverified)
+X-Mailer: Windows Eudora Version 1.4.4
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+To: vortex-l@mail.eskimo.com
+From: knuke@aa.net (Michael T. Huffman)
+Subject: Re: Potapov bypass pipe
+Sender: owner-vortex-l@mail.eskimo.com
+Precedence: bulk
+Reply-To: vortex-l@mail.eskimo.com
+Status: RO
+X-Status: 
+
+>Thanks for joining us, Mike Schaffer.
+>
+>>(By the way, my Yusmar does not have the "bypass" loop, and there is
+>>not even a hole where one could be installed, just solid metal.
+>
+>Appears to be standard issue.  Chris says it's drilled at installation time. 
+> We don't know why yet. 
+>
+>>about 3.3 psi or about 7 ft or 2 m of hydraulic head.
+>
+>This is pretty low.  How about it, Knuke?  I hadn't done the calcs as 
+>Schaffer has...his figures would indicate that it is not so bad to have an 
+>open system.
+>
+>>The only way I can see that there will be cavitation in the Yusmar is by very
+>>strong turbulence, such that local pressures reach zero. 
+>
+>This brings me to the crux of my message:
+>
+>Do we know which way the water flows in the "bypass" line?  Should it, in 
+>fact, be called a "recirculation" line.  If there is a low pressure region 
+>in the center of the main vortex, then it stands to reason that water would 
+>flow "backwards" through this line from the bottom of the long tube into the 
+>center of the main vortex.  Perhaps the arrival of this rotationally 
+>stationary water is what sets up the shear planes for the cavitation.
+>
+>
+>Scott Little
+>EarthTech International, Inc.  4030 Braker Lane West  Austin TX 78759  USA
+>512-346-3848 (voice)  512-346-3017 (FAX)  little@eden.com (email)
+>     
+>
+
+Sorry about not getting back to you immediately on this, but I've been
+working and playing pretty hard this week.  After years of encouraging him
+to do so, my best friend finally bought an 18' Bayliner inboard.  It meant
+widening his driveway, which I gave him a hand with. The physical labor of
+that, combined with the 90+ degree F weather that we've been blessed with in
+Seattle, plus the fact that we had to test run the boat for 12 hours almost
+did me in:-) It was a Blast.
+  The comments by Mike Schaffer are excellent, I'm happy that he is sharing
+his experience with us. There are a couple of observations that I'd like to
+add. First, he has a Yusmar-1, and you have a Yusmar-2. While comparing the
+numbers on the two isn't exactly like comparing apple to oranges, there will
+be differences in the numbers, so don't be surpised. Second, he says that
+hydrodynamically there is no difference in calculating Head from the inlet
+pipe or the outlet pipe. I simply have to disagree. I have too much respect
+for you guys to say that your formulas are flat out wrong, but I'm having a
+little difficulty understanding why you can't see what I am seeing. I
+suppose that part of the problem is that in the marine industry we spend a
+great deal of time working with pumps and plumbing, and you guys don't have
+the opportunity to do that on a regular basis. I've personally rebuilt
+hundreds of pumps, and fit miles of pipe in my life, and I KNOW the
+limitations of the formulas. The simple fact is that is harder to suck water
+than it is to throw it, and that fact will become apparent to you
+eventually.  If you'll notice in the pictures accompanying C. Tinsley's
+article, Y. Potopov has quite a number of configurations for his devices,
+but the pumps are always as close to the floor as he can get them. I don't
+normally advocate a "monkey-see; monkey-do" approach very often, but in this
+case, since Potapov is reportedly getting 300% efficiency rates, and you are
+getting 80% rates, maybe you should take a closer look at how he does it.
+Right now you are just getting the general running characteristics of the
+device under your belt anyway, so the numbers aren't that important at this
+stage. Once you get the device operating in the overunity ranges, you can
+start dissecting the fine details and figure out the conditions that make it
+run optimally. It's going to be a lot of work for you, and you might as well
+start off with a configuration that most closely resembles the Potapov
+configuration just to establish a reference point for further experiment.
+Potapov has undoubtably made many mistakes and taken years to come up with
+his current designs. You should take as much of an advantage as you can,
+short of buying a complete system.
+  You also had a very good question about the direction of flow in the
+secondary output pipe. I don't know of any way to test for flow direction
+without intalling something into the pipe itself. I would like to know if
+the shape of the inside of the device itself matches the shape of the
+outside - i.e are there any baffles, flow directors, or flow "lenses" inside
+the can? Is there a diagram of the inside of the device? -Knuke
+
+
+From owner-vortex-l Sun Jul  2 05:30:50 1995
+Return-Path: <owner-vortex-l>
+Received: by mail.eskimo.com (5.65c/1.35)
+	id AA13656; Sun, 2 Jul 1995 05:04:52 -0700
+Received: from GAV.GAT.COM by mail.eskimo.com (5.65c/1.35)
+	id AA12588; Sun, 2 Jul 1995 04:35:59 -0700
+Date: Sat, 1 Jul 1995 0:05:47 -0700 (PDT)
+From: SCHAFFER@vaxk.gat.com
+To: vortex-l@mail.eskimo.com
+Message-Id: <950701000547.20212194@vaxk.gat.com>
+Subject: Vortex and "Bypass" tube
+Sender: owner-vortex-l@mail.eskimo.com
+Precedence: bulk
+Reply-To: vortex-l@mail.eskimo.com
+Status: RO
+X-Status: 
+
+I've thought a bit about the Yusmar vortex and the "bypass" or "feedback" tube.
+I think Scott Little's suggestion is right, and it is a feedback tube.
+
+To understand the rough outline ("zeroth order" in physicist language) of the
+water flow pattern in the device, let us consider the device first without any
+feedback tube.  The inlet water is accelerated by the combined pressure drops of
+the inlet nozzle and the swirl chamber at the inlet end.  The water then flows
+slowly axially along the long tube while swirling rapidly azimuthally.  Provided
+viscous dissipation of the associated angular momentum is not too great (this is
+a good approximation near the entrance end, but it might not be so good near the
+exit), the swirling makes a vortex with zero absolute pressure (except for a low
+vapor pressure) along the length of the tube.  The void is larger than I
+anticipated; I calculate that it occupies about half of the tube inner diameter.
+
+
+The vortex described above is stable or nearly stable.  Viscosity dissipates
+angular momentum and azimuthal velocity, and this causes the void diameter to
+shrink toward the outlet end.  There is bound to be some turbulence, but
+basically the flow is orderly.  There does not seem to be any way to get
+cavitation out of this flow.  
+
+The feedback tube changes the situation.  The feedback tube conducts water from
+the the output end near the wall to the center of the vortex at the entrance
+end.  Because the vortex has almost zero absolute pressure at its center and
+maximum pressure at the wall, the pressure difference drives water back to the
+center of the entrance and injects a jet of water axially along the vortex.
+This situation of rapid axial and azimuthal flows in the long tube has large
+shear and will be very unstable and will develop strong turbulence.  Therefore,
+the feedback tube would appear to be make an important difference in the fluid
+flow pattern.  Presumeably it also affects excess energy production, if any.
+The combination of axial and azimuthal flows and their mixing can be influenced
+by throttling the Yusmar outlet (increases pressure in the tube and decreases
+the inner diameter of the swirling water) and throttling the feedback tube (less
+axial flow).  Throttling the Yusmar outlet will also affect the flow through the
+feedback tube. 
+
+In Infinite Energy, vol. 1, no. 2, the feedback tube connects to the long swirl
+tube (before the reduction in diameter to the outlet flange) in the photos of p.
+34 bottom and p. 37 top, and to the narrowed outlet tube in the photo of p. 34
+top.  However, there is no provision for connecting a feedback tube in the
+(finished?) Yusmars of p. 35 top nor in the partially completed Yusmars of p. 35
+bottom.  My Yusmar-1 has no feedback tube, nor are there any holes or even marks
+to indicate that there should be one.  The Yusmar instruction manual figures 1,
+3 and 4 show feedback tubes, but the manual makes no mention of them.  The
+manual makes no mention of the need to drill holes and connect a feedback tube
+in the field--a glaring omission if indeed the feedback is important.  >>>Peter
+Gluck and Chris Tinsley, do you know if the feedback tube is necessary?  Peter,
+how were the excess heat tests that you witnessed conducted?
+
+A final thought--a speculation on the economics of Yusmar heaters in Eastern
+Europe...If electricity is cheap and other forms of energy are expensive, then a
+Yusmar even without excess energy might still be cheaper than what the customer
+had before.  And  Yusmars might still be sold successfully despite competition
+from resistance heaters if Vizor has a good advertising campaign, particularly
+if the campaign claims excess energy.  >>>Peter Gluck, do you know the energy
+situation in the Yusmar market areas? 
+
+					Mike Schaffer
+					fax:	619 455 4156
+					tel:	619 455 2841
+
+From owner-vortex-l Sun Jul  2 09:36:10 1995
+Return-Path: <owner-vortex-l>
+Received: by mail.eskimo.com (5.65c/1.35)
+	id AA03277; Sun, 2 Jul 1995 08:52:52 -0700
+Received: from matrix.eden.com by mail.eskimo.com (5.65c/1.35)
+	id AA01727; Sun, 2 Jul 1995 08:31:24 -0700
+Received: from net-1-143.eden.com (net-1-143.eden.com [199.171.21.143]) by matrix.eden.com (8.6.12.1/8.6.12.1) with SMTP id KAA16789 for <vortex-l@mail.eskimo.com>; Sun, 2 Jul 1995 10:22:02 -0500
+Date: Sun, 2 Jul 1995 10:22:02 -0500
+Message-Id: <199507021522.KAA16789@matrix.eden.com>
+X-Sender: little@eden.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+To: vortex-l@mail.eskimo.com
+From: little@eden.com (Scott Little)
+Subject: While Eskimo was down. #1
+X-Mailer: <PC Eudora Version 1.4>
+Sender: owner-vortex-l@mail.eskimo.com
+Precedence: bulk
+Reply-To: vortex-l@mail.eskimo.com
+Status: RO
+X-Status: 
+
+I sent this out during the outage to Chris, Jed and Gene:
+
+Eskimo.com is down (no FTP, no WEB, no Nothing)!...which means that Vortex-L 
+is out of commission for a while. I can't talk to Bill Beaty as a result so 
+I have no idea how long this outage will last.
+
+I've been working on the bypass loop and have come up with something I'd 
+like to share...it may not be worth much but its yours to do with as you see 
+fit:
+
+My Yusmar's outlet tube is 1.92" ID....this appears to be a Russian (metric) 
+pipe size that is just a bit smaller than our 2" pipe.  Interestingly, there 
+are two sizes of common US tubular material that seem just right for the 
+outlet diameter reduction and the "bypass" line.
+
+My Yusmar did not come with a diameter reduction at the end of its outlet 
+tube...however, it does have the spoiler plate inside the outlet tube. 
+
+I have discovered that the inside area of 1-1/4" pipe (which is actually 
+1.36 ID) is 0.50 times the area of my outlet tube, just what Chris Tinsley 
+learned it should be from his trip to Moldavia.
+
+I have also discovered that 3/4" thinwall EMT (electrical conduit) has an ID 
+of 0.825" which yields an area that is 0.185 of the outlet tube 
+area....pretty close to the 0.20 figure that Chris provided.  Fortified with 
+hope and enthusiasm, I have fabricated a nice-looking bypass line from this 
+tubing using a standard conduit bender.  My bypass closely resembles the 
+ones in the photos except it is a bit larger...dictated by the fixed radius 
+of my conduit bender.  I drilled and tapped the closed end of the Yusmar 
+vortex chamber for 3/4 NPT and I am going to try using standard EMT conduit 
+hubs (which have 3/4 NPT male threads) except I'll replace the little 
+ferrule piece with a -1XX O-ring that fits pretty well and will be 
+compressed nicely when the nut is snugged down.  I drilled a 7/8" hole in 
+the side of the main outlet tube (just above where my outlet diameter 
+reduction will be installed) just as it appears in the photos.  Over this 
+hole I welded a 3/4" steel (not cast iron) coupling to provide 3/4" NPT 
+female threads for another EMT conduit hub.
+
+I realize this is a bit kludgy, but I'll have it working early next week and 
+I believe it will satisfy the bypass requirement as well as could be done 
+working from photographs and the relatively sketchy info we have.  I will 
+also put a press/vac gauge into a small port in the side of this line near 
+the main vortex chamber so I can see what the pressure in there is doing.  
+I'll also arrange to measure the temperature of this line with a contact 
+probe of some sort so we can see of it is hotter (or cooler) than the rest 
+of the system.
+
+Comments?
+ 
+  
+
+
+
+From owner-vortex-l Sun Jul  2 09:36:20 1995
+Return-Path: <owner-vortex-l>
+Received: by mail.eskimo.com (5.65c/1.35)
+	id AA03618; Sun, 2 Jul 1995 08:53:14 -0700
+Received: from matrix.eden.com by mail.eskimo.com (5.65c/1.35)
+	id AB01796; Sun, 2 Jul 1995 08:35:41 -0700
+Received: from net-1-143.eden.com (net-1-143.eden.com [199.171.21.143]) by matrix.eden.com (8.6.12.1/8.6.12.1) with SMTP id KAA16773 for <vortex-l@mail.eskimo.com>; Sun, 2 Jul 1995 10:22:00 -0500
+Date: Sun, 2 Jul 1995 10:22:00 -0500
+Message-Id: <199507021522.KAA16773@matrix.eden.com>
+X-Sender: little@eden.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+To: vortex-l@mail.eskimo.com
+From: little@eden.com (Scott Little)
+Subject: While Eskimo was down. #2
+X-Mailer: <PC Eudora Version 1.4>
+Sender: owner-vortex-l@mail.eskimo.com
+Precedence: bulk
+Reply-To: vortex-l@mail.eskimo.com
+Status: RO
+X-Status: 
+
+While eskimo was down, Chris Tinsley sent me this in response to my msg:
+
+Date: 01 Jul 95 17:27:29 EDT
+From: Chris Tinsley <100433.1541@compuserve.com>
+To: <little@eden.com>, Jed Rothwell <72240.1256@compuserve.com>,
+        Gene Mallove <76570.2270@compuserve.com>
+Subject: Bypass loops
+
+To:internet:little@eden.com;jed;gene
+ 
+Scott,
+ 
+(I'm going to rely on you to repost any exchanges onto Bill's system when it
+comes back on line)
+ 
+What bothers me is this business of how your machine has no constriction on the
+output port.  I very much regret (not for the first time) that I didn't take
+still shots of all those Y-2s set up for transport, all 200 of them with pumps
+and motors.  But what I do have is shots of the four sizes of vortex tube on
+the floor of Potapov's office.  In that shot, you can't see the output end of
+the Y-4 properly, but the other three sizes are clearly shown with this
+threaded piece of noticeably smaller diameter than the actual vortex tube
+itself.
+ 
+ 
+              /|       |/
+              /|       |/    <---threaded
+              /|       |/
+              /|       |/
+             _(|       |)_    <---welded
+            |      |      |
+            |      |      |   <---output end of vortex tube
+            |      |      |
+            |      |      |   <---'spoiler' inside output end of tube
+            |             |
+            |             |
+ 
+I hate doing those 'drawings'.
+ 
+It has been commented that the Y machines have a common ratio of length to
+diameter.  I *estimate* (from photos) that the diameters of the Y-1 and Y-2
+(the outside of the main vortex tube) are in the ratio 11:15. The *internal
+diameter of the threaded 'end piece'* of the Y-1 is 30mm.  I don't have the Y-1
+to hand here, or I would give the external diameter of the Y-1 main tube.
+ 
+Also, the pile of Y-3 tubes in one factory all have the restricting threaded
+endpiece.
+ 
+So, what bothers me is that somebody seems to have cut the extraneous little
+extra bit off the end of Scott's tube. (I believe there is a technical term
+for this process).  If my ratios are correct, the little bit should have an
+internal diameter of 30*15/11mm, or 41mm, or 1.61".  Let's see what you get,
+ah, quite a lot bigger.  Um. (Brief pause for paranoia).  Now I have to search
+my archive disks.
+ 
+Urrggh. Wish I had a real computer . . . Well, Peter's figure are for a ratio
+between Y-1 and Y-2 diameters of 1:1.41.  Which means my estimate from the
+photographs is about correct, and *either* Scott's Yusmar-2 has been circ . .
+I mean truncated . . or the calculation should be based on the i.d.of the
+vortex tube itself.  Now, I did wonder about all this, because the bypass tubes
+on allthe Y-1s I saw were just over 0.5" and obviously (by the bend marks)
+thin-walled.  That seemed *much* too small to be 20%, based on the diameter of
+the vortex tube itself, but it would be *correct* for 20% of the outlet tube of
+30mm.
+ 
+Not good news, since Scott has done all this hard work on the Y-2.  But I
+insist that EVERY Yusmar I saw had this constrictor fitted as standard, and
+that 20% does fit the appearance of both the Y-1 *AND* (as far as I can see)
+for the Y-2s.  (I mean the by-pass tubes of the fully built-up systems).
+ 
+So, why doesn't Scott's have it?
+ 
+And, for what it may be worth, I think that the bypass tube should run from the
+box-on-the-end-near-the-inlet to just beyond the outlet pipe.  I *think* that
+the effect is to allow the actual vortex tube to heat up quickly, *and* to have
+the right flow ratios.  That arrangement seems to be the most common one.  I
+suspect that Potapov simply forgot something crucial about the way you have to
+build the 'inside a tank' variant, so we are pretty much stuck with the system
+like in the photos.
+ 
+I feel frustrated by my lack of 'feel' for fluid dynamics.
+ 
+Chris
+
+
+
+From owner-vortex-l Sun Jul  2 14:56:08 1995
+Return-Path: <owner-vortex-l>
+Received: by mail.eskimo.com (5.65c/1.35)
+	id AA25536; Sun, 2 Jul 1995 14:21:11 -0700
+Received: from matrix.eden.com by mail.eskimo.com (5.65c/1.35)
+	id AA23806; Sun, 2 Jul 1995 13:55:06 -0700
+Received: from net-1-143.eden.com (net-1-143.eden.com [199.171.21.143]) by matrix.eden.com (8.6.12.1/8.6.12.1) with SMTP id KAA16770 for <vortex-l@mail.eskimo.com>; Sun, 2 Jul 1995 10:21:57 -0500
+Date: Sun, 2 Jul 1995 10:21:57 -0500
+Message-Id: <199507021521.KAA16770@matrix.eden.com>
+X-Sender: little@eden.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+To: vortex-l@mail.eskimo.com
+From: little@eden.com (Scott Little)
+Subject: Experts, Potapov, Life, and the Pursuit of Happiness
+X-Mailer: <PC Eudora Version 1.4>
+Sender: owner-vortex-l@mail.eskimo.com
+Precedence: bulk
+Reply-To: vortex-l@mail.eskimo.com
+Status: RO
+X-Status: 
+
+Ahhh!  Vortex-L is back.  Thank goodness.  A round of applause for Bill 
+Beaty who set this all up...it's turned out to be damned useful.  It's like 
+having a whole engineering team working on the problem.
+
+Peter Gluck: Your experience is highly valued, don't underestimate it.  Your 
+suggestion that we utilize existing expertise in cavitation is excellent and 
+appropriate but I think the timing is wrong.  We should contact those guys 
+AFTER we have observed the Potapov effect, to help us understand it.  If we 
+go to them now and say, "How would you suggest arranging a water cavitation 
+so it produces 300% more energy than it takes to create it?", they would 
+stare at us blankly (or laugh like crazy). No, at this delicate point in the 
+life of the Potapov effect, it is HE that should be helping us (Jed, from 
+your recent comments on spf, I'm counting you with me on this one). Surely 
+Potapov must realize that if we succeed in replicating his effect, he is 
+destined to become the most famous (and wealthiest) physicist of all time.  
+Why isn't he bending over backwards to help us?  Is it simply because we 
+haven't asked him to help? 
+
+Jed:  As chief negotiator for the group, perhaps you could initiate an 
+appeal to Potapov (thru VIZOR, I guess) for help in replicating the "Potapov 
+effect".  If nothing else, he should provide engineering drawings of the 
+bypass/recirc loop.  Ideally, he would give us step-by-step instructions for 
+getting "the effect" including what not to do.  Make sure in your request 
+that they realize that. if we succeed, they succeed.
+
+Editorial Comment:  If we don't succeed in our efforts, Potapov presumably 
+still has a thriving business.  If Schaffer's suggestion is correct, that 
+there are economic reasons that make a Yusmar cheaper, say 3 times cheaper, 
+for heating than fossil fuels, then Potapov is pretty safe...that is until 
+someone goes into competition with him selling heaters that consist of 
+standard resistive heating elements and a small circulation pump.
+
+Mike Schaffer:  Please measure the OD of the main outlet tube of your Yusmar 
+and tell me what it is.
+
+To All:  I have opened the main vortex chamber of my Yusmar (the weld was 
+removed via grinder...and bolts+gasket added to reclose it for operation) 
+and the inside looks like this:
+                                                            .
+                                                  .
+                     .  .   .   .   .  .   .           
+                .                                           
+            .                                             <--- IN   
+          .           .  .   .   .  .   .  .               
+         .            .    .    .                  .       
+        .                            .                       .
+        .                               .     
+       .                                     
+       .                                  . 
+       .                                   
+       . <---------  2.5" ------------->  .    
+       .                                      
+        .                                .     
+         .                              .    
+          .                           .       
+            .                        .  
+               .                  .    
+                  . . . . . . .            
+ 
+I describe this in my preliminary report.  The main outlet is 2" in diameter 
+and occupies almost all of one end of this chamber (i.e. only a 1/4" wide 
+strip of "end wall" remains around the outside of the outlet.  This chamber 
+is obviously machined, probably with modern CBC tooling (at least that's how 
+it would be done here) and it has a rather sophisticated shape.  The main 
+part appears to be cylindrical and the inlet passage seems to spiral 
+smoothly into the main part (the drawing above does not do it justice!).
+
+Bye for now.
+
+
+From owner-vortex-l Sun Jul  2 15:08:55 1995
+Return-Path: <owner-vortex-l>
+Received: by mail.eskimo.com (5.65c/1.35)
+	id AA27173; Sun, 2 Jul 1995 14:36:52 -0700
+Received: from matrix.eden.com by mail.eskimo.com (5.65c/1.35)
+	id AA25486; Sun, 2 Jul 1995 14:17:24 -0700
+Received: from net-1-143.eden.com (net-1-143.eden.com [199.171.21.143]) by matrix.eden.com (8.6.12.1/8.6.12.1) with SMTP id KAA16792 for <vortex-l@mail.eskimo.com>; Sun, 2 Jul 1995 10:22:04 -0500
+Date: Sun, 2 Jul 1995 10:22:04 -0500
+Message-Id: <199507021522.KAA16792@matrix.eden.com>
+X-Sender: little@eden.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+To: vortex-l@mail.eskimo.com
+From: little@eden.com (Scott Little)
+Subject: While Eskimo was down. #3
+X-Mailer: <PC Eudora Version 1.4>
+Sender: owner-vortex-l@mail.eskimo.com
+Precedence: bulk
+Reply-To: vortex-l@mail.eskimo.com
+Status: RO
+X-Status: 
+
+And this is my reply to Chris:
+
+Thanks for all your thoughts, Chris.  I can clear up some of your questions...
+
+>What bothers me is this business of how your machine has no constriction on the
+>output port.
+
+That end of my unit appears to bave been modified.
+
+ 
+>              /|       |/
+>              /|       |/    <---threaded
+>              /|       |/
+>              /|       |/
+>             _(|       |)_    <---welded
+>            |      |      |
+>            |      |      |   <---output end of vortex tube
+>            |      |      |
+>            |      |      |   <---'spoiler' inside output end of tube
+>            |             |
+>            |             |
+> 
+>I hate doing those 'drawings'.
+
+You did well....
+
+Mine looks like this:
+
+
+>            |      |      |
+>            |      |      |   <---output end of vortex tube
+>            |      |      |
+>            |      |      |   <---'spoiler' inside output end of tube
+>            |             |
+>            |             |
+
+I have welded on a short piece of 2" pipe into which the bypass line will 
+connect after which the reduction will occur, thusly:
+
+               |        |
+             __|        |__          <-----diameter reduction
+             |             | 
+             |             |
+             |             \________
+             |
+             |                         <---- bypass line
+             |              ________
+             |             /
+             |             |
+             |             |
+            (|             |)  <---weld
+>            |      |      |
+>            |      |      |   <---output end of vortex tube
+>            |      |      |
+>            |      |      |   <---'spoiler' inside output end of tube
+>            |             |
+>            |             |
+
+(Gee! I hate doing them, too...I'm pretty good with a little CAD program I 
+have and (1) it's ton's faster and (2) it looks much better....wish that 
+kind of images could be smoothly integrated into these email messages...BTW, 
+does your software support MIME encoded attachments to email messages?  With 
+those, it is practical to exchange complex PC files such as Word documents, 
+etc.)
+
+>That seemed *much* too small to be 20%, based on the diameter of
+>the vortex tube itself, but it would be *correct* for 20% of the outlet tube of
+>30mm.
+
+Could it be, Chris, that it should be 20% of the REDUCED outlet size?
+
+>Not good news, since Scott has done all this hard work on the Y-2.
+
+Didn't take all that long...in fact, I'll probably make another one out of 
+1/2" EMT if this one doesn't "work".
+ 
+>And, for what it may be worth, I think that the bypass tube should run 
+>from the
+>box-on-the-end-near-the-inlet to just beyond the outlet pipe.
+
+Now, Chris, here's where your photos do come in handy.  In the latest IE 
+there are three photos which go to this issue.  On the first one the 
+attachment location is a bit ambiguous.  On the second, which is a photo of 
+a Yusmar-1 test rig, you can clearly see that they have attached the bypass 
+into the large diameter portion of the outlet, just before the diameter 
+reduction.  This is evident also in the third photo which is an older one 
+that appeared in a Russian business journal and shows Lev Sapogin, 
+what's-his-name from ENECO, a cosmonaut all decorated with medals, and 
+another guy.  
+
+Do you see this as I do, Chris?
+
+Also of interest in that photo is the fact that the reduced diameter portion 
+of the outlet pipe is very short...about 1 diameter!...then it grows to a 
+diameter even larger than the outlet pipe.
+
+That's all for now.
+
+Please forward this to Gluck as well.  
+
+PS.  I received official word from Bill Beaty about Eskimo.  They got raided 
+by a hacker who penetrated their security system.  He guesses they'll be 
+back up in a day or so.
+
+Jed, you sed:
+
+>It sounds like you are working hard! If it does not work, we need
+>to get someone from Vizor over here.
+
+Why don't you go ahead and ask them if that service is available...I'd like 
+to see what they say.  (my connection with them is rather convoluted and 
+tenuous at best)
+
+
+
+
+From owner-vortex-l Sun Jul  2 17:46:06 1995
+Return-Path: <owner-vortex-l>
+Received: by mail.eskimo.com (5.65c/1.35)
+	id AA09133; Sun, 2 Jul 1995 17:12:27 -0700
+Received: from dub-img-1.compuserve.com by mail.eskimo.com (5.65c/1.35)
+	id AA06864; Sun, 2 Jul 1995 16:40:33 -0700
+Received: by dub-img-1.compuserve.com (8.6.10/5.950515)
+	id SAA14162; Sun, 2 Jul 1995 18:44:38 -0400
+Date: 02 Jul 95 18:43:06 EDT
+From: Chris Tinsley <100433.1541@compuserve.com>
+To: <vortex-l@mail.eskimo.com>
+Subject: Vortex and 'bypass' tube.
+Message-Id: <950702224306_100433.1541_BHG69-1@CompuServe.COM>
+Sender: owner-vortex-l@mail.eskimo.com
+Precedence: bulk
+Reply-To: vortex-l@mail.eskimo.com
+Status: RO
+X-Status: 
+
+To: internet:vortex-l@mail.eskimo.com
+ 
+A comment or two on Mike Schaffer's note.
+ 
+First, though, yes, Scott.  I do believe that the 50% and 20% values are to be
+based on the reduced output tube diameter.  that would be 30mm for a Y-1, and
+42mm for a Y-2
+ 
+I simply do not know enough about these vortex tubes to be very helpful.  But
+Mike's description is not the same as Potapov's.  He says that there is no (or
+no significant) void at the axis.  He says there is a 10kV potential between
+centre and perimeter.  Someone told me today that high-pressure jets (as in
+fire hoses) cause sparks.  Potapov says that the cavitation occurs at the
+distance from the perimeter where the velocity gradient is steepest, and occurs
+as a result of shear between water layers.
+ 
+Note that I am reporting what the man says, not my own ideas - 'cos I have none
+of those.
+ 
+I wish we had a Yusmar 'initiation chamber', with a transparent vortex tube.
+As it is, we simply do not know if we are getting cavitation at all.
+ 
+As I understand it, the manual makes no reference to the bypass tube because it
+is always present.  Again, I must point out that these things are sold as
+*tuned systems*.  All we have is the vital part of the system.  It can't be as
+bad as trying to get a thermionic tube working without knowing that it needs a
+low voltage across the heater as well as a high one between cathode and anode,
+but it may not be much better than that.  There is no manual for the tube,
+because they don't normally *sell* tubes.
+ 
+Chris
+
+
+From owner-vortex-l Sun Jul  2 17:54:18 1995
+Return-Path: <owner-vortex-l>
+Received: by mail.eskimo.com (5.65c/1.35)
+	id AA10389; Sun, 2 Jul 1995 17:21:36 -0700
+Received: from matrix.eden.com by mail.eskimo.com (5.65c/1.35)
+	id AA08826; Sun, 2 Jul 1995 17:10:06 -0700
+Received: from net-1-151.eden.com (net-1-151.eden.com [199.171.21.151]) by matrix.eden.com (8.6.12.1/8.6.12.1) with SMTP id VAA00558 for <vortex-l@mail.eskimo.com>; Fri, 30 Jun 1995 21:34:13 -0500
+Date: Fri, 30 Jun 1995 21:34:13 -0500
+Message-Id: <199507010234.VAA00558@matrix.eden.com>
+X-Sender: little@eden.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+To: vortex-l@mail.eskimo.com
+From: little@eden.com (Scott Little)
+Subject: Pressure loss in open systems
+X-Mailer: <PC Eudora Version 1.4>
+Sender: owner-vortex-l@mail.eskimo.com
+Precedence: bulk
+Reply-To: vortex-l@mail.eskimo.com
+Status: RO
+X-Status: 
+
+Mike Schaffer provided a useful formula for computing approximate pressure 
+loss associated with accelerating water from a still chamber up to the speed 
+it travels in a pipe.
+
+In my test system, the suction line is 2" ID.  At 65 gpm, a flow rate that 
+is in the middle of the range for my Yusmar-2, the velocity works out to 
+4782 in/min and the rho*v^2 value is only 0.6 psi.  In other words, I've got 
+such a big pipe that the pressure penalty of having an open system is 
+negligible.
+
+Knuke, does this fit at all into your experiences?
+
+Any comments on my "recirculation" vs "bypass" question this morning?
+
+
+
+ - Scott Little, EarthTech International, 4030 Braker Lane West, Austin TX 78759
+   512-346-3848 (voice)  512-346-3017 (FAX)  little@eden.com (email)
+
+
+From owner-vortex-l Sun Jul  2 18:25:42 1995
+Return-Path: <owner-vortex-l>
+Received: by mail.eskimo.com (5.65c/1.35)
+	id AA00196; Sun, 2 Jul 1995 18:09:17 -0700
+Received: from halcyon.com by mail.eskimo.com (5.65c/1.35)
+	id AA01064; Sun, 2 Jul 1995 01:20:41 -0700
+Received: by halcyon.com id AA28410
+  (5.65c/IDA-1.4.4 for vortex-l@eskimo.com); Fri, 30 Jun 1995 17:33:50 -0700
+Date: Fri, 30 Jun 1995 17:33:49 -0700 (PDT)
+From: "Eaton/Cutler-Hammer Corp." <eaton1@halcyon.com>
+To: vortex-l@eskimo.com
+Subject: Pathological Skepticism
+Message-Id: <Pine.ULT.3.91.950630170040.26750A-100000@coho.halcyon.com>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Sender: owner-vortex-l@mail.eskimo.com
+Precedence: bulk
+Reply-To: vortex-l@mail.eskimo.com
+Status: RO
+X-Status: 
+
+
+Can anyone think of other good ones to add?
+Has anyone seen such a list before?
+
+************************************************************************
+SYMPTOMS OF PATHOLOGICAL SKEPTICISM
+
+- Blindness to phenomena which do not fit the current belief system.
+
+- Seeing the ridicule and suppression of new ideas as a desirable 
+  "natural selection" force.
+
+- Constant altering of requirements for proof.  "I'll believe it when
+  'X' happens," but when it does; "I'll believe it when Y happens."
+
+- Blind to the lessons of history: "Scientists of old ridiculed the
+  germ theory, space flight, meteors, etc.  Isn't it good that such
+  things cannot happen today?"
+
+- Belief that all progress is made by small, safe, obvious steps.
+
+- " 'X' cannot be true, or we would already know about it."
+
+- Hiding of evidence of personal past ridicule of ideas which are later 
+  proved valid.  " 'X' is obviously ridiculous, and it's supporters
+  should be silenced" without warning becomes "since 'X' is obviously
+  true, it follows that..."
+
+- Follows the 'herd,' changes opinions to stay in line with popular beliefs
+
+
+
+MORE?
+
+
+
+
+and last but very much NOT least:
+
+- Blindness to any evidence of the above symptoms in self or peers.
+
+
+===================================+==================================
+Bill Beaty
+Eaton/Cutler-Hammer Corp.         Industrial Optoelectronics
+720 80th St. SW                   voice: 1-800-426-9184
+Everett, WA 98203-6299            fax:   1-206-347-0544
+
+
+From owner-vortex-l Sun Jul  2 18:54:37 1995
+Return-Path: <owner-vortex-l>
+Received: by mail.eskimo.com (5.65c/1.35)
+	id AA04300; Sun, 2 Jul 1995 18:35:42 -0700
+Received: from matrix.eden.com by mail.eskimo.com (5.65c/1.35)
+	id AA01392; Sun, 2 Jul 1995 01:28:22 -0700
+Received: from net-1-149.eden.com (net-1-149.eden.com [199.171.21.149]) by matrix.eden.com (8.6.12.1/8.6.12.1) with SMTP id AAA12345 for <vortex-l@mail.eskimo.com>; Sat, 1 Jul 1995 00:31:27 -0500
+Date: Sat, 1 Jul 1995 00:31:27 -0500
+Message-Id: <199507010531.AAA12345@matrix.eden.com>
+X-Sender: little@eden.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+To: vortex-l@mail.eskimo.com
+From: little@eden.com (Scott Little)
+Subject: bypass loop design
+X-Mailer: <PC Eudora Version 1.4>
+Sender: owner-vortex-l@mail.eskimo.com
+Precedence: bulk
+Reply-To: vortex-l@mail.eskimo.com
+Status: RO
+X-Status: 
+
+My Yusmar's outlet tube is 1.92" ID....this appears to be a Russian (metric) 
+pipe size that is just a bit smaller than our 2" pipe.  Interestingly, there 
+are two sizes of common US tubular material that seem just right for the 
+outlet diameter reduction and the "bypass" line.
+
+My Yusmar did not come with a diameter reduction at the end of its outlet 
+tube...however, it does have the spoiler plate inside the outlet tube. 
+
+I have discovered that the inside area of 1-1/4" pipe is 0.50 times the area 
+of my outlet tube, just what Chris Tinsley learned it should be from his 
+trip to Moldavia.
+
+I have also discovered that 3/4" thinwall EMT (electrical conduit) has an ID 
+of 0.825" which yields an area that is 0.185 of the outlet tube 
+area....pretty close to the 0.20 figure that Chris provided.  So today I 
+have fabricated a nice-looking bypass line from this tubing using a standard 
+conduit bender.  My bypass closely resembles the ones in the photos except 
+it is a bit larger...dictated by the fixed radius of my conduit bender.  I 
+drilled and tapped the closed end of the Yusmar vortex chamber for 3/4 NPT 
+and I am going to try using standard EMT conduit hubs (which have 3/4 NPT 
+male threads) except I'll replace the little ferrule piece with a -1XX 
+O-ring that fits pretty well and will be compressed nicely when the nut is 
+snugged down.  I drilled a 7/8" hole in the side of the main outlet tube 
+(just above where my outlet diameter reduction will be installed) just as it 
+appears in the photos.  Over this hole I welded a 3/4" steel (not cast iron) 
+coupling to provide 3/4" NPT female threads for another EMT conduit hub.
+
+I realize this is a bit kludgy, but I'll have it working early next week and 
+I believe it will satisfy the bypass requirement as well as could be done 
+working from photographs and the relatively sketchy info we have.  I will 
+also put a press/vac gauge into a small port in the side of this line near 
+the main vortex chamber so I can see what the pressure in there is doing.  
+I'll also arrange to measure the temperature of this line with a contact 
+probe of some sort so we can see of it is hotter (or cooler) than the rest 
+of the system.
+
+Comments?
+ 
+  
+

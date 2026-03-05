@@ -1,0 +1,399 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Inexpensive FET electrometer array</title>
+<base href="http://amasci.com/" >
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" >
+<link rel="prev" href="/electrom/electrom.html" >
+
+<link rel="canonical" href="http://amasci.com/electrom/e-field2.html" />
+<meta name="google-translate-customization" content="c3ed531053d636c5-1d98312485736f8d-g564ee6842740dee4-a" ></meta>
+<meta http-equiv="" content="science,experiments,science,fair,electric,
+field, magnetic, field, static, electricity, bottle, viewer, steel, wool">
+</head>
+
+<BODY BGCOLOR="#ffffff" >
+<font size=4>
+
+<table summary="site nav" width=100%><tr>
+<td>
+<center>
+<TABLE cellpadding=5 summary="Navigation links" ><TR>
+<TD ALIGN="CENTER" ><b><font size=2>
+<a href="/" >SCIENCE HOBBYIST</a>&nbsp;&nbsp;|<br></TD>
+<TD ALIGN="CENTER"><b><font size=2>
+<a href="/electrom/electrom.html">ELECTROMETER</a>&nbsp;| </b><br></TD>
+<TD ALIGN="CENTER"><b><font size=2>
+<a href="/sc/kidproj1.html">SCIENCE PROJs</a>&nbsp;| </b><br></TD>
+<TD ALIGN="CENTER" ><b><font size=2>
+<a href="/unew.html" >GOOD STUFF</a>&nbsp;&nbsp;|<br></TD>
+<TD ALIGN="CENTER" ><b><font size=2>
+<a href="/news.html" >NEW STUFF</a>&nbsp;&nbsp;|<br></TD>
+<TD ALIGN="CENTER" ><b><font size=2>
+<a href="/search.html" >SEARCH</a><br></TD>
+</TR></TABLE>
+</center> 
+</td>
+<td summary="google search" align=right valign=top>
+<div id="google_translate_element" ></div>
+<script type="text/javascript" >
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout:google.translate.TranslateElement.FloatPosition.TOP_LEFT, gaTrack: true, gaId: 'UA-101029-1'}, 'google_translate_element');
+}
+</script>
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit" ></script>
+<div>
+<script>
+  (function() {
+    var cx = 'partner-pub-6310699831332590:m1ib2jl3jyf';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:searchbox-only></gcse:searchbox-only>
+</div>
+</td></tr></table>
+
+
+
+<table summary="main content" width=100%><tr>
+
+<td width=18 summary="google ad" valign=top align=left>
+
+
+<br>
+<b><a href="http://amasci.com/surplus/surpcats.html">ELECTRONIC</a><br>
+<a href="http://amasci.com/surplus/surpcats.html">SURPLUS</a><br>
+<a href="http://amasci.com/surplus/surpcats.html">CATALOGS</a><br>
+The Big List</b>
+<pre>
+</pre>
+<hr>
+
+<br>
+
+</td>
+<td summary="spacer" width=15>&nbsp;</td>
+
+<td summary="electrometer article" width=800><font size=4>
+
+
+<h1><font size=5>INEXPENSIVE FET ELECTROMETER ARRAY</font><br>
+<font size=4>
+1994 <a href="http://amasci.com/me.html">William Beaty</a>, Museum of 
+Science, Boston</font></h1>
+<br><p>
+
+<img src="/electrom/e-field2.gif">
+<br clear=all>
+
+<p>
+The schematic depicts the basic 'cell' of the Inexpensive Visual
+Electrometer Array.  The MPF102 is a Field Effect Transistor available
+from Radio Shack and many other places.  Any LED will do, but diffuse
+wide-angle, high-brightness types like MV5753 (Active Electronics) are
+best.  Screws with nylon insulators were used in the panel.  With a 
+1-in. wire antenna,
+the circuit is small enough to be built atop a 9-volt battery clip, then
+used as a handheld probe.  With a 24-in. wire antenna, the circuit is
+sensitive enough to respond to the waving of a charged comb or balloon
+/across the room.
+<br>
+</p>
+
+<p>
+
+In the present circuit, the LED turns on when a positive charge approaches
+the antenna, and turns off when negative charge approaches.  The 1-meg
+resistor limits spark current should any large, charged persons actually
+touch the gate wire.
+<br>
+</p>
+
+<p> The earth-ground point in the circuit can actually be at any of the 
+schematic nodes, not just the one shown.  And if the circuit is 
+battery-powered, you can even ground the gate and use the entire circuit 
+and battery as the "antenna." I use the point shown in the schematic 
+because it allows the handheld version to easily be lit/darkened via the 
+battery: Hold the gate lead, touch one battery terminal, then release the 
+gate lead.  Depending on the + or - terminal you touch, the LED goes on or 
+off. <br> </p>
+
+<p> While extremely inexpensive, this particular circuit has a problem.  
+It can be turned on and off!  In other words, it suffers from inductive 
+charging via the diode junction which is part of the FET gate, and this 
+makes the circuit behave differently with positive signals than with 
+negative.  If a negative charge approaches, the LED turns off, and when 
+the charge is removed, the LED turns on.  The opposite is NOT true for 
+positive charges.  If a positive charge approaches and the LED is on, the 
+LED will stay on, but the FET's internal diode will turn on and allow the 
+gate wire to become charged.  When the positive charge is removed, the LED 
+will turn off and stay off!  There is a "memory" effect involved with the 
+circuit, and so the circuit does not always reflect the state of the 
+e-fields in the space around it. However, it is amazing that such a simple 
+device detects e-fields at all, and the price is so low that every student 
+can have their own e-field sensor.  For hard numerical data, an expensive 
+electrometer instrument can be used instead.  If you are building a much 
+smaller array, you might want to consider using a FET input opamp circuit 
+and red/green polarity indicator LEDs. <br> </p>
+
+
+
+
+<h2>THE ARRAY ELECTROMETER</h2>
+
+<p>
+
+To protect the circuit from direct discharges, I placed a 10meg resistor 
+in series with the lead wire coming from each antenna screw, and I 
+connected an NE-2 neon pilot light between the FET gate and earth ground.  
+The glass of the neon bulbs turned out to cause humidity problems 
+(decreased sensitivity) on moist days, so I painted the base of each bulb 
+near the lead wires with red-brown, high-voltage insulating spray paint.  
+It's important to not touch the base of the neon lamps either before or 
+after painting, since fingerprints become conductive when moist.  Handle 
+them only by the lead wires.  If there are finger prints on them, scrub 
+them off in a bowl of rubbing alcohol. <br> </p>
+
+<p>
+
+
+For the main panel I used sheet aluminum anodized with black color (which
+I picked because the black wasn't insulating,) bought from a decorative
+metal supplier.  It was covered by a peel-off protective sheet which is
+seen in the JPEG image (and must be removed when complete.)  If you use
+another material for the plate, be aware that if the panel is coated with 
+a good
+insulator such as paint, it also becomes a good trap for ionized air, for
+"frictional" charges, etc.  It invariably will become charged up and
+distort the light patterns terribly.<br></p>
+
+<p>  You might wish to experiment 
+with
+placing the whole panel behind glass.  This will protect it from direct
+discharges, but if the glass becomes charged (will there be fur or cloth
+provided?), the exhibit will go flakey on you.  The conductive panel is
+connected to earth ground. <br> </p> 
+
+<center> <img summary="4ft black
+panel, with hex grid of screws and LEDs in the center"
+src="/electrom/aura3.jpg"><br clear=all> </center>
+
+<p> Each "antenna" screw was next to an LED.  The screws were 6-32, and
+stuck out about 3/8" from the panel.  I think I used 3/4" screws, to give
+adequate length out the back.  I used black "socket cap" screws just to
+keep everything black for good contrast.  The vertical rows of sensors
+were about 1"  apart, the screws were about 1.7" spaced vertically, with
+each LED about 3/4" from each screw.  I bought white nylon insulators from
+an electronics catalog (digikey.com.)  One of the insulators was of the 
+screw-insulator
+type, it was like a 6-32 shoulder washer, but with a little thin tube 
+sticking out
+of the side.  The other insulator was an 8-32 unthreaded nylon spacer 3/8"
+long.  The two insulators meshed together with a slip-fit action, which
+totally isolates the screw from touching the grounded metal panel.  Drill 
+each hole with a #16 bit.  The
+6-32 washer is mounted from the rear of the panel, the 8-32 washer is 
+placed over it 
+from the front,
+the screw is inserted from the front, then the nut and solder-lug are 
+screwed on
+the back.<br></p>
+
+<p>Keep the nylon parts very clean.  Don't open their bags 
+until
+you're ready and install them while wearing gloves.  If the washers get
+any salty fingerprint contamination on them, they can become conductive on
+humid days.  If one or more segments stop working on humid days, it means
+that surface contamination is somewhere present on the washers, on the
+NE-2 bulb, or even on the FET itself. <br> </p>
+
+<img src="/electrom/sel-back.gif"><br clear=all> 
+
+<p>
+To power the array I first soldered each FET to its adjacent LED, to the
+antenna lug, and to the NE-2 bulb.  This leaves each element with two
+disconnected leads, a positive and a negative.  I used horizontal wires to
+connect each row of elements together in parallel (I stripped small holes
+in the insulation to allow solder connection.)  These wires are visible in
+the photo above: yellow for positive, bare wire for negative.  Then I
+attached long thin pieces of copper circuit board vertically to the
+aluminum panel, then soldered all the horizontal wires to the circuit
+board strips.
+
+<br> </p> 
+
+<p>
+
+Here's an advanced feature for the ambitious designer.  I figured out how 
+to reset the whole array so the LEDs would all dimly glow.  I connected 
+each antenna-screw to a 15pF 200V capacitor, all going to a common bus.  I 
+found that if I raised this bus voltage to 150VDC, then lowered it to 
+zero, then any pattern on the array would be wiped out.  Note that it 
+might be possible to damage the FETs if you SUDDENLY connect this array to 
+-150VDC and then to ground.  So, I used relay switching of resistors and 
+capacitors to slowly charge the array to -150V in about 0.1 second, then 
+discharge it again in about 0.1 second.  Such a slow change will keep the 
+gate currents low and prevent transistor burnout.  A pushbutton and a 
+timer circuit runs the relay sequence.
+
+</font>
+</td>
+<td>&nbsp;</td></tr></table>
+
+<br> </p> 
+
+
+<p>
+ONE "ANTENNA" FROM THE SENSOR PANEL, EXPLODED VIEW: <br><p>
+
+
+Parts bought from <a href="http://www.digikey.com">digikey.com</a>:
+<br>
+
+<ul>
+<li>  3054K-ND Shoulder-washer, nylon 0.170" OD  (Keystone 3054)
+<li>  893K-ND  Spacer, round nylon 0.171" ID (Keystone 893)
+<li>  H713-ND  Screw, phillips 6-32 1"
+<li>  H220-ND  Nut, 6-32
+<li>  914K-ND  Lug, lockwasher #6 (Keystone 914)
+</ul>
+
+<pre>
+
+            __
+         _-    -_
+       /__________\
+          |--__|
+          |--__|
+          |--__|
+          |--__|
+          |--__|
+          |--__|
+          |--__|     Screw, 6-32
+          |--__|
+          |--__|
+          |--__|
+          |--__|
+     | |  |--__|  | |
+     | |  |--__|  | |
+     | |  |--__|  | |
+     | |          | |   Nylon standoff, 
+     | |          | |   8-32, 0.171" i.d.
+     | |          | |
+
+========          ===============   
+                     Hole in aluminum sheet 
+        ||      ||  (#16 drill bit)
+        ||      ||
+        ||      ||
+        ||      ||    Nylon shoulder washer, 
+        ||      ||    6-32, 0.170" outer dia
+     ___||      ||___
+    |____|      |____|
+     _____      ________ 
+                        \
+                          \
+       ___     ___          \
+     /    |   |    \          \
+    |     |   |     |     "Ground lug"  6-32
+     \____|   |____/
+               Hex nut, 6-32
+
+
+
+
+ASSEMBLED "ANTENNA":
+            __
+         _-    -_
+       /__________\           
+     | |  |--__|  | |
+     | |  |--__|  | |     Panel
+     | ||||--__|||| |     front
+     | ||||--__|||| |
+     | ||||--__|||| |
+     | ||||--__|||| |
+========|||--__|||=================
+    |____||--__||____|       Rear
+     -----|--__|------_
+       ___|--__|___     \
+     /    |--__|    \     \   
+    |     |--__|     |      \
+     \ ___|--__|___ /   FET gate attaches to 
+          |--__|        "ground lug"
+
+
+</pre>
+
+
+
+
+<center>
+<table summary="google ads" width=100% height=95><tr>
+<td summary="google banner ad" align=center>
+<script type="text/javascript"><!--
+google_ad_client = "pub-6310699831332590";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "F8F8F8";
+google_color_bg = "FFFFFF";
+google_color_link = "0033CC";
+google_color_url = "008000";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+</td></tr></table>
+</center>
+<br><p>
+
+
+<pre>
+
+
+
+
+</pre>
+<center>
+<font size=3>
+<a href="/electrom/e-field2.html">
+http://amasci. com/electrom/e-field2.html</a><br>
+
+Created and maintained by 
+<a href="/billb.html">Bill Beaty</a>.  <br>
+Mail me at: <a href="http://amasci.com/amfrm/"><img border=0 width=141 height=19 src="/graphics/abc.gif"></a>.
+<br>
+
+</center>
+<center>
+<!-- Start of StatCounter Code for Default Guide -->
+<script type="text/javascript" >
+var sc_project=10408414; 
+var sc_invisible=0; 
+var sc_security="00267183"; 
+var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript><div class="statcounter" >
+<a title="shopify stats" href="http://statcounter.com/shopify/" target="_blank" >
+<img class="statcounter" src="http://c.statcounter.com/10408414/0/00267183/0/" alt="shopify stats" ></a></div></noscript>
+<!-- End of StatCounter Code for Default Guide -->
+<a href="http://statcounter.com/p10408414/?guest=1" >View My Stats</a>
+</center>
+</strong>
+</font>
+</body>
+</html>
+
+

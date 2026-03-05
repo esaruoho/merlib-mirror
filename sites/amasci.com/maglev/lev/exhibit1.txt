@@ -1,0 +1,182 @@
+Excerpt from "PLAINTIFFS' MEMORANDUM OF LAW IN OPPOSITION TO DEFENDANTS'
+MOTION FOR SUMMARY JUDGEMENT OF CERTAIN CLAIMS FILED ON 2/9/98" as submitted
+in United States District Court, District of New Mexico:
+
+"... As explained in detail in the Affidavits of William G. Hones and Dr.
+Edward W. Hones, Roy Harrigan's concept that to magnetically levitate a
+spinning body, it is necessary to have a dish-shaped base magnet or a base
+magnet with a magnetic field in which the magnetization vectors define a
+cone, is erroneous.  After considerable experimentation and computer
+modeling conducted over a period of several months in an effort to implement
+the teachings of Harrigan?s patent, Bill and Ed Hones discovered that
+Harrigan?s basic concept was wrong.  They discovered that one could use a
+flat base magnet magnetized perpendicular to its flat surface and still
+levitate a spinning top. That discovery is what led to the invention that
+made possible the commercialization of the Levitron® device by Plaintiffs
+within a matter of mere months.  Bill and Ed Hones made that invention by
+themselves and without any participation of or assistance by Roy Harrigan.
+W. Hones Aff.24, E. Hones Aff.18.  They filed a U.S. patent application for
+their invention and in that patent application they expressly referred to
+Roy Harrigan's patent and the erroneous teachings of that patent.  W. Hones
+Aff.22.  The U.S. Patent and Trademark Office granted them U.S. Patent No.
+5,404,062 for their invention on April 4, 1995. Ex. 3 to W. Hones Aff.
+Under the Patent Laws, that patent is presumed to be valid.  35 U.S.C. §282... 
+
+Even a cursory reading of the Harrigan and Hones et al patents by an
+experienced patent attorney would have revealed the clear distinctions and
+differences between the invention disclosed and claimed in the Harrigan
+patent and the invention disclosed and claimed in the Hones et al. Patent.
+Manbeck Aff.9.  Defendants were also on notice of a letter from Plaintiffs'
+patent attorney, Saul Leitner, to Martin Simon which explained to Mr. Simon
+the very limited scope of the claims of the Harrigan patent and the right of
+anyone to design around the claims of an issued patent.  Leitner Aff.5... "
+
+*************************
+
+Excerpt from: AFFIDAVIT OF WILLIAM G. HONES
+
+      "...I, William G. Hones, being duly sworn, hereby depose and say as follows
+
+        1.  I am the vice president of Creative Gifts, Inc. ("Creative
+Gifts") and the president of Fascinations Toys and Gifts, Inc.
+("Fascinations"), plaintiffs in the above-captioned civil action.  I am also
+a plaintiff in the present action.
+        2.  The facts stated herein are of my own personal knowledge.  I am
+competent and willing to testify to their truth.
+        3.  A primary mission of Plaintiffs Creative Gifts and Fascinations
+is to produce and market scientifically oriented toys.  Toward that end, in
+late August 1993 I was reviewing a number of patents relating to toys that I
+had obtained from the U.S. Patent and Trademark Office in search of a new
+product for my companies.  Among the patents I reviewed was U.S. Patent No.
+4,382,245 issued to one Roy Harrigan of Manchester, Vermont which described
+a magnetic levitating top.  A true and accurate copy of that patent is
+attached hereto as W. Hones Ex. 1.
+        4.  After reviewing the Harrigan patent, I contacted Mr. Harrigan by
+telephone on August 25, 1993 to find out whether he had ever commercialized
+his device and if not, whether he had a design or could formulate a design
+that could be produced as a low cost novelty item.
+        5.  Although he said had made some attempts to commercialize his
+device, Mr. Harrigan had never succeeded, but he was very interested in
+exploring that possibility with me.  He invited me to come to Vermont for a
+demonstration of his device.  I accepted his invitation and in the meantime
+sent him one of Fascinations? standard 5% royalty licensing agreements to
+review.
+        6.  Prior to visiting with Mr. Harrigan, I contacted a magnet
+supplier, AEC Magnetics, to determine the feasibility of manufacturing a
+concave or dish-shaped base magnet as shown in Figure 1 of the Harrigan
+patent.  Mr. Bill Klaus of  AEC Magnetics advised me that the tooling costs
+and the costs to design and manufacture a  magnetizing device for a
+dish-shaped base magnet would probably be prohibitive for a magnetic novelty
+product.
+        7.  In September 1993 I visited Roy Harrigan at his home in
+Manchester, Vermont to discuss how Fascinations and he could work together
+to commercialize his levitating device.  We discussed the theory of
+operation of his device and ways to implement his invention.  He also
+demonstrated the operation of his device as disclosed in his patent and let
+me borrow a prototype to examine.
+        8.  By a letter dated December 22, 1997, Mr. Harrigan?s attorney,
+Michael Vary, provided my attorneys with an excerpt of what is purported to
+be a transcription of a recorded portion of the discussions I had with Mr.
+Harrigan during my meetings with him in September 1993.  A copy of that
+excerpt is attached hereto as W. Hones Ex. 2, where R is said by Mr. Vary to
+refer to Roy Harrigan and M is said to refer to me, Bill Hones.
+        9.  Although Mr. Vary has refused to provide my attorneys with a
+complete transcript or a copy of the video recording from which the excerpt
+of W. Hones Ex. 2 was purportedly taken to verify its accuracy, the attached
+excerpt shows that it was Mr. Harrigan's belief that in order to achieve
+magnetic levitation of a spinning top, the magnetization vectors of the base
+magnet would have to define a cone as do those of the dish-shaped base
+magnet shown in his patent.  In other words, regardless of the surface
+profile of the base magnet, even if it were flat, Mr. Harrigan maintained
+that the base magnet had to be magnetized so that the vectors of
+magnetization defined a cone.
+        10.  During my meeting with Mr. Harrigan, I informed him that my
+father, Ed Hones, a retired physicist, could assist in better understanding
+the physics of the levitating device so that we might be able to produce a
+commercially viable product.  Mr. Harrigan was very interested in working
+with us and I suggested he sign the license agreement I had sent him.  Mr.
+Harrigan declined to sign the agreement because he said he wanted to have it
+reviewed by his attorney. 
+        11.  When I returned to Seattle, I obtained a number of flat plastic
+magnetic sheets and began working on trying to develop ways to form them
+into a dish-shaped magnet.  I shaped the flat magnets on the inside of a
+bowl and heated them in an oven to try to make them retain a dish shape.  In
+the meantime, my father began studying the literature and various texts
+pertaining to permanent magnets and, particularly, magnetic shells, to learn
+about the magnetic fields of such shells, especially the magnetic fields of
+dish-shaped or spherical shells.
+        12.  On about September 27, 1983, I requested information from a
+magnet company, Flexmag Industries, about the availability of spherical or
+dish-shaped magnets and again was discouraged to find that such magnets were
+not available as off-the-shelf items.
+        13.  In October 1993 I performed several experiments with the
+plastic magnetic sheets I had purchased and formed into dish-shaped shells
+to determine the orientation of the magnetic field of those shells.  The
+result of those experiments caused me to begin to doubt the validity of the
+concept of magnetic focusing by the cone-shaped distribution of
+magnetization vectors that Harrigan described in his patent and in my
+discussions with him in early September 1993.
+        14.  In October 1993 my father came across a passage in a text on
+theoretical physics that stated that uniformly and normally magnetized
+shells having identical peripheries and identical magnetization strengths
+produce identical magnetic fields regardless of their surface profiles.
+        15.  Computer calculations by my father confirmed that the magnetic
+fields of flat and dish-shaped magnetic shells of the same strength and
+periphery are the same.
+        16.  My father suggested that we should perform a test to confirm
+the completely surprising results of his calculations.  To conduct such a
+test, I attempted to levitate a spinning top above one of the plastic
+magnets that was still flat, i.e. one that I had not yet formed into a
+dish-shape.  To my astonishment I succeeded in levitating the top.
+        17.  The result of that experiment left my father and me puzzled as
+to why Harrigan was so totally committed to a dish-shaped base magnet or to
+a base magnet of other shapes so long as it was magnetized to emulate a
+dish-shaped base magnet.
+        18.  By the end of November 1993, we were convinced that Harrigan?s
+concept of a focusing effect with a dish-shaped base or a field with
+magnetization vectors that define a cone was erroneous.
+        19.  Further calculations for flat and dish-shaped magnets were done
+in December 1993 and by January 1994 we had proved to ourselves that stable
+levitation of a spinning magnetic top could be accomplished with a normally
+magnetized flat base magnet, particularly one with a square periphery.
+        20.  My father then drafted an invention disclosure explaining our
+discovery and how it differed from Harrigan's concept.  We forwarded that
+disclosure to our patent attorneys in early February 1994 for preparation of
+a patent application.
+        21.  During the period from my visit with Mr. Harrigan in September
+1993 through December 1993 I contacted him on a number of occasions to
+inquire about the license offer Fascinations had made to him.  He remained
+non-committal and never signed that agreement.  In March 1994 I offered Mr.
+Harrigan a different agreement that would include royalty payments to him
+for working with Fascinations to develop other products, even though my
+attorney had advised me that his patent did not cover our invention.  My
+offer would have paid him a 2 ½% royalty on any levitating product we
+produced.  He never responded to that offer.
+        22.  The patent application for our invention was filed on February
+17, 1994 and issued on April 4, 1995 as U.S. Patent No. 5,404,062, a true
+and accurate copy of which is attached hereto as W. Hones Ex. 3.  At col. 1,
+line 62 to col. 2, line 7 of our patent, we specifically refer to the
+Harrigan patent and the dish-shaped magnet he describes in his patent.  At
+col. 2, lines 27-52 of our patent, we describe the theoretical basis for our
+invention and distinguish it from Harrigan?s concept, especially by the
+statement at col. 2, lines 49-52, that "[m]aking the surface of the base
+magnet concave instead of flat does not provide a magnetic centering force
+above the base magnet."
+        23.  In the claims of our patent, we distinguish our inventi0on over
+the Harrigan patent by reciting in independent claims 1 and 15 that the base
+(first) magnet has a substantially planar first surface and is magnetized
+normal (perpendicular) to that first or upper surface and parallel to the
+axis of the first magnet.
+        24.  Roy Harrigan did not participate with my father and me in the
+conception or reduction to practice of the invention disclosed and claimed
+in our U.S. Patent No. 5,404,062.  Nor did Mr. Harrigan make any
+contribution whatsoever to that invention.  He is therefore not an inventor
+of the invention claimed in that patent.
+
+?Further affiant sayeth not
+Date February 24, 1998  [signature] William G. Hones
+
+Sworn and subscribed before me this 24 day of February, 1998    
+
+[notarized]             [signature] Cheryl E. Snow
+                                           Notary Public

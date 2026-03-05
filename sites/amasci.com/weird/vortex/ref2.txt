@@ -1,0 +1,52 @@
+MORE PODKLETNOV REFERENCES
+
+-------------------------------------------------------------------
+(1)  E. Podkletnov and R. Nieminen, "A possibility of gravitational 
+shielding by YBa_2Cu_3O_{7-x} superconductor", Physica C 203 
+(1992) 441.
+
+First paper on the gravitational shielding (disk with diameter 14 cm, 
+only one quartz sample weighted).
+-------------------------------------------------------------------
+
+(2) G. Modanese, "Theoretical analysis of a reported weak 
+gravitational shielding effect", Europhys. Lett. 35 (1996) 413. E-print 
+hep-th/9505094.
+
+Analyzes different possible interpretations of the effect. General 
+introductive part.
+
+Send e-mail to hep-th@xxx.lanl.gov, with subject "get 9505094"
+-------------------------------------------------------------------
+
+(3) G. Modanese, "Updating the theoretical analysis of the weak 
+gravitational shielding experiment", report UTF-367/96, January 1996
+(supr-con/9601001).
+
+Summarizes conclusions of previous work and proposes explanation 
+for the observed very weak height dependence.
+
+Send e-mail to supr-con@xxx.lanl.gov, with subject "get 9601001" 
+-------------------------------------------------------------------
+
+(4) D.G. Torr and Ning Li, Found. Phys. Lett. 6 (1993) 371.
+
+Analyzes the interaction between gravity and a superconductor. Does 
+not specifically refer to Podkletnov's results.
+-------------------------------------------------------------------
+
+(6) G. Modanese, "Role of a 'local' cosmological constant in Euclidean 
+quantum gravity", report UTF-368/96, January 1996 (hep-th/9601160).
+
+Quantum-field-theoretical aspects of the interaction between the 
+gravitational field and a Bose condensate.
+
+Send e-mail to hep-th@xxx.lanl.gov, with subject "get 9601160"
+-------------------------------------------------------------------
+
+Articles appeared in the media: in Sunday Telegraph (UK) of Sep. 1, 
+1996; in Business Week (USA) of Sep. 30, 1996. In Physics World 
+magazine (UK), Oct. 1996. 
+
+	PS:  Supposed to be one in New Scientist, Sept 20, 1996
+

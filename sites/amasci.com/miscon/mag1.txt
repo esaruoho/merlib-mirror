@@ -1,0 +1,491 @@
+MESSAGES COLLECTED FROM PHYS-L AND TAP-L (physics teacher) LIST SERVERS
+*****************************************************************************
+
+
+Date: 14 Aug 96 10:19:50 EDT
+From: Ann Hanks <73174.2267@CompuServe.COM>
+To: Multiple recipients <tap-l@listserv.appstate.edu>
+Subject: Magnetizer help!
+
+Hello Tappers,
+
+Remember the discussion about the ETP magnetizer that was wired backward
+so that it made the North pole into a South pole?  I work for PASCO and we
+sell ETP magnetizers.  We checked all of our magnetizers that we have in
+stock and they are all wired backward.  So we complained to ETP and their
+response was incredible: 
+
+They said that they knew it was backward.  They used to wire it correctly
+until a customer complained that when they used the magnetizer the
+resulting magnet was polarized such that the "North-seeking" end of a
+compass needle (i.e., the North end of the compass needle)  pointed toward
+the South end of the magnet.  This is correct but, according to ETP, the
+general public believes that the "North-seeking" end of the compass should
+point toward the North end of any magnet!  (The people at ETP don't seem
+to know that the magnetic pole of the Earth in our hemisphere is a South
+pole.) 
+
+ETP goes on to say: "...most inexpensive magnets are made with the
+polarity reversed.  So ELECTRO_TECHNIC bowed to the popular perception
+even though it is counter to the ancient convention.  In all the years and
+thousands of magnetizers sold, the number of complaints about polarity
+have been very few." 
+
+Help!  Here we are trying to educate the general public while the
+magnetizer and magnet companies are undermining our efforts.  How are we
+supposed to make things clear to students who have played with reverse
+-polarity magnets throughout their childhood? 
+
+Please call or write to ETP, asking them to correct the polarity.  Perhaps
+if they hear from enough of us, they will realize that the only reason
+that we haven't complained until now is that most of us are capable of
+slapping a sticker on the front of the magnetizer to show the correct
+polarity. 
+
+The address is:
+
+	Electro-Technic Products, Inc.
+	4642 N. Ravenswood
+	Chicago, IL 60640-4592
+	Phone: (312)561-2349
+	FAX: (312)561-3130
+
+Ann Hanks
+PASCO Product Development
+
+
+
+
+
+*****************************************************************************
+
+Date: Mon, 4 May 1998 22:36:11 -0400
+Sender: owner-phys-l@atlantis.uwf.edu
+From: jat178@psu.edu (Joe Taylor)
+To: phys-l@atlantis.uwf.edu
+Subject: Re: south in the north
+
+At  4:13 PM 5/3/98 -0700, William Beaty wrote:
+>Here is last week's ASK MARILYN column in the sunday paper Parade section.
+>I've not complained as yet. The email address is marilyn@parade.com
+>
+>> WHY DOES THE NORTH END OF A COMPASS NEEDLE ALWAYS POINT NORTH?  IF LIKE
+>> POLES REPEL (AND UNLIKE POLES ATTRACT), SHOULDN'T THE NORTH END POINT
+>> SOUTH INSTEAD?
+>>
+>> The north pole of a compass needle DOES point south.  It's the
+>> "north-SEEKING" pole that points to the Earth's magnetic north.  So the
+>> end of the compass needle marked N (for north) is actually the south
+>> pole of the compass needle.  This is supposed to avoid confusion!
+
+William,
+
+It is my understanding that the earth's south magnetic pole coincides
+roughly with the north geographic pole. Therefore, the north pole of a
+compass needle does point north because it is attracted to the earth's
+south magnetic pole. This is easily demonstrated by bringing the south pole
+of a bar magnet near the north pole of a compass needle.  The needle will
+be attracted.
+
+Joe
+
+Joseph A. Taylor
+Physics Teacher
+Middletown Area High School
+1155 N. Union St.
+Middletown, PA 17057
+(717) 948-3333
+jat178@psu.edu
+http://www.personal.psu.edu/users/j/a/jat178/
+
+"If I have seen further it is by standing on the shoulders of giants". -
+Isaac Newton (5 Feb. 1675)
+
+GO NITTANY LIONS!
+  ,    ,
+>                  ("\''/").___..--'''"-._
+>                  `9_ 9  )   `-.  (     ).`-.__.`)
+>                  (_Y_.)'  ._   )  `._ `. ``-..-'
+>                _..`--'_..-_/  /--'_.' .'
+>               (il).-''  ((i).'  ((!.-'
+>
+
+
+
+
+
+*****************************************************************************
+
+Date: Tue, 05 May 1998 00:48:23 -0400
+From: Jerome Epstein <jerepst@worldnet.att.net>
+To: phys-l@atlantis.uwf.edu
+Subject: Re: south in the north
+
+Joe Taylor wrote:
+> 
+> It is my understanding that the earth's south magnetic pole coincides
+> roughly with the north geographic pole. Therefore, the north pole of a
+> compass needle does point north because it is attracted to the earth's
+> south magnetic pole. This is easily demonstrated by bringing the south pole
+> of a bar magnet near the north pole of a compass needle.  The needle will
+> be attracted.
+> 
+> Joe
+> 
+Joe Taylor is correct. The magnetic pole near the Earth's North pole is
+a South Magnetic pole.
+
+
+
+
+*****************************************************************************
+
+Date: Tue, 5 May 1998 07:56:45 -0400
+From: Chuck Britton <britton@odie.ncssm.edu>
+To: phys-l@atlantis.uwf.edu
+Subject: Re: south in the north
+
+Please suspend a (correct) bar magnet by a string, somewhere in your
+classroom. Everyone should be reassured that the N end does indeed point
+toward the geographic north pole. Paula Abduhl has it right, it's a natural
+fact that opposites attract. A compass needle is just a small bar magnet.
+There are far more bar magnets in the world than there are worlds, so the
+'convention' has become that the word 'seeking' will no longer be used.
+Magnetically speaking the bar magnets are labeled correctly and the labels
+of the earths ends will remain confusing (until the next pole swap occurs,
+then the Earth's poles will agree, but the compass will then  point to
+where the penguins live.)
+
+  -.     .-.     .-.     .-.     .-.     .-.     .-.     .-.     .-.     .-
+    \   /   \   /   \ N /   \ C /   \ S /   \ S /   \ M /   \   /   \   /
+     `-'     `-'     `-'     `-'     `-'     `-'     `-'     `-'     `-'
+Chuck Britton  					Education is what is left when
+britton@odie.ncssm.edu  			you have forgotten everything
+North Carolina School of Science & Math		you learned in school.
+(919) 286-3366	x224				Albert Einstein, 1936
+
+
+
+
+
+*****************************************************************************
+
+Date: Tue, 05 May 1998 09:36:45 -0400
+From: "Hans G. Ammitzboll" <physics@mindless.com>
+To: phys-l@atlantis.uwf.edu
+Subject: Re: south in the north
+
+I guess the point here is that Ms. Marilyn has gotten one wrong YET AGAIN! 
+The end of the compass needle marked N (for north) is in fact, just what
+it claims to be; the north pole of a small magnet.  It points to the
+Earth's magnetic SOUTH.  Which lies in the geographic region of northern
+Canada.  The correct convention for naming poles is to call the end which
+would point in the geographic north direction, the north pole.  This means
+that the magnetic polarity in that direction must be a south magnetic
+pole. 
+
+As an interesting aside, if you ever purchase a "re-magnetizer" for your
+classroom magnets, you should know that the two wells into which you place the
+ends of the magnets are marked WRONG.  If you hold the north pole of a PROPER
+magnet near a compass, you will attract the south end of the compass.  Since
+this seems to confuse many people, the manufacturers of these re-magnetizers
+have switched the labels on their apparatus so that the end of a magnet placed
+into the well marked N, will come out attracting the North end of a compass
+needle. Vice-versa for the well marked S of course.  Kind of odd reasoning on
+the part of the manufacturers.  I guess they think something like 'since more
+than half the people get it wrong, we'll switch things around so that we agree
+with the majority.'  Go figure!
+-- 
+Hans G. Ammitzboll		physics@mindless.com
+Drew University Physics Dept.
+Madison NJ 07940
+		   "Grow up, not old.  Be childlike, not childish."
+							-Me
+
+
+
+
+
+*****************************************************************************
+
+Date: Tue, 05 May 1998 10:08:16 -0400 (EDT)
+From: LUDWIK KOWALSKI <KOWALSKIL@alpha.montclair.edu>
+To: phys-L@atlantis.uwf.edu
+Subject: Re: south in the north
+
+Date: Tue, 05 May 1998 09:36:45 -0400
+From: "Hans G. Ammitzboll" <physics@mindless.com>
+Subject: Re: south in the north
+> ... The end of the compass needle marked N (for north) is in fact, just 
+> what it claims to be; the north pole of a small magnet. It points to the 
+> Earth's magnetic SOUTH.  Which lies in the geographic region of northern 
+> Canada. The correct convention for naming poles is to call the end which 
+> would point in the geographic north direction, the north pole.  
+
+A better convention (more general) is to say that the end of a magnet from
+which the field lines are emerging is N while the end toward which they are
+converging is S. How can one tell? By watching the compass. The S to N
+segment of the needle coincides with the direction of B. 
+                                                          Ludwik Kowalski
+
+
+
+
+*****************************************************************************
+
+Date: Tue, 5 May 1998 10:28:07 -0400 (EDT)
+From: "Donald E. Simanek" <dsimanek@eagle.lhup.edu>
+To: phys-l@atlantis.uwf.edu
+Subject: Re: south in the north
+
+On Mon, 4 May 1998, Herbert H. Gottlieb wrote:
+> >Joe Taylor is correct. The magnetic pole near the Earth's North pole 
+> >is  South Magnetic pole.
+> 
+> Joe IS N OT CORRECT. The magnetic pole near the Earth's North 
+> Pole is a NORTH MAGNETIC POLE.  
+> 
+> Herb Gottlieb from New York City
+> (Where the Earth's north magnetic pole is close to the
+> earth's north pole)
+> 
+
+We always suspected there was something strange about New York City.
+
+I side with Joe on this one. Of course, one could *define* it either way,
+but the relation of magnetic field to current-carrying wires is defined in
+one and only one way in all textbooks at all levels, just as is the
+convention for currents (which many students wish had been done
+differently). Therefore, we can check our compass' response to current
+carrying wires, in coils, etc. and determine the direction of the magnetic
+field "lines" from the magnet, using the standard textbook conventions. 
+Thus we find which end of the compass is the magnetic North end. Then we
+wee which way that end points.  It points to geographic North. This
+indicates that geographic North of the earth is Magnetic South of the
+Earth.
+
+One of my favorite demos is to check this, starting from scratch. I use a
+large lecture galvanometer. Of course we don't assume anything about the
+galvanometer, so we check which deflection is positive and which negative
+by use of a chemical 1.5v cell. It's quite difficult (impossible?) to
+reverse the polarity of a chemical cell without drastically tampering with
+it internally (remanufacturing it), or modifying the laws of
+electrochemistry. So we can trust that if the cell has a terminal
+potential of 1.5v, it's polarity is also what it should be. Now we know
+which deflection corresponds to a particular direction of conventional
+current. So then I put a loop of wire across the terminals and move that
+wire through the poles of a strong (magnetron) magnet. The students must
+predict which direction the galvanometer will deflect if the wire is
+thrust in a certain way between the poles if pole X is N. Thus we get them
+to think through the vector relations between v, B, and I, before doing
+the experiment, and also we find out which pole of our magnet it N. Then I
+take a small compass and see which end of it is attracted to the N pole of
+the large magnet. Thus we have found out which pole of the compass is N.
+Then we move away from all local sources of magnetic field and see which
+geographic direction the N pole of the magnet points to. If no one has
+tampered with the compass, one end of the needle has some marking to
+indicate it is the "north geographic pole seeking" end, and that will be
+its magnetic North pole.
+
+Historically, that's why it was named the "North" end of the compass
+needle. Only much later did we understand the physics behind it.
+
+In all of this we have taken nothing for granted except the equations and
+current and field conventions of the textbook, and the polarity of our
+chemical cell. We did not assume we knew the polarity of the large magnet,
+the compass, or the earth, nor the polarity of the terminals of the
+galvanometer.
+
+Of course the earth has no internal bar magnet, and no "pole" near the
+arctic and antarctic regions, for the shape of the field is more like that
+of a dipole. However, using the standard convention, the field lines
+coming up and out of the earth in the Southern hemisphere have their
+arrowheads outwardly directed.
+
+When I took Freshman physics, Prof. John Eldridge used his own textbook. 
+He told us that in the first printing someone at the printery looked at
+his diagram of the Earth with a magnet inside and N and S labeled, and saw
+that S was at the top. Thinking this was wrong, they turned it upside down
+so N was at the top. Now it happens that N and S are letters which look
+nearly the same inverted. No one noticed until the copies were printed. 
+Careful examination of the Roman capitals' serifs showed that the N and S
+were upside-down. Later printings corrected the error. I have copies of
+both printings.
+
+This leads to an interesting joke. Print a label for a package, using
+Swiss font, saying "up (arrow up)  dn (arrow down)" Use lower case for
+"up" and "dn", and use actual arrows where I've indicated. Put it on the
+package, and whichever way they sit the package, it will read as if it is
+correct. The abbreviation "up" inverts to "dn" and vice-versa with
+non-serif fonts. 
+
+	-- Donald
+
+.....................................................................
+Dr. Donald E. Simanek                            Office: 717-893-2079
+Professor of Physics                                FAX: 717-893-2048
+Lock Haven University of Pennsylvania, Lock Haven, PA. 17745
+dsimanek@eagle.lhup.edu                 http://www.lhup.edu/~dsimanek
+.....................................................................
+
+
+
+
+*****************************************************************************
+
+Date: Tue, 05 May 1998  9:05 -0600
+From: "Quist, Oren               Phys" <QuistO@mg.sdstate.edu>
+To: phys-l@atlantis.uwf.edu
+Subject: RE: south in the north
+
+Hans:
+Thank you for the support.  I have thought for a long time that I was the   
+only one claiming the "north" and "south" wells on the re-magnetizer were   
+labeled wrong.
+
+It is very easy to check.  Just put a current through a wire close to a   
+compass and one can see clearly that the "N" marked compass pole is   
+indeed its north pole.
+
+the "north-seeking" verbiage does nothing more than confuse the issue.   
+ North is north, and south is sourth, and the magnetic south pole of the   
+earth is in the northern hemisphere.
+Oren Quist, SDSU
+
+
+
+
+*****************************************************************************
+
+Date: Wed, 6 May 1998 11:05:12 -0400 (EDT)
+From: "Prof. John P. Ertel (wizard)" <jpe@nadn.navy.mil>
+To: list physics teaching <phys-l@atlantis.uwf.edu>
+Subject: Re: south in the north
+
+On Sun, 3 May 1998, William Beaty wrote:
+> 
+> Here is last week's ASK MARILYN column in the sunday paper Parade section. 
+> I've not complained as yet. The email address is marilyn@parade.com
+> 
+> > WHY DOES THE NORTH END OF A COMPASS NEEDLE ALWAYS POINT NORTH?  IF LIKE
+> > POLES REPEL (AND UNLIKE POLES ATTRACT), SHOULDN'T THE NORTH END POINT
+> > SOUTH INSTEAD?
+> >
+> > The north pole of a compass needle DOES point south.  It's the
+> > "north-SEEKING" pole that points to the Earth's magnetic north.  So the
+> > end of the compass needle marked N (for north) is actually the south
+> > pole of the compass needle.  This is supposed to avoid confusion!
+> 
+
+Sorry that I have been delayed in answering this one, but we are preparing
+a final and I was up against the stops.  Bill Beaty is a much more
+forgiving person than I am, I guess.  To me, this kind of "Bovine
+Scatology" (as Stormin' Norman so elegantly put it during Desert Storm) is
+exactly what makes all our jobs as teachers that much harder.  I find it
+presumptuous, in the extreme, for someone to make such statements without
+at least checking with someone in physics.  A little humility here would
+help this lady immensely.
+
+When it comes to science, I simple can't afford an ego.  I'd rather have
+someone else's correct information than any of my best musings (no matter
+how carefully I think I have thought them out).  Accordingly, just in case
+it was me that had it all backwards, I checked with a number of
+colleagues, including a very pleasant gentleman in the "Magnetic Effects"
+branch of NIST (formerly NBS, and I still can't get used to the name
+change).  The accepted standard is that the "north pole" of a compass
+needle is defined to be at its North Magnetic Pole and marked as such;
+i.e., this is "the pole from which lines of magnetic flux emanate" (boy,
+those folks at NIST sure know how to talk).  From this, it must follow
+that the North Geographic Pole of our earth is a South Magnetic Pole.*
+
+Of course, Marilyn may have been trying to point out that the names
+"north" and "south" are interchangeable as they are purely a convention.
+However, the convention has already been well adopted!  The "north named
+pole" or a magnetic body (such as a compass needle, a bar magnet, or a
+current carrying solenoid) is the one which to an external observer
+appears to be a "source" of lines of magnetic induction; while the "south
+named pole" is the one which appears to be a "sink".  If we look also at
+the internals of the magnetic body, we see that the field lines are
+continuous.
+
+
+* Actually, as every Boy Scout knows, "the best average location of the
+maximum influx of magnetic field" on our earth (read: our North Magnetic
+Pole) is not exactly at our North Geographic Pole but rather some distance
+south.  This fact together with local variations is what leads to the
+"declination" and "variation" corrections which may be necessary
+(depending on the accuracy required) to properly run a navigation or
+orienteering problem.
+
++=================================+
+
+ERTEL SENDS.
+                             /^\-/^\
+                            /       \
+                           |    *    |
+                           |#########|
+                   ===========================
+                     / Prof. John P. Ertel \
+                    /  veteran Eagle Scout  \
+                   /   & Marine Path Finder  \
+       +==================================================+
+       |   jpe@nadn.navy.mil   or   jpertel@BigFoot.com   |
+       | Physics Department, 9C     Office : 410-293-6657 |
+       |   Michelson  Rm-338           DSN :     281-6657 |
+       |    572 Holloway RD            FAX : 410-293-3729 |
+       |  U. S. Naval Academy     Research : 410-293-2759 |
+       | Annapolis, MD 21402-5026     Home : 410-757-6618 |
+       +==================================================+
+
+
+
+
+
+*****************************************************************************
+
+Date: Tue, 05 May 1998 21:53:31 -0600
+From: Jim Green <JMGreen@sisna.com>
+To: phys-l@atlantis.uwf.edu
+Subject: North/South
+
+For the life of me (That is not very good grammar is it?), I can not see
+why you guys are making this so difficult.  The north end of a compass is
+called the north pole of the compass because it points North!!!  Or at
+least nearly North.  It really points toward northern Canada, because of
+mineral deposits there.  Only Canadians are able to explain this weirdness.
+ The French Canadians understand this weirdness best..
+
+The first person to notice this phenomenon was my friend Herbie.  He used
+to live in a region called Magnesia in what is now called Turkey.  The
+region is called Magnesia because there are lots of weird rocks there --
+also called magnesia.  When the cows eat the grass in this region they
+produce milk called Milk of Magnesia.
+
+Well, one day this friend of mine, Herbie, also weird, suspended one of
+these weird rocks from a thread (I told you he is weird.) and noticed that
+it always pointed north.  He called the end of the rock which always
+pointed North "north" -- because it pointed North.  He decided to go into
+business making boxes with suspended magnesia rocks,  the north end of
+which always pointed North (He called the end which pointed North the north
+end -- because it always pointed North.)  He calls these boxes compasses --
+and he makes a lot money selling them to mariners and others.  If you want
+to buy one of these boxes, I can arrange it -- for a small fee, of course.
+Or, for that matter (or any other matter), I do have a few shares of stock
+in his company left to offer. 
+
+Now it is true that much later, long after Herbie started his business, it
+was discovered that like magnetic poles repel, so that the place in Canada
+where the compass points must be a south magnetic pole.
+
+Now back to the French Canadians: Because the south magnetic pole is not
+centered at the north geographic pole, the axis of the Earth's magnetism
+does not coincide with the geographic pole axis.  And this  is why the
+Earth wobbles and why there are tides.  I admit that this does not
+translate from French very well.
+
+Well, OK, his name is not Herbie -- I have changed his name to protect the
+innocent -- but the rest is absolutely true -- well mostly true.
+
+Jim Green (This is only an alias)
+JMGreen@sisna.com
+

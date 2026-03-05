@@ -1,0 +1,79 @@
+       The prism/rainbow error in grade-school science books
+                     W. Beaty  7/4/96 
+
+I noticed a misleading part in my explanation.  It is impossible to
+split and then recombine colors with two IDENTICAL prisms.  If two
+DIFFERENT SHAPES of prism are used, it is still impossible to combine the
+colors back into a white ray, but there is a way to focus the colors all
+into one spot, so they can be recombined upon a white screen. 
+
+The prism stuff is a bit hard to discuss without graphics.  Look at this:
+
+      WHITE            |\
+ ---- LIGHT > ---->----|--\____
+      RAY              |    \ ===-----_____
+                       |      \   ---____  -----_____       
+                       |________\        ----____
+                         prism                   ----
+
+The white ray goes through the prism and is converted into a spreading
+stripe of colored light.  In order to mix the colors together into a white
+ray, their spreading must be reversed so that they concentrate to a point.
+And then right at that point, the spreading must be cancelled out, so that
+they all move together and form a white ray again.
+
+But just one prism can SPREAD the colors, no?  Shouldn't it be able to be
+run in reverse?  If it can fan them out, it should be able to un-fan them
+again.  Yes, this is partly true.  If a second prism is placed opposite
+the first, it reverses the spreading effects caused by the first.  But the
+colors have been spreading for awhile.  After they have spread, a second
+identical prism can change their angles back to zero again, but this
+simply makes the colored rays travel parallel.  They are still separate
+colors, but no longer spreading. 
+
+      WHITE            |\
+ ---- LIGHT > ---->----|--\____                 _________
+      RAY              |    \ ===-----_____     \        |
+                       |      \   ---____  -----__\______|______Red end
+                       |________\        ----____   \    |
+                         prism 1                 ---- \__|______Violet end
+                                                        \|
+                                                     prism 2
+
+The above is true of identical prisms.  What if we are allowed to use
+different shapes of prism?  See below.
+
+        |\                                                      ||
+--->----|--\____                 _________________              ||
+        |    \ ===-----_____     \                /    ____-----*|
+        |      \   ---____  -----__\___________ /__----___---   ||
+        |________\        ----____   \        /  ___---         ||
+          prism 1                 ---- \____/----               ||
+                                         \/                  WHITE
+                                      prism 2                SCREEN
+
+The first prism splits the white ray into spreading colors.  The second, 
+thicker prism not only stops the spreading, it reverses it entirely so 
+that the colored rays approach each other.  No white beam is created. 
+However, they do come together at one particlular place.  If a white 
+screen is put right there, the colors will combine to form white.  If the 
+screen is placed too far or too close to the prisms, the "white" spot will 
+be missed and colors will appear on the screen.
+
+One final thing.  If we put two identical prisms together as below, we do
+get a white light ray. But this is cheating, since it doesn't recombine
+the colors. It prevents them from being separated in the first place.
+
+                        _________ prism 2
+      WHITE            |\        |
+ ---- LIGHT > ---->----|--\------|------->-----
+      RAY              |    \    |
+                       |      \  |   
+                       |________\|
+                         prism 1
+
+(((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))
+William J. Beaty                            SCIENCE HOBBYIST website
+billb eskimo com                            http://amasci.com
+EE/programmer/sci-exhibits   science projects, tesla, weird science
+Seattle, WA

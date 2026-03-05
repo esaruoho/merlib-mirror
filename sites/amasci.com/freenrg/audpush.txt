@@ -1,0 +1,76 @@
+From: jameshartman@tsrcom.com
+Date: Aug 26 1996
+
+                                    AUDIO1.ASC
+       --------------------------------------------------------------------
+          The following appeared in the prestigious Electric Spacecraft
+          Journal - Issue #8, Published May 3, 1993. Page 40.
+
+                               ÚÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄ¿
+                               ³ Information from  ³
+                               ³ Charles A. Yost   ³
+                               ³Dynamic Systems Inc³
+                               ³ 73 Sunlight Drive ³
+                               ³Leicester, NC 28748³
+                               ÀÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÄÙ
+
+                   After James Hartman described making a loud-
+                   speaker levitate (ESJ#6, page 43), I decided to
+                   see if a loudspeaker could produce a net thrust.
+                   Apparently it can. I used a ten-inch diameter,
+                   eleven- pound Altec woofer suspended in pendular
+                   fashion by a pair of 38-inch long strings.
+                   (See Figure 1.) A constant 20 to 40 Hz high
+                   amplitude sine wave input didn't cause the
+                   slightest movement. However, quick pulsing of
+                   the sound in this frequency range was able to
+                   cause the woofer to swing in pendular fashion.
+                   The amplitude of the swing could be progressively
+
+                   ______________
+               3   ^     |
+               8   | <-- | -->
+               1/2"|     |   /|  air flow
+                  \ /    | /  |
+                  ---    ÛÛ   | ÄÄÄÄÄ>
+                           \  |
+                       11 lb.\|
+
+                   Figure1. Speaker suspension
+
+
+                   increased if the sound pulses were timed to
+                   occur as the speaker was swinging through
+                   center. The maximum amplitude was about 1/2
+                   inch. The voice coil chamber of the speaker
+                   was about three inches in diameter and two inches
+                   deep with a 3/4-inch central hole through which
+                   the air pulsed. A fine thread on a small stick
+                   allowed the airflow to be distinguished.
+                   (See Figure 2.) It is my thought that a very
+                   transient sound pulse sets up a brief unbalanced
+                   air flow and projects the equivalent of a smoke
+                   ring away from its face. Is there an equivalent
+                   electrostatic pulse phenomenon?*
+
+                   |
+                   |       /|
+                   |     / /             Inward
+                   |   /  /              Pulsed
+                   ÛÛßßN /               air flow
+                   Ûß___.        . .   . .
+                   ÛÛ  S .    ---> .---> .---> ---->
+                   ÛÛ  S .       ..    .. Outward
+                   Ûß___.                 pulsed
+                   ÛÛ  N\                 air flow
+                   ÛÛÜÜ  \
+                       \  \
+                         \ \
+                           \|
+
+                   internal construction
+
+                   Figure 2. Speaker Design
+
+
+

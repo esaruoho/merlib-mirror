@@ -1,0 +1,1067 @@
+<html>
+<head> 
+<title>high voltage misconceptions: static electricity</title> 
+<base href="http://amasci.com/" >
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" >
+<link rel="prev" href="/emotor/statelec.html" >
+
+<link rel="canonical" href="http://amasci.com/emotor/stmiscon.html" />
+
+<meta name="google-translate-customization" content="c3ed531053d636c5-1d98312485736f8d-g564ee6842740dee4-a" ></meta>
+<meta http-equiv="keywords" content="electrostatic,esd,static,electricity,
+electric,mistakes,textbook,textbooks,misconceptions,conceptions,student,
+meme,memes,atp,synthase,mtor,electrostatic" >
+</head>
+
+<body bgcolor="#ffffff" > 
+
+
+<table summary="nav links, google search window" width=100% height=75><tr>
+<td>
+<center>
+<TABLE cellpadding=0 summary="Navigation" ><TR>
+<TD ALIGN="CENTER" ><b><font size=2>
+<a href="/ele-edu.html" >ELECTR. ARTICLES</a>&nbsp;&nbsp;| </font></b><br></TD>
+<TD ALIGN="CENTER" ><b><font size=2>
+<a href="/emotor/statelec.html" >STATIC ELECT.</a>&nbsp;&nbsp;| </font></b><br></TD>
+<TD ALIGN="CENTER" ><b><font size=2>
+<a href="/unew.html" >GOOD STUFF</a>&nbsp;&nbsp;| </font></b><br></TD>
+<TD ALIGN="CENTER" ><b><font size=2>
+<a href="/news.html" >NEW STUFF</a>&nbsp;&nbsp;| </font></b><br></TD>
+<TD ALIGN="CENTER" ><b><font size=2>
+<a href="/search.html" >SEARCH</a></font></b><br></TD>
+</TR></TABLE></center>
+</td>
+<td summary="google search" align=right valign=top>
+<div id="google_translate_element" ></div>
+<script type="text/javascript" >
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout:google.translate.TranslateElement.FloatPosition.TOP_LEFT, gaTrack: true, gaId: 'UA-101029-1'}, 'google_translate_element');
+}
+</script>
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit" ></script>
+<div>
+<script>
+  (function() {
+    var cx = 'partner-pub-6310699831332590:m1ib2jl3jyf';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:searchbox-only></gcse:searchbox-only>
+</div>
+</td></tr></table>
+
+
+<table  summary="main text content" width=100%><tr>
+
+<td width=18  summary="google ads" valign=top align=left>
+
+</td>
+<td summary="spacer" width=15>&nbsp;</td>
+
+<td summary="static electricity article" width=800><font size=4>
+<h2>"STATIC ELECTRICITY" MISCONCEPTIONS<br>
+&nbsp; <font size=3>&nbsp;1996 <a href="/me.html" >William J. Beaty</a> BSEE</font></h2> 
+
+
+<blockquote> <code>Some elementary science textbooks contain subtle errors
+which pose barriers to students' understanding.  "Static Electricity" is
+one subject which is rife with mistakes.  Since the errors in textbooks 
+seem to act like "viruses" which can "<a href="/miscon/germ.html" >infect"  our minds</a> , I hope
+that the following discussion will act as a sort of "antivirus." (grin!)  
+It should help those who read this webpage, and with luck my article might
+utilize some of the same rumor-dynamics as the viruses.  These ideas might
+take off and spread through the elementary education population, and
+"immunize"  large numbers of people against these particular
+misconceptions.  So, please feel free to print this out and pass it to
+everyone you know!  Don't miss <a
+href="/miscon/elect.html" >OTHER ARTICLES</a></code>
+</blockquote>
+
+<table summary="two columns, shortcut links" width=100%><tr>
+<td summary="links to various misconceptions" width=500><font size=4>
+
+<h2>THE MISCONCEPTIONS:</h2>
+<ul>
+<li><a href="/emotor/stmiscon.html#one" >'Static Electricity' is electricity which is static? </a>  No.
+<li><a href="/emotor/stmiscon.html#eleven" >Circuits use Current Electricity, not 'static?'</a> Nope.
+<li><a href="/emotor/stmiscon.html#two" >Friction causes 'static electricity?'</a>  Wrong.
+<li><a href="/emotor/stmiscon.html#nine" >'Static electricity'  has nothing to do with<br> High 
+Voltage?</a>  That's backwards.
+<li><a href="/emotor/stmiscon.html#three" >'Static electricity' is a buildup of electrons?</a>
+<li><a href="/emotor/stmiscon.html#four" >Neutral objects have no charge?</a>
+<li><a href="/emotor/stmiscon.html#five" >'Electricity' energy?</a> Nope.  Joules aren't Coulombs.
+<li><a href="/emotor/stmiscon.html#six" >'Charging' a capacitor fills it with charge?</a>
+<li><a href="/emotor/stmiscon.html#twelve" >We don't use 'Static electricity' for anything,</a>
+<br>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="/emotor/stmiscon.html#twelve" >since it's too weak and feeble?</a>  Not ...exactly.
+<li><a href="/emotor/stmiscon.html#eight" >'Static' is a useless and rare event: sparks &<br>
+dryer-cling?</a>
+<li><a href="/miscon/eleca.html#clouds" >Clouds are charged by rubbing together?</a>
+<li><a href="/emotor/stmiscon.html#seven" >Ben Franklin's kite was struck by lightning?</a>
+<li><a href="/emotor/stmiscon.html#ten" >Electrostatics" is the study of electricity at rest?</a>
+</ul>
+<br>
+
+</font></td>
+<td summary="spacer" width=20>&nbsp;</td>
+
+<td summary="links to other articles here" valign=top width=400><font size=4>
+
+<h2>MORE:</h2>
+<ul>
+<li><a href="/emotor/vdgbook.html" >Books about static</a>
+<li><a href="/static/what_is_static.html" >What *IS* Static Electricity</a>
+<li><a href="/emotor/zapped.html" >Eliminating painful sparks</a>
+<li><a href="/miscon/elect.html" >Electricity Misconceptions</a>
+<li><a href="/elect/elefaq.html" >Frequently-Asked Electricity Questions</a>
+<li><a href="/miscon/whatis.html" >What *IS* Electricity?</a>
+<li><a href="/miscon/ele-map.html" >Map of 'electricity'</a>
+<li><a href="/emotor/statelec.html" >Electrostatic Articles</a>
+<li><a href="/ele-edu.html" >All Electricity Articles</a>
+</ul>
+
+</font></td></tr></table>
+
+
+
+<pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</pre>
+
+</td>
+
+<td width=15></td><td valign=top summary="goog ad">
+AD<br><br>
+
+</td>
+<td></td></tr></table>
+
+
+
+<table summary="main text content" width=100%><tr>
+<td width=18  summary="google ads" valign=top align=left>
+
+</td>
+<td summary="spacer" width=15>&nbsp;</td>
+
+
+<td summary="the misconceptions" width=800><font size=4>
+
+<hr>
+<br>
+<a name="one" ></a>
+<br>
+<h3>"STATIC ELECTRICITY" IS ELECTRICITY WHICH IS STATIC?<br>  NO!</h3>
+
+Instead, 'static electricity' is a collection of different electrical 
+phenomena; phenomena where...
+
+<ul><li>
+The amounts of positive and negative <a 
+href="/redgreen.html" >electric charge within a 
+material</a> are not perfectly equal.
+</ul>
+
+<ul><li>Where <a href="/emotor/voltmeas.html" >
+voltage is high</a> and <a href="/miscon/ele-map.html" >current is low.</a></ul>
+
+
+<ul><li>Where electrical forces (attraction and repulsion) are seen to
+reach across space.  Widely spaced objects may attract or repel each other. 
+Hair might stand on end!  </ul>
+
+<ul><li>Where electric fields (as opposed to magnetic fields) become very
+important.  (Electric fields are also called "electrostatic fields" or
+"e-fields."
+</ul>
+
+
+Electrostatics is about "charge," and about the attract/repel forces which
+electric charge creates.  The motion or the "staticness" of the charges 
+are 
+irrelevant.  
+After all, the same forces continue to exist even when the charges start 
+flowing.
+And charges which are separated or imbalanced can sometimes flow along,
+yet the "static" effects are undiminished when the current begins. In
+other words, it's perfectly possible to create <i><b>flows</b></i> of
+so-called "static" electricity.<br><p>
+
+It's very misleading to concentrate on the "staticness" of the charges. 
+It derails our explanations and hides many important concepts such as 
+charge separation, the density of imbalanced pos/neg charge, and the 
+presence of voltage fields surrounding the imbalanced charges.  These 
+things are important even when the "static electricity" begins moving 
+along as a current.  
+<br><p>
+
+Electrostatics is not about "staticness," instead it's about charge and 
+forces.<br><p>
+
+Imagine if water was explained just as badly as "static electricity." In 
+that case, most people would believe in two special kinds of water called 
+"static water" and "current water."  We'd wrongly insist that 
+"hydrostatics" was the study of static water.  In that case, only the 
+hydraulics expert would realize there's no such thing as "static water."  
+Only the experts would realize that the so-called "static" water is really 
+just pressurized water.  The experts would also know that "static water" 
+can even flow along, since pressurized water need not remain still or 
+"static."  Hydrostatics still applies to water when it begins to flow.  
+In a similar way, "static electricity" has everything to do with 
+pressurized charge, and nothing to do with "electricity at rest."<br><p>
+
+Here's another problem with the usual "static electricity" concept.  
+First, think 
+about
+everyday matter.  Down inside its atoms, everyday matter contains equal
+numbers of positive and negative charges (Protons and Electrons) which are
+very close together.  Are these charges the "static electricity?"  After 
+all, they're static and unmoving, right?  They sit there inside each atom.  And
+each individual electron and proton carries a charge of "static
+electricity."  Shouldn't we say that physical matter is partly MADE out of
+"static electricity?"  <br><p>
+
+But if we say that matter is made out of "static," then
+where are the sparks, where are the
+rising hair and crackling noises?  There aren't any, and this shows that
+the "staticness" is not an important factor.  Instead, the most important 
+factor is the balance of opposite charges.  Inside matter, the positive
+and negative charges are <i>close together</i>, and so their effects
+cancel out.  Even though matter is full of charges which are "static" and
+unmoving, there is normally no "static electricity" to be seen.  It's 
+about IMBALANCE between opposite charges, not about staticness.  Also, the
+presence of charged particles is not such an important factor, since
+matter is full of them, even when no "static electricity" appears.  We
+need separated, imbalanced particle populations before interesting things
+start to happen.  Just having charged particles is not enough.
+<br><p>
+
+How can we fix the confusion?  Easy.  Don't call it "static," instead call
+it "charge imbalance."
+
+It's the <i>net electric charge</i> which is important.  Or put more
+simply: it is the <i>separation</i> between positive and negative
+particles which is the basis for "static electricity."  When quantities of
+protons are separated from electrons across a large distance, then we'll 
+get sparks and rising hair.  Call this "electric charge", not "static charge,"
+since the imbalance remains the same even when the charges flow along very
+non-statically. <br><p>
+
+Whenever these opposite charges in matter are sorted out and separated
+into groups of positive and negative, then we say that "static
+electricity" has been generated.  What does this have to do with the
+charges remaining still or static?  Nothing!  In fact, if the charge
+imbalance can be made to flow along, it will still retain all of its
+unusual characteristics.  It will still attract hair and lint, and cause
+sparks, etc., even while it is flowing.  This puts us into the ridiculous
+situation of talking about "Static Electricity" ...which moves!  It's
+unfortunate that the term "static electricity" has become so widely
+adopted as the name for the phenomena.  If it had been called something
+else, "imbalanced electricity"
+for example, it wouldn't be nearly as misleading.  It's easy to
+think about
+an <i>imbalance</i> which moves or stays still.  But it's impossible to
+visualize an <i>unmoving</i> substance which <i>flows</i>.  And it's even
+more unfortunate that textbooks have widely adopted the misleading
+practice of stating that "static electricity is electricity which is
+static and unmoving."  This is a lie, and is no less a lie when many
+textbooks say the same thing.  Reality is not determined by majority vote. 
+No matter how many people agree otherwise, the Emperor's Clothes remain
+missing.<br><p>
+
+What we call "Static electricity" also has another name: "high voltage."  
+All of the familiar electrostatic phenomena which we encounter in everyday
+situations always involve <a
+href="/emotor/voltmeas.html" >voltages above 1,000V</a>,
+and ranging up to around 50,000 volts at the most.  If it attracts lint or
+raises hair, it's definitely over 1,000 Volts.  Rub a balloon on your
+head, and you generate tens of thousands of volts!  This is voltage
+without a current.  Here's a way to think about it:  pure electric current
+involves a current with zero voltage, while pure "electrostatic" phenomena
+involve electrical voltages with zero current.  Scuff your feet on a
+carpet and you create a voltage difference of many thousands of volts
+between your body and the carpet.  Study "static electricity" and you
+study voltage itself.<br><p>
+
+It would be wonderful if the term "Static electricity" could be removed
+from the English language and replaced by "High Voltage Electricity."  Or
+possibly by "Separated Charge," or "Charge Imbalance," or "The Science
+Called Electrostatics."  This won't happen anytime soon, since the mistake
+is too deeply ingrained in books and teachers, and in the minds of the
+public.  The best solution is to have everyone stay aware of this issue. 
+Try to avoid using the terms "Static Electricity" and "Static Charge." 
+And very definitely do not TEACH that "Static" and "Current" are opposite
+kinds of electricity. After all, charge imbalances still are 
+"imbalances" even when they stop being static and they flow during an 
+electric current.  <br><p>
+
+Also,
+charge-flow and charge-imbalance can happen in the same wire at the same
+time.  Therefore, anyone who believes that "static"  and "current" are two
+types of opposite, mutually-exclusive electricity, those people will 
+forever remain hopelessly confused about the true nature of any electrical 
+phenomena.
+<br><p>
+
+Also see:
+<ul>
+<li><a href="http://web.archive.org/web/2009*/http://www.ce-mag.com/archive/2000/janfeb/mrstatic.html"  rel="nofollow" >Is static electricity "static?"</a>
+</ul>
+
+
+
+</font></td><td>&nbsp;</td></tr></table>
+
+
+<table summary="main text content" width=100%><tr>
+
+
+<td summary="continued article" width=800><font size=4>
+
+<hr>
+<a name="two" ></a> 
+<h3>"STATIC ELECTRICITY" IS CAUSED BY FRICTION?<br>  WRONG.</h3>
+
+"Static" electricity appears whenever two dissimilar insulating materials
+are placed into intimate contact and then separated again.  All that's required
+is the touching.  Chemical bonds are formed when the surfaces touch, and
+if the atoms in one surface tend to hold electrons more tightly, that
+surface will tend to steal charged particles from the other surface 
+immediately as they touch.  This causes the surfaces to become oppositely 
+"charged";
+they acquire imbalances of opposite polarity.  One surface now has more
+electrons than protons, while the other has more protons than electrons. 
+When the surfaces are later separated, the regions of opposite
+charge-imbalance also get separated.<br><p>
+
+For example, when <a href="/emotor/sticky.html" >adhesive tape</a>
+is placed on an insulating surface and then peeled off, both the tape and
+the surface will become electrified. No friction was required.  
+<br>
+
+Another example: when a thin material passes between rollers, sometimes
+the material becomes electrified.  The rollers become oppositely
+electrified.  For example, when newspaper passes between rubber rollers in
+a printing press, the paper becomes electrified and later on this can 
+cause problems with cling and sparking.  This situation in a large 
+newspaper press inspired
+Robert <a href="/emotor/vdg.html" >VandeGraaff</a> to
+design his famous generator. <br><p>
+
+Friction is not required. 
+However,
+if one of the materials is rough or fiberous and does not give a very
+large footprint of contact area, then the process of rubbing one material
+upon another can greatly increase the total contact area.  Friction may
+also remove thin layers of oil or oxide, allowing the two differing 
+materials to actually touch each other.  So, the peeling tape does not 
+require friction in order to generate
+charge-imbalance, but the hair does need to be rubbed by the balloon.  Yet
+the rubbing is not the cause of electrification, electrification can come
+about purely from contact.  The term "Frictional electricity" is 
+misleading.  I try to instead use the terms "Contact Electricity" or 
+"Electrification by Contact," or "separation of charge," or "creating
+charge imbalance."<br>
+<hr>
+
+<a name="three" ></a> 
+<h3>"STATIC ELECTRICITY" IS A BUILDUP OF ELECTRONS?<br> NOT EXACTLY.</h3>
+
+It is not a buildup of anything, it is an IMBALANCE between quantities of
+positive and negative particles which existed beforehand.  Matter is 
+essentially made of electricity, of electrons and protons.  The electric
+particles were already there; they did not have to build up.  The charging 
+process is an
+"un-cancelling," it's an event which occurs between the large quantities 
+of 
+oppositely-charged particles which were already present in matter. Contact
+electrification is more like "stretched atoms" than anything else.  If we
+could take some atoms and pull their electrons far away from their
+protons, we would have created an imbalance of charge or "static
+electricity." <br><p>
+
+It's true that during "frictional electricity" or contact electrification,
+it's *usually* only the negative electrons which are moved from one
+surface to the other.  But this transferring of electrons then results in
+two areas of imbalanced charge, not one.  As negative particles are pulled
+away from the positive particles, the positives and negatives are no
+longer near each other and are no longer are able to cancel each other.
+Because of this, equal and opposite areas of imbalanced charge are always
+created during the un-cancelling.  If you take away a neutral object's 
+electrons, you leave its protons exposed.   And if electrons are no longer 
+near the protons, then the negative electrons are also exposed.  For a 
+visual demonstration of
+this, see my <a href="/redgreen.html" >Red/Green 
+electricity article.</a>
+<br><p>
+
+Note well that although the negative charges did the moving, this doesn't 
+mean the 
+positive charges are unimportant!  Before the charges were separated,
+there were equal quantities of positive and negative charges present
+together within the materials.  The positives null out the negatives, and 
+the negatives null out the positives.  After the separation of the charges 
+is
+complete, the positive charges are just as important as the negative.  In
+one place you'll have more protons than electrons, and this place will
+have an overall positive charge.  In the other spot you'll have more
+electrons than protons, for an overall negative charge in that region. 
+You've not caused
+a "buildup of electrons", you've caused an imbalance, an un-cancelling, a
+stretching-apart, a separation of opposites which otherwise would cancel
+each other.  In fact, one appropriate term for static electrification is
+CHARGE SEPARATION.  Think for a moment: if you put the positive and
+negative imbalances back
+together, where does the "buildup of electrons" go?  Nowhere, there was no
+buildup there in the first place.
+Putting the two polarities of charge back together
+eliminates the imbalance and forms normal uncharged matter again.  <br>
+
+<hr>
+
+<a name="nine" ></a> <h3>ON THE CONTRARY, EVERYDAY 'STATIC ELECTRICITY' INVOLVES IMMENSE VOLTAGES.</h3>
+
+When two insulating surfaces are adhered (or rubbed) together, two
+opposite regions of imbalanced charge appear.  When these surfaces are
+later pulled away from each other, a very strong "electric field" appears
+between them, and this e-field can raise hair, attract lint, etc.  In
+addition, this e-field is an example of pure voltage, or voltage without
+current.  The strength of this e-field is incredibly large when compared
+to the voltage of batteries and of common electronic circuitry.  It is
+many
+thousands of times stronger, sometimes hundreds of thousands of times
+stronger.  Everyday "static electricity" involves immense voltages.  The
+tiniest "static spark" is caused by about 1000 volts.  Longer "car door
+sparks" and "doorknob sparks" can involve as much as 10,000 volts.  For
+more info, see:
+<ul>
+<li> <a
+href="/emotor/voltmeas.html" >Measuring the "Static
+Electricity" on your body</a>
+<li><a href="/emotor/zapped.html" >Car-door sparks, electric people</a>
+</ul>
+
+<hr>
+
+<a name="four" ></a> 
+<h3>ACTUALLY, ALL NEUTRAL OBJECTS ARE <i>MADE</i> OUT OF CHARGE</h3>
+
+We always talk of matter as if it only had passing relation to electrical 
+effects.  Yet if we look in detail into the nature of matter, we find 
+physical substances, made of molecules, made of atoms, made of positive 
+and negative electric charge.  Matter is not electrical?  No, quite the 
+opposite: electric charge is the major component of all atoms.  Therefore 
+matter is <i>*made out of cancelled electric charge.*</i> If we cancel out 
+some opposite charge by placing positive charge together with negative 
+charge, do we get <i>nothing?</i>  No, instead we get material 
+substance.  
+Positive protons plus negative electrons equals neutral atoms.  Physical 
+objects normally have no charge?  Wrong.  The physical objects *are* the 
+charge.<br><p>
+
+
+
+<hr>
+<a name="five" ></a> <h3>ELECTRICITY IS ENERGY?  WRONG.  <br>
+ACTUALLY "ELECTRICITY" DOES NOT EXIST!</h3>
+
+The term
+"electricity" is a catch-all word with many meanings.  Unfortunately these
+meanings are contradictory, and this leads to the unsettling fact that
+there is no single substance or energy called "electricity."  And the
+problem is not as simple as having different <i>kinds</i> of electricity.
+Instead, we wrongly use the word "electricity" to name completely
+different classes.  When we say "quantity of electricity," we could be
+talking about quantities of electrons or quantities of electrical energy.
+...or quantity of potential, or amount of forces, fields, net charge, 
+current,
+power, or even talking about types of electrical phenomena or fields of 
+science.  All of
+these are found under the definition of the word "electricity."  This is a
+major mistake, it's like saying that miles, pounds, and degrees are
+measures of the same single "stuff."  And can you have a cup full of 
+"weather" or a bucket of "geology?"  Part of this problem would 
+vanish
+if we used the word "electricity" only to designate a field of science or
+class of phenomena; in the same way we use the words "physics" or
+"optics."  In that case Electricity would be a thing like "Biology."  We 
+do use it this way occasionally.  But then we immediately 
+turn around and do the equivalent of teaching our kids that "optics" is a
+substance which comes out of light bulbs, or that cars can move
+because they are filled with "physics"!  That's exactly how we misuse the 
+word "electricity," and we do it constantly.<br><p>
+
+See: <b><a href="/miscon/whatis.html" >What is Electricity?</a></b>
+<br><p>
+
+Here are a few examples of errors caused by the contradictory meanings. 
+
+<ul><li> WELL, JUST EXACTLY WHICH ONE OF THEM IS REALLY THE "ELECTRICITY?":<br> 
+In AC 
+electric circuits the *charges* sit in one place and wiggle back and 
+forth, but the *energy* moves continuously forward.  This is analogous to 
+the way that sound in air moves continuously forward, while the air itself 
+just wiggles back and forth.  By applying contradictory definitions to the 
+the term "electricity," we teach that electricity (charge) sits in one 
+spot in the wires and wiggles, but at the same time electricity (energy) 
+moves forward rapidly.  Garbage!  How can anyone possibly understand 
+this?!  It's like saying that sound and wind are the same thing!  And the 
+error is directly traceable to the bogus, contradictory "electricity" 
+concept.<br><p> </ul>
+
+<ul><li> Another: There are two forms of electricity, positive electricity
+and negative electricity.  NO, the two forms of electricity are static 
+electricity and current. 
+NO, there are many forms of electricity: triboelectricity, bioelectricity,
+myoelectricity, piezoelectricity.  NO, there is only one electricity, the
+form of energy called Electromagnetism.  NO, electricity is the flowing of 
+the energy,
+haven't you ever heard of "watts of electricity?"  <br><p>
+</ul>
+
+
+...Which one of the above is right?  All of them.  And none, because the 
+word "electricity" has more than one contradictory definition, and the 
+experts cannot agree which one is correct, is the scientific definition.  
+None are right, since there is no "electricity"  which can be the quantity 
+of charge, amount of energy, and phenomena all at once.  And yet all the 
+contradictory uses of "electricity" are correct in a way, because the word 
+"electricity" is commonly used to name all these different things, and 
+<i>dictionaries support this.</i> Volts of electricity. Amperes of 
+electricity.  Kilowatt-hours of electricity.  Watts of electricity. 
+Coulombs of electricity.  It's all totally meaningless and confusing when 
+taken together, yet it's inextrictably entwined in hundreds of textbooks, 
+dictionaries, and encyclopedias.  The solution?  Never speak of Static 
+Electricity, instead discuss charge separation or high voltage effects.  
+Say "amperes of electric current", not amperes of electricity.  Say 
+"kilowatt-hours of energy", and "coulombs of charge", and "Watts of 
+power."  To greatly imporve the clarity of your explanations, simply don't 
+mention 'electricity' at all.
+
+<hr>
+<a name="six" ></a>
+
+<h3> 'Charging' a capacitor fills it with charge? No.  <a 
+href="/emotor/cap1.html">Capacitors store
+electric charge?</a>  WRONG!<br>
+Wrong because 'charged' and 'uncharged' capacitors <i>actually contain 
+the exact same amount of charge.</i></h3>
+
+The word "charge" has more than one contradictory meaning,
+so if you're using it, you're probably creating misconceptions. "Charge" 
+refers to several things: to net-charge, to quantities of charged
+particles, and to "charges" of energy.  
+</ul>
+
+<ul><li> For example, even when a metal object is totally neutral, it 
+contains vast quantities of movable electrons. You can imagine that all 
+metals are soaked with a sort of "electric fluid" made of negative 
+particles which are wandering among the "solid" positive copper ions.  If 
+copper is like a wet sponge, then the sponge is the protons in the atom 
+nuclei, and the water is the movable electrons.<br><p>
+
+On the other hand, since the positives and negatives cancel, could we say 
+that wires contain no charge at all?  Or should we say the opposite: that 
+they contain immense quantities of charge because they are constructed 
+from electrons and protons?  Are they "charged" because they're partly 
+composed of "liquid" electric charges, or are they "uncharged" because 
+they contain exactly equal quantities of opposite charges ...which all 
+cancels out?<br><p>
+
+Which is 'right?' I don't know the answer.  Maybe it's better to abandon
+the word "charged", and use other, less misleading terms.  Don't say
+"charged", say "electrified."  Speak of "charge imbalance" and "the
+cancelled charge within all matter."  That removes the contradictions. 
+</ul>
+
+<ul><li>
+Another: if I place an electron and a proton together, do I have twice as
+much charge as before, or do I have a neutral hydrogen atom with no charge
+at all?  What I DO have is confusion.  Conflicting use of "charge" makes
+descriptions of electric circuits seem complex and abstract, when the
+explanations are really just wrong.</ul>
+
+<ul><li> Another: electric currents in wires are a motion of *neutralized*
+charge, so if you teach that a wire is uncharged, and also teach that
+current is a flow of charge, how can anyone make sense of a situation
+where a wire has no charge at all, yet contains an enormous flow of
+charge?  This situation arises everywhere in electric circuits, and so the
+confusion is spread everywhere too.  </ul>
+
+<ul><li> Another: when you charge a capacitor or a battery, you move
+charges
+from one plate to the other inside the device, and the device as a whole
+contains exactly the same charge whether it's "charged" or not.  When
+speaking of "charging" batteries or capacitors, we've suddenly started
+to talk about energy rather than charge, and a "charged" battery has quite 
+a bit more energy
+than an uncharged battery.  Yet it contains exactly the same net-charge,
+and contains the same quantity of + and - particles.  Before being
+"charged," a capacitor is neutral, and no matter how much "charge" you put
+into it, the capacitor remains neutral overall.  One plate is positive, 
+but the other plate is equally negative, so the capacitor's total charge 
+never changes.  In a capacitor, for every electron
+you remove from one plate, you inject an electron into the other plate, so
+none are gained or lost from the device.  Capacitors and batteries are
+"charged" with
+energy, not with electric charge.  This concept is very important for
+gaining a solid
+understanding simple circuitry, yet we rarely teach it specifically
+because the way is blocked by the misleading term "charge."  Those rare people
+who figure it out become experts.  But it's not hard to be an expert when
+nearly universal confusion rules a field of study.<br> </ul>
+
+<hr>
+<a name="eight" ></a>
+<h3>'STATIC' IS RARE?  NO.  <br>
+IN FACT, 'STATIC ELECTRICITY' IS ACTUALLY AS COMMON AS MATTER</h3>
+If you believe typical explanations of "static electricity", you will
+come to see "static" as a fairly rare phenomena that has little connection
+with the rest of the world.  Yes, yes, lightning is impressive, and
+copiers and laser printers are convenient, but if "static" didn't exist,
+the world wouldn't be much different, would it?<br><p>
+
+In fact, electrostatics is a <i>bit</i> more important than we commonly
+assume.  Contrary to popular belief, standard "electric current" circuits
+are deeply connected with electrostatics.  For one thing, it is the
+electrostatic force that drives electric current!  "Voltage" is an
+electrostatic phenomena, voltage is electrostatic fields.  Without
+electrostatics, there could be no voltage, hence no current and no 
+electrical devices. It is
+totally wrong to build a false wall between "Static" and "Current", it's
+as silly as teaching that "pressure"  and "movement" are two separate
+types of water.  "Static" and "Current" are two fields of study, not two
+substances or energies.  They are subject areas which were created
+entirely by humans, they don't *really* exist separately in the real
+world.<br><p>
+
+"Static electricity" is important in many other places besides lightning,
+photocopiers, and doorknob sparks.  For example, your muscles are driven
+by long-chain molecules which are forced to slide across each other.  This
+sliding is performed by electrostatic attraction and repulsion between
+parts of the molecule, and so your muscles are electrostatic motors!  They
+are "linear motors", as opposed to the rotary electrostatic "pop bottle"
+motor found elsewhere on my website.<br><p>
+
+Another example: nerves function as tiny capacitors, with charge
+pumps to electrify them, and ion gates to discharge them.  Imagine a
+nerve as being a long tubular "Leyden Jar" having billions of tiny
+"VandeGraaff generators" scattered across its surface, and with billions
+of "spark gaps" which always close in sequence as the nerve impulse
+travels forward. 
+<br><p>
+
+Another one: when Uranium atoms are hit by neutrons and their nuclei
+split, the main source of released energy is the repulsion between
+alike-charged positive protons in the fragments of the nucleus.  Therefor,
+nuclear reactors release the <i>electrostatic</i> energy of uranium
+nuclei.  A plutonium bomb is actually a "static electric" repulsion
+bomb!<br><p>
+
+Another: when dissimilar materials touch, charge is separated.  When
+dissimilar semiconductors touch, we get "contact potential", a microscopic
+electrostatic phenomenon which makes numerous devices possible: LEDs,
+solar cells, thermocouples, ...and diodes, transistors, computers, radios,
+television, internet, etc.  Semiconductor electrostatics is essential to
+modern electronics.<br><p>
+
+Another: one type of transistor in particular, the FET or "field effect
+transistor", is purely an electrostatic device.  Electrostatic fields
+within it are used to open and close the conductive channel which
+regulates current.  See "<a href="/emotor/chargdet.html" >Charge Detector</a>" for some suggested experiments. 
+Are these sorts of transistors rare?  No.  Every single transistor in the
+memory, CPU, and IO chips of modern PCs are FET transistors.  Most of the
+transistors in modern TVs and stereos are FETs.  Few people realize that
+"static electric" devices have taken over the electronics industry, or
+that PCs are made from microscopic electrostatic components, or
+that all the data in all the computers all over the world is stored 
+as tiny patterns of electrostatic charges.<br><p>
+
+"ATP" is the fuel which drives living things, from bacteria to humans. 
+One part of the 1997 Nobel prize in chemistry was awarded to the
+researchers Boyer and Walker who discovered how energy is placed into ATP. 
+It turns out that ATP is assembled by an enzyme which is run by a tiny
+rotating electrostatic motor!  The "spring" in each ATP is "cocked" by a
+little rotating molecular machine run by electrostatics.  The reaction is
+reversible, and ATP can drive the motor, changing it into an electrostatic
+generator.  A
+typical human body contains around 10^16 of these rotary electrostatic
+motors.<br><p>
+
+A big one next.  The world is molecules.  And molecules are atoms, and
+atoms are themselves composed of positive and negative charged particles. 
+Atoms are held together by electrostatic attraction.  If matter is made of
+little dots, then the "bars" that connect all the dots together are made
+of
+electrostatic fields.  Also, atoms are connected to each other through
+chemical bonding, and chemical bonding is based upon electrostatic
+attraction/repulsion forces.  Without "Static Electricity" there would be
+no chemistry, no living things.  Without "Static Electricity", solids and
+liquids would be gas, the
+molecules of the gas would fall apart into atoms, and the atoms would turn
+into
+separate electrons and nuclei.  Without electrostatics, the entire
+universe would be a boring, featureless cloud of neutral-particle gas.
+Some people consider electrostatics to be boring.  On the contrary,
+electrostatics is the very thing that lets this universe be an interesting 
+place!
+<br><p>
+
+<hr>
+<a name="ten" ></a>
+<h3>NO, ELECTROSTATICS DOES NOT INVOLVE "ELECTRICITY AT REST."</h3>
+
+First let's look at an analogy which might help clear up our thinking.
+
+Within the science of Hydraulics there are sections called Hydrodynamics
+and Hydrostatics.  Hydrostatics is the study of fluid pressure and forces.  
+It's not the study of static water, it's the study of water pressure.  
+When pressurized pipes are swelling, or when a piston is driving water
+ahead of it, those are situations involving Hydrostatics.  If you draw 
+maps of the distribution of pressure upon a surface, that's 
+"Hydrostatics."
+<br><p>
+  
+Does Hydrostatics involve water at rest?  No, because fluid forces still
+exist even when water is moving.  Just because water starts flowing, that 
+doesn't mean that hydrostatic pressure must vanish.  Does Hydrostatics 
+involve a special kind of water called "Static Water?"  No, that's just 
+silly.  "Static water" is a field of science otherwise known as 
+Hydrostatics.  Hydrostatics is not a stuff!
+<br><p>
+
+OK, now look at the science called "Electricity."  It has sections called
+"Electrodynamics" and "Electrostatics."  Is Electrostatics the study of
+non-moving electricity?  First think about Hydrostatics before you try to
+answer this question. <br><p>
+
+As you suspect, Electrostatics is similar to Hydrostatics: it is the study 
+of electric forces and the Electric Charge which creates those forces.  It 
+is the study of imbalanced charges in matter, and of voltage and electric 
+fields.  Notice that I didn't say anything about "charges at rest." 
+This is intentional, since electrostatic forces don't go away when the 
+charges start flowing in a current.  And while electric voltage 
+falls under the heading "Electrostatics," electric voltage is 
+intimately involved with flowing charges.  (Analogy: water pressure 
+is intimately involved with water flow.)
+<br><p>
+
+Is there a kind of electricity called "static electricity?"  No.  That's 
+just silly.  It's just as silly as believing in a special kind of water 
+called Static Water.   There's a field of science called electrostatics or 
+"Static Electricity," but there's no such stuff as "Static."
+<br><p>
+
+Where did this crazy misconception about "motionless charges" come from?  
+There are hundreds, perhaps 
+thousands of books which blatantly state "Electrostatics is the study of 
+charges at rest."  How can they say such things?  I have a good idea.
+Look at the difference between Hydrodynamics and Hydrostatics.  
+Hydrostatics <i>ignores the changing parts</i> and concentrates only on 
+the fluid
+and the distribution of forces.  On the other hand Hydrodynamics 
+<i>ignores the unchanging parts</i>;
+it studies changing or "dynamic" events like fluid
+flow patterns, turbulence, etc.
+<br><p>
+
+If we became slightly confused, we might decide that hydrodynamics was
+all about moving water while hydrostatics was only about motionless water.  
+It's an
+easy mistake.  Yet it's a serious one, since the actual difference between
+"statics" and "dynamics" is something made up by human minds, not
+something that really exists out in the real world.  It has almost nothing
+to do with water's movement.  For example, if I look at a river and I 
+ignore the flowing water while only observing the fluid forces, then I've 
+made that moving river become a "Hydrostatic" system.  If Hydrostatics was 
+REALLY about 
+motionless water alone, then I couldn't think about common Hydrostatic 
+topics such as the pressure in a moving 
+river or the forces applied by curving flows. <br><p>
+
+Back to electricity again:  "statics" and "dynamics" are viewpoints, and 
+they have almost nothing to do with motionless or flowing charges.  I can 
+look at a flashlight and, if I concentrate on voltage and electrical 
+forces while ignoring electric current, I can transform it into an 
+"electrostatic" device with my mind. "Electrostatics" is a way of 
+thinking; a kind of viewpoint.  It's a field of science.  If I thought it 
+was REALLY about "charges at rest", it would mentally damage me as an 
+engineer.  I'd no longer be able to understand common Electrostatic 
+situations such as the forces driving electrons across a TV tube, or the 
+voltage fields within the acid of a car battery. I'd end up with little 
+understanding of Voltage at all.  I'd end up thinking that the entire 
+topic of Electrostatics was about Ben Franklin and about fur rubbed upon 
+balloons, and I'd wrongly ignore it as useless historical stuff.  I'd 
+never know that electrostatics was actually the study of voltage.  I'd end 
+up crippled in my understanding of electricity, and I'd never quite know 
+why.
+
+<br><p>
+
+<br><p>
+
+
+<hr>
+<a name="eleven" ></a>
+<h3>ELECTRIC CIRCUITS HAVE NOTHING TO DO WITH "STATIC ELECTRICITY?"<br>  
+WRONG.</h3>
+
+Electric currents are caused by voltage, and the voltage in a circuit is 
+caused by the imbalances of charge which are present on the surface of the 
+metal wires.  "Static electricity" is what makes circuits operate!  
+Without the "static electricity" supplied by batteries or generators, 
+modern electrical devices could not exist. This shouldn't be a big 
+surprise, since voltage and electrostatics are intimately intertwined.  
+<br><p>
+
+Here's another way to think about it: when you 
+rub some fur on plastic, you generate many thousands of volts, while 
+common batteries only generate a few volts.  But both of these create 
+surface charge imbalances.  And both create electrostatic attraction and 
+repulsion forces.  It's the electrostatic forces which drives the charges 
+through the wires in a circuit.  Electric currents are pumped by "static 
+electricity."<br>
+
+See also: <a href="https://matterandinteractions.org/wp-content/uploads/2016/07/circuit.pdf" rel="nofollow" >Unified Treatment of Electrostatics and Circuits</a>, Chabay and Sherwood, 1999 (.pdf)
+
+<br><p>
+
+
+<hr>
+<a name="twelve" ></a>
+<hr>
+<h3>'STATIC ELECTRICITY' IS TOO WEAK AND FEEBLE TO BE USEFUL?  WRONG.</h3>
+
+Some authors tell us that "static electricity" is much weaker than 
+batteries and normal electric generators.  They say that 'static' is 
+only able 
+to raise hair, or it can slightly repel some pieces of aluminum foil.  
+Wrong!  Electrostatic force is not inherently weaker than magnetic force.  
+But they do have a point.
+<br><p>
+
+First of all let's make one thing clear:  <b>all motors</b> involve
+"static electricity."  After all, voltage and surface-charge is the cause
+of electric currents, so all electric circuits and all electric motors
+are based on "static electricity."  So what do they really mean when they
+say that static electricity is weak and feeble?  <br><p>
+
+They're actually talking about the attraction of opposite
+electric charges, versus the attraction of opposite magnetic
+poles.  They're talking about the difference between coil motors which
+use magnetic fields, versus capacitor motors which use electric fields.  
+Conventional coil motors are powerful because their electromagnet coils
+can strongly push or pull against magnets or other coils.  But if we
+build a motor using <a ref="/emotor/emotor.html" >charged
+aluminum foil,</a> that motor will be quite feeble.
+
+<br><p>
+
+But wait a minute!  That's wrong, since magnetism isn't inherently more
+powerful than electric force.  Don't forget that electric force is what 
+holds solid steel together.  Magnetism can even be feeble. The first
+magnetism motors were invented by Michael Faraday, and they were
+incredibly feeble.  It took many years before anyone figured out how to
+construct powerful magnetic motors.  First, they had to ignore the 
+weak magnetic forces
+made by electric currents and liquid mercury, and instead invent the
+electromagnet coil.  Then the inventors had to stop trying to build 
+motors
+with flywheels turned by crankshafts with magnet pistons.  Instead 
+<a href="http://en.wikipedia.com/wiki/Z%C3%A9nobe_Gramme" rel="nofollow" >they
+discovered</a> how to use small rotating coils wrapped by larger coils.  
+Modern electric motors are extremely powerful, but they're very different
+than Faraday's original feeble motor discovery. <br><p>
+
+Ben Franklin invented the first motor which used electric charges that
+attract and repel.  His "Franklin wheel" was extremely feeble, just as
+feeble as the "Soda-bottle Electrostatic Motor."  Scientists and
+inventors eventually built much better capacitor motors.  They used
+interleaved stacks of metal plates rotating in a vacuum chamber.  These
+motors are as powerful as coil/magnet motors, but they're too expensive.
+Also they require very high voltage rather than high current.  For these
+reasons you can't buy a one-horsepower capacitor motor, while 1HP coil
+motors are cheap and common. <br><p>
+
+So make an honest comparison between 'static electricity' and batteries
+and generators, we must compare the force between two charged metal
+plates with the force between two current-carrying wires.  Both forces 
+are quite feeble.   But there are ways to build powerful motors which are 
+based upon coils *or* capacitors.
+
+<br><p>
+<br><p>
+
+
+<hr>
+<a name="seven" ></a>
+<h3>BEN FRANKLIN'S KITE WAS STRUCK BY LIGHTNING?  NEVER HAPPENED.</h3>
+
+Many people believe that Ben Franklin's kite was hit by a lightning bolt,
+and this was how he proved that lightning is electrical.  A number of
+books and even some encyclopedias say the same thing.  They are wrong.  
+They have fallen victim to an infectious myth, an "urban legend of
+science" which is slowly spreading to more and more books.  When lightning
+strikes a kite, the spreading electric currents in the ground can kill
+anyone standing nearby, to say nothing of the person holding the
+string!<br><p>
+
+Franklin wrote about "drawing down the lightning" from a thunderstorm. 
+What he actually did was to show that a kite would collect a tiny bit of
+imbalanced electric charge out of the sky during the early parts of a
+thunderstorm, before lightning strikes became a danger. Feeble electric
+leakage through the air caused his kite and string to become electrified,
+and the hairs on the twine stood outwards.  Twine is slightly conductive
+on a humid day, and the twine served as Franklin's "antenna wire."  The
+twine was then used to electrify a metal key, and tiny sparks could then
+be drawn from the key. (A metal object is needed because sparks cannot be
+directly drawn from the twine.  The twine is slightly conductive, but not
+conductive enough to allow sparking.)  No noise, no big flash, just boring
+yet earthshaking science experimenting.  The presence of sparks suggested
+to Franklin that some stormclouds carry strong electrical charges, and it
+IMPLIED that lightning was just a large electrical spark.<br><p>
+
+The common belief that Franklin easily survived a lightning strike is not
+just wrong, it is dangerous: it may convince kids that it's OK to
+duplicate the kite experiment as long as they "protect"  themselves by
+holding a silk ribbon with a key tied in the middle.  Make no mistake,
+Franklin's experiment was extremely dangerous.  He could have been killed
+at any moment, and if lightning had actually hit his kite, today he would
+be regarded as a colonial politician who was killed by stupidity, not as a
+famous scientist who founded a major new research area.  
+
+<hr>
+<a name="whatis" ></a>
+<h2>OK, so what IS Static Electricity?!!!</h2>
+
+<blockquote> 1. <b>Static electricity is a field of science.</b> Some
+people call it "Electrostatics."  Same thing.<br> 
+
+So, if Static Electricity is a kind of science, then it can't be made by
+generators.  In a similar way, you can dissect a dead frog, but you'll
+never find any biology.  And rocks don't contain any tiny pieces of
+"geology."  Remember: hydrostatics is the study of fluid pressure,
+Newtonian Statics is the study of physical forces, and Static Electricity
+is the study of charge, voltage, and electrical forces.  Where can we find
+static electricity?  In physics books... and in buildings at the
+University! </blockquote>
+
+<blockquote>
+2. <b>Static electricity is a set of events which humans have grouped 
+together.</b><br>  
+
+Sparks and lightning are "static electricity," even though sparks and
+lightning are about the most dynamic things imaginable. Also, "dryer
+cling" is static electricity.  The cling effect, THAT is the electricity.  
+After all, "electricity" can mean "a class of phenomenon,"  and having
+your socks stick to the back of your sweater is certainly a phenomenon.  
+Where does static electricity come from?  From human minds:  same as with
+"weather" and "bureaucracy" and other classes of phenomenon. </blockquote>
+
+<blockquote>
+3. <b>Static electricity is another word for high voltage.</b><br>
+
+Whenever we have high voltage, then we also have electrostatic attraction 
+and repulsion.  High voltage can attract lint or tiny bits of paper, and 
+it can make hair stand up.
+With high voltage we also get long sparks, crackling noises, and blue 
+glows and flashes.  High voltage makes ozone; the stuff that gives that 
+funny chlorine smell.  These things are the hallmarks of Static 
+Electricity, but they are never caused by the "static-ness" of 
+electric charges.  Instead they 
+are caused by intense e-fields.  Intense e-fields are another way of 
+saying "high votlage."  If you can scuff your shoes on the carpet and then 
+zap people with your finger, then you've been charging your body to 
+several thousand volts. </blockquote>
+
+<blockquote>
+4.<b>Static Electricity means an imbalance of electric charge</b>
+<br>
+Electrically neutral matter contains closely-spaced electrons and protons.  
+The "positives" and the "negatives" are very close together, so their 
+effects <a href="/redgreen.html" >cancel out.</a>  That's 
+why electrical phenomena don't seem obvious in 
+the everyday world.  But if we accidentally remove a bunch of electrons 
+from their atoms, then put these electrons in a distant spot, we'll create 
+a region of positive net charge.  We'll also create an equal region of 
+negative net charge.  These imbalances of charge will surround themselves 
+with intense e-fields. </blockquote>
+
+<blockquote>
+5.<b></b><br>
+</blockquote>
+
+
+
+<pre>
+
+
+</pre>
+
+</font></td><td>&nbsp;</td></tr></table>
+
+
+
+
+
+
+<center>
+<font size=3>
+<a href="/emotor/stmiscon.html" >
+http://amasci.com/emotor/stmiscon.html</a><br>
+
+Created and maintained by <a href="/billb.html" >Bill Beaty</a>.  <br> 
+Mail me at: <a href="/amfrm/" > <img border=0 width=141 height=19 
+src="/graphics/abc.gif" ></a>.
+
+<br>
+</center>
+
+<center>
+<!-- Start of StatCounter Code for Default Guide -->
+<script type="text/javascript">
+var sc_project=10408414; 
+var sc_invisible=0; 
+var sc_security="00267183"; 
+var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript><div class="statcounter">
+<a title="shopify stats" href="http://statcounter.com/shopify/" target="_blank">
+<img class="statcounter" src="http://c.statcounter.com/10408414/0/00267183/0/" alt="shopify stats"></a></div></noscript>
+<!-- End of StatCounter Code for Default Guide -->
+<a href="http://statcounter.com/p10408414/?guest=1">View My Stats</a>
+</center>
+
+
+</font>
+</body>
+</html>
+

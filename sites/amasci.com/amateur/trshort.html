@@ -1,0 +1,336 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>SCIENCE HOBBYIST: how transistors work, an alternate viewpoint</title>
+<base href="http://amasci.com/">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" >
+<link rel="prev" href="/amateur/transis.html" >
+
+<link rel="canonical" href="http://amasci.com/amateur/trshort.html" />
+<meta name="google-translate-customization" content="c3ed531053d636c5-1d98312485736f8d-g564ee6842740dee4-a"></meta>
+ <meta http-equiv="keywords" content="transistor,electricity,explanation,lilienfeld">
+</head>
+
+<body bgcolor="#fff0e8">
+
+<table summary="site nav" width=100% height=75><tr valign=top>
+<td><center>
+<TABLE cellpadding=5 summary="Navigation links"><TR>
+<TD ALIGN="CENTER"><font size=2>
+<a href="/amateur/transis.html">MAIN TRANSISTOR ARTICLE</a>
+</font></br></td>
+<TD ALIGN="CENTER"><font size=2>
+<a href="/unew.html">GOOD STUFF</a><br></font></TD>
+<TD ALIGN="CENTER"><font size=2>
+<a href="/news.html">NEW STUFF</a><br></font></TD>
+<TD ALIGN="CENTER"><font size=2>
+<a href="/search.html">SEARCH</a><br></font></TD>
+</TR></TABLE></center>
+<td summary="google search" align=right valign=top>
+<div id="google_translate_element" ></div>
+<script type="text/javascript" >
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout:google.translate.TranslateElement.FloatPosition.TOP_LEFT, gaTrack: true, gaId: 'UA-101029-1'}, 'google_translate_element');
+}
+</script>
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit" ></script>
+<div>
+<script>
+  (function() {
+    var cx = 'partner-pub-6310699831332590:m1ib2jl3jyf';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:searchbox-only></gcse:searchbox-only>
+</div>
+</td></tr></table>
+
+<table summary="main text" width=100%><tr>
+<td bgcolor="#FFF0E8" width=170 summary="google ad" valign=top>
+<pre>
+
+
+
+
+
+
+
+</pre>
+<script type="text/javascript"><!--
+google_ad_client = "pub-6310699831332590";
+google_ad_width = 160;
+google_ad_height = 600;
+google_ad_format = "160x600_as";
+google_ad_type = "text_image";
+google_color_border = "FFF0E8";
+google_color_bg = "FFF0E8";
+google_color_link = "000000";
+google_color_url = "666666";
+google_color_text = "333333";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+<pre>
+
+
+</pre>
+<script type="text/javascript"><!--
+google_ad_client = "pub-6310699831332590";
+google_ad_width = 160;
+google_ad_height = 600;
+google_ad_format = "160x600_as";
+google_ad_type = "text_image";
+google_color_border = "FFF0E8";
+google_color_bg = "FFF0E8";
+google_color_link = "000000";
+google_color_url = "666666";
+google_color_text = "333333";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js">
+</script>
+
+</td>
+
+
+<td summary="spacer" width=15>&nbsp;</td>
+
+<td summary="transistor article" valign=top width=800><font size=4>
+
+
+<center>
+<h1>How Do Bipolar Transistors Work?<br>
+<font size=3>&copy;2003  William J. Beaty</font></h1>
+</center> 
+
+<b>EXCESSIVELY SHORT VERSION</b><br> 
+
+<blockquote> <p>A transistor is essentially a diode.  In diodes, the rate 
+of charge flow is determined by the height of the potential barrier at the 
+junction.  It's voltage controlled: place the right polarity of voltage 
+across the diode terminals to turn it on.  But a transistor a very weird 
+diode:  if you turn it on with 0.7V placed across two terminals here, then 
+the main diode current goes through a totally <i>different</i> terminal 
+over there!  Vbe determines Ic (as well as Ib.)  When Bell Labs had an 
+informal contest to name their new invention, one engineer pointed out 
+that it acts like a resistor, but a resistor where the input voltage is 
+transferred across the device to control the resulting current.  A 
+"Transfer Resistor" or "Trans-sistor."<br></p>
+
+<p>
+ALSO:<br>
+
+&nbsp;&nbsp;- <a href="/amateur/cap1.html">
+How capacitors REALLY work</a><br>
+&nbsp;&nbsp;- <a href="/ele-edu.html">
+How electricity really works</a> articles index<br>
+</p>
+
+</blockquote>
+<br>
+<hr>
+
+<h3>LONGER, MORE DETAILED SHORT VERSION...</h3>
+
+- Seen from outside, Bipolar Transistors look like current amplifiers.  
+Engineers and technicians can treat transistors as if they are current 
+amplifiers.  That's fine as long as we're viewing the transistor as a 
+sealed 3-wire component: a small black box.  But inside, transistors are 
+actually voltage amplifiers. (Most non-physics books get this wrong.)  In 
+fact, transistors are like diodes: they're voltage-controlled insulators.  
+[Those who disagree can start by investigating the physics behind the 
+Ebers-Moll and Gummel-Poon models, or by referring to Horowitz & Hill's 
+book THE ART OF ELECTRONICS, or even see what author 
+<a href="http://en.wikipedia.org/wiki/Talk:Bipolar_junction_transistor/Archive_1#Winfield_Hills_Response" rel="nofollow" >W. 
+Win Hill himself says when people insist that BJTs are "current 
+controlled."</a>  Here's some <a href="http://cr4.globalspec.com/comment/720033/Re-Voltage-vs-Current" rel="nofollow" >more Win 
+Hill on CR4 forum</a>, and even <a href="http://cr4.globalspec.com/comment/720374/Re-Voltage-vs-Current" rel="nofollow" >more</a>.
+And his <a 
+href="http://books.google.com/books?id=bkOMDgwFA28C&printsec=frontcover#v=onepage&q&f=false" rel="nofollow" >textbook AOE</a>,
+partial preview on google books.<br><p>
+
+- Overall, bipolar transistors act like a thin layer of insulator. The
+thickness of the insulating layer can be electrically altered in order to
+control electric current.  It's like closing a switch: if we make the
+insulator between the switch contacts thin enough, the transistor turns
+"on."  Make it slightly thicker, and the transistor turns partially on.
+<br><p>
+
+- A bipolar transistor is like three hunks of silicon in a row.  Usually
+it's NPN; two hunks of n-type separated by a hunk of p-type.  
+Doped silicon is a good conductor.  At the places
+where the n-type silicon is touching the p-type, a very thin layer of
+insulator spontaneously appears.  Because the three hunks of silicon are
+normally separated by these insulating layers, an unpowered transistor 
+starts out in the "turned off" state. <br><p>
+
+- In the three hunks of silicon, the center region is called the "Base."  
+One of the side regions is
+called the "Emitter."  By applying a small voltage between Base and
+Emitter, we can make the thin layer of insulator become even thinner.  If
+it's thin enough, it stops insulating, and some charges flow across it. 
+(Imagine
+bringing two wires closer and closer until the electrons start jumping
+across the microscopic gap.) <br><p>
+
+- The transistor's Base/Emitter voltage controls the insulator thickness. 
+This insulator then 
+controls the whole transistor.  A large Base/Emitter voltage will shrink
+the insulating region and turn the transistor on.  A smaller voltage can
+turn the transistor half-way on, and this gives us linear amplifying
+action rather than just purely on-off switching.  <br><p>
+
+- But a transistor is not a simple diode!  Exactly.  There's a the third 
+hunk of
+silicon (the hunk called the "Collector.") And another insulating layer
+appears between Base and Collector.  Since
+it doesn't block the charges coming from the Base, is it even an 
+insulator?   It acts just like an insulating vacuum; it doesn't block 
+charges, but it's insulating because it contains no charges of its own.  
+However, the Base-Collector insulator layer
+does keep the other sections from seeing any effects of the
+large power supply voltage placed between Collector and Base.  Whether the 
+Collector 
+voltage is low or high, we get the same amperage through that insulating
+layer.  Therefore the Base acts as if it is being shielded from the
+Collector.  Yet charges flow right through the insulating region, going
+from Emitter through Base and into Collector.  Therefore the Collector
+acts as if it's NOT insulated from the Base.  Which is it?  Both! <br><p>
+
+- Why do transistors act as amplifiers?  That's simple to explain: <i>all
+valves</i> are amplifiers.  Water valves, air valves, and vacuum tubes are
+amplifiers.  Carbon microphones are amplifiers (paired with a 
+loudspeaker,
+the carbon microphone was the first audio amp, and was placed in long 
+distance
+telephone lines. Thomas Edison made big bucks!)  It takes very little 
+energy
+to open or close a valve, yet this tiny energy controls huge pressures and
+huge flows.  A transistor is like a valve, a valve where a tiny change in
+voltage can open or close the large valve by different amounts.  A small 
+amount of 
+"signal" energy causes the transistor to control the large current which
+is pumped by a battery.  The shape of the output waveform is the same as
+the shape of the input waveform.  We usually say that the signal has been
+"amplified," when really it has been created from the battery's energy.  
+And if battery voltage stays the same, then any changes in charge flow are 
+changes in the output energy flow.  Wattage.  Small watts in, big watts 
+out.  That's
+what amplifiers are all about.  But any valve can do this. <br><p>
+
+- Most transistors are Silicon, and Silicon junctions "turn on" at around
+0.4V to 0.8V.  Place half a volt on the Base of a transistor and the
+transistor barely starts turning on.<br><p>
+
+- But why do so many books say "Transistors Amplify Current?"  Because
+it's an incredibly useful rule of thumb.  It's part of a mental model 
+which treats 
+transistors as black boxes.  The base current can be used to determine the 
+BE voltage, and the BE 
+voltage then sets the collector current's value.  As long as we 
+don't look inside 
+the black box, we can 
+pretend that the charges injected into the base are directly affecting 
+the collector current.  But 
+some misguided authors go farther, they try to use
+current-amplification to explain the stuff inside the box.  Those authors 
+are ignoring the role played by the Emitter depletion layer, and ignoring 
+the role played by Vbe.  They are 
+confused by the leakage current going through the Base wire.  Yes, the
+Base/Emitter voltage controls the thickness of the insulating region and
+thus controls the main transistor current.  But also a tiny bit of charge
+leaks through the Base connection.  It SEEMS like this leakage can
+directly collide against the collector's flowing charges.  <br><p>
+
+
+- It just so happens that the tiny leakage current in the Base connection
+is proportional to the transistor's main Emitter/Collector current.  
+(This makes perfect sense, since both the Base leakage current and the
+main Emitter/Collector current are controlled by the insulator thickness,
+which is set by the Base/Emitter voltage.)  ...so it SEEMS as though the
+Collector current is directly controlled by the Base current.  You can
+even simplify things by pretending that this is true.  But in reality,
+Base current communicates with Collector current via changes in
+Base-Emitter voltage.  It's the Base/Emitter voltage which runs things.  
+You'll never understand "transistor action" and the simple physics inside
+the box if you think that Base current directly controls the Collector
+current.  It doesn't.  The control is there, of course, but it's one stage
+separated. <br><p>
+
+- A bipolar transistor has a voltage-controlled input, while it's output
+is a variable control system which creates a constant current.  It's
+vaguely like a resistor, but where the voltage in one place creates a
+current in a second place ...yet the voltage in that second place does not
+affect the output current.  Change the collector voltage, and the
+collector current remains relatively constant.  It's not like a
+transformer where volts and current are swapped, and where wattage stays
+the same.  In transistors, the effects of voltage are TRANSFERRED to
+another separate path in the circuitry.  "Transfer Resistor."  Transistor.
+<br><p>
+
+<a href="/amateur/transis.html">MAIN, MUCH LONGER ARTICLE</a><br>
+
+
+<p>
+SEE ALSO:<br><br>
+
+&nbsp;&nbsp;- <a href="/emotor/cap1.html">
+How capacitors REALLY work</a><br>
+<br>
+&nbsp;&nbsp;- <a href="/ele-edu.html">
+How electricity really works</a> articles index<br>
+</p>
+
+</font>
+</td><td>&nbsp;</td></tr></table></center>
+
+
+<pre>
+
+
+
+</pre>
+<center>
+<font size=3>
+<a href="/amateur/trshort.html">
+http://amasci.com/amateur/trshort.html</a>
+<br>
+Created and maintained by 
+<a href="/billb.html">Bill Beaty</a>.  Mail me at: 
+<a href="/amfrm/">
+<img border=0 width=141 height=19 src="/graphics/abc.gif"></a>.
+<br>
+</center>
+
+
+<center>
+<!-- Start of StatCounter Code for Default Guide -->
+<script type="text/javascript">
+var sc_project=10408414; 
+var sc_invisible=0; 
+var sc_security="00267183"; 
+var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript><div class="statcounter">
+<a title="shopify stats" href="http://statcounter.com/shopify/" target="_blank">
+<img class="statcounter" src="http://c.statcounter.com/10408414/0/00267183/0/" alt="shopify stats"></a></div></noscript>
+<!-- End of StatCounter Code for Default Guide -->
+<a href="http://statcounter.com/p10408414/?guest=1">View My Stats</a>
+</center>
+ 
+
+</font>
+</body>
+</html>
+

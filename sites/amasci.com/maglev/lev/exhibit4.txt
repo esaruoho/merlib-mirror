@@ -1,0 +1,198 @@
+IN THE UNITED STATES DISTRICT COURT
+DISTRICT OF NEW MEXICO
+
+CREATIVE GIFTS, INC.,
+FASCINATIONS TOYS & GIFTS, INC.,
+and WILLIAM HONES
+
+                Plaintiffs,                           CIV.97 1266 LH/WWD
+v.                                                                      
+
+UFO,
+MICHAEL SHERLOCK,
+KAREN SHERLOCK
+
+                Defendants.
+
+AFFIDAVIT OF HARRY F. MANBECK JR.
+
+DISTRICT OF COLUMBIA            )               
+                                )ss
+WASHINGTON                      )
+
+        I, Harry F. Manbeck, Jr., being duly sworn, hereby depose and say as
+follows:
+        1. I am an attorney-at-law and a former Commissioner of Patents and
+Trademarks for the United States.  My offices are located at 555 13th
+Street, N.W., Suite 701-E, Washington, D.C.  Prior to becoming Commissioner,
+I practiced patent law as an attorney for approximately 35 years, and for
+the last twenty of those years I was General Patent Counsel of the General
+Electric Company.  Since leaving government service I have continued in the
+practice of patent law specializing in litigation consulting and counseling.
+        2. I have considerable experience in patent practice and procedures.
+This experience has included the analysis of many patents involving a wide
+range of technologies.  I am particularly experienced in the analysis of
+patent inventorship, validity, unenforceability and infringement issues.
+        3. Attached as Exhibit 1 is my curriculum vitae.  My standard
+consulting fee which I am receiving for my work in this matter is $415 per
+hour.  No part of my compensation depends upon the outcome of this matter.
+        4. I am familiar with the summary judgment motion filed by
+Defendants in the above captioned action and am submitting this affidavit in
+support of Plaintiffs? opposition to that motion.
+        5. I have reviewed U.S. Patent No. 4,382,245, to Harrigan ("Harrigan
+Patent") and U.S. Patent No. 5,404,062 to Hones et al. ("Hones Patent") and,
+based on all I have seen, have reached the following conclusions.
+        6. The Harrigan Patent discloses and claims a levitation device
+having a dish-shaped lower magnet, with the lower magnet having a concave
+upper surface.  Harrigan Patent, col. 1, lines 29-30; col. 4, lines 50-51.
+The concave surface is disclosed as creating a magnetic field in the shape
+of a cone.  Harrigan Patent, col. 2, lines 5-15, col. 3, line 67 - col. 4,
+line 3.  The Harrigan Patent describes other ways in which the conical field
+may be produced (Harrigan Patent, col. 4, lines 30-38), but the claims of
+the Harrigan Patent are limited to a dish-shaped magnet.  At one point
+during the prosecution of the Harrigan Patent, claims were presented to the
+U.S. Patent and Trademark Office which might be read as covering something
+broader than a levitating device having a dish-shaped magnet.  Those claims
+were canceled.  Therefore, the Harrigan Patent is limited to a levitating
+device having a dish-shaped magnet with a concave upper surface.
+        7. The Hones Patent, on the other hand, is directed to a levitation
+device in which the lower magnet has a substantially planar upper surface in
+which the magnetic field is magnetized normal to the upper surface.  (Hones
+Patent, col. 7, Lines 26-29).  This clearly differentiates the claimed
+invention in the Hones Patent from that disclosed and claimed in the
+Harrigan Patent.  There is no overlap between the claimed subject matter of
+the Hones Patent and the Harrigan Patent.  The Harrigan Patent is clearly
+limited to a levitating device having a dish-shaped magnet with a concave
+upper surface, while the Hones Patent is limited to a levitating device
+having a magnet with a planar (flat) upper surface and a magnetic field
+extending normal to the upper surface.
+        8. I have read the affidavits of Dr. Edward Hones and Mr. William G.
+Hones which explain how the top disclosed and claimed in the Hones Patent
+was conceived and reduced to practice by them.  These affidavits clearly
+establish that Dr. and Mr. Hones were the sole inventors of the claimed
+subject matter of the Hones Patent and that Mr. Harrigan did not contribute
+to the invention.  It is noteworthy that the Hones Patent acknowledges the
+Harrigan Patent as prior art and describes accurately what is described in
+the Harrigan Patent.  Hones Patent, col. 1, line 61 - col. 2, line 12.
+Thus, the patent examiner had before him in his deliberations the Harrigan
+prior art and determined that the Hones invention was patentable over it.
+        9. It is my opinion, which I believe would be concurred in by any
+experienced patent attorney, that the claims of the Harrigan patent do not
+cover the device disclosed and claimed in the Hones Patent, and that the
+claims of the Hones patent do not cover the device disclosed and claimed in
+the Harrigan Patent.  In other words, although the Harrigan device was a
+precursor to the Hones device, and was acknowledged as such in the Hones
+Patent, there is no conflict between the patents.
+        10. There is a procedure provided for in the U. S. Patent Laws
+whereby an interference can be declared if two patents have overlapping
+subject matter.  See 35 U.S.C. §135.  There is no basis here for having an
+interference declared pursuant to U.S. Patent Law.
+        11. I have examined a Levitron® Anti-Gravity Top marketed by
+Fascinations Toys & Gifts, Inc., a Plaintiff in the above captioned action,
+which I have been informed is representative of their product offering.  My
+opinion is that the Levitron® Anti-Gravity Top is covered by the Hones
+Patent but not by the Harrigan Patent.  This is because the Levitron®
+Anti-Gravity Top has a flat lower magnet with a planar surface that cannot
+be considered to be dish-shaped so as to present a concave upper surface.
+        12. I am aware that an attorney representing Mr. Harrigan has
+presented an argument that Mr. Harrigan contributed to the Hones invention.
+In that regard, I have been shown a letter from Mr. Harrigan's attorney to
+counsel for Creative Gifts, Inc., a plaintiff in the above captioned action,
+to which is attached a dialog that is alleged to be an excerpt from a
+transcript of a videotape made by Mr. Harrigan.  The videotape purportedly
+recorded a meeting between Mr. Harrigan and Mr. William Hones in September
+1993.  I am informed that Mr. Hones has  no recollection of such videotape
+being made, and therefore it is possible that the excerpt cannot be
+authenticated.  But even if it could be authenticated, I do not believe it
+would support a claim that Dr. Edward Hones and Mr. William Hones were not
+sole inventors of the device claimed in the Hones Patent.  A scope of a
+patent is determined by its claims.  The videotape excerpts do not evidence
+any contribution by Mr. Harrigan to the claimed subject matter of the Hones
+Patent.  Fairly read, the excerpts confirm that Mr. Harrigan?s concept was
+that, however the lower magnet was formed, it was required that a
+cone-shaped field must be produced.  This is consistent with the Harrigan
+Patent which, in column 4, lines 30-34, points out that the lower magnet
+need not be dish-shaped to produce a field having an equal potential concave
+upper surface and/or lines of magnetization defining a cone.  The videotape
+excerpts are consistent with this statement from the Harrigan patent and, to
+me, confirms Mr. William Hones? affidavit that Mr. Harrigan always
+emphasized the need for a cone-shaped field.  As pointed out above, neither
+the Hones Patent nor the Levitron® Anti-Gravity Top uses a cone-shaped field.
+        13. I have studied the following materials in preparing this affidavit:
+        a.  U.S. Patent No. 5,404,062, to Hones et al, and its prosecution
+file history, specification and claims;
+        b.   U.S. Patent No. 4,382,245, to Harrigan, its prosecution file
+history, specification and claims, as well as U.S. Patent No. 2,323,837, to
+Neal;
+        c.  Excerpts of what is purported to be a transcription of a
+recorded portion of a meeting Mr. William Hones had with Mr. Harrigan during
+September 1993, and the letter from Mr. Harrigan?s attorney to which the
+excerpts were attached;
+        d.  Article from Magnets In Your Future magazine by Les Adam
+entitled "UFO";
+        e.  An article written by defendants on their levitron.com website
+entitled "The Hidden History of the Levitron";
+        f.  An abstract written by Martin Simon and Leo Heflinger entitled
+"Spin Stabilized Magnetic Levitation";
+        g.  An article written by J. M. McBride entitled "A Toy Story: The
+Chemical Relevance of Earnshaw?s Theorem, and How the Levitron ® Circumvents
+It";
+        h.  Affidavits of Dr. Edward Hones and Mr. William Hones prepared
+for submission in support of Plaintiffs? Opposition to Defendants? Motion
+for Summary Judgment; and
+        i.  Commercial embodiment of the Levitron® Anti-Gravity Top marketed
+and sold by plaintiff Fascinations Toys and Gifts, Inc.
+        
+Further affiant sayeth not.
+Date: February 25, 1998         [signature] Harry F. Manbeck, Jr.
+
+Sworn and subscribed to before me this 25th day of February, 1998
+
+                                        [signature illegible]
+                                        Notary Public
+                                        My Commission Expires on January 1, 2000
+
+
+                                ********************    
+
+Biography
+Harry F. Manbeck, Jr.
+
+Harry F. Manbeck, Jr. is an attorney-at-law with offices in Washington, D.C.
+>From March 1990 to May 1992, he was Assistant Secretary of Commerce and
+Commissioner of Patents and Trademarks of the United States.  He was
+nominated to these offices by President Bush on October 11, 1989 and
+confirmed by the Senate on March 9, 1990.
+
+Prior to his government service, Mr. Manbeck practiced patent law for over
+thirty-five years and at the time of his appointment he was General Patent
+Counsel of the General Electric Company.  He joined General Electric in 1949
+and advanced to become General Patent Counsel in 1970, which position he
+held until becoming Commissioner.  Prior to joining the General Electric
+Company, he served in the U.S. Army Signal Corps.  
+
+A native of Honesdale, Pennsylvania, Mr. Manbeck graduated with Highest
+Honors from Lehigh University in 1949 with a B.S. in Electrical Engineering.
+He received his L.L.B. with Honors from the University of Louisville in
+1954.  Mr. Manbeck is a member of the District of Columbia, Connecticut,
+Indiana, Kentucky and Massachusetts bars and is admitted to practice before
+the Court of Appeals for the Federal Circuit.  He is also registered to
+practice in front of the United States Patent and Trademark Office.
+
+Mr. Manbeck has served as Chairman of the Patent, Trademark and Copyright
+Section of the American Bar association; President of the Association of
+Corporate Patent Counsel; a Director of the Intellectual Property Owners,
+Inc.; and a Director of the Bar Association of the Court of Appeals for the
+Federal Circuit.  He is also a member of the American Intellectual Property
+Law Association and the Connecticut Patent Law Association.  In 1984 Mr.
+Manbeck was awarded the Whitney North Seymour Medal of the American
+Arbitration Association for contributions made to the process of arbitration
+in the United States.
+
+Mr. Manbeck is married to the former Julia P. McCarthy and they reside in
+McLean, Virginia.
+
+
+
+
+

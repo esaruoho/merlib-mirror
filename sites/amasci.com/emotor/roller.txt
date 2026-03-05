@@ -1,0 +1,149 @@
+VDG ROLLERS AND COMBS                          (c)1996 William J. Beaty
+
+(See also amasci.com/emotor/vdg.html)
+
+ROLLER MATERIAL
+
+If your VDG only contains a motor, and it does NOT use a separate DC high
+voltage supply, then the surfaces of the two rollers must be composed of
+two different materials, and the materials must not be the same as the
+belt material.  The classic VDG machine uses a rubber belt, a metal
+roller, and a plastic roller.
+
+Polyethelene seems to work OK as the plastic roller when it is used with a
+rubber belt.  If a metal roller is too hard to make, build a wood or
+plastic one, but coat it with aluminum foil attached with contact cement. 
+
+Only the thin surface layer of the plastic roller is important, so it's
+possible to make a roller out of one sort of plastic, and then coat it
+with another type.  Then as far as the comb-charging effect is concerned,
+the VDG machine will "think" that the rest of your roller is made of the
+same material as the coating.  For example, you could make a nonconductive
+wood or polyethelene roller, then wind it with various sorts of plastic
+adhesive tape or paint it with various sorts of plastic-based paints or
+glues in order to find a material which works best. I haven't tried this
+myself yet, so I can't tell you if one sort of tape makes a better roller
+surface than just polyethelene.  Try it and see.  It is possible that
+you'll discover a material which gives a higher generator voltage, or
+works better in high humidity than just plain polyethelene.  Note: I'm not
+sure that a plastic-coated METAL roller will function properly, the metal
+will act as a capacitor plate and cause the e-field of the charged plastic
+to concentrate below the plastic rather than out at the charging comb. 
+
+Another thing I don't have much direct experience with: *plastic* belts
+with rubber rollers.  Since rubber belts are usually hard to obtain, while
+things like garbage bags (cut into rings) should work well, it makes more
+sense to use a plastic belt with a rubber roller.  And surplus sources
+often have parts of photocopiers and laser printers which incorporate long
+rubber rollers having an aluminum core.  Saw the roller to length as
+needed?  And if you're building a VDG from scratch, why not design yours
+with a vertical length which allows easy use of belts snipped as rings
+from unmodified lawn-leaf garbage bags! 
+
+
+ROLLER SUGGESTIONS
+
+  - Polyethelene cylinders from plastic supply company
+  - Plastic water/sewer pipe with end caps
+  - Large wood rods
+  - Stack of wood disks
+  - Metal or plastic turned in a lathe
+  - Coat with alum. foil or nickel paint to make "metal" rollers
+
+More about electrostatic materials:
+
+   The Triboelectric Series
+   http://amasci.com/emotor/tribo.txt
+
+In the above series, choose two materials which are far apart in the list.
+
+ROLLER SHAPE
+
+How can we keep the belt from wandering and falling off the rollers?
+First, the two rollers must be adjusted so they are nearly parallel and
+the belt only drifts sideways very slowly.  The slow drift can then be
+stopped with a secret: make the rollers barrel-shaped.  Belts tend to
+climb up over barriers on the rollers, but they will avoid dropoffs.  The
+roller need not be smoothly curved, just give the ends a big bevel like
+so:        _______________
+         /                 \
+       /                     \
+   ___|                       |___
+      |                       |
+       \                     /
+         \_________________/
+
+You might also experiment with putting a lump in the center of your flat
+roller, for instance by winding it with many turns of electrical tape (or
+whatever material you've chosen for a coating.)  I haven't experimented
+with this myself, but I think it should work.
+
+
+THE COMBS
+
+For the combs I've tried many different things.  I've soldered short wire 
+stubs to the side of a thick wire.  I've tried soldering needles on 
+instead, but it's hard to solder to steel without the proper solder-flux.
+I've used pieces of stranded wire: strip off a couple inches of plastic 
+insulation, spread out the wire, then snip it off flat.   I've used window 
+screen.  Just cut a square of window screen and you end up with needles 
+(but fold over the cut edges, since sometimes the unwanted needles do bad 
+things.)
+
+Usually the combs aren't critical.  All of the above techniques seem to 
+work fine.  It's much more important to get the surfaces of rollers and 
+belts right...   and to make them totally clean and oil-free.
+
+
+
+DOUBLING THE VDG OUTPUT CURRENT
+
+A simple VDG will put imbalanced charge on the belt, transport it to the
+other end of the generator, then route it from the belt through the comb
+to the output terminal.  However, this only uses one half of the belt. 
+Why not have both ends of the VDG place opposite charges on opposite ends
+of the belt?  This will double the output current of the generator, which
+will make it perform better in high humidity, cause spark repetition time
+to be twice as fast, and may even raise the maximum output voltage. 
+
+There is a simple way to accomplish this.  If one roller is plastic, make
+the other VDG roller from metal, and totally insulate all parts of it from
+the rest of the VDG.  In this way the roller will pick up some imbalanced
+charge from the belt, become charged to the same polarity as the belt, and
+will force its adjacent comb to put out twice the normal current.  Rather
+than partially neutralizing the belt charge, the adjacent comb will charge
+the belt with entirely the opposite polarity, and this opposite charge-
+imbalance will take the return path to the other end of the generator.
+
+For example, suppose there is a plastic roller in the base of the
+generator, and an insulated metal roller within the upper sphere.  Frank
+Lee's large VDG kit (see SCIENCE FIRST INC.) employs this method.  Assume
+that the lower roller and comb gives the upwards-moving belt a positive
+polarity.  The inside of the upper hollow sphere behaves as if it is
+grounded, so normally the upper comb will simply act to provide a
+conductive path between the belt and the sphere.  The positive charge
+flows from the belt, to the upper comb, and out to the metal sphere.  As a
+result, the belt surface is almost neutralized.  But if the upper roller
+is not neutral, if instead it is positive, then it will make the comb act
+negative, and will drive extra charge-flow to the comb.  Once the belt has
+passed by the upper comb, the belt surface will be more than just
+neutralized, it will now have a negative charge imbalance.  If the belt
+transports positive charge upwards AND negative charge downwards, then
+total current is doubled. 
+
+The upper metal roller needs to have the same polarity as the incoming
+belt.  It may pick up some charge from the belt on its own.  However, this
+effect can be strengthened if the metal roller is given its own small comb
+upstream from the main comb.  This extra comb will extract charge from the
+belt and guarantee that the roller becomes electrified.  Simple contact
+between metal roller and belt may not supply enough charge to the roller
+to be enough to conquer any surface leakage between the roller shaft and
+other parts of the generator.  A secondary comb makes sure the roller has
+a strong charge.  This small comb must be connected electrically to the
+metal roller.  The metal roller and its small comb must be "floating",
+they must have no conductive connections to any other metal structures.
+In the Frank Lee VDG kit, this small comb is suspended below the metal
+roller within the space created by the two parts of the belt.  The small
+comb extracts charge from the inner surface of the belt as the belt makes
+its way upwards.
+

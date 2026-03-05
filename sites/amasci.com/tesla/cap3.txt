@@ -1,0 +1,232 @@
+Date: Mon, 28 Aug 1995 12:39:29 -0600
+From: Richard Quick <richard.quick@slug.org>
+Subject: CAPACITOR INFO
+
+I just posted several times on the TCBOR rolled plastic
+capacitor. Since the detail of this particular unit was pretty
+well covered, I will focus on other homemade types; the flat
+stacked plate type capacitor, a little on the salt water cap, and
+a little on capacitor theory as it applies to Tesla coils.
+
+I have seen several types of homemade stacked plate capacitors.
+The two types differ as to the orientation of the plate stacks.
+Some are stacked vertically, others are stacked horizontally.
+Before I go into construction details I should cover some of the
+advantages of flat stacked plate caps for use in Tesla coils and
+other high voltage applications.
+
+Flat plate caps have very little inductance. Rolled caps contain
+two or more plates which are tightly rolled up. Rolled plates
+exhibit some properties of coils, they contain a certain degree
+of self-inductance. This limits the size of the rolled cap in
+Tesla applications. As plates grow in size, the self-inductance
+grows, and the caps exhibit self-resonance that will interfere
+destructively with the oscillation of the Tesla tank circuit. The
+rolled cap that I posted about previously is self resonate at
+about 7 megaHertz.
+
+Flat plate caps are better adapted for pulse applications. Rolled
+caps have to discharge a long plate. The further away the open
+end of the plate is from the high current terminal, the longer it
+takes for the cap to discharge. In essence this distance is also
+an extension of the tank circuit wiring, as the plate gets longer
+performance decreases. As the rolled cap gets larger, efficiency
+of pulsing drops off.
+
+Flat plate caps can be constructed to handle higher voltages.
+Rolled caps have efficiency limits in individual units as to the
+breakdown voltage. A single dielectric is used per plate. If
+dielectrics are made thicker, efficiency drops off, if made
+thinner efficiency increases, but they break down. Using standard
+materials, the rolled cap I posted about is at the edge of this
+design limit as well. 
+
+Flat plate caps can be built for larger capacitance. The rolled
+cap, because of the design constraints listed above, won't give
+you much additional capacitance without increases in losses,
+problems with self-resonance, and lowering of the capacitor Q.
+
+The rolled cap that I posted is a good unit. I have built nearly
+20 of these caps, and I use them a lot. But do not look to expand
+much on this design. It has passed through several improvements
+and I really think it is pushing the design limits in all of the
+important areas. Next we need to look at the flat plate cap, as
+there is much to be done yet, but first look at the dielectric.
+
+The best dielectric for homemade Tesla capacitors is low density
+polyethylene plastic. Whether you build rolled, stacked plate, or
+salt water caps you should look hard at this plastic before
+settling on anything else. It has an extraordinarily low RF
+dissipation factor for the cost. The actual "in use" dielectric
+constant on homemade caps using this plastic is right around 2.
+This is a little lower than the book value, but homemade
+applications of this dielectric rarely have the close plate
+bonding that are achieved commercially with clean room vacuum
+presses.
+
+This dielectric melts at 100 deg. C. But because of the very low
+dissipation factor the plastic is subject to very little in-
+ductive heating. There is little loss, therefore little heating.
+When using this plastic however, it is imperative to cover in
+mineral oil to distribute any heat that is formed, suppress
+corona and displace air. Plastic caps not covered in oil are
+almost guaranteed to fail in seconds. Plates, dielectric, and oil
+MUST BE CLEAN!... BTW The cheapest and most common plate material
+is aluminum. In the rolled cap, aluminum flashing is available
+precut in a perfect plate width, and there are other widths
+available. Flat plate caps can use flashing, but it is frequently
+more cost effective to use foil.
+
+Now that we have established a few basics, lets talk plate cap
+design. The first type of flat stacked plate requires the cap be
+pumped down to a pretty hard vacuum to remove air. This is the
+horizontal stacked plate capacitor. Typically these are built in
+a Tupperware type storage box. Plastic, plate, plastic, plate
+etc. are stacked one atop the other to build up the value. The
+breakdown voltage is directly related to the dielectric thick-
+ness used. 60 mil poly sheet is recommended and will have a
+breakdown voltage in the Tesla tank circuit between 11-15 kv
+rms input voltage in pulse discharge applications. This of course
+depends on the quality of material, and the cleanliness of the
+construction.
+
+Once the box is filled, and all parallel plate connections are
+made, high current busses are brought through the lid of the
+container and sealed airtight with hot glue. Then the lid is
+snapped on, and it too is sealed with a bead of hot glue around
+the edges. The next part is important:  A single hole is made in
+the lid for the vacuum connection. A fitting is hot glued into
+the hole and a hose is attached to the vacuum pump. The cap is
+pumped down, then the hose is clamped off and disconnected with-
+out allowing air back into the cap. Submerge the hose in a bucket
+of clean mineral oil and release the clamp. This allows the oil
+to backfill the capacitor, and displaces the air that was
+removed. Once backfilled to normal pressure, I pump them down a
+second time, and repeat the procedure to make sure that all
+trapped air between the plates is removed. Air bubbles will form
+corona hot spots that will cause dielectric failure. 
+
+The vertical stacked plate capacitor is much like the cap I just
+covered. But the vertical cap does not require pumpdown. A tank
+is used to hold the vertically stacked plates and dielectrics.
+The unit I examined was built in a glass fish tank that employed
+no metal in construction. Stiff foam padding was laid in the
+bottom of the tank, and wedged in around the sides of the
+vertical capacitor stack to cushion it and wedge it in place. The
+foam padding also reduced the mineral oil required to cover the
+stack. If foam padding is used it is important that "sponge" type
+padding NOT be used. This padding can release latent air bubbles
+into the capacitor plates. Use a quality "sealed-cell" padding. 
+
+The reason these caps do not require pumpdown is that eventually
+the oil will displace the air trapped in the unit. A break in
+period of low voltage operation assists the removal of trapped
+air, as the pulsing of the cap vibrates the plates and agitates
+the air bubbles. The disadvantage of the unit I examined was the 
+glass fish tank. I have seen plastic waste cans that could be cut
+down for use as a tank in this construction.
+
+Higher Qs, higher voltage, and additional capacitance in stacked
+plate capacitors can be easily obtained. The trick is to use
+thinner dielectric.
+
+The dielectric strength of polyethylene is given as 1000 volts
+per mil, but this is not the case in Tesla coils. The standard
+breakdown voltages of a dielectric are calculated using a static
+DC voltage. When you run AC across the dielectric, the breakdown
+voltage must be divided by two. Then you must figure that the
+peak voltage from a AC sine wave is higher than the rms voltage
+most people go by. You meter won't see it, but your dielectric
+will. Then you have resonate rise in the Tesla tank circuit. To
+give you an idea of resonate rise in a tank, think about the
+tidal forces that can be created with timed pushes in a bathtub.
+It don't take much energy to push water over the side. The same
+principal operates in the tank circuit in a coil, especially with
+a synchronous gap system. The current pulsing back and forth from
+capacitor plate to capacitor plate causes a voltage rise that
+appears on the dielectric in the capacitors. The standard 60 mil
+poly is supposed to hold up to 60,000 volts per the book. I have
+blown holes through 60 mil poly with a 12 kv neon sign xfrmr in a
+Tesla tank circuit and my gap wide open. My pinky finger fit
+inside the hole.
+
+One of the neatest homemade stack plate caps I have seen was
+built by Bill Richards of T.C.B.O.R., the cost was pretty low,
+the materials came from his laundry room, the grocery store, and
+the drugstore. The only thing required was 56 hours of time in
+arranging the plates according to Bill. But he did end up with
+.03 uf 15 kv pulse capacitor in a five gallon bucket. It was
+quite a performer on his coil at 3600 watts!
+
+He shopped around for one gallon ziplock freezer bags with a 3
+mil thickness. With a sharp scissors he cut the ziplocks off of
+the tops of the bags. Then he cut aluminum foil squares that fit
+inside the bag leaving a 1/2" of space around all four sides of
+the plate. So the plate had dielectric borders 1/2" on all sides.
+
+When two bags were stacked on top of one another, there were two
+layers of dielectric, for a total of 6 mils. Being practical,
+Bill figured correctly that the stacked bags would hold up to at
+least 1000 volts rms input in the Tesla tank. He built up stacks
+that had a value of about .45 uf each, with each stack rated at
+1000 volts. Then he wired stacks in series. 
+
+By squeezing fifteen stacks vertically into a bucket, and
+covering the whole thing in about three gallons of mineral oil,
+he got the required capacitance at the required voltage. Since
+the electrical forces are so well distributed among hundreds of
+dielectrics, he had plenty of breakdown safety margin. He gave
+the unit a couple of days to rest after construction, topping it
+up with oil as required, and gave her the works at 15 kv on a big
+coil. The heavy buss wiring never even got warm, and even though
+it bubbled out enough air to displace a few more pints of oil, it
+did not break down.
+
+It turns out that this is a homemade version of commercial pulse
+discharging capacitors. Stacked capacitor sections of very high
+value are placed in series until the proper voltage requirement
+is met. The cap has a very high Q because all of the plates are
+very close together, with a minimum of connections and bussing
+required. They deliver a very sharp pulse discharge.
+
+Bill's cap was pretty cramped in the bucket. Because of the
+square shape of the bags, a rectangular tank would have made
+things easier to fit and wire. But he ran his buss bars through
+the side of the bucket (sealed with hot glue) and by snapping on
+the lid, he could pick it up by the handle and move it around
+with ease.
+
+The novice coiler should think about the capacitor requirements
+and experiment some before beginning large scale homemade caps.
+Shop for materials; frequently a wholesaler can be found where
+bulk products (like mineral oil in 5 gallon pails) can be
+purchased for a fraction of the retail cost. But just because
+you don't have some big bang pulse caps on line does not mean
+that you should wait to begin firing a small coil. Nearly every
+beginner gets hir feet wet in salt water capacitors.
+
+Tesla used salt water tanks in Colorado Springs. A tribute to the
+genius of the man was his ability to develop his huge peak
+powers using low Q saltwater/glass caps. I do not recommend glass
+as a dielectric for coiling work. The dielectric constant is much
+better than plastic, but the RF dissipation factor is so great
+that they can rupture from dielectric heating (even in salt water
+the trapped water under the bottles does not circulate) and they
+always give a spindly, violet colored spark. Polyethylene again
+is the material of choice, and bottles and buckets can be
+assembled in a couple of hours that will fire small stuff. I
+mentioned he before that I have a friend who is firing 5 kVA
+coils, and still using banks of salt water caps to keep his
+investment down. As with any homemade capacitor, the salt water
+must be covered in oil to suppress surface corona. But the
+quality of oil need not be high, and the capacitors need not be
+exceptionally clean. A saturated solution of rock salt is all
+that is needed for the plates.
+
+I think I have accomplished what I intended to say on this
+subject. As always, I am happy to respond on any unclear areas,
+the need for additional information, or to note corrections.
+
+Richard Quick
+
+.. If all else fails... Throw another megavolt across it!  

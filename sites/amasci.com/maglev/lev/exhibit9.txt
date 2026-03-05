@@ -1,0 +1,105 @@
+
+UNIVERSITY OF ROCHESTER 
+SCHOOL OF ENGINEERING AND APPLIED SCIENCE
+DEPARTMENT OF ELECTRICAL ENGINEERING
+[phone, fax, email]
+
+                                                      April 16, 1998
+To whom it may concern:
+
+I have read the recent signed statements by William Hones, Edward Hones,
+Peter Campbell, and others concerning the case that Hones and Hones have
+attempted to construct in justification of their position regarding the
+relationship of the Harrigan invention [1] to their own [2].  In connection
+with this matter, I make the following observations:
+
+1)  Hones and Hones continue to discount as insignificant the importance of
+rotation in achieving levitation of the Levitron TM.  I am surprised by this
+stance, because it is clearly the rotation of the top – not mere design
+details of the base magnet’s configuration – that makes the Levitron TM
+work.  Earnshaw’s theorem is circumvented, and levitation made possible, by
+rotating the top.  Recent statements issued by the Honeses and others must
+not distract us from what is crucial about what makes the Levitron TM work.  
+ 
+2)  Hones and Hones tell (or have allowed to circulate) a strange story of
+long and fruitless years spent searching for the right magnet configuration
+to achieve levitation.  What is strange is that this quest was destined to
+fail from the start.  Without some means to counter the inevitable
+orientational instability, levitation of a permanent magnet in the field of
+another permanent magnet is impossible.  I must admit to puzzlement that
+Edward Hones, a trained physicist, would have pursued this unattainable goal
+because it would appear from their own reports that he was trying to find an
+exception to Earnshaw’s theorem, when in fact there are no exceptions to
+Earnshaw’s theorem.  There are situations where this famous theorem does not
+apply, and Harrigan’s invention is one of these.  
+ 
+3)  Given the blind alley where Hones and Hones found themselves, it is
+difficult to believe that they ever could have published their patent and
+developed the Levitron TM without employing Harrigan’s elegant solution of
+using rotation to control the levitated magnet’s orientation.  In his
+patent, Harrigan clearly recognized the value of rotation in suppressing
+orientational instability to achieve levitation.  In fact, his patent
+describes a second method of overcoming the natural orientational
+instability using a pendulum-like attachment to the levitated magnet.  The
+fact that this approach is less practical than rotation does not weaken
+Harrigan’s position; rather, it shows that Harrigan understood the real
+problem – viz… suppression of the orientational instability – and worked
+hard enough to come up with more than one solution to it.
+
+4)  The Hones patent does contain one interesting statement to the effect
+that the magnetic base plate must have corners in order to achieve the
+necessary lifting and centering forces.  All published theoretical and/or
+computational models for the Levitron TM that I know of, including those of
+Berry [3], Simon et al. [4], Jones et al. [5], and Gans et al. [6] show
+unequivocally that an axisymmetric base magnet, e.g., a ring or torus with a
+circular periphery, will work fine.  The claim of Hones and Hones – that the
+base magnet must have corners – is wrong.
+ 
+5)  In the Honeses patent, the claim that the base plate can be flat instead
+of dish-shaped figures less prominently in the text than does their
+(erroneous) claim that the base plate must have corners.
+ 
+6)  Far more important to a robust design for the Levitron TM than either
+the magnetization orientation or the shape of the outer periphery is a
+central hole (or a reversed-magnetized region) in the base magnet.  This
+feature is neither mentioned nor claimed in the Honeses patent, despite the
+fact that it is employed in the commercial version of the Levitron TM sold
+by Fascinations Inc.  Interestingly enough, one of Harrigan’s magnet designs
+– the one using an array of small cylindrical magnets mounted in a circle –
+takes advantage of this idea.  The central hole promotes creation of the
+magnetic field reversal on the axis near the base that facilitates spinning
+the top by hand before it is raised up by the lifter plate.  A central hole
+in the base also helps to shape the field for a good locus of stability.
+Harrigan would probably refer to this field shaping in terms of his "cone".
+
+These points, while hardly complete, do provide some representation of my
+views on the true origin of the magnetic levitation device commonly called
+the Levitron TM.  The recent testimony of William Hones, Edward Hones, Peter
+Campbell, and others has not changed the opinion I formed when I first read
+the two patents [1,2] several years ago.
+
+Sincerely,
+
+[signature]
+
+T.  B. Jones
+Professor of Electrical Engineering
+
+
+Numbered References:
+
+1.  R.M. Harrigan, U.S. Patent # 4,382,245, "Levitation Device". May 3, 1983.
+
+2.  E.W. Hones and W. G. Hones, U.S. Patent #5,404,062, "Magnetic levitation
+device and method", April 4, 1995.
+
+3.  M.V. Berry, Proc. Royal Soc. (London) 452, 1207 (1996).
+
+4.  M. D. Simon, L. O. Heflinger, S. L. Ridgway, Amer. J. Phys 65, 286 (1997).
+
+5.  T. B. Jones, M. Washizu, and R. Gans, Journal of Applied Physics 82,883
+(1997).
+
+6.  R. Gans, T. B. Jones, and M. Washizu, Journal of Physics: D. Applied
+Physics 31, 671 (1998). 
+

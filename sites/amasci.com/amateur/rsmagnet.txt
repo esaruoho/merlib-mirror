@@ -1,0 +1,37 @@
+Radio Shack Ceramic Magnet
+(640-1877)                 Specifications 
+
+Description: .................... Ceramic Block 1.87 x 0.87 x 0.390 Inches
+
+Material: ..................................... Oriented Strontium Ferrite
+
+
+
+Magnetic Properties:
+
+Residual Flux Density (B sub r): ............................. 3,850 Gauss
+
+Coercive Force (H sub c): ................................. 2,950 Oersteds
+
+Max Energy Product (BH sub max): ............................. 3.5 MG * Oe
+
+Average Recoil Permeability: ......................................... 1.1
+
+Field Strength needed to saturate: ............................. 10,000 Oe
+
+Temperature needed to permanently ruin: .................. 1,800 Degrees F
+
+
+
+Physical Properties:
+
+Density: .................................................. 0.180 lbs/In^3
+
+Coefficient of Thermal Expansion: ............. 10.3 per degrees C x 10^-6
+
+Resistivity at 25 degrees C: .................... 10^10 micro-Ohms/cm/cm^2
+
+Rockwell Hardness Scales: .......................................... off C
+
+Dimensions (HWD): ............................... 3/8 x 1-7/8 x 7/8 Inches
+

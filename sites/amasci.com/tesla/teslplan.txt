@@ -1,0 +1,59 @@
+HERE ARE BASIC INSTRUCTIONS FOR BUILDING A "GENERIC" TESLA COIL. THEY ARE
+FOR INFORMATION ONLY, SINCE THE CONSTRUCTION OF SUCH A COIL REQUIRES
+KNOWLEDGE OF HIGH VOLTAGE TECHNIQUE AND SAFETY PROCEDURES.  THE
+PRIMARY-SIDE SUPPLY OF ANY TESLA COIL IS A SHOCK HAZARD, AND THE SUPPLY
+FOR ANY BUT THE SMALLEST COIL CAN CAUSE ELECTROCUTION.  THE COIL DESCRIBED
+BELOW USES DIRECT CONNECTION TO AN AC POWER OUTLET, AND IS VERY DANGEROUS
+IF PROPER SAFETY PRECAUTIONS ARE NOT FOLLOWED.  IF YOU DON'T KNOW HOW TO
+WORK WITH 120V AND HIGH VOLTAGE SAFELY, THEN DO NOT ATTEMPT TO BUILD 
+THIS TESLA COIL
+
+TAKEN FROM THE INTERNATIONAL TESLA SOCIETY DISCUSSION LIST
+
+Date: Fri, 2 Jun 1995 15:49:22 -0600
+From: SE Crawshaw <se-craws@uwe.ac.uk>
+Reply to: usa-tesla@usa.net
+Subject: small tesla coil psu
+
+Ok, here's a design for a small tesla coil HV generator (the first stage).
+I built this when I was an apprentice at UKAEA winfrith. It is originally
+derived from a design in Practical Mechanics 1963. 
+
+Use a robust 12v Car ignition coil, usually rated at about 50W. This
+design uses mains electricity 240V UK. Get from RS or any component
+supplier, a solid state phase angle switching circuit. I don't know the
+stock No. but they are basically a light dimming circuit using a triac
+and an inductor within a single 3 pin chip. They come in a variety of
+current ratings, I used 6A which is probably way over the top, but better
+safe than sorry. You need to get a 1Meg variable resistor to vary the
+phase angle. So connect up the phase angle device, with 1 meg resistor
+and place a 3 microdfarad cap in series with the output (use >250 volts
+rated cap). Now connect to + and - terminals on the coil. You should be
+able to run the spark gap directly from the HV terminal of the coil. I
+have got sparks about 30mm (approx 30KV) from this arrangement. **BE
+CAREFUL** I have seen a 15 stone man thrown across a room while foolishly
+trying to see if the spark was hot enough to melt solder! You can use this
+to drive a tesla coil.
+
+
+I use a 500pF cap at 30KV rating and a flat spiral primary with about 26
+turns. Secondary is about 1200 turns on a 300mm long form, diameter 2".
+Output from this is about 70Kv. 
+
+ A good trick to do with a tesla coil is to get a sheet of plastic or
+wood, about 2" x 3" and either paint it in luminous paint(Phosphorescent)
+or get luminous powder and mix with clear silicone sealant (polysiloxane)
+and spread it like butter over the p lastic or wood substrate. BEFORE the
+paint or sealant dries, get copper or metal filings and sprinkle evenly
+and sparsely over the surface of the drying paint / sealant. Press gently
+to ensure secure fixing of the filings. Allow to dry (24 hrs). Then fix
+the bottom of the wood to the HV tesla terminal. The sparks now track for
+up to 6 times the distance of tracking in dry air - and also where the
+sparks track ove the surface, they leave an image of a ghost spark that
+remains visible for a few seconds.  This looks fantastic in the dark and
+increases the apparent power of a small tesla coil. I am currently
+building a large tesla coil, using a 1KW 26KV transformer as the driving
+stage. I welcome any tips from people who have the arcane knowledge and 
+experience in these things.
+
+Hold tight cyberpunk technopagans

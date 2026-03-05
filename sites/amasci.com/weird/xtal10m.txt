@@ -1,0 +1,22 @@
+CRYSTAL-OVEN 10MHz reference, from PTS-40 NMR synth
+
+Vectron Labs, 216-2671-1
+
+Pinout
+
+which is vcc?  which is oven supply?
+
+1 - 330 ohm to pin 7 (bias?)
+2 - -12.4 oven 350mA
+3 - -12.4 power 10mA
+4 - Gnd
+5 - Gnd
+6 - X
+7 - OUT 10MHz
+8 - X
+
+
+VECTRON LABORATORIES, INC. 
+166 Glover Avenue. Norwalk, Connecticut 06850. 
+Telephone: 203/853-4433 TWX: 710/468-3796. 
+

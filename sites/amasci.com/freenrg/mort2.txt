@@ -1,0 +1,212 @@
+
+Date: Fri, 10 Aug 2001 20:06:40 -0700 (PDT)
+From: William Beaty <billbeskimo.com>
+To: freenrg-l@eskimo.com
+Subject: crude test of Morton effect
+
+[THIS FIRST ONE DOESN'T MATCH MORTON'S EXPERIMENT VERY WELL]
+
+Got my VDG back running again, and spent a couple of hours playing with
+it.  This DOES do something interesting.  I'm letting sparks jump to a 24" 
+square of cardboard covered with aluminum foil, glued down with rubber
+cement. 
+
+I messed about with thin glass tubes, and found that it's very difficult
+to make a spark proceed along the interior.  Surface leakage probably
+changes the field patterns inside.  The arcs are dim and jagged, and go
+over the outer surface, or they are triggered at the edge of the glass
+tube, then change path to propagate through the air.
+
+Finally I just stuck some styrofoam rods between the flat plate and the
+VDG sphere, with about 2.5" distance between sphere and foil.  The sparks
+aren't attracted to the styrofoam, and this gives fat, bright, perfectly
+straight sparks with interesting internal structure.  Unfortunately, every
+spark originates at a different spot, so if these sparks are creating a
+narrow "beam" of some sort, its path is jumping around over a 3" region.
+The rep rate on these sparks is a little faster than 1 hz.
+
+A neon bulb (an old front-view Nixie bulb) flashes dimly orange during a
+spark when held by hand at any position within 12" distance of the VDG
+sphere.  But when held BEHIND the grounded foil plate in the shielded
+region, at the approximate location of the sparks, it flashes distinctly
+brighter.
+
+The RF impulse seems to be penetrating the foil, and MIGHT be stronger
+near the spark than elsewhere.
+
+The tube only flashes for about 1 in 3 sparks.  Either the spark energy is
+varying, or the location of the spark on the other side of the foil is
+important.  I wish I had a big, flat, neon-filled plasma panel that I
+could place against the back of the foil. 
+
+My hand can't feel any force pulses when held near the cardboard opposite
+the spot where the sparks are striking the foil.  I'll have to try
+dangling some small objects on threads.
+
+I think I'll try attaching a large number of NE2 bulbs to an acrylic
+panel, and see if I can detect any small hot-spots or beam-like lines.
+
+No obvious response by zinc sulfide, but I'll have to wait for dark to
+make certain.
+
+I tried stablizing the location of the sparks by using various ball
+bearings attached to the VDG sphere, but this converts the sparks to "weak
+mode", where they are very thin, dim purple, jagged, and have multiple
+branches like tree roots.  Even a 1.25" diameter ball bearing did this.
+Perhaps I can paint part of the metal sphere with insulator, while leaving
+a tiny clear spot, and that will stop the sparks from wandering.
+
+
+
+
+-------------------------------
+Date: Sun, 12 Aug 2001 03:04:08 -0700 (PDT)
+From: William Beaty <billbeskimo.com>
+To: Vortex <vortex-l@eskimo.com>
+Subject: Test of Morton effect... nada
+
+
+I finally managed to duplicate something vaguely similar to Morton's
+VandeGraaff test.  No interesting results.
+
+I dented the center of the aluminum-coated cardboard to produce a involute
+curve about 1" in diameter, then cut a crude hole in the dented region
+about 3/4" diameter.  A quick test shows that the sharp edges don't
+produce any corona (and the sparks don't tend to switch to dim/branching
+mode, and don't tend to home in on the hole edges.) 
+
+I tested 2cm glass tubing, also 1" I.D. acrylic, both approx 3" long.  The
+glass is useless since its surface adsorbs humidity, and rather than
+producing sparks, the surface of the glass glows very dim blue in the dark
+and hisses.  I suppose I could bake it out with a propane torch, but first
+I'm playing with the acrylic.
+
+The sparks ignore the acrylic, they only rarely go through the tube. 
+Therefore I affixed the tube in an acrylic plate approx 5"x7", sealed flat
+to the end of the tube with plexi #3 cement, with a big hole poked through
+the flat plastic.  I taped this to the aluminum foil.
+
+Sparks now follow the inside of the plastic tube surface.  They repeat at
+about 2Hz, and are slightly jagged, but are bright and make a "crack"
+sound.  They no longer have that line-like geometry which they exhibit
+when in the free air between the VDG sphere and the flat foil.  If that
+"line like" effect is important, well, the presence of the tube is
+screwing it up.
+
+Walking around the setup while holding a 6" flourescent tube and a 12" 
+flourescent tube does not reveal any hotspots (no apparent "beams".)  The
+flourescent tube flashes brightly when held against the cardboard opposite
+the side receiving the sparks.  However, this is handheld, and when I
+instead attached the 6" flourescent tube to a long plexiglas rod, the
+bright flashing no longer occurs.  When the fluor. tube on the rod is held
+in various positions against the foil, I see no flash.  When held in the
+region near the hole in the cardboard, no flash.  As long as I keep it
+within about 24" of the VDG sphere, there is a dim flash if I hold the
+tube anywhere but behind the foil-covered cardboard.  Even if I approach
+the VDG sphere quite closely, the flash is dim.  As long as the flour.
+tube is suspended on plastic, the foil-covered cardboard does create a
+"shadow"  region behind itself.  Exploring the region on the opposite side
+of the sphere in line with the sparking does not reveal any hotspots there
+either.
+
+The collapsing e-fields surrounding the VDG sphere do affect the hair on
+my arms, and as long as the machine is sparking, I feel like I'm being hit
+by high-velocity feathers.  The surface of my hands cannot feel this (no
+hair to respond,) but the backs of my hands do feel it.  I suspect that my
+hair is intercepting the ion flow in the air around the VDG and becoming
+charged.  When I first present my arm to the VDG sphere, I barely feel the
+pulses, but after about 5 seconds the feeling grows strong.  I imagine
+that uncharged hair barely responds, but once the hair becomes charged, it
+wiggles far more when the e-fields change.  This "feather impact" effect
+is not present behind the grounded cardboard panel.  No "beams" of
+hair-pulsing can be felt there, or in the region greater than 3ft away
+from the VDG sphere.
+
+To sum up:  I see no major difference between this setup and a simple
+sphere-pair with sparks jumping between.  There are various EM and ion
+pulse effects, but these occur in a roughly spherical region around the
+device, and there are no "beams" extending outwards.  The original Morton
+diagram doesn't work as shown, since the sparks ignore the tube and leap
+through the air (I had to cover the metal facing the VDG sphere with
+plastic to force sparks to go through the tube.) 
+
+The German replication in Electric Spacecraft Journal #6 talks about the
+"beams" and even claims that moving the position of the grounding clip
+causes the "beam" to propagate from the opposite side of their device.  
+And if Podkletnov's device is an independent discovery, his description of
+narrow beams suggests that he has stumbled across a similar phenomenon.
+
+So, are their claims a network of delusions, or is my setup too unlike
+Morton's original to be a fair replication?
+
+
+Time for the usual "crackpot experimenter rant!"
+
+This brings up the "Experimenter's Regress" mentioned by Collins and
+Pinch:  when investigating totally unexplored regions of physics, we
+cannot tell if our replication is flawed, or if instead the phenomenon
+doesn't exist.  We don't have any solid theoretical predictions, and also
+we can't start building a theory based on experimental results which are
+suspicious.  Is contemporary physics theory wrong because it doesn't
+predict the experimental results, or is the experiment wrong because it
+violates known theory?  Only wide replication can expose reality, since we
+can always find a reason to distrust an experiment or a theory.
+
+If theories were only based on experiment, there'd be no difficulty, but
+the need for replication and more importantly the need for CONCENSUS
+AGREEMENT as to the trustworthyness of experimental results can cause
+problems of circular reasoning.  If we're confident about a theory because 
+it makes correct experimental predictions, but we're confident that our
+experiments are unflawed because the results are in line with theory... 
+then our confidence is very misguided.
+
+Feynman mentions this in regards to Millikan's error in measuring the
+charge on the electron, and the slow change over years in the "accepted
+value" for e caused by researcher's unwillingness to question the initial
+incorrect results.  Wide replication of an experiment can expose the flaws
+both experimental and theoretical, but when social forces are involved, it
+might take years.
+
+Remember Jefferson's quote:  "I'd sooner believe that two yankee
+professors had lied, than to believe that rocks could fall from the sky."  
+The existance of meteors conflicted with the current theory of the time.  
+There can be no rocks falling from the sky because there are NO ROCKS IN
+SPACE.  So we though.  So for decades we rejected the evidence. Morton's
+and Podkletnov's observations seem to conflict with contemporary
+physics... so do we look for flaws in physics, or in the experiment?  
+People who insist that theory is based on experimental evidence have not
+encountered situations where revolutionary experimental evidence is
+resisted for long periods because it conflicts with theory!
+
+((((((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))))
+William J. Beaty                                  SCIENCE HOBBYIST website
+billbeskimo.com                                  http://amasci.com
+EE/programmer/sci-exhibits          science projects, tesla, weird science
+Seattle, WA   206-789-0775          freenrg-L taoshum-L vortex-L webhead-L
+
+
+[ AUG 29 2001, NOTE]
+
+John Schnurer mentioned that the VDG sphere must be negative, otherwise
+the mechanical impulse effect is very weak and is revered in direction. 
+Mine VDG is positive.  Also, the 5-legged fuzzy discharge in the
+Podkletnov paper propagates out of his ground terminal and toward the VDG. 
+I see an identical effect, but it is oriented opposite.  I need to put
+something on the surfaces of my VDG rollers to reverse the output
+polarity.
+
+Also, about that 5-legged discharge.  Electric sparks branch in the
+direction of propagation.  If two plasma filaments should ever break out
+on the SAME electrode, they repel each other and do not join, yet a single
+filament can split into two branches as it extends.  Therefore Podkletnov
+is NOT seeing five sparks propagate outwards, only to join together to
+form one spark that continues.  Instead he has it backwards, and is seeing
+a spark propagate out of his ground terminal and reach out toward the
+SC-coated VDG... while at the same time the claimed mechanical impulse
+effect goes in the opposite direction.  If the Morton effect depends on
+spark direction, the apparent rule is that the mechanical impulse travels
+OPPOSITE to spark propagation.  Or, if it only depends on the direction of
+charge flow, then it doesn't matter if the spark starts out on the ground
+terminal and extends towards the VDG, or the reverse, and only the
+polarity of electrodes matter
+
