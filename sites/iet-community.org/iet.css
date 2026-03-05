@@ -1,0 +1,81 @@
+/*VPDbURL{file:///C|/Home/Mina%20Dokument/Engagemang/IET/IET%20Sajt/IET%20Visual%20Page/Project.vpp}*/
+:link	 {
+			Color : #006699 ;
+			Text-Decoration : None
+		}
+:link.morelink	 {
+			Color : #999999 ;
+			Text-Decoration : None
+		}
+:visited	 {
+			Color : #006699 ;
+			Text-Decoration : None
+		}
+:visited.morelink	 {
+			Color : #999999 ;
+			Text-Decoration : None
+		}
+.bread	 {
+			Font-Family : Verdana, Arial, Helvetica, sans-serif ;
+			Font-Size : 12px ;
+			Color : black ;
+			Background-Color : white
+		}
+.rubrik01	 {
+			Font-Family : Verdana, Arial, Helvetica, sans-serif ;
+			Font-Size : 18px ;
+			Color : #0D7FB8 ;
+			Text-Decoration : None ;
+			Font-Weight : Bolder
+		}
+.rubrik02	 {
+			Font-Family : Verdana, Arial, Helvetica, sans-serif ;
+			Font-Size : 14px ;
+			Color : #0D7FB8 ;
+			Text-Decoration : None ;
+			Font-Weight : Bolder
+		}
+.rubrik03	 {
+			Font-Family : Verdana, Arial, Helvetica, sans-serif ;
+			Font-Size : 12px ;
+			Color : #0D7FB8 ;
+			Font-Weight : Bold
+		}
+.bildtext	 {
+			Font-Family : Verdana, Arial, Helvetica, sans-serif ;
+			Font-Size : 10px ;
+			Color : #006699 ;
+			Font-Weight : Normal
+		}
+.fotnot	 {
+			Font-Family : Verdana, Arial, Helvetica, sans-serif ;
+			Font-Size : 8px ;
+			Color : black
+		}
+.link	 {
+			Font-Family : Verdana, Arial, Helvetica, sans-serif ;
+			Font-Size : 12px ;
+			Color : #006699 ;
+			Text-Decoration : None ;
+			Font-Weight : Bolder
+		}
+a:hover	 {
+			Color : #999999 ;
+			Text-Decoration : None
+		}
+.morelink	 {
+			Font-Family : Verdana, Arial, Helvetica, sans-serif ;
+			Font-Size : 12px ;
+			Color : #999999 ;
+			Text-Decoration : None ;
+			Font-Weight : Bolder
+		}
+a.morelink:hover	 {
+			Color : #CCCCCC ;
+			Text-Decoration : None
+		}
+.space	 {
+			Font-Family : Verdana, Arial, Helvetica, sans-serif ;
+			Font-Size : 5px ;
+			Color : white
+		}

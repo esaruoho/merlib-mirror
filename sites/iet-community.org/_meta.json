@@ -1,12 +1,17 @@
 {
   "source": "live",
   "domain": "iet-community.org",
-  "mirror_date": "2026-03-04T16:54:37.849895",
+  "mirror_date": "2026-03-05T14:48:09.916783",
   "total_urls": 0,
-  "downloaded": 1,
+  "downloaded": 209,
   "failed": 0,
-  "files": 1,
+  "files": 209,
   "file_types": {
-    ".html": 1
+    ".html": 73,
+    ".jpg": 90,
+    ".gif": 21,
+    ".css": 1,
+    ".pdf": 16,
+    ".png": 8
   }
 }
