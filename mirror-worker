@@ -161,15 +161,17 @@ process_job_file() {
 
   log "Running: python3 $MIRROR_PY ${mirror_args[*]}"
 
-  # Run mirror.py
-  if ! python3 "$MIRROR_PY" "${mirror_args[@]}" 2>&1 | tee "$REPO_DIR/sites/$domain/_mirror_worker.log" 2>/dev/null; then
-    log "ERROR: mirror.py failed for $domain"
-    mv "$PROCESSING_DIR/$filename" "$FAILED_DIR/$filename"
-    echo "error: mirror.py failed" >> "$FAILED_DIR/$filename"
-    return 1
+  # Run mirror.py — log errors but still mark as done
+  local site_dir="$REPO_DIR/sites/$domain"
+  local exit_code=0
+  python3 "$MIRROR_PY" "${mirror_args[@]}" 2>&1 | tee "$site_dir/_mirror_worker.log" 2>/dev/null || exit_code=$?
+
+  if [[ "$exit_code" -ne 0 ]]; then
+    log "WARNING: mirror.py exited with code $exit_code for $domain (logged to error.log)"
+    echo "$(date -u +%Y-%m-%dT%H:%M:%SZ) mirror.py exit code $exit_code" >> "$site_dir/error.log"
   fi
 
-  # Move queue file to done
+  # Always move to done — partial mirrors are still valuable
   mv "$PROCESSING_DIR/$filename" "$DONE_DIR/$filename"
 
   # Commit and push to main

@@ -974,8 +974,9 @@ def run_live(url, seeds_file=None, delay=None, max_pages=None, output_base=None)
             continue
 
         # Strip fragments — they're the same page
+        original = page_url
         page_url = urllib.parse.urldefrag(page_url)[0]
-        if page_url in seen and page_url != url:  # dedup after defrag
+        if page_url != original and page_url in seen:  # dedup only if defrag changed the URL
             continue
 
         # Skip if already downloaded on disk
