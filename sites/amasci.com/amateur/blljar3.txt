@@ -1,0 +1,157 @@
+From: Steve Hansen <hansen35@delphi.com>
+Newsgroups: sci.electronics
+Subject: Vacuum Newsletter #3
+Date: Tue, 28 Feb 95 19:12:59 -0500
+
+**************************************************************************
+*  -----------------------------------                -----------------  *  
+*   the Bell Jar (electronic version)                 #3 (February 1995) *  
+*  -----------------------------------                -----------------  *  
+*                                                                        *
+*  This newsletter contains material which has been extracted from the   *
+*  hard-copy newsletter of the same name. Devoted to the vacuum          *
+*  experimenter, the intent of "the Bell Jar" is to broaden interest     *
+*  in vacuum technology through useful discussions of theory and         *
+*  technique, and to present ways in which a variety of apparatus may    *
+*  be assembled using common and inexpensive materials. Information      *
+*  on "the Bell Jar" may be obtained by sending email to the editor,     *
+*  Steve Hansen, at shansen@tiac.net or by writing to 35 Windsor Dr.,    *     
+*  Amherst, NH 03031. Please feel free to circulate this electronic      *
+*  version, intact, to others who might be interested in the subject     *
+*  matter. New numbers will be mailed at approx. quarterly intervals.    *
+*  Email subscriptions are free and may be obtained by contacting the    *
+*  editor. Comments, contributions and criticisms are always welcome.    *
+*  Copyright 1995, Stephen P. Hansen.                                    *
+**************************************************************************
+
+
+In this issue:
+
+An update on the use of the 6BK4 beam tube as a cold cathode x-ray 
+source.
+
+The Radiometer
+
+What's in the current issue of "the Bell Jar" (Print Version)
+
+"An Experimenter's Introduction to Vacuum Technology" 
+
+                       ***********************
+
+GENERATING X-RAYS WITH RECEIVING TUBES - Addendum
+
+In #2 Bob Templeman described his experiments using the 6BK4 TV high 
+voltage regulator tube as a cold cathode generator of x-rays. James
+O'Neal of Alexandria, VA has provided some additional background on this 
+tube that may explain why some tubes work well and others don't.
+
+"Those of us who are old enough may remember that there was something 
+of a flap in the color TV industry during the late 60's when it was
+discovered that there was x-ray leakage from certain models of color TV. 
+This was attributed primarily to the (then) quintessential 6BK4. 
+
+"The tube manufacturers solved the problem by redesigning the tube, going 
+to a heavily leaded glass formulation. The "improved" 6BK4 is instantly 
+distinguishable just by lifting it - it weighs substantially more than 
+any "normal" tube of roughly the same dimensions. For experimenters, there 
+may be some of the thin-skinned units either in old junked sets or in 
+service shops that have been around for a while. A distributor of tubes 
+such as Antique Electronic Supply (Tempe, AZ, 602-820-5411) might also be 
+able to help.
+
+"I did some experimentation with the original 6BK4 at the time of the flap 
+and I found that the tube, when driven hard enough, could indeed produce 
+x-rays. (I still have a nice mental picture of the glass envelope of one 
+of them brightly fluorescing a lime green color.)"
+
+                       ***********************
+
+THE RADIOMETER
+
+The first 3 paragraphs are drawn from material developed by Franklin B.
+Lee in "Experiments in High Vacuum" (Morris and Lee, Buffalo, NY, ca. 1960)
+and is used with permission. The complete text, including instructions on
+building a radiometer from scratch, is reprinted in "the Bell Jar" Volume 4
+Number 1, Winter 1995.
+
+A radiometer consists of a set of vanes, each shiny on one side and 
+blackened on the other, that is mounted in an evacuated vessel. When 
+exposed to light, the vanes revolve. The first radiometer was constructed 
+to settle the controversy regarding whether light exerts a force. The idea 
+was that a reflecting surface would experience a greater force from the 
+light than an absorbing one. The instrument was therefore made in the now 
+familiar form. Unexpectedly, the opposite effect was observed. The blackened
+vane retreated from the light source. 
+
+We now know that the black surface is warmer than the shiny one and that 
+gas molecules will recoil faster from the hot surface. The slight difference
+in molecule recoil is what causes the device to spin. (Later experiments in
+a much better vacuum have confirmed that light does exert a very small 
+pressure. 
+
+The action of the radiometer depends upon striking a balance between 
+molecular drag and recoil. At higher pressures, drag will dominate and the 
+vanes will fail to spin. At lower pressures, there are too few recoiling 
+molecules to drive the vanes. The optimum balance occurs at a pressure
+of about 60 mTorr (60 microns Hg). By using a suitable tachometer (e.g. a 
+'Strobotach' or an electronic counter with a photocell that detects the 
+interruption of a light beam by the vanes) it would be possible to measure 
+the change in rotational velocity with changing pressure, given a constant 
+light input.
+
+While the radiometer is not a very good gauge in itself, Dushman in "The 
+Scientific Foundations of Vacuum Technique" noted the use of the radiometer
+to determine when the vacuum in an incandescent lamp had reached the 
+required level for sealing-off. At the proper pressure, the vanes would 
+cease to rotate, even in very bright illumination (this would be on the
+low side of the ~60 mTorr peak). He also noted that the level of vacuum 
+could be quantitatively determined by shaking the bulb to set the vanes in 
+motion and then noting the rate at which the spinning ceases. This notion
+has been embodied in the modern spinning rotor (molecular drag) gauge.
+
+Ready-made radiometers are available from science supply houses. Also they 
+are increasingly popular as window ornaments and can often be obtained for 
+about $10 from local craft shops. I've also seen radiometers in the windows
+of "New Age" boutiques, leading me to wonder what strange powers people 
+might attribute to them.  
+
+For tinkerers, the disadvantage of ready-made radiometers is that they are 
+sealed off. Fortunately, the glass pump-out tube is readily accessible.  
+With a file, nick the end of the pump-out and break the tip off. (I'd 
+suggest placing a piece of rubber or vinyl tubing over the glass to prevent
+cuts). Using epoxy cement, seal a length of 5/16" OD brass tubing (K&S 
+Engineering, available at well stocked hobby and hardware stores) to the 
+bulb. Be careful not to get epoxy into the original evacuation ports in 
+the stem. The hanging style of bulb is the most convenient to use. If no 
+local source can be found, these are available from Edmund Scientific Co.,
+101 E. Gloucester Pike, Barrington, NJ 08007-1380 as Catalog #38,510 at 
+$10.95. 
+
+                       ***********************
+
+WHAT'S IN "the BELL JAR" (Print Version)
+
+The first issue of Volume 4 was mailed in January. Articles included
+Geiger tube construction, a regulated 30 kV (max) power supply for 
+vacuum experiments, conversion tips for 2 stage refrigeration service
+vacuum pumps (a low cost way to <20 mTorr at 3 to 4 cfm) and a Pirani
+gauge made from small light bulbs.
+
+Plans for the next issue (Spring) include some historical perspectives on 
+amateur vacuum, practical & simple plasma sources using microwave oven 
+components, a thermistor gauge developed at the University of Alberta and 
+more useful tips and ideas.                         
+
+                       ***********************
+
+AN EXPERIMENTER'S INTRODUCTION TO VACUUM TECHNOLOGY
+
+This booklet, drawn from the first 3 years of "the Bell Jar", will 
+be available in March from Lindsay Publications, PO Box 538, Bradley, IL 
+60915-0538. Topics covered include vacuum basics, low cost mechanical pumps, 
+construction of two simple gauges (discharge tube and thermocouple), high 
+vacuum compatible construction techniques with an emphasis on using common
+materials, and a series of projects that may be conducted with a good
+mechanical pump. There are ample references and a supplier list. 39 pages,
+8-1/2 x 11 format.
+

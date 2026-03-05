@@ -1,0 +1,41 @@
+Date: 10 Feb 97 18:50:04 EST
+From: "Sara T. Allen"
+To: Taos Hum list serve <taoshum-l@eskimo.com>
+Subject: Scalar fields - Honeywell Patent Numbers
+
+List of patents by Raymond C. Gelinas but assigned to Honeywell:
+(note that a Vector Potential is a scalar field)
+
+4,429,280, 31 Jan 1984, Apparatus and Method for Demodulation of a Modulated
+Curl-Free Magnetic Vector Potential.
+
+4,429,288, 31 Jan 1984, Apparatus and Method for Modulation of a Curl-Free
+Magnetic Vector Potential Field.
+
+4,432,098, 14 Feb 1984, Apparatus and Method for Transfer of Information by
+Means of a Curl-Free Magnetic Vector Potential Field.
+
+4,447,779, 8 May 1984, Apparatus and Method for Determination of a Receiving
+Device Utilizing a Curl-Free Magnetic Vector Potential Field.
+
+4,605,897, 12 Aug 1986, Apparatus and Method for Distance Determination Between
+a Receiving Device and a Transmitting Device Utilizing a Curl-Free Magnetic
+Vector Potential Field.
+
+4,491,795, 1 Jan 1985, Josephson Junction Interferometer Device for Detection of
+Curl-Free Magnetic Vector Potential Fields.
+
+Also, you can find a good article in Scientific American of
+April 1989, pp. 56-62, "Quantum Interference and the Aharonov-Bohm Effect"
+by Yoseph Imry & Richard Webb.
+
+
+Thanks
+
+Sara       E-mail from: Sara T. Allen, 10-Feb-1997
+
+
+Another one:
+
+US5845220: Communication method and apparatus with signals comprising
+scalar and vector potentials without electromagnetic fields , H. Puthoff

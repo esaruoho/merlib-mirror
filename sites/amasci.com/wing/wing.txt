@@ -1,0 +1,40 @@
+Date: Sat, 26 Aug 95 08:21:41 -0700
+From: Lynn Sebourn
+To: billbeskimo.com
+Subject: shock wave on wings
+
+Dear Bill,
+
+I was just looking at your photograph of the wing.  It is correct that 
+this phenomenon is caused by a shock on the wing.  All large passenger 
+aircraft travel very close to the speed of sound, (Mach 1).  As the air 
+travels over the wing it must speed up over the top, therefore over the 
+top of the wing, the flow accelerates past Mach 1 and is actually 
+supersonic for a small distance over the wing.  At some point, however it 
+must slow back down as it approaches the trailing edge of the wing.  The 
+shock you see on the wing is where the flow suddenly is decelerated from 
+supersonic to subsonic flow.
+
+The reason you can see the shock is because at the shock interface, the 
+air is compressed very rapidly.  Therefore the density just downstream of 
+the shock is much higher than the density just upstream of the shock.  If 
+you are familiar with optics, you have heard of the index of refraction. 
+ Light bends as it travels through different substances such as glass, 
+water, and even air.  This is why eyeglasses work and why things under 
+water appear to be in a different place than they really are. (Ever try 
+to catch a fish by hand?).  In air, the amount of refraction depends on 
+the density of the air.  Since there is a sudden change of density near 
+the shock, as light travels through the shock, it is bent different 
+angles, depending on whether it passes in front of or behind the shock.  
+The result is a series of light and dark bands which allows you to "see" 
+the shock.
+
+This same principle is put to use in wind tunnels to aid in seeing the 
+flow around wings and aircraft.
+
+Just thought you might like to know.
+
+Lynn Sebourn
+Aerospace Engineer
+
+

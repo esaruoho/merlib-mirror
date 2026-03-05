@@ -1,0 +1,98 @@
+OBSOLETE FILE!
+
+MOVED TO: http://amasci.com/emotor/tvgen.html
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"THE AWSOME POWER OF TELEVISION"                         - William Beaty
+
+ - an electrostatic generator suggested by 
+   Dr. Krienke at SPU in Seattle.
+
+   NOTICE: TURNING A TV SET ON AND OFF OVER AND OVER CAN HARM IT!  IT
+   DIDN'T HURT MINE, BUT ONE PERSON HAS REPORTED THAT THEIR SET DIED.  USE
+   AN OLD, HALF-WORKING TV, OR USE A COMPUTER MONITOR FROM A GARAGE SALE.
+   OR, TURN IT ON AND OFF A FEW TIMES ONLY, AND WAIT FOR SEVERAL MINUTES
+   EACH TIME.
+
+   SAFETY -  THE TV-SCREEN METHOD IS SAFE, ALTHOUGH THE FOIL AND WIRE CAN
+   DELIVER SMALL "STATIC ELECTRIC" SHOCKS.  THERE ARE TWO OTHER HAZARDS
+   YOU SHOULD KNOW ABOUT.  ONE, NEVER REMOVE THE CASE OF A TV SET OR STICK
+   ANY OBJECT THROUGH SLOTS IN THE BACK OF THE CASE, BECAUSE THE POWER
+   SUPPLY WITHIN THE BACK OF A TV SET CAN ELECTROCUTE YOU.  NUMBER TWO:
+   NEVER PLAY WITH LEYDEN JARS OR HIGH-VOLTAGE CAPACITORS LARGER THAN 50
+   PICOFARADS, THEY CAN ELECTROCUTE YOU.
+
+
+The pop-bottle motor requires a "static electric" power supply (in other
+words, high voltage at low current.)  Batteries won't work because their
+voltage is thousands of times too small.  Use a TV set with aluminum foil
+on the glass.
+
+This method works best with a fairly large TV screen.  I found that a 19"
+TV screen (measured diagonally) works fine.  Smaller screens may give
+feeble motor operation, or may not work at all.  If you use a little tiny
+computer monitor, it might not be able to run your motor.  The bigger the
+TV screen is, the better.
+
+Use tape to tack a sheet of aluminum foil to the screen of a TV set.
+LEAVE A SPACE AROUND THE EDGE, MAYBE 1" WIDE OR MORE, SO THE FOIL
+DOESN'T TOUCH THE TV FRAME.  Also, fold over the sharp corners of the foil
+to prevent sparks from jumping to the frame.  (If the foil is too close to
+the frame, charge will leak across the glass and cause the voltage to be
+decreased.)
+
+Use alligator clipleads to connect the edge of the foil to the metal foil
+on one of the electrostatic motor bottles.  Connect the foil on the other
+motor bottle to ground.  (metal faucets and sinks are grounded, as well as
+the metal screws on light switches and the screws on electric outlets.
+Connect to to one of these.) 
+
+When the TV is turned on, the motor will spin a few times then quit.  When
+the TV is turned off, the motor again spins briefly, then stops.  Turn the
+TV on and off very slowly to generate slow pulses high voltage, and this
+can run the motor continuously.  The pop bottle motor always turns in the
+same direction regardless of polarity.  The bottle motor works best on DC,
+but it will run on AC high voltage, like the slow AC from the TV screen as
+you turn it on and off.
+
+This method can work even though the sheet of aluminum foil touches only
+glass.  It is called "capacitive coupling."  The foil, glass, and the
+conductive phosphor coating inside the TV tube together act as a
+capacitor.  Capacitors act to block direct currents, but they allow
+alternating current to pass.  By turning the TV on and off, you are making
+the high voltage on the TV screen grow high and low, and the capacitor
+lets these changes in voltage go through.
+
+   NOTICE: TURNING A TV SET ON AND OFF OVER AND OVER CAN HARM IT!  IT
+   DIDN'T HURT MINE, BUT ONE PERSON HAS REPORTED THAT THEIR SET DIED.  USE
+   AN OLD, HALF-WORKING TV, OR USE A COMPUTER MONITOR FROM A GARAGE SALE.
+   OR, TURN IT ON AND OFF A FEW TIMES ONLY, AND WAIT FOR SEVERAL MINUTES
+   EACH TIME.
+

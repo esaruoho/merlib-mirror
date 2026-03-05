@@ -1,0 +1,902 @@
+
+From: Bill Beaty [mailtobeaty chem washington e d u] 
+Sent: Thursday, July 03, 2003 336 PM
+To: Kate Seekings
+Subject: pond machines
+
+How much wall space might still be available in the COCA 
+Dorkbot show?   Is there room for something huge (like eight 
+feet tall and ten or twenty feet wide?)
+
+One batch of my never-built devices is "pond machines," wet or
+dry devices which involve liquid surfaces.  I just realized
+that having a huge pile of galvos makes one of the larger devices
+possible (even easy.)   It's a black or silver surface, a
+multi-segment dynamic mirror which covers a single wall.
+
+
+
+
+
+
+
+
+Subject RE pond machines
+Date Thu, 3 Jul 2003 18:04:38 -0700
+From "Kate Seekings" <kates@microsoft.com>
+To "Bill Beaty" <beaty chem washington e d u>
+
+Bill, hi
+
+This is very exciting - the pond machine sounds fascinating... we'd
+possibly be able to do it on the back wall of the main room (i.e. the
+wall *opposite* the wall on which we usually project slides).  There are
+a couple of giant sculptures I'm thinking about for that room, and then
+we'd still have plenty of space for other 2D art from Davis and Mars
+elsewhere...  It'd look particularly cool if it was a silvered surface,
+don't you think?
+
+You'll be on the mail I'll be sending out tomorrow with the process for
+submissions, and I'll look forward to doing my best to make this happen.
+
+K
+
+
+
+
+
+
+From kates@microsoft.com  Thu Jul  3 18:37:12 2003
+Subject: RE: pond machines
+Date: Thu, 3 Jul 2003 18:36:40 -0700
+From: "Kate Seekings" <kates@microsoft.com>
+To: "William Beaty" <billb@eskimo.com>
+
+************* below
+
+
+> That would work.  It would be best in a room with many well-lit visitors
+> and objects to reflect.
+*************
+We can certainly give you that...
+
+
+> A pool of mercury.
+*************
+Ooh - I have a thing about mercury, but wouldn't that limit the size?
+
+>   On the other hand, black (or dark green) acrylic might
+> be subtly disturbing. 
+*************
+Indeed
+
+
+>  It would look more like a rippling dark pool, but a
+> pool in a very unphysical position.  Mirror strips would give the
+> impression of "mirror with waves." 
+*************
+Hmmm - perhaps it might be more alien without mirror strips, but your
+call - any way I can see a sample at some stage, btw, or should I stick
+with my mind's eye?
+
+
+>  "Dark still pool...  turned sideways"
+> might be better for damaging the human mental filters, shattering the
+> thick growth of man-bark.  Psychedelia in the original sense:
+> brain-hurties.
+*************
+Yes!
+
+
+> Putting it on the ceiling might be even more disturbing, but that would
+> cover up light fixtures for other works, and it would be much more
+> difficult to tension all the long flexible plastic strips to prevent
+> bowing and spoiling the "flat mirror" optics.  Strips hung from gavlos
+> is easy.
+*************
+Then let's stick with that (do-able)...
+
+
+> Another pond machine is a black pool of totally still water with a pump
+> and an edge-skimmer. 
+*************
+Might be hard to achieve with all those people about, audio
+installations etc., though CoCA does have a concrete floor...
+
+
+>  Tiny oil drops fall from an overhead device.  When a
+> droplet hits, it explodes like circular rainbow fireworks which expand
+> until invisible, and the oil is returned above.  Multiple simultaneous
+> droplet-explosions interact (they repel each other.)  Ever see a wet
+> parking lot with those rainbow colored "blast patterns" from oil dripped
+> from cars?  This is the dynamic version.
+*************
+Sounds beautiful
+
+> I lack the time to do both.  And piles of galvos cry out for employment!
+*************
+Go for it (the 'Dark, still pool - turned sideways'):  there's always
+next year for the oildrops exploding...
+
+K
+
+
+
+
+
+
+
+
+From: William Beaty [mailto:billb@eskimo.com] 
+Sent: Saturday, July 12, 2003 4:00 PM
+To: dorkbotsea@dorkbot.org; coca@cocaseattle.org
+Subject: Pond Machine II
+
+
+Yarg!  I was going to get this out during "Weird Sci" meeting last
+night, but fell asleep on the couch.
+
+
+NAME OF WORK:
+  Pond Machine II
+
+NAME OF ARTIST:
+  William J. Beaty
+
+TYPE:
+  Kinetic sculpture; computer/mechanical cellular automata
+
+DIMENSIONS:
+  Wall-mounted, somewhat flat, attaches to a wall at the top, approx
+  4ft vertical, 8 ft wide (will be wider if space permits.)  It's heavy,
+  so four or more equally-spaced wall brackets at the top will connect to
+  its upper rail.  It could easily be held a few inches out from the wall
+  if no flat walls exist.
+
+MATERIALS:
+  Acrylic mirror strips, pen-motor galvanometers, PC, software, power supply.
+
+INTERACTION:
+  Interaction added only if I finish the main work, or added later after
+  the opening.  Hidden microphone to detect clapping.  Light sensors along
+  the bottom edge to detect visitors walking past.
+
+DESCRIPTION:
+
+  POND MACHINE II
+  KINETIC SCULPTURE
+  COMPUTER, MIRRORS, PEN-MOTOR GALVANOMETERS
+
+(more needed?)
+
+
+
+CATALOG ENTRY DESCRIPTION
+
+...
+
+
+
+BIO
+
+...
+
+
+
+INSTALLATION
+
+  - It's positioned against a wall like a large canvas or any large
+    mirror,  with the top edge at approx 6ft above the floor, bottom edge
+    at 2ft (and either 7ft wide or 15ft wide depending on space avail.)
+    It's attached at the top, with the mirror strips hanging down.  It
+    could be within an inch of the wall, but depending on flatness, pipes,
+    etc., it could be brought out from the wall by 6in at most.  It needs
+    to face a busy area with a scene to reflect.  Mounting it in a hallway
+    would only work if the opposite wall was not blank.
+
+  - I'm planning on using a row of standard L-shaped shelf brackets
+    running along the top of the device and spaced approx every 24in.
+    These have 3 wall screws each.  Total weight might approach 70lbs for
+    the smaller version.  If the walls are concrete or sheetrock, we could
+    screw the brackets to a wooden rail at the top and then figure out how
+    to bolt the rail to the gallery wall.
+
+  - A (ribbon?) cable runs from the PC to the work.  I can make a very
+    long cable if needed.  It could drop down from the ceiling to keep it
+    hidden.
+
+  - No high power, just a normal PC & small power supply (few hundred watts.)
+    No lighting (the mirror just reflects the scene in the gallery.)
+
+(((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))
+William J. Beaty                http://staff.washington.edu/wbeaty/
+billb@eskimo.com 
+
+
+
+
+
+
+From kate@  Mon Jul 14 17:59:42 2003
+From: "Kate Seekings" <kate@>
+To: "'William Beaty'" <billb@eskimo.com>
+Subject: RE: Pond Machine II
+Date: Mon, 14 Jul 2003 17:59:10 -0700
+
+Bill, that's completely fine - thank you for getting this to me so
+promptly.  Please excuse the delay in replying:  I've been able to
+receive email fine all weekend, but only to send since yesterday.  And
+fwiw, some of your fellow artists must still be asleep on the couch ;].
+
+K
+
+
+
+
+ From Bill Beaty [mailtobeaty chem washington e d u] 
+Sent Thursday, July 31, 2003 1038 PM
+To Kate Seekings
+Subject Pond machine II?
+
+Question about COCA space...   right now I'm planning on 10ft wide
+or a little more, but if I have the time to keep going, how wide 
+can it grow?   Is there wall space for 20 ft?   (Still 4ft tall,
+from knee level to just above eye level, with weight supported
+at the top by a horizontal row of brackets.)
+
+Also there's a couple of cool effects I've noticed which would
+require some lighting from above (two or three halogen spots.)
+I didn't request lights initially, and no biggie if there's no
+time for changes.   If small spotlights are available, then the 
+moving plastic strips can make dynamic reflection patterns on the 
+floor.   Also, the dark transparent plastic reveals dim details of 
+the wall behind.  Very pond-like (a dynamically warping room-
+reflection, and also some dimly-seen "pond bottom" down within.
+
+
+(((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))
+William J. Beaty                http://staff.washington.edu/wbeaty/
+billb@eskimo.com 
+
+
+
+
+
+
+
+
+ From "Kate Seekings" <kate@>
+To "Bill Beaty" <beaty chem washington e d u>
+Subject RE Pond machine II?
+Date Fri, 1 Aug 2003 135759 -0700
+Organization WhimsyFree Knitwear
+
+
+Bill, hi
+
+I'll be able to tell you this afternoon re. width - I'm off to CoCA
+shortly with my tape measure to make sure we can fit everything in.  I'd
+love 20 ft, but we may have a bit of a crunch with other wall-mounted
+work, so I'll let you know.  This sounds brilliant, though - I can't
+wait to see the work!
+
+We should talk with Phil (electrician) onsite re. halogen spots; I can
+also raise it with him if I see him on Monday.
+
+Btw, if you were planning to begin installation on Monday, let me know
+and I'll try and encourage CoCA to get the SSOLE people to clear 'your'
+wall first...
+
+K
+
+
+
+
+
+
+ From Bill Beaty [mailtobeaty chem washington e d u] 
+Sent Friday, August 01, 2003 535 PM
+To kate@
+Subject RE Pond machine II?
+
+At 0157 PM 8/1/2003 -0700, you wrote
+>We should talk with Phil (electrician) onsite re. halogen spots; I can
+>also raise it with him if I see him on Monday.
+
+Any lights would work, but frosted bulbs give fuzzy shadows and reflections,
+while tiny halogen spots should give the moving reflections on the floor
+
+some very sharp details, though I haven't tried this yet.   The effect
+might be too subtle to spend a lot of time upon.
+
+>Btw, if you were planning to begin installation on Monday, let me know
+>and I'll try and encourage CoCA to get the SSOLE people to clear 'your'
+>wall first...
+
+I'll certainly be in on Monday to see the location.  A wooden wall would
+let me screw in those brackets directly.  If it's sheetrock or concrete,
+
+I'd have to somehow mount a long horizontal 1 x 4 board, then screw the 
+brackets into that.
+
+(((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))
+William J. Beaty                http://staff.washington.edu/wbeaty/
+billb@eskimo.com 
+
+
+
+
+
+
+
+
+
+
+
+
+Reply-To <kate@>
+ From "Kate Seekings" <kate@>
+To "'Bill Beaty'" <beaty chem.washington e d u>
+Subject RE Pond machine II?
+Date Mon, 4 Aug 2003 221837 -0700
+Organization WhimsyFree Knitwear
+
+
+Let's see what the electrician says tomorrow.  Thank you so much for
+coming in; I'll ping you an email if the wall is NOT sheetrock, and will
+look forward to seeing you for installation.
+
+And if it's any consolation, I've got a million last-minute things going
+on, too, and I feel as if I'm hosed ;].  It'll all come out fine for
+both of us.
+
+K
+
+
+
+
+
+
+From billb@eskimo.com Fri Aug 22 18:25:17 2003 -0700
+Date: Fri, 22 Aug 2003 18:25:17 -0700 (PDT)
+From: William Beaty <billb@eskimo.com>
+To: weirdsci-announce@eskimo.com
+Subject: pond machine, dynamic mirror at COCA
+
+At 11:08 AM 8/22/2003 -0700, you wrote:
+>Woo hoo!  Bill, that's great news - I can't wait to see it working!
+
+
+Well Pond Machine II is running, doing things, but not "working."
+
+But at least it's a *very interesting* failure.
+
+The way I created this thing was to simulate a transmission line made from
+small segments, then apply a signal to the end of the cellular array while
+having the voltage of each cell drive the plexiglas rectangles.  After
+putting it in full operation, I see that some internal values need some
+tuning.
+
+And now I realize that my mental image has an entirely different
+alternative interpretation.  The segments of the transmission line are
+also NEURONS.  They all communicate with their neighbors.  There is a bit
+of gain, and a bit of noise.  Each neuron has a nonlinear regime which
+must be avoided.  At the edge of the neural net there is a system clock, a
+pacemaker, which imposes organization on the dynamic patterns.
+
+But what happens when there's a flaw?  In that case positive feedback
+causes multiple emergent oscillations which make complicated travelling
+flickers:  Chaos patterns and soliton waves propagating across the array.
+Plug it in and it wiggles crazily, but the wiggle patterns are not simply
+random noise, instead they're full of (unwanted)  complexity.  Or in more
+familiar terms...
+
+
+   ...my sculpture has developed epilepsy.
+
+
+Either that, or the heart muscle has entered a fibrillation mode.
+
+It's a really cool system bug.  Maybe I shouldn't fix it.   Just
+rename the Chaos-wiggly device...
+
+  "Polished dancing thoughts thought fiercely."
+
+  "The consequences of reflective reflection."
+
+  "A flawed mirror of deranged mentation."
+
+(((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))
+William J. Beaty                http://staff.washington.edu/wbeaty/
+billb@eskimo.com 
+
+
+
+
+
+
+
+From billb@eskimo.com Mon Aug 25 16:04:32 2003 -0700
+Date: Mon, 25 Aug 2003 16:04:32 -0700 (PDT)
+From: William Beaty <billb@eskimo.com>
+To: m sharp <tototoo@oz.net>
+Subject: Re: pond machine, dynamic mirror at COCA
+
+On Sat, 23 Aug 2003, m sharp wrote:
+
+> that's hilarious!! maybe when you 'fix' it you can leave in a way to get
+> back to that mode.... or add a mode that filters out the nastiest
+> deviations so you get the occasional reflection showing up out of
+> nowhere, propagating for a while, then fading away - that sounds
+> relaxing! (electro-zen...)
+
+I left it with three fibrillating sections, with two "normal" wave
+sections in between.  I found that when I turn it on now, only one of the
+sections breaks out in chaos.  The others stay silent, so I have to poke
+them with a signal to make them explode.  Once started, it persists
+forever (although there's a chance that, by random, the solitons would all
+anihilate each other at the same time.)  Next:  set it up so I can zero
+the mirrors from a laptop and store the values.  That way I can adjust the
+whole thing so it's perfectly flat and will look much more like a wobbly
+mirror.
+
+> PS is it 5 bucks to get in now?
+
+
+Yep, suggested donation.
+
+
+
+
+
+
+
+
+From billb@eskimo.com Tue Aug  5 18:55:54 2003 -0700
+Date: Tue, 5 Aug 2003 18:55:54 -0700 (PDT)
+From: William Beaty <billb@eskimo.com>
+To: weirdsci-announce@eskimo.com
+Subject: Gallery opening Wed. nite 8pm 
+
+For those interested, the 'art thing' I've been frantically building this
+week will be displayed at COCA's gallery opening tomorrow (Wed) night
+starting at 8pm.  See below.
+
+It's a wall-mounted kinetic sculpture, a cellular automaton running a
+simplified EM wave equation... which tilts the many segments of a large,
+vertically-sliced dark mirror.  It looks somewhat like black water with
+smooth waves travelling across the surface, but mounted on a wall.  (At
+the moment it's still not working, so I expect to be up all night.)
+
+(((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))
+William J. Beaty                http://staff.washington.edu/wbeaty/
+billb@eskimo.com 
+
+
+
+
+      DORKBOT-SEA PEOPLE DOING STRANGE THINGS WITH ELECTRICITY
+      EXHIBIT AND PARTY
+
+      Shocks away it s show time!!!  This month s dorkbot
+      (http://dorkbot.org/dorkbotsea) is a full-on, no-holds-barred
+      *party* to celebrate the opening night of our month-long
+      exhibition at CoCA (http://www.cocaseattle.org ), People
+      Doing Strange Things With Electricity .  Join us for FREE on
+      Wednesday, August 6th from 8 pm til late; preview the
+      multifarious (and nefarious) exhibits, quaff a beer, listen
+      to extraordinary music and talk to the 29 exhibiting artists
+      who ll all be attendance.  Performers at the party include
+      DJs Canton Becker, Ario and gLoRy B, with live performances
+      from RAZREZ and Morpheme (formerly Eclectolounge).  Works
+      exhibited run a wild and woolly gamut from interactive sound
+      installations to crazed kinetic sculpture to
+      digitally-manipulated or generated images to things that go
+      bleep or talk back but all use electricity as an integral and
+      essential component of their creation or display.  Exhibiting
+      artists include Maribeth Back, John Bain, William J. Beaty,
+      Canton Becker, Carlos da Silva, Meredith Finkelstein, Davis
+      Freeman, S. Lyn Goeringer, Laura MacCary and Lawrence
+      MacCary, Paul McCall and Pete Brady, Cathy McClure and Seth
+      Sexton, Chris McMullen, Peter J. Mundweiler, Patrick O Dowd
+      and Christopher O Dowd, Peter Reiquam, Stephen Rock, Dave
+      Rubin and Mandy Greer, Mars Saxman, Mark Taylor-Canfield, W.
+      Scott Trimble, Trimpin and Eric Hungerford, Jeremy Winters,
+      and Mark Zirpel.  Check out the exhibition any time from 8/6
+      to 9/3 but come along on Wednesday 6th at 8 pm and party in
+      dorkbot style:  it s gonna be an electric evening!  Please
+      RSVP as usual to dorkbotsea@dorkbot.org so we can ensure that
+      you have a drink to call your own.
+
+
+
+      * * * * * * * * * * * * *
+
+
+
+      -----Original Message-----
+      From: Kate Seekings [mailto:kate@]
+      Sent: Thursday, July 31, 2003 11:40 PM
+      To: <bcc>
+      Cc: 'coca@cocaseattle.org'
+      Subject: PRESS RELEASE: GRASSROOTS ART COLLECTIVE dorkbot
+      OPENS MONTH-LONG EXHIBIT AT CoCA
+      Importance: High
+
+
+
+      Contact:
+
+      Elise Lahnstein or Don Hudgins
+      Center on Contemporary Art
+      206.459.3976
+      coca@cocaseattle.org
+
+      *OR*
+
+      Kate Seekings
+      dorkbot-sea
+      206-726-7863/206-321-1204
+      dorkbotsea@dorkbot.org
+
+
+      FOR IMMEDIATE RELEASE
+
+      July 30, 2003
+
+      (Seattle) GRASSROOTS ART COLLECTIVE dorkbot OPENS MONTH-LONG
+      EXHIBIT AT CENTER ON CONTEMPORARY ART AUGUST 6TH
+
+      CoCA (http://www.cocaseattle.org) presents People Doing
+      Strange Things With Electricity , a month-long show featuring
+      works created by Seattle s dorkbot community
+      (http://dorkbot.org/dorkbotsea) that use technology
+      (electricity in particular) as an integral and essential
+      component of their creation and display.  The exhibition
+      begins on Wednesday, August 6th at 8.00 pm with an opening
+      party and continues throughout the month of August until
+      September 3rd.  The works shown range from kinetic,
+      interactive, multi-media sculpture to 2D printed images
+      created by autonomous computer graphics software that
+      requires no human input, and a wide spectrum of creativity in
+      between.
+
+
+      The first dorkbot (http://dorkbot.org) meeting was held four
+      years ago at the Columbia University Computer Music Center in
+      New York City by Douglas Irving Repetto, and people doing
+      strange things with electricity has been the tagline for this
+      informal, international group ever since.  dorkbot has no
+      fees, no dues, no official membership roster but on the first
+      Wednesday of every month or thereabouts, in nine cities
+      around the world, artists (sound, image, movement, whatever),
+      engineers, designers, students and other interested parties
+      involved in the creation of electronic art meet to discuss
+      new work or technologies, share ideas, establish
+      collaborative relationships and see the cool things that
+      everyone else is up to.  This exhibit aims to represent the
+      diversity of this community, the diversity of the work that
+      the community generates, and, in the spirit of dorkbot, have
+      an excellent time to boot.  People Doing Strange Things With
+      Electricity at CoCA gives 29 local artists whose biographies
+      range from emerging to established, and CoCA s wide, local
+      audience, the chance to do exactly that.
+
+
+
+      Exhibiting artists include:
+
+
+
+       * MARIBETH BACK, Listen, Reader , an experiment in the
+      future of reading
+
+      * JOHN BAIN, Autocaster , an interactive sound installation
+
+      * WILLIAM J. BEATY, Pond Machine II , a vertical liquid
+      surface
+
+      * CANTON BECKER, Udderthump 2000 , a portable sound
+      transducing platform that lets you feel  as well as hear
+      music created by Carlos da Silva
+
+      * CARLOS DA SILVA, an original musical composition designed
+      to provide a sonic backdrop for the entire exhibition
+
+      * MEREDITH FINKELSTEIN, Cyborg Self-Portrait , an acrylic
+      painting incorporating LCDs
+
+      * DAVIS FREEMAN, two digitally-printed photographs created
+      using Davis s Illustratype Polaroid process
+
+      * S. LYN GOERINGER, Application #2 , an interactive sound
+      installation
+
+      * MANDY GREER AND DAVE RUBIN, That s Not A Toy , a kinetic
+      sculpture
+
+      * LAURA MACCARY AND LAWRENCE MACCARY, Dialectric:  The Space
+      Between Us , woven electronics
+
+      * PAUL MCCALL AND PETE BRADY, Ay, Tu Apestas (Oh, You Stink)
+      , a kinetic sculpture
+
+      * CHRIS MCMULLEN, INDUSTRY , a large-scale kinetic sculpture
+
+      * PETER J. MUNDWEILER (AKA DON PEDRO THE MAGNANIMOUS), Xerox
+      Drawing No. 4 , a flashlight powered by photocopies seen via
+      flashlight
+
+      * PATRICK O DOWD AND CHRISTOPHER O DOWD+, Solar Music Box and
+      Snake Robot , sound and kinetic sculptures
+
+      * PETER REIQUAM, Shark-O-Matic Maneating Machine and Ring of
+      Fire ; coin-operated kinetic sculptures
+
+      * STEPHEN ROCK, three digitally-manipulated images using
+      scanned 3D source material
+
+      * MARS SAXMAN+, three images created with no human input by
+      Starfish, an autonomous computer graphics program
+
+      * SID, INC. (AKA CATHY MCCLURE AND SETH SEXTON), a cabal of
+      feisty, interactive kinetic sculptures
+
+      * MARK TAYLOR-CANFIELD, a video kiosk showing three video
+      works
+
+      * W. SCOTT TRIMBLE, Conveyorscape and Landscape Dispenser ,
+      coin-operated kinetic sculptures
+
+      * TRIMPIN AND ERIC HUNGERFORD, interactive kinetic sculpture
+      with a mission
+
+      * JEREMY WINTERS+, The Mood Channel , an interactive sound
+      installation
+
+      * MARK ZIRPEL, Swimulator , Teeth and Circuit , kinetic
+      and/or interactive sculptures
+
+      * + indicates an exhibition debut
+
+
+
+      Performers at the opening party:
+
+
+
+       * DJ ARIO
+
+      * CANTON BECKER
+
+      * dj gLoRy B
+
+      * MORPHEME (formerly known as Eclectolounge)
+
+      * RAZREZ
+
+      * Additional lighting by THE LIGHT MAN
+
+
+
+      Party details:
+
+
+
+      WHERE:            Center on Contemporary Art (CoCA); see
+      http://www.cocaseattle.org for directions
+
+      WHEN:             8.00 pm on Wednesday, August 6th til late
+
+      WHAT:              Opening party for the dorkbot-sea People
+      Doing Strange Things With Electricity show; opportunity to
+      preview the work and talk with exhibiting artists
+
+      DRESS:              Informal spinning, glowing wearables or
+      clothing that talks back encouraged
+
+      ADMISSION:      FREE; voluntary donation to CoCA suggested
+
+
+
+      Press packs will be available at the opening party or by mail
+      on request; images and CDs will be available on request.
+      Contact elise@cocaseattle.org for press packs, images, CDs.
+
+
+
+      Center on Contemporary Art (CoCA) serves the Pacific
+      Northwest as a catalyst and forum for the advancement,
+      development, and understanding of contemporary art. CoCA
+      provides opportunities for the art audience in this region to
+      view new and experimental artwork firsthand in exhibitions
+      which show the work of international, national and local
+      artists. CoCA is committed to exploring issues, media, and
+      concepts relevant to the world and times in which we live.
+      Site-specific installations, performance art, multi-media and
+      multi-disciplinary programs, and gallery exhibitions of
+      visual art are all within the focus of the organization. CoCA
+      is committed to commissioning new work and providing exposure
+      for emerging artists in a variety of media. CoCA's galleries
+      serve as an artistic proving ground resulting in programming
+      that is experimental in nature--an important distinction
+      between CoCA and other visual arts institutions and
+      organizations in this region.
+
+
+
+      * * * * * * * * * * * * * * * * * * * * *
+
+      -----Original Message-----
+      From: Kate Seekings [mailto:kate@]
+      Sent: Sunday, July 27, 2003 2:37 PM
+      To: 'dorkbotsea-announce@dorkbot.org';
+      'dorkbotsea-blabber@dorkbot.org'
+      Cc: 'Kathy Cain'; 'coca@cocaseattle.org'
+      Subject: * * IT'S DORKBOT SHOWTIME!!!* *
+      Importance: High
+
+
+
+      Artworks aweigh!!!  People Doing Strange Things With
+      Electricity , the month-long show featuring the strange stuff
+      our strange dorkbot-sea (http://dorkbot.org/dorkbotsea) crew
+      gets up to professionally and in its spare time, for money,
+      for love or for kicks and grins, blasts off at CoCA on
+      Wednesday, August 6th at 8.00 pm with a giant party,
+      fantastical exhibits, smashing performers and the smell of
+      ozone in the air.
+
+
+
+      The show runs from the first Wednesday in August (8/6)
+      through the first Wednesday in September (9/3), but if you re
+      not there on the opening night, well&  you re not just a
+      dork, you re a dork sitting at home thinking about being out
+      having fun, talking with the exhibiting artists, listening to
+      great music and waving your martini as punctuation for your
+      eloquent discourse, all for FREE, and what s not to love
+      about that?
+
+
+
+      Note this preview, discussion and celebration replaces this
+      month s regular dorkbot meeting.  Please, though, do send
+      your RSVP to dorkbotsea@dorkbot.org so we can plan
+      refreshments, space etc. we re looking forward to hearing
+      from you, and to seeing you there.
+
+
+
+      Read on for more&:
+
+
+
+      * * * * * * * * * * * * * * * * * * *
+
+      Exhibiting artists:
+
+
+
+      * MARIBETH BACK
+
+      * JOHN BAIN
+
+      * WILLIAM J. BEATY
+
+      * CANTON BECKER
+
+      * CARLOS DA SILVA
+
+      * MEREDITH FINKELSTEIN
+
+      * DAVIS FREEMAN
+
+      * S. LYN GOERINGER
+
+      * MANDY GREER AND DAVE RUBIN
+
+      * LAURA MACCARY AND LAWRENCE MACCARY
+
+      * PAUL MCCALL AND PETE BRADY
+
+      * CHRIS MCMULLEN
+
+      * PETER J. MUNDWEILER (AKA DON PEDRO THE MAGNANIMOUS)
+
+      * PATRICK O DOWD AND CHRISTOPHER O DOWD
+
+      * PETER REIQUAM
+
+      * STEPHEN ROCK
+
+      * MARS SAXMAN
+
+      * SID, INC. (AKA CATHY MCCLURE AND SETH SEXTON)
+
+      * MARK TAYLOR-CANFIELD
+
+      * SCOTT TRIMBLE
+
+      * TRIMPIN AND ERIC HUNGERFORD
+
+      * JEREMY WINTERS
+
+      * MARK ZIRPEL
+
+
+
+      * * * * * * * * * * * * * * * * * * *
+
+      Performers at the opening party:
+
+
+
+      * CANTON BECKER
+
+      * DJ gLoRy B
+
+      * DJ ARIO
+
+      * RAZREZ
+
+      * MORPHEME
+
+      * Lighting by THE LIGHT MAN
+
+
+
+      * * * * * * * * * * * * * * * * * * *
+
+      Those essential details again:
+
+
+
+      WHERE:           Center on Contemporary Art (CoCA); see
+      http://www.cocaseattle.org for directions
+
+      WHEN:             8.00 pm on Wednesday, August 6th til late
+
+      WHAT:              Opening party for the dorkbot-sea People
+      Doing Strange Things With Electricity show; opportunity to
+      preview the work and talk with exhibiting artists
+
+      DRESS:            Informal but if you have anything wearable
+      that spins, glows or talks back, now s the time to bring it
+      out of the closet
+
+      ADMISSION:     FREE; voluntary donation to CoCA to help them
+      continue to support events like dorkbot
+
+      RSVP:              dorkbotsea@dorkbot.org so we can plan
+      beer, wine and cocktails
+
+      BRING:             Work in progress to discuss; anything you
+      d like to share
+
+
+
+       * * * * * * * * * * * * * * * * * * *
+
+      As usual
+
+      If you would like to speak and/or perform at a later dorkbot,
+      do please let Kate or Kathy know via dorkbotsea@dorkbot.org.
+
+
+
+       * * * * * * * * * * * * * * * * * * *
+
+      Lastly, I d like to thank our exhibiting artists, CoCA staff
+      and our performers for pitching in to make this a great
+      event.
+
+
+
+      See you on the 6th!
+
+
+
+      K
+
+

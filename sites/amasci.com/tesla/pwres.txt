@@ -1,0 +1,29 @@
+Date: Sun, 25 Aug 1996 00:24:23 -0600
+From: dave <skeeve@henge.com>
+
+POWER RESISTOR
+
+On occasion one has need for a very high ohm resistor to limit the current
+in some high voltage use. My particular application is in charging 20uf 25kv
+power discharge caps for a flash pumped organic dye laser. 
+
+Rather than spend alot of time soldering resisters together, I went down to
+the local checkers store and purchased a couple of feet of standard black
+rubber vacuum tubing, 3/16 inch id. This tubing is mostly carbon just like
+resistors and conductive with a very high resistance per foot. I take the
+necessary length of tubing and insert it into a larger size of clear vinyl
+tubing (at least 1/8 wall thickness). This tubing serves as an insulator.
+Then to provide connectors for the resistor/tubing, I push a screw into each
+end of the tubing. Voila! A super simple, cheap, safe resistor! And flexible
+to boot. 
+
+One addition, to this tip: If you are pulling more than 20 milliamps, the
+tubing can get rather warm. In such cases, I use small brass tubing instead
+of screws for the end terminals, and connect one of the terminal tubes to
+the output of an aquarium pump via at least several feet of small clear
+vinyl tubing. Air is pumped through the resistor tubing, giving you an cool
+running resistor.
+
+Best wishes!  (Also, don't smoke yourself!) :-) 
+
+dave

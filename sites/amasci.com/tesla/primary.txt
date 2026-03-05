@@ -1,0 +1,196 @@
+From: richard.quick@slug.org (Richard Quick)
+Subject: Primary Coils
+Date: Thu, 31 Aug 1995 02:00:00 GMT
+To: tesla@grendel.objinc.com
+
+ * Original msg to: usa-tesla@usa.net
+
+Quoting "Lima, David" <dlima@analogic.com>:
+
+ > Thus far I have not been able to understand the benefits and
+ > differences between cylindrical, flat ,and saucer shaped primaries,
+ > Do you have any FAQs or text on this? Or if not maybe suggest a good
+ > book? 
+
+Man, until I write mine there is simply no real good books out there.
+I have a rather extensive library on the subject and I can find a
+section in one book, a chapter in another, but not one single refer-
+ence that has any real dirt on primary coil designs and characteristics.
+The standard line is "wind a few turns of heavy conductor".
+
+So let's discuss awhile and see if I can put this in fuller perspective.
+The primary coil design and construction is critical to a well balanced
+and efficient Tesla coil system.
+
+First lets talk about the actual conductor. The Tank circuit pulse
+oscillates with very heavy RF current. This energy exhibits "skin 
+effect" in that the electrical current does not flow through the 
+conductor as much as over it. Penetration has been calculated as only
+being a few mils (.001 inch = 1 mil). The best conductor for this
+type of electrical energy is a smooth flat strap with a few mils of
+silver plating. The problem with flat strap primaries is that the 
+high voltage promotes corona loss from the thin edges, and this 
+loss can be significant. The sharp edge also provides a jumping off
+spot for arcs to strike the secondary when the secondaries are
+"overcoupled" (more on this later). One way around this is to use
+a bar instead of a strap. The bar can have the thin edges rounded
+to reduce corona losses and flashover, but it is not an efficient
+use of conductor.
+
+Another conductor of choice is thin wall copper tubing. This has
+many advantages. The thin wall tubing is an excellent conductor
+for tank circuit energy, and it is available in a wide variety of
+outside diameters. The smooth rounded surface reduces corona loss.
+I use the thin wall soft copper refrigerator tubing.
+
+Heavy Litz wire would work well.
+
+Conductors to avoid would be solid wire, braided strap, stranded
+wire that has a "twist" in the conductor (parallel stranded is OK).
+
+The next aspect of primaries is the size and shape. In the past many 
+designers have advocated small primaries consisting of five or so
+total available turns, and frequently tapped in at three turns or 
+less. This line of thought is derived from radio theory where the 
+voltage gain was assumed to result from a ratio of turns trans-
+formation. We now know that this is a misconception. 
+
+The Tesla secondary is in fact an open ended resonator. While it
+is true that the ratio of turns transformation is responsible for
+some voltage gain in the secondary, the majority of voltage produced
+from a Tesla coil is pure resonant rise such as associated with open
+ended transmission line VSWR. With this understanding the importance
+of having a high ratio of turns between the primary and secondary
+is diminished, and uniform excitation of the resonator becomes a 
+major concern. 
+
+The small five turn primary at the base of a coil does a very poor
+job of uniformly exciting the secondary coil. Most of the energy
+is forced into the bottom third of the secondary winding on these
+systems and these turns are unnecessarily stressed. The solution
+was frequently to space wind to unstress the secondary, which in 
+turn reduced the ratio of turns transformation, which further 
+crippled the poor design. The small primary, large capacitor, space 
+wound secondary is a design loser. These systems are highly stressed, 
+inefficient, and require large and expensive capacitors and trans-
+formers that are prone to high failure rates.
+
+The solution of course is to move in the opposite direction. The 
+primary needs more turns which cover a larger area. This means a
+substantially larger primary coil. Instead of a five turn primary 
+coil tapped in at three turns, the coil needs to have fifteen turns 
+tapped out at twelve or more turns. This primary design creates
+a much larger field flux which completely engulfs the secondary
+winding. The resulting excitation is much more uniform. 
+
+What happens next is very interesting. Because the secondary coil 
+is uniformly excited, the secondary coil can be close wound with 
+magnet wire without breakdowns and excessive corona losses. The
+close wound magnet wire secondary has a very high inductance per
+unit volume of coil form. When coupled to a large, high inductance
+primary, the resulting coil set will achieve the same ratio of turns 
+transformation as the small primary design discussed previously.
+This is a "win-win" situation.
+
+The large primary coil tunes with a much smaller (and cheaper) tank 
+circuit capacitance which requires a smaller power supply to charge.
+Yet the system is able to process power more efficiently because of
+the large field flux and uniform excitation of the high inductance
+secondary. The overall RF power processing efficiency is so great
+that coilers who follow this design method blow away other designs
+by producing bigger sparks with much less input power. As an added 
+boon, the large primary coil and high inductance secondary form a 
+"slow-wave" system. The tank circuit operates at a lower frequency 
+with less peak power which in turn reduces the stress on the gaps, 
+caps, and power supplies. The gaps quench easier and I have found 
+that the tank circuit capacitors have a much longer life. Run times 
+are longer with a higher duty cycle. When something finally does 
+fail, it is cheaper to replace.
+
+So now that I hopefully have convinced everyone that large primaries
+and close wound high inductance secondaries are the way to go, what
+shape primary coil is best?
+
+The basic primary shapes are the vertically rising helix; the flat 
+"pancake" Archimedes spiral; and the "hybrid" inverse conical section 
+or "saucer" coil. I do not like the coupling characteristics and
+the shape of the field flux produced by a vertically rising helix 
+primary. I do not recommend using them unless you are building Tesla
+Magnifier systems. For small to medium 1/4 wave coils I would recommend 
+the "saucer" primary. As I mentioned earlier, I like about 15 primary 
+turns available, and the conical section should have an angle of slope
+of about 30 degrees starting with the lower inside turn and rising to 
+the outside turn. On larger coils running with higher voltage inputs 
+and greater peak powers the best primary is going to be a flat pancake. 
+
+The reason I like these specific shapes is for their coupling 
+characteristics, which are derived from the size and shape of the 
+magnetic field flux they produce. A good primary coil will end up 
+being about as wide as the secondary coil is tall. When the primary 
+is tapped out over nine turns or so, the field flux that is generated 
+couples in the entire secondary winding all the way to the top turn 
+on the coil. I know this for a fact because in Tesla coil systems 
+that are overdriven the field flux contains so much energy that it 
+ionizes the air. Clearly visible corona maps out the field size, shape,
+and relative intensity.
+
+Next we need to briefly discuss coupling and over-coupling. 
+Coupling quite loosely is the inductive interaction between
+two coils. In Tesla coil systems the pulse oscillation through
+the primary creates a powerful magnetic field. When the gap is 
+quenched the magnetic field collapses and the energy that was
+contained in the system is forced into and trapped in the 
+secondary. If too much energy is forced into the secondary coil
+the resonator frequency will "split". Splitting is the formation 
+of parasitic harmonic resonances of higher frequency in the 
+secondary winding. Splitting is observed when the 1/4 wave voltage 
+peaks of these parasitic harmonics break out as sparks from the 
+middle of the winding. Sparks will jump up and down the sides of 
+the coil. Excessive corona resulting in a visible primary/secondary 
+field flux is another indication that the secondary coil is being 
+overdriven. Splitting and excess corona indicate that the system 
+is over-coupled. The cure for over-coupling is to raise the 
+secondary coil some, which reduces the inductive interaction. 
+
+If the primary coil is not properly shaped, like a flat pancake
+coupled to a tall skinny secondary, then the coupling will be too
+loose and insufficient energy will be transferred to the secondary.
+There is no easy cure for this. If the primary under-couples or
+couples too "loosely" you have to rework the coils. This is one 
+reason I suggest that the intended primary be designed and built 
+with tight or "close" coupling in mind. If the primary over-couples 
+you can then raise the secondary until the system is "critically 
+coupled". 
+
+The one thing that did not just fall into place in the text above
+is the turn to turn spacing of the primary. The space between turns
+needs to be kept small. The largest spacing that I have required
+is 1/2 inch between the edges of a copper tube primary where the 
+operating voltage was 20KVAC RMS into the tank circuit. Most primaries
+need no more than 1/4 to 3/8 of an inch inter-turn airspace.
+
+ > Tesla built his coil in Colorado with the secondary and primary
+ > having the same diameter, and with a bottom fed 'extra' coil. Have
+ > you ever tried building a basement sized coil to these geometries?
+
+There is no need. Tesla developed and built large diameter coils in 
+order to distribute the charge densities over a very large area. Tesla 
+was working in an era of "stone knives and bear skins" (Spock), his 
+coils were wound on open wooden forms and his best wire insulation was
+natural rubber gutta-percha (loaded with carbon soot from the curing
+process) with a cotton wrapping. This is not like what we use today. 
+
+Today I build hermetically sealed all plastic coil forms. Modern
+plastics, sealers, insulations and adhesives can contain much 
+greater charge densities in a much smaller volume with less loss. 
+There is no legitimate reason to wind large diameter coils when a 
+properly designed and constructed coil of much smaller dimensions 
+will exceed the performance of the former.
+
+Richard Quick
+
+
+... If all else fails... Throw another megavolt across it!
+___ Blue Wave/QWK v2.12
+
+

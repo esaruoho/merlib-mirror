@@ -1,0 +1,98 @@
+NEWSLETTER ON ATMOSPHERIC ELECTRICITY 
+http://amasci.com/tesla/ball.txt
+   
+   Vol. 5, No. 2
+   November, 1994
+   
+      AMS COMMITTEE
+      ON ATMOSPHERIC
+      ELECTRICITY
+   
+      AGU COMMITTEE ON INTERNATIONAL
+      ATMOSPHERIC AND COMMISSION ON
+      SPACE ELECTRICITY ATMOS. ELECTRICITY
+      
+<delete>
+   
+   INSTITUTE FOR HIGH TEMPERATURES (Russian Academy of Sciences,
+   Izhorskaya, 13/19, Moscow, 127412, Russia)
+   
+   In the Yaroslavl State University, 6-8 of July, a conference was held
+   devoted to problems of atmospheric electricity that include Ball
+   Lightning (BL), St. Elmo's fire, aerometeors, electrically charged
+   water drops and other long living plasma objects in the atmosphere.
+   Participants from Russia, Ukraine, U.S.A., Belgium and Comores
+   delivered 20 reports on these problems. Interesting results:
+
+   Emelin S.E ., Semenov V.S. (Russia), Hassani A.K . (Co mores) (St.
+   Petersburg University) delivered 3 reports on the formation of long
+   lived (about 1-3 seconds) compact erosive plasma objects with the help
+   of the erosion type plasma generator in PMMA. They managed to analyze
+   the trace which persisted in these objects. The structure consisted of
+   elastic composite thin threads (10-5 - 10-4 cm thick) that included
+   chains of amorphous carbon and they came to the conclusion that a
+   polymer BL model is applicable to this object.
+
+   Klimov A.I . (Russia, Moscow Radio-Technical Institute) delivered a
+   report on the formation of a long lived (about 1 second) compact
+   plasma object with the help of the erosive type plasma generator in
+   wax. When these objects were directed onto a cell with liquid nitrogen
+   the whole surface became covered with threads (10-5-10-3 cm thick) of
+   polymer that resembled lint. These objects had hydrodynamic properties
+   analogous to BLs.
+
+   Manykin E.A . (Russia, Kurchatov Institute of Nuclear Energy, Moscow)
+   delivered a report on obtaining plasma fire balls in a magnetron
+   arrangement in conditions analogous to those of a successful
+   experiment in Ohtsuki. The elaborated theory of the plasma vortex in
+   convection conditions explained the main properties of the phenomenon.
+   Yakovlenko S.I . (Russia, Institute of General Physics of Russian
+   Academy of Sciences) delivered a report on the over-cooled plasma.
+   This plasma of Coulombic particles in special conditions will
+   recombine very slowly, and there is the principal possibility to
+   create such a plasma.
+
+   Handel P.H . (University of Missouri, St. Louis, USA) delivered a
+   report on the maser-caviton BL. It is based on the interpretation of
+   BL as a plasma region, a caviton, fed by a large atmospheric maser - a
+   large region of rotationally excited water molecules. The plasma
+   caviton is a localized nonlinear quasi stationary electric field and
+   plasma configuration in oscillation, also described as a soliton. The
+   mechanism of transport of the maser energy to the caviton is under
+   examination.
+
+   Gaidukov N.I . (Russia, Orekhovo-Zuevo, Pedagogical Institute)
+   delivered a report on the interaction of BL with the one motor and two
+   motor airplain and with the one motor helicopter. The main idea is
+   that BL is a ball of ideal liquid with corresponding boundary
+   conditions. It helps to describe the interaction reasonably.
+   Meseniashin A.I . (Russia, St. Petersburg, "Mekhanobr" Inst.)
+   described a model according to which BL is a water bubble. He could
+   explain several properties of BL such as the energy, ability to fly,
+   the stability of form that make this theory worthy of special
+   attention.
+
+   Bychkov V.L . (Russia) delivered a report (in cooperation with Anvar
+   Kh. Amirov ) on the statistical analysis of BL properties. A new
+   approach was noted on the basis of the analysis of variance and
+   parametric regression. A special report was devoted to polymer BL
+   theory which, in its modern state, can explain many properties of BL
+   and the results of the experiments with polymer structures that appear
+   in gas discharges of different types of gas mixtures that contain
+   polymer components or macro molecular organic additives. A connection
+   was shown between this theory and the results of Gaidukov and
+   Meseniashin .
+
+   During the conference a new group was formed "The Russian Committee on
+   Ball Lightning and Long Lived Plasma Formations in the Atmosphere".
+   Its purpose is to coordinate activity of all investigators in this
+   field of science in the countries of the former USSR and to improve on
+   information exchange. Dr. V.L. Bychkov was elected its president, and
+   professor A.I. Grigoriev and Dr. A.I. Klimov were elected to be vice
+   presidents. An edition commitee headed by Anatoli I. Klimov has
+   prepared for publication a book of experimental works "Ball Lightning
+   in the Laboratory", Chemistry Publishers, Moscow, 1994.
+   
+UP TO:  Main Ball-Lightning Page
+http://amasci.com/tesla/ballgtn.html
+

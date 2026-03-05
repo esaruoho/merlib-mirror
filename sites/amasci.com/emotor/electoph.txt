@@ -1,0 +1,145 @@
+OBSOLETE
+
+moved to http://amasci.com/emotor/electoph.html
+
+
+<pre>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</pre>
+
+<pre><b>A SIMPLE ELECTROSTATIC GENERATOR                           <a href="http://amasci.com/me.html">Bill Beaty</a>
+</b>The Electrophorus
+
+Cut out a disk of cardboard about 8" to 12" in diameter.  Cover one side
+with aluminum foil, and fold the foil up over the other side so it
+partially covers it.  Attach some sort of insulating handle to the center
+of the remaining cardboard area (tape a plastic or styrofoam cup to the
+cardboard, or glue a small block of styrofoam) When holding the disk by
+its handle, the far side of the disk should be entirely covered with foil,
+and your fingers on the handle should be some distance away from the foil. 
+                 _
+                | | Handle
+                | |
+        =================== Foil-covered cardboard
+
+Next, obtain an easily-charged object, such as a thick plastic sheet,
+plastic cutting board, styrofoam packing block, etc.  Obtain something
+that can be used to electrically charge this object through rubbing, such
+as a piece of (artificial) fur, a wool sweater, a wig, your hairy head or
+arms, etc.
+
+A low-humidity day is required to operate the Electrophorus successfully.  
+To test humidity, rub your plastic object with the fur or sweater and see
+if it becomes charged and makes the fur stand on end when it's held close
+to the charged area on the plastic.  If you can't get the plastic object
+to raise the fur, wait for a less moist day.  Or go into an airconditioned
+building and try again.  (Or sometimes a warm sweater fresh from the
+clothes-dryer will work.  But don't use anti-static fabric softener!)
+
+To operate the electrophorus, place your plastic object on a table and rub
+its surface with fur or wool to charge it well.  Or if your hair is clean
+and without grease, try rubbing the object on your head to charge it up.)
+Place the cardboard/foil disk upon the charged surface, foil side down.  
+With the disk still on the plastic, touch the foil to allow it to steal
+charge from your body. You'll feel a tiny spark.
+
+   \  \ finger
+     \_ \
+    __\ \ \            _
+     \\\\_\\\         | | Handle
+             \\       | |          Foil-covered cardboard
+  >TOUCH!<    ===================
+                |_____________|
+                         Styrofoam block
+
+
+Now, while holding the disk only by the insulating handle, lift it from
+the charged surface.  The disk is now charged, and it can be used to blink
+a small NE-2 neon bulb, or to create small sparks, to deflect an
+electroscope leaf, pick up lint, charge a Leyden Jar capacitor, etc.
+
+Even though it has been used to charged the foil, the plastic object still
+remains fully charged.  It need not be rubbed for a while and can be used
+to charge the foil plate again and again, since the charging of the foil
+DID NOT remove any charge from the plastic.  This seems impossible?  The
+charged plastic in this generator acts more like a magnet than like a
+source of energy, and it does not lose its strength when it attracts
+charge into the foil.  But from where does the electrical energy come?  It
+comes from the work your arm did in pulling the foildisk away from the
+plastic surface.
+
+The electrophorus WILL run the <a href="http://amasci.com/emotor/emotor.html"> Soda Bottle</a> motor very slowly.  (If
+humidity is high it will not work.)  Connect the foil of one of the
+motor's bottles to ground.  (water faucets connect to ground, or connect
+to the screw on a wall switch cover plate.)  Charge the electrophorus disk
+and touch it to the foil on the OTHER, non-grounded motor bottle.  Do this
+over and over fairly fast, and the motor will slowly turn.
+
+<ul>
+<li><a href="http://pbskids.org/zoom/pdf/electroscope.pdf">PBS Kids: electroscope</a> (PDF)
+<li><a href="http://www.reachoutmichigan.org/funexperiments/quick/eleclub/electroscope.html">Making an electroscope</a>
+<li><a href="http://www.geocities.com/CapeCanaveral/Hall/1805/electroscope.html">Build an electroscope</a>
+<li><a href="http://wow.osu.edu/Electricity/electroscopet.htm">Electroscope</a>
+<li><a href="http://www.mos.org/sln/toe/simpleelectroscope.html">Simple electroscope</a>
+<li><a href="http://www.madsci.org/posts/archives/jul2000/962806055.Ph.q.html">Electroscope problem</a>
+</ul>
+
+
+
+</pre>
+
+<hr>Want books? Try searching
+<a 
+href="http://www.amazon.com/exec/obidos/redirect-home/sciencehobbyist/">
+amazon.com</a>:<br><p><form method="get"
+action="http://www.amazon.com/exec/obidos/external-search/">
+<input type= "text" name="keyword" size=25 value="electrostatic generator">
+<input type= "hidden" name="tag" value="sciencehobbyist">
+<input type="submit" value="Search">
+<font size=3>(try "<a href="http://www.amazon.com/exec/obidos/tg/browse/-/13841/ref=br_bx_c_1_0/sciencehobbyist/">
+science experiment project</a>" too)</font></form><font size=3>
+<br><p>
+Help Support <a href="http://scienceclub.org/">AMASCI.COM / Science Club 
+Inc.
+</a>, use the above form to order books.<br>
+(We make a few $$ on any books ordered via these links.)</font><hr>
+<br><p>
+
+<table width=157 height=172><tr><td>
+<script language="JavaScript1.2" src="http://www.altavista.com/r?entr">
+</script></td></tr></table>
+<center><b>LIKE THIS ARTICLE?  WHY NOT<br>
+<a href="http://amasci.com/tipjar.html">
+SUPPORT AMASCI.COM</a><br><p><br><p></b></center>
+
+
+<center>
+<font size=3>
+<a href="http://amasci.com/emotor/electoph.html">
+http://amasci.com/emotor/electoph.html</a><br>
+Created and maintained by <a href="http://amasci.com/billb.html">Bill Beaty</a>.  
+Mail me at: <a href="http://amasci.com/amateur/amform.html#urls"><img border=0 width=141 height=19 src="http://amasci.com/graphics/email.gif"></a>.
+<br>
+ 
+</center>
+</strong>
+</font>
+</body>
+</html>
+

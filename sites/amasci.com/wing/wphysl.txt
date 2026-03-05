@@ -1,0 +1,1982 @@
+Airfoil Lifting Force, miscellaneous discussion from the archive of the
+Physics Teaching list server PHYS-L, phys-l@atlantis.cc.uwf.edu
+
+
+
+
+
+
+
+
+>>> Item number 386, dated 95/04/14 10:40:14 -- ALL
+Date:         Fri, 14 Apr 1995 10:40:14 CST
+Sender:       Forum for Physics Teachers <PHYS-L@UWF.BITNET>
+From:         "James M. Espinosa" <f_espinosa@VENUS.TWU.EDU>
+Subject:      BERNOULLI'S EQUATION
+
+THIS NOTE IS ABOUT THE RECENT DISCUSSION ON BERNOULLI'S EQUATION.  IT IS
+NOT TRUE THAT BERNOULLI'S EQUATION APPLIES ONLY TO INCOMPRESSIBLE FLUIDS,
+SUCH AS WATER BUT NOT TO AIR.  ANYBODY WHO HAS DERIVED THAT EQUATION
+WOULD KNOW THAT INCOMPRESSIBILITY IS A SUFFICIENT CONDITION.  BUT A
+NECESSARY CONDITION IS THAT THE DENSITY REMAIN CONSTANT.  SO, IF A FLOW
+OF AIR OCCURS WITH CONSTANT DENSITY, SO THAT EVEN THOUGH AIR IS
+COMPRESSIBLE IT WOULD NOT GET COMPRESSED, THEN BERNOULLI'S EQUATION APPLIES
+TO THAT FLOW.  IT MAY APPEAR THAT THE NEARNESS OF THE STREAMLINES IMPLIES
+COMPRESSION BUT IT MAY ONLY MEAN THAT THE AIR IS FLOWING THROUGH A SMALLER
+CROSS SECTION AT A HIGHER SPEED.
+
+JAMES M. ESPINOSA
+
+
+
+
+>>> Item number 606, dated 95/04/22 20:09:16 -- ALL
+Date:         Sat, 22 Apr 1995 20:09:16 CST
+Sender:       Forum for Physics Teachers <PHYS-L@UWF.BITNET>
+From:         "James M. Espinosa" <f_espinosa@VENUS.TWU.EDU>
+Subject:      Magnus effect and explanation
+
+Several weeks ago there appears to have been some disagreement on whether
+the Magnus effect and Bernoulli's equation could refer to the same
+phenomena, such as in the context of airplane lift.  Later there was a
+discussion on description versus explanation.  I think these two themes
+can be connected.  The Magnus effect is the description of a phenomenon;
+the motion of a projectile, like a tennis ball, out of a vertical plane
+when the projectile is spinning.  The explanation of the Magnus effect
+comes from Bernoulli's equation where the spin produces a difference in
+flow speeds and a difference in pressure.  The description is about
+"what" happens or "how" it happens, while the explanation is "why" it
+happens.
+
+James M. Espinosa
+
+
+>>> Item number 889, dated 95/05/04 20:12:44 -- ALL
+Date:         Thu, 4 May 1995 20:12:44 CST
+Reply-To:     Forum for Physics Teachers <PHYS-L@UWF.BITNET>
+Sender:       Forum for Physics Teachers <PHYS-L@UWF.BITNET>
+From:         "James M. Espinosa" <f_espinosa@VENUS.TWU.EDU>
+Subject:      Airplane lift and Bernoulli's equation
+
+Several weeks ago there was a discussion on what it was that produced
+lift on the wing of an airplane and whether Bernoulli's equation was
+relevant in this case.  It seems to me that most notes stated that
+Bernoulli's principle was not applicable in the case of airplane lift.
+I have for many years given my students of first year physics the
+explanation of lift precisely as an application of that principle.
+Because of the controversy I looked up some sources on flight.  I
+highly recommend the following elementary book: "Aerodynamics" written
+by the famous aerodynamic physicist Theodore von Karman.  In there he
+writes:
+           In earlier times the instinctive impression was that the air
+           hits the inclined wing surface and that the airplane is there-
+           fore carried by the air below.  We now see that the airplane
+           wing is at least partially hung up or sucked up by the air
+           passing along the upper surface.  As a matter of fact, the
+           contribution to the total lift from the negative pressure or
+           suction developed at the upper surface is larger than the
+           contribution from the positive pressure at the lower surface.
+
+James M. Espinosa
+
+
+
+>>> Item number 914, dated 95/05/05 07:47:59 -- ALL
+Date:         Fri, 5 May 1995 07:47:59 -0700
+Sender:       Forum for Physics Teachers <PHYS-L@UWF.BITNET>
+From:         William Beaty <billbeskimo.com>
+Subject:      Re: Airplane lift and Bernoulli's equation
+
+On Thu, 4 May 1995, James M. Espinosa wrote:
+
+> Several weeks ago there was a discussion on what it was that produced
+> lift on the wing of an airplane and whether Bernoulli's equation was
+> relevant in this case.  It seems to me that most notes stated that
+> Bernoulli's principle was not applicable in the case of airplane lift.
+> I have for many years given my students of first year physics the
+> explanation of lift precisely as an application of that principle.
+> Because of the controversy I looked up some sources on flight.  I
+> highly recommend the following elementary book: "Aerodynamics" written
+> by the famous aerodynamic physicist Theodore von Karman.  In there he
+> writes:
+>            In earlier times the instinctive impression was that the air
+>            hits the inclined wing surface and that the airplane is there-
+>            fore carried by the air below.  We now see that the airplane
+>            wing is at least partially hung up or sucked up by the air
+>            passing along the upper surface.  As a matter of fact, the
+>            contribution to the total lift from the negative pressure or
+>            suction developed at the upper surface is larger than the
+>            contribution from the positive pressure at the lower surface.
+
+
+As a member of the venemously anti-bernoulli camp I must say: sounds good
+to me!  My beef was with the explanations which assume that the ENTIRE
+explanation of lift must be centered ONLY on the low pressure on the upper
+wing surface, while totally ignoring the fact that all the forces
+involved are reaction forces which act to direct a jet of air downwards
+after the trailing edge of the wing.  Also ignored is the fact that a
+positive angle of attack is required.  Now defining "angle of attack" for
+various wing sections is another story...
+
+Someone recently asked me this: how can anyone say that the lower
+pressure above a wing explains lift properly, since we should never say
+that vacuums create "suction forces."  Does not ALL the lifting force
+come from below the wing?
+.....................uuuu /oo\uuuu........,.........................
+William Beaty  voice:206-762-3818   bbs:206-789-0775    cserv:71241,3623
+EE/Programmer/Science exhibit designer        http://amasci.com/
+Seattle, WA 98117  billbeskimo.com           SCIENCE HOBBYIST web page
+
+
+
+
+>>> Item number 922, dated 95/05/05 13:25:03 -- ALL
+Date:         Fri, 5 May 1995 13:25:03 -0500
+Sender:       Forum for Physics Teachers <PHYS-L@UWF.BITNET>
+From:         "Jack Uretsky, Internet:, HEP Division, Argonne National Lab,
+              Argonne, IL 60439" <JLU@HEP.ANL.GOV>
+Subject:      Re: Airplane lift and Bernoulli's equation
+
+Hi all-
+        William Beaty writes
+***********************************************************************
+
+As a member of the venemously anti-bernoulli camp I must say: sounds good
+to me!  My beef was with the explanations which assume that the ENTIRE
+explanation of lift must be centered ONLY on the low pressure on the upper
+wing surface, while totally ignoring the fact that all the forces
+involved are reaction forces which act to direct a jet of air downwards
+after the trailing edge of the wing.
+***********************************************************************
+        This argument misuses Newton's third law.  If I want the force of
+the air on the wing, I look at the pressure difference at the wing surface.
+This comes directly from Bernoulli.  If I want to look at the effect of the
+wing on the air, then I look at the downward directed jet of air.
+                                Regards,
+                                        Jack
+
+
+
+
+>>> Item number 943, dated 95/05/06 17:08:36 -- ALL
+Date:         Sat, 6 May 1995 17:08:36 -0700
+Sender:       Forum for Physics Teachers <PHYS-L@UWF.BITNET>
+From:         Rob Knapp <knappr@ELWHA.EVERGREEN.EDU>
+Subject:      Re: Airplane lift and Bernoulli's equation
+
+On Fri, 5 May 1995, William Beaty wrote:
+
+>
+> Someone recently asked me this: how can anyone say that the lower
+> pressure above a wing explains lift properly, since we should never say
+> that vacuums create "suction forces."  Does not ALL the lifting force
+> come from below the wing?
+>
+
+Sounds as though we're getting into Aristotle on causes: is the low
+pressure above the wing a proximate cause, an efficient cause, or no kind
+of cause? Seems to me that the whole pattern of pressure is what you have
+to look at. After all, does the Earth cause the ball in my hand to fall
+when I let it go? or does the ball cause its own fall? Answer: yes to both.
+
+Rob Knapp
+
+
+
+
+
+>>> Item number 1304, dated 95/05/27 11:26:31 -- ALL
+Date:         Sat, 27 May 1995 11:26:31 -0700
+Sender:       Forum for Physics Teachers <PHYS-L@UWF.BITNET>
+From:         William Beaty <billbeskimo.com>
+Subject:      Re: Airplane lift and Bernoulli's equation
+
+In cleaning out old email, I found this.  It got me thinking...
+
+On Fri, 5 May 1995, Jack Uretsky wrote:
+> Hi all-
+>         William Beaty writes
+> ***********************************************************************
+> As a member of the venemously anti-bernoulli camp I must say: sounds good
+> to me!  My beef was with the explanations which assume that the ENTIRE
+> explanation of lift must be centered ONLY on the low pressure on the upper
+> wing surface, while totally ignoring the fact that all the forces
+> involved are reaction forces which act to direct a jet of air downwards
+> after the trailing edge of the wing.
+> ***********************************************************************
+>
+>         This argument misuses Newton's third law.  If I want the force of
+> the air on the wing, I look at the pressure difference at the wing surface.
+> This comes directly from Bernoulli.  If I want to look at the effect of the
+> wing on the air, then I look at the downward directed jet of air.
+                                 Regards,
+                                         Jack
+
+You're right.  I'm slipping slightly into the misconception which describes
+Newton's third as "actions" rather than FORCES.  However, there's still
+another viewpoint that one can take about airfoils where the downward-
+directed jet of air is important: reaction engines.
+
+
+To All:
+
+A major characteristic of reaction engines is that mass is accelerated in
+order to accelerate the craft.  It is true that the term "reaction" in
+Newton's third law is easily mistaken as referring to motions, and is true
+that students can acquire misconceptions about Newton's third law *only*
+applying to reaction engine situations.  However, I don't believe that
+anything is accomplished by focusing only on the airfoil surface pressure
+while ignoring the relation between airfoils and rockets, jet engines,
+helicopters, cannons on carts, etc.
+
+I attained a major "aha" experience when I realized that airfoils were not
+a separate case, and that airfoils are a subset of reaction engines.  I
+believe that I acquired a *much* firmer grasp upon airfoil operation
+because of this.  And I've come to realize that the "Bernoulli"
+explanation is the barrier that prevented me from realizing this sooner,
+and it is still making airfoil operation mysterious to many.
+
+The "Bernoulli" explanation is not wrong.  But it is very misleading. 
+Here are some analogies.  Wouldn't it be misleading to explain a jet
+engine *only* in terms of lift generated by the tiny airfoils formed by
+the turbine blades?  Would it not be misleading to analyze a rocket engine
+*only* in terms of the pressure and velocity of the gasses at various
+points on the surface within the combustion chamber, while totally
+ignoring the exhaust jet and the acceleration of its mass?  Would it be
+wrong to promote this explation to such a widespread extent that people
+are unfamiliar with the "reaction engine" concept, that textbooks and
+reference books NEVER mention or depict exhaust jets, and that most
+instructors adhere mightly to this view, see no use for alternative views,
+and don't consider alternatives as being correct?  Such is the situation
+with explanations of aircraft wings.  "Bernoulli" has taken over. 
+
+So, I should not be attacking "Bernoulli" explanations as being incorrect. 
+The situation is not so simple.  Instead, "Bernoulli"  explanations are
+subtly twisted and tend to create misconceptions.  They communicate
+assumptions that the wings of aircraft are somehow different than rockets
+and jets (and even helicopters!) They vastly amplify one feature of a
+complete explanation of flight at the expense of a clear understanding of
+the whole picture. They lead to genuine mistakes: most diagrams used in
+"Bernoulli" explanations incorrectly show that the air flow is not
+redirected by the wing. They crush creative understanding because they
+cause a "worship" of a single "correct" viewpoint, rather than exploration
+of numerous alternative ways of looking at a phenomena.  And "Bernoulli"
+explanations ignore the useful concepts involving conservation of
+momentum, calculation of acceleration of the craft in terms of
+acceleration of gas masses, and the "aha" experience gained through
+realization of the unity in explanation between apparently unrelated
+phenomena. 
+
+.....................uuuu / oo \ uuuu........,.............................
+William Beaty  voice:206-762-3818   bbs:206-789-0775    cserv:71241,3623
+EE/Programmer/Science exhibit designer        http://amasci.com/
+Seattle, WA 98117  billbeskimo.com           SCIENCE HOBBYIST web page
+
+
+
+
+
+
+>>> Item number 1312, dated 95/05/28 15:47:17 -- ALL
+Date:         Sun, 28 May 1995 15:47:17 EDT
+Sender:       Forum for Physics Teachers <PHYS-L@UWF.BITNET>
+From:         Paul Camp <PJCAMP@COASTAL.EDU>
+Subject:      Re: Airplane lift and Bernoulli's equation
+
+Boy, Bill, you're brave! Do you explore minefields with a pitchfork
+too?
+
+I agree wholeheartedly with you about the worship of the BP -- it is
+in the end a rather abstract idea that obscures some of the
+underlying physics. I had the same sort of "aha" experience as you
+but for me it came at the end of a party of epic proportions when we
+were vegging out on the TV. A commercial for some airline came on and
+I noticed that the airplane was pointed uphill though it seemed to be
+flying horizontally.
+
+The naive (and incorrect) presentation of BP that one usually finds
+in textbooks causes major conceptual problems when you try to
+understand such things as why stunt aircraft have symmetrical wings
+or how those experimental NASA aircraft with the upside down wings
+avoided flying into the dirt.
+
+In the end, it is probably a good idea to look at a problem from as
+many different points of view as you can. I believe Arnold Arons
+mentions this once or twice.
+
+Paul J. Camp                   "The Beauty of the Universe
+Assistant Professor of Physics  consists not only of unity
+Coastal Carolina University     in variety but also of
+Conway, SC   29526              variety in unity.
+pjcamp@coastal.edu                  --Umberto Eco
+(803)349-2227                         The Name of the Rose
+fax: (803)349-2926
+
+
+
+
+>>> Item number 1327, dated 95/05/28 17:03:27 -- ALL
+Date:         Sun, 28 May 1995 17:03:27 -0700
+Sender:       Forum for Physics Teachers <PHYS-L@UWF.BITNET>
+From:         William Beaty <billbeskimo.com>
+Subject:      Re: Airplane lift and Bernoulli's equation
+
+On Sun, 28 May 1995, Paul Camp wrote:
+
+> Boy, Bill, you're brave! Do you explore minefields with a pitchfork
+> too?
+
+Heh!  Actually, I think the "bernoulli" thing is more like an infected
+wound on the K-12 physical sciences.  If you bump the wrong part of the
+doggie, you might get bit!    But does this indicate a need to avoid the
+painful part, or a need to clean it out and treat it?
+
+> I had the same sort of "aha" experience as you
+> but for me it came at the end of a party of epic proportions when we
+> were vegging out on the TV. A commercial for some airline came on and
+> I noticed that the airplane was pointed uphill though it seemed to be
+> flying horizontally.
+
+Excellent one!  Have you ever seen the cover from (??) Aviation Week
+where a private jet is flying over a fog-filled valley at sunrise, and
+below the plane is a trough blasted down into the "surface" of the fog,
+complete with scrolls of wingtip vortices?  A neat one.  I wish I could
+see a film like this.  ANd the same thing, but with helicopter!
+
+.....................uuuu / oo \ uuuu........,.............................
+William Beaty  voice:206-762-3818   bbs:206-789-0775    cserv:71241,3623
+EE/Programmer/Science exhibit designer        http://amasci.com/
+Seattle, WA 98117  billbeskimo.com           SCIENCE HOBBYIST web page
+
+
+
+
+>>> Item number 1329, dated 95/05/29 11:25:02 -- ALL
+Date:         Mon, 29 May 1995 11:25:02 -0400
+Sender:       Forum for Physics Teachers <PHYS-L@UWF.BITNET>
+From:         Robert Curtis <rcurtis@NYLINK.ORG>
+Subject:      Re: Airplane lift and Bernoulli's equation
+
+I find it fun to explore this "half-truth" in my physics classes
+by going through the whole explanation of air-foils, with some
+demonstrations etc., and then ask "So, how is it possible for
+aeroplanes to fly up-side-down?" I have some video tapes from
+air shows which we then view..... It makes for a memorable class.
+
+(And then there is always the traditional explanation of
+color vision to deal with....)
+
+Bob Curtis
+Hackensack High School
+Hackensack NJ
+
+
+
+
+>>> Item number 1368, dated 95/05/30 19:21:29 -- ALL
+Date:         Tue, 30 May 1995 19:21:29 -0500
+Sender:       Forum for Physics Teachers <PHYS-L@UWF.BITNET>
+From:         Marc Kossover <kossover@TENET.EDU>
+Subject:      Re: Airplane lift and Bernoulli's equation
+
+On Mon, 29 May 1995, Robert Curtis wrote:
+
+> (And then there is always the traditional explanation of
+> color vision to deal with....)
+
+Okay, I'll bite. I always seem to be the fish that gets caught in the
+troll.
+
+* What is traditional explanation of color vision?
+* How is this view wrong?
+* So, how does color vision work anyway?
+* How can I check to show that the traditional view is incorrect and that
+  other proposed views are correct?
+
+Thank you.
+
+Marc Kossover kossover@tenet.edu
+
+'Tis folly to expect people not to act according to their nature.
+
+
+
+
+
+
+
+
+
+>>> Item number 2856, dated 95/09/10 10:30:02 -- ALL
+Date:         Sun, 10 Sep 1995 10:30:02 -0700
+Sender:       Forum for Physics Teachers <PHYS-L@UWF.BITNET>
+From:         William Beaty <billbeskimo.com>
+Subject:      Bill Nye's airplane wing (fwd)
+
+Yes, the "airfoil explanation controversy" continues.  Can anyone see
+any factual errors in what I'm telling the guy below?
+
+---------- Forwarded message ----------
+Date: Sun, 10 Sep 1995 10:25:04 -0700 (PDT)
+From: William Beaty <billbeskimo.com>
+To:  (delete)
+Subject: Bill Nye's airplane wing
+
+> As in most 'AHA's, the realization of a concept is a simple visual image.
+> Since my deteriorating memory won't allow me to reconstruct the exact
+> conversation, I will attempt to paraphrase, mainly to capture the visual image.
+>
+> Air particle A and air particle B start the race at the same point at the
+> leading edge of the airfoil.  A goes above, B goes below.  B has a shorter
+> path to the trailing edge than A does, so naturally, A has to go faster
+> because other laws of physics (that I had already bought off on) say that
+> they both have to meet at the other side at the same time.
+
+Oh dear.  I was afraid of this.  The above explanation has the
+misconception in it.  The major problem is that symmetrical wings (with
+equal pathlengths above and below), thin membrane wings, and upside down
+wings all generate lift, so the above explanation using pathlength
+differences is not correct.  Take a look at:
+     http://amasci.com/miscon/miscon.html
+under the MISCONCEPTIONS LIST file.
+
+> (Or there would
+> be a rip in the temporal fabric of space?)  So, A goes faster than B.  Now,
+> is it the Boullian?, laws say that a particle moving at a given speed exerts
+> a pressure normal to its velocity vector that is greater than that pressure
+> exerted by a particle going faster.  Here's part of the visual image:  That
+> faster guy isn't around long enough to put pressure on the things it
+> touches.  Since fast guy A puts less pressure on the upper side of the
+> airfoil than slower guy B, the result is a net sucking upward.
+
+Bernoulli's law, yep.  It does play a part in any explanation of airfoil
+function.  But there are two problems: in real aircraft, particles which
+separate at the leading edge DO NOT recombine at the trailing edge, and
+are left separated forever after, so there is no necessity for the upper
+one to go faster.  The other problem is mentioned above, that symmetrical
+wings generate lift (and are used on acrobatic planes and I think on
+fighters)  and that there are exotic wings with flat tops and curved
+bottoms, and THESE generate lift as well.  Also, the path length above and
+below the wings of the Wright Brothers' flying machine was identical, and
+Nye's explanation would make you predict that their machine wouldn't fly,
+no? 
+
+The misconception that Bill Nye is spreading doesn't originate with him.
+It is very old, and it continues to exist because it's in many textbooks
+and is being taught to more people even as we speak.  I find this sort of
+thing fascinating, since it's a sort of information "virus," with a life
+of its own.
+
+The truth is that there are two ways to CALCULATE lift, and both methods
+can be made into explanations of lift.
+
+1.  Because of the shape and tilt of a wing, when it cuts through the
+    air it leaves an "empty" space behind its top surface and a "filled"
+    space in front of its lower surface.  Air encountering its lower
+    surface is slowed down, so by Bernoulli's law it exerts a greater
+    pressure on the surface there.  Air passing by the upper surface is
+    drawn into the empty space behind the wing and is sped up.  By
+    Bernoulli's law the high-speed air exerts a lower pressure on the
+    upper surface.  So, wings create lift because of pressure differential.
+
+2.  As a wing cuts through the air, it applies a downward force upon the
+    air.  This comes about because of the tilt and shape of the wing.  The
+    underside of the wing deflects air downwards.  Since the airflow
+    adheres to the upper surface, the upper wing surface also deflects
+    air downwards.  There is a downward force on the air, and as a result,
+    the wing is forced upwards.  If you measure the total mass of air
+    being accelerated downwards, you can calculate the force between the wing
+    and the air, and this is simply the lifting force.  So, wings create
+    lift because of reaction forces.
+
+
+Which one is right?  Both.  Which one should be used?  Well, the first one
+steers around the fact that wings push air downwards.  Wings are identical
+in function to helicopter rotors, ship propellors, and jet engine turbine
+blades which all operate by throwing mass one way and moving the other
+way.  Also, the first explanation usually (but not always) includes an
+incorrect description involving the necessity of particles A and B
+splitting and rejoining after the wing has past.  And the first one
+implies that symmetrical wings won't work (they do,) and implies that a
+plane cannot fly upside down (it can.)
+
+So, now you know which one I prefer!
+
+By the way, you can contact Bill Nye directly at:
+
+   The Office of Bill Nye the Science Guy Nye <nyestaff@billnye.seanet.com>
+
+
+.....................uuuu / oo \ uuuu........,.............................
+William Beaty  voice:206-762-3818   bbs:206-789-0775    cserv:71241,3623
+EE/Programmer/Science exhibit designer        http://amasci.com/
+Seattle, WA 98117  billbeskimo.com           SCIENCE HOBBYIST web page
+
+
+
+
+>>> Item number 2862, dated 95/09/11 10:28:26 -- ALL
+Date:         Mon, 11 Sep 1995 10:28:26 -0500
+Sender:       Forum for Physics Teachers <PHYS-L@UWF.BITNET>
+From:         "JACK L. URETSKY (C) 1995; HEP DIVISION, ARGONNE NATIONAL LAB,
+              ARGONNE, IL 60439" <JLU@HEP.ANL.GOV>
+Subject:      Re: Bill Nye's airplane wing (fwd)
+
+Hi all-
+        William Beatty writes
+******************************************************
+Oh dear.  I was afraid of this.  The above explanation has the
+misconception in it.  The major problem is that symmetrical wings (with
+equal pathlengths above and below), thin membrane wings, and upside down
+wings all generate lift, so the above explanation using pathlength
+differences is not correct.
+************************************
+        That mis-states the case.  Symmetrical wings only generate lift
+(as will a flat plate) when they are tilted with respect to the direction
+of travel.  The net result is that the airpath above the wing is longer
+that the air path below the wing, thereby bringing Bernoulli into play.
+So Nye's explanation is essentially correct, or, as we used to say in the
+Navy, "It's close enough for government work."
+
+        Beatty adds:
+********************************************************
+The truth is that there are two ways to CALCULATE lift, and both methods
+can be made into explanations of lift.
+
+1.  Because of the shape and tilt of a wing, when it cuts through the
+    air it leaves an "empty" space behind its top surface and a "filled"
+    space in front of its lower surface.  Air encountering its lower
+    surface is slowed down, so by Bernoulli's law it exerts a greater
+    pressure on the surface there.  Air passing by the upper surface is
+    drawn into the empty space behind the wing and is sped up.  By
+    Bernoulli's law the high-speed air exerts a lower pressure on the
+    upper surface.  So, wings create lift because of pressure differential.
+
+2.  As a wing cuts through the air, it applies a downward force upon the
+    air.  This comes about because of the tilt and shape of the wing.  The
+    underside of the wing deflects air downwards.  Since the airflow
+    adheres to the upper surface, the upper wing surface also deflects
+    air downwards.  There is a downward force on the air, and as a result,
+    the wing is forced upwards.  If you measure the total mass of air
+    being accelerated downwards, you can calculate the force between the wing
+    and the air, and this is simply the lifting force.  So, wings create
+    lift because of reaction forces.
+
+
+Which one is right?  Both.  Which one should be used?  Well, the first one
+steers around the fact that wings push air downwards.  Wings are identical
+in function to helicopter rotors, ship propellors, and jet engine turbine
+blades which all operate by throwing mass one way and moving the other
+way.  Also, the first explanation usually (but not always) includes an
+incorrect description involving the necessity of particles A and B
+splitting and rejoining after the wing has past.  And the first one
+implies that symmetrical wings won't work (they do,) and implies that a
+plane cannot fly upside down (it can.)
+*************************************************
+        Not true.  There is one way to CALCULATE lift.  That is by calculating
+the airflow around the given wing shape, and determining the pressure
+differential from Bernoulli.
+        The fact that there is a net flow downward in the wake of the wing
+is a consequence of Newton's 3d law, but that fact does not help you to
+do an a priori lift/drag calculation when you are designing a new wing
+profile.
+        It is a misconception, also, that fighters are designed with
+symmetrical wings (so that they can fly inverted).  Most such aircraft
+cannot do extended inverted flight because of lubrication difficulties
+with the power plant.  The wing design is a compromise between high speed
+and critical low speed characteristics - one wants to be able to walk away
+from the aircraft after the flight.
+                                Regards,
+                                        Jack
+
+        "'Is it claimed that Dr. Cook's achievement is a Fact, or is it a
+miracle?'
+        'Why so?'
+        'Because if it is a Miracle, any sort of evidence will answer, but
+if it is a Fact, proof is necessary'"
+        Mark Twain, "Official Report to the I.I.A.S. (1909)
+
+
+
+
+
+>>> Item number 2870, dated 95/09/11 22:45:10 -- ALL
+Date:         Mon, 11 Sep 1995 22:45:10 -0700
+Sender:       Forum for Physics Teachers <PHYS-L@UWF.BITNET>
+From:         William Beaty <billbeskimo.com>
+Subject:      Re: Bill Nye's airplane wing (fwd)
+
+First a question: are others here interested in this stuff?  If it's boring,
+I'd be happy to start replying privately.
+
+On Mon, 11 Sep 1995, JACK L. URETSKY (C) 1995; HEP DIVISION, ARGONNE NATIONAL LAB, ARGONNE, IL 60439 wrote:
+>
+> Hi all-
+>         William Beaty writes
+> > ******************************************************
+> > Oh dear.  I was afraid of this.  The above explanation has the
+> > misconception in it.  The major problem is that symmetrical wings (with
+> > equal pathlengths above and below), thin membrane wings, and upside down
+> > wings all generate lift, so the above explanation using pathlength
+> > differences is not correct.
+> > ************************************
+>
+>         That mis-states the case.  Symmetrical wings only generate lift
+> (as will a flat plate) when they are tilted with respect to the direction
+> of travel.  The net result is that the airpath above the wing is longer
+> that the air path below the wing, thereby bringing Bernoulli into play.
+> So Nye's explanation is essentially correct, or, as we used to say in the
+> Navy, "It's close enough for government work."
+
+I agree that I'm trying to change the emphasis in the explanation, but I
+don't think this is a misstatement.  I do agree that the Bernoulli Law
+plays a part in explaining lift.  My beef is with the specifics of Nye's
+explanation: the assertion that the asymmetrical path length *of the wing
+surfaces* is the cause of lift, and the implication that lift is only
+generated by wings having asymmetrical crossections.  I also find fault
+with the particle A/B split/rejoin explanation.  If we always explain the
+lifting force by referring to an asymmetrical wing, and if we state that
+the force arises because the wing is more curved on top than below, won't
+students get the idea that asymmetry is *required*?  Won't they then be
+confused by upside-down flight, and won't they reject the fact that planes
+with symmetrical wings can fly?
+
+Today I was discussing this subject with a friend, and I came up with yet
+another viewpoint on this subject (oh no! ;) )  I state that all wings,
+regardless of their shape, can only generate lift when they are tilted
+with respect to the airflow.  Before you jump on me for this, let me
+elaborate.  The definition of attack angle involves the drawing of a line
+between leading and trailing edge, right?  Consider a bilaterally
+symmetric teardrop-shaped wing crossection at zero angle of attack.  The
+air that streams from the trailing edge of this wing flows straight back
+with no deflection, and there is no lift generated.
+
+       __------___
+     /            ---___
+    |                   ---___
+    |                   ___---
+     \            ___---
+       --______---
+
+          NOT TILTED
+
+If I now modify the teardrop so it has a bump on its front, the bump
+becomes the new leading edge, right?  Suppose the bump is below the
+centerline.  Then we must say that the leading edge of this wing is now
+below the old center line, and the line that we draw from leading edge to
+trailing edge will now be at a significantly negative attack angle.  Yet
+this little bump on the leading edge is so small that it does *not*
+generate significant lift, so the wing as a whole does not behave as if it
+is tilted.
+
+            __------___
+          /            ---___
+         |                   ---___
+        |                    ___---
+         \_            ___---
+           ---______---
+
+       SMALL LEADING-EDGE BUMP LEADS TO
+      ASSIGNMENT OF NEGATIVE ATTACK ANGLE
+
+The air still streams undeflected from the trailing edge.  The apparent
+negative tilt is an artifact of the way we define attack angle.  Now
+here's the important part: if we now adjust our asymmetrical-bumped wing
+to remove the negative attack angle, we accomplish a REAL tilting of the
+wing.  The air really starts flowing faster over the top, the wing really
+starts deflecting air downwards from its trailing edge, and a significant
+lifting force appears.  The end result: the wing now has a zero attack
+angle, yet it acts as if it is significantly tilted. 
+
+            __------__
+          /           --__
+         |                --__
+        |                     --__
+         \_               ________
+            --------------
+
+       OBVIOUS TILT, YET ZERO ATTACK ANGLE
+
+
+See what I'm getting at?  You argue that the "Bernoulli" explanation is
+correct because asymmetrical wings can give lift at zero angle of attack.
+I believe that this is flawed, because the purely geometrical definition
+of attack angle allows wings to be tilted when the attack angle is
+zero.  If I were to judge the tilt of a wing by examining the geometry
+of the trailing edge or the stream of air behind it rather than by
+looking at the line drawn through the cross section, I will find that
+lifting force only appears when the air is deflected and the wing acts
+"tilted," regardless of whether the attack angle is zero or not.
+
+
+>         Beaty adds:
+> ********************************************************
+> > The truth is that there are two ways to CALCULATE lift, and both methods
+> > can be made into explanations of lift.  <delete>
+>
+>      Not true.  There is one way to CALCULATE lift.  That is by calculating
+> the airflow around the given wing shape, and determining the pressure
+> differential from Bernoulli.
+
+I disagree.  This may be the traditional way of calculating lift, but I
+believe it is also possible to calculate the airflow around a given wing
+shape, determine the mass and the vertical acceleration of all parcels of
+air, and derive the lifting force.
+
+>         The fact that there is a net flow downward in the wake of the wing
+> is a consequence of Newton's 3d law, but that fact does not help you to
+> do an a priori lift/drag calculation when you are designing a new wing
+> profile.
+
+Why not?  Please correct me if I'm wrong, but it is my understanding that
+Newton's third law can be applied to the wake, and lift/drag can then be
+calculated.  Engineers might avoid this technique because of extra work
+and less elegant results, but this doesn't mean the method doesn't work.
+The air mass/acceleration calculation leads directly to the explanation
+that lift is *caused* by reaction forces during the deflection of air.
+
+Understand that I'm not arguing that the exiseance of the reaction-forces-
+explanation implies that the pressure-differential explanation is wrong.
+The two explanations are not mutually exclusive.
+
+>         It is a misconception, also, that fighters are designed with
+> symmetrical wings (so that they can fly inverted).  Most such aircraft
+> cannot do extended inverted flight because of lubrication difficulties
+> with the power plant.  The wing design is a compromise between high speed
+> and critical low speed characteristics - one wants to be able to walk away
+> from the aircraft after the flight.
+
+I'll bow to you on this one.  I've been told that acrobatic single-prop
+planes have nearly symmetrical wing crossections, and this makes inverted
+flight easier (and landing presumably harder.) Is this wrong?  My original
+point was that inverted flight is not so rare, and that symmetrical wings
+do function.
+
+.....................uuuu / oo \ uuuu........,.............................
+William Beaty  voice:206-762-3818   bbs:206-789-0775    cserv:71241,3623
+EE/Programmer/Science exhibit designer        http://amasci.com/
+Seattle, WA 98117  billbeskimo.com           SCIENCE HOBBYIST web page
+
+
+
+
+>>> Item number 2882, dated 95/09/12 10:39:38 -- ALL
+Date:         Tue, 12 Sep 1995 10:39:38 -0500
+Sender:       Forum for Physics Teachers <PHYS-L@UWF.BITNET>
+From:         Rick Tarara <rtarara@SAINTMARYS.EDU>
+Subject:      airplane wings
+
+The BERNOULLI OR NOT BERNOULLI debate seems to have continued (on and
+off) for most of the two years I've been on the list.  I've stayed out of
+this one (even more ignorance on this topic than most), but it does seem
+to me that THE BEST example of semi-pure bernoulli lift would be the various
+man-powered airplanes which incorporate very large wing surfaces but fly
+at very low speeds. [AND I'm sure are totally incapable of inverted flight.]
+
+*****************************************************************************
+Richard W. Tarara                      "Now we sit through Shakespeare in
+Deptartment of Chemistry & Physics      order to recognize the quotations."
+Saint Mary's College                    --Orson Welles
+Notre Dame, IN 46556
+219-284-4664                  PHYSICS SOFTWARE AVAILABLE AT
+rtarara@saintmarys.edu        http://estel.uindy.edu:70/1/aapt/rickt/software
+******************************************************************************
+
+
+
+
+>>> Item number 2883, dated 95/09/12 12:11:57 -- ALL
+Date:         Tue, 12 Sep 1995 12:11:57 EDT
+Sender:       Forum for Physics Teachers <PHYS-L@UWF.BITNET>
+From:         Paul Camp <PJCAMP@COASTAL.EDU>
+Subject:      Re: airplane wings
+
+> but it does seem
+> to me that THE BEST example of semi-pure bernoulli lift would be the various
+> man-powered airplanes which incorporate very large wing surfaces but fly
+> at very low speeds. [AND I'm sure are totally incapable of inverted flight.]
+>
+> *****************************************************************************
+> Richard W. Tarara
+
+I don't understand how this differs from what Bill is proposing. A
+large wing surface directs a large volume of air downward at low
+acceleration as opposed to a smaller, faster wing directing a smaller
+volume at a higher acceleration.
+
+Paul J. Camp                   "The Beauty of the Universe
+Assistant Professor of Physics  consists not only of unity
+Coastal Carolina University     in variety but also of
+Conway, SC   29526              variety in unity.
+pjcamp@coastal.edu                  --Umberto Eco
+(803)349-2227                         The Name of the Rose
+fax: (803)349-2926
+
+
+
+
+>>> Item number 2886, dated 95/09/12 12:20:26 -- ALL
+Date:         Tue, 12 Sep 1995 12:20:26 -0500
+Sender:       Forum for Physics Teachers <PHYS-L@UWF.BITNET>
+From:         Rick Tarara <rtarara@SAINTMARYS.EDU>
+Subject:      Re: airplane wings
+
+On Tue, 12 Sep 1995, Paul Camp wrote:
+
+> > to me that THE BEST example of semi-pure bernoulli lift would be the various
+> > man-powered airplanes which incorporate very large wing surfaces but fly
+> > at very low speeds. [AND I'm sure are totally incapable of inverted flight.]
+>
+> I don't understand how this differs from what Bill is proposing. A
+> large wing surface directs a large volume of air downward at low
+> acceleration as opposed to a smaller, faster wing directing a smaller
+> volume at a higher acceleration.
+>
+Because, (as I view the films I've seen on man-powered flight), staying
+aloft does not seem to demand keeping the nose constantly up.  The wings
+seem to provide sufficient lift in LEVEL flight as long as the air flow
+is above a minimal value.
+
+
+
+
+
+>>> Item number 2900, dated 95/09/13 00:40:41 -- ALL
+Date:         Wed, 13 Sep 1995 00:40:41 -0500
+Sender:       Forum for Physics Teachers <PHYS-L@UWF.BITNET>
+From:         "JACK L. URETSKY (C) 1995; HEP DIVISION, ARGONNE NATIONAL LAB,
+              ARGONNE, IL 60439" <JLU@HEP.ANL.GOV>
+Subject:      Re: airplane wings
+
+Hi all-
+        Here's the way that I see aerodynamics, as applied to wings'n things
+that go fly-fly.  I'm not much interested in the verbal descriptions, I'll leave
+it to others to sort those out.
+        I want to solve the equations of fluid dynamics for the adiabatic,
+irrotational flow of an inviscid, incompressible fluid.  The full equations are
+incredibly complicated and still not completely understood, but in the limit
+we are discussing, things are quite simple.
+        Irrotationality means that the velocity has no curl.  It is therefore
+the gradient of a potential function.  Incompressibility means that the
+divergence of the velocity vanishes (after insisting upon conservation of mass)
+in the absence of sources or sinks.  Adiabaticity, and Newton's 2d law lead
+me to Bernoulli's equation.  The result?  The velocity field satisfies Gauss'
+law (the same as for the electric field), and is the gradient of a potential
+function which turns out to be proportional to the pressure.  So now we just
+do the theory of static electric fields (in a different context).
+        An airfoil is a surface of constant potential (the flow normal to the
+surface must vanish).  The surfaces of constant potential are perpendicular to
+the surfaces of constant velocity (the latter are the streamlines).  Conserva-
+tion of matter tells us that the net flow bounded by two streamlines must be the
+same at every surface of constant potential.
+        In the latter sense, the particles that separate at the leading edge
+of a wing must "meet" at the trailing edge.
+        The presence of a constant potential surface in an asymptotically
+uniform flow distorts the flow everywhere in space in precisely the same manner
+that a constant potential surface in an asymptoticall uniform electric field
+distorts the electric field everywhere in space.  The mathematics is identical
+for the two cases.
+        The job of the physicist or engineer, as I see it, is to predict the
+results of experiments.  Mathematical descriptions, such as the one that I have
+just given, enable one to make those predictions.  The verbalizations that have
+occupied this thread are mere mnemonics that we can use to remind ourselves of
+the appropriate mathematical descriptions - once we are familiar with those
+descriptions.
+                        Regards,
+                                Jack
+
+        "'Is it claimed that Dr. Cook's achievement is a Fact, or is it a
+miracle?'
+        'Why so?'
+        'Because if it is a Miracle, any sort of evidence will answer, but
+if it is a Fact, proof is necessary'"
+        Mark Twain, "Official Report to the I.I.A.S. (1909)
+
+
+
+
+>>> Item number 2902, dated 95/09/13 08:13:28 -- ALL
+Date:         Wed, 13 Sep 1995 08:13:28 -0400
+Sender:       Forum for Physics Teachers <PHYS-L@UWF.BITNET>
+From:         Kip <JDSHAFFER@MIAVX1.ACS.MUOHIO.EDU>
+Subject:      Re: airplane wings
+
+You wrote:
+> On Tue, 12 Sep 1995, Paul Camp wrote:
+
+> > > to me that THE BEST example of semi-pure bernoulli lift would be the various
+> > > man-powered airplanes which incorporate very large wing surfaces but fly
+> > > at very low speeds. [AND I'm sure are totally incapable of inverted flight.]
+> >
+> > I don't understand how this differs from what Bill is proposing. A
+> > large wing surface directs a large volume of air downward at low
+> > acceleration as opposed to a smaller, faster wing directing a smaller
+> > volume at a higher acceleration.
+> >
+> Because, (as I view the films I've seen on man-powered flight), staying
+> aloft does not seem to demand keeping the nose constantly up.  The wings
+> seem to provide sufficient lift in LEVEL flight as long as the air flow
+> is above a minimal value.
+
+The position of the nose has no bearing on the angle of attack of the wings
+when comparing different aircraft:  The wings are attached at the angle
+appropriate to the airspeed that the plane will fly.
+
+I fly single engine Cessnas, and at cruising airspeeds in level flight,
+the nose of the plane is level.
+
+-Kip Shaffer
+
+
+
+
+>>> Item number 2907, dated 95/09/13 07:58:38 -- ALL
+Date:         Wed, 13 Sep 1995 07:58:38 -0700
+Sender:       Forum for Physics Teachers <PHYS-L@UWF.BITNET>
+From:         William Beaty <billbeskimo.com>
+Subject:      Re: airplane wings
+
+On Tue, 12 Sep 1995, Rick Tarara wrote:
+
+> The BERNOULLI OR NOT BERNOULLI debate seems to have continued (on and
+> off) for most of the two years I've been on the list.  I've stayed out of
+> this one (even more ignorance on this topic than most), but it does seem
+> to me that THE BEST example of semi-pure bernoulli lift would be the various
+> man-powered airplanes which incorporate very large wing surfaces but fly
+> at very low speeds. [AND I'm sure are totally incapable of inverted flight.]
+
+But, at least for those using the classic "Bernoulli" explanation, thin
+wings like the large, slow ones used in early aircraft present a serious
+problem because of the equal pathlengths above and below.  If the
+particle-A particle-B explanation is used, it wouldn't lead to predictions of
+lift being created.
+
+And as for ignorance, my own ignorance doesn't keep me from blathering on
+about this topic!  My blatant errors will be corrected and subtle ones
+exposed.  I highly recommend jumping into the arguement.  Often the
+"stupid questions" start the most informative threads.  The only thing I
+worry about is my explaining something to someone like the original Bill
+Nye poster BEFORE I've had a chance to pass my arguements through the
+phys-L annealing oven!  ;)
+
+.....................uuuu / oo \ uuuu........,.............................
+William Beaty  voice:206-762-3818   bbs:206-789-0775    cserv:71241,3623
+EE/Programmer/Science exhibit designer        http://amasci.com/
+Seattle, WA 98117  billbeskimo.com           SCIENCE HOBBYIST web page
+
+
+
+
+>>> Item number 2910, dated 95/09/13 11:03:00 -- ALL
+Date:         Wed, 13 Sep 1995 11:03:00 -0500
+Sender:       Forum for Physics Teachers <PHYS-L@UWF.BITNET>
+From:         Rick Tarara <rtarara@SAINTMARYS.EDU>
+Subject:      Re: airplane wings
+
+On Wed, 13 Sep 1995, William Beaty wrote:
+
+> But, at least for those using the classic "Bernoulli" explanation, thin
+> wings like the large, slow ones used in early aircraft present a serious
+> problem because of the equal pathlengths above and below.  If the
+> particle-A particle-B explanation is used, wouldn't lead to predictions of
+> lift being created.
+>
+> And as for ignorance, my own ignorance doesn't keep me from blathering on
+> about this topic!  My blatant errors will be corrected and subtle ones
+> exposed.  I highly recommend jumping into the arguement.  Often the
+> "stupid questions" start the most informative threads.  ........
+>
+OK, here's a 'stupid question'.  In the 'Bernoulli' explanation
+of lift the air must move faster across the top of the wing than across
+the bottom--the path being longer across the top.  HOW does the wing
+shape produce a force on the air in the correct direction to accellerate
+it at the front (and presumably) decellerate it at the rear?  Seems to me
+at a quick glance that both contact forces (bouncing off) or viscous drag
+forces would slow the air across the top??
+
+
+The question about 'current' man-powered planes IS--CAN the flight of
+these planes be attributed PRIMARILY to Bernoulli lift--or not?  If not,
+then the anti-Bernoulli forces would seem to win;  if so, then most other
+planes are probably a combination of Bernoulli, vortex, redirected air,
+etc. forces.  Without a classic 'airfoil' shape, there would be no
+'Bernoulli' lift, and therefore ALL the lift would be attributable to
+other forces.  With the right shape (if Bernoulli works at all) then SOME
+of the lift would come from Bernoulli.  Another question to ask (of
+someone who knows about planes) is if the 'stall' speed is different
+between upright and inverted flight.  If some appreciable part of a plane's
+lift IS due to Bernoulli, then (at a given 'attack' angle), the stall
+speed should be greater in inverted flight.
+
+*****************************************************************************
+Richard W. Tarara                      "Now we sit through Shakespeare in
+Deptartment of Chemistry & Physics      order to recognize the quotations."
+Saint Mary's College                    --Orson Welles
+Notre Dame, IN 46556
+219-284-4664                  PHYSICS SOFTWARE AVAILABLE AT
+rtarara@saintmarys.edu        http://estel.uindy.edu:70/1/aapt/rickt/software
+******************************************************************************
+
+
+
+
+>>> Item number 2919, dated 95/09/13 17:23:37 -- ALL
+Date:         Wed, 13 Sep 1995 17:23:37 -0400
+Sender:       Forum for Physics Teachers <PHYS-L@UWF.BITNET>
+From:         Malcolm Davis <davis@NOD.BMS.COM>
+Subject:      Re: airplane wings
+In-Reply-To:  Paul Camp's message of Tue, 12 Sep 1995 12:11:57 -0400 (EDT)
+
+I'm sure I've said this before, but I think the Bernoulli vs. Downward
+airflow argument is a non-argument.  It is identical to a wonderful
+discussion question Van Nie uses: What force stops a car whose wheels
+do not skid?  The force exerted by the brake shoes on the brake drums?
+or the force exerted by the wheels on the road?
+
+The answer is ... both.  The force of the wheels on the road
+provides the net force which decelerates the car, but since this is a
+static frictional force it can dissipate no energy.  The force on the
+brake drums is kinetic friction which dissipates the energy, but
+produces no net force on the car.
+
+Malcolm
+
+--
+Malcolm E. Davis
+Macromolecular Modeling         Email  : davis@nod.bms.com
+Bristol-Myers Squibb            Phone  : 609-252-4324
+P.O.Box 4000                    FAX    : 609-252-6030
+Princeton, NJ 08543-4000        Office : LV H.3812
+
+Disclaimer: I speak for myself only.  (Of course, you're free to listen. :-)
+
+
+
+
+
+>>> Item number 2923, dated 95/09/13 18:41:13 -- ALL
+Date:         Wed, 13 Sep 1995 18:41:13 -0500
+Sender:       Forum for Physics Teachers <PHYS-L@UWF.BITNET>
+From:         "JACK L. URETSKY (C) 1995; HEP DIVISION, ARGONNE NATIONAL LAB,
+              ARGONNE, IL 60439" <JLU@HEP.ANL.GOV>
+Subject:      Re: airplane wings
+
+Hi all-
+        Inertia is accounted for in the Bernoulli equation, which relates
+pressure differential (F, in F=ma) to change in velocity.  The inertia
+term is the density.
+        In considering jets, one has to consider the boundaries through
+which the jets flow.  See Vol. II of Sommerfeld's lectures, Ch 6, where
+it is found that (in 2-dimensions, in this case) jets do indeed contract.
+        Incidentally, the sketch that I suggest that you consider is
+essentially shown in Sec. VI.29 (it shows the streamlines, which are
+like the E-field lines).
+        The mathematics tells us, with considerable precision, that
+one must consider the flow pattern in all of space, and that it is
+nonsense to talk about the behavior of the "stream of air".
+        The electrostatic analogy flows from the fact that the two
+situations are described by PRECISELY the same equations.  That fact
+becomes the starting point for discussion.  The language that you
+choose to use depends upon the "spin" that you want to put upon the
+conclusions.
+                        Regards,
+                                Jack
+
+
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+> *********************************************************
+> On another topic: a flat plate is moved through the air at a small angle
+> of attack.  Do you know a good verbal explanation for *why* the relative
+> speed of air near the plate is faster above and slower below?  If
+> particles divide at the leading edge, follow the wing surface, and meet at
+> the trailing edge, it certainly appears that they must take equal path
+> lengths and should have equal speeds.
+> ****************************
+>         Like a good physics teacher, I'll answer with a question.
+> Can you use the electrostatic analogy to sketch the equipotential
+> lines around a conducting plate that is held at an angle to a
+> uniform electic field?
+>                         Regards,
+>                                 Jack
+
+
+
+***************************************************
+Sender:       Forum for Physics Teachers <PHYS-L@UWF.BITNET>
+From:         William Beaty <billbeskimo.com>
+Subject:      Re: airplane wings
+
+Yes, but doesn't this ignore inertia?  Doesn't this electrostatics analogy
+predict that gasses exiting a jet engine would spread in aall directions,
+when they actually form a narrow jet (and create large reaction forces?)
+Won't similar problems arise with an airfoil, where a stream of air
+behaves as if "launched" at a downward angle from the trailing edge?
+
+
+
+
+
+
+>>> Item number 2930, dated 95/09/13 19:17:35 -- ALL
+Date:         Wed, 13 Sep 1995 19:17:35 -0800
+Sender:       Forum for Physics Teachers <PHYS-L@UWF.BITNET>
+From:         "David J. Hamilton" <djhamil@TELEPORT.COM>
+Subject:      Glider Design!
+
+All this talk of airplane wings reminds me of a marvelous little program
+called Glider Design! written by Michael Kamprath.  It is a computer
+assisted design program for simple balsa wood gliders, complete with
+teacher and student materials (in MicroSoft Word) suitable for 9-12 grades
+(possibly lower grades as well).  I happened by this accidentally one day
+last year and used it in a general science class after our unit on fluid
+dynamics.  My classes ended up building gliders, making several
+modifications, etc.  It fit my needs quite well and I would like to
+recommend it.  The best news is it's free (most accessible download is from
+Kamprath's home page - http://www.earthlink.net/~kamprath/home.html).  I
+know he has a Mac version, those of you who are still stuck using
+DOS/Windows or whatever may be out of luck.  I hope I'm not proclaiming old
+news, but since I found it by accident, I thought others may not have heard
+of it.
+
+BTW - If any of you Bernoulli experts have seen the instructional materials
+I'd appreciate a critique of Kamprath's brief mention of how the angle of
+attack of the flat wings creates lift (he mentions the Bernoulli effect but
+does not go into detail).
+
+Regards,
+Dave
+
+**********************************************************************
+*                                                                    *
+*  David J. Hamilton, Ed.D.              "And gladly wolde he lerne, *
+*  Franklin HS                            and gladly teche."         *
+*  Portland, Oregon                                                  *
+*  djhamil@teleport.com                   Geoffrey Chaucer           *
+*
+*
+**********************************************************************
+
+
+
+
+>>> Item number 2931, dated 95/09/14 09:42:33 -- ALL
+Date:         Thu, 14 Sep 1995 09:42:33 EDT
+Sender:       Forum for Physics Teachers <PHYS-L@UWF.BITNET>
+From:         Paul Camp <PJCAMP@COASTAL.EDU>
+Subject:      Re: airplane wings
+
+> I'm sure I've said this before, but I think the Bernoulli vs. Downward
+> airflow argument is a non-argument.
+> Malcolm E. Davis
+
+This, I believe, was Bill's original point.
+
+Paul J. Camp                   "The Beauty of the Universe
+Assistant Professor of Physics  consists not only of unity
+Coastal Carolina University     in variety but also of
+Conway, SC   29526              variety in unity.
+pjcamp@coastal.edu                  --Umberto Eco
+(803)349-2227                         The Name of the Rose
+fax: (803)349-2926
+
+
+
+
+>>> Item number 2932, dated 95/09/14 07:33:22 -- ALL
+Date:         Thu, 14 Sep 1995 07:33:22 -0700
+Sender:       Forum for Physics Teachers <PHYS-L@UWF.BITNET>
+From:         William Beaty <billbeskimo.com>
+Subject:      Re: airplane wings
+
+On Wed, 13 Sep 1995, Malcolm Davis wrote:
+
+> I'm sure I've said this before, but I think the Bernoulli vs. Downward
+> airflow argument is a non-argument.  It is identical to a wonderful
+> discussion question Van Nie uses: What force stops a car whose wheels
+> do not skid?  The force exerted by the brake shoes on the brake drums?
+> or the force exerted by the wheels on the road?
+
+Yes, I'm aware of this.  If you'll read this whole thread, you'll see that
+this is NOT what I'm complaing about (at least this time!) The Bernoulli
+explanation is not wrong.  The problem is that the usual explanation in
+K-6 textbooks and children's science books has several serious mistakes,
+most of the books have the SAME mistakes, and most of the books do not
+contain the easily-grasped 3rd-law explanation but concentrate entirely on
+Bernoulli.  If these books had done Bernoulli explanations correctly, I
+never would have had cause for complaint.
+
+> The answer is ... both.  The force of the wheels on the road
+> provides the net force which decelerates the car, but since this is a
+> static frictional force it can dissipate no energy.  The force on the
+> brake drums is kinetic friction which dissipates the energy, but
+> produces no net force on the car.
+
+Yes, and does a rocket create thrust by creating a force-pair and ejecting
+matter out the back, or by creating a higher pressure at the front of its
+combustion chamber than the rear?  Both!  But it would be quite misleading
+if books always ignored the 3rd-law view, ignored the ejected matter, and
+concentrated entirely on the pressure-difference within the engine.  This
+would make rocket-thrust effects very difficult to understand.  This is
+why I take exception to the way K-6 texts explain airfoil lift.
+
+.....................uuuu / oo \ uuuu........,.............................
+William Beaty  voice:206-762-3818   bbs:206-789-0775    cserv:71241,3623
+EE/Programmer/Science exhibit designer        http://amasci.com/
+Seattle, WA 98117  billbeskimo.com           SCIENCE HOBBYIST web page
+
+
+
+
+>>> Item number 2940, dated 95/09/14 12:55:02 -- ALL
+Date:         Thu, 14 Sep 1995 12:55:02 -0700
+Sender:       Forum for Physics Teachers <PHYS-L@UWF.BITNET>
+From:         William Beaty <billbeskimo.com>
+Subject:      Re: airplane wings
+
+On Wed, 13 Sep 1995, Rick Tarara wrote:
+
+<delete>
+> The question about 'current' man-powered planes IS--CAN the flight of
+> these planes be attributed PRIMARILY to Bernoulli lift--or not?  If not,
+> then the anti-Bernoulli forces would seem to win;  if so, then most other
+> planes are probably a combination of Bernoulli, vortex, redirected air,
+> etc. forces.  Without a classic 'airfoil' shape, there would be no
+> 'Bernoulli' lift, and therefore ALL the lift would be attributable to
+> other forces.  With the right shape (if Bernoulli works at all) then SOME
+> of the lift would come from Bernoulli.
+
+I, the raving anti-bernoulli flamer,  ;)  would say that neither side wins,
+and this is not the issue.  A tilted flat wing does not *work* by 3rd-law
+effects.  In fact, it can be *explained by* 3rd-law effects, or it can be
+*explained by* appeals to Bernoulli equation.  The same is true of
+non-tilted wings with flat bottoms and curved tops.  It's not an issue of
+part of the lift coming from Bernoulli effects and part from 3rd-law.
+Instead, it is possible to *totally* explain lift with either method.  So,
+how does the airfoil really work?  Both ways, and depending on the
+application, situation, grade level of the audience, etc., one may be a
+much better explanation than the other.
+
+My complaint is with books which do the Bernoulli explanation wrong,
+which have erroneous and misleading diagrams, and whose authors seem to
+think that the Bernoulli explanation is correct and the Newton's 3rd-law
+explanation is wrong.
+
+Those with WWW capability can take a look at pictures I drew of good/bad
+wing diagrams at http://www.eskimo.com/miscon/miscon4.html.  Also see
+http://amasci.com/miscon/miscon.html for some interesting
+other stuff.
+
+.....................uuuu / oo \ uuuu........,.............................
+William Beaty  voice:206-762-3818   bbs:206-789-0775    cserv:71241,3623
+EE/Programmer/Science exhibit designer        http://amasci.com/
+Seattle, WA 98117  billbeskimo.com           SCIENCE HOBBYIST web page
+
+
+
+
+
+
+>>> Item number 2941, dated 95/09/14 13:25:28 -- ALL
+Date:         Thu, 14 Sep 1995 13:25:28 -0700
+Sender:       Forum for Physics Teachers <PHYS-L@UWF.BITNET>
+From:         William Beaty <billbeskimo.com>
+Subject:      Re: airplane wings
+
+On Wed, 13 Sep 1995, JACK L. URETSKY (C) 1995; HEP DIVISION, ARGONNE NATIONAL LAB, ARGONNE, IL 60439 wrote:
+
+> Hi all-
+>         Inertia is accounted for in the Bernoulli equation, which relates
+> pressure differential (F, in F=ma) to change in velocity.  The inertia
+> term is the density.
+
+Hmmm, I still can't visualize this.  If the electrostatic analogy is
+applied to a 2-D flow around a circular rod, won't the upstream and
+downstream flow patterns be mirror images of each other?  Yet inertia
+effects should make the upstream and downstream flows not be simply mirror
+images.  If I swap polarities in the electrostatic analogy, the pattern of
+field lines should be unaltered, yet if I swap flow direction for the flow
+around the cylinder, I would expect the asymmetric upstream/downstream
+pattern to change orientation.  In other words, can the electrostatic
+analogy explain the fact that I can blow a paper across my desk with my
+lungs and lips, but sucking doesn't accomplish the same thing?  (Ignore
+turbulence, imagine this done below the turbulent regime.)
+
+
+>         In considering jets, one has to consider the boundaries through
+> which the jets flow.  See Vol. II of Sommerfeld's lectures, Ch 6, where
+> it is found that (in 2-dimensions, in this case) jets do indeed contract.
+>         Incidentally, the sketch that I suggest that you consider is
+> essentially shown in Sec. VI.29 (it shows the streamlines, which are
+> like the E-field lines).
+
+
+>         The mathematics tells us, with considerable precision, that
+> one must consider the flow pattern in all of space, and that it is
+> nonsense to talk about the behavior of the "stream of air".
+
+This is very true.  I'm guilty of trying to simplify the wing airflow by
+only examining the part that's quite near the wing.
+
+>         The electrostatic analogy flows from the fact that the two
+> situations are described by PRECISELY the same equations.  That fact
+> becomes the starting point for discussion.  The language that you
+> choose to use depends upon the "spin" that you want to put upon the
+> conclusions.
+
+But I still have the mental image of the flow through an orifice giving
+two different patterns depending on the direction of the air at the
+orifice, but an e-field giving a single pattern regardless of polarity.
+This suggests to me that the electrostatic analogy is overly simplified
+and cannot be used on the wing unless the fluid is extremely viscous.
+What am I missing here?
+
+.....................uuuu / oo \ uuuu........,.............................
+William Beaty  voice:206-762-3818   bbs:206-789-0775    cserv:71241,3623
+EE/Programmer/Science exhibit designer        http://amasci.com/
+Seattle, WA 98117  billbeskimo.com           SCIENCE HOBBYIST web page
+
+
+
+
+
+
+>>> Item number 2966, dated 95/09/15 13:18:59 -- ALL
+Date:         Fri, 15 Sep 1995 13:18:59 EDT
+Sender:       Forum for Physics Teachers <PHYS-L@UWF.BITNET>
+From:         James McLean <jgm@LASSP.CORNELL.EDU>
+Subject:      Re: airplane wings
+
+> <deletia>
+> In fact, it can be *explained by* 3rd-law effects, or it can be
+> *explained by* appeals to Bernoulli equation.
+> <deletia>
+> Instead, it is possible to totally explain lift with either method.
+>
+> <deletia>
+> Those with WWW capability can take a look at pictures I drew of good/bad
+> wing diagrams at http://www.eskimo.com/miscon/miscon4.html.
+>
+> William Beaty  voice:206-762-3818   bbs:206-789-0775    cserv:71241,3623
+
+Your WWW page says 'Aircraft wings do not get their lift from the "Bernoulli
+effect"', but it's clear from the first paragraph above that that is one
+possible explanation.
+
+Perhaps closer to the mark would be 'Aircraft wings do not get their lift
+from having a rounded upper surface'.
+
+--James McLean
+grad student
+Cornell University
+
+
+
+
+
+
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+RECENT ADDITIONS
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+
+From billbeskimo.com Fri Sep 26 07:48:57 1997
+Date: Sun, 21 Sep 1997 07:20:50 -0700 (PDT)
+From: William Beaty <billbeskimo.com>
+To: Jack Lambie <jlambie@idt.net>
+Subject: Re: LIFT
+
+Hi Jack!  Is your below message part of PHYS-L archive?  Shall I add it to
+my "Lift misconceptions" webpage as part of the PHYS-L text file on lift?
+
+On Sun, 21 Sep 1997, Jack Lambie wrote:
+> 3298PHYS-L@UWF.BITNET
+> 
+> 
+>                                The Mystery of Lift Solved 
+>     As the airplane moves  the wings deflect air.  The air molecules are
+> forced to   go down and forward  and above the wing up, backwards  and
+> down, below the wing. The air reacts in an equal and opposite direction
+> to the way it was moved and pushes back by way of pressure changes. 
+> There can be no pressure change  without moving air.
+>    Does this mean all those books about airplanes are wrong? Does
+> everything have to be rewritten?
+> Yes. Of course! continuing to spread the Bernoulli Virus must end.
+>         However I can see a tremendous learning lesson. By using to the
+> old books with the poor explanations and asking questions about the
+> Bernoulli description the student can see the anomalies. The learner
+> develops the realization that to understand anything it should be
+> explained from more than one point of view.  Also those accustomed to
+> the weight of authority in numbers will find that just because every
+> book uses the Bernoulli  effect as the total explanation of lift does
+> not make it correct.  A  better understanding of science, the meaning of
+> explanations is gained through the history of describing lift.
+>   
+> Aerodynamics is a most intriguing field. I like it because it is so
+> stimulating to think about what is really going on.  Just about 
+> anything said in that field can be  true and false depending on size of
+> the object, the  speed and the purpose of the design.  For example:
+>     
+>  The teardrop shape has lowest drag at higher speeds but a sphere has
+> lowest drag at very slow speed. 
+> 
+> A raindrop is not tear-shaped but  is a wiggling flattened blob.
+> 
+>  A rough surface has lower drag at slow speed but higher drag at high
+> speed.
+>  A flat airfoil has better lift going very slow but a thicker  curved 
+> airfoil wing has better lift a bit faster.
+> 
+>   A airfoil curved on the bottom and almost flat on top is better for
+> lift just below the speed of sound to delay shock waves and lower drag. 
+> 
+> Highest lift is with an airfoil more deeply arched on both top and b
+> bottom.
+>      Flying near speed of sound things are different. Sharp edges or
+> swept wings  are used to delay drag  used that give very poor lift at
+> slower speeds, unless you really fly slowly, like bugs and model planes.
+> 
+>  Then they  too need sharp leading edges and almost flat airfoils.   
+> Flies have little hits sticking out on their wing edges to make the air
+> turbulent which, in a fly-sized creature, is very viscous, sticky.
+> 
+>   Most interesting is the confusion and misinformation in describing 
+> lift and drag.
+> 
+> This article explains this most contentious aspect, lift,  correctly  so
+> we can all  enjoy this most subtle of technical subjects.  But why is
+> something that has successfully allowed us to fly for almost a hundred
+> years still argued about?   
+>       
+>     Here is the  ^Óstandard^Ô explanation of  lift, then  why  this
+> approach has gradually created a chorus of detractors pointing out the
+> many anomalies. I^Òll discuss why is not ^Ótrue^Ô and give examples of
+> confusion wrought by the Bernoulli Suction idea. The reaction
+> explanation will be shown to be more simple,  descriptive what is
+> actually happening more accurately and with   power and goodness
+>      Most of us have been exposed to this explanation of lift because it
+> is included in many science books, encyclopedias and even the Federal
+> Administration ^ÓHandbook on flight^Ô. 
+>        ^ÓAn airplane flies because the wing is shaped with a greater 
+> curve on the top of the surface than the bottom.  The air flowing over
+> the wing  must  travel farther over the top than the bottom so it must
+> speed up to meet the air that went past from which it was divided. As
+> Bernoulli pointed out in 1796 ^ÓWhen air speeds up the pressure drops.^Ô
+> Thus the reduced air pressure over the top of provides  most of the
+> lift^Ô. 
+>      That idea has become pretty much the most common text book and
+> encyclopedia explanations of lift. Other descriptions of lift, the
+> circulation explanation. The Action-reaction, air is pushed down by a
+> wing  and the air pushing back holds it up. 
+>       The action-reaction explanation  is simpler, describes more Most
+> of us have been exposed to this explanation of lift because it is
+> included in many science books, encyclopedias and even the Federal
+> Administration ^ÓHandbook on flight^Ô. 
+>        Describing lift by the faster-air-suction-idea results in  such
+> mistaken ideas they  have caused a  waste of time and money for
+> aerodynamic experimenters.
+>       The standard ^ÓAn airplane flies^Ô says the wing is shaped with a
+> greater  curve on the top of the surface than the bottom.  The air
+> flowing over the wing  must  travel farther over the top than the bottom
+> so it must speed up to meet the air that went past from which it was
+> divided. As Bernoulli pointed out in 1796 ^ÓWhen air speeds up the
+> pressure drops.^Ô Thus the reduced air pressure over the top of
+> provides   most of the lift.
+>          
+> 
+> Air does not rush over and airplane wing and does not rush over the top
+> of an air foil faster than under the bottom. In real life the wing moves
+> through still air.
+> 
+> The slight downwash behind the wing is not caused by the pressures
+> around the wing.
+> 
+> An airplane flies through the air. The air is not going over or under
+> the wings but is being deflected from its stationary position by the
+> planes passage. The plane is the thing doing the rushing. As its body
+> and wings go through the air subsonic of  course,  the air ahead of the
+> the plane begins to move out of the way, Some goes up as the wing
+> approaches and some is pushed down. The air has mass and inertia. It
+> wants to stay where it is and when moved it makes a reaction exactly
+> equal and opposite on the object that is moving it by... how else?
+> Pressure changes.  The pressure change is in response to deflecting air.
+> 
+>  Since deflection, reaction, and the pressure changes  happen instantly
+> and simultaneously what is the first cause? In the Smithsonian Exhibit
+> on Lift it says the pressure causes the down wash.  Does pressure cause
+> the air to deflect or does the deflected air cause pressure changes? It
+> can be described either way but only one is true in the scientific
+> sense. 
+>      Now we have to do a bit of Philosophy.  There are many absolutely
+> true statements that are not true in the scientific sense. Ask any
+> ;pilot what makes a plane fly and he will say ^ÓMoney^Ô.
+> Having owned airplanes all my life I must agree that is crucial. One of
+> my students in response to that said, ^ÓThe key to the magneto.^Ô A glider
+> student pilot said, ^ÓThe tow^Ô. And so on. You can think of a lot of
+> completely true statements like that that really don^Òt go the the
+> deepest understanding of lift. So in the scientific sense..
+>   What is ^ÓTrue^Ô?
+>  In science ^ÓTrue^Ô, is 
+> 1: The simplest description,
+> 2:Is not a ^Óas if^Ôstory^Ô but  adheres to the  physically happening.
+> 2: Fits the most cases and 
+> 3: is closest to our experience.
+>       The description of reaction to acceleration describes everything
+> moving: In rockets, a mass of fuel is accelerated in one direction the
+> rocket goes the other way.
+>       A helicopter accelerates a mass of air down and in reaction it
+> goes up. We put our hand out of the car window and feel the push, the
+> reaction, resulting from the air being deflected but we don^Òt feel the
+> absolute change in air pressure. We do feel the reaction carried to our
+> hand by air pressure. 
+>      Putting your hand over a wing while in flight would not give the
+> sensation there is a lower pressure but we do feel the reaction when the
+> plane lifts off or pulls up.
+>  We can't tell air pressure, unless we are on a fast elevator or
+> airplane climbing or descending and our ears pop. 
+>      A car goes around a corner and the acceleration, change in
+> direction,  we feel by our bodies reaction  to a sideways force.
+> We can feel action and reaction easily so it is more in our experience
+> than air pressure.
+> 
+>       Any deflection of the air  both the reaction and the pressure
+> differences on the object doing it , such as a wing, are instant and
+> simultaneous.   Because they happen at the same time would that make
+> them equal as cause? There is a compelling case to pick reaction of
+> pressure as the ^Ócause^Ô. 
+>      We define ^Ócaused by^Ô with action. The wing is moving the air so it
+> doing  something  that  ^Ócauses^Ô  lift.
+>               The reaction to this cause results in pressure
+> differences. Just because the reaction and pressure change is
+> simultaneous doesn^Òt make them equal when we talk about cause. 
+>        More important  using reaction describes how any object that
+> deflects air sets up an equal and opposite reaction. Reaction also
+> explains  a wider  range of situations, not just those in fluids. The
+> simplicity of action=reaction, plus its ability to be sensed easily by
+> us humans gives the ^Ótrue^Ô cause, not changes in fluid pressure. 
+>      Reaction as the cause of pressure change. Reaction to deflecting
+> (accelerating) the air is the PRIMARY cause and the changes in pressure
+> is the SECONDARY EFFECT that transfers the reaction to the body. 
+>      In the NASM section ^ÓWhat makes a Wing Work^Ô the explanation is
+> confused by using the secondary effect to explain lift.
+>      ^ÓA wing is shaped and tilted so the air moving over it moves faster
+> than the air under it. As the air speeds up, the pressure goes down. So
+> the faster moving air above exerts less pressure on the wing with the
+> slower moving air below. The result is an upward push on the wing-lift.
+> It then talks about the amount of lift being affected by the size shape
+> and angle it meets the oncoming air. 
+>      What's wrong with that? First the air is not oncoming. The plane is
+> flying through it. Why the confusing, to students, change in reference?
+> It might be fine for aerodynamicists working with wind tunnels but for
+> the public tell it like its really happening.     Well you say ,^ÔIts
+> easier to explain with the air moving over the wing, its all relative
+> anyway. There is no difference if the wing moves or if the air moves. ^Ó 
+>          Ok. If you want to do it that way, but you better explain to
+> the student or beginning pilot that this explanation is not the the true
+> state of affairs but aerodynamicists jargon and an ^Óas if^Ô one that you
+> are using because you think its easier to explain that way, probably
+> because that's the way you learned. 
+>       For a student in school or ab-initio pilot it makes no sense
+> because they think of the airplane as going through the air.
+>         Again is the confusion of primary and secondary effects to
+> explain lift.   A wing  airfoil is  designed to deflect air efficiently
+> so the most lift reaction is gotten with the least energy used.
+>      Usually it is curved more on the top than the bottom but not
+> always. A training type hang glider has equal curves on the top and
+> bottom of the wing, small flyers like insects and model throw gliders
+> have flat airfoils and jetliners are more curved on the bottom than the
+> top because they need less lift at there fast cruising speeds.
+>     The exhibit was surely not written with any input from knowledgeable
+> people.
+>     Using Bernoulli is entirely passe.  He died long before anyone
+> thought of an airplane wing lifted by his theory of pressure change with
+> speed.
+>      Of course there are pressure differences  over a wing or body as it
+> moves through a fluid or a fluid moves over it. That is correct. But Dan
+> Bernoulli^Òs theorem is really no explanation of anything. It is just a
+> statement of the relationship between speed and pressure.
+>        Pressure can be measured with gauges connected to  taps, little
+> holes in the surface  and offer great possibilities for mathematical
+> description and computer prediction and analysis but they are not the
+> primary cause. Think about it. There can be no pressure change without
+> deflecting air.   The first cause is the air being
+> deflected.
+
+ 
+>  The New Smithsonian Air and Space Museum is a classic example of the
+> confusion wrought by the ^Óvirus infection^Ô of the Bernoulli
+> explanation.  
+>       The Smithsonian^Òs ^ÓBernoulli Brain Teasers^Ô can better be
+> described by action-reaction. It should be called ^ÓNewtonian Brain
+> Teasers.^Ô
+>      ^ÓAn airfoil seen from the side is curved on top and nearly flat on
+> the bottom. As a wing moves through the air, the air divides to pass
+> above and below the wing. Since the wing^Òs upper surface is curved, the
+> air rushing over the top speeds up and stretches out. This decreases the
+> air pressure above the wing. The air flowing below the wing in a  fairly
+> straight line so its speed and air pressure remain the same.^Ô 
+>       The wing is moving through the air, and,  below the speed of
+> sound, the air senses the coming wing.  Air above  moves forward,  then
+> up and back and below it is pushed forward and down. The air  is pulled
+> along by friction.  As the wing moves by The more quickly the air that
+> has been moved slows and stops the lower the drag. If it is pulled along
+> with the wing it uses a lot more energy and has higher drag.
+>      Training hang gliders have a single surface airfoil. Its the same
+> distance over the bottom as over the top. How can it fly?
+> How does a plane fly upside down?
+> How come model planes and insects with flat airfoils fly so well?
+>      Since the airfoil shape has not changed why does lift increase as
+> the angle of attack increases?
+>      The answer to these questions are clear when lift is described as
+> the result of deflecting air downwards. Any shape can create lift at a
+> positive angle of attack. 
+>            ^ÓHold  piece of paper between your fingers  and blow over 
+> it. It pulls up. Why?^Ô Air above and below the breath of wind is pulled
+> from its position into the high speed flow. If air is  moved down the
+> equal and opposite action is an up force.  This force is transferred to
+> the paper by pressure which pulls it up. 
+>       ^ÓTake two balloons put a little water in them for steadiness then
+> tie each with a foot of string and hang them a few inches apart  Blow
+> between them. Newton would say they move toward each other because the
+> air is deflected in a curve over the balloon^Òs surface.  Its 
+> acceleration from its straight path and the resulting reaction is a pull
+> on the balloon. 
+>        When you go around the curve in a car. You are pulled to the
+> outside. So  also the air going around the balloons sets up a force
+> opposite to the accelerations of the air that force makes the balloons
+> move toward each other.
+>      ^ÓA ping pong ball is put on a flexible straw tube and you blow in
+> it with the ball balanced on top. The ball does not blow away but stays
+> in place. Why?^Ô
+> The Newtonian or reaction explanation is simply that the air going
+> around the curve has the equal and opposite reaction to its change in
+> direction, which creates an instantaneous force pulling on the ball from
+> all sides. If it starts to move to one side it is quickly self
+> correcting because if the air is cut off from one side and increased on
+> the other with its attendant increase in force pulling it back over the
+> center of the tube. The more air being moved the greater reactive force.
+>        ^ÓTake a thimble, put a piece of light cardboard over it with tack
+> through it extending into the hole . Blow into the thimble and the card
+> stays in place instead of blowing away.^Ô My Reaction explanation is that
+> the air coming out of the hole goes around the  corner at the edge of
+> the hole in the thimble and the cardboard. Its  direction is changed.
+> When it goes around the corner that deflection makes a pull on the edge
+> of the object making the air turn . That pull holds the cardboard in
+> place.
+>      The ^ÓDid You Know^Ô section shows an obstacle, it looks like a
+> streamlined shape like a fairing  over the NDB antenna on an airplane.
+> It says, ^ÓWhen moving air encounters an obstacle ---its path narrows as
+> it flows around the object-------Freely flowing air ---speeds up where
+> its path narrows and slows back down where it widens.^Ô
+>        Any grade school student would look at that as say, ^ÓBut Mr.
+> Lambie the air flow widens as it goes around the object. It has to or it
+> would have to go right through the object.  I would have to say,^ÔAn
+> obvious observation.  ^ÓGood for you. You are a intelligent student to
+> question an explanation that doesn^Òt make sense.^Ô
+>       Here^Òs how I would explain this example with the True description.
+>      The air must widen, not narrow, to go around any object.  The
+> object deflects the air, that is, causes  it to moved. This
+> instantaneously sets up a reaction opposite to its deflection.  This,
+> over the  curve, would be a pull .  The counter  reaction, of course, 
+> is transferred to the object by a minus pressure. How else? 
+>       The primary cause of the pressure change is reaction due to the
+> air being ^Ówidened^Ô out as it moved around the object.
+>      The ^ÓDid  You Know?^Ô  Has a most confusing example. It shows a
+> truck and a car passing and says that the sideward tug you feel on your
+> car when you pass a large truck going in the opposite direction is
+> caused by air pressure. The passing vehicles form a constriction that
+> speeds up the flow of air, reducing the pressure between them (it makes
+> no difference which is moving the air or vehicles. The result is the
+> same. The higher pressure on the other side of the car pushes it toward
+> the truck during the split second they pass.^Ô
+>        But my observant student would say. ^ÓI looks to me that if only
+> the air were moving the truck would have a tailwind and the car headwind
+> so there would be no deflection on air by the truck at all.^Ô  True my
+> good student, but as poor as this example is, it would work somewhat
+> because the car pushing the strong headwind out of the way would be
+> deflecting the air causing an equal and opposite reaction which would
+> give a pull. The pull reaction is transferred to the front corners of
+> the car as a lower pressure which the truck would also feel as a pull.
+>      I have done two education  TV shows on this and written about it in
+> all  7 of my books. It seems radical. It would negate every aviation and
+> bird book dealing with movement in air and water and  require rethinking
+> for teachers. No more blind copying of the encyclopedia by magazines and
+> newspapers. 
+>       Yet,  I have discussed this for years with aerodynamicists Dr. Bob
+> LIebeck, Dr. Peter Lissaman, Dr. Paul Mac Cready, Barnaby Wainfain.
+> Bruce Carmichael and my  friend Balan Menen. The are unanimous in
+> agreement with this interpretation and description being correct.  
+>      How come  the  ^ÓCurved airfoil^Ô fallacy and why is it  so often
+> repeated?    Why the Bernoulli description has become the most used is a
+> good question for research.  One teacher likened it to a computer virus
+> that spreads and spreads. Bernoulli^Òs simple faster lower pressure
+> relationship ideas were picked up when people first began to fly. His
+> faster flow low pressure idea was presented to explain how lift is
+> created and , while not a true explanation, somehow  appealed to the
+> pilots and aerodynamicists.  Why?
+>      Most people then would not to think that a special shape, curved
+> more on the top would be the secret of lift. Perhaps it gave a certain
+> mystique and power to those involved with airplanes. We all like to
+> think we have special knowledge and this was a perfect and subtle
+> explanation of lift.
+>      The general feeling I get is, perhaps excepting Paul MacCready, is
+> that it doesn^Òt rate the time involved in changing a way of looking at
+> something they  already know and  understand.  
+>       I suppose it is like when I talk about legal language to lawyers.
+> They largely agree that legal verbiage is redundant, ambiguous, archaic
+> that its almost illiterate. But they are accustomed to it and know what
+> is being said so who cares. Its their job. Why make plain language law.
+> Then people wouldn^Òt hire lawyers.
+> 
+>  
+> As the first director of Education at  LA^Òs  Museum of Science qnd
+> Industry I developed a correct and superb description of lift using a
+> water ^Ówind^Ô tunnel.          
+> (Author of ^ÓComposite Construction for Homebuilt Aircraft^Ô $20 signed
+> and mailed.
+> ^ÓUltralight Airmanship^Ô $10 from the author signed and PP.
+> Others in the library
+> ^ÓBuilding and Flying Gliders and Sailplanes^Ô
+> ^ÓComposite Construction for Radio Controlled Models^Ô
+> ^ÓHomebuilt Rotorcraft^Ô
+> ^ÓUltralight Kit Book^Ô
+> ^ÑAlso lots of Aviation and Aerodynamic articles and ^ÓCondor Flight^Ô in
+> Air and Space 1987.
+> POB 1231 Morongo Valley, CA 92256
+>  Phone and FAX 760 363 6806
+> jlambie@mail.idt.net
+> 
+
+.....................uuuu / oo \ uuuu........,.............................
+William Beaty  voice:206-762-3818   bbs:206-789-0775    cserv:71241,3623
+EE/Programmer/Science exhibit designer        http://amasci.com/
+Seattle, WA 98117  billbeskimo.com           SCIENCE HOBBYIST web page
+
+
+
+
+
+
+              
+
+
+From billbeskimo.com Sat Mar 29 16:15:40 1997
+Date: Sat, 29 Mar 1997 15:19:01 -0800 (PST)
+From: William Beaty <billbeskimo.com>
+To: phys-l@atlantis.cc.uwf.edu
+Subject: Re: "How Things Work" Website
+
+On Sat, 29 Mar 1997, John Mallinckrodt wrote:
+
+> I do not happen to be a particular fan of the Bernoulli-based explanation
+> for lift and much prefer transfer of momentum arguments.  On the other
+> hand, I thought the explanation provided at the "How Things Work" website
+> was rather good.
+
+I thought that most of the other material in the website is very good.  It
+could be improved by adding a webpage index, since the file was up near
+300K.  I'd have liked to browse the file, rather than having to page down
+through the whole thing. 
+
+> I'm curious about why you call the "airstreams must join at the trailing
+> edge" argument "false."  In the steady state, laminar flow regime in which
+> the Bernoulli principle holds (and which is, admittedly, questionable for
+> airplane wings) mustn't this be the case?
+
+Nope.  I'm not sure, but I suspect that in some simplifications to a
+2-dimensional case, the parcels of air may indeed be required to rejoin at
+the trailing edge.  If so, then this is an artifact of the simplifying
+assumptions, not a feature of real airfoils. In real, 3D wings there is a
+sort of singularity trailing behind the wing, called a "vortex sheet" in
+aerodynamics textbooks.  When generating lift, the parcel underneath the
+airfoil is slowed and the parcel above speeds up. The parcels which were
+once adjacent are permanently separated from each other.  As a
+consequence, an overall vortex motion appears, with the vortex core
+centered near the tip of the wing.  The vortex core acts as a boundary for
+the edge of the vortex sheet.  These are all 3D effects, and might not be
+possible in a "2D universe." 
+
+While this does screw up the elementary-school aerodynamics explanation,
+it does clear up confusion about thin airfoils.  In a thin airfoil the
+path lengths are equal, so how can the "Bernoulli Effect" apply?  When an
+uncambered thin airfoil (e.g. sheet of plywood) generates lift, the air
+above is sped up and the air below slows down, and the parcels do not
+recombine at the trailing edge, nor do they need to.  There is a relative
+difference in velocity, and so a differential pressure pointing upwards. 
+"Bernoulli" therefor applies to tilted sheets of plywood, not just to
+cambered thick wings having unequal path lengths, and those who defend the
+"Bernoulli" explanation can breath a big sigh of relief.  ...and then
+search for a better explanation for why the air above the airfoil *really*
+moves faster.
+
+Jan-Olov Newborg in Sweden, an associate of Dr. K. Weltner of the infamous
+"anti-bernoulli" papers in AJP and TPT, sent me a couple of GIFs which I
+should strip down and install on my webpage.  They depict the path of a
+sheet of smoke, a "smoke pulse", as a wing flys perpendiculary through it
+in a wind tunnel.  The GIF is pretty small, I've attached it to this
+message as a MIME file.  It's also at: 
+
+  http://amasci.com/wing/airgif2.html
+  http://amasci.com/wing/airfoil.html
+
+He mentions that this "phase shift" effect is proportional to lift.  If
+any airfoil attack angle is adjusted in order to eliminate this phase
+shift, lift is eliminated as well.
+
+So, since the parcels of air do not rejoin, and in fact it seems that this
+"phase shift" is a necessary component of the lift-generating mechanism,
+it becomes very wrong to base the "Bernoulli" airfoil explanation on a
+requirement that the parcels rejoin at the trailing edge.  I doubt that
+this fact will do much to counter the spread of this misconception.
+After all, it's in all the textbooks, and how can that many textbooks be
+wrong?    ;)
+
+.....................uuuu / oo \ uuuu........,.............................
+William Beaty  voice:206-762-3818   bbs:206-789-0775    cserv:71241,3623
+EE/Programmer/Science exhibit designer        http://amasci.com/
+Seattle, WA 98117  billbeskimo.com           SCIENCE HOBBYIST web page
+
+
+
+
+
+Date: Tue, 28 Jul 1998 14:41:17 +1200
+From: Marlyn Jakub <mjakub@physics.otago.ac.nz>
+To: phys-l@atlantis.uwf.edu
+Subject: RE: Raskin's Coanda effect article 
+
+Bill Beaty wrote:
+>From: William Beaty <billbeskimo.com>
+>To: list physics teaching <PHYS-L@atlantis.uwf.edu>
+>Subject: Raskin COANDA EFFECT article
+>X-Authentication-Warning: eskimo.com: billb owned process doing -bs
+>X-Listprocessor-Version: 7.2 -- ListProcessor by CREN
+>
+>
+>The Airfoil-Lifting-Force article from QUANTUM magazine is now online on
+>Jeff Raskin's website:
+>
+>    http://freebie.cfcl.com/jef/
+>
+>Lots of good material regarding the incorrect "Bernoulli effect" 
+>explanation of lifting force. It includes some A. Einstein history which I
+>have never before enountered.  Apparently Einstein designed an airfoil
+>during WWI, but his thinking was based upon the usual incorrect
+>explanation of aerodynamic lift, and his design didn't work Einstein
+>found:
+>
+>  "Although it is probably true that the principle of flight can be most
+>  simply explained in this [Bernoullian] way it by no means is wise to
+>  construct a wing in such a manner!" 
+>
+>Not only does the "longer path gives faster flow" misconception suck in
+>students, educators, and textbook authors, it sucked in Albert too!
+>
+Bill, 
+On 13DEC95, I wrote a criticism of this article for Phys-L readers. Again, I
+would strongly urge readers of Raskin's logic to add lots of salt before
+believing any of Raskin's claims.
+
+In short, Raskin uses air jets which are smaller than the wing object. This
+can be totally misleading. E.g. blow through in inverted small (5mm) funnel
+and you can hold a ping-pong ball inside the funnel...but with a downward
+blast of ping pong ball diameter, there's no lift for the ball to stay in
+the larger funnel.
+
+Raskin never mentions circulation because he cannot have much with flow only
+over the top of the wing. With circulation, flows over the wing are much
+larger than those under the wing, so the 2% figure only shows that he needed
+circulation in his model to get the better velocity estimates. 
+
+Raskin claims that the back of the airfoil is most important, but the
+primary pressure lift profile is at the front third of the typical wing,
+where Raskin's arguments would seem to lead to the opposite conclusions. The
+semi-stall condition for wings is when the lift-off point moves forward from
+the rear edge of the airfoil, but there is still some lift...and a lot more
+drag.
+
+I have no conformation on the claim about Einstein's wing design or on
+Raskin's role in developing the Mac computer...perhaps Jobs or Wosniak can
+help on the latter.
+
+
+
+ 
+
+From airboy@PHYSICS.UCSB.EDU Tue Feb  2 18:27:09 1999
+Date: Sun, 17 Jan 1999 10:22:28 -0800
+From: Roger Freedman <airboy@PHYSICS.UCSB.EDU>
+Reply-To: "phys-l@lists.nau.edu: Forum for Physics Educators"
+     <PHYS-L@LISTS.NAU.EDU>
+To: PHYS-L@LISTS.NAU.EDU
+Subject: Flight references
+
+I would like to suggest that the recent discussion of the origin of lift
+(which seems to be rehashed over and over and over again on this list, as
+well as elsewhere) could benefit from a consultation of the literature.
+(Yes, even in the age of the Internet, it serves us well to make careful
+study of published, peer-reviewed materials.) I recommend the following
+sources:
+
+* Alexander, R. McNeill. Exploring Biomechanics: Animals in Motion.
+Scientific American Library, 1992. Chapters 4 and 5 of this excellent
+semi-quantitative introduction to biomechanics describe the gliding,
+soaring, and flapping flight of birds and insects. There are some nice
+three-dimensional depictions of the airflow around aircraft and birds in
+flight. The author is a professor of zoology at the University of Leeds.
+
+* Anderson, John D., Jr. A History of Aerodynamics and Its Impact on Flying
+Machines. Cambridge University Press, 1997. A very extensive technical
+history (fully half the book covers the centuries before the Wright
+Brothers). The author is a professor of aerospace engineering at the
+University of Maryland.
+
+* Ashley, Holt. Engineering Analysis of Flight Vehicles. Addison-Wesley,
+1974. Reprinted by Dover Publications, 1992. A superb graduate-level
+textbook that should be accessible to anyone with a physics degree. The
+book has clear, quantitative discussions of two- and three-dimensional
+wings. The author was a professor in the Department of Aeronautics and
+Astronautics at Stanford University (and an excellent teacher, as I can
+attest from personal experience).
+
+* Hubin. W. N. The Science of Flight: Pilot-Oriented Aerodynamics. Iowa
+State University Press, 1992. Written by a physicist (on the faculty at
+Kent State) who is also a pilot. The book has a wealth of real-life
+examples based on data from light airplanes. The extent of quantitative
+detail should be satisying to anyone reading this list.
+
+* Hurt, H. H, Jr.. Aerodynamics for Naval Aviators. U. S. Navy Publication
+NAVAIR 00-80T-80, 1960. (Reprinted by Aviation Supplies and Academics,
+Inc., and available from Aviation Book Co., 7201 Perimeter Road S., Suite
+C, Seattle WA 98108) Very clear textbook with excellent discussions of the
+three-dimensional aspects of airflow around aircraft. The author was on the
+faculty of the University of Southern California.
+
+As an aside, from my experience as a pilot I can attest that what *really*
+makes airplanes fly is MONEY! (There is a wonderful T-shirt for pilots that
+carries the slogan "If God had meant man to fly, he would have given him
+more money.")
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Roger A. Freedman
+Department of Physics and College of Creative Studies
+University of California, Santa Barbara
+
+Mailing address:
+Department of Physics
+UCSB
+Santa Barbara CA 93106-9530
+
+   E-mail: airboy@physics.ucsb.edu
+      WWW: http://www.physics.ucsb.edu/~airboy/
+    Voice: (805) 893-2345
+      FAX: (805) 893-3307
+Voicemail: (800) 344-3147 x4322

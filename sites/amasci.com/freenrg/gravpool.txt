@@ -1,0 +1,36 @@
+VIEW 2D PATTERNS OF DISTORTED GRAVITY               (c)1997 William J. Beaty
+
+With Podkletnov's announcement of reduced gravity over rotating
+superconductors comes the question: what shape is the distortion pattern?
+Is there a quick and easy way to detect and map forces produced by these
+devices?  Here is an untried suggestion.
+
+Schlieren optics is traditionally used to map the 2-dimensional
+distribution of variation of refractive index of fluids, for example
+pressure distribution in shockwaves in air, temperature differences in
+fluid, etc.  This same method can be harnessed into displaying a
+distortion of gravity force if the force is a significant percent of
+earth's gravity.  Simply incorporate a shallow pool of reflective fluid
+into the optical path, allow the gravity field to distort the fluid
+surface, then view the result on the Schlierien system's screen. 
+
+Not quick and dirty enough?  How about this then.  Fill a shallow pan with
+1cm of water.  Place it in the sun.  Arrange a screen to catch the
+reflected light from the surface.  Place the gravity-producing device
+under the pan of water.  Now, if any fields distort the surface, they will
+be revealed as dark and light patterns projected upon the screen. 
+
+This crude arrangement can be improved by replacing the sun with a
+point source or line source illuminator.  The sun, being an extended
+source, injects inherent blur into the system.  Replace the sun with a
+slide projector having an opaque slide with a point aperature or slit
+aperature.  The resulting images on the screen will be much sharper.
+
+Note that water is paramagnetic, so powerful magnetic fields will distort
+the surface.  This can be demonstrated by holding a large NIB permanent
+magnet slightly above the shallow pan described above.  So, don't mistake
+a conventional magnetic field for a beam of quantum gravity! 
+
+http://amasci.com/freenrg/gravpool.txt
+http://amasci.com/freenrg/antigrav.txt
+

@@ -1,0 +1,212 @@
+A GRAVITY-WARP CAPACITOR     http://www.amasci.com/caps/capworks.txt
+
+ -------------------------------------------------------------------
+|  Overall specs (written by bill b.):
+|
+|  18 cm long, 0.96KG
+|
+|  390 tin foil layers, 781 wax paper layers
+|
+|  .025mm tin (0.001"), 97.8% purity
+|
+|  wax paper est. thickness:  180mm/781 - .025mm = .2mm (VERY thick!)
+|
+|  Powered by VandeGraaff electrostatic generator
+|
+|  5.48KG measured lift above weight-cancel point (54 Netwons),
+|  calculated thrust 6.44KG (63 Nt)   (it lifts ~ 7grams per foil plate??
+|  Can two plates lift themselves?!!)
+|
+|  Divided into 13 groups of 30 foils (each w/15 foil-wax-foil-wax 
+|  layers) alternating positive and negative plates.  Pos. plates
+|  connected together, negative plates connected together.  Each group
+|  individually switched to high voltage in order to vary the thrust.
+|
+|  Waxpaper dielectric disks, radius 8cm, hole radius 2.7cm
+|
+|  Tin foil circular plates, radius 6.30cm, hole radius 3.3cm, with
+|  nine radial gaps in foil each 0.6cm wide, gaps ending on a circle
+|  of 5.55cm radius circle (outer edge of foil disk is continuous.)
+|  See GIF diagrams linked on http://www.amasci.com/caps/capwarp.html
+|
+|  Metal layers carefully adjusted so the gaps line up.
+|
+ --------------------------------------------------------------------
+
+From: S
+Date: Thu, 16 Mar 2000 14:22:31 EET
+To: billb@eskimo.com
+Subject: it works!!
+
+I am a regular reader of your site, I am an electronic engineer and I am 
+working on antigravity projects secretly in my home in my country.
+
+I just want to tell you that the gravity capacitor works as the writer
+says. I complete and test it.  The voltage it depends from dielectric
+material. 
+
+I didn't roll all the positives and negatives strips, I made groups of 30
+layers for better control and testing.
+
+Weighs only 0.962 Kg, and in full charge its negative weight is 5.481 Kg.
+
+VDG "energy" is the best and safest for dielectric.
+
+
+
+
+
+
+From: S
+Date: Sun, 19 Mar 2000 23:39:20 EET
+To: billb@eskimo.com
+Subject: Re: it works!!
+
+I want to tell you what I did exactly so you can or any other person can 
+duplicate the capacitor.
+
+Forget the capacitors you know. That thing is NOT a capacitor. Is only
+similar in the construction. But that device USE the capacitance to keep
+the charge in large quantities. Nothing more to do with the regular
+capacitors. Now I think that the geometrical shape of the plates and the
+position of them is the key, But I can not explain to you how.?? 
+
+The capacitor is a real powerful thing, I mean that if I let it free after
+I charge it I will have accident for sure. It keeps thrusting to its
+positive side. I cannot measure the voltage that it builds because I don't
+have instruments.  I use a big glass box like the one you put fish inside
+but bigger, with the capacitor inside with the positive up, and a weight
+measure machine on top of the capacitor. Closing the box I had all those
+stable, and the weight machine set to 0. Instant ~5,4 Kg on the scale when
+I hit it with working van de graf I made for testing it.  Don't use
+electronic weight machine, it will show instant funny characters and it
+will stop!!??.  In fact, any electrical device above the hole and 10cm
+higher will not function properly, and under the hole, (and the affected
+area getting bigger as you go away from it, as if the force going
+something like a "conical thrust" of the capacitor, will not function at
+all. Which means that the electrons in circuits stop running.
+
+Now if I do not use the glass box and I lock the device with four short,
+equal strings to the negative end with the table or floor ( I use a table)
+and I charge it, then the capacitor kicks itself up, now when I pressed
+with the stick on one of the four strings, the capacitor was turning from
+the side I pressed. So all I want to say to you is that the force is
+directional (thrust is appearing always on the negative side).  In few
+words, it acts as it was a rocket without the fire.  No noise.  Careful,
+do not touch the glass if is not grounded after the discharge and do not
+touch or be near the charged capacitor.  It is not a game. If you were
+seeing how it reacts, you could say that for your self.  I am afraid to be
+near it when it is charged.  Also, I use a barrel full of oil for
+discharging. And all that, I do with extreme caution, using long sticks
+etc. My opinion is to not use it inside the same room.  Probably is emits
+something bad.  I don't know.  I am not psychotic person I am always cool
+(at least I try). 
+
+I have used the device 4 times. Is not easy if you do not have the correct 
+instruments and equipments.
+
+I use continuous charge from VDG, no special circuits. The capacitor
+reacts instant and constant. 
+
+The discharge is very dangerous and I have never left it to discharge by
+itself yet to learn the time.  But if you use my plate ring as it is shown
+in the scanned image ( in scale) you will finish much faster.  Also the
+electrostatic leakage is very limited because of the curved angles.  Also
+the capacitance will be increased because there will be no air trapped
+between the small segments, using the ring I suggest.
+
+
+
+About the construction
+
+I followed all instructions except that I had the waxed paper printed as
+the plates to be on top so I can place the plates exactly where they
+should be, (I think that is important) and the tin was not in small pieces
+vbut rings.  There are many reasons why I made this changes. I have
+include
+a drawing how I did the rings look like. 
+
+
+
+
+
+
+
+From: S
+Date: Tue, 21 Mar 2000 14:19:45 EET
+To: billb@eskimo.com
+Subject: Re: it works!!
+
+billb wrote:
+>I wonder, are the small slots necessary?  Or will the capacitor still
+>produce gravity thrust if the foil ring is made solid, with no slots?
+>Or, if fewer slots are used, is the gravity thrust very small?
+
+I think that is very important. I think the shape of the ring is the heart
+of the module. 
+
+I can't tell for sure for all these combinations, I have to try them
+first.
+
+
+>Is the glass box filled with oil?  Or is the capacitor dry, in air?
+
+No, no oil inside the glass box (I haven't try that). It is dry.  I only
+used the glass box for some kind of protection.  And I do not know yet if
+is really protecting me or my mind just think that its protecting me..?? 
+
+>Does this "field" prevent a flashlight from operating?  Or a 100-watt AC
+>light bulb?  Perhaps it only harms transistors, but not heated wires, not
+>batteries?
+
+
+I think you are correct, electronics have problem around 10 cm away from
+cap, and not live wires ( with 220 volts ) (light in the room is not
+affected but is 4-5 meters away), I don't know about batteries but I guess
+you are correct. I have to experiment. I will do that.
+
+
+>If you turn off the VDG, does the thrust slowly decrease?  Or does the
+>thrust vanish instantly when the VDG stops?  (Is the thrust caused by the
+>CHARGE, or by the electric current (microamperes of leakage current in the
+>paper dielectric?)
+>
+>Also, how many metal layers in your capacitor?
+
+
+781 waxpaper layers and 390 metal layers,  I made 13 groups of 15 positive 
+and 15 negatives, using a primitive switching circuit having 13 switches for 
+trust control ( Those 13 switches add trust and cannot reduce of course).
+
+Look how I do operate the module:
+
+I switch the VDG on and after 10 sec I connect the + of VDG wire to the +
+(up as was) of the capacitor.(- is connected to vdg)  With 13 switches on
+It takes less than 1 sec for the instant thrust to its maximum ( maximum
+for my VDG )  Now (capacitor uncharged) If I switch on 1 by 1 the 13
+switches the thrust do the same. Gets greater and greater.  I disconnect
+the vdg and still the thrust is there.  When you have to discharge, better
+discharge step step ( even step step is dangerous )  Well I think and I
+feel that thrust is caused by the charge. My VDG and any vdg I think can
+only give a very very small amount of current. 
+
+
+   NOTES FROM BILL B:
+   Maximum voltage will be determined by leakage, and if the VDG
+   only outputs 10uA or so (my estimate of a typical VDG), and
+   if the capacitance is about .01uF (my very crude estimate),
+   then a 1-second charging time gives about 1000V on the cap.
+   Very low!  [Better estimate of capacitance: 0.5uF]  And, if turning
+   on the switched segments one by one gives easily observed thrust
+   increases, then even a few layers (such as one of the 30-foil segments
+   used above) should give an easily-measured thrust.  I wonder if the
+   thrust is exactly proportional to the number of layers?  If so, then
+   even a single layer-pair should be able to lift its own weight.
+   But if the thrust is not proportional to the number of layers, then
+   many layers would be needed before the thrust becomes (dispropor-
+   tionally) strong and can levitate the layers.  How many foil
+   layers are needed before they can lift their own weight?  And
+   is tin really necessary, or will other metals work too?
+
+A GRAVITY-WARP CAPACITOR     http://www.amasci.com/caps/capworks.txt
+

@@ -1,0 +1,37 @@
+TESLA COIL HINTS
+
+On winding coils: PVC pipe is probably the best thing you can use.  This
+gets expensive on extremely large (10 ft, 12in dia.) coils, and cardboard
+"sonotube" concrete forms are usually used then.  If you ever use
+cardboard, its a good idea to lower its conductivity by painting it with
+many coats of varnish or that wood-waterseal stuff. 
+
+The first coil I tried I did on very heavy cardboard tube about 4in
+diameter, and put several strips of clear doublestick tape along it to
+keep it from sproinging off while winding when I let loose of the wire.  
+This worked fine.  Wax might work, but it would have to be sticky.
+
+I cobbled together a winder by taping 8mm movie reels to each end,
+mounting one end in my old plastic 8mm movie editor, and sticking a rod in
+the other end , with the rod stuck through a cardboard box support.  It
+worked fine, handcraking the editor and handfeeding the wire.  The second
+one I did on 5" pvc pipe with double sided tape strips on the pipe, and
+used a lathe with a footpedal speed control, and hand-fed the wire using
+leather gloves. On both coils I painted them with polyester resin, the
+kind used for fiberglas coating.  You have to use lots of catalyst in the
+resin when doing thin coats, or it won't harden. 
+
+Since hand-winding a coil without mechanical aids takes hours and hours, 
+I strongly suggest spending a few hours to figure out some sort of winder 
+scheme.  Winding on a lathe took me only about 20 minutes, and most of that
+time was because I kept letting the turns overlap, so I'd have to stop 
+and unwind slowly to correct the kinked turn.
+
+One thing I had trouble with was sparks jumping between the primary and 
+the main coil.  The higher the power supply voltage, the better, but at 
+some point the voltage creates unwanted arcs.  The solution is to wind 
+the heavy primary turns on a fairly long tube, so the spark path has to 
+go a long distance to get to the main coil.
+
+
+

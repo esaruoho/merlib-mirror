@@ -1,0 +1,77 @@
+MIKHAILOV'S MAGNETIC-MONOPOLE VERSION OF THE MILLIKAN OIL-DROP EXPERIMENT
+
+
+Date: Sat, 10 May 1997 18:28:28 -0800
+From: Horace Heffner <hheffner@corecom.net>
+Subject: Gravity, electromagnetism, Maxwell
+
+<snip>
+
+In regard to the above issues, Robert Stirniman brought to my attention
+some time ago "Advanced Electromagnetism Foundations, Theories and
+Applications", edited by Terrence W. Barrett and Dale M. Grimes, World
+Scientific Publishing, 1995. Of particular interest is the article "Six
+experiments with Magnetic Charge", V.F. Mikhailov, p. 593 ff., which
+discusses a modern look at the work of Felix Eherenhaft (1879-1952).
+
+Eherenhaft performed the magnetic equivalence of a Millikan's oil drop
+experiment in the hopes of isolating magnetic monopoles and measuring
+magnetic charge.  Surprisingly, Eherenhaft had positive results, obtaining
+a value for magnetic charge in the range of 10^-9 to 10^-14 Gauss*cm^2.
+Because this did not agree with Dirac's theorized value of 3.29x10^-8
+gauss*cm^2, interest waned in Ehrenhafts work.
+
+Mikhailov created 10^-5 to 10^-6 cm dia. ferromagnetic aerosols by
+electrospark sputtering.  This was accomplished by use of current
+interrupter iron contacts in argon at one atmosphere.  Helmholtz coils
+provided a uniform magnetic field.  The falling aerosol was placed in an
+intense light beam and viewed with a microscope. The initial experiment
+showed a roughly equal number of both N and S monopoles.  Switching the
+field of the Helmholz coils reversed the lateral motion of the magnetically
+charged particles.  It was noted that increasing *either* magnetic field
+intensity or light intensity increased the lateral rate of travel.
+
+Many of the particles were electrically and magnetically charged, permiting
+a comparison of the electrostatic quantum to the magnetic quantum of
+charge. Mikhailov found agreement with Eherenhaft that the quantum of
+magnetic charge is g = (a)(e)/6 = (1/3)(a^2)(gD) = 5.84x10^-13 gauss*cm^2,
+where Gd is the charge of Dirac's theoretical monopole, a is the fine
+structure constant a = (1/137).
+
+The monopoles of Eherenhaft and Mikhailov are not monopole particles in the
+conventional sense, however. Mikhailov states: "Magnetic charges
+(monopoles) are experimentally observed only in the presence of two
+components: light and ferromagnetic particles. It seems therefore, that
+magnetic charges are created a a consequence of of an interaction between
+photons ans ferromagnetic particles, and moreover, such charges cannnot
+exists without these physical conditions: without light a particle loses
+magnetic charge almost instantaneously."
+
+
+Some observations and experiment suggestions in regard to Mikhailov's
+experiments:
+
+1. Lateral motion observed in a uniform magnetic field, regadless of light
+direction, appears to be a clear violation of Maxwell's laws, regardless of
+other conclusions drawn by Mikhailov.  The existence of a monopole of
+course also denies the law being the orginal subject, namely B dot dS = 0.
+
+2. The magnetic charge, though apparently produced in pairs, is not
+conservative in that the dual requirements for existence imply you can
+separate the N and S particles, turn off the light which sustains, say, the
+S particles, leaving only the N particles.  (Save a sufficient number and
+you can lift off the North magnetic pole! 8^)
+
+3. There might just possibly be a convenient way for amateurs to experiment
+with this.  There now exist ferrofluids which could be used in Millikan
+style experiments. Since sputtering would not be involved, it might be
+necessary to artificially charge the drops when atomizing the ferrofluid.
+Bill Beaty posted  9/23/96 that ferrofluid might be available from
+Ferrofluidics Inc.  I checked and found <http://www.fero.com>, email:
+<info@fero.com>, phone 603-883-9800.  They sell 30 ml kits for prototyping
+loudspeakers.
+
+Regards,
+
+Horace Heffner          
+

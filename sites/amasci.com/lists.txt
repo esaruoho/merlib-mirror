@@ -1,0 +1,280 @@
+ABOUT EMAIL "LISTS"                                1997 William J. Beaty
+
+An email "list" or "listserv" is an online discussion group which uses
+email for communication.  It's like having a bunch of email penpals, all
+of whom send email to the whole little group.  It's like a Usenet
+Newsgroup that's delivered right to your email box.  It's like
+participating in the meeting of a small club, where the conversations take
+place in slow motion, and where the meeting is still going on whenever you
+arrive. 
+
+CONTENTS:
+
+  How "Lists" work
+  Subscribing and Unsubscribing
+  The Instructions
+  Topics of "Lists"
+  Subscription charges
+  Sending messages
+  Subscription charges
+  The List Owner
+  Moderated lists
+  Lurking
+  Introductions, Etiquette
+  Messages per day
+  Topic Threads
+  "Flamewars" and Psychology
+  A Joke
+
+
+
+How "Lists" work
+
+When you are subscribed to a list server, you will constantly receive
+email messages sent by the other subscribers.  The message are just like
+any other email.  You yourself can participate in the "conversation" by
+sending your own email to a special address (the List Address.)  Your
+message will automatically be sent to all the other subscribers.  Some
+lists allow you to simply "reply" to any received message, and your reply
+will go to all other subscribers.  (Mine work this way.)
+
+
+Subscribing and Unsubscribing
+
+Different listservers handle the subscription process in different ways. 
+For some lists you must ask the owner to add your address to the
+subscribership.  For others, the process is automated, and you must send a
+"command" message to a special email address (the List Server address.)
+For example, my lists are automated, and to subscribe yourself, you must
+send a blank email message to somelistname-request@eskimo.com, and place
+the word "subscribe" in the subject line of the email message. 
+
+The Instructions
+
+When you subscribe to a list you will usually receive an automatic
+"welcome" message. Print and save this message, since it usually contains
+"Unsubscribe" instructions, rules, email addresses of the list
+maintenance person, Frequently Asked Questions (FAQ), location of the
+message archives and list's website, etc.  Don't lose the unsubscribe
+instructions, or you won't be able to turn off the flow of messages!
+
+
+Topics of "Lists"
+
+Particular lists have particular topics.  There are many thousands of
+lists on the internet.  See http://amasci.com/scilists.html for
+a list of science-oriented email lists, and for links to PAML, TILE, and
+other webpage libraries of "lists" having other topics.
+
+
+
+Email lists are traditionally free of charges.  The term "subscribe" means
+to "sign up," rather than to pay for a subscription.  A few rare lists do
+require payment, but this is heavily publicized in their welcoming
+messages and/or webpages.  Unless stated otherwise, list subscriptions are
+free.
+
+
+Sending messages
+
+Note that the subscribe/unsubscribe commands always go to a different
+email address than do the messages to the readership.  Read the "welcome" 
+message to find these email addresses.  To send a message to all the
+subscribers, you send your message to the main list address.  The main
+email address of a list is usually of the form: topic-l@somewhere.com, or
+topic-list@somewhere.com.  Don't mistake the lower-case "L" in "topic-l" 
+for the number "1", or your messages will go to a nonexistent location. 
+An easier way to send mail to the subscribers is to reply to one of
+the messages you've received.  I often simply select "reply", then delete
+the subject line and the message before writing my own message. 
+
+The List Owner
+
+An email list will have a list-owner or "moderator"; a person who runs the
+software, keeps conversations on topic, answers private questions, ejects
+troublemakers, etc.  You can ask this person for help, but as a list
+moderator myself I personally must say FIRST ALWAYS READ THE "WELCOME" 
+MESSAGE OR LIST "FAQ", SINCE YOUR QUESTION MIGHT ALREADY HAVE BEEN
+ANSWERED THERE!  <grin>
+
+
+Moderated lists
+
+All lists have an owner, but some lists are "Moderated", meaning that not
+all messages are welcome.  When a list is "moderated", all of your
+messages are first sent to the moderator to be inspected and passed along
+to the rest of the subscribers. "Moderated" lists have a small range of
+acceptable topics.  They are intentionally censored, in the same way that
+the editor of a magazine "censors" certain magazine articles by rejecting
+them and returning them to the author.
+
+Some lists are "announce only", meaning that they are only used for
+distribution of announcements by the list owner, and any messages sent by
+the subscribers will only go to the owner and never to the other
+subscribers.
+
+
+Lurking
+
+It is *usually* acceptable to listen in on a list without ever sending
+messages at all.  This is called "lurking".  Most lists have a majority of
+lurkers and just a few people "talking."  This is normal, since if
+everyone talked all the time, the volume of messages would be enormous. If
+a list has 100 subscribers and each one sends only one message per month,
+then there will always be several conversations going on.  But if everyone
+lurks always, there will be no conversations at all.  Subscribers should
+always be on the lookout for opportunities to jump in and converse a bit,
+or to make an observation, or to send a question to start a new subject
+thread.  A rare few lists frown on lurking.  Therefor always check the
+"welcome" message for the policy of a particular list.
+
+
+Introductions, Etiquette
+
+When first subscribing to a new list, it's always wise (and polite) to
+read the messages for awhile first before jumping into the conversation.
+Even better, locate the list "archives" if they exist, and read the past
+weeks' messages.  Some lists have very low traffic, so it sometimes is a
+good idea to introduce yourself when you first join the list, since this
+can start conversations.  (Some lists *require* that new subscribers
+introduce themselves.  Check the welcome message for the list's policy.) 
+
+
+Messages per day
+ 
+Most lists are pretty safe regarding traffic volume, but some rare lists
+have hundreds of messages per day, so always be prepared to Unsubscribe
+quickly if you get overwhelmed, (and don't ever lose your Welcoming
+message with the "Unsubscribe" instructions!)  Some lists offer a "digest
+mode", which causes the messages to be distributed in single emails which
+each contain many messages.  "Digest mode" keeps your inbox from being
+filled with scattered list messages.  But it prevents you from timely
+participation in conversations, since normal messages are distributed
+within hours, while digests might arrive every few days.
+
+
+Topic Threads
+
+There are usually several independent "conversations" going on at any one
+time on a list.  These are called "threads", and can be sorted out by
+inspecting the subject line of the messages.  If the subject is the same
+for several, those messages are a single "thread."  Some email programs
+will let you sort separate message threads into separate mailboxes, so you
+can read continuing conversations in correct time-order without
+interruptions. 
+
+
+"Flamewars" and Psychology
+
+"Insult wars" frequently break out on internet discussion groups.  A few
+people enjoy these and will start them intentionally.  But many more
+Flamewars exist than can easily be explained by intentional troublemakers. 
+
+It seems that the psychology of email itself can start flamewars.  Email
+messages are "low bandwidth", meaning that the writing usually lacks
+critical information about how to interpret the messages, and it lacks
+most of the emotional communication of face-to-face conversation.  As a
+result, messages usually can be interpreted in several different ways.  A
+person can send an innocent message which is "heard" as sarcasm or vile
+insults by the person who receives it.  (The reverse can also happen,
+intentional insults can be "heard" as benign, but missed insults usually
+cause no problems!) 
+
+Flamewars usually are triggered *not* when one person insults another, but
+when one person *takes* insult when reading a message having innocent
+intent.  The offended reader then hurls a real insult in return.  The
+first party feels unjustly attacked, since after all they did not send any
+original insults, and so they respond with insults of their own.  And so a
+"war" has been triggered through misunderstandings.  Same as with nations. 
+Same as with little kids, and just like with parents and kids, the
+participants will often end up saying "well she started it, no he did, no
+she did", and the moderator steps in and says "I don't care who started
+it, you both participated, both of you go stand in the corner."  The
+solution?  Simple.  Be nice.  Don't hurl insults via the list, even if
+someone else insulted you first.  Either ask if the insult was
+intentional, or if you must, send your responding attack directly to your
+target and *not* to the email list.  If you feel that someone has unjustly
+attacked you, and you feel justified in defending yourself in public with
+attacks of your own, then you have fallen for the Flamewar psychology, and
+you are no better than nations who go to war for no reason.  On the other
+hand, if all real (or imaginary) insults go right past you with no effect,
+then you would make a good email list moderator!
+
+
+
+
+A JOKE
+
+
+Date: Tue, 15 Apr 1997 09:20:56 GMT 
+From: Nite Owl <***les.beecher@xtra.co.nz***>
+Subject: HUMOUR: How many internet mail.............. 
+
+Q:  How many internet mail list subscribers does it take  to change a
+light bulb?
+
+
+A:  1,331:
+
+1 to change the light bulb and to post to the mail list that the light
+bulb has been changed
+
+14 to share similar experiences of changing light bulbs and how the
+light bulb could have been changed differently.
+
+7 to caution about the dangers of changing light bulbs.
+
+27 to point out spelling/grammar errors in posts about changing light
+bulbs.
+
+53 to flame the spell checkers
+
+156 to write to the list administrator complaining about the light
+bulb discussion and its inappropriateness to this mail list.
+
+41 to correct spelling in the spelling/grammar flames.
+
+109 to post that this list is not about light bulbs and to please take
+this email exchange to alt.lite.bulb
+
+203 to demand that cross posting to alt.grammar, alt.spelling and
+alt.punctuation about changing  light bulbs be stopped.
+
+111 to defend the posting to this list saying that we are all using
+light bulbs and therefore the posts  **are** relevant to this mail
+list.
+
+306 to debate which method of changing light bulbs is superior, where
+to buy the best light bulbs, what brand of light bulbs work best for
+this technique, and what brands are faulty.
+
+27 to post URLs where one can see examples of different light bulbs
+
+14 to post that the URLs were posted incorrectly, and to post
+corrected URLs.
+
+3 to post about links they found from the URLs that are relevant to
+this list which makes light bulbs relevant to this list.
+
+33 to concatenate all posts to date, then quote them including all
+headers and footers, and then  add "Me Too."
+
+12 to post to the list that they are unsubscribing because they cannot
+handle the light bulb controversy.
+
+19 to quote the "Me Too's" to say, "Me Three."
+
+4 to suggest that posters request the light bulb FAQ.
+
+1 to propose new alt.change.lite.bulb newsgroup.
+
+47 to say this is just what alt.physic.cold_fusion was meant for,
+leave it here.
+
+143 votes for alt.lite.bulb.
+
+------------------------------
+Enjoy
+
+NITE OWL
+

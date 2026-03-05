@@ -1,0 +1,56 @@
+SMOKE RINGS, PROGRAMMABLE VORTICITY, DELAYED DISRUPTION, REVERSE SPINS,  ETC.
+                                                William J. Beaty, Aug 1999
+
+
+See if this makes sense.  If you take your hole-bearing oatmeal box and
+give it a whack, and air begins moving out through the the circular
+orifice, a sort of infinitely thin ring-defect in the air is first
+generated.  Then as more air moves along, the ring-defect "winds up" 
+succeeding layers of air having a changing tangential velocity over time. 
+Since "onion layers" are building up on the ring over time, a
+vortcity-profile is being "programmed" as the smoke ring is being created. 
+Finally the flow ceases and the ring-vortex attains independent life.  But
+more than this can be done... 
+
+Years ago I had suspicions that something like the above was possible,
+that's why I put the suggestion on my website that kids should try using a
+loudspeaker and a waveform editor as the "membrane pulse generator" of a
+smoke ring launcher.  Now I see that such a device can be used to
+"program" the distribution of tangential velocity in the smoke ring.  Vary
+the velocity/time profile of the mechanical pulse applied to the
+launcher's membrane, and you vary the distribution of tangential velocity
+surrounding the core of the resulting vortex ring.  For example, if we
+give the membrane a sort of "finger tap" pulse which has rapid onset and
+slow decrease to zero velocity, then the resulting vortex ring travels
+very slowly, but at the same time has a core which spins fiercely, and
+which often becomes unstable and "shatters" the entire vortex structure
+after a time delay. 
+
+Or, we could do the opposite and send a slowly growing pulse which ends
+suddenly.  The resulting vortex ring will have all its tangential velocity
+concentrated on its "outer skin", and as a result the air within the
+"donut" will barely spin at all, while the vortex as a whole will go
+racing forwards like some sort of bullet.
+
+Maybe its even possible to create a ring-vortex entity which races
+forwards, but whose core spins backwards!  (Blasphemy!)  Simply start out
+by briefly "sucking" before reversing the membrane travel and creating a
+normal vortex.  Or will this tend to "unwind" the vortex core rather than
+applying some high shear and creating a backwards tangential flow to the
+outer layers of the growing ring-vortex structure? 
+
+Is this phenomenon well known?  Or might some aspect of it be worthy of
+publication somewhere?  (When I myself ever get off my butt and build a
+"computer synthesized vortex launcher" I might at least get the plans
+published in AJP, etc., as a suggested educational device.) 
+
+Gotta make smoke rings which "explode" after a programmable time delay, or
+smoke rings where the core spins backwards... 
+
+
+((((((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))))
+William J. Beaty                                  SCIENCE HOBBYIST website
+billbeskimo.com                                  http://amasci.com
+EE/programmer/sci-exhibits          science projects, tesla, weird science
+Seattle, WA   206-762-3818          freenrg-L taoshum-L vortex-L webhead-L
+

@@ -1,0 +1,134 @@
+
+                        IN THE UNITED STATES DISTRICT COURT
+                              DISTRICT OF NEW MEXICO
+
+CREATIVE GIFTS, INC.,
+FASCINATIONS TOYS & GIFTS, INC.,
+and WILLIAM HONES
+
+                Plaintiffs,                                CIV.97 1266 LH/WWD
+v.                                                                      
+
+UFO,
+MICHAEL SHERLOCK,
+KAREN SHERLOCK
+
+                Defendants.
+
+                         EXPERT REPORT OF DR. PETER CAMPBELL
+                            Pursuant to Rule 26(a)(1)(B)
+
+        1.  I am Dr. Peter Campbell, President of Princeton
+Electro-Technology, Inc., whose offices are at 5874 NW 32nd Way, Boca Raton,
+Florida 33496.  I received a B.Sc. degree in 1970 and a Ph.D. degree in
+1975, both in electrical engineering and from the University of Warwick in
+England, and a M.A. degree in 1974 from the University of Cambridge in
+England.  From 1973 to 1977, I was an Assistant Lecturer in electrical
+engineering at the University of Cambridge, England, and concurrently was a
+Fellow of Downing College, Cambridge.  From 1977 to 1981, I was an Assistant
+Professor of Electrical and Mechanical Engineering at the University of
+Southern California, in Los Angeles.  I was then employed by PA Technology,
+a consulting firm in Princeton, New Jersey, as Vice President of Electrical
+Engineering from 1981 to 1983, and as President from 1983 to 1985.  Since
+1985, I have been President of my own consulting firm, Princeton
+Electro-Technology, Inc.
+        2.  I have considerable experience in the field of magnetics.  This
+experience has included the design and development of many commercial
+electromagnetic and electromechanical devices, most particularly those
+incorporating permanent magnet materials.  I consult widely throughout
+industry on the design and application of permanent magnets.
+        3.  Attached as Exhibit 1 is my curriculum vitae, which includes a
+list of publications which I have authored.  There are three prior cases in
+which I have testified as an expert witness: for Fonar Corporation vs.
+Hitachi, Ltd., for Tridus International, Inc. vs. Duonetics, Inc., and in
+the early '80s on behalf of Chloride, Inc.  My standard consulting fee which
+I am receiving for my work in this matter is $1,200 per day.  No part of my
+compensation depends upon the outcome of this matter.
+        4.  In my testimony, I expect to offer an explanation as to why the
+levitation device disclosed in U.S. Patent No. 5,404,062 is different and of
+greater commercial value than the levitation device disclosed in U.S. Patent
+No. 4,382,245.  Additionally, it will include an explanation of why Mr.
+Harrigan did not contribute to the new features disclosed and patented in
+U.S. Patent No. 5,404,062.
+        5.  I have reviewed the following materials:
+                a.  U.S. Patent No. 5,404,062, to Hones et al. ("Hones Patent");
+                b.  U.S. Patent No. 4,382,245, to Harrigan ("Harrigan Patent");
+                c.  Excerpts of what is purported to be a transcription of a
+recorded portion of a meeting Mr. William Hones had with Mr. Roy Harrigan
+during September 1993, and the letter from Mr. Harrigan's attorney to which
+the excerpts were attached.
+                d.  An article written by defendants on their levitron.com
+website entitled "The Hidden History of the Levitron";
+                e.  Affidavits of Dr. Edward Hones, Mr. William Hones and
+Mr. Harry Manbeck prepared for submission in support of Plaintiffs'
+Opposition to Defendants' Motion for Summary Judgment.
+                f.  Page 412 from a publication entitled "Electrostatics and
+Magnetostatics" which I understand Dr. Hones came across in October 1993;
+                g.  An audio tape (approximately 30 minutes in duration)
+which purportedly has recorded thereon a telephone conversation between the
+Sherlocks and Mr. Roy Harrigan conducted on June 20, 1997; and
+                h.  A video tape which purportedly has recorded thereon a
+clip showing Mr. Harrigan's prototype from about 1993 (of approximately two
+minutes duration) and an interview of Mr. Harrigan conducted by the
+Sherlocks in June 1997 (of approximately thirty minutes duration).
+        6.  Based on my review of those items and my extensive experience in
+the field of magnetics, I have the conclusions set forth in the following
+paragraphs.
+        7.  The Harrigan Patent discloses a levitation device having a
+dish-shaped lower magnet which has a concave surface uppermost, such that
+the directions of magnetization throughout this magnet converge at a point.
+>From the disclosure of the Harrigan Patent and the statements of Harrigan
+purportedly memorialized on the video tape, audio tape and typed excerpts,
+it is clear that Harrigan's theory of operation of his levitation device was
+that, however the lower magnet was formed, it was required to have the
+magnetization vectors angled inwards in this way, as if defining a cone.
+That is, a dish-shaped lower magnet would have to be magnetized exactly
+normal to its concave upper surface at e every point across this surface; a
+rigid flat lower magnet would have to be magnetized at a different angle at
+every point across its upper surface, never normal to the surface except at
+its geometric center.  
+        8.  The Hones Patent discloses a levitation device having a lower
+magnet which has a substantially planar surface uppermost, such that the
+magnetization vectors throughout this magnet are directed normal to this
+upper surface.  This most important feature, namely, a magnetic field
+magnetized normal to that planar upper surface, is absent from the Harrigan
+Patent and the other statements of Harrigan which I have reviewed.
+Specifically, Harrigan has always taught a device wherein the magnetization
+vectors in the lower magnet are angled inwards as if defining a cone,
+regardless of the construction of the lower magnet; the Hones Patent dispels
+that theory, disclosing that magnetization normal to the surface of a planar
+lower magnet may be used.
+        9.  Hones' findings are important from a commercialization aspect,
+as they allow for the use of a less expensive flat magnet.  It is my opinion
+that, to produce a dish-shaped lower magnet as taught by the Harrigan patent
+that is magnetized normal to its concave upper surface at every point across
+this surface would require complex and costly tooling; to produce a rigid
+flat lower magnet as suggested by Harrigan that is magnetized at a different
+angle at every point across its upper surface would also require complex and
+costly tooling.  It is my opinion that, to produce a rigid flat lower magnet
+as taught by the Hones Patent that is magnetized normal to its planar upper
+surface is both simple and cheap.  The costs of producing a dish-shaped
+magnet magnetized normal to its concave surface according to the teachings
+of Harrigan would be substantially greater than the costs of producing a
+flat magnet magnetized normal to its flat surface as taught by the Hones
+Patent.  Thus, it is my opinion that the device disclosed in the Hones
+Patent is a much more commercially viable product than the device disclosed
+and described by Harrigan.
+        10.  In my opinion, the Harrigan Patent and Harrigan's recorded
+statements have always taught a levitation device wherein the magnetization
+vectors in the lower magnet are angled inwards as if defining a cone,
+regardless of the shape of the lower magnet; this is an empirical finding,
+for which Harrigan has provided no theoretical basis.  On the other hand, it
+is my opinion that the Hones' Patent and Affidavits demonstrate that they
+have developed a good theoretical understanding of magnetic levitation,
+which has led them to devise a more practical and commercially viable
+levitation device that is not constrained by Harrigan's requirement for the
+magnetization to be angled inwards.
+        11.  In my opinion, the device disclosed in the Hones Patent is
+distinct from, and in a commercial sense superior to, the device disclosed
+in the Harrigan Patent.
+        12.  To the extent additional information is brought to my attention
+during the course of this proceeding, I reserve the right to supplement this
+report.
+
+        Date: 3/18/98                   [signature] Dr. Peter Campbell

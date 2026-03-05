@@ -1,0 +1,479 @@
+File Transcription Note by MWM 1/18/96:  The text was arbitrarily edited to break condensed text apart via vigorous use of paragraph markers.  Tabs were avoided and all spaces are spaces, not tabs.  The file was converted from *.wps and would only convert into MS Word 6.0a as a straight text (ascii) file.  A great deal of formatting information at the end of text was deleted.  In the last section, titled "The Spin Of The Created Neutron", a few insert anchors reveal that something was supposed to be inserted into the text, but unfortunately they were lost in the conversion process.  These missing items, which are marked !!!missing insert, appear to be formulas.  A little additional work to replace the inserts and also to provide better alignment of the formula reference numbers, will make this ascii text file quite servicable.
+
+
+Libero Istituto Universitario Internazionale
+Centro Studi di Radioattivit…
+Bari - via Dante Alighieri 256, tel. e fax 080 - 5239840
+E - mail: conte@teseo.it
+
+
+A SUGGESTED EXPERIMENT OF RADIATION PHYSICS TO ANALYZE
+A NEW KIND OF FUSION FOR NUCLEAR PARTICLES.
+E. Conte, M. Pieralice (+)
+(+) C.N.R. - Bari - Italia
+
+Lavoro eseguito con il contributo del C.N.R.
+Note that this diskette or file is an integrating part of the book "Meccanica Quantistica Biquaternionica" (title:Biquaternion Quantum Mechanics; author:Elio Conte; Publishers: Pitagora Editrice, Bologna Italia).
+Please, send your order of the book to the E - mail: conte@teseo.it
+
+
+INTRODUCTION
+
+This paper is devoted to the announcement of a new process of fusion for nuclear particles.
+
+Starting in the 1990's (Conte 1993, 1994 a, b, c), we have developed a generalization of quantum mechanics using the biquaternions. We have called this new theory the Biquaternion Quantum Mechanics. This theory (Conte 1993, 1994 a, b, c) solves some basic problems that had remained unsolved in the basic formulation of quantum mechanics in 1927 by the School of Copenaghen (D'Espagnat, 1977); in addition, this new theory enables us to generalize the usual Schr"dinger equation (Conte, 1995). In this paper we will discuss this equation showing that a new process of fusion is possible on the basis of this equation.
+
+A BRIEF NOTE ON THE BIQUATERNIONS
+
+In our previous papers (Conte, 1993, 1994 a-c, 1995), we introduced an accurate exposition of the algebra of the biquaternions. Our present discussion will be devoted to the reader unfamiliar with this kind of hypercomplex numbers.
+
+Consider the following set of basic elements (1, e1 , e2 , e3 ) where 1 is the well known scalar unity, and ei (i = 1, 2, 3) are three anticommuting elements
+
+         ei ej = - ej ei   ;         i = 1, 2, 3   ;         J = 1, 2, 3   ;          i # j
+
+         ei2 = 1   ;           ei # ñ 1                                                  (2.1)
+
+The set (1, e1 , e2 , e3 ) represents the four generators of our algebra, and, in matrix form, ei are expressed by the well known Pauli's matrices.
+
+Let us give now a proper definition of biquaternion. It is a quaternion having complex components 
+
+                  Z = z0 + z1e1 + z2e2 + z3e3                                         (2.3)
+
+where zm (m= 0, 1, 2, 3) are complex numbers. The hyperconjugate Z* of Z is the biquaternion 
+
+                  Z* = z0 - z1e1 - z2e2 - z3e3                                                         (2.4)
+
+while the conjugate Z+  of Z is the biquaternion 
+
+                    Z+ = z*0 + z*1e1 + z*2e2 + z*3e3                                 (2.5)
+
+The norm of Z is 
+
+                     N(Z) = Z Z* = Z*Z = z20 - z21 - z22 - z23                       (2.6)
+
+The biquaternion Z-1, the inverse of Z, is
+
+                      Z-1 = [N(Z)]-1Z*                                                                          (2.7)
+
+with N(Z) # 0.
+
+The relations from the (2.1) to the (2.7) complete our brief exposition on the biquaternions.
+
+Let us generalize, now, the quantum mechanics by the biquaternions. As we have shown in (Conte, 1994c), the biquaternion quantum mechanics uses Linear Homogeneous Biquaternion Transformations, LHBT (.,.,.), to generalize the statements of the usual quantum mechanics. Given the biquaternion Z, and the biquaternions I = U U+ = U+ U, and A with N(I) = 1 and N(A) = ñ 1, we have that
+
+              LHBT(I = U U+, Z, A)  <====>    Z' = U Z U+A       (2.8)
+
+Particular cases of the (2.8) are given as it follows
+
+               LHBT(I = U U+, Z, 1)   <====>    Z'= U Z U+          (2.9)
+
+or
+
+                 LHBT(1, Z, A)    <====>    Z'= Z A   ;   A = U U+        (2.10)
+
+U is a given biquaternion.
+
+As we know, the first stage of the usual quantum mechanics involves the notion of commuting or non-commuting observables that are characterized by the notion of commutator between linear and hermitean operators A and B. We have 
+
+                          [A, B] = A B - B A                                                    (2.11)
+
+By using the (2.9), the (2.11) may be generalized in the following manner. Consider U to be a biquaternion with U U+= U+U # 1. Thus, we indicate U U+= U+U = I. We may calculate that 
+
+U [A, B ] U+ = U (A B - B A) U+= U A B U+- U B A U+= U A U+(U U+)-1 U B U+-
+                         - U B U+(U U+)-1U A U+= A'Q B'- B'Q A'= [A', B']          (2.12)
+
+where we have posed
+
+         A'= U A U+  ;       B'= U B U+  ;       Q = (U U+)-1 
+
+We can see that (2.12) is a generalization of the theory. For a detailed exposition of principles and rules of biquaternion quantum mechanics see (Conte 1993, 1994 a-c).
+
+ON A GENERALIZATION OF SCHR™DINGER'S EQUATION USING BIQUATERNIONS
+
+Consider the case of (2.11) in which A is the operator for the position of the usual quantum mechanics,
+A = x, and B the operator for the momentum,  
+
+B = -ihd/dx, (h=h/2p). In (2.11) we have the commutation relation regarding the celebrated Heisenberg's uncertainty principle
+
+                           [ A, B ] = i h                                                  (3.1)
+
+Owing to the (2.12), we have that
+
+                            [ A', B' ] = i h U U+= i h I                              (3.2)
+
+This is, precisely, the important result that we must consider. The way to generalize Schr"dinger's equation by biquaternions implies necessarily to consider that the new quantization, instead of Planck's constant, becomes a dynamical variable in the induced quantum theory. As consequence,this new theory, generalized with respect to the usual quantum mechanics, is finalized to analyze physical systems where it is of importance to examine the consequences of quantum fluctuations I in the quantum of action h.
+
+This result represents the essential landmark that animates this paper. Our starting point is that we have to consider the following modification 
+
+                         h … h I (r,t)                                                (3.3)
+
+I (r,t) is the biquaternion U U+, and, for brevity, we will consider here only its real part.
+
+We may generalize, now, Schr"dinger's equation.
+As it is well known, considering the canonical action (Janussis, 1978) A = -ihlogy, where y = y(r, t) is the state of the system in the conventional Hilbert space, we have that
+
+                   dA/dt + H = 0  ;        dA/dxk= pak                              (3.4)
+
+that may be rewritten in the familiar form of the fundamental Schr"dinger's equation of quantum mechanics 
+
+                                i h dy/dt = H y                                            (3.5)
+
+with - ih "ky = pky . This is easily obtained inserting A = - ihlogy in the (3.4).
+
+This is the  way to obtain the usual Schr"dinger's equation.
+
+In our case we have to use the (3.3) and, thus, the new action A that will be given as it follows A = - ihIlogy. We may consider that it must be
+
+                                   (-dA/dt) y = H y                                               (3.6)
+
+with 
+
+                                  y(r, t) = y0exp(- kt)                                   (3.7)
+
+Considering the (3.3), we have that
+
+                       (i h dI/dt logy - i h I k) y = H y                            (3.8)
+
+Let us examine the simple steady-state case for which dI/dt = 0. From the (3.8) we obtain that
+
+                                H Q y = E y                                                 (3.9)
+
+where Q = I-1, and K = i E / h.
+
+In the way of a generalization of Schr"dinger's equation, we have obtained (3.9) which, however, does not represent a generalized Schr"dinger's equation.
+
+In the usual derivation of Schr"dinger's equation we consider that 
+
+                   1 / v(x, y, z) = f(n) [ E(n) - V(x, y, z) ]«
+
+where V(x, y, z) is the velocity of phase for the wavepacket. It results that
+
+                            fn = a = costant 
+
+Planck's constant is usually introduced in the following manner
+
+                           (2 m)« / a = h
+
+If we consider a fluctuation h I(r,t) of h, we have to admit consequently that m and a are modified. Thus we have in particular that m' = m r0 where r0 is a parameter to be determined (r0# 1). We will discuss in detail this renormalization  of the mass m in the following section. 
+
+Let us return, now, to consider (3.9). There is a case in which (3.9) still may represent a generalization of Schr"dinger's equation. Consider a quantum system where the potential V(r) acts. The usual Schr"dinger's equation is 
+
+                              H m = Em m                                                         (3.10)
+
+Let us consider that
+
+                              Q(r) = I-1(r) = 1 - | m >< m |                                 (3.11)
+
+We may insert (3.11) into (3.9), and we obtain
+
+                                 H (1 - | m >< m|) y = E y                                   (3.12)
+
+that may be rewritten in the following terms
+
+                                  H ' y = E y                                                      (3.13)
+
+with
+
+                                  H ' = H - 1/r0 Em < m|y > m/y                          (3.14)
+
+In this manner we have the (3.13) that now represents the required generalization of Schr"dinger's equation. Indicating by 
+
+                                   V ' (r) = - 1/r0 Em  < m|y > m/y                         (3.15)
+
+the generalized equation (3.13) assumes the following form
+
+                      [ - h2/(2 m') "2 + V(r) + V '(r) ] y = E y                      (3.16)
+
+It is connected to the usual Schr"dinger's equation (3.10) which is expressed in the following manner
+
+                       [ - h2/(2m) "2 + V(r) ] m = Em m                                  (3.17)
+
+The purpose of this paper is now achieved. We have shown that, starting with (3.17) describing a quantum system by the usual Schr"dinger's equation, we may generalize the (3.17) in the form of a new Schr"dinger's equation, (3.16), so to give the expected biquaternion generalization. We have still to define some additional points.
+
+The first point is that in the present paper we have used an elementary derivation of the generalized Schr"dinger's equation (3.16). For a detailed discussion, see (Conte, 1995).  The second point is that, deriving (3.16), we have used a method called the empirical pseudo-potential transformation that is not new here . Starting with 1959 it was used by J.C. Philips and L. Klainman (1959) for different purposes, essentially as a quantum technique to compute wave functions in molecules and crystals.
+
+APPLICATIONS OF A GENERALIZED SCHR™DINGER'S EQUATION
+
+
+This section constitutes the true aim of our paper.
+
+Let us examine the different problems that are posed at the level of application. In applying (3.16), the first problem regards the determination of V '(r) that is unknown.
+
+As the first step, we have to clear the field of phenomenology to which the equation (3.16) is applied. We have two orders of considerations to this regard.
+
+The usual Schr"dinger's equation describes interacting particles at atomic level and it has been employed also to describe phenomena at nuclear level but with non-entirely satisfactory results. Thus, a generalized Schr"dinger's equation should apply to nuclear phenomena at distances shorter than 10-13 cm and for particles that are not considered to be point-like.
+
+We may go now to examine V '(r). In the usual quantum mechanics, the range R of an interaction depends on h, on c, the speed of light in a vacuum, and on V0, the potential energy of the interaction. We have that
+
+                            R = f ( h, c, V0)                                               (4.1)
+
+as shown by Mickens (1979).
+
+It may be expressed in the following manner
+
+                           R | V0 | = h c                                                    (4.2)
+
+or
+
+                            R | V '(R) | = h c                                              (4.3)
+
+In our generalized case, the following modified relation corresponds to (4.3)
+
+                            V '(R) = h I(R, t) c / R                                        (4.4)
+
+In this manner V '(r) depends from V (r) of (3.17) owing to the presence of:
+
+I(r, t), being I = Q -1 with Q = 1 - | m >< m|.
+
+Consider the case V (r) = - e2 / r. It follows that
+
+                          m = m (r) @ c exp(- a r)                                             (4.5) 
+
+>From (4.4) we have that 
+
+V '(R) @ (h c / R) 1 / [1 - exp(- 2aR)] … V '(r) = V0 exp(- 2ar) / [1 - exp(-2ar)]           (4.6)
+
+for r … 0.
+
+We have obtained the explicit expression for V '(r). It is a kind of Hulth‚n potential, well known in nuclear physics. Equation (4.4) supports the existence of an Hulth‚n potential V '(r) when V (r) is a pure Coulombian interaction.
+
+We have confirmed that the (3.15) is an Hulth‚n potential in the general formulation of (3.16) by using numerical methods and V (r) = - e2/ r. 
+
+Also the analytical solution of the (3.16) confirms the (4.6).
+
+We are now in the condition to analyze (3.16) in the case in which V(r) is a pure Coulombian interaction.
+Equation (3.16) is rewritten as follows
+
+      [- h 2/ (2 m') "2 - e2/r - V0e-lr/ (1 - e-lr)] y = E y                             (4.7)
+
+where
+
+       V (r) = - e2/r @ - e2l e-lr/ (1 - e-lr)          for r… 0                         (4.8)
+
+On this basis, (4.7) may be rewritten as follows
+
+        [ - h2 / (2 m') "2 - V0' e-lr/ (1 - e-lr)] y = E y                                (4.9)
+
+with V0'= e2l + V0.
+
+As we know, Hulth‚n potential usually is an attractive interaction with a constant value of relatively high value; in consequence in (4.9) we may consider a cumulative attractive effect  where the dominant role is played by the Hulth‚n interaction.
+
+Equation (4.9) may be solved for l = 0 in the standard radial form as it was obtained by Flugge (1971). 
+
+introducing the dimensionless variable x = l r, we have the radial differential equation
+
+          d2c / d x2 + [ b2 e-x / (1 - e-x) - a2) c = 0                                (4.10)
+
+where
+
+         b2 = (2 m'V0') / (h2l2)  ;   a2 = (- 2 m'E) / (h2l2)  ;   c(r) = r y(r)       (4.11)
+
+with a > 0  and b > 0.
+
+We have reached the crucial stage of our formulation. The solutions of (4.10) are well-known (Flugge, 1971). The important conclusion is that (4.10) admits bound states. These are bound states that imply the penetration of the considered particles and, thus, imply their fusion.
+
+Note that it must be
+
+                                   a = (b2 - n2) / (2 n)                                           (4.12)
+
+and a > 0, with n = 1, 2, 3, .... . The Binding energy is given in the following manner 
+
+                           En = - V0'[ (b2 - n2) / (2 n b) ]2                                     (4.13)
+
+and, for n = 1, we have that
+
+                         E1= - (h2l2) / (8 m') [ (2m'V0') / (h2l2) - 1 ]2                       (4.14)
+
+For details, see Flugge (1971).
+
+We have reached a conclusion that may be of the greatest importance.  Our generalization of Schr"dinger's equation admits the possibility of the fusion for the nuclear particles, and this result could open new frontiers of scientific knowledge.
+
+
+A PROPOSED EXPERIMENTAL TEST
+
+Our aim is to evaluate (4.14) for specific cases of interest, and to propose an experimental verification of these cases. Here, we will discuss the most simple system that may be explored on the basis of (3.6) and (3.17). Consider a system constituted by a proton and an electron. We will call it the system 
+
+(p, e-) for the fusion.
+
+For simplicity, consider the proton at rest.
+
+Let us evaluate the renormalization m' = m r0.
+
+We have shown (Conte, 1995a) that the use of (2.9) changes our well known relativistic invariant
+
+                      r2 = x0x0 - x1x1 - x2x2 - x3x3                                     (5.1)
+
+that regards only the empty space. If we consider a given medium that is different from empty space, a new generalized relativistic invariant must be considered 
+
+                  r'2= x0b02x0 - x1b12x1 - x2b22x2 - x3b32x3                              (5.2)
+
+                  b0 = b0(......) ;   b1 = b1(.......) ;   b2 = b2(.......) ;   b3 = b3(.......)         (5.3)
+
+In (5.2), bm = bm(......, c, .......) are characteristic functions that depend on the physical features of the medium taken in consideration. This result implyes that a particle, moving in the medium taken in consideration, needs (Conte, 1995a) a new relativistic representation of its energy as m0c2b02 instead of m0c2 as in the usual case. This is, precisely, the case of the electron moving to penetrate inside the proton whose medium has specific bm characteristic functions. Thus, in our experiment, the electron mass me' must be changed as follows
+
+                                me' = mec2b02                                                (5.4)
+
+R.M. Santilli (1990, 1994), following the indications of founder fathers of physics and in particular of Fermi (1947), was able to suggest the invariant (5.2) in 1988 without the use of the biquaternions that, instead, we applyed (Conte, 1995a) on the basis of a procedure of generalization of the physical laws that uses (2.9). This author also estimated the value b0 = 1.60.
+
+In conclusion, using this value, we have that the fusion (p, e-) has in our model the proton at rest and the electron with energy me' = 1.306 Mev.
+
+Let us consider, now, equation (4.12). Since a > 0, for n = 1 (the ground state of the (p, e-) ), it must be that b2 > 1. In other terms, we have that
+
+                               2 m' V0' / (h2l2) > 1                                      (5.5)
+
+Consider R = 0.9*10-13 cm, thus we have that l = 1 / R = 1.11*1013 cm-1. On the basis of (5.5), we have that
+
+                   V0' > 2.770*10-2 erg                                              (5.6)
+
+i.e., chosing V0' to be 2.782*10-2 erg, we have, from (4.14), the value of the binding energy for the (p, e-) system. We obtain that 
+
+                                     E = - 64 keV                                         (5.7)
+
+Choosing V0' to be 2.783*10-2 erg, we have
+
+                                      E = - 76.5 keV                                     (5.8)
+
+In conclusion it is important to observe that for values of V0'above the threshold value fixed by (5.5), we may have binding energy values that are above some keV for each fusion.
+
+Let us consider another result of particular importance.  For (2.782*10-2 < V0' < 2.783*10-2 ) erg, we have the value E = - 72 keV of the binding energy.
+
+Let us examine the importance of this result: our (p, e-) system has the rest mass of the proton (938.279 MeV), and has the renormalized mass of the electron that is 1.306 MeV, as previously calculated. Thus, the (p, e-) system has the following rest energy:
+
+      (p, e-) system ;  (938.279 + 1.306 - 0.072) MeV = 939.513 MeV
+
+Note that this value represents the rest energy of the neutron.
+
+In conclusion, our theory predicts that, for fixed values of V0' and l, the neutron could be produced by the fusion of the proton and the electron.  This result is so important that it does not require any other comment, but, instead, it requires an urgent proposal of experimental confirmation. 
+
+>From an experimental view point, we have the opinion that some different experimental arrangements could be conceived. We propose, here, some different indications but our proposal should be intended as the occasion to begin a debate among the researchers in order to define a good strategy of experimentation.
+As the first stage of the experimentation, one must provide the protons and the electrons. The simplest way is the ionization of the hydrogen. In this case, the recombination of the proton with the electron to form the hydrogen atom must be avoided, and a considerable number of protons must collide with the electrons and their contact will secure the fusion of these two particles. Note that the recombination of the proton with the electron to form hydrogen usually occurs in time about 10-8 sec. Thus, we need a high frequency ionizing electromagnetic field in order to produce a kind of plasma. The use of a magnetron, as well as of a laser, could be appropriate. In addition, let us observe that our experiment requires the proton to be at rest and the electron having 0.800 MeV at least.
+
+Let us examine, now, another experimental problem. We have seen that in the value fixed by (5.5), almost 60 keV should be produced for each fusion. Thus, in principle, it should not be difficult to accertain that this energy is produced.
+
+Some particular difficulties, instead, should regard the revelation of the produced particles as result of the fusion. If a neutron is produced, it is quite clear to affirm that this particle could not be detected by usual detectors in the case of the presence of an high frequency ionizing field. 
+
+The presence of the e.m. field should disturb the electronics employed for the detection. An alternative method could be represented from the use of the neutron activation. Some selected elements could be sealed in the proximity of the induced fusion and the induced activation could be measured, soon after the fusion, by gamma spectrometry.
+
+A second method of analysis and detection of the neutrons could be employed which uses appropriate dosimeters based on thermolumenescence, with the possibility to select, unequivocally, the presence of the neutrons.
+
+Finally, the last possibility could be given by using plastic or other passive detectors usually employed in the dosimetry of the neutrons.
+
+The strategy of the revelation of the produced neutron must be selected also considering that the observation of the created neutron is complicated by the presence of a natural neutron background. This problem could be enhanced from a possible low cross section for our neutron formation.  In this manner, we have given a preliminary indication of the problems that are involved in an experimental verification of the proposed process of fusion. A contribution to the debate is expected in order to optimize actually the experimental strategy.
+
+
+THE SPIN OF THE CREATED NEUTRON
+
+We have to calculate, now, the spin of the neutron created as bound state of the proton and electron.
+
+Consider that Rutherford (Rutherford, 1920) was the first to make the historical hypothesis on the neutron as a compressed hydrogen atom. This model was abandoned since it resulted impossible by energetic balancing considerations and, in particular, it resulted incompatible with the usual quantum mechanics which was formulated in its original arrangement in 1927. In this paper we have seen that Rutherford's model of the neutron is not incompatible with our biquaternion quantum mechanics; on the contrary this model is admitted from our theory in view point of energetic considerations as well as of the generalized quantum principles that our theory contains.
+
+In the final part of this paper we will show that, according to Rutherford's hypothesis, the spin of the neutron in the model (p, e-) coincides with the spin of the proton (see also Conte, 1994c, 1995a).
+To complete this argument we have to mention here that other authors (Santilli, 1990, 1993) obtained a direct theoretical evidence of Rutherford's historical hypothesis on the neutron. This author also discussed in detail the problem of the spin. Santilli's formulation (for details, see Santilli 1990) has some contact points with our formulation (in particular the (3.16) and the (5.2)), but the basic differences between Santilli's formulation and our theory have been discussed in detail in our previous papers (Conte, 1994c).
+Now, let us explain our elaboration on the ñ 1/2 h spin of the neutron conceived in accord with Rutherford's hypothesis. It was shown by us (Conte, 1994c) that, according to the (2.8), new Pauli's matrices are possible in biquaternion quantum mechanics.
+
+In particular, it was shown that for
+
+     !!!missing insert 
+
+     !!!mising insert
+
+Let us remember that we are studing the penetration of the electron into the proton conceived as a massive non-point like particle with a medium represented by the (5.2). The electron changes its physical characteristics penetrating the proton: we have seen in the (5.4) that its energy is changed in accord to the basic features of the space-time in which the electron penetrates; in the same manner, the electron changes the spin. Both (5.2) and (6.5) have been derived by us for the first time on the basis of the (2.8). It generalizes the usual quantum mechanics and the usual Minkowski space-time that was conceived only for the vacuum and, thus, does not represent the proton that, instead, we consider non-point like and with an extended medium.
+
+We have to consider, now, the angular momentum of the electron.  Before of all, let us express the angular momentum in classical terms. Consider the following two biquaternions:
+
+                 Z1 = x1e1 + x2e2 + x3e3  ;  Z2 = p1e1 + p2e2 + p3e3                    (6.6)
+
+The angular momentum L is the biquaternion 
+
+                 L = Z1Z2 - A = i e1L1 + i e2L2 + i e3L3                                       (6.7)
+
+r = (x1, x2, x3) ; p = (p1, p2, p3) ; L = (L1, L2, L3) ; A = the scalar quantity (x1p1 + x2p2 + x3p3). r, p, L 
+
+have been refered here to the internal space (e1, e2, e3) of the biquaternions.
+
+The norm of L is
+
+                          N (L) = L12  + L22 + L32                                                    (6.8)
+
+as it is required in our usual Euclidean metrics, with L2 = L12 + L22 + L33.           .
+
+To describe the angular momentum of the electron penetrating into the proton, we have to transform L for the proper space-time of the proton, and to fix the quantum properties of L.
+
+To calculate (5.2), we have used (2.8) to change the description from vacuum to the medium that has bm as characteristic functions. In consequence, for r we have obtained the change in r' with  xm' = bm xm, for p, we have obtained the change in p' with pm' = bm pm, for L we have the change in L' with Lm' = bm Lm   (Conte, 1995).
+
+Note that the new space-time with bm# 1 has a new metrics that is now completely different from the usual Euclidean metrics. For the generic vectorial physical quantity A (A1, A2, A3) we have A2= A1A1+ A2A2+ A3A3 in the case of the Euclidean space, and, instead, we have A2= A1b12A1+ A2b22A2+ A3b32A3 in our space-time with characteristic functions bi, i = 1, 2, 3.
+
+Also the properties of rotational symmetry are now changed in our space-time from being
+
+                        inv. = x1x1+ x2x2+ x3x3                                                         (6.9)
+
+in the ordinary space, to become
+
+                         inv. = x1 b12 x1+ x2 b22 x2+ x3 b32 x3                               (6.10)
+
+in our considered space-time.
+
+After this explanation on the physical features of the space-time that we have in consideration, we are now in the condition to conclude that, in the passage from the classical case to the quantistic case, the eigenvalues of the operators L' 2 and L'3 are given by f (b1, b2, b3) l [ f (b1, b2, b3) l + 1 ] and f (b1, b2, b3) m1, respectively, where l (l + 1)  and m1 are the well known wigenvalues of the angular momentum observables L2 and L3 of the usual quantum mechanics. 
+
+f (b1, b2, b3) is a function of bi (i = 1, 2, 3) to be calculated in the particular case taken in consideration.
+
+We are now in the condition to conclude this brief discussion on the spin of the neutron. Considering the (6.5) and the calculated values for the angular momentum of the electron, we have that the total spin of the neutron may coincide with the spin of the proton when the electron penetrates into the proton. In fact, we have that
+
+                        Sn = Sp + f (b1, b2, b3) + 1/2 h l-1                                    (6.11)
+
+or
+
+                         Sn = Sp  + f (b1, b2, b3) - 1/2 h l                                       (6.12)
+
+For
+
+                           l = - h / [ 2 f (b1, b2, b3) ]                                                (6.13)
+
+or
+
+                            l = 2 f (b1,b2, b3) / h                                                       (6.14)
+
+we have that
+
+                             Sn = Sp                                                                           (6.15)
+
+and Rutherford's hypothesis is fully confirmed.
+
+In conclusion, as well as possible, we have solved all the problems that appear to characterize the theoretical problem of the fusion of the proton and the electron to form the neutron. Our aim is that an analogous effort will be possible at the experimental level in order to confirm an experience that should be of historical value.
+
+REFERENCES
+
+
+Conte E. (1993), On a Generalization of Quantum Mechanics by Biquaternions,
+                               Hadronic Journal 16, 261
+Conte E. (1994a), An example of Wave Packet Reduction using Biquaternions,
+                                 Physics Essays, 6, 4
+Conte E. (1994b), Wave Function Collapse in Biquaternion Quantum Mecha-
+                                 nics, Physics Essays, 7, 14
+Conte E. (1994c), New Pauli's Matrices in Biquaternion Quantum Mechanics,
+                                 in publication on Physics Essays (the last number, Decem-
+                                 ber 1995)
+Conte E. (1995), On a Generalization of Schr"dinger's Equation using Biqua-
+                               ternions, Physics Essays, 8, 52
+Conte E. (1995a), On a Generalization of Physical Laws by using Biquater-
+                                 nions: the case of Minkowski's space-time, in publication
+                                  on Physics Essays;
+                                 A new Theory of Isospin in Biquaternion Quantum Mecha-
+                                 nics, in publication on Physics Essays.
+
+For a detailed exposition of all the arguments of the theory, see the book:
+
+Conte E., Meccanica Quantistica Biquaternionica, Publishers Casa Editrice Pitagora, Bologna Italia.
+D'Espagnat B. (1977), Conceptual Foundations of Quantum Mechanics, W. A. 
+                                          Benjamin Inc. 
+Fermi E. (1947), Nuclear Physics, Chicago 
+Flugge S. (1971), Practical Quantum Mechanics, Springer Verlag, N. Y. 
+Janussis A., Mijatrovic M., Velianoski B. (1978), Physics Essays, 4, 2, 25
+Mickens R.E. (1979), Long Range Interactions, Foundations of Physics, 9, 261
+Philips J.C., Kleinman L. (1959), New Method for Calculating Wave Functions 
+                                                 in  Crystals and Molecules, Phys. Rev., 116, 287
+Rutherford E. (1920), Proc. Roy. Soc. A97, 374; see Segre E.(1966), Nuclei  
+                                   e Particelle, Zanichelli, Bologna, Italy
+Santilli R. M.(1990 and 1994), Elements of Hadronic Mechanics, The Institute
+                                   for Basic Research, Palm Harbor-USA
+

@@ -1,0 +1,543 @@
+
+
+<html>
+<head>
+<TITLE>Two Simple Diagrams: nearfield coupling and tuned circuits</title>
+<base href="http://amasci.com/" >
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" >
+
+<link rel="prev" href="/tesla/tesceive.html" >
+
+<!-- canonical, to force spiders on old page to go to new one -->
+<link rel="canonical" href="http://amasci.com/tesla/nearfld1.html" />
+
+<meta name="google-translate-customization" content="c3ed531053d636c5-1d98312485736f8d-g564ee6842740dee4-a" ></meta>
+<meta http-equiv="keywords" content="nikola,tesla,coil,power,receiver,
+resonant,resonator,automobile,world,system" >
+</head>
+
+<body bgcolor="#ffffff" >
+<table width=100% height=75><tr><td width=70% summary="nav links" >
+<center>
+<TABLE cellpadding=5><TR>
+<TD ALIGN="CENTER" ><font size=2>
+<a href="/tesla/tesceive.html" >TESLA RECEIVE</a><br></font></TD>
+<TD ALIGN="CENTER" ><font size=2>
+<a href="/tesla/high_voltage3.html#tfiles"  >TESLA&nbsp;ARTICLES</a><br></font></TD>
+<TD ALIGN="CENTER" ><font size=2>
+<a href="/unew.html" >GOOD STUFF</a><br></font></TD>
+<TD ALIGN="CENTER" ><font size=2>
+<a href="/news.html" >NEW STUFF</a><br></font></TD>
+<TD ALIGN="CENTER" ><font size=2>
+<a href="/search.html" >SEARCH</a><br></font></TD>
+</TR></TABLE>
+</center>
+</td>
+
+<td summary="google search" align=right valign=top>
+<div id="google_translate_element" ></div>
+<script type="text/javascript" >
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout:google.translate.TranslateElement.FloatPosition.TOP_LEFT, gaTrack: true, gaId: 'UA-101029-1'}, 'google_translate_element');
+}
+</script>
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit" ></script>
+<div>
+<script>
+  (function() {
+    var cx = 'partner-pub-6310699831332590:m1ib2jl3jyf';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:searchbox-only></gcse:searchbox-only>
+</div>
+</td></tr></table>
+
+<table  summary="two columns"  width=100%><tr valign=top>
+<td summary="spacer" width=15></td>
+<td summary="main text" width=730><font size=4>
+
+
+<center>
+<h1><font size=5>Energy Received by Electrically Small<br>Capacitive 
+"Antennas"</a></font><br>
+<font size=3>1999 <a href="/me.html">W. Beaty BSEE</a></font></h1>
+</center>
+
+
+
+The ongoing Feb/2000 "energy-sucking antenna" controversy on 
+<a href="https://groups.google.com/g/sci.physics.electromag">SCI.PHYSICS.ELECTROMAG</a> (see 
+<a 
+href="https://groups.google.com/g/sci.physics.electromag/c/n31rE90qCtQ/m/mowMKkfiK8MJ">Feb/2000 thread</a>)
+, and <a 
+href="https://groups.google.com/g/sci.electronics.design/c/cBLfoRXSN7U/m/qAD64rYCvBMJ">earlier 
+Aug/1999 on sci.electronics.design</a> 
+
+prompted me to put together this brief article. 
+It concerns the amount of energy which a tiny, capacitively-coupled
+antenna can intercept from nearby metal plates.  
+<br><p>
+
+Since we're having serious disagreements over simple EM physics, first I 
+want to see if everyone can agree on the reality of some basic phenomena 
+which DO NOT involve EM radiation.  If we cannot agree on something this 
+simple, then there certainly is no point to fighting over EM travelling 
+waves and any possible "energy sucking" effects involving waves.  In 
+addition, if anyone finds a big flaw in the simple stuff below, then that 
+will impact the "energy sucking" idea itself. So first let's fight about 
+simple resonant circuitry! [grin!]
+
+</td>
+
+<td width=50>&nbsp;</td>
+
+<td summary="google ad" valign=top>
+<pre>
+
+
+
+
+</pre>
+</td>
+<td></td></tr></table>
+
+
+
+<table  summary="main text, continued"  width=100%><tr valign=top>
+<td summary="spacer" width=15></td>
+<td summary="main text" width=730><font size=4>
+
+
+
+<br><p>
+Here are the abstracts for the physics papers which provoked the whole 
+fight:<br>
+
+<b><ol><li>
+1.  C. F. Bohren, "<a href="/tesla/dipole1.html">How can a particle absorb more than the light incident</a>
+    on it?", Am J Phys, 51 #4, pp323  Apr 1983
+<li>
+2.  H. Paul and R. Fischer  "<a href="/tesla/dipole1.html">Light Absorption by a dipole</a>", SOV. PHYS. USP.,
+    26(10)  Oct. 1983  pp 923-926
+</ol>
+</b>
+
+And here is my first article, the one regarding Nikola Tesla's attempt to 
+broadcast megawatt-levels of
+
+EM power between continents using VLF radio:
+<a href="/tesla/tesceive.html">Tesla's Power Receiver</a>
+
+<br><p>
+<br><p>
+<blockquote>
+<b>Question: if a capacitively-coupled "antenna" becomes part of an
+<br>LC resonator, can it actually receive more energy from an 
+<br>AC e-field than it otherwise would if the resonator wasn't there?</b>
+</blockquote>
+
+<br><p>
+<br><p>
+
+<table width=100% border=0><tr>
+
+<td width=350 align=center>
+<a href="/tesla/reson1.gif"><img width=100% align=center border=0 
+src="/tesla/reson1.gif" 
+alt="[Large metal plates connected to AC voltage, two small 
+floating plates nearby connected to resistor]"></a>
+</td>
+
+<td width=30>&nbsp</td>
+
+<td width=350 align=center>
+<a href="/tesla/reson2.gif"><img width=100%
+align=center border=0 src="/tesla/reson2.gif" 
+alt="[Large metal plates connected to AC voltage, two small 
+floating plates nearby connected to resistor and coil]"></a>
+</td>
+</tr>
+<tr>
+<td align=center><b>Fig. 1</b>  A capacitive antenna drives a resistor</td>
+<td>&nbsp</td>
+<td align=center><b>Fig. 2</b>  An inductor is added, forming a tuned circuit</td>
+</tr>
+</table>
+<br><p>
+
+Above we have two variations on a theme:  a pair of LARGE parallel metal
+plates creates a strong AC e-field between themselves, and a pair of SMALL
+metal plates intercepts a bit of energy from this field.  The received
+energy heats up a load resistor.  Assume that all this takes place in the
+nearfield, where all plate-sizes and distances are far smaller than
+c/500KHz = 600 meters.  Imagine the big plates to be a couple of feet
+across.<br><p>
+
+In Fig. 2 on the right, an inductor has been added, and its value is chosen
+in order to create a tuned circuit with a center frequency the same as
+the frequency of the voltage-source which drives the large metal plates.  
+In both diagrams the load resistor has been adjusted for maximum received 
+energy.  Assume that any stray capacitance of the resistor and inductor
+are included in other capacitances.<br><p>
+
+Analysis is very straightforward.  Let's add the parasitic capacitances
+and plug in some real numbers.  I'm arbitrarily making the capacitances
+form a 100:1 voltage divider.  If you object, feel free to choose some 
+other ratio.<br><p>
+
+
+<table width=100%><tr>
+<td width=161></td>
+<td width=400 align=center>
+
+<a href="/tesla/reson3.gif"><img width=100% align=center border=0 
+src="/tesla/reson3.gif" 
+alt="[Comparing the two circuits, w/parasitic capacitance added.]"></a>
+<br clear=all>
+</td>
+<td ></td>
+
+</tr>
+<tr>
+<td></td>
+<td align=center><b>Fig. 3</b>  Comparing the two circuits</td>
+<td></td>
+</tr>
+</table>
+<br><p>
+
+First let's choose a value for R1 on the left.  Note that the parasitic 
+capacitances <b>"Ca"</b> happen to form a
+capacitive voltage divider with C1.  To adjust R1 for maximum power, we
+set R1 equal to the Thevinin series reactance created by the Ca-C1 voltage 
+divider, which equals 1/(2*pi*f*100pF) or approximately 3.2K ohms.  The voltage 
+which appears across R1 will be .707 times 100V, times the 1:100 voltage division, 
+so V(r1) =  0.7v.  Knowing that power = V^2/R, the power received by R1 will be 
+around 160 microwatts.  It's fairly small, as you probably expected.  After all, 
+the voltage across the C1 plates obviously should be <i>far</i> smaller than 
+the 100V applied to the large plates. 
+
+<br><p>
+
+OK, on the right we've added L1, and adjusted it to resonance.  Something
+interesting occurs: the resonant circuit acts like a pure resistor, C2 
+essentially "vanishes," and the voltage across R2 
+becomes very large.  C2 becomes part of the reactance of the LC circuit, and since I'm
+assuming lossless components, its reactance is infinite.  To adjust R2 for
+maximum energy, we set it equal to the series reactance of the voltage
+source, which is two Ca capacitors (2pf) in series, or 1/(2*pi*f*1pf) = 320K ohms. 
+Since C2 and L1 "vanish", the voltage across R2 is simply .707 times the
+100v drive, or 71v, and the received power is around 16 milliwatts. 
+<br><p>
+
+We've found that the maximum power intercepted by each of the two circuits 
+is very different.  The circuit with the resonator works better by a 
+factor of 100!  
+By adding a tuned circuit, we've eliminated the 100:1 capacitive voltage
+divider.  And if the large plates were even further apart (but still in
+the 500KHz nearfield), then the 100x difference between the two circuits 
+would be even greater.  <br><p>
+
+To check my numbers, I divide the power equation for one circuit by the
+power equation for the other.  I find that everything cancels out except
+the 100:1 from the capacitive voltage divider.  The circuit with the 
+resonator receives 100x more power.
+<br><p>
+
+
+Also note that the voltage across C2 is higher than the voltage across C1
+by a factor of 100. 
+This implies something interesting.  If you held a little bitty electrostatic
+field meter near C1, it would indicate a low value; a value just about as low 
+as if the C1 plates were not present at all.  On the other hand, if you 
+used the same meter to measure the field
+strength near C2 on the right, you would find it to be very large, almost as 
+if the small plates forming C2 were directly connected to the large, distant
+driver plates!  All this is a consequence of high-Q resonance.  Detune the 
+circuit, and the large voltage across C2 goes away. <br><p>
+
+<blockquote><b><font size=5>
+Pd without tuned circuit: 0.16 mW
+<br><p>
+
+Pd with tuned circuit: 16 mW
+<br><p>
+
+Increase in received energy: 100x
+<br><p>
+
+Increase in e-field near the small plates: 100x
+</b></blockquote>
+
+
+Conclusion:  a short dipole antenna doesn't intercept much RF power, but
+this situation can be amazingly enhanced by adding a resonant circuit.
+Cool!<br></font>
+<br>
+
+
+
+<hr>
+
+<p>
+<center>
+<table width=90% border cellpadding=10> <tr><td> <b>New info:3/18/2000
+<br>Engineers on
+SCI.ELECTRONICS.DESIGN have pointed out that my above analysis of FIG.2 is 
+missing a lot more power: the R2 resonant power is NOT limited to only 16 
+milliwatts as 
+I have calculated.  This is true because the voltage across L2 is NOT
+limited to 71V like I thought.  Instead, it is limited only by the Q
+factor of the resonator, and this is proportional to the value of R2.  If 
+the
+resistance of R2 is made very large, then the Q becomes large.  (The 
+resonant frequency of L2-C2 must be retuned slightly to
+maximize the power in R2.)  By making the value of R2 larger, the Q becomes
+larger, and the voltage across R2 will rise proportionally.  Because the
+power dissipation for R2 depends upon the *square* of the voltage across it, 
+increasing the value of R2 doesn't result constant received Pd, instead it 
+lets the antenna receive far larger power.<br><p>
+
+If lossless superconducting components could be used (particularly for the 
+coil L2,) the voltage across R2 can be FAR higher than 71V, and the Pd 
+received by resistor R2 can be FAR higher than 16 milliwatts.<br><p>
+
+As a result, my calculation of 100:1 power difference between Fig. 1 and 
+Fig. 2 is perfectly correct as it stands.  However, if the above changes 
+are made, then the 100:1 difference could be immensely larger, even far 
+higher than 100V.  And because the voltage across R2 and C2 rises much 
+higher, the e-field near the C2 plates is much higher too.  Obviously this 
+would require a tightly-controlled broadcast frequency, and actively 
+controlled receiver tuning, since any tiny change in receiver resonance 
+would entirely miss the incoming signal. <br><p>
+
+This change does not alter my conclusion: R2 dissipates far more power
+than R1, and the e-field adjacent to the small C2 plates in Fig. 2 has a 
+far larger value
+than the e-field adjacent to the small C1 plates in Fig 1.
+</b> </td></tr></table>
+</center>
+<br><p>
+
+OK sci.physics people, all interpretations of the "Energy Sucking" 
+phenomenon aside, do you agree with the following?: 
+
+<ol>
+<li>Adding a (lossless) tuned circuit can significantly increase the 
+energy throughput capabilities of a small capacitive antenna.
+
+<li>The strength of the e-field next to a small capacitive antenna 
+can be much larger when a (lossless) tuned circuit is present.
+
+<li>The theory is sound: this effect is real, and is not forbidden by QED,
+or wave/particle duality, or superposition, or any other well-verified
+physics principles. 
+
+<li>If you ACTUALLY BUILT this thing, it would work, although practical
+considerations might mess things up.  The finite value of Q created by 
+real-world coils would reduce the theoretical 100x factor, and it might be 
+hard to keep such sharp tuning from drifting without adding active 
+feedback control.  </ol>
+
+<br><p>
+
+
+Feel free to check my calculations.  I'm
+a digital designer and my analog math is rusty.<br><p>
+
+SIDE NOTE: This is the electrostatic case.  The entire article can be
+rewritten so that the "transmitter" is a large hoop-shaped coil driven by
+a 500KHz current, and the two receivers are smaller coils nearby, one of
+which features a tuning capacitor connected across it.  Rather than
+coupled capacitors, we can form loosely- coupled transformers, and the
+results will be similar.  The tuned "antenna coil" will intercept more
+energy than the RL circuit.  And the b-field near the tuned "antenna coil"
+will be much larger than the b-field near the other. <br><p>
+
+ANOTHER NOTE:  this might explain why crystal radios work much better if a
+tuned circuit is used.  A tuned circuit is not just a filter.  Instead it
+creates a higher signal voltage in the radio circuit.  This is not magic,
+because in order to help to exceed the Vf of the crystal diode, we could
+instead place a step-up transformer between the antenna/ground section and
+the rest of the circuit.  But there is some magic to be had:  if we place
+a parallel LC circuit between the antenna and ground, we can eliminate the
+antenna/ground capacitance, and we can actually increase the net amount of
+energy received by the antenna as if the antenna was electrically larger. 
+The tuned circuit in a crystal radio is *not* simply a bandpass filter. 
+Instead its oscillations grow as it takes in energy, which *drives* the 
+receiving antenna and creates a strong EM field.  And this EM field then
+"funnels" the incoming EM waves to the antenna which would otherwise pass
+right by.  (Or from another viewpoint, the resonator drives the receiving 
+antenna, causing it to emit an EM sphere-wave which superposes with the 
+incoming waves to form a diffraction pattern... and this diffraction 
+pattern takes the form of an "EM shadow" which appears downstream from the 
+receiving antenna: a shadow-region where some EM energy is missing.  The 
+missing energy has gone inside the crystal radio.)<br><p> 
+<a name="flux"></a>
+<br><p>
+
+<hr>
+<table width=100%><tr valign=top>
+
+<td width=362><font size=4>
+<a href="/graphics/dp-absb1.gif">
+<img  width=100% align=left
+alt="[Parallel lines flow in from the left, bend inwards, and dive into a
+central point]" hspace=10 src="/graphics/dp-absb1.gif"></a>
+<br clear=all>
+<b>Fig 4. Energy flux lines for the nearfield region of a 
+resonant absorber</b><br>
+<font size=3>[from <a 
+href="http://iopscience.iop.org/article/10.1070/PU1983v026n10ABEH004523/meta">ref#2</a> 
+above]</font> </td>
+
+<td width=15></td>
+
+<td><font size=4>
+In figure 4 we see the energy flux (Poynting vector field) surrounding a
+very small resonant antenna.  Plane waves enter from the left, and the
+antenna occupies a point in the center of the diagram.  Clearly the EM
+energy is being deflected inwards by the dipole field of the small
+resonator.  As the phase of the wave advances with time, so does the phase
+of the resonator, and the absorbsion occurs during both halves of a 360deg
+cycle.  In this diagram the resonator's dipole pattern is oriented
+vertically.</font>
+</td>
+<td></td></tr>
+<tr><td><br><p><br><p></td></tr>
+
+<tr valign=top>
+<td width=362><font size=4>
+<a href="/graphics/dp-absb2.gif">
+<img width=100% align=left alt="[Same as above, with circle enclosing the parallel lines which later are absorbed]" hspace=10
+src="/graphics/dp-absb2.gif"></a>
+<br clear=all>
+<b>Fig 5. Circle shows the approximate size of an 
+"absorber disk" which has an area equal to the 
+Effective Aperature (EA) of the resonant antenna.</b><br>
+</td>
+
+<td width=15></td>
+
+<td><font size=4>
+In Fig 5 I've sketched in the profile of an "absorber disk" which has an
+effective aperture equal to that of the small resonator.  Lines of
+Poynting flux which pass through this disk are deflected so as to strike
+the tiny resonant absorber.  For high-Q absorbers at very long EM
+wavelengths, the effective aperature can be enormous.  In theory a loop
+antenna a few inches across could gather the same amount of energy as a
+long-wire antenna hundreds of feet wide.  It's just a matter of achiving a
+high enough "Q" rating.
+
+</td>
+<td></td></tr></table>
+
+
+<p>
+
+
+
+
+<hr>
+Suggested by A. Boswell, regarding small-antenna physics:
+<font size=3><blockquote>
+
+<li><a href="http://aip.scitation.org/doi/abs/10.1063/1.1715038">
+LJ Chu, "Physical limitations of omni-directional antennas."</a> J.
+Appl. Phys. 19, 1163- 1175 (1948).
+<li> <a href="https://ieeexplore.ieee.org/abstract/document/1456218">
+RC Hansen, "Fundamental limitations in antennas,"</a> Proc.IEEE V69 No2 
+(1981.)</blockquote></font>
+<br><P>
+
+<p>
+Suggested by Winfield Hill:
+<br></p>
+
+<p>
+<blockquote>
+<a href="https://scholar.google.com/scholar?cites=7757642966731638982">
+  ZB Wang "Energy flow around a small particle investigated by classical 
+Mie
+theory"</a> 2004 PRB V70, in
+  <a 
+href="http://journals.aps.org/prb/abstract/10.1103/PhysRevB.70.035418">
+Phys Rev B</a>
+<br><br>
+<a href="https://scholar.google.com/scholar?cites=13173840491193629816">
+  S Papernov, "Correlations between embedded single gold nanoparticles 
+in..."
+</a> J App Phys V92 2002., in
+  <a href="http://scitation.aip.org/content/aip/journal/jap/92/10/10.1063/
+1.1512691">J. Applied Phys</a>
+</blockquote>
+
+
+<br><P>
+
+<h3>LINKS</h3>
+<ul>
+<li><a href="/tesla/tesceive.html">N. Tesla's Power Receiver</a>
+<li><a href="/tesla/dipole1.html">Two conventional research papers on the above</a>
+<li><a href="http://gerdbreitenbach.de/gallery/photon_what_is_a.pdf" rel="nofollow" >What Is A Photon?</a> collected articles, OPN Trends, S1 supplement 2003
+ and <a href="http://web.archive.org/web/20110718000351/http://www.fen.bilkent.edu.tr/~bulutay/442-612/opn-oct03.pdf" rel="nofollow" >archive.org</a>
+<li><a href="/freenrg/sukdynam.html#links">Lots more links: photons</a>
+<li><a href="/elect/tinyhole.html">EM waves through a tiny hole</a>
+<li><a href="/tesla/tmistk.html">Tesla's Big Mistake?</a>
+<li><a href="/tesla/high_voltage3.html#tfiles">More Tesla craziness...</a>
+</ul>
+
+</font></td>
+
+</td><td></td></tr></table>
+
+
+
+
+<pre>
+
+
+
+
+
+</pre>
+<center>
+</font>
+<font size=3>
+<a href="/tesla/nearfld1.html" >
+http://amasci.com/tesla/nearfld1.html</a><br>
+Created and maintained by <a href="/billb.html" >Bill Beaty</a>.  
+Mail me at: <a href="/amfrm/" >
+<img border=0 width=141 height=19 src="/graphics/abc.gif" ></a>.
+<br>
+</center>
+
+
+<center>
+<!-- Start of StatCounter Code for Default Guide -->
+<script type="text/javascript" >
+var sc_project=10408414; 
+var sc_invisible=0; 
+var sc_security="00267183"; 
+var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript><div class="statcounter" >
+<a title="shopify stats" href="http://statcounter.com/shopify/" target="_blank" >
+<img class="statcounter" src="http://c.statcounter.com/10408414/0/00267183/0/" alt="shopify stats" ></a></div></noscript>
+<!-- End of StatCounter Code for Default Guide -->
+<a href="http://statcounter.com/p10408414/?guest=1" >View My Stats</a>
+</center>
+
+
+</font>
+</body>
+</html>

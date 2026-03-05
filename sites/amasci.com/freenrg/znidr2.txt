@@ -1,0 +1,409 @@
+			CHAPTER 11
+ 
+		 THE ZERO POINT INTERACTION
+
+Frank Znidarsic  PE
+fznidarsic@aol.com
+
+
+          ...................................................................
+
+     HISTORY AND DISCOVERY                              PG 2
+
+	    In the mid 1970s Ray Frank (the owner and president of 
+     the  Apparatus Engineering Company my former employer) 
+     assigned me the task of building a ground monitoring relay.   In 
+     an effort to complete this assignment,  I began to experiment 
+     with coils,  current transformers, and magnetic amplifiers.  
+     I succeeded in developing the device.  We sold many hundreds 
+     of them to many mining companies.  After work, I applied the 
+     knowledge that I gained, at my day job, to the design of an 
+     electronic levitational device.   To my dismay I discovered 
+     that no combination of electrical coils would induce a 
+     gravitational field.  In the mid 1990's a friend,  Tom C. 
+     Frank, gave me the book, "THE QUEST FOR ABSOLUTE ZERO" by Kurt
+     Mendelssohn.   In  his book Mendelssohn disclosed that the 
+     relationship between the forces changed at cryogenic 
+     temperatures. This was the clue that I needed.  Things began 
+     to come together.  In 1989 I wrote my first book on the subject,  
+     "Elementary Antigravity". (1) This book caught the eye of  Ronald 
+     Madison  a far sighted manager at the Pennsylvania Electric 
+     Company (my current employer).  In 1991, Ron persuaded me to go 
+     to Texas and visit with Dr. Harold Puthoff.  Puthoff's work is 
+     based on the ideas of Andrei Sakharov.  My work is based of the 
+     work of Kurt Mendelssohn.   It is truly astounding that Puthoff 
+     and I,  each following separate paths,  had independently arrived 
+     at the same conclusions.
+      
+
+								Pg 3
+     
+     Prior to meeting Puthoff,  I knew of a cryogenic relationship 
+     between the forces of electromagnetism and gravity.  Puthoff 
+     explained that the link  that I had discovered was the zero 
+     point interaction.  I have since discovered that similar zero 
+     point interactions occur in non-cryogenic systems.   The zero 
+     point interaction is exhibited by all electrons with energies 
+     lower than the Fermi level in an atom and by all waves with 
+     lengths longer than the wavelength of evanescence in a plasma.  
+     The remainder of this chapter is essentially a reprint of 
+     chapter 10 of my first book "Elementary Antigravity".   In 
+     this reprint the relationship between the forces in a cryogenic 
+     system will be explored.  The study of cryogenics is very 
+     instructive.  A better understanding of the zero point 
+     interaction can be gained through the study of cryogenic 
+     phenomena.
+
+
+     INTRODUCTION
+
+
+	  It is well known that superconductors offer no 
+     resistance to electrical currents.  Less well known, but even 
+     more amazing, are the low temperature superfluids.  These fluids 
+     flow without friction.  Once set into motion, they never slow 
+     down.  Quantum interactions are limited to atomic distances in 
+     normal substances.   In superconductors and superfluids quantum 
+     interactions are observed on a macroscopic scale.  The normal 
+     interaction of the magnetic and electric field is very different 
+     in a superconductor.  In normal conductors dynamic changing 
+     fields are required to induce other fields.  In superconductors 
+     static fields can also induce other fields.  The sum of these 
+     phenomena indicate that something unique is taking place.
+     
+
+ 
+							     Pg 4
+
+     A new look at the sum of these effects will lead to a deeper
+     understanding of the zero point interaction.
+     
+     THE ELECTROMAGNETIC FIELD
+
+
+	  The relationship between the electric and the magnetic 
+     field has been known for many years.  A very important, but 
+     often overlooked, aspect of this relationship is the independence 
+     of the two fields.  The fact that a static magnetic and static 
+     electric fields can exist alone independently of each other is 
+     a very important property of the fields.   For example, a 
+     capacitor can have a static electric field while not possessing 
+     a magnetic field.   Likewise a bar magnet can have a static 
+     magnetic field while not possessing a net electrical charge.   
+     Pick Icon 11-1.
+
+
+       --------------             _______________
+		     |                           |
+		     |                           \
+		     |                           / "R"
+		     |                           \
+		     |                           |
+       --------------             ---------------
+	SUPERCONDUCTIVE               RESISTIVE
+		       
+		       TWO CIRCUITS
+
+
+     Icon 11-1 shows a resistive and a superconductive circuit.   
+     In the resistive circuit the electric field is isolated from 
+     the current flow by resistor "R".   For example, if resistor 
+     "R" has an infinite resistance no current will flow and no 
+     magnetic field will be produced.   In a resistive circuit the 
+     electric and the magnetic fields have a life of  their own.
+     In the superconductive circuit the resistor,  "R" no 
+     longer exists.  The electric field is dependent on the changing 
+     magnetic field  "F".   The strength of the electric field varies 
+     directly with the strength of a changing magnetic field.  In a 
+     superconductor, the electric and magnetic fields are always 
+     coupled together.  They do not have separate existences.
+     
+
+
+							Pg 5
+
+	 To confirm the nature of the coupling the result of an
+     experiment done by  W. Meissner in 1933 will be reviewed.  In 
+     this experiment, a ordinary loop of wire is inserted into a 
+     magnetic field.  Pick Icon 11-1.  Icon 11-1 shows a coil that 
+     was moved from position "A", outside of a magnetic field,  
+     to position "B", inside of a magnetic field.
+	   
+
+	   -------                     --------
+	  |       |                +  | + + +  |+ +
+	  |       |                +  | + + +  |+ +
+	  |       |                +  | + + +  |+ +
+	   -------                     --------
+       "A" OUTSIDE MAG FIELD      "B" INSIDE OF MAG FIELD
+
+
+
+     As expected a loop current is induced in the loop as it cuts 
+     the lines of flux.  This loop current dies down in time.  
+     This time period (t) is determined by the intrinsic inductance 
+     (L) and resistance (R) of the loop.
+
+						 tR/L
+      Current final  =   (Current initial)/(2.73)           Eq #1
+
+
+     The first loop of ordinary wire is removed and a 
+     superconductive loop is now inserted into the magnetic field.   
+     Icon 11-1 again depicts the loop being moved from position "A" 
+     to position "B".  As expected, the loop current persists 
+     undiminished after the loop comes to rest at position "B".   
+     This undiminished current is represented by Equation
+
+      #2.
+
+      Current final = Current initial                    Eq #2
+      
+     The first experiment is repeated and a non-superconducting 
+     loop of  wire is inserted into the magnetic field.  The current 
+     is again allowed to die down  (per Equation #1).   After the 
+     current drops to a value of zero,  the stationary loop (loops 
+     remains in position "B")  is cooled until it becomes 
+     superconductive.  What happens?
+
+
+
+
+						    Pg 6
+
+
+     Equation #2 predicts that the current should remain fixed 
+     at zero.  Astonishingly,  the loop current reappears. 2  
+     In a superconductor a steady state magnetic field is in all 
+     cases symmetrically balanced by a steady current.   Symmetry 
+     is restored to the laws of electromagnetic induction.   The 
+     element of time is not a factor in the cryogenic electromagnetic 
+     relationship.  The independence of the electric and the magnetic 
+     fields is lost at cryogenic temperatures. The electric and 
+     magnetic fields merge together and act as a singel unified 
+     force.
+
+
+      THE NUCLEAR FORCES
+
+
+	 All forces, within a zero point system, should display 
+     the same general tendency to merge.   Pick Icon 11-2
+
+
+
+	    Nuclear    Magentic  Electric     Gravity
+		       .    |        |    .       /
+  room  |      \       .     \      /     .      /
+  temp  |       \      .      \    /      .     /
+	|         \    .       \ /        .    /
+	|           \  .        |         .   /
+	|             \.        |         . /
+	|              .\                 /
+  abs'  |              .                / .
+  zero  |________________________________________________
+		       |limit of induction|  
+	  
+	  short - - - - - - RANGE - - - - - - - - - -  long
+
+		    THE ZERO POINT INTERACTION               
+		    
+
+
+	  The quantum forces normally have a very short range of
+     interaction.  This range is confined to atomic dimensions.   
+     Quantum interactions are observed on a macroscopic scale in 
+     superconductors and superfluids.  Superconductors only accept 
+     currents that are integer multiples of one another.   
+     Superfluid helium will spin in a small cup only at certain 
+     rotational speeds.  These low temperature phenomena vividly 
+     demonstrate that the range of the quantum interaction has 
+     increased to macroscopic dimensions.  This effect can clearly 
+     be interpreted as a tendency to merge.
+
+
+
+
+
+						       Pg 7
+
+      GRAVITY
+
+	   Gravity must exhibit the same general tendencies.  The 
+      length of the gravitational interaction must decrease in a 
+      superconductor or superfluid by the same order of magnitude 
+      that the length of the quantum interaction has increased.   
+      No induced gravitational field, however,  has ever been 
+      detected emanating from a superfluid or superconductor.  
+      Considering the mass to energy ratio and then the ratio 
+      of mass to gravity,  this is no wonder.    The universal
+      gravitational potential is conserved in all mass energy 
+      interactions.  Any detectable induced gravitational field 
+      can only be the result of a tremendous energy flow.   
+      Energy flow rates of the required  magnitude will never 
+      be experimentally produced.
+
+	   This author's model predicts that the length of the 
+      near field gravitational interaction will increase at 
+      cryogenic temperatures.
+
+      Pick Icon 2-3.
+
+
+		    ---------------
+		   |           \   |
+		   |             \ |
+		   |             / |
+		   |           /   |
+		    ---------------
+		   |------K -------|
+
+	      Photon in a box model of matter 
+				      
+				      2
+      Icon 2-3 shows that the far "1/r " gravitational field results 
+      from the superposition of two "1/r"  fields.   At distances 
+      less that the length of the containment "K" the  "1/r"  field 
+      predominates.  "K" represents the length of a wavefunction.   
+      In ordinary matter the wavefunctions  extend to a maximum of 
+      about one atomic diameter.  Superconductors have very long 
+      wavefunctions.   A superconductive wavefunction extends along 
+      the entire length of the superconductor.  The near gravitational 
+      field of a superconductor can extend for meters. In my attempts 
+      to construct an antigravitational levitational device. I  
+      applied pressure to a superconductor in an attempt to exploit 
+      this effect.
+
+
+
+
+							   Pg 8
+
+
+      I found that the near gravitational field of a superconductor 
+      was too weak to be detected, let alone be utilized.   In a 
+      superconductor the length of the wavefunction  "K"  is the 
+      distance at which the gravitational,  the quantum,  and the 
+      electromagnetic fields interact directly with one another.   
+      This is the interaction that zero point energy advocates are 
+      attempting to exploit.
+
+	   An experiment was done at Oxford that can be interpreted 
+      to indicate that a far gravitational field has been induced.   
+      In this experiment, an apparatus was constructed which 
+      allowed superfluid liquid helium to flow through a set of 
+      narrow channels from a high to a lower level.   It was found 
+      that the temperature of the fluid,  after passing through the 
+      narrow channels,  spontaneously decreased. (2)  
+
+      Ther effect of this cooling is know as the  "mechano caloric 
+      effect".
+
+			 -----
+			|- - -|  Helium
+			|     |
+			|||||||  Narrow channels
+			|     |
+			|     |
+			 \   /
+			  | |  Dewar vessel
+		 
+		    Fluid flow down
+		     Heat flow up
+
+
+      Hot had flowed to cold.   The entropy of the out flowing 
+      fluid had decreased.   The second law of thermodynamics 
+      declares that entropy cannot spontaneously decrease.  Hot 
+      cannot flow to cold. 
+      Present theory tries to account for this abnormal behavior 
+      by stating that liquid helium is a mixture of two fluids each 
+      with a different entropy.   These two fluids are separated 
+      upon passing through a small orifice.   This is know as the  
+      "two-fluid model".  The two fluid model is flawed in that it 
+      is impossible to have two fluids made of a group of 
+      indistinguishable atoms.   Any theory requiring the separation 
+      to two fluids at an orifice is not valid after all of the fluid 
+      has passed through the orifice.
+
+
+
+
+							   Pg 9
+
+
+      A correct accounting of the missing entropy can be had by 
+      taking into account the gravitational interaction.   The 
+      decrease of the entropy of the out flowing fluid is balanced 
+      by the induction of a antigravitational field.   This field 
+      produces an irreversible expansion of the universe.  
+
+	   Superfluid helium tends to rise up into small tubes 
+     and to climb up the upon the walls of a containment.   When 
+     climbing, the fluid exerts a negative pressure upon the walls 
+     of its containment.   A model  was developed in chapter 10 of 
+     this text.  This model is based upon a relationship between 
+     force,  gravity, and entropy.   According to the model the 
+     direction of the force exerted upon the walls of a contaiment 
+     determines the direction in which entropy will flow.   Entropy 
+     can decrease in systems capable of exerting a negative pressure.   
+     Cryogenic zero point fluids can exert a negative pressure.   
+     The entropy of a  zero point system can decrease.  
+
+    
+      CONCLUSION
+
+	  Faraday expected that a continuous magnetic field would 
+      impose a continuous electric current.   His experiments 
+      demonstrated that only changing electromagnetic fields induce 
+      other fields.   If Faraday had done cryogenic experiments he 
+      would had discovered that his original hypothesis was correct 
+      and that magnetic fields do impose continuous electrical 
+      currents.   In chapter 3 of this text it was demonstrated,
+      on the basis of the conservation of momentum,  that changing 
+      fields must induce other fields.   The relationship between 
+      the forces changes in a zero point system.   The altered 
+      relationship permits genesis to occur.
+
+	   An understanding of the gravity has been delayed for many 
+      years by improper thought.   In fact, the technology needed
+      to exploit the zero point relationship has been around for many 
+      years.  The induction of a  gravitational  field at low 
+      temperatures was demonstrated in the 1930's,  however,  this 
+      author is the first to correctly identify the result.   Now 
+      that gravity is understood on a theoretical basis 
+      antigravitational technology can be developed.  
+      This development will be of great economic and social importance.
+								      3
+
+
+							    Pg 10
+
+      NOTES
+
+      1.   "Elemenatry Antigravity"  1989  ISBN: 0-533-08334-6
+
+      2.   K.  Mendelssohn.  THE QUEST FOR ABSOLUTE ZERO
+	   McGraw-Hill,  New York, 1966
+
+      3.   This author applied for a patent on an energy device based on 
+	   these ideas.
+	   Serial # 06/824,530
+	  Filing Date:  01/31/86
+	  Examiner Rebsch, D.
+	  Art Unit 212
+	  The application was rejected due to the preliminary state of the
+	   ideas.
+
+      // I hope you have enjoyed the material.  There is much more 
+	 material along with much better graphics on my disk.
+	 Comments appreciated.
+
+					      Frank Znidarsic  PE
+					      fznidarsic@aol.com
+						 
+
+
+
+
+

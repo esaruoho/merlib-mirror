@@ -1,0 +1,129 @@
+IN THE UNITED STATES DISTRICT COURT
+DISTRICT OF NEW MEXICO
+
+CREATIVE GIFTS, INC.,
+FASCINATIONS TOYS & GIFTS, INC.,
+and WILLIAM HONES
+
+                Plaintiffs,             CIV.97 1266 LH/WWD
+v.                                                                      
+
+UFO,
+MICHAEL SHERLOCK,
+KAREN SHERLOCK
+
+                Defendants.
+
+AFFIDAVIT OF DR. EDWARD W. HONES
+
+STATE OF NEW MEXICO
+
+COUNTY OF LOS ALAMOS
+
+        I, Edward W. Hones, being duly sworn, hereby depose and say as follows:
+
+        1. I am the president of Creative Gifts, Inc. ("Creative Gifts"), a
+Plaintiff in the above-captioned civil action and the father of William G.
+Hones (Bill Hones), another Plaintiff in this action.
+        2. The facts stated herein are of my own personal knowledge.  I am
+competent and willing to testify to their truth.
+        3. I am a retired physicist, having worked most recently (1965-1994)
+at the Los Alamos National Laboratory doing research in space plasma
+physics.  I received masters (M.A.) and doctorate (Ph.D.) degrees from Duke
+University in 1949 and 1952, respectively.  I worked in nuclear reactor
+physics research from 1952 to 1959, then in various aspects of space
+research from 1959 to 1965 when I joined the Los Alamos National Laboratory.
+        4. In early September 1993, my son Bill Hones sent me a memo with a
+copy of U.S. Patent No. 4,382,245 for a "Levitation Device" issued to Roy
+Harrigan.  In that memo he advised me that he was going to Vermont to visit
+the patent holder, Harrigan, and solicited my assistance in studying the
+magnetic field of the Harrigan device in order to optimize the potential of
+the device for possible commercialization as a toy or novelty item.
+        5. I studied the Harrigan patent but it did not disclose the physics
+of how the device worked.  However, I did note that Harrigan taught that the
+base magnet should have a spherical surface and be magnetized so that the
+magnetization vectors define a cone.  He taught that this configuration of
+magnetization provides a centering force on the spinning top levitated above
+the base magnet.
+        6. After Bill Hones returned from his visit with Roy Harrigan in
+Vermont, he commenced experimental research to develop a commercial product
+based on the Harrigan device.  He requested me to attempt a computer
+simulation of Harrigan?s device.  I have no record of and do not recall the
+exact date I began working on developing a computer program to calculate the
+magnetic field above a dish-shaped or spherical magnet, but it was between
+several days and several weeks after Bill Hones visited Roy Harrigan.
+        7. In late September or early October 1993 I developed a computer
+program I called MAGBILLIN which was used to make certain calculations
+regarding the magnetic field of a spherical magnetic shell.  In about
+mid-October 1993 I developed a further computer program I called MAG2D that
+was used to make more sophisticated calculations concerning the magnetic
+field above a spherical magnetic shell.
+        8. In addition to developing computer programs and performing
+calculations with them, I also began studying the literature and various
+texts pertaining to permanent magnets and, particularly, magnetic shells, to
+learn about the magnetic fields of such shells, especially the magnetic
+fields of dish-shaped or spherical shells.
+        9. In about late October 1993 I came across a passage in a text in
+theoretical physics that stated that uniformly and normally magnetized
+shells having identical peripheries and identical magnetization strengths
+produce identical magnetic fields regardless of their surface profiles.
+After reading that passage, I called my son, Bill Hones, and told him what
+the text said.  He did not believe it.  But I then developed programs MAG1D
+and MAG3D that calculated the field above either a spherical shell or a flat
+shell and found, in agreement with the theoretical physics text, that the
+fields above the two forms were the same.
+        10. I suggested to Bill Hones that he should test the surprising
+predictions of the physics text and of my calculations.  He did so and
+succeeded in levitating the top above a flat plastic magnet.
+        11. Had it not been for the aforementioned passage I read in the
+text on theoretical physics, I believe I would have continued to work on
+developing an understanding of the magnetic field above a spherical magnetic
+shell and would not have suggested to Bill Hones to try a flat, normally
+magnetized magnet.
+        12. By the end of November 1993, Bill Hones and I were convinced
+that Harrigan?s concept of a focusing effect with a dish-shaped base or a
+field with magnetization vectors that define a cone was erroneous.
+        13. I performed some further calculations for flat and dish-shaped
+magnets in December 1993 and in about mid-December we completely abandoned
+any work on pursuing a dish-shaped magnet for a commercial product.
+        14. We conducted some additional experiments in which we
+successfully levitated a magnetic top above a flat 4-inch square ceramic
+magnet and by January 1994 we had proved to ourselves that stable levitation
+of a spinning magnetic top could be  accomplished with a normally magnetized
+flat base magnet with a square periphery, the only peripheral shape with
+which we had experimented.
+        15. In January-February 1994 I drafted an invention disclosure
+explaining our discovery and forwarded that disclosure to our patent
+attorneys in early February 1994 for preparation of a patent application.
+        16. The patent application for our invention was filed on February
+17, 1994 and issued on April 4, 1995 as U.S. Patent No. 5,404,062.
+        17. The claims of our patent distinguish our invention over the
+Harrigan patent by reciting that the base (first) magnet has a substantially
+planar first surface and is magnetized normal (perpendicular) to the first
+surface and parallel to the axis of the first magnet.
+        18. I have never met Roy Harrigan.  I spoke to him by phone on two
+occasions when he called me at my home to express his view that Bill Hones
+had "stolen" his patent.  I cannot recall with any certainty the dates on
+which those two calls occurred.  The first call was many weeks or perhaps
+months after our patent application was filed.  The second call occurred
+perhaps a year or more after the the first call.  Roy Harrigan did not
+participate with Bill Hones and me in the conception or reduction to
+practice of the invention disclosed and claimed in our U.S. Patent No.
+5,404,062.  I am not aware of any contribution whatsoever that Roy Harrigan
+made to the invention.  Therefore, I do not believe he is an inventor of
+that invention.
+        19. In my opinion, it would not have been commercially feasible to
+produce a toy or novelty item using the teachings of the Harrigan patent.  I
+believe that the invention conceived and reduced to practice by Bill Hones
+and me and described in our U.S. Patent No. 5,404,062 is the discovery that
+made it possible to commercialize the Levitron® anti-gravity levitating top.
+        
+Further, affiant sayeth not
+Date:       February 24, 1998                   [signature] Edward W. Hones
+
+
+        Sworn and subscribed to before me this 24 day of February 1998,
+State of New Mexico                             [signature] Pauli V. Lewman
+County of Los Alamos                                     Notary Public
+Commission Expires 07/28/01
+

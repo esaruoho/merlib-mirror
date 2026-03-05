@@ -1,0 +1,893 @@
+<html><body>
+OBSOLETE FILE
+
+Please see <a href="http://amasci.com/amateur/projs.html">http://amasci.com/amateur/projs.html</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+From King's School, Worcester UK
+http://www.ksw.org.uk/physics/1_curric/investigations/past_investigations.html
+http://www.ksw.org.uk/mind/physics.htm
+1999
+
+Titles of Investigation Reports which have produced high marks.
+
+     1 The factors causing variation in the attenuation of perspex.
+     
+     2 Flow of water over notches and weirs.
+     
+     3 Contraction of adjacent turns of a coil due to current through
+     them.
+     
+     4 Investigation of factors involved in flow of powders and
+     crystals.
+     
+     5 Investigation of light from a 1.5 V bulb and relative amounts
+     light of different wavelength from it.
+     
+     6 Load/speed variation of parachutes.
+     
+     7 Study of splashes.
+     
+     8 Behaviour of thyratrons under varying conditions.
+     
+     9 Corona discharge.
+     
+     10 Forced convection.
+     
+     11 Fibreglass joints.
+     
+     12 Araldite bonds.
+     
+     13 Audio percussion induced vibrations in metal rod.
+     
+     14 Creep in copper wire.
+     
+     15 Effect of shelving on breaking of waves.
+     
+     16 Strengthening of ice by sawdust.
+     
+     17 Aerodynamic forces on a motor car.
+     
+     18 A liquid flow meter.
+     
+     19 Piezo electric effect.
+     
+     20 Use of eddy currents for >n-destructive testing.
+     
+     21 A wind powered generator.
+     
+     22 The formation of a water tornado.
+     
+     23 Electrostatic particle precipitation.
+     
+     24 Water impact with a plane surface of water.
+     
+     25 Distribution of air-borne pollution.
+     
+     26 An electrical analogue for water flow through locks.
+     
+     27 Pouring - factors making the ideal spout.
+     
+     28 Construction and use of a variable-interval coincidence counter
+     for study of short-lived isotopes in a radioactive decay.
+     
+     29 Factors which might be involved in the hanging of a chain of
+     uniform mass/unit length.
+     
+     30 Smoke rings.
+     
+     31 The effect of different periods of short-circuiting on the rate
+     of recovery of a dry cell.
+     
+     32 Pressure/volume relationship of a rubber balloon.
+     
+     33 Behaviour of drops on a hot plate.
+     
+     34 Feasibility of solar energy.
+     
+     35 Optimum aperture of a pin-hole camera
+     
+     36 Absorption of microwaves.
+     
+     37 A study and analysis-of rotational vortices.
+     
+     38 The control of sound in rooms.
+     
+     39 The effect of internal pressure on the performance of a
+     football.
+     
+     40 Conductivity of electrolytes in wood.
+     
+     41 Absorption of liquids by filter paper.
+     
+     42 Shapes of water columns flowing from tops.
+     
+     43 Shaded magnetic probes.
+     
+     44 Ionisation of air and van de Graff generators.
+     
+     45 Design of an automatically operating burette.
+     
+     46 Use of a photo-sensitive device as a photometer and application
+     to light emitted from a light bulb.
+     
+     47 Energy stored in a clock spring.
+     
+     48 Investigation of cling wrapping: Why does it cling?
+     
+     49 The production of a pump using the movement of ions in a
+     magnetic field.
+     
+     50 Magnetic suspension.
+     
+     51 Temperature in a flame.
+     
+     52 Absorption of electromagnetic waves by glass,
+     
+     53 Motor and dynamo effects on conducting liquids.
+     
+     54 The sound of sea as heard in sea shell Is.
+     
+     55 Performance of a fan
+     
+     56 Lightening valve rocker arms to improve engine performance.
+     
+     57 Phase change in an induction motor.
+     
+     58 Fringes in draining soap Films.
+     
+     59 Heat pulse in a rod
+     
+     60 Hovercraft.
+     
+     61 Properties of foam plastic.
+     
+     62 The singing of a kettle.
+     
+     63 Acoustics of a large room
+     
+     64 Relationship between the wavelength and changing concentration
+     in a fluoresrcent substance
+     
+     65 Rotating shafts.
+     
+     66 Craters.
+     
+     67 @king an accelerometer.
+     
+     68 The shape of a drop.
+     
+     69 Holes in magnets.
+     
+     70 Oscillations of wire rings.
+     
+     71 Does a flame conduct electricity?
+     
+     72 Thermocouples using various metal junctions.
+     
+     73 Sound frequencies from metal plates.
+     
+     74 Quantitative transmission of radiant heat.
+     
+     75 Puncture properties of paper.
+     
+     76 Effusion of moving gases.
+     
+     77 Plastic properties of leather.
+     
+     78 Transmission of sound through water.
+     
+     79 Effect of pressure on a sparking plug.
+     
+     80 The settling rate of metallic particles.
+     
+     81 Investigation into electrostatic load speakers.
+     
+     82 The effect of shape on the efficiency of a rowing blade.
+     
+     83 Some physical properties of a brake fluid.
+     
+     84 comparison of the thrust of a propeller with its rate of
+     turning.
+     
+     85 To investigate the stream-lining of fish as related to their
+     passage through water.
+     
+     86 Measurement of capacitance using a monostable circuit.
+     
+     87 Strengthening ice by paper.
+     
+     88 Investigation of windmill design.
+     
+     89 Perfect perforations.
+     
+     90 Methods of using waves and tides to produce electricity; using
+     models in the laboratory.
+     
+     91 Harmonics in a guitar.
+     
+     92 Behaviour of bubbles rising in liquids.
+     
+     93 Beta-particie emission energy spectroscopy.
+     
+     94 Properties of aerial arrays.
+     
+     95 Variation in range of alpha -particles in air at low pressure.
+     
+     96 Does water absorb ultra-violet light?
+     
+     97 An experiment in the synthesis of speech.
+     
+     98 Nature of water vortices.
+     
+     99 Three-dimensional waves in jelly.
+     
+     100 Performance of a model diesel engine.
+     
+     101 Effect of wavelength on the angle of refraction of water
+     ripples.
+     
+     102 Dust and static as a problem with gramophone records.
+     
+     103 Multivibrator used as a motor speed control.
+     
+     104 A braking system using electromagnetic induction.
+     
+     105 Properties of a vibrating string using Lissajou's figures.
+     
+     106 Factors affecting the lift of an aerofoil.
+     
+     107 Magnetic amplifiers.
+     
+     108 The effect of a grid between two electrodes in partly ionic
+     medium.
+     
+     109 Back-scattering of beta particles.
+     
+     110 Strength and domain structure of magnets at different
+     temperatures.
+     
+     111 Hull design.
+     
+     112 Resonating laminas.
+     
+     113 Transmitting still pictures.
+     
+     114 interference produced by electric switches.
+     
+     115 Sound damping by Polythene.
+     
+     116 Fishing rod strike times.
+     
+     117 Path of a ball through air.
+     
+     118 The effect of the thickness of fibreglass logging in the
+     temperature distribution along a brass rod, heated at one end.
+     
+     119 Vibrating times of certain wires after being given initial
+     displacement.
+     
+     120 Electrostatic cooling.
+     
+     121 To investigate the effect of salt and sawdust on the
+     brittleness of ice.
+     
+     122 Absorption spectra of plant pigments.
+     
+     123 Pitch of xylophone bars.
+     
+     124 Flight of paper aeroplanes and aerodynamics involved.
+     
+     125 The catapult, methods of measuring efficiency.
+     
+     126 To show stress positions in sheets.
+     
+     127 Visibility of colour in the dark.
+     
+     128 The creep of lead.
+     
+     129 Use of a search coil to measure magnetic fields at high
+     Frequencies.
+     
+     130 Eddy current heating.
+     
+     131 properties of 4 ply wool which make it useful for woollen
+     garments.
+     
+     132 Some useful properties of nylon fabric.
+     
+     133 Strength of ice girders.
+     
+     134 Intensity of radiation from a GHz oscillator.
+     
+     135 Electronic feedback.
+     
+     136 Aeronautics of a fly,
+     
+     137 Load bearing properties of a spider's web.
+     
+     138 Minimising feedback in a microphone system.
+     
+     139 Analogue for polarising effect of hills etc on unpolarised UHF.
+     
+     140 Effect of electromagnetic waves on permittivity.
+     
+     141 Effect of smoke particles on the wavelength of sound.
+     
+     142 Design, operation and uses of spectrum analysis for musical
+     instruments.
+     
+     143 Frequency of vibrating warm liquid containers.
+     
+     144 A water trough as an accelerometer.
+     
+     145 Factors affecting the suitability of materials for use in
+     umbrellas.
+     
+     146 Viscosity of fluids in flywheel bearings.
+     
+     147 Potential variation in a tank of conducting liquid.
+     
+     148 How the mass of an air track vehicle affects its performance.
+     
+     149 Shapes and oscillations of soup bubbles.
+     
+     150 Creep in rubber.
+     
+     151 Support of a ball I in a jet.
+     
+     152 How long does the flash from a bulb last?
+     
+     153 Investigation of the behaviour of a commercial radiometer.
+     
+     154 Contact resistance.
+     
+     155 Switching speed of a toggle switch.
+     
+     156 Forces in the skin of a balloon.
+     
+     157 Schlieren photography.
+     
+     158 Capacitor microphone.
+     
+     159 Comparison of three loudspeakers.
+     
+     160 Electrical impulses in skin.
+     
+     161 The effect of different pitches on the overall performance of a
+     marine propeller.
+     
+     162 The velocity of particles from an 241-Am source.
+     
+     163 Efficiency of a 12 volt motor.
+     
+     164 A transistor as a zener diode.
+     
+     165 Efficiency of airscrews.
+     
+     166 The spiralling flight paths of various winged seeds.
+     
+     167 Electrical resistance of ice +water with salt added.
+     
+     168 Behaviour of wood under stress, strength and rigidity of
+     different beam and girder constructions.
+     
+     169 The dashpot method of damping.
+     
+     170 The electrical characteristics of a solar call.
+     
+     171 The behaviour of large waves in a narrow channel.
+     
+     172 Variation of friction with the relative velocity of two bodies
+     in contact.
+     
+     173 Variation of speed of a mechanical wave in a wire.
+     
+     174 Shattering of glass.
+     
+     175 Noise in a hot resistor.
+     
+     176 Restitution time of a steel ball on an iron surface.
+     
+     177 Paddle wheel performance.
+     
+     178 Effects of detergents an the reflection of light by cotton.
+     
+     179 Relationship between humidity and velocity of sound in air.
+     
+     180 Water rise up polymer threads.
+     
+     181 Acoustic properties of plastic forms.
+     
+     182 Intrinsic conduction of thermistors.
+     
+     183 Vibrating plates.
+     
+     184 Photoelectric effect in semiconductors.
+     
+     185 Effect of load on cells.
+     
+     186 The bursting of a balloon.
+     
+     187 Microwave for ranging and detection.
+     
+     188 Oscillations and deflection of model suspension bridge.
+     
+     189 Deflection of water droplets at high voltage.
+     
+     190 Effect of magnetic fields on electrolysis and semiconductors.
+     
+     191 Electrical weighing machine.
+     
+     192 Damping of oscillations in liquids.
+     
+     193 Efficiency of a fan belt.
+     
+     194 Finding the current in a floating aluminium ring.
+     
+     195 Venturi principle.
+     
+     196 Electromagnetic f lowmeter: using the Hall effect in liquids to
+     measure the velocity of ionic fluid througha tube.
+     
+     197 Investigation of sails.
+     
+     198 The thermoelectric effect in metal wire and foils.
+     
+     199 Action of salt on ice with reference to roads.
+     
+     200 Why do soap films burst ?
+     
+     201 The practicality of recharging dry cells.
+     
+     202 The effect of internal energy on stress/strain relation.
+     
+     203 Effects of a black and white disk producing colour.
+     
+     204 Ultra violet absorption by water.
+     
+     205 High velocity impacts in sand.
+     
+     206 Effects of concentration and temperature on conductance of a
+     solution.
+     
+     207 Effect of magnetic field on current flowing through a
+     thermionic diode.
+     
+     208 To find the best 'tap' to polish plate glass.
+     
+     209 Hall voltage in electrolysis.
+     
+     210 Characteristics of an LDR.
+     
+     211 Sedimentation.
+     
+     212 Bumping and bol I;ng.
+     
+     213 Efficiency of a water wheel.
+     
+     214 Adhesive properties of 'blu-tack'.
+     
+     215 Conductivity of damp wood.
+     
+     216 Friction reduction by oil and grease.
+     
+     217 Add-on multi-beam display unit for oscilloscope.
+     
+     218 Rotating liquid surfaces.
+     
+     219 Measuring forces electrically.
+     
+     220 Cross linkages in rubber.
+     
+     221 The physical characteristics of a system which measures
+     distance accurately using light interference.
+     
+     222 The flight properties of a shuttle cock,
+     
+     223 Rheological gel strength and other physical properties of
+     solutions of gums used in food industry.
+     
+     224 Polarisation of scattered light.
+     
+     225 Efficiency of a bow.
+     
+     226 Soil dispersion by falling water.
+     
+     227 Origins and forms of waves at interfaces.
+     
+     228 Construction of an air flow meter.
+     
+     229 Fresnel lenses for 3 cm waves.
+     
+     230 Paper clips.
+     
+     231 Resistivity and dislocations.
+     
+     232 Conductance through low pressure gas
+     
+     233 Forced oscillations in mechanical resonating systems.
+     
+     234 Electromagnetic clutch.
+     
+     235 Dam spillways.
+     
+     236 Physical efficiency of common surfactants.
+     
+     237 Factors affecting refractive index of liquids.
+     
+     238 Projecting drops from a nozzle.
+     
+     239 Functional properties of copper pipes on cooling.
+     
+     240 Absorption spectra of plant pigments.
+     
+     241 To make and use a photometer to investigate the luminous
+     intensity of a lamp.
+     
+     242 To try and find an ideal air track slider.
+     
+     243 Building and testing an electrostatic speaker.
+     
+     244 To find the best aerial design to give the strongest signal for
+     horizontally polarised radio wave reception.
+     
+     245 Crystal growth.
+     
+     246 The bouncing of relay contacts.
+     
+     247 Friction of shoe sales.
+     
+     248 The string telephone.
+     
+     249 Effect of cooling fins.
+     
+     250 Rate of condensation of water etc with an applied electric
+     field,
+     
+     251 Electronic tuning device for a guitar.
+     
+     252 Factors affecting the efficiency of infrared absorption.
+     
+     253 Properties of plastic cups.
+     
+     254 Cracks in glass rods.
+     
+     255 The effect of make up on ultra violet light.
+     
+     256 To study the effect of soaking in water on the tensile strength
+     of cartridge paper.
+     
+     257 The natural radioactivity of rocks.
+     
+     258 The effect on the rate of combustion of a material of on
+     electric field.
+     
+     259 Effect of liquids on the static bending of balsa wood -
+     
+     260 Temperature changes with depth in liquids and colloids when
+     heated.
+     
+     261 Factors affecting regulation.
+     
+     262 Motion of boats through narrow channels.
+     
+     263 Effect of solvents and papers on performance of chromatograms.
+     
+     264 Paper strip in an air stream.
+     
+     265 Absorption of radiation of heat from a surface.
+     
+     266 Lead cells.
+     
+     267 Particle cohesion.
+     
+     268 Thermopile efficiency.
+     
+     269 Lecher wires.
+     
+     270 Formation and bursting of soap bubbles.
+     
+     271 taking and testing a graphite strip microphone.
+     
+     272 Recombination time of ions.
+     
+     273 A relationship between thermal and electrical conductivities in
+     metals.
+     
+     274 Fog lamps.
+     
+     275 Power transmission efficiency of a cycle chain.
+     
+     276 Currents induced in ionic solutions moving
+     
+     277 Electrical properties in moist gycerol
+     
+     278 Liquid phase secondary coil in a transformer.
+     
+     279 The frequency response of dielectric materials in capacitors.
+     
+     280 Drainage of a vessel.
+     
+     281 Penetration effects of air gun pellets on plasticine and wood.
+     
+     282 Lubrication of graphite.
+     
+     283 Efficiency of GM tube.
+     
+     284 Producing a hologram.
+     
+     285 Hysteresis in rubber.
+     
+     286 Elastic properties of fishing line.
+     
+     287 The flow of water around a U-bend.
+     
+     288 The transmission reflection and absorption of ultraviolet light
+     by Polythene.
+     
+     289 Properties of a paste of flour and water.
+     
+     290 To investigate the factors affecting the !strength of a pillar.
+     
+     291 Analysis of a thermos flask.
+     
+     292 An investigation into the depth of focus of the eye.
+     
+     293 Factors affecting the bow waves produced by a boat.
+     
+     294 The effect of turbulation on model glider aerofoil performance.
+     
+     295 Factors affecting the playing speeds of a squash ball.
+     
+     296 Hot wire windspeed meter.
+     
+     297 The strength of plaster.
+     
+     298 Investigating P T F E.
+     
+     299 Corrosion and cathodic protection.
+     
+     300 Investigation of Moire fringes as of use in measuring.
+     
+     301 Fluid analogue of an electric current.
+     
+     302 Water shrinkage of tissue paper.
+     
+     303 The analysis and synthesis of musical sounds.
+     
+     304 An investigation of the diffusion of tea through teabags,
+     
+     305 The deflection of liquids passing through an electric field.
+     
+     306 Torque - r p m curve for a model diesel engine.
+     
+     307 Studying the effects of stretching different plant tissues.
+     
+     308 Stability of slopes.
+     
+     309 Linear motor.
+     
+     310 Hardness of pencils.
+     
+     311 Humidity switch.
+     
+     312 Forces on fences.
+     
+     313 Rupert's drops.
+     
+     314 Sea anchors.
+     
+     315 Paramagnetism.
+     
+     316 The forces between magnets.
+     
+     317 Is eye colour caused by scattering of light?
+     
+     318 Solders of various composition.
+     
+     319 Hysteresis in a transformer.
+     
+     320 The efficiency of cloud chambers.
+     
+     321 Factors affecting behaviour of sparks.
+     
+     322 Motion of elastic pendulum.
+     
+     323 The effect of reduced pressure upon ionisation currents in air.
+     
+     324 Factors affecting the production of uniform bubble rafts.
+     
+     325 Rate of deposition of particles from aqueous suspensions.
+     
+     326 Measurement of paper thickness.
+     
+     327 The velocities of selected ions in aqueous solution.
+     
+     328 Distribution of velocities of thermoelectrons.
+     
+     329 The formation of sand dunes.
+     
+     330 Water flow round obstructions.
+     
+     331 To construct an accelerometer.
+     
+     332 Nature of pencil lines.
+     
+     333 Polarising effects of sellotape.
+     
+     334 Life history of water drop.
+     
+     335 Effect of oil on evaporation of liquids.
+     
+     336 Energy loss in bounces.
+     
+     337 What causes flapping in flags?
+     
+     338 Strength of string.
+     
+     339 Accuracy of hand catapult.
+     
+     340 Molten metal into water.
+     
+     341 An investigation into photoelasticity.
+     
+     342 Resonance of wine glasses,
+     
+     343 Charge leakage from electroscope.
+     
+     344 Measurement of speed by Doppler effect.
+     
+     345 Metals - work hardening and heat treatment.
+     
+     346 Rings formed by running water on flat plates.
+     
+     347 Electrode potentials of period 4 transition metals.
+     
+     348 Evaluation of chalk/blackboard writing system.
+     
+     349 Reverberation time apparatus.
+     
+     350 Behaviour of ink drops in water.
+     
+     351 Efficiency of model racing car.
+     
+     352 Vibrations caused by an electric motor.
+     
+     353 Electrical resistance welding.
+     
+     354 Making and calibrating a strain gauge.
+     
+     355 Diffraction halos produced by small particles.
+     
+     356 Heat flow through crystals.
+     
+     357 The effect of twisting on 2 ply wool.
+     
+     358 Reduction of vibrations subjected upon equipment.
+     
+     359 Energy stored/efficiency of a clock.
+     
+     360 Resonance of metal rings.
+     
+     361 Production of diffraction gratings.
+     
+     362 Turbine blades.
+     
+     363 Refraction of a light beam through unstirred sugar solution.
+     
+     364 Construction and use of a chart recorder.
+     
+     365 Physical properties of hen's eggs.
+     
+     366 Electrical properties of silver deposited on glass slides.
+     
+     367 Millikan's experiment with smoke particles,
+     
+     368 Measurement of the vapour pressure of water at various
+     temperatures using microwaves.
+     
+     369 Feasibility of comparing abrasive characteristics by light
+     scatter.
+     
+     370 Application of Bernoulli's principle to design of chimney pots.
+     
+     371 Variation of light output and temperature of tungsten lamps as
+     a function of power input,
+     
+     372 Effect of electric fields on rate of evaporation of liquids.
+     
+     373 Mechanical properties of plastic sulphur.
+     
+     374 Potential drop method of crack characterisation.
+     
+     375 Optimum launching of flying discs.
+     
+     376 Uniplanor girder design.
+     
+     377 Apparatus to provide a constant force.
+     
+     378 Alpha particle absorption by gases.
+     
+     379 Self inductance of metal springs.
+     
+     380 The ways in which a glass rod transmits light.
+     
+     381 Transmission of light through perspex.
+     
+     382 Acoustic properties of a kettledrum.
+     
+     383 Strength of paper tissues.
+     
+     384 Velocity of ripples in a ripple tank.
+     
+     385 An Investigation into the optimum helicopter.
+     
+     386 Erosion of sand from base of piers.
+     
+     387 Efficiency and energy losses in a small steam engine.
+     
+     388 Vibration of rubber sheet.
+     
+     389 Factors affecting physical characteristics of plasticene.
+     
+     390 Concrete hydration.
+     
+     391 Contact resistance.
+     
+     392 Heat transfer in electric fields.
+     
+     393 Thixotropic substances.
+     
+     394 Slot effect in close hauled sailing.
+     
+     395 Soap foams.
+     
+     396 A water jet in the Earth's gravitational field.
+     
+     397 Efficiency of a rudder.
+     
+     398 Nail-wood bond.
+     
+     399 Brittleness of ice.
+     
+     400 Strengthening fire clay.
+     
+     401 Vibration of wire carrying AC current.
+     
+     402 Wind induced oscillations in lamina.
+     
+     403 An electrical method of detecting small movements and
+     vibrations
+     
+     404 Characteristics of a loudspeaker inside and outside of an
+     enclosure.
+     

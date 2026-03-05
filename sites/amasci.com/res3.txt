@@ -1,0 +1,130 @@
+                          Page 1 of 2
+WILLIAM J. BEATY                               Home:   206-789-0775
+7540 NW 20th Ave                               email: billbeskimo.com
+Seattle, WA 98117                              http://amasci.com/billb.html
+
+                  ELECTRICAL/SOFTWARE ENGINEER
+
+AREAS OF 
+EXPERTISE   
+
+   - Digital and Analog design
+   - Embedded design, embedded SW, drivers, interrupts
+   - Realtime programming in C and assembler
+   - Embedded HW:   Motorola 8-bit
+   - PCB Design, low noise layouts, Tango
+   - Extremely creative problem solving in HW, SW, Test, & Production
+   - Expert debugger in hw/sw, component level troubleshooting
+   - Qual test, production test planning
+   - Test equip: simulators, emulators, DSOs, rf
+   - High Voltage & electrostatic design, troubleshooting
+   - Optical design, 3D display tech.
+   - Technical Writer, Technical Trainer
+   - Internet developer, WWW
+   - Artist w/Freehand and Adobe Illustrator
+   - Proto machine shop: Lathe, bandsaw,drillpress,etc.
+   - Software Experience:
+	Languages: C, scripts, html, basic, ATE some C++/windows
+	Assembler: Hitachi, PIC16CXX, 65XX, moto 68XX, intel 808X, moto 68XXX
+	Art: Tango schem/pcb, Illustrator, Freehand, Paintshop
+	Misc: pSpice, EWB, Unix, Msdos, Win3.1
+
+EDUCATION 
+
+      UW Expr. College:   Internet CGI programming
+      UW Extension: Intro to C++
+      UW Extension: Programming MSWin 3.1 in C
+      NSCC: Intermediate C, Advanced C
+      MIT: Lab glassblowing
+      I.C.S.:   Unix,  C w/unix,     Motorola: 68000  HW, Assy lang.
+      BSEE, U of Rochester, NY
+
+
+
+
+
+
+                               Page 2 of 2                  WILLIAM J. BEATY
+1/98- pres  SOFTWARE ENGINEER, MICROSCAN SYSTEMS, RENTON WA
+
+    Embedded programming in C and assembler(Hitachi H8).  IrDA hardware
+    design and stack integration.  Porting assembly code to C.  Background
+    diagnostics, ESD/EMI interface design, scan mirror motion control
+    numerical simulations.
+
+11/93-12/97 OPTOELECTRONIC DESIGN ENGINEER,  EATON/CH SENSORS, EVERETT  WA
+    Project engineer in an ISO-9001 environment.  Designed embedded hw &
+    wrote embedded sw for PIC-based conveyor control sensor network
+    product.  FMECA, marg. analysis, etc.  Team lead on thru-beam sensor
+    redesign, add low noise shielded front end & solve multiple production
+    issues.  Redesign of proportional slot sensor for RF immunity.
+    Planned and implemented qual testing on thrubeam, wafer scanner, &
+    slot sensor projects.  Wrote motor control sw for wafer scanner
+    product R&D and qual testing.  Redesigned d ental lamp sensor for ESD
+    immunity. Conceived, designed, and built numerous fast-turn sensor
+    prototypes for new product proposals.  Training & experience in ISO
+    product development procedures, structured team problem solving,
+    corrective action procedures .  Internet trainer and website dev. 
+
+3/91-4/93 ELECTRICAL ENGINEER & CO-OWNER, TEKNOS INC. SEATTLE, WA  98103
+   Designed/fab many interactive science exhibit devices and controllers. 
+   Designed user interface hw for high-abuse environments.  Extensive
+   design and programming with Motorola 8-bit embedded controllers, hw
+   interfacing, assy. lang. routines for realtime high speed control, and
+   product/software tech writing. Embedded designs: Insect matching game
+   with scanned electrostatic prox sensors & light/sound control, "cannon
+   car"  physics demo w/motion control.  Designed hall-effect maglev
+   track, ramped-on-off projector lamp preserver, outreach electricity kit
+   with devices to make electricity flow visible.  Designed 100 KV Tesla
+   coil for commercial lightning photography.  Designed PC-based fiber
+   optic stepper motor shutter system.  Extensive use of digital and
+   analog design, PC interface, PCB design and CAD, desktop PCB fab,
+   component level debug, wire wrap.  Installed and repaired office
+   telephone system. 
+
+9/89-3/91   CONCEPTS FORMULATION,  DINAMATION INT'L INC., SEATTLE, WA
+   Designed robotic motion controls and interactive museum exhibits in
+   water physics, electricity, and light.  Designed and built PC
+   interfaces for robotic dinosaurs.  Wrote PC software for robot
+   sequencer programming and motion editing.  Designed and built the
+   computer, motion control, power, audio, drive subsystems, and equip.
+   enclosures for Giant Earthquake table exhibit, Giant Shark Robot, Giant
+   Whale Robot, interactive water fountain, "Frozen Water" LED strobe
+   fountain, and Rainbow Projector exhibits.  Designed electricity and
+   physics edu. products for Dinamation's school outreach programs.  Tech
+   writing: Created exhibit artwork, lables, and product manuals using
+   Adobe Illustrator, Word/Works.  PCB design and fab.  Debug & repair of
+   PCs & motion control. equipment. 
+
+OTHER WORK:
+
+ELECTRICAL ENGINEER,  MUSEUM OF SCIENCE,  BOSTON, MA 02114
+   Created numerous devices for exhibits on Robotics & A.I., Electricity &
+   Electronics, Chaos & Fractals, Newtonian Mechanics, 3-D Technology, and
+   Telephone Technology.  Extensive use of TTL, CMOS, and analog circuit
+   design and fabrication, triac power control, computer interfacing,
+   systems programming in assembler, AV Systems Integration, and pcb
+   design & fab. Systems programming of PC, Apple, Wang, and DG-Eclipse
+   computers.  Wrote numerous articles on explaining physics to the
+   public.  Wrote articles on physics misconceptions, gave lectures at
+   conventions, schools, and workshops.
+
+ELECTRONICS DEPT. HEAD,  MUSEUM OF SCIENCE,  BOSTON, MA 02114
+   Managed Electronics Dept. having three techs, one programmer.  Personal
+   work included electronics design and fab for new exhibits, exhibit
+   lighting, component level repair of electronic and mechanical exhibits,
+   debugging of video, audio, and computer systems.  Systems integration
+   and programming of computer-based map/data-base exhibit, RF-cued
+   PC-based theatrical lighting and sound control system.  Concepts,
+   design, and fab of numerous devices for an exhibit on electricity. 
+
+ELECTRICAL ENGINEER,  SYKES DATATRONICS,  ROCHESTER, NY 14617
+
+   Redesigned hw and wrote all embedded sw for "Callscan" hotel phoneline
+   monitor system.  Designed I/F modules and wrote sw for TRACE ATE
+   system.  Redesign of various proto PCBs.  Wrote EPROM monitor/debug
+   packages for several new products.  Wrote troubleshooting procedures
+   for installation manuals.  Wrote sw in assembler for Z-80, 6502, and
+   6809 processors.  Some Basic and Forth. 
+
+Page 2 of 2

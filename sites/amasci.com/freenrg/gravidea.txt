@@ -1,0 +1,187 @@
+Podkletnov Gravity Device                          Bill Beaty, 1/97
+ -------------------------
+
+(Spinning, levitated superconductor disk creates a vertical column
+ of reduced weight above itself)
+
+
+SUGGESTED TESTING:
+----------------------------------------------------------------
+
+Suspend the SC disk loosly, measure the strength of the effect, clamp the
+disk solidly to a tabletop, measure again.  If there is a large change, it
+suggests that mechanical vibration (120hz) is important.
+
+If force is a percent of the object's weight, then the force upon a
+massive object will be large.  Instead of applying force to a plastic
+paddle, apply it to a vertical glass rod.  Use steel or lead for greater
+effect. Hang two vertical rods rods from both ends of a horizontal beam
+having a fulcrum in the center.  Place the device under one rod.  Even a
+tiny percentage difference in weight will result in a large vertical
+force. 
+
+Place the device beneath a jar full of alcohol and aluminum powder.
+Are currents visible in the alcohol?
+
+Place it below a pan of water.  Bounce sunlight from the water's surface
+at a small, glancing angle, aim it onto a screen.  Is a "dimple"  observed
+in the expanse of reflected light shining on the screen?  For a sharper
+image, use true pointsource light such as a spread-out beam from a laser. 
+
+Fill the room with incense smoke.  Are air currents observed over
+the device?
+
+Quantitative measurements of the effect.  Use a solid state accelerometer
+to measure the decrease in gravity above the device.
+
+Convert the vertical gravity beam to AC to make certain measurements
+easier: place the entire apparatus on the edge of a horizontal disk such
+as a record player turntable, then spin the turntable.  The gravity beam
+might affect a microphone diaphragm then. Hold a microphone above the
+spinning turntable, amplify output and apply to headphones, probe the beam
+with microphone high above the disk.  Maybe look for phase lag in the beam
+high above the spinning disk, to detect whether the "gravity beam"
+propagates slowly.  Run the turntable at 500RPM.
+
+Measure the gravity field versus AC drive frequency, AC drive current,
+magnetic field direction through the HTSC disk, etc.
+
+Stack several thin disks, measure the gravity field versus net thickness
+of the superconductor.
+
+Are there any unexpected  biological effects?  Grow bacteria cultures
+in the beam, compare to controls.  Maintain mice in the beam, look for
+health effects.  Use plants as probes: monitor O2 output in small
+tissue samples, place the tissue in the beam, observe changes.
+
+How fast is onset of the effect?  Measure the force with a solid state
+accelerometer, turn the AC drive on and off, inspect the leading and
+trailing edges from the accelerometer.  Does the effect appear and
+vanish rapidly or slowly?  Does any of the AC drive signal get into
+the accelerometer output?
+
+Map the beam profile.  Mechanically raster-scan a tiny accelerometer
+through the beam, record and plot data.
+
+Check out the Hodowanec gravity detector on http://amasci.com/weird/const.html
+He claims that its output varies on a 24hr cycle, as if there was a
+*vertical beam* of sensitivity extending vertically from his device!
+
+Map the vertical beam profile.  Place the device at the bottom of a
+stairwell in a tall building.  Measure the gravity field over many
+hundreds of feet of vertical distance above the device.
+
+Are non-superconductors usable?  Use numerous materials in place of the
+HTSC disk, search for tiny gravity fields above the device.
+
+Use the accelerometer to observe the beam strength while the disk
+is heated and cooled through superconductive transistion.  Any
+odd effects?
+
+Make a delicately balanced "waterwheel", place the device under one side,
+does the wheel turn?
+
+Do objects above the device couple to the device?  Place vibrating mass
+above the device, search for vibrations in the device or in the currents
+in the coils driving it.  Allow the device to spin a wheel connected to a
+brake, search for resulting changes in the drive currents to the coil. 
+Place a massive weight above the device, manually jerk upwards on the
+weight.  If results are positive, it implies that the device can be used
+for 2-way communications with distant objects in the vertical beam. 
+
+Does AC magnet frequency make a difference?  Try from 0Hz to audio
+to RF to microwave, etc.
+
+Can a continuous non-moving version be built, rather than the present
+version requiring exposure to a PM?  Vary a superposed DC and an AC
+b-field applied to an HTSC disk and measure the gravity field above the
+device, look for good settings of the b-fields. 
+
+Try rotating the b-field at various orientations and frequencies using
+crossed coils and multiple-phase coil drive currents. 
+
+Any cosmic ray effects?  Check background count with the device on and
+with it off.
+
+Does the effect involve magnetism?  Explore the "beam" with a compass.
+
+Does it involve e-fields?  Test for their presence with an electrometer.
+
+Is time affected?  Beat two crystal oscillators against each
+other, place one of them in the beam, look for changes in the difference
+frequency.
+
+Changes in "c"?  Pass a laser beam horizontally above the device and
+look for tiny deflections.  Set up an interferometer, place the device
+beneath one beam path, observe the fringes on the screen, then activate
+the device and look for shifts in fringe phase.
+
+Continuously measure the characteristics of various electronic components,
+place them in the beam, note changes.
+
+Could geomagnetism cause a similar effect in rock layers?  If weight
+of objects changes constantly at a low level, how to measure?  Is
+this the source of "Taos Hum?"  Can hum-sensitive people stick their
+head in the beam and hear the 60hz modulation?
+
+What happens when astronomical objects pass through the beam?  E.g., 
+if the sun or moon crosses the local zenith, does it alter the weight
+decrease magnitude, or does it bend or spread the beam shape?
+
+The vertical beam is confusing.  If the disk is a gravity shield, it
+should create a penumbra, an image of the earth & iron core, not a
+vertical beam (unless earth has a black hole in the center!)  For example,
+will there be a separate beam from the disk associated with each planet
+and the sun, or do all the masses add together and simply cause deflection
+of the one vertical beam.  Use an accelerometer to search for secondary
+beams below the device, one associated with the shadow of the sun, moon,
+etc.  Or, search for slight deflection of the beam on a 24hr cycle, as the
+relative position of sun and moon are changed.
+
+If there are multiple beams below the disk (image of "gravity sky"), then
+mechanically scan the device in a raster (mount it on the rim of a
+spinning disk, move the disk along.)  Place a microphone or accelerometer
+below, record the output and paint a graphics screen with the raster,
+synched to the spinning disk.  Gravity telescope!
+
+Try the toroid experiment: poke a hole in the disk, see if it creates a
+beam of *non* reduced weight.  Make a big plate with a small hole? 
+Gravity-force pinhole camera?  
+
+Make a big plate with small AC coil, see how it affects the force profile
+of the beam.  Does waving a small coil under a large plate cause a small
+moving beam above the plate?
+
+
+*************************************************************************
+Other Ideas:
+
+Free energy: place the device under a vertical wheel, off center from the
+location of the axle, and the wheel should start to spin.  Connect the
+wheel to a generator.
+
+Water pump: Make a "U"-shaped pipe, position it upright, fill it with
+water, place the device under one side of the "U".
+
+Weather mod: the effect is essentially a beam of upwards vertical force.
+It should create a vertical atmospheric fountain and tornado, like
+"cavorite" in Jules Verne's "From the Earth to the Moon" story.
+
+Interfere with aircraft:  If a large plane flies through the beam, the
+sudden change in weight might be destructive.
+
+Giant loudspeaker:  If the effect can be modulated, then pipe audio
+to the device, and an enormous vertical column of the earth's atmosphere
+will vary in pressure and will function as a public address system.
+Place the device in a tall building and vibrate the structure to
+produce sound.
+
+Knock down geosync satellites.  A large device precisely positioned at
+the equator can apply a continuous force to a particular satellite.
+
+Fountain: place the device at the bottom of a large body of water,
+and the water above the device will thrust upwards.
+
+http://amasci.com/freenrg/gravidea.txt
+http://amasci.com/freenrg/antigrav.txt
+

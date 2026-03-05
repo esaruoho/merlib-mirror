@@ -1,0 +1,1918 @@
+From webhead-l-request@eskimo.com  Tue Dec  3 04:38:01 1996
+Received: (from smartlst@localhost) by mx1.eskimo.com (8.7.6/8.6.12) id EAA11108; Tue, 3 Dec 1996 04:20:54 -0800
+Resent-Date: Tue, 3 Dec 1996 04:20:54 -0800
+From: "ian" <ian@interactives.co.uk>
+To: <webhead-L@eskimo.com>
+Subject: The Vision Thing
+Date: Tue, 3 Dec 1996 12:19:20 -0000
+X-MSMail-Priority: Normal
+X-Priority: 3
+X-Mailer: Microsoft Internet Mail 4.70.1155
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+Message-Id: <12215370300122@interactives.co.uk>
+Resent-Message-ID: <"I4byr2.0.Rj2.bi1fo"@mx1>
+Resent-From: webhead-l@eskimo.com
+Reply-To: webhead-l@eskimo.com
+X-Mailing-List: <webhead-l@eskimo.com> archive/latest/112
+X-Loop: webhead-l@eskimo.com
+Precedence: list
+Resent-Sender: webhead-l-request@eskimo.com
+Status: RO
+X-Status: 
+
+>
+>        Have any of you been through a similar process of developing an
+>exhibit philosophy? I would love to hear your ideas and read your
+>statements and whattever other material you might be able to suggest. I
+>very much enjoyed the short discussion on attitdes vs. factoids.
+>(Unfortunately I only just read it as I was deep in exhibit crunch when it
+>was originally posted).
+>
+>Sincerely,
+>
+>Chabo
+>
+>____________________________________________________________
+>WISTEC                                                  |    Boats,
+Bridges
+>and Buildings
+>Willamette Science & Technology Center |    Building Bridges to Science
+>Voice (503) 687-3619                           |    May 4 - October 31
+>FAX (503) 484-9027                             |    Wed-Fri Noon - 5 PM
+>wistec@efn.org                                      |    Sat & Sun 11 AM -
+5 PM
+>
+
+I think it may have been I who started the discussion you mention. Our 
+Prime Minister, John Major, has referred to this as THE VISION THING.
+
+I have set out more of my views about this on the Interactive Science 
+Ltd Web site. Notice that our internet address has changed recently.
+
+http://www.interactives.co.uk
+
+Look especially at the section entitled BUT ARE THEY LEARNING ANYTHING?
+
+----
+
+Ian Russell
+ian@interactives.co.uk
+Interactive Science Ltd, UK
+http://www.interactives.co.uk
+
+From webhead-l-request@eskimo.com  Fri Dec  6 08:30:28 1996
+Received: (from smartlst@localhost) by mx1.eskimo.com (8.7.6/8.6.12) id HAA11823; Fri, 6 Dec 1996 07:59:20 -0800
+Resent-Date: Fri, 6 Dec 1996 07:59:20 -0800
+Date: Fri, 6 Dec 1996 07:58:09 -0800 (PST)
+From: William Beaty <billbeskimo.com>
+Reply-To: William Beaty <billbeskimo.com>
+To: PLBReg@aol.com
+cc: webhead-l@eskimo.com
+Subject: Re: Boise Idaho children's museum
+In-Reply-To: <961206092609_232361614@emout11.mail.aol.com>
+Message-ID: <Pine.SUN.3.95.961206075209.6101B-100000@eskimo.com>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Resent-Message-ID: <"EnC7D3.0.gu2.NB4go"@mx1>
+Resent-From: webhead-l@eskimo.com
+X-Mailing-List: <webhead-l@eskimo.com> archive/latest/113
+X-Loop: webhead-l@eskimo.com
+Precedence: list
+Resent-Sender: webhead-l-request@eskimo.com
+Status: RO
+X-Status: 
+
+On Fri, 6 Dec 1996 PLBReg@aol.com wrote:
+
+> Hi
+> 
+> I got a call from Maltbie associates, interactive builder for museums and
+> they want to get hold of the builder of the acoustical Lens (CO2 balloon in a
+> box) that this museum has.  Do you know anyone at that museum or who built
+> it.
+
+I think it is in the Exploratorium Cookbooks somewhere.  There must be a
+better way to do this than with a weather balloon.  Perhaps a couple of
+mylar sheets attached to large rings?  The mylar would pass less CO2, and
+maybe could be sealed well enough that the exhibit could be refilled
+yearly, rather than require a continuous bleed from a CO2 source.
+
+Other thoughts: Once you have a sound-lens, you can build a sound-camera.
+Spinning disk covered with microphones, amplifiers, and LEDs should do the
+trick.  See the book by Winston Kock called SEEING SOUND for a 1950s
+version of this.
+
+.....................uuuu / oo \ uuuu........,.............................
+William Beaty  voice:206-781-3320   bbs:206-789-0775    cserv:71241,3623
+EE/Programmer/Science exhibit designer        http://amasci.com/
+Seattle, WA 98117  billbeskimo.com           SCIENCE HOBBYIST web page
+
+
+
+From webhead-l-request@eskimo.com  Fri Dec  6 11:14:50 1996
+Received: (from smartlst@localhost) by mx1.eskimo.com (8.7.6/8.6.12) id KAA05647; Fri, 6 Dec 1996 10:32:52 -0800
+Resent-Date: Fri, 6 Dec 1996 10:32:52 -0800
+Date: Fri, 6 Dec 1996 10:13:09 -0700 (MST)
+From: Joseph M Ruggiero <jmr@GAS.UUG.Arizona.EDU>
+To: William Beaty <billbeskimo.com>
+cc: PLBReg@aol.com, webhead-l@eskimo.com
+Subject: Re: Boise Idaho children's museum
+In-Reply-To: <Pine.SUN.3.95.961206075209.6101B-100000@eskimo.com>
+Message-ID: <Pine.SOL.3.91.961206095137.19348B-100000@helium.gas.uug.arizona.edu>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Resent-Message-ID: <"skBk02.0.tN1.HR6go"@mx1>
+Resent-From: webhead-l@eskimo.com
+Reply-To: webhead-l@eskimo.com
+X-Mailing-List: <webhead-l@eskimo.com> archive/latest/114
+X-Loop: webhead-l@eskimo.com
+Precedence: list
+Resent-Sender: webhead-l-request@eskimo.com
+Status: RO
+X-Status: 
+
+
+Bill Molina, formally of the Exploratorium, works at the Idaho Discovery 
+Center in Boise. He's a great guy (don't tell him I said that). Give him 
+a call. I'm sure he'll be happy to offer any assistance he can.
+
+Joe R
+Flandrau Science Center, Tucson
+
+On Fri, 6 Dec 1996, William Beaty wrote:
+
+> On Fri, 6 Dec 1996 PLBReg@aol.com wrote:
+> 
+> > Hi
+> > 
+> > I got a call from Maltbie associates, interactive builder for museums and
+> > they want to get hold of the builder of the acoustical Lens (CO2 balloon in a
+> > box) that this museum has.  Do you know anyone at that museum or who built
+> > it.
+> 
+> I think it is in the Exploratorium Cookbooks somewhere.  There must be a
+> better way to do this than with a weather balloon.  Perhaps a couple of
+> mylar sheets attached to large rings?  The mylar would pass less CO2, and
+> maybe could be sealed well enough that the exhibit could be refilled
+> yearly, rather than require a continuous bleed from a CO2 source.
+> 
+> Other thoughts: Once you have a sound-lens, you can build a sound-camera.
+> Spinning disk covered with microphones, amplifiers, and LEDs should do the
+> trick.  See the book by Winston Koch(sp?) called SEEING SOUND for a 1950s
+> version of this.
+> 
+> .....................uuuu / oo \ uuuu........,.............................
+> William Beaty  voice:206-781-3320   bbs:206-789-0775    cserv:71241,3623
+> EE/Programmer/Science exhibit designer        http://amasci.com/
+> Seattle, WA 98117  billbeskimo.com           SCIENCE HOBBYIST web page
+> 
+> 
+> 
+> 
+
+From webhead-l-request@eskimo.com  Sat Dec  7 17:00:06 1996
+Received: (from smartlst@localhost) by mx1.eskimo.com (8.7.6/8.6.12) id QAA16396; Sat, 7 Dec 1996 16:53:53 -0800
+Resent-Date: Sat, 7 Dec 1996 16:53:53 -0800
+Date: Sat, 7 Dec 1996 16:52:25 -0800 (PST)
+From: William Beaty <billbeskimo.com>
+To: webhead-l@eskimo.com
+Subject: Re: Air tight sealing of Mylar (fwd)
+Message-ID: <Pine.SUN.3.95.961207165221.8906U-100000@eskimo.com>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Resent-Message-ID: <"Ch0Ia.0.704.W6Xgo"@mx1>
+Resent-From: webhead-l@eskimo.com
+Reply-To: webhead-l@eskimo.com
+X-Mailing-List: <webhead-l@eskimo.com> archive/latest/115
+X-Loop: webhead-l@eskimo.com
+Precedence: list
+Resent-Sender: webhead-l-request@eskimo.com
+Status: RO
+X-Status: 
+
+
+
+.....................uuuu / oo \ uuuu........,.............................
+William Beaty  voice:206-781-3320   bbs:206-789-0775    cserv:71241,3623
+EE/Programmer/Science exhibit designer        http://amasci.com/
+Seattle, WA 98117  billbeskimo.com           SCIENCE HOBBYIST web page
+
+
+---------- Forwarded message ----------
+Date: Sat, 7 Dec 1996 16:51:57 -0800 (PST)
+From: William Beaty <billbeskimo.com>
+To: Ken Hodor <khodor@ix.netcom.com>
+Subject: Re: Air tight sealing of Mylar
+
+On Sat, 7 Dec 1996, Ken Hodor wrote:
+
+> Hi Bill,
+> 
+> Surfing the net I found you appear to have experience with
+> sealing mylar.  What do you use to bond mylar.  Everything
+> I have tried falls apart, much less become air tight.
+
+I haven't made long-term seals for permanent museum exhibits, just for
+prototypes. Silicone caulk and clamping the mylar sheet between masonite
+rings seemed to work OK.  This was for an air-pressure variable focus
+mirror demo.  But does silicone peel off eventually? 
+
+.....................uuuu / oo \ uuuu........,.............................
+William Beaty  voice:206-781-3320   bbs:206-789-0775    cserv:71241,3623
+EE/Programmer/Science exhibit designer        http://amasci.com/
+Seattle, WA 98117  billbeskimo.com           SCIENCE HOBBYIST web page
+
+
+
+From webhead-l-request@eskimo.com  Sat Dec  7 17:14:09 1996
+Received: (from smartlst@localhost) by mx1.eskimo.com (8.7.6/8.6.12) id RAA19113; Sat, 7 Dec 1996 17:11:10 -0800
+Resent-Date: Sat, 7 Dec 1996 17:11:10 -0800
+Message-Id: <199612080112.TAA01861@intellisys.net>
+X-Sender: inet@intellisys.net
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Date: Sat, 07 Dec 1996 19:09:45 -0600
+To: webhead-l@eskimo.com
+From: inet@intellisys.net (brian whatcott)
+Subject: Re: Boise Idaho children's museum
+Cc: PLBReg@aol.com, webhead-l@eskimo.com
+X-Mailer: <PC Eudora Version 1.4>
+Resent-Message-ID: <"9hHdk3.0.Yg4.iMXgo"@mx1>
+Resent-From: webhead-l@eskimo.com
+Reply-To: webhead-l@eskimo.com
+X-Mailing-List: <webhead-l@eskimo.com> archive/latest/116
+X-Loop: webhead-l@eskimo.com
+Precedence: list
+Resent-Sender: webhead-l-request@eskimo.com
+Status: RO
+X-Status: 
+
+At 10:13 AM 12/6/96,  Bill Beaty wrote:
+>
+>>....  There must be a
+>> better way to do this than with a weather balloon.  Perhaps a couple of
+>> mylar sheets attached to large rings?  The mylar would pass less CO2, and
+>> maybe could be sealed well enough that the exhibit could be refilled
+>> yearly, rather than require a continuous bleed from a CO2 source.
+>> 
+> William Beaty 
+
+I browsed the databook for other candidates.
+Using  root(sp heat ratio/density) as the selection criterion...
+
+Air                        1.04
+Argon                  0.97
+CO2                      0.8
+CO                        1.06
+Helium                 3
+Hydrogen           3.95
+Methane              1.35
+Sulphur dioxide  0.65
+
+Looks like hydrogen or helium would perform with a concave membrane
+and sulphur dioxide with a convex membrane.
+ But only helium looks innocuous.
+
+Regards
+brian whatcott <inet@intellisys.net>
+Altus OK
+
+From webhead-l-request@eskimo.com  Sat Dec  7 18:02:42 1996
+Received: (from smartlst@localhost) by mx1.eskimo.com (8.7.6/8.6.12) id RAA25195; Sat, 7 Dec 1996 17:59:04 -0800
+Resent-Date: Sat, 7 Dec 1996 17:59:04 -0800
+X-Sender: palmer@popserver.sfu.ca
+Message-Id: <v01540b08aecfce15969d@[142.58.125.49]>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Date: Sat, 7 Dec 1996 17:46:21 -0800
+To: webhead-l@eskimo.com
+From: palmer@sfu.ca (Leigh Palmer)
+Subject: Re: Boise Idaho children's museum
+Resent-Message-ID: <"A8gGo.0.U96.b3Ygo"@mx1>
+Resent-From: webhead-l@eskimo.com
+Reply-To: webhead-l@eskimo.com
+X-Mailing-List: <webhead-l@eskimo.com> archive/latest/117
+X-Loop: webhead-l@eskimo.com
+Precedence: list
+Resent-Sender: webhead-l-request@eskimo.com
+Status: RO
+X-Status: 
+
+...and, dare I say it? There's always the Freons. I once filled a
+kettle drum with Freon, back before that was considered an ecocrime.
+
+Leigh
+
+
+From webhead-l-request@eskimo.com  Sat Dec  7 18:04:56 1996
+Received: (from smartlst@localhost) by mx1.eskimo.com (8.7.6/8.6.12) id SAA25449; Sat, 7 Dec 1996 18:00:28 -0800
+Resent-Date: Sat, 7 Dec 1996 18:00:28 -0800
+X-Sender: palmer@popserver.sfu.ca
+Message-Id: <v01540b07aecfcb2be712@[142.58.125.49]>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Date: Sat, 7 Dec 1996 17:43:16 -0800
+To: webhead-l@eskimo.com
+From: palmer@sfu.ca (Leigh Palmer)
+Subject: Re: Boise Idaho children's museum
+Resent-Message-ID: <"FrPst2.0.WD6.x4Ygo"@mx1>
+Resent-From: webhead-l@eskimo.com
+Reply-To: webhead-l@eskimo.com
+X-Mailing-List: <webhead-l@eskimo.com> archive/latest/118
+X-Loop: webhead-l@eskimo.com
+Precedence: list
+Resent-Sender: webhead-l-request@eskimo.com
+Status: RO
+X-Status: 
+
+>Looks like hydrogen or helium would perform with a concave membrane
+>and sulphur dioxide with a convex membrane.
+> But only helium looks innocuous.
+
+How about SF6? SF6 was used in some high end electrostatic speakers
+at one time. It would probably work in rather modest quantities
+compared to some of the other suggestions made. If you really want
+to go all out with noninnocuous gases, and if you are willing to run
+a bit warm, try  UF6. That should work well!
+
+Leigh
+
+
+From webhead-l-request@eskimo.com  Sat Dec 14 00:40:56 1996
+Received: (from smartlst@localhost) by mx1.eskimo.com (8.7.6/8.6.12) id AAA13026; Sat, 14 Dec 1996 00:38:21 -0800
+Resent-Date: Sat, 14 Dec 1996 00:38:21 -0800
+Message-Id: <9612141152.AA04421@aftab.neda.net.ir>
+From: parsa@neda.net (Ali Parsa)
+To: webhead-l@eskimo.com
+Date: Sat, 14 Dec 1996 06:46:15 -0500
+Subject:       Free-fall Simulator
+Reply-To: parsa@neda.net
+Priority: normal
+X-Mailer:     Pegasus Mail v3.1 (R1a)
+Resent-Message-ID: <"fDJcl1.0.TB3.xTcio"@mx1>
+Resent-From: webhead-l@eskimo.com
+X-Mailing-List: <webhead-l@eskimo.com> archive/latest/119
+X-Loop: webhead-l@eskimo.com
+Precedence: list
+Resent-Sender: webhead-l-request@eskimo.com
+Status: RO
+X-Status: 
+
+
+Hello Science Museres,
+
+We plan to build a free-fall simulator, essentially consisting of a 
+powerful fan which sends a large and strong enough stream of air 
+vertically upward. The visitor will float on this stream, same as the 
+free fall parashooters behave in the air.
+
+Any information/experiences to share? 
+
+Ali Parsa
+Director
+Zirakzadeh Science Foundation
+
+email: parsa@neda.net          Tel: +98 21 878-9270
+                               Fax: +98 21 646-2613
+
+From webhead-l-request@eskimo.com  Sat Dec 14 07:10:02 1996
+Received: (from smartlst@localhost) by mx1.eskimo.com (8.7.6/8.6.12) id HAA20036; Sat, 14 Dec 1996 07:07:05 -0800
+Resent-Date: Sat, 14 Dec 1996 07:07:05 -0800
+Date: Sat, 14 Dec 1996 10:06:59 -0500 (EST)
+From: frederick a stewart <catbird@world.std.com>
+To: webhead-l@eskimo.com
+Subject: Lens Source?
+Message-Id: <Pine.SGI.3.93.961214100405.3618B-100000@world.std.com>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Resent-Message-ID: <"ZD38r3.0.-u4.OAiio"@mx1>
+Resent-From: webhead-l@eskimo.com
+Reply-To: webhead-l@eskimo.com
+X-Mailing-List: <webhead-l@eskimo.com> archive/latest/120
+X-Loop: webhead-l@eskimo.com
+Precedence: list
+Resent-Sender: webhead-l-request@eskimo.com
+Status: RO
+X-Status: A
+
+
+Howdy,
+
+ I am looking for a cheap source of lenses for experiments in
+focusing light beams. Does anyone know of a mail order outfit or perhaps a
+toy with many lenses? Edmund Scientific is no help, all the lenses are
+much to expensive.
+
+Thanks,
+ Fred Stewart
+
+
+From webhead-l-request@eskimo.com  Sun Dec 15 18:06:35 1996
+Received: (from smartlst@localhost) by mx1.eskimo.com (8.7.6/8.6.12) id RAA31293; Sun, 15 Dec 1996 17:31:13 -0800
+Resent-Date: Sun, 15 Dec 1996 17:31:13 -0800
+Message-Id: <199612160130.TAA01831@intellisys.net>
+X-Sender: inet@intellisys.net
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Date: Sun, 15 Dec 1996 19:29:46 -0600
+To: parsa@neda.net, webhead-l@eskimo.com
+From: inet@intellisys.net (brian whatcott)
+Subject: Re: Free-fall Simulator
+X-Mailer: <PC Eudora Version 1.4>
+Resent-Message-ID: <"pR71d3.0.2e7.8PAjo"@mx1>
+Resent-From: webhead-l@eskimo.com
+Reply-To: webhead-l@eskimo.com
+X-Mailing-List: <webhead-l@eskimo.com> archive/latest/122
+X-Loop: webhead-l@eskimo.com
+Precedence: list
+Resent-Sender: webhead-l-request@eskimo.com
+Status: RO
+X-Status: 
+
+At 06:46 AM 12/14/96 -0500, parsa@neda.net wrote:
+>
+>We plan to build a free-fall simulator, essentially consisting of a 
+>powerful fan which sends a large and strong enough stream of air 
+>vertically upward. The visitor will float on this stream, same as the 
+>free fall parashooters behave in the air.
+>
+>Any information/experiences to share? 
+>
+>Ali Parsa
+>
+
+There are several operating in Canada and US but I don't have contact details.
+As I recall, the example in Montreal uses a hefty radial aeroengine and prop.
+ It would be good to get in touch with them, I'd think.
+
+Regards
+brian whatcott <inet@intellisys.net>
+Altus OK
+
+From webhead-l-request@eskimo.com  Mon Dec 16 07:27:44 1996
+Received: (from smartlst@localhost) by mx1.eskimo.com (8.7.6/8.6.12) id KAA05278; Sun, 15 Dec 1996 10:16:20 -0800
+Resent-Date: Sun, 15 Dec 1996 10:16:20 -0800
+Message-ID: <32B40E1F.6779@ix.netcom.com>
+Date: Sun, 15 Dec 1996 10:41:35 -0400
+From: brian holton <briholt@ix.netcom.com>
+Reply-To: briholt@ix.netcom.com
+X-Mailer: Mozilla 2.0 (Macintosh; I; PPC)
+MIME-Version: 1.0
+To: webhead-l@eskimo.com
+Subject: Re: Lens Source?
+References: <Pine.SGI.3.93.961214100405.3618B-100000@world.std.com>
+Content-Type: text/plain; charset=us-ascii
+Content-Transfer-Encoding: 7bit
+Resent-Message-ID: <"xRnkU1.0.WF1.E14jo"@mx1>
+Resent-From: webhead-l@eskimo.com
+X-Mailing-List: <webhead-l@eskimo.com> archive/latest/121
+X-Loop: webhead-l@eskimo.com
+Precedence: list
+Resent-Sender: webhead-l-request@eskimo.com
+Status: RO
+X-Status: 
+
+Hi Fred, in reference to lenses (converging):
+
+Edmund is expensive from the catalog, although there are some lenses in 
+the catalog of lower quality (that are fine) for cheap.  Edmund is not 
+far from me, so I go down to their store every now and again.  Almost 
+always they have lenses in their surplus area for REALLY cheap - like 
+$2.00 a bag of 6 or ten or whatever.  But, you can't be fussy if you're 
+not there to pick them out.  You might try calling the store - not the 
+mail order number - and ask what they have in surplus.  I have found the 
+store personnel to be extremely friendly.
+
+They've got some of the BIG lenses from old projection TV's, but they 
+are about $30.  Great for projecting oscilloscope images.
+
+Another option is to get some magnifying glasses from one of your 
+store's (if you are a museum) vendors.  You can get good quality acrylic 
+magnifying lenses for about 50 cents wholesale.  Science and Nature has 
+3" diameter magnifying glasses for 0.85 wholesale and 1.75 diameter for 
+about 50 cents each wholesale.  These are fairly good quality for 
+acrylics.  Of course, you can't specify a focal length.
+
+For focusing laser diodes, I have used plastic lenses from those instant 
+throw-away cameras.  You can get them free from the local film 
+developer.  Again, the focal length is what it is, and the diameter is 
+very small.
+
+For assortments, I would go to Edmunds surplus (call) and for lots of 
+the same, I would get the magnifying glasses. 
+
+Hope this helps.
+
+Brian Holton
+
+From webhead-l-request@eskimo.com  Mon Dec 16 07:38:44 1996
+Received: (from smartlst@localhost) by mx1.eskimo.com (8.7.6/8.6.12) id HAA00894; Mon, 16 Dec 1996 07:25:51 -0800
+Resent-Date: Mon, 16 Dec 1996 07:25:51 -0800
+Message-Id: <199612161528.JAA00361@gonzo.sci.mus.mn.us>
+X-Sender: copes@mail.sci.mus.mn.us
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Date: Mon, 16 Dec 1996 09:32:40 -0600
+To: webhead-l@eskimo.com
+From: copes@sci.mus.mn.us (Jane Snell Copes)
+Subject: Re: Lens Source?
+Resent-Message-ID: <"9zhc92.0.vD.-dMjo"@mx1>
+Resent-From: webhead-l@eskimo.com
+Reply-To: webhead-l@eskimo.com
+X-Mailing-List: <webhead-l@eskimo.com> archive/latest/123
+X-Loop: webhead-l@eskimo.com
+Precedence: list
+Resent-Sender: webhead-l-request@eskimo.com
+Status: RO
+X-Status: 
+
+
+> I am looking for a cheap source of lenses for experiments in
+>focusing light beams. Does anyone know of a mail order outfit or perhaps a
+>toy with many lenses? Edmund Scientific is no help, all the lenses are
+>much to expensive.
+>Thanks,
+> Fred Stewart
+
+The Optic Wonder is the best!  It is a plastic thing with two large and two
+small lenses, a mirror, and a compass; a new improved version has even more
+stuff.  Lots of museum stores have them.
+        Depending on where you're located, you may be able to get lenses
+from projectors at a surplus store, or an otherwise broken projector at a
+thrift shop.  Your school district audio-visual department may have a bone
+yard of projector and microscope parts.  Page magnifiers are positive
+Fresnel lenses, a few $ each.
+        Delta Education 800-442-5444 has some inexpensive lenses and often
+has discounts on packages of 10 or 30.  Central Scientific 800-262-3626 has
+a good selection and better prices than Edmund.
+        How about water (or other liquid) lenses?  Clear plastic or glass
+containers with different curvatures can magnify but also project an image.
+ See if a university chemistry department near you would donate some
+glassware; often they are scaling down their laboratory experiments and
+have surplus. 
+        An Exploratorium book Called Bending Light by Pat Murphy (1993) has
+ideas for ice lenses, jello lenses, and more.
+        Can you use pinholes?  
+
+good luck!  Jane
+
+Jane Snell Copes
+Scientist-in-Residence
+Edgerton Explorit Center   http://hamilton.net/aurora/city/edgerton.htm
+208 16th Street
+Aurora, NE  68818
+phone 402-694-4032; FAX 4035
+
+
+From webhead-l-request@eskimo.com  Mon Dec 16 08:56:44 1996
+Received: (from smartlst@localhost) by mx1.eskimo.com (8.7.6/8.6.12) id IAA22106; Mon, 16 Dec 1996 08:48:56 -0800
+Resent-Date: Mon, 16 Dec 1996 08:48:56 -0800
+Date: Mon, 16 Dec 1996 08:47:40 -0800 (PST)
+From: William Beaty <billbeskimo.com>
+To: webhead-l@eskimo.com
+Subject: Re: Lens Source?
+In-Reply-To: <Pine.SGI.3.93.961214100405.3618B-100000@world.std.com>
+Message-ID: <Pine.SUN.3.95.961216084446.27098C-100000@eskimo.com>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Resent-Message-ID: <"7ltFT1.0.MO5.grNjo"@mx1>
+Resent-From: webhead-l@eskimo.com
+Reply-To: webhead-l@eskimo.com
+X-Mailing-List: <webhead-l@eskimo.com> archive/latest/124
+X-Loop: webhead-l@eskimo.com
+Precedence: list
+Resent-Sender: webhead-l-request@eskimo.com
+Status: RO
+X-Status: 
+
+On Sat, 14 Dec 1996, frederick a stewart wrote:
+
+> 
+> Howdy,
+> 
+>  I am looking for a cheap source of lenses for experiments in
+> focusing light beams. Does anyone know of a mail order outfit or perhaps a
+> toy with many lenses? Edmund Scientific is no help, all the lenses are
+> much to expensive.
+> 
+
+American Science and Surplus has very inexpensive lenses, but sometimes
+they are sold out.  Their addr is in my list of mail order suppliers,
+http://amasci.com/supliers.html
+
+This from my AMATEUR SCIENCE page:
+
+
+OSA has a classroom optics kit for $16. It contains:
+3 nice plastic lenses (2+,1-)
+1 fresnel lens
+2 polarizers
+1 plastic optical fiber
+1 mylar mirror
+6 2" color gel filters (C,Y,M,R,G,,B)
+optical illusion slide
+diffraction grating
+
+The kits are available from;
+
+Optical Society of America
+2010 Massachusetts Ave, NW
+Washington,  DC  20036-1023
+(202) 416-1960 FAX=(202) 416-6130
+
+(Thanks to: S. Anderson)
+
+
+.....................uuuu / oo \ uuuu........,..............................
+William Beaty  voice:206-781-3320   bbs:206-789-0775    cserv:71241,3623
+EE/Programmer/Science exhibit designer        http://amasci.com/
+Seattle, WA 98117  billbeskimo.com           SCIENCE HOBBYIST web page
+
+
+From webhead-l-request@eskimo.com  Mon Dec 16 09:38:48 1996
+Received: (from smartlst@localhost) by mx1.eskimo.com (8.7.6/8.6.12) id JAA00601; Mon, 16 Dec 1996 09:29:50 -0800
+Resent-Date: Mon, 16 Dec 1996 09:29:50 -0800
+Date: Mon, 16 Dec 1996 09:29:27 -0800 (PST)
+Message-Id: <v01530501aeda2aa74508@[206.250.113.77]>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+To: webhead-l@eskimo.com
+From: hhinners@earthlink.net (Hans)
+Subject: Re: Free-fall Simulator
+Resent-Message-ID: <"uNvY83.0.y8.CSOjo"@mx1>
+Resent-From: webhead-l@eskimo.com
+Reply-To: webhead-l@eskimo.com
+X-Mailing-List: <webhead-l@eskimo.com> archive/latest/125
+X-Loop: webhead-l@eskimo.com
+Precedence: list
+Resent-Sender: webhead-l-request@eskimo.com
+Status: RO
+X-Status: 
+
+Hi Ali and All,
+
+They had one of these in Las Vegas when I was growing up called 'Fly Away'.
+I never went on it but, my 8th grade math teacher did.  And he ended up
+dislocating his shoulder - not a happy camper about either.
+
+My $0.02 worth
+
+Hans
+
+
+On: Sat, 14 Dec 1996 Ali Parsa wrote:
+>We plan to build a free-fall simulator, essentially consisting of a
+>powerful fan which sends a large and strong enough stream of air
+>vertically upward. The visitor will float on this stream, same as the
+>free fall parashooters behave in the air.
+>
+>Any information/experiences to share?
+
+"In space, no one can hear you scream...
+ unless it is the battle cry of the United States Marines!"
+                Sgt. Major Bougus, Space: Above and Beyond
+~~~~~~~~~~~~~~
+Hans Hinners    hhinners@earthlink.net
+California Museum of Science and Industry
+Exposition Park, Los Angeles
+Tele: (213) 744 - 2504    FAX: (213) 744 - 2034
+http://lausd.k12.ca.us/~hhinner/   - a work in progress
+~~~~~~~~~~~~~~
+Opinions expressed are not necessarily shared by the CMSI.
+
+
+From webhead-l-request@eskimo.com  Tue Dec 17 09:54:05 1996
+Received: (from smartlst@localhost) by mx1.eskimo.com (8.7.6/8.6.12) id JAA14502; Tue, 17 Dec 1996 09:26:57 -0800
+Resent-Date: Tue, 17 Dec 1996 09:26:57 -0800
+Date: Tue, 17 Dec 1996 10:19:34 -0700 (MST)
+From: Joseph M Ruggiero <jmr@GAS.UUG.Arizona.EDU>
+To: Ali Parsa <parsa@neda.net>
+cc: webhead-l@eskimo.com
+Subject: Re: Free-fall Simulator
+In-Reply-To: <9612141152.AA04421@aftab.neda.net.ir>
+Message-ID: <Pine.SOL.3.91.961217101831.22773A-100000@helium.gas.uug.arizona.edu>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Resent-Message-ID: <"_Vxdc2.0.RY3.VVjjo"@mx1>
+Resent-From: webhead-l@eskimo.com
+Reply-To: webhead-l@eskimo.com
+X-Mailing-List: <webhead-l@eskimo.com> archive/latest/126
+X-Loop: webhead-l@eskimo.com
+Precedence: list
+Resent-Sender: webhead-l-request@eskimo.com
+Status: RO
+X-Status: 
+
+Ali,
+
+This sounds really dangerous - but neat! Sends us info when you get it 
+all worked out.
+
+Joe R
+
+Flandrau Science Center
+
+From webhead-l-request@eskimo.com  Tue Dec 17 11:03:10 1996
+Received: (from smartlst@localhost) by mx1.eskimo.com (8.7.6/8.6.12) id KAA02112; Tue, 17 Dec 1996 10:38:43 -0800
+Resent-Date: Tue, 17 Dec 1996 10:38:43 -0800
+From: parsa@neda.net (Ali Parsa)
+To: webhead-l@eskimo.com
+Date: Tue, 17 Dec 1996 16:01:51 -0500
+Subject:       Re: Free-fall Simulator
+Reply-To: parsa@neda.net
+Priority: normal
+X-Mailer:     Pegasus Mail v3.1 (R1a)
+Message-Id: <10AAE9456A8@gateway.neda.net.ir>
+Resent-Message-ID: <"nswv71.0.xW.oYkjo"@mx1>
+Resent-From: webhead-l@eskimo.com
+X-Mailing-List: <webhead-l@eskimo.com> archive/latest/127
+X-Loop: webhead-l@eskimo.com
+Precedence: list
+Resent-Sender: webhead-l-request@eskimo.com
+Status: RO
+X-Status: A
+
+
+Ok, I repent, I repent.
+
+After not receiving a single encouraging message on the subject, I 
+decided to moth-ball the idea of building a 'Human Bernoulli Ball'.
+
+Most responses cited these reasons for not building:
+
+- It's dangerous.
+- It's expensive. 
+- The insurance costs will be high.
+- It's not appropriate for a science museum/center.
+
+Besides, some of you correctly pointed out that this is not a free 
+fall simulator. I should have used 'free fall' (in quotes), to denote 
+that I am using the parachutists' jargon. I said I repent.
+
+My thanks to all who responded: Dr. Karl I. Trappe, Brian 
+Holton, Leigh Palmer, Brian Whatcott, and Hans Hinners.
+
+Ali Parsa
+
+email: parsa@neda.net          Tel: +98 21 878-9270
+                               Fax: +98 21 646-2613
+
+From webhead-l-request@eskimo.com  Tue Dec 17 19:08:39 1996
+Received: (from smartlst@localhost) by mx1.eskimo.com (8.7.6/8.6.12) id SAA04469; Tue, 17 Dec 1996 18:50:34 -0800
+Resent-Date: Tue, 17 Dec 1996 18:50:34 -0800
+Date: Tue, 17 Dec 1996 18:46:35 -0800 (PST)
+From: William Beaty <billbeskimo.com>
+To: Ali Parsa <parsa@neda.net>
+cc: webhead-l@eskimo.com
+Subject: Re: Free-fall Simulator
+In-Reply-To: <10AAE9456A8@gateway.neda.net.ir>
+Message-ID: <Pine.SUN.3.95.961217180217.28113B-100000@eskimo.com>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Resent-Message-ID: <"MP7ER.0._31.kkrjo"@mx1>
+Resent-From: webhead-l@eskimo.com
+Reply-To: webhead-l@eskimo.com
+X-Mailing-List: <webhead-l@eskimo.com> archive/latest/128
+X-Loop: webhead-l@eskimo.com
+Precedence: list
+Resent-Sender: webhead-l-request@eskimo.com
+Status: RO
+X-Status: 
+
+On Tue, 17 Dec 1996, Ali Parsa wrote:
+
+> 
+> Ok, I repent, I repent.
+> 
+> After not receiving a single encouraging message on the subject, I 
+> decided to moth-ball the idea of building a 'Human Bernoulli Ball'.
+
+Here's one from my unused ideas collection.  I kept coming up with
+additions to the basic idea over the years, and I fear it has become a bit
+large as an exhibit. 
+
+ZERO GRAVITY
+
+One old method of creating lunar gravity is to lay yourself in a sling
+which hangs from a long cable.  Lay horizontally in the sling and stand
+upon a nearby wall.  If the wall is moved towards you until the force on
+your feet is 1/6 your earthbound weight, you've got lunar gravity.
+
+My idea is similar.  Get rid of the cable and swing, instead lay on your
+back on a wheeled "garage creeper"; on some sort of low wooden plate
+having casters.  If the floor is tilted, you will roll to the wall, and
+you can then stand upon the wall as if it were the floor, but with reduced
+"weight."  Better: Place mirrors on the ceiling so you can see yourself
+standing in this enviroment, then add cues to the walls of the room to
+suggest that the wall you stand on *is* the floor, the wall above your
+head is the ceiling, etc.  For example, put a rug on the floor-wall, put
+light fixtures on the ceiling wall, put sideways clocks, pictures,
+furniture, wall outlets, etc., on the other walls.  The overall illusion
+is that you are standing on a floor, watching yourself in a wall-sized
+mirror, and a mysterious force is sticking you to the wall behind you.
+Jump into the air and you slide along the "wall", but with reduced (or
+possibly zero) weight.  I've never tried setting this up, but I suspect
+the illusion would be pretty powerful & fun to experience.
+
+_____________________________________   <---- Mirrors
+||                                  ||
+||                           I      ||
+||  /                        I======|| <-- Sideways furniture
+||)                          I      ||
+||  \                        I======||
+||                           I      ||
+||                                  ||
+||                                  ||
+||                                  ||
+ ---------_________       ()HHHnnnl ||  <--- Person on back, on wheeled
+                  ---------_________||       "creeper"
+
+More!  If this illusion-room had no tilt, it would simulate free fall. 
+Various gentle tilts would simulate your weight on Moon, asteroids, etc. A
+room with a gentle concave floor and a huge central vertical cylinder
+would simulate the radial g-field of an asteroid (the cylinder being the
+surface of the asteroid, the tilted floor would slide you towards the
+central cylinder.)  But how would anyone get off the cylinder?  (Serious
+problem, equivalent to mankind getting off the earth.)  Maybe climb up a
+ladder and exit through the perimeter, through the "sky?"  Maybe build a
+semi-circular room rather than a complete circle, visitors exit by
+climbing into a "hole" in the "asteroid"?  Of course decorate the floor
+and walls with star-filled space, the cylinder with rock texture.
+
+                                                       Mirror ceiling
+                                                     / 
+____________________________________________________V___________
+                     |         |                                 |
+                     |         |                                 |
+                     |         |                                 |
+                     |         |                                 |
+                     |         |                                 |
+                     |         |                                 |
+_____       ()HHHnnnl|         |lnnnHHH()       ________--------
+     --------________|_________|________--------
+
+             People standing on 'asteroid' cylinder
+             laying on gentle-sloped gravity well floor
+
+I imagine building an entire "gravity world" with a maze of explorable 0-G
+rooms decorated as the inside of a transport plane (the NASA "vomit
+comet"), or with space scenes, or as someone's bedroom (but with visitors
+weightless or standing on the ceiling.)  Imagine an accurate full-scale
+space shuttle, but with visitors sliding around in free fall inside,
+pushing through hatches to play in the main bay, etc. 
+
+The "garage creepers" would need very low-friction swivel casters, padding
+surrounding your head, articulated segments supporting your arms and legs,
+different sizes for different people or adjustable parts, etc. 
+
+.....................uuuu / oo \ uuuu........,.............................
+William Beaty  voice:206-781-3320   bbs:206-789-0775    cserv:71241,3623
+EE/Programmer/Science exhibit designer        http://amasci.com/
+Seattle, WA 98117  billbeskimo.com           SCIENCE HOBBYIST web page
+
+
+From webhead-l-request@eskimo.com  Wed Dec 18 10:04:56 1996
+Received: (from smartlst@localhost) by mx1.eskimo.com (8.7.6/8.6.12) id JAA32584; Wed, 18 Dec 1996 09:55:42 -0800
+Resent-Date: Wed, 18 Dec 1996 09:55:42 -0800
+Date: Wed, 18 Dec 1996 09:53:58 -0800 (PST)
+Message-Id: <v01530501aedcd4baee13@[207.217.3.128]>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+To: webhead-l@eskimo.com
+From: hhinners@earthlink.net (Hans)
+Subject: Re: Free-fall Simulator - Don't feel bad
+Resent-Message-ID: <"X9wor3.0.2z7.T03ko"@mx1>
+Resent-From: webhead-l@eskimo.com
+Reply-To: webhead-l@eskimo.com
+X-Mailing-List: <webhead-l@eskimo.com> archive/latest/129
+X-Loop: webhead-l@eskimo.com
+Precedence: list
+Resent-Sender: webhead-l-request@eskimo.com
+Status: RO
+X-Status: 
+
+Hey Ali,
+
+I wouldn't feel too bad . . .
+
+Our Aerospace Curator gets a few calls every year from parents who want to
+rent the 'zero gravity chamber' for their kid's birthday.  (They have seen
+in the movies and on television so it must exist.) - No lie.
+
+Later,
+
+Hans
+
+PS.  Maybe you can rent one of those things.
+
+"In space, no one can hear you scream...
+ unless it is the battle cry of the United States Marines!"
+                Sgt. Major Bougus, Space: Above and Beyond
+~~~~~~~~~~~~~~
+Hans Hinners    hhinners@earthlink.net
+California Museum of Science and Industry
+Exposition Park, Los Angeles
+Tele: (213) 744 - 2504    FAX: (213) 744 - 2034
+http://lausd.k12.ca.us/~hhinner/   - a work in progress
+~~~~~~~~~~~~~~
+Opinions expressed are not necessarily shared by the CMSI.
+
+
+From webhead-l-request@eskimo.com  Wed Dec 18 12:59:22 1996
+Received: (from smartlst@localhost) by mx1.eskimo.com (8.7.6/8.6.12) id MAA06121; Wed, 18 Dec 1996 12:53:59 -0800
+Resent-Date: Wed, 18 Dec 1996 12:53:59 -0800
+From: seichner@mail.astc.org
+Date: Wed, 18 Dec 96 15:53:19 EST
+Message-Id: <9611188509.AA850954322@mail.astc.org>
+To: webhead-l@eskimo.com
+Subject: Free-fall Simulator 
+Resent-Message-ID: <"ON81a3.0.OV1.ad5ko"@mx1>
+Resent-From: webhead-l@eskimo.com
+Reply-To: webhead-l@eskimo.com
+X-Mailing-List: <webhead-l@eskimo.com> archive/latest/130
+X-Loop: webhead-l@eskimo.com
+Precedence: list
+Resent-Sender: webhead-l-request@eskimo.com
+Status: RO
+X-Status: 
+
+     
+     
+     There is a device/opportunity like the one you suggest in College 
+     Station, Texas (of all places). I don't know the name of the company, 
+     but I do know the area code is (409). The number of the Convention and 
+     Visitors' Bureau is (409)260-9898, toll-free at (800)777-8292.
+     
+     Hope this helps!
+     
+     
+     -Steve
+     
+     Steve Eichner
+     Research Analyst
+     Association of Science-Technology Centers
+     seichner@astc.org 
+
+From webhead-l-request@eskimo.com  Wed Dec 18 15:10:05 1996
+Received: (from smartlst@localhost) by mx1.eskimo.com (8.7.6/8.6.12) id OAA31695; Wed, 18 Dec 1996 14:46:25 -0800
+Resent-Date: Wed, 18 Dec 1996 14:46:25 -0800
+Message-ID: <6903B832817937D9@output.com>
+Date:  Wed, 18 Dec 96 14:44:02 
+From: Paul Paroff <PP@output.com>
+Sender: pp@output.com
+To: webhead-l@eskimo.com
+Subject: Re: Free-fall Simulator 
+X-Mailer: UGate [Ver. 2.02]
+MIME-Version: 1.0
+Content-Type: text/plain; charset=US-ASCII
+Content-Transfer-Encoding: 7bit
+Resent-Message-ID: <"x_9eo3.0.Al7._G7ko"@mx1>
+Resent-From: webhead-l@eskimo.com
+Reply-To: webhead-l@eskimo.com
+X-Mailing-List: <webhead-l@eskimo.com> archive/latest/131
+X-Loop: webhead-l@eskimo.com
+Precedence: list
+Resent-Sender: webhead-l-request@eskimo.com
+Status: RO
+X-Status: 
+
+
+I am told by an associate that there is such a beast in Las Vegas. It 
+is a room which has the engine from a DC-3 blowing up through the
+floor. Customers don a special suit and act like Bernoulli balls, 
+one at a time. Unfortunately I have no other details other than it's 
+location.
+
+Paul Paroff
+Children's Museum of Spokane
+pp@output.com
+
+Live long and prosper.
+
+From webhead-l-request@eskimo.com  Wed Dec 18 15:22:00 1996
+Received: (from smartlst@localhost) by mx1.eskimo.com (8.7.6/8.6.12) id PAA05980; Wed, 18 Dec 1996 15:17:29 -0800
+Resent-Date: Wed, 18 Dec 1996 15:17:29 -0800
+Date: Wed, 18 Dec 1996 16:10:04 -0700 (MST)
+From: Joseph M Ruggiero <jmr@GAS.UUG.Arizona.EDU>
+To: webhead-l@eskimo.com
+Subject: Re: Free-fall Simulator 
+In-Reply-To: <6903B832817937D9@output.com>
+Message-ID: <Pine.SOL.3.91.961218160833.18812C-100000@helium.gas.uug.arizona.edu>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Resent-Message-ID: <"suoQ1.0.HT1.6k7ko"@mx1>
+Resent-From: webhead-l@eskimo.com
+Reply-To: webhead-l@eskimo.com
+X-Mailing-List: <webhead-l@eskimo.com> archive/latest/132
+X-Loop: webhead-l@eskimo.com
+Precedence: list
+Resent-Sender: webhead-l-request@eskimo.com
+Status: RO
+X-Status: 
+
+
+
+On Wed, 18 Dec 1996, Paul Paroff wrote:
+
+> 
+> I am told by an associate that there is such a beast in Las Vegas. It 
+> is a room which has the engine from a DC-3 blowing up through the
+> floor. Customers don a special suit and act like Bernoulli balls, 
+> one at a time. Unfortunately I have no other details other than it's 
+> location.
+> 
+> Paul Paroff
+> Children's Museum of Spokane
+> pp@output.com
+> 
+> Live long and prosper.
+> 
+> 
+Las Vegas, eh?
+
+Go ahead Ali, take the gamble. Sounds cool, jumping into the blades of a 
+DC 3 engine. What a thrill!
+
+JoeR
+
+From webhead-l-request@eskimo.com  Wed Dec 18 15:50:41 1996
+Received: (from smartlst@localhost) by mx1.eskimo.com (8.7.6/8.6.12) id PAA12149; Wed, 18 Dec 1996 15:48:14 -0800
+Resent-Date: Wed, 18 Dec 1996 15:48:14 -0800
+X-Sender: palmer@popserver.sfu.ca
+Message-Id: <v01540b0baede3309def7@[142.58.250.53]>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Date: Wed, 18 Dec 1996 15:48:06 -0800
+To: webhead-l@eskimo.com
+From: palmer@sfu.ca (Leigh Palmer)
+Subject: Re: Free-fall Simulator
+Resent-Message-ID: <"F5S0_3.0.lz2.zA8ko"@mx1>
+Resent-From: webhead-l@eskimo.com
+Reply-To: webhead-l@eskimo.com
+X-Mailing-List: <webhead-l@eskimo.com> archive/latest/133
+X-Loop: webhead-l@eskimo.com
+Precedence: list
+Resent-Sender: webhead-l-request@eskimo.com
+Status: RO
+X-Status: 
+
+>I am told by an associate that there is such a beast in Las Vegas. It
+>is a room which has the engine from a DC-3 blowing up through the
+>floor. Customers don a special suit and act like Bernoulli balls,
+>one at a time. Unfortunately I have no other details other than it's
+>location.
+
+In Las Vegas I'd expect they'd be allowed to go naked in pairs.
+
+Leigh
+
+
+From webhead-l-request@eskimo.com  Wed Dec 18 16:20:43 1996
+Received: (from smartlst@localhost) by mx1.eskimo.com (8.7.6/8.6.12) id QAA18224; Wed, 18 Dec 1996 16:17:17 -0800
+Resent-Date: Wed, 18 Dec 1996 16:17:17 -0800
+Date: Wed, 18 Dec 1996 16:15:32 -0800 (PST)
+Message-Id: <v01530504aedd2a19f696@[207.217.3.128]>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+To: webhead-l@eskimo.com
+From: hhinners@earthlink.net (Hans)
+Subject: Re: Free-fall Simulator -> Leigh Ha
+Resent-Message-ID: <"DhevO.0.ZS4.Ac8ko"@mx1>
+Resent-From: webhead-l@eskimo.com
+Reply-To: webhead-l@eskimo.com
+X-Mailing-List: <webhead-l@eskimo.com> archive/latest/134
+X-Loop: webhead-l@eskimo.com
+Precedence: list
+Resent-Sender: webhead-l-request@eskimo.com
+Status: RO
+X-Status: 
+
+Hey Hey Hey Leigh,
+
+I'd expect that from SF. ;-O <mock gasp>
+
+But it does bring new meaning to the phrase 'sports injury' if anything
+went wrong.  How would you explain it to the folks back home? . . . hurt
+skiing.
+
+We did have a swinging hotel for a year or so called the Polynesian but, it
+died real quick.  It's the San Remo BTW, next to the Trop.
+
+Vegas is family oriented now.  We have Dolphins, White Tigers, a Pyramid, a
+Castle, a Volcano, Naval Ship battles,the Stratosphere (Sky Needle) and
+buffets galore (the Rio's the Best!).  Even the Nevada Test Site has a new
+role as an Environmental Testing Lab.
+
+In Fun,
+
+Hans
+
+"In space, no one can hear you scream...
+ unless it is the battle cry of the United States Marines!"
+                Sgt. Major Bougus, Space: Above and Beyond
+~~~~~~~~~~~~~~
+Hans Hinners    hhinners@earthlink.net
+California Museum of Science and Industry
+Exposition Park, Los Angeles
+Tele: (213) 744 - 2504    FAX: (213) 744 - 2034
+http://lausd.k12.ca.us/~hhinner/   - a work in progress
+~~~~~~~~~~~~~~
+Opinions expressed are not necessarily shared by the CMSI.
+
+
+From webhead-l-request@eskimo.com  Wed Dec 18 17:44:17 1996
+Received: (from smartlst@localhost) by mx1.eskimo.com (8.7.6/8.6.12) id RAA05060; Wed, 18 Dec 1996 17:40:00 -0800
+Resent-Date: Wed, 18 Dec 1996 17:40:00 -0800
+From: "ian" <ian@interactives.co.uk>
+To: <webhead-L@eskimo.com>
+Subject: re: Free-fall simulator: don't give up yet!
+Date: Thu, 19 Dec 1996 01:38:02 -0000
+X-MSMail-Priority: Normal
+X-Priority: 3
+X-Mailer: Microsoft Internet Mail 4.70.1155
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+Message-Id: <01410625000602@interactives.co.uk>
+Resent-Message-ID: <"LFoOQ2.0.-E1.lp9ko"@mx1>
+Resent-From: webhead-l@eskimo.com
+Reply-To: webhead-l@eskimo.com
+X-Mailing-List: <webhead-l@eskimo.com> archive/latest/135
+X-Loop: webhead-l@eskimo.com
+Precedence: list
+Resent-Sender: webhead-l-request@eskimo.com
+Status: RO
+X-Status: 
+
+
+This is much too stimulating an idea to be abandoned apologetically merely
+because its DANGEROUS.
+
+Let's at least scale it down a bit to use, say, an Action Man doll hovering
+in a slightly tapered, clear-sided plastic tube above a honeycomb-type
+turbulence remover.
+
+Users of this fully interactive exhibit could vary the air velocity and
+also manually adjust the critical pose of the doll's arms and legs in order
+to achieve stability and prevent tumbling. I promise you that people are
+going to love it.
+
+But wait. Let's not be sexist about this. We must offer a choice: Action
+Man or Barbie. 
+
+Or Ken.
+
+The mind begins to boggle. What ARE Barbie's aerodynamic characteristics?
+We have to know.
+
+And should she wear a Barbie helmet or the wedding gown with silver sequins
+and accessories?
+
+Humans sky-dive face-down because of the relative strength and weakness of
+specific arm muscles, but these dolls may well fly better on their backs.
+That might suit Barbie but would look a bit undignified for Action Man.
+
+I've just got to see this. The toy manufacturers will surely sponsor it.
+
+And when the all those miniature free-fall simulators, pink flying suits
+and matching helmets hit the toy shops next Christmas, just remember me in
+the royalty pay-outs. You saw the idea here first.
+
+
+Ian Russell
+ian@interactives.co.uk
+Interactive Science Ltd, UK
+http://www.interactives.co.uk
+
+From webhead-l-request@eskimo.com  Thu Dec 19 09:27:00 1996
+Received: (from smartlst@localhost) by mx1.eskimo.com (8.7.6/8.6.12) id JAA18521; Thu, 19 Dec 1996 09:23:05 -0800
+Resent-Date: Thu, 19 Dec 1996 09:23:05 -0800
+Date: Thu, 19 Dec 1996 11:24:47 -0600
+X-Sender: pforber@mail.sci.mus.mn.us
+Message-Id: <v01520d00aeded463543f@[204.221.39.32]>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+To: webhead-l@eskimo.com
+From: pforber@sci.mus.mn.us (Patricia Hall Forber)
+Subject: re:  Not the freefall simulator (can you believe it?)
+Resent-Message-ID: <"S03kF2.0.GX4.udNko"@mx1>
+Resent-From: webhead-l@eskimo.com
+Reply-To: webhead-l@eskimo.com
+X-Mailing-List: <webhead-l@eskimo.com> archive/latest/136
+X-Loop: webhead-l@eskimo.com
+Precedence: list
+Resent-Sender: webhead-l-request@eskimo.com
+Status: RO
+X-Status: 
+
+To change the subject a little from aerodynamic Barbies...
+We are currently looking for any ideas on presenting biomedical and
+healthcare ethics in an exhibit component.  We are planning a lot of other
+programatic approaches, but are looking for ways to stimulate discussions
+besides the conventional "What do you think?" computer model where you vote
+and are presented with the outcomes of previous visitors votes.  Any ideas?
+Suggestions?
+
+By all means, continue the Barbie debate, I need a good laugh!
+
+Patricia Hall Forber
+Human Biology
+Science Museum of Minnesota
+(612)221-9428
+
+
+From webhead-l-request@eskimo.com  Thu Dec 19 11:49:32 1996
+Received: (from smartlst@localhost) by mx1.eskimo.com (8.7.6/8.6.12) id LAA18500; Thu, 19 Dec 1996 11:42:59 -0800
+Resent-Date: Thu, 19 Dec 1996 11:42:59 -0800
+Date: Thu, 19 Dec 1996 11:42:45 -0800 (PST)
+Message-Id: <v01530500aede39ed993f@[207.217.3.128]>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+To: webhead-l@eskimo.com
+From: hhinners@earthlink.net (Hans)
+Subject: Biomed (was re:  Not the freefall simulator (can you believe it?)}
+Resent-Message-ID: <"XlEPo1.0.zW4.3hPko"@mx1>
+Resent-From: webhead-l@eskimo.com
+Reply-To: webhead-l@eskimo.com
+X-Mailing-List: <webhead-l@eskimo.com> archive/latest/137
+X-Loop: webhead-l@eskimo.com
+Precedence: list
+Resent-Sender: webhead-l-request@eskimo.com
+Status: RO
+X-Status: 
+
+Hi Patricia et. al.,
+
+Have you looked at the Tom Synder Productions stuff yet?  They do
+educational technology curriculum (as well as Dr. Katz on Comedy Central).
+
+Not that I would necessarily recommend it as is but, for the brainstorming
+value.
+
+I remember one of the three Minds on Science programs covering medical
+ethics - you are a scientist who has done a drug study with mice which
+shows improved memory.  You might even be able to develop it into a
+treatment for Alzheimer's patients!
+
+The kids pick their priorities and rank them (this is for a classroom
+remember).  You then get one of three choices and each one of these leads
+to one of two choices.  At the end you find out how well you achieved your
+goals.
+
+The biggest problem I had with them is that a real person would get to do
+all the choices.  The choices for this program were something like write a
+paper (with or without another really famous scientist), start your own
+company and try to develop the drug yourself (or continue working in a
+University) or tell the public in press conference or at a Scientific
+Conference (ie. to disclose your discovery or hang onto it for the patent).
+
+They will ship a teacher pack to ed. folks like us (it does use a laser
+disc BTW).  The telephone # is (800) 342 - 0236 and they are based out of
+MA.
+
+This kind of approach obviously could work well in either as a computer or
+a maze exhibit or as a workshop.
+
+Another Minds on Science program lets you choose genetic research as a
+national priority and then you get to decide whether it is human or food
+genetics that should be emphasized.  They have alot of fun with that one -
+the same 7-8 people protesting for both sides etc.
+
+Check it out!
+
+Hans
+
+"In space, no one can hear you scream...
+ unless it is the battle cry of the United States Marines!"
+                Sgt. Major Bougus, Space: Above and Beyond
+~~~~~~~~~~~~~~
+Hans Hinners    hhinners@earthlink.net
+California Museum of Science and Industry
+Exposition Park, Los Angeles
+Tele: (213) 744 - 2504    FAX: (213) 744 - 2034
+http://lausd.k12.ca.us/~hhinner/   - a work in progress
+~~~~~~~~~~~~~~
+Opinions expressed are not necessarily shared by the CMSI.
+
+
+From webhead-l-request@eskimo.com  Thu Dec 19 12:29:54 1996
+Received: (from smartlst@localhost) by mx1.eskimo.com (8.7.6/8.6.12) id MAA30054; Thu, 19 Dec 1996 12:25:34 -0800
+Resent-Date: Thu, 19 Dec 1996 12:25:34 -0800
+Date: Thu, 19 Dec 1996 13:18:18 -0700 (MST)
+From: Joseph M Ruggiero <jmr@GAS.UUG.Arizona.EDU>
+To: webhead-l@eskimo.com
+cc: webhead-L@eskimo.com
+Subject: re: Free-fall simulator: don't give up yet!
+In-Reply-To: <01410625000602@interactives.co.uk>
+Message-ID: <Pine.SOL.3.91.961219131335.10380A-100000@helium.gas.uug.arizona.edu>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Resent-Message-ID: <"9ggak2.0.RL7.zIQko"@mx1>
+Resent-From: webhead-l@eskimo.com
+Reply-To: webhead-l@eskimo.com
+X-Mailing-List: <webhead-l@eskimo.com> archive/latest/138
+X-Loop: webhead-l@eskimo.com
+Precedence: list
+Resent-Sender: webhead-l-request@eskimo.com
+Status: RO
+X-Status: 
+
+Ian,
+
+I like your idea to do this in some scaled down way. However, I think 
+that a 'Freefall' Barbie would be a problem. Being inanimate, she would 
+be unable to make the subtle corrections that would be needed to maintain 
+her attitude (not her pychological attitude of course, which she 
+maintains through all kinds of hard times.) Perhaps a fluffy cat would 
+work well.
+
+On Thu, 19 Dec 1996, ian wrote:
+
+> 
+> This is much too stimulating an idea to be abandoned apologetically merely
+> because its DANGEROUS.
+> 
+> Let's at least scale it down a bit to use, say, an Action Man doll hovering
+> in a slightly tapered, clear-sided plastic tube above a honeycomb-type
+> turbulence remover.
+> 
+> Users of this fully interactive exhibit could vary the air velocity and
+> also manually adjust the critical pose of the doll's arms and legs in order
+> to achieve stability and prevent tumbling. I promise you that people are
+> going to love it.
+> 
+> But wait. Let's not be sexist about this. We must offer a choice: Action
+> Man or Barbie. 
+> 
+> Or Ken.
+> 
+> The mind begins to boggle. What ARE Barbie's aerodynamic characteristics?
+> We have to know.
+> 
+> And should she wear a Barbie helmet or the wedding gown with silver sequins
+> and accessories?
+> 
+> Humans sky-dive face-down because of the relative strength and weakness of
+> specific arm muscles, but these dolls may well fly better on their backs.
+> That might suit Barbie but would look a bit undignified for Action Man.
+> 
+> I've just got to see this. The toy manufacturers will surely sponsor it.
+> 
+> And when the all those miniature free-fall simulators, pink flying suits
+> and matching helmets hit the toy shops next Christmas, just remember me in
+> the royalty pay-outs. You saw the idea here first.
+> 
+> 
+> Ian Russell
+> ian@interactives.co.uk
+> Interactive Science Ltd, UK
+> http://www.interactives.co.uk
+> 
+> 
+
+From webhead-l-request@eskimo.com  Thu Dec 19 13:27:57 1996
+Received: (from smartlst@localhost) by mx1.eskimo.com (8.7.6/8.6.12) id NAA04677; Thu, 19 Dec 1996 13:08:42 -0800
+Resent-Date: Thu, 19 Dec 1996 13:08:42 -0800
+Date: Thu, 19 Dec 1996 14:08:48 -0700 (MST)
+From: "Daniel L. MacIsaac" <Dan.MacIsaac@nau.edu>
+Subject: Re: Free-fall simulator: don't give up yet!
+In-reply-to: <no.id@NAUVAX.UCC.NAU.EDU>
+To: webhead-l@eskimo.com
+Cc: danmac@bohr.phy.nau.edu
+Message-id: <199612192108.OAA00950@bohr.phy.nau.edu>
+X-Mailer: ELM [version 2.4 PL25]
+Content-type: text
+Content-transfer-encoding: 7BIT
+Resent-Message-ID: <"wl73Z3.0.z81.OxQko"@mx1>
+Resent-From: webhead-l@eskimo.com
+Reply-To: webhead-l@eskimo.com
+X-Mailing-List: <webhead-l@eskimo.com> archive/latest/139
+X-Loop: webhead-l@eskimo.com
+Precedence: list
+Resent-Sender: webhead-l-request@eskimo.com
+Status: RO
+X-Status: 
+
+...clearly a job for a rodent.  Squiffy the flying rat?  I like it.  Some
+research on the flight characteristics of small animals is clearly called for.
+Paint their noses red in the holiday spirit??
+
+Dan M
+
+PS  The local paper was discussing Trailer-Trash Barbies now on sale.
+Apparantly you can specify body piercings etc,  she has dark roots, big
+flashy earrings etc etc and the thing is sold out.  Definitely not 
+approved by Mattel(TM).
+
+Dan MacIsaac, Assistant Professor of Physics and Astronomy, Northern AZ Univ
+danmac@nau.edu  http://www.phy.nau.edu/~danmac/homepage.html
+
+> Ian,
+> 
+> I like your idea to do this in some scaled down way. However, I think 
+> that a 'Freefall' Barbie would be a problem. Being inanimate, she would 
+> be unable to make the subtle corrections that would be needed to maintain 
+> her attitude (not her pychological attitude of course, which she 
+> maintains through all kinds of hard times.) Perhaps a fluffy cat would 
+> work well.
+> 
+> On Thu, 19 Dec 1996, ian wrote:
+> 
+> > 
+> > This is much too stimulating an idea to be abandoned apologetically merely
+> > because its DANGEROUS.
+> > 
+> > Let's at least scale it down a bit to use, say, an Action Man doll hovering
+> > in a slightly tapered, clear-sided plastic tube above a honeycomb-type
+> > turbulence remover.
+> > 
+> > Users of this fully interactive exhibit could vary the air velocity and
+> > also manually adjust the critical pose of the doll's arms and legs in order
+> > to achieve stability and prevent tumbling. I promise you that people are
+> > going to love it.
+> > 
+> > But wait. Let's not be sexist about this. We must offer a choice: Action
+> > Man or Barbie. 
+> > 
+> > Or Ken.
+> > 
+> > The mind begins to boggle. What ARE Barbie's aerodynamic characteristics?
+> > We have to know.
+> > 
+> > And should she wear a Barbie helmet or the wedding gown with silver sequins
+> > and accessories?
+> > 
+> > Humans sky-dive face-down because of the relative strength and weakness of
+> > specific arm muscles, but these dolls may well fly better on their backs.
+> > That might suit Barbie but would look a bit undignified for Action Man.
+> > 
+> > I've just got to see this. The toy manufacturers will surely sponsor it.
+> > 
+> > And when the all those miniature free-fall simulators, pink flying suits
+> > and matching helmets hit the toy shops next Christmas, just remember me in
+> > the royalty pay-outs. You saw the idea here first.
+> > 
+> > 
+> > Ian Russell
+> > ian@interactives.co.uk
+> > Interactive Science Ltd, UK
+> > http://www.interactives.co.uk
+> > 
+> > 
+> 
+> 
+
+From webhead-l-request@eskimo.com  Fri Dec 20 09:51:31 1996
+Received: (from smartlst@localhost) by mx1.eskimo.com (8.7.6/8.6.12) id JAA07098; Fri, 20 Dec 1996 09:38:27 -0800
+Resent-Date: Fri, 20 Dec 1996 09:38:27 -0800
+From: parsa@neda.net (Ali Parsa)
+To: webhead-l@eskimo.com
+Date: Thu, 19 Dec 1996 12:53:54 -0500
+Subject:       re: Free-fall simulator: don't give up yet!
+Reply-To: parsa@neda.net
+Priority: normal
+X-Mailer:     Pegasus Mail v3.1 (R1a)
+Message-Id: <2DB8894C88@gateway.neda.net.ir>
+Resent-Message-ID: <"Tzg4u2.0.rk1.Iyiko"@mx1>
+Resent-From: webhead-l@eskimo.com
+X-Mailing-List: <webhead-l@eskimo.com> archive/latest/140
+X-Loop: webhead-l@eskimo.com
+Precedence: list
+Resent-Sender: webhead-l-request@eskimo.com
+Status: RO
+X-Status: 
+
+...
+> And when the all those miniature free-fall simulators, pink flying 
+> suits and matching helmets hit the toy shops next Christmas, just 
+> remember me in the royalty pay-outs. You saw the idea here first.
+> 
+> Ian Russell
+
+Who started this, in the first place?
+
+Ali Parsa ;-)
+
+email: parsa@neda.net          Tel: +98 21 878-9270
+                               Fax: +98 21 646-2613
+
+From webhead-l-request@eskimo.com  Fri Dec 20 10:37:38 1996
+Received: (from smartlst@localhost) by mx1.eskimo.com (8.7.6/8.6.12) id KAA17596; Fri, 20 Dec 1996 10:14:23 -0800
+Resent-Date: Fri, 20 Dec 1996 10:14:23 -0800
+X-Sender: wistec@mailhost.efn.org
+Message-Id: <v02130502aee073b5a543@[204.214.97.7]>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Date: Fri, 20 Dec 1996 10:12:01 -0700
+To: webhead-l@eskimo.com
+From: wistec@efn.org (Willamette Science and Technology Center)
+Subject: Re: Free-fall Simulator
+Resent-Message-ID: <"tuV6y2.0.sI4.zTjko"@mx1>
+Resent-From: webhead-l@eskimo.com
+Reply-To: webhead-l@eskimo.com
+X-Mailing-List: <webhead-l@eskimo.com> archive/latest/141
+X-Loop: webhead-l@eskimo.com
+Precedence: list
+Resent-Sender: webhead-l-request@eskimo.com
+Status: RO
+X-Status: 
+
+>On Tue, 17 Dec 1996, Ali Parsa wrote:
+>
+>>
+>> Ok, I repent, I repent.
+>>
+>> After not receiving a single encouraging message on the subject, I
+>> decided to moth-ball the idea of building a 'Human Bernoulli Ball'.
+>
+>Here's one from my unused ideas collection.  I kept coming up with
+>additions to the basic idea over the years, and I fear it has become a bit
+>large as an exhibit.
+>
+>ZERO GRAVITY
+>
+>One old method of creating lunar gravity is to lay yourself in a sling
+>which hangs from a long cable.  Lay horizontally in the sling and stand
+>upon a nearby wall.  If the wall is moved towards you until the force on
+>your feet is 1/6 your earthbound weight, you've got lunar gravity.
+>
+>My idea is similar.  Get rid of the cable and swing, instead lay on your
+>back on a wheeled "garage creeper"; on some sort of low wooden plate
+>having casters.  If the floor is tilted, you will roll to the wall, and
+>you can then stand upon the wall as if it were the floor, but with reduced
+>"weight."
+
+Omsi has done this for their "Federation Science" exhibit - A Star Trek
+exhibit. No mirrors, just a carriage on rollers at a low angle. I thought
+it was sort of dull but probably helps to give one the idea of low gravity.
+Definitely a low cost way yet it is obvious that Omsi managed to spend a
+lot on it.
+
+Charles "Chabo" Sowers
+Exhibit Coordinator
+Willamette Science and Technology Center (WISTEC)
+P.O. Box 1518
+Eugene, OR   97440   541-687-3619
+
+
+From webhead-l-request@eskimo.com  Fri Dec 20 10:58:13 1996
+Received: (from smartlst@localhost) by mx1.eskimo.com (8.7.6/8.6.12) id KAA25795; Fri, 20 Dec 1996 10:48:14 -0800
+Resent-Date: Fri, 20 Dec 1996 10:48:14 -0800
+Date: Fri, 20 Dec 1996 12:49:57 -0600
+X-Sender: pforber@mail.sci.mus.mn.us
+Message-Id: <v01520d01aee03afaa100@[204.221.39.32]>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+To: webhead-l@eskimo.com
+From: pforber@sci.mus.mn.us (Patricia Hall Forber)
+Subject: Re: Biomed (was re:  Not the freefall simulator (can you believe it?)}
+Resent-Message-ID: <"le0J13.0.tI6.hzjko"@mx1>
+Resent-From: webhead-l@eskimo.com
+Reply-To: webhead-l@eskimo.com
+X-Mailing-List: <webhead-l@eskimo.com> archive/latest/142
+X-Loop: webhead-l@eskimo.com
+Precedence: list
+Resent-Sender: webhead-l-request@eskimo.com
+Status: RO
+X-Status: A
+
+Thank you Hans.  I really like Dr. Katz too.
+
+Patty
+
+Patricia Hall Forber
+Human Biology
+Science Museum of Minnesota
+(612)221-9428
+
+
+From webhead-l-request@eskimo.com  Mon Dec 23 19:52:39 1996
+Received: (from smartlst@localhost) by mx1.eskimo.com (8.7.6/8.6.12) id TAA03795; Mon, 23 Dec 1996 19:49:27 -0800
+Resent-Date: Mon, 23 Dec 1996 19:49:27 -0800
+Date: Mon, 23 Dec 1996 19:49:16 -0800 (PST)
+From: William Beaty <billbeskimo.com>
+To: webhead-l@eskimo.com
+Subject: Tampa?
+In-Reply-To: <v01520d01aee03afaa100@[204.221.39.32]>
+Message-ID: <Pine.SUN.3.95.961223194816.28156G-100000@eskimo.com>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Resent-Message-ID: <"dqHru.0.Ex.5Brlo"@mx1>
+Resent-From: webhead-l@eskimo.com
+Reply-To: webhead-l@eskimo.com
+X-Mailing-List: <webhead-l@eskimo.com> archive/latest/143
+X-Loop: webhead-l@eskimo.com
+Precedence: list
+Resent-Sender: webhead-l-request@eskimo.com
+Status: RO
+X-Status: 
+
+
+I may be in Tampa on the weekend.  Anyone here from their science center?
+
+
+.....................uuuu / oo \ uuuu........,.............................
+William Beaty  voice:206-781-3320   bbs:206-789-0775    cserv:71241,3623
+EE/Programmer/Science exhibit designer        http://amasci.com/
+Seattle, WA 98117  billbeskimo.com           SCIENCE HOBBYIST web page
+
+
+From webhead-l-request@eskimo.com  Fri Dec 27 11:20:16 1996
+Received: (from smartlst@localhost) by mx1.eskimo.com (8.7.6/8.6.12) id LAA17984; Fri, 27 Dec 1996 11:03:48 -0800
+Resent-Date: Fri, 27 Dec 1996 11:03:48 -0800
+Message-Id: <199612271905.NAA09404@gonzo.sci.mus.mn.us>
+X-Sender: copes@mail.sci.mus.mn.us
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Date: Fri, 27 Dec 1996 13:10:56 -0600
+To: webhead-L@eskimo.com
+From: copes@sci.mus.mn.us (Jane Snell Copes)
+Subject: ELEMENT-ARY CHEMISTRY EXHIBIT
+Resent-Message-ID: <"T1L9E1.0.rO4.Is1no"@mx1>
+Resent-From: webhead-l@eskimo.com
+Reply-To: webhead-l@eskimo.com
+X-Mailing-List: <webhead-l@eskimo.com> archive/latest/144
+X-Loop: webhead-l@eskimo.com
+Precedence: list
+Resent-Sender: webhead-l-request@eskimo.com
+Status: RO
+X-Status: 
+
+With all the Barbie excitement, I can't remember if I've posted this. 
+Please feel free to pass it on to others.  I don't have a lot of time to
+work, but I do have a lot of ideas.. Thanks in advance!  JSC
+
+
+The Edgerton Explorit Center in Aurora, NE, is working on an interactive
+periodic table exhibit.  Stories of uses and discoverers of elements will
+be interspersed with experiment boxes that will allow visitors to
+investigate interesting and safe chemistry of selected elements. 
+Scientist-in-Residence Jane Copes (a Ph.D. inorganic chemist) solicits
+suggestions for donors of chemical element samples, simple experiments,
+interested museum and chemist colleagues to contact, horror stories, useful
+references, and consumer sources. Any advice cheerfully appriciated.  She
+hopes to finish most of the work on the exhibit by mid-May 1997.
+
+Jane Snell Copes
+Scientist-in-Residence
+Edgerton Explorit Center   
+208 16th Street
+Aurora, NE  68818
+phone 402-694-4032; FAX 4035
+e-mail copes@sci.mus.mn.us
+
+
+
+
+
+
+From webhead-l-request@eskimo.com  Mon Dec 30 11:45:45 1996
+Received: (from smartlst@localhost) by mx1.eskimo.com (8.7.6/8.6.12) id LAA21442; Mon, 30 Dec 1996 11:26:54 -0800
+Resent-Date: Mon, 30 Dec 1996 11:26:54 -0800
+Date: Mon, 30 Dec 1996 12:19:29 -0700 (MST)
+From: Joseph M Ruggiero <jmr@GAS.UUG.Arizona.EDU>
+To: webhead-l@eskimo.com
+cc: webhead-L@eskimo.com
+Subject: Re: ELEMENT-ARY CHEMISTRY EXHIBIT
+In-Reply-To: <199612271905.NAA09404@gonzo.sci.mus.mn.us>
+Message-ID: <Pine.SOL.3.91.961230121258.12838A-100000@helium.gas.uug.arizona.edu>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Resent-Message-ID: <"DAJVd.0.xE5.zT1oo"@mx1>
+Resent-From: webhead-l@eskimo.com
+Reply-To: webhead-l@eskimo.com
+X-Mailing-List: <webhead-l@eskimo.com> archive/latest/145
+X-Loop: webhead-l@eskimo.com
+Precedence: list
+Resent-Sender: webhead-l-request@eskimo.com
+Status: RO
+X-Status: 
+
+Hi, 
+
+You may want to contact SciTeck in Aurora Ill (708-8593434). They developed 
+some kind 
+of interactive periodic table thet called the "Vally of the Isotopes" 
+
+Happy New Year
+
+Joe Ruggiero
+
+On Fri, 27 Dec 1996, Jane Snell Copes wrote:
+
+
+> With all the Barbie excitement, I can't remember if I've posted this. 
+> Please feel free to pass it on to others.  I don't have a lot of time to
+> work, but I do have a lot of ideas.. Thanks in advance!  JSC
+> 
+> 
+> The Edgerton Explorit Center in Aurora, NE, is working on an interactive
+> periodic table exhibit.  Stories of uses and discoverers of elements will
+> be interspersed with experiment boxes that will allow visitors to
+> investigate interesting and safe chemistry of selected elements. 
+> Scientist-in-Residence Jane Copes (a Ph.D. inorganic chemist) solicits
+> suggestions for donors of chemical element samples, simple experiments,
+> interested museum and chemist colleagues to contact, horror stories, useful
+> references, and consumer sources. Any advice cheerfully appriciated.  She
+> hopes to finish most of the work on the exhibit by mid-May 1997.
+> 
+> Jane Snell Copes
+> Scientist-in-Residence
+> Edgerton Explorit Center   
+> 208 16th Street
+> Aurora, NE  68818
+> phone 402-694-4032; FAX 4035
+> e-mail copes@sci.mus.mn.us
+> 
+> 
+> 
+> 
+> 
+> 
+> 
+
+From webhead-l-request@eskimo.com  Tue Dec 31 05:00:59 1996
+Received: (from smartlst@localhost) by mx1.eskimo.com (8.7.6/8.6.12) id DAA31508; Tue, 31 Dec 1996 03:56:28 -0800
+Resent-Date: Tue, 31 Dec 1996 03:56:28 -0800
+From: "ian" <ian@interactives.co.uk>
+To: <webhead-L@eskimo.com>
+Subject: Best interactive environmental exhibition?
+Date: Tue, 31 Dec 1996 11:54:34 -0000
+X-MSMail-Priority: Normal
+X-Priority: 3
+X-Mailer: Microsoft Internet Mail 4.70.1155
+MIME-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 7bit
+Message-Id: <11575134301862@interactives.co.uk>
+Resent-Message-ID: <"Fn-Lg.0.Fi7.hzFoo"@mx1>
+Resent-From: webhead-l@eskimo.com
+Reply-To: webhead-l@eskimo.com
+X-Mailing-List: <webhead-l@eskimo.com> archive/latest/146
+X-Loop: webhead-l@eskimo.com
+Precedence: list
+Resent-Sender: webhead-l-request@eskimo.com
+Status: RO
+X-Status: 
+
+A special interest of mine is ENVIRONMENTAL interpretation: landscape,
+wildlife and 'ecology'. 
+
+I've designed a couple of centres on this specific theme and followed a
+policy of making the visitors' experience as 'immersive' as budgets
+allowed. Otherwise there's just so much that flip-ups, feely-holes, models
+and multimedia screens can achieve on their own, without unaffordably high
+staffing levels.
+
+A particular challenge is to produce exhibits that offer as many degrees of
+freedom as those in physical science centres. There are many more
+interesting things to do with a ball hovering on an air-jet than with a
+pine-cone in a feely-hole, for example.
+
+Which environmental exhibitions have best managed to be more interactive
+than passive, and how was this achieved? 
+
+Ian Russell
+ian@interactives.co.uk
+Interactive Science Ltd, UK
+http://www.interactives.co.uk
+
+From webhead-l-request@eskimo.com  Tue Dec 31 10:14:30 1996
+Received: (from smartlst@localhost) by mx1.eskimo.com (8.7.6/8.6.12) id JAA15030; Tue, 31 Dec 1996 09:35:20 -0800
+Resent-Date: Tue, 31 Dec 1996 09:35:20 -0800
+X-Sender: groenert@mail.sci.mus.mn.us
+Message-Id: <v01520d00aeef14f7ea58@[204.221.37.181]>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Date: Tue, 31 Dec 1996 13:08:25 -0600
+To: webhead-l@eskimo.com
+From: groenert@sci.mus.mn.us (groenert@sci.mus.mn.us)
+Subject: Re: ELEMENT-ARY CHEMISTRY EXHIBIT
+Resent-Message-ID: <"sdzuM.0.ng3.MxKoo"@mx1>
+Resent-From: webhead-l@eskimo.com
+Reply-To: webhead-l@eskimo.com
+X-Mailing-List: <webhead-l@eskimo.com> archive/latest/147
+X-Loop: webhead-l@eskimo.com
+Precedence: list
+Resent-Sender: webhead-l-request@eskimo.com
+Status: RO
+X-Status: 
+
+Jane what is the Barbie excitment?
+Janet G.
+
+Janet Groenert
+Educational Resources Manager
+Science Museum of Minnesota
+30 E 10th St.
+St. Paul, Minnesota 55101
+612-221-4571
+
+
+From webhead-l-request@eskimo.com  Tue Dec 31 11:13:18 1996
+Received: (from smartlst@localhost) by mx1.eskimo.com (8.7.6/8.6.12) id KAA29706; Tue, 31 Dec 1996 10:20:08 -0800
+Resent-Date: Tue, 31 Dec 1996 10:20:08 -0800
+Message-Id: <199612311821.MAA30584@gonzo.sci.mus.mn.us>
+X-Sender: copes@mail.sci.mus.mn.us
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Date: Tue, 31 Dec 1996 12:26:28 -0600
+To: webhead-L@eskimo.com
+From: copes@sci.mus.mn.us (Jane Snell Copes)
+Subject: need a contact at Impressions 5
+Resent-Message-ID: <"TRLq_1.0.-E7.6bLoo"@mx1>
+Resent-From: webhead-l@eskimo.com
+Reply-To: webhead-l@eskimo.com
+X-Mailing-List: <webhead-l@eskimo.com> archive/latest/148
+X-Loop: webhead-l@eskimo.com
+Precedence: list
+Resent-Sender: webhead-l-request@eskimo.com
+Status: RO
+X-Status: 
+
+Anyone know someone there?  I'd like more information about a traveling
+exhibit they built called Connecting with Chemistry.  It's just closing at
+St. Louis Sci Center this week.  Jane
+
+Jane Snell Copes
+Scientist-in-Residence
+Edgerton Explorit Center   http://hamilton.net/aurora/city/edgerton.htm
+208 16th Street
+Aurora, NE  68818
+phone 402-694-4032; FAX 4035
+
+
+From webhead-l-request@eskimo.com  Tue Dec 31 14:12:30 1996
+Received: (from smartlst@localhost) by mx1.eskimo.com (8.7.6/8.6.12) id NAA21717; Tue, 31 Dec 1996 13:33:36 -0800
+Resent-Date: Tue, 31 Dec 1996 13:33:36 -0800
+Date: Tue, 31 Dec 1996 13:31:48 -0800 (PST)
+Message-Id: <v01530508aeedf98e1da7@[206.250.105.203]>
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+To: webhead-l@eskimo.com
+From: hhinners@earthlink.net (Hans)
+Subject: Re: Barbie
+Resent-Message-ID: <"3vPO_3.0.FJ5.lQOoo"@mx1>
+Resent-From: webhead-l@eskimo.com
+Reply-To: webhead-l@eskimo.com
+X-Mailing-List: <webhead-l@eskimo.com> archive/latest/149
+X-Loop: webhead-l@eskimo.com
+Precedence: list
+Resent-Sender: webhead-l-request@eskimo.com
+Status: RO
+X-Status: 
+
+Hi Janet and all,
+
+You missed Barbie?  She was a hoot!  A few of us wanted to use her in a sky
+diving simulator/Bernoulli Principle interactive.
+
+And now for something completely different . . .
+
+Somebody at work got this as a holiday card.
+
+"How to have a Barbie Holiday"
+
+1.  Put up some mistletoe and kiss every plastic guy that stands under it.
+
+2.  Hug everyone without bending your arms.
+
+3.  On Christmas morning, drive your car through the living room.
+
+4.  Remember to turn your head 360 degrees at parties to make eye contact
+with
+    everyone in the room.
+
+5.  Ask Santa for a whole new wardrobe.
+
+6.  Spend a romantic evening by the fireplace melting in your sweetheart's arms.
+
+7.  Accessorize, Accessorize, Accessorize.
+
+Oh and I saw a special on Barbie.  There is a Barbie Liberation Force (the
+BLF).  People go to stores buy Barbie, replace the voice box with GI Joe's
+and put it back on the shelf for some unsupecting parent to buy.  Think
+about it Barbie says (in a dead voice) "Ready for Action!".  While some GI
+Joe doll is saying "Let's go to the Mall".
+
+And let's not forget the Barbie that hated math.  <Gasp>
+
+Cheers!
+
+H
+
+"In space, no one can hear you scream...
+ unless it is the battle cry of the United States Marines!"
+                Sgt. Major Bougus, Space: Above and Beyond
+~~~~~~~~~~~~~~
+Hans Hinners    hhinners@earthlink.net
+California Museum of Science and Industry
+Exposition Park, Los Angeles
+Tele: (213) 744 - 2504    FAX: (213) 744 - 2034
+http://lausd.k12.ca.us/~hhinner/   - a work in progress
+~~~~~~~~~~~~~~
+Opinions expressed are not necessarily shared by the CMSI.
+
+

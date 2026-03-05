@@ -1,0 +1,100 @@
+Date: Thu, 23 Jan 1997 13:57:11 -0800
+From: Don Evans <ME2@kfalls.net>
+To: antigravity@primenet.com
+Subject: [Antigravity] GRAVITY SHIELD 
+
+as many of you know i have been working on the recreation of a gravity
+shield as described by the finnish scientist.  in conjuction with a means
+of electrical power generation.
+
+this is to report that i have achieved a 1% sheilding of the acceleration
+force of gravity and that a person i was corresponding with has also
+achieved a 5%shielding effect.  this was accomplished on my part using a
+layerd set of ybco superconductors a rare earth magnet and a pulsed d.c. 
+current into a coil.  i am now looking for people who would be interseted
+in colaborating on this subject with any luck i should be able to achieve
+a steady shielding effect and the generation of excess power by using this
+shielding effect to change the acceleration force of gravity to electical
+power .  i am no scintist and lack alot of phyics understanding however i
+am a tinkerer and curios at nature i have a super understanding of
+machines and am competent at building most things so if you are interested
+in this email me and please tell me what you are good at, interested
+people may also email. but because i correspond with so many and also have
+other business interest, i may not be able to answer each and every person
+but will try to post at least once a month.  i am looking for some one in
+material sciences mainly supercondutors , electricity, drafting ability ,
+mechanical engener, someone with coil building experence, or anyone with a
+related field that would like to colaborate all information will be shared
+and everyone will get credit for the work they have contributed as well as
+part ownership if we prove successfull.  i do NOT want any money as i will
+furnish this for what we need.  so if you would like to collaborate on
+this i truley believe we could have a working model of the generator
+within six months.  i know several of you i owe updates on and will try to
+furnish you this in the next week several of you have asked to come and
+see this foir your selfs i will try to arrange a public demontration this
+spring.
+
+
+
+Date: Thu, 23 Jan 1997 19:00:51 -0800
+From: Don Evans <ME2@kfalls.net>
+To: antigravity@primenet.com
+Subject: [Antigravity] grav-shield
+
+this is to inform you how to set up the gravity shield experiment
+and how i did it. 
+
+one 1/4" wood dowel purchased at any home improvment store 
+this is to be used as a balace beam.
+
+two 1/8"  glass rods or similar material aprox 6" long connected to the
+dowel ends and hung vertically from the dowel ends with a cotton sring
+attached with hot glue
+
+a power suppy consisting of a 6amp 12volt battery charger
+
+a coil of 300 turns of #26 wire wrapped around a 1" plastic pill bottle  
+
+a samarium cobalt rare earth magnet 1/2" dia.
+
+a digital lab scale to measure wieghts and deflection on the balance beam. 
+acuracy of 1/100th gram
+
+
+i constructed the balace beem with the wood dowel& balanced it with one
+end in the pan of the scales to measure weight deflection it had plastic
+cover on all sides except the bottom wich was 3/4 inch particle board . 
+
+i constructed the coil and and set it up under the particle board so no
+influence would interfer with the liquid nitrogen vapors no metal parts
+where used in any of the project
+
+i filled the pill bottle with liquid n2 and let it cool down i then
+inserted a 1" ybco superconductor and let it cool down i then inserted the
+magnet and then inserted another ybco superconductor on top there was a
+slight fluctuation in the glass rod hanging above the particle board at
+this time in the order of .1% of the wieght of glass rod i did not notice
+any wieght gained simply aloss of existing wieght i then hooked up the
+power to the coil and noticed imediatly a loss of aprox 1% to glass rod i
+was able to hold this with slight fluctuation for aprox 6min if i had
+replenished the n2 i think i could have held the shielding effect
+indefineatly. i am currently trying to device a variable votage supply
+with variable frequency capability to log any effects of frequency and
+voltage have anything to do with the shielding effect also i am making a
+larger coil and longer tube to hold as many as 13 disks with a magnet in
+each layer i am also putting a coil with iron core underneath to vary the
+missner effect if possible
+
+i am getting ready to reconstuct the experminet and have a video made of
+the procedure and to record the efffects it will also include the method
+of power generation and what it looks like i will be designing this next
+set up to be used continously with amethod of replenishing the n2 without
+much turblance . 
+
+please note this was achieved not with a rotating superconductor but a
+pulsed rectified ac current induced in the coil on the outside of the pill
+bottle and around the superconductor. 
+
+more in the future   don evans
+
+

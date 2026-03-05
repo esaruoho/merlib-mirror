@@ -1,0 +1,39 @@
+
+/* default layout */
+
+body 
+{ 
+	FONT-FAMILY: "Myriad Pro", Arial, sans-serif;
+}
+
+
+h1, h2, h3, h4 {
+	font-family:  'Gill Sans','Georgia','Palatino','Helvetica',serif;	
+}
+
+a
+{
+	text-size: 50%;
+	font-family:  'Gill Sans','Georgia','Palatino','Helvetica',serif;	
+        text-decoration:underline;
+}
+
+
+ul li { 
+	padding-bottom: .1em; 
+	line-height: 20px; 
+}
+
+table
+{
+	text-size:10px;
+	FONT-FAMILY: "Myriad Pro", Arial, sans-serif;
+}
+
+
+/*
+	font-family:"Helvetica Neue", Arial, Helvetica, sans-serif;
+	text-size: 75%;
+	FONT-FAMILY: 'Lucida Grande', Verdana, Arial, Sans-Serif, Tahoma;
+	FONT-FAMILY: "Myriad Pro", Arial, sans-serif;
+*/

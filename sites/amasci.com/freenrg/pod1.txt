@@ -1,0 +1,511 @@
+COMMENT: from the physics e-print server at 
+         http://xxx.lanl.edu/abs/cond-mat/9701074/
+         postscript is available from that URL.
+
+\documentstyle[12pt]{article}
+
+\textwidth 170mm
+\textheight 235mm
+\topmargin -36pt
+\oddsidemargin -0.2cm
+\evensidemargin -0.5cm
+
+\renewcommand{\baselinestretch}{1.5}
+
+\begin{document}
+
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+
+\thispagestyle{empty}
+
+\hfill \parbox{45mm}{
+{MSU-chem 95}}
+
+\vspace*{15mm}
+
+\begin{center}
+
+{\LARGE Weak gravitation shielding properties of} 
+
+\smallskip
+
+{\LARGE composite bulk $YBa_2Cu_3O_{7-x}$ superconductor} 
+
+\smallskip
+
+{\LARGE below 70 $K$ under e.m.\ field.}
+	
+\vspace{22mm}
+
+{\large E.E.\ Podkletnov}
+
+\medskip
+
+{{\em Moscow Chemical Scientific Research Centre} \par
+Contact e-mail address: modanese@science.unitn.it}
+
+\end{center}
+
+\vspace*{10mm}
+
+\begin{abstract}
+
+A high-temperature $YBa_2Cu_3O_{7-x}$ bulk ceramic superconductor with 
+composite structure has revealed weak shielding properties against 
+gravitational force in the state of levitation at temperatures below 70 $K$. 
+A toroidal disk was prepared using conventional ceramic technology in 
+combination with melt-texture growth. Two solenoids were placed around the 
+disk in order to initiate the current inside it and also to provide rotation 
+about its central axis. Samples placed over the rotating disk demonstrated a 
+weight loss of 0.3-0.5\%. When the rotation speed was slowly reduced 
+by changing the current in the solenoids, the shielding effect became 
+considerably higher and reached 1.9-2.1\% at maximum.
+
+\medskip
+\noindent
+74.72.-h High-$T_c$ cuprates.
+
+\bigskip 
+
+\end{abstract}
+
+\section{Introduction.}
+
+The behavior of high-temperature ceramic superconductors under 
+high-frequency magnetic field is of great interest for practical applications. 
+Crystal structure seems to be the key factor determining all physical 
+properties of bulk superconductors, and the interaction of this structure 
+with external and internal e.m.\ fields might result in 
+quite unusual effects. Despite a large number of studies \cite{b1,b2,b3} 
+the nature of these interactions still remains unresolved. 
+
+Our recent experimental work \cite{b4} clearly indicated that under certain 
+conditions single-phase bulk dense $YBa_2Cu_3O_{7-x}$ revealed a moderate 
+shielding effect against gravitational force. In order to obtain more 
+information about this unusual phenomenon, a new installation was 
+built which allowed to operate with magnetic fields up to 2 $T$ and 
+frequencies up to $10^8$ $Hz$ at temperatures from 40 to 70 $K$. A new 
+experimental technique was applied to modify the structure of the 
+ceramic superconductor. All these efforts yielded a larger value of the 
+shielding effect (up to 2\%) and provided good hopes for technological 
+applications. 
+
+A gravitational shielding effect of this strength has never been previously
+observed and its theoretical explanation presents serious difficulties
+(see \cite{epl} for references and an analysis of some hypotheses). 
+Thus great attention was devoted to the elimination of any possible
+source of systematic errors or of spurious non-gravitational effects. 
+The small disturbances due to air flows pointed out by some 
+authors \cite{dep,unni} were eliminated weighing the samples in a 
+closed glass tube (see Section \ref{ope}). The entire 
+cryostat and the solenoids were enclosed in a stainless steel box. 
+But probably the best check for the truly gravitational nature of the
+effect is the observed independence of the weight reduction (in \%)
+of the mass and of the chemical composition of the tested samples
+(Section \ref{res}). 
+
+According to public releases, the NASA group in Huntsville, Alabama,
+is presently ``cloning" our experiment. This is a difficult task,
+especially for the sophisticated technology involved in the construction
+of the large ceramic disk and in the control of its rotation. We are
+also aware, though still at un-official level, of other groups working
+at the experiment with smaller disks.
+
+
+\section{Experimental.}
+
+\subsection{Construction of the disk.}
+
+The shielding superconducting element was made of dense, bulk, almost 
+single-phase $YBa_2Cu_3O_{7-x}$ and had the shape of a toroidal disk with 
+the outer diameter of 275 $mm$, the inner diameter of 80 $mm$, and the 
+thickness of 10 $mm$. The preparation of the 123-compound consisted of 
+mixing the initial oxides, then calcining the powder at 930$^0 \ C$ in 
+air, grinding, pressing the disk at 120 $MPa$ and sintering it in oxygen at 
+930$^0 \ C$ for 12 hours with slow cooling down to room temperature.  After 
+that the disk was kept in a furnace at 600$^0 \ C$ and the upper surface was 
+quickly heated to 1200$^0 \ C$ using a planar high-frequency inductor as 
+shown in Figure 1. During this last 
+heating the gap between the sample and the inductor was chosen 
+precisely to provide only the heating of the upper 2 $mm$-thick layer of 
+the disk, though the high heat conductivity of the material caused the 
+heating of some part of the material below this layer. Finally the disk was 
+slowly cooled down to room temperature in a flow of oxygen and 
+treated mechanically in order to obtain good balance during rotation. A 
+thin (1 $mm$) metal foil of magnetic material was attached to the 
+upper surface of the disk using plastic glue
+in order to provide the disk rotation as described below.
+Table 1 summarizes the disks construction procedure.
+
+The phase and crystal structure of the superconductor were studied 
+using X-ray diffraction analysis (XRD) and a scanning electron 
+microscope (SEM) equipped with an energy dispersive spectral (EDS) 
+analyzer. The samples were cut layer by layer from the bulk ceramic 
+disk.
+
+The transition temperature $T_c$ was determined from the resistive 
+transition in a variable temperature cryostat, under zero magnetic field, 
+using an AC current and sputtered golden contacts. The critical current 
+density was measured for samples cut from the top and from the 
+bottom of the superconducting disk. Measurements of $J_c$ were carried out 
+at 75 $K$ using an AC current, four-probe method and direct transport 
+measurements.
+
+The analysis of the cross-section of the ceramic $YBa_2Cu_3O_{7-x}$ disk 
+revealed the existence of two zones with different crystal structure. The 
+upper part of the disk (6-7 $mm$ of thickness) had an orthorhombic 
+structure typical of the quench and melt growth process \cite{b5,b6} and 
+consisted mainly of single-phase orthorhombic 123-compound. The 
+material was dense and had pure and hardly visible grain boundaries. 
+The grains had the size of less than 2 $\mu m$ and were oriented (75\%) 
+with c-axis parallel to the surface of the disk. The transition 
+temperature for the material as defined by direct measurements was 
+94.2 $K$.
+
+The lower part of the disk which was in close contact with the water-cooled 
+base during the high-frequency heat treatment had a structure 
+with randomly oriented grains and average grain size from 5 to 15 
+$\mu m$.  The porosity of this zone varied from 5 to 9\%. The transition 
+temperature $T_c$ was equal to 60.5 $K$ and the material contained about 
+40\% of the tetragonal phase.
+
+Crystal lattice parameters for these two layers as calculated from XRD 
+are listed below, the values being given in $nm$:
+
+\noindent
+Upper layer: a=0.381; b=0.387; c=1.165; 
+
+\noindent
+Lower layer: a=0.384; b=0.388; c=1.170.
+
+\noindent \hskip 2.4 cm        a=0.387; c=1.183.
+
+\medskip
+\noindent
+The first (upper) layer was quite homogenous with even distribution of 
+elements in the volume of all the samples. EDS analysis showed the 
+presence of small inclusions of $Y_2BaCuO_5$ in the lower layer.
+
+
+\subsection{Operation of the apparatus.}
+\label{ope}
+
+Two identical solenoids were placed around the superconductor using 
+fibreglass supports as shown in Figures 2, 4, 5. The gaps between these 
+solenoids and the disk were large enough for it to easily move about 
+20 $mm$ in each direction.  The toroidal disk was placed inside a 
+cryostat equipped with a set of three coils (Fig.\ 3) which could 
+keep it levitating when it reached the superconducting state. A blocks 
+scheme of the electrical connections is shown in Fig.\ 6. High-frequency 
+electric current ($10^5$ $Hz$) was first sent to the 
+two main solenoids around the toroidal disk, initiating the current  
+inside the ceramics at room temperature. Then the system was 
+slowly cooled down to 100 $K$ by liquid nitrogen and then quickly 
+cooled by liquid helium vapors to the temperature of 65-70 $K$ so that 
+the disk became superconducting (Fig.\ 7). The main solenoids were switched 
+off. After that the current ($10^5$ $Hz$) was sent to the coils below the 
+disk and the superconductor raised up (about 15 $mm$) because of the 
+Meissner effect. Then a small current ($10^5$ $Hz$) was sent to the 
+main solenoids and the disk began to rotate 
+counter-clockwise with increasing speed. The 
+rotation speed was increased up to 5000 $rpm$. At this moment the 
+measurements of weight for various objects were taken (Fig.\ 8). 
+
+Finally the rotation speed was slowly reduced by changing the current 
+in the main solenoids (Fig.\ 9). The rotation speed was controlled  
+by means of a laser beam reflected by a small piece of plastic 
+light-reflecting foil attached to the disk. The measurements of weight 
+were taken constantly during this period, too. 
+
+The frequency of the e.m.\ field was varied from $10^3$ to 
+$10^8$ $Hz$. Samples made of various materials were tested,
+including metals, glass, plastic, wood and so 
+on. All these samples were placed over the cryostat hanging on a thread 
+connected to a sensible balance. The distance from the samples to the 
+cryostat varied from 25 to 1500 $mm$ in the first run and up 3 meters in 
+the second run. The weight of the samples was typically from 10 to 50 
+grams. Every precaution was taken to avoid any possible disturbance
+including induced magnetic fields and air flows. The samples were placed 
+inside a closed vertical glass tube 
+in order to eliminate the influence of air flows.
+
+
+\section{Results.}
+\label{res}
+
+The levitating disk revealed a clearly measurable 
+shielding effect against the gravitational force even without rotation. 
+The values of the weight loss for various samples were within the range 
+of 0.05-0.07\% in this case. 
+As soon as the main solenoids were switched on and 
+the disk began to rotate in the vapors of liquid helium, the shielding 
+effect increased, and at the speed of 5000 $rpm$ the air over the cryostat 
+began to raise slowly up to the ceiling. The particles of dust or smoke 
+made the effect clearly visible. The boundaries of the flow could be 
+seen clearly and corresponded exactly to the shape of the toroid. 
+
+The weight of various samples decreased no matter what material they 
+were made of. Samples made of the same material but with different 
+masses lost the same fraction of their weight. The weight loss depended 
+on the shape and the position of the sample. The maximum loss of 
+weight could be reached when the sample was 
+parallel to the surface of the disk, so that its projection
+had the maximum area. The best measurement gave a weight loss of 
+0.5\%, while typical values were from 0.3 to 0.5\%. The areas close to 
+the inner edge of the toroid (5-7 $mm$ from the edge) gave lower values 
+of shielding, from 0.1 to 0.25\% only. 
+
+During the time when the rotation speed was decreased from 5000 to 
+3500 $rpm$ using the solenoids as braking tools, the shielding effect 
+reached maximum values and the weight loss of the samples was from 
+1.9 to 2.1\%, depending on the position of the sample with respect to the 
+outer edge of the disk. These peak values were measured during 25-30 
+seconds as the speed decreased rather quickly. Because of considerable 
+vibration of the disk at the rotation speed of 3000-3300 $rpm$,
+further braking was done very quickly in order to avoid unbalanced 
+rotation and the weight measurements could not be carried out. 
+
+Remarkably, the effect of the weight loss was the same when the samples 
+together with the balance were moved upwards to a distance of 3 $m$,
+within the projection of the toroidal disk. No weight loss at all
+was observed below the cryostat.
+
+The maximum shielding properties were observed for maximum 
+current inside the superconducting disk. According to preliminary 
+measurements the upper layer of the disk was able to carry over 15000 
+$A/cm^2$. The maximum weight loss of the samples was observed only at high 
+frequencies of the magnetic field in the interval from 3.2 to 3.8 $MHz$.
+
+The shield decreases slightly the gravitational force within the vertical
+projection of the disk and creates a kind of vertical cylindrical
+tunnel in the air with slightly reduced air pressure. (The observed
+effect also works in various gases and liquid media.)
+The difference between the atmospheric pressure over 
+the cryostat and the pressure below it 
+was measured with high precision using a mercury barometer. It was equal 
+to 8 $mm$ for the maximum shielding effect. Such a pressure difference 
+produces a lifting force on the cryostat, which in the present case is 
+however of no practical interest (of the order of $10^2$ $Kg/m^2$).
+
+\section{Discussion.}
+
+The interaction of a superconducting ceramic body with the gravitational 
+field is a complicated process 
+and cannot be characterized by one single law or physical phenomenon. 
+Also, an overwhelming explanation of the mechanism of high-temperature 
+superconductivity has not been found yet. Still these 
+facts do not make the observed phenomenon less interesting.
+
+In our previous work \cite{b4} the loss of weight of the sample over the 
+levitating superconductor was smaller and varied from 0.05 to 
+0.3\%. At that time it was difficult to exclude entirely any influence of 
+the radio-frequency field because the sample was separated from the disk 
+and the magnets by a thin plastic film. Now the superconductor was 
+situated in a stainless steel cryostat and the influence of 
+non-gravitational factors 
+causing levitation should be negligible. 
+
+The modification of the 
+crystal structure of the superconductor allowed to obtain a composite 
+body with a dense and oriented upper layer and a porous lower layer 
+with random orientation of the grains. The upper layer is able to carry 
+high $J_c$ current under considerable magnetic field while the lower 
+layer cannot conduct high currents and is not resistant to the external 
+magnetic field. The lower part of the disk with wide intergrain 
+boundaries is also a source of a great number of Josephson junctions 
+and is responsible for the direct and reverse, primary and secondary 
+Josephson effect. The presence of tetragonal non-superconducting phase 
+allows interaction with the external magnetic field.
+
+The combination of two different crystal structures with different 
+behavior under magnetic field creates a composite ceramic body with 
+new properties. According to Faraday law the placement of a normal 
+conductor in a magnetic field causes electric current inside it.  Usually 
+during levitation
+the magnetic field does not penetrate into a superconductor for more 
+than a penetration depth, thus the interaction with the field is extremely 
+small. But in the described experiment the superconductor also carries 
+high frequency electric current modified by Josephson effect. It is 
+possible to admit that some interaction between the composite ceramic 
+body and the external magnetic field takes place.  This interaction 
+depends on the coherence length, the flux pinning, the field frequency 
+and the field force, the penetration depth and the parameters of the 
+crystal lattice. These characteristics are interrelated in a complex way.
+According to the experimental data (compare also \cite{unni}, where only a
+static field was applied) 
+the ceramic superconductor kept at the temperature below 
+70 $K$ does not reveal any unusual shielding if it has no contact with the 
+AC magnetic field. 
+
+As analyzed in \cite{b7} pinning centers with different origins may exist 
+inside the superconducting disk, and fluxes will be trapped at some of 
+them. Fluxes trapped at weak centers will begin to move first while those 
+trapped at strong centers will not move until the Lorentz force exceeds the 
+pinning force. The overall current will be composed of the 
+superposition of flux motions with different speeds. Generally 
+speaking, the quantized fluxes move as a bundle locally formed in a flux 
+lattice by the magnetic interaction between them.
+
+The temperature is also of great importance as it determines the 
+thermodynamic functions and in particular the order parameter and the free
+energy inside a superconductor. The shielding effect was observed only 
+below 70 $K$, while the ceramic disk became superconducting already at 
+94 $K$. 
+
+The electric interactions inside the superconducting body below $T_c$ 
+change under the conditions of the experiment and this might alter the 
+behavior of the whole atomic structure in such a way that the interaction 
+with the gravitational field becomes different. Then, in order to keep a 
+stable level of energy and a stable atomic and crystal lattice structure 
+the superconductor might exchange some energy with the gravitational field 
+and slightly decrease it. There are no grounds to claim that the rotation 
+momentum of the disk interacts with gravitation force, but it seems that 
+fast rotation is favorable for the stabilization of the shielding effect.
+
+According to BCS theory, in weak bond conditions electrons of 
+conductivity and phonons in the crystal lattice interact from time to 
+time: particles collide but they still preserve their individual positions and 
+properties. If we deal with strong bond the interaction takes place all 
+the time and free electrons and phonons exist no longer giving birth to a 
+certain mixture called electron-phonon liquid. This liquid has specific 
+properties and the behavior of the electron-phonon mixture under 
+various conditions is not yet studied. It is possible to admit that this 
+liquid has some properties similar to those which are typical for 
+magnetic liquids, especially if we take into consideration that magnetic 
+hysteresis is characteristic for high $T_c$ compounds. Also the 
+experimental equipment described above has much in common with 
+magneto-hydro-dynamic (MHD) generators. 
+
+The first attempt at a theoretical explanation of the effect has been done 
+by G.\ Modanese \cite{epl,gj}. Further investigations that are in progress, 
+will help to prove, change or complete the present understanding of the 
+observed phenomenon.
+
+\section{Conclusions.}
+
+A superconducting ceramic levitating disk of $YBa_2Cu_3O_{7-x}$ with 
+composite structure demonstrated a stable and clearly measurable weak 
+shielding effect against gravitational force below 70 $K$ and under 
+high-frequency e.m.\ field. A combination of the high-frequency 
+current inside the rotating toroidal disk and the high-frequency external 
+magnetic field, together with electronic pairing state and 
+superconducting crystal lattice structure apparently changed the 
+interaction of the solid body with the gravitational field.  This resulted 
+in the ability of the superconductor to modify the energy of the 
+gravitational force and yielded a weight loss of various samples up to 
+1.9-2.1\% .
+
+Samples made of metals, plastic, ceramic, wood etc. were situated over 
+the disk and their weight was measured with high precision. All the 
+samples showed the same partial loss of weight, no matter what 
+material they were made of. In order to obtain the maximum weight loss 
+the samples should be oriented with the flat surface parallel to the 
+surface of the disk. The overall maximum shielding effect (2.1\%) was 
+obtained when the rotation speed and the corresponding centrifugal 
+force were slightly decreased by the magnetic field.
+
+It was found that the shielding effect depended on the temperature, the 
+rotation speed, the frequency and the intensity of the magnetic field. At 
+present it seems early to discuss the mechanisms and to give a 
+detailed analysis of the observed phenomenon as further investigation is 
+necessary. The experimentally obtained shielding value might be of 
+primary interest for scientific and technological applications.
+
+\subsection{Acknowledgment.}
+
+The author is grateful to the Institute for High Temperatures of the 
+Russian Academy of Sciences for the help in the preparation of the 
+unique superconducting ceramic disks and for the possibility to use 
+their technological equipment.
+The effect was first observed 
+and studied at Tampere University of Technology.
+
+
+\begin{thebibliography}{99}
+
+\bibitem{b1} 
+Riise A.B., Johansen T.H., Bratsberg H.\ and Yang Z.J., 
+Appl.\ Phys.\ Lett.\ {\bf 60} (1992) 2294.
+
+\bibitem{b2}
+Brand E.H., Am.\ J.\ Phys.\ {\bf 58} (1990) 43.
+
+\bibitem{b3} 
+Lofland S., Huang M.X.\ and Bhagat S.M., Physica {\bf C 203} (1992) 271.
+
+\bibitem{b4}
+Podkletnov E.\ and Nieminen R., Physica {\bf C 203} (1992) 441.
+
+\bibitem{b5}
+Murakami M., Morita M., Doi K., Miyamoto K.\ and Hamada H., 
+Jpn.\ J.\ Appl.\ Phys.\ {\bf 28} (1989) 399.
+
+\bibitem{b6}
+Murakami M., Morita M. and Koyama N., 
+Jpn.\ J.\ Appl.\ Phys.\ {\bf 28} (1989) 1125.
+
+\bibitem{b7}
+Takizawa T., Kanbara K., Morita M.\ and Hashimoto M., 
+Jpn.\ J.\ Appl.\ Phys.\ {\bf 32} (1993) 774.
+
+\bibitem{b8}
+Xu J.H., Miller J.H.\ Jr.\ and C.S.\ Ting, Phys.\ Rev.\ {\bf B 51}
+(1995) 424.
+
+\bibitem{dep}
+Bull M., De Podesta M., Physica {\bf C 253} (1995) 199.
+
+\bibitem{unni}
+Unnikrishnan, C.S., Physica {\bf C 266} (1996) 133.
+
+\bibitem{epl}
+Modanese G., Europhys.\ Lett.\ {\bf 35} (1996) 413. 
+
+\bibitem{gj}
+Modanese G., Phys.\ Rev.\
+{\bf D 54} (1996) 5002; Modanese G.\ and Schnurer J., {\it Possible
+quantum gravity effects in a charged Bose condensate under variable
+e.m.\ field}, report UTF-391/96, November 1996, Los Alamos database
+nr.\ gr-qc/9612022; ASCII version available from authors.
+
+\end{thebibliography}
+
+\newpage
+
+\noindent
+{\bf FIGURE CAPTIONS.}
+
+\bigskip
+
+\begin{enumerate}
+
+\item Schematic cross-section of the furnace for high-temperature
+treatment of the ceramic disk with planar hig-frequency inductors.
+
+\item General magnets and cryostat setup.
+
+\item Typical geometry and position of the disk over
+supporting solenoids.
+
+\item Schematic design of rotating solenoids.
+a, b: various configurations.
+
+\item Typical configuration of the tested set-up for the
+rotating solenoids.
+
+\item Block scheme of the electrical connections.
+
+\item Schematic design of the cryogenic system for the
+refrigeration of the superconducting disk.
+
+\item General configuration of the equipment for the
+weight loss measurements.
+
+\item Typical design of the three-point disk-braking system.
+
+\end{enumerate}
+
+
+\end{document}
+
+

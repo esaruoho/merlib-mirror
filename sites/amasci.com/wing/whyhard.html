@@ -1,0 +1,934 @@
+
+<html>
+<head>
+<title>Why Airfoils are so Effing Hard to Understand</title>
+<base href="http://amasci.com/" >
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" >
+<link rel="prev" href="/wing/airfoil.html" >
+
+<link rel="canonical" href="http://amasci.com/wing/whyhard.html" />
+
+<meta name="google-translate-customization" content="c3ed531053d636c5-1d98312485736f8d-g564ee6842740dee4-a" ></meta>
+
+<meta http-equiv="keywords" content="newton,bernoulli,airfoil,wing,lift,
+airfoil,lifting,force,controversy,misconception,newton,vs,bernoulli,
+downwash,flow,wingtip,vortex,vortices,wake,weltner,aerodynamic,
+aerodynamics,coanda,effect,path,length,pathlength,streamlines,kutta,
+condition,denker,airfoils" >
+</head>
+
+<BODY BGCOLOR="#ffffff" >
+<font size=4>
+
+<table summary="site nav" width=100%><tr>
+<td>
+<center>
+<TABLE cellpadding=5 summary="Navigation links" ><TR>
+<TD ALIGN="CENTER" ><b><font size=2>
+<a href="/wing/airfoil.html" >AIRFOIL&nbsp;MISCONCEPTIONS</a>&nbsp;&nbsp;| </b></font><br></TD>
+<TD ALIGN="CENTER" ><b><font size=2>
+<a href="/miscon/miscon.html" >K-12 MISCONCEPTIONS</a>&nbsp;&nbsp;|<br></TD>
+<TD ALIGN="CENTER" ><b><font size=2>
+<a href="/unew.html" >GOOD STUFF</a>&nbsp;&nbsp;|<br></TD>
+<TD ALIGN="CENTER" ><b><font size=2>
+<a href="/news.html" >NEW STUFF</a>&nbsp;&nbsp;|<br></TD>
+<TD ALIGN="CENTER" ><b><font size=2>
+<a href="/search.html" >SEARCH</a><br></TD>
+</TR></TABLE>
+</center> 
+</td>
+<td summary="google search" align=right valign=top>
+<div id="google_translate_element" ></div>
+<script type="text/javascript" >
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', 
+layout:google.translate.TranslateElement.FloatPosition.TOP_LEFT, 
+gaTrack: true, gaId: 'UA-101029-1'}, 'google_translate_element');
+}
+</script>
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit" >
+</script>
+<form action="http://www.google.com" id="cse-search-box" target="_blank" >
+  <div>
+    <input type="hidden" name="cx" value="partner-pub-6310699831332590:5004979720" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <input type="text" name="q" size="30" />
+    <input type="submit" name="sa" value="Search" />
+  </div>
+</form>
+<script type="text/javascript" src="http://www.google.com/coop/cse/brand?form=cse-search-box&amp;lang=en" >
+</script>
+</td></tr></table>
+
+
+
+
+<pre>
+
+OK, I'm not going to poke this hornet's nest again.
+
+Instead I'm going to kick it down, stamp on it, squirt it with 
+the hose, give it a good spraying with bug spray, then set it 
+on fire for good measure.   If I have time, I'll step on any
+stragglers which survive.
+
+:)
+
+
+See below.
+
+</pre>
+
+<hr>
+
+<h1> Why airfoils are so **EFFING HARD** to understand:<br>
+   A little list.</h1>
+
+<table width=100%><tr><td width=800><font size=4>
+
+
+<table width=100%><tr><td align=right> 2002 William J. Beaty</td></tr>
+</table>
+<hr>
+
+<font size=4>
+<table cellspacing=20 width=100%>
+
+<tr valign=top><td><font size=4>
+<a href="/wing/whyhard.html#1" >1.</a>
+We tilt our airfoils while denying that we've done so.
+</td></tr>
+
+<tr valign=top><td><font size=4>
+<a href="/wing/whyhard.html#2" >2.</a>
+The pressures around 'bluff' airfoil shapes are misleading.  They 
+greatly interfere with explanations of lifting force. 
+  (we could simply use thin-wing models instead).
+</td></tr>
+
+<tr valign=top><td><font size=4>
+<a href="/wing/whyhard.html#3" >3.</a>
+
+In grade-school, textbook diagrams do not explain how real airplanes can 
+stay up there.  The diagrams only depict "ground-effect flight."
+</td></tr>
+
+<tr valign=top><td><font size=4>
+<a href="/wing/whyhard.html#4" >4.</a>
+Airfoil diagrams in K-6 textbooks violate Newton's laws, they omit 
+   the wind tunnel's "floor" and "ceiling," they wrongly imply that the 
+wing applies force to the air, and they don't show the 
+   force-pairs which appear between the airfoil and the distant wind 
+tunnel surfaces.
+</td></tr>
+
+<tr valign=top><td><font size=4>
+<a href="/wing/whyhard.html#5" >5.</a>
+"Infinite wing" models are supposedly sensible?  ...while a real 
+   three-D wing is weird and distorted?  No, the opposite is true.
+</td></tr>
+
+<tr valign=top><td><font size=4>
+<a href="/wing/whyhard.html#6" >6.</a>
+Cambered airfoils give lift at zero angle of attack?  Maybe not.
+</td></tr>
+
+<tr valign=top><td><font size=4>
+<a href="/wing/whyhard.html#7" >7.</a>
+ A vortex-ring or a vortex-pair acts like a massive object which 
+   carries a certain amount of momentum as it travels.   Yet it 
+   carries no mass at all.
+</td></tr>
+<tr valign=top><td><font size=4>
+<a href="/wing/whyhard.html#8" >8.</a>
+ We "simplify" things by insisting that the working fluid be
+   infinitely viscous and totally inviscid at the same time.
+</td></tr>
+
+<tr valign=top><td><font size=4>
+<a href="/wing/whyhard.html#9" >9.</a>
+ Real 3D wings depend on their vortex-wake, and without it they
+   cannot fly (they would never rise more than a wingspan altitude and 
+escape ground-effect-mode flight.)
+</td></tr>
+
+
+</table>
+
+
+<a name="1" ></a>
+<hr>
+
+<b>
+1. We tilt our airfoils while denying that we've done so.
+</b>
+<blockquote>
+
+Let's make an airfoil by starting with a cylinder, and then placing a
+fairing behind it to form a blunt streamlined airfoil shape:
+
+<pre>
+          _----_
+         /      \
+        |        |   Cylinder
+        |        |
+         \_    _/
+           ----
+
+          _----____
+         /         ----____
+        |                  ----____
+        |              ____---- 
+         \_    ____----
+           ----      Streamlined airfoil-shape
+</pre>
+
+
+
+Now lets tilt it to a positive attack angle.  But let's pick a very
+special attack angle, one which puts the lower face of our streamlined
+shape at zero angle.
+<pre>
+          _----__                      
+         /       --__            
+        |            --__        
+        |                --__    
+         \_                  --__
+           ------------------------
+
+        Tilted streamlined airfoil
+
+</pre>
+Do you think you are looking at a streamlined cylinder-foil which has a
+positive angle of attack?  
+<br><p>
+
+WELL YOU'RE NOT!!!  No no no!
+
+<br><p>
+&lt;Grin!&gt;
+<br><p>
+
+You're REALLY
+looking at an airfoil which is flat on the bottom. And it's curved on top.  
+Also, it's not tilted, the angle of attack is actually zero.  It's not
+tilted in relation to the oncoming air, instead it has an asymmetrical
+shape which causes lift via the Bernoulli Effect!
+<br><p>
+
+If you disagree with us, well, you're a tiny 
+minority, and science proceeds by majority vote, don't you know.
+<br><p>
+
+Ooops, I forgot one little thing.  Let's add a tiny extra bit to the
+leading edge.  That will keep anyone from noticing that the airfoil is
+tilted at all.
+
+<pre>
+
+          BEFORE                           AFTER
+    _----__                         _----__
+   /       --__                    /       --__
+  |            --__               |            --__
+  |                --__          |                 --__
+   \_                  --__      |                     --__
+     ------------------------    ----------------------------
+      airfoil that's "tilted"      airfoil "with curved top"
+
+</pre>
+
+Isn't that amazing?  Just that small change in the leading edge has 
+changed the 20 degree attack angle into a zero attack angle.
+<br><p>
+
+Yes, I'm being sarcastic.
+<br><p>
+
+The way we choose "zero attack angle" is a genuine cause of confusion.  
+Please realize that Nature makes its own choice of angle, since the air 
+that flows
+away from the trailing edge of the airfoil determines the pressure
+distribution and the lifting force.  For this reason, the average angle of
+the airfoil's trailing edge is extremely important.  The shape and angle
+of the leading edge is not so important. To determine the angle of the
+airfoil, just use your hand to cover the leading edge in the diagram.  
+Ignore the leading edge. Then look at the trailing edge and measure the
+angle of the line drawn between the upper and lower surfaces.
+
+
+
+</blockquote>
+<a name="2" ></a>
+
+<hr>
+<b>
+2. The pressures around streamlined airfoil shapes are misleading. 
+   (we should use thin-wing models instead).</b>
+
+<blockquote>
+
+If we put a cylinder in a wind tunnel, and adjust things for low Reynolds
+number (with no turbulence or flow-detachment), then we'll discover that
+the fluid pressure on the cylinder looks like this:
+
+<pre>
+           low
+          _----_
+         /      \
+   high |        |  high        Cylinder in a horizontal flow
+        |        |
+         \_    _/
+           ----
+           low
+</pre>
+
+Pressures are high at the front and rear of the cylinder.  And they are 
+low at the top and bottom.
+With me so far?  If we ignore shear effects, the net drag force will be 
+zero.  There's zero drag because the acceleration pattern at 
+the 
+front of the cylinder is the
+exact opposite of the acceleration at the back.  It takes
+high pressure to turn those flows, but the forces on the front and rear of 
+the cylinder are
+equal and opposite, so the net drag force is zero.
+<br><p>
+
+Now let's look at the forces on a streamlined "cylinder" airfoil.
+<pre>
+
+             low
+          _----____       medium
+         /         ----____
+   high |                  ----____
+        |              ____----        Pressures during horizontal flow
+         \_    ____----
+           ----           medium
+             low
+
+</pre>
+
+The forces still sum to zero, so drag is still zero.   And the flows above 
+and below the airfoil still have low pressure, same as with the cylinder.
+<br><p>
+
+Now let's tilt the streamlined shape.  But let's tilt it in a very
+special way, so that the lower face becomes horizontal.
+<pre>
+
+          _----__   very low
+         /       --__            
+   high |            --__  very low     
+        |                --__            Pressures during horizontal flow
+         \_                  --__
+           ------------------------
+               medium       medium
+
+</pre>
+
+By tilting the shape, we eliminate the low pressure on the bottom surface,
+but at the same time we make the low pressure on the top surface very low
+indeed.
+<br><p>
+
+Now students, repeat after me:
+<blockquote>
+
+   "The top of the airfoil creates the entire lifting force, and 
+    the parcels of air passing BELOW the airfoil do not change as 
+    pressure as the air goes by!"              (wrong!)
+<br><p>
+
+   "The airfoil is not tilted.  Instead it is flat on the bottom
+    and curved on the top!"             (no!)
+
+</blockquote>
+
+Everyone believes these statements except the stupid kid in the back of 
+the classroom
+who is always waving his hand yelling out embarassing questions that the
+teacher can't answer.  He's so stupid!  Fortunately we know that the
+majority is always correct in science.  We know that we can always trust
+what's written in a textbook, so we have no reason to think twice about
+ignoring that kid.
+<br><p>
+
+The stupid kid is going to do badly on the next test.  He doesn't 
+even draw the correct diagrams in his notebook.   Instead he draws 
+this:
+
+
+<pre>
+
+    pressures:
+
+
+                _____     low
+                     -----_____    low
+                  high         -----_____
+                           high
+
+
+ FIG. 1    TILTING AN AIRFOIL WITH RESPECT TO ONCOMING AIR CREATES 
+           EQUAL AND OPPOSITE REGIONS OF PRESSURE.   THE UPPER AND
+           LOWER SURFACES BOTH PARTICIPATE EQUALLY IN CREATING "LIFT."
+
+
+
+</pre>
+
+Then he draws this:
+
+<pre>
+
+
+    pressures:
+
+
+                           medium
+           medium    -----------------------   medium
+                           medium
+
+
+ FIG. 2   THIN FLAT AIRFOIL DEFLECTS NO AIR, PRESSURE DOESN'T CHANGE,
+          AND THE LIFTING FORCE IS ZERO
+
+
+</pre>
+
+
+Is he right?  Doesn't a fundamental difference exist between a thin flat
+airfoil, versus a thick "cylinder" airfoil?  (If there's no big 
+difference, then the stupid kid is right and the experts are wrong.)
+
+<br><p>
+Also, if a THICK airfoil usually has a low pressure below itself... and if 
+we can get rid of this low pressure by tilting the airfoil... then maybe 
+the bottom of the airfoil *DOES* create lift after all.  Maybe the medium 
+pressure below the tilted thick airfoil is really just a misleading 
+"artifact" caused by the thick wing.  Maybe it's a confusing effect 
+caused by the combination of 
+thick airfoil and tilted airfoil.  Maybe the thick airfoil would always 
+create low 
+pressure below itself, while the tilted angle of the airfoil creates high 
+pressure.  At certain angles the two changes cancel out, and this confuses 
+everyone.
+<br><p>
+
+Oh no, if the stupid kid is right, everyone will
+laugh at us, and we can't have that!  Change the subject quickly, before
+anybody notices.
+
+
+
+
+</blockquote>
+
+
+<a name="3" ></a>
+<hr>
+
+
+
+<b>3. 99.99% of grade-school textbook diagrams depict ground-effect flight.  They do 
+not
+   explain how airplanes can stay up there.
+</b>
+
+<blockquote>Here are a couple of excellent (and correct) diagrams.  
+Unfortunately they are almost always interpreted wrong by all the
+grade-school authors who explain the origin of the lifting force.  
+Unfortunately many other important diagrams are never presented to
+students.
+
+<blockquote>
+  <a href="http://www.av8n.com/" rel="nofollow" >http://www.av8n.com/how/gif48/3v.gif</a> 
+(from <a href="http://www.av8n.com/" rel="nofollow" >J. Denker's</a> site)
+<br><p>
+
+  <a href="http://www.av8n.com/irro/animation/propsi.gif" rel="nofollow" >
+http://www.av8n.com/irro/animation/propsi.gif</a>
+(from <a href="http://www.av8n.com/irro/" rel="nofollow" >M. Colombini's</a> site)
+
+
+</blockquote>
+
+If we concentrate our attention <i>entirely</i> on diagrams like these, we
+will never have a correct explanation of airplane flight.  Of course 
+these
+diagrams do explain many issues regarding the lifting force.  However,
+these diagrams are two-dimensional.  They are "infinite wing" diagrams,
+and they do not depict the flight of a real aircraft.  Instead they depict
+flight inside a wind tunnel; "ground-effect flight."  Or call it 
+"venturi-effect flight" where the
+floor and ceiling of the wind tunnel are critically important.  These
+diagrams mostly explain what happens when an aircraft is gliding just
+above the runway.  When an aircraft rises upwards and climbs into the
+sky, the above diagrams no longer work.  Other diagrams must be used.
+<br><p>
+
+If your wingspan is infinitely long, tell me <i>how high</i> must you fly
+before you can escape the ground-effect style of flight?  Answer: you
+cannot escape at all.  Real airplanes can escape.  Real wings can employ a 
+very different flight mode, but two-dimensional
+airfoils are trapped.  If the wingspan is infinite, then the lifting force
+always comes entirely from venturi effect.  Because of venturi effect, the
+upwards lifting force on the two-dimensional airfoil must have an equal
+and opposite downwards force on the floor and ceiling of the wind tunnel.
+This is true even if the "floor" and "ceiling" of a wind tunnel have been
+removed to immense distance.  In a two dimensional world, the force-pair
+against the wind tunnel surfaces never changes no matter high the wing
+flys.<br><p>
+
+Therefore, the two-dimensional or infinite-wing diagrams *ONLY* depict how
+ground-effect flight works.  They cannot show the aircraft wake, and they
+cannot show any of the momentum which a real wing dumps into the
+atmosphere as it flys forward.  These diagrams do not explain normal
+airplane flight.  Three dimensional diagrams are required.
+
+Here's my attempt at drawing a simplified 3-D diagram:
+ <blockquote>
+Disk Balloons<br>
+<a href="/wing/rotbal.html" >
+/wing/rotbal.html</a>
+ </blockquote>
+ </blockquote>
+
+
+<a name="4" ></a>
+
+<hr>
+<b>
+4. Airfoil diagrams in K-6 textbooks violate Newton's laws, they omit 
+   the "floor" and "ceiling," and they don't show the force-pairs between
+   the airfoil and the floor/ceiling.</b>
+
+<blockquote>
+
+Into a wind tunnel we place an airfoil having positive angle-of-attack.  
+We want to examine the lifting force.  To eliminate the effects of the
+ends of the airfoil, we extend it so that it touches the walls of the wind
+tunnel with a sliding contact.
+<br><p>
+
+This is the so-called "infinite wing" situation.
+<br><p>
+
+If we measure the forces in this system, we find a venturi effect. Yes,
+the airfoil generates lift, but there's also a reaction force on the floor
+and ceiling of the wind tunnel.  The source of these two forces is
+obvious:  the airfoil generates a pattern of circulation which extends to
+the floor and ceiling, and these air motions alter the pressure on the
+floor and ceiling.  In this way the weight of the airfoil is communicated
+to the Earth (the airfoil is lifted upwards, but the whole wind tunnel
+experiences an equal and opposite reaction force downwards.)
+<br><p>
+
+OK, let's try to get rid of these unwanted forces.  We build another wind
+tunnel, but one which is thin but very tall.  The floor and ceiling are
+far away from our tilted airfoil.  Now we again measure the forces on the
+floor and ceiling.  THEY ARE THE SAME AS BEFORE!  Ah, the explanation is
+obvious:  it's the circulation pattern again.  The circulation extends to
+the floor and ceiling.  Now it extends much further than in our earlier
+wind tunnel, and the pressures on the floor and ceiling are far less...  
+but those pressures are spread over a larger surface, and the net forces
+are the same as in the other wind tunnel.  The width of the pressure
+pattern on the floor and ceiling is inversely proportional to the
+pressures involved.
+<br><p>
+
+OK, let's pull the floor and ceiling far, far apart.  Does this reduce the
+forces?  Nope.  In other words, the weight of the airfoil upon the Earth
+stays constant.  We just cannot get rid of the floor and ceiling of the
+wind tunnel!  No matter, we can ARBITRARILY ERASE THEM FROM OUR DIAGRAMS.
+That will "simplify" things, right?
+<br><p>
+
+But won't someone complain?  No, because we can be very sneaky.  The
+upwards attraction force-pair between the airfoil and the ceiling was
+EQUAL to the downwards repulsion force-pair connected to the floor.  
+Essentially there is one force connected to the bottom of the airfoil and
+another force pulling up from the top. We can pretend that the two
+force-pairs are actually a single force-pair: one end of the pair is
+pushing on the bottom of the airfoil, while the other end essentially
+pulls upwards from above.  Two forces, right?  They must be a force pair,
+and we can erase the floor and ceiling!  Well, they're really not, since
+there's now an unbalanced force pushing the wing upwards.  The far ends of
+those two forces still lie on the floor and ceiling.  But no matter, we'll
+just ignore that.  "But doesn't this mean that the airfoil has no weight
+against the earth, and is lifting itself up by it's own bootstraps?"  And
+what if someone asks how a ship rudder can turn the ship, or how a
+propellor blade can drive a ship or airplane forward, or how a bird can
+fly around in a weightless space-station environment.  Shhh!  Don't
+mention that, and with luck nobody will notice the problem. </blockquote>
+
+
+
+
+<a name="5" ></a>
+
+<hr>
+<b>
+5. "Infinite wing" models are supposedly sensible?  ...while real 
+   three-D wings are weird and distorted?  No, the opposite is true.
+</b>
+
+<blockquote>
+
+If an airfoil is infinitely wide, then in order to create a lifting force,
+the airfoil doesn't need to deflect any air on average. 
+<br><p>
+ Why?
+<br><p>
+
+Well, suppose an infinite airfoil did deflect some air.  Suppose it
+left a trail of descending air behind itself.  As that air moved 
+downwards,
+then the air below it would have to descend too.  And in order to avoid
+forming a vacuum above, the air above the descending streamline would also
+have to descend.  Let's draw a simple picture. <br><p>
+
+If this is the streamline which is bent by a tiny
+airfoil:
+<pre>
+
+ ----------------------_____          
+                            -----_____          
+                                      -----_____
+                                                -----_____
+
+</pre>
+
+...then here's what we also need if one streamline bemds:
+
+<pre>
+
+ ----------------------_____         
+                            -----_____          
+                                      -----_____
+ ----------------------_____                    -----_____
+                            -----_____          
+                                      -----_____
+ ----------------------_____                    -----_____
+                            -----_____          
+                                      -----_____
+ ----------------------_____                    -----_____
+                            -----_____          
+                                      -----_____
+ ----------------------_____                    -----_____
+                            -----_____          
+                                      -----_____
+ ----------------------_____                    -----_____
+                            -----_____          
+                                      -----_____
+ ----------------------_____                    -----_____
+                            -----_____          
+                                      -----_____
+
+</pre>
+
+See the problem?  If we're living in a two-dimensional world, then ANY
+permanent bending of a horizontal streamline means that we have to deflect
+an infinite amount of mass; we have to bend ALL the streamlines above and
+below our one bent streamline.  This strange effect only happens in 
+"flatland" worlds.  
+<br><p>
+
+Two-dimensional airfoil diagrams are weird and bizarre.  When compared to 
+a 3D wing, two-D airfoils depict an
+extremely distorted situation.  In our 3D world
+we're allowed to give a streamline a permanent downwards deflection.  The
+air below the streamline simply gets out of the way.  There's an extra 
+dimension in 3D,
+so new things can occur which were impossible in the 2D world.
+<br><p>
+
+Here's a typical streamline near a 2D infinite wing (tiny airfoil is in the center).  
+Note the front-to-back symmetry.  There is "upwash" in front of the 
+airfoil, and "downwash" behind.  On average, no air is deflected 
+downwards.  Also, the pattern of circulating air surrounding the airfoil 
+extends outwards to infinity.  These are requirments of the 2D 
+world:
+
+<pre>
+                         _-_
+                   ___---   ---___
+    __________-----               -----_________
+
+</pre>
+
+
+And here's what a 3D aircraft does to the still air it encounters:
+
+<pre>
+    ______________________
+                          ---___
+                                ---___
+                                      ---___
+                                            ---___
+                                                  ---___
+
+
+</pre>
+
+3D airplanes are allowed to deflect the air, and the air remains 
+deflected and moving down.  The same effect cannot exist in a 2D airfoil 
+diagram.
+
+</blockquote>
+
+<a name="6" ></a>
+<hr>
+<b>
+6. Cambered airfoils give positive lift at zero angle of attack?
+</b>
+
+<blockquote>
+
+Airfoils can only function if viscosity is low and inertia is important.
+In that case the trailing edge of
+the airfoil is far more important than the leading edge when lift is 
+generated.  After all, the air
+which flows off the trailing edge of the airfoil causes circulation, and 
+circulation causes air-deflection and lift.
+<br><p>
+
+When a cambered (curved) airfoil is horizontal, the trailing edge of a 
+airfoil is TILTED with respect to the
+oncoming air.  Yet the airfoil as a whole is NOT TILTED; the angle of
+attack of the cambered airfoil is zero.  Isn't this confusing?  The air
+itself only pays attention to the trailing edge.  Shouldn't we define
+"angle of attack" as being the angle of the trailing edge with respect to
+the oncoming atmosphere?  If we defined AOA in that way, then a cambered
+airfoil would have a large angle of attack.  It would have a large AOA 
+even when the leading and trailing edges
+are on a horizontal line.  If we defined AOA in that way, then the lifting
+force of a cambered airfoil would have a sensible explanation:  tilted
+wings fling air downwards!  Unfortunately we define AOA in relation to the 
+line drawn between leading and trailing edges.  Massive confusion is the 
+result, because this gives us an "un-tilted" wing which still deflects air 
+and creates lift.
+
+
+</blockquote>
+
+<a name="7" ></a>
+
+<hr>
+<b>
+7. A vortex-ring or a vortex-pair acts like a massive object which 
+   carries a certain amount of momentum as it travels, yet it 
+   carries no mass at all.
+</b>
+
+<blockquote>
+
+When airplane wings form a downwards-moving vortex wake, are they forcing
+air downwards?  If we inspect the flow-lines in a cross section of the
+vortex pair, we find that they form closed loops.  For every parcel of air
+which moves downwards, another is moving upwards, and zero mass is being
+transported.  Therefore WINGS DON'T FLING ANY AIR DOWNWARDS.  If we
+stopped thinking at that point we'd be "right."  We'd make an enormous 
+blunder, and we'd entirely fail to explain how airplanes work.  In truth,
+airplane wings DO fling air downwards.  But they do it with a most unusual
+method.
+<br><p>
+
+When a vortex-pair is moving downwards, it encounters some air which is in 
+it's path.  This air is parted by the vortices.  It travels upwards on
+either side, and the vortices move downwards into the space which this 
+creates.  Finally, the air which was parted by the vortices is rejoined 
+again behind them.  But look at something important: the velocity and 
+momentum of that air.  The vortices MOVED that air.  They accelerated it 
+upwards.  They gave it some upwards momentum.  But then they decelerated 
+it again, and the air was left with zero velocity.  The vortex-pair lost 
+no momentum as it moved downwards by "one step" through the surrounding 
+air.
+<br><p>
+
+What does this mean?  It means that any downwards momentum stored within
+the vortex-pair must remain within the vortex-pair as it moves.  In other
+words, the vortex-pair acts like a huge volume of downwards-moving mass,
+and it carries momentum as it goes.  Yet as the vortex-pair moves
+downwards, it pushes the surrounding air upwards.  Won't the total momentum
+be zero?  No, because the vortex pair takes back all the momentum it has
+given to the surrounding air.  It only makes a temporary loan, so that the
+surrounding air can be moved from the bottom of the vortex pair to the top
+(and so the vortex pair can move downwards to take its place.)
+<br><p>
+
+Forming a downwards-moving vortex-pair is like firing a bullet downwards: 
+your gun will experience a "kick" of reaction force.   Because the wings 
+of an airplane form such a vortex, they must experience an upwards kick.
+Yet they fling no air downwards!  They only fling PURE MOMENTUM downwards.  
+The vortex-pair is a traveling pattern of pure downwards momentum which 
+carries zero mass as it moves.  Weeeeeeird!
+
+</blockquote>
+
+<a name="8" ></a>
+
+<hr>
+<b>
+8. We "simplify" things by insisting that the working fluid be
+   infinitely viscous and totally inviscid at the same time.
+</b>
+
+<blockquote>
+
+
+When looking at cylinders and airfoils in a wind tunnel diagram, we want
+to use highly viscous air.  That way we can avoid the flow-detachment
+phenomenon.   When air flows around a cylinder, if it's very viscous, then 
+it will "close up" behind the cylinder and there will be no drag.
+<br><p>
+
+But the shearing of a viscous fluid causes another kind of drag, and this 
+drag messes up the Bernoulli worldview.  So we really must use some 
+totally non-viscous air in our explanations.
+<br><p>
+
+Also, when analyzing airfoils, if the air is viscous, then the inertia 
+of
+the air won't be important, and the "Kutta condition" won't work.  There
+will be no circulation and no lifting force.  Therefore we must use
+non-viscous air.
+<br><p>
+
+And if the air is viscous, there will be a wide "boundary layer" which 
+we'll have to deal with.  It had better be non-viscious air.
+<br><p>
+
+But if we use non-viscous air, there's no reason for the air to follow the
+rear half of a cylinder!  And with non-viscous air, there's no reason for
+the air to follow the upper surface of a tilted airfoil!  Non-viscous air 
+causes a permanent "stall" condition.
+<br><p>
+
+We're trapped.  We need some very nasty thick viscous air like syrup or
+tar which is... totally non-viscous.  If we only had some of it, then
+airfoils and the lifting force would be very easy to explain. <br><p>
+
+This is called "irreducible complexity."  If we try to simplify the
+explanation of wings and the lifting force, then we change reality so much
+that our explanations become wrong.  Einstein warns us to make our
+explanations only as simple as possible, BUT NO SIMPLER.  Highly viscous
+"inviscid air" used in aerodynamics explanations has gone WAY past
+Einstein's line in the sand.  It falls under the classification of "so
+simplified that it no longer applies to reality at all."  If the air is so
+inviscid that Bernoulli's Equation applies, then we cannot explain how the
+upper surface of a tilted plate can cause flow-attachment so that it
+deflects air downwards, and we cannot explain the low pressure above an
+airfoil.
+</blockquote>
+
+<a name="9" ></a>
+<hr>
+<b>
+9. Real airplanes depend on their vortex-wake, and without it they
+   cannot fly (they can never escape ground-effect flight.)
+</b>
+
+<blockquote>
+
+A rocket can hover above the earth by throwing parcels of mass downwards.  
+We can also get a machine gun and build a "flying machine" which can stay
+aloft because it flings bullets downwards. The rocket and the machine gun
+can only stay up because they apply a force to some parcels of mass, and
+they obey conservation of momentum and the F=MA rule.  Are things
+different for airplanes?  Yes and no.
+<br><p>
+
+When in normal flight, yes, an airplane essentially flings momentum-
+bearing air downwards.  But while in ground-effect flight at very low
+altitude, instead the wings press downwards upon the ground, and the
+ground presses upwards on the wings, with the air allowing the exchange of
+forces, venturi-style.  In ground-effect flight there is a Newtonian
+force-pair between the wings and the Earth. There are two surfaces
+involved:  the Earth below, and the wing above.  But in high-altitude
+flight the Earth is out of the picture, and an airplane remains aloft
+because it reacts only against the air.  If the Earth were gone entirely,
+the airplane could still drive around in a huge ball of air, just as a
+fish could still swim around in a huge ball of water floating in a space
+station. <br><p>
+
+As with hovering rockets and downwards-pointing machine guns, an airplane
+in high-altitude level flight must create a stream of downwards-moving
+"exhaust."  This "exhaust" is obvious: it's the downwards-moving wing tip
+vortices and all the air which surrounds them.  Without this "exhaust" the
+airplane could not fly.  This "exhaust" is as important to flight as the
+exhaust of a hovering rocket.  It's as important as the bullets which are
+shot out by our downwards-pointing, flying machine gun.  Yet most textbook 
+diagrams never discuss this exhaust, and if they do, they treat it as an 
+unwanted effect best gotten rid of.  But that's like wanting to get rid of 
+the exhaust expelled by a rocket motor.  Physics has bad things to say 
+about any such attempt.  And anyone who doesn't understand why rockets 
+(and airplanes) must expel an "exhaust," does not really understand how 
+rocket motors or wings actually work.
+<br><p>
+<center>
+<img width=501 height=400
+src="http://hyperphysics.phy-astr.gsu.edu/hbase/fluids/flupic/aircraftwake.jpg" rel="nofollow" >
+
+<br clear=all>
+The "exhaust" below a wing made visible<br>
+(See <a 
+href="http://hyperphysics.phy-astr.gsu.edu/hbase/fluids/downwash.html" rel="nofollow" >
+Hyperphysics</a>
+
+ and <a href="http://www.diam.unige.it/~irro/gallery.html" rel="nofollow" >other 
+photos.</a>) 
+
+</center>
+<br><p>
+
+ 
+</blockquote>
+
+
+</font><td><td>&nbsp;</td></tr></table>
+
+<pre>
+
+
+
+
+
+
+
+</pre>
+<center>
+<font size=3>
+<a href="/wing/whyhard.html" >
+http://amasci.com/wing/whyhard.html</a><br>
+
+Created and maintained by <a href="/billb.html" >Bill 
+Beaty</a>.  Mail me at: <a href="/amfrm/" >
+<img border=0 width=141 height=19 src="/graphics/abc.gif" ></a>. <br>
+</center>
+
+
+<center>
+<!-- Start of StatCounter Code for Default Guide -->
+<script type="text/javascript" >
+var sc_project=10408414; 
+var sc_invisible=0; 
+var sc_security="00267183"; 
+var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript><div class="statcounter" >
+<a title="shopify stats" href="http://statcounter.com/shopify/" target="_blank" >
+<img class="statcounter" src="http://c.statcounter.com/10408414/0/00267183/0/" alt="shopify stats" ></a></div></noscript>
+<!-- End of StatCounter Code for Default Guide -->
+<a href="http://statcounter.com/p10408414/?guest=1" >View My Stats</a>
+</center>
+
+
+</font>
+</body>
+</html>
+
+

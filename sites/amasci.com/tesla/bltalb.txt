@@ -1,0 +1,255 @@
+UP TO:  Main Ball-Lightning Page
+http://amasci.com/tesla/ballgtn.html
+
+
+Subject:      Re: Ball Lightning - new info
+From:         bo964@FreeNet.Carleton.CA (Michel T. Talbot)
+Date:         1995/04/22
+Newsgroups:   sci.geo.meteorology
+http://amasci.com/tesla/bltalb.txt
+
+
+Ball lightning (boules de feu or foudre spherique; Kugeblitz) is the
+name given to the mobile luminous spheres which have been observed
+during thunderstorms.  A typical ball lightning is about the size of an
+orange or a grapefruit and has a lifetime of a few seconds. Compilations
+of eye-witness reports of ball lightning have been published by
+Brand(1923), Rodewald(1954), Dewan(1964), Silberg(1965), McNally(1966)
+and Rayle(1967) among others. Visual sightings are often accompanied by
+sound, odor, and permanent material damage, and hence it would appear
+difficult to deny the reality of the phenomenon [as Humphreys(1936) has
+done].  In a letter to the editor of the London Daily Mail, Morris(1936)
+described an unusual incident in which a ball lightning caused a tub of
+water to boil:
+  During a thunderstorm I saw a large, red hot ball come down from the
+  sky. It struck our house, cut the telephone wire, burnt the window
+  frame,and then buried itself in a tub of water which was underneath.
+  The water boiled for some minutes afterwards, but when it was cool
+  enough for me to search I could find nothing in it."
+
+Photographs purported to be of ball lightning have been published by
+Jensen(1933), Kuhn(1951), Wolf(1956), Davidov(1958), Jennings(1962), and
+Muller-Hillebrand(1963). A phenomenon very similar to, if not identical
+with, ball lightning has been reported to occur in submarines due to
+discharge of a current about 150,000 amp direct current from a 260-volt
+source across a circuit breaker(Silberg, 1962).  In addition a number of
+reports were received of ball-lightning-like phenomena being initiated
+accidentally in high-power electrical equipment.
+
+Ball lightning and St. Elmo's fire are sometimes confused. St. Elmo's
+fire is a corona discharge from a pointed conducting object in a strong
+electric field.  Like ball lightning, St. Elmo's fire may assume a
+spherical shape.  Unlike ball lightning, St. Elmo's fire must remain
+attached to a conductor, although it may exhibit some motion along the
+conductor.  Further, St. Elmo's fire can have a lifetime much greater
+than the lifetime of the usual ball lightning.
+
+From the many published ball lightning observations, it is possible to
+compile a list of:
+
+ball lightning characteristics
+------------------------------
+1. Occurrence
+ Most observations of ball lightning are made during thunderstorm activity.
+ Most, but not all, of thunderstorm-related ball lightning appear almost
+ simultaneously with a cloud-to-ground lightning discharge.  These ball
+ lightnings appear within a few meters of the ground.  Sometimes ball
+ lightnings are reported to occur near the ground in the absence of a
+ lightning discharge.  Ball lightnings have also been observed to hang
+ in mid-air far above the ground and have been observed falling from a
+ cloud towards the ground.
+
+2. Appearance
+ Ball lightnings are generally spherical, although other shapes have been
+ reported they are usually 0.1-0.2m in diameter, with reported diameters
+ ranging from 0.01-1.00m.  Ball lightnings come in various colors, the most
+ common colors being red, orange, and yellow.  Ball lightning are generally
+ not exceptionally bright, but can be seen clearly in daylight.  They are
+ usually reported to maintain a relatively constant brightness and size
+ during their lifetimes, although ball lightnings which change in
+ brightness and size are not uncommon.
+
+3. Lifetime
+ Ball lightnings generally have a lifetime of less than 5 seconds.
+ A small fraction of reports indicate a lifetime of over a minute.
+
+4. Motion
+ Ball lightning usually move horizontally at a velocity of a few meters
+ per second.  They may also remain motionless in mid-air or may descend
+ from a cloud towards the ground.  They do not often rise, as would be
+ the case if they were spheres of hot air at atmospheric pressure in the
+ presence of only a gravitational force.  Many reports describe ball
+ lightning which appear to spin or rotate as they move.  Ball lightnings
+ are sometimes reported to bounce off solid objects, typically the ground.
+
+5. Heat, sound and odor
+ Rarely do observers of ball lightning report the sensation of heat.
+ However, accounts of ball lightning which burned barns and melted wires
+ do exist.  One report found in McNally (1966) described a ball lightning
+ which hit a pond of water with a sound "as if putting a red hot piece of
+ iron into the water."  Sometimes ball lightnings are reported to emit a
+ hissing sound.  Many observers report a distinctive odor accompanying
+ ball lightning.  The odor is usually described as sharp and repugnant,
+ resembling ozone, burning sulphur, or nitric oxide.
+
+6. Attraction to objects and enclosures
+ Ball lightnings are often reported to be attracted to metallic objects
+ such as wire fences or telephone lines.  When attached to metallic
+ objects, they generally move along those objects.  Some or all these
+ observations may refer to a type of St. Elmo's fire.  Ball lightnings
+ often enter houses through screens or chimneys.  Sometimes they are
+ reported to enter houses through glass window panes.  They are also
+ reported to originate within buildings, on occasion from telephones.
+ Ball lightnings can exist in an all-metal enclosure such as the interior
+ of an airplane (Uman, 1968).
+
+7. Demise
+ Ball lightnings decay in one of two modes, either silently or
+ explosively.  The explosive decay takes place rapidly and is accompanied
+ by a loud noise.  The silent decay can take place either rapidly or
+ slowly.  After the ball has decayed, it is sometimes reported that a
+ mist or residue remains.  Occasionally a ball lightning has been
+ observed to break up into two or more smaller ball lightnings.
+
+8. Types
+ There may be more than one type of ball lightning.  For example, the
+ ball lightning that attaches to conductors may be different from the
+ free-floating ball lightning; and the ball lightning that appears near
+ ground may be different from the ball lightning that hangs high in the
+ air or the ball lightning that falls out of a cloud
+
+No theory of ball lightning exists which can account for both the degree
+of mobility that the ball exhibits and for the fact that it does not rise.
+Thus, despite the numerous theoretical models proposed for the phenomenon,
+the mechanisms which cause the ball lighting remain unknown.  All ball
+lightning theories fall into one of two general classes:
+
+Ball Lightning Theories
+-----------------------
+I. Energy source is stored within the ball (Internally powered) and
+E. Energy source is outside the ball (Externally powered)
+
+ Internally powered models
+ -------------------------
+I1 The ball lightning is gas or air behaving in a "unusual" way. It has
+   been suggested that the ball lightning is slowly burning gas, is the
+   radiation from long-lived metastable states of air particles or from
+   particles which absorb energy from the metastables, is due to chemical
+   reactions involving dust, soots, etc., and so on.
+
+I2 Ball lightning is a sphere of heated air at atmospheric pressure.
+   Uman and Lowke (1968) have calculated the temporal and spatial
+   characteristics of a sphere of hot air.  It was found that for a sphere
+   of about 0.2m in diameter, the cooling rate was about 100K/sec in the
+   temperature range near 3000K and that the sphere maintained an
+   essentially constant radius during the cooling process.  Unfortunately,
+   the relatively small cooling rate does not lead to a relatively
+   constant ball brightness.
+
+I3 Ball lightning is a very high density plasma (with electron density
+        25  -3
+   of 10   m   ) which exhibits quantum mechanical properties
+   characteristic of the solid state (Neugebauer, 1937)
+
+I4 Ball lightning is due to one of several suggested configurations of
+   closed loop current flow contained by it's own magnetic field.
+   Finkelstein and Rubinstein(1964) have shown that plasma containment
+   of this type is not possible under normal conditions in air.
+
+I5 Ball lightning is due to some sort of air vortex (like a smoke ring)
+   providing containment for luminous gases.
+
+I6 Ball lightning is a microwave radiation field contained within a thin
+   spherical shell of plasma (Dawson and Jones, 1968).
+
+ Externally powered models (External Power Sources)
+ -------------------------
+E1 High-frequency >100MHz EMF
+   --------------------------
+   Cerrillo(1943) and Kapitza(1955) proposed that focused RF energy from
+   the thundercloud could create and maintain a ball lightning.  The high
+   electric fields necessary to effect this mechanism have never been
+   observed in thunderstorms.
+
+E2 Steady current flow from cloud to ground
+   ----------------------------------------
+   Finklestein and Rubinstein(1964) and Uman and Helstrom(1966) have
+   suggested that a steady current flowing from cloud to ground would
+   contract in cross section in a region of high conductivity (the ball)
+   and that the increased energy input due to the constriction of current
+   could maintain the ball.  This type of theory cannot account for the
+   existence of ball lightning inside structures, particularly inside
+   metal structures.
+
+E3 Focused Cosmic Ray Particles?
+   -----------------------------
+   Arabadzhi(1957) has suggested that radioactive cosmic-ray particles
+   could be focused by the electric fields of the thunderstorm so that
+   they would create an air discharge at one point in space.
+
+           Ball Lightning References (94 04 22)
+           =========================
+all this text was from Appendix C in the book:
+ Uman, M.A. "Lightning", pp243-248 (Dover, 1968)
+
+Eye Witness Reports
+-------------------
+Brand, W.: "Der Kugelblitz," Grand, Hamburg, Germany, 1923
+Arthur C. Clarke's "Mysterious Worlds"pp301-307(1980), Fontana/Collins
+Dewan, E.M.: Eyewitness Accounts of Kugelblitz, Microwave Physics Lab, Air
+  Force Cambridge Res. Lab., CRD-125, March, 1964.
+Humphreys, W.J.: Ball Lightning, Proc. Am. Phil. Soc. 76:613-626(1936)
+McNally, J. Rand, Jr.: Preliminary Report on Ball Lightning, Oak Ridge
+  National Laboratory, ORNL-3938, UC-34-Phys,. May, 1966
+Morris, W.: A Thunderstorm Mystery, letters to the editor of Daily Mail
+  of London, Nov. 5, 1936
+Rayle, W.D.: Ball Lightning Characteristics, NASA Tech. Note D-3188(Jan,67)
+Rodewald, M.: Kugelblitzbeobachtungen, Z. Meteorol., 8:27-29(1954)
+Silberg, P.A.: A Review of Ball Lightning, in S.C. Corondi(ed.), "Problems
+  of Atmospheric and Space Electricity", pp.436-454, American Elsevier
+  Publishing Company, New York, 1965
+
+Photographs
+-----------
+Arthur C. Clarke's "Mysterious Worlds" p302, Fontana/Collins
+Davidov, B., Rare Photograph of Ball Lightning, Priroda, 476:96-97(1958).
+Jennings, R.C., Path of a Thunderbolt,New Scientist,13(no270):156,Jan18,1962
+Jensen, J.C.: Ball Lightning, Physics (now J.Appl.Phys), 4:372-374(1933)
+Kuhn, E.: Ein Kugelblitz auf einer Moment-Aufname?,
+  Naturwissenshaften, 38:518-519(1951)
+Muller-Hillebrand, D.: Zur Frage des Kugelblitzes, Elektrie,17:211-214(1963)
+Wolf, F.: Interessante Aufnahme eines Kugelblitz,
+  Naturwissenshaften, 43:415-417(1956)
+
+Television Shows
+----------------
+"TLC Presents: Electric Skies" (1994), The Learning Channel
+"Giants in the Earth", Arthur C.Clarke's Mysterious World,Yorkshire TV(1980)
+
+Ball Lightning Theories
+-----------------------
+Arabadzhi, V.I.: The Theory of Atmospheric Electricity Phenomena, Uch.Zap.
+  Minsk.Gos.Univ., im A.M. Gor'kogo, Ser. Fiz.-Mat., no. 5, 1957. (Trans-
+  lation avail. as RJ-1314 from Associated Technical Services, Glen Ridge,NJ
+Cerrillo, M.: Sombre las posibles interpretaciones electromagneticas del
+  fenomena de las centellas, Commision Impulsora Coordinadora. Cient.,
+  Mexico, Ann., 1:151-178 (1943)
+Dawson,G.A., and R.C. Jones, Ball Lightning as a Radiation Bubble, Fourth
+  International Conference on the Universal Aspects of Atmospheric
+  Electricity, Tokyo, Japan, May, 1968.
+Finkelstein and Rubinstein: Ball Lightning, Phys. Rev., 135:A390-A396(1964)
+Kapitza, P.: The Nature of Ball Lightning, Dokl.Akad.Nauk SSSR, 101:245-248
+  (1955). In Russian.
+Neugebauer, T.: Zu dem Problem des Kugelblitzes, Z.Physik,106:474-484(1937)
+Silberg,P.A.,Ball Lightning and Plasmoids,J.Geophys.Res.,67:4941-4942(1962)
+Uman, M.A.: Some Comments on Ball Lightning, J. Atmospheric Terrest. Phys.,
+  30:1245-1246 (1968)
+Uman, M.A., and C.W. Helstrom: A Theory of Ball Lightning, J.Geophys.Res.,
+  71:1975-1984(1966)
+Uman, M.A., and J.J. Lowke: "Decaying Lightning Channels, Bead Lightning
+  and Ball Lightning" 4th international conf. on the Universal Aspects of
+  Atmospheric Electricity, Tokyo, Japan, 1968.
+
+--
+Michel T. Talbot
+bo964@freenet.carleton.ca

@@ -1,0 +1,144 @@
+Posted on Usenet by:
+ Timothy J. Thompson, Timothy.J.Thompson@jpl.nasa.gov
+ California Institute of Technology, Jet Propulsion Laboratory.
+ Advanced Spaceborne Thermal Emission and Reflection Radiometer.
+ Atmospheric Corrections Team - Scientific Programmer.
+ tim@uzon.jpl.nasa.gov   6 Sep 1996 00:29:04 GMT
+
+
+==========================================================
+A POSSIBILITY OF GRAVITATIONAL FORCE SHIELDING BY BULK 
+YBA2CU3O7-X SUPERCONDUCTOR Article (Refs:8)
+by Podkletnov-E (*R) Nieminen-R
+Tampere Univ,Inst Mat Sci,Pob 589/SF-33101 Tampere//FINLAND/
+PHYSICA C v203(3-4): pp441-444 (1992 Dec 10)
+----------------------------------------------------------
+     Shielding properties of single-phase dense bulk 
+superconducting ceramics of YBa2Cu3O7-x against the gravitational
+force were studied at temperatures below 77 K. A small non-conducting 
+and non-magnetic sample weighing 5.48 g was placed over a levitating 
+superconducting disk and the loss of weight was measured with high 
+precision using an electro-optical balance system. The sample was 
+found to lose from 0.05 to 0.3% of its weight, depending on the 
+rotation speed of the superconducting disk. Partial loss of weight 
+might be the result of a certain state of energy which exists inside 
+the crystal structure of the superconductor at low temperatures. 
+The unusual state of energy might have changed a regular interaction 
+between electromagnetic, nuclear and gravitational forces inside a
+solid body and is responsible for the gravity shielding effect.
+=============================================================
+
+================================================================
+DOES A SUPERCONDUCTOR SHIELD GRAVITY?
+Article (Refs:5)
+by Unnikrishnan-CS (*R)
+Tata Inst Fundamental Res,Gravitat Experiments Grp,Homi Bhabha Rd/
+Bombay 400005/Maharashtra/INDIA/
+PHYSICA C v266(1-2): pp133-137 (1996 Jul 20)
+-----------------------------------------------------------------
+     Recently there were some experimental observations which were 
+interpreted as due to a shielding of the gravitational interaction
+by a superconducting disc in a static configuration as well as when
+set in rotation. We examine the experiments in detail and point out 
+some difficulties which should be eliminated before reliable results 
+can be claimed. The data from these experiments provide an internal 
+check on the correctness of the hypothesis and we argue that the
+observed results are inconsistent with the hypothesis of shielding 
+and therefore they are not due to shielding of the Earth's gravity.
+Our preliminary experiments in the static case do not show any 
+evidence for the reported shielding.
+================================================================
+
+================================================================
+ABSENCE OF A GRAVITATIONAL ANALOG TO THE MEISSNER EFFECT
+Article (Refs:14)
+by Ciubotariu-C (*R) Agop-M
+Tech Univ Iaso,Dept Phys,Strada Dacia 9,Cartierul Cantemir,
+Oficiul Postal/R-6600 Iasi//ROMANIA/
+GENERAL RELATIVITY AND GRAVITATION v28(4): pp405-412 (1996 Apr)
+-----------------------------------------------------------------
+     In the framework of the weak stationary gravitational field 
+and low velocity, we investigate the gravitomagnetic effects on a
+superconductor. We show that we have no gravitomagnetic shielding, 
+and thus no generalized Meissner gravitational effect in 
+superconductors.
+================================================================
+
+================================================================
+INTERACTION BETWEEN GRAVITY AND MOVING SUPERCONDUCTORS
+Article (Refs:54)
+by Peng-H (*R) Lind-G Chin-YS
+Univ Alabama,CSPAR/Huntsville//AL/35899
+GENERAL RELATIVITY AND GRAVITATION v23 (11) : pp1231-1250 (1991)
+-----------------------------------------------------------------
+     We propose a unified phenomenological theory to investigate 
+the interaction between arbitrarily moving superconductors and 
+gravitational fields including the Newtonian gravity, gravitational 
+waves, vector transverse gravitoelectric fields, and vector
+gravitomagnetic fields. In the limit of weak field and low 
+velocity, the expressions for the induced electromagnetic and 
+gravitational fields in the interior of a moving superconductor 
+are obtained. The Meissner effect, London moment, DeWitt effect, 
+effects of gravitational wave on a superconductor, and induced 
+electric fields in the interior of a freely vibrating superconductor 
+are recovered from these two expressions. We demonstrate that the
+weak equivalence principle is valid in superconductivity, that 
+Newtonian gravity and gravitational waves will penetrate either a 
+moving superconductor or a superconductor at rest, and that a 
+superconductor at rest cannot shield either vector gravitomagnetic
+fields or vector transverse gravitoelectric fields.
+==================================================================
+
+   Aside from these, there are a number of papers in the literature, 
+specifically on antigravity. Several interpretations of general 
+relativity can produce anti-gravitational effects, and likewise
+for competing theories. For instance ...
+
+===================================================================
+THE THEORY OF ANTIGRAVITY
+Article (Refs:0)
+by Aspden-H (*R)
+Univ Southampton,Dept Elect Engn/Southampton SO9 5NH/Hants/ENGLAND/
+PHYSICS ESSAYS v4(1): pp13-19 (1991)
+-------------------------------------------------------------------
+     This paper extends the principles of earlier gravitational 
+theory by which the constant of gravitation G has been deduced in 
+terms of an electrodynamically based graviton theory. Demonstrable 
+anomalous gravitational effects reproducible in the laboratory, 
+which reveal the prospect of antigravitational action, are discussed.  
+It is shown that the theory does include features which can explain 
+observed antigravitational effects.  The action points to vacuum
+energy fluctuations arising from graviton decay and regeneration. 
+Recently reported weight loss accompanying gyroscopic spin in a 
+nonprecessing mode is also explained.
+===================================================================
+
+===================================================================
+GRAVITATIONAL SHIELDING
+Note (Refs:8)
+by Eckhardt-DH (*R)
+USAF,Geophys Lab/Bedford//MA/01731
+PHYSICAL REVIEW D v42(6): pp2144-2145 (1990)
+------------------------------------------------------------------
+    No abstract is available for this article.
+==================================================================
+
+Too bad there is no abstract online for this, but the note and 
+references should be of interest to anyone who wants to be industrious 
+and go after the sources. I have not seen any of these papers, I only 
+grab the abstracts from Caltech's abstract server. Physical Review is 
+the flagship journal of the American Institute of Physics.
+
+   I have two reasons for posting this. First, if any of you care to 
+do your own homework, here are the places to start. Second, despite 
+Holden's insufferable arrogance, his insufferable ignorance shows 
+through. This is not the sudden Earth-shaking discovery he would have 
+you believe, but as you can see here, a topic which has been in the
+scientific literature for several years, and is in fact subject to 
+study and examination. All it takes is a minimal effort to find the 
+appropriate papers. Holden could have done this, albeit with other
+resources, if cared to.
+
+-----------------------------------------------------------------
+Timothy J. Thompson             
+
