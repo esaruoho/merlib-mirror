@@ -1,6 +1,9 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
+# Ensure homebrew tools (gh, python3) are in PATH
+export PATH="/opt/homebrew/bin:$PATH"
+
 REPO_DIR="$(cd "$(dirname "$0")" && pwd)"
 PENDING_DIR="$REPO_DIR/queue/pending"
 PROCESSING_DIR="$REPO_DIR/queue/processing"
@@ -71,11 +74,18 @@ commit_and_push() {
   local domain="$2"
   cd "$REPO_DIR"
 
-  # Stay on main — no branch switching that nukes files
+  # Create a branch for this mirror job
+  local branch="mirror/${domain//[^a-zA-Z0-9._-]/-}"
+  git checkout -b "$branch" main 2>/dev/null || git checkout "$branch" 2>/dev/null || {
+    log "WARNING: could not create branch $branch, committing to main"
+    git checkout main 2>/dev/null
+  }
+
   git add -A
 
   if git diff --cached --quiet 2>/dev/null; then
     log "No changes to commit for $domain"
+    git checkout main 2>/dev/null
     return 0
   fi
 
@@ -90,13 +100,15 @@ commit_and_push() {
 
     if [[ "$size_kb" -gt "$MAX_PUSH_SIZE_KB" ]]; then
       log "WARNING: $domain is ${size_mb}MB (>${MAX_PUSH_SIZE_KB}KB) — committed locally, skipping push"
+      git checkout main 2>/dev/null
       return 0
     fi
     log "Size: ${size_mb}MB — under 1GB threshold, pushing"
   fi
 
-  git push || {
+  git push -u origin "$branch" || {
     log "Push failed, will retry next cycle"
+    git checkout main 2>/dev/null
     return 0
   }
 
@@ -105,7 +117,21 @@ commit_and_push() {
   local size_human
   size_human="$(du -sh "$domain_dir" 2>/dev/null | cut -f1)"
 
-  log "Pushed: $domain ($file_count files, $size_human)"
+  # Create PR
+  if command -v gh &>/dev/null; then
+    gh pr create --title "$msg" --body "Mirror of $domain — $file_count files, $size_human" --base main --head "$branch" 2>/dev/null && {
+      log "PR created for $domain"
+    } || {
+      log "WARNING: gh pr create failed for $domain"
+    }
+  else
+    log "WARNING: gh CLI not installed, branch pushed but no PR created"
+  fi
+
+  log "Pushed branch $branch: $domain ($file_count files, $size_human)"
+
+  # Return to main
+  git checkout main 2>/dev/null
 }
 
 process_job_file() {
