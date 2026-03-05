@@ -1,0 +1,26 @@
+{
+  "source": "live",
+  "domain": "primalwater.com.au",
+  "mirror_date": "2026-03-05T14:42:32.158599",
+  "total_urls": 0,
+  "downloaded": 174,
+  "failed": 0,
+  "files": 174,
+  "file_types": {
+    ".pdf": 4,
+    ".html": 35,
+    ".css__ver%3de5f87c4ed04297463f3a7e408b625610": 15,
+    ".0": 16,
+    ".css__ver%3d1767842713": 1,
+    ".5": 3,
+    ".js__ver%3d667fb12b": 6,
+    ".css__ver%3d667fb12b": 1,
+    ".png": 14,
+    ".jpg": 73,
+    ".css": 1,
+    ".js__ver%3de5f87c4ed04297463f3a7e408b625610": 1,
+    ".js__ver%3d4d63a3d491d11ffd8ac6": 1,
+    ".js__ver%3d5e580eb46a90c2b997e6": 1,
+    ".1": 2
+  }
+}

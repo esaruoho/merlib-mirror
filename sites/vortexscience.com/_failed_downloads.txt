@@ -1,0 +1,5 @@
+http://www.vortexscience.com:80/cool_science/david_blaine_levitate.php
+http://www.vortexscience.com:80/images/layout/elements/spacer.gif
+http://www.vortexscience.com/old/vortex-style.css
+http://www.vortexscience.com:80/style.css
+http://www.vortexscience.com:80/vortex-style.css

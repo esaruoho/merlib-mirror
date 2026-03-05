@@ -1,0 +1,384 @@
+ <html>
+<head>
+<title>Home :: VortexScience.com</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="/old/vortex-style.css" rel="stylesheet" type="text/css" />
+<SCRIPT LANGUAGE="JavaScript" src="/old/includes/js/dw.js"></script>
+</head>
+<body bgcolor="#ffffff" background="/old/images/layout/bg.gif" text="#D6D2EE" onLoad="MM_preloadImages('/old/images/layout/elements/prototype_r1_c1.jpg','/old/images/layout/elements/prototype_r2_c1.jpg','/old/images/layout/elements/prototype_r3_c1.jpg','/old/images/layout/elements/prototype_r4_c1.jpg','/old/images/layout/elements/prototype_r5_c1.jpg','/old/images/layout/elements/prototype_r6_c1.jpg','/old/images/layout/elements/prototype_r7_c1.jpg','/old/images/layout/elements/prototype_r9_c1.jpg','/old/images/layout/elements/prototype_r10_c1.jpg','/old/images/layout/buttons/home_on.jpg','/old/images/layout/buttons/purpose_on.jpg','/old/images/layout/buttons/about_on.jpg','/old/images/layout/buttons/vortex_on.jpg','/old/images/layout/buttons/magnetic_on.jpg','/old/images/layout/buttons/articles_on.jpg','/old/images/layout/buttons/feedback_on.jpg','/old/images/layout/buttons/store_on.jpg')">
+<table width="100%" border="0" cellspacing="0" cellpadding="0"> 
+<tr> 
+  <td><table width="744" border="1" align="center" cellpadding="0" cellspacing="0" bordercolor="#71757E" bgcolor="#000000"> 
+    <tr> 
+      <td valign="top">
+	  	<table width="744" border="0" cellpadding="0" cellspacing="0">
+          <tr valign="top"><td>
+	  		<table width="744" border="0" cellpadding="0" cellspacing="0"><tr>
+            <td><img src="/old/images/layout/elements/spacer.gif" width="18" height="1" border="0" alt=""></td>
+            <td><img src="/old/images/layout/elements/spacer.gif" width="134" height="1" border="0" alt=""></td>
+            <td><img src="/old/images/layout/elements/spacer.gif" width="30" height="1" border="0" alt=""></td>
+            <td><img src="/old/images/layout/elements/spacer.gif" width="328" height="1" border="0" alt=""></td>
+            <td><img src="/old/images/layout/elements/spacer.gif" width="203" height="1" border="0" alt=""></td>
+            <td><img src="/old/images/layout/elements/spacer.gif" width="31" height="1" border="0" alt=""></td>
+            <td><img src="/old/images/layout/elements/spacer.gif" width="1" height="1" border="0" alt=""></td>
+          </tr>
+          <tr> 
+            <td colspan="4"><img name="n00000001_r1_c1" src="/old/images/layout/header/00000001_r1_c1.jpg" width="510" height="21" border="0" alt=""></td>
+            <td colspan="2"><img src="/old/images/layout/header/00000001_r1_c5.jpg" alt="" name="n00000001_r1_c5" width="234" height="21" border="0" usemap="#n00000001_r1_c5Map"></td>
+            <td><img src="/old/images/layout/elements/spacer.gif" width="1" height="21" border="0" alt=""></td>
+          </tr>
+          <tr> 
+            <td rowspan="7"><img name="n00000001_r2_c1" src="/old/images/layout/header/00000001_r2_c1.jpg" width="18" height="113" border="0" alt=""></td>
+            <td rowspan="7" background="/old/images/layout/header/flash-v.jpg"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs//old/flash/swflash.cab#version=6,0,29,0" width="134" height="113">
+                <param name="movie" value="/old/flash/logo_vr2.swf">
+                <param name="quality" value="high">
+                <embed src="/old/flash/logo_vr2.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="134" height="113"></embed></object></td>
+            <td rowspan="7" colspan="2"><img name="n00000001_r2_c3" src="/old/images/layout/header/00000001_r2_c3.jpg" width="358" height="113" border="0" alt=""></td>
+            <td><img name="n00000001_r2_c5" src="/old/images/layout/header/00000001_r2_c5.jpg" width="203" height="17" border="0" alt=""></td>
+            <td rowspan="10"><img name="n00000001_r2_c6" src="/old/images/layout/header/00000001_r2_c6.jpg" width="31" height="182" border="0" alt=""></td>
+            <td><img src="/old/images/layout/elements/spacer.gif" width="1" height="17" border="0" alt=""></td>
+          </tr>
+          <tr> 
+            <td><a href="/old/" target="_self" onMouseOver="MM_swapImage('home_on','','/old/images/layout/buttons/home_on.jpg',1)" onMouseOut="MM_swapImgRestore()"><img name="home_on" src="/old/images/layout/buttons/home_off.jpg" width="203" height="17" border="0" alt=""></a></td>
+            <td><img src="/old/images/layout/elements/spacer.gif" width="1" height="17" border="0" alt=""></td>
+          </tr>
+          <tr> 
+            <td><a href="/old/main/purpose.php" target="_self" onMouseOver="MM_swapImage('purpose_on','','/old/images/layout/buttons/purpose_on.jpg',1)" onMouseOut="MM_swapImgRestore()"><img name="purpose_on" src="/old/images/layout/buttons/purpose_off.jpg" width="203" height="17" border="0" alt=""></a></td>
+            <td><img src="/old/images/layout/elements/spacer.gif" width="1" height="17" border="0" alt=""></td>
+          </tr>
+          <tr> 
+            <td><a href="/old/main/about.php" target="_self" onMouseOver="MM_swapImage('about_on','','/old/images/layout/buttons/about_on.jpg',1)" onMouseOut="MM_swapImgRestore()"><img name="about_on" src="/old/images/layout/buttons/about_off.jpg" width="203" height="15" border="0" alt=""></a></td>
+            <td><img src="/old/images/layout/elements/spacer.gif" width="1" height="15" border="0" alt=""></td>
+          </tr>
+          <tr> 
+            <td><a href="/old/main/the_vortex.php" target="_self" onMouseOver="MM_swapImage('vortex_on','','/old/images/layout/buttons/vortex_on.jpg',1)" onMouseOut="MM_swapImgRestore()"><img name="vortex_on" src="/old/images/layout/buttons/vortex_off.jpg" width="203" height="16" border="0" alt=""></a></td>
+            <td><img src="/old/images/layout/elements/spacer.gif" width="1" height="16" border="0" alt=""></td>
+          </tr>
+          <tr> 
+            <td><a href="/old/main/magnetic_phenomena.php" target="_self" onMouseOver="MM_swapImage('magnetic_on','','/old/images/layout/buttons/magnetic_on.jpg',1)" onMouseOut="MM_swapImgRestore()"><img name="magnetic_on" src="/old/images/layout/buttons/magnetic_off.jpg" width="203" height="16" border="0" alt=""></a></td>
+            <td><img src="/old/images/layout/elements/spacer.gif" width="1" height="16" border="0" alt=""></td>
+          </tr>
+          <tr> 
+            <td><a href="/old/main/articles.php" target="_self" onMouseOver="MM_swapImage('articles_on','','/old/images/layout/buttons/articles_on.jpg',1)" onMouseOut="MM_swapImgRestore()"><img name="articles_on" src="/old/images/layout/buttons/articles_off.jpg" width="203" height="15" border="0" alt=""></a></td>
+            <td><img src="/old/images/layout/elements/spacer.gif" width="1" height="15" border="0" alt=""></td>
+          </tr>
+          <tr> 
+            <td rowspan="3" colspan="4"><img name="n00000001_r9_c1" src="/old/images/layout/header/00000001_r9_c1.jpg" width="510" height="69" border="0" alt=""></td>
+            <td><a href="/old/main/feedback.php" target="_self" onMouseOver="MM_swapImage('n00000001_r9_c5','','/old/images/layout/buttons/feedback_on.jpg',1)" onMouseOut="MM_swapImgRestore()"><img name="n00000001_r9_c5" src="/old/images/layout/buttons/feedback_off.jpg" width="203" height="19" border="0" alt=""></a></td>
+            <td><img src="/old/images/layout/elements/spacer.gif" width="1" height="19" border="0" alt=""></td>
+          </tr>
+          <tr> 
+            <td><a href="/old/vstore/" target="_self" onMouseOver="MM_swapImage('n00000001_r10_c5','','/old/images/layout/buttons/store_on.jpg',1)" onMouseOut="MM_swapImgRestore()"><img name="n00000001_r10_c5" src="/old/images/layout/buttons/store_off.jpg" width="203" height="17" border="0" alt=""></a></td>
+            <td><img src="/old/images/layout/elements/spacer.gif" width="1" height="17" border="0" alt=""></td>
+          </tr>
+          <tr> 
+            <td><img name="n00000001_r11_c5" src="/old/images/layout/header/00000001_r11_c5.jpg" width="203" height="33" border="0" alt=""></td>
+            <td><img src="/old/images/layout/elements/spacer.gif" width="1" height="33" border="0" alt=""></td>
+          </tr>
+          <tr> 
+            <td colspan="6"><img name="n00000001_r12_c1" src="/old/images/layout/header/00000001_r12_c1.jpg" width="744" height="27" border="0" alt=""></td>
+            <td><img src="/old/images/layout/elements/spacer.gif" width="1" height="27" border="0" alt=""></td>
+          </tr>
+        </table>
+	</td></tr>
+	
+	<tr><td>
+	<table width="100%" height="30" align="center" border="0" cellspacing="0" cellpadding="0" background="/old/images/layout/elements/breadcrumb_back.jpg">
+	  <tr>
+		<td width="12">&nbsp;</td>
+		<td width="488" class="breadcrumb">home</td>
+		<td align="right"><img src="/old/images/layout/titles/home.jpg" width="234" height="30" border="0" alt=""></td>
+		<td><img src="/old/images/layout/elements/spacer.gif" width="1" height="30" border="0" alt=""></td>
+	  </tr>
+	</table>
+	</td></tr>
+	<!-- main start -->
+	<tr><td class="main_bg">
+		<table width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr><td>
+
+<table width="100%" border="0" cellpadding="0" cellspacing="0">
+                <tr> 
+                  <td width="182"valign="top">
+				  <table width="100%" border="0" cellspacing="0" cellpadding="0">
+					  <tr>
+						<td>
+										 
+				 <table width="182" border="0" cellspacing="0" cellpadding="0">
+				  <tr> 
+					<td><img name="n00000001_r16_c1" src="/old/images/layout/menu_pics/cool_science.jpg" width="182" height="36" border="0" alt=""></td>
+				  <tr> 
+					<td> <table width="182" border="0" cellspacing="0" cellpadding="5" class="text5" background="/old/images/layout/menu_pics/menu_repeat.jpg">
+						<tr> 
+						  <td width="10%" valign="top"><img src="/old/images/layout/elements/arrow.gif" width="11" height="13"></td>
+						  <td valign="top"><a href="/old/cool_science/david_blaine_levitate.php" target="_self" class="menulink">How 
+							does David Blaine levitate?</a></td>
+						  <td width="5">&nbsp;</td>
+						</tr>
+						<tr> 
+						  <td width="10%" valign="top"><img src="/old/images/layout/elements/arrow.gif" width="11" height="13"></td>
+						  <td valign="top"><a href="/old/cool_science/what_is_the_matrix.php" target="_self" class="menulink">What 
+							is the Matrix?</a></td>
+						  <td width="5">&nbsp;</td>
+						</tr>
+						<tr> 
+						  <td width="10%" valign="top"><img src="/old/images/layout/elements/arrow.gif" width="11" height="13"></td>
+						  <td valign="top"><a href="/old/cool_science/free_energy.php" target="_self" class="menulink">Where 
+							you find 'free energy'</a></td>
+						  <td width="5">&nbsp;</td>
+						</tr>
+					  </table></td>
+				  </tr>
+				  <tr> 
+					<td> <img name="n00000001_r18_c1" src="/old/images/layout/menu_pics/menu_end.jpg" width="182" height="11" border="0" alt=""></td>
+				  </tr>
+				</table>
+				
+						<br>
+										 
+				 <table width="182" border="0" cellspacing="0" cellpadding="0">
+				  <tr> 
+					<td><img name="n00000001_r16_c1" src="/old/images/layout/menu_pics/sub_menu.jpg" width="182" height="36" border="0" alt=""></td>
+				  <tr> 
+					<td> <table width="182" border="0" cellspacing="0" cellpadding="5" class="text5" background="/old/images/layout/menu_pics/menu_repeat.jpg">
+                      <tr> 
+                        <td width="10%" valign="top"><img src="/old/images/layout/elements/arrow.gif" width="11" height="13"></td>
+                        <td valign="top"><a href="/old/sub_data/vortex_mechanics.php" target="_self" class="menulink">What is Vortex Mechanics?</a></td>
+                        <td width="5">&nbsp;</td>
+                      </tr>
+                      <tr> 
+                        <td width="10%" valign="top"><img src="/old/images/layout/elements/arrow.gif" width="11" height="13"></td>
+                        <td valign="top"><a href="/old/sub_data/transparent_universe.php" target="_self" class="menulink">The Transparent Universe</a></td>
+                        <td width="5">&nbsp;</td>
+                      </tr>
+                      <tr> 
+                        <td width="10%" valign="top"><img src="/old/images/layout/elements/arrow.gif" width="11" height="13"></td>
+                        <td valign="top"><a href="/old/sub_data/gravity.php" target="_self" class="menulink">Gravity</a></td>
+                        <td width="5">&nbsp;</td>
+                      </tr>
+                      <tr> 
+                        <td width="10%" valign="top"><img src="/old/images/layout/elements/arrow.gif" width="11" height="13"></td>
+                        <td valign="top"><a href="/old/sub_data/magnetism.php" target="_self" class="menulink">Magnetism</a></td>
+                        <td width="5">&nbsp;</td>
+                      </tr>
+                      <tr> 
+                        <td width="10%" valign="top"><img src="/old/images/layout/elements/arrow.gif" width="11" height="13"></td>
+                        <td valign="top"><a href="/old/sub_data/transmutation.php" target="_self" class="menulink">Transmutation</a></td>
+                        <td width="5">&nbsp;</td>
+                      </tr>
+                      <tr> 
+                        <td width="10%" valign="top"><img src="/old/images/layout/elements/arrow.gif" width="11" height="13"></td>
+                        <td valign="top"><a href="/old/sub_data/natures_toolbox.php" target="_self" class="menulink">Observe Natures Toolbox</a></td>
+                        <td width="5">&nbsp;</td>
+                      </tr>
+                      <tr> 
+                        <td width="10%" valign="top"><img src="/old/images/layout/elements/arrow.gif" width="11" height="13"></td>
+                        <td valign="top"><a href="/old/sub_data/motion.php" target="_self" class="menulink">Motion is all there is</a></td>
+                        <td width="5">&nbsp;</td>
+                      </tr>
+                      <tr> 
+                        <td width="10%" valign="top"><img src="/old/images/layout/elements/arrow.gif" width="11" height="13"></td>
+                        <td valign="top"><a href="/old/sub_data/designing_machines.php" target="_self" class="menulink">Designing machines via natural principles</a></td>
+                        <td width="5">&nbsp;</td>
+                      </tr>
+                      <tr> 
+                        <td width="10%" valign="top"><img src="/old/images/layout/elements/arrow.gif" width="11" height="13"></td>
+                        <td valign="top"><a href="/old/sub_data/fuel-less_propulsion.php" target="_self" class="menulink">Fuel-less air and water propulsion</a></td>
+                        <td width="5">&nbsp;</td>
+                      </tr>
+                      <tr> 
+                        <td width="10%" valign="top"><img src="/old/images/layout/elements/arrow.gif" width="11" height="13"></td>
+                        <td valign="top"><a href="/old/sub_data/harness_tornado_power.php" target="_self" class="menulink">Harness Tornado Power</a></td>
+                        <td width="5">&nbsp;</td>
+                      </tr>
+                      <tr> 
+                        <td width="10%" valign="top"><img src="/old/images/layout/elements/arrow.gif" width="11" height="13"></td>
+                        <td valign="top"><a href="/old/sub_data/vortex_water_systems.php" target="_self" class="menulink">Vortex Water Systems</a></td>
+                        <td width="5">&nbsp;</td>
+                      </tr>
+                    </table></td>
+				  </tr>
+				  <tr> 
+					<td> <img name="n00000001_r18_c1" src="/old/images/layout/menu_pics/menu_end.jpg" width="182" height="11" border="0" alt=""></td>
+				  </tr>
+				</table>
+				
+						<br>
+										 
+				 <table width="182" border="0" cellspacing="0" cellpadding="0">
+				  <tr> 
+					<td><img name="n00000001_r16_c1" src="/old/images/layout/menu_pics/vortex_groups.jpg" width="182" height="36" border="0" alt=""></td>
+				  <tr> 
+					
+    <td> <table width="182" border="0" cellspacing="0" cellpadding="5" class="text5" background="/old/images/layout/menu_pics/menu_repeat.jpg">
+        <!--tr> 
+                        <td width="10%" valign="top"><img src="/old/images/layout/elements/arrow.gif" width="11" height="13"></td>
+                        <td valign="top"><a href="#" target="_self" class="menulink">Kids</a></td>
+                        <td width="5">&nbsp;</td>
+                      </tr-->
+        <tr> 
+          <td width="10%" valign="top"><img src="/old/images/layout/elements/arrow.gif" width="11" height="13"></td>
+          <td valign="top"><a href="/old/groups/teachers_artists/" target="_self" class="menulink">Teachers &amp; Artists</a></td>
+          <td width="5">&nbsp;</td>
+        </tr>
+        <tr> 
+          <td width="10%" valign="top"><img src="/old/images/layout/elements/arrow.gif" width="11" height="13"></td>
+          <td valign="top"><a href="/old/groups/engineers_designers/" target="_self" class="menulink">Engineers &amp; Designers</a></td>
+          <td width="5">&nbsp;</td>
+        </tr>
+      </table></td>
+				  </tr>
+				  <tr> 
+					<td> <img name="n00000001_r18_c1" src="/old/images/layout/menu_pics/menu_end.jpg" width="182" height="11" border="0" alt=""></td>
+				  </tr>
+				</table>
+				
+						</td>
+					  </tr>
+					</table>
+				  </td>
+				  <td rowspan="2" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+                      <tr>
+                        <td>
+           				 <table width="542" border="0" cellspacing="0" cellpadding="20" class="bg_nr">
+                            <tr> 
+                              <td class="text6"><p class="heading">Welcome to 
+                                  VortexScience.com</p>
+                                <p>Vortex power offers free energy, levitation, 
+                                  space travel, teleportation, transmutation, 
+                                  understanding of gravity and other effects, 
+                                  if used in accordance with nature. Vortex mechanics 
+                                  is the ultimate special-effects maker. </p>
+                                <p> 
+                                  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="246" height="246" align="right">
+                                    <param name="movie" value="flash/vortex-sm1.swf">
+                                    <param name="quality" value="high">
+                                    <embed src="flash/vortex-sm1.swf" width="246" height="246" align="right" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash"></embed></object>
+                                  VortexScience.com reveals how nature&#8217;s 
+                                  tools can create harmonious enlightened technology. 
+                                  But there&#8217;s more. When you get into vortex 
+                                  mechanics, something huge starts to dawn on 
+                                  you: awareness of the invisible, or transparent, 
+                                  universe. Key to that awareness is the interaction 
+                                  of electrostatic and magnetic fields, as well 
+                                  as magnetic vortices, or vortices in other mediums 
+                                  such as sound, air or water. <br>
+								<br>
+								VortexScience.com engineer William Baumgartner 
+                                  has been inspired by works of Dr. Walter Russell, 
+                                  Viktor Schauberger, Nikola Tesla and by Magnetic 
+                                  Energy to heal the Planet, which he researched 
+                                  and built prototypes for decades. He learned 
+                                  how nature uses the vortex in assembling and 
+                                  taking apart its creations -- from microscopic 
+                                  to cosmic-scale.</p>
+                                <p>To apply vortex mechanics in technologies, 
+                                  you first study natural processes. Baumgartner 
+                                  advises, &#8220;Don&#8217;t just look through 
+                                  the eyes of academics. See directly. Drop intellectual 
+                                  expectations of certain outcomes. In our experience, 
+                                  those ideas don&#8217;t fit with what nature 
+                                  actually does.&#8221;</p>
+                                <p><img src="/old/images/pics/magnetic_field.jpg" width="250" height="200" hspace="5" border="0" align="left">In 
+                                  reality, there&#8217;s nothing but motion even 
+                                  at the subatomic level. Comprehending this could 
+                                  free humankind to move around in the universe 
+                                  and outgrow scarcity-thinking. Vortexscience.com 
+                                  opens a door to seeing causes of effects such 
+                                  as gravitation/ levitation, polarity or manifestation.</p>
+                                <p>Everything is first an idea inscribed onto 
+                                  the matrix : invisible &#8220;mirrors&#8221; 
+                                  in space&#8217;s structure that act as memory 
+                                  storage disks. The vortex -- workhorse of the 
+                                  universe -- compresses and projects an image 
+                                  into a physical dimension. An image is registered 
+                                  as a matrix in &#8220;the recording mechanism 
+                                  of nature&#8221; and can be retrieved anytime. 
+                                  Whoa. Think what an enlightened civilization 
+                                  could do with such knowledge, starting with 
+                                  health rejuvenation.</p>
+                                <p>Meanwhile we&#8217;ll look at the vortex in 
+                                  nature -- tornados, hurricanes, water hoses 
+                                  on lakes and oceans, and the many (visible and 
+                                  transparent) vortices associated with insects, 
+                                  birds and marine life.</p>
+                                <p><img src="/old/images/pics/vortex_magnetism.jpg" width="213" height="211" hspace="5" align="right">Then 
+                                  we look for corresponding vortex movements in 
+                                  hydraulic pressure fields or electric or magnetic 
+                                  fields. Nature also produces magnets (with cone-shaped 
+                                  fields), such as Earth. We can apply vortex 
+                                  principles and answer questions such as &#8220;How 
+                                  does magnetism work?&#8221; Vortexscience.com 
+                                  has surprises for you on that, plus insights 
+                                  on magnetism and health.</p>
+                                <p>We reveal basics behind vortex mechanics, starting 
+                                  with:</p>
+                                <p>No two substances in the universe are separate. 
+                                  All is one substance. Call it space fabric, 
+                                  magnetic energy, ether, &#8220;zero-point energy&#8221;, 
+                                  vacuum or whatever; that unifying substance 
+                                  exists. To the physical senses it&#8217;s a 
+                                  nothingness, but in the world beyond the senses 
+                                  it exists as the invisible universe which controls 
+                                  the visible universe. That invisible universe 
+                                  is made of energy which appears through motion 
+                                  only -- as does everything.</p>
+                                <p>With emerging knowledge, society could replace 
+                                  harmful Hertzian electromagnetics. For communications 
+                                  including the Internet, we could employ longitudinal 
+                                  vortices (scalar technologies) that instantly 
+                                  transfer messages throughout the universe without 
+                                  the speed of light concept science cherishes 
+                                  so much at the present?</p>
+                                <p>When people learn to imitate nature&#8217;s 
+                                  beneficial use of the invisible mechanics of 
+                                  space, we&#8217;ll get natural exciting, harmonious 
+                                  non-polluting technologies.</p></td>
+                            </tr>
+                          </table>						</td>
+                      </tr>
+                    </table>
+				  </td>
+                </tr>
+                <tr> 
+                  <td valign="bottom"><div align="center"> 
+                      <p class="text5"><br>
+                        <span class="heading">&raquo;</span> <a href="resources/" target="_self">Other 
+                        Related Resources</a><br>
+                      </p>
+                    </div></td>
+                </tr>
+              </table>
+								</td></tr>
+							</table>
+						</td></tr>
+						<!-- main end -->
+						<tr><td>
+							<table width="744" height="28" background="/old/images/layout/footer/footer.jpg">
+							  <tr> 
+								<td>&nbsp;</td>
+							  </tr>
+							</table>		
+						</td></tr>
+					</table>
+				</td></tr>
+			</table>
+			<table align="center">
+			  <tr> 
+				<td height="26" class="text4"><div align="center"><a href="/old/">Home</a> 
+					| <a href="/old/main/purpose.php">Purpose</a> | <a href="/old/main/about.php">About</a> 
+					| <a href="/old/main/the_vortex.php">The Vortex</a> | <a href="/old/main/magnetic_phenomena.php">Magnetism</a> 
+					| <a href="/old/main/articles.php">Articles</a> | <a href="/old/main/feedback.php">Feedback</a> 
+					| <a href="/old/vstore">Vortex Store</a> 
+					| <a href="/old/login">Login</a></div></td>
+			  </tr>
+			  <tr> 
+				<td class="text7"><div align="center"><br>
+					Copyright &copy; 2005 VortexScience.com, all rights reserved.</div></td>
+			  </tr>
+			</table>
+		</td>
+	</tr>
+</table> 
+</body>
+</html>

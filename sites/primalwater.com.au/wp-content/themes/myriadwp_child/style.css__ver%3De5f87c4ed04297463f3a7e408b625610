@@ -1,0 +1,128 @@
+/*
+Theme Name:     MyriadWP Child Theme
+Description:    Edit style.css, function.php or copy theme original files and customize it on your own
+Author:         Brankic1979
+Template:       myriadwp
+
+*/
+
+.vc_row {
+    padding: 0 20px;
+}
+
+.only_extra_header_above_no_logo .row-bg.background-color {
+	opacity:0 !important;
+}
+
+.fixed-background{
+    position:fixed;
+    background-size:cover;
+    background-position:center;
+    position:fixed;
+    top:0;
+    left:0;
+    width:100vw;
+    height:100vh;
+    z-index:-1;
+}
+
+form .description {
+	text-transform: none;
+	display: inline-block;
+	line-height: 1.2em;
+	font-weight: 400;
+	font-style: italic;
+	padding-top: 12px;
+}
+
+.primal-collage .wpb_single_image {
+	margin-top:-40%;
+}
+
+.primal-collage .wpb_single_image:nth-child(2n) {
+    margin-left: 40%;
+}
+
+p a {
+    font-weight:bold;
+}
+
+.full-width-icon-box .boxes-holder {
+    padding:50px;
+}
+
+.contact-form form {
+    background:#00204a;
+    background: rgba(0,32,74,0.2);
+    border-radius:10px;
+    padding:10px;
+}
+
+.contact-form form p, .contact-form form div div{
+    display:inline-block;
+    flex-grow:1;
+    margin:10px;
+}
+
+.contact-form form label  {
+    width: 150px;
+    font-weight: 500;
+    margin: 10px;
+    text-transform: uppercase;
+    line-height:1.2em;
+}
+
+.contact-form input,.contact-form textarea {
+    border: 1px solid #fff;
+    border-radius:4px;
+    width:100%;
+}
+
+.submit input {
+    width: 200px;
+    position: relative;
+    left: calc(100% + -220px);
+    margin: 10px;
+    background-color: #00bead;
+    border-color: #00bead;
+    font-size: 15px;
+}
+
+.submit input:hover {
+    background-color:unset;
+    border-color: #FFF;
+}
+
+div.wpcf7 input[type="file"] {
+    border: none;
+    background: none;
+    padding: 0;
+    font-size: 12px;
+}
+
+footer {
+    z-index: 1;
+    position: relative;
+}
+
+/* TESTIMONIALS */
+
+.testimonials {
+    column-count:3;
+    column-width:250px;
+    column-gap:30px;
+}
+
+.testimonials article {
+    min-width:250px;
+    margin-bottom:30px;
+    box-shadow: 0 0 50px #005a87;
+    padding:30px;
+    border-radius:20px;
+    background:#FFF;
+    break-inside:avoid;
+}
+
+.testimonials .author {
+    font-weight:bold;
+}

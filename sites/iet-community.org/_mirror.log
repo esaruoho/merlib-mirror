@@ -1,0 +1,21 @@
+[2026-03-04 16:54:37] ============================================================
+[2026-03-04 16:54:37] LIVE MIRROR: iet-community.org
+[2026-03-04 16:54:37] Seed: https://iet-community.org/
+[2026-03-04 16:54:37] Seed path: /
+[2026-03-04 16:54:37] Max link depth: 5
+[2026-03-04 16:54:37] Output: /Users/esaruoho/work/merlib-mirror/sites/iet-community.org
+[2026-03-04 16:54:37] ============================================================
+[2026-03-04 16:54:37] Crawling / (download-as-you-go)...
+[2026-03-04 16:54:37]   [1 d0*] https://iet-community.org/  (1 OK, 0 queued)
+[2026-03-04 16:54:37]     +15 links (16 total known)
+[2026-03-04 16:54:37] Generating index...
+[2026-03-04 16:54:37] Index: 1 files
+[2026-03-04 16:54:37]   .html: 1
+[2026-03-04 16:54:37] 
+============================================================
+[2026-03-04 16:54:37] LIVE MIRROR COMPLETE
+[2026-03-04 16:54:37] Downloaded: 1, OK: 1, Failed: 0
+[2026-03-04 16:54:37] Total URLs seen: 16
+[2026-03-04 16:54:37] ============================================================
+[2026-03-04 16:54:37] 
+Next step: fe-ingest.sh /Users/esaruoho/work/merlib-mirror/sites/iet-community.org

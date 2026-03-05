@@ -1,0 +1,77 @@
+[2026-03-04 16:55:39] ============================================================
+[2026-03-04 16:55:39] WAYBACK MIRROR: vortexscience.com
+[2026-03-04 16:55:39] Output: /Users/esaruoho/work/merlib-mirror/sites/vortexscience.com
+[2026-03-04 16:55:39] Delay: 1.0s
+[2026-03-04 16:55:39] ============================================================
+[2026-03-04 16:55:39] Resuming: phase=init, 0 already done
+[2026-03-04 16:55:39] 
+=== PHASE 1: URL Discovery ===
+[2026-03-04 16:55:39] Querying CDX for vortexscience.com...
+[2026-03-04 16:55:44]   Found 204 URLs for vortexscience.com
+[2026-03-04 16:55:44] Querying CDX for www.vortexscience.com...
+[2026-03-04 16:56:19]   Found 204 URLs for www.vortexscience.com
+[2026-03-04 16:56:43] Total unique valid URLs: 205
+[2026-03-04 16:56:43]   text/html: 97
+[2026-03-04 16:56:43]   image/jpeg: 69
+[2026-03-04 16:56:43]   image/gif: 29
+[2026-03-04 16:56:43]   image/png: 3
+[2026-03-04 16:56:43]   text/css: 3
+[2026-03-04 16:56:43]   application/pdf: 2
+[2026-03-04 16:56:43]   application/x-shockwave-flash: 1
+[2026-03-04 16:56:43]   application/x-javascript: 1
+[2026-03-04 16:56:43] 
+=== PHASE 2: Downloading ===
+[2026-03-04 16:57:21] [10/205] OK articles/universal_machine/art_universal_machine_files/image009.jpg (2,099b) @20051226
+[2026-03-04 16:59:08] [20/205] OK articles/universal_machine/art_universal_machine_files/image022.jpg (2,688b) @20210518
+[2026-03-04 17:00:51] [28/205] FAIL http://www.vortexscience.com:80/cool_science/david_blaine_levitate.php
+[2026-03-04 17:01:38] [31/205] OK david_blaine_levitate.php (21,749b) @20070116
+[2026-03-04 17:05:09] [41/205] OK grc/cones2.jpg (4,150b) @20010616
+[2026-03-04 17:07:25] --- Progress: 50/205 (24%) | New: 49 | Rate: 5/min ---
+[2026-03-04 17:07:38] [51/205] OK grc/gifexim/g.gif (6,201b) @20011223
+[2026-03-04 17:09:33] [61/205] OK grc/head.jpg (12,294b) @20010602
+[2026-03-04 17:11:24] [71/205] OK harness_tornado_power.php (21,826b) @20070122
+[2026-03-04 17:13:10] [81/205] OK images/layout/buttons/magnetic_off.jpg (1,730b) @20210518
+[2026-03-04 17:16:00] [90/205] FAIL http://www.vortexscience.com:80/images/layout/elements/spacer.gif
+[2026-03-04 17:16:08] [92/205] OK images/layout/header/00000001_r12_c1.jpg (4,613b) @20051218
+[2026-03-04 17:17:15] --- Progress: 100/205 (48%) | New: 98 | Rate: 5/min ---
+[2026-03-04 17:17:32] [102/205] OK images/layout/menu_pics/menu_end.jpg (702b) @20051218
+[2026-03-04 17:20:29] [112/205] OK images/layout/titles/vortex_science.jpg (1,962b) @20231015
+[2026-03-04 17:21:51] [122/205] OK main/about.php (18,813b) @20050404
+[2026-03-04 17:25:03] [132/205] OK NL/NTech/images/Fig3.gif (8,825b) @20210518
+[2026-03-04 17:26:20] [142/205] OK old/index.php (27,054b) @20200128
+[2026-03-04 17:27:32] --- Progress: 150/205 (73%) | New: 148 | Rate: 5/min ---
+[2026-03-04 17:28:52] [152/205] OK old/main/feedback.php (19,381b) @20060526
+[2026-03-04 17:30:10] [162/205] OK old/sub_data/vortex_water_systems.php (19,919b) @20060526
+[2026-03-04 17:31:09] [163/205] FAIL http://www.vortexscience.com/old/vortex-style.css
+[2026-03-04 17:32:57] [173/205] OK pages/freegerman.html (51,789b) @20010222
+[2026-03-04 17:36:05] [183/205] FAIL http://www.vortexscience.com:80/style.css
+[2026-03-04 17:36:15] [184/205] OK sub_data/designing_machines.php (19,718b) @20051026
+[2026-03-04 17:38:23] [194/205] OK sub_data/vortex_water_systems.php (19,295b) @20051026
+[2026-03-04 17:40:14] [199/205] FAIL http://www.vortexscience.com:80/vortex-style.css
+[2026-03-04 17:40:19] --- Progress: 200/205 (97%) | New: 195 | Rate: 5/min ---
+[2026-03-04 17:41:49] [205/205] OK index.html (4,704b) @20020331
+[2026-03-04 17:41:50] 
+=== PHASE 3: Generating Index ===
+[2026-03-04 17:41:50] Generating index...
+[2026-03-04 17:41:50] Index: 286 files
+[2026-03-04 17:41:50]   .txt: 88
+[2026-03-04 17:41:50]   .jpg: 68
+[2026-03-04 17:41:50]   .php: 66
+[2026-03-04 17:41:50]   .gif: 28
+[2026-03-04 17:41:50]   .html: 27
+[2026-03-04 17:41:50]   .png: 3
+[2026-03-04 17:41:50]   .pdf: 2
+[2026-03-04 17:41:50]   .htm: 1
+[2026-03-04 17:41:50]   .swf: 1
+[2026-03-04 17:41:50]   .jpeg: 1
+[2026-03-04 17:41:50]   .js: 1
+[2026-03-04 17:41:50] 
+============================================================
+[2026-03-04 17:41:50] MIRROR COMPLETE
+[2026-03-04 17:41:50] Total URLs: 205
+[2026-03-04 17:41:50] Downloaded: 200
+[2026-03-04 17:41:50] Failed: 5
+[2026-03-04 17:41:50] Files: 286
+[2026-03-04 17:41:50] ============================================================
+[2026-03-04 17:41:50] 
+Next step: fe-ingest.sh /Users/esaruoho/work/merlib-mirror/sites/vortexscience.com

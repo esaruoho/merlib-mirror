@@ -1,0 +1,22 @@
+{
+  "source": "web.archive.org",
+  "domain": "vortexscience.com",
+  "mirror_date": "2026-03-04T17:41:50.391117",
+  "total_urls": 205,
+  "downloaded": 200,
+  "failed": 5,
+  "files": 286,
+  "file_types": {
+    ".pdf": 2,
+    ".htm": 1,
+    ".txt": 88,
+    ".gif": 28,
+    ".php": 66,
+    ".png": 3,
+    ".jpg": 68,
+    ".swf": 1,
+    ".jpeg": 1,
+    ".html": 27,
+    ".js": 1
+  }
+}
