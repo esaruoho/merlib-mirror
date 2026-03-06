@@ -83,10 +83,16 @@ extract_path_filter() {
 
   # From Wayback URL: extract path after domain
   if [[ "$input" =~ web\.archive\.org ]]; then
-    # Match path after domain in wayback URL
-    local re="(https?://)?([^/]+)(/.+)"
-    if [[ "$input" =~ web\.archive\.org/web/[^/]+/\*?${re} ]]; then
-      echo "${BASH_REMATCH[3]}" | sed 's|/\*$||; s|/$||'
+    # Extract the original URL from the wayback URL, then get its path
+    local orig_url=""
+    if [[ "$input" =~ web\.archive\.org/web/[^/]+/(https?://[^/]+)(/.*)$ ]]; then
+      local path_part="${BASH_REMATCH[2]}"
+      path_part="$(echo "$path_part" | sed 's|/\*$||; s|/$||')"
+      if [[ -n "$path_part" && "$path_part" != "/" ]]; then
+        echo "$path_part"
+        return
+      fi
+      echo ""
       return
     fi
     # Try simpler: everything after domain in the target part
