@@ -1,0 +1,15 @@
+[2026-03-06 07:05:17] ============================================================
+[2026-03-06 07:05:17] WAYBACK MIRROR: frankgermano.com
+[2026-03-06 07:05:17] Output: /Users/esaruoho/work/merlib-mirror/sites/frankgermano.com
+[2026-03-06 07:05:17] Delay: 1.0s
+[2026-03-06 07:05:17] ============================================================
+[2026-03-06 07:05:17] Resuming: phase=init, 0 already done
+[2026-03-06 07:05:17] 
+=== PHASE 1: URL Discovery ===
+[2026-03-06 07:05:17] Querying CDX for frankgermano.com...
+[2026-03-06 07:05:54]   Found 159 URLs for frankgermano.com
+[2026-03-06 07:05:54] Querying CDX for www.frankgermano.com...
+[2026-03-06 07:06:00]   Found 159 URLs for www.frankgermano.com
+[2026-03-06 07:06:02] Path filter '//www.frankgermano.com': 160 -> 0 URLs
+[2026-03-06 07:06:02] Total unique valid URLs: 0
+[2026-03-06 07:06:02] ERROR: No URLs found!
