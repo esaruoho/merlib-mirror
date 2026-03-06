@@ -1,0 +1,100 @@
+SOME NOTES                                         William Beaty 1997
+
+If the "Hum" is tinnitus (and arises in the brains of affected
+individuals), then why do these individuals note the disappearance of the
+hum when travelling to some (but not all) other states, or to other
+countries, only to find that it immediately reappears when they return?
+
+If the "Hum" is caused by microwave beams, why does a faraday cage have no
+effect on the perceived intensity?
+
+If the "Hum" is acoustic, and hum-sensitive individuals simply have an
+extended low-freq hearing cutoff, then why do microphone measurements show
+no spectrum peaks?  (note: A.H. does find spectrum peaks in Denmark hum.
+But U. of NM finds none in the Taos NM area.)
+
+If the "Hum" is acoustic, why do some hum-sensitive individuals turn out
+*not* to have extended low-freq hearing sensitivity?  There is one report
+of a hearing-disabled person who suffers from the Hum.
+
+If the hum is acoustic, then a thick-walled chamber, such as a pressure
+chamber, should shield it.  No reports of this having been tried. 
+
+If the "Hum" is from local industrial sources, why does it continue even
+during long term, wide-area power blackouts? 
+
+If the "Hum" is from tornadoes, weather, aircraft, street sweepers, etc.,
+why does it usually continue unceasingly for years?  Sources of transient
+hums cannot be used to explain a continuing hum. 
+
+If the "Hum" has a geologic source, what is the mechanism which converts
+underground stresses or movements into a continuous signal around 60hz -
+80hz?  And why don't microphones pick it up?
+
+If the "Hum" is caused by human electromagnetic perception of ELF waves,
+then hum-sensitive individuals should also be able to hear the magnetic
+field around a 60Hz-powered coil.  They should perceive power transformers
+as being loud hum sources, or if the perception is nonlinear, then the
+more powerful field should swamp out the normal "Hum" they hear.
+
+If the "Hum" is caused by human electromagnetic perception, then why did
+the U. of NM people find no anomalous signals between 10Hz and 1000MHz?
+(Note: at VLF frequencies the E and the M components might be separate.  A
+coil-based antenna might not detect electrostatic vibration, and a
+capacitor-based antenna might not detect magnetic vibration.)
+
+If the Hum is low frequency electromagnetism, then it should be easy to
+prove:  build a simple hum-transmitter, such as a signal generator, a
+power amplifier, and a coil.  Encapsulate the coil to limit audio
+vibration but pass magnetism.  If hum-sensitive people can hear the signal
+from the coil, but non-hearers cannot, then this would be strong indirect
+evidence for an EM source. 
+
+Hum-hearers report that ear plugs work temporarily, but soon the Hum is
+heard again even with plugs.
+
+One person reports that use of just one earplug can give some relief. 
+
+The hum commonly causes marital strife, since usually only one partner can
+hear it and the other cannot. 
+
+Women report problems with the hum more often than men.
+
+The hum is perceived as louder indoors than outside.
+
+The hum seems louder a few feet from a wall, but seems less loud at the
+wall's surface. 
+
+If the hum is electromagnetic, then a magnetic shield room with thick iron
+walls should shield it.  No reports of this having been tried.  If EM,
+then a negative feedback coil system might cancel the signal and thereby
+act as a shield. 
+
+Micheal Theroux hum article in Borderlands magazine.  Detector: 
+suction-cup telephone pickup coil with NIB magnets on either side, placed
+in the center of a long piece of plastic sewer pipe. 
+
+*****************************************************************
+Some info from John Daws about the "Bristol Hum" in the UK
+
+Sounds like an idling diesel engine.
+
+Most "hummers" are over the age of 50
+
+At least one partially deaf person hears the hum without using a hearing aid
+
+Radar signals can be ruled out, since aluminum foil enclosures do not 
+attenuate the Hum.
+
+If a signal generator and loudspeaker is used, a zero beat can be heard 
+around 100Hz
+
+   Steel enclosures slightly attenuate the perceived hum, but only if 
+greater
+than 1/8" wall thickness.
+
+J. Hall of Bristol UK committed suicide in 10/96 after having been driven 
+crazy by the hum.
+
+The Hum is perceived as loudest when the modulation frequency is 2.5 - 
+3.5Hz.

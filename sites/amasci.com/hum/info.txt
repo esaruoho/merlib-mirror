@@ -1,0 +1,832 @@
+REPRINT FROM Feb. 5 1994:
+
+I was directed to the [compuserve newage tech] forum by several
+suggestions that I read up on the work of Tesla, Moray and Bearden. I have
+been involved in the search for the source of the "hum" since I began
+sensing it in April of 1992. I came across a file in Library 15 titled
+ELFWAR.ASC which basically describes the early events in Taos. Some of the
+comments were taken from the letters to the editors column of the Taos
+News, a weekly paper. The apparatus on Picuris peak mentioned in the
+ELFWAR file as being a suspect in the cause of the hum is my apparatus, or
+at least I am in charge of its maintenance. The apparatus is nothing more
+than a solar-powered commercial FM radio transmitter for KTAO. I knew that
+our equipment was not responsible for the hum because of several reasons.
+First of all, we do not operate 24 hours a day (the hum does), second, we
+did not begin operations until November 1991 and the hum had been reported
+as early as April 1991 in the Taos area. We were suspected of running a
+generator for supplemental power which we do not do. 
+
+In the spring of 1992 I was required to snowshoe to the equipment site for
+some routine maintenance. I made the trek with two others who also have
+solar powered equipment there. I finished my tasks and while waiting for
+my companions to finish theirs, took out a book and relaxed behind our
+solar array to read. It was a very quiet day, no wind, and at 10,800 feet
+above sea level it can get very quiet. I could hear the ravens wings cut
+through the air as they circled overhead. I found myself getting
+frustrated because I could not seem to get past the first few paragraphs
+without having to begin again, something was distracting me. Then I
+noticed the hum. It sounded like a diesel motor idling off in the distance
+and at first that is what I thought it was. I focused on it and waited for
+it to change RPM or to get to the end of the row it was working or
+something but it didn't change it just kept droning on. I realized that
+this was what had been being discussed in our local paper's Letters to the
+Editors column for almost a year. The mysterious Taos hum. I mentioned it
+to my companions and during the trek out I kept stopping and focusing on
+it and it was still there. I tried to describe it to them but they claimed
+to "hear" nothing. 
+
+To make a long story shorter, during the course of the next few months I
+heard the hum continuously whenever there was no ambient noise to mask it.
+It was in my bedroom, my bathroom, throughout the rest of the house
+despite my efforts to track it down. I blamed the refrigerator, the
+heating system fan, the VCR transformer, the flourescent light fixture in
+the kitchen. I disconnected the power to the house (temporarily) and the
+hum didn't stop. I heard t on a camping trip to an island in the middle of
+a lake.  I talked to friends about it. Most of them laughed at me, some
+said I had hearing problems, others sympathized because they could "hear"
+it also. 
+
+Since that day in April 1992, I have continued my search for the source of
+the "hum" and it has led me through research about ELF/VLF submarine
+communications, stealth detection theories and now to the New Age Science
+and Technology Forum.  I assisted a group of scientists and technicians
+from various laboratories, (Sandia, Los Alamos, Phillips Air Force Lab,
+Univ. of NM) last May 1993 when we tried to capture the hum on tape. We
+were unsuccessful even though we were using rather sophisticated equipment
+and covered electromagnetic, magnetic, audio, geologic, and radio
+frequency spectrums from about 5 HZ on out to about 25 Gigahertz. We used
+geophones, laboratory microphones, a special "Big Ear" 15" speaker
+designed to be used as a microphone for low frequency sound and spent the
+wee hours trying to find something on our instrumentation to account for
+the "hum". 
+
+Currently, some equipment is being developed to look at the inner ear as
+the source of the "hum" (to acoustic emmissions, not the same as tinnitus
+or meniers disease!) This project is funded by Univ. of New Mexico and
+will soon be looking at "hearers" ears to see how they differ from those
+who do not "hear" the "hum". It is suspected that even though the inner
+ear (or brain) may be the source of the "hum", that it is being acted upon
+by an external force. Something in the environment that is causing
+"hearers" ears or brains to (in effect) say "something is humming. 
+
+I have developed a simulation of the "hum" which is created by using three
+sine wave signal generators. One is set at 32 HZ and the other two are set
+to zero beat at 64 HZ. It is almost impossible to zero beat two 64 HZ
+tones and the effect is a slowly undulating beat. To one of the 64 HZ
+tones has been added a small amount of FM modulation. This procedure is
+known in Great Britain by the "Hummers" (as they are called there) as "Hum
+matching." People who have heard the simulation claim that it is very
+similar to the "hum" itself. The simulation is presented at "threshold of
+hearing" levels during playback. At times it seems that the "hum" is being
+intelligently modulated. It also increases and decreases in intensity (not
+volume!). It seems to emanate from the pillow on my bed and during periods
+of high intensity it vibrates my skull and teeth. I have also been in the
+bathroom at 2 AM (who hasn't?) and thought someone had parked a truck
+outside the back door of the house and left the engine running. I've gone
+out to check and there is no one there and on returning to the bathroom
+having to go and check again because "it sure sounds like someone is out
+there!" I know that it is the "hum". 
+
+My search has led to people all over the US, parts of Canada, and Great
+Britain. Letters referring to the "hum" have appeared in the Taos News
+from Europe as well. A common term in describing the "hum" by many of
+these people is the use of the word "diesel". It just seems to have that
+same type of signature. It also appears that musicians and those who have
+had musical training of some kind seem to be more likely to "hear" it and
+they describe it as "being out of tune" or "not supposed to be there." I
+am also a musician and have very acute hearing at both low and high
+frequency ranges (as well as midrange.) I have spoken with people in
+Washington state, Oregon, Utah, Connecticut, New York, Pennsylvania,
+Colorado, Texas, pretty much a cross section of the US who also hear the
+"hum". 
+
+In my discussions several threads keep popping up. The work of Tesla is
+one of those things which has led me to the New Age libraries where I also
+found references to Bearden, Moray, and strange references to secret
+government experiments dealing with the work of Tesla. Tesla's name was
+frequently mentioned during the week log scientific search last May by the
+scientists and technicians involved. I am particularly interested in
+finding out more about the curl free magnetic vector potential fields
+alluded to in the file SCALAR.TXT in either library 8 or 15. I would like
+to share information with you concerning the possible uses of curl free
+magnetic vector fields as communications devices. I have long believed
+that the "hum" is a product of some form of commucications device because
+of the seemingly "intelligent modulation." 
+
+If anyone has experienced the "hum" or has some additional information
+that they can share with me, please respond. 
+
+END OF REPRINT :::
+
+
+Hope that this brings you up to date and maybe some new information concerning
+the possibilities.
+
+Thanks,
+
+Sara T. Allen
+
+
+
+   
+
+
+
+
+
+
+
+Date: 02-Jun-94  09:15:50
+Fm: william beaty 
+To: Sara T. Allen 
+
+Do you know what kind of measurements have been done on the hum?  I've always
+been curious about whether anyone has tried interferometry with microphones
+widely separated in order to do direction finding.  I could imagine that it
+might fail by revealing the direction of sound to be from above or below.  But
+has anyone done this?  It might be as simple as: connect two microphones to the
+same amplifier input, place them many feet apart, listen to the amplified sound
+with headphones, then have someone move the microphones in a big circle until
+the hum is minimized. the line between the microphones will then be broadside
+to the direction that the "hum" travels.
+
+Oh, if you want to reply, you should probably use e-mail, since I only check in
+here rarely.
+
+
+
+
+
+
+Date: 03-Jun-94  23:11:29
+Fm: william beaty 
+To: Sara T. Allen 
+
+A question: are any combinations of mics, amps, and headphones effective in
+amplifying the hum?  If so, it's probably acoustic.  If not...
+
+I'm convinced that some people can 'hear' non-acoustic energy.  About five
+years ago a woman came into the Museum of Science to track down a noise she
+heard "inside" hear head there.  She was suffering from loud noises in her head
+at home, headaches, loss of sleep, etc., and she remembered something at the
+M.O.S. in Boston which produced the same effect.  We tried a number of devices,
+and the offending source turned out to be tabletop vacuumtube tesla coils, as
+well as large tesla plasma sphere and a plasma tube.  We tried a doubleblind
+test, and she responded perfectly to the plasma spheres.  In fact, she had to
+be 20' away from them or the pain/noise was too great.  She described the
+effect as coming from inside her head, and as being different from sound. (I
+also read some recent research that found iron in the human sphenoid bones, and
+bio-iron crystals in human brain tissue.  Natural radio receivers?  A
+compass-based navigation sense?)
+
+
+
+
+
+Date: 04-Jun-94  22:21:00
+Fm: Robert  
+To: william beaty 
+
+Magnetite crystals have been found in living organisms that are both magnetic
+(apparently used for navigation) and superparamagnetic.  The latter are used to
+detec local variations in magnetic field.  For example, certain honeybees have
+approx. 600 hairs descending from their bodies which are strung with
+superparamagnetic crystals; the magnetic domains terminate on a neuron which is
+also  directly connected to the bee's optic nerve.  These ganglion cells are
+thought to integrate visual with local magnetic maps.  A recent report in
+Nature showed that a certain species of bird which can normally orient itself
+to the earth's magnetic field loses the ability to do so when exposed only to
+red light.  It was proposed that rhodopsin molecules may be excited into a
+superparamagnetic state by sufficiently energetic photons.  That is, the
+rhodopsin molecules may serve double duty as local field sensors.  If this is
+true, one wonders whether a small percentage of humans may still have this
+sensitivity (perception of auras?).  The magnetite grains found in the human
+brain appear to be diffusely distributed.  There are many cases on record of
+people who could "hear" the aurora borealis, which is almost certainly an
+induced electromagnetic effect due to the heigth of that display (though local
+brush discharges may be the cause in some cases).  Robert Becker has suggested
+that solar storms distort the geomagnetic field and that such distortions can
+produce psychological effects.  Michael Persinger has shown that the temporal
+lo
+
+
+
+
+
+
+
+
+
+
+
+Date: 23-Oct-94  10:28:52
+Fm: Sara T. Allen 
+To: Jeff 
+
+ >> Just wondering: any hum increase, say from about the end of August through
+the end of September (and beyond, maybe?)?
+
+ I'm wondering because I was aware of a number of folks, feeling a sense of
+urgency or emergency during that span. <<
+
+ Yes, there have been several intensity increases beginning with the Korean
+Crisis, lasting through the Haitian Crisis and especially with the recent Iraqi
+troop movements. Right now it is still very intense with no reported world
+crisis taking place. Watch the news, I expect something critical to break
+having to do with another outbreak of tensions within the next two weeks,
+perhaps related to the latest Israel bombing and their possible response to it.
+
+ Me, I've just been getting monster headaches with a sense of urgency to get
+rid of the damn things! Of course I am aware of the real world tie in to the
+hum, that is, it is a man made phenomenon and really not mysterious at all,
+therefore I don't allow it to affect my tension level as regards to world
+events. I will not be manipulated that easily.
+
+ Sara
+
+- Sara T. Allen, Written 23-Oct-1994 @ 10:43:03
+
+
+
+
+Date: 23-Oct-94  15:16:09
+Fm: william beaty 
+To: Sara T. Allen 
+
+I'm curious as to what has been tried in reducing/eliminating the hum.  For
+instance, does the "mu-metal bucket on the head" technique do anything at all?
+Does the "teslar" scalar shield wristband have any effect?  I recall your
+mentioning of tests in faraday cages and deep basements having no effect.  Has
+there been any progress made towards getting funding for studying the
+phenomena? - Bill Beaty
+
+
+
+
+Date: 23-Oct-94  17:53:35
+Fm: Sara T. Allen 
+To: william beaty 
+
+ >>  does the "mu-metal bucket on the head" <<
+
+ The last time I priced mu-metal it was really, really, really expensive. Close
+to $10,000 just for the material which then needs to be annealed after
+construction of a small box. Estimate of about $20,000 to $25,000 to try this.
+
+ Regular metal grounded pot on head does nothing to stop the hum. Galvanized
+steel, Faraday (type) cage, does nothing to stop it.
+
+ >>  Does the "teslar" scalar shield wristband <<
+
+ I tried a friend's teslar watch with no success at stopping the hum although
+the ether seemed lighter to me. (not as oppressive, subjective.)
+
+
+ >>  I recall your mentioning of tests in faraday cages and deep basements
+having no effect. <<
+
+ In addition, recently, a friend descended 650 feet into a mine shaft in
+Michigan and noted that the hum actually seemed to increase 10 - 15% !!
+
+ >> Has there been any progress made towards getting funding for studying the
+phenomena? <<
+
+ The only funding awarded to date has been Jim Kelly at the University of New
+Mexico for experimenting with low frequency oto-acoustic emission detection
+hardware and software. The initial results of the spring survey indicate that
+about 12% of the respondents (1,300 approx total respondents) reportedly sense
+the hum.
+
+ I see that you are from Seattle. Do you know Buzz Towne?
+
+ Sara
+
+
+ - Sara T. Allen, Written 23-Oct-1994 @ 18:45:18
+
+
+
+
+
+
+Date: 23-Oct-94  21:45:26
+Fm: Sara T. Allen 
+To: Stormdancer 
+
+ >> Has anyone measured it yet? amplitude? frequency? <<
+
+ No. And not for lack of trying.
+
+ >> someone should build a frequency-selective measuring device,
+ and map intensities in each intersection, up & down each
+ street measure intensity every block. <<
+
+ You can't plot what you can't measure.
+
+
+ >> freq-sel devices are not very hard to build once you know the
+ freq or band you want to measure
+ <<
+
+ The investigative team has instrumentation that covers all frequency bands
+from DC to beyond 20 GIGAHERTZ. Nothing showed up in electromagnetic, magnetic,
+geophysical, acoustic or electro static frequencies. The transducer we used to
+measure low frequency sound was very sensitive and didn't confirm the presence
+of the hum. It is theorized that it is carrier-less transmitter which is
+responsible. There are clusters of people who sense the hum in the midwest near
+the ELF site in Michigan and in Washington, and Idaho states near the ELF/VLF
+site there.
+
+ Jet Propulsion labs recently published a paper on "Optimum Detection of Slow
+Frequency Hopping Signals" which provides some background on the difficulty of
+detecting "camouflaged" signals.
+
+ Sara
+
+- Sara T. Allen, Written 23-Oct-1994 @ 22:30:23
+
+
+
+
+
+Date: 24-Oct-94  16:47:19
+Fm: Alain 
+To: Sara T. Allen 
+
+ >> I think that is exactly what is happening!   <<
+
+But does not explain why it would increase before major world events though.
+Unless, they would know how to get the Earth to irradiate some frequencies at
+some given locations.
+
+I found the info that I wanted to tell you. It's about the HAARP project.
+
+The US is going ahead with the HF Active Auroral Ionospheric Research Program
+(HAARP) involving USAF, US Navy's Office of Naval Research, ARCO Power to
+enhance C3 capabilities. The purpose is to develop high frequency ionospheric
+heating capabilities to:
+
+1) generate ELF (70-150 Hz) for submarine communications.
+
+2) geophysical probing of ionospheric processes
+
+3) creation of ionospheric lenses for military purposes
+
+4) ionize pathways by electron acceleration for infrared, optical and radio
+wave propagation in the ionosphere
+
+5) generate new geomagnetic alignments to control reflection and scattering
+properties of radio waves
+
+6) create ionospheric "mirrors" for HF/VHF/UHF surveillance of flying objects.
+
+The heating involves 1 Gigawatt (at 1 MHz to 15 MHz) from a 30 acre antenna
+farm in Gakona, Alaska and will operate in tandem with a Brazilian ionospheric
+modification program (BIME) and the Navy's RED AIR program.
+
+It is a follow up on various Soviet facilities (1 GW in Niir (Dushanbe), Sura
+(400 MW), Gorkiy (20 MW) and Monchegorsk (10 MW) which were by defense
+estimates more advanced than Western facilities in Arecibo, Puerto Rico (80
+MW), Fairbanks (80 MW) and the Max Planck facility in Tromso, Norway (1 GW).
+
+It is reported that the project poses so many uncertainties that existing
+military bases refused to house it and many scientists consider this as
+unlawful and dangerous experimentation while the congress has already rejected
+funding in 1989 for it.
+
+Details available from:
+
+ Clare Zickuhr
+ 5316 Shorecrest Drive
+ Anchorage, Alaska  99515
+ Tel: 907-248-8189
+ Fax: 907-248-2283
+
+So had you heard of that one before? That means quite many watts in the air! No
+wonder scientists are detecting gree house effects!
+
+
+
+
+
+
+Date: 24-Oct-94  17:44:02
+Fm: william beaty 
+To: Sara T. Allen 
+
+Buzz Towne?  Doesn't ring a bell.  In the past I've hung out with some "weird
+science" types here, Dale with the giant tesla coil, Frank "Merlin" Sztazny, &
+Gary Hawkins with the giant capacitor bank.
+
+I was thinking about the "active shield wall" suggestion I made months ago.  It
+might not be necessary to build an entire room-sized matrix of coils in order
+to cancel ELF magnetism in a small space.  If humans sense the Hum with their
+heads and not their entire bodies, then it might be possible to wind a few 1ft.
+coils, run them with a negative feedback setup that cancels low-freq signals,
+and stick the thing on the head of a sensitive person to see if it has any
+effect.
+
+A similar test could be done with low frequency sound.  A "sound cancellation"
+device will reduce the sound energy in a space around itself, and this space is
+a good fraction of a wavelength.  Since audible sound has a wavelength on the
+scale of inches, sound cancellation devices are normally like headphones. But a
+subsonic canceller would kill the low-freq sound for several feet around
+itself.  It wouldn't be too hard to set one up: a stereo power amp and a
+subwoofer speaker, some sort of filter, an a microphone with response going
+down to DC.  The microphone might have to be built custom, maybe using a
+lightbeam bounced off a diaphragm, or some other position sensor connected to a
+diaphragm.  If I knew someone locally who was sensitive to the Hum, I might be
+tempted to rent some equipment and try it.  I DO have a 4-year old daughter,
+meaning that my spare time is quite limited right now!
+
+- Bill
+
+
+
+
+
+
+
+
+
+
+Date: 24-Oct-94  21:12:58
+Fm: Sara T. Allen 
+To: Stormdancer 
+
+ >> can anyone who hears it match the sound with an audo oscillator into a
+speaker?
+ I hope I don't sound condecending, I just don't know what has already been
+tried.
+ <<
+
+ The process is called "hum matching". I spent several hours putting together a
+simulation of what I am sensing. It requires three audio oscillators. One of
+them needs to be able to be modulated with a small amount of FM.
+
+ Starting with a 32 Hz sine wave, add two 64 HZ sine wave into the mix and try
+to zero beat the two 64 HZ oscillators as closely as possible. When they are as
+close to zero beat as you can possibly get them add a slight amount of FM to
+one of the 64 HZ signals. Record it to DAT tape and play it back at threshold
+of hearing through a regular home stereo system and you will get an idea of
+what the phenomenon sounds like.
+
+ Also, an audio oscillator can be used to zero beat against the phenomenon
+which is what I did to get the 32 HZ and 64 HZ frequencys. To get a beat
+frequency you need two sources. One being the phenomenom which we were unable
+to measure on sophisticated listening devices the other being the audio
+oscillator. The beat frequency is clearly detectable, but the reason why is
+unexplainable at this point.
+
+ Sara
+
+
+ - Sara T. Allen, Written 24-Oct-1994 @ 21:59:58
+
+
+
+
+
+
+
+Date: 31-Oct-94  19:55:07
+Fm: Sara T. Allen 
+To: Alain 
+
+Alain,
+
+ >> That's what they call tintinnitus. It's a sort of oscillation that occurs
+within the ear. It is actually some sound being produced in there. <<
+
+ My grandmother told me that you hear it (tintinnitus) when someone walks over
+your grave. ? :{} booo!
+
+ Happy Halloween!
+
+ I got word this week that the Sightings episode has been expanded and will be
+shown sometime in November. The Encounters people are working on a segement to
+be aired in January which is taking the focus off of Taos and concentrating on
+the widespread aspect of the phenom.
+
+ Our friend, James Garner, (NOT the actor), from ABQ is going to descend into a
+3,000 foot mine shaft with our friend Hal, from Hancock, MI, to see if he can
+record the hum there. Hal reports that the hum is about 15 -20% stronger at the
+650 foot level. Apparently, James has devised a method of recording the hum
+using piezoelectric transducers. I haven't had a chance to talk at length with
+him as to the particulars, however, I did hear a poor quality copy of a tape
+that he made, and one of the incidents recorded sounded exactly like the phenom
+I am hearing.
+
+ I am working with a friend here in Taos to produce a one hour segment of our
+own which will get into the history of the hum as well as some brief technical
+discussions and speculations. We are planning for it to be shown on our local
+public access channel but are considering it for wider release if it turns out
+well.
+
+ Sara of the Taos Hum
+
+ - Sara T. Allen, Written 31-Oct-1994 @ 20:53:43
+
+
+    
+    
+
+
+
+Date: 01-Nov-94  06:49:35
+Fm: Sara T. Allen 
+To: Alain 
+
+ >> Are you saying that they also tried lower and it was weaker? <<
+
+ No. They haven't yet gone to the 3,000 foot level. Just talked to Hal and
+there may be some masking problems at that depth because the ventilation system
+needs to be kept operating. Jim says he can filter it out.
+
+ >>  Can they record an amplitude, a frequency, and a modulation pattern? <<
+
+ So far just a demodulated sound. I really need to call Jim and get the lowdown
+on his methodology. Sort of been putting it off because of too many phone calls
+$$$$. Now it has gotten to the point where I can't use second hand info and I
+should go right to the horses mouth.
+
+ Sara of the Taos Hum
+
+
+ - Sara T. Allen, Written 31-Oct-1994 @ 23:15:45
+
+
+
+
+
+
+
+
+
+Date: 01-Nov-94  19:22:21
+Fm: william beaty 
+To: Sara T. Allen 
+
+> How can a human accurately sense phase?
+
+This could be done only if the Hum is audio, and so is propagating at about
+1100 ft/sec, and the frequency is pretty stable.  To do it, you listen to an
+oscillator that is adjusted to give a slow beat note, a couple times a second,
+have the person hit a button in time with the beat and measure the frequency
+difference, then move the whole setup and look for changes in the timing of the
+beat note. Or alternatly, you could adjust a oscillator over many minutes to
+maintain a cancellation of part of the Hum wave, then move the setup and see if
+a beat note happens in sync with the motion.  What kind of motion?  Well, 50 hz
+has a 10ft. wavelenght, so if you move at 10 ft/sec, you will hear a 1hz beat
+note (if the oscillator is first adjusted for zero beat.)
+
+Oops.  I just realized that the short answer is: either move the human while
+using a reference oscillator, or use more than one human simultaneously.
+
+All this is moot if a piezo sensor can be used as a Hum microphone!
+
+
+    
+    
+Date: 01-Nov-94  19:57:39
+Fm: Sara T. Allen 
+To: william beaty 
+
+ >> This could be done only if the Hum is audio, <<
+
+ Darn, I'm fairly certain that there is no audio component to this thing. We
+have used very sensitive laboratory calibrated microphones and could not pick
+up an audio correlation to the beat frequency that the audio oscillator was
+producing. The night that I discovered this, Horace Poteet of Sandia National
+Lab and I were sitting in the equipment van armed with a vast array of sensing
+equipment. Both he and I were sure that we were going to capture the hum on
+tape. After hours of monitoring and watching our screens and adjusting and
+making measurement after measurement we looked at each other and agreed that
+the "hum" is not an acoustic phenomenon. Both he and I can sense the hum in the
+environment so we knew that it was present at the site of the attempted
+measurements.
+
+ I haven't yet had confirmation on the piezo transducer.
+
+ One thing that I can say about the hum though is that it's intensity doesn't
+vary from place to place in a given area like North Central New Mexico. If it
+is at a particular intensity at my home it will be at that same intensity at my
+transmitter site or at the lake or across town or across the county. The
+intensity does vary from time to time however. It was down in intensity for
+awhile on Saturday and I thought we might get a few days of relative quiet but
+Sunday Morning it was at high intensity again and has remained so through this
+evening.
+
+ Thanks for your suggestions. Keep making them, something might just click.
+
+ Sara
+
+
+ - Sara T. Allen, Written 01-Nov-1994 @ 20:54:57
+
+
+
+
+
+Date: 02-Nov-94  15:49:37
+Fm: william beaty 
+To: Sara T. Allen 
+
+Is it an impossible task to zero-beat the several hum frequencies and at least
+temporarily cancel the hum via headphones?  I realize that the oscillators
+would drift in phase relationship to the hum unless they could be somehow
+dynamically adjusted.  Doing all this might not be valuable for anything, but
+since an audio signal DOES beat with the perceived HUM, the implication is that
+the "sound" of the hum can be cancelled with a perfectly- adjusted set of audio
+oscillators.  Might be neat to try.
+
+Too bad that the hum is not acoustic.  The wavelength of 60HZ EM is a bit
+longer than tens of feet!!
+
+- Bill B.
+
+
+
+
+Date: 02-Nov-94  19:46:51
+Fm: Sara T. Allen 
+To: william beaty 
+
+ >> Is it an impossible task to zero-beat the several hum frequencies and at
+least temporarily cancel the hum via headphones? <<
+
+ It doesn't cancel at zero beat. I believe it is because of a phase shift in
+the phenom.
+
+
+ - Sara T. Allen, Written 02-Nov-1994 @ 20:13:14
+
+
+    
+    
+Date: 02-Nov-94  19:46:46
+Fm: Sara T. Allen 
+To: All
+
+OK,
+
+ Here is the skinney on the piezo electric device transducer developed by James
+Garner in Albuquerque.
+
+ After cracking open an over the counter piezo electric high frequency speaker
+and removing the piezo device and soldering it perpendicular to a copper clad
+circuit board, sort of like a Pressure Zone microphone, and adding a square
+coil of wire to the top of the piezo device, then taking the output of the
+piezo and applying it to a 2 stage high gain darlington circuit and using
+passive r/c networks to filter out unwanted stuff, the output was applied
+directly to another series of high gain discrete transistor amps with each
+transistor hand balanced with bias at mid point, he was able to record the
+result to tape. It is not a perfect reproduction but close enough for me to
+recognize it as the (Taos Hum) phenomenom.
+
+ Unfortunately, during a demonstration for 60 minutes ( I wasn't aware that
+they had made a 60 minutes segment on the hum, but I don't know everything,) a
+year or so ago, his very old o'scope passed the smoke test and made smoke
+thereby applying high voltage to his circuitry destroying it as well. All that
+remains is a tape recording of the output and a video tape (which CBS has) of
+the o'scope presentation along with the hum.
+
+ He doesn't have schematics :( but gave a very good description of the
+circuitry, keep it simple. He spent the entire month of December 1992 (I think)
+balancing each transistor. He used 2N2222 general purpose transistors with 2 in
+the preamp, and 15 in the secondary. At one point he described a feed back loop
+he set up by applying the output of the piezo to the circuit and then to his
+hi-fi speakers and caused what he said was a fascinating display of rumbling
+and shaking of his neighborhood and calls from his neighbors asking what the
+heck he was doing. Reminded me of the Tesla building shaking device
+description.
+
+ The piezo device is interesting. Anyone know exactly the composition of a
+piezo transducer? He said it is a piece of metallized plastic that when
+stretched outputs a voltage, (reminded me of some of the stuff Brazel found in
+Roswell.) (How would that work for UFO propulsion, an entire craft made up of a
+flexible, variable crystalline matrix.) My understanding is that the transducer
+has a crystalline matrix structure which when vibrated by audio wave forms
+produces a sound and vice versa, when stimulated by a sound, produces a
+voltage.
+
+ I don't know if or when I will get the time to construct such a device, but I
+have all winter to draw up the schematics and do some breadboarding of my own.
+I wonder if a balanced op amp instrumentation circuit to cut down on common
+mode signals instead of the discrete device would be an improvement. Along with
+selectable, adjustable, low pass, high pass and bandpass circuitry it just may
+do the trick. Right up my alley. James said that he recommends using the
+passive filtering over active filtering. He is going to try to rebuild his
+circuit also and has given me his cooperation in developing my own here.
+
+ More later, I'm hungry.
+
+ Sara
+
+- Sara T. Allen, Written 02-Nov-1994 @ 20:40:38
+
+
+
+
+
+
+Date: 08-Nov-94  17:32:52
+Fm: Sara T. Allen 
+To: Alain 
+
+ >>> My meeting with Congressman  Richardson left me discouraged.  <<
+
+ Why is that so? <<
+
+ He basically spoke out of the other side of his mouth this time, guess it was
+because he was on camera. His track record to date on this is in March of 1993
+he came out and said "Yes it is the military that is causing it."
+
+ Then the DOD denied it and Bill relaxed his stance.
+
+ Then I wrote him a letter in which he claimed to believe that the hum was real
+and that it is "imperative" that the source be found and stopped.
+
+ When the contents of the letter were brought up to him on Saturday he said
+that he didn't think his constituency was interested in this issue, that he
+believed it to be a natural phenomenon, and that he didn't believe that anyone
+was suffering from it.
+
+ After the interview I pointed out that the hum is widespread and that I am in
+touch with people nationwide who claim to be having adverse health effects,
+etc. etc. etc. He said he would once again have his intelligence committee look
+into it.
+
+ That's why.
+
+ Sara
+
+
+ - Sara T. Allen, Written 08-Nov-1994 @ 18:25:07
+
+
+    
+Date: 08-Nov-94  17:34:08
+Fm: william beaty 
+To: Alain 
+
+> Yes. But it would not be considered an objective measurement.
+
+But humans can be 'used ' as transducers to make objective measurements if the
+humans can report the cadence of the beat between the Hum and an audio
+oscillator.  For example, if the Hum frequency is fairly stable, then the audio
+oscillator can be varied, and the human will respond by tapping out a rhythm
+that varies in frequency and phase with changes in the oscillator freq., and
+several isolated human listeners hearing a beat note from the same oscillator
+will tap out the same rhythem, and all of them will follow changes in the
+oscillator.
+
+Of course this might not work if the Hum frequency drifts around, or if the
+beat note is so weak that the human listeners have trouble reporting its
+rhythem.
+
+This would be a fun experiment to perform, but if a physical transducer is
+discovered, there wouldn't be much point.
+
+- Bill B.
+
+
+
+
+
+    
+    
+    
+Date: 09-Nov-94  06:15:02
+Fm: Sara T. Allen 
+To: Rick 
+
+ >>  there would be some trouble still in detecting those low frequency
+acoustic waves which would probably be very low power too. <<
+
+ They are very low power emanations from the ear, if they exist at all, which
+is the stated goal of the experiment being carried out by Jim Kelly at UNM. The
+last I heard was that they had gotten the equipment to -20 dbspl using noise
+cancellation circuits, that is quite impressive but still not enough.
+
+ I know that there is a piece of equipment that will detect and record this
+signal, it just happens to be classified. I have recently gotten some
+corroboration from Gov. Svc. people that such a thing exists, that it is
+operational, that it is being used for worldwide sub com, that it is probably
+operating in the 7 hz region (alpha wave alert!), and that LANL is assisting in
+some way. Also, that the fact that some people are sensitive to it and can act
+as detectors is a side effect that was unforeseen and they don't know what to
+do about it.
+
+ I should be hearing today if I am off to Seattle for the weekend ABC affiliate
+interview. It sounds like it could be a fun trip to meet some of the people
+that I only know from C-space in 3d.
+
+ Sara
+
+ - Sara T. Allen, Written 09-Nov-1994 @ 07:11:29
+
+
+
+
+

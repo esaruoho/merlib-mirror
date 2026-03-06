@@ -1,0 +1,235 @@
+FROM:
+
+Dr. Eugene F. Mallove, Editor-in-Chief
+Infinite Energy Magazine
+Cold Fusion Technology, Inc.
+PO Box 2816
+Concord, NH 03302
+
+	Phone: 603-228-4516
+	Fax:   603-224-5975
+        editor@infinite-energy.com
+
+		      http://www.infinite-energy.com
+
+*********************************
+A word of WARNING right up front: This is potentially VERY DANGEROUS work
+and must not be done without maximum, safety precautions and supervision
+by those thoroughly versed in laboratory safety!  It involves
+high-temperatures, high-voltages, explosive mi xtures of oxygen and
+hydrogen, caustic solutions, and steam generation that if improperly
+contained could cause a deadly explosion. These are just the beginning
+hazards. This is unknown territory.  Drs. Ohmori and Mizuno measured the
+transmutation of elem ents in this experiment. Thus, until further notice
+^Ë and despite your possible skepticism about their claim of transmutation
+^Ë this work must be considered, by definition, nuclear experimentation. 
+With that said, we encourage every thoughtful group who can do this
+experiment safely to attempt it. Infinite Energy and Cold Fusion
+Technology, Inc. take no responsibility for the known or unknown radiation
+or other hazards that are associated this experiment. 
+
+*********************************
+
+Dear Colleagues:
+
+After much work we now have what appears to be a marvelous do-it-yourself
+"cold fusion" experiment. Any reasonably equipped chem/physics lab can see
+the effect within days to a week -- if they get their act together. The
+experiment has the following quali ties: 
+
+1. It is visually and audibly spectacular -- brilliant glowing, pink,
+purple, lavender with white flashes on an underwater tungsten (W)
+electrode ( e.g. 2 mm x 5 mm W foil or 1 cm x 1.6 mm diameter tungsten
+welding rod). A plasma-like underwater discharge on the electrode that
+often manages to disintegrate or melt tungsten underwater with only about
+50 to 80 watts of power over a short period. (Tungsten's melting point is
+3680 K or thereabouts.) The sound of the underwater "explosions" on the
+cathode -- brilliant white flashes on the purple background plasma -- is
+very impressive. 
+
+2. It is *totally reproducible* -- at will -- with no loading time as in
+the Pd/heavy water experiments
+
+3. Calorimetry is simple to do because there is so much steam energy
+evolved from the reaction that by simply tallying the amount of water
+vaporized as steam, one gets over-unity every time (so far). Three groups
+have already gotten *preliminary* over-unity results: 1. Ohmori and Mizuno
+in Japan, who introduced the phenomenon at ICCF-7 (O/U estimated at
+2.6/1); 2. Gene Mallove and FAA engineer Ed Wall here in Bow, NH during
+the past ten days -- work continuing -- (CONSERVATIVELY 1.4/1); 3.
+Engineer Mark Hugo of Northern States Power in Minnesota (but his
+affiliation has nothing to do with his home experiment) -- (CONSERVATIVELY
+1.5/1), but owrk still continuing to check for errors. Chemist John
+Thompson in the Bahamas, who attended ICCF-7, was the first person outside
+of Japan to reproduce the effect and will do calorimetry on it soon. This
+will be in IE #20 out on July 22. 
+
+4. No one has patents or may be able to get them since the effect was
+noticed in other forms (1916!) and reported extensively in the Journal of
+the Electrochemical Society, April, 1950, p.133 in an article titled ("The
+Anode Effect in Aqueous Electrolysis," by Herbert Kellogg of the School of
+Mines, Columbia University. New York -- Hal Fox found this marvelous
+article, since it relates to some of the work his Trenergy Company is
+doing weith charge clustgers and radioactivity reduction. This may,
+indeed, be related to the underwater electrolysis ability to remediate
+nuclear waste. But -- OF COURSE! -- NO *calorimetry* was done in 1950. No
+one had any idea that such simple systems could be O/U. The systems were
+studied for other reasons.  Further: the present tungsten effect is seen
+mainly on the cathode, but it can make the Pt anode incandescent too at
+lower water temperature (say 50 C) -- we normally work over 80 C. It is
+very mysterious -- was so to Kellogg in 1950 and remains so. 
+
+5. Ohmori and Mizuno found major evidence for transmutation of elements
+and volcanic ejection of metals from the tungsten surface -- these SEM
+photos were reproduced in their article. They find Hg, Os, Kr, Zn, Cu, Ni,
+Fe, Cr, Si, and Mg -- with anomalous isotopic content. Just as I said, in
+IE #15/16, this subject is more properly called ³Electro-Alchemy" 
+
+6. WARNING: Ohomori and Mizuno experienced significant apparent
+electromagnetic effects on their instruments. They were unsure whether
+some of the effect on their neutron counter were evidence of neutrons -- I
+doubt the latter, as did Srinivasan of BARC at ICCF7. I have kept a Geiger
+counter on during our experiments -- absolutely no sign of major ionizing
+radiation, but of course it could be localized within the cell. 
+
+Ohmori and Mizuno's paper at ICCF7: " Strong Excess Energy Evolution, New
+Element Production, and Electromagnetic Wave And/Or Neutron Emission in
+the Light Water Electrolysis with a Tungsten Cathode."  T. Ohmori and T.
+Mizuno, Catalysis Research Center, H okkaido University
+
+Here is my recommended recipe for an experiment to demonstrate the effect: 
+
+1. Take a 250 ml glass beaker, fill to about 200 ml level with 0.5 molar
+(0.5 M) K2CO3 -- potassium carbonate solution
+
+2. Get 0.5 mm diameter Pt wire for both anode and cathode leads -- about
+15 cm for each lead is adequate length. Shield them with teflon tubing
+down to the connection point with the Pt or W. 
+
+3. Use a small piece of Pt foil -- about 2 mm x 5mm on the anode (positive
+lead) crimped mechanically to the Pt wire -- no welding is needed.
+
+4. Use a 2 mm x 5 mm size W foil on the cathode - negative side. It is
+tricky to attach the W foil (we used 0.1 mm thickness, which can be
+pierced with difficulty and the Pt lead wired through). Or, if W welding
+rod 1/16-inch diameter is available, wrap t he Pt wire around the W piece
+about 0.5 to 1 cm long. Warning: The reaction is so violent that it is
+hard to get the cathode piece in rod form not to fall out of its Pt wire
+cage! Runs up to 10 minutes or so are usually OK. Mark Hugo has run for up
+to 75 minutes , condunsing steam from the reaction -- but he has put other
+ingredients into the brew such as Li, and he has used a thicker cathode of
+1/8-inch W rod. 
+
+5. Get a DC power supply up to 5 amps capacity and up to 200 volts. (I am
+eager to try beyond 180 volts, but we may need a concrete bunker before we
+try that! Eager also to try heavy water!)  You can use a variac AC source
+to make DC power-- use a bridge rectifier and capacitor to make DC from
+the AC output. Install voltage and current metering devices -- digital
+display preferred, data acquisition system if you want to get fancy on the
+calorimetry later. I'm sure Scott Little and Mitch Swartz cojuld do this
+soon if they put their equipment into this specialized service. This is an
+excellent experiment for Barry Merriman too! 
+
+6. Heat up the beaker solution to 80 C either by electrolysis at low DC
+input power -- e.g. 20 V, 1.8 to 2 amps -- or with an external hot plate.
+(Turn off the hot plate and **remove it** if calorimetry is being used.)
+At about 80 deg --sometimes at a lower temperature -- crank up the volts
+to 120 to 180. The effect changes appearance as voltage increases. Current
+will drop substantially to 0.2 to 0.4 amps as the sheath of steam
+surrounds the glowiing plasma-sheathed cathode. Keep an alcohol
+thermometer suspended in the solution to measure the temperature. I would
+*initially* avoid thermocouples because of the threat of violent
+electromagnetic interference in this unknown phenomena.
+
+In calorimetric assessment: Heating credit should be taken for the full
+mass of water in the cell from the initial temperature of say 80 C to the
+boiling point. However, you may find it difficult to push the average
+solution temperature up to 100C (we were only in the low to mid 90s),
+because the steam ejected cools the solution so rapidly. The boiling point
+is elevated -- McKubre estimated to me in aprivate communciation by only
+0.25 deg C for such a solution). This is wonderful, because we WANT steam.
+It will be no problem at all to power steam engines with this, if pending
+thorough verification of excess energy (This *is* work in progress that
+must be confirmed!) we figure out how to get the power ratio high enough,
+if it is not there already. The main source of the excess is the amount
+boiled off: water vaporized requires about 2260 J/gm. 
+
+Why was this missed by other cold fusion people? Simple: everyone was
+looking for a sedate reaction that P&F had started with when the real pay
+off was in these higher voltage systems that trigger with metals like
+tungsten. W is recommended due to its temperature resistance, but John
+Thompson has found that other metals such as Al, Cu, Ni, and Zr also work
+-- as far as the *visible* effect. The colors of the emissions are
+different -- different hot plasma near the cathode surface. 
+
+Other parameters that need to be explored:
+
+* Higher voltage
+
+* Can energy be extracted from the recycled water after steam condensation
+  or if Mills-type hydrinos are formed, do they become "inert"? 
+
+* Other electrolytes -- KCl also works, according to Thompson, try higher
+  molarity values
+
+* Other metals
+
+* Pressurized systems -- BE CAREFUL!!!
+
+* Recombine oxygen and hydrogen -- but a very small part of the effect,
+  undoubtedly -- to get extra energy in the output
+
+* Try heavy water in various mixtures with light water
+
+* Detect electromagnetic pulse from the device -- if it is there as they
+  found in Japan
+
+* Examine the element production and non-natural isotope ratios formed
+
+* SEM imaging for morphology of craters
+
+* Look for radiation -- use film fogging techniques, CR-39 plastic
+  detectors, etc. 
+
+This will keep a lot of people busy for a long time. As soon as we pin
+down the thermal characteristics a bit more, we and others well be
+hell-bent to scale up to larger power-producing units -- with SAFETY FIRST
+as our motto. 
+
+**********
+
+
+This is a typical, very brief O/U investigation run that Ed Wall and I
+performed here recently in an uninsulated glass beaker on a metal surface
+-- VERY rough calculation, conservative, we think. Among other factors
+reducing effect apart from ZERO insulation is the recondensation and
+re-boiling of material -- we had a plastic cover on the beaker with holes
+drilled in it. A distillation recondensation device would be preferred to
+observe water evolved as steam. 
+
+Input: 0.7 to 0.8 amps, avg 0.75 A input at 168 volts = 26,590 J
+
+Duration: 3 minutes, 31 seconds
+
+Solution reduced from 183 ml to 173 ml due to boil-off
+
+Output = 10 x 2260 J/gm H2O + 183 x (about 15 C rise during heating to
+full boiling at about 92 C) x 4.18 J/gm C = 34,060
+
+output/input = 1.28
+
+Credit for uninsulated vessel and re-bailing of condnsed liquid could
+easily push this to 1.40 and beyond. Much more work needs to be done. 
+
+I hope that other Vortexians will try this -- CAREFULLY, please!
+
+************
+
+Ohmori and Mizuno did calorimatry on the last few mintues BEFORE boiling
+and compared the rate of temperature rise to that of a joule heater's
+effect on the same volume of electrolyte. That's how they got their 2.6/1.
+
+
+****** See Infinite Energy #20 for more information in late July.
+
+

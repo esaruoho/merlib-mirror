@@ -1,0 +1,134 @@
+Super-regenerative Receiver for Scalar RF
+
+
+From: Bob Shannon
+Cc: freenrg-l@eskimo.com
+Subject: Re: Tesla's Longitudnal Waves
+Resent-Date: Thu, 6 Feb 1997 11:33:54 -0800
+
+<snip>
+
+I'll give you a thumbnail sketch of the design :
+
+The sensor itself is an air core coil placed in the field of a fully
+shielded magnet, much like the Dea/Faretto design.  This coil is tapped,
+and connected to a NTE312 jfet oscillator based on a VFO circuit lifted
+from the ARRL handbook.  A variable capacitor tunes the coil to resonace
+in the frequency range of interest.  
+
+My prototype also included a latching relay and a set of varactor
+diodes, but I digress.
+
+This VFO oscillators power supply runs throgh a 1:1 ration audio
+isolation transformer (a radio shack part, 1k to 1k interstage.) and
+then to a zener diode regulator that is well bypassed.  A trim pot
+voltage divider allow the DC bias to be set for proper operation.
+
+The other winding of the transformer runs to an XR2206 function
+generator, which modualates the DC supply to the VFO section with a 25
+to 30 Khz triangle wave.  The output level of the function generator is
+set to bring the VFO above and below its start up and shut down
+voltages, so the RF VFO goes into and out of oscillation at the
+frequency of the function generator.
+
+The DC bias and modulation levels must be carefully set so that the VFO
+both starts and stops as a function of the quench oscillator.  This is
+critical, and some test equipment is needed for checkout and
+calaibration.  A good oscilloscope is mandatory here.
+
+This is much like a super regenerative radio receiver design of the
+1930's or early 40's, but there is no antenna circuitry.  The XR 2206
+function generator serves as the 'quench' oscillator.
+
+The output of the VFO section is coupled to a transistor detector stage,
+where it is rectified and integrated.  A filter removes any traces of
+the VFO frequancy or function generator frequancy.
+
+The detector feeds an audio amplifier and output driver stage.
+
+In operation, the low noise jfet will begin oscillation as the VFO
+supply increases.  The point at which the VFO starts is a function of
+the noise of the jfet, and the energy present in the coil itself.
+
+As the quench oscillator supply drops due to the action of the negative
+swing of the quench oscillator, the VFO will remain in oscillation for a
+time also controlled by the jfets internal noise, and the energy in the
+coil.
+
+So the VFO starts oscillation sooner if any energy is present in the
+shielded coil at near the frequency of the tank circuit, and remains in
+oscillation longer due to this same energy in the coil.
+
+The detector and integrator stages produce a signal whos amplitude is a
+direct function of the period during which the VFO is in oscillation.
+
+Any indicent scalar wave will effect the permanent magnets field in
+which the coil imbedded, just as in the Dea/Faretto design, as well as
+the Barkhausen effect designs.  This magnetic modulation by an incident
+scalar wave will deposit energy into the coil, and alter the startup and
+run times of the VFO, and produce a change in the signal level from the
+detector and integrator.
+
+This will 'detect' several forms of modulation, including SSB, AM, FM,
+and CW emissions.  All electronic circuitry is shielded from the coil
+and magnet assembly in a chassis bolted to the magnet housing.
+
+The varactor diodes are fed with a ramp waveform to sweep them through
+their range of capacitance.  This ramp waveform is also used to deflect
+the X axis of an external oscilloscope, and the detectors output drives
+the Y axis.  The ramp waveform is in the order of 100 hz or so.
+
+The display on the oscilloscope there by forms a primitive scalar
+spectrum analizer when the latching relay selects the varactor diodes
+rather than the manully tuned variable capacitor.
+
+Early prototypes used a 555 timer as the quench oscillator, but this was
+far from satifactory, as the 555 timer injected large spikes into the
+analog ground, which ran through the VFO sections, etc.  This is
+resolved by the use of the XR2206 function generator, but you could also
+use a XR8038 or other function generator as well.
+
+I found the placement of the feedback tap on the coil was very important
+to getting a spectrally clean signal from the VFO section, and I also
+needed to place a few ferrite beads on the feedback line to get a clean
+sine wave.  If the oscillator has harmonic content, the selectivity of
+the detector will suffer accordingly.
+
+This design is also rather old today (about eight years now), and I
+suspect that far better (lower noise) jfets are commonly available. 
+With this description, it should be fairly easy to design and construct
+a super regen scalar detector without my schematics at all.
+
+The circuitry is a bit more complex than some detectors, but the fact
+that the design is linear, in that is will reproduce the actual scalar
+signal, and is tunable over a range of frequancies, and can easily
+perform spectral analisis via the varactor diodes makes it a very good
+detector design in my opinion.
+
+It is also quite sensitive!  Care must be taken to prevent any EM
+leakage into the coil and magnet assembly, which would cause false
+signal detection.
+
+This basic design can be adapted over a wide range of frequancies,
+covering the whole of the HF spectrum.  Care must be taken not to attept
+to tune the VFO over too wide a range of frequancies in a single unit,
+as the DC bias and modulation control settings will need to be altered
+if the VFO frequancy is changed by too large a degree.
+
+Of course all conventional design rules for ham radio quality VFO
+construction must be given proper attention, such as reducing
+microphonics, etc.  I reccomend the use of 'pad per hole' perf board for
+this reason.  Hard core ham equipment builders oftem like 'dead bug'
+construction on a copper sheet (ugly!) and then pot the finished circuit
+in epoxy or some similar material.
+
+Consult the ARRL 'good book' for this info.  Other than this, it's a
+really soild, reliable dsign.  Heat up your soldering iron, and go for
+it!
+
+Just don't try to get any QSL cards from any transmissions you might
+detect with this thing!  ( Especially if they came 'postage due'.  ;-> )
+
+Have fun,
+
+Bob Shannon.

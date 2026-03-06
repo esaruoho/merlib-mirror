@@ -1,0 +1,144 @@
+ARICLE BY JOE MISIOLEK OF THE TVQ GROUP, POSTED TO KEELYNET 8/13/93
+
+Keelynet message 1652, 1653
+
+------------------------------------------------------------------
+This device is a variant of the non-linear junction type detectors.
+It has a few suprises that you will (hopefully) discover when you
+build it.
+------------------------------------------------------------------
+
+----------
+PARTS LIST
+----------
+1	Opto-isolator IC (NEC PS2501-4)
+	16 pin dip
+	isolation voltage 5000
+	current transfer ratio 80%-600%
+	Bvceo=80 minimum
+	Ton = 3 uSec
+	Toff= 5 uSec
+
+1	16 pin DIP socket
+1	Battery Powered variable DC power supply (regulated)
+1 	Oscilloscope
+1	Circuit Board
+1	metal box (suitable for housing RF circuits
+2	RCA phono jacks (shielded)
+2 	RCA phono plugs (shielded)
+
+misc.	coax cable, solder, etc.
+
+Construction:
+
+Put the whole thing into the shielded box.  There should be no gaps where 
+the box halves join or anywhere else that vector EM signals might leak 
+through to the detector.  It must be completely shielded from all vector 
+EM radiation.  Connect the IC to RCA type jacks using short pieces of coax.
+Follow the connection scheme below.  Use good construction practices 
+(short leads, well shielded and good solder connections are a must.)  
+Plug coax into the jacks and run the cables out to the power supply and 
+scope as shown.
+
+
+Theory of Operation:
+
+As you may well know, non-linear mediums will translate scalar EM.  This 
+can be exploited in most semi-conductors due to the highly non-linear 
+junction region present where N and P type materials interface.  We 
+havethree such junctions in this detector.  One junction in the LED and 
+two in the phototransistor.  WHen the LED is biased just enough to put it 
+into 'starvation mode,' electrons begin their quantum tunneling across 
+the junction.  Scalar wavefronts passing through the junction translate 
+into vector EM which couples with the tunneling electrons altering their 
+spin and kinetic energy content.  When the electrons find suitable 
+quantum wells in the P type material they 'fall in' radiating their
+excess energy in the process.  The photons emitted contain the scalar 
+information which coupled to the electron during the tunneling process.  
+This information is carried by the photo to the base of the photo- 
+transistor where it is converted into a vector EM signal and sent to the 
+scope for analysis.
+
+Enterprising researchers may want to amplify the signal before sending it 
+to the scope.  This is up to you.  If you do decide to try this, use 
+high-impedance JFET input op-amps for the task.
+
+              -------------------------------------
+
+< ASCII SCHEMATIC MISSING >
+
+Operation:
+
+Start with the power supply at zero volts dc and the scope sweep rate 
+somewhere around 10KHZ/cm on the scale.  Set scope sensitivity to highest 
+range (.01 v/cm or better.)
+
+Slowly begin raising the DC bias to the LED keeping careful watch on the 
+scope.
+
+At the point where the LED just starts to conduct (starvation mode) you 
+will begin to see signals on the scope.
+
+Adjust dc bias until you get the best detection
+
+Adjust the scope sweep rate until you see the most signal detail.
+
+
+Observations:
+
+1. You will note that the signals are not vector EM for they cannot 
+   penetrate the shielded box to interact with your detector.
+
+2. They are not the result of a ground loop because you are running from 
+   batteries.
+
+3. They are not from the battery supply because there is 5000 volts of 
+   isolation between the emitter and detector portion of the IC.
+
+Here is the BIG TEST......
+
+This device will operate for approximately 10 minutes before failing.  You
+will notice however that the IC will still function as an opto- isolator
+when placed into a conventional circuit.  It simply won't detect anymore. 
+
+Anyone here who can adequately describe in a private letter to me why 
+this is so will be given the next detector plans which are quite a bit 
+more advanced.
+
+Good luck to all!
+
+                                               Joseph J. Misiolek
+
+
+
+----------------------------------------------------------------------------
+BILL BEATY'S NOTES
+
+I built and played with this circuit.  It works.  Don't bother with the 
+extreme shielding measures, I suspect they are only used to prove that 
+the noise is not from an external source.  Yet all circuits exhibit 
+thermal noise, so a noisy nonlinear device is not unexpected.  The weird 
+thing is the sudden cessation of the noise.  If you run the LED at 
+extreme low current and pipe the output of the phototransistor into an 
+audio amp, when you first turn the LED on (tens of microamps) you will 
+hear white noise.  After awhile it will vanish, and you cannot bring it 
+back.  If you disconnect the circuit for a half an hour, the noise will 
+not return.  If you freeze it with cooling spray, it will not return.  
+But if you wait for hours (overnight,) the noise source will "refill" 
+itself again.  Also, the harder you drive the LED, the faster the noise 
+will vanish.
+
+Robert Shannon tells me that if a whitenoise source is used to drive a
+bifilar coil and the optoisolator is inserted, when the chip is placed
+back into the circuit the "noise source" will have been "refilled" again
+without waiting hours for it to "refill"  naturally.  I've not tried this
+experiment yet.  If it works, it implies amazing things.  Perhaps the
+disappearing-noise effect from this optoisolator circuit can be used to
+receive the unshieldable scalar radiation emitted from bifilar coils. 
+Subspace morse code transmitter anyone? 
+
+.....................uuuu / oo \ uuuu........,.............................
+William Beaty  voice:206-762-3818   bbs:206-789-0775    cserv:71241,3623
+EE/Programmer/Science exhibit designer        http://amasci.com/
+Seattle, WA 98117  billbeskimo.com           SCIENCE HOBBYIST web page
+

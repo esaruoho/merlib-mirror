@@ -1,0 +1,310 @@
+**************************************************************************
+*  -----------------------------------                -----------------  *  
+*   the Bell Jar (electronic version)                 #4    (June 1995)  *  
+*  -----------------------------------                -----------------  *  
+*                                                                        *
+*  This newsletter contains material which has been extracted from the   *
+*  hard-copy newsletter of the same name. Devoted to the vacuum          *
+*  experimenter, the intent of "the Bell Jar" is to broaden interest     *
+*  in vacuum technology through useful discussions of theory and         *
+*  technique, and to present ways in which a variety of apparatus may    *
+*  be assembled using common and inexpensive materials. Information      *
+*  on "the Bell Jar" may be obtained by sending email to the editor,     *
+*  Steve Hansen, at shansen@tiac.net or by writing to 35 Windsor Dr.,    *     
+*  Amherst, NH 03031. Please feel free to circulate this electronic      *
+*  version, intact, to others who might be interested in the subject     *
+*  matter. New numbers will be mailed at approx. quarterly intervals.    *
+*  Email subscriptions are free and may be obtained by contacting the    *
+*  editor. Comments, contributions and criticisms are always welcome.    *
+*  Copyright 1995, Stephen P. Hansen.                                    *
+**************************************************************************
+
+
+In this issue:
+
+Monographs from the American Vacuum Society
+
+Vacuum and "Scientific American"
+
+Plasma Experiments with Commercial Gas Tubes
+
+What's in the current issue of "the Bell Jar" (Print Version)
+
+
+                       ***********************
+
+
+MONOGRAPHS FROM THE AMERICAN VACUUM SOCIETY
+
+      The American Vacuum Society (AVS) publishes a number of
+excellent and quite reasonably priced monographs on various
+topics in vacuum science and technology. Here is a listing of the
+ones that are currently available, along with some descriptive
+information.
+     My personal favorites are the two volumes on vacuum history.
+The first, "History of Vacuum Science and Technology" (M-7, 1984,
+168 pages), was developed for the 30th anniversary of the AVS. It
+includes a number of papers that were commissioned for the book,
+pictures of the history exhibit that accompanied the annual
+symposium, and reproductions of several important historical
+papers. Several articles on the history of pumps and gauges and
+one on early applications of vacuum are very interesting. R.K.
+DeKosky's article "William Crookes and the Quest for Absolute
+Vacuum in the 1870's" is especially captivating.  Also represented
+in the pages of this book are papers on or by von Guericke,
+Boyle, McLeod, J.J. Thomson, Langmuir, Dushman and Bayard &
+Alpert. An added treat is a 1965 article from "Scientific American"
+on vacuum propelled tube trains.
+     "Vacuum Science and Technology, Pioneers of the 20th Century"
+(M-14, 1994, 229 pages) contains biographical sketches of a
+number of leading figures in vacuum including Burch, Clausing,
+Dushman, Gaede, Holweck, Jaeckel, Knudsen, Langmuir, Pirani and
+Yarwood. A second section covers the development of various pumps
+and some milestones in the pursuit of ultra-high vacuum. The last
+section includes more historical papers dating from 1908 to 1958.
+     Most books on plasma diagnostics are littered with complex
+equations accompanied by a few abstract illustrations. "Electric
+Probes for Low-Temperature Plasmas" by David Ruzic (M-13, 1994, 93
+pages) is different. Starting with plasma fundamentals, Ruzic
+gets into the practical details of designing and  building
+Langmuir probes and interpreting the results. He also presents an
+op-amp based circuit for an active Langmuir probe. While the book
+is still quite technical, it is very readable and well organized.
+Also, he thankfully confines the really heavy math to an
+appendix. 
+     Basic vacuum theory is contained in "The Fundamentals of
+Vacuum Technology" by Harland Tompkins (M-6, 1991, 33 pages). This
+contains all you should ever need to know about flow, surface
+effects, outgassing and vapor pressure. "An Elementary
+Introduction to Vacuum Technique" by Gerhard Lewin (M-8, 1987, 44
+pages) provides overview detail on gas "habits", gauges, pumps,
+fittings & valves and system organization. "Vacuum Gauging and
+Control" by Harland Tompkins (M-12, 1994, 88 pages) covers the
+various gauges in excellent detail. It also includes material on
+partial pressure analyzers (mass spectrometers) including
+interpretation of the spectra and information on gauge
+calibration.
+     There are two books on pumps including Tompkins' "Pumps Used
+in Vacuum Technology" (M-9, 1991, 64 pages) and Mars Hablanian's
+excellent "Diffusion Pump Performance & Operation" (M-5, 1983, 60
+pages).  
+     Other titles include Beavis, Harwood & Thomas "Vacuum Hazards
+Manual" (M-1, 1979, 43 pages), Wilson & Beavis "Handbook of Leak
+Detection" (M-2, 1979, 99 pages), Coburn "Plasma Etching and
+Reactive Ion Etching" (M-4, 1982, 87 pages, $10), Brannou "Excimer
+Laser Ablation and Etching" (M-10, 1993, 95 pages) and Selwyn
+"Optical Diagnostic Techniques for Plasma Processing" (M-11, 1993,
+161 pages).
+     All of these books are priced at a modest $10 each and are
+available from the AVS at 120 Wall St., 32nd Floor, New York, NY
+10005, (212) 248-0200. Mention "the Bell Jar." 
+
+                       ***********************
+
+
+VACUUM AND "SCIENTIFIC AMERICAN"
+
+     As has been mentioned before, the "Amateur Scientist" column
+in "Scientific American", when it was alive and well under the 
+leadership of C.L. Stong, contained a number of vacuum related
+projects. The compendium "The Scientific American Book of
+Projects for the Amateur Scientist" (Simon and Schuster, NY,
+1960) contained a number of columns from the late 1950's. Two of
+particular interest are the ones on an electron accelerator and
+homemade cold cathode x-ray tubes. The former, contributed by
+Franklin Lee, was the first project to use converted
+refrigeration compressors and a simple glass mercury diffusion
+pump (Kurth-Ruggles design) to produce high vacuum in an amateur
+project. Lee's voltage source was a fairly large van de Graaff
+generator that could charge its sphere to a potential of 500 kV.
+     Lee's project prompted the formation of Morris & Lee, a
+company that supplied van de Graaff kits, vacuum pumps and
+various accessories. Later columns incorporated many of Lee's
+techniques. Specific projects detailed in these columns included
+a He-Ne laser (9/64 with an addendum in the 12/65 issue), a high
+altitude chamber for biological studies (9/65), a hand
+pumped discharge tube (8/66), an argon gas laser (2/69),
+molecular beam apparatus and mass spectrometer (7/70), a proton &
+deuteron accelerator along the lines of Lee's machine except with
+a simple ion source (8/71), a CO2 laser (9/71), two transmission
+electron microscopes (9/73), N2 laser (6/74) and a mercury-vapor
+ion laser (10/80). The molecular beam apparatus and mass
+spectrometer are elegant little designs and it is hoped that "the
+Bell Jar" will have updated versions in the near future. The
+electron microscopes were built by students at a private high
+school in Chicago. One used a cold cathode electron source with a
+simple (one element) lens to produce a maximum magnification of
+about 100x. The other used a filament to produce the electrons
+and had three lenses (condenser, objective and projection) to
+provide magnifications to 10,000x. 
+     A later "Scientific American" compilation, "Light and Its
+Uses" (W.H. Freeman, 1980) contained the above mentioned laser
+articles along with 21 other projects concerning lasers,
+holograms, interferometers and spectrographic instruments.
+
+     Stong's predecessor at Scientific American, Albert Ingalls,
+produced the classic three volume series "Amateur Telescope
+Making." While mostly not dealing with vacuum, Book 2 (1944)
+includes a chapter on aluminizing mirrors by John Strong of
+Caltech. Strong, as you may remember, was the author of
+"Procedures in Experimental Physics", now available through
+Lindsay Publications. This chapter also provides notes on the
+aluminizing of the 100 inch Mt. Wilson mirror. In an afterward,
+Ingalls noted "John Strong is not (that is, not yet-1944) yet an
+amateur telescope maker (ATM) though hopes are perennially
+entertained by the present writer. He has, however, been so close
+to Russell Porter (the `patron saint' of ATMs and the designer of
+much of the mechanical structure of the 200 inch Palomar
+telescope)...that the amateur's outlook has rubbed off on him."
+     Book 3 (1953) offers a chapter on high vacuum equipment by
+Earle R. Brown of Farrand Optical Company. Here there are some
+good ideas on feedthroughs, valves and other improvised hardware.
+Also covered are evaporation techniques for various materials
+other than aluminum and general information on lens coating,
+interference filters and the cleaning of optics. 
+     Brown's introduction is interesting and relevant to this
+day. He says "Every TN (Telescope Nut) has probably had the
+desire to aluminize his own mirrors and anti-reflection coat his
+own lenses...but has felt that the equipment for doing this work
+was so complicated and expensive that it was not worth while...
+Coating lenses and aluminizing mirrors, however, is only a small
+part of the work which can be performed by high vacuum equipment,
+and the processes of which it is capable offer a fascinating
+field for the TN with his mechanical ingenuity and intellectual
+curiosity.... Not the least of the appeal of high vacuum to the
+TN is its natural perversity. Compared to high vacuum systems,
+the most recalcitrant optical surface is a paragon of meek
+submissiveness. This sort of thing makes raving maniacs of most
+people, but TN's are of the peculiar breed of cat which thrive on
+frustrations."
+
+                       ***********************
+
+
+PLASMA EXPERIMENTS WITH COMMERCIAL GAS TUBES
+
+     Over the past few months I have received a considerable
+amount of material from Prof. Robert Jones of the Department of
+Physics at Emporia State University in Emporia, KS. Prof. Jones'
+interests lie primarily with experimental plasma physics  and he
+has constructed an interesting array of simple benchtop apparatus
+for plasma studies.
+     Prof. Jones brought to my attention a number of articles
+that have appeared in the "American Journal of Physics", a
+publication of the American Association of Physics Teachers. Each
+of these articles deals with experiments that may be performed
+with commercial gas tubes such as the OA4-G (argon-filled cold
+cathode triode), 884/885 (argon-filled thermionic triode), and
+886 (mercury-vapor rectifier).  All of these tubes (or
+equivalents) may be obtained for prices in the $5 to $12 range
+from suppliers such as Fair Radio Sales.
+     The use of commercial tubes permits a considerable amount of
+experimentation without the need for vacuum apparatus. However,
+the techniques, once understood, are completely applicable to
+"real" applications. 
+     In this note I won't go into the details of the experiments
+but will only outline the experiments that are described.
+Detailed explanations of the concepts may be found in almost any
+text on plasma physics. 
+     The first article is "New Elementary Experiments in Plasma
+Physics" (I. Alexeff, J.T. Pytlinski and N.L. Oleson, September
+1977). Four experiments are described:
+
+          Plasma Familiarization - Measurement of e/m
+          (charge to mass ratio of the electron) and  the
+          ionization potential of argon using the 884
+
+          Plasma Diagnostic Experiment - Measurement
+          of plasma electron temperature and electron
+          density by a single Langmuir probe using
+          the OA4-G          
+
+          Observation of the plasma electron frequency
+          using the 866-A
+
+          Investigation of the decaying plasma using
+          the 866-A
+
+     The second experiment is of particular interest because of the 
+importance of the Langmuir probe in plasma diagnostics. 
+     A Langmuir probe is nothing more than a wire that is
+inserted into a plasma to measure its potential. Early
+experimenters let the probe float and measured the voltage with a
+high impedance meter. That gave totally erroneous measurements
+because the floating probe would permit charges to accumulate.
+Langmuir's technique involved connecting the probe to a source of
+variable potential. The probe voltage is swept and the resulting
+current vs. voltage characteristic, will yield the electron and
+ion currents to the probe.
+     The OA4-G is a three element tube that has a cylindrical cathode
+that encircles a ring-shaped anode. A central electrode, sheathed in
+a glass tube for most of its length, serves as the Langmuir probe.
+     In the experiment, a discharge is struck between the anode
+and cathode. This may require about 200 volts. Once the discharge
+is started the voltage must be reduced to about 60 volts to avoid
+damaging the tube. After a period of warm-up, the probe is swept
+by incrementally varying a separate variable supply. 
+     As many plasma devices utilize magnetic confinement fields,
+a couple of articles describe experiments in which the OA4-G is
+immersed in a field. Now, all OA4-A tubes are not created
+equally. The above described tube with its long iron-alloy
+cathode is not appropriate for experiments with magnetic fields
+as the cathode quite effectively shields the discharge. However,
+there is a variation with a very short cathode in which the anode
+and probe structures are above the cathode, exposed. As the tube
+number is the same, you will have to do a bit of digging to find
+the right tube.
+
+     Experiments in a solenoidal field are described in "Behavior
+of a Single Langmuir Probe in a Magnetic Field" (J.T. Pytlinski,
+H.J. Donnert and I. Alexeff, December 1978).
+     Experiments in more complex magnetic fields are detailed in
+"Characteristics of a Langmuir Probe in a Magnetic Field" (Jonathan
+Katz, Edward F. Gabl, Eugene K. Tsikis and Karl E. Lonngren,
+August 1984). Here, multi-dipole magnetic fields as might be
+encountered in plasma apparatus such as fusion reactors and ion
+sources are simulated by surrounding the tube with up to 16 small
+disk magnets that are attached to the inside of a steel coffee
+can, 3 lb. size.    
+
+     Some more complex experiments using the OA4-G are contained
+in "Some Plasma Physics Experiments on Electrical Conductivity and
+Similarity Laws" (J.T. Pytlinski and I. Alexeff, December 1977).
+Let's just say that if you have the courage to try some of the
+above experiments, you'll probably like these too.
+
+     Seriously, the experiments detailed in the first noted
+article are easy to set up and conduct and any amateur seriously
+interested in plasma studies will get a lot out of them. I have
+obtained a small supply of gas tubes and will be trying some of
+these exercises in the near future.
+
+     The noted articles from American Journal of Physics may be
+found at your nearby technical library. Another source is UMI
+(formerly University Microfilms) which may be reached at (800)
+521-0600. Reprints obtained through UMI typically cost in the $10
+to $15 range with all copyright fees paid. UMI is a wonderful
+resource and the service is excellent. A call will also get you
+their informational brochure.
+
+     Elsewhere in this issue I noted the AVS monograph "Electric
+Probes for Low Temperature Plasmas" by David N. Ruzic. If you
+want to play with plasmas and probes and understand what you are
+doing, this little book is a must.
+
+                       ***********************
+
+
+WHAT'S IN THE CURRENT ISSUE OF "THE BELL JAR" (PRINT VERSION)
+
+In addition to the above, the Spring 1995 issue of "tBJ" contained the
+following articles:
+
+     * Microwave oven conversions for plasma experiments
+     * A home-brew thermistor vacuum gauge
+     * The "ionic wind voltmeter"
+     * A simple hand operated vacuum pump
+     * An easily fabricated sorption pumped x-ray tube
+     * Building a plasma sphere 
+
+                                                                    *tBJ*

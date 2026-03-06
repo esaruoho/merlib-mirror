@@ -1,0 +1,136 @@
+AN ANTIGRAVITY CHAMBER                          1997 William J. Beaty
+
+Here's a quick way to generate "zero gravity."  Actually, this really is a
+method for generating freefall weightlessness.  The space shuttle orbits
+at about 300 miles above the earth.  Did you know that at 300 miles above
+the earth, the gravity is only about 15% less than gravity at the surface?
+Gravity inside the space shuttle only APPEARS to be zero because the space
+shuttle is falling, and the astronauts are falling as well.  Whenever any
+container is falling free, the contents of the container will APPEAR to be
+weightless.  Of course the shuttle and its contents are moving sideways as
+they fall, so that they never hit the earth.
+
+Our "zero gravity generator" is simply a camera in a box. By shifting our
+point of view to the inside of a movable box, we can create genuine free
+fall, exactly the same as within any orbiting space craft.
+
+
+MATERIALS:
+
+  - Camcorder or small TV camera
+  - Television monitor
+  - Long narrow cardboard box
+  - Light fixture and floodlight
+  - wooden boards
+
+TOP VIEW:
+
+       _____  spotlight
+      |  ___|/|          _________________________________
+      | <___   |         .                                |
+  ____|_____|\|_____________________                      |
+ |    ______             .          |                     |      TOP
+ |   |      |__-         .          |                     |      VIEW
+ |   |      |__          .          |                     |
+ |   |______|  -         .          |                     |
+ |__________________________________|                     |
+   TV camera on a board  .                                |
+                         _________________________________|
+                                    Cardboard Box
+
+CONSTRUCTION
+
+Cut the cardboard box so that one side is missing, which gives a good view
+into the long narrow box.  Attach the board to the side of the box, and
+attach the camera to the board.  (For convienence, use duct tape at first,
+screws and bolts later on.)  Affix a small flood light adjacent to the
+camera, and aim it into the box so that the camera can "see."  
+
+Connect power to the camera and flood light, and connect the camera to the
+TV or video monitor so that your audience can see into the box.  Adjust
+the camera's zoom and focus to give the proper view of the interior (you
+may have to use "macro" mode.)  For best depth of focus, make sure the
+interior of the box is brightly lit, then adjust the camera f-stop for a
+high number.
+
+
+OPERATION
+
+Place some objects inside the box.  I just grabbed a spool of tape, some
+magic marker caps, and a bottle of white-out, and dropped them in there.
+Watch the image on the TV screen, and carefully rotate the entire box
+assembly until it is upside-down.  Your audience will probably break out
+in laughter, because the box will remain still, but the objects in the box
+will crawl up the wall and roll around on the ceiling!  Violently shake
+the box, and the objects will seem to be controlled by invisible forces.
+
+To generate free-fall, suddenly lift/jerk the box so that the objects are
+launched off the "floor" of the box, then try to move the box to follow
+the objects so they momentarily stay centered in the middle of the box. 
+Don't let the box go, or you might damage your camera!  Your audience will
+see genuine ( and very brief ) free fall effects.  The objects will leap
+into the air, then will drift around spinning, then will suddenly fall
+hard onto the floor. 
+
+
+FANCY VERSION
+
+If you have some ambition, you might wish to decorate the inside of your
+box.  Paint it and add extra shapes to convert it into the inside of a
+space station.  Add some small human figures (Barbie, etc.) dressed
+appropriately.  Or, maybe decorate the interior so it looks like the
+padded cylindrical interior of NASA's "vomit comet" free-fall airplane. 
+Dress your action figures in orange jumpsuits, and provide some
+air-sickness bags for the Senator! 
+
+If you have a sick sense of humor, build the inside of a commercial
+airliner into your box.  Add passengers and steward/stewardesses, luggage
+racks, etc., then simulate what would happen if the 747 pilots decided to
+do loop-the-loops!  Fear of flying?  Or, you can fill your box with
+doll-house furniture, then show what a moving van looks like as it bounces
+and rolls down a steep hill.  An "adventure in moving!" 
+
+This box/camera device duplicates the workings of NASA's free-fall
+simulator plane.  Rather than climbing into a full sized aircraft, we use
+the video camera to shrink ourselves down and take a Virtual Reality ride
+inside the box.  To generate free fall, the NASA plane flys in a
+parabola-shaped trajectory.  Why?  Well, imagine what would happen if the
+crew was inside of a box which was shot out of a huge cannon.  Both the
+people and the box would fly along similar paths.  The box would take a
+long, curved, up and down path, and so would the people inside. The people
+inside could not see the box move, so they couldn't know they were
+falling, instead would think that they were weightless (at least until the
+box struck the ground.)  So, if an airplane flys in exactly the same path
+as a fired cannonball, everyone in the plane will seem to be floating.
+NASA free-fall aircraft:  http://zeta.lerc.nasa.gov/new/Frame1.html
+
+
+
+SIMPLE NON-VIDEO VERSION
+
+If you find a small box like a shoe box or large cereal box, open one end,
+and stick your face in, you will have the "poor man's version" of the
+video camera box.  Stick some small toys or coins into the box.  To
+generate momentary free fall, simply jump up and down.  The objects inside
+the box will float for a moment.  ( Be aware that jumping up and down with
+a box on your face looks really stupid.  This demo is a great excuse to
+convince OTHER people to jump around with boxes on their faces, while
+you stand back and watch!)
+
+
+WARNING
+
+Of course, always try to protect your camera.  If you never let the box
+out of your control, then you'll only have yourself to blame for any
+mishap.  Perhaps it would be wise to attach a hook to the ceiling, and
+attach the camera box to a rope to prevent accidental contact with the
+floor.  A suggestion: use the tiny $80 video cameras sold by Herbach and
+Rademan, or by Marlin P. Jones.  These things are a couple inches square,
+and can take lots more punishment than a camcorder.  And if you drop it
+and break it, it was an $80 camera, not a $1200 camcorder. 
+
+((((((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))))
+William J. Beaty                                  SCIENCE HOBBYIST website
+billbeskimo.com                                  amasci.com
+EE/programmer/sci-exhibits          science projects, tesla, weird science
+Seattle, WA   206-762-3818          freenrg-L taoshum-L vortex-L webhead-L

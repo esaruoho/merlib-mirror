@@ -1,0 +1,28 @@
+Date: Tue, 25 Jul 1995 02:07:09 -0600
+From: EDHARRIS@MPS.OHIO-STATE.EDU
+To: billbeskimo.com
+Subject: Re: tesla coil accelerators
+
+Ok,
+
+here are some of the recent physics references for tesla coil accelerators:
+
+A TELSA TRANSFORMER HIGH-VOLTAGE GENERATOR by C. R. Hoffman
+Reveiw of Scientific Instruments, vol 46 No. 1, January 1975
+
+DESIGN CHARTS FOR TESLA-TRANSFORMER TYPE RELATIVISTIC ELECTRON BEAM 
+GENERATORS by Hidenori Matsuzawa and Shinji Suganomata
+Review of Scientific Instruments, vol 53, No 5, May 1982
+
+ELECTRON BEAM PRODUCTION BY A TESLA TRNSFORMER ACCELERATOR
+by I Boscolo, et al
+Review of Scientific Instruments, vol 48 No 7, July 1977
+
+HIGH VOLTAGE INPULSE SYSTEM
+by Diavid Finklestein, et al
+Review of Scientific Instruments, vol 37, No 2, Feb 1966
+
+I have others from some Russian Groups but I haven't loacted them yet....
+
+
+-Ed

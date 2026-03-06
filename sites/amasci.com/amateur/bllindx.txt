@@ -1,0 +1,72 @@
+**************************************************************************
+*  -----------------------------------                 ----------------  *  
+*   the Bell Jar (electronic version)                                    *
+*  -----------------------------------                 ----------------  *  
+*                                                                        *
+*  This newsletter contains material which has been extracted from the   *
+*  hard-copy newsletter of the same name. Devoted to the vacuum          *
+*  experimenter, the intent of "the Bell Jar" is to broaden interest     *
+*  in vacuum technology through useful discussions of theory and         *
+*  technique, and to present ways in which a variety of apparatus may    *
+*  be assembled using common and inexpensive materials. Information      *
+*  on "the Bell Jar" may be obtained by sending email to the editor,     *
+*  Steve Hansen, at shansen@tiac.net or by writing to 35 Windsor Dr.,    *     
+*  Amherst, NH 03031. Please feel free to circulate this electronic      *
+*  version, intact, to others who might be interested in the subject     *
+*  matter. New numbers will be mailed at approx. quarterly intervals.    *
+*  Email subscriptions are free and may be obtained by contacting the    *
+*  editor. Comments, contributions and criticisms are always welcome.    *
+*  Copyright 1994, Stephen P. Hansen.                                    *
+**************************************************************************
+
+                        "the Bell Jar"
+                Vacuum Technique and Related Topics 
+                    for the Amateur Investigator  
+                        ISSN 1071-4219 
+          
+                 The Complete Newsletter and Journal
+                     for the Vacuum Experimenter 
+
+        $20 (US addresses), $23 (Canada, Mexico), $29 (elsewhere)
+
+
+The following outlines the article content by annual volume: 
+
+1992-Vacuum basics, elements of an amateur's system, conversion of 
+refrigeration and auto a/c compressors to vacuum service, a
+discharge tube gauge, magnetically driven plasma accelerators
+demonstrated with a rail gun, history of vacuum units, a mini
+system for fabricating graded density optical filters, a universal
+thermocouple gauge controller.
+
+1993-Plasma apparatus developed from microwave ovens, vacuum system
+operation, a coaxial plasma gun, synthesizing fullerenes, easy 
+fabrication of glass to metal seals, reconfigurable vacuum chambers 
+standard glassware components, a baffle chiller made from a room 
+dehumidifier, exploding wires, units of outgassing, Magdeburg
+hemispheres made from plastic pipe fittings, production of low
+temperatures, a homebuilt diffusion pump, principle of the
+pseudospark electron beam source.
+
+1994-Experiments with x-rays produced by receiving tubes, building
+a multiplate chamber pseudospark electron beam source, a kit of
+components for conducting gaseous discharge and electron beam
+experiments, building a simple cathode ray tube, a De Forest style
+audion triode, electron optics kits from the 50's and 60's, a
+simple chilled baffle for small diffusion pumps, an amateur's
+homemade transmission electron microscope, compression fittings
+from the sink drain, simple electrical feedthroughs, amateurs
+rebuild a large vacuum coater for telescope mirror making, original
+thought experiments in vacuum, a 250 kV impulse transformer, a
+cheap oil mist filter, simple ways of making electron and ion
+optics, a radio using the homemade vacuum triode, cleaning
+procedures for epoxy bonding. 
+
+Plans for 1995 (and probably beyond) include simple apparatus for 
+classroom use, simple Pirani and Penning gauges, a windowed vacuum
+tube for transmitting electron beams into the air, ideas for
+original research, a shock tube for simulating micrometeorite
+impacts, the Mather device, a crossed-field tube capable of
+initiating nuclear reactions, a 1-1/2" diffusion pump, topics in
+ultra-high vacuum, novel high voltage pulse and dc power supplies,
+vacuum coating, demonstrating the multipactor effect.

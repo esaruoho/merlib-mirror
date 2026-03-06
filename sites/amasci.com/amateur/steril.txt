@@ -1,0 +1,19 @@
+Subject: EMP kills germs (repost)
+Author:   DJohnson
+Email: DJohnson@DJandAssoc.Com
+Date: 04/01/1999
+Newsgroups: alt.sci.amateur
+   
+About 25 years ago I worked on a R&D project to find ways to kill bacteria in
+a continuous flow of beer, without changing its taste.  The project was
+funded by a well known brewer here in Colorado.  We used a 10,000 joule
+capacitor discharge (360uF @10,000 volts) machine that simultaneously
+subjected the beer to an intense magnetic field and a large current.  The
+crossed fields during the discharge produced pressure waves in the fluid that
+were so steep that it ripped apart the cell wells and killed most of the bugs
+with one shot.  The project funding was stopped when it was discovered that
+some of the germs that survived the shots mutated into something different.
+Has this technique been used anywhere else successfully?
+
+David A. Johnson, P.E.  Consulting Engineer
+

@@ -1,0 +1,1239 @@
+GRAVITY-CAPACITOR, REPORT OF SUCCESS
+
+
+
+From: "cliff"
+To: <billb@eskimo.com>
+Subject: funny thing
+Date: Tue, 23 May 2000 13:09:16 -0700
+
+I would not believed it, but this thing does have thrust. I have built it
+not to size but of to a smaller scale. The second attempt was built to
+scale. The third try was to build it larger but not to scale. Odd thing
+is, it still produces thrust that seems to be related to static potential.
+I have used wax paper with tin foil (hard to find), wax paper with house
+hold foil (easy to find) and lastly, paper dipped into a dielectric type
+bath to improve dielectric properties with aluminum foil. This last one
+did not work as well. Another try used mylar film with aluminum and copper
+foils. This worked the best although I did use just aluminum only with
+mylar film and found that copper produced another affect but now working
+on that issue. I have made a small one with x and x  plates
+then with a mylar film between them thus making a stack of 150 plates
+total. Now this produces something more than just thust and I do not need
+such high voltages to get the thing to push 22lbs
+
+
+
+
+
+
+Date: Tue, 23 May 2000 11:28:52 -0700 (PDT)
+From: William Beaty <billb@eskimo.com>
+Subject: Re: funny thing
+
+On Tue, 23 May 2000, cliff wrote:
+
+> I would not believed it, but this thing does have thrust. I have built
+
+Wow!  What level of thrust?  At what (approx) voltage?  Could they lift
+their own weight?
+
+And aluminum DOES work?  A couple of people on freenrg-L built small
+versions with aluminum, but they did nothing.  Maybe they were too small. 
+
+I found some tin, but haven't had time to get the shapes stamped out.
+
+If aluminum does work, then printshops can make these capacitors.  Some
+printshops specialize in foil coatings (like on the titles of cheap
+romance novels.)
+
+((((((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))))
+William J. Beaty                                  SCIENCE HOBBYIST website
+billb@eskimo.com                                  http://www.amasci.com
+EE/programmer/sci-exhibits          science projects, tesla, weird science
+Seattle, WA                         freenrg-L taoshum-L vortex-L webhead-L
+
+
+
+
+
+
+
+
+From: "cliff"
+To: "William Beaty" <billb@eskimo.com>
+Subject: RE: funny thing
+Date: Tue, 23 May 2000 14:11:34 -0700
+
+I am using a spring type weight scale. The later device with with mylar
+film between the plates weights in at an approximate 8lbs. The 150 plates
+are grouped in thirty (being a test before adding more layers). I have
+found that the metal foils must be smooth as possible. But so far this
+later device does have potential as an electric jet engine. I still am a
+bit puzzled on this thing. I am just a hobbyist in electronics and have
+made many electronic devices including pc board layout. Spent many
+thousands of dollars on software to aid in designing board and lots of
+money in silly projects. This one is as dumb as it gets, but I thought it
+might work as a vortex ion display if it was given a vacuum and a magnetic
+field.
+
+  The aluminum foil with wax paper has a tiny thrust compared to the one I
+am working on now.  At first after making 20 or so plates and then
+applying 100KV to them, it did not work. Almost disappointed, I continued
+to add more to the stack. By the time I got to 60 plates and applying only
+25KV, there was a small pull. When I went to 75KV the pull stopped, this
+was due to the dialectic and was being broke down. I disasembled the whole
+thing and switched to plastic, at that time, the device would work up to
+my 75KV but now melting the plastic.  Switching to mylar did the trick to
+100KV, but really no big changes. Tin foil works better than aluminum and
+copper. I would like to try lead but unable to find a lead foil that is
+thin as tin foil. A friend of mine has made me foil from bismuth and
+magnezium powder of aprox 2 mills thick.  (found this formula on the
+internet for discovered crashed UFO, although I do not beleive in UFO) 
+
+
+
+
+
+
+
+Date: Tue, 23 May 2000 14:25:58 -0700 (PDT)
+From: William Beaty <billb@eskimo.com>
+Subject: RE: funny thing
+
+> board and lots of money in silly projects. This one is as dumb as it
+> gets, but I thought it might work as a vortex ion display if it was
+> given a vacuum and a magnetic field. 
+
+To make a vortex, I've always wanted to try putting a "tornado box" into
+an argon-filled chamber, then making some plasma filaments inside with a
+small Tesla coil (like an "Eye of the Storm" sphere.)  The tornado should
+twirl the plamsa into a visible vortex.  If you use pure argon, no vacuum
+is needed, and the chamber can be plexiglas.
+
+> At first after making 20 or so plates and then applying 100KV to them,
+> it did not work. 
+
+Did you use an electrostatic generator?  If so, then the actual voltage
+would be much lower than 100KV, since the corona leakage acts as a load
+and pulls the voltage way down.  I have a 3KV high-impedance dc meter, and
+I found that two layers of wax paper will spark across at only 1500VDC. 
+
+((((((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))))
+William J. Beaty                                  SCIENCE HOBBYIST website
+billb@eskimo.com                                  http://www.amasci.com
+EE/programmer/sci-exhibits          science projects, tesla, weird science
+Seattle, WA   206-762-3818          freenrg-L taoshum-L vortex-L webhead-L
+
+
+
+
+
+
+
+
+
+Date: Tue, 23 May 2000 16:47:37 -0700 (PDT)
+From: William Beaty <billb@eskimo.com>
+Subject: RE: funny thing
+
+On Tue, 23 May 2000, cliff wrote:
+
+> I will try out your idea on the bag thing. I still think this is ion
+> propelled and not gravity, but I could be wrong. The materials I am using
+> and have used in the pass are just not making
+> sence.
+
+Also: when ions create lift, they do so by being repelled, which creates a
+jet of air.  To lift a couple of pounds, the air jet would be violent and
+loud, like a leaf-blower.  If the thrust is caused by pure charge
+repulsion with no wind, then it should be very small (like a fraction of
+an ounce.) A 200KV VandeGraaff sphere can lift pieces of foil, but it
+can't lift small heavy objects the size of soupcans. 
+
+((((((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))))
+William J. Beaty                                  SCIENCE HOBBYIST website
+billb@eskimo.com                                  http://www.amasci.com
+EE/programmer/sci-exhibits          science projects, tesla, weird science
+Seattle, WA   206-762-3818          freenrg-L taoshum-L vortex-L webhead-L
+
+
+
+
+
+
+
+
+From: "cliff"
+To: "William Beaty" <billb@eskimo.com>
+Subject: RE: funny thing
+Date: Tue, 23 May 2000 16:49:36 -0700
+
+The 100KV is from a static generator, you are probably correct in the much
+less than 100KV. I have also a telsla 100KV also from a kit. this does not
+work on this project as the whole thing will just glow blue, but the
+inside hole will have blueish green and dancing sparks. With 100KV DC the
+capacitor burns up, but with low current 100KV AC ranging from 1.27
+through 1.22Khz though a 1000Meg restor is my source. With my latest
+device, I use no resistor, much lower voltages and seems to work best with
+static powered from the van-de-graph generator. Only one trouble with this
+is when turned off, there is plenty of power left, also the device still
+has some resident wind at the negitive end. I would like to know how it
+continues to operator after the power is shutdown? 
+
+
+
+
+
+
+
+
+
+Date: Tue, 23 May 2000 15:11:40 -0700 (PDT)
+From: William Beaty <billb@eskimo.com>
+Subject: RE: funny thing
+
+On Tue, 23 May 2000, cliff wrote:
+> 1.22Khz though a 1000Meg restor is my source. 
+
+  It gives a thrust with AC?  Weird!
+
+> With my latest device, I use
+> no resistor, much lower voltages and seems to work best with static powered
+> from the van-de-graph generator. Only one trouble with this
+> is when turned off, there is plenty of power left, also the device still has
+> some resident wind at the negitive end. I would like to know how it
+> continues to operator after the power is shutdown?
+
+The VDG machine charges it up, and it will store a charge for quite some
+time.  I estimate that the capacitor built by that "S" guy would measure
+about 0.5 microfarads.  That's dangerous.  If you charged it up for
+several minutes, it could electrocute you.  Or if you shorted it out with
+a thin wire, it might make the wire explode. 
+
+Is the thrust caused by a jet of wind?  That "S" guy claimed that his
+version produced antigravity, and could lift 6KG (and levitate itself).
+To eliminate the wind and to measure only the gravity, put the device in a
+plastic bag.
+
+((((((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))))
+William J. Beaty                                  SCIENCE HOBBYIST website
+billb@eskimo.com                                  http://www.amasci.com
+EE/programmer/sci-exhibits          science projects, tesla, weird science
+Seattle, WA   206-762-3818          freenrg-L taoshum-L vortex-L webhead-L
+
+
+
+
+
+Date: Tue, 23 May 2000 16:58:05 -0700 (PDT)
+From: William Beaty <billb@eskimo.com>
+Subject: RE: funny thing
+
+On Tue, 23 May 2000, cliff wrote:
+
+> that the one made with aluminium did not
+> glow like this one under the same conditions, however I have not taken that
+> one appart an is still in my garrage. That one weighs 2lbs and pulls 1.5 lbs
+
+So it pulls 3.5 lbs?  That would make a powerful "capacitor motor" (mount
+it on the edge of a horizontal wheel, and let it spin the wheel.)  Or does
+it only create upwards thrust?
+
+((((((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))))
+William J. Beaty                                  SCIENCE HOBBYIST website
+billb@eskimo.com                                  http://www.amasci.com
+EE/programmer/sci-exhibits          science projects, tesla, weird science
+Seattle, WA   206-762-3818          freenrg-L taoshum-L vortex-L webhead-L
+
+
+
+
+
+
+
+
+
+From: "cliff"
+To: "William Beaty" <billb@eskimo.com>
+Subject: RE: funny thing
+Date: Tue, 23 May 2000 17:41:18 -0700
+
+When use the VDG at 100KV as what the kit was built from, the device does
+not work, it floats down to the test bed floor and then it will spark to
+the simi-metal ground. By tilting on its side, there is a breeze of air.
+As the device is floating, I have not put my hand or notice any large
+amount of air flow under the device. With the lights off, there is a faint
+bluish glow from the center. I assume that would be ions. Also I have
+noted that the one made with aluminium did not glow like this one under
+the same conditions, however I have not taken that one appart an is still
+in my garrage. That one weighs 2lbs and pulls 1.5 lbs of weight plus its
+own. The 2lbs one could be re-assembled to clean things up a bit. The
+plates do need to be smooth and no sharp edges. I am a bit surprized that
+the one made from tin worked as good as it did, due to the edges and
+corners. 
+
+
+
+
+
+
+
+
+From: "cliff"
+To: "William Beaty" <billb@eskimo.com>
+Subject: RE: funny thing
+Date: Tue, 23 May 2000 17:47:50 -0700
+
+I will try out your idea on the bag thing. I still think this is ion
+propelled and not gravity, but I could be wrong. The materials I am using
+and have used in the pass are just not making sence. Oh yea, yes this does
+work on AC after being charged first with 5KV static. The device does not
+work with tesla coil. I suspect frequency may have something to do with
+it. 
+
+When applying low frequency to it, it does vibrate but to my surprise, not
+at the frequency of the input. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+From: "cliff"
+To: "William Beaty" <billb@eskimo.com>
+Subject: RE: funny thing
+Date: Tue, 23 May 2000 20:30:43 -0700
+
+I have not put this device on a wheel, but it does provide a thrust on
+its' side. I am working on another one to see if it is possible to use it
+as a hover sled. 
+
+  Just a note when making this this thing from aluminum foil, the foils
+must be place very carefully, the alignment plays a great role on its'
+operation, so it seems.  My first few attempts failed and I was ready to
+throw it away saying this is just a capacitor with a hole in the middle. 
+The only reason I kept trying was the intriguing 9 poles pointing inwards. 
+Why 9? how about 12 or 3 or none?. because 12 did nothing, and 3 did
+nothing, 9 did little and still there was the shaping of the poles. If you
+think this silly project took a lot of my time, it would be YES it did
+take a lot of time and a few gray hairs too. 
+
+  As for this being made public, I do not know why noone has made this in
+the past. Perhaps the same things I went through with no results. As for
+the power, use DC and not static charge for starters. This will keep you
+on the right track then use a VDG for your test, at least this worked for
+me. When you get it to slightly work, you then need to change its
+grouping. I still think this is not gravity, but I maybe wrong. I have yet
+to take it outside my backyard, this may scare my neighbors due to the
+light show or just the oddness of it floating up without wires or cables
+for it to suspend on. 
+
+
+
+
+
+
+Date: Wed, 24 May 2000 15:02:45 -0700 (PDT)
+From: William Beaty <billb@eskimo.com>
+Subject: RE: funny thing
+
+On Tue, 23 May 2000, cliff wrote:
+
+>   Just a note when making this this thing from aluminum foil, the foils must
+> be place very
+> carefully, the alignment plays a great role on its' operation, so it seems.
+
+Once the print shop can stamp out foil patterns, I can make loads of them. 
+If aluminum foil works even a little bit, it will be good for the quick
+and dirty experiments.  Much cheaper than tin.  Give a yell if you want to
+buy a few thousand of them. 
+
+>   As for this being made public, I do not know why noone has made this in
+> the past. Perhaps the
+> same things I went through with no results. 
+
+That's probably it.  I myself had the plans since 1992 or so, but never
+tried building one.  It says that tin is *required*, and I didn't dare try
+using aluminum foil (all that work, and it might be the wrong metal!)  I
+eventually found some tin, but then procrastination set in.  And I never
+was quite certain that the whole thing wasn't just somebody's joke.
+
+> As for the power, use DC and not
+> static charge for starters.
+
+You mean low voltage DC?  After all, a DC power supply at 50KV with a big
+series resistor is the same as a 50KV "static" machine.  Both are DC.  And
+both are "static".
+
+> I still think this
+> is not gravity, but I maybe wrong. I have yet to take it outside my
+> backyard, this may scare my
+> neighbors due to the light show or just the oddness of it floating up
+> without wires or cables for it to suspend on.
+
+Heh.  Put it in an inflated plastic garbage bag, and tell and curious
+onlookers that it's full of helium!  That way you won't have to explain
+anything unless it lifts you up into the air.  Then tell them that it's
+special, "extra-light" helium!
+
+I have some ideas of things to try.  For example, the inside of the
+capacitor is symmetrical.  It doesn't "know" which way to thrust.  Maybe
+the forces only appear because there is a little accidental asymmetry in
+the layers.  If I stack it up like this:
+
+  (+) foil
+  2 layers waxpaper
+  (-) foil
+  four layers waxpaper
+  (+) foil
+  2 layers waxpaper
+  (-) foil
+  four layers waxpaper
+
+
+... then maybe the force will be WAY bigger.  Here's another possibility:
+
+  (+) foil
+  waxpaper with a hole
+  (-) foil
+  waxpaper withOUT a hole
+  (+) foil
+  waxpaper with a hole
+  (-) foil
+  waxpaper withOUT a hole
+
+If ion-flow creates the force, then it might be good to get rid of every
+other waxpaper hole.  This will force the ions to flow lengthwise through
+the device, rather than up-down-up-down as they do when all layers have
+holes.
+
+The way it is now, the +- layers might fight with the -+ layers, and only
+the small, accidental differences in the stacking gives an output force. 
+If we can weaken the -+ layers (by using more waxpaper between them), then
+maybe the +- layers would "win", and the overall force would become
+dangerously large.
+
+((((((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))))
+William J. Beaty                                  SCIENCE HOBBYIST website
+billb@eskimo.com                                  http://www.amasci.com
+EE/programmer/sci-exhibits          science projects, tesla, weird science
+Seattle, WA   206-762-3818          freenrg-L taoshum-L vortex-L webhead-L
+
+
+
+
+
+
+
+
+From: "cliff"
+To: "William Beaty" <billb@eskimo.com>
+Subject: RE: funny thing
+Date: Wed, 24 May 2000 19:55:10 -0700
+
+Looks like that patter will work, It has 9 poles like mine, when I tried
+to use 3 or 12 poles the device did not work. 
+
+
+
+
+
+
+
+
+From: "cliff"
+To: "William Beaty" <billb@eskimo.com>
+Subject: RE: funny thing
+Date: Wed, 24 May 2000 20:07:42 -0700
+
+I like that idea of having no hole wax paper. I am using mylar cause I
+have three large roles of it that where donated to me after seeing this
+device made from wax paper. I and a few friends are in the process of
+making nickel plating right onto the mylar for ease of assembly. we found
+nickel works better than aluminum but this time the nickle plating will be
+about 1 mil thick. If sucessful, I will make a small one with its own
+power supply.  We think it may lift itself plus 0.25lbs, nice toy to fit
+in your hand running from a hearing aid battery and perhaps safe enough
+not to chatter teeth. 
+
+
+
+
+
+
+
+
+Date: Thu, 25 May 2000 09:02:17 -0700 (PDT)
+From: William Beaty <billb@eskimo.com>
+Subject: RE: funny thing
+
+Is it OK if I post your capacitor messages to the freenrg-L forum?  Others
+are building this capacitor, and they could use the info!  I can strip off
+the emall address stuff if you don't want people to contact you.
+
+((((((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))))
+William J. Beaty                                  SCIENCE HOBBYIST website
+billb@eskimo.com                                  http://www.amasci.com
+EE/programmer/sci-exhibits          science projects, tesla, weird science
+Seattle, WA   206-762-3818          freenrg-L taoshum-L vortex-L webhead-L
+
+
+
+
+
+
+
+
+
+From: "cliff"
+To: "William Beaty" <billb@eskimo.com>
+Subject: RE: funny thing
+Date: Thu, 25 May 2000 22:05:49 -0700
+
+I hope you do well in making this funny thing. I hope to continue when I
+have the time. I have also shown a local science teacher, he has a Phd and
+really knows his stuff. I also have a few friend of mine at Offit AFB
+north of Lancaster CA. where I use to work for NASA. My friend there still
+works there even after Pres. Cliton. of which I lost my job during his so
+called cut backs.  Never liked him since. However, my friend and I will be
+meeting each other sometime next month on this device. Should get some
+attention or at lease a eyebrow. 
+
+
+
+
+
+
+
+
+Date: Fri, 26 May 2000 20:08:28 -0700 (PDT)
+From: William Beaty <billb@eskimo.com>
+Subject: RE: funny thing
+
+On Thu, 25 May 2000, cliff wrote:
+> I hope you do well in making this funny thing. I hope to continue when I
+> have the time. 
+
+I started cutting out hundreds of tin squares.  If it works, it should be
+easy to make several capacitors, since the print shop can punch them out
+quickly.
+
+> I have also shown a local science teacher, he has a Phd and
+> really knows his stuff.
+
+Watch out.  If he gets "dollar signs in the eyes" disease, that means
+trouble.
+
+People in the fringe sciences typically have their discoveries destroyed
+by money, and by paranoia/secrecy it brings.  
+
+It's like discovering a deposit of gold, and the snakes and vultures come
+running.  I personally watched this happen to two separate people recently
+(Greg Watson and his magnetic ramp, and Norm Wootan and the MRA device.) 
+It keeps happening over and over, yet EVERY SINGLE TIME the victim says
+"it can't happen to me."  And then it does.
+
+The only cure I know of it the way of science: publish openly, keep no
+secrets.
+
+> I also have a few
+> friend of mine at Offit AFB north of Lancaster CA. where I use to work for
+> NASA.
+
+The military can actually stop you from working on an invention.  This is
+not just paranoia, it's a common occurrence.  Adam Trombly tried to patent
+a homopolar generator design in 1992 or so, and the military immediately
+slapped a secrecy order on it.  Around 1959, one of the original inventors
+of the laser took his ideas to the military.  They made them classified,
+but the guy had no security clearance, so he was excluded from working on
+it. 
+
+Before you show this stuff to professionals and the military, I recommend
+that you do some research and find out how other inventors were screwed
+over in the past.  Your greatest enemy is the idea that "it can't happen
+to me."  If you don't know how to protect yourself, then "it" probably
+will happen to you.  If you want to talk to Greg Watson about his
+experiences, I can look up his email address.
+
+> Should get some attention or at lease a eyebrow.
+
+Raised eyebrows are safe.  It's when outsiders start taking you seriously
+that the trouble starts. 
+
+((((((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))))
+William J. Beaty                                  SCIENCE HOBBYIST website
+billb@eskimo.com                                  http://www.amasci.com
+EE/programmer/sci-exhibits          science projects, tesla, weird science
+Seattle, WA   206-762-3818          freenrg-L taoshum-L vortex-L webhead-L
+
+
+
+
+
+
+
+
+Date: Tue, 30 May 2000 11:50:37 -0700 (PDT)
+From: William Beaty <billb@eskimo.com>
+Subject: lead foil
+
+On Tue, 23 May 2000, cliff wrote:
+
+> like to try lead but unable to find a lead foil that is thin as tin foil. A
+
+Radio Shack sells lead foil!  It is 1/4" metal tape for burglar alarm tape
+on glass windows.  It might be hard to make the capacitor plates from 1/4" 
+strips, and the adhesive might insulate the strips from each other unless
+you use high voltage which would leap sparks across the adhesive. 
+
+((((((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))))
+William J. Beaty                             SCIENCE HOBBYIST website
+billb@eskimo.com                             http://www.amasci.com
+EE/programmer/sci-exhibits          science projects, tesla, weird science
+Seattle, WA   206-762-3818          freenrg-L taoshum-L vortex-L webhead-L
+
+
+
+
+
+
+
+
+From: "cliff"
+To: <billb@eskimo.com>
+Subject: capacitor motor
+Date: Sun, 11 Jun 2000 11:43:37 -0700
+
+I have just finished part two of my project using two capacitor motors. 
+
+Question: Does the positive end of two CMs repel?  Here is where the CM
+adds more questions, assuming that like charges repel and opposites
+attract, the CM repels on the positive end right? Wrong!???  Using two CMs
+with the positive charged ends pointing to each other perpendicular to
+earth gravity axis, the CM attract each other. The CMs are suspended using
+100LB test fishing line and both are using there own power supplies. There
+are no physical connections between nor common pathways for any power
+charge. Using a static charge meter, there is no measurable charge
+difference between each other. If positioned as where the negative charged
+side is pointing to the positive charged side of the 2nd CM there is a
+slight repelling and also a static charge difference between the CM.  Now
+when the two CMs are pointing to sky and the same suspention with added
+spring weight scales, the CM behave diferently. The positive sides now
+repel just a bit and a charge differance takes place in about 10 to 12
+seconds reaching several KV in less than 30 seconds. When the oposites
+charged side are facing each other, the same behavor take place. Placing
+the two CMs next to each other, the CM seem to have no affect regardless
+of the polarity.  So far I see some kind of gravity effect and perhaps can
+be a means to measure gravity this way. Also these tests are using nickle
+plated mylar sheets with 9 poles. These are easy to make using a stencil
+and a paint brush on mylar. nickle plating can be applied to any plastic
+of metal using a plating kit. 
+
+
+
+
+
+Date: Mon, 12 Jun 2000 14:28:55 -0700 (PDT)
+From: William Beaty <billb@eskimo.com>
+Subject: RE: funny thing
+
+Here's another person who's building "Electric Rocket" (see his message
+below). He used mylar, but it didn't create thrust.  He has put his
+results on a webpage. 
+
+I wonder if the speed of the voltage turn-on is important?  Do you still
+get a large thrust you turn on the voltage slowly?
+
+If you connect the HV wires to the capacitor suddenly, there is a "snap" 
+sound, and a high current flows for an instant.  Maybe the capacitor needs
+a "kick" at the start.  If so, then many inventors will see no thrust,
+since they built a good capacitor, but they unknowingly turned the power
+on too slowly. 
+
+I'm still trying to get my tin patterns stamped by a die-cut shop.
+
+((((((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))))
+William J. Beaty                                  SCIENCE HOBBYIST website
+billb@eskimo.com                                  http://www.amasci.com
+EE/programmer/sci-exhibits          science projects, tesla, weird science
+Seattle, WA   206-762-3818          freenrg-L taoshum-L vortex-L webhead-L
+
+Tony Colacchio <tony@imagineanything.com>
+I have also built an electric rocket using high grade WC Mylar (200
+gauge) with a dielectric strength of 7.7kV. I used tin foil as the
+conductor plates. 390 tin and 780 mylar layers. I used the specs given
+by Dr. S on the first success report. The layers were cut by a
+professional die cutting company, and have no creases or sharp corners.
+I have conducted one test so far, charging the device with 1kV. I did
+not notice any effect. I just received a 100kV generator and will
+conduct high voltage tests within the next few days. I have been posting
+my results on my web page at:
+     http://www.imagineanything.com/energy/rocket.htm
+
+Please either e-mail me with the new success reporters e-mail or send
+him my address and story so that we may help each other. Since he has
+achieved success with mylar, and I have built a high grade mylar device,
+a dialogue would surely be beneficial to both of us. Thank you for your
+time and attention.
+
+
+
+
+
+
+
+From: "cliff"
+To: "William Beaty" <billb@eskimo.com>
+Subject: RE: funny thing
+Date: Wed, 14 Jun 2000 08:19:01 -0700
+
+from reading his results, you may have a point. I have not tried using
+voltages less than 150KV supply where I am using resisters to step the
+voltage down so not to short out the device. I will have to build a voltage
+divider that will have his 7KV then try my device.
+Thanks for this input.
+
+
+
+
+
+
+
+Date: Mon, 12 Jun 2000 14:35:32 -0700 (PDT)
+From: William Beaty <billb@eskimo.com>
+Subject: Re: capacitor motor
+
+Is it OK if I send your message to other experimenters?  Or do you want to
+keep things private?
+
+Or I could send your message to others, but delete your email address.
+That way we could get the word out, but strangers wouldn't be able to
+contact you.
+
+
+On Sun, 11 Jun 2000, cliff wrote:
+
+> I have just finished part two of my project using two capacitor motors.
+> Question: Does the positive end of two CMs repel?
+> Here is where the CM adds more questions, assuming that like charges repel
+> and
+> opposites attract, the CM repels on the positive end right? Wrong!???
+> Using two CMs with the positive charged ends pointing to each other
+> perpendicular to earth gravity axis, the CM attract each other.
+
+Weird!  Is the force very large (like many ounces of pull?)
+
+((((((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))))
+William J. Beaty                                  SCIENCE HOBBYIST website
+billb@eskimo.com                                  http://www.amasci.com
+EE/programmer/sci-exhibits          science projects, tesla, weird science
+Seattle, WA   206-762-3818          freenrg-L taoshum-L vortex-L webhead-L
+
+
+
+
+
+
+
+
+
+From: "cliff"
+To: "William Beaty" <billb@eskimo.com>
+Subject: RE: capacitor motor
+Date: Wed, 14 Jun 2000 08:29:03 -0700
+
+It is ok to make this public, thanks. Now that I am hooked on this thing to
+find out how it works, my colleagues and I are working on a vacuum chamber
+to house this for a test.
+
+
+
+
+
+
+
+
+Date: Wed, 14 Jun 2000 21:21:53 -0700 (PDT)
+From: William Beaty <billb@eskimo.com>
+Subject: RE: capacitor motor
+
+On Wed, 14 Jun 2000, cliff wrote:
+
+> It is ok to make this public, thanks.
+
+OK, check out this website:
+
+  http://www.amasci.com/caps/capwk2.txt
+
+I posted our correspondence so other people might try building this
+device.
+
+> Now that I am hooked on this thing to
+> find out how it works, my colleagues and I are working on a vacuum chamber
+> to house this for a test.
+
+It puts out 20lbs thrust?  Hey, a hair-dryer only puts out less than 1lb
+thrust, yet it creates a huge jet of air.  If your capacitor doesn't put
+out massive wind (like 60MPH air flow), then the thrust isn't caused by 
+wind.
+
+((((((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))))
+William J. Beaty                                  SCIENCE HOBBYIST website
+billb@eskimo.com                                  http://www.amasci.com
+EE/programmer/sci-exhibits          science projects, tesla, weird science
+Seattle, WA   206-762-3818          freenrg-L taoshum-L vortex-L webhead-L
+
+
+
+
+
+
+Date: Wed, 14 Jun 2000 22:52:12 -0700 (PDT)
+From: William Beaty <billb@eskimo.com>
+Subject: dunk in oil?
+
+On Wed, 14 Jun 2000, cliff wrote:
+
+> It is ok to make this public, thanks. Now that I am hooked on this thing to
+> find out how it works, my colleagues and I are working on a vacuum chamber
+> to house this for a test.
+
+If the capacitor needs air to generate thrust for some reason, then a
+simple test would be to submerge the whole capacitor in a small bucket of
+oil (transformer oil, or even vegetable oil.)  If the thrust goes away,
+then you'll know that air is important, if only because it needs corona
+discharge for some reason, rather than air-jets.
+
+But if the thrust DOESN'T go away while under the oil, then you can crank
+the capacitor voltage WAY UP and you won't get sparks unless it blows
+through the plastic directly.  I've built HV capacitors for tesla coils,
+and I found that sparks usually run for long distances along the surface
+of the plastic and jump between the plates that way.  Putting the
+capacitor under oil will stop this, and let the voltage rise way high. 
+
+But if the oil makes the thrust go away, then the greasy capacitor is
+ruined, and it will be a big cleanup-job to remove the oil from between
+the plastic layers so the air can get to the plates again.  Better not try
+this with your best capacitor, eh?
+
+((((((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))))
+William J. Beaty                                  SCIENCE HOBBYIST website
+billb@eskimo.com                                  http://www.amasci.com
+EE/programmer/sci-exhibits          science projects, tesla, weird science
+Seattle, WA   206-762-3818          freenrg-L taoshum-L vortex-L webhead-L
+
+
+
+
+
+
+From: "Cliff"
+To: "William Beaty" <billb@eskimo.com>
+Subject: RE: mail from last month
+Date: Thu, 15 Jun 2000 09:28:00 -0700
+
+Update:
+  This capacitor does have one major and critical design problem that I have
+found to be a success or failure. The tabs lengths and the tabs connections.
+Using tin plates vers aluminuim plates do have an impact due to the
+thickness and using different dialetric material will also change thickness
+of a small group of 40 plates or so. Grouping may not be important but, if
+by chance the tabs are of equal in lengths and by connecting the tabs they
+are still equal in lengths, the device will NOT work. Tabs from power common
+source to plates are extremely critical. By "common source" I mean where the
+first tab and the external power source juction, here is the trick part.
+First tab has the shortest distance to the 9 pole plate (a 12 pole design
+works very well also), the second plate will have a longer connection to its
+plate etc.. Do NOT exceed tab lengths of 650Mils, this "capacitor" does
+generate a EHF frequency that we just found that we think is a harmonic of
+earth gravity wave. To maintain this lenght, groups of 30 or 60 plates or
+what ever your design allows will help this. I will be sending a drawing of
+this design later. The groups also have a length per common connection, if
+your design is working, you will have a close working model and can be
+"tuned" to have geater strength. We have a model that is only 4" in diameter
+and is working enough to pull 23grams of weight when charged. This little
+model will continue to pull even without external power for an hour or so.
+Question is, how does it work? We think it is this lately discoverd EHF
+frequency and perhaps the slightly detected scaler signature that it is
+producing. We are also looking into the surface area of the plates to see
+what impact this will have if this design is changed.
+
+
+
+
+
+
+
+
+
+
+
+Date: Thu, 15 Jun 2000 13:10:16 -0700 (PDT)
+From: William Beaty <billb@eskimo.com>
+Subject: length of tabs
+
+On Thu, 15 Jun 2000, cliff wrote:
+
+> Update:
+>   This capacitor does have one major and critical design problem that I have
+> found to be a success or failure. The tabs lengths and the tabs connections.
+
+Ha!  I just KNEW something like this must be important.  The plates are
+symmetrical with no overall bias between + and -.  But there HAS to be a
+bias somewhere, otherwise the device wouldn't know which way to thrust.  I
+was thinking, perhaps capacitor won't work right unless the the layers are
+powered up in sequence one at a time, instead of all at once. 
+
+Rather than altering the length of the tabs, maybe you could solder some
+low-ohms resistors in series with each tab.  Make each resistor in the
+stack a bit bigger than the last (like 1ohm, 2ohm, 3... etc.)
+
+Have you ever built a "blinker" circuit using an NE-2 bulb, capacitor, and
+resistor?  Well, the inside of the gravity-capacitor acts like that.  The
+sharp edges of the foil plates creates corona-discharge which acts like an
+NE-2 bulb. It has capacitance.  And it has a bit of resistance in series
+between the plates and the power supply.  The whole thing might behave as
+a vast array of neon bulbs which all blink at VERY high frequency.  This
+would create all kinds of high-frequency waves which race around between
+the plates.
+
+If it works like this, then dunking it in oil will kill the thrust, since
+it squelches the corona discharges caused by the sharp edges of the
+plates.
+
+((((((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))))
+William J. Beaty                             SCIENCE HOBBYIST website
+billb@eskimo.com                             http://www.amasci.com
+EE/programmer/sci-exhibits          science projects, tesla, weird science
+Seattle, WA   206-762-3818          freenrg-L taoshum-L vortex-L webhead-L
+
+
+
+
+
+
+
+Date: Thu, 15 Jun 2000 13:20:03 -0700 (PDT)
+From: William Beaty <billb@eskimo.com>
+Subject: RE: mail from last month
+
+On Thu, 15 Jun 2000, cliff wrote:
+
+> This little
+> model will continue to pull even without external power for an hour or so.
+> Question is, how does it work?
+
+When it's unpowered, it might still have a high DC charge because of
+corona discharge.  When it is unpowered, try shorting out the capacitor
+terminals for a moment and see if the thrust goes away. 
+
+Even if you always use AC only, the inside of the capacitor can act like a
+rectifier, and it can become charged with DC.  Why?  Because corona
+discharge can act like an old-fashioned Mercury Rectifier.  When high
+voltage is present, AC can accidentally get turned into DC by sparks and
+by the leakage from sharp objects.
+
+People who build Tesla coils know about this effect: even though the tesla
+coil is AC, the plastic coating of the main coil will become highly
+charged with DC "static electricity."  The sparks from the tesla coil act
+like a gas-rectifier, and a bit of direct current is spewed out into the
+atmosphere when the Tesla coil is operating.  It collects on nearby
+objects.  Sometimes if you put your hand on the main coil of a Tesla coil
+and then touch ground, you'll get a big shock.  This happens hours after
+the Tesla coil was last used!  The charged plastic of the main coil acts
+as a leyden jar, and your hand acts as the other plate.
+
+On the other hand, if the thrust continues even with the capacitor
+terminals shorted together, then I have no explanation.
+
+((((((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))))
+William J. Beaty                                  SCIENCE HOBBYIST website
+billb@eskimo.com                                  http://www.amasci.com
+EE/programmer/sci-exhibits          science projects, tesla, weird science
+Seattle, WA   206-762-3818          freenrg-L taoshum-L vortex-L webhead-L
+
+
+
+
+
+
+
+
+From: "cliff"
+To: "William Beaty" <billb@eskimo.com>
+Subject: RE: Response from FREENRG-L
+Date: Fri, 16 Jun 2000 08:28:49 -0700
+
+I will get some photos of this CM soon, as for the dime test, can you say
+sparks? Placing metal object inside the hole will stop it from working and
+sparks will fly. Placing a plastic bic pen outside tube only (no ink or tip)
+will do nothing except a slight glowing around the letters of the bic pen's
+tube even though the letters were rubbed off. (corona photography)
+
+
+
+
+
+
+From: "cliff"
+To: "William Beaty" <billb@eskimo.com>
+Subject: Gravity Capacitor
+Date: Thu, 22 Jun 2000 10:21:40 -0700
+
+  I have let a friend barrow my little GC and using his own 200KV VDG that
+he bought from Edmond scientific, he was unable to get it to work. But on my
+200KV VDG that I built that is a copy of his, the GC works fine. The set ups
+in my garage and his are practically the same. He is using my completed GC
+including the hookup wires and resistors. He brought it back and we hooked
+it up in my garage and it worked just fine and even lifted itself up. Then
+taken it back to his place and again nothing happened.
+  Do you have any ideas on this odd puzzle?
+
+
+
+
+
+From: William Beaty [mailto:billb@eskimo.com]
+Sent: Friday, June 23, 2000 4:32 PM
+Subject: RE: Gravity Capacitor
+
+On Fri, 23 Jun 2000, cliff wrote:
+> GC will not just be a odd toy that works "kinda".
+
+If it responds to something under the ground, then maybe you can start an
+oil exploration business like that guy at Pinnacle Oil.
+
+  http://www.plant.ca/Content/970526/energy/03.html
+
+The "Stress field detector" used by Pinnacle Oil is a fringe science
+device, but details still remain secret.  They fly it across the landscape
+in an airplane.
+
+Once I tried the "Wilbur Smith fishline", but the needle never budged
+while driving around Seattle.  See
+
+  http://www.amasci.com/freenrg/bindet.html
+
+
+((((((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))))
+William J. Beaty                             SCIENCE HOBBYIST website
+billb@eskimo.com                             http://www.amasci.com
+EE/programmer/sci-exhibits          science projects, tesla, weird science
+Seattle, WA   206-762-3818          freenrg-L taoshum-L vortex-L webhead-L
+
+
+
+
+
+
+From: "cliff"
+To: "William Beaty" <billb@eskimo.com>
+Subject: RE: Gravity Capacitor
+Date: Thu, 22 Jun 2000 16:41:47 -0700
+
+Does this mean the GC must be portable and completely, and with its own
+power supply so as to move it place to place? Ahhha. This little strange
+thing just got expensive!
+
+Building this takes a lot of time and patience, not to mention that the
+originally I had to find tin foil. Ordering tin foil was not cheap, and then
+there was the layers of wax paper (now using mylar), and then to top it all,
+the assembling and re-assembling (yes, the first two tries failed) the many
+layers of plates. And then the watching it just to show signs of prommise,
+then watching it catch on fire as it shorted out, making popping and loud
+cracking noises. Many hours and days later, a new one back on the bench just
+to watch it blow up! Ahhh!  But now after a few built, I now have to build a
+portable power unit so my friend can play with it. But if this one blows up,
+I think I will go on to something else. maybe.
+
+
+
+
+From: "cliff"
+To: "William Beaty" <billb@eskimo.com>
+Subject: RE: Gravity Capacitor
+Date: Thu, 22 Jun 2000 17:32:43 -0700
+
+I will be putting together photos of this device. I have some drawings and
+some early picture of the first many attempts and was at one time about to
+through them out when one day the GC started to work. I hopefully will post
+them to you when I get re-organized at bit. Thanks for your suggestions.
+
+
+
+
+
+From: "cliff"
+To: "William Beaty" <billb@eskimo.com>
+Subject: RE: Gravity Capacitor
+Date: Fri, 23 Jun 2000 17:10:58 -0700
+
+Castle Rock is not a mystery as most percieves, he did most of his work with
+only a few selected people, his moving of large coral blocks were moved
+using ropes in a special net/pulley arrangement. But that is another story,
+and is little known, but is poorly documented when you visit Castle Rock.
+
+  However, we will be either building a VDG just for this project or taking
+mine over to his place, as you have suggested. Who knows, perhaps this GC
+has a potential as a gravity dip or hole detector and may turn out to be a
+geometric shift or earthquake detector or something like that, thereby this
+GC will not just be a odd toy that works "kinda". Thanks for your feedback.
+You may have stumbled onto something that could be very usefull. I have
+played with many coil designs that said to have gravity affects but turned
+out to be usefull antenna designs. Thanks again.
+
+
+
+
+
+From: "cliff"
+To: "William Beaty" <billb@eskimo.com>
+Subject: RE: Gravity Capacitor
+Date: Tue, 18 Jul 2000 09:34:14 -0700
+
+Sounds like another constrution project, but if it produce an end product
+that helps explain this deivce, I guess we will do it. Thanks for this
+information, we have found also that the gravity capacitor (GC)  generates
+frequency that can be recreated using a more stable means and hopefully
+less voltages. This GC when working is a bit unhealthy due to the power.
+We used a Tesla coil then rectified it to DC using many high voltage TV
+sticks rectifiers then connected to the GC with better results. Mobility
+was the challenge here and also the voltage was much less this way with
+improved results. BTW the voltage needed this way was only 4KV but the
+kick is 12KV and for some reason, our small HV power supply using iron
+core transformer does not work. We think this has something to do with
+starting voltage to operating voltage fall time (kick). 
+
+
+
+
+
+
+From: "cliff"
+To: "William Beaty" <billb@eskimo.com>
+Subject: e-mail
+Date: Sat, 5 Aug 2000 11:32:23 -0700
+
+Dear William,
+
+I have been getting a few e-mails on this gravity capacitor. Not that I
+care much, but my findings on this GC is interesting similar to some
+information on using a so called inductor idea. Therefore I have stopped
+working on this GC and will have our photos of our results e-mailed to you
+so as you may post them as you like. Our GC became expensive to go much
+further. My friend and I have made some improvements on this GC with some
+good results, but we have turned our attention to this weird inductor
+having a much more scientific groundings to stand on when it comes to how
+this antigravity thing works. We are thankful to your inputs and the odd
+science to add to our experiments.  We have gone over some of the Keely's
+notes and found them to be a great value in our hypothesis in our lab. We
+have now a few of our college's helping us with these devices in giving us
+a hand in building/fabricating these devices. Again, thanks for your
+support and input. 
+
+
+
+
+
+
+
+
+
+
+From: "cliff"
+To: "William Beaty" <billb@eskimo.com>
+Subject: results of test of GC
+Date: Sun, 13 Aug 2000 21:35:10 -0700
+
+Dear William,
+
+  These are the results of our tests that were carried out in a space
+environment chamber where NASA uses this for testing their space capsules
+and other things that will go into space.  We had 5 days to use this
+facility and were able to keep a tight lid on this project from peeping
+eyes. We have forgotten about the time it takes to create a space
+environment in the space chamber. 
+
+  In a vacuume the GC does still work although with a measurable
+difference.  This could be from the vacuume whereby the plates are now
+void of air of which we tried our best to eleminate while building this
+GC. The device will not work very well if at all if the plates are not
+pressed durring the building process. Our GC has 2,330 plates and taking
+about a month of building this thing. We used bee's wax under heat to make
+sure there was no air between plates and dielectric. 
+  When in a vacuume, the device produces a large amount of Ions however
+strangely not a very high charge. There is no movement of ions, just
+clusters of ions on the positive side and what appears to be in the
+vacinity of the 9 poles surrounding the device. 
+  This device does produce microwave electromagitic field that sometimes
+is modulated but as of yet do not know why.  This modulating frequency is
+the 12th overtone of a single metal plate, a bit puzzling on this due that
+the plates are pressed tightly about 10 lbs per square inch. The power
+supply is generator source using a tesla coil to a high voltage DC source
+for ease of control and the "kick" start voltage what seems to be needed
+to get this device to work.  The kick voltage starts from 0 volts to 800
+volts with a rise time of 20 microseconds and the running voltage is 3,500
+volts running less than 2 milliamps. The vacuume has made our GC work
+better, again we think this is due to the vacuume chamber. The GC now
+creates a so called thrust of 36.3 pounds of work, that is 1.2 pounds more
+than the device.  The 9 poles of each plate do generate an oscillation
+much like a magnetron and does ring when hit on it side. 
+  This is what we have so far. We can not tell when this was done due to
+the time and equipment used, however we will not be making any more
+similar test in the future. 
+  Funny thing though, this GC has over 200 times the thrust of stacked
+glass plates with metal foil between them like our home made capacitor. We
+met a couple of people here that build one for a tesla coil, their
+capacitor measures .0025uf and calculated voltage of 60KV. Their stack is
+only 16 layers where ours GC is measured at 1.472uf with much less
+voltage.  Given size and area of their capacitor, we thought we test
+theirs also. With the same power source. Now our question is what is with
+the poles in the GC? 
+
+We will soon have the help of a scientists of which we call "OZ" and
+hopefully we might come up with something.
+
+EOF
+
+
+
+
+
+
+From: "cliff"
+To: "William Beaty" <billb@eskimo.com>
+Subject: odd stuff
+Date: Thu, 17 Aug 2000 05:36:38 -0700
+
+I have given my GC over to a friend to have him work on it and see if he
+could come up with some ideas on how to make this work as the described
+"capacitor rocket". So far the GC gains weight when adding more layers
+without any change in thrust. He has tried to make one with as little as 8
+layers and unable to get his to work at all. 
+  I would like to mention also that the GC and perhaps the power source
+have had made some interesting "effects" happen around my home.  Like
+hearing bumps in the night when I know noone is downstairs. I know this
+sounds a bit crazy, but these strange happenings stopped a few days after
+I have stopped working on this GC. Do you have anyone working on this or
+perhaps similar odd device that have had strange ghost like affects? This
+is nerve racking and has kept me up at nights wondering if there is a
+intruder. 
+  Please remove my name from your web site, you may keep the comments like
+you have with Mr."S". It isn't that I do not like to have some e-mail me
+direct, but it may cause someone to break-in my home. Call me paranoid,
+but lately when working on this GC, I have some sounds coming from my lab
+that can scare me white. 
+  Thanks for your web site for all the information on it, it does make me
+curious on some fringe science that makes one look at things another
+perspective and to keep an open mind. 
+

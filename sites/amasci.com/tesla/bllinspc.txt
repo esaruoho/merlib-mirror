@@ -1,0 +1,4247 @@
+INSPECT search on "ball lightning" from 1989 - Apr/1996
+--  NOT FOR COMMERCIAL USE  --
+
+96 citations (below)
+
+
+
+                                                 Citation: 1 of 96
+Accession No.: 5289239.
+Author:        Lowke-J-J.
+Author Affil.: Div. of Appl. Phys., CSIRO, Sydney, NSW, Australia.
+Title:         A theory of ball lightning as an electric discharge.
+Source:        Journal of Physics D (Applied Physics).  vol.29, no.5.  pp. 
+               1237-44.  14 May 1996.
+References:    49 refs.
+ISSN:          0022-3727.
+CODEN:         JPAPBE.
+Language:      eng.
+Year:          1996.
+Pub. Type:     journal-article (J).
+Treatment:     theoretical or mathematical (T).
+Report No.:    CCCC: 0022-3727/96/051237+08$19.50.
+Pub. Country:  UK.
+Class. Code:   A9260P.  A5280.  A5280H.
+Subject:       corona.  discharges-electric.  lightning.
+Identifiers:   plasma.  atmosphere.  theory.  ball lightning.  electric
+               discharge.  ion transport equations.  electron transport
+               equations.  Poisson`s equation.  Poisson.  continuously
+               varying.  microsecond variability.  corona-like discharge. 
+               electric field.  lightning strike.  preferred conducting path. 
+               formation.  lifetime.  energy source.  motion.
+Abstract:      It is proposed, on the basis of solutions of electron and ion
+               transport equations, together with Poisson`s equation, that
+               ball lightning is an electric discharge which is continuously
+               varying on a microsecond time scale.  It is further proposed
+               that this corona-like discharge is sustained by electric
+               fields associated with charges from a lightning strike
+               dispersing along preferred conducting paths in the Earth.  The
+               theory gives an explanation of the formation, lifetime, energy
+               source and motion of ball lightning.
+UW Load Date:  9606.
+                   ---- End of Citation ----
+
+
+
+                                                 Citation: 2 of 96
+Accession No.: 5236224.
+Author:        Amirov-A-K.  Bychkov-V-L.
+Author Affil.: Inst. of High Temp., Acad. of Sci., Moscow, Russia.
+Title:         Influence of atmospheric thunderstorm conditions on the life
+               time of ball lightning.
+Source:        Physica Scripta.  vol.53, no.2.  pp. 252-5.  Feb. 1996.
+References:    22 refs.
+ISSN:          0031-8949.
+CODEN:         PHSTBO.
+Language:      eng.
+Year:          1996.
+Pub. Type:     journal-article (J).
+Treatment:     theoretical or mathematical (T).
+Pub. Country:  Sweden.
+Class. Code:   A9260P.  A9260Q.  A9260J.
+Subject:       atmospheric-humidity.  lightning.  statistical-analysis. 
+               thunderstorms.
+Identifiers:   atmospheric thunderstorm conditions.  ball lightning.  rank
+               correlation method.  thunderstorm influence.  atmospheric
+               humidity.  electric field strength.  statistical analysis.
+Abstract:      A rank correlation method was applied to investigate the
+               influence of atmospheric thunderstorm conditions on the life
+               time (observation time) of ball lightning (BL).  Data from the
+               PC Stakhavov-Keul-Bychkov Data Bank on BL were used.  For the
+               analysis a ranking of BL over sizes has been made and a
+               ranking of atmospheric conditions of the BL observations in
+               respect to humidity and of thunderstorm conditions in respect
+               to electric field strength of the atmosphere ground layer have
+               been made.  Statistical analysis reveals that both the
+               increase of the humidity and of the electric field strength
+               decreases the BL life time.  These results are discussed from
+               the point of view of the different BL models.
+UW Load Date:  9604.
+                   ---- End of Citation ----
+
+
+
+
+
+
+
+
+
+
+
+                                                 Citation: 3 of 96
+Accession No.: 5168280.
+Author:        Zou-You-Suo.
+Author Affil.: Inst. of Atmos. Phys., Chinese Aacd. of Sci., Beijing, China.
+Title:         Some physical considerations for unusual atmospheric lights
+               observed in Norway.
+Source:        Physica Scripta.  vol.52, no.6.  pp. 726-30.  Dec. 1995.
+References:    21 refs.
+ISSN:          0031-8949.
+CODEN:         PHSTBO.
+Language:      eng.
+Year:          1995.
+Pub. Type:     journal-article (J).
+Treatment:     experimental (X).
+Contract No.:  PFR WI3BON;.
+Pub. Country:  Sweden.
+Class. Code:   A9410Q.  A9260P.
+Subject:       atmospheric-radiation.  emission.  lightning.  plasma-waves. 
+               solitons.
+Identifiers:   physical considerations.  unusual atmospheric lights.  Norway. 
+               nonlinear wave particle interactions.  turbulent plasma.  wave
+               vortex interaction.  fireball vortex structure.  plasma
+               solitons.  plasma ball lightning.
+Abstract:      Some unusual atmospheric lights observed in Norway have been
+               explained as the results of nonlinear wave-particle
+               interactions based on turbulent plasma theory and wave-vortex
+               interaction as well as laboratory experiments on rocks.  The
+               paper also points out that the atmospheric lights have
+               provided evidence for the vortex structure of fireballs and
+               for the physical mechanism of wave-particle interaction for
+               the formation of plasma ball lightning and solitons.
+UW Load Date:  9601.
+                   ---- End of Citation ----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                 Citation: 4 of 96
+Accession No.: 5144931.
+Author:        Protasevich-E-T.
+Author Affil.: Tomsk Polytech. Univ., Russia.
+Title:         Air discharge pecularities at non-uniform humidity and
+               pressure 1-20 torr.
+Source:        Published by: Inst. Electr. Eng. Japan.  Tokyo, Japan.  1995.
+Conf. Title:   Proceedings of the Eleventh International Conference on Gas
+               Discharges and Their Applications.  Tokyo, Japan.  pp. 52-4
+               vol.2.  11-15 Sept. 1995.
+ISBN:          4886864996.
+Language:      eng.
+Year:          1995.
+Pub. Type:     conference-proceeding (C).
+Treatment:     EXPERIMENTAL (X).
+Num. Indexing: pressure 1.3E+02 to 2.7E+03 Pa.
+Pub. Country:  Japan.
+Class. Code:   A9260P.  A9130B.  A8670G.  A8670L.  A5250.
+Subject:       air-pollution-measurement.  atmospheric-radiation. 
+               earthquakes.  lightning.  nuclear-explosions.  plasma. 
+               plasma-production.  radioactive-pollution.
+Identifiers:   humidity.  pressure.  gas-discharge plasma.  water vapour. 
+               air discharge pecularities.  air insulation.  cool
+               nonequilibrium plasma.  lifetime.  physico-chemical processes. 
+               atmospheric electricity phenomena.  St. Elmo's fire.  ball
+               lightning.  bead lightning.  atmosphere glow.  energy-active
+               zones.  earthquakes.  underground nuclear explosions.  natural
+               electromagnetic background.  radioactive pollution.  1 to 20
+               torr.
+Abstract:      The authors describe the properties of gas-discharge plasma
+               and the possibility of its variations on account of the
+               control of water vapour concentration in air insulation.  It
+               has been shown, preliminarily, that there is an optimal value
+               of air humidity for each pressure value, which leads to the
+               formation of cool nonequilibrium plasma with a lifetime from
+               tens of milliseconds to seconds.  The understanding of the
+               mechanisms of the physico-chemical processes in such plasma
+               offers to develop the principles of control of the atmospheric
+               phenomena and to explain the nature of such atmospheric
+               electricity phenomena as St.  Elmo's fire, ball lightning,
+               bead lightning and the atmosphere glowing in energy-active
+               zones (vicinities of earthquakes, underground nuclear
+               explosions, etc.).  Causes of the initiation of the natural
+               electromagnetic background, its effect on the atmosphere and
+               environment are considered.  The article presents a technique
+               for recording radioactive pollution by measuring radiation in
+               the superhigh frequency region.
+UW Load Date:  9512.
+                   ---- End of Citation ----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                 Citation: 5 of 96
+Accession No.: 5144292.
+Author:        Lowke-J-J.
+Author Affil.: Div. of Appl. Phys., CSIRO, Sydney, NSW, Australia.
+Title:         Theory of ball lightning as an electric discharge.
+Source:        Published by: Inst. Electr. Eng. Japan.  Tokyo, Japan.  1995.
+References:    20 refs.
+Conf. Title:   Proceedings of the Eleventh International Conference on Gas
+               Discharges and Their Applications.  Tokyo, Japan.  pp. 258-61
+               vol.1.  11-15 Sept. 1995.
+ISBN:          4886864996.
+Language:      eng.
+Year:          1995.
+Pub. Type:     conference-proceeding (C).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Pub. Country:  Japan.
+Class. Code:   A9260P.  A0250.  A5280H.
+Subject:       electric-fields.  glow-discharges.  lightning.  plasma. 
+               Poisson-distribution.
+Identifiers:   electric discharge.  ball lightning.  electron transport
+               equations.  ion transport equations.  Poisson's equation. 
+               continuously varying discharge.  corona like discharge. 
+               electric fields.  lightning strike.  conducting paths.  glow
+               discharge.  convective cooling.
+Abstract:      It is proposed, on the basis of solutions of electron
+               transport and ion transport equations, together with Poisson's
+               equation, that ball lightning is an electric discharge which
+               is continuously varying on a microsecond time scale.  It is
+               further proposed that this corona-like discharge is sustained
+               by electric fields associated with charges from a lightning
+               strike dispersing along preferred conducting paths in the
+               Earth.
+UW Load Date:  9512.
+                   ---- End of Citation ----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                 Citation: 6 of 96
+Accession No.: 5094891.
+Author:        Raiser-R.  Lortz-D.
+Author Affil.: Bayreuth Univ., Germany.
+Title:         Ball lightning as an example of a magnetohydrodynamic
+               equilibrium.
+Source:        Physical Review E (Statistical Physics, Plasmas, Fluids, and
+               Related Interdisciplinary Topics).  vol.52, no.3, pt.B.  pp. 
+               3034-44.  Sept. 1995.
+References:    23 refs.
+ISSN:          1063-651X.
+CODEN:         PLEEE8.
+Language:      eng.
+Year:          1995.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Report No.:    CCCC: 1063-651X/95/52(3)/3034(11)/$06.00.
+Pub. Country:  USA.
+Class. Code:   A9260P.  A5230.  A5235P.  A5225L.  A5225F.  A5255.  A5280.
+Subject:       lightning.  plasma-confinement.  plasma-instability. 
+               plasma-magnetohydrodynamics.  plasma-pressure. 
+               plasma-transport-processes.
+Identifiers:   magnetohydrodynamic equilibrium.  ball lightning. 
+               lightning-induced fireballs.  decaying magnetic field. 
+               vanishing magnetic field.  singly connected plasma region. 
+               atmospheric pressure confinement.  spherical plasma boundary. 
+               pressure profile perturbation.  current profile perturbation. 
+               spherical plasma boundary deformation.  nonspherical boundary. 
+               stability.
+Abstract:      Magnetohydrodynamic equilibria appropriate for describing ball
+               lightning are discussed in this paper.  It is argued that
+               lightning-induced fireballs should have a magnetic field
+               decaying at infinity.  Such equilibria, in fact, have a
+               vanishing magnetic field outside a singly connected plasma
+               region and are confined by the atmospheric pressure only.  An
+               equilibrium of this type with a spherical plasma boundary is
+               investigated, and characteristic quantities are computed. 
+               Perturbation of the pressure and current profiles leads to
+               deformation of the spherical plasma boundary, thus indicating
+               the existence of a large class of equilibria with a
+               nonspherical boundary.  Finally, some remarks are made
+               concerning the stability of these equilibria.
+UW Load Date:  9511.
+                   ---- End of Citation ----
+
+
+
+
+                                                 Citation: 7 of 96
+Accession No.: 5078516.
+Author:        Amirov-A-K.  Bychkov-V-L.
+Author Affil.: Inst. of High Temp., Acad. of Sci., Moscow, Russia.
+Title:         Correlation analysis of ball lightning distribution over
+               colors of the SKB data bank.
+Source:        Physica Scripta.  vol.52, no.2.  pp. 222-4.  Aug. 1995.
+References:    10 refs.
+ISSN:          0031-8949.
+CODEN:         PHSTBO.
+Language:      eng.
+Year:          1995.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Pub. Country:  Sweden.
+Class. Code:   A9260P.
+Subject:       collections-of-physical-data.  colour.  lightning. 
+               optical-correlation.
+Identifiers:   correlation analysis.  ball lightning distribution.  SKB data
+               bank.  Stakhanov Bychkov Keul data bank.  color.
+Abstract:      A correlation analysis of ball lightning (BL) distribution
+               over colors has been made using the information from the
+               Stakhanov-Bychkov-Keul data bank.  A total of 18 factors,
+               which could affect the observers perception, were analyzed for
+               six main colors of BL.  The correlation coefficients for all
+               the factors but four turned out to be in the 95% confidence
+               interval from 0.903 to 1 of correlation coefficients for
+               random samplings.  Four factors falling out of this range are:
+               observation in September, during night time and before
+               thunderstorm and disappearance of BL through decay.  Physical
+               and physiological optics reasons for such a result are
+               discussed.
+UW Load Date:  9510.
+                   ---- End of Citation ----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                 Citation: 8 of 96
+Accession No.: 4994510.
+Author:        Alexeff-I.  Rader-M.
+Author Affil.: Dept. of Electr. & Comput. Eng., Tennessee Univ., Knoxville,
+               TN, USA.
+Title:         Possible precursors of ball lightning-observation of closed
+               loops in high-voltage discharges.
+Source:        Fusion Technology.  vol.27, no.3.  pp. 271-3.  May 1995.
+References:    5 refs.
+ISSN:          0748-1896.
+CODEN:         FUSTE8.
+Language:      eng.
+Year:          1995.
+Pub. Type:     journal-article (J).
+Treatment:     EXPERIMENTAL (X).
+Report No.:    CCCC: 0748-1896/95/$3.00.
+Pub. Country:  USA.
+Class. Code:   A9260P.  A5280M.  A2852J.
+Subject:       fusion-reactor-theory.  lightning.  sparks.
+Identifiers:   ball lightning.  closed loops.  ultrahigh voltage discharges.
+Abstract:      Several hundred photographs of ultrahigh voltage discharges
+               have been obtained that show closed current loops.  These
+               closed current loops may be precursors of ball lightning.  One
+               feature of these discharges may explain why observations of
+               ball lightning may be infrequent;  that is, there is a
+               distinct threshold in voltage and/or current below which the
+               closed loops do not occur.  This threshold current fits other
+               experimental data but is well above the usually observed
+               currents in natural lightning.
+UW Load Date:  9507.
+                   ---- End of Citation ----
+
+                                                 Citation: 9 of 96
+Accession No.: 4994509.
+Author:        Reece-Roth-J.
+Author Affil.: Tennessee Univ., Knoxville, TN, USA.
+Title:         Ball lightning: What nature is trying to tell the plasma
+               research community.
+Source:        Fusion Technology.  vol.27, no.3.  pp. 255-70.  May 1995.
+References:    20 refs.
+ISSN:          0748-1896.
+CODEN:         FUSTE8.
+Language:      eng.
+Year:          1995.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Report No.:    CCCC: 0748-1896/95/$3.00.
+Pub. Country:  USA.
+Class. Code:   A9260P.  A2852J.
+Subject:       fusion-reactor-theory.  lightning.
+Identifiers:   ball lightning.  energy storage.  plasma-related phenomenon. 
+               magnetic energy storage.
+Abstract:      Ball lightning has been extensively observed in atmospheric
+               air, usually in association with thunderstorms, by untrained
+               observers who were not in a position to make careful
+               observations.  These chance sightings have been documented by
+               polling observers, who constitute perhaps 5% of the adult U.S. 
+               population.  Unfortunately, ball lightning is not accessible
+               to scientific analysis because it cannot be reproduced in the
+               laboratory under controlled conditions.  Natural ball
+               lightning has been observed to last longer than 90 s and to
+               have diameters from 1 cm to several metres.  The energy
+               density of a few lightning balls has been observed to be as
+               high as 20 000 J/cm/sup 3/, well above the limit of chemical
+               energy storage of, for example, TNT at 2000 J/cm/sup 3/.  Such
+               observations suggest a plasma-related phenomenon with
+               significant magnetic energy storage.  If this is the case,
+               ball lightning should have very interesting implications for
+               fusion research, industrial plasma engineering, and military
+               applications, as well as being of great theoretical and
+               practical interest to the plasma research community.
+UW Load Date:  9507.
+                   ---- End of Citation ----
+
+
+
+
+
+
+
+                                                 Citation: 10 of 96
+Accession No.: 4971529.
+Author:        Maiorov-S-A.  Tkachev-A-N.  Yakovlenko-S-I.
+Author Affil.: Gen. Phys. Inst., Acad. of Sci., Moscow, Russia.
+Title:         Metastable state of supercooled plasma.
+Source:        Physica Scripta.  vol.51, no.4.  pp. 498-516.  April 1994.
+References:    23 refs.
+ISSN:          0031-8949.
+CODEN:         PHSTBO.
+Language:      eng.
+Year:          1994.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Pub. Country:  Sweden.
+Class. Code:   A5225D.  A5225F.  A5225K.  A5225L.  A5265.  A5220H.
+Subject:       Fokker-Planck-equation.  ion-recombination. 
+               metastable-states.  plasma-collision-processes. 
+               plasma-density.  plasma-simulation.  plasma-temperature. 
+               plasma-transport-processes.
+Identifiers:   supercooled plasma.  metastable states.  computer ab initio
+               simulation.  analytical theory.  Coulomb plasma.  plasma
+               ionization degree.  three body recombination.  plasmoids. 
+               electron energy distribution functions.  Coulomb collisions. 
+               stochastically isolated plasma.  electron number.  plasma
+               total energy.  isotherms.  electron density.
+Abstract:      The computer ab initio simulation and analytical theory, that
+               revealed unexpected non-ergodic properties of a classical
+               Coulomb plasma, is overviewed.  The results of a
+               many-charged-particles system simulation predict the possible
+               existence of a real metastable plasma, supercooled with
+               respect to its ionization degree.  The three-body
+               recombination at this state is suppressed.  The existence of
+               such a plasma state is a consequence of the entropy
+               conservation in isolated Hamiltonian systems free from any
+               stochastic action from the outside (external stochastic
+               disturbance).  The occurrence of a metastable supercooled
+               plasma (rather similar to a supercooled vapor or superheated
+               liquid) depends on two conditions: First, all the charged
+               particles should behave exactly according to the laws of
+               classical mechanics (hence, most negatively-charged particles
+               should preferably be heavy ions).  Second, the plasma
+               ionization degree should be sufficiently high (>10/sup -3/). 
+               It is shown from thermodynamic consideration that a mixture of
+               supercooled plasma with a perfect (ideal) gas might form a
+               plasmoid of the ball-lightning type.
+UW Load Date:  9506.
+                   ---- End of Citation ----
+
+                                                 Citation: 11 of 96
+Accession No.: 4947185.
+Author:        Grigorev-A-I.  Grigoreva-I-D.  Shiryaeva-S-O.
+Author Affil.: Yaroslavl State Univ., Russia.
+Title:         Stability of ball lightning against its unneutralized
+               self-charge.
+Source:        Zhurnal Tekhnicheskoi Fiziki.  vol.65, no.2.  pp. 1-10.  Feb. 
+               1995.
+References:    13 refs.
+Trans. Title:  Technical Physics.  vol.40, no.2.  pp. 117-21.  Feb. 1995.
+ISSN:          0044-4642.  1063-7842.
+CODEN:         ZTEFA3.  TEPHEX.
+Language:      eng.
+Year:          1995.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Pub. Country:  Russia.  USA.
+Class. Code:   A9260P.  A5235P.  A4720.  A4765.
+Subject:       electrohydrodynamics.  interface-phenomena.  lightning. 
+               plasma-instability.  Rayleigh-Taylor-instability.
+Identifiers:   ball lightning.  unneutralized self-charge. 
+               electrohydrodynamic stability.  spherical interface. 
+               immiscible fluids.  Taylor instabilities.  Rayleigh
+               instabilities.  dimensionless physical parameters.  critical
+               condition.  interfacial capillary-wave instability onset. 
+               gravity.  electric field.  self-charge.
+Abstract:      We investigate the electrohydrodynamic stability of the
+               spherical interface between immiscible fluids against the
+               Taylor and Rayleigh instabilities and obtain a functional
+               relation between two dimensionless physical parameters that
+               characterize the critical condition for the onset of the
+               capillary-wave instability at the interface under the
+               influence of gravity and in the electric field of the
+               self-charge, respectively.
+UW Load Date:  9505.
+                   ---- End of Citation ----
+
+
+
+
+
+
+
+
+
+
+
+
+                                                 Citation: 12 of 96
+Accession No.: 4921927.
+Author:        Amirov-A-Kh.  Bychkov-V-L.
+Author Affil.: Inst. of High Temp., Acad. of Sci., Moscow, Russia.
+Title:         Ball lightning diameter-lifetime statistical analysis of SKB
+               databank.
+Source:        Physica Scripta.  vol.51, no.3.  pp. 413-16.  March 1995.
+References:    11 refs.
+ISSN:          0031-8949.
+CODEN:         PHSTBO.
+Language:      eng.
+Year:          1995.
+Pub. Type:     journal-article (J).
+Treatment:     EXPERIMENTAL (X).  THEORETICAL OR MATHEMATICAL (T).
+Pub. Country:  Sweden.
+Class. Code:   A9260P.  A0250.
+Subject:       diameter-measurement.  lightning.  statistical-analysis.
+Identifiers:   ball lightning.  diameter statistical analysis.  lifetime
+               statistical analysis.  SKB databank.  regression analysis. 
+               radiation losses.
+Abstract:      Revelation of the significance of diameter as a factor for the
+               lifetime as a parameter for different ways of Ball Lightning
+               (BL) disappearance has been made.  Methods for non-parametric
+               regression analysis have been applied for pairs
+               diameter-radiation losses in correspondence to BL
+               disappearance.  BL diameter as a factor turned out to be
+               significant for BL lifetime in the case of explosion and decay
+               and insignificant in the case of extinction.  Dependence
+               logarithm of radiation losses-logarithm of BL volume obtained
+               with the help of nonparametric regression treatment turned out
+               to be different according to BL ways of disappearance.
+UW Load Date:  9504.
+                   ---- End of Citation ----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                 Citation: 13 of 96
+Accession No.: 4863900.
+Author:        Roth-J-R.
+Author Affil.: Dept. of Electr. & Comput. Eng., Tennessee Univ., Knoxville,
+               TN, USA.
+Title:         Ball lightning: What nature is trying to tell the plasma
+               research community.
+Source:        Published by: IEEE.  New York, NY, USA.
+References:    5 refs.
+Conf. Title:   IEEE Conference Record - Abstracts. 1993 IEEE International
+               Conference on Plasma Science (Cat. No.93CH3334-0).  Vancouver,
+               BC, Canada.  pp. 109.  IEEE Nucl & Plasma Sci. Soc.  Phys. 
+               Dept., Univ. British Columbia.  7-9 June 1993.
+ISBN:          0780313607.
+Language:      eng.
+Pub. Type:     conference-proceeding (C).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Pub. Country:  USA.
+Class. Code:   A2852J.
+Subject:       fusion-reactor-theory.  lightning.
+Identifiers:   plasma research.  energy density.  lightning balls.  chemical
+               energy storage.  magnetic energy storage.  plasma-related
+               phenomenon.  ball lightning.  fusion research.  confinement
+               duration.  industrial plasma engineering.  glow discharge. 
+               atmospheric surface treatment.  military applications. 
+               nonmaiming military antipersonnel weapon.
+Abstract:      Summary form only given.  The energy density of a few
+               lightning balls has been observed to be as high as 20,000
+               joules per cubic centimeter, well above the limit of chemical
+               energy storage of, for example, TNT at 2000 joules per cubic
+               centimeter.  This suggests magnetic energy storage in a
+               plasma-related phenomenon, which should be of great
+               theoretical and practical interest to the plasma research
+               community.  If the physical processes responsible for ball
+               lightning were understood, this would have very interesting
+               implications for fusion research (because of their long
+               confinement duration, high energy density, and ability to
+               operate at one atmosphere);  for industrial plasma engineering
+               (because of their ability to exist for long durations as a
+               glow discharge at one atmosphere, and provide active species
+               for atmospheric surface treatment of materials);  and for
+               military applications (because of the observed ability of ball
+               lightning to cause stunning and death), and perhaps provide a
+               nonlethal and nonmaiming military antipersonnel weapon, as
+               well as a potential form of portable electromagnetic pulse to
+               distable sophisticated electronic weapons.
+UW Load Date:  9502.
+                   ---- End of Citation ----
+                                                 Citation: 14 of 96
+Accession No.: 4857516.
+Title:         International Conference on Plasma Sciences (ICOPS).
+Source:        Published by: IEEE.  New York, NY, USA.  250 pp.
+Conf. Title:   International Conference on Plasma Sciences (ICOPS). 
+               Vancouver, BC, Canada.  IEEE Nucl & Plasma Sci. Soc.  Phys. 
+               Dept., Univ. British Columbia.  7-9 June 1993.
+ISBN:          0780313607.
+Language:      eng.
+Pub. Type:     conference-proceeding (C).
+Treatment:     GENERAL OR REVIEW (R).
+Pub. Country:  USA.
+Class. Code:   A0130C.  A5250J.  A5270.  A2852J.  B1350.  B3120G.  B2315.
+Subject:       electron-beams.  fusion-reactor-design.  fusion-reactors. 
+               ion-beams.  lighting.  lightning.  microwave-devices. 
+               plasma-devices.  plasma-diagnostics.  plasma-production. 
+               plasma-production-by-laser.  plasma-switches.
+Identifiers:   intense electron beams.  environmental science.  EM launches. 
+               ion beams.  vacuum electronics.  laser-produced plasmas. 
+               plasma phenomena.  energy.  space plasmas.  magnetic fusion. 
+               plasma processing.  beam microwaves.  ball lightning. 
+               spherical plasma configurations.  magnetohydrodynamics. 
+               gaseous electronics.  electrical gas discharges.  ultrafast
+               Z-pinches.  X-ray lasers.  microwave-plasma interactions. 
+               plasma diagnostics.  fast-opening switches.  computational
+               plasma science.  ETH launchers.  fast wave M/W devices. 
+               plasma focus.  solid-state plasmas.  lighting.
+Abstract:      The following topics are dealt with: intense electron and ion
+               beams;  vacuum electronics, laser-produced plasmas;  basic
+               plasma phenomena;  environmental and energy issues;  space
+               plasmas;  magnetic fusion;  plasma processing;  intense beam
+               microwaves;  ball lightning and spherical plasma
+               configurations;  magnetohydrodynamics;  gaseous electronics
+               and electrical gas discharges;  ultrafast Z-pinches and X-ray
+               lasers;  microwave-plasma interactions;  plasma diagnostics; 
+               fast-opening switches;  computational plasma science;  EM and
+               ETH launchers;  fast wave M/W devices;  plasma focus; 
+               solid-state plasmas and switches;  plasmas for lighting.
+UW Load Date:  9501.
+                   ---- End of Citation ----
+
+
+
+
+
+
+
+
+                                                 Citation: 15 of 96
+Accession No.: 4833277.
+Author:        Smirnov-B-M.  Strizhev-A-Ju.
+Author Affil.: Inst. of High Temp., Acad. of Sci., Moscow, Russia.
+Title:         Analysis of observational ball lightning by correlation
+               methods.
+Source:        Physica Scripta.  vol.50, no.5.  pp. 606-8.  Nov. 1994.
+References:    11 refs.
+ISSN:          0031-8949.
+CODEN:         PHSTBO.
+Language:      eng.
+Year:          1994.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Pub. Country:  Sweden.
+Class. Code:   A9260P.
+Subject:       lightning.
+Identifiers:   observational ball lightning.  correlation methods.  indoors. 
+               outdoors.  correlation analysis.
+Abstract:      The distributions of observational ball lightning indoors and
+               outdoors on some parameters are compared on the basis of
+               methods of correlation analysis.
+UW Load Date:  9412.
+                   ---- End of Citation ----
+
+
+
+
+
+
+
+
+                                                 Citation: 16 of 96
+Accession No.: 4833275.
+Author:        Bychkov-V-L.
+Author Affil.: Inst. of High Temp., Acad. of Sci., Moscow, Russia.
+Title:         Polymer ball lightning model.
+Source:        Physica Scripta.  vol.50, no.5.  pp. 591-9.  Nov. 1994.
+References:    33 refs.
+ISSN:          0031-8949.
+CODEN:         PHSTBO.
+Language:      eng.
+Year:          1994.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Pub. Country:  Sweden.
+Class. Code:   A9260P.  A9260Q.  A0555.  A3520B.  A4660.  A3620C.
+Subject:       fractals.  lightning.  macromolecules. 
+               molecular-configurations.  polymers.  rheology. 
+               thunderstorms.
+Identifiers:   polymer molecules.  polymer ball lightning model.  structure. 
+               polymer net.  fractal properties.  rheologic properties. 
+               dielectric properties.  electrostatic energy discharges. 
+               thunderstorms.
+Abstract:      A theoretical model of ball lightning (BL) is presented. 
+               According to this model the BL is an aggregate of polymer
+               molecules.  These macromolecules are interknitted or sewed
+               together, and therefore the structure is a polymer net with
+               the corresponding rheologic and fractal properties.  Because
+               of the dielectric properties such BL can accumulate and store
+               large amounts of the electrostatic energy discharges of
+               thunderstorms.  The theory gives a reasonable agreement with
+               observational values of the formation time, stored energy and
+               the life time.  It also explains some rheological BL
+               properties, form and the appearance from "nowhere".
+UW Load Date:  9412.
+                   ---- End of Citation ----
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                 Citation: 17 of 96
+Accession No.: 4833274.
+Author:        Amirov-A-Kh.  Bychkov-V-L.
+Author Affil.: Inst. of High Temp., Acad. of Sci., Moscow, Russia.
+Title:         ANOVA of the parameters of ball lightning from the SKB data
+               bank in correspondence to its location (indoors/outdoors).
+Source:        Physica Scripta.  vol.50, no.5.  pp. 588-90.  Nov. 1994.
+References:    8 refs.
+ISSN:          0031-8949.
+CODEN:         PHSTBO.
+Language:      eng.
+Year:          1994.
+Pub. Type:     journal-article (J).
+Pub. Country:  Sweden.
+Class. Code:   A9260P.
+Subject:       lightning.
+Identifiers:   variance analysis.  ball lightning parameters. 
+               Stakhanov-Bychkov-Keul data bank.  indoor location.  outdoor
+               location.  diameter.  lifetime.  radiation power.  colour.
+Abstract:      Analysis of variance (ANOVA) of several parameters from the
+               Stakhanov-Bychkov-Keul data bank on ball lightning (BL) has
+               been made.  The results show that the factor of the BL
+               location (indoors/outdoors) proves to be significant for such
+               parameters as diameter, lifetime and the radiation power (in
+               comparison with the power of an incandescent lamp);  the
+               distribution of BL by colour does not depend on its location.
+UW Load Date:  9412.
+                   ---- End of Citation ----
+
+
+
+
+                                                 Citation: 18 of 96
+Accession No.: 4751760.
+Author:        Mayorov-S-A.  Tkachev-A-N.  Yakovlenko-S-I.
+Author Affil.: Inst. of Gen. Phys., Acad. of Sci., Moscow, Russia.
+Title:         Metastable supercooled plasma.
+Source:        Uspekhi Fizicheskii Nauk.  vol.164, no.3.  pp. 297-307.  March
+               1994.
+References:    22 refs.
+Trans. Title:  Physics-Uspekhi.  vol.37, no.3.  pp. 279-88.  March 1994.
+ISSN:          0042-1294.  1063-7869.
+CODEN:         UFNAAG.  PHUSEY.
+Language:      eng.
+Year:          1994.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Pub. Country:  Russia.  UK.
+Class. Code:   A5265.  A5225K.
+Subject:       ab-initio-calculations.  entropy.  ionisation. 
+               plasma-simulation.  supercooling.  thermodynamic-properties.
+Identifiers:   metastable supercooled plasma.  computer ab initio simulation. 
+               analytical theory.  nonergodic properties.  classical Coulomb
+               plasma.  review.  many-charged-particle system simulation. 
+               ionisation.  entropy conservation.  isolated Hamiltonian
+               systems.  stochastic action.  classical mechanics.  plasma
+               ionisation degree.  thermodynamic considerations.  plasmoid. 
+               ball lightning.
+Abstract:      The computer ab initio simulation and analytical theory that
+               revealed unexpected nonergodic properties in a classical
+               Coulomb plasma are reviewed.  The results of a
+               many-charged-particle system simulation predict the possible
+               existence of a real metastable plasma, supercooled with
+               respect to its degree of ionisation.  The existence of such a
+               plasma state is a consequence of the entropy conservation in
+               isolated Hamiltonian systems free from any stochastic action
+               from outside.  The occurrence of a metastable supercooled
+               plasma-similar to a supercooled vapour or superheated
+               liquid-depends on two conditions.  Firstly, all the charged
+               particles should behave exactly according to the laws of
+               classical mechanics (hence, most negatively-charged particles
+               should preferably be heavy ions).  Secondly, the plasma
+               ionisation degree should be sufficiently high ( alpha >10/sup
+               -3/).  It is shown from thermodynamic considerations that a
+               mixture of a supercooled plasma with an ideal gas might form a
+               plasmoid of the ball lightning type.
+UW Load Date:  9410.
+                   ---- End of Citation ----
+
+
+                                                 Citation: 19 of 96
+Accession No.: 4729592.
+Author:        Amirov-A-Kh.  Bychkov-V-L.
+Author Affil.: Inst. of High Temp., Acad. of Sci., Moscow, Russia.
+Title:         ANOVA of several parameters of the SKB data bank on ball
+               lightning.
+Source:        Physica Scripta.  vol.50, no.1.  pp. 93-6.  July 1994.
+References:    7 refs.
+ISSN:          0031-8949.
+CODEN:         PHSTBO.
+Language:      eng.
+Year:          1994.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Pub. Country:  Sweden.
+Class. Code:   A9260P.
+Subject:       lightning.
+Identifiers:   SKB data bank.  ball lightning.  ANOVA. 
+               Stakhanov-Keul-Bychkov data bank.  diameter.  lifetime. 
+               parameters.
+Abstract:      Revelation of the significance factors ball lightning (BL)
+               color and way of disappearance for parameters BL diameter and
+               BL lifetime was made.  The information used in the analysis
+               was from the Stakhanov-Keul-Bychkov data bank on ball
+               lightning.  The factor BL color turned out to be insignificant
+               for the parameters BL lifetime and BL diameter while the
+               factor BL way of disappearance was significant for them.
+UW Load Date:  9409.
+                   ---- End of Citation ----
+
+
+
+                                                 Citation: 20 of 96
+Accession No.: 4723148.
+Author:        Handel-P-H.  Leitner-J-F.
+Author Affil.: Dept. of Phys. & Astron., Missouri Univ., St. Louis, MO, USA.
+Title:         Development of the maser-caviton ball lightning theory.
+Source:        Journal of Geophysical Research.  vol.99, no.D5.  pp.
+               10689-91.  20 May 1994.
+References:    9 refs.
+Conf. Title:   Ninth International Conference on Atmospheric Electricity
+               (ICAE).  St. Petersburg, Russia.  15-19 June 1992.
+ISSN:          0148-0227.
+CODEN:         JGREA2.
+Language:      eng.
+Year:          1994.
+Pub. Type:     conference-proceeding (C).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Report No.:    CCCC: 0148-0227/94/93JD-01021$05.00.
+Pub. Country:  USA.
+Class. Code:   A9260P.
+Subject:       lightning.  masers.
+Identifiers:   maser-caviton ball lightning theory.  photon number evolution. 
+               single-mode maser.  atmospheric maser.  localized high-field
+               soliton.  plasma.  VHF energy.  electric field pulse. 
+               electrically shielded enclosures.  electrostatic explosion. 
+               motion.  buoyancy.  maser spiking phenomena.
+Abstract:      The maser-caviton ball lightning theory is briefly described,
+               is compared with the available observations of ball lightning,
+               and is further developed on the basis of the rate equations
+               governing the evolution of the photon number in a single-mode
+               maser.  The focus of this paper is on the explosive growth of
+               the photon number at the premature demise of a large
+               atmospheric maser.  Ball lightning is a localized high-field
+               soliton forming a cavity surrounded by plasma in this theory. 
+               The source of VHF energy is a large atmospheric maser
+               occupying a volume of several cubic miles for the case of open
+               air ball lightning, and occupying the volume of the room in
+               electrically shielded confined ball lightning cases.  The
+               main, well-known features of ball lightning, including its
+               appearance immediately after a strong electric field pulse
+               usually caused by lightning, its passage through closed
+               windows and other dielectrics, its always harmless existence
+               in electrically shielded (e.g.  metallic) enclosures, without
+               the possibility of electrostatic-explosive demise, its total
+               absence in the vicinity of high peaks or lightning observation
+               stations, as well as the resonant character of its positioning
+               and motion with respect to conducting bodies, and its apparent
+               lack of buoyancy in the air can all be explained consistently
+               with this theory.  The explosive demise of open air ball
+               lightning is described in terms of maser spiking phenomena
+               with the help of elementary equations.
+UW Load Date:  9408.
+                   ---- End of Citation ----
+
+
+
+
+
+
+
+
+
+
+
+
+                                                 Citation: 21 of 96
+Accession No.: 4718161.
+Author:        Golka-R-K-Jr.
+Author Affil.: Golka Assoc., Brockton, MA, USA.
+Title:         Laboratory-produced ball lightning.
+Source:        Journal of Geophysical Research.  vol.99, no.D5.  pp.
+               10679-81.  20 May 1994.
+References:    8 refs.
+Conf. Title:   Ninth International Conference on Atmospheric Electricity
+               (ICAE).  St. Petersburg, Russia.  15-19 June 1992.
+ISSN:          0148-0227.
+CODEN:         JGREA2.
+Language:      eng.
+Year:          1994.
+Pub. Type:     conference-proceeding (C).
+Treatment:     EXPERIMENTAL (X).
+Report No.:    CCCC: 0148-0227/94/93JD-03579$05.00.
+Pub. Country:  USA.
+Class. Code:   A9260P.  A5290.  A5280.
+Subject:       discharges-electric.  lightning.  plasma.
+Identifiers:   atmosphere electricity.  laboratory-produced.  ball lightning. 
+               laboratory experiment.  high current.  cavity-formed plasmode. 
+               microwave oven.
+Abstract:      For 25 years the author has actively been searching for the
+               true nature of ball lightning and attempting to reproduce it
+               at will in the laboratory.  As one might expect, many
+               unidentified lights in the atmosphere have been called ball
+               lightning, including Texas Maffa lights (automobile
+               headlights), flying saucers (UFOs), swamp gas in Ann Arbor,
+               Michigan, etc.  For 15 years the author thought ball lightning
+               was strictly a high-voltage phenomenon.  It was not until 1984
+               when he was short-circuiting the electrical output of a diesel
+               electric railroad locomotive that he realized that the
+               phenomenon was related more to a high current.  Although he is
+               hoping for some other types of ball lightning to emerge such
+               as strictly electrostatic-electromagnetic manifestations, he
+               has been unlucky in finding laboratory provable evidence. 
+               Cavity-formed plasmodes can be made by putting a 2-inch
+               burning candle in a home kitchen microwave oven.  The
+               plasmodes float around for as long as the microwave energy is
+               present.
+UW Load Date:  9408.
+                   ---- End of Citation ----
+
+
+
+
+
+                                                 Citation: 22 of 96
+Accession No.: 4703426.
+Title:         Ninth International Conference on Atmospheric Electricity
+               (ICAE).
+Source:        Journal of Geophysical Research.  vol.99, no.D5.  20 May 1994.
+Conf. Title:   Ninth International Conference on Atmospheric Electricity
+               (ICAE).  St. Petersburg, Russia.  15-19 June 1992.
+ISSN:          0148-0227.
+CODEN:         JGREA2.
+Language:      eng.
+Year:          1994.
+Pub. Type:     conference-proceeding (C).
+Pub. Country:  USA.
+Class. Code:   A0130C.  A9260Q.  A9260P.
+Subject:       atmospheric-electricity.  lightning.  thunderstorms.
+Identifiers:   surface layer.  charge.  ice.  thunderstorms.  lightning. 
+               ball lightning.  mobility.
+Abstract:      The following topics were dealt with: surface layer, charge,
+               ice, thunderstorms, lightning, ball lightning, mobility.
+UW Load Date:  9407.
+                   ---- End of Citation ----
+
+
+
+
+
+
+
+
+
+
+
+                                                 Citation: 23 of 96
+Accession No.: 4701809.
+Author:        Gaidukov-N-I.
+Title:         Steady-state motion of the ball lighting observed by M.T. 
+               Dmitriev at the Onega River.
+Source:        Zhurnal Tekhnicheskoi Fiziki.  vol.64, no.2.  pp. 38-48.  Feb. 
+               1994.
+References:    15 refs.
+Trans. Title:  Technical Physics.  vol.39, no.2.  pp. 137-42.  Feb. 1994.
+ISSN:          0044-4642.  1063-7842.
+CODEN:         ZTEFA3.  TEPHEX.
+Language:      eng.
+Year:          1994.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Pub. Country:  Russia.  USA.
+Class. Code:   A9260P.  A9330G.
+Subject:       electric-charge.  electrostatics.  lightning. 
+               magnetic-fields.
+Identifiers:   steady-state motion.  ball lighting.  Onega River.  electric
+               charge.  electrostatic attraction.  Stokes force.  wind. 
+               magnetic field orientation.  Russia.
+Abstract:      The unique and well-known observation of motion of ball
+               lightning by Prof.  M.T.  Dmitriev and the Onega River can be
+               described by a fairly simple system of equations.  Certain
+               simplifying assumptions are used in the construction of this
+               system.  This system of equations leads an estimate of the
+               electric charge in ball lightning moving under the influence
+               of electrostatic attraction and the Stokes force created by
+               wind.  This system of equations also yields the orientation of
+               the magnetic field of the ball lightning.
+UW Load Date:  9407.
+                   ---- End of Citation ----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                 Citation: 24 of 96
+Accession No.: 4701764.
+Author:        Gaidukov-N-I.
+Author Affil.: Pedagogical Inst., Orekhovo-Zuevo, Russia.
+Title:         Equations of motion of ball lightning in the magnetic field of
+               a hanging conductor.
+Source:        Zhurnal Tekhnicheskoi Fiziki.  vol.63, no.10.  pp. 20-9.  Oct. 
+               1993.
+References:    18 refs.
+Trans. Title:  Technical Physics.  vol.38, no.10.  pp. 844-8.  Oct. 1993.
+ISSN:          0044-4642.  1063-7842.
+CODEN:         ZTEFA3.  TEPHEX.
+Language:      eng.
+Year:          1993.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Pub. Country:  Russia.  USA.
+Class. Code:   A9260P.
+Subject:       lightning.  magnetic-field-effects.  magnetic-fields.
+Identifiers:   equations of motion.  ball lightning.  external magnetic
+               field.  hanging conductor.  high-velocity air flow.  rolling.
+Abstract:      Observations of the motion of ball lightning in high-velocity
+               air flow and observations of the "rolling" of ball lightning
+               along a conductor are used to determine the configuration of
+               the magnetic field of the ball lightning.  The equations of
+               motion of ball lightning in an external magnetic field are
+               constructed.
+UW Load Date:  9407.
+                   ---- End of Citation ----
+
+
+
+                                                 Citation: 25 of 96
+Accession No.: 4696811.
+Author:        Gaidukov-N-I.
+Author Affil.: Pedagogical Inst., Orekhovo-Zuevo, Russia.
+Title:         Hydrodynamic model of the interaction of ball lightning with
+               the airstream of an aircraft in flight.
+Source:        Zhurnal Tekhnicheskoi Fiziki.  vol.63, no.9.  pp. 16-25. 
+               Sept.  1993.
+References:    22 refs.
+Trans. Title:  Technical Physics.  vol.38, no.9.  pp. 747-51.  Sept. 1993.
+ISSN:          0044-4642.  1063-7842.
+CODEN:         ZTEFA3.  TEPHEX.
+Language:      eng.
+Year:          1993.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Report No.:    CCCC: 1063-7842/93/090747-05$10.00.
+Pub. Country:  Russia.  USA.
+Class. Code:   A9260P.
+Subject:       atmospheric-movements.  hydrodynamics.  lightning.
+Identifiers:   large-radius ball lightning.  airstream.  aircraft in flight. 
+               hydrodynamic model.  equations of motion.
+Abstract:      Observations of the motion of large-radius ball lightning in
+               the airstreams of moving aircraft are used to determine its
+               equations of motion for a specially selected model, so that
+               its behavior can be investigated in various special cases
+               encountered in real environments.  These equations have
+               applications in describing the interaction of lightning with
+               the airstream of an aircraft and in establishing flight
+               regimes that will ensure flight safety when an aircraft
+               encounters ball lightning of large radius.
+UW Load Date:  9407.
+                   ---- End of Citation ----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                 Citation: 26 of 96
+Accession No.: 4678293.
+Author:        Alanakyan-Yu-R.
+Title:         Energy capacity of an electromagnetic vortex in the
+               atmosphere.
+Source:        Zhurnal Eksperimental'noi i Teoreticheskoi Fiziki.  vol.105,
+               no.3.  pp. 601-13.  March 1994.
+References:    16 refs.
+Trans. Title:  Journal of Experimental and Theoretical Physics.  vol.78,
+               no.3.  pp. 320-6.  March 1994.
+ISSN:          0044-4510.  1063-7761.
+CODEN:         ZETFA7.  JTPHES.
+Language:      eng.
+Year:          1994.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Report No.:    CCCC: 1063-7761/94/030320-07$10.00.
+Pub. Country:  Russia.  USA.
+Class. Code:   A5230.  A9260P.
+Subject:       lightning.  plasma-flow.
+Identifiers:   electromagnetic vortex.  atmosphere.  energy capacity. 
+               self-localization.  plasma.  unneutralized charges. 
+               high-frequency field.  positively charged solid object. 
+               hydrodynamic vortex.  momentum transfer.  ball lightning.
+Abstract:      The self-localization of an electromagnetic vortex is
+               investigated under conditions such that partial charge
+               separation occurs in the plasma that forms near the vortex:
+               outside the vortex there is an excess of electrons and inside
+               it there is an excess of positive charges.  It is shown that
+               the presence of unneutralized charges increases the energy
+               content of the vortex without increasing the energy
+               dissipation of the high-frequency field in the plasma.  The
+               lifetime of the vortex can thereby be substantially increased. 
+               A mechanism is examined for confining a positively charged
+               solid object in the interior of the vortex.  This body serves
+               as ballast and can retard the buoyant rise of the vortex in
+               the atmosphere.  The question of the formation of a
+               hydrodynamic vortex at the periphery of an electromagnetic
+               vortex by transfer of momentum from a high-frequency field to
+               the surrounding medium is discussed;  this affects the nature
+               of the motion of the vortex in a free atmosphere.  It is shown
+               that the properties of the vortex are consistent with some of
+               the properties of ball lightning.
+UW Load Date:  9406.
+                   ---- End of Citation ----
+
+
+
+                                                 Citation: 27 of 96
+Accession No.: 4675921.
+Author:        Turner-D-J.
+Author Affil.: Interface Anal. Centre, Bristol Univ., UK.
+Title:         The structure and stability of ball lightning.
+Source:        Philosophical Transactions of the Royal Society, Series A
+               (Physical Sciences and Engineering).  vol.347, no.1682.  pp. 
+               83-111.  15 April 1994.
+References:    33 refs.
+ISSN:          0962-8428.
+Language:      eng.
+Year:          1994.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Pub. Country:  UK.
+Class. Code:   A9260P.
+Subject:       lightning.  plasma.
+Identifiers:   ball lightning.  stability.  structure.  shape.  size range. 
+               brightness.  motion.  energy content.  central plasma core. 
+               high-energy ion recombination.  hydrated ions.  hydration
+               zone.  thermochemical refrigeration.
+Abstract:      The main characteristics of ball lightning are well
+               established.  They include its general appearance (shape, size
+               range, brightness, etc.), its peculiar motion and, less
+               satisfactorily, its energy content.  A remarkably consistent
+               picture emerges from the thousands of detailed descriptions
+               which are now available.  There is, however, no such
+               consistency in the various hypotheses that have been put
+               forward to explain ball lightning.  The only thing most of
+               them share is an ability to explain a few aspects of the
+               phenomenon at the expense of physically impossible
+               requirements in other areas.  A model is described of a
+               central plasma core surrounded by a cooler, intermediate zone,
+               in which recombination of most or all of the high-energy ions
+               takes place.  Further out is a zone in which temperatures are
+               low enough for any ions present to become extensively
+               hydrated.  Hydrated ions can also form spontaneously in the
+               inner, hotter, parts of this hydration zone.  Near the surface
+               of the ball is a region, quite essential to the model, in
+               which thermochemical refrigeration can take place.
+UW Load Date:  9406.
+                   ---- End of Citation ----
+
+
+
+
+
+
+                                                 Citation: 28 of 96
+Accession No.: 4670300.
+Author:        Smirnov-B-M.
+Author Affil.: Inst. of High Temp., Moscow, Russia.
+Title:         Gasdynamics of a fractal ball.
+Source:        Zhurnal Tekhnicheskoi Fiziki.  vol.63, no.4.  pp. 190-3. 
+               April 1993.
+References:    16 refs.
+Trans. Title:  Technical Physics.  vol.38, no.4.  pp. 359-60.  April 1993.
+ISSN:          0044-4642.  1063-7842.
+CODEN:         ZTEFA3.  TEPHEX.
+Language:      eng.
+Year:          1993.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Report No.:    CCCC: 1063-7842/93/040359-02$10.00.
+Pub. Country:  Russia.  USA.
+Class. Code:   A4740D.  A9260P.
+Subject:       aggregation.  drag.  fluid-dynamics.  fractals.  lightning.
+Identifiers:   gas dynamics.  connected material.  fractal ball.  fractal
+               cluster.  entangled fractal fibers.  expansion.  weakly
+               ionized vapor.  condensation.  solid particles.  fractal
+               aggregates.  external electric field.  ball lightning. 
+               surface tension.  viscous layer.  interface.  Reynolds number. 
+               kinematical viscosity.  Stokes formula.  drag force. 
+               movement.  air.
+Abstract:      A fractal cluster is a system of entangled fractal fibers. 
+               This object is formed in a gas as a result of laser or
+               electrical discharge action on a surface.  The expansion of
+               the weakly ionized vapor that is formed, which is accompanied
+               by the condensation of the vapor on the ions, leads to the
+               formation of solid particles that then join into fractal
+               aggregates.  The latter, in turn, under the action of an
+               external electric field, then join into fractal fibers, out of
+               which are formed the fractal clusters.  A physical object that
+               has the structure of a fractal cluster is ball lightning.  The
+               gasdynamics of ball lightning has been studied thoroughly by
+               N.I.  Gaidukov (1989).  Without specifying in detail the
+               structure of ball lightning, he assumed that the material of
+               ball lightning is connected like a liquid, so that it can be
+               characterized by a surface tension.  Moreover, the molecules
+               of air do not attach to it.  Using this model, Gaidukov was
+               able to describe a large number of effects associated with
+               ball lightning: its passage through small holes and slits and
+               its capture by the trail of airplanes or helicopters.  In the
+               next stage of the investigations, by analyzing the effects
+               associated with the sighting of ball lightning, Gaidukov
+               pointed out that to explain these effects it would be
+               necessary to postulate the absence of a viscous layer at the
+               interface between the ball lightning and the air.  The authors
+               formulate this result by another means.  They introduce the
+               Reynolds number Re=Rv/ nu , where nu =0.16 cm/sup 2//s is the
+               kinematical viscosity of the air.  For low Reynolds numbers
+               the Stokes formula is valid, which gives C=6/Re.  At large
+               Reynolds numbers the parameter C approximately 1 depends only
+               weakly on the Reynolds number.  The conclusion of Gaidukov in
+               this terminology reduces to the statement that the parameter C
+               for ball lightning does not depend on the Reynolds number even
+               when that number is small.  The article presents calculations
+               of the drag force experienced by a fractal cluster in its
+               movement through the air.  The expression obtained supports
+               Gaidukov's conclusion.
+UW Load Date:  9406.
+                   ---- End of Citation ----
+                                                 Citation: 29 of 96
+Accession No.: 4655067.
+Author:        Gaidukov-N-I.
+Author Affil.: Pedagogical Inst., Moscow, Russia.
+Title:         Magnetic field of ball lightning.
+Source:        Teplofizika Vysokikh Temperatur.  vol.31, no.6.  pp. 1038. 
+               Nov.-Dec. 1993.
+Trans. Title:  High Temperature.  vol.31, no.6.  pp. 954.  Nov.-Dec. 1993.
+ISSN:          0040-3644.  0018-151X.
+CODEN:         TVYTAP.  HITEA4.
+Language:      eng.
+Year:          1993.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Pub. Country:  Russia.  USA.
+Class. Code:   A9260P.
+Subject:       geomagnetism.  lightning.
+Identifiers:   ball lightning.  atmospheric flows.  magnetic induction
+               vector.  spherical coordinates.  plasma object.  thermodynamic
+               object.  cylindrical coordinate system.  electrodynamic
+               forces.  drift motion.  intrinsic electromagnetic field. 
+               charge density.  magnetization.
+Abstract:      Summary form only given.  Analysis of the data on
+               experimentally observed motion of a ball lightning in various
+               atmospheric flows of air and its "rolling" along a conductor
+               with current helped establish the presence of a magnetic field
+               of the lightning.  The components of the magnetic induction
+               vector of this field inside and outside the lightning are
+               determined in the spherical coordinates by the expressions
+               B/sub r/=B/sub 0/cos theta , B/sub theta /=-B/sub 0/sin theta
+               , 0<or=r<a;  B/sub r/=((B/sub 0/a/sup 3/)/(r/sup 3/))cos theta
+               , B/sub theta /=((B/sub 0/a/sup 3/)/(2r/sup 3/))sin theta ,
+               a<r< infinity ;  B/sub 0/=const.  Since the ball lightning is
+               an electrically charged and magnetized plasma object,
+               equilibrium of this thermodynamic object in the axial
+               direction of the cylindrical coordinate system is due to the
+               zero balance of the electrodynamic forces acting on any
+               lightning segment cut off by the plane z=h<a. Lightning
+               equilibrium in the radial direction of the same coordinate
+               system is provided by drift motion of ions "maintaining" the
+               magnetic field in the intrinsic electromagnetic field.  This
+               results in rotation of the lightning about the z axis.  Under
+               the equilibrium conditions, the charge density rho and
+               magnetization M of the plasma of the ball lightning are
+               related by rho = square root 3M/a, where a is the radius of
+               the ball lightning.
+UW Load Date:  9405.
+                   ---- End of Citation ----
+                                                 Citation: 30 of 96
+Accession No.: 4619612.
+Author:        Klimov-A-I.  Mishin-G-I.
+Author Affil.: A.F. Ioffe Physicotechnical Inst., Acad. of Sci., St. 
+               Petersburg, Russia.
+Title:         Anomalous wave and gasdynamic properties of long-lived
+               high-energy plasmoids.
+Source:        Pis'ma v Zhurnal Tekhnicheskoi Fizika.  vol.19, no.13-14.  pp. 
+               19-24.  July 1993.
+References:    8 refs.
+Trans. Title:  Technical Physics Letters.  vol.19, no.7.  pp. 405-7.  July
+               1993.
+ISSN:          0320-0108.  1063-7850.
+CODEN:         PZTFDD.  TPLEED.
+Language:      eng.
+Year:          1993.
+Pub. Type:     journal-article (J).
+Treatment:     EXPERIMENTAL (X).
+Report No.:    CCCC: 1063-7850/93/070405-03$10.00.
+Pub. Country:  Russia.  USA.
+Class. Code:   A5230.  A5225F.  A5235.
+Subject:       plasma-flow.  plasma-transport-processes.  plasma-waves.
+Identifiers:   wave properties.  gasdynamic properties.  long-lived
+               high-energy plasmoids.  simulate natural ball lightning.
+Abstract:      There has recently been increased interest in the study of
+               long-lived high-energy plasmoids (LEPs) generated by pulsed
+               erosion plasmatrons in view of their possible use in solving a
+               number of practical problems and also of attempts to simulate
+               natural ball lightning.  The work now reported was devoted to
+               investigating certain unusual properties of such LEPs.
+UW Load Date:  9404.
+                   ---- End of Citation ----
+                                                 Citation: 31 of 96
+Accession No.: 4573518.
+Author:        Smirnov-B-M.
+Author Affil.: Inst. of High Temp., Acad. of Sci., Moscow, Russia.
+Title:         Observational parameters of ball lightning.
+Source:        Physica Scripta.  vol.48, no.5.  pp. 638-40.  Nov. 1993.
+References:    21 refs.
+ISSN:          0031-8949.
+CODEN:         PHSTBO.
+Language:      eng.
+Year:          1993.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Pub. Country:  Sweden.
+Class. Code:   A9260P.
+Subject:       lightning.
+Identifiers:   observational parameters.  ball lightning.  data bank.  error. 
+               observational events.
+Abstract:      Distributions of ball lightning depending on some parameters
+               are given as a result of summarizing available evidence of its
+               observations.  The accuracy of the data is connected with
+               correlations between different parts of the total data bank. 
+               The main error of the output data is determined by treatment
+               methods of observational events inside individual data banks.
+UW Load Date:  9402.
+                   ---- End of Citation ----
+
+
+
+
+
+
+                                                 Citation: 32 of 96
+Accession No.: 4555338.
+Author:        Gaidukov-N-I.
+Title:         Hydrodynamic interaction of ball lightning and unsteady
+               airflows.
+Source:        Izvestiya Akademii Nauk SSSR, Mekhanika Zhidkosti i Gaza. 
+               vol.28, no.1.  pp. 192-5.  Jan.-Feb. 1993.
+References:    12 refs.
+Trans. Title:  Fluid Dynamics.  vol.28, no.1.  pp. 145-8.  Jan.-Feb. 1993.
+ISSN:          0568-5281.  0015-4628.
+CODEN:         IMZGAB.  FLDYAH.
+Language:      eng.
+Year:          1993.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Report No.:    CCCC: 0015-4628/93/2801-0145$12.50.
+Pub. Country:  Russia.  USA.
+Class. Code:   A9260P.  A4740.  A4720.
+Subject:       aerodynamics.  flow-instability.  hydrodynamics.  lightning.
+Identifiers:   hydrodynamic interactions.  jet engine.  fighter.  ball
+               lightning.  unsteady airflows.  high-velocity airflows. 
+               nondeformable sphere.  ideal incompressible fluid.  aircraft. 
+               engines.  spherical shape.  hydrodynamic forces. 
+               one-dimensional motion.  flight conditions.
+Abstract:      Numerous observational results relating to the characteristics
+               of the motion of ball lightning in high-velocity airflows give
+               reason to suppose that in an airflow it behaves like a
+               nondeformable sphere in an ideal incompressible fluid. 
+               Nevertheless, the lightning, whose dimensions are comparable
+               with those of an aircraft, is captured by the engines and
+               pursues the aircraft persistently, moving at velocities of 150
+               to 200 m/sec, while retaining its spherical shape and a
+               constant distance from the tail.  If the lightning with a
+               radius of 5 m were replaced by a solid sphere of the same
+               radius, then for it to pursue the aircraft it would be
+               necessary to apply to it a force of the order of several tons. 
+               Obviously, in that case there can be no question of the
+               pursuit of an aircraft under the influence of hydrodynamic
+               forces.  Leaving aside the physical causes of this behavior of
+               lightning in an air medium, we will assume the property to be
+               an established experimental fact.  The author considers the
+               one-dimensional motion of ball lightning in the unsteady
+               airflow created by an aircraft moving in a constant direction,
+               on the assumption that the lightning may be either in front of
+               or behind the aircraft.  This formulation of the problem
+               follows from observations made under actual flight conditions
+               when lightning with dimensions comparable with those of the
+               aircraft interacted hydrodynamically with its engines.
+UW Load Date:  9401.
+                   ---- End of Citation ----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                 Citation: 33 of 96
+Accession No.: 4551572.
+Author:        Endean-V-G.
+Author Affil.: Sch. of Eng. & Comput. Sci., Durham Univ., UK.
+Title:         Spinning electric dipole model of ball lightning.
+Source:        IEE Proceedings A (Science, Measurement and Technology). 
+               vol.140, no.6.  pp. 474-8.  Nov. 1993.
+References:    17 refs.
+ISSN:          0960-7641.
+CODEN:         IPATEI.
+Language:      eng.
+Year:          1993.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Report No.:    CCCC: 0960-7641/93/$7.50+0.00.
+Pub. Country:  UK.
+Class. Code:   A9260P.  B5110.  A4110F.
+Subject:       electromagnetic-field-theory.  lightning.
+Identifiers:   spinning electric dipole model.  ball lightning.  spherical
+               geometry.  oscillating electric dipole model.  time averaged
+               electrical force.  radial plasma pressure gradient.  plasmoid. 
+               virial theorem.
+Abstract:      An analytical solution is spherical geometry of a very rapidly
+               rotating and oscillating electric dipole model of ball
+               lightning is presented.  Total current (conduction plus
+               displacement) is assumed to be zero everywhere, resulting in
+               the considerable simplification of no magnetic field.  The
+               time averaged electrical force is radial, depends only on
+               radius, and is balanced by a radial plasma pressure gradient. 
+               Average energy densities can exceed the external atmospheric
+               pressure by large factors.  Objections to the plasmoid
+               explanation of ball lightning based on the virial theorem are
+               therefore satisfactorily dealt with.  Compared with
+               alternative explanations of ball lightning, the model has the
+               virtues of simplicity, a straightforward, natural generation
+               mechanism, and no special requirements such as aerogels and
+               the reactive substances of chemical theories.
+UW Load Date:  9401.
+                   ---- End of Citation ----
+
+
+
+
+
+
+
+
+
+                                                 Citation: 34 of 96
+Accession No.: 4535431.
+Author:        Smirnov-B-M.
+Author Affil.: Sci. Assoc., IVTAN, Acad. of Sci., Moscow, Russia.
+Title:         Radiative processes involving fractal structures.
+Source:        Uspekhi Fizicheskii Nauk.  vol.163, no.7.  pp. 51-63.  July
+               1993.
+References:    95 refs.
+Trans. Title:  Physics-Uspekhi.  vol.36, no.7.  pp. 592-603.  July 1993.
+ISSN:          0042-1294.  1063-7869.
+CODEN:         UFNAAG.  PHUSEY.
+Language:      eng.
+Year:          1993.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Report No.:    CCCC: 1063-7869/93/070592-12$10.00.
+Pub. Country:  Russia.  USA.
+Class. Code:   A8240P.  A5280.  A9260P.
+Subject:       discharges-electric.  flames.  fractals.  lightning.
+Identifiers:   radiative processes.  fractal structures.  flame.  candle. 
+               fractal discharges.  fractal aggregates.  ball lightning. 
+               fractal tangle.
+Abstract:      Radiative processes in the flame of a candle and fractal
+               discharges associated with the presence in them of fractal
+               aggregates are examined.  A brief description is given of the
+               modern fractal concept of ball lightning.  An analysis is
+               given of a specific physical object-a fractal tangle.
+UW Load Date:  9401.
+                   ---- End of Citation ----
+
+
+
+                                                 Citation: 35 of 96
+Accession No.: 4517777.
+Author:        Maiorov-S-A.  Tkachev-A-N.  Yakovlenko-S-I.
+Author Affil.: Inst. of Gen. Phys., Acad. of Sci., Russia.
+Title:         Recombination of a Coulomb plasma and nonbinary interaction
+               effects.
+Source:        Izvestiya Vysshikh Uchebnykh Zavedenii, Fizika.  vol.36, no.1. 
+               pp. 68-89.  Jan. 1993.
+References:    17 refs.
+Trans. Title:  Russian Physics Journal.  vol.36, no.1.  pp. 55-73.  Jan.
+               1993.
+ISSN:          0021-3411.  1064-8887.
+CODEN:         IVUFAC.  RPJOEB.
+Language:      eng.
+Year:          1993.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Report No.:    CCCC: 1064-8887/93/3601-0055$12.50.
+Pub. Country:  Russia.  USA.
+Class. Code:   A5225D.  A9260P.  A5220H.
+Subject:       ion-recombination.  plasma-kinetic-theory. 
+               plasma-transport-processes.
+Identifiers:   nonbinary interaction effects.  Coulomb plasma.  diffusion. 
+               kinetic models.  two-level atoms.  diffusion coefficients. 
+               electron-hole plasma.  recombination rate.  recombination
+               time.  ion-ion plasma.  ball lightning.
+Abstract:      A theory has been constructed for the recombination of a
+               Coulomb plasma with allowance for the anomalous nature of
+               diffusion along the energy axis in the negative energy region
+               of Coulomb particles.  These anomalies, which were revealed
+               earlier by first-principles numerical simulation, are due to
+               the dynamic memory of a classical Coulomb plasma.  Two kinetic
+               models are presented.  The first takes random collisions with
+               a hypothetical gas of two-level atoms into account. 
+               Comparison of the results of this model with first-principles
+               calculations shows that the characteristic of the diffusion
+               coefficients is missing.  The second model takes the discrete
+               nature of bound states into account.  Calculations show that
+               for an electron-hole plasma the recombination rate deviates
+               substantially from the results of conventional theory only
+               when either the recombination time is very short or the effect
+               is masked by radiative recombination.  For an ion-ion plasma,
+               the deviations from conventional recombination theory run to
+               several orders of magnitude.  This is of interest in relation
+               to ball lightning.
+UW Load Date:  9311.
+                   ---- End of Citation ----
+
+                                                 Citation: 36 of 96
+Accession No.: 4515505.
+Author:        Avramenko-R-F.  Gridin-A-Yu.  Klimov-A-I.  Nikolaeva-V-I.
+Author Affil.: Sci. Res. Inst. of Radio Apparatus Constr., Moscow, Russia.
+Title:         Experimental study of energetic compact plasma formations.
+Source:        Teplofizika Vysokikh Temperatur.  vol.30, no.6.  pp. 1057-61. 
+               Nov.-Dec. 1992.
+References:    7 refs.
+Trans. Title:  High Temperature.  vol.30, no.6.  pp. 870-3.  Nov.-Dec. 1992.
+ISSN:          0040-3644.  0018-151X.
+CODEN:         TVYTAP.  HITEA4.
+Language:      eng.
+Year:          1992.
+Pub. Type:     journal-article (J).
+Treatment:     EXPERIMENTAL (X).
+Report No.:    CCCC: 0018-151X/92/3006-0870$12.50.
+Pub. Country:  Russia.  USA.
+Class. Code:   A5280.  A5250D.
+Subject:       discharges-electric.  lightning.  plasma-production.
+Identifiers:   energetic compact plasma formations.  erosion discharge.  gas
+               dynamic behavior.  ball lightning.
+Abstract:      The structure of energetic plasma formations obtained using an
+               erosion discharge and the gas dynamic behavior of these
+               objects are studied experimentally.  An energetic plasma
+               formation is similar to natural ball lightning in several
+               respects.
+UW Load Date:  9311.
+                   ---- End of Citation ----
+
+
+
+
+                                                 Citation: 37 of 96
+Accession No.: 4510931.
+Author:        Smirnov-B-M.
+Author Affil.: IVTRAN, Moscow, Russia.
+Title:         Radiation of some fractal structures.
+Source:        International Journal of Theoretical Physics.  vol.32, no.8. 
+               pp. 1453-64.  Aug. 1993.
+References:    60 refs.
+ISSN:          0020-7748.
+CODEN:         IJTPBM.
+Language:      eng.
+Year:          1993.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Report No.:    CCCC: 0020-7748/93/0800-1453$07.00.
+Pub. Country:  USA.
+Class. Code:   A8240P.  A9260P.  A5280.
+Subject:       discharges-electric.  flames.  fractals.  lightning.
+Identifiers:   fractal structures.  candle flame.  fractal discharges.  ball
+               lightning.
+Abstract:      The fractal properties of a candle flame and fractal
+               discharges are considered.  The fractal concept is applied to
+               ball lightning.
+UW Load Date:  9311.
+                   ---- End of Citation ----
+
+
+
+
+
+
+
+                                                 Citation: 38 of 96
+Accession No.: 4459211.
+Author:        King-M-B.
+Title:         Progress and results in zero-point energy research.
+Source:        Published by: Soc. Automotive Eng.  Warrendale, PA, USA. 
+               1992.
+References:    49 refs.
+Conf. Title:   Proceedings of the 27th Intersociety Energy Conversion
+               Engineering Conference (IEEE Cat. No.92CH3164-1).  San Diego,
+               CA, USA.  pp. 4.297-4.302 vol.4.  IEEE.  ACS.  AIAA.  AIChE. 
+               ANS.  ASME.  SAE.  3-7 Aug. 1992.
+ISBN:          0780306937.
+Language:      eng.
+Year:          1992.
+Pub. Type:     conference-proceeding (C).
+Treatment:     EXPERIMENTAL (X).
+Pub. Country:  USA.
+Class. Code:   A8610Z.  A5235F.  A5235D.  A5280.  A8245.  A2588.  A2570J. 
+               A2470.
+Subject:       discharges-electric.  electrochemistry. 
+               heavy-ion-nucleus-reactions.  nuclear-fusion. 
+               nuclear-polarisation.  plasma-oscillations.  plasma-waves. 
+               sonoluminescence.
+Identifiers:   zero-point energy research.  concentrated vacuum polarization. 
+               atomic nuclei.  synchronous motion.  heavy-ion collisions. 
+               plasma ion-acoustic oscillations.  sonoluminescence. 
+               fractoemission.  large charge density plasmoids.  ball
+               lightning.  abrupt electric discharges.  light water cold
+               fusion.  voltage spikes.  ion-acoustic activity.  Hyde's
+               voltage divider.  solid state methods.  lattice spinor waves.
+Abstract:      It is pointed out that from the concentrated vacuum
+               polarization of atomic nuclei arises the possibility of
+               triggering a macroscopic zero-point energy (ZPE) coherence
+               with the synchronous motion of many nuclei.  Experimental
+               evidence arises from energy anomalies associated with
+               heavy-ion collisions, plasma ion-acoustic oscillations,
+               sonoluminescence, fractoemission, large charge density
+               plasmoids, ball lightning, abrupt electric discharges, and
+               light water cold fusion experiments.  Further supporting
+               evidence arises from inventions that utilize coherent ion
+               motions and output excessive energy.  The sharp voltage spikes
+               that arise from ion-acoustic activity can be converted by use
+               of circuits such as Hyde's voltage divider.  The largest
+               effects might be produced by solid state methods that manifest
+               dual, counter-rotating, acoustical, lattice spinor waves.  If
+               synchronous ion-acoustic activity coheres the zero-point
+               energy, there will be many more inventions forthcoming, and a
+               new energy source will be recognized.
+UW Load Date:  9308.
+                   ---- End of Citation ----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                 Citation: 39 of 96
+Accession No.: 4453930.
+Author:        Mal-R-K.  Sengupta-P-R.
+Author Affil.: Dept. of Math. Krishnath Coll., West Bengal, India.
+Title:         Radial motion of a non-homogeneous solid spherical body in a
+               magnetic field (Earth).
+Source:        Proceedings of the Indian National Science Academy, Part A.
+               vol.59, no.2.  pp. 157-67.  March 1993.
+References:    17 refs.
+ISSN:          0370-0046.
+CODEN:         PIPSBD.
+Language:      eng.
+Year:          1993.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Pub. Country:  India.
+Class. Code:   A9135C.  A9125Q.  A9135G.  A9135E.
+Subject:       Earth-core.  Earth-structure.  geomagnetism. 
+               magnetic-field-effects.  terrestrial-electricity.
+Identifiers:   ball lightning.  Earth.  nonhomogeneous body.  radial motion. 
+               initially stressed solid spherical body.  magnetic field. 
+               azimuthal direction.  power-law variation.  elastic
+               parameters.  initial stress.  creep.  current density. 
+               implosion behaviour.  polar regions.
+Abstract:      The object of the present paper is to investigate the radial
+               motion of an initially stressed solid spherical body, assumed
+               to be non-homogeneous, isotropic and elastic, in the presence
+               of a magnetic field in the azimuthal direction.  The
+               non-homogeneity of the solid is characterised by assuming a
+               power-law variation of the elastic parameters only, and the
+               initial stress being hydrostatic in nature, produced by a slow
+               process of creep due to extra mass over the surface of the
+               Earth, which has been taken as the direct application of the
+               theory.  The final mathematical results on the displacement,
+               stresses the current density enunciate certain peculiarities
+               in the behaviour of the Earth's phenomenological changes, such
+               as the uncommon implosion behaviour in the deformation of the
+               Earth and the high concentration of the current density in the
+               polar regions.
+UW Load Date:  9308.
+                   ---- End of Citation ----
+
+
+
+
+
+
+
+                                                 Citation: 40 of 96
+Accession No.: 4431748.
+Author:        Grigorev-A-I.  Grigoreva-I-D.  Shiryaeva-S-O.
+Title:         Some characteristics of the initiation and termination of ball
+               lightning.
+Source:        Pis'ma v Zhurnal Tekhnicheskoi Fizika.  vol.18, no.23-24.  pp. 
+               46-8.  Dec. 1992.
+References:    10 refs.
+Trans. Title:  Soviet Technical Physics Letters.  vol.18, no.12.  pp. 781. 
+               Dec. 1992.
+ISSN:          0320-0108.  0360-120X.
+CODEN:         PZTFDD.  STPLD2.
+Language:      eng.
+Year:          1992.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).  EXPERIMENTAL (X).
+Report No.:    CCCC: 0360-120X/92/120781-01$02.00.
+Pub. Country:  Russia.  USA.
+Class. Code:   A9260P.
+Subject:       lightning.
+Identifiers:   initiation.  termination.  ball lightning.  statistical
+               analysis.  site of origin.
+Abstract:      In the last decade there has been a considerable revival of
+               interest on the part of researchers in such obscure
+               geophysical phenomena as ball lightning.  Up to now the major
+               source of new information on ball lightning has been analyses
+               of observers' descriptions of its appearance under natural
+               conditions.  Over several years the authors have collected
+               previously unknown descriptions of ball lightning and prepared
+               them for statistical analysis on a computer.  The number of
+               descriptions of ball lightning prepared for statistical
+               analysis has now reached 5315, which allows for a rigorous
+               analysis.  One of the most interesting and unexpected results
+               of analyzing these observational data on a computer has been
+               the discovery of a statistically significant difference among
+               characteristics of the termination of ball lightning that are
+               distinguished by the site of origin.
+UW Load Date:  9307.
+                   ---- End of Citation ----
+
+
+
+
+
+
+
+
+
+                                                 Citation: 41 of 96
+Accession No.: 4426348.
+Author:        Smirnov-B-M.
+Author Affil.: Inst. of High Temp., IVTAN, Moscow, Russia.
+Title:         Physics of ball lightning.
+Source:        Physics Reports.  vol.224, no.4.  pp. 151-236.  March 1993.
+References:    18 refs.
+ISSN:          0370-1573.
+CODEN:         PRPLCM.
+Language:      eng.
+Year:          1993.
+Pub. Type:     journal-article (J).
+Treatment:     GENERAL OR REVIEW (R).  THEORETICAL OR MATHEMATICAL (T). 
+               EXPERIMENTAL (X).
+Num. Indexing: temperature 2.0E+03 K.
+Report No.:    CCCC: 0370-1573/93/$24.00.
+Pub. Country:  Netherlands.
+Class. Code:   A9260P.  A9260W.  A9260K.
+Subject:       atmospheric-radiation.  atmospheric-temperature.  lightning. 
+               plasma.
+Identifiers:   plasma.  gas dynamics.  mechanics.  energetic radiative
+               processes.  ball lightning.  spotted structure.  glow. 
+               temperatures.  electrical processes.  sparse fractal
+               structure.  density.  knot of fractal fibers.  thermal waves. 
+               surface energy.  glowing hot zones.  2000 K.
+Abstract:      A description of the state of the ball lightning problem is
+               given.  The properties of ball lightning have been derived
+               from a statistical treatment of thousands of observations. 
+               The experimental modeling of ball lightning as a whole is
+               reviewed.  The analysis leads to the conclusion that ball
+               lightning has a rigid skeleton;  the spotted structure of its
+               glow follows from the large difference between the radiative
+               and mean temperatures of the ball lightning.  Ball lightning
+               is a many-sided phenomenon, and therefore has a number of
+               analogs which are related to its separate properties and which
+               can be modeled.  The mechanical gas-dynamical, energetic
+               radiative and electrical processes of ball lightning are
+               analyzed on the basis of such analogs and scientific
+               information.  According to this analysis, the substance
+               composing ball lightning has a sparse fractal structure,
+               similar to an aerogel, with the density of a gas and the
+               behavior of a solid or liquid.  The best model resembling the
+               ball lightning structure is a knot of fractal fibers.  The
+               glow of ball lightning is created by many thermal waves that
+               propagate along separate fibers, use the surface energy of the
+               structure, and form glowing hot zones with a temperature of
+               about 2000 K. A number of models considered allow one to study
+               the nature of ball lightning in detail.
+UW Load Date:  9307.
+                   ---- End of Citation ----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                 Citation: 42 of 96
+Accession No.: 4395364.
+Title:         IEEE Conference Record - Abstracts. 1992 IEEE International
+               Conference on Plasma Science (Cat. No.92CH3184-9).
+Source:        Published by: IEEE.  New York, NY, USA.  188 pp.  1992.
+Conf. Title:   IEEE Conference Record - Abstracts. 1992 IEEE International
+               Conference on Plasma Science (Cat. No.92CH3184-9).  Tampa, FL,
+               USA.  IEEE.  1-3 June 1992.
+ISBN:          078030716X.
+Language:      eng.
+Year:          1992.
+Pub. Type:     conference-proceeding (C).
+Treatment:     GENERAL OR REVIEW (R).  PRACTICAL OR PRODUCT REVIEW (P). 
+               THEORETICAL OR MATHEMATICAL (T).
+Pub. Country:  USA.
+Class. Code:   A0130C.
+Subject:       plasma.  plasma-applications.  plasma-devices.
+Identifiers:   electron source.  ion source.  electron beams.  environmental
+               issues.  plasma phenomena.  waves.  plasma diagnostics.  space
+               plasma diagnostics.  magnetic fusion.  plasma sources.  ion
+               beams.  intense beam microwaves.  microwave-plasma
+               interactions.  plasma focus.  ultrafast Z pinches.  plasma
+               processing.  electrical gas discharges.  fast opening
+               switches.  MHD.  launchers.  X-ray lasers.  computational
+               plasma science.  solid-state plasmas.  energy issues.  vacuum
+               electronics.  lighting.  gaseous electronics.  ball lightning. 
+               spherical plasmas.
+Abstract:      The following topics were dealt with: plasma phenomena and
+               waves;  plasma diagnostics;  space plasma diagnostics; 
+               magnetic fusion;  electron, ion, and plasma sources;  intense
+               electron and ion beams;  intense beam microwaves;  fast-wave
+               M/W devices;  microwave-plasma interactions;  plasma focus; 
+               ultrafast Z pinches;  plasma processing;  electrical gas
+               discharges;  fast opening switches;  MHD;  launchers;  X-ray
+               lasers;  computational plasma science;  solid-state plasmas
+               and switches;  environmental and energy issues;  vacuum
+               electronics;  plasmas for lighting;  gaseous electronics;  and
+               ball lightning and other spherical plasmas.
+UW Load Date:  9305.
+                   ---- End of Citation ----
+
+
+
+
+
+
+
+
+                                                 Citation: 43 of 96
+Accession No.: 4394538.
+Author:        Ignatovich-V-K.
+Author Affil.: JINR, Dubna, Russia.
+Title:         Electromagnetic model of ball lightning.
+Source:        Laser Physics.  vol.2, no.6.  pp. 991-6.  Nov. 1992.
+References:    19 refs.
+ISSN:          1054-660X.
+Language:      eng.
+Year:          1992.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Pub. Country:  USA.
+Class. Code:   A9260P.  A4255.  A9260D.
+Subject:       atmospheric-movements.  laser-theory.  lightning.  plasma. 
+               shock-waves.
+Identifiers:   frozen shock wave.  plasma.  ball lightning.  point explosion. 
+               laser radiation.  ponderomotive forces.  surface tension.  gas
+               pressure.  lifetime.  photon shell.  tunnel transitions. 
+               potential barrier.  electrostriction.  orbital forces. 
+               thermal energy.  captured gas.  electrical energy.  spherical
+               capacitor.  photon layer.
+Abstract:      A model of ball lightning in the form of a 'frozen' shock wave
+               from a point explosion which is blocked by laser radiation
+               along its front is proposed.  Under the high density of
+               photons, ponderomotive forces of surface tension
+               overcompensate the gas pressure.  The lifetime of the photon
+               shell of the ball is determined by the probability of tunnel
+               transitions of photons through the potential barrier formed by
+               the combined action of electrostriction and orbital forces. 
+               The energy of the lightning consists of the thermal energy of
+               the captured gas, the energy of photons confined in the
+               spherical layer, and the electrical energy of the spherical
+               capacitor with charge appearing during the explosion. 
+               Discharge of the capacitor is prevented by the photon layer. 
+               The feasibility of laboratory generation of ball lightning is
+               discussed.
+UW Load Date:  9305.
+                   ---- End of Citation ----
+
+
+
+
+
+
+
+
+
+                                                 Citation: 44 of 96
+Accession No.: 4385999.
+Author:        Yakovlenko-S-I.
+Author Affil.: Gen. Phys. Inst., Acad. of Sci., Moscow, Russia.
+Title:         On the possibility of fireball modeling using a laser.
+Source:        Laser Physics.  vol.2, no.2.  pp. 196-7.  April 1992.
+References:    7 refs.
+ISSN:          1054-660X.
+Language:      eng.
+Year:          1992.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Pub. Country:  USA.
+Class. Code:   A5250J.
+Subject:       plasma-production-and-heating-by-laser-beam.  plasma-theory.
+Identifiers:   nonideal plasma.  recombination.  ball lightning.  fireball
+               modeling.  clot.  operating medium.  quantum energy. 
+               ionization threshold.  theoretical investigations.
+Abstract:      The author proposes to form a clot of non-ideal plasma by
+               ionizing the operating medium (vapor) with a laser having a
+               quantum energy close to the ionization threshold.  According
+               to the latest theoretical investigations the plasma should
+               recombine in an anomalously long time.
+UW Load Date:  9305.
+                   ---- End of Citation ----
+
+
+
+
+
+
+
+                                                 Citation: 45 of 96
+Accession No.: 4376365.
+Author:        Yasui-K.
+Author Affil.: Dept. of Phys., Waseda Univ., Tokyo, Japan.
+Title:         Plasma fireballs fed by microwaves.
+Source:        Physics Letters A. vol.173, no.6.  pp. 451-5.  22 Feb. 1993.
+References:    9 refs.
+ISSN:          0375-9601.
+CODEN:         PYLAAG.
+Language:      eng.
+Year:          1993.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Num. Indexing: frequency 2.45E+09 Hz.
+Report No.:    CCCC: 0375-9601/93/$06.00.
+Pub. Country:  Netherlands.
+Class. Code:   A5250G.  A5225L.  A9260P.  A5250D.
+Subject:       lightning.  plasma-density.  plasma-production. 
+               plasma-radiofrequency-heating.  plasma-temperature.
+Identifiers:   density.  temperature.  heating.  UHF.  plasma fireballs. 
+               microwave interference.  2.45 GHz.
+Abstract:      Ohtsuki and Ofuruton (1991) reported the production of plasma
+               fireballs by microwave interference in air.  The experimental
+               conditions were as follows: 2.45 GHz, 5 kW (at maximum)
+               microwaves were guided through a rectangular waveguide into a
+               cylindrical cavity.  The cavity was 161 mm in diameter and 370
+               mm in length.  A plasma fireball usually appeared when the
+               microwave oscillator was turned on.  Its lifetime varied from
+               1 s to a few minutes.  This experiment is also important in
+               connection with ball lightning.  For example, Kapitza
+               suggested that ball lightning is produced by microwave
+               interference in air.  The present author has investigated
+               theoretically the experimental results and established a model
+               to calculate their physical quantities.
+UW Load Date:  9305.
+                   ---- End of Citation ----
+
+
+
+
+
+
+
+
+
+
+
+
+                                                 Citation: 46 of 96
+Accession No.: 4367262.
+Author:        Gaidukov-N-I.
+Title:         Motion of ball lightning in time-dependent air currents.
+Source:        Zhurnal Tekhnicheskoi Fiziki.  vol.62, no.6.  June 1992.
+References:    10 refs.
+Trans. Title:  Soviet Physics - Technical Physics.  vol.37, no.6.  pp.
+               729-31.  June 1992.
+ISSN:          0044-4642.  0038-5662.
+CODEN:         ZTEFA3.  SPTPA3.
+Language:      eng.
+Year:          1992.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Report No.:    CCCC: 0038-5662/92/060729-03$03.00.
+Pub. Country:  Russia.  USA.
+Class. Code:   A9260P.
+Subject:       lightning.
+Identifiers:   ball lightning.  time-dependent air currents.  equations of
+               motion.  external flows.
+Abstract:      The model used for stationary air flows also gives a
+               satisfactory description of the motion of ball lightning in
+               time-dependent air flows.  The only difference is that in the
+               time-dependent case, the equations of motion for the lightning
+               contain additional terms characterizing the rate of change of
+               the parameters of the flows.  This means that the model treats
+               all the features of external flows relevant to the motion of
+               ball lightning.
+UW Load Date:  9305.
+                   ---- End of Citation ----
+
+
+                                                 Citation: 47 of 96
+Accession No.: 4367248.
+Author:        Sall-S-A.
+Title:         On the nature of radiation emission from ball lightning.
+Source:        Zhurnal Tekhnicheskoi Fiziki.  vol.62, no.6.  June 1992.
+References:    20 refs.
+Trans. Title:  Soviet Physics - Technical Physics.  vol.37, no.6.  pp. 685-8. 
+               June 1992.
+ISSN:          0044-4642.  0038-5662.
+CODEN:         ZTEFA3.  SPTPA3.
+Language:      eng.
+Year:          1992.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Report No.:    CCCC: 0038-5662/92/060685-04$03.00.
+Pub. Country:  Russia.  USA.
+Class. Code:   A9260P.  A5280H.
+Subject:       corona.  heat-of-transformation.  light-scattering. 
+               lightning.
+Identifiers:   light scattering.  radiation emission.  ball lightning.  heat
+               of condensation.  water vapor.  streamer corona discharge. 
+               heat regeneration.  color diversity.  polarity.  water-droplet
+               aerosol.
+Abstract:      It is hypothesized that conversion of the heat of condensation
+               of water vapor into the radiation of a streamer corona
+               discharge takes place in the volume of ball lightning.  The
+               efficiency of this process is high due to heat regeneration. 
+               It is shown that the color diversity of ball lightning could
+               be connected with the polarity of the streamer corona and with
+               scattering of light by a water-droplet aerosol.  Correlations
+               between the color and other properties of ball lightning are
+               analyzed.
+UW Load Date:  9305.
+                   ---- End of Citation ----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                 Citation: 48 of 96
+Accession No.: 4358028.
+Author:        Gaidukov-N-I.
+Author Affil.: Pedagogical Inst., Orekhovo-Zuevo, Russia.
+Title:         Hydrodynamic model for the streaming of ball lightning through
+               a narrow opening in a flat barrier.
+Source:        Zhurnal Tekhnicheskoi Fiziki.  vol.62, no.2.  pp. 27-33.  Feb. 
+               1992.
+References:    15 refs.
+Trans. Title:  Soviet Physics - Technical Physics.  vol.37, no.2.  pp.
+               127-30.  Feb. 1992.
+ISSN:          0044-4642.  0038-5662.
+CODEN:         ZTEFA3.  SPTPA3.
+Language:      eng.
+Year:          1992.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Report No.:    CCCC: 0038-5662/92/020127-04$03.00.
+Pub. Country:  Russia.  USA.
+Class. Code:   A9260P.
+Subject:       hydrodynamics.  lightning.
+Identifiers:   hydrodynamic model.  wall.  hole.  aperture.  streaming.  ball
+               lightning.  narrow opening.  flat barrier.  annular air flow. 
+               high-velocity air flows.  deformed lightning.
+Abstract:      Streaming of ball lightning in an annular air flow through a
+               small opening in a flat barrier is analyzed on the basis of
+               observations of large lightning balls in high-velocity air
+               flows and the motion of deformed lightning passing through
+               such openings.
+UW Load Date:  9303.
+                   ---- End of Citation ----
+
+                                                 Citation: 49 of 96
+Accession No.: 4347365.
+Author:        Smirnov-B-M.
+Author Affil.: Inst. of High Temp., Russian Acad. of Sci., Moscow, Russia.
+Title:         Observational properties of ball lightning.
+Source:        Uspekhi Fizicheskii Nauk.  vol.162, no.8.  pp. 43-81.  Aug. 
+               1992.
+References:    110 refs.
+Trans. Title:  Soviet Physics - Uspekhi.  vol.35, no.8.  pp. 650-70.  Aug. 
+               1992.
+ISSN:          0042-1294.  0038-5670.
+CODEN:         UFNAAG.  SOPUAP.
+Language:      eng.
+Year:          1992.
+Pub. Type:     journal-article (J).
+Treatment:     BIBLIOGRAPHY (B).  THEORETICAL OR MATHEMATICAL (T).
+Report No.:    CCCC: 0038-5670/92/080650-21$03.00.
+Pub. Country:  Russia.  USA.
+Class. Code:   A9260P.
+Subject:       lightning.
+Identifiers:   ball lightning.  data banks.  formation.  evolution.
+Abstract:      Information from data banks involved in collecting results of
+               observations of ball lightning is presented.  The methods of
+               treatment of these data are analyzed, comparisons of data from
+               different data banks are made, and accuracy of determination
+               of various parameters is evaluated.  The resultant data and
+               their distributions over the main parameters of ball lightning
+               are described.  A brief analysis of laboratory analogs of ball
+               lightning is given, and also of the processes of formation and
+               evolution of ball lightning in nature and in the laboratory.
+UW Load Date:  9303.
+                   ---- End of Citation ----
+                                                 Citation: 50 of 96
+Accession No.: 4343771.
+Author:        Gaidukov-N-I.
+Title:         Equations of motion of ball lightning in a rocket airstream.
+Source:        Izvestiya Akademii Nauk SSSR, Mekhanika Zhidkosti i Gaza. 
+               vol.27, no.1.  pp. 174-7.  Jan.-Feb. 1992.
+References:    12 refs.
+Trans. Title:  Fluid Dynamics.  vol.27, no.1.  pp. 132-4.  Jan.-Feb. 1992.
+ISSN:          0568-5281.  0015-4628.
+CODEN:         IMZGAB.  FLDYAH.
+Language:      eng.
+Year:          1992.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Report No.:    CCCC: 0015-4628/92/2701-0132$12.50.
+Pub. Country:  Russia.  USA.
+Class. Code:   A8670G.  A9260P.
+Subject:       lightning.  plasma.  rockets.
+Identifiers:   ball lightning.  rocket airstream.  laws of motion.  flying
+               bodies.  hydrodynamic interaction.  kinematic equation of
+               motion.
+Abstract:      It is possible to investigate the laws of motion of ball
+               lightning in the airstreams created by various flying bodies. 
+               The author considers the hydrodynamic interaction between ball
+               lightning and a rocket traveling along a certain trajectory
+               under its own engine power, which can be simulated in the
+               first approximation by a moving point source of variable
+               intensity.  Since the lightning undergoes hydrodynamic
+               interaction with a source moving relative to the stationary
+               air medium, it is possible to assume that the stationary
+               source and the lightning moving relative to it are located in
+               a translational airstream variable in magnitude and direction,
+               whose velocity components upsilon /sub x/, upsilon /sub y/,
+               and upsilon /sub z/ are determined by the kinematic equation
+               of motion of the rocket.
+UW Load Date:  9303.
+                   ---- End of Citation ----
+
+
+
+
+
+
+
+
+
+
+
+                                                 Citation: 51 of 96
+Accession No.: 4318272.
+Author:        Lunev-V-I.
+Author Affil.: Tomsk Polytech. Inst., Russia.
+Title:         Luminous balls in Siberia and the Far East: phenomenology,
+               experiment, hypotheses.
+Source:        Izvestiya Vysshikh Uchebnykh Zavedenii, Fizika.  vol.35, no.3. 
+               pp. 65-86.  March 1992.
+References:    88 refs.
+Trans. Title:  Soviet Physics Journal.  vol.35, no.3.  pp. 256-74.  March
+               1992.
+ISSN:          0021-3411.  0038-5697.
+CODEN:         IVUFAC.  SOPJAQ.
+Language:      eng.
+Year:          1992.
+Pub. Type:     journal-article (J).
+Treatment:     BIBLIOGRAPHY (B).  EXPERIMENTAL (X).
+Report No.:    CCCC: 0038-5697/92/3503-0256$12.50.
+Pub. Country:  Russia.  USA.
+Class. Code:   A9260P.  A9330D.  A9650K.
+Subject:       lightning.  meteors.  plasma.
+Identifiers:   Russia.  USSR.  Soviet Far East.  AD 1980.  AD 1984 to 1986. 
+               plasma.  meteors.  ball lightning.  bolides.  plasmoids. 
+               surface layer.  atmosphere.  luminous balls.  experimental
+               simulation.  ultraviolet radiation.  radio-frequency
+               radiation.  laser radiation.  geodynamic stress.  thermal
+               stimulation.  radio-wave excitation.  electrical discharge.
+Abstract:      The paper generalizes the result of studies at the Laboratory
+               for Natural-Technogenetic Electromagnetic Systems at the Tomsk
+               Polytechnic Institute and members of the Tomsk Group for
+               Studies of Anomalous Phenomena in the Environment, which were
+               carried out from 1983 to 1989.  'Luminous balls', are taken to
+               mean quasispherical formations in the atmosphere that radiate
+               in the optical range of electromagnetic wavelengths and are
+               identified as ball lightning, bolides, plasmoids, and exotic
+               objects.  A 100-year historical retrospective review is made
+               of a series of phenomena observed by people in Siberia and the
+               Far East in the surface layer of the atmosphere in the form of
+               luminous balls, including events of 1908, 1984, 1985, and
+               1986, which have become known throughout the world.  A
+               description is given of attempts at experimental simulation of
+               luminous balls under natural and laboratory conditions by
+               means of various initiating factors: ultraviolet radiation,
+               radio-frequency radiation, laser radiation, geodynamic stress,
+               thermal stimulation, radio-wave excitation, and electrical
+               discharge.  Hypotheses explaining some of the properties of
+               luminous balls are formulated and discussed.
+UW Load Date:  9302.
+                   ---- End of Citation ----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                 Citation: 52 of 96
+Accession No.: 4309590.
+Author:        Maiorov-S-A.  Tkachev-A-N.  Yakovlenko-S-I.
+Author Affil.: Inst. of Basic Phys., Acad. of Sci., Russia.
+Title:         Nonergodic Coulomb plasma and a possible explanation of the
+               nature of ball lightning.
+Source:        Sbornik Kratkie Soobshcheniya po Fizike, AN SSSR, Fizicheskii
+               Institut im. P.N. Lebedeva.  no.10.  pp. 22-4.  1991.
+References:    5 refs.
+Trans. Title:  Soviet Physics - Lebedev Institute Reports.  no.10.  pp.
+               19-21.  1991.
+ISSN:          0364-2321.
+CODEN:         SPLRD6.
+Language:      eng.
+Year:          1991.  1991.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Report No.:    CCCC: 0364-2321/91/$20.00.
+Pub. Country:  Russia.  USA.
+Class. Code:   A5220H.  A9260P.  A5220F.  A5225D.
+Subject:       ion-recombination.  lightning.  plasma-collision-processes. 
+               plasma-kinetic-theory.
+Identifiers:   ball lightning.  nonergodic classical Coulomb plasmas. 
+               recombination.
+Abstract:      It is shown that recent studies of nonergodic classical
+               Coulomb plasmas suggest that it is possible to explain the
+               absence (or anomalous delay) of recombination in the plasma of
+               ball lighting.
+                   ---- End of Citation ----
+
+
+
+                                                 Citation: 53 of 96
+Accession No.: 4290591.
+Author:        Maiorov-S-A.  Tkachev-A-N.  Yakovlenko-S-I.
+Author Affil.: Inst. of Gen. Phys., Acad. of Sci., Russia.
+Title:         Certain properties of an electrically insulated Coulomb
+               plasma.  Numerical simulation of microfields and thermodynamic
+               properties. The problem of ball lightning.
+Source:        Izvestiya Vysshikh Uchebnykh Zavedenii, Fizika.  vol.35, no.2. 
+               pp. 10-23.  Feb. 1992.
+References:    24 refs.
+Trans. Title:  Soviet Physics Journal.  vol.35, no.2.  pp. 108-19.  Feb.
+               1992.
+ISSN:          0021-3411.  0038-5697.
+CODEN:         IVUFAC.  SOPJAQ.
+Language:      eng.
+Year:          1992.  1992.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Report No.:    CCCC: 0038-5697/92/3502-0108$12.50.
+Pub. Country:  Russia.  USA.
+Class. Code:   A5265.  A5225K.  A9260P.
+Subject:       Debye-Huckel-theory.  lightning.  plasma-simulation.
+Identifiers:   quasi steady state.  many body dynamics.  numerical
+               simulation.  electrically insulated Coulomb plasma. 
+               thermodynamic properties.  relaxation time.  Debye screening. 
+               electron transit time.  Debye-Huckel theory.  microfields. 
+               electron turning distance.  quasi-binary theory.  ball
+               lightning.  recombination.
+Abstract:      Many-body dynamics is used to study the (quasi-)steady state
+               of a classical Coulomb plasma.  The shortest relaxation time
+               in such a plasma, for both the Debye screening and the
+               thermodynamic properties, is the electron transit time over
+               the average distance between ions.  The steady-state energy of
+               the Coulomb interaction of the particles and the steady-state
+               potential near a fixed charge can be described well by the
+               Debye-Huckel theory, even if there is less than a single
+               particle in a Debye sphere, on the average.  Distributions of
+               instantaneous values of the microfields in the plasma are
+               derived.  The results calculated for the electron turning
+               distance are compared with the results of the quasi-binary
+               theory.  An attempt is made to link the anomalously long
+               lifetime of the plasma of ball lightning to a retardation of
+               the recombination of a classical Coulomb plasma in the absence
+               of a stochastic external agent.
+                   ---- End of Citation ----
+
+
+
+                                                 Citation: 54 of 96
+Accession No.: 4268795.
+Author:        Smirnov-B-M.
+Author Affil.: Inst. of High Temp., Moscow, Russia.
+Title:         Propagation of thermal waves along a fractal filament.
+Source:        Zhurnal Tekhnicheskoi Fiziki.  vol.61, no.12.  pp. 82-7.  Dec. 
+               1991.
+References:    16 refs.
+Trans. Title:  Soviet Physics - Technical Physics.  vol.36, no.12.  pp. 
+               1376-9.  Dec. 1991.
+ISSN:          0044-4642.  0038-5662.
+CODEN:         ZTEFA3.  SPTPA3.
+Language:      eng.
+Year:          1991.  1991.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Report No.:    CCCC: 0038-5662/91/121376-04$03.00.
+Pub. Country:  Russia.  USA.
+Class. Code:   A0340K.  A0560.  A4410.
+Subject:       disperse-systems.  elastic-waves.  fractals.  heat-conduction. 
+               porous-materials.  transport-processes.  wave-propagation.
+Identifiers:   heat conduction.  elastic wave.  fractal filament.  aerogels. 
+               fractal filaments.  specific area.  internal surface. 
+               propagation.  thermal structural compression wave.  ball
+               lightning.
+Abstract:      The author considers the structural compression of aerogels
+               and fractal filaments, which results in a decrease in the
+               specific area of the internal surface.  The author considers
+               the mechanisms of this process and obtains an expression for
+               its rate.  The author analyzes the propagation of a thermal
+               structural compression wave along a fractal filament and
+               obtains estimates for its parameters.  This process is
+               important in the physics of ball lightning.
+                   ---- End of Citation ----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                 Citation: 55 of 96
+Accession No.: 4268767.
+Author:        Gaidukov-N-I.
+Author Affil.: Orekhovo-Zuevskii Pedagogical Inst., Russia.
+Title:         Hydrodynamic model of the passage of ball lightning through a
+               narrow slot in a flat screen.
+Source:        Zhurnal Tekhnicheskoi Fiziki.  vol.61, no.11.  pp. 49-56. 
+               Nov.  1991.
+References:    19 refs.
+Trans. Title:  Soviet Physics - Technical Physics.  vol.36, no.11.  pp. 
+               1223-7.  Nov. 1991.
+ISSN:          0044-4642.  0038-5662.
+CODEN:         ZTEFA3.  SPTPA3.
+Language:      eng.
+Year:          1991.  1991.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Report No.:    CCCC: 0038-5662/91/111223-05$03.00.
+Pub. Country:  Russia.  USA.
+Class. Code:   A9260P.
+Subject:       lightning.
+Identifiers:   hydrodynamic model.  equations of motion.  ball lightning. 
+               narrow slot.  flat screen.  air currents.
+Abstract:      The fundamental equations describing the motion of ball
+               lightning in air currents through a narrow slot in a screen
+               are constructed.  This is done for specially selected models
+               by using the results of numerous observations of ball
+               lightning motion in air currents through wide and narrow slots
+               in a flat screen.  It is shown that the attraction of ball
+               lightning to the screen slot in the presence of air drafts of
+               arbitrary direction and its subsequent passage through the
+               slot are purely hydrodynamical effects.
+                   ---- End of Citation ----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                 Citation: 56 of 96
+Accession No.: 4258445.
+Author:        Endean-V-G.
+Author Affil.: Sch. of Eng. & Comput. Sci., Durham Univ., UK.
+Title:         Electromagnetic field energy containment.
+Source:        IEE Proceedings A (Science, Measurement and Technology). 
+               vol.139, no.4.  pp. 137-40.  July 1992.
+References:    9 refs.
+ISSN:          0960-7641.
+CODEN:         IPATEI.
+Language:      eng.
+Year:          1992.
+Pub. Type:     journal-article (J).
+Treatment:     APPLICATION (A).  THEORETICAL OR MATHEMATICAL (T).
+Report No.:    CCCC: 0960-7641/92/$3.00+0.00.
+Pub. Country:  UK.
+Class. Code:   A5260.  A5255.  A4190.  A9260P.  A8640.  B5180W.  B8470.
+Subject:       electromagnetic-fields.  energy-storage-devices.  lightning. 
+               plasma.  plasma-confinement.  relativistic-plasmas.
+Identifiers:   electromagnetic virial relation.  cylindrical geometry.  field
+               energy containment.  tensile strength.  virial constraint. 
+               energy storage devices.  dipolar rotating electric field
+               model.  ball lightning.
+Abstract:      An electromagnetic virial relation in cylindrical geometry is
+               derived which shows that limits on field energy containment
+               imposed by the tensile strength of containment structures can
+               be circumvented.  The result is illustrated by two possible
+               machines for which there is a much weakened theoretical virial
+               constraint on the containment of field energy and which should
+               be practically realisable with low dissipation.  Not only do
+               these machines represent potentially very useful high energy
+               storage devices given development of appropriate technology,
+               but also, one of them provides helpful insights into the
+               dipolar rotating electric field model of ball lightning with
+               confinement of electromagnetic field energy by atmospheric
+               pressure.
+                   ---- End of Citation ----
+
+
+
+
+
+
+
+
+
+
+
+                                                 Citation: 57 of 96
+Accession No.: 4220741.
+Author:        Arnhoff-G.
+Title:         Is there yet an explanation of ball lighting?.
+Source:        European Transactions on Electrical Power Engineering.  vol.2,
+               no.3.  pp. 137-42.  May-June 1992.
+References:    8 refs.
+ISSN:          0939-3072.
+CODEN:         ETEEB8.
+Language:      eng.
+Year:          1992.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Pub. Country:  Germany.
+Class. Code:   A9260P.
+Subject:       lighting.
+Identifiers:   spherical radiation field.  field strength distribution. 
+               self-restricted radiation field.  ball lighting.  Helmholtz
+               equation.  thunderstorms.
+Abstract:      A singular solution of the Helmholtz equation is described,
+               which delivers a spherical field of radiation.  This field is
+               surrounded by an infinite number of ball sockets.  These
+               spherical areas are separated by surfaces, which, by special
+               arrangement of the field strengths, cannot be penetrated by
+               their own radiation.  A further aspect of this field is, that
+               it does not expand with time.  On the surface of the central
+               sphere, being a characteristic of the Helmholtz equation,
+               another solution, which is decreasing continually toward great
+               distances, may be attached.  So one receives a field of
+               radiation, which could be used for the explanation of ball
+               lightning.  According to this theory, ball lightning is a
+               self-restricted field of radiation.  Numerical results of the
+               distribution of field strengths for a particular example are
+               given and for the energy of ball lightning to be expected
+               during thunderstorms.
+                   ---- End of Citation ----
+
+
+
+
+
+
+
+
+
+
+
+
+                                                 Citation: 58 of 96
+Accession No.: 4188188.
+Author:        Kulakov-A-V.  Rumyantsev-A-A.
+Author Affil.: State Tech. Univ., Leningrad, Russia.
+Title:         Ball lightning as a quantum condensate.
+Source:        Doklady Akademii Nauk SSSR.  vol.320, no.4-6.  pp. 1103-6. 
+               Oct. 1991.
+References:    6 refs.
+Trans. Title:  Soviet Physics - Doklady.  vol.36, no.10.  pp. 701-2.  Oct. 
+               1991.
+ISSN:          0002-3264.  0038-5689.
+CODEN:         DANKAS.  SPHDA9.
+Language:      eng.
+Year:          1991.  1991.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Report No.:    CCCC: 0038-5689/91/100701-02$02.00.
+Pub. Country:  Russia.  USA.
+Class. Code:   A9260P.
+Subject:       lightning.
+Identifiers:   quantum condensate.  ball lightning.  nondegenerate plasma. 
+               plasma temperature.  de Broglie wavelength.  thermal
+               electrons.  inter-ion distance.  intercenter interference
+               overlap.  electron wave functions.  plasma condensate. 
+               surface tension forces.  electromagnetic plasma reactions.
+Abstract:      A physical mechanism for the formation of ball lightning is
+               proposed, which is based on long-range quantum forces arising
+               in a relatively dense, low-temperature, but nondegenerate
+               plasma.  If, as the plasma temperature decreases, the de
+               Broglie wavelength of the thermal electrons is several times
+               smaller than the inter-ion distance, a factor due to the
+               intercenter interference overlap of the electron wave
+               functions becomes significant.  The quantum forces generated
+               by this overlap lead to collective 'coupling' of the
+               particles, at which the system energy decreases (the excess is
+               radiated).  As a result, a plasma condensate is formed,
+               displaying the properties of a liquid, including, in
+               particular, surface tension forces.  At the same time, the
+               electromagnetic plasma reactions are maintained in the
+               condensate.
+                   ---- End of Citation ----
+
+
+
+
+
+
+
+                                                 Citation: 59 of 96
+Accession No.: 4177987.
+Author:        Yakovlenko-S-I.
+Author Affil.: Inst. of Gen. Phys., Acad. of Sci., Moscow, USSR.
+Title:         Possibility of simulating ball lightning with a laser.
+Source:        Kvantovaya Elektronika, Moskva.  vol.19, no.1.  pp. 5-6.  Jan. 
+               1992.
+References:    7 refs.
+Trans. Title:  Soviet Journal of Quantum Electronics.  vol.22, no.1.  pp.
+               1-2.  Jan. 1992.
+ISSN:          0368-7147.  0049-1748.
+CODEN:         KVEKA3.  SJQEAF.
+Language:      eng.
+Year:          1992.  1992.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Report No.:    CCCC: 0049-1748/92/010001-02$06.00.
+Pub. Country:  Russia.  USA.
+Class. Code:   A5250J.  A9260P.
+Subject:       lightning.  photoionisation. 
+               plasma-production-and-heating-by-laser-beam.
+Identifiers:   laser beam simulated ball lightning.  anomalously slow plasma
+               recombination.  nonideal plasma bunch.  working medium. 
+               vapor.  photon energy.  ionization energy.
+Abstract:      A proposal is made to form a nonideal plasma bunch by ionizing
+               a working medium (a vapor) with a laser having a photon energy
+               close to the ionization energy.  Recent theoretical
+               investigations indicate that such a plasma should recombine
+               anomalously slowly.
+                   ---- End of Citation ----
+
+
+                                                 Citation: 60 of 96
+Accession No.: 4172883.
+Author:        Kadomtsev-B-B.
+Author Affil.: IV Kurchatov Inst. of Atomic Energy, Moscow, USSR.
+Title:         Ball lightning as a phenomenon of self-organization.
+Source:        Journal of the Moscow Physical Society.  vol.1, no.4.  pp. 
+               335-40.  Nov. 1991.
+References:    4 refs.
+ISSN:          0960-0175.
+CODEN:         JMPSEC.
+Language:      eng.
+Year:          1991.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Report No.:    CCCC: 0960-0175/91/040335+06$03.50.
+Pub. Country:  UK.
+Class. Code:   A9260P.
+Subject:       lightning.
+Identifiers:   magnetic field generation.  self-organization.  model.  ball
+               lightning.  electric field generation.  dust plasma
+               self-organization.  gas accumulator.  self-consistent fields.
+Abstract:      A model of ball lightning is proposed in which both magnetic
+               and electric field generation is considered as a kind of dust
+               plasma self-organization, and the ball lightning matter
+               represents a sort of gas accumulator that can generate
+               self-consistent fields.
+                   ---- End of Citation ----
+
+
+
+
+
+                                                 Citation: 61 of 96
+Accession No.: 4164611.
+Author:        Jennison-R-C.
+Author Affil.: Electron. Lab., Kent Univ., Canterbury, UK.
+Title:         Relativistic phase-locked cavity model of ball lightning.
+Source:        Published by: Sunderland Polytechnic.  Sunderland, UK.  1990.
+Conf. Title:   British Society for the Philosophy of Science: Physical
+               Interpretations of Relativity Theory II. Proceedings.  London,
+               UK.  pp. 359-67 vol.3.  3-8 Sept. 1990.
+Language:      eng.
+Year:          1990.
+Pub. Type:     conference-proceeding (C).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Pub. Country:  UK.
+Class. Code:   A9260P.  A4110F.
+Subject:       cavity-resonators.  lightning.
+Identifiers:   ball lightning.  relativistic phase-locked cavities.  vector
+               potential.
+Abstract:      The general principles of relativistic phase-locked cavities
+               are introduced and this is followed by a general summary of
+               the properties of ball lightning.  Particular significance is
+               attached to the events recorded by Cahil on video film.  It is
+               demonstrated that Cahill's ball lightning closely resembles
+               the structure of the fourth eigenvalue of a relativistic
+               phase-locked cavity and it is noted that the entity should be
+               surrounded by a vector potential which could enable it to
+               detect and avoid obstacles in its path.
+                   ---- End of Citation ----
+
+
+
+
+                                                 Citation: 62 of 96
+Accession No.: 4101330.
+Author:        Grigorev-A-I.  Shiryaeva-S-O.  Grigoreva-I-D.  Lazaryants-A-E.
+               Mukhina-E-I.
+Author Affil.: Yaroslavl' State Univ., USSR.
+Title:         The possibility of ball lightning splitting in two.
+Source:        Zhurnal Tekhnicheskoi Fiziki.  vol.61, no.4.  pp. 25-31. 
+               April 1991.
+References:    14 refs.
+Trans. Title:  Soviet Physics - Technical Physics.  vol.36, no.4.  pp. 385-9. 
+               April 1991.
+ISSN:          0044-4642.  0038-5662.
+CODEN:         ZTEFA3.  SPTPA3.
+Language:      eng.
+Year:          1991.  1991.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Report No.:    CCCC: 0038-5662/91/040385-05$03.00.
+Pub. Country:  USSR.  USA.
+Class. Code:   A9260P.
+Subject:       electric-charge.  electrical-conductivity. 
+               electrohydrodynamics.  jets.  lightning.
+Identifiers:   volume distribution.  ball-lightning splitting.  electric
+               charge.  surface distribution.  electrohydrodynamic
+               instability.  jets.  electrical conductivity.
+Abstract:      If the electric charge of ball lightning is in a surface
+               distribution, the ball could not split in two as the result of
+               an electrohydrodynamic instability.  On the other hand, it
+               would be capable of ejecting its material in jets.  If the
+               charge is instead distributed over the volume, the opposite
+               would be true: ball lightning could not send out jets, but it
+               could split in two.  Since both responses of this natural
+               phenomenon to an external agent are mentioned in the reports
+               of eyewitnesses, it can be concluded that the electrical
+               conductivity of the material making up ball lightning is poor. 
+               In this case, the ball lightning could undergo a splitting in
+               the initial stage of its existence, while in the final stage
+               it could send out jets.
+                   ---- End of Citation ----
+
+
+
+
+
+
+
+
+
+                                                 Citation: 63 of 96
+Accession No.: 4101286.
+Author:        Smirnov-B-M.
+Author Affil.: Inst. of High Temp., Acad. of Sci., USSR.
+Title:         A tangle of fractal fibers as a new state of matter.
+Source:        Uspekhi Fizicheskii Nauk.  vol.161, no.8.  pp. 141-53.  Aug. 
+               1991.
+References:    47 refs.
+Trans. Title:  Soviet Physics - Uspekhi.  vol.34, no.8.  pp. 711-16.  Aug. 
+               1991.
+ISSN:          0042-1294.  0038-5670.
+CODEN:         UFNAAG.  SOPUAP.
+Language:      eng.
+Year:          1991.  1991.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Report No.:    CCCC: 0038-5670/91/080711-06$01.00.
+Pub. Country:  USSR.  USA.
+Class. Code:   A5250.  A6470F.  A5225.
+Subject:       evaporation.  explosions.  fractals.  plasma-production. 
+               plasma-theory.
+Identifiers:   fractal fibers.  fractal tangle.  evaporation.  weakly ionized
+               atomic vapor.  surface.  external electric field. 
+               tangle-globule phase transition.  long polymer fiber. 
+               self-intersections.  explosive nature.  high surface energy. 
+               nanometer particles.  thermal waves.  hot spots.  ball
+               lightning.
+Abstract:      A system of fractal fibers (a fractal tangle) is formed as a
+               result of evaporation of a weakly ionized atomic vapor from a
+               surface in an external electric field.  A fractal tangle has
+               the density of a gas but the behavior of a liquid or solid. 
+               The tangle-globule phase transition in this system is similar
+               to the transition in a long polymer fiber with
+               self-intersections.  The explosive nature of a fractal tangle
+               is due to its high surface energy, since the system consists
+               of nanometer particles and a significant fraction of the
+               molecules are on the surfaces of the particles.  An explosion
+               of a fractal tangle is accompanied by a large number of
+               thermal waves propagating along individual fractal fibers. 
+               The result is a large number of hot spots moving inside the
+               system.  There is a connection between fractal tangles and
+               ball lightning.
+                   ---- End of Citation ----
+
+
+
+
+
+                                                 Citation: 64 of 96
+Accession No.: 4094127.
+Author:        Eletskii-A-V.  Smirnov-B-M.
+Author Affil.: Soviet Inf. Center on Ball Lightning, Acad. of Sci., Ivtan,
+               Moscow, USSR.
+Title:         Kinetics of prebreakdown phenomena in atmospheric air.
+Source:        Journal of Physics D (Applied Physics).  vol.24, no.12.  pp. 
+               2175-8.  14 Dec. 1991.
+References:    12 refs.
+ISSN:          0022-3727.
+CODEN:         JPAPBE.
+Language:      eng.
+Year:          1991.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Sub./Material: O3/el O/el.
+Report No.:    CCCC: 0022-3727/91/122175+04$03.50.
+Pub. Country:  UK.
+Class. Code:   A9260H.  A9260P.  A9260Q.  A5280.  A8240W.  A5150.  A9260L.
+Subject:       atmospheric-chemistry.  atmospheric-electricity. 
+               atmospheric-ionisation.  electric-breakdown-of-gases.  ozone. 
+               thunderstorms.
+Identifiers:   electrical breakdown.  prebreakdown phenomena.  atmospheric
+               air.  electric strength.  elementary processes.  electric
+               field.  electron density.  kinetic instability.  threshold
+               condition.  ionization.  electron impact.  mutual ion
+               recombination.  thunderstorms.  O/sub 3/.
+Abstract:      Elementary processes in the atmosphere involving ozone, which
+               lead to a reduction of the electric strength are considered. 
+               It is shown that elementary processes in the atmosphere under
+               the action of an electric field lead to ozone accumulation
+               which, in turn, causes an increase of the electron density. 
+               Electrical breakdown of atmospheric air is considered to be a
+               result of the onset of kinetic instability.  The threshold
+               condition for this instability connects the background ozone
+               number density and the electric field strength.  This
+               connection is derived on the basis of a simplified model which
+               includes the processes of formation and destruction of both
+               negative oxygen ions and ozone molecules, as well as the
+               ionization of molecules by electron impact and mutual ion
+               recombination.  Evidently, the processes considered contribute
+               to a reduction in the electrical strength of the atmosphere
+               during thunderstorms.
+                   ---- End of Citation ----
+
+
+
+
+                                                 Citation: 65 of 96
+Accession No.: 4066252.
+Author:        Zaitsev-I-V.  Zaitsev-S-V.
+Title:         Electrostatic model of ball lightning.
+Source:        Pis'ma v Zhurnal Tekhnicheskoi Fizika.  vol.17, no.7-8.  pp. 
+               34-7.  April 1991.
+References:    5 refs.
+Trans. Title:  Soviet Technical Physics Letters.  vol.17, no.4.  pp. 249-50. 
+               April 1991.
+ISSN:          0320-0108.  0360-120X.
+CODEN:         PZTFDD.  STPLD2.
+Language:      eng.
+Year:          1991.  1991.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Report No.:    CCCC: 0360-120X/91/040249-02$02.00.
+Pub. Country:  USSR.  USA.
+Class. Code:   A9260P.  A4110D.  A5280.
+Subject:       discharges-electric.  electrostatics.  lightning.
+Identifiers:   electrostatic model.  ball lightning.  dielectric
+               permittivity.  discharges.  ball lightning.  positive electric
+               charge.  normal tensile stress.  external pressure. 
+               atmosphere.  charged sphere.
+Abstract:      The authors propose a model based on the hypothesis that ball
+               lightning is the analog of a soap bubble carrying a positive
+               electric charge.  They find the condition under which this
+               structure is stable.  A normal tensile stress acts on the
+               surface of the charged sphere.  This stress must be balanced
+               by external pressure.  Such a pressure can be produced by an
+               atmosphere consisting of polarized water molecules which
+               collect around the charged sphere.  The authors shall check
+               the hypothesis with a theoretical calculation.
+                   ---- End of Citation ----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                 Citation: 66 of 96
+Accession No.: 4054330.
+Author:        Avramenko-R-F.  Bakhtin-B-I.  Nikolaeva-V-I.  Poskacheeva-L-P.
+               Shirokov-N-N.
+Title:         A study of the plasma formations produced in an erosion
+               discharge.
+Source:        Zhurnal Tekhnicheskoi Fiziki.  vol.60, no.12.  pp. 57-64. 
+               Dec.  1990.
+References:    14 refs.
+Trans. Title:  Soviet Physics - Technical Physics.  vol.35, no.12.  pp. 
+               1396-400.  Dec. 1990.
+ISSN:          0044-4642.  0038-5662.
+CODEN:         ZTEFA3.  SPTPA3.
+Language:      eng.
+Year:          1990.  1990.
+Pub. Type:     journal-article (J).
+Treatment:     EXPERIMENTAL (X).
+Report No.:    CCCC: 0038-5662/90/121396-05$03.00.
+Pub. Country:  USSR.  USA.
+Class. Code:   A5250.  A5280.
+Subject:       discharges-electric.  plasma-production.
+Identifiers:   plasma formations.  erosion discharge.  cylindrical channel. 
+               dielectric walls.  plasmoids.  still atmosphere.  gas flow.
+Abstract:      A study is made of the plasma formations (plasmoids) that can
+               be obtained using an erosion discharge in a cylindrical
+               channel with dielectric walls.  It is found that for certain
+               geometries of the discharge unit and discharge conditions one
+               can obtain a plasma with an unusual set of properties,
+               reminiscent of those of ball lightning.  It is shown that the
+               plasmoids obtained are capable of autonomous existence in a
+               still atmosphere and in a gas flow, and that they are
+               accelerated in the latter to a velocity of approximately 200
+               m/s.
+                   ---- End of Citation ----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                 Citation: 67 of 96
+Accession No.: 3994926.
+Author:        Han-Ming-Wu.  Oakes-M-E.
+Author Affil.: CCAST World Lab., Beijing, China.
+Title:         Magnetohydrodynamics equilibrium of a self-confined elliptical
+               plasma ball.
+Source:        Physics of Fluids B (Plasma Physics).  vol.3, no.8, pt.1.  pp. 
+               2113-16.  Aug. 1991.
+References:    8 refs.
+ISSN:          0899-8221.
+CODEN:         PFBPEI.
+Language:      eng.
+Year:          1991.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Report No.:    CCCC: 0899-8221/91/082113-04$02.00.
+Contract No.:  N00014-89-J-1181.  AT&T IL SOFTWARE; NASA NAG 1-138.  88 S
+               698.  NSF MIP-8710878; DMC-8619595, 8809569.  CEC 3105.
+Pub. Country:  USA.
+Class. Code:   A9260P.  A5230.
+Subject:       lightning.  partial-differential-equations.  plasma. 
+               plasma-magnetohydrodynamics.  variational-techniques.
+Identifiers:   MHD equilibrium.  self-confined elliptical plasma ball. 
+               variational principle.  elliptical lightning.  partial
+               differential equations.  arbitrary boundary shape.  nonlinear
+               deformations.  pressure distribution.  poloidal current. 
+               oblate self-confined plasma ball.  elongated plasma ball. 
+               internal pressure.  magnetic field.  ambient pressure.
+Abstract:      A variational principle is applied to the problem of
+               magnetohydrodynamics (MHD) equilibrium of a self-contained
+               elliptical plasma ball, such as elliptical lightning.  The
+               principle is appropriate for an approximate solution of
+               partial differential equations with arbitrary boundary shape. 
+               The method reduces the partial differential equation to a
+               series of ordinary differential equations and is especially
+               valuable for treating boundaries with nonlinear deformations. 
+               The calculations conclude that the pressure distribution and
+               the poloidal current are more uniform in an oblate
+               self-confined plasma ball than that of an elongated plasma
+               ball.  The ellipticity of the plasma ball is obviously
+               restricted by its internal pressure, magnetic field, and
+               ambient pressure.  Qualitative evidence is presented for the
+               absence of sighting of elongated ball lightning.
+                   ---- End of Citation ----
+
+
+
+
+                                                 Citation: 68 of 96
+Accession No.: 3982341.
+Author:        Janhunen-P.
+Author Affil.: Finnish Meterol. Inst., Helsinki, Finland.
+Title:         Magnetically dominated plasma models of ball lightning.
+Source:        Annales Geophysicae. Atmospheres, Hydrospheres and Space
+               Sciences.  vol.9, no.6.  pp. 377-80.  June 1991.
+References:    7 refs.
+ISSN:          0992-7689.
+CODEN:         ANNGEA.
+Language:      eng.
+Year:          1991.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Contract No.:  N00014-89-J-1181.  AT&T IL SOFTWARE; NASA NAG 1-138.  88 S
+               698.  NSF MIP-8710878; DMC-8619595, 8809569.
+Pub. Country:  France.
+Class. Code:   A9260P.  A5290.
+Subject:       lightning.  plasma.
+Identifiers:   atmosphere.  magnetically dominated plasma model.  MHD force
+               balance equation.  ball lightning.  magnetohydrodynamic. 
+               magnetic energy.  weakly ionized plasma models.  lifetime.
+Abstract:      Ball lightning models based on the magnetohydrodynamic (MHD)
+               force-balance equation have been proposed by earlier authors. 
+               An upper limit of the magnetic energy for these models is
+               presented.  The possibility of weakly ionized plasma models is
+               considered with estimates on lifetime and total energy.  The
+               energy limitation disappears, but the lifetime is found to be
+               too short if 'reasonable' values for various other parameters
+               are used.  The possibilities to circumvent these restrictions
+               are analyzed briefly, and a rough energy-lifetime relation is
+               presented.
+                   ---- End of Citation ----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                 Citation: 69 of 96
+Accession No.: 3976776.
+Author:        Witalis-E-A.
+Author Affil.: Swedish Defence Res. Establ., Stockholm, Sweden.
+Title:         Hall effect magnetohydrodynamics and applications.
+Source:        Published by: IEEE.  New York, NY, USA.  1990.
+References:    4 refs.
+Conf. Title:   Conference Record - Abstracts. 1990 IEEE International
+               Conference on Plasma Science (Cat. No.90CH2857-1).  Oakland,
+               CA, USA.  pp. 168.  IEEE.  21-23 May 1990.
+Language:      eng.
+Year:          1990.
+Pub. Type:     conference-proceeding (C).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Contract No.:  N00014-89-J-1181.  AT&T IL SOFTWARE; NASA NAG 1-138.  88 S
+               698.  NSF MIP-8710878; DMC-8619595, 8809569.
+Pub. Country:  USA.
+Class. Code:   A5230.
+Subject:       plasma-magnetohydrodynamics.
+Identifiers:   Hall effect magnetohydrodynamics.  magnetized plasma. 
+               quasi-neutrality plasma property.  plasma total torque tensor. 
+               Larmor gyrations.  ion fluid.  tokamaks.  ball lightning.
+Abstract:      Summary form only given.  It is pointed out that, for a
+               magnetized plasma, the overriding quasi-neutrality plasma
+               property is actually a severe restriction, usually overlooked,
+               on the charged species motion.  It is shown that
+               quasi-neutrality n/sub e/=n/sub i/=n/2 alone makes the plasma
+               total torque tensor act preferentially on the ions whenever
+               the electrons are free to perform Larmor gyrations.  The ion
+               fluid will then have conservation of its canonical, i.e. 
+               matter-plus-field, angular momentum so that action on its
+               matter part has its response reaction on the magnetic vector
+               potential field part.  Several applications of this theory are
+               examined, including tokamaks and ball lightning.
+                   ---- End of Citation ----
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                 Citation: 70 of 96
+Accession No.: 3946018.
+Author:        Mesenyashin-A-I.
+Author Affil.: Lab. of Magnetic & Electr. Methods of Ore Process., Leningrad,
+               USSR.
+Title:         Electrostatic and bubble nature of ball lightning.
+Source:        Applied Physics Letters.  vol.58, no.23.  pp. 2713-15.  10
+               June 1991.
+References:    11 refs.
+ISSN:          0003-6951.
+CODEN:         APPLAB.
+Language:      eng.
+Year:          1991.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Sub./Material: H2O/bin H2/bin H/bin O/bin.
+Report No.:    CCCC: 0003-6951/91/232713-03$02.00.
+Pub. Country:  USA.
+Class. Code:   A9260P.
+Subject:       bubbles.  electrostatics.  lightning.
+Identifiers:   electrostatics.  lifetime.  bubble.  ball lightning.  bipolar
+               charged shells.  energy.  orientation.  dipolar water
+               molecules.  formation.  stability.  motion.  H/sub 2/O.
+Abstract:      Ball lightnings are considered to be electrostatically bipolar
+               charged shells of orderly oriented water molecules.  The time
+               of life of this model for ball lightnings of typical sizes is
+               shown to exceed tens of seconds, the energy being caused by
+               orientation of dipolar water molecules.  Issues pertaining to
+               ball lightning formation, stability, and specialties of motion
+               are discussed.
+                   ---- End of Citation ----
+
+                                                 Citation: 71 of 96
+Accession No.: 3883322.
+Author:        Ohtsuki-Y-H.  Ofuruton-H.
+Author Affil.: Dept. of Phys., Waseda Univ., Tokyo, Japan.
+Title:         Plasma fireballs formed by microwave interference in air.
+Source:        Nature.  vol.350, no.6314.  pp. 139-41.  14 March 1991.
+References:    15 refs.
+ISSN:          0028-0836.
+CODEN:         NATUAS.
+Language:      eng.
+Year:          1991.
+Pub. Type:     journal-article (J).
+Treatment:     EXPERIMENTAL (X).
+Num. Indexing: frequency 2.45E+09 Hz.  power 5.0E+03 W.
+Report No.:    CCCC: 0028-0836/91/$1.00+0.10.
+Contract No.:  NSF IRI 8822031.  NSF IRI 87 18766.  NSF CCR 88-09437. 
+               RP2581-2.  RP1493-4.  RP2892-6.  RP1261-13.  RP1261-13. 
+               RP2034-34.  RP982.  RP1711-10.  RP2278-6.  RP3201-1.
+Pub. Country:  UK.
+Class. Code:   A9260V.  A5250G.  A5280.
+Subject:       discharges-electric.  lightning.  plasma-production. 
+               plasma-radiofrequency-heating.
+Identifiers:   magnetron.  UHF.  microwave interference.  air.  plasma
+               fireballs.  ball lightning.  2.45 GHz.  5 kW.
+Abstract:      Reports the production of plasma fireballs in a natural
+               atmosphere by microwave interference.  The fireballs exhibited
+               certain properties that match eyewitness observations of ball
+               lightning, such as motion against the wind and the ability to
+               pass through a wall intact.
+                   ---- End of Citation ----
+
+
+                                                 Citation: 72 of 96
+Accession No.: 3831066.
+Author:        Tarnovskii-A-S.
+Author Affil.: State Pedagogical Inst., Kuibyshev, USSR.
+Title:         Possible mechanism for enhanced energy release in a
+               ball-lightning explosion.
+Source:        Zhurnal Tekhnicheskoi Fiziki.  vol.60, no.3.  pp. 200-3. 
+               March 1990.
+References:    7 refs.
+Trans. Title:  Soviet Physics - Technical Physics.  vol.35, no.3.  pp. 395-7. 
+               March 1990.
+ISSN:          0044-4642.  0038-5662.
+CODEN:         ZTEFA3.  SPTPA3.
+Language:      eng.
+Year:          1990.  1990.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Report No.:    CCCC: 0038-5662/90/030395-03$03.00.
+Pub. Country:  USSR.  USA.
+Class. Code:   A9260P.  A5280.  A8240Q.
+Subject:       discharges-electric.  explosions.  lightning.
+Identifiers:   energy release.  ball-lightning explosion.  condensation
+               explosion.  cluster.  ion density.
+Abstract:      The author estimates the parameters of a condensation
+               explosion caused by the breakup of ball lightning.  According
+               to Smirnov (1988), the solid particles that form the cluster
+               are no more than 1 mu m in size and have a density of 2
+               g/cm/sup 3/.  Assuming that as a result of the explosion or
+               breakup of the framework into separate particles the mass of a
+               particle is of the order of 10/sup -11/ g and that the average
+               specific weight of the framework is of the order of the
+               specific weight of atmospheric air, the author finds that the
+               number of particles formed per unit volume is n/sub 0/=10/sup
+               8/ cm/sup -3/.  The ion density in the zone of ball lightning
+               is of the same order of magnitude, more precisely, 3*10/sup 8/
+               cm/sup -3/.  G.A.  Vorob'ev (1984) thinks that an ion density
+               of the order of 10/sup 16/ cm/sup -3/ and higher is possible,
+               which could bring about virtually instantaneous condensation
+               of the water vapor.  However, Vorob'ev's estimate is hardly
+               realistic.
+                   ---- End of Citation ----
+
+
+
+
+
+
+
+                                                 Citation: 73 of 96
+Accession No.: 3824746.
+Author:        Muldrew-D-B.
+Author Affil.: Commun. Res. Centre, Ottawa, Ont., Canada.
+Title:         The physical nature of ball lightning.
+Source:        Geophysical Research Letters.  vol.17, no.12.  pp. 2277-80. 
+               Nov. 1990.
+References:    14 refs.
+ISSN:          0094-8276.
+CODEN:         GPRLAJ.
+Language:      eng.
+Year:          1990.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Report No.:    CCCC: 0094-8276/90/90GL-02071$03.00.
+Pub. Country:  USA.
+Class. Code:   A9260P.
+Subject:       lightning.
+Identifiers:   atmosphere.  electricity.  mathematical model.  ball
+               lightning.  solid.  positively charged core.  electrostatic
+               energy.  pure electron layer.  plasma layer.  electromagnetic
+               field.  lifetime.  ponderomotive force.
+Abstract:      Ball lightning (BL) is mathematically modelled assuming a
+               solid, positively charged core exists at its center.  The
+               large amount of energy occasionally associated with BL is
+               mainly due to the electrostatic energy of the charge on the
+               core.  The upper energy limit is determined by the size and
+               strength of the core and this energy can be orders of
+               magnitude greater than the energy which can be confined by
+               atmospheric pressure alone.  A pure electron layer and a
+               plasma layer surround the core.  The charge of the electron
+               layer is equal in magnitude to that of the core.  An
+               electromagnetic field is completely trapped by the electron
+               and plasma layers.  The electron temperature is sufficiently
+               high that absorption by electron-ion collisions is small,
+               enabling the ball to have a lifetime of seconds or more.  The
+               ponderomotive force (radiation pressure) of the trapped EM
+               field balances the electrostatic force of the electrons toward
+               the core plus the force of atmospheric pressure.
+                   ---- End of Citation ----
+
+
+
+
+
+
+
+
+                                                 Citation: 74 of 96
+Accession No.: 3787740.
+Author:        Roth-J-R.
+               Edited by: Lubell-M-S.  Nestor-M-B.  Vaughan-S-F.
+Author Affil.: Dept. of Electr. & Comput. Eng., Tennessee Univ., Knoxville,
+               TN, USA.
+Title:         Ball lightning as a route to fusion energy.
+Source:        Published by: IEEE.  New York, NY, USA.  1990.
+References:    11 refs.
+Conf. Title:   Proceedings, IEEE Thirteenth Symposium on Fusion Engineering
+               (Cat. No.89CH2820-9).  Knoxville, TN, USA.  pp. 1407-11 vol.2. 
+               IEEE.  AIAA.  ANS.  DOE.  Oak Ridge Nat. Lab.  Bechtel Int. 
+               McDonnell Douglas Astronautics Co.  TRW.  Westinghouse Electr. 
+               Corp.  2-6 Oct. 1989.
+Language:      eng.
+Year:          1990.
+Pub. Type:     conference-proceeding (C).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Report No.:    CCCC: CH2820-9/89/0000-1407$1.00.
+Pub. Country:  USA.
+Class. Code:   A2852J.  A9260P.
+Subject:       fusion-reactor-theory-and-design.  lightning.
+Identifiers:   energy density.  kinetic pressure.  ball lightning.  fusion
+               reactors.
+Abstract:      Ball lightning can have a diameter up to several meters, a
+               lifetime of over 100 s, an energy content in excess of 10 MJ,
+               and an energy density and a kinetic pressure greater than that
+               of a reacting D-T plasma.  Some of the properties of ball
+               lightning which commend it to the attention of the fusion
+               community are reviewed.  Some potential advantages and
+               applications of ball lightning fusion reactors are discussed.
+                   ---- End of Citation ----
+                                                 Citation: 75 of 96
+Accession No.: 3786577.
+Author:        Stepanov-S-I.
+Author Affil.: B.P. Konstantinov Leningrad Inst. of Nucl. Phys., Acad. of
+               Sci., Gatchina, USSR.
+Title:         On the energy of ball lightning.
+Source:        Zhurnal Tekhnicheskoi Fiziki.  vol.60, no.2.  pp. 211-12. 
+               Feb.  1990.
+References:    7 refs.
+Trans. Title:  Soviet Physics - Technical Physics.  vol.35, no.2.  pp. 267. 
+               Feb. 1990.
+ISSN:          0044-4642.  0038-5662.
+CODEN:         ZTEFA3.  SPTPA3.
+Language:      eng.
+Year:          1990.  1990.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Report No.:    CCCC: 0038-5662/90/020267-01$03.00.
+Pub. Country:  USSR.  USA.
+Class. Code:   A9260P.
+Subject:       lightning.
+Identifiers:   atmosphere.  energy.  ball lightning.  external current. 
+               indoor locations.  electrical isolation.  outdoors.
+Abstract:      The existing reviews of observations of ball lightning are in
+               complete agreement as to its properties, with the exception of
+               its energy.  Ordinarily the characteristic value of the energy
+               is given as 10/sup 3/-10/sup 4/ J. However, there have been
+               reliable observations of an energy release of 10/sup 5/-10/sup
+               6/ J and more.  This exceeds the possible value of the
+               chemical energy that can be stored in the volume of the ball
+               lightning and makes it hard to construct a physical model for
+               this phenomenon.  The large energy releases could be due to
+               other phenomena accompanying it: a stroke of regular
+               lightning, dark current through the ball lightning, corona
+               discharge.  In this case the ball lightning gathers field
+               energy from a large volume.  If so, then the energy release in
+               ball lightning should depend on whether an external current
+               can flow through it.  It is helpful to classify the data on
+               the energy release so as to isolate this possibility.  The
+               author has therefore divided the published estimates of the
+               energy release from ball lightning into two groups.  The first
+               group includes those cases in which an extraneous discharge
+               through the ball lightning is improbable, i.e.  indoor
+               locations with good electrical isolation.  The second group
+               contains cases which occurred outdoors.
+                   ---- End of Citation ----
+
+
+                                                 Citation: 76 of 96
+Accession No.: 3752432.
+Author:        Aleksandrov-V-Ya.  Podmoshenskii-I-V.  Sall-S-A.
+Title:         Experiments on the action of an electric field on a
+               gas-discharge model of ball lightning.
+Source:        Zhurnal Tekhnicheskoi Fiziki.  vol.60, no.1.  pp. 73-6.  Jan. 
+               1990.
+References:    7 refs.
+Trans. Title:  Soviet Physics - Technical Physics.  vol.35, no.1.  pp. 42-4. 
+               Jan. 1990.
+ISSN:          0044-4642.  0038-5662.
+CODEN:         ZTEFA3.  SPTPA3.
+Language:      eng.
+Year:          1990.  1990.
+Pub. Type:     journal-article (J).
+Treatment:     EXPERIMENTAL (X).
+Num. Indexing: size 1.2E-01 m.
+Report No.:    CCCC: 0038-5662/90/010042-03$03.00.
+Pub. Country:  USSR.  USA.
+Class. Code:   A9260P.  A5280H.
+Subject:       corona.  electric-field-effects.  lightning.
+Identifiers:   dark ion currents.  atmosphere.  electric field. 
+               gas-discharge model.  ball lightning.  sphere.  microwires. 
+               corona discharge.  hovering.  attraction.  motion.  conductor. 
+               rebounding.  electrical storm.  wind.  emission currents.  12
+               cm.
+Abstract:      This paper describes experiments with a ball lightning model
+               consisting of a sphere 12 cm in diameter made from microwires. 
+               In an electric field of approximately 1000 V/cm, which causes
+               a corona discharge from the microwires, the model replicates
+               the characteristics of ball lightning motion: hovering above a
+               plane, attraction into a region of enhanced field, motion
+               along a conductor, rebounding from a plane, and others.  A
+               qualitative explanation is given of the observed phenomena on
+               the basis of a consideration of the conditions of balance of
+               the extracted currents.  the analysis is generalized to the
+               case of motion in the field of an electrical storm, where the
+               wind has an effect on the balance of the emission currents.
+                   ---- End of Citation ----
+
+
+
+
+
+
+
+
+
+                                                 Citation: 77 of 96
+Accession No.: 3752343.
+Author:        Smirnov-B-M.
+Author Affil.: Inst. of High Temp., Acad. of Sci., USSR.
+Title:         Physics of ball lightning.
+Source:        Uspekhi Fizicheskii Nauk.  vol.160, no.4.  pp. 1-45.  April
+               1990.
+References:    106 refs.
+Trans. Title:  Soviet Physics - Uspekhi.  vol.33, no.4.  pp. 261-88.  April
+               1990.
+ISSN:          0042-1294.  0038-5670.
+CODEN:         UFNAAG.  SOPUAP.
+Language:      eng.
+Year:          1990.  1990.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Report No.:    CCCC: 0038-5670/90/040261-28$01.00.
+Pub. Country:  USSR.  USA.
+Class. Code:   A9260P.
+Subject:       lightning.
+Identifiers:   ball-lightning problem.  internal energy storage.  spotty
+               emission structure.  hot zones.
+Abstract:      The present state of the ball-lightning problem is analyzed. 
+               Observational data on ball lightning are reviewed and
+               analyzed.  Analogs of ball lightning in terms of properties
+               are discussed.  Basic characteristics of ball lightning are
+               identified.  They include a rigid framework, a chemical method
+               of internal energy storage, and a spotty emission structure. 
+               The spottiness results from the existence of a large number of
+               small hot zones which are responsible for the emission. 
+               Problems to be resolved are pointed out.  Some models which
+               might be of assistance here are described.
+                   ---- End of Citation ----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                 Citation: 78 of 96
+Accession No.: 3739289.
+Author:        Xue-Heng-Zheng.
+Author Affil.: Dept. of Eng., Cambridge Univ., UK.
+Title:         Quantitative analysis for ball lightning.
+Source:        Physics Letters A. vol.148, no.8-9.  pp. 463-9.  3 Sept. 1990.
+References:    34 refs.
+ISSN:          0375-9601.
+CODEN:         PYLAAG.
+Language:      eng.
+Year:          1990.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Report No.:    CCCC: 0375-9601/90/$03.50.
+Pub. Country:  Netherlands.
+Class. Code:   A9260P.  A5250.  A5240D.  A9260V.
+Subject:       atmospheric-radiation. 
+               electromagnetic-wave-propagation-in-plasma.  lightning. 
+               plasma.  plasma-heating.  plasma-production.
+Identifiers:   quantitative analysis.  plasma generation.  ball lightning. 
+               spherical standing wave.  electromagnetic radiation.  plasma
+               shell.  air-filled cavity.  ponderomotive force.  trapped
+               radiation energy.  ohmic heating.  dimension.  temperature. 
+               energy.  lifetime.
+Abstract:      Ball lightning is considered as a spherical standing wave of
+               electromagnetic radiation trapped in a plasma shell.  The
+               shell is expelled from an air-filled cavity by the
+               ponderomotive force.  The trapped radiation energy generates
+               plasmas continuously through ohmic heating to prevent the
+               shell from diffusing away.  This consideration allows a
+               quantitative analysis for the dimension, temperature, energy
+               and lifetime of ball lightning.
+                   ---- End of Citation ----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                 Citation: 79 of 96
+Accession No.: 3727720.
+Author:        Ofuruton-H.  Ohtsuki-Y-H.
+Author Affil.: Tokyo Metropolitan Coll. of Aeronaut. Eng., Japan.
+Title:         Experimental research on ball lightning.
+Source:        Nuovo Cimento C. vol.13C, ser.1, no.4.  pp. 761-8.  July-Aug. 
+               1990.
+References:    10 refs.
+ISSN:          0390-5551.
+CODEN:         NIFCAS.
+Language:      eng.
+Year:          1990.
+Pub. Type:     journal-article (J).
+Treatment:     EXPERIMENTAL (X).
+Pub. Country:  Italy.
+Class. Code:   A9260P.  A5280.
+Subject:       discharges-electric.  lightning.
+Identifiers:   experimental production.  atmosphere.  electric discharge. 
+               chemically reactive discharge.  ball lightning.  flammable
+               gas.  aerosol.  ethane.  cotton fibers.  methane.
+Abstract:      Experiments on ball lightning production were performed by
+               means of electric discharges in flammable gas and/or aerosol. 
+               A long lifetime (2 s) ball lightning was observed in 2.7%
+               ethane and 100 cm/sup 3/ cotton fibers, and in 1.5% methane
+               and 1.9% ethane.
+                   ---- End of Citation ----
+
+
+
+
+
+
+                                                 Citation: 80 of 96
+Accession No.: 3726752.
+Author:        Korshunov-V-K.
+Author Affil.: Korshuno Valentin Konstantinovich, PERM, USSR.
+Title:         Drift motion of the magnetic monopole of Poljakov-'t Hooft in
+               the air and the ball-lighting phenomenon (in memory of Paul
+               Dirac).
+Source:        Modern Physics Letters A. vol.5, no.21.  pp. 1629-31.  30 Aug. 
+               1990.
+References:    4 refs.
+ISSN:          0217-7323.
+CODEN:         MPLAEQ.
+Language:      eng.
+Year:          1990.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Pub. Country:  Singapore.
+Class. Code:   A9260P.  A1480H.  A1210.  A1390.  A2390.
+Subject:       elementary-particle-interactions.  lightning. 
+               magnetic-monopoles.  nuclear-decay-theory. 
+               unified-field-theories.
+Identifiers:   atmosphere.  monopole+nucleon interaction.  Poljakov-'t Hooft
+               magnetic monopole.  ball-lighting phenomenon.  nucleons. 
+               nuclei decay.  drift motion.
+Abstract:      By virtue of the theoretical investigations of Rubakov (1981)
+               on nucleons and nuclei decay with monopole-nucleon
+               interaction, a qualitative analysis of the drift motion of the
+               'mon' in the air is conducted.  The physical picture obtained
+               coincided in detail with descriptions of ball-lightning, for
+               which reason ball-lightning is considered evidence for the
+               magnetic monopole.
+                   ---- End of Citation ----
+                                                 Citation: 81 of 96
+Accession No.: 3708921.
+Author:        Kadomtsev-B-B.
+Author Affil.: IV Kurchatov Inst. of Atomic Energy, Moscow, USSR.
+Title:         On the ball lightning phenomenology.
+Source:        Comments on Plasma Physics and Controlled Fusion.  vol.13,
+               no.5.  pp. 277-85.  1990.
+References:    1 refs.
+ISSN:          0374-2806.
+CODEN:         CPCFBJ.
+Language:      eng.
+Year:          1990.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Pub. Country:  UK.
+Class. Code:   A9260P.  A5280.
+Subject:       discharges-electric.  lightning.
+Identifiers:   gaseous accumulators.  ball lightning phenomenology. 
+               homogeneous gas accumulator.  battery.  accumulated chemical
+               energy.  electrical discharge.
+Abstract:      Ball lightning is considered a homogeneous gas accumulator or
+               battery which is supplied with energy by usual lightning and
+               accumulated in the form of chemical energy.  The accumulated
+               chemical energy can be realized in the form of an electrical
+               discharge.  The physical properties of such a gas accumulator
+               are discussed.
+                   ---- End of Citation ----
+
+
+
+
+
+                                                 Citation: 82 of 96
+Accession No.: 3699485.
+Author:        de-San-M-G.
+Title:         Deuterium's depletion on Earth related to Jupiter's red spot?.
+Source:        Speculations in Science and Technology.  vol.13, no.2.  pp. 
+               93-4.  1990.
+References:    3 refs.
+ISSN:          0155-7785.
+CODEN:         SPSTDD.
+Language:      eng.
+Year:          1990.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Sub./Material: D/el.  H/el.
+Pub. Country:  UK.
+Class. Code:   A9135L.  A9260Q.  A9630K.  A9290.  A9260P.  A9260H.  A9530C.
+Subject:       atmospheric-chemistry.  atmospheric-composition.  deuterium. 
+               geochemistry.  isotope-relative-abundance.  Jupiter. 
+               lightning.  nuclear-fusion.
+Identifiers:   nucleosynthesis.  palaeoatmosphere.  geochemistry. 
+               atmosphere.  Jupiter.  /sup 2/H. isotope ratio.  chemistry. 
+               nuclear reaction.  isotope relative abundance.  depletion. 
+               Earth.  red spot.  fusion.  large thunderstorms.  ball
+               lightning.  Saturn.  D. H.
+Abstract:      The depletion of the Earth's hydrogen in deuterium may be
+               linked to fusion occurring a billion years ago in large
+               thunderstorms and associated ball lightning.  This may be
+               occurring now in Jupiter's red spot and in Saturn too,
+               explaining also why they radiate more energy than they receive
+               from the Sun.
+                   ---- End of Citation ----
+
+                                                 Citation: 83 of 96
+Accession No.: 3641052.
+Author:        de-San-M-G.
+Title:         High insulating properties of the Kapitza filaments in ball
+               lightning.
+Source:        Speculations in Science and Technology.  vol.13, no.1.  pp. 
+               18-19.  1990.
+References:    8 refs.
+ISSN:          0155-7785.
+CODEN:         SPSTDD.
+Language:      eng.
+Year:          1990.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Contract No.:  DE-AC03-76F00098.
+Pub. Country:  UK.
+Class. Code:   A9260P.  A2588.
+Subject:       lightning.  nuclear-fusion.
+Identifiers:   thermonuclear reactions.  insulating properties.  Kapitza
+               filaments.  ball lightning.  oscillating magnetic field.  air. 
+               plasma.  displacement.  orbital electrons.  electric current. 
+               momentum.
+Abstract:      The high, oscillating magnetic field of Kapitza's filaments
+               distorts the atoms of the surrounding air or plasma.  The
+               displacement of orbital electrons is, in fact, an electric
+               current that is repulsed by the filament's magnetic field, so
+               that the atoms themselves are repelled, avoiding any contact
+               with the electrons and ions of the filament and thus any loss
+               of momentum.
+                   ---- End of Citation ----
+
+
+                                                 Citation: 84 of 96
+Accession No.: 3634688.
+Author:        Smirnov-B-M.
+Author Affil.: High Temp. Inst., Acad. of Sci., Moscow, USSR.
+Title:         The properties of fractal clusters.
+Source:        Physics Reports.  vol.188, no.1.  pp. 1-78.  April 1990.
+References:    275 refs.
+ISSN:          0370-1573.
+CODEN:         PRPLCM.
+Language:      eng.
+Year:          1990.
+Pub. Type:     journal-article (J).
+Treatment:     BIBLIOGRAPHY (B).  GENERAL OR REVIEW (R).  THEORETICAL OR
+               MATHEMATICAL (T).  EXPERIMENTAL (X).
+Report No.:    CCCC: 0370-1573/90/$27.30.
+Contract No.:  DE-AC03-76F00098.
+Pub. Country:  Netherlands.
+Class. Code:   A8270.  A0130R.  A9260P.
+Subject:       aggregation-in-substances.  disperse-systems.  fractals. 
+               lightning.  porous-materials.  reviews.
+Identifiers:   review.  aerogels.  fractal clusters.  growth.  evolution. 
+               aggregated solid particles.  computer simulations.  surface. 
+               porous materials.  ball lightning.
+Abstract:      The general properties of fractal systems are described.  The
+               processes of growth and evolution of fractal clusters which
+               consist of aggregated solid particles are reviewed.  Results
+               of studies of these clusters on the basis of computer
+               simulations are presented.  Experimental methods and results
+               of investigations of fractal clusters are reviewed. 
+               Information about surface fractal clusters is given and
+               methods to study them are described.  Some systems, processes
+               and phenomena which are governed by the same laws as fractal
+               clusters, are analyzed.  Aerogels and other porous materials
+               which consist of fractal clusters are considered.  The
+               information on fractal clusters is used for an analysis of
+               ball lightning.
+                   ---- End of Citation ----
+
+
+
+
+
+
+
+
+
+
+
+                                                 Citation: 85 of 96
+Accession No.: 3588161.
+Author:        Gaidukov-N-I.
+Author Affil.: Pedagogical Inst., Orekhovo-Zuevo, USSR.
+Title:         Motion of ball lightning in an air flow through a wide
+               circular opening in a flat screen.
+Source:        Zhurnal Tekhnicheskoi Fiziki.  vol.59, no.2.  pp. 88-94.  Feb. 
+               1989.
+References:    21 refs.
+Trans. Title:  Soviet Physics - Technical Physics.  vol.34, no.2.  pp. 181-4. 
+               Feb. 1989.
+ISSN:          0044-4642.  0038-5662.
+CODEN:         ZTEFA3.  SPTPA3.
+Language:      eng.
+Year:          1989.  1989.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Report No.:    CCCC: 0038-5662/89/020181-04$03.40.
+Pub. Country:  USSR.  USA.
+Class. Code:   A9260P.
+Subject:       lightning.  plasma.
+Identifiers:   ball lightning.  air flow.  wide circular opening.  flat
+               screen.  equations of motion.  motion.
+Abstract:      The results of numerous observations of ball lightning under
+               natural conditions are used to study the basic equations of
+               motion of ball lightning in an air flow through a wide
+               circular opening in a flat screen for some specially selected
+               models.  The solutions constructed for the equations of motion
+               make it possible to predict the basic characteristics of the
+               motion of ball lightning.  Examples of the investigated type
+               of motions that have been described in the literature are
+               presented.
+                   ---- End of Citation ----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                 Citation: 86 of 96
+Accession No.: 3588160.
+Author:        Grigorev-A-I.  Grigoreva-I-D.
+Author Affil.: State Univ., Yaroslavl, USSR.
+Title:         Correlations between some properties of ball lightning.
+Source:        Zhurnal Tekhnicheskoi Fiziki.  vol.59, no.2.  pp. 79-87.  Feb. 
+               1989.
+References:    12 refs.
+Trans. Title:  Soviet Physics - Technical Physics.  vol.34, no.2.  pp.
+               176-80.  Feb. 1989.
+ISSN:          0044-4642.  0038-5662.
+CODEN:         ZTEFA3.  SPTPA3.
+Language:      eng.
+Year:          1989.  1989.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Report No.:    CCCC: 0038-5662/89/020176-05$03.40.
+Pub. Country:  USSR.  USA.
+Class. Code:   A9260P.  A9260Q.
+Subject:       lightning.  plasma.  thunderstorms.
+Identifiers:   pair correlation relations.  ball lightning.  intensity. 
+               thunderstorm activity.  statistical analysis.  EVM-2082
+               computer.  lifetime.  characteristic linear size.  brightness. 
+               color.  nonmonotonic nature.
+Abstract:      The relationship between the frequency of observation of ball
+               lightning and the intensity of thunderstorm activity is
+               studied on the basis of a statistical analysis of descriptions
+               of ball lightning on an EVM-2082 computer;  the strict
+               correlation obtained permits drawing important conclusions
+               about the conditions for the appearance of ball lightning. 
+               Pair correlation relations were established between the
+               lifetime and characteristic linear size of ball lightning, on
+               the one hand, and its brightness and color on the other.  The
+               distinguishing feature of the dependence of the lifetime of
+               ball lightning on the brightness and color is its nonmonotonic
+               nature, which appears to be nontrivial.  If the data obtained
+               are confirmed by further studies on larger samples, then this
+               could indicate that there are two types of ball lightning.
+                   ---- End of Citation ----
+
+
+
+
+
+
+
+
+
+                                                 Citation: 87 of 96
+Accession No.: 3564670.
+Author:        Smirnov-B-M.
+Author Affil.: Dipartimento di Chimica, Bari Univ., Italy.
+Title:         Electrical and radiative processes in ball lightning.
+Source:        Nuovo Cimento C. vol.12C, ser.1, no.5.  pp. 575-95. 
+               Sept.-Oct. 1989.
+References:    38 refs.
+ISSN:          0390-5551.
+CODEN:         NIFCAS.
+Language:      eng.
+Year:          1989.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Num. Indexing: size 2.8E-01 m.  time 5.0E+00 to 1.6E+01 s.  energy 1.0E+04 to
+               3.0E+04 J.  temperature 2.0E+03 K.
+Pub. Country:  Italy.
+Class. Code:   A9260P.  A9260M.  A9260L.
+Subject:       aerosols.  atmospheric-electricity.  atmospheric-ionisation. 
+               atmospheric-radiation.  atmospheric-temperature.  dust. 
+               electric-breakdown-of-gases.  lightning.  plasma.
+Identifiers:   charged particles concentration.  plasma temperature.  ball
+               lightning threadlike structure.  plasma excited atom.  excited
+               molecules.  thunderstorms.  lightning ball diameter. 
+               lightning ball lifetime.  radiative processes.  observational
+               parameters.  electrical processes.  unipolar plasma.  electric
+               breakdown.  atmospheric air.  dust cloud.  hard surface. 
+               black body.  flame.  separated hot regions.  thermodynamical
+               equilibrium.  ball lightning luminosity.  separated threads. 
+               active substance.  volume radiation.  280 mm.  5 to 16 s. 10
+               to 30 kJ.  2000 K.
+Abstract:      The observational parameters of ball lightning are given,
+               together with an analysis of electrical processes during the
+               origin and evolution of ball lightning.  It is suggested that
+               ball lightning forms in a unipolar plasma with a high
+               concentration of charged particles.  This plasma is formed as
+               a result of electric breakdown of atmospheric air between a
+               dust cloud and a hard surface.  Observational ball lightning
+               as a light source is compared with a black body and a flame. 
+               It is shown that the luminosity of ball lightning is created
+               by separated hot regions with a temperature of about 2000 K.
+               Excited atoms or molecules in these regions are found in
+               thermodynamical equilibrium with air.  The waves of ball
+               lightning luminosity spread along separated threads of the
+               active substance of ball lightning, with some 10/sup 2/-10/sup
+               4/ threads being involved in this process.  The luminosity of
+               many points is perceived as the volume radiation of ball
+               lightning.
+                   ---- End of Citation ----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                 Citation: 88 of 96
+Accession No.: 3520611.
+Author:        Shelton-J-D.
+Title:         Eddy current model of ball lightning.
+Source:        Die Naturwissenschaften.  vol.76, no.8.  pp. 373-4.  Aug.
+               1989.
+References:    14 refs.
+ISSN:          0028-1042.
+CODEN:         NATWAY.
+Language:      eng.
+Year:          1989.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Num. Indexing: size 2.0E-01 m.
+Pub. Country:  West Germany.
+Class. Code:   A9260P.
+Subject:       lightning.  plasma.
+Identifiers:   atmosphere.  eddy current model.  ball lightning.  Maxwell's
+               equations.  formation.  high-energy plasma ball.  lifetime. 
+               radius.  0.2 m.
+Abstract:      The present paper combines Maxwell's equations with additional
+               concepts in a model which accounts for the formation and some
+               major properties of ball lightning.  The model is a
+               high-energy plasma ball of moderate lifetime with a typical
+               radius of 0.1 m.
+                   ---- End of Citation ----
+
+
+
+
+
+
+                                                 Citation: 89 of 96
+Accession No.: 3468655.
+Author:        Vatai-E.
+Author Affil.: Inst. of Nucl. Res., Hungarian Acad. of Sci., Debrecen,
+               Hungary.
+Title:         Ball lightning as observational evidence of the existence of
+               lepto-nucleons and their clusters.
+Source:        Nuovo Cimento A. vol.101A, ser.2, no.6.  pp. 905-27.  June
+               1989.
+References:    14 refs.
+ISSN:          0369-3546.
+CODEN:         NIFAAM.
+Language:      eng.
+Year:          1989.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Contract No.:  Q.
+Pub. Country:  Italy.
+Class. Code:   A1220D.  A1480K.  A9260P.
+Subject:       hypothetical-particles.  lightning.  plasma. 
+               quantum-electrodynamics.
+Identifiers:   leptonucleons.  leptonuclei.  observational evidence. 
+               clusters.  ball lightning.  long-range interaction. 
+               short-range attractive interactions.  high-density clusters. 
+               ionic crystal.  nonlocal energy transfer.  baryon number
+               asymmetry.
+Abstract:      The existence of lepto-analogues of pi /sup 0/-mesons is an
+               indication that lepto-analogues of nucleons, i.e.  lepto- (or
+               l-)nucleons, may exist.  The assumption that ball lightning is
+               composed of l-nucleons enables the author to explain the
+               observed properties of the ball lightning and determine the
+               following properties of lepto-nucleons.  Lepto-nucleons
+               interact with electrons through a medium or long-range
+               interaction, which is about four to six orders of magnitude
+               weaker than the Coulomb one and repulsive between l-nucleons. 
+               They possess a short-range attractive interactions as well. 
+               Atmospheric l-nucleons exist and they form two basic
+               structures: the lepto-lattice or net and high-density
+               clusters, the lepto-nuclei, with 10/sup 4/-10/sup 6/ particles
+               in dimension smaller than atomic ones.  Binding of l-nucleons
+               is stronger in the l-net than in l-nuclei.  The ball lightning
+               is an ionic crystal composed of electrons bound by l-nuclei,
+               i.e l-atoms, and positive ions.  The atmospheric l-net unites
+               the l-atoms connected to the net into one quantum system,
+               allowing nonlocal energy transfer between resonating
+               subsystems.  The existence of l-nucleons may resolve the
+               problem, caused by the baryon number asymmetry of the
+               Universe.
+                   ---- End of Citation ----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                 Citation: 90 of 96
+Accession No.: 3468542.
+Author:        Hanming-Wu.  Yunming-Chen.
+Author Affil.: Inst. of Mech., Chinese Acad. of Sci., Beijing, China.
+Title:         Magnetohydrodynamic equilibrium of plasma ball lightning.
+Source:        Physics of Fluids B (Plasma Physics).  vol.1, no.8.  pp. 
+               1753-5.  Aug. 1989.
+References:    9 refs.
+ISSN:          0899-8221.
+CODEN:         PFBPEI.
+Language:      eng.
+Year:          1989.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Report No.:    CCCC: 0899-8221/89/081753-03$01.90.
+Contract No.:  Q.
+Pub. Country:  USA.
+Class. Code:   A9260P.  A5230.
+Subject:       lightning.  plasma.  plasma-confinement. 
+               plasma-magnetohydrodynamics.
+Identifiers:   MHD equilibrium.  plasma ball lightning.  self-confined plasma
+               ball.  atmosphere.  constant pressure.  equilibrium state. 
+               average pressure.  force-free magnetic configuration.
+Abstract:      A study is done of magnetohydrodynamic (MHD) equilibrium of a
+               self-confined plasma ball imbedded in an atmosphere with
+               constant pressure p/sub 0/.  It is found that there is more
+               than one equilibrium state for the plasma ball and the average
+               pressure inside the ball is less than p/sub 0/.  It is also
+               shown that the force-free magnetic configuration cannot exist
+               in the equilibrium state.  In comparison with a spheromak, the
+               magnetic axis in ball lightning drifts toward the center about
+               10%.
+                   ---- End of Citation ----
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                 Citation: 91 of 96
+Accession No.: 3448533.
+Author:        ter-Haar-D.
+Author Affil.: Magdalen Coll., Oxford, UK.
+Title:         An electrostatic-chemical model of ball lightning.
+Source:        Physica Scripta.  vol.39, no.6.  pp. 735-40.  June 1989.
+References:    4 refs.
+ISSN:          0031-8949.
+CODEN:         PHSTBO.
+Language:      eng.
+Year:          1989.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Pub. Country:  Sweden.
+Class. Code:   A9260P.  A8230.  A4110D.
+Subject:       chemical-reactions.  electrostatics.  lightning.
+Identifiers:   electrostatic-chemical model.  ball lightning.  fireball.
+Abstract:      The author gives a brief description of the ball lightning
+               phenomenon and list the properties of the average fireball
+               based on the available data.  The author then discusses
+               briefly a recent theory to account for the data.
+                   ---- End of Citation ----
+
+
+
+
+
+
+
+
+
+
+                                                 Citation: 92 of 96
+Accession No.: 3438154.
+Author:        Gaidukov-N-I.
+Author Affil.: Inst. of Steel & Alloys, Moscow, USSR.
+Title:         Equations of motion of ball lightning in the field of a point
+               source.
+Source:        Doklady Akademii Nauk SSSR.  vol.301, no.4-6.  pp. 1076-9. 
+               Aug. 1988.
+References:    14 refs.
+Trans. Title:  Soviet Physics - Doklady.  vol.33, no.8.  pp. 571-3.  Aug. 
+               1988.
+ISSN:          0002-3264.  0038-5689.
+CODEN:         DANKAS.  SPHDA9.
+Language:      eng.
+Year:          1988.  1988.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Report No.:    CCCC: 0038-5689/88/080571-03$02.20.
+Pub. Country:  USSR.  USA.
+Class. Code:   A9260P.  A4790.  A4760.
+Subject:       confined-flow.  hydrodynamics.  lightning.
+Identifiers:   equations of motion.  hydrodynamics.  volumetric forces. 
+               ion-electron plasma.  incompressible fluid flow.  viscous
+               medium.  ball lightning.  point source.  air stream.  internal
+               forces.  narrow opening.  air propulsion.  ideal fluid. 
+               internal tension.
+Abstract:      The author considers the motion of ball lightning in an air
+               stream flowing out of a narrow opening in a flat screen. 
+               Since the solution of the stated problem is complicated by the
+               absence of sufficiently full information about the volumetric
+               internal forces acting in the incompressible ideal fluid that
+               models the ball lightning, to simplify it, the author
+               represents this problem as two problems: (i) motion of ball
+               lightning in the field of an air stream that is at a
+               considerable distance from a narrow opening in a screen and
+               (ii) motion of ball lightning in an air stream through a
+               narrow opening in a flat screen.  The attraction of ball
+               lightning toward narrow openings and slits in the presence of
+               air propulsion in either direction and its subsequent flow
+               through them is concluded to be a single, purely hydrodynamic
+               effect which is observed when a limited volume of an ideal
+               fluid with moderately large forces of internal tension moves
+               in a viscous fluid of the same density.  Ball lightning
+               evidently is the only fluid of this kind.
+                   ---- End of Citation ----
+
+
+
+                                                 Citation: 93 of 96
+Accession No.: 3390283.
+Author:        Jennison-R-C.
+               Edited by: Kostro-L.  Posiewnik-A.  Pykacz-J.  Zukowski-M.
+Author Affil.: Electron. Eng. Labs., Kent Univ., Canterbury, UK.
+Title:         The non-particulate nature of matter and the universe.
+Source:        Published by: World Scientific.  Singapore.  1988.
+References:    22 refs.
+Conf. Title:   Problems in Quantum Physics: Gdansk '87. Recent and Future
+               Experiments and Interpretations.  Gdansk, Poland.  pp. 163-86. 
+               21-25 Sept. 1987.
+Language:      eng.
+Year:          1988.
+Pub. Type:     conference-proceeding (C).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Pub. Country:  Singapore.
+Class. Code:   A0365B.  A9880.
+Subject:       cosmology.  quantum-theory.
+Identifiers:   nonparticle matter.  matter.  universe.  phase-locked
+               cavities.  cataclasmic event.  condensed rotating state.  ball
+               lightning.  galaxy formation.
+Abstract:      Following earlier work on phase-locked cavities and
+               Mackinnon's work on phase-locked de Broglie waves, Jennison,
+               Jennison and Jennison (1986) found that, following a
+               cataclasmic event, a system of waves could form into a
+               condensed rotating state from which they could not escape.  A
+               solution for the first odd eigenvalue is presented in this
+               paper and its similarity to the electron is noted.  The
+               principles embodied in this works do not appear to restrict
+               the scale of the phenomenon to that of the fundamental
+               particles and it is suggested that nature may permit the
+               formation of very much larger entities at certain specific
+               scales befitting ball lightning, regions of galaxy formation
+               and possibly the whole Universe.  This implies that a
+               component of the hidden mass in these systems may be
+               non-particulate matter on a grand scale.
+                   ---- End of Citation ----
+
+
+
+
+
+
+
+
+
+
+
+                                                 Citation: 94 of 96
+Accession No.: 3349074.
+Author:        Aleksandrov-V-Y.  Podmoshenskii-I-V.  Sall-S-A.
+Title:         Simulation of the motions of ball lightning.
+Source:        Pis'ma v Zhurnal Tekhnicheskoi Fizika.  vol.14, no.7-8.  pp. 
+               639-42.  April 1988.
+References:    6 refs.
+Trans. Title:  Soviet Technical Physics Letters.  vol.14, no.4.  pp. 285-6. 
+               April 1988.
+ISSN:          0320-0108.  0360-120X.
+CODEN:         PZTFDD.  STPLD2.
+Language:      eng.
+Year:          1988.  1988.
+Pub. Type:     journal-article (J).
+Treatment:     THEORETICAL OR MATHEMATICAL (T).
+Report No.:    CCCC: 0360-120X/88/040285-02$02.60.
+Contract No.:  DACA88-86-D-0006.
+Pub. Country:  USSR.  USA.
+Class. Code:   A9260P.  A9260E.  A9260L.
+Subject:       atmospheric-ionisation.  atmospheric-movements.  corona. 
+               lightning.
+Identifiers:   motion simulation.  ions electrical transport.  ionised
+               gaseous medium.  ball lightning.  light conducting balls. 
+               parallel-plate capacitor.  air.  corona discharge. 
+               ionization.
+Abstract:      The authors report a study of the behavior of light conducting
+               balls in the field of a parallel-plate capacitor in air in the
+               presence of a corona discharge from the surfaces of the balls. 
+               In this case, a ball, like ball lightning, is a localized set
+               of ionization, out of which there is an electric transport of
+               ions of different signs in opposite directions.
+                   ---- End of Citation ----
+                                                 Citation: 95 of 96
+Accession No.: 3345643.
+Author:        Hermant-A.  Hubert-P.
+Author Affil.: CENS, Gif-sur-Yvette, France.
+Title:         Ball lightning photographed?.
+Source:        Atmospheric Research.  vol.22, no.3.  pp. 275-80.  Oct. 1988.
+References:    12 refs.
+ISSN:          0169-8095.
+CODEN:         ATREEW.
+Language:      eng.
+Year:          1988.
+Pub. Type:     journal-article (J).
+Treatment:     EXPERIMENTAL (X).
+Num. Indexing: distance 1.8E+02 m.  time 2.0E+00 s.
+Report No.:    CCCC: 0169-8095/88/$03.50.
+Contract No.:  DACA88-86-D-0006.
+Pub. Country:  Netherlands.
+Class. Code:   A9260P.  A9330G.
+Subject:       atmospheric-electricity.  discharges-electric.  lightning. 
+               meteorology.  plasma.  thunderstorms.
+Identifiers:   ball lightning photograph.  visual observation.  Bourges. 
+               central France.  short-circuit arc.  W Europe.  power line
+               insulator chain.  extended green corona emission.  AD 1987 09
+               23.  lightning stroke.  power line tower.  short-exposure
+               photograph.  extinction phase.  freely floating plasmoid. 
+               total duration.  photographic observation.  180 m. 2 s.
+Abstract:      A lightning stroke on a power line tower has been observed at
+               a distance of 180 m. A short-exposure photograph taken during
+               the extinction phase gives the picture of a freely floating
+               plasmoid, a few metres in size, irregular in shape with a
+               rather sharp boundary.  A total duration of 2 s is estimated
+               for the entire event which is interpreted as the consequence
+               of an arc short-circuiting the chain of insulators.  The
+               irregular shape is not in favour of a plasma confinement
+               hypothesis.  It is instructive to note some contradictions
+               between the visual and the photographic observation.
+                   ---- End of Citation ----
+
+
+
+
+
+
+
+
+
+
+
+                                                 Citation: 96 of 96
+Accession No.: 3294107.
+Title:         First Conference on Tornadoes, Waterspouts, Wind-Devils and
+               Severe Storm Phenomena.
+Source:        Journal of Meteorology.  vol.10, no.100.  July-Aug. 1985.
+Conf. Title:   First Conference on Tornadoes, Waterspouts, Wind-Devils and
+               Severe Storm Phenomena.  Oxford, UK.  Tornado & Storm Res. 
+               Organ.  29 June 1985.
+ISSN:          0307-5966.
+Language:      eng.
+Year:          1985.
+Pub. Type:     conference-proceeding (C).
+Pub. Country:  UK.
+Class. Code:   A0130C.  A9260Q.  A9330G.  A9290.  A9330K.  A9260G.  A9260F. 
+               A9355.
+Subject:       atmospheric-boundary-layer.  storms.  wind.
+Identifiers:   TORRO.  atmosphere.  boundary layer.  UK.  tornado. 
+               waterspout.  wind devil.  severe storm.  circular storm. 
+               Tornado and Storm Research Organisation.  whirlwind.  Great
+               Britain.  building damage.  ball lightning.  barmouth. 
+               Smarden.  Kent.  Europe.
+Abstract:      The Tornado and Storm Research Organisation (TORRO),
+               hailstorms, thunderstorms, whirlwind, tornadoes in Great
+               Britain.  building damage caused by tornadoes, ball lightning,
+               a waterspout near barmouth, the tornado at Smarden in Kent,
+               the tornado threat to Europe.
+                   ---- End of Citation ----
+

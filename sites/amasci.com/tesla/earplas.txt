@@ -1,0 +1,102 @@
+    WOMAN AND DAUGHTER IN FRAMINGHAM MA CAN DETECT TV SETS, PLASMA DISPLAYS
+    Bill Beaty 1994
+
+
+Date: 03-Jun-94  23:11:29  compuserve
+Fm: william beaty   To: Sara T. Allen
+
+I've directly seen evidence that some people can 'hear' non-acoustic
+(radio) energy.
+
+Around 1988 a woman came into the Museum of Science in Boson to track down
+a noise she heard "inside" her head during a public physics demonstration 
+in years past. 
+
+She was currently suffering from unexplained loud noises in her head while
+at home, as well as headaches, loss of sleep, etc.  She remembered
+experiencing something at the M.O.S. in Boston which had produced the same
+effect many years ago.  Thus she hoped to get clues as to what might be
+plaguing her.
+
+I was the head of the museum electronics department at the time.  During
+conversation she described a physics demonstration in the Cahner's science
+theater which probably involved a tabletop VandeGraaff generator and other
+high-voltage devices.  Along with Mike A. from theaters/demonstrations, I
+tried a number of devices to find out if she could "hear" them.
+
+The offending energy sources turned out to be tabletop vacuum-tube tesla
+coils, as well as a large tesla coil "plasma sphere" and a plasma tube art
+object from artist Bill Parker called "Quite Lightning;" a device driven
+by a HF linear amateur radio amplifier (it put out several hundred watts
+at around 3Mhz or so, if I recall correctly.)
+
+All of these devices are silent, yet she could not tolerate the "noise" of
+being anywhere near them.  For example, she had to stay about 15ft away
+from a tabletop vacuum tube tesla coil in order to avoid pain in her head.
+
+We tried a double-blind test with the plasma spheres, and she still
+responded strongly to them even when they were hidden on the other side of
+a wall and none of us knew that they had been activated.  In fact, she had
+to move far away from the wall or her pain/noise she reported was
+intolerable.  She described the effect as coming from inside her head, and
+as being different from normal sound.
+
+It turned out that she was living in Framingham Mass., which I knew has a
+large Raytheon military communications experiment facility.  If any town
+in Massachusetts is close to weird radio transmitters of all varieties,
+Framingham is the place.  I recommended that she try shielding her bedroom
+with foam insulation panels which are covered with aluminum foil.  This
+would block high frequency radio waves, though it wouldn't stop VLF/ELF
+frequencies.  (I also told her to try an experiment: put a metal bucket on
+her head to see if it stopped the 'noise', but I don't know if she ever
+did this!)
+
+It was interesting that her teenage daughter had the same radio-detecting
+ability.  The daughter reported that, as a child, she could sense any
+active television set at a distance and through walls, and had found that
+her playmates could not do this.
+
+The scanning coils in television sets emit strong magnetic spike signals
+at 60Hz and 15KHz, as well as high voltage spike signals at 15KHz.  Any
+wideband radio receiver should be able to sense a nearby TV in operation.  
+The daughter's comments are evidence that human RF-hearing ability is
+genetic rather than caused by something such as amalgam dental fillings
+behaving as an accidental semiconducting rectifier.
+
+
+
+Years later I read some recent research where iron particles were
+discovered to occur naturally in the human sphenoid bones, as well as
+microscopic bio-iron crystals in human brain tissue.  Are human beings
+natural radio receivers? It would make sense if mammals have a compass in
+their brains to aid navigation.  A microscopic compass can malfunction: it
+can be violently wiggled by radio waves, and perhaps this was the cause of
+the woman's troubles.
+
+
+PS 
+
+To anyone who suffers the same mysterious pain and noise as the woman
+above: see if you can stop the noise with metal shielding.  In other
+words, put a small television set inside a closed metal box and see if you
+can still "hear" the strange signals.  Or ...put a bucket on your head.  
+Seriously!  Find a clean metal wastebasket, or cover a small cardboard box
+with aluminum foil.  If placing this metal object over your head can
+reduce or stop the signals, then it strongly suggests that they ARE radio
+signals and not something else.  It also means that you can make any room
+into a "radio quiet room" by covering the walls and ceiling with metal
+foil.  A house might already by radio-quite if it includes foil-covered
+foam panels as thermal insulation inside the walls.
+
+Note that this thin foil shielding can only block high frequency signals
+such as AM/FM/Television and above.  Low frequencies far below the AM
+radio band (called VLF or ELF) will go right through aluminum foil.  In
+that case you'd need thick slabs of solid copper in order to block the
+radio waves.
+
+
+((((((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))))
+William J. Beaty                             SCIENCE HOBBYIST website
+billbeskimo.com                             http://amasci.com
+EE/programmer/sci-exhibits          science projects, tesla, weird science
+Seattle, WA   206-762-3818          freenrg-L taoshum-L vortex-L webhead-L

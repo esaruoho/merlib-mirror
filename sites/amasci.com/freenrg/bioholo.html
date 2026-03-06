@@ -1,0 +1,238 @@
+
+<!DOCTYPE html>
+
+<html>
+<head>
+<TITLE>http://www.tricountyi.net/~randerse/bioholo.HTM</TITLE>
+<base href="http://amasci.com/" >
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" >
+<META name="author" content="William J. Beaty" >
+
+<link rel="prev" href="/weird.html" >
+
+<link rel="canonical" href="http://amasci.com/freenrg/bioholo.html" />
+
+<meta name="google-translate-customization" content="c3ed531053d636c5-1d98312485736f8d-g564ee6842740dee4-a" ></meta>
+</head>
+
+<BODY bgcolor="#ffffff" >
+<table summary="nav links, google search window" width=100% height=75><tr>
+<td>
+ <center>
+ <TABLE cellpadding=5 summary="Navigation links" ><TR>
+ <TD ALIGN="CENTER" ><b><font size=2>
+ <a href="/weird.html" >PREV</a>&nbsp;&nbsp;| </b></font><br></TD>
+ <TD ALIGN="CENTER" ><b><font size=2>
+ <a href="/unew.html" >GOOD STUFF</a>&nbsp;&nbsp;| </b></font><br></TD>
+ <TD ALIGN="CENTER" ><b><font size=2>
+ <a href="/news.html" >NEW STUFF</a>&nbsp;&nbsp;| </b></font><br></TD>
+ <TD ALIGN="CENTER" ><b><font size=2>
+ <a href="/search.html" >SEARCH</a></b></font><br></TD>
+ </TR></TABLE>
+ </center>
+</td>
+
+
+<td summary="google search" align=right valign=top>
+<div id="google_translate_element" ></div>
+<script type="text/javascript" >
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout:google.translate.TranslateElement.FloatPosition.TOP_LEFT, gaTrack: true, gaId: 'UA-101029-1'}, 'google_translate_element');
+}
+</script>
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit" ></script>
+<div>
+<script>
+  (function() {
+    var cx = 'partner-pub-6310699831332590:m1ib2jl3jyf';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:searchbox-only></gcse:searchbox-only>
+</div>
+</td></tr></table>
+
+
+
+<CENTER>
+<hr>
+<h3><b>
+An implementation of a system to produce audio frequency "Bio-Holograms"
+</b>
+</h3>
+<b>               Based on the ideas of Jacques Benveniste</b>
+<br>
+                        9/12/99 by Rick Andersen
+<br><p>
+This file is a mirror of <a href="http://www.tricountyi.net/~randerse/bioholo.htm">
+http://www.tricountyi.net/~randerse/bioholo.htm</a>
+<hr>
+</CENTER>
+
+ <i>Recently, I came across a fascinating article at Bill Beaty's site,
+ outlining the ideas and experiments of Jacques Benveniste, a scientist
+who
+ claims to be able to extract, record and broadcast (e.g., over the
+Internet)
+ the molecular frequency signatures of various chemicals in water solution
+in
+ a test tube. This is said to be accomplished by playing white noise into
+a
+ sample, via a magnetic field from a transmitting coil. A second coil
+receives
+ the transmitted noise, but at the receive end the noise has been subtly
+ altered by interaction with the molecules in the sample--- which I assert
+is
+ analogous to the process behind an optical hologram; here we use audio
+ frequencies.
+ <p>
+ Once the signal has been "captured", it can then be transmitted to
+another
+ location and played through a third coil, into a test tube of pure water.
+ According to Benveniste, the water becomes "structured" by the
+  electromagnetic field of the original sample's molecules, and the water
+   will now act as if it contains the original sample.
+ <p>
+ Since this is tantamount to providing the scientific community with a
+plausible
+ mechanism for the scorned "pseudoscience" of Homeopathy, Benveniste has
+been
+ getting all kinds of heat for his pronouncements in this area and in his
+ previous statements about water itself having a "memory" upon which
+information
+ can be impressed-- which affects life processes.
+ <p>
+ Too close to my own ideas about EM fields around a body (see my file on
+the
+ <A HREF="http://web.archive.org/web/20050205042722/www.tricountyi.net/~randerse/lfg.htm">Lorentz Force generator</A>
+ for me not to try and build a circuit to implement Benveniste's ideas!
+ For more information, see <A
+HREF="http://web.archive.org/web/2008*/http://www.digibio.com">www.digibio.com</A>.
+ The Bill Beaty article can be found at <A HREF="http://amasci.com/freenrg/digibio.html">
+ amasci.com</A>. </i>
+<CENTER>
+<hr>
+</CENTER>
+<IMG SRC="http://amasci.com/graphics/bioholo.gif">
+<p>
+<b>Circuit Operation:</b>
+<p>
+NPN transistor Q1 is connected "upside-down" to put it into the avalanche
+ mode-- this generates white noise. Q1's noise current biases Q2's base,
+and
+ Q2 amplifies the white noise signal. Q3 provides another stage of gain
+for
+ the noise. VR1 serves as a "volume" control; the amount of signal picked
+off
+ at the wiper is variable and is sent to IC1, a 100 mW audio power
+amplifier.
+ The amplified output is sent to the output jack which will connect to the
+ "transmit" coil. The transmit coil broadcasts a white-noise magnetic
+field
+ into the sample under study.
+<p>
+Some distance away, a "receive" coil picks up the white noise, which we
+ presume is altered in intensity, frequency response, and phase, in small
+but
+ measurable amounts. [An alternate, or parallel, explanation is that beat
+ frequencies in the audio range are produced by small amounts of nonlinear
+ mixing, as the wide range of random frequencies inherent in white noise
+ interact with the molecular resonances in the sample.]
+ <p>
+ Op amp IC2a amplifies the receive coil's output, which
+ will be attenuated with increasing distance from the transmit coil. In
+ Benveniste's experiments, the small distance between coils was occupied
+by
+ a test tube filled with water and the particular chemical under study.
+The
+ solution could be viewed as the core of a transformer whose windings are
+the
+ transmit and receive coils.
+<p>
+After amplification by IC2a, the received signal is mixed (summed) with
+the
+ original "reference" noise signal. The phasing (connection polarity) of
+the
+ receive coil is such that the original reference noise and the altered
+noise
+ from the receive coil and amplifier will "null" or cancel each other at
+some
+ setting of the amplifier gain potentiometer VR2. 
+<p>
+If the reference and the receive coil's noise signals are identical, the
+null
+ should be quite deep (discounting differences in the frequency/phase
+response
+ between the two signal paths); the assumption is that there will in fact
+be
+ a small residual signal which cannot be cancelled out-- this
+"differential"
+ signal represents the "information" impressed by the sample upon the
+reference
+ noise. 
+<p>
+This "distortion" or alteration of the "reference" noise represents
+ absorption/reflection of energy by the sample under study. It is assumed
+to
+ be analogous to an object being holographically recorded, as in laser
+ hologram technology. We uncover the small distortions imparted to the
+noise
+ by the sample, by mixing the reference back in with the altered signal,
+but
+ 180 degrees out of phase. This is analogous to creating the interference
+ patterns on film in laser holography.
+<p>
+The residual signals present in the differential mix are amplified by IC1b
+ and sent to the output jack as the "differential output". 
+<CENTER><hr></CENTER>
+<P>Back to<A HREF="http://web.archive.org/web/2004*/www.tricountyi.net/~randerse/lfg.hthttp://www.tricountyi.net/~randerse/electmnu.htm">
+Electronics Menu</A>
+<BR>Back to<A HREF="http://web.archive.org/web/2004*/http://www.tricountyi.net/~randerse/mainmenu.htm">
+Main Menu</A>
+<BR>Back to<A HREF="http://web.archive.org/web/2004*/http://www.tricountyi.net/~randerse/default.htm">
+Homepage</A>
+
+
+<pre>
+
+
+
+
+</pre>
+<center>
+<font size=3>
+<a href="/freenrg/bioholo.html" >http://amasci.com/freenrg/bioholohtml</a><br>
+
+Created and maintained by <a href="/billb.html" >Bill Beaty</a>.  <br>
+Mail me at: <a href="/amfrm/" > 
+<img  alt="[my email address is my website addr preceded by billb atsign]" 
+border=0 width=141 height=19 src="/graphics/abc.gif" ></a>. <br> 
+</center>
+
+<center>
+<!-- Start of StatCounter Code for Default Guide -->
+<script type="text/javascript" >
+var sc_project=10408414; 
+var sc_invisible=0; 
+var sc_security="00267183"; 
+var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript><div class="statcounter" >
+<a title="shopify stats" href="http://statcounter.com/shopify/" target="_blank" >
+<img class="statcounter" src="http://c.statcounter.com/10408414/0/00267183/0/" alt="shopify stats" ></a></div></noscript>
+<!-- End of StatCounter Code for Default Guide -->
+<a href="http://statcounter.com/p10408414/?guest=1" >View My Stats</a>
+</center>
+
+</font>
+</body>
+</html>
+

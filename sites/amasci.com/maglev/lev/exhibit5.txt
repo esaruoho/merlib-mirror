@@ -1,0 +1,71 @@
+Excerpt from September 1993 Meeting
+Between Roy Harrigan and William Hones
+
+R       Well, this is more the same axis.  It's more just to get whatever they
+call the gyromagnetic ratio.  But I just wondered if it might ... But anyway,
+but you could spin it with ... Of course, you'd have the coil out here just to
+give it a little bit of a kick now and then. (29:00)  Or, again, if it's non
+symmetrical, you can use this principle here to rotate it.  In other words,
+if you rotated the base or just had a couple of electromagnets which in
+effect would do that.  You have this permanent magnet holding it up, and a
+couple of small electromagnets and a sensor which would sense when this ...
+Now wait a minute, this thing is all most on the bottom...
+
+M       You know, a magnetic field, an electromagnet's magnetic field is quite a
+bit different than a permanent magnet's magnetic field, the way they look.
+With the permanent magnet you can have, you can have all North pointing up
+like this.
+
+R       I think you could do it with an electromagnet, too, though.   It wouldn't
+be an ordinary electromagnet, but you could make a winding that would create
+the same thing.
+
+M       Well, if you made a winding that's like this ...
+
+R       Like a spiral and dish shaped ...
+
+M       Yeah.  Then the field?s up this direction and down.      
+
+R       I?m pretty sure you could do it.
+
+M       Yeah, I thought about that.  Yeah, actually ...
+
+R       You could do it.
+
+M       Yeah, I know what you're saying, because that you'd have the coil wound
+this direction and then it would be shaped like a dish.
+
+R       Probably.
+
+M       Yeah.
+
+R       It's also possible to have a flat piece, a flat magnet but just have it
+magnetized in such a way that it's stronger on the outside than it is in the
+center, and maybe ... it's magnetized where it's angled inward, North, South,
+you know.  But it wouldn't have to be bent, and yet it would act as if it was.
+
+M       Let's see.
+
+R       You could, you could have the same effect with a flat piece of material,
+except that you would magnetize the material as if it had this effect.  By
+having it stronger ...
+
+M       I forget how that right hand rule goes.  The current and the magnetic
+field ... (31:30)
+
+R       But as far as rotating it, if this thing was, say, wider in one direction
+so that it would be 90 degrees ...
+
+M       Okay ... Yeah, I'm not sure if, I have to, I have to maybe draw that, but I
+don't know about that dish idea?
+
+R       That you could get the same effect with a flat surface?
+
+M       Hmmm.
+
+R       That you could have the same effect with a flat surface?  I'm sure you
+could.  You know, the funny part of this is when you take this away, it
+buzzes quite a bit higher, as you can see.
+
+M       Yeah.
+

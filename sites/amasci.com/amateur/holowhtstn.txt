@@ -1,0 +1,35 @@
+CHARLES WHEASTSTONE DISCOVERS SCRATCH-HOLOGRAMS, 1830s
+
+"On some remarkable, and hitherto unobserved, Phenomena of 
+Binocular Vision" C. Wheatstone, Philosophical Transactions of the 
+Royal Society, 128 (June 1838) p379
+
+8.   An effect of binocular perspective may be remarked in a plate of 
+metal, the surface of which has been made smooth by turning it in a lathe.  
+When a single candle is brought near such a plate, a line of light appears 
+standing out from it, one half being above, and the other half below the 
+surface; the position and inclination of this line changes with the 
+situation of the light and of the observer, but it always passes through 
+the center of the plate.  On closing the left eye the relief disappears, 
+and the luminous line coincides with one of the diameters of the plate; on 
+closing the right eye the line appears equally in the plane of the 
+surface, but coincides with another diameter; on opening both eyes it 
+instantly starts into relief[1].  The case here is exactly analogous to 
+the vision of two inclined lines (fig. 10.) when each is presented to a 
+different eye in the stereoscope.  
+
+It is curious, that an effect like this, which must have been seen 
+thousands of times, should never have attracted sufficient attention to 
+have been made the subject of [scientific] observation.  It was one of the 
+earliest facts which drew my attention to the subject I am now treating.
+
+[1] The luminous line seen by a single eye arises from the reflection of 
+    the light from each of the concentric circles produced in the 
+    operation of turning' when the plate is not large the arrangement of 
+    these successive reflections does not differ from a straight line.
+
+
+Thanks to D. Teirne et. al. for their discovery of this Wheatstone quote!
+See their paper "Holograms made from Scratch"
+
+https://www.spiedigitallibrary.org/conference-proceedings-of-spie/8842/88420W/Holograms-made-from-scratch/10.1117/12.2023321.full?SSO=1

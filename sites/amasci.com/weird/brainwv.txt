@@ -1,0 +1,104 @@
+From "UNLESS PEACE COMES - A Scientific Forecase of New Weapons"
+1968 Nigel Calder ed.   
+Chapter: "Geophysical warefare, How to wreck the environment," by
+GJF MacDonald, UCLA Asc. Director of the Institute of Geophysics and 
+Planetary Physics
+
+BRAIN WAVES ROUND THE WORLD?
+
+At heights of forty to fifty kilometres above the Earth.s surface, 
+substantial numbers of charged particles are found which make this part of 
+the atmosphere, the ionosphere, a good conductor of electricity. The rocks 
+and oceans are also more conducting than the lower atmosphere. Thus, we 
+live in an insulating atmosphere between two spherical conducting shells 
+or, as the radio engineer would put it, in an Earth-ionosphere cavity, or 
+waveguide. Radio waves striking either conducting shell tend to be 
+reflected back into the cavity, and this phenomenon is what makes 
+conventional long-distance radio communication possible. Only recently, 
+however, has there been any interest in natural electrical resonances 
+within the Earth-ionosphere waveguide. Like any such cavity, the 
+Earth-ionosphere waveguide will tend to sustain radio oscillation at 
+certain frequencies in preference to others. These resonant frequencies 
+are primarily determined by the size of the Earth and the speed of light, 
+but the properties of the ionosphere modify them to a certain extent. The 
+lowest resonances begin at about eight cycles per second, far below the 
+frequencies ordinarily used for radio communication. Because of their long 
+wavelength and small field strength, they are difficult to detect. 
+Moreover, they die down quickly, within 1/16 second or so; in engineering 
+terms, the cavity has a short time constant.
+
+The natural resonant oscillations are excited by lightning strokes, 
+cloud-to-ground strokes being a much more efficient source than horizontal 
+cloud-to-cloud discharges. On the average, about 100 lightning strokes 
+occur each second (primarily concentrated in the equatorial regions) so 
+that normally about six lightning flashes are available to introduce 
+energy before a particular oscillation dies down. A typical oscillation.s 
+field strength is of the order of 0.3 millivolts per metre.
+
+The power of the oscillations varies geographically. For example, for a 
+source located on the equator in Brazil the maximum intensity of the 
+oscillation is near the source and at the opposite side of the Earth 
+(around Indonesia). The intensity is lower in intermediate regions and 
+towards the poles.
+
+One can imagine several ways in which to increase the intensity of such 
+electrical oscillations. The number of lightning strokes per second could 
+be enhanced by artificially increasing their original number. Substantial 
+progress has been made in the understanding of the physics of lightning 
+and of how it might be controlled. The natural oscillations are excited by 
+randomly occurring strokes. The excitation of timed strokes would enhance 
+the efficiency with which energy is injected into an oscillation. 
+Furthermore, the time constant of the oscillation would be doubled by a 
+four-fold increase in the electrical conductivity of the ionosphere, so 
+that any scheme for enhancing that conductivity (for example, by injecting 
+readily ionized vapour) lowers the energy losses and lengthens the time 
+constant, which would permit a greater number of phased lightaing strokes 
+before the decay of an oscillation.
+
+The enhanced low-frequency electrical oscillations in the Earth-ionosphere 
+cavity relate to possible weapons systems through a little understood 
+aspect of brain physiology. Electrical activity in the brain is 
+concentrated at certain frequencies, some of it extremely slow, a little 
+around five cycles per second, and very conspicuous activity (the 
+so-called alpha rhythm) around ten cycles per second. 
+
+Some experiments have been done in the use of a flickering light to pull 
+the brain.s alpha rhythm into unnatural synchrony with it; the visual 
+stimulation leads to electrical stimulation. There has also been work on 
+direct electrical driving of the brain. In experiments discussed by 
+Norbert Wiener, a sheet of tin is suspended from the ceiling and connected 
+to a generator working at ten cycles per second. With large field 
+strengths of one or two volts per centimetre oscillating at the 
+alpha-rhythm frequency, decidedly unpleasant sensations are noted by human 
+subjects.
+
+The Brain Research Institute of the University of California is 
+investigating the effect of weak oscillating fields on human behaviour. 
+The field strengths in these experiments are of the order of a few 
+hundredths of a volt per centimetre. Subjects show small but measurable 
+degradation in performance when exposed to oscillating fields for periods 
+of up to fifteen minutes.
+
+The field strengths in these experiments are still much stronger, by a 
+factor of about 1,000, than the observed natural oscillations in the 
+Earth-ionosphere cavity. However, as previously noted, the intensity of 
+the natural fluctuations could bc increased substantially and in principle 
+could be maintained for a long time, as tropical thunder storms are always 
+available for manipulation. The proper geographical location of the source 
+of lightning, coupled with accurately-timed, artificially-excited strokes, 
+could lead to a pattern of oscillations that produced relatively high 
+power levels over certain regions of the Earth and substantially lower 
+levels over other regions. In this way, one could develop a system that 
+would seriously impair brain performance in very large populations in 
+selected regions over an extended period.
+
+The scheme I have suggested is admittedly far-fetched, but I have used it 
+to indicate the rather subtle connections between variations in man.s 
+environmental conditions and his behaviour. Perturbation of the 
+environment can produce changes in behaviour patterns. Since our 
+understanding of both behavioural and environmental manipulation is 
+rudimentary, schemes of behavioural alteration on the surface seem 
+unrealistic. No matter how deeply disturbing the thought of using the 
+environment to manipulate behaviour for national advantage is to some, the 
+technology permitting such use will very probably develop within the next 
+few decades.

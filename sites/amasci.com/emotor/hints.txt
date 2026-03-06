@@ -1,0 +1,39 @@
+CONSTRUCTION HINTS                         (c)1996 William J. Beaty
+amasci.com/emotor/vdg.html
+
+
+USE A METER
+
+When building or debugging a VDG machine, it helps to know that VDGs are
+actually constant current sources.  Their fundamental goal is to always
+produce the same current regardless of whatever electrical resistance is
+placed between their terminals.  This is the opposite of a battery, which
+is a constant voltage source.  A battery tries to keep the voltage across
+its terminals always constant, and the SMALLER the resistance placed
+across its terminals, the higher the current and the higher the wattage
+produced. Shorting out a battery creates heat and "draws" a high current. 
+On the other hand, a VDG tries to keep the current flowing across its
+terminals always constant, and the LARGER the resistance placed across its
+terminals, the higher the voltage and the higher the wattage produced. 
+NOT shorting out a VDG creates heat and "draws" a high voltage.  To turn
+off a battery, remove any load from it so that the battery sees infinite
+resistance.  To turn off a VandeGraaff, connect a short from sphere to
+base, so the VDG sees zero resistance. 
+
+And so to work on optimizing your VDG, you should short out your VDG and
+measure the current in the short.  To do this, simply connect a sensitive
+current meter between the sphere and the base, or between the upper and
+the lower combs.  A current meter IS a short circuit, so no other shorting
+wire is needed.  Select a meter which can indicate around 100uA (100
+microamperes).  When the VDG is operating, the meter will show you the
+maximum current produced by the device.  A 5 microamp flow is OK for a
+low-speed VandeGraaff.  A bigger one with a high speed belt might put out
+several hundred microamps.  More is better.
+
+So, when designing a new VandeGraaff, how can you pick the best belt
+material, best comb spacing, etc?  Let your VDG tell you itself.  Simply
+short out your generator with a microamp meter and measure the current.
+Adjust things to get the highest value on your meter.  Will a plastic belt
+work better?  Should you use many needles on the comb or few?  Just run
+your VandeGraaff and measure its current, and you'll know.
+

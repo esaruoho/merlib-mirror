@@ -1,0 +1,47 @@
+>  From:   Cliff Swartz <CSWARTZ@ccmail.sunysb.edu>
+>  Date:   30-OCT-1996
+>  To:     Ludwik K.
+
+> Hello, Ludwik 
+>        Let me expand the information about ice skating by citing the
+> section on the topic from my new book "Teaching Introductory Physics",
+> published by the American Institute of Physics.(p 93)
+
+> "Ice skates experience low friction because a thin water film is
+> produced between blade and ice.  A popular legend has it that this
+> effect is caused by the lowering of the melting point due to the pressure
+> exerted by the blade.  It is true that one of the unusual features of
+> water is that it expands during freezing.  Consequently, if we prevent
+> the expansion by increasing the pressure, we prevent the freezing and
+> thus lowwer the melting point.  The usual pressure-temperature diagram
+> for water, Fig 4-5, shows the boundary line between solid and liquid
+> arching back to the left from the triple point.  However, the actual
+> effect is very small.
+
+> The slope of the boundary line is -(1.2x10^7 N/m^2/C) It would take an
+> increase of 120 atmospheres to lower the melting temperature 1 Celsius
+> degree. For the typical skate blade, the area is 27 cm x 4 mm = 11 cm
+> If the full weight of a skater with mass 65 kg is exerted on one blade,
+> the increased pressure would be about 6 atm.  Sharpening the blades
+> does not decrease the contact area appreciably, since the blade sinks
+> down into the relatively soft ice.
+
+> What does produce the water film between blade and ice? There are two 
+> plausible explanations. When the leading edge of a blade strikes the 
+> ice, the resulting friction energy can melt a trail for the rest of the 
+> blade.  A more important effect stems from a phenomenon first noticed 
+> by Faraday and then largely ignored because it was not understood.  
+> We now know that at the interface between ice and air there is a fhin 
+> film of water. The thickness increases from monomolecular to several 
+> hundred molecules as the temperature rises from -10 to 0 C. Since the 
+> reduction of friction depends on the the water film, you might conclude 
+> that the fastest skating could be done on ice close to the melting point.  
+> However, warm ice is soft ice, allowing the blades to sink in more. On 
+> the other hand, cold ice, which is hard, has only a thin film of surface 
+> water.  These two competing effects yield a minimum of friction for 
+> speed skating at about -7 C.  (For further details. see James White, The 
+> Physics Teacher, 30, 495 ((1992))."
+
+> Also note that any explanation must account for the very low friction
+> experienced by the puck. I hope this explanation will either satisfy
+> people or stir up further controversy!
