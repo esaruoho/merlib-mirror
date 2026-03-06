@@ -63,13 +63,6 @@ sites/             → mirror output (one subdirectory per domain)
 ./start-mirror.sh
 ```
 
-### Via Discord (PakettiBot)
-
-```
-!pk mirror riess.org
-!pk mirror status
-```
-
 ## Setup
 
 `mirror.py` is bundled in this repo. The worker finds it automatically. If you need to override:
