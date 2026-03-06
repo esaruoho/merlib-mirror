@@ -1,0 +1,385 @@
+______________________________________________________________________________
+|  File Name      : BAJAK1.ASC       |  Online Date     :  02/09/96          |
+|  Contributed by : Anonymous        |  Dir Category    :  UNCLASS           |
+|  From           : KeelyNet BBS     |  DataLine        :  (214) 324-3501    |
+|           KeelyNet * PO BOX 870716 * Mesquite, Texas * USA * 75187         |
+|        A FREE Alternative Sciences BBS sponsored by Vanguard Sciences      |
+|              InterNet email keelynet@ix.netcom.com (Jerry Decker)          |
+|      Files also available at Bill Beaty's http://amasci.com     |
+|----------------------------------------------------------------------------|
+Since there are a lot of folks who are interested in Time Travel circuits, the
+following information was courteously shared with us by an Anonymous
+contributor about one year ago.  He is a long time KeelyNetter who has made
+many useful suggestions and contributed several interesting files over the
+years, THANKS!
+------------------------------------------------------------------------------
+##############################################################################
+
+   < Transcriber's note:  This is typed exactly as received from John Bajak.
+                  The schematic was originally hand-drawn. >
+
+##############################################################################
+
+                     Flux Capacitance Time Travel Circuit
+                              (c) John Bajak 1990
+
+                       ^
+             /         |
+    +-------o  o----/\/\/\/---+------+-------+
+    |        S1        |      |      |       |
+    |               G1        |      |       \
+ + ---                    +   |     ---    --/-> G2
+  ----- B1                  -----   XXX P1   \
+   ---                    C1-----   ---      |
+  -----                       |      |       o
+    |                         |      |        \  G3
+    |                         |      |       o
+    +-------------------------+------+-------+
+
+
+B1      27 volt source
+C1      1200 uF 50V electrolytic
+P1      piezoelectric transducer (value uncritical)
+S1      charging switch (SPST)
+G1      25-ohm rheostat (future control)
+G2,G3   switch (SPST) and 1M-ohm potentiometer for past control
+
+< Transcriber's note:  I don't know whether G1 and G2 are really supposed
+to be a rheostat and a potentiometer, or both rheostats, or both pots.  He
+refers to two rheostats elsewhere, and I was just going to call them pots
+until I remembered that rheostats would have some inductance. >
+
+##############################################################################
+
+January 31, 1994
+P. O. Box 8324
+White Plains, NY 10602-8324
+
+
+xxxxx x xxxxxxx
+xx xxxxx xxxxxx
+xxxxxxxxxx, xx xxxxx
+
+Dear Mr. xxxxxx:
+
+Enjoy.  In summary, to time travel is sort of like constructing a nuclear bomb
+-but instead of needing critical _mass_, one needs critical _energy_ to "break
+the time barrier".  That energy is 1215.9 microfarads.  Play around with it.
+
+Send money when you get back.
+
+Thanks.
+
+Sincerely,
+
+        <signature>
+
+John Bajak
+
+##############################################################################
+
+TO THE CHRONAUT
+-- --- --------
+
+READ THIS MANUAL!
+---- ---- -------
+
+Instructions for Use of Temporal Flux Generator:
+
+With batteries installed,
+Depress switch for 3 to 4 seconds,
+Release for 3 to 4 seconds;
+Repeat as necessary.
+
+IMPORTANT!
+
+Point transducer output toward the person or thing you want changed.
+
+That thing, such as a clock or piece of shelving, Will begin oscillating
+between past and future.
+
+Depending on which side of time you catch it on, depending also on the periods
+of switch on/off, and direction pointed, _CREATES_ action, derived from
+oscillating time.
+
+DANGER!  _Do_ _Not_ point at yourself For any appreciable amount of cycles.
+DAMAGE to your time detection circuits may occur, Damaging your overall
+sanity.
+
+You may in the course of activation, meet yourself.  Do not panic; Be
+reassured that if you know yourself, Only one of you will survive.
+
+The generator is more powerful during Nighttime.
+
+If directed toward yourself at night, do not be surprised if you cannot
+sleep.
+
+However, try to sleep.  The process of sleep reintegrates yourself.  If at all
+possible, "SLEEP!"
+
+Daytime may bring observations of being darker than day usually is.
+
+Direct Sunlight Radiation is good for burning off disintegration, But
+communication of time travel existence Is an affect that others may not
+believe or can comprehend.
+
+Being with others has a balancing effect; So does poetry.
+
+< several philosophical pages omitted >
+##############################################################################
+
+TIME TRAVEL
+By John Bajak
+
+P. O. Box 8324
+White Plains, NY 10602-8324
+
+THE 911 BEGINNING
+
+It was a hot summer, needless to say, and I survived by the skin of my teeth;
+a minute of miracle and wonder.
+
+You see, I had just built an electroshock machine made of batteries, a
+capacitor, and a switch.
+
+But, just by change, the monday after Andrew Dice Clay on Saturday Night Live,
+I decided to attach to the leads of the machine a piezoelectric crystal (which
+is a piece of computer equipment that buzzes).
+
+The air turned funny when I pressed the button.  I could see and feel an
+effect I can only describe as an electrical and subliminally acoustical roller
+coaster.  At first it gave me headaches.  I brought it to Sir Costa's Pizza
+Cafe where I used to work and sprayed their foyer.  It worked for them too; it
+gave them a headache.
+
+More sooner than later, I noticed time stretched thinner and thinner until I
+noticed time seemed to stop while it was turned on.  This took place in clocks
+I watched on my VCR and a German-made clock given to me by my father.  I
+noticed time seemed to decelerate after a certain period of turnon, then
+accelerate when the button was turned off, according to the changing pattern
+of the capacitor.
+
+Then I realized for what it was: a flux capacitor.  I then, during wednesday
+and thursday, wrote how it could be attached to any internal combustion
+engine, and how in a static frame could be extremely dangerous. It could be
+used for _time_ _travel_.
+
+That friday I realized that the future was probably where Deborah Poe went
+(she had disappeared from a circle K convenience store nearby months previous)
+for I had participated in the Search for her at the Mall and had reported to
+the lieutenant I had seen a UFO that Monday Morning she disappeared on an
+early morning walk.  The circumstances around her disappearance was
+mysterious, as she left her purse and car keys behind.  Deborah Poe was an
+aspiring yuppie, earning money for a house of her own.
+
+Too much began happening.  I was a pure clock-filter of information.  What
+happened Friday after the invention freqked me out.  I found myself calling
+dozens of phone numbers, talking in understanding with the people on the other
+end, and getting working answers back.
+
+Eventually, by Sunday night/monday morning, and 911 rescue calls more than 7
+times in a period of five hours, and they getting more and more excited (my
+saying what I had invented and they kicking me upstairs) they told me to lie
+down and get some sleep.  I did, and the TV exploded, which had been turned
+on.
+
+First it started talking to me, threatening me that it would stop time if I
+didn't call 911 again.  It spoke a command - LAUGH OFF - then exploded.  I
+felt myself burning, lying on the couch with my back to the tv, but there were
+no flames.  Then the tv reassembled itself and the flames stopped.  I checked
+my papers on the floor and they weren't even singed.  I called 911 again and
+they kicked me upstairs twice.  They said the sheriff was outside.  I ran out
+yelling "sheriff!  sheriff! I was freaked out.
+
+He was there.  It was a late-model Cutlass Sierra by Chrystler, licence BCK
+312.  He was heavily outfitted, and the car was about 17 feet long, longer
+than the standard 15 feet, and wider.
+
+He requested backup.  He was covering a disturbance in an apartment nearby.
+Another, just as big police car drove up in about fifteen to twenty seconds.
+A cop and a "student cop" wearing a police academy t-shirt came out.  They
+came in the apartment and inspected.  They told me to go back to sleep.  I
+tried, but for some reason, I got dressed and took the flux capacitor to the
+Mall, which by this time was fully flossed by the molybdemum-like smell of the
+flossy chemical ignition, and the Police Inspector along with the student Cop,
+inspected it -made me disassemble it (take off the cover) reassemble it, then
+he told me to fo home and go back to sleep.
+
+The next morning, astounded by what happened, called 911 to ask if I should go
+to the hospital.  I had gotten used to calling 911.  This time they came right
+away, and took me to Florida North Psychiatric Hospital.
+
+##############################################################################
+
+A LETTER TO THE NAVY
+
+
+December 3, 1990
+43 Tunstall Road
+Scarsdale, New York 10583
+
+Dear Chaplain Cooley:
+
+I am writing to ask you to help clarify the events that happened to me June 1,
+1990.  You are the name I remember throughout that whole day.  My father, RADM
+Sigmund Bajak asked the Orlando Navy Base to help take care of me until he
+arrived.
+
+I remember a security officer, you, a minister's son, the head Chaplain and a
+female chaplain, all of whom took good care of me when I was feeling anxious.
+
+You may be interested to know that I have moved up North.  I have a volunteer
+job and receive disability, and I am doing well.
+
+Back to June 1st. In my memory, I remember the reasons I was anxious: Number
+one was owing my father seven hundred dollars. I was not being able to talk
+with him about this debt for a month because he was in Poland; Two, a feeling
+that I had invented a flux capacitor. This is a foundation for time travel,
+but I did not have a car to try it out.
+
+Finally, there were two more events I experienced that morning - these
+included a truck which seemed to be spraying the mall at a high rate of speed
+with a perfumy chemical which ignited, and a television program carrying a
+1995 copyright which appeared on my home TV screen during a time in the
+morning when the station was supposed to be off-the-air.
+
+These June 1st anxieties made me lose all common sense and I am now trying to
+sort out my memories of that day to determine which events really happened.  I
+am asking if you could reply with your observations of what happened to me
+while I was with you. Specifically,I remember that the President called the
+Chaplain's office immediately prior to the time that I went to the Protestant
+chapel.
+
+I clearly remember the secretary there coming to brisk attention from a seated
+position and saying, "Yes, Mr. President" and then listening intently and then
+following his instructions, making other phone calls.
+
+Thank you in advance for your reply which I hope will include reference to the
+June morning happenings described above.  It is most important that you tell
+me what you observed during the seven hours I was with you.
+
+Sincerely,
+
+
+John Bajak
+
+##############################################################################
+
+< Another letter, written December 2, 1990, omitted.  Possibly relevant
+information includes a reference to traveling back to September 9, 1981 and
+meeting a woman who he hopes to meet again in about ten years.  (Strange that
+the Montauk story also includes a 20-year cycle.)  Also, a claim of writing a
+letter to the Navy on October 22 and reading it on the prior June 4th.  Also a
+reference to "some time mess in Central America" about May of 1990, and
+officials from the region meeting with him to discuss it.  An admonition to
+always take popcorn with you on time trips as an offering of friendship. >
+
+< Next, an essay on the social impact of time travel.  Finally, his theory of
+time travel physics. >
+
+##############################################################################
+
+
+TIME TRAVEL THEORY
+
+By John Bajak
+
+Time travel has long been within the realm of science fiction.  It is also
+true that what Man can imagine must usually can be done, although not without
+effort. Experiment and theory lead to the same conclusion: time travel is not
+only possible, but easily practical.  The definition of time itself relates to
+the physical value Love, measured in mass-seconds.  Time is viewed not as a
+dimension in a continuum, but as a wave of Love arising from the light plane.
+
+Time travel is achieved by "surfing" like on an ocean beach to the edge of
+where love has been disturbed.  The frame of reference of an inertial system
+is reduced to change in each of three physical dimensions as happening
+throughout the continuum.
+
+AXIOMS:
+
+1.  The universe as we know it is based on physical quantity "love".
+
+2.  Love is indivisible.
+
+Proposition a: Love limits communication
+
+Proposition b: Love is infinitely accessible
+
+Proposition c: Love is finitely variable
+
+Proposition d: A point in the universe is an arc in love-explained space/time
+               or mathematically
+
+    F(P) = ((f(t), delta t, 1/t))
+
+Where a recursive arc usually felt as time is expressed as
+
+    delta t = 1/t, or t (t -t ) = 1/t where x = F(t)
+                       X  A  B
+
+------------------------------------------------------------------------------
+Defining Love as mass in time, one gram in one second = 1 unit of Love, 1 unit
+of love = 1 hubert, we have the expression
+
+L = mt
+
+                                                          2
+Knowing work = energy / time, energy = mass * speedoflight ,
+
+         2
+wt = (L*c )/t
+
+  2     2
+wt = Lvc
+
+Energy is equivalent to mass, energy defined as amplification (work from time
+= 0) and mass as love on a light plane.
+
+Amplification of mass on a light plane can be construed as the state of
+calculation (amplification) equalling the state of communication (light plane)
+
+In an empty space, capacitance, the ability to hold charge,  necessarily is
+amplified mass. Recursive arcs of capacitance in Love theory are necessary;
+normally called resonance.
+
+Capacitance = time constant / resonance
+
+Time is a wave arising from the light plane.
+
+The solution to an individual time wave is
+
+C  = TC / RC
+ b          a
+
+To find C  as R goes to zero and C  goes to C  in this
+         b                        b          a
+equation.
+
+< graph showing the intersection of a bell-shaped curve labeled resonance
+and a hyperbolic curve labeled time constant >
+
+Quartz, which has the property of negative inductance (in which mass moves in
+response to charge and vice-versa), when charge pulsed into a time resonant
+capacitor, "surfs" the time landscape, like a surfer in the sea, carrying mass
+in its wave along with it.  Normal time, not having time resonant negative
+inductance, continues in appearance of a continuum, like the general theory of
+relativity
+
+U = (x,y,z,t)
+
+This has been proven in experiment wherein a quartz piezoelectric crystal has
+been placed in parallel circuit with a capacitance of time resonance (1214.9
+uF) and given DC pulses.  At a voltage of 9 volts and 1/2 second pulse
+frequency and ten second duration, the home clock has been pushed forward
+within the time field one second as compared with an away clock five feet
+away.  This experiment has been duplicated three times at different voltages
+and distances.  Generally, the higher the voltage, the higher the surf.
+
+##############################################################################
+As usual, should you experiment with this circuit or time travel in general,
+please share your experiences and/or findings with us at KeelyNet.
+                                            Thanks...........>>>  Jerry/Sysop
+------------------------------------------------------------------------------
+
+

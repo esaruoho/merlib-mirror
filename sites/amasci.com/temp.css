@@ -1,0 +1,42 @@
+
+/* default layout */
+
+body 
+{ 
+  font:normal 15px/1.2 "proxima-nova-1","proxima-nova-2","Helvetica 
+Neue","Helvetica",sans-serif;
+  font-size:.875em;
+}
+
+
+h1, h2, h3, h4 {
+	font-family:  'Georgia','Palatino','Helvetica',serif;	
+}
+
+a
+{
+	font-family:  'Georgia','Palatino','Helvetica',serif;	
+	font-size: .9em;
+        text-decoration:underline;
+}
+
+
+ul li { 
+	padding-bottom: .3em; 
+	line-height: 17px; 
+}
+
+table
+{
+  font:normal 15px/1.2 "proxima-nova-1","proxima-nova-2","Helvetica 
+Neue","Helvetica",sans-serif;
+  font-size:.7em;
+}
+
+
+/*
+	font-family:"Helvetica Neue", Arial, Helvetica, sans-serif;
+	text-size: 75%;
+	FONT-FAMILY: 'Lucida Grande', Verdana, Arial, Sans-Serif, Tahoma;
+	FONT-FAMILY: "Myriad Pro", Arial, sans-serif;
+*/

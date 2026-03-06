@@ -1,0 +1,86 @@
+Newsgroups: alt.sci.physics.new-theories
+From: snet@world.std.com (Glenda M Stocks)
+Subject: FOGAL`S PATENT           
+Message-ID: <CvB4sw.CE@world.std.com>
+Organization: The World Public Access UNIX, Brookline, MA
+Date: Mon, 29 Aug 1994 17:34:07 GMT
+Lines: 76
+
+25 Aug 94  19:02:02
+By: Walter Bartoo
+To: Glenda Stocks
+Re: Fogal's patent 
+------------------------------------------------------------------------------
+AREA:ORVOTRON_PRI
+ > (From): BJORN@QUARK.LU.SE
+ > (To)  : ALL
+ > System: SNET
+ > Conf. : 0019 - PHYSICS
+
+ > I have read through William J. Fogal's patent no 5196809 "High Gain,
+ > Low Distortion Faster switching Transistor". What he claims is more
+ > or
+ > less that you can greatly improve the performance of a common-emitter
+ > amplifier by parallelling the emitter-resistance with a "0.2uF to
+ > 22uF
+ > filter capacitor". He states that the gain increases with a 22uF
+ > capacitor @1kHz (according to his measurements), which it does and
+ > should since the gain of this circuit is given by -Rc/Re where Re is
+ > the resistor // the capacitor and Xc decreases with increasing
+ > frequency. However, he claims that the distortion and noise will
+ > decrease dramatically when you use a "filter capacitor" instead of an
+ > ordinary capacitor. Well, I've tried this simple circuit by first
+ > using ordinary plastic and electrolytic caps (Al wet, Al dry and Ta)
+ > and then by using what I thought was filter caps: 22uF bipolar for
+ > loudspeaker-filters and 22uF low-impedance for switched power-supply
+ > (ordinary low-imp, and sanyo's organic electrolyt) BUT (suprise
+ > surprise) the result with these where identical with those of the
+ > other caps, so my question is:
+
+ > What is a "filter capacitor"?!
+
+ > Regards
+
+ >BJORN
+
+BILL RAMSAY HERE.  RE; FOGAL DEVICE.  The crucial aspect in providing for the
+effect is to locate the capacitor, whatever it is, as physically close to the
+Xstr. substrate as possible.  The closer, the more profound the effect.  Only
+certain types of Caps by their basic nature are most suitable.  For example
+surface mount tantalums of very small size are best used.  Such as 4.7mfd, 6vdc
+or less.  Of course it is imperative to also use surface mount Xstrs. of the
+general purpose type equiv. to American 2N2222, ECG123AP, etc..(NPN).  If
+technically feasable it is even desireable to CAREFULLY remove some of the
+epoxy on the device and cement the Cap. in place.  Multi-layer Caps. are NOT
+useable.  Hope this is helpful and that you have good experimental success.
+One last note----DO NOT exceed about .5 volts input since device saturates and
+starts behaving like a conventional Xstr.  470 ohms is a good value to use in
+parellel with cap..  Also (Hmmm.  More than one last note.)  The effect will
+only be noted with a fairly decent sine-wave input.  The DC gain WILL
+remain the same.  Otherwise, bias just like any NPN Xstr.  3 - 4 Volts is
+enough for collector, have fun.  Do you know Dan Winter?  If so will you be
+seeing him on his upcoming tour?  And, if you're who I think you are, are you
+having any luck with Callahan's detector?
+
+Chow.  Bill.
+
+
+ > PS. If anyone's interested in the patent document, I could scan it
+ > and
+ > post it here as GIF-pictures (11 pages). DS
+
+
+ * Origin: ** Spirit BBS - Orvotron ** (114:704/0)
+
+
+GLENDA STOCKS                  | FidoNet 1:330/201.0 
+SearchNet HeadQuarters         | InterNet GS@rochgte.fidonet.org
+Snet Mailing List info, SEND   | Data: 508-586-6977 / 617-961-4865
+info snet-l             TO     | Download SEARCHNT.ZIP For Info!
+majordomo@world.std.com        | Voicemail: +1-617-341-6114
+Searchnet.zec@channel1.com     | FidoNet CHANNELS, & I_UFO moderator
+
+ * RM 1.3 00257 * I don't have a ride, so I'll walk... *POOF*
+                                                                                                                     
+
+

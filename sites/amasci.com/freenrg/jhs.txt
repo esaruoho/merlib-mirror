@@ -1,0 +1,1471 @@
+COMMENT: from the physics e-print server at 
+         http://xxx.lanl.edu/abs/gr-qc/9612022/
+         Postscript is available from that URL.
+
+\documentstyle[12pt]{article}
+
+\textwidth 170mm
+\textheight 235mm
+\topmargin -36pt
+\oddsidemargin -0.2cm
+\evensidemargin -0.5cm
+
+\renewcommand{\baselinestretch}{1.6}
+
+\begin{document}
+
+\renewcommand{\thefootnote}{\fnsymbol{footnote}}
+
+\thispagestyle{empty}
+
+\hfill \parbox{45mm}{{UTF-391/96} \par November 1996
+\par gr-qc/9612022} 
+
+\vspace*{15mm}
+
+\begin{center}
+{\LARGE Possible quantum gravity effects in a charged Bose}
+
+\smallskip
+
+{\LARGE condensate under variable e.m.\ field.}
+        
+\vspace{22mm}
+
+{\large Giovanni Modanese}
+\footnote{e-mail: modanese@science.unitn.it}
+
+\medskip
+
+{\em I.N.F.N. -- Gruppo Collegato di Trento \par
+Dipartimento di Fisica dell'Universit\`a \par
+I-38050 Povo (TN) - Italy}
+
+\medskip        
+
+{\em and}
+        
+{\large John Schnurer}
+
+\medskip
+
+{\em Director Applied Sciences \par
+Physics Engineering \par
+P.O. Box CN 446, Yellow Springs, Ohio 45387-0466 - U.S.A.} 
+        
+
+\end{center}
+
+\vspace*{10mm}
+
+\begin{abstract}
+We prove that in Euclidean quantum gravity, in the weak field 
+approximation, a ``local" positive cosmological term $\mu^2(x)$ 
+induces localized gravitational instabilities. Such a term can be 
+produced by the coupling to an external Bose condensate. We study 
+the static classical limit of the functional integral in the presence of 
+the (regulated) instabilities. This model is applied to a 
+phenomenological analysis of recent experimental results. 
+A new demonstration experiment is described.
+
+\medskip
+\noindent 04.20.-q Classical general relativity.
+
+\noindent 04.60.-m Quantum gravity.
+
+\noindent 74.72.-h High-$T_c$ cuprates.
+
+\bigskip 
+
+\end{abstract}
+
+The behavior of a Bose condensate -- or more specifically of a 
+superconductor -- in an external gravitational field has been the 
+subject of some study in the past \cite{ana}. The presence in a 
+superconductor of currents flowing without any measurable resistance 
+suggests that it could be used as a sensitive detection system, in 
+particular for gravitational fields. The possible back-reaction of 
+induced supercurrents on the gravitational field itself has been studied 
+too, in analogy with the familiar treatment of the Meissner effect. As 
+one can easily foresee, it turns out that the ``gravitational Meissner 
+effect" is extremely weak: it was computed for instance that in a 
+neutron star with density of the order of $10^{17} \ kg/m^3$ the 
+London penetration depth is ca.\ 12 $km$ \cite{lano}.
+
+The reason for the extremely weak coupling of the supercurrents to the 
+classical gravitational field is very general and originates of course 
+from the smallness of the coupling between gravity and the 
+energy-momentum tensor of matter $T_{\mu \nu}$. One might wonder 
+whether in a quantum theory of gravity -- or at least in an 
+approximation of the theory for weak fields -- the Bose condensate of 
+the Cooper pairs, due to its macroscopic quantum character, can play 
+a more subtle role than a simple contribution to the energy-momentum 
+tensor. 
+
+In a quantum-field representation the condensate is described by a 
+field with non-vanishing vacuum expectation value $\phi_0$, possibly 
+depending on the spacetime coordinate $x$. It is interesting to insert 
+the action of this field, suitably ``covariantized", into the functional 
+integral of gravity, expand the metric tensor $g_{\mu \nu}$ in weak 
+field approximation and check if  the only effect of $\phi_0(x)$ is to 
+produce gravity/condensate interaction vertices proportional to 
+powers of $\kappa=\sqrt{16\pi G}$. One finds that in general this is 
+not the case; the quadratic part of the gravitational action is modified 
+too, by receiving a negative definite contribution. It can thus be 
+expected that the condensate induces localized instabilities of the 
+gravitational field, in a sense which we shall precise in Section 
+\ref{role}.
+
+The present paper is based on the letter \cite{s} and originates in part 
+from previous theoretical work \cite{m1} and in part from recent 
+experimental results (\cite{pk,js}; see Section \ref{exp}) which show 
+the possibility of an anomalous interaction, in special conditions, 
+between the gravitational field and a superconductor. We have 
+developed a theoretical model (Section \ref{mod}) which on the 
+basis of the general results of Section \ref{role} allows to interpret in 
+a consistent way the main reported experimental observations. In 
+Section \ref{bal} we collect some general considerations  concerning 
+the total energetic balance of the process described in Section 
+\ref{mod}. In Section \ref{hyp} we analyze arguments for and against 
+the hypothesis of a ``threshold density" for the condensate density and 
+finally Section \ref{conc} comprises some conclusive remarks. 
+Sections \ref{exp}, \ref{mod} (in part) and \ref{bal} have a less 
+complex formal content than Section \ref{role} and are readable 
+without a detailed knowledge of quantum field theory. 
+
+\section{Effect of a local cosmological term in Euclidean quantum 
+gravity.}
+\label{role}
+
+\subsection{Global cosmological term.}
+\label{glo}
+
+Let us consider the action of the gravitational field $g_{\mu \nu}(x)$ 
+in its usual form:
+\begin{equation}
+S_g = \int d^4x \, \sqrt{g(x)} \left[ \frac{\Lambda}{8\pi G} -
+\frac{1}{8\pi G}R(x) \right] ,
+\label{azione}
+\end{equation}
+where $-R(x)/8\pi G$ is the Einstein term and $\Lambda/8\pi G$ is 
+the cosmological term which generally can be present.
+
+It is known that the coupling of the gravitational field with another 
+field is formally obtained by ``covariantizing" the action of the latter; 
+this means that the contractions of the Lorentz indices of the field must 
+be effected through the metric $g_{\mu \nu}(x)$ or its inverse 
+$g^{\mu \nu}(x)$ and that the ordinary derivatives are transformed 
+into covariant derivatives by inserting the connection field. Moreover, 
+the Minkowskian volume element $d^4x$ is replaced by $d^4x \, 
+\sqrt{g(x)}$, where $g(x)$ is the determinant of the metric. The 
+insertion of the factor $\sqrt{g(x)}$ into the volume element has the 
+effect that any additive constant in the Lagrangian contributes to the 
+cosmological term $\Lambda/8\pi G$. For instance, let us consider a 
+Bose condensate described by a scalar field $\phi(x)=\phi_0 + 
+\hat{\phi}(x)$, where $\phi_0$ is the vacuum expectation value and 
+$m_\phi |\phi_0|^2$ represents the particles density of the ground state 
+in the non-relativistic limit (compare Section \ref{hyp}). The action 
+of this field in the presence of gravity is
+\begin{equation}
+S_\phi = \frac{1}{2} \int d^4x \, \sqrt{g(x)} \left\{ [\partial_\mu 
+\hat{\phi}(x)]^* [\partial_\nu \hat{\phi}(x)] g^{\mu \nu}(x) + m^2_\phi 
+|\hat{\phi}(x)|^2 + m^2_\phi [ \phi_0^* \hat{\phi}(x) + \hat{\phi}^*(x) 
+\phi_0] + m^2_\phi |\phi_0|^2 \right\}.
+\end{equation}
+One can easily check that in the total action $(S_g+S_\phi)$ the 
+contribution $\frac{1}{2} m^2_\phi |\phi_0|^2 8\pi G$ is added to the
+``intrinsic" gravitational cosmological constant $\Lambda$. (Note that 
+in the covariantized action above the derivatives are unchanged, since 
+$\hat{\phi}(x)$ is a scalar quantity.)
+
+The astronomical observations impose a very low limit on the total 
+cosmological term present in the action of the gravitational field. The 
+presently accepted limit is of the order of $|\Lambda| G < 10^{-
+120}$, which means approximately for  $\Lambda$ itself $|\Lambda| 
+< 10^{-54}\ cm^{-2}$ (we use natural units, in which $\hbar=c=1$ 
+and thus $\Lambda$ has dimensions $cm^{-2}$, while $G$ has 
+dimensions $cm^2$; $G \sim L_{Planck}^2 \sim 10^{-66}\ cm^2$). 
+This absence of curvature in the universe at large scale rises a 
+paradox, called ``the cosmological constant problem" (see 
+\cite{wei}). In fact the Higgs fields of the standard model as well as 
+the zero-point fluctuations of any quantum field including the 
+gravitational field itself generate huge contributions to the 
+cosmological term, which however appear to be somehow ``rescaled" 
+to zero at macroscopic distances. In order to explain how this can 
+occur, several quantum field theoretical models have been proposed 
+\cite{gre1}. No definitive and  universally accepted solution of the 
+paradox seems to be at hand yet, since that would require in fact a 
+complete non-perturbative treatment of gravity which appears not 
+feasible up to now. 
+
+A model in which the large scale vanishing of the effective 
+cosmological constant is reproduced in a natural way through 
+numerical simulations is the Euclidean quantum gravity on the Regge 
+lattice \cite{ham1}. From this model emerges a property, which could 
+turn out to be more general than the model itself: if we keep the 
+fundamental length $L_{Planck}$ in the theory, the vanishing of the 
+effective cosmological constant $|\Lambda|$ in dependence of the 
+energy scale $p$ follows a law of the form $|\Lambda|(p)\sim G^{-1} 
+(L_{Planck} \, p)^\gamma$, where $\gamma$ is a critical exponent 
+\cite{ham2,m2}. It is not excluded that this behavior of the effective 
+cosmological constant may be observed in certain circumstances (see 
+\cite{c} and Section \ref{hyp}). Furthermore, the model predicts that 
+in the large distance limit $\Lambda$ goes to zero while keeping 
+negative sign. Also this property has probably a more general 
+character, since the weak field approximation for the gravitational 
+field is ``stable" in the presence of an infinitesimal cosmological term 
+with negative sign, while on the contrary it becomes unstable in the 
+presence of a positive cosmological term (see Section \ref{quag}).
+
+\subsection{Local cosmological term.}
+\label{loc}
+
+Summarizing, independently of the model there appears to exist a 
+dynamical mechanism which ``rescales to zero" any contribution to 
+the cosmological term and fortunately makes the gravitational field 
+insensitive to any constant term in the action of other fields coupled to 
+it. Nevertheless, let us go back to the previously mentioned example 
+of a Bose condensate described by a scalar field $\phi(x)=\phi_0 + 
+\hat{\phi}(x)$. If the vacuum expectation value $\phi_0$ is not 
+constant but depends on the spacetime coordinate $x$, in the 
+gravitational action $S_g$ appears a positive ``local" cosmological 
+term which can have interesting consequences. Let us suppose that 
+$\phi_0(x)$ is fixed by external factors and let us decompose the 
+gravitational field $g_{\mu \nu}(x)$ as usual in the weak field 
+approximation, that is, $g_{\mu \nu}(x)=\eta_{\mu \nu}+\kappa 
+h_{\mu \nu}(x)$, where $\kappa=\sqrt{8\pi G}\sim L_{Planck}$. The 
+total action of the system takes the form
+\begin{equation}
+  S=\int d^4x \, \sqrt{g(x) } \left\{ \left[ \frac{\Lambda}{8 \pi G} + 
+\frac{1}{2} \mu^2(x) \right] -\frac{1}{8 \pi G} R(x) \right\} + S_{h 
+\phi_0}+S_{\hat{\phi}} ,
+\label{usu}
+\end{equation}
+where
+\begin{eqnarray}
+  \frac{1}{2} \mu^2(x) & = & \frac{1}{2}
+  [\partial_\mu \phi_0^*(x)] [\partial^\mu \phi_0(x)] +
+  \frac{1}{2} m^2_\phi |\phi_0(x)|^2 ; \label{isu} \\
+  S_{h \phi_0} & = & \frac{1}{2} \int d^4x \, \sqrt{g(x) }
+  \, \partial^\mu \phi_0^*(x) \partial^\nu \phi_0(x) \kappa
+  h_{\mu \nu}(x) ; \\
+  S_{\hat{\phi}} & = & \frac{1}{2} \int d^4x \, \sqrt{g(x) }
+  \Bigl\{ m^2_\phi |\hat{\phi}(x)|^2 + m^2_\phi
+  \left[ \phi_0^*(x) \hat{\phi}(x) + \phi_0(x) \hat{\phi}^*(x)
+  \right] + \nonumber \\
+  & & + \left[ \partial_\mu \hat{\phi}^*(x) 
+  \partial_\nu \hat{\phi}(x) + \partial_\mu \phi_0^*(x)
+  \partial_\nu \hat{\phi}(x) + \partial_\mu \hat{\phi}^*(x)
+  \partial_\nu \phi_0(x) \right] g^{\mu \nu}(x) \Bigr\}.
+\label{fit}
+\end{eqnarray}
+
+In the action above the terms $S_{h \phi_0}$ and $S_{\hat{\phi}}$ 
+represent effects of secondary importance. The term $S_{h \phi_0}$ 
+describes a process in which gravitons are produced by the ``source" 
+$\phi_0(x)$. The term $S_{\hat{\phi}}$ contains the free action of the 
+field $\hat{\phi}(x)$ describing the excitations of the condensate, and 
+several vertices in which the graviton field $h_{\mu \nu}(x)$ and 
+$\hat{\phi}(x)$ interact between themselves and possibly with the 
+source. All these interactions are not of special interest here and are 
+generally very weak, due to the smallness of the coupling $\kappa$. 
+The relevant point (eq.s (\ref{usu}), (\ref{isu})) is that the purely 
+gravitational cosmological term $\frac{\Lambda}{8 \pi G}$ receives 
+a local positive contribution $\frac{1}{2}\mu^2(x)$ which depends 
+on the external source $\phi_0(x)$. 
+
+We shall call ``critical regions" the regions of spacetime in which the 
+following condition is satisfied: 
+\begin{equation}
+\left[ \frac{\Lambda}{8 \pi G} + \frac{1}{2} \mu^2(x) \right]>0.
+\label{crit}
+\end{equation}
+Since we know that the intrinsic cosmological term $\Lambda/8 \pi 
+G$ is very small, we expect that these regions are essentially 
+determined by the source term $\mu^2(x)$ and thus, through 
+(\ref{isu}), by the vacuum expectation value $\phi_0(x)$. We shall 
+discuss later (Section \ref{hyp}) whether there might be a competition 
+between the two terms in (\ref{crit}) and therefore a ``threshold" 
+effect.
+
+\subsection{Euclidean theory for weak fields.}
+\label{euc}
+
+It is more convenient at this point to carry on our analysis in the 
+Euclidean formalism, in which the Minkowski metric $\eta_{\mu 
+\nu}$ is replaced by the four-dimensional Euclidean metric 
+$\delta_{\mu \nu}$. This amounts to replace the time variable with an 
+imaginary variable and requires that the theory behaves regularly with 
+respect to a rotation of the time axis in the complex plane. For the 
+familiar quantum field theories in flat spacetime this requirement is 
+usually satisfied, but in the case of quantum gravity the situation is in 
+general much more complicated since the metric itself belongs to the 
+dynamic variables of the theory. The equivalence of the gravitational 
+Euclidean theory \cite{haw} with the theory in real spacetime has not 
+been proved yet, in spite of the considerable efforts in this direction 
+\cite{gre2}. Anyway, such an equivalence would be mainly formal, as 
+neither theory is well defined in a general sense. 
+
+We should also mention that in general the Euclidean Einstein action 
+(the term $\frac{-1}{8\pi G}\int \sqrt{g}R$ in eq.\ (\ref{azione})) is 
+not bounded from below \cite{haw}. Thus it is not possible to obtain 
+the vacuum state of the quantum theory (flat space) by minimizing the 
+action in an elementary way, like in the usual Euclidean theories. 
+Several solutions to this problem have been proposed which exploit 
+the freedom in the choice of the functional integration measure, the 
+stochastic regularization or the regularization through an $R^2$ term, 
+effective only at very small distances
+\footnote{See for instance \cite{ham1,gre2}. The $R^2$ term makes 
+the theory renormalizable but non-unitary at perturbative level. 
+However, it is believed that the unitarity problem should be solved by 
+the complete theory.}.
+
+Nevertheless, since in our case the gravitational field is always 
+regarded as weak (small fluctuations around a flat background), it is 
+not necessary in fact to use Euclidean quantum gravity in its most 
+general form. We may treat it, ``{\it a la} particle physics", like a 
+normal quantum field theory (or possibly an effective low-energy 
+theory \cite{don}) in which the background metric is fixed and the 
+analytical continuation between the Euclidean and Minkowskian case 
+is well defined. According to this approximation and to the physical 
+reality we shall suppose that in the absence of external sources the 
+ground state of gravity is flat spacetime, at least at macroscopic scale. 
+We do not specify the dynamical mechanism through which this 
+ground state emerges from the complete theory, although we regard 
+the mentioned non-perturbative Regge calculus simulations as 
+particularly instructive in this sense. 
+
+The quadratic part of the Euclidean Einstein action is positive-definite 
+on the average (see Section \ref{qua}) and thus effectively 
+stable with respect to weak fluctuations. In any case, as we shall see, 
+we are not really interested here in the stability of the $R$-term in the 
+action, but into that of a term of the form $\Lambda_{eff} \sqrt{g}$ 
+(see eq.\ (\ref{root})). If necessary we can admit that the Euclidean 
+Einstein action has been suitably modified in order to allow a correct 
+analytical continuation and to make it bounded from below also 
+beyond the weak field approximation (compare \cite{gre2} and 
+references) and this will not affect our conclusions. 
+
+\subsection{Quadratic part of the action in harmonic gauge.}
+\label{qua}
+
+Let us consider the Einstein action with cosmological term 
+(\ref{azione}) in the approximation of a weak Euclidean field 
+$g_{\mu \nu}(x)=\delta_{\mu \nu}+\kappa h_{\mu \nu}(x)$, where 
+$\kappa=\sqrt{8\pi G}$. We first observe \cite{vel} that after the 
+addition of a harmonic gauge-fixing the quadratic part of the action 
+takes the form
+\begin{equation}
+  S^{(2)}_g=\int d^4x \, {h}_{\mu \nu}(x) V^{\mu \nu \alpha \beta} (-
+\partial^2 -\Lambda) {h}_{\alpha \beta}(x) ,
+\label{azq}
+\end{equation}
+where $V^{\mu \nu \alpha \beta}=\delta^{\mu \alpha}\delta^{\nu 
+\beta} + \delta^{\mu \beta}\delta^{\nu \alpha} -\delta^{\mu 
+\nu}\delta^{\alpha \beta}$. In momentum space (\ref{azq}) becomes
+\begin{eqnarray}
+S^{(2)}_g&=&\int d^4p \, \tilde{h}^*_{\mu \nu}(p) V^{\mu \nu \alpha 
+\beta} (p^2 -\Lambda) \tilde{h}_{\alpha \beta}(p) \label{ooo} \\
+&=& \int d^4p \, (p^2 -\Lambda) \left\{ 2{\rm Tr} [\tilde{h}^*(p) 
+\tilde{h}(p)] - |{\rm Tr} \tilde{h}(p) |^2 \right\}.
+\label{azqp}
+\end{eqnarray}
+From (\ref{ooo}) one often desumes that in this approximation a 
+cosmological term amounts to a mass term for the graviton, positive if 
+$\Lambda<0$ and negative (with consequent instability of the theory; 
+see also \cite{c} and references therein) if $\Lambda>0$. Since in the 
+presence of a condensate the sign of the total cosmological term 
+depends on the coordinate $x$ (eq.\ (\ref{usu})) we might expect 
+some ``local" instabilities in the critical regions (\ref{crit})
+in that case.
+
+We make now a short digression from our main argument and check the 
+positivity of the quadratic part of the Euclidean Einstein action
+in harmonic gauge. Note 
+that since $h$ is a symmetric tensor, we can diagonalize it 
+at any point before extracting its trace. The quadratic form $2{\rm 
+Tr}(\tilde{h}^*\tilde{h})-|{\rm Tr}\tilde{h}|^2$ in (\ref{azqp}), 
+expressed in terms of the diagonal $\tilde{h}$, namely
+\begin{equation}
+Q = 2 \sum_{\alpha} |\tilde{h}_{\alpha \alpha}|^2 -|\sum_{\alpha} 
+\tilde{h}_{\alpha \alpha}|^2 = \sum_{\alpha} |\tilde{h}_{\alpha 
+\alpha}|^2 -\sum_{\alpha \neq \beta} \tilde{h}^*_{\alpha \alpha} 
+\tilde{h}_{\beta \beta}
+\label{xsx} 
+\end{equation}
+has negative as well as positive eigenvalues. This should be 
+expected, as the scalar curvature $R$ has no definite sign, and means 
+that the quadratic part of the action has no minimum for $h=0$. 
+Remember however that we are working in the Euclidean functional 
+formulation of the theory, so the field $h$ is supposed to ``fluctuate 
+thermally" with temperature $\Theta=\hbar/k_B$ (compare also eq.s 
+(\ref{ciao}), (\ref{ciaobis})). Also note that having already 
+diagonalized $h$ at any point, we cannot do any further linear 
+transformation on it. Taking the mean value of $Q$ and assuming that 
+the correlations $\langle h_{\alpha \alpha} h_{\beta \beta} \rangle$ 
+vanish by isotropy for $\alpha \neq \beta$ we obtain $\langle Q 
+\rangle = \sum_{\alpha} \langle |h_{\alpha \alpha}|^2 \rangle$. We 
+conclude that the quadratic part of the Einstein action is stable ``on the 
+average" at $h=0$. For an effective theory (compare our discussion in 
+Section \ref{euc}) this should be sufficient.
+
+\subsection{Quadratic part of $g^{1/2}$ and instabilities.}
+\label{quag}
+
+We can prove the appearance of instabilities in the presence of a 
+positive cosmological term at a more general level. Before 
+introducing any gauge-fixing for the gravitational field and 
+disregarding the Einstein action for a moment, let us study the stability 
+of the cosmological term $\frac{1}{8\pi G}\sqrt{g}$. The expansion 
+of the determinant $g$ gives to first order in $\kappa$ 
+\begin{equation}
+g^{(1)} = \kappa {\rm Tr} {h}
+\end{equation}
+and to second order
+\begin{equation}
+  g^{(2)} = \frac{1}{2} \kappa^2 \left[ ({\rm Tr} {h} )^2 -{\rm Tr} 
+({h}^2) \right].
+\label{secondo}
+\end{equation}
+Recalling the expansion $\sqrt{1+\delta} =1+\frac{1}{2} \delta-
+\frac{1}{8} \delta^2+...$ and rearranging the second order terms one 
+finds
+\begin{equation}
+\left[ \sqrt{g} \right]^{(2)} = \frac{1}{8}\kappa^2 \left[ ({\rm Tr} 
+{h} )^2 -2{\rm Tr} ({h}^2) \right].
+\label{root}
+\end{equation}
+(By the way, we have checked in this fashion that the quadratic part of 
+$\sqrt{g(x)}$ has the same algebraic structure in ${h}$ as the 
+Einstein term in harmonic gauge.) 
+
+Now we can impose the condition ${\rm Tr} h=0 \,$
+\footnote{We can always impose ${\rm Tr} h=0$ in the Euclidean 
+weak field approximation, since the gauge transformations have the 
+form
+\begin{equation}
+h_{\mu \nu}(x) \to h_{\mu \nu}(x) + \partial_\mu f_\nu(x) + 
+\partial_\nu f_\mu(x)
+\end{equation}
+with $f_\mu(x)$ arbitrary and thus the condition on the transformation 
+is
+\begin{equation}
+\partial^\mu f_\mu(x)=-\frac{1}{2} {\rm Tr} h(x).
+\end{equation}
+By choosing $f_\mu(x)$ of the form $\partial_\mu F(x)$ we obtain the 
+condition
+\begin{equation}
+\partial^2 F(x)=-\frac{1}{2} {\rm Tr} h(x),
+\end{equation}
+which in Euclidean spacetime is easily solved.}
+and look at the stability of the total action $\frac{1}{8\pi G} \int d^4x 
+\, \sqrt{g} (\Lambda_{eff}-R)$. If $\Lambda_{eff}>0$ the 
+cosmological term is clearly unbounded from below with respect to 
+any ``zero mode" $h(x)$ which leaves unchanged the rest of the Euclidean 
+action -- that is, the Einstein term $\frac{-1}{8\pi G} \int d^4x 
+\sqrt{g} R$. This requirement is satisfied by fields $h$ which are 
+solutions of Einstein equations
+\begin{equation}
+R_{\mu \nu}(x)-\frac{1}{2} g_{\mu \nu}(x) R(x) = -8 \pi G T_{\mu 
+\nu}(x)
+\label{ei2}
+\end{equation}
+with $T_{\mu \nu}$ satisfying the condition
+\begin{equation}
+\int d^4x \sqrt{g(x)} \, {\rm Tr}\,  T(x) = 0
+\label{nonf}
+\end{equation}
+(note that for solutions of (\ref{ei2}) one has $R(x)=8 \pi G \, {\rm 
+Tr} \, T(x)$). 
+
+In Minkowski space one can easily exhibit zero modes of Einstein 
+action: namely gravitational waves satisfy eq.\ (\ref{ei2}) with 
+$T_{\mu \nu}(x)=0$ and in particular they satisfy a linear wave
+equation in the weak-field approximation. In Euclidean space the 
+linearized Einstein vacuum equations take the form of four-dimensional 
+Poisson equations, as can be seen most easily in harmonic gauge. 
+Thus they do not admit nontrivial solutions for $T(x)=0$ everywhere.  
+However condition (\ref{nonf}) can be also satisfied by energy-momentum
+tensors which are not identically zero but may have negative and positive
+sign, in such a way that their total integral is zero. Of course, they
+do not represent any acceptable physical source, but the
+corresponding solutions of (\ref{ei2}) exist anyway and are 
+zero modes of the Euclidean action. One can consider, for instance, 
+the static field produced by a ``mass dipole" (which eventually we
+imagine as centered in a critical region), with behaviour $h\sim r^{-2}$, 
+etc.
+
+In conclusion, in the regions where $\Lambda_{eff}>0$ the zero modes
+of ${h}_{\mu \nu}(x)$ tend to grow without restriction. In the case of the
+interaction with a Bose condensate, such regions are the critical 
+regions (\ref{crit}). Since we are considering a 
+weak-field approximation, we shall assume that in fact in those 
+regions the field oscillates between extremal values, with null 
+average. With an expression borrowed from experimental physics, we 
+might say that $h^2$ ``saturates" in those regions. The extremal 
+values will be determined by some physical cut-off and are not 
+relevant if we are concerned only with the average (compare Section 
+\ref{mod}).
+
+\subsection{Comparison with the classical case.}
+\label{com}
+
+The instability effect described above is of quantum nature. In 
+General Relativity the consequences of a positive effective 
+cosmological term $\Lambda_{eff}(x)$ are not quantitatively 
+different from those of an ordinary mass-energy density $T_{00}(x)$ 
+and we do not see any hint of instability in the corresponding solutions 
+of classical Einstein equations. For instance,
+the trace of the Einstein vacuum equations derived from the 
+action (\ref{azione}) is $R(x)=\Lambda_{eff}(x)$. On the 
+other hand, taking the trace of the equations without 
+cosmological term but in the presence of matter we obtain as 
+mentioned
+\begin{equation}
+R(x)=8 \pi G \, {\rm Tr} \, T(x).
+\end{equation}
+This means that in the regions in which $\Lambda_{eff}(x)$ or 
+$T_{00}(x)$ are different from zero, the curvature radius $\rho$ of 
+spacetime is of the order of $\rho \sim 1/\sqrt{\Lambda_{eff}(x)}$ or 
+$\rho \sim 1/\sqrt{T_{00}(x)}$. For an ordinary density $\rho$ is 
+very large, say $\rho \sim 10^{16} \ cm$ at least (see Section 
+\ref{hyp}). 
+
+One key difference between a classical ``geometrodynamical" view
+of General Relativity and the quantum field theory on a flat
+background lies in the interpretation of the factor $\sqrt{g}$
+in the action. In order to derive the classical equations (\ref{ei2}) 
+from the total action of the [gravity+matter] system one defines the 
+energy-momentum tensor $T^{\mu \nu}(x)$ in such a way that a 
+variation $\delta g_{\mu \nu}(x)$ of the metric affects the action as 
+follows:
+\begin{equation}
+\delta S_{matter} = \frac{1}{2} \int d^4 x \, \sqrt{g(x)} \, T^{\mu 
+\nu}(x) \delta g_{\mu \nu}(x).
+\end{equation}
+In the quantum theory of gravity on a flat background ``{\it a la} 
+particle physics", which we are adopting, the point of view is 
+different. The factor $\sqrt{g(x)}$ does not have the classical 
+geometrical meaning of four-volume measure anymore. It is expanded 
+in a power series of $\kappa$ and the contributions obtained in this way are 
+added to the rest of the covariantized action, giving rise as we saw also to 
+a negative quadratic term in $h$ (eq.\ (\ref{root})). Thus the 
+instability which follows from this term for $\Lambda_{eff} > 0$ 
+should be regarded as a quantum gravity effect, connected to the 
+perturbative theory around a flat background.
+
+Finally we recall that in several cosmological theories 
+\cite{giap} one assumes that at some 
+stage of the evolution of the universe there can be large negative 
+contributions to $T^{00}$, due to the instability of certain fields or to 
+the formation of a condensate. Our model does not have anything in 
+common with these (essentially classical) theories.
+
+
+\subsection{General functional integral for the static potential.}
+\label{hei}
+
+In the following we shall be interested in the influence of the induced 
+cosmological term $\mu^2(x)$ on the gravitational interaction of two 
+masses $m_1$ and $m_2$ at rest. This influence can be computed in 
+principle inserting $\mu^2(x)$ in the general formula for the static 
+potential in Euclidean quantum gravity \cite{m1,ham2,mv}
+\begin{equation}
+U(L) = \lim_{T \to \infty} -\frac{\hbar}{T} \log \frac{1}{Z} \int d[g] 
+\, \exp \left\{ -\hbar^{-1} \left[   S_g + \sum_{i=1,2} m_i \int_{-
+\frac{T}{2}}^{\frac{T}{2}} dt \,  \sqrt{g_{\mu \nu}[x_i(t)] 
+\dot{x}_i^\mu(t) \dot{x}_i^\nu(t)}\right] \right\}
+\label{ciao}
+\end{equation}
+where $S_g$ is the gravitational action (\ref{azione}) and $Z$ a 
+normalization factor. The trajectories $x_i(t)$ of the two masses 
+$m_1$ and $m_2$ are parallel with respect to the metric $g$. $L$ is 
+the distance between the trajectories, corresponding to the spatial 
+distance of the two masses. The interaction energy $U(L)$ of the two 
+masses depends on the correlations between the values of the 
+gravitational field on the ``Wilson lines" $x_1(t)$ and $x_2(t)$. This can be 
+verified explicitly in the weak field approximation or through 
+numerical simulations.
+
+We can rewrite eq.\ (\ref{ciao}) in the presence of the Bose 
+condensate as
+\begin{eqnarray}
+U[L,\mu^2(x)] &=& \lim_{T \to \infty} -\frac{\hbar}{T} \log 
+\frac{1}{Z} \int d[g] \int d[\hat{\phi}] \nonumber \\ 
+& & \exp \left\{ -\hbar^{-1} \left[   S[g,\hat{\phi},\phi_0] + 
+\sum_{i=1,2} m_i \int_{-\frac{T}{2}}^{\frac{T}{2}} dt \,  
+\sqrt{g_{\mu \nu}[x_i(t)] \dot{x}_i^\mu(t) \dot{x}_i^\nu(t)}\right] 
+\right\},
+\label{ciaobis}
+\end{eqnarray}
+where $S[g,\hat{\phi},\phi_0]$ is the total action defined in 
+(\ref{usu}). We have seen that in the weak field approximation  
+$h^2$ ``saturates" in the critical regions. As a consequence, the 
+field correlations present in the functional integral are modified. We 
+showed earlier with a simple numerical model \cite{c} that in general 
+this reduces $|U|$. Also from an intuitive point of 
+view it is quite clear that local constraints on the field damp its 
+correlations. An explicit evaluation of the functional integral 
+(\ref{ciaobis}) is however quite difficult. In Section \ref{mod} we 
+shall work out a simpler model based on a classical limit. 
+
+\medskip
+Two final remarks are in order:
+
+\begin{enumerate}
+
+\item 
+Notice that according to the general definition of the center of mass of 
+a system in the presence of gravity eq.\ (\ref{ciao}) holds, more 
+generally, when $x_i(t)$ represent the trajectories of the centers of 
+mass of two extended bodies. This property can explain why the 
+observed height dependence of the shielding effect is so weak 
+(compare Section \ref{exp} and \cite{up,unni}) although the disk 
+apparently should ``shield only part of the Earth". 
+
+\item
+We observe that in order to affect the quadratic part of the 
+gravitational action the local cosmological term $\mu^2(x)$ must 
+contain only fields, like $\phi_0(x)$, which do not belong to the 
+functional integration variables. For instance, the terms containing 
+$\hat{\phi}(x)$ in eq.\ (\ref{fit}) are not included in $\mu^2(x)$ (eq.\ 
+(\ref{isu})), because in perturbation theory they represent simply  
+interaction vertices. This remains true even if $\hat{\phi}(x)$ is 
+coupled in turn to a further external source. 
+
+This reasoning can be generalized to other fields possibly present in 
+the total action. One concludes that a cosmological contribution like 
+$\mu^2(x)$ can only originate from a field with non-vanishing vacuum 
+expectation value. In our case the vacuum expectation value 
+$\phi_0(x)$ is the result of a number of external physical factors: the 
+action of the e.m.\ field (see Section \ref{exp}), the equilibrium of the 
+thermodinamic potentials of the condensate in the given conditions of 
+temperature, the microscopic structure of the superconducting material etc.
+
+\end{enumerate}
+
+\section{Experimental evidences.}
+\label{exp}
+
+\subsection{Summary.}
+\label{sum}
+
+A recent experiment \cite{pk} has shown an unexpected interaction 
+between the gravitational field and a superconductor subjected to 
+external e.m.\ fields. In this Section we summarize the main reported 
+observations, trying to focus on the essential elements, since the 
+experimental situation is quite complex. We add a few qualitative 
+remarks on the possible theoretical interpretations of these 
+observations according to the model with ``anomalous" coupling 
+between $h(x)$ and $\phi_0(x)$ introduced in the previous Sections. 
+A more quantitative application of the model is given in Section 
+\ref{mod}.
+
+The core of the experimental apparatus is a toroidal disk of diameter 
+27 $cm$ made of high critical temperature (HTC) superconducting 
+material. The disk is kept at a temperature below 70 $K$; it levitates 
+above three electromagnets and rotates (up to ca.\ 5000 
+$rpm$) due  to the action of additional lateral magnetic fields. All 
+electromagnets are supplied with AC current with variable frequency. 
+Within certain frequency ranges one observes a slight decrease in the 
+weight of samples hung above the disk, up to a maximum ``shielding" 
+value of ca.\ 1\%. A smaller effect, of the order of 0.1\% or less, is 
+observed if the disk is only levitating but not rotating. 
+
+The percentage of weight decrease is the same for samples of 
+different masses and chemical compositions. One can thus describe 
+the effect as a slight diminution of the gravity acceleration $g_E$ 
+above the disk. The dependence of the effect on the height above the 
+disk is very weak: there appears to be in practice a ``shielding 
+cylinder" over the disk (compare also \cite{up,unni}), extending for 3 
+meters at least. The resulting field configuration is clearly non
+conservative. An horizontal force at the border of the shielding
+cylinder has occasionally been observed, but it is far too small to
+restore the usual ``zero circuitation" property of the static field.
+No weight reduction is observed under the disk.
+
+The disk has a composite microscopic structure: the upper part is 
+treated with a thermal process which melts partially the grains of the 
+HTC material, while the lower part is more granular and has a lower 
+critical temperature. This double structure aims at obtaining good 
+levitation properties of the disk, while leaving also a layer in which 
+considerable resistive effects can arise. In general both requirements 
+appear necessary for the effect to take place: (1) the disk must be 
+able to support intense super-currents; (2) a granular structure with 
+pinning centers must be present, such to oppose resistance to 
+variations of the super-currents pattern while the disk is subjected to 
+alternate e.m.\ fields.
+
+\subsection{Interpretation.}
+\label{int}
+
+We have already stressed in our analysis \cite{s} that an 
+interpretation of the reported effect in the framework of General 
+Relativity, as due to repulsive post-newtonian fields produced by the 
+super-currents \cite{li}, is untenable, since the magnitude order of the 
+effect is far too large. The work \cite{unni} shows that the 
+contribution from the super-currents to the static component $g_{00}$ 
+of the post-newtonian gravitational field over the disk is not only 
+much smaller than the observed effect (by several magnitude orders), 
+but it is attractive like the newtonian field of the Earth. Even taking 
+into account perturbative quantum corrections to the Newton potential 
+one reaches the same negative conclusion. 
+
+Our interpretative model of the experimental results \cite{s} is based 
+on the ``anomalous" coupling between Bose condensate and 
+gravitational field described by eq.s (\ref{usu}), (\ref{isu}). In this 
+model the essential ingredient for the shielding is the presence of 
+strong variations of the Cooper pairs density in the disk: {\em we assume 
+that such variations produce small regions with higher density, where 
+the criticality condition (\ref{crit}) is satisfied and thus an additional
+boundary condition is imposed on the gravitational field}.
+\footnote{Clearly the local condensate density can never exceed the 
+total electronic density. The average condensate density also increases
+at lower temperatures but the power transfer process becomes more
+difficult in that case (compare Section \ref{ver}).}
+
+In this view the disk's rotation in the external magnetic field plays the 
+role of forcing the pattern of the super-currents and thus the local
+condensate density. It is known that in general by moving a type II 
+superconductor (of which the HTC are one example, that is, with a 
+structure of superconducting and non-superconducting regions) in an 
+external field or by applying to it an AC, one causes resistive 
+phenomena, since the super-currents' pattern is unable to follow the fields 
+variations. In the present case it has been in fact observed that while 
+the peak shielding values are produced, the disk tends to heat up. 
+
+This point of view -- suggested by a long analysis of the experimental 
+results in search of a consistent interpretation -- allows one to regard 
+the experimental conditions reported in \cite{pk} as a particular case, 
+open to changes and simplifications. The levitation of the disk does 
+not appear to be {\em per se} necessary, but just convenient in order 
+to rotate it. In turn, the rotation in the external field aims essentially, 
+as mentioned, at forcing the currents' pattern. Thus one might perhaps 
+simply rotate the disk mechanically in a fixed external field, or 
+rapidly vary the fields direction and strength while leaving the disk at 
+rest. The latter technique has been recently employed 
+with positive results (Section \ref{demo}).
+
+Even if we stick to the relatively simple picture above, according to 
+which the essential are the variations of the Cooper pairs density, 
+there remains for the theory the general task of predicting such 
+variations in dependence of the disk structure, of the external fields 
+etc. This is clearly a very difficult task, especially for an HTC 
+superconductor. It seems more likely at present that the optimization 
+of the parameters mentioned above (disk structure, external fields, 
+etc.) will be first approached in a semi-empirical way.
+
+Another crucial feature of the experimental apparatus is the frequency 
+spectrum of the applied e.m.\ field. Independently of the reason for 
+which the external e.m.\ field was originally employed, it is clear in 
+our opinion that it plays a fundamental role in supplying the energy 
+necessary for the ``absorption" of the gravitational field in the critical 
+regions. A simple model which describes this mechanism is presented 
+in Sections \ref{mod}, \ref{bal}. Experimentally one observes 
+\cite{pk} that the maximum shielding value is obtained when the coils 
+are supplied with high frequency current (of the order of 10 $MHz$).
+
+In general, the power transfer to the disk has necessarily a limited 
+efficiency. This represents one of the most serious problems to 
+overcome in order to obtain the shielding effect in stable form, 
+especially for heavy samples, without using an excessive amount of 
+refrigerating fluid to avoid the heating of the disk and the ensuing loss 
+of its superconducting properties. One should also remind that the 
+maximum shielding value was observed in conditions close to the 
+resistive transition. This makes clear why it is important to use a disk 
+made of HTC material: in a low-temperature superconductor, 
+admitted one can reach the critical density conditions, the specific 
+heat is probably too small to maintain them in a stable way and to 
+allow any power transfer.
+
+\subsection{A new demonstration experiment.}
+\label{demo}
+
+One of us (J.S.) has recently succeded \cite{js} in reproducing the weak 
+gravitational shielding effect for a short time interval (up to 5 seconds). 
+The experimental setup was designed in such a way to eliminate as far as
+possible any non-gravitational disturbance and to show a precise 
+temporal correspondence between actions taken on the HTC disk and the
+weight reduction of the samples. Although the observed weight reduction
+was quite large (of the order of 5\%) this experiment should be regarded
+just as a demonstration experiment. In fact, many actions had to be taken
+literally by hand, the samples employed were in all cases very light
+and the short duration of the effect did not allow any precise spatial
+mapping of the field. 
+
+It is very remarkable that in this experiment the effect was obtained 
+without subjecting the disk to any rotation. This supports our 
+interpretation of the effect and rises hopes that the original experimental 
+setup of Podkletnov and co-workers could be substantially simplified.
+However, at the present there is no evidence that the effect can be
+obtained in stable form without rotation
+\footnote{According to public releases, the NASA group in Huntsville,
+Alabama, is cloning Podkletnov's experiment. This is a difficult task,
+especially for the sophisticated technology involved in the construction
+of the large HTC disk and in the control of its rotation. We are also aware,
+though still at un-official level, of other groups working at the experiment
+with smaller disks.}.
+Also, it should be mentioned that similar temporary effects were observed by 
+Podkletnov et al.\ since the first measurements, too \cite{pk}.
+                             
+The experimental setup consists of (a) a hexagon-shaped YBCO 1" (2.5 $cm$)
+superconducting disk, 6 $mm$ thick; (b) a magnetic field generator 
+producing a 600 $gauss$/60 $Hz$ e.m.\ field; (c) a beam balance with 
+suspended sample.
+          
+The beam is made of bamboo, without any metal part, coming to a point on 
+one end (24.6 $cm$ long, weight 1.865 $g$). The sample is made as follows. 
+A cardboard rectangle (16 $mm$ by 10 $mm$ by 0.13 $mm$) is suspended from the 
+balance with 2.8 $cm$ of cotton string. A polystyrene ``pan" (7.2 $cm$ by 
+8.7 $cm$ by 1.7 $mm$) is attached with paper masking tape to the cardboard 
+rectangle. The total sample assembly (with string, cardboard, tape) weighs 
+1.650 $g$. 
+   
+The balance is suspended from the end of a 150 $cm$ wood crossbeam by ca.\ 
+30 $cm$ of monofilament fishing line (8 lb.\ test) attached to the balance's 
+center of mass (5.5 $cm$ from the end where the sample is attached). The 
+other end of the crossbeam is firmly anchored by a heavy steel tripod. 
+Thermal and e.m.\ isolation is provided by a glass plate (15 $cm$ by 30 $cm$, 
+0.7 $cm$ thick) 
+with a brass screen attachment. This plate-and-brass-screen assembly is 
+held about 4.5 $cm$ below the sample by a ``3-finger" ring stand clamp.
+A straightsided, 6" diameter, 10" deep dewar with 3-4" of liquid nitrogen 
+is used to cool the superconducting disk below its critical temperature, 
+and is removed from the experiment area before the trial.
+ 
+The experimental procedure comprises the following steps.
+
+\begin{enumerate}
+
+\item The YBCO superconductor is placed in a liquid nitrogen bath and allowed 
+    to come to liquid nitrogen temperature (as indicated when the boiling of 
+    the liquid nitrogen ceases). The superconductor will remain below its 
+    critical temperature (about 90 $K$) for the duration of the trial (less 
+    than 20 seconds).
+
+\item The disk is then removed from the bath and placed on a strong NdFeB
+    magnet to induce a supercurrent. The Meissner effect is counteracted
+    by a wooden stick. The superconducting disk has a cotton string attached 
+    to it to assist handling.
+
+\item The disk and wooden stick assembly is placed on the AC field generator, 
+    about 33 $cm$ below the isolation plate and about 40 $cm$ below the 
+    sample. 
+    The AC field generator is then cycled for ca.\ 5 seconds with 0.75 $sec$ 
+    equal-time on/off pulses. Prior to a run the sample is centered to be 
+    over the middle of where the disk will finally be, on the AC field 
+    generator. The idea is that the ``column" of modified gravity has to hit 
+    the sample somewhere as the disk is only 1 inch in diameter and the 
+    sample is much larger.
+
+\end{enumerate}
+
+One observes that while AC current is flowing through the generator 
+the balance pointer dips 2.1 $mm$ downward. When the AC field generator
+is pulsed with no superconductor present, there is no measurable pointer 
+deflection. Also air flows do not cause any measurable deflection. The
+whole procedure is well reproducible.
+
+The weight difference required to raise the sample by 2.1 $mm$ was then found 
+to be 0.089 $g$. This was measured taking advantage of the fact that the 
+suspension wire produces a small torque on the balance beam toward the 
+equilibrium position: the balance pointer was found to raise 2.1 $mm$ upward 
+when a weight of 0.089 $g$ was placed above the sample.
+ 
+An improved version of the experiment is being developed. Details will
+appear elsewhere.
+
+
+\section{The modified field to lowest order.}
+\label{mod}
+
+\subsection{Static classical limit of the functional integral.}
+\label{sta}
+
+In this Section we study in a suitable approximation the consequences 
+of the anomalous coupling between the gravitational field and the 
+Bose condensate taking place in the critical regions (i.e., where 
+condition (\ref{crit}) is satisfied). We aim at verifying in this way 
+whether from our theoretical hypoteses follow plausible 
+phenomenological consequences and at composing a picture of the 
+shielding phenomenon which may help in understanding various 
+aspects: in which sense a constant gravitational field is slightly 
+``absorbed" in the disk and turns out to be weaker above it; if the field 
+modified in this way is conservative; which is the global energy 
+balance of the process etc.
+
+We have seen that in the presence of strong variable e.m.\ fields, in 
+the superconducting disk small regions can appear in which the 
+Cooper pairs density is particularly high. We shall discuss later 
+whether there is necessarily a ``threshold" density which must be 
+exceeded for the  anomalous coupling to be possible. The distribution 
+of these regions varies with time, as the superconductor moves in the 
+external e.m.\ field, but for our reasoning we can consider the 
+situation at a fixed instant. We can also suppose that the number of 
+singular regions for unit volume remains almost constant until the 
+external conditions are modified (rotation frequency, field 
+parameters, temperature). The size of the critical regions is of the 
+order of the coherence length $\xi$, that is, of the scale at which 
+typically the variations of the order parameter take place in the given 
+material.
+
+As explained in Section \ref{role}, let us suppose that inside the 
+singular regions the gravitational field is ``forced" by the interaction 
+with the condensate to oscillate around zero. We want to see how this 
+can influence a pre-existing field configuration. Let us then consider, 
+as done in Section \ref{hei}, the functional integral of Euclidean 
+gravity and add to the action a static cosmological source term 
+$\mu^2({\bf x})$. Let us also add a static source $T^{\mu \nu}({\bf 
+x})$ which generates a constant background field of strength $g_E$. 
+We can write the averaged Euclidean field in weak field 
+approximation as follows:
+\begin{equation}
+\langle 0 | h_{\mu \nu}({\bf x}) | 0 \rangle = \frac{1}{Z} \int d[h] \, 
+h_{\mu \nu}(x) \exp \left\{ -\hbar^{-1} \left[ \int d^4x \, \sqrt{g} \left( 
+\frac{\Lambda}{8\pi G} + \frac{1}{2} \mu^2 -\frac{R}{8\pi G} + 
+\kappa h_{\mu \nu} T^{\mu \nu} \right) \right] \right\}.
+\label{media}
+\end{equation}
+where $g$ and $R$ must be expressed in terms of $h_{\mu \nu}$. The 
+functional average is dominated by the functions $h$ which minimize 
+the action. But we know from the analysis of Section \ref{role} that 
+these functions are those which solve the field equation in the 
+presence of the source $T^{\mu \nu}$ and of the constraints 
+corresponding to the ``saturation" of $|h|^2$ in the critical regions 
+(\ref{crit}). Thus $h$ is zero on the average in the critical regions. 
+Since $\mu^2$ and $T^{\mu \nu}$ do not depend on time, we expect 
+that the average field does not depend on time either. It follows that the 
+analytical continuation to imaginary time necessary to translate back 
+the expectation value into Minkowski space is trivial.
+
+\subsection{Constrained field equation and its solution.}
+\label{con}
+
+
+In order to guess the solution of the static field equation in the 
+presence of the given source and constraints, let us now follow an 
+analogy with an electrostatic field. In that case the regions in which 
+the electric field and potential are forced to zero could be realized by 
+very small perfect conducting grounded spheres or plaquettes.
+
+We must check that the gravitational field equation in the case we are 
+considering is analogous to that of the electrostatic field. We first 
+write the equation of the trajectory $x^\alpha(\tau)$  of a particle in 
+free fall in a given gravitational field $g_{\mu \nu}(x)$, called the 
+geodesic equation:
+\begin{equation}
+  \frac{d^2x^\alpha(\tau)}{d\tau^2}+\Gamma^\alpha_{\mu \nu} 
+[x(\tau)] \frac{dx^\mu(\tau)}{d\tau} \frac{dx^\nu(\tau)}{d\tau} = 0,
+\label{a1}
+\end{equation}
+where $\tau$ is the proper time, with differential $d\tau=\sqrt{dx^\mu 
+dx^\nu g_{\mu \nu}}$ and $\Gamma^\alpha_{\mu \nu}$ is the 
+Christoffel connection
+\begin{equation}
+  \Gamma^\alpha_{\mu \nu}=\frac{1}{2} g^{\alpha \beta} \left( 
+\partial_\mu g_{\beta \nu} + \partial_\nu g_{\beta \mu}-\partial_\beta 
+g_{\mu \nu} \right).
+\label{a2}
+\end{equation}
+In this equation and in the following we omit for simplicity the 
+arguments of the fields.
+
+We now specialize to the static case, supposing the particle initially 
+at rest, and compute its acceleration. For the spatial components $x^i$ 
+eq.\ (\ref{a1}) takes the form
+\begin{equation}
+  \frac{d^2 x^i}{d\tau^2}+\Gamma^i_{00} \left( \frac{dx^0}{d\tau} 
+\right)^2 = 0.
+\label{a3}
+\end{equation}
+In the following we work in the weak field approximation and 
+consider only terms of lowest order in $\kappa$. For the connection 
+(\ref{a2}) we have
+\begin{equation}
+  \Gamma^{(1) \, \alpha}_{\mu \nu}=\frac{1}{2} \kappa 
+\delta^{\alpha \beta} \left( \partial_\mu h_{\beta \nu} + \partial_\nu 
+h_{\beta \mu}-\partial_\beta h_{\mu \nu} \right)
+\label{a4}
+\end{equation}
+and in particular, in the static case 
+\begin{equation}
+  \Gamma^{(1) \, i}_{00}= -\frac{1}{2} \kappa \partial^i h_{00} .
+\label{a5}
+\end{equation}
+
+In eq.\ (\ref{a3}) the proper time $\tau$ differs from the coordinate time
+only for terms of order $\kappa$, thus to lowest order the acceleration 
+is given by
+\begin{equation}
+  \frac{d^2 x^i}{dt^2}=G^i, \qquad {\rm with \ } G^i= -\Gamma^{(1) \, i}_{00}
+  =\frac{1}{2} \kappa \partial^i h_{00}.
+\label{a6}
+\end{equation}
+
+On the other hand the field must satisfy Einstein vacuum equations 
+$R_{\mu \nu}=0$. Disregarding the quadratic terms in the connection 
+we can write them as
+\begin{equation}
+ \partial_\nu \Gamma^\rho_{\mu \rho} -\partial_\rho 
+\Gamma^\rho_{\mu \nu} = 0.
+\label{a7}
+\end{equation}
+For the 00 component in the static case one has
+\begin{equation}
+  \partial_i \Gamma^i_{00}=0.
+\label{a8}
+\end{equation}
+
+In conclusion, the gravitational acceleration of a particle at rest is 
+given to lowest order in $\kappa$ by a vectorial field $G^i$ with zero 
+divergence in the vacuum which is the gradient of the potential $-
+\frac{1}{2} \kappa h_{00}$. This justifies, in that approximation, an 
+analogy with the electrostatic field and the electrostatic potential.
+
+Thus we can represent also the gravitational field in this case with 
+field lines. Still following the electrostatic analogy (justified by the 
+fact that the field equations and the boundary  conditions for the two  
+fields are the same), we observe that when a field line meets a 
+singular region it is intercepted. The field lines are just conventional 
+objects and the number of lines which cross the unity surface is 
+proportional to the field intensity, the proportionality constant being 
+arbitrary. Thus the final effect must not depend on such constant, as 
+can be easily verified. 
+
+The fraction of intercepted field lines, corresponding to the shielding 
+factor $\alpha$, is approximately equal to the ratio between the total 
+cross section of the singular regions and the area of the disk. Let us 
+suppose that in the presence of shielding the gravity acceleration over 
+the disk is $g_E(1-\alpha)$; we have in this simplified model 
+\begin{equation}
+\alpha \sim \frac{N \sigma}{S_{disk}}=n \sigma ,
+\label{reg}
+\end{equation}
+where $\sigma$ is the average cross section of a singular region, $N$ 
+is the total number of singular regions in the disk and $n$ is the 
+number of singular regions for unit disk surface.
+
+
+\subsection{Discussion.}
+\label{disc}
+
+The average value for $h_{\mu \nu}({\bf x})$ obtained in the previous
+Section is unsatisfactory for two reasons: (1) it does not account for the
+observed non conservative character of the field in the presence of
+shielding (compare \ref{sum}); (2) it does not reproduce the observed
+null effect below the disk. 
+
+In other words, while the observations indicate that there is a kind of 
+``absorption" of the gravitational field in the disk, with a long 
+cylindrical shielding region above it and no effect below, the field 
+solution mentioned above has the typical features of an electric shielding: 
+namely, a grounded conducting plaquette placed across a constant 
+electrostatic field projects a ``+/- shadow" in the field with a 
+length of the same order of its width. (In the electric case, this is 
+due to the superposition of the constant field and of the field produced 
+by the electric charges induced on the plaquette.) 
+
+In fact we cannot be sure that averaging $h$ as done above is correct.
+We know that in the quantum theory the gravitational force between two
+masses at rest is given in principle by eq.\ (\ref{ciaobis}) but that
+equation does not give us enough information to compute the average
+field, nor it ensures that in the quantum case an average field is well 
+defined at all. For instance, we would not be able to predict through
+eq.\ (\ref{ciaobis}) if the gravitational red-shift is affected
+by the shielding. (This would actually be an interesting experimental
+check.)
+
+Thus an important task for the theory would be that of
+evaluating eq.\ (\ref{ciaobis}) in a suitable approximation in order
+to check if the resulting {\it effective} field corresponds to the 
+observed configuration. At present we shall limit ourselves to the following
+consideration. We observe that in practice only the gravitational
+acceleration of the samples is measured in the experiment, i.e., the 
+connection $\Gamma^{(1) \, i}_{00}$ (compare (\ref{a6}). We can admit 
+that due to the quantum instability effect $\Gamma$ vanishes in the
+critical regions. This perturbs slightly the pre-existing field
+configuration and produces a cylindrical shadow as observed. One
+can easily verify that a $\Gamma$-configuration of this kind still
+satisfies eq.\ (\ref{a8}) outside the disk and thus Einstein equations to 
+lowest order. The energetic balance is ensured by the external 
+non-gravitational
+source which constrains $\Gamma$ (compare also the next Section).
+
+
+\section{Energetic balance.}
+\label{bal}
+
+After having introduced in the preceding Section a model which 
+describes in an approximate way the variation of the gravitational 
+field in the presence of the disk, it is necessary now to discuss some 
+issues of elementary character, but important from the practical point 
+of view, concerning the overall energetic balance of the shielding 
+process.
+
+In general one will have to supply energy in order to reduce the 
+weight of an object, because the potential gravitational energy of the 
+object has negative sign and is smaller, in absolute value, in the 
+presence of shielding. Nevertheless, since the field is not 
+conservative, it is certainly wrong to compute the 
+difference in the potential energy of an object between the interior and 
+the exterior of the shielding cone by evaluating naively the difference 
+(which turns out to be huge) between an hypothetical ``internal potential" 
+\begin{equation}
+U=-\frac{GMM_E(1-\alpha)}{R_E}=-Mg_E R_E(1-\alpha),
+\end{equation}
+where $M$ is the mass of the object, $R_E$ the Earth radius and 
+$M_E$ the Earth mass, and an ``external potential" $U=-Mg_E R_E$.
+
+Moreover, the gravitational fields with which we are 
+most familiar, being produced by very large masses, are relatively 
+insensitive to the presence of light test bodies and thus it makes sense 
+in that case to speak of a field in the usual meaning: while a body falls 
+down, we do not usually need to worry about its reaction on the Earth. 
+On the contrary, in the present case the interaction between the 
+shielded object and the external source (that is, the system [Bose 
+condensate+external e.m.\ field]) which by fixing the constraints on 
+the gravitational potential $h$ produces the shielding, is very 
+important.
+\footnote{Because of this, also considerations involving the energy 
+density of the gravitational field, which can be properly defined for 
+weak fields, are not helpful in the present case.}
+
+Let us then ask one ``provocative" question, suggested by the 
+experimental reality: if the superconducting disk is in a room and the 
+shielding effect extends up to the ceiling, should we expect that the 
+disk and all the shielding apparatus feel a back reaction? (And 
+possibly an even stronger one if the ceiling is quite thick or if there 
+are more floors above?) The most reasonable answer is, that since the 
+ceiling is very rigid, the experimental apparatus is not able to exert 
+any work on it and thus does not feel its presence.
+
+To further clarify this point, suppose that we hang over the 
+superconducting disk, before the shielding is produced, a spring of 
+elastic constant $k$, holding a body of mass $M$ at rest. Then we 
+operate on the disk with proper e.m.\ fields and produce the shielding 
+effect with factor $\alpha$, that means, the gravity acceleration over 
+the disk becomes $g_E(1-\alpha)$. If the shielding effect is obtained 
+quickly, the mass will begin to oscillate, otherwise it will rise by an 
+height $\Delta x=\alpha g_E M k^{-1}$, while remaining in equilibrium. 
+In any case, since for a harmonic oscillator in motion  the kinetic 
+energy and the potential energy have the same mean value, it is 
+legitimate to conclude that the shielding apparatus has done on the 
+system [mass+spring] a work of the order of 
+\begin{equation}
+  \Delta E \sim k (\Delta x)^2 \sim (\alpha g_E M)^2 k^{-1}.
+\label{aas}
+\end{equation}
+This example shows that the work exerted by the apparatus on a 
+sample in order to ``shield it" will depend in general of the response 
+of the sample itself, being larger when such response is large itself.
+
+At this point we can estimate how much energy is needed in this case to bring 
+over the critical density one region of the condensate of cross section 
+$\sigma$ (compare eq.\ (\ref{reg})). If $\sigma_{sample}$ is the 
+projection of the sample on the disk, this energy is given by
+\begin{equation}
+  \Delta E_\sigma = \frac{\sigma}{\sigma_{sample}} \Delta E \sim 
+\frac{\sigma}{\sigma_{sample}} (\alpha g_E M)^2 k^{-1}.
+\label{ela}
+\end{equation}
+This energy must be supplied by the external variable e.m.\ field. 
+
+In conclusion, we must expect in general an interaction between the partially
+shielded samples and the shielding apparatus. The energy needed to 
+shield a sample depends on the mass of the sample itself and on the 
+way it is constrained to move. In particular, we deduce from eq.\ 
+(\ref{aas}) that if we want to detect the shielding effect by measuring 
+the deformation of a spring, in order to do this with the smallest 
+influence on the shielding apparatus we should use, as far as allowed 
+by the sensitivity of the transducer, a spring with high rigidity 
+coefficient $k$.
+
+\section{The ``threshold" hypothesis.}
+\label{hyp}
+
+\subsection{Estimate for $\mu^2(x)$.}
+\label{est}
+
+A local cosmological term can induce gravitational instabilities in 
+those regions where its total sign is positive. We have shown that the 
+contribution of a Bose condensate to the cosmological term is positive 
+(in Euclidean spacetime) and equal to $\frac{1}{2} \mu^2(x) = 
+\frac{1}{2} [\partial_\mu \phi_0^*(x)] [\partial^\mu \phi_0(x)] + 
+\frac{1}{2} m^2_\phi |\phi_0(x)|^2$ (see eq.s (\ref{usu}), 
+(\ref{isu})). It is important to give a numerical estimate of the 
+magnitude order of this contribution in the case of a superconductor.
+
+To this end we recall that the Hamiltonian of a scalar field $\phi$ of 
+mass $m_\phi$ is given by
+\begin{equation}
+H=\frac{1}{2} \int d^3x \left\{ \left| \frac{\partial \phi(x)}{\partial t} 
+\right|^2 + \sum_{i=1}^3  \left| \frac{\partial \phi(x)}{\partial x^i} 
+\right|^2 + m_\phi^2 |\phi(x)|^2 \right\}.
+\label{hami}
+\end{equation}
+In our case $\phi$ describes a system with a condensate and its 
+vacuum expectation value is $\langle 0 | \phi(x) | 0 \rangle=\phi_0(x)$. 
+We then have
+\begin{equation}
+\langle 0 | H | 0 \rangle = \frac{1}{2} \int d^3x \mu^2(x).
+\end{equation}
+In the non-relativistic limit, appropriate in our case, the energy of the 
+ground state is essentially given by ${\cal N}Vm_\phi$, where 
+$m_\phi$ is the mass of a Cooper pair (of the order of the electron 
+mass; in natural units $m_\phi \sim 10^{10} \ cm^{-1}$), $V$ is a 
+normalization volume and ${\cal N}$ is the number of Cooper pairs 
+for unit volume. Assuming ${\cal N}\sim 10^{20} \ cm^{-3}$ at least 
+we obtain
+\begin{equation}
+\mu^2 \sim {\cal N} m_\phi > 10^{30} \ cm^{-4} \qquad {\rm (In \ a \ 
+superconductor.)}
+\label{mu}
+\end{equation} 
+We also find in this limit $|\phi_0| \sim {\cal N}/\sqrt{m_\phi}$.
+
+As we saw in Section \ref{role}, a typical upper limit on the intrinsic 
+cosmological constant observed at astronomical scale is $|\Lambda|G 
+< 10^{-120}$, which means $|\Lambda|/8\pi G<10^{12} \ cm^{-4}$. 
+This small value, compared with the above estimate for $\mu^2(x)$, 
+supports our hypothesis that the total cosmological term can assume 
+positive values in the superconductor and the criticality condition can 
+be satisfied in some regions. But in fact the positive contribution of 
+the condensate is so large that one could expect the formation of 
+gravitational instabilities in any superconductor, subjected to external 
+e.m.\ fields or not -- a conclusion which contrasts with the 
+observations. 
+
+We wonder if the value of $\Lambda/8\pi G$ at small scale could be 
+larger than that observed at astronomical scale and negative in sign, in 
+such a way to represent a ``threshold" of the order of $\sim 10^{30} \ 
+cm^{-4}$ for anomalous gravitational couplings. As we recalled in 
+Section \ref{role}, a negative intrinsic cosmological constant can be 
+present in models of quantum gravity containing a fundamental length. 
+With a magnitude as mentioned above, it would not affect any other 
+known physical process.
+
+\subsection{Threshold versus power transfer efficiency.}
+\label{ver}
+
+In our opinion the hypothesis of a threshold accounts quite well for the 
+features of the observed effect and in fact we have implicitly accepted 
+it in several qualitative points of our analysis, especially in Section 
+\ref{exp}. As we pointed out throughout the paper, all evidences 
+show that a proper ``driving" and forcing of the supercurrents in the 
+disk and thus of the Cooper pairs density are essential in order to 
+obtain the shielding effect and to improve it. 
+
+However, the available experimental data are not sufficient yet to 
+decide whether the hypothesis of a threshold for the Cooper pairs 
+density is necessary, or it is only a helpful schematic representation. 
+In fact, as we stressed in Section \ref{bal}, a global energy balance 
+must be respected in the shielding process. This energetic requirement 
+might be very important in determining the critical regions.
+
+Let us consider for instance another system in which a Bose 
+condensate, described by a macroscopic wavefunction, is present: 
+superfluid helium. From eq.\ (\ref{mu}) we see that in that case 
+$\mu^2$ is ca.\ $10^3$ times larger than in an electronic Bose 
+condensate. But superfluid helium does not show, according to 
+common knowledge (although specific data are not available), any 
+anomalous gravitational effects. To explain this we can observe that 
+unlike an electronic condensate, superfluid helium is neutral and thus 
+cannot absorb energy from an external e.m.\ field. Moreover, its 
+specific heat is so low, that in general any power transfer process 
+would be severely constrained. It is thus possible in our opinion that 
+although its density is much larger than that of an electronic 
+condensate, superfluid helium does not cause any appreciable 
+shielding effect, since a modification of the field $h_{\mu \nu}(x)$ as 
+described in Section \ref{mod}, with ensuing reduction of the 
+samples' weight, would not be sustained energetically. In other words, 
+the local ``saturation" of the field $h_{\mu \nu}(x)$ represents an 
+energetically less favoured state and in the case of superfluid helium 
+there is no suitable external energy source to allow the transition to 
+this state.
+
+Summarizing, the following reasoning holds, at least qualitatively, and 
+might be applied to the next available experimental data. We have 
+seen that the shielding phenomenon involves a power transfer 
+process, which in general can be more or less efficient. There are two 
+limiting cases:
+
+\begin{enumerate}
+
+\item
+ The power transfer is very efficient. Then the shielding factor 
+$\alpha$ is fixed by the number of critical regions and by their 
+average cross section (compare eq.\ (\ref{reg})), independently of the 
+energy transferred to the samples.
+
+\item
+ The power transfer is inefficient. In this case the shielding factor 
+$\alpha$ can depend on the energy transferred to the samples. Thus 
+$\alpha$ can depend on the mass of the samples. For samples with the 
+same mass, it can depend on their cross section and possibly on the 
+``rigidity" parameter $k$ (compare eq.\ (\ref{ela})).
+
+\end{enumerate}
+
+Suppose now to be in the limiting case (1), as experimentally it 
+appears to be the case, at least for samples whose mass does not 
+exceed $\sim 100 \ g$. If in these conditions the shielding factor 
+$\alpha$ depends strongly on the rotation speed of the disk, on the 
+applied e.m.\ field and in general on those factors which imply the 
+generation of density variations in the condensate, this means that the 
+number of critical regions and their average cross section depend 
+strongly on such variations. In turn, the latter means that the existence 
+of a threshold is very likely.
+
+\section{Concluding remarks.}
+\label{conc}
+
+The analysis of Section \ref{role} allows us to conclude that there is 
+broad evidence for instability of the quadratic part of the Euclidean 
+gravitational action in the presence of a Bose condensate. We recall 
+our starting hypotheses:
+
+\begin{enumerate}
+
+\item
+Validity of the Euclidean formalism in the context of weak-field 
+approximation was assumed. As discussed in Section \ref{euc} there 
+are no reasons to doubt of such validity in our case.
+
+\item 
+We admitted (compare also Section \ref{hei}) that the vacuum 
+expectation value $\phi_0(x)$ of the bosonic field 
+is determined by external factors: e.m.\ 
+field, temperature, microscopic structure of the material etc. From a 
+phenomenological point of view this approach is completely justified 
+and allows to divide the problem in two parts: the dynamics of the 
+source $\phi_0(x)$ and the effects of the source on the gravitational 
+field. This approximation is not adequate when the back-reaction of 
+the gravitational field on the source cannot be disregarded (compare 
+Section \ref{bal}).
+
+\end{enumerate}
+
+The description of the effects of the instability in terms of a classical 
+``modified field" (Section \ref{mod}) is physically helpful, even though it 
+leads to only partially correct consequences. 
+
+In general, in the energetic balance for heavy samples one should keep 
+into account the back-reaction mentioned above.
+
+The existence of a critical threshold for the value of the induced 
+cosmological term $\mu^2(x)$ is theoretically appealing and in reasonable 
+agreement with the experimental observations.
+
+\subsection{Acknowledgments.}
+
+We are very grateful to E. Podkletnov for advice and encouragement.
+We are very much indebted to J.R.\ Gaines, 
+Vice President of Superconductive Components, Columbus, Ohio, USA,
+who supplied the HTC disk.
+We would like to thank G.\ Fiore, N.\ Oberhofer and B.\ Spires for invaluable 
+advice and assistance. 
+
+
+\begin{thebibliography}{99}
+
+\bibitem{ana}
+J.\ Anandan, Class.\ Q.\ Grav.\ {\bf 11} (1994) A23 and references.
+
+\bibitem{lano}
+R.P.\ Lano, {\it Gravitational Meissner effect}, report U.ofIowa 96-4,
+March 1996 (hep-th/9603077).
+
+\bibitem{m1}
+G.\ Modanese, Phys.\ Lett.\ {\bf B 325} (1994) 354; Nucl.\ Phys.\ 
+{\bf B 434} (1995) 697.
+
+\bibitem{pk}
+E.\ Podkletnov and R.\ Nieminen, Physica {\bf C 203} (1992) 441. E.\ 
+Podkletnov, {\it Weak gravitational shielding properties of 
+composite bulk $YBa_2Cu_3O_{7-x}$ superconductor below 70 $K$ 
+under electro-magnetic field}, report MSU-chem 95, improved version
+(cond-mat/9701074), also available in ASCII form from G.M.
+
+\bibitem{s}
+G.\ Modanese, Europhys.\ Lett.\ {\bf 35} (1996) 413.
+
+\bibitem{wei}
+S.\ Weinberg, Rev.\ Mod.\ Phys.\ {\bf 61} (1989) 1; {\it Theories of 
+the Cosmological Constant}, report UTTG-10-96 
+(astro-ph/9610044).
+
+\bibitem{gre1}
+J.\ Greensite, Phys.\ Lett.\ {\bf B 291} (1992) 405 and references.
+
+\bibitem{ham1}
+H.W. Hamber and R.M.\ Williams, Nucl.\ Phys.\ {\bf B 248}
+(1984) 392; {\bf B 260} (1985) 747; Phys.\ Lett.\ {\bf
+B 157} (1985) 368; Nucl.\ Phys.\ {\bf B 269} (1986) 712.
+H.W.\ Hamber, in {\it Les Houches Summer School 1984, Session
+XLIII}, North-Holland, Amsterdam, 1986. H.W.\ Hamber,
+Phys.\ Rev.\ {\bf D 45} (1992) 507; Nucl.\ Phys.\ {\bf B 400} (1993) 
+347.
+
+\bibitem{ham2}
+H.W.\ Hamber and R.M.\ Williams, Nucl.\ Phys.\ {\bf B 435} (1995) 
+361.
+
+\bibitem{mv}
+I.J.\ Muzinich, S.\ Vokos, Phys.\ Rev.\ {\bf D 52} (1995) 3472.
+
+\bibitem{m2}
+G.\ Modanese, Phys.\ Lett.\ {\bf B 348} (1995) 51.
+
+\bibitem{c}
+G.\ Modanese, Phys.\ Rev.\ {\bf D 54} (1996) 5002.
+
+\bibitem{haw}
+S.W.\ Hawking, in {\it General Relativity: an Einstein centenary 
+survey}, edited by S.W.\ Hawking and W.\ Israel (Cambridge 
+University Press, Cambridge, 1979).
+
+\bibitem{gre2}
+J.\ Greensite, Nucl.\ Phys.\ {\bf B 390} (1993) 439; P.\ Mazur and E.\ 
+Mottola, Nucl.\ Phys.\ {\bf B 341} (1990) 197.
+
+\bibitem{don}
+J.F.\ Donoghue, Phys.\ Rev.\ Lett.\ {\bf 72} (1994) 2996; {\it The 
+ideas of gravitational effective field theory},  report UMHEP-413 
+(hep-th/9409143).
+
+\bibitem{vel}
+M.J.G.\ Veltman, {\it Methods in field theory}, Les Houches
+Summer School 1975, ed.s R.\ Balian and  J.\ Zinn-Justin
+(North-Holland, Amsterdam, 1976); E.\ Alvarez, Rev.\ Mod.\ 
+Phys.\ {\bf 61} (1989) 561.
+
+\bibitem{giap}
+See for instance Y.\ Fujii and T.\ Nishioka, Phys.\ Rev.\ {\bf D 42} 
+(1990) 361; Phys.\ Lett.\ {\bf B 254} (1991) 347 and references 
+therein.
+
+\bibitem{up}
+G.\ Modanese, {\it Updating the theoretical analysis of the weak
+gravitational shielding experiment}, report UTF-367/96, January 
+1996 (supr-con/9601001).
+
+\bibitem{li}
+D.G.\ Torr and Ning Li, Found.\ Phys.\ Lett.\ {\bf 6} (1993) 371.
+
+\bibitem{unni}
+C.S.\ Unnikrishnan, Physica {\bf C 266} (1996) 2144.
+
+\bibitem{js}
+J.\ Schnurer, {\it Improved Apparatus and Method for 
+Gravitational Modification}, U.S.\ Patent and Trademark Office 
+Application, USPTO Number. 60/031108, Docket number JS 0007, 
+November 14, 1996. If interested in discussion concerning patent, please 
+contact: J.\ Schnurer, c/o Gravity Society, P.O.\ Box CN 652, Yellow 
+Springs, Ohio 45387 U.S.A.
+
+
+\end{thebibliography}
+
+\end{document}
+
+

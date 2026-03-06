@@ -1,0 +1,275 @@
+Date: Mon, 28 Aug 1995 12:56:06 -0600
+From: Richard Quick <richard.quick@slug.org>
+Subject: CAP.TXT
+
+The High Voltage, Pulse Discharge,  CAPACITOR, 
+
+Many high voltage projects require a high voltage pulse discharge
+capacitor. Whether your project is a laser, Tesla coil, rail gun,
+high power taser, or particle accelerator, you will most likely
+need a high voltage rated pulse discharging capacitor in your
+device somewhere.
+
+Commercial units are expensive. Manufacturers of these units do
+not stock them. Each and every unit is built to order. "Off the
+shelf" units do not offer the performance required for most high
+voltage projects. Off the shelf capacitors get hot, have high
+loss to output ratios, and/or will break down in spark excited
+tank circuits. Some types are potential explosion hazards.
+
+You can build your own capacitors for these projects from
+polyethylene plastic and aluminum flashing.
+
+The following instructions are for a pulse discharging capacitor
+with a .02 uf at 35-40 kvdc rating. The unit is rated for work in
+spark excited tank circuits with up to 12 kvac rms inputs, 10
+kvac is the recommended maximum rms voltage rating as they will
+run all day pulse discharging 10 kvac without getting warm. This
+is an ideal unit for small Tesla coils, and may be run in series/
+parallel combinations for Tesla coils from desktop size up to 4
+kva megavolt coils. The material cost is around $100.00 per unit
+as opposed to $150 - $300 for a similar commercial capacitor.
+
+Materials for this unit are as follows:
+
+Three yards of low density, 60 mil, polyethylene plastic.
+This plastic is available from any good sized plastics dealer.
+
+One ten inch by twelve inch sheet of 1/4" plexiglas. 
+
+One fifty foot roll of 14 inch wide aluminum flashing. This is
+available from any hardware store. 
+
+Eighteen inches of 1 inch schedule 40 pvc pipe. 
+
+Twenty inches of 6 inch PVC DRAIN PIPE. DO NOT USE SCHEDULE 40!
+Six inch pvc DRAIN PIPE is available at any good plumbing supply
+in ten foot lengths. 
+
+One: six inch pvc DRAIN PIPE END CAP. 
+
+Two: end caps for the 1 inch schedule 40 pvc pipe. The end caps
+must have flat bottoms (not rounded) or you will need to cut
+them.
+
+One gallon of pure U.S.P. Mineral Oil. 
+
+Two: 1/4 x 20 brass machine screws and four nuts.
+
+Two: #8 Pan Head Machine screws with washers and nuts. Screws
+should be equal to or less than 3/8ths of an inch long.
+
+Loctite thread fastener (medium strength)
+
+Six or eight: 12" long nylon wire ties
+
+PVC cement (medium body, clear, works best)
+
+PrepSol (Dupont paint store) or U.S.P. alcohol
+
+Four inch stack of clean newspaper or BUTCHERS PAPER
+
+Lint free wipes or good quality paper towels. Don't use the cheap
+stuff.
+-----------------------------------------------------------------
+
+             BUILDING THE CAPACITOR TANK
+
+Start out by cutting the PVC drain cap in half. You want to cut a
+ring 1-1/2" high off of the end cap. The bottom of the end cap
+should be saved intact with a 1-1/2" high side wall. 
+
+Lay the ring cut from the 6" PVC drain cap on the sheet of 1/4"
+plexi and scribe a circle. Cut the circle out and glue it to the
+ring with PVC cement. This forms the clear, see through, lid for
+the capacitor tank. When the PVC cement has dried, drill two
+holes through the plexi for terminals. The holes should be on
+opposite sides of the lid. A small hole is drilled dead center
+for venting.
+
+Cut some strips of plexiglas, 3/4" wide by 2" long, out of the
+scrap material.
+
+Glue one of the 1" PVC end caps to the inside center of the 6"
+PVC drain cap section. Glue at least four of the plexiglas strips
+around the 1" end cap. The strips are placed so that they are
+flush with the 1" PVC end cap. They should form a "star" pattern
+radiating out from the center to form a shelf, 3/4" high, for the
+capacitor roll to sit on. This shelf prevents the roll from
+resting on the very bottom of the tank, and allows cool oil to
+circulate. It is important that there is sufficient room between
+the edges of this shelf and the side wall of the 6" drain cap to
+allow the 20" section of 6" PVC drain pipe to seat all the way to
+the bottom of the end cap. 
+
+When the end cap assembly is dried, glue and seat the 6" PVC
+drain pipe in place. Use plenty of PVC cement to prevent leaks.
+
+Once the end cap is firmly seated in the 6" PVC pipe, then cement
+the 18" length of 1" PVC pipe down into the center ring. This
+pipe saves oil, as well as providing a center post for the
+capacitor roll. Glue the second 1" PVC end cap onto the top of
+the 1" pipe to seal it. Let the PVC cement dry thoroughly, then
+wash the tank out with strong detergent, and allow to dry.
+
+This completes the capacitor tank construction.
+
+-----------------------------------------------------------------
+
+                THE CAPACITOR ROLL
+
+The capacitor roll is made from the polyethylene sheet and the
+aluminum flashing. It is important that all of these materials
+are absolutely clean and free from defects.
+
+Clean and vacuum up a work area large enough to lay all of your
+plates and dielectric out. If things are dusty you may want to
+mop. When the work area is clean; lay down fresh newspaper, or
+even better, butcher paper, over the entire work area. You will
+need a long, hard, smooth, flat surface to roll your capacitor up
+on. A clean, paper covered concrete floor works well, as does a
+couple of paper covered buffet or serving tables. 
+
+Cut the poly sheet lengthwise into three equal strips. The
+standard material width for this sheet is 48 inches. You will get
+three 16" wide strips from the sheet, though only two strips will
+be required to make one capacitor roll. The strips must be washed
+and wiped on both sides with PrepSol or alcohol and lint free
+wipes or high quality paper towels. Then they must be wiped dry.
+Static may become a problem here, and the dielectric may collect
+dust. A ground strap run to a water pipe may be wired to a copper
+or brass brush. The plates and dielectric may be swiped lightly
+to ground out static, but do not scratch the material.
+
+Cut two lengths of aluminum flashing 102" long. The flashing must
+be six inches shorter than the polyethylene strips. The material
+is already two inches narrower. Use a good pair of heavy duty
+scissors to cut the aluminum. The strips of flashing (plates)
+must have the corners well rounded, and have all sharp edges
+smoothed. Trim the corners off with the scissors, then sand all
+of the edges you cut with #150 emery cloth. Drill a hole, 1/2" 
+from one end of each flashing strip for the terminal mount. 
+Inspect your plate. It should have no dents, sharp points,
+"ruffles" 
+along the edges, etc. Many flaws can be carefully worked out.
+
+The aluminum capacitor plates must be washed and dried. Fill a
+five gallon bucket with very hot water and a good squirt of
+liquid detergent. Roll the plate up and "dip, swish, and swirl"
+until all the sanding grit, manufacturing oil, and dirt wash off.
+Rinse the plate well and stand it on its edges on clean newspaper
+until it is dried. Don't worry if the plates oxidize a little.
+
+Lay out your meticulously clean plates and dielectric sheets.
+
+Lay one strip of plastic dielectric down first. Then lay a plate
+on top and center it. The plate is centered so that there is a
+one inch border of dielectric plastic evenly along the long
+sides. Line up the end of the plate with the terminal hole flush
+(even) with one END of the plastic. The far end of the plate will
+be six inches short of flush with the bottom dielectric sheet. 
+
+Lay a second sheet of plastic on top so that it is exactly lined
+up the bottom strip of plastic.
+
+Lay the last plate down on the stack and center it. The plate is
+centered so that there is a one inch border of dielectric plastic
+evenly on both of the long sides. Now, the first plate you laid
+will have the terminal end flush with one end of the bottom di-
+electric, it makes no difference which end; line up the second
+plate so that the terminal end is flush with the end of the
+second dielectric sheet, but it must be at the opposite end from
+the bottom plate terminal.
+
+Cut two 1" strips of aluminum flashing 14" long. Tape them
+together into a 1" strap. Round it and sand it. Then untape it
+and wipe or wash the strips. Reassemble and punch a hole in each
+end. One hole for a 1/4" or larger screw (tank terminal), the
+other for the #8 pan head machine screw (plate terminal). Using a
+#8 pan head machine screw, mount this strap into the terminal
+hole on the top plate. Use a flat washer, a tiny drop of loctite
+thread fastener, and then a nut. Snug the connection down firmly.
+
+This strap serves as a high current lead from the plate to the
+terminal mount on the capacitor lid. Make sure that it is the
+smooth pan head of the screw pressing into the plastic capacitor
+dielectric as the capacitor is rolled up; not the sharp screw
+shaft. Do not allow the sharp threaded end to press into the
+capacitor. It is a good idea to have a couple of spare patches of
+60 or 30 mil plastic to place under the pressure points of the
+terminal connector screws. This will help prevent breakdown.
+
+Starting from the terminal end of the top plate on the stack, the
+end with the terminal strap already mounted, roll the capacitor
+up as tightly as possible. Make sure that the top plate does not
+curl around to touch back on itself on the first turn. A strip of
+extra plastic here can be helpful. If the first turn of the roll
+looks poor, then unroll, line everything up, and try again.
+
+When the capacitor is tightly rolled, do not loosen your grip.
+Have an assistant put two wire ties together and slip them over
+the roll. When the wire ties are cinched, you may loosen up.
+
+As you rolled the capacitor up, the first plate in the stack
+worked its way out of the roll a few inches. This plate should
+present you with a terminal hole to mount a second 1x14" strap of
+aluminum to complete the second high current lead.
+
+Mount the second lead, making sure the smooth screw head is
+against the capacitor, not the sharp threaded end. You will have
+one lead coming up from inside the roll, and the other coming up
+from the outside. Put at least three wire tie strips around the
+roll. Two 12" wire ties connected together will give enough
+circumference.
+
+Set the capacitor roll into the tank. Fill with one gallon of
+mineral oil. The roll must be covered by at least a quarter inch
+of oil to suppress corona and prevent flashover. Note that the
+oil soaks into the roll. The level will drop after filling, and
+may drop again after use. Check on it occasionally until the
+capacitor is fully broken in, a period of about six months.
+
+Connect the leads from the capacitor roll to the tank lid. For
+the tank lid terminals use at least 1/4 inch brass machine screws
+and tighten down well. The head of the machine screw should be
+inside the lid, the first nut on top will hold the connection
+tight, the second nut is removable for connection to your
+circuit. Do not seal or glue the lid in place.
+
+Do not apply the full rated voltage to these units until they
+have set for at least three days, and the oil has had a chance to
+soak in to the roll. It is best to start them out at about half
+voltage, or less, and run them for short periods for the first
+few days on a smaller coil. These units are quite serviceable. 
+On larger coils it is best to put these units in series/parallel 
+to back them up against kickback.
+
+Because the material width of the polyethylene is 48", you get
+three 16" strips of dielectric from cutting a length. You will
+have one strip left over. Because of this, it is perhaps better
+to plan on building at least two units at a time. This makes more
+efficient use of material, but more so for the use of time. Once
+a temporary "clean room" has been established it makes sense to
+use it to fullest advantage. 
+
+The effort in building a first class cap is worth the extra time
+and expense to do it right. The unit will last longer, withstand
+more abuse, and give you more capacitance if it is well con-
+structed. Once this effort is expended, and the unit is in
+service, don't blow it. Rather than risk the investment you
+should build more caps, "backing up" your existing caps and
+increasing power by adding caps as you go. 
+
+This information is an unauthorized adaptation (I stole it) from:
+
+                  Richard Hull
+              7103 Hermitage Road
+               Richmond VA, 23228
+
+Richard Hull has a video report (#3) that covers the basic
+construction of this design. I have made a few slight modi-
+fications to increase the capacitance and pulse characteristics. 
+
+Richard Quick
+.. If all else fails... Throw another megavolt across it!
+___ Blue Wave/QWK v2.12

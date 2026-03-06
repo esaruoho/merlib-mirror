@@ -1,0 +1,73 @@
+UNDER CONSTRUCTION                         (c)1996 William J. Beaty
+amasci.com/emotor/vdg.html
+
+CHARGING CIRCUITRY
+
+I recommend building the type of VDG machine which lacks a charger and
+instead employs a plastic charging roller.  The other type of machine uses
+A DC high-voltage power supply and all-metal rollers.  High voltage power
+supplies present a shock hazard or even electrocution hazard, so safety
+concerns make them inappropriate in a kid's science project.  They are
+useful for professional lecture-demo VDGs, for VDGs with extremely high
+output current, and for VDGs which must be operated in high humidity
+conditions. If you insist on using a high-voltage power supply, here are
+some guidelines:
+
+Pick a supply which can put out several times more current than your belt
+will be transporting.  A 1" motorized belt might give between 1 and 50?
+microamps, so the power supply should be capable of several hundred uA,
+otherwise the 50uA draw will reduce the supply voltage too much.  [OOPS!  
+A. Richards points out that a 1" belt tops out at 8uA, and max belt charge
+is always less than 26uC/M^2.] A very wide, very fast belt on a huge VDG
+might require several hundred uA, so the high voltage supply should be
+rated even higher.  For example, if your supply puts out 100uA when 
+shorted, then if your VDG draw 50uA, it will drag the supply voltage down 
+by 50%.  If you pick a supply that can put out 10X more current than you 
+need, in that case you'll only drag down the output voltage by 10%.  But 
+make sure that 10X the current isn't a value dangerous to humans.
+
+If possible, use a power supply which can safely be touched without giving
+a serious shock.  This means that you should definitely avoid supplies
+which contain a significant internal capacitance across the output
+terminals.  Even if a power supply puts out 10 microamps and *should* be
+totally safe to touch, if the supply has a large output capacitor, you'll
+get a bad or perhaps lethal shock if you do touch it.  The capacitor
+discharges through your body first!  Only later does the supply start
+putting out the feeble 10uA.
+
+Here is a fairly safe power supply which puts out 7KV, and which operates 
+on 120VAC house current.
+
+   Electronics goldmine:  negative ion generator, 60uA max, 120VAC
+   http://www.goldmine-elec-products.com/prodinfo.asp?number=G1783&variation=&aitem=1&mitem=1
+
+Here is another which isn't as safe.  It runs on batteries (12VDC) but its 
+DC output is monopolar 60Hz spikes of several milliamps each.  Painful!
+However, it can be made safe by connecting a chain of 1meg resistors in 
+series with its output.  (EMbed the resistors in RTV silicone caulk):
+
+
+  Electronics goldmine:  negative ion generator, 60uA avg, 10mA pulses
+  http://www.goldmine-elec-products.com/prodinfo.asp?number=G9695&variation=&aitem=1&mitem=1
+
+
+
+  DANGER!  People have received shocks from the HV power supply when their
+  rubber belts became dirty and conductive... then the charging supply
+  jumped an arc to the conductive belt, created a carbonized path, lept
+  along the belt to the upper comb, out to the sphere, and through the 
+  body of anyone touching the sphere.
+
+If your design requires a dangerous high-volt supply, install a large-
+value resistor in series with each collector comb at the top and bottom of
+your VDG.  The resistor should be designed for high voltage (use a
+resistor that's several inches long.)  How large a resistor value?  I
+don't know.  It's a safety issue, so you should take responsibility for
+designing a proper unit.  Be sure to use a resistor rated for equal or
+higher voltage than appears at the charging supply. Small, low voltage
+resistors can suffer internal arc breakdown which lowers their resistance
+tremendously.
+
+THIS FILE: http://amasci.com/emotor/charger.txt
+AUTHOR: http://amasci.com/billb.html
+

@@ -1,0 +1,1857 @@
+[2026-03-05 15:00:27] ============================================================
+[2026-03-05 15:00:27] LIVE MIRROR: amasci.com
+[2026-03-05 15:00:27] Seed: http://amasci.com
+[2026-03-05 15:00:27] Seed path: /
+[2026-03-05 15:00:27] Max link depth: 5
+[2026-03-05 15:00:27] Output: /Users/esaruoho/work/merlib-mirror/sites/amasci.com
+[2026-03-05 15:00:27] ============================================================
+[2026-03-05 15:00:27] Crawling / (download-as-you-go)...
+[2026-03-05 15:00:28]   [1 d0*] http://amasci.com  (1 OK, 0 queued)
+[2026-03-05 15:00:28]     +68 links (69 total known)
+[2026-03-05 15:00:29]   [2 d0*] http://amasci.com/graphics/newearth.gif  (2 OK, 67 queued)
+[2026-03-05 15:00:30]   [3 d0*] http://amasci.com/weird.html  (3 OK, 66 queued)
+[2026-03-05 15:00:30]     +29 links (98 total known)
+[2026-03-05 15:00:31]   [4 d0*] http://amasci.com/hum/hum.html  (4 OK, 94 queued)
+[2026-03-05 15:00:31]     +25 links (123 total known)
+[2026-03-05 15:00:32]   [5 d0*] http://amasci.com/hum/hum_map.gif  (5 OK, 118 queued)
+[2026-03-05 15:00:33]   [6 d0*] http://amasci.com/hum/torshum.html  (6 OK, 117 queued)
+[2026-03-05 15:00:33]     +2 links (125 total known)
+[2026-03-05 15:00:34]   [8 d0*] http://amasci.com/graphics/abc.gif  (7 OK, 117 queued)
+[2026-03-05 15:00:35]   [9 d0*] http://amasci.com/hum/lennart2.gif  (8 OK, 116 queued)
+[2026-03-05 15:00:42]   [15 d0*] http://amasci.com/hum/chco2-19.wav  (13 OK, 110 queued)
+[2026-03-05 15:00:47]   [20 d0*] http://amasci.com/amateur/amfrmJ.html  (18 OK, 106 queued)
+[2026-03-05 15:00:47]     +2 links (128 total known)
+[2026-03-05 15:00:52]   [25 d0*] http://amasci.com/graphics/tink1.jpg  (22 OK, 130 queued)
+[2026-03-05 15:00:58]   [30 d0*] http://amasci.com/sc/awards.html  (26 OK, 125 queued)
+[2026-03-05 15:01:08]   [40] 30 OK, 10 failed, 116 queued
+[2026-03-05 15:01:08]     last fail: http://amasci.com/sc/child.html
+[2026-03-05 15:01:13]   [45 d0*] http://amasci.com/amateur/sciamdx.html  (34 OK, 117 queued)
+[2026-03-05 15:01:20]   [50 d0*] http://amasci.com/index.html  (37 OK, 116 queued)
+[2026-03-05 15:01:26]   [55 d0*] http://amasci.com/miscon/eyeball.jpg  (42 OK, 142 queued)
+[2026-03-05 15:01:33]   [60 d0*] http://amasci.com/wing/smrg1.gif  (47 OK, 144 queued)
+[2026-03-05 15:01:41]   [65 d0*] http://amasci.com/emotor/voltmeas.html  (52 OK, 148 queued)
+[2026-03-05 15:01:46]   [70 d0*] http://amasci.com/freenrg/jhs.txt  (57 OK, 219 queued)
+[2026-03-05 15:01:52]   [75 d0*] http://amasci.com/weird/vortex/gravdsk3.txt  (60 OK, 216 queued)
+[2026-03-05 15:01:57]   [80 d0*] http://amasci.com/maglev/lev/exhibit12.txt  (64 OK, 250 queued)
+[2026-03-05 15:02:04]   [85 d0*] http://amasci.com/maglev/lev/exhibit11.txt  (69 OK, 245 queued)
+[2026-03-05 15:02:10]   [90 d0*] http://amasci.com/maglev/lev/letters2.html  (74 OK, 240 queued)
+[2026-03-05 15:02:16]   [95 d0*] http://amasci.com/maglev/lev/exhibit2.txt  (79 OK, 237 queued)
+[2026-03-05 15:02:21]   [100 d0*] http://amasci.com/maglev/lev/exhibit8.txt  (84 OK, 232 queued)
+[2026-03-05 15:02:29]   [105 d0*] http://amasci.com/maglev/lev/johnson1.gif  (89 OK, 227 queued)
+[2026-03-05 15:02:36]   [110 d0*] http://amasci.com/maglev/lev/exhibit3.txt  (94 OK, 223 queued)
+[2026-03-05 15:02:41]   [115 d0*] http://amasci.com/maglev/lev/exhibit6.txt  (99 OK, 218 queued)
+[2026-03-05 15:02:47]   [120 d0*] http://amasci.com/maglev/lev/fig6b.gif  (104 OK, 213 queued)
+[2026-03-05 15:02:57]   [125 d0*] http://amasci.com/freenrg/clbooks.html  (109 OK, 214 queued)
+[2026-03-05 15:03:02]   [130 d0*] http://amasci.com/freenrg/mfig3.gif  (114 OK, 214 queued)
+[2026-03-05 15:03:08]   [135 d0*] http://amasci.com/freenrg/tamp.txt  (119 OK, 209 queued)
+[2026-03-05 15:03:15]   [140 d0*] http://amasci.com/freenrg/grado.html  (124 OK, 238 queued)
+[2026-03-05 15:03:15]     +1 links (379 total known)
+[2026-03-05 15:03:21]   [145 d0*] http://amasci.com/freenrg/tors/pesf2.gif  (128 OK, 237 queued)
+[2026-03-05 15:03:26]   [150 d0*] http://amasci.com/freenrg/galli1.txt  (133 OK, 232 queued)
+[2026-03-05 15:03:31]   [155 d0*] http://amasci.com/freenrg/mie/puls.jpg  (138 OK, 237 queued)
+[2026-03-05 15:03:38]   [160 d0*] http://amasci.com/freenrg/mie/y11-5-2.jpg  (143 OK, 232 queued)
+[2026-03-05 15:03:44]   [165 d0*] http://amasci.com/freenrg/tors/drbl.doc  (148 OK, 227 queued)
+[2026-03-05 15:03:49]   [170 d0*] http://amasci.com/freenrg/tors/tors.html  (153 OK, 222 queued)
+[2026-03-05 15:03:57]   [175 d0*] http://amasci.com/freenrg/bajak1.txt  (158 OK, 217 queued)
+[2026-03-05 15:04:03]   [180 d0*] http://amasci.com/freenrg/CORMAT2A.JPG  (163 OK, 220 queued)
+[2026-03-05 15:04:11]   [185 d0*] http://amasci.com/freenrg/TOPVIEW2.JPG  (168 OK, 215 queued)
+[2026-03-05 15:04:15]   [190 d0*] https://amasci.com/graphics/abc.gif  (173 OK, 225 queued)
+[2026-03-05 15:04:19]   [195 d0*] https://amasci.com/  (174 OK, 220 queued)
+[2026-03-05 15:04:23]   [200] 174 OK, 26 failed, 276 queued
+[2026-03-05 15:04:23]     last fail: https://amasci.com/miscon/coherenc.html
+[2026-03-05 15:04:41]   [220] 176 OK, 44 failed, 285 queued
+[2026-03-05 15:04:41]     last fail: https://amasci.com/weird/wbookstr.html
+[2026-03-05 15:04:48]   [230 d0*] https://amasci.com/hum/humnotes.txt  (179 OK, 300 queued)
+[2026-03-05 15:04:52]   [235 d0*] https://amasci.com/hum/hum_map.gif  (181 OK, 295 queued)
+[2026-03-05 15:04:55]   [240] 184 OK, 56 failed, 290 queued
+[2026-03-05 15:04:55]     last fail: https://amasci.com/hum/taosmsgs.txt
+[2026-03-05 15:05:13]   [260] 189 OK, 71 failed, 270 queued
+[2026-03-05 15:05:13]     last fail: https://amasci.com/amateur/irgoggA.html
+[2026-03-05 15:05:41]   [280] 189 OK, 91 failed, 250 queued
+[2026-03-05 15:05:41]     last fail: https://amasci.com/elehob/elehobnw.html
+[2026-03-05 15:06:06]   [300] 189 OK, 111 failed, 230 queued
+[2026-03-05 15:06:06]     last fail: https://amasci.com/amateur/elehob.html
+[2026-03-05 15:06:28]   [315 d0*] http://amasci.com/freenrg/potato.html  (192 OK, 215 queued)
+[2026-03-05 15:06:33]   [320 d0*] http://amasci.com/graphics/bioholo.gif  (196 OK, 212 queued)
+[2026-03-05 15:06:38]   [325 d0*] http://amasci.com/freenrg/tors/figx3.gif  (201 OK, 211 queued)
+[2026-03-05 15:06:44]   [330 d0*] http://amasci.com/freenrg/tors/fig3.jpg  (206 OK, 209 queued)
+[2026-03-05 15:06:49]   [335 d0*] http://amasci.com/greb/Grebennikov/10s1.jpg  (211 OK, 242 queued)
+[2026-03-05 15:06:56]   [340 d0*] http://amasci.com/greb/Grebennikov/237b.gif  (216 OK, 237 queued)
+[2026-03-05 15:07:02]   [345 d0*] http://amasci.com/greb/Grebennikov/236d.gif  (221 OK, 232 queued)
+[2026-03-05 15:07:07]   [350 d0*] http://amasci.com/greb/Grebennikov/233a.gif  (226 OK, 227 queued)
+[2026-03-05 15:07:13]   [355 d0*] http://amasci.com/greb/Grebennikov/233b.gif  (231 OK, 222 queued)
+[2026-03-05 15:07:20]   [360 d0*] http://amasci.com/greb/Grebennikov/10s.jpg  (236 OK, 217 queued)
+[2026-03-05 15:07:25]   [365 d0*] http://amasci.com/greb/Grebennikov/8s1.jpg  (241 OK, 212 queued)
+[2026-03-05 15:07:30]   [370 d0*] http://amasci.com/greb/Grebennikov/6s1.jpg  (245 OK, 207 queued)
+[2026-03-05 15:07:36]   [375 d0*] http://amasci.com/weird/vortex/ref2.txt  (249 OK, 204 queued)
+[2026-03-05 15:07:40]   [380 d0*] http://amasci.com/graphics/email.gif  (253 OK, 203 queued)
+[2026-03-05 15:07:47]   [385 d0*] http://amasci.com/caps/capwarp.html  (257 OK, 200 queued)
+[2026-03-05 15:07:52]   [390 d0*] http://www.amasci.com/emotor/nostat.html  (262 OK, 435 queued)
+[2026-03-05 15:07:52]     +1 links (826 total known)
+[2026-03-05 15:07:59]   [395 d0*] http://amasci.com/resume.html  (267 OK, 450 queued)
+[2026-03-05 15:08:03]   [400 d0*] http://amasci.com/res7.txt  (272 OK, 452 queued)
+[2026-03-05 15:08:08]   [405 d0*] http://amasci.com/graphics/holo/onestp.gif  (277 OK, 466 queued)
+[2026-03-05 15:08:13]   [410 d0*] http://amasci.com/graphics/holo/curvscr8.gif  (282 OK, 461 queued)
+[2026-03-05 15:08:21]   [415 d0*] http://amasci.com/amateur/holo1c.gif  (287 OK, 465 queued)
+[2026-03-05 15:08:28]   [420 d0*] http://amasci.com/weird/unusual/swenson1.html  (292 OK, 464 queued)
+[2026-03-05 15:08:35]   [425 d0*] http://amasci.com/graphics/holo/holos1a.jpg  (297 OK, 461 queued)
+[2026-03-05 15:08:39]   [430 d0*] http://amasci.com/graphics/holo/curvscr5.gif  (302 OK, 456 queued)
+[2026-03-05 15:08:44]   [435 d0*] http://amasci.com/amateur/hovercft.html  (307 OK, 498 queued)
+[2026-03-05 15:08:49]   [440 d0*] http://amasci.com/tesla/schemBD10.jpg  (312 OK, 506 queued)
+[2026-03-05 15:08:55]   [445 d0*] http://amasci.com/maglev/magschem.html  (317 OK, 501 queued)
+[2026-03-05 15:09:01]   [450 d0*] http://amasci.com/surplus/scisupl.html  (322 OK, 502 queued)
+[2026-03-05 15:09:01]     +2 links (954 total known)
+[2026-03-05 15:09:12]   [455 d0*] http://amasci.com/amateur/lenses.html  (326 OK, 503 queued)
+[2026-03-05 15:09:17]   [460 d0*] http://amasci.com/graphics/hov4.gif  (328 OK, 499 queued)
+[2026-03-05 15:09:21]   [465 d0*] http://amasci.com/emotor/vdgbug.html  (332 OK, 499 queued)
+[2026-03-05 15:09:27]   [470 d0*] http://amasci.com/physvids  (336 OK, 517 queued)
+[2026-03-05 15:09:32]   [475 d0*] http://amasci.com/amateur/dryice.html  (340 OK, 513 queued)
+[2026-03-05 15:09:37]   [480 d0*] http://amasci.com/graphics/yt/dscope.jpg  (345 OK, 508 queued)
+[2026-03-05 15:09:44]   [485 d0*] http://amasci.com/graphics/yt/jobrsch.jpg  (350 OK, 536 queued)
+[2026-03-05 15:09:48]   [490 d0*] http://amasci.com/graphics/yt/flirband.jpg  (355 OK, 531 queued)
+[2026-03-05 15:09:54]   [495 d0*] http://amasci.com/mushr/  (360 OK, 526 queued)
+[2026-03-05 15:09:57]   [500 d0*] http://www.amasci.com/amateur/chemsupl.html  (365 OK, 546 queued)
+[2026-03-05 15:09:57]     +1 links (1047 total known)
+[2026-03-05 15:10:01]   [505 d0*] http://www.amasci.com/graphics/newearth.gif  (369 OK, 542 queued)
+[2026-03-05 15:10:07]   [510 d0*] http://amasci.com/tesla/diodes.html  (374 OK, 561 queued)
+[2026-03-05 15:10:15]   [515 d0*] http://amasci.com/tesla/tespc.txt  (379 OK, 598 queued)
+[2026-03-05 15:10:20]   [520 d0*] http://amasci.com/emotor/scifirst.html  (384 OK, 593 queued)
+[2026-03-05 15:10:20]     +2 links (1115 total known)
+[2026-03-05 15:10:26]   [525 d0*] http://amasci.com/emotor/belt.html  (389 OK, 608 queued)
+[2026-03-05 15:10:30]   [530 d0*] http://amasci.com/emotor/vdgblt3.gif  (394 OK, 609 queued)
+[2026-03-05 15:10:35]   [535 d0*] http://amasci.com/tesla/hand-bl.html  (398 OK, 604 queued)
+[2026-03-05 15:10:42]   [540 d0*] http://amasci.com/weird/unusual/paranor.html  (402 OK, 612 queued)
+[2026-03-05 15:10:42]     +2 links (1154 total known)
+[2026-03-05 15:10:53]   [550 d0*] http://amasci.com/weird/unusual/animl.html  (407 OK, 610 queued)
+[2026-03-05 15:10:53]     +2 links (1162 total known)
+[2026-03-05 15:11:04]   [560] 411 OK, 149 failed, 618 queued
+[2026-03-05 15:11:04]     last fail: http://amasci.com/weird/unusual/www.wvwnewsdot net
+[2026-03-05 15:11:14]   [570 d0*] http://www.amasci.com/weird/unusual/compu_jinx.html  (415 OK, 639 queued)
+[2026-03-05 15:11:14]     +19 links (1228 total known)
+[2026-03-05 15:11:22]   [580] 415 OK, 165 failed, 648 queued
+[2026-03-05 15:11:22]     last fail: http://www.amasci.com/contributor/1755745
+[2026-03-05 15:11:35]   [590 d0*] http://www.amasci.com/weird/unusual/sli.html  (416 OK, 638 queued)
+[2026-03-05 15:11:35]     +4 links (1232 total known)
+[2026-03-05 15:11:42]   [600 d0*] http://www.amasci.com/weird/unusual/blold4.html?  (421 OK, 649 queued)
+[2026-03-05 15:11:49]   [610 d0*] http://www.amasci.com/weird/unusual/unexpl.html  (427 OK, 643 queued)
+[2026-03-05 15:11:49]     +2 links (1255 total known)
+[2026-03-05 15:11:56]   [620 d0*] http://www.amasci.com/weird/unusual/wots050399.htm  (432 OK, 639 queued)
+[2026-03-05 15:11:56]     +5 links (1264 total known)
+[2026-03-05 15:12:08]   [630 d0*] http://www.amasci.com/tesla/earplas.html  (436 OK, 636 queued)
+[2026-03-05 15:12:08]     +2 links (1268 total known)
+[2026-03-05 15:12:12]   [635 d0*] http://www.amasci.com/home.html  (441 OK, 670 queued)
+[2026-03-05 15:12:17]   [640 d0*] http://amasci.com/amateur/toys1.html  (445 OK, 674 queued)
+[2026-03-05 15:12:17]     +15 links (1329 total known)
+[2026-03-05 15:12:23]   [645 d0*] http://amasci.com/graphics/fstick.jpg  (450 OK, 684 queued)
+[2026-03-05 15:12:29]   [650 d0*] http://amasci.com/graphics/books/shrnqtr.jpg  (455 OK, 679 queued)
+[2026-03-05 15:12:34]   [655 d0*] http://amasci.com/graphics/books/tarant.jpg  (460 OK, 674 queued)
+[2026-03-05 15:12:42]   [660] 464 OK, 196 failed, 684 queued
+[2026-03-05 15:12:42]     last fail: http://www.amasci.com/sc/parent.html
+[2026-03-05 15:12:47]   [665 d0*] http://www.amasci.com/sc/scilogo6.gif  (466 OK, 681 queued)
+[2026-03-05 15:12:50]   [670 d0*] http://www.amasci.com/sc/us1.txt  (468 OK, 676 queued)
+[2026-03-05 15:12:56]   [675 d0*] http://www.amasci.com/sc/awards.html  (470 OK, 671 queued)
+[2026-03-05 15:13:01]   [680 d0*] http://www.amasci.com/tesla/tradio.html  (474 OK, 667 queued)
+[2026-03-05 15:13:07]   [685 d0*] http://www.amasci.com/tesla/rqsup.txt  (479 OK, 662 queued)
+[2026-03-05 15:13:12]   [690 d0*] http://www.amasci.com/tesla/tslsoc.html  (484 OK, 660 queued)
+[2026-03-05 15:13:12]     +1 links (1351 total known)
+[2026-03-05 15:13:17]   [695 d0*] http://www.amasci.com/amateur/blljar4.txt  (488 OK, 662 queued)
+[2026-03-05 15:13:22]   [700 d0*] http://www.amasci.com/tesla/fieldexe.txt  (493 OK, 657 queued)
+[2026-03-05 15:13:27]   [705 d0*] http://www.amasci.com/tesla/tespc.txt  (498 OK, 652 queued)
+[2026-03-05 15:13:32]   [710 d0*] http://www.amasci.com/tesla/test.css  (503 OK, 648 queued)
+[2026-03-05 15:13:35]   [715 d0*] http://www.amasci.com/graphics/ETCviol.jpeg  (508 OK, 645 queued)
+[2026-03-05 15:13:39]   [720 d0*] http://www.amasci.com/tesla/toroid1.txt  (513 OK, 641 queued)
+[2026-03-05 15:13:45]   [725 d0*] http://www.amasci.com/elect/tinyhole.html  (518 OK, 643 queued)
+[2026-03-05 15:13:49]   [730 d0*] http://www.amasci.com/tesla/reson2.gif  (521 OK, 641 queued)
+[2026-03-05 15:13:54]   [735 d0*] http://amasci.com/tesla/dipole1.html  (526 OK, 639 queued)
+[2026-03-05 15:13:58]   [740 d0*] http://www.amasci.com/tesla/dipol1.html  (529 OK, 637 queued)
+[2026-03-05 15:14:04]   [745 d0*] http://www.amasci.com/weird/unusual/objold.html  (532 OK, 637 queued)
+[2026-03-05 15:14:16]   [755 d0*] http://amasci.com/weird/unusual/evilev.html  (538 OK, 637 queued)
+[2026-03-05 15:14:22]   [760] 542 OK, 218 failed, 643 queued
+[2026-03-05 15:14:22]     last fail: http://amasci.com/weird/unusual/Massa
+[2026-03-05 15:14:36]   [780] 551 OK, 229 failed, 638 queued
+[2026-03-05 15:14:36]     last fail: http://www.amasci.com/weird/unusual/nil
+[2026-03-05 15:14:52]   [800] 554 OK, 246 failed, 618 queued
+[2026-03-05 15:14:52]     last fail: http://amasci.com/contributor/1756332
+[2026-03-05 15:15:01]   [815 d0*] http://amasci.com/weird/unusual/blold.html  (561 OK, 607 queued)
+[2026-03-05 15:15:03]   [820] 563 OK, 257 failed, 605 queued
+[2026-03-05 15:15:03]     last fail: http://amasci.com/weird/unusual/Kelley Farm
+[2026-03-05 15:15:06]   [825 d0*] http://amasci.com/emotor/icepail.html  (566 OK, 603 queued)
+[2026-03-05 15:15:12]   [830 d0*] http://amasci.com/emotor/roller.txt  (571 OK, 599 queued)
+[2026-03-05 15:15:17]   [835 d0*] http://amasci.com/amateur/vonngt_1965.html  (576 OK, 595 queued)
+[2026-03-05 15:15:21]   [840 d0*] http://amasci.com/graphics/books/moore2.jpg  (577 OK, 594 queued)
+[2026-03-05 15:15:26]   [845 d0*] http://amasci.com/graphics/tesbeam3.gif  (582 OK, 591 queued)
+[2026-03-05 15:15:28]   [850 d0*] http://amasci.com/amateur/blljar1.txt  (587 OK, 591 queued)
+[2026-03-05 15:15:31]   [855 d0*] http://amasci.com/tesla/biog.txt  (592 OK, 586 queued)
+[2026-03-05 15:15:36]   [860 d0*] http://amasci.com/tesla/testrik.txt  (597 OK, 582 queued)
+[2026-03-05 15:15:38]   [865 d0*] http://amasci.com/polwav3.gif  (602 OK, 578 queued)
+[2026-03-05 15:15:43]   [870 d0*] http://amasci.com/graphics/tcoil1.gif  (607 OK, 582 queued)
+[2026-03-05 15:15:48]   [875 d0*] http://amasci.com/freenrg/a-vectFE.html  (612 OK, 584 queued)
+[2026-03-05 15:15:53]   [880 d0*] http://amasci.com/elect/poynt/fig5.gif  (617 OK, 595 queued)
+[2026-03-05 15:15:59]   [885 d0*] http://amasci.com/elect/poynt/fig6.gif  (622 OK, 590 queued)
+[2026-03-05 15:16:04]   [890 d0*] http://amasci.com/graphics/kraus_poynt.gif  (627 OK, 585 queued)
+[2026-03-05 15:16:10]   [895 d0*] http://amasci.com/elect/charg1.html  (632 OK, 591 queued)
+[2026-03-05 15:16:16]   [900 d0*] http://amasci.com/amateur/elecdir.html  (637 OK, 588 queued)
+[2026-03-05 15:16:22]   [905 d0*] http://amasci.com/miscon/books.html  (642 OK, 589 queued)
+[2026-03-05 15:16:27]   [910 d0*] http://amasci.com/miscon/mform.html  (646 OK, 585 queued)
+[2026-03-05 15:16:27]     +1 links (1496 total known)
+[2026-03-05 15:16:32]   [915 d0*] http://amasci.com/freenrg/audwall.html  (651 OK, 581 queued)
+[2026-03-05 15:16:36]   [920] 654 OK, 266 failed, 593 queued
+[2026-03-05 15:16:36]     last fail: http://amasci.com/elect/elect/coil1.gif
+[2026-03-05 15:16:54]   [935 d0*] http://amasci.com/graphics/gline1.gif  (656 OK, 578 queued)
+[2026-03-05 15:16:58]   [940 d0*] http://amasci.com/tesla/tc2.html  (661 OK, 573 queued)
+[2026-03-05 15:17:01]   [945 d0*] http://amasci.com/amateur/bllsupl.txt  (666 OK, 568 queued)
+[2026-03-05 15:17:04]   [950 d0*] http://amasci.com/tesla/sources.html  (671 OK, 564 queued)
+[2026-03-05 15:17:04]     +6 links (1520 total known)
+[2026-03-05 15:17:09]   [955 d0*] http://amasci.com/tesla/tc.txt  (676 OK, 565 queued)
+[2026-03-05 15:17:12]   [960 d0*] http://amasci.com/tesla/nearfld1.html  (681 OK, 562 queued)
+[2026-03-05 15:17:12]     +3 links (1525 total known)
+[2026-03-05 15:17:15]   [965 d0*] http://amasci.com/tes;a/toroid2.html  (686 OK, 561 queued)
+[2026-03-05 15:17:20]   [970 d0*] http://www.amasci.com/graphics/yt/uwavbotl.jpg  (689 OK, 568 queued)
+[2026-03-05 15:17:24]   [975 d0*] http://amasci.com/coilgen/generator_3.html  (694 OK, 566 queued)
+[2026-03-05 15:17:31]   [980 d0*] http://www.amasci.com/coilgen/coilgen1996.txt  (699 OK, 564 queued)
+[2026-03-05 15:17:36]   [985 d0*] http://www.amasci.com/graphics/coilgen.gif  (704 OK, 559 queued)
+[2026-03-05 15:17:39]   [990 d0*] http://www.amasci.com/coilgen/generator_4.html  (709 OK, 557 queued)
+[2026-03-05 15:17:43]   [995 d0*] http://www.amasci.com/weird/unusual/swenson1.html  (713 OK, 560 queued)
+[2026-03-05 15:17:45]   [1000 d0*] http://www.amasci.com/graphics/eglitch.jpg  (718 OK, 557 queued)
+[2026-03-05 15:17:54]   [1010 d0*] http://www.amasci.com/maglev/lev/exhibit3.txt  (722 OK, 584 queued)
+[2026-03-05 15:17:56]   [1015 d0*] http://www.amasci.com/maglev/lev/expose.html  (727 OK, 580 queued)
+[2026-03-05 15:17:59]   [1020 d0*] http://www.amasci.com/maglev/lev/index.html  (732 OK, 575 queued)
+[2026-03-05 15:17:59]     +2 links (1597 total known)
+[2026-03-05 15:18:01]   [1025 d0*] http://www.amasci.com/maglev/lev/exhibit1.gif  (737 OK, 572 queued)
+[2026-03-05 15:18:04]   [1030 d0*] http://www.amasci.com/maglev/lev/exhibit11.txt  (742 OK, 567 queued)
+[2026-03-05 15:18:06]   [1035 d0*] http://www.amasci.com/maglev/lev/exhibit6.txt  (747 OK, 562 queued)
+[2026-03-05 15:18:09]   [1040 d0*] http://www.amasci.com/maglev/lev/exhibit2.gif  (752 OK, 557 queued)
+[2026-03-05 15:18:11]   [1045 d0*] http://www.amasci.com/maglev/lev/magneto.gif  (757 OK, 553 queued)
+[2026-03-05 15:18:14]   [1050 d0*] http://www.amasci.com/maglev/lev/fig5.gif  (762 OK, 548 queued)
+[2026-03-05 15:18:18]   [1055 d0*] http://www.amasci.com/miscon/feynjudg.html  (767 OK, 550 queued)
+[2026-03-05 15:18:22]   [1060 d0*] http://amasci.com/freenrg/pfact.txt  (772 OK, 550 queued)
+[2026-03-05 15:18:25]   [1065 d0*] http://www.amasci.com/graphics/gline2.gif  (777 OK, 553 queued)
+[2026-03-05 15:18:28]   [1070 d0*] http://www.amasci.com/elect/poynt/fig2.gif  (782 OK, 548 queued)
+[2026-03-05 15:18:38]   [1080 d0*] http://www.amasci.com/amateur/mushr.html  (788 OK, 539 queued)
+[2026-03-05 15:18:43]   [1085 d0*] http://www.amasci.com/anime/5.html  (793 OK, 539 queued)
+[2026-03-05 15:18:47]   [1090 d0*] http://amasci.com/anime/4.html  (797 OK, 540 queued)
+[2026-03-05 15:18:47]     +3 links (1633 total known)
+[2026-03-05 15:18:53]   [1095 d0*] http://amasci.com/anime/2.html  (801 OK, 539 queued)
+[2026-03-05 15:18:56]   [1100 d0*] http://www.amasci.com/3.html  (805 OK, 538 queued)
+[2026-03-05 15:18:56]     +1 links (1639 total known)
+[2026-03-05 15:18:59]   [1105 d0*] http://www.amasci.com/indexng.html  (809 OK, 534 queued)
+[2026-03-05 15:19:03]   [1110 d0*] http://www.amasci.com/physvids  (813 OK, 535 queued)
+[2026-03-05 15:19:05]   [1115 d0*] http://www.amasci.com/graphics/books/facehgr.jpg  (818 OK, 545 queued)
+[2026-03-05 15:19:08]   [1120 d0*] http://www.amasci.com/graphics/shirt_detail_2.jpg  (823 OK, 540 queued)
+[2026-03-05 15:19:11]   [1125 d0*] http://www.amasci.com/graphics/books/blaklit2.jpg  (828 OK, 535 queued)
+[2026-03-05 15:19:15]   [1130 d0*] http://www.amasci.com/elehob/elehot.html  (832 OK, 536 queued)
+[2026-03-05 15:19:15]     +2 links (1668 total known)
+[2026-03-05 15:19:27]   [1140] 835 OK, 305 failed, 538 queued
+[2026-03-05 15:19:27]     last fail: http://amasci.com/gif/bullet5.GIF
+[2026-03-05 15:19:41]   [1155 d0*] http://www.amasci.com/amateur/scigrps.html  (843 OK, 534 queued)
+[2026-03-05 15:19:47]   [1160] 846 OK, 314 failed, 532 queued
+[2026-03-05 15:19:47]     last fail: http://www.amasci.com/amateur/elehobnw.html
+[2026-03-05 15:19:51]   [1165 d0*] http://amasci.com/physvids/13.html  (851 OK, 564 queued)
+[2026-03-05 15:20:00]   [1175 d0*] http://amasci.com/physvids/15.html  (860 OK, 562 queued)
+[2026-03-05 15:20:04]   [1180 d0*] http://amasci.com/physvids/3.html  (865 OK, 558 queued)
+[2026-03-05 15:20:04]     +1 links (1739 total known)
+[2026-03-05 15:20:10]   [1185 d0*] http://amasci.com/amateur/traffic/traffic1.html  (870 OK, 554 queued)
+[2026-03-05 15:20:16]   [1190 d0*] http://amasci.com/mistake.html  (874 OK, 580 queued)
+[2026-03-05 15:20:22]   [1195 d0*] http://amasci.com/amateur/transis2.html  (878 OK, 580 queued)
+[2026-03-05 15:20:28]   [1200 d0*] http://amasci.com/freenrg/wbelief1.html  (882 OK, 576 queued)
+[2026-03-05 15:20:28]     +2 links (1778 total known)
+[2026-03-05 15:20:38]   [1210 d0*] http://amasci.com/amateur/traffic/tfaq.html  (887 OK, 576 queued)
+[2026-03-05 15:20:38]     +5 links (1791 total known)
+[2026-03-05 15:20:49]   [1220] 890 OK, 330 failed, 576 queued
+[2026-03-05 15:20:49]     last fail: http://amasci.com/preventwaves.html
+[2026-03-05 15:20:53]   [1225 d0*] http://amasci.com/amateur/traffic/eee.html  (891 OK, 571 queued)
+[2026-03-05 15:21:00]   [1230 d0*] http://amasci.com/amateur/traffic1/seatraf.html  (893 OK, 567 queued)
+[2026-03-05 15:21:07]   [1235 d0*] http://amasci.com/amateur/traffic1/traffic1.html  (898 OK, 562 queued)
+[2026-03-05 15:21:16]   [1240 d0*] http://amasci.com/amateur/traffic/twlite1.gif  (903 OK, 565 queued)
+[2026-03-05 15:21:28]   [1250 d0*] http://amasci.com/amateur/traffic/trafexp.html  (910 OK, 555 queued)
+[2026-03-05 15:21:37]   [1260 d0*] http://www.amasci.com/physvids/2.html  (919 OK, 546 queued)
+[2026-03-05 15:21:39]   [1265 d0*] http://www.amasci.com/physvids/1.html  (924 OK, 541 queued)
+[2026-03-05 15:21:42]   [1270 d0*] http://www.amasci.com/physvids.html  (929 OK, 537 queued)
+[2026-03-05 15:21:45]   [1275 d0*] http://www.amasci.com/amateur/schlrn2.gif  (934 OK, 535 queued)
+[2026-03-05 15:21:51]   [1280 d0*] http://www.amasci.com/physivds/1.html  (938 OK, 530 queued)
+[2026-03-05 15:21:57]   [1285 d0*] http://www.amasci.com/graphics/yt/flircat.jpg  (943 OK, 576 queued)
+[2026-03-05 15:22:01]   [1290 d0*] http://www.amasci.com/graphics/yt/bumb.jpg  (948 OK, 571 queued)
+[2026-03-05 15:22:06]   [1295 d0*] http://www.amasci.com/graphics/yt/runship.jpg  (952 OK, 567 queued)
+[2026-03-05 15:22:12]   [1300 d0*] http://www.amasci.com/graphics/yt/UVphos.jpg  (957 OK, 562 queued)
+[2026-03-05 15:22:15]   [1305 d0*] http://www.amasci.com/graphics/yt/capvac.jpg  (962 OK, 557 queued)
+[2026-03-05 15:22:18]   [1310 d0*] http://www.amasci.com/graphics/yt/sonic1.JPG  (967 OK, 552 queued)
+[2026-03-05 15:22:22]   [1315 d0*] http://www.amasci.com/graphics/yt/notalska.jpg  (972 OK, 547 queued)
+[2026-03-05 15:22:27]   [1320 d0*] http://www.amasci.com/graphics/yt/co2squee.jpg  (977 OK, 542 queued)
+[2026-03-05 15:22:31]   [1325 d0*] http://www.amasci.com/graphics/yt/toymut08.jpg  (982 OK, 537 queued)
+[2026-03-05 15:22:35]   [1330 d0*] http://www.amasci.com/graphics/yt/trknut2.jpg  (987 OK, 532 queued)
+[2026-03-05 15:22:38]   [1335 d0*] http://www.amasci.com/wsci/  (992 OK, 527 queued)
+[2026-03-05 15:22:43]   [1340 d0*] http://amasci.com/wsci/booksle7.doc  (997 OK, 542 queued)
+[2026-03-05 15:22:51]   [1345 d0*] http://amasci.com/graphics/goggl.jpg  (1002 OK, 541 queued)
+[2026-03-05 15:22:57]   [1350 d0*] http://amasci.com/graphics/leefltrb.gif  (1007 OK, 542 queued)
+[2026-03-05 15:23:02]   [1355 d0*] http://amasci.com/freenrg/seapts.html"  (1012 OK, 538 queued)
+[2026-03-05 15:23:08]   [1360 d0*] http://www.amasci.com/wsci/flyer5.doc  (1017 OK, 533 queued)
+[2026-03-05 15:23:11]   [1365 d0*] http://www.amasci.com/wsci/weird.txt  (1022 OK, 529 queued)
+[2026-03-05 15:23:14]   [1370 d0*] http://www.amasci.com/amateur/irgogg2.html  (1027 OK, 528 queued)
+[2026-03-05 15:23:14]     +6 links (1904 total known)
+[2026-03-05 15:23:16]   [1375 d0*] http://www.amasci.com/graphics/leefltrh.gif  (1032 OK, 529 queued)
+[2026-03-05 15:23:20]   [1380 d0*] http://www.amasci.com/graphics/infrared/cmps2VIS.jpeg  (1037 OK, 535 queued)
+[2026-03-05 15:23:27]   [1385 d0*] http://www.amasci.com/graphics/infrared/fntn1IR.jpeg  (1042 OK, 530 queued)
+[2026-03-05 15:23:32]   [1390 d0*] http://amasci.com/graphics/yt/pdstwe3.jpg  (1047 OK, 525 queued)
+[2026-03-05 15:23:35]   [1395 d0*] http://amasci.com/graphics/yt/gravbox.jpg  (1052 OK, 520 queued)
+[2026-03-05 15:23:37]   [1400 d0*] http://amasci.com/graphics/yt/bucky.jpg  (1057 OK, 515 queued)
+[2026-03-05 15:23:40]   [1405 d0*] http://amasci.com/graphics/yt/ascomyct.jpg  (1061 OK, 511 queued)
+[2026-03-05 15:23:43]   [1410 d0*] http://amasci.com/graphics/yt/bumb.jpg  (1066 OK, 506 queued)
+[2026-03-05 15:23:45]   [1415 d0*] http://amasci.com/graphics/yt/sonic1.JPG  (1071 OK, 501 queued)
+[2026-03-05 15:23:49]   [1420 d0*] http://amasci.com/emotor/electoph.html  (1076 OK, 496 queued)
+[2026-03-05 15:23:53]   [1425 d0*] http://amasci.com/amateur/MIRROR.GIF  (1080 OK, 495 queued)
+[2026-03-05 15:23:59]   [1430 d0*] http://amasci.com/graphics/moore2.jpg  (1084 OK, 491 queued)
+[2026-03-05 15:24:05]   [1435 d0*] http://amasci.com/graphics/microtc.jpg  (1089 OK, 492 queued)
+[2026-03-05 15:24:12]   [1440 d0*] http://amasci.com/graphics/pndanim3.gif  (1094 OK, 502 queued)
+[2026-03-05 15:24:17]   [1445 d0*] http://amasci.com/art/pondmach/bumbr_04.jpg  (1098 OK, 497 queued)
+[2026-03-05 15:24:22]   [1450 d0*] http://amasci.com/art/pondmach/index.html  (1103 OK, 496 queued)
+[2026-03-05 15:24:27]   [1455 d0*] http://amasci.com/art/pondmach/pndthb.jpg  (1108 OK, 494 queued)
+[2026-03-05 15:24:36]   [1460 d0*] http://amasci.com/art/  (1113 OK, 489 queued)
+[2026-03-05 15:24:36]     +6 links (1955 total known)
+[2026-03-05 15:24:42]   [1465 d0*] http://amasci.com/art/dork07/phos_IR1.JPG  (1118 OK, 493 queued)
+[2026-03-05 15:24:55]   [1475 d0*] http://amasci.com/art/ideas/buttons.html  (1127 OK, 489 queued)
+[2026-03-05 15:25:02]   [1480 d0*] http://amasci.com/amateur/eyeself.html  (1130 OK, 486 queued)
+[2026-03-05 15:25:02]     +1 links (1967 total known)
+[2026-03-05 15:25:09]   [1485 d0*] http://amasci.com/sc/proj/kidproja.html  (1135 OK, 485 queued)
+[2026-03-05 15:25:16]   [1490 d0*] http://amasci.com/emotor/scanm1.gif  (1140 OK, 491 queued)
+[2026-03-05 15:25:24]   [1495 d0*] http://amasci.com/amateur/capexpt.html  (1145 OK, 491 queued)
+[2026-03-05 15:25:28]   [1500 d0*] http://amasci.com/graphics/qshrnk.jpg  (1149 OK, 491 queued)
+[2026-03-05 15:25:36]   [1505 d0*] http://amasci.com/weird/microwvave/microwave.css  (1153 OK, 497 queued)
+[2026-03-05 15:25:53]   [1520 d0*] http://amasci.com/weird2.html  (1162 OK, 492 queued)
+[2026-03-05 15:25:59]   [1525 d0*] http://amasci.com/emotor/zerostat.html  (1167 OK, 487 queued)
+[2026-03-05 15:26:06]   [1530 d0*] http://amasci.com/static/fostergen.html  (1172 OK, 488 queued)
+[2026-03-05 15:26:06]     +1 links (2019 total known)
+[2026-03-05 15:26:11]   [1535 d0*] http://amasci.com/amateur/pris.html  (1176 OK, 484 queued)
+[2026-03-05 15:26:16]   [1540 d0*] http://amasci.com/amateur/tornbox.gif  (1181 OK, 482 queued)
+[2026-03-05 15:26:22]   [1545 d0*] http://amasci.com/emotor/ikelv.html  (1186 OK, 479 queued)
+[2026-03-05 15:26:28]   [1550 d0*] http://amasci.com/graphics/kelvxsec.gif  (1190 OK, 482 queued)
+[2026-03-05 15:26:33]   [1555 d0*] http://amasci.com/emotor/vdgtame.gif  (1194 OK, 478 queued)
+[2026-03-05 15:26:42]   [1560 d0*] http://amasci.com/graphics/argon/full01.jpg  (1199 OK, 482 queued)
+[2026-03-05 15:26:49]   [1565 d0*] http://amasci.com/graphics/argon/bowlsid009.mpg  (1204 OK, 477 queued)
+[2026-03-05 15:26:59]   [1570 d0*] http://amasci.com/amateur/hglob.gif  (1209 OK, 476 queued)
+[2026-03-05 15:27:05]   [1575 d0*] http://amasci.com/amateur/teles.html  (1214 OK, 471 queued)
+[2026-03-05 15:27:12]   [1580 d0*] http://amasci.com/esloud/eslfig5.gif  (1219 OK, 473 queued)
+[2026-03-05 15:27:19]   [1585 d0*] http://amasci.com/esloud/eslfig2.gif  (1224 OK, 468 queued)
+[2026-03-05 15:27:24]   [1590 d0*] http://amasci.com/amateur/bloblamp.html  (1227 OK, 465 queued)
+[2026-03-05 15:27:29]   [1595 d0*] http://amasci.com/amateur/antibub/anti3.gif  (1232 OK, 471 queued)
+[2026-03-05 15:27:33]   [1600 d0*] http://amasci.com/amateur/antibub/anti10.gif  (1237 OK, 466 queued)
+[2026-03-05 15:27:39]   [1605 d0*] http://amasci.com/emotor/safe.html  (1242 OK, 463 queued)
+[2026-03-05 15:27:43]   [1610 d0*] http://amasci.com/exhibits/hiamp.html  (1246 OK, 460 queued)
+[2026-03-05 15:27:43]     +1 links (2071 total known)
+[2026-03-05 15:27:49]   [1615 d0*] http://amasci.com/exhibits/statdrum.html  (1250 OK, 457 queued)
+[2026-03-05 15:27:54]   [1620 d0*] http://amasci.com/maglev/bbmlev.gif  (1255 OK, 453 queued)
+[2026-03-05 15:28:01]   [1625 d0*] http://amasci.com/graphics/achlfhz2.gif  (1260 OK, 458 queued)
+[2026-03-05 15:28:06]   [1630 d0*] http://amasci.com/viselect/vedemos.html  (1265 OK, 453 queued)
+[2026-03-05 15:28:14]   [1635 d0*] http://amasci.com/amateur/neospher.html  (1270 OK, 454 queued)
+[2026-03-05 15:28:22]   [1640 d0*] http://amasci.com/graphics/glance.gif  (1275 OK, 453 queued)
+[2026-03-05 15:28:27]   [1645 d0*] http://www.amasci.com/wrd7sensrs.doc  (1280 OK, 448 queued)
+[2026-03-05 15:28:30]   [1650 d0*] http://www.amasci.com/res7.txt  (1285 OK, 444 queued)
+[2026-03-05 15:28:32]   [1655 d0*] http://www.amasci.com/graphics/sqwhls4.gif  (1290 OK, 456 queued)
+[2026-03-05 15:28:35]   [1660 d0*] http://www.amasci.com/art/dork07/dorkopen.jpg  (1295 OK, 453 queued)
+[2026-03-05 15:28:37]   [1665 d0*] http://www.amasci.com/art/pondmach/bumb2_03.jpg  (1300 OK, 454 queued)
+[2026-03-05 15:28:40]   [1670 d0*] http://www.amasci.com/art/pondmach/bumbr007a.jpg  (1305 OK, 449 queued)
+[2026-03-05 15:28:43]   [1675 d0*] http://www.amasci.com/art/emerdelu/  (1309 OK, 446 queued)
+[2026-03-05 15:28:46]   [1680] 1313 OK, 367 failed, 447 queued
+[2026-03-05 15:28:46]     last fail: http://www.amasci.com/art/dork07/graphics/abc.gif
+[2026-03-05 15:28:49]   [1685 d0*] http://www.amasci.com/graphics/holo/hood1a.jpg  (1318 OK, 454 queued)
+[2026-03-05 15:28:51]   [1690 d0*] http://www.amasci.com/graphics/holo/onestp2.gif  (1323 OK, 449 queued)
+[2026-03-05 15:28:54]   [1695 d0*] http://www.amasci.com/graphics/holo/curvscr5.gif  (1328 OK, 444 queued)
+[2026-03-05 15:28:56]   [1700 d0*] http://www.amasci.com/weird/end.html  (1333 OK, 442 queued)
+[2026-03-05 15:29:02]   [1705 d0*] http://amasci.com/weird/suprss.html  (1338 OK, 474 queued)
+[2026-03-05 15:29:07]   [1710 d0*] http://amasci.com/weird/Martin_letter.html  (1343 OK, 474 queued)
+[2026-03-05 15:29:15]   [1720] 1351 OK, 369 failed, 468 queued
+[2026-03-05 15:29:15]     last fail: http://www.amasci.com/abc.gif
+[2026-03-05 15:29:20]   [1725 d0*] http://www.amasci.com/weird/hevolv.html  (1354 OK, 464 queued)
+[2026-03-05 15:29:25]   [1730 d0*] http://www.amasci.com/freenrg/fe.css  (1359 OK, 462 queued)
+[2026-03-05 15:29:29]   [1735 d0*] http://www.amasci.com/maglev/levbill1.html  (1364 OK, 459 queued)
+[2026-03-05 15:29:33]   [1740 d0*] http://amasci.com/amfrm/   (1369 OK, 460 queued)
+[2026-03-05 15:29:36]   [1745 d0*] http://amasci.com/weird/stmlaf.html  (1374 OK, 457 queued)
+[2026-03-05 15:29:41]   [1750 d0*] http://amasci.com/pathsk2.html  (1379 OK, 454 queued)
+[2026-03-05 15:29:45]   [1755 d0*] http://www.amasci.com/graphics/skep.gif  (1384 OK, 452 queued)
+[2026-03-05 15:29:49]   [1760 d0*] http://amasci.com/freenrg/index.html  (1388 OK, 452 queued)
+[2026-03-05 15:29:54]   [1765 d0*] http://www.amasci.com/weird/worg.html  (1392 OK, 448 queued)
+[2026-03-05 15:29:58]   [1770 d0*] http://amasci.com/tesla/ballexst.html  (1397 OK, 446 queued)
+[2026-03-05 15:30:03]   [1775 d0*] http://www.amasci.com/weird/flam2.html  (1402 OK, 445 queued)
+[2026-03-05 15:30:06]   [1780 d0*] http://www.amasci.com/weird/globe.html  (1407 OK, 443 queued)
+[2026-03-05 15:30:10]   [1785 d0*] http://www.amasci.com/invent.html  (1411 OK, 439 queued)
+[2026-03-05 15:30:12]   [1790 d0*] http://www.amasci.com/wrd7sci.doc  (1416 OK, 437 queued)
+[2026-03-05 15:30:16]   [1795 d0*] http://www.amasci.com/sc/proj/kidprojb.html  (1420 OK, 434 queued)
+[2026-03-05 15:30:18]   [1800 d0*] http://www.amasci.com/static/electrostatic1.html  (1424 OK, 446 queued)
+[2026-03-05 15:30:18]     +3 links (2249 total known)
+[2026-03-05 15:30:37]   [1820 d0*] http://www.amasci.com/electrom/electro-f2.gif  (1428 OK, 448 queued)
+[2026-03-05 15:30:39]   [1825 d0*] http://www.amasci.com/graphics/foster4a.jpg  (1433 OK, 447 queued)
+[2026-03-05 15:30:42]   [1830 d0*] http://www.amasci.com/static/electrostatic3  (1437 OK, 446 queued)
+[2026-03-05 15:30:45]   [1835 d0*] http://www.amasci.com/graphics/email.gif  (1442 OK, 459 queued)
+[2026-03-05 15:30:49]   [1840] 1444 OK, 396 failed, 458 queued
+[2026-03-05 15:30:49]     last fail: http://www.amasci.com/soap/amateur/amform.html
+[2026-03-05 15:30:54]   [1845 d0*] http://www.amasci.com/weird/microwave/voltage1.html  (1447 OK, 453 queued)
+[2026-03-05 15:30:57]   [1850 d0*] http://www.amasci.com/freenrg/magputt.txt  (1450 OK, 451 queued)
+[2026-03-05 15:31:00]   [1855 d0*] http://www.amasci.com/weird/microwvave/voltage2.html  (1455 OK, 446 queued)
+[2026-03-05 15:31:03]   [1860 d0*] http://www.amasci.com/freenrg/carbiron.html  (1459 OK, 442 queued)
+[2026-03-05 15:31:06]   [1865 d0*] http://www.amasci.com/graphics/sphere2b.gif  (1464 OK, 441 queued)
+[2026-03-05 15:31:08]   [1870 d0*] http://www.amasci.com/sc/proj/kidproja.html  (1469 OK, 436 queued)
+[2026-03-05 15:31:11]   [1875 d0*] http://www.amasci.com/amateur/elsafe.html  (1474 OK, 432 queued)
+[2026-03-05 15:31:16]   [1880 d0*] http://www.amasci.com/index.html  (1477 OK, 439 queued)
+[2026-03-05 15:31:18]   [1885 d0*] http://www.amasci.com/freenrg/secret.html  (1482 OK, 434 queued)
+[2026-03-05 15:31:21]   [1890 d0*] http://www.amasci.com/graphics/holo/holos1a.jpg  (1487 OK, 432 queued)
+[2026-03-05 15:31:26]   [1895 d0*] http://www.amasci.com/wing/saabrok3.jpg  (1492 OK, 447 queued)
+[2026-03-05 15:31:30]   [1900 d0*] http://www.amasci.com/wing/smoke22A.gif  (1495 OK, 442 queued)
+[2026-03-05 15:31:37]   [1910 d0*] http://www.amasci.com/miscon/ice.txt  (1504 OK, 434 queued)
+[2026-03-05 15:31:42]   [1915 d0*] http://www.amasci.com/tesla/ballgtn.html  (1508 OK, 429 queued)
+[2026-03-05 15:31:47]   [1920 d0*] http://www.amasci.com/tesla/bigball2.html  (1512 OK, 436 queued)
+[2026-03-05 15:31:51]   [1925 d0*] http://www.amasci.com/tesla/ball.txt  (1517 OK, 432 queued)
+[2026-03-05 15:31:55]   [1930 d0*] http://www.amasci.com/amateur/clouds.html  (1521 OK, 428 queued)
+[2026-03-05 15:32:04]   [1940 d0*] http://www.amasci.com/amateur/saslgosm.gif  (1528 OK, 433 queued)
+[2026-03-05 15:32:09]   [1945 d0*] http://amasci.com/wing/wing1a.jpg  (1533 OK, 432 queued)
+[2026-03-05 15:32:13]   [1950 d0*] http://www.amasci.com/amateur/microsco.html  (1538 OK, 427 queued)
+[2026-03-05 15:32:13]     +1 links (2378 total known)
+[2026-03-05 15:32:17]   [1955 d0*] http://www.amasci.com/amateur/elecdir.html  (1543 OK, 423 queued)
+[2026-03-05 15:32:21]   [1960 d0*] http://www.amasci.com/graphics/comicon.gif  (1548 OK, 424 queued)
+[2026-03-05 15:32:25]   [1965 d0*] http://www.amasci.com/graphics/krampus.gif  (1553 OK, 424 queued)
+[2026-03-05 15:32:38]   [1980 d0*] http://www.amasci.com/freenrg/scalar.gif  (1562 OK, 422 queued)
+[2026-03-05 15:32:44]   [1985 d0*] http://amasci.com/electrom/e-field2.gif  (1567 OK, 423 queued)
+[2026-03-05 15:32:47]   [1990 d0*] http://www.amasci.com/miscon/opphys.html  (1572 OK, 418 queued)
+[2026-03-05 15:32:51]   [1995 d0*] http://amasci.com/freenrg/nytmag.html  (1577 OK, 422 queued)
+[2026-03-05 15:32:57]   [2000 d0*] http://www.amasci.com/freenrg/magnet.html  (1582 OK, 419 queued)
+[2026-03-05 15:32:57]     +1 links (2420 total known)
+[2026-03-05 15:33:00]   [2005 d0*] http://amasci.com/freenrg/magheal.html  (1587 OK, 417 queued)
+[2026-03-05 15:33:14]   [2020 d0*] http://amasci.com/scifair/physics.html   (1594 OK, 422 queued)
+[2026-03-05 15:33:22]   [2030 d0*] http://www.amasci.com/maglev/maglev.html  (1598 OK, 413 queued)
+[2026-03-05 15:33:22]     +2 links (2445 total known)
+[2026-03-05 15:33:29]   [2040 d0*] http://amasci.com/amateur/magnerite.html  (1605 OK, 412 queued)
+[2026-03-05 15:33:32]   [2045 d0*] http://www.amasci.com/maglev/magroll.html  (1609 OK, 409 queued)
+[2026-03-05 15:33:48]   [2060 d0*] http://www.amasci.com/elehob/eledate.html  (1616 OK, 409 queued)
+[2026-03-05 15:33:48]     +1 links (2470 total known)
+[2026-03-05 15:33:54]   [2065 d0*] http://www.amasci.com/fuelair.html  (1620 OK, 407 queued)
+[2026-03-05 15:33:58]   [2070 d0*] http://www.amasci.com/emotor/nanoamp.html  (1623 OK, 405 queued)
+[2026-03-05 15:34:03]   [2075 d0*] http://www.amasci.com/weird/unusual/screwy.html  (1628 OK, 425 queued)
+[2026-03-05 15:34:08]   [2080] 1632 OK, 448 failed, 423 queued
+[2026-03-05 15:34:08]     last fail: http://www.amasci.com/freenrg/freenrg/h2oblast.html
+[2026-03-05 15:34:13]   [2085 d0*] http://www.amasci.com/lghtclok.txt  (1636 OK, 419 queued)
+[2026-03-05 15:34:18]   [2090 d0*] http://amasci.com/atmos.html  (1641 OK, 497 queued)
+[2026-03-05 15:34:18]     +2 links (2589 total known)
+[2026-03-05 15:34:23]   [2095 d0*] http://amasci.com/freenrg/frnge.txt  (1645 OK, 494 queued)
+[2026-03-05 15:34:29]   [2100 d0*] http://amasci.com/graphics/tstrain.jpg  (1650 OK, 516 queued)
+[2026-03-05 15:34:38]   [2105 d0*] http://amasci.com/graphics/tesbeam2.jpg  (1655 OK, 511 queued)
+[2026-03-05 15:34:45]   [2110 d0*] http://amasci.com/graphics/tesla/electrical.jpg  (1660 OK, 506 queued)
+[2026-03-05 15:34:53]   [2115 d0*] http://amasci.com/graphics/tesdray2.jpg  (1665 OK, 501 queued)
+[2026-03-05 15:35:00]   [2120 d0*] http://amasci.com/graphics/tes_flyer1.jpg  (1670 OK, 496 queued)
+[2026-03-05 15:35:08]   [2125 d0*] http://amasci.com/graphics/tstowr.jpg  (1675 OK, 491 queued)
+[2026-03-05 15:35:14]   [2130 d0*] http://amasci.com/whenidie.html  (1680 OK, 486 queued)
+[2026-03-05 15:35:20]   [2135 d0*] http://amasci.com/werid/humanIR.html  (1685 OK, 484 queued)
+[2026-03-05 15:35:25]   [2140 d0*] http://amasci.com/newname.html  (1690 OK, 479 queued)
+[2026-03-05 15:35:31]   [2145 d0*] http://amasci.com/graphics/howfast3.gif  (1695 OK, 474 queued)
+[2026-03-05 15:35:38]   [2150 d0*] http://amasci.com/stats/idbylink2.html  (1700 OK, 470 queued)
+[2026-03-05 15:35:38]     +62 links (2682 total known)
+[2026-03-05 15:35:43]   [2155 d0*] http://www.amasci.com/elehob/elehobcr.html  (1703 OK, 531 queued)
+[2026-03-05 15:35:47]   [2160 d0*] http://www.AMASCI.COM  (1706 OK, 526 queued)
+[2026-03-05 15:35:47]     +68 links (2754 total known)
+[2026-03-05 15:35:53]   [2165 d0*] http://amasci.com/feynexpt.html  (1711 OK, 597 queued)
+[2026-03-05 15:35:55]   [2170 d0*] http://www.AMASCI.COM/graphics/eglitch.jpg  (1716 OK, 593 queued)
+[2026-03-05 15:35:58]   [2175 d0*] http://www.AMASCI.COM/amateur/blljar3.txt  (1721 OK, 611 queued)
+[2026-03-05 15:36:01]   [2180 d0*] http://www.AMASCI.COM/mistake.html  (1726 OK, 606 queued)
+[2026-03-05 15:36:06]   [2185 d0*] http://www.AMASCI.COM/resume.html  (1730 OK, 616 queued)
+[2026-03-05 15:36:09]   [2190 d0*] http://www.AMASCI.COM/wrd7res7.doc  (1735 OK, 618 queued)
+[2026-03-05 15:36:12]   [2195 d0*] http://www.AMASCI.COM/emotor/stmiscon.html  (1739 OK, 620 queued)
+[2026-03-05 15:36:17]   [2200] 1742 OK, 458 failed, 630 queued
+[2026-03-05 15:36:17]     last fail: http://www.AMASCI.COM/~billb/cgi-bin/miscon/guestbok.html
+[2026-03-05 15:36:20]   [2205 d0*] http://www.AMASCI.COM/elect/elefaq1.html  (1747 OK, 630 queued)
+[2026-03-05 15:36:22]   [2210 d0*] http://www.AMASCI.COM/elect/poynt/poynt.html  (1752 OK, 636 queued)
+[2026-03-05 15:36:22]     +16 links (2862 total known)
+[2026-03-05 15:36:25]   [2215 d0*] http://www.AMASCI.COM/miscon/energ1.html  (1757 OK, 647 queued)
+[2026-03-05 15:36:27]   [2220 d0*] http://www.AMASCI.COM/graphics/kraus_poynt.gif  (1762 OK, 644 queued)
+[2026-03-05 15:36:30]   [2225 d0*] http://www.AMASCI.COM/freenrg/laughed.html  (1767 OK, 723 queued)
+[2026-03-05 15:36:32]   [2230 d0*] http://www.AMASCI.COM/freenrg/mavskep1.html  (1772 OK, 753 queued)
+[2026-03-05 15:36:35]   [2235 d0*] http://www.AMASCI.COM/freenrg/bead.html  (1776 OK, 749 queued)
+[2026-03-05 15:36:38]   [2240 d0*] http://www.AMASCI.COM/weird/stmlaf.html  (1780 OK, 746 queued)
+[2026-03-05 15:36:41]   [2245 d0*] http://www.AMASCI.COM/freenrg/evolv.txt  (1785 OK, 744 queued)
+[2026-03-05 15:36:43]   [2250 d0*] http://www.AMASCI.COM/freenrg/clbooks.html  (1790 OK, 739 queued)
+[2026-03-05 15:36:46]   [2255 d0*] http://www.AMASCI.COM/freenrg/carbiron.html  (1795 OK, 758 queued)
+[2026-03-05 15:36:52]   [2260 d0*] http://www.AMASCI.COM/weird/vortex2.txt  (1800 OK, 753 queued)
+[2026-03-05 15:36:58]   [2265 d0*] http://www.AMASCI.COM/weird/vortex/fusion.doc  (1805 OK, 748 queued)
+[2026-03-05 15:37:04]   [2270 d0*] http://www.AMASCI.COM/weird/vmore.html  (1810 OK, 743 queued)
+[2026-03-05 15:37:04]     +1 links (3014 total known)
+[2026-03-05 15:37:09]   [2275 d0*] http://www.AMASCI.COM/wing/smring.html  (1815 OK, 744 queued)
+[2026-03-05 15:37:11]   [2280 d0*] http://www.AMASCI.COM/wing/smrg1.gif  (1820 OK, 745 queued)
+[2026-03-05 15:37:15]   [2285 d0*] http://www.AMASCI.COM/weird/fieldyus.doc  (1825 OK, 740 queued)
+[2026-03-05 15:37:19]   [2290 d0*] http://www.AMASCI.COM/weird/vortex3.txt  (1830 OK, 738 queued)
+[2026-03-05 15:37:23]   [2295 d0*] http://www.AMASCI.COM/weird/truzzi.html  (1834 OK, 734 queued)
+[2026-03-05 15:37:26]   [2300 d0*] http://www.AMASCI.COM/weird/wlists.html  (1838 OK, 733 queued)
+[2026-03-05 15:37:26]     +1 links (3034 total known)
+[2026-03-05 15:37:33]   [2310 d0*] http://www.AMASCI.COM/amfrm/   (1846 OK, 728 queued)
+[2026-03-05 15:37:36]   [2315 d0*] http://www.AMASCI.COM/maglev/lev/exhibit4.txt  (1851 OK, 761 queued)
+[2026-03-05 15:37:38]   [2320 d0*] http://www.AMASCI.COM/maglev/lev/edhones.jpg  (1856 OK, 757 queued)
+[2026-03-05 15:37:41]   [2325 d0*] http://www.AMASCI.COM/maglev/lev/index.html  (1861 OK, 752 queued)
+[2026-03-05 15:37:43]   [2330 d0*] http://www.AMASCI.COM/maglev/lev/exhibit10.txt  (1866 OK, 749 queued)
+[2026-03-05 15:37:46]   [2335 d0*] http://www.AMASCI.COM/maglev/lev/fig10.gif  (1871 OK, 744 queued)
+[2026-03-05 15:37:48]   [2340 d0*] http://www.AMASCI.COM/maglev/lev/kid2.jpg  (1876 OK, 739 queued)
+[2026-03-05 15:37:51]   [2345 d0*] http://www.AMASCI.COM/maglev/lev/exhibit6.txt  (1881 OK, 734 queued)
+[2026-03-05 15:37:53]   [2350 d0*] http://www.AMASCI.COM/maglev/lev/fig12.gif  (1886 OK, 729 queued)
+[2026-03-05 15:37:59]   [2360 d0*] http://www.AMASCI.COM/tesla/heli1.html  (1895 OK, 729 queued)
+[2026-03-05 15:37:59]     +9 links (3098 total known)
+[2026-03-05 15:38:01]   [2365 d0*] http://www.AMASCI.COM/graphics/argon/full01.jpg  (1900 OK, 733 queued)
+[2026-03-05 15:38:04]   [2370 d0*] http://www.AMASCI.COM/graphics/qshrnk.jpg  (1905 OK, 728 queued)
+[2026-03-05 15:38:06]   [2375 d0*] http://www.AMASCI.COM/tesla/microtc.html  (1910 OK, 726 queued)
+[2026-03-05 15:38:09]   [2380 d0*] http://www.AMASCI.COM/art/pondmach/bumb2_03.jpg  (1915 OK, 735 queued)
+[2026-03-05 15:38:11]   [2385 d0*] http://www.AMASCI.COM/art/pondmach/bumbr_18.jpg  (1920 OK, 730 queued)
+[2026-03-05 15:38:14]   [2390 d0*] http://www.AMASCI.COM/emotor/duluc.html  (1925 OK, 725 queued)
+[2026-03-05 15:38:14]     +3 links (3118 total known)
+[2026-03-05 15:38:19]   [2395 d0*] http://www.AMASCI.COM/ele-projs.html  (1929 OK, 735 queued)
+[2026-03-05 15:38:21]   [2400 d0*] http://www.AMASCI.COM/maglev/magschem.html  (1934 OK, 755 queued)
+[2026-03-05 15:38:21]     +2 links (3157 total known)
+[2026-03-05 15:38:24]   [2405 d0*] http://www.AMASCI.COM/amateur/chemsupl.html  (1939 OK, 756 queued)
+[2026-03-05 15:38:30]   [2415 d0*] http://www.AMASCI.COM/emotor/vdgdemo.html  (1945 OK, 753 queued)
+[2026-03-05 15:38:33]   [2420 d0*] http://www.AMASCI.COM/emotor/ikelv.html  (1949 OK, 752 queued)
+[2026-03-05 15:38:33]     +6 links (3178 total known)
+[2026-03-05 15:38:36]   [2425 d0*] http://www.AMASCI.COM/emotor/kelvin.htnl  (1954 OK, 753 queued)
+[2026-03-05 15:38:39]   [2430 d0*] http://www.AMASCI.COM/electrom/e-field2.html  (1957 OK, 754 queued)
+[2026-03-05 15:38:47]   [2440] 1961 OK, 479 failed, 752 queued
+[2026-03-05 15:38:47]     last fail: http://www.AMASCI.COM/electrom/herb-f2-t.gif
+[2026-03-05 15:38:52]   [2445 d0*] http://www.AMASCI.COM/emotor/stathint.html  (1964 OK, 747 queued)
+[2026-03-05 15:38:55]   [2450 d0*] http://www.AMASCI.COM/graphics/chase3.gif  (1969 OK, 752 queued)
+[2026-03-05 15:38:57]   [2455 d0*] http://www.AMASCI.COM/viselect/layout1.gif  (1974 OK, 747 queued)
+[2026-03-05 15:39:00]   [2460 d0*] http://www.AMASCI.COM/amateur/GOLD1992b.TXT  (1979 OK, 743 queued)
+[2026-03-05 15:39:02]   [2465 d0*] http://www.AMASCI.COM/amateur/neospher.html  (1984 OK, 756 queued)
+[2026-03-05 15:39:05]   [2470 d0*] http://www.AMASCI.COM/weird/microwave/voltage3.html  (1989 OK, 751 queued)
+[2026-03-05 15:39:05]     +2 links (3223 total known)
+[2026-03-05 15:39:08]   [2475 d0*] http://www.AMASCI.COM/weird/microwvave/microwave.css  (1992 OK, 749 queued)
+[2026-03-05 15:39:11]   [2480 d0*] http://www.AMASCI.COM/soap/weird2.html  (1997 OK, 744 queued)
+[2026-03-05 15:39:11]     +5 links (3229 total known)
+[2026-03-05 15:39:19]   [2490 d0*] http://www.AMASCI.COM/weird/microwave/microwave.css  (2002 OK, 743 queued)
+[2026-03-05 15:39:21]   [2495 d0*] http://www.AMASCI.COM/emotor/scifirst.html  (2007 OK, 757 queued)
+[2026-03-05 15:39:24]   [2500 d0*] http://www.AMASCI.COM/emotor/vdgmotr.html  (2012 OK, 753 queued)
+[2026-03-05 15:39:26]   [2505 d0*] http://www.AMASCI.COM/emotor/belt.html  (2017 OK, 748 queued)
+[2026-03-05 15:39:29]   [2510 d0*] http://www.AMASCI.COM/emotor/vdgblt1.gif  (2021 OK, 749 queued)
+[2026-03-05 15:39:34]   [2520 d0*] http://www.AMASCI.COM/weird/unusual/unexpl.html  (2028 OK, 755 queued)
+[2026-03-05 15:39:34]     +2 links (3277 total known)
+[2026-03-05 15:39:38]   [2525 d0*] http://www.AMASCI.COM/weird/unusual/blold2.html  (2030 OK, 754 queued)
+[2026-03-05 15:39:40]   [2530 d0*] http://www.AMASCI.COM/weird/unusual/animl.html  (2033 OK, 751 queued)
+[2026-03-05 15:39:40]     +2 links (3283 total known)
+[2026-03-05 15:39:47]   [2540] 2037 OK, 503 failed, 759 queued
+[2026-03-05 15:39:47]     last fail: http://www.AMASCI.COM/weird/unusual/yahoodot com
+[2026-03-05 15:39:50]   [2545 d0*] http://www.AMASCI.COM/weird/unusual/objs.html  (2040 OK, 756 queued)
+[2026-03-05 15:39:59]   [2560] 2048 OK, 512 failed, 759 queued
+[2026-03-05 15:39:59]     last fail: http://www.AMASCI.COM/weird/unusual/leelouden a webtv net
+[2026-03-05 15:40:17]   [2580] 2052 OK, 528 failed, 760 queued
+[2026-03-05 15:40:17]     last fail: http://www.AMASCI.COM/layout/iconSets/dark/print.png
+[2026-03-05 15:40:26]   [2590 d0*] http://www.AMASCI.COM/weird/unusual/blold.html  (2054 OK, 750 queued)
+[2026-03-05 15:40:26]     +2 links (3342 total known)
+[2026-03-05 15:40:29]   [2595 d0*] http://www.AMASCI.COM/weird/unusual/blold4.html?  (2056 OK, 750 queued)
+[2026-03-05 15:40:31]   [2600 d0*] http://www.AMASCI.COM/emotor/roller.txt  (2059 OK, 745 queued)
+[2026-03-05 15:40:34]   [2605 d0*] http://www.AMASCI.COM/amateur/sundog.html  (2064 OK, 741 queued)
+[2026-03-05 15:40:36]   [2610 d0*] http://www.AMASCI.COM/graphics/hov2.gif  (2069 OK, 745 queued)
+[2026-03-05 15:40:43]   [2620 d0*] http://www.AMASCI.COM/sc/awards.html  (2075 OK, 751 queued)
+[2026-03-05 15:40:50]   [2630 d0*] http://www.AMASCI.COM/amateur/vonngt_1965.html  (2079 OK, 741 queued)
+[2026-03-05 15:40:50]     +4 links (3375 total known)
+[2026-03-05 15:40:54]   [2635 d0*] http://www.AMASCI.COM/maglev/train.html  (2080 OK, 740 queued)
+[2026-03-05 15:40:57]   [2640 d0*] http://www.AMASCI.COM/exhibits/exhibits.html  (2084 OK, 738 queued)
+[2026-03-05 15:40:57]     +3 links (3381 total known)
+[2026-03-05 15:41:00]   [2645 d0*] http://www.AMASCI.COM/graphics/sqwhls2.gif  (2088 OK, 740 queued)
+[2026-03-05 15:41:05]   [2655 d0*] http://www.AMASCI.COM/static/fostergen.html  (2097 OK, 737 queued)
+[2026-03-05 15:41:09]   [2660 d0*] http://www.AMASCI.COM/static/electrostatic3.html  (2101 OK, 732 queued)
+[2026-03-05 15:41:09]     +2 links (3394 total known)
+[2026-03-05 15:41:12]   [2665 d0*] http://www.AMASCI.COM/graphics/books/moore.jpg  (2106 OK, 729 queued)
+[2026-03-05 15:41:15]   [2670 d0*] http://www.AMASCI.COM/emotor/vdgtame.html  (2110 OK, 724 queued)
+[2026-03-05 15:41:15]     +1 links (3395 total known)
+[2026-03-05 15:41:17]   [2675 d0*] http://www.AMASCI.COM/tesla/sstesla.gif  (2115 OK, 722 queued)
+[2026-03-05 15:41:20]   [2680 d0*] http://www.AMASCI.COM/weird/notso.html  (2119 OK, 718 queued)
+[2026-03-05 15:41:23]   [2685 d0*] http://www.AMASCI.COM/graphics/gline1.gif  (2124 OK, 721 queued)
+[2026-03-05 15:41:25]   [2690 d0*] http://www.AMASCI.COM/graphics/gline2.gif  (2129 OK, 716 queued)
+[2026-03-05 15:41:28]   [2695 d0*] http://www.AMASCI.COM/freenrg/iontest.html  (2133 OK, 712 queued)
+[2026-03-05 15:41:32]   [2700 d0*] http://www.AMASCI.COM/freenrg/ideas.html  (2138 OK, 709 queued)
+[2026-03-05 15:41:36]   [2705 d0*] http://www.AMASCI.COM/amateur/seesnd.html  (2143 OK, 706 queued)
+[2026-03-05 15:41:39]   [2710 d0*] http://amasci.com/freenrg/minto.html  (2148 OK, 704 queued)
+[2026-03-05 15:41:39]     +1 links (3415 total known)
+[2026-03-05 15:41:44]   [2715 d0*] http://www.AMASCI.COM/freenrg/h2odet.gif  (2153 OK, 704 queued)
+[2026-03-05 15:41:46]   [2720 d0*] http://www.AMASCI.COM/freenrg/digibio.html  (2158 OK, 699 queued)
+[2026-03-05 15:41:46]     +1 links (3420 total known)
+[2026-03-05 15:41:49]   [2725 d0*] http://www.AMASCI.COM/freenrg/h2oblast.html  (2163 OK, 753 queued)
+[2026-03-05 15:41:54]   [2730 d0*] http://www.AMASCI.COM/amateur/pinhole.html  (2167 OK, 751 queued)
+[2026-03-05 15:41:54]     +1 links (3482 total known)
+[2026-03-05 15:41:59]   [2735 d0*] http://amasci.com/freenrg/pacebook.txt  (2172 OK, 750 queued)
+[2026-03-05 15:42:03]   [2740] 2176 OK, 564 failed, 753 queued
+[2026-03-05 15:42:03]     last fail: http://www.AMASCI.COM/scifair/1304 Stockton Road
+[2026-03-05 15:42:13]   [2755 d0*] http://www.AMASCI.COM/graphics/tink1.jpg  (2186 OK, 754 queued)
+[2026-03-05 15:42:15]   [2760 d0*] http://www.AMASCI.COM/amateur/antibub/anti5.gif  (2191 OK, 749 queued)
+[2026-03-05 15:42:18]   [2765 d0*] http://www.AMASCI.COM/awards.html  (2196 OK, 744 queued)
+[2026-03-05 15:42:20]   [2770 d0*] http://www.AMASCI.COM/graphics/tesla/war.jpg  (2201 OK, 767 queued)
+[2026-03-05 15:42:23]   [2775 d0*] http://www.AMASCI.COM/graphics/tesdray2.jpg  (2206 OK, 762 queued)
+[2026-03-05 15:42:25]   [2780 d0*] http://www.AMASCI.COM/graphics/tesla/ttower3.jpg  (2211 OK, 757 queued)
+[2026-03-05 15:42:28]   [2785 d0*] http://www.AMASCI.COM/graphics/tesbeam2.jpg  (2216 OK, 752 queued)
+[2026-03-05 15:42:30]   [2790 d0*] http://www.AMASCI.COM/graphics/tesla/lightstower.jpg  (2221 OK, 747 queued)
+[2026-03-05 15:42:33]   [2795 d0*] http://www.AMASCI.COM/amateur/led.html  (2226 OK, 742 queued)
+[2026-03-05 15:42:36]   [2800 d0*] http://www.AMASCI.COM/graphics/shirt_detail_2.jpg  (2231 OK, 753 queued)
+[2026-03-05 15:42:39]   [2805 d0*] http://www.AMASCI.COM/graphics/books/bhead.jpg  (2236 OK, 748 queued)
+[2026-03-05 15:42:41]   [2810 d0*] http://www.AMASCI.COM/graphics/books/levit2.jpg  (2241 OK, 743 queued)
+[2026-03-05 15:42:44]   [2815 d0*] http://www.AMASCI.COM/amateur/sciam1.html  (2246 OK, 738 queued)
+[2026-03-05 15:42:48]   [2820 d0*] http://www.AMASCI.COM/amateur/sciam1  (2249 OK, 738 queued)
+[2026-03-05 15:42:50]   [2825 d0*] http://www.AMASCI.COM/miscon/fund.html  (2254 OK, 736 queued)
+[2026-03-05 15:42:53]   [2830 d0*] http://www.AMASCI.COM/amateur/transis.html  (2259 OK, 732 queued)
+[2026-03-05 15:42:53]     +2 links (3564 total known)
+[2026-03-05 15:42:56]   [2835 d0*] http://www.AMASCI.COM/weird/wsci.html  (2262 OK, 731 queued)
+[2026-03-05 15:43:02]   [2840 d0*] http://www.AMASCI.COM/weird/wener.html  (2267 OK, 730 queued)
+[2026-03-05 15:43:02]     +1 links (3571 total known)
+[2026-03-05 15:43:09]   [2850 d0*] http://www.AMASCI.COM/amateur/holohint.html  (2272 OK, 726 queued)
+[2026-03-05 15:43:09]     +9 links (3585 total known)
+[2026-03-05 15:43:12]   [2855 d0*] http://www.AMASCI.COM/graphics/holo/curvscr5.gif  (2277 OK, 735 queued)
+[2026-03-05 15:43:14]   [2860 d0*] http://www.AMASCI.COM/index.html  (2282 OK, 730 queued)
+[2026-03-05 15:43:17]   [2865 d0*] http://www.AMASCI.COM/grapics/holo/holos1a.jpg  (2287 OK, 735 queued)
+[2026-03-05 15:43:19]   [2870 d0*] http://www.AMASCI.COM/graphics/holo/curvscr2.gif  (2292 OK, 730 queued)
+[2026-03-05 15:43:22]   [2875 d0*] http://www.AMASCI.COM/weird/wsotw.html  (2297 OK, 725 queued)
+[2026-03-05 15:43:26]   [2880 d0*] http://www.AMASCI.COM/tesla/jladdr.html  (2302 OK, 724 queued)
+[2026-03-05 15:43:26]     +1 links (3605 total known)
+[2026-03-05 15:43:29]   [2885 d0*] http://www.AMASCI.COM/hum/humnotes.txt  (2307 OK, 742 queued)
+[2026-03-05 15:43:33]   [2890 d0*] http://www.AMASCI.COM/hum/newshum.txt  (2312 OK, 737 queued)
+[2026-03-05 15:43:38]   [2895 d0*] http://www.AMASCI.COM/hum/avebury5.wav  (2317 OK, 732 queued)
+[2026-03-05 15:43:43]   [2900 d0*] http://www.AMASCI.COM/hum/hill1.gif  (2322 OK, 727 queued)
+[2026-03-05 15:43:46]   [2905 d0*] http://www.AMASCI.COM/amateur/dscope.html  (2326 OK, 722 queued)
+[2026-03-05 15:43:49]   [2910 d0*] http://www.AMASCI.COM/tesla/sources.html  (2331 OK, 721 queued)
+[2026-03-05 15:43:49]     +21 links (3652 total known)
+[2026-03-05 15:43:51]   [2915 d0*] http://www.AMASCI.COM/tesla/primary.txt  (2336 OK, 737 queued)
+[2026-03-05 15:43:54]   [2920 d0*] http://www.AMASCI.COM/tesla/bottle.jpg  (2341 OK, 733 queued)
+[2026-03-05 15:43:56]   [2925 d0*] http://www.AMASCI.COM/tesla/toroid1.txt  (2346 OK, 728 queued)
+[2026-03-05 15:43:59]   [2930 d0*] http://www.AMASCI.COM/tesla/high_voltage1.html  (2351 OK, 726 queued)
+[2026-03-05 15:43:59]     +1 links (3657 total known)
+[2026-03-05 15:44:01]   [2935 d0*] http://www.AMASCI.COM/tesla/cap1.txt  (2356 OK, 723 queued)
+[2026-03-05 15:44:04]   [2940 d0*] http://www.AMASCI.COM/weird/w_art.html  (2361 OK, 722 queued)
+[2026-03-05 15:44:07]   [2945 d0*] http://www.AMASCI.COM/amateur/coolinks.html  (2366 OK, 719 queued)
+[2026-03-05 15:44:14]   [2955 d0*] http://www.AMASCI.COM/tfaq.html  (2369 OK, 721 queued)
+[2026-03-05 15:44:19]   [2960] 2371 OK, 589 failed, 718 queued
+[2026-03-05 15:44:19]     last fail: http://www.AMASCI.COM/slomerg1.gif
+[2026-03-05 15:44:22]   [2965 d0*] http://www.AMASCI.COM/elehob/elehobcr.html  (2374 OK, 716 queued)
+[2026-03-05 15:44:33]   [2980 d0*] http://www.AMASCI.COM/amateur/ambooks.html  (2381 OK, 712 queued)
+[2026-03-05 15:44:40]   [2990 d0*] http://www.AMASCI.COM/coilgen/generator_4.html  (2389 OK, 708 queued)
+[2026-03-05 15:44:40]     +2 links (3700 total known)
+[2026-03-05 15:44:42]   [2995 d0*] http://www.AMASCI.COM/coilgen/generator_3.html  (2394 OK, 708 queued)
+[2026-03-05 15:44:46]   [3000 d0*] http://amasci.com/weird/wallc/wallc1.html  (2398 OK, 706 queued)
+[2026-03-05 15:44:49]   [3005 d0*] http://www.AMASCI.COM/weird/unusual/e-wall  (2403 OK, 703 queued)
+[2026-03-05 15:44:53]   [3010 d0*] http://www.AMASCI.COM/miscon/myths10.html  (2408 OK, 699 queued)
+[2026-03-05 15:44:56]   [3015 d0*] http://www.AMASCI.COM/freenrg/abhor.html  (2413 OK, 694 queued)
+[2026-03-05 15:45:00]   [3020 d0*] http://amasci.com/freenrg/aura/aura.html  (2418 OK, 691 queued)
+[2026-03-05 15:45:03]   [3025 d0*] http://www.AMASCI.COM/freenrg/secret.html  (2423 OK, 686 queued)
+[2026-03-05 15:45:07]   [3030 d0*] http://amasci.com/weird/unusual/airexp.html  (2428 OK, 691 queued)
+[2026-03-05 15:45:07]     +3 links (3724 total known)
+[2026-03-05 15:45:14]   [3035 d0*] http://amasci.com/weird/unsual/airexp.html  (2433 OK, 691 queued)
+[2026-03-05 15:45:18]   [3040 d0*] http://www.AMASCI.COM/weird/unusual/visthr2.gif  (2438 OK, 691 queued)
+[2026-03-05 15:45:21]   [3045 d0*] http://www.AMASCI.COM/weird/unusual/longthr2.gif  (2443 OK, 686 queued)
+[2026-03-05 15:45:24]   [3050 d0*] http://www.AMASCI.COM/weird/wseeing.html  (2448 OK, 681 queued)
+[2026-03-05 15:45:27]   [3055 d0*] http://www.AMASCI.COM/freenrg/tors/pes1.html  (2453 OK, 706 queued)
+[2026-03-05 15:45:30]   [3060 d0*] http://www.AMASCI.COM/freenrg/grav3.txt  (2457 OK, 705 queued)
+[2026-03-05 15:45:32]   [3065 d0*] http://www.AMASCI.COM/freenrg/potato.txt  (2462 OK, 701 queued)
+[2026-03-05 15:45:35]   [3070 d0*] http://www.AMASCI.COM/freenrg/mie/h2odet.html  (2467 OK, 698 queued)
+[2026-03-05 15:45:37]   [3075 d0*] http://www.AMASCI.COM/greb/greb2.html  (2472 OK, 693 queued)
+[2026-03-05 15:45:40]   [3080 d0*] http://www.AMASCI.COM/greb/Grebennikov/10s1.jpg  (2477 OK, 726 queued)
+[2026-03-05 15:45:42]   [3085 d0*] http://www.AMASCI.COM/greb/Grebennikov/9s.jpg  (2482 OK, 721 queued)
+[2026-03-05 15:45:45]   [3090 d0*] http://www.AMASCI.COM/greb/titul1.jpg  (2487 OK, 716 queued)
+[2026-03-05 15:45:47]   [3095 d0*] http://www.AMASCI.COM/greb/Grebennikov/6s1.jpg  (2492 OK, 711 queued)
+[2026-03-05 15:45:50]   [3100] 2496 OK, 604 failed, 706 queued
+[2026-03-05 15:45:50]     last fail: http://www.AMASCI.COM/cgi-bin/Count.cgi?df=terner_2.dat&dd=E&ft=2&frgb=000000
+[2026-03-05 15:45:53]   [3105 d0*] http://www.AMASCI.COM/greb/Grebennikov/13s.jpg  (2501 OK, 701 queued)
+[2026-03-05 15:45:55]   [3110 d0*] http://www.AMASCI.COM/greb/Grebennikov/10s.jpg  (2506 OK, 696 queued)
+[2026-03-05 15:45:58]   [3115 d0*] http://www.AMASCI.COM/freenrg/grado.html  (2511 OK, 691 queued)
+[2026-03-05 15:46:00]   [3120 d0*] http://www.AMASCI.COM/freenrg/tors/index.html  (2516 OK, 688 queued)
+[2026-03-05 15:46:03]   [3125 d0*] http://www.AMASCI.COM/freenrg/gravity3.txt  (2521 OK, 683 queued)
+[2026-03-05 15:46:05]   [3130 d0*] http://www.AMASCI.COM/freenrg/tors/fig5.jpg  (2526 OK, 681 queued)
+[2026-03-05 15:46:09]   [3135 d0*] http://www.AMASCI.COM/freenrg/morton1.html  (2531 OK, 676 queued)
+[2026-03-05 15:46:11]   [3140 d0*] http://www.AMASCI.COM/freenrg/mfig2.gif  (2536 OK, 676 queued)
+[2026-03-05 15:46:14]   [3145 d0*] http://www.AMASCI.COM/freenrg/ufoscope.html  (2541 OK, 673 queued)
+[2026-03-05 15:46:17]   [3150 d0*] http://www.AMASCI.COM/weird/microexp.html  (2546 OK, 668 queued)
+[2026-03-05 15:46:17]     +2 links (3820 total known)
+[2026-03-05 15:46:20]   [3155 d0*] http://www.AMASCI.COM/weird/x  (2549 OK, 666 queued)
+[2026-03-05 15:46:23]   [3160 d0*] http://www.AMASCI.COM/weird/unusual/screwy.html  (2554 OK, 661 queued)
+[2026-03-05 15:46:26]   [3165 d0*] http://www.AMASCI.COM/freenrg/magdrug.txt  (2559 OK, 664 queued)
+[2026-03-05 15:46:28]   [3170 d0*] http://www.AMASCI.COM/freenrg/wassrmag.html  (2564 OK, 659 queued)
+[2026-03-05 15:46:35]   [3180 d0*] http://www.AMASCI.COM/tesla/bigball3.html  (2572 OK, 659 queued)
+[2026-03-05 15:46:35]     +1 links (3840 total known)
+[2026-03-05 15:46:38]   [3185 d0*] http://www.AMASCI.COM/tesla/ballpprs.html  (2576 OK, 655 queued)
+[2026-03-05 15:46:40]   [3190 d0*] http://www.AMASCI.COM/tesla/tc2.html  (2581 OK, 655 queued)
+[2026-03-05 15:46:43]   [3195 d0*] http://www.AMASCI.COM/tesla/tescvshort.html  (2586 OK, 651 queued)
+[2026-03-05 15:46:45]   [3200 d0*] http://www.AMASCI.COM/graphics/dp-absb2.gif  (2591 OK, 648 queued)
+[2026-03-05 15:46:48]   [3205 d0*] http://www.AMASCI.COM/tesla/nearfld1.html  (2596 OK, 644 queued)
+[2026-03-05 15:46:52]   [3210 d0*] http://www.AMASCI.COM/elect/poynt/fig7.gif  (2600 OK, 641 queued)
+[2026-03-05 15:47:01]   [3220] 2601 OK, 619 failed, 646 queued
+[2026-03-05 15:47:01]     last fail: http://www.AMASCI.COM/elect/elect/coil3.gif
+[2026-03-05 15:47:08]   [3230 d0*] http://www.AMASCI.COM/elect/poynt/fig5.gif  (2605 OK, 636 queued)
+[2026-03-05 15:47:11]   [3235 d0*] http://www.AMASCI.COM/miscon/speed.html  (2610 OK, 632 queued)
+[2026-03-05 15:47:15]   [3240 d0*] http://www.AMASCI.COM/amateur/eyeself.html  (2615 OK, 636 queued)
+[2026-03-05 15:47:15]     +1 links (3877 total known)
+[2026-03-05 15:47:17]   [3245 d0*] http://www.AMASCI.COM/sc/proj/kidproja.html  (2620 OK, 635 queued)
+[2026-03-05 15:47:20]   [3250 d0*] http://www.AMASCI.COM/graphics/yt/co2squee.jpg  (2625 OK, 649 queued)
+[2026-03-05 15:47:22]   [3255 d0*] http://www.AMASCI.COM/graphics/yt/wrdgens.jpg  (2630 OK, 644 queued)
+[2026-03-05 15:47:25]   [3260 d0*] http://www.AMASCI.COM/graphics/yt/capvac.jpg  (2635 OK, 639 queued)
+[2026-03-05 15:47:27]   [3265 d0*] http://www.AMASCI.COM/graphics/yt/dryice.jpg  (2640 OK, 634 queued)
+[2026-03-05 15:47:30]   [3270 d0*] http://www.AMASCI.COM/graphics/yt/kelso.jpg  (2644 OK, 664 queued)
+[2026-03-05 15:47:33]   [3275 d0*] http://www.AMASCI.COM/graphics/yt/computar.jpg  (2649 OK, 659 queued)
+[2026-03-05 15:47:36]   [3280 d0*] http://www.AMASCI.COM/graphics/yt/strwars.jpg  (2654 OK, 654 queued)
+[2026-03-05 15:47:38]   [3285 d0*] http://www.AMASCI.COM/graphics/yt/ascomyct.jpg  (2659 OK, 649 queued)
+[2026-03-05 15:47:41]   [3290 d0*] http://www.AMASCI.COM/graphics/yt/bumb.jpg  (2664 OK, 644 queued)
+[2026-03-05 15:47:43]   [3295 d0*] http://www.AMASCI.COM/graphics/yt/toymut.jpg  (2669 OK, 639 queued)
+[2026-03-05 15:47:46]   [3300 d0*] http://www.AMASCI.COM/graphics/yt/KittFLIR.jpg  (2674 OK, 634 queued)
+[2026-03-05 15:47:48]   [3305 d0*] http://www.AMASCI.COM/miscon/physl.html  (2679 OK, 629 queued)
+[2026-03-05 15:47:52]   [3310 d0*] http://www.AMASCI.COM/miscon/whatis.html  (2683 OK, 625 queued)
+[2026-03-05 15:47:52]     +2 links (3937 total known)
+[2026-03-05 15:47:56]   [3315 d0*] http://www.AMASCI.COM/graphics/wtrcap2.gif  (2688 OK, 628 queued)
+[2026-03-05 15:48:00]   [3320 d0*] http://www.AMASCI.COM/emotor/sticky.html  (2693 OK, 623 queued)
+[2026-03-05 15:48:00]     +1 links (3944 total known)
+[2026-03-05 15:48:12]   [3335 d0*] http://www.AMASCI.COM/emotor/kelvin.html  (2701 OK, 617 queued)
+[2026-03-05 15:48:16]   [3340 d0*] http://www.AMASCI.COM/weird/skepquot.html  (2705 OK, 615 queued)
+[2026-03-05 15:48:16]     +1 links (3956 total known)
+[2026-03-05 15:48:22]   [3350 d0*] http://www.AMASCI.COM/art/dork07/faraday3.JPG  (2714 OK, 623 queued)
+[2026-03-05 15:48:25]   [3355 d0*] http://www.AMASCI.COM/art/dork07/faradic2.gif  (2718 OK, 618 queued)
+[2026-03-05 15:48:27]   [3360 d0*] http://www.AMASCI.COM/graphics/leefltr.gif  (2723 OK, 619 queued)
+[2026-03-05 15:48:30]   [3365 d0*] http://www.AMASCI.COM/graphics/leefltr4.gif  (2728 OK, 614 queued)
+[2026-03-05 15:48:33]   [3370 d0*] http://www. amasci.com/search.html  (2733 OK, 639 queued)
+[2026-03-05 15:48:33]     +199 links (4208 total known)
+[2026-03-05 15:48:36]   [3375 d0*] http://www. amasci.com/amateur/tornbox.html  (2736 OK, 833 queued)
+[2026-03-05 15:48:38]   [3380 d0*] http://www. amasci.com/graphics/sqwhls4.gif  (2741 OK, 836 queued)
+[2026-03-05 15:48:41]   [3385 d0*] http://www. amasci.com/freenrg/fejnls.html  (2746 OK, 831 queued)
+[2026-03-05 15:48:43]   [3390 d0*] http://www. amasci.com/freenrg/clbooks.html  (2751 OK, 829 queued)
+[2026-03-05 15:48:46]   [3395 d0*] http://www. amasci.com/graphics/chase3.gif  (2756 OK, 833 queued)
+[2026-03-05 15:48:48]   [3400 d0*] http://www. amasci.com/viselect/vedemos.html  (2761 OK, 828 queued)
+[2026-03-05 15:48:51]   [3405 d0*] http://www. amasci.com/main.css  (2766 OK, 832 queued)
+[2026-03-05 15:48:53]   [3410 d0*] http://www. amasci.com/amateur/blljar4.txt  (2771 OK, 871 queued)
+[2026-03-05 15:48:56]   [3415 d0*] http://www. amasci.com/tesla/rqsup.txt  (2776 OK, 866 queued)
+[2026-03-05 15:48:58]   [3420 d0*] http://www. amasci.com/tesla/toroid2.html  (2781 OK, 861 queued)
+[2026-03-05 15:48:58]     +1 links (4282 total known)
+[2026-03-05 15:49:04]   [3430 d0*] http://www. amasci.com/freenrg/a-vect2.html  (2790 OK, 865 queued)
+[2026-03-05 15:49:09]   [3440 d0*] http://www. amasci.com/tesla/tws5a400.gif  (2798 OK, 860 queued)
+[2026-03-05 15:49:11]   [3445 d0*] http://www. amasci.com/tesla/tescv2.html  (2803 OK, 857 queued)
+[2026-03-05 15:49:14]   [3450 d0*] http://www. amasci.com/tesla/teslafaq.html  (2807 OK, 852 queued)
+[2026-03-05 15:49:14]     +1 links (4303 total known)
+[2026-03-05 15:49:16]   [3455 d0*] http://www. amasci.com/tesla/violet_bd-10.html  (2811 OK, 848 queued)
+[2026-03-05 15:49:19]   [3460 d0*] http://www. amasci.com/tesla/toroid1.txt  (2816 OK, 845 queued)
+[2026-03-05 15:49:21]   [3465 d0*] http://www. amasci.com/tesla/reson2.gif  (2821 OK, 843 queued)
+[2026-03-05 15:49:24]   [3470 d0*] http://www. amasci.com/tesla/teslabad.html  (2826 OK, 839 queued)
+[2026-03-05 15:49:27]   [3475 d0*] http://www. amasci.com/home.html  (2831 OK, 835 queued)
+[2026-03-05 15:49:29]   [3480] 2835 OK, 645 failed, 849 queued
+[2026-03-05 15:49:29]     last fail: http://www. amasci.com/sc/sdl/awards1.html
+[2026-03-05 15:49:32]   [3485 d0*] http://www. amasci.com/sc/nonprof.html  (2838 OK, 844 queued)
+[2026-03-05 15:49:37]   [3495 d0*] http://www. amasci.com/tesla/tealase.txt  (2841 OK, 834 queued)
+[2026-03-05 15:49:39]   [3500 d0*] http://www. amasci.com/tesla/primary.txt  (2846 OK, 831 queued)
+[2026-03-05 15:49:42]   [3505 d0*] http://www. amasci.com/surplus/scisupl.html  (2851 OK, 828 queued)
+[2026-03-05 15:49:44]   [3510 d0*] http://www. amasci.com/art/pondmach/pond3_1.html  (2856 OK, 827 queued)
+[2026-03-05 15:49:44]     +6 links (4343 total known)
+[2026-03-05 15:49:47]   [3515 d0*] http://www. amasci.com/art/pondmach/bumbr_18.jpg  (2861 OK, 828 queued)
+[2026-03-05 15:49:49]   [3520 d0*] http://www. amasci.com/weird/wclose.html  (2866 OK, 824 queued)
+[2026-03-05 15:49:49]     +36 links (4380 total known)
+[2026-03-05 15:49:52]   [3525 d0*] http://www. amasci.com/freenrg/newidea1.html  (2871 OK, 855 queued)
+[2026-03-05 15:49:55]   [3530 d0*] http://www. amasci.com/weird/wclose  (2875 OK, 853 queued)
+[2026-03-05 15:49:57]   [3535 d0*] http://www. amasci.com/weird/worg.html  (2880 OK, 850 queued)
+[2026-03-05 15:50:00]   [3540 d0*] http://www. amasci.com/weird/end.html  (2884 OK, 846 queued)
+[2026-03-05 15:50:02]   [3545 d0*] http://www. amasci.com/weird/rightman.html  (2889 OK, 845 queued)
+[2026-03-05 15:50:05]   [3550 d0*] http://www. amasci.com/weird/momk01.htm  (2894 OK, 840 queued)
+[2026-03-05 15:50:05]     +1 links (4391 total known)
+[2026-03-05 15:50:07]   [3555 d0*] http://www. amasci.com/weird/globe.html  (2898 OK, 836 queued)
+[2026-03-05 15:50:10]   [3560 d0*] http://www. amasci.com/maglev/lev/proto.jpg  (2903 OK, 872 queued)
+[2026-03-05 15:50:12]   [3565 d0*] http://www. amasci.com/maglev/lev/expose1.html  (2908 OK, 867 queued)
+[2026-03-05 15:50:15]   [3570 d0*] http://www. amasci.com/maglev/lev/exhibit4.txt  (2913 OK, 862 queued)
+[2026-03-05 15:50:17]   [3575 d0*] http://www. amasci.com/maglev/lev/exhibit10.txt  (2918 OK, 857 queued)
+[2026-03-05 15:50:20]   [3580 d0*] http://www. amasci.com/maglev/lev/exhibit2.gif  (2923 OK, 852 queued)
+[2026-03-05 15:50:23]   [3585 d0*] http://www. amasci.com/maglev/lev/hand00.gif  (2928 OK, 850 queued)
+[2026-03-05 15:50:25]   [3590 d0*] http://www. amasci.com/maglev/lev/fig6b.gif  (2933 OK, 845 queued)
+[2026-03-05 15:50:28]   [3595 d0*] http://www. amasci.com/maglev/lev/fig6a.gif  (2938 OK, 840 queued)
+[2026-03-05 15:50:30]   [3600 d0*] http://www. amasci.com/amfrm/   (2943 OK, 835 queued)
+[2026-03-05 15:50:33]   [3605 d0*] http://www. amasci.com/tesla/ballsci.html  (2948 OK, 830 queued)
+[2026-03-05 15:50:35]   [3610 d0*] http://www. amasci.com/freenrg/frnge.txt  (2952 OK, 827 queued)
+[2026-03-05 15:50:38]   [3615 d0*] http://www. amasci.com/lists.html  (2956 OK, 824 queued)
+[2026-03-05 15:50:40]   [3620 d0*] http://www. amasci.com/graphics/books/blaster.jpg  (2960 OK, 836 queued)
+[2026-03-05 15:50:43]   [3625 d0*] http://www. amasci.com/graphics/zlobin.jpg  (2965 OK, 831 queued)
+[2026-03-05 15:50:45]   [3630 d0*] http://www. amasci.com/graphics/books/mmicros.gif  (2970 OK, 826 queued)
+[2026-03-05 15:50:48]   [3635 d0*] http://www. amasci.com/freenrg/esj.html  (2975 OK, 822 queued)
+[2026-03-05 15:50:51]   [3640 d0*] http://www. amasci.com/weird/unusual/airexp.html  (2980 OK, 825 queued)
+[2026-03-05 15:50:51]     +3 links (4468 total known)
+[2026-03-05 15:50:53]   [3645 d0*] http://www. amasci.com/weird/unusual/longthr2.gif  (2985 OK, 823 queued)
+[2026-03-05 15:50:56]   [3650 d0*] http://www. amasci.com/freenrg/prometh.html  (2990 OK, 826 queued)
+[2026-03-05 15:50:58]   [3655 d0*] http://www. amasci.com/weird/unusual/hhh.html  (2995 OK, 825 queued)
+[2026-03-05 15:51:01]   [3660] 2998 OK, 662 failed, 825 queued
+[2026-03-05 15:51:01]     last fail: http://www. amasci.com/weird/unusual/http
+[2026-03-05 15:51:03]   [3665 d0*] http://www. amasci.com/weird/unusual/evilev.html  (3001 OK, 825 queued)
+[2026-03-05 15:51:06]   [3670 d0*] http://www. amasci.com/weird/unusual/sli.html  (3004 OK, 828 queued)
+[2026-03-05 15:51:06]     +5 links (4503 total known)
+[2026-03-05 15:51:08]   [3675 d0*] http://www. amasci.com/weird/unusual/blold.html  (3007 OK, 838 queued)
+[2026-03-05 15:51:11]   [3680] 3008 OK, 672 failed, 841 queued
+[2026-03-05 15:51:11]     last fail: http://www. amasci.com/weird/unusual/excite com
+[2026-03-05 15:51:14]   [3685 d0*] http://www. amasci.com/weird/unusual/blold3.html  (3011 OK, 836 queued)
+[2026-03-05 15:51:16]   [3690 d0*] http://www. amasci.com/weird/unusual/unexpl.html  (3014 OK, 835 queued)
+[2026-03-05 15:51:16]     +1 links (4526 total known)
+[2026-03-05 15:51:19]   [3695 d0*] http://www. amasci.com/weird/unusual/blold2.html  (3016 OK, 833 queued)
+[2026-03-05 15:51:21]   [3700] 3020 OK, 680 failed, 839 queued
+[2026-03-05 15:51:21]     last fail: http://www. amasci.com/group/ufolist/post?protectID=061158020121082135048181065085147130163248042197061130234143025
+[2026-03-05 15:51:24]   [3705 d0*] http://www. amasci.com/weird/unusual/compu_jinx.html  (3021 OK, 834 queued)
+[2026-03-05 15:51:31]   [3720] 3021 OK, 699 failed, 838 queued
+[2026-03-05 15:51:31]     last fail: http://www. amasci.com/layout/iconSets/dark/print.png
+[2026-03-05 15:51:42]   [3740] 3029 OK, 711 failed, 824 queued
+[2026-03-05 15:51:42]     last fail: http://www. amasci.com/weird/unusual/leelouden a webtv net
+[2026-03-05 15:51:44]   [3745 d0*] http://www. amasci.com/weird/unusual/squigth2.gif  (3032 OK, 819 queued)
+[2026-03-05 15:51:47]   [3750 d0*] http://www. amasci.com/freenrg/wform.html  (3037 OK, 823 queued)
+[2026-03-05 15:51:49]   [3755 d0*] http://www. amasci.com/graphics/yt/uwavbotl.jpg  (3040 OK, 818 queued)
+[2026-03-05 15:51:52]   [3760 d0*] http://www. amasci.com/maglev/bbmlev.gif  (3045 OK, 816 queued)
+[2026-03-05 15:51:54]   [3765 d0*] http://www. amasci.com/elect/poynt/fig9.gif  (3050 OK, 826 queued)
+[2026-03-05 15:51:57]   [3770 d0*] http://www. amasci.com/elect/poynt/voltaged.gif  (3055 OK, 821 queued)
+[2026-03-05 15:51:59]   [3775 d0*] http://www. amasci.com/elect/poynt/voltagef.gif  (3060 OK, 816 queued)
+[2026-03-05 15:52:02]   [3780 d0*] http://www. amasci.com/maglev/train.html  (3065 OK, 812 queued)
+[2026-03-05 15:52:02]     +1 links (4593 total known)
+[2026-03-05 15:52:05]   [3785 d0*] http://www. amasci.com/graphics/yt/steadi.jpg  (3070 OK, 862 queued)
+[2026-03-05 15:52:07]   [3790 d0*] http://www. amasci.com/graphics/yt/levdia.jpg  (3075 OK, 857 queued)
+[2026-03-05 15:52:10]   [3795 d0*] http://www. amasci.com/graphics/yt/trknut1.jpg  (3080 OK, 852 queued)
+[2026-03-05 15:52:12]   [3800 d0*] http://www. amasci.com/graphics/yt/KittFLIR.jpg  (3085 OK, 847 queued)
+[2026-03-05 15:52:15]   [3805 d0*] http://www. amasci.com/graphics/yt/tesexh.jpg  (3090 OK, 842 queued)
+[2026-03-05 15:52:17]   [3810 d0*] http://www. amasci.com/graphics/yt/supercon2.jpg  (3095 OK, 837 queued)
+[2026-03-05 15:52:20]   [3815 d0*] http://www. amasci.com/graphics/yt/flirings.jpg  (3100 OK, 832 queued)
+[2026-03-05 15:52:22]   [3820 d0*] http://www. amasci.com/physvids/9.html  (3105 OK, 849 queued)
+[2026-03-05 15:52:27]   [3830 d0*] http://www. amasci.com/anime/2.html  (3114 OK, 847 queued)
+[2026-03-05 15:52:30]   [3835 d0*] http://www. amasci.com/graphics/superball.gif  (3118 OK, 847 queued)
+[2026-03-05 15:52:32]   [3840 d0*] http://www. amasci.com/physvids/2.html  (3122 OK, 842 queued)
+[2026-03-05 15:52:35]   [3845 d0*] http://www. amasci.com/physvids/19.html  (3127 OK, 837 queued)
+[2026-03-05 15:52:38]   [3850 d0*] http://www. amasci.com/physvids/14.html  (3132 OK, 833 queued)
+[2026-03-05 15:52:40]   [3855 d0*] http://www. amasci.com/physvids/11.html  (3137 OK, 828 queued)
+[2026-03-05 15:52:43]   [3860 d0*] http://www. amasci.com/graphics/yt/UVphos.jpg  (3141 OK, 824 queued)
+[2026-03-05 15:52:45]   [3865 d0*] http://www. amasci.com/graphics/yt/flirband.jpg  (3146 OK, 820 queued)
+[2026-03-05 15:52:48]   [3870 d0*] http://www. amasci.com/graphics/yt/flircat.jpg  (3151 OK, 815 queued)
+[2026-03-05 15:52:50]   [3875 d0*] http://www. amasci.com/amateur/teles.html  (3155 OK, 810 queued)
+[2026-03-05 15:52:53]   [3880 d0*] http://www. amasci.com/graphics/ovnbotl.jpg  (3160 OK, 827 queued)
+[2026-03-05 15:52:55]   [3885 d0*] http://www. amasci.com/graphics/books/scisoap.jpg  (3164 OK, 828 queued)
+[2026-03-05 15:53:00]   [3895 d0*] http://www. amasci.com/amatuer/irgoggl.html  (3170 OK, 832 queued)
+[2026-03-05 15:53:03]   [3900 d0*] http://www. amasci.com/graphics/infrared/cmps1IR.jpeg  (3175 OK, 843 queued)
+[2026-03-05 15:53:06]   [3905 d0*] http://www. amasci.com/graphics/infrared/cmps2IR.jpeg  (3180 OK, 838 queued)
+[2026-03-05 15:53:08]   [3910 d0*] http://www. amasci.com/graphics/infrared/shrtaVIS.jpeg  (3185 OK, 833 queued)
+[2026-03-05 15:53:11]   [3915 d0*] http://www. amasci.com/graphics/leefltr3.gif  (3190 OK, 834 queued)
+[2026-03-05 15:53:13]   [3920 d0*] http://www. amasci.com/wsci/weird.txt  (3195 OK, 829 queued)
+[2026-03-05 15:53:16]   [3925 d0*] http://www. amasci.com/wsci/booksle7.doc  (3200 OK, 825 queued)
+[2026-03-05 15:53:21]   [3935 d0*] http://www. amasci.com/tesla/balligntn.txt  (3208 OK, 817 queued)
+[2026-03-05 15:53:23]   [3940 d0*] http://www. amasci.com/tesla/ballpprs.html  (3211 OK, 812 queued)
+[2026-03-05 15:53:26]   [3945 d0*] http://www. amasci.com/tesla/langBL.html  (3216 OK, 808 queued)
+[2026-03-05 15:53:28]   [3950 d0*] http://www. amasci.com/ele-projs.html  (3221 OK, 811 queued)
+[2026-03-05 15:53:28]     +3 links (4764 total known)
+[2026-03-05 15:53:31]   [3955 d0*] http://www. amasci.com/static/electrostatic1.html  (3224 OK, 810 queued)
+[2026-03-05 15:53:34]   [3960] 3225 OK, 735 failed, 816 queued
+[2026-03-05 15:53:34]     last fail: http://www. amasci.com/electrom/raven_t.gif
+[2026-03-05 15:53:39]   [3970 d0*] http://www. amasci.com/graphics/books/moore2.jpg  (3230 OK, 811 queued)
+[2026-03-05 15:53:41]   [3975 d0*] http://www. amasci.com/emotor/zerostat.html  (3235 OK, 810 queued)
+[2026-03-05 15:53:44]   [3980 d0*] http://www. amasci.com/amateur/pris.html  (3238 OK, 805 queued)
+[2026-03-05 15:53:46]   [3985 d0*] http://www. amasci.com/feynexpt.html  (3243 OK, 804 queued)
+[2026-03-05 15:53:49]   [3990 d0*] http://www. amasci.com/amateur/antibub/anti3.gif  (3248 OK, 811 queued)
+[2026-03-05 15:53:51]   [3995 d0*] http://www. amasci.com/amateur/antibub/anti7.gif  (3253 OK, 806 queued)
+[2026-03-05 15:53:54]   [4000 d0*] http://www. amasci.com/amateur/antibub/anti5.gif  (3258 OK, 801 queued)
+[2026-03-05 15:53:59]   [4010 d0*] http://www. amasci.com/miscon/eleca.html  (3265 OK, 798 queued)
+[2026-03-05 15:53:59]     +3 links (4811 total known)
+[2026-03-05 15:54:02]   [4015 d0*] http://www. amasci.com/elect/elefaq1.html  (3270 OK, 797 queued)
+[2026-03-05 15:54:04]   [4020 d0*] http://www. amasci.com/graphics/tcoil7.gif  (3275 OK, 801 queued)
+[2026-03-05 15:54:07]   [4025 d0*] http://www. amasci.com/miscon/daves.txt  (3280 OK, 796 queued)
+[2026-03-05 15:54:09]   [4030 d0*] http://www. amasci.com/amateur/capexpt.html  (3285 OK, 792 queued)
+[2026-03-05 15:54:09]     +4 links (4826 total known)
+[2026-03-05 15:54:14]   [4040 d0*] http://www. amasci.com/graphics/tesdray2.jpg  (3294 OK, 815 queued)
+[2026-03-05 15:54:17]   [4045 d0*] http://www. amasci.com/graphics/tesla/war.jpg  (3299 OK, 810 queued)
+[2026-03-05 15:54:19]   [4050 d0*] http://www. amasci.com/graphics/tesdray3.gif  (3304 OK, 805 queued)
+[2026-03-05 15:54:22]   [4055 d0*] http://www. amasci.com/graphics/tes_flyer1.jpg  (3309 OK, 800 queued)
+[2026-03-05 15:54:24]   [4060 d0*] http://www. amasci.com/graphics/tstowr.jpg  (3314 OK, 795 queued)
+[2026-03-05 15:54:27]   [4065 d0*] http://www. amasci.com/tesla/tesecr1.html  (3319 OK, 790 queued)
+[2026-03-05 15:54:35]   [4080] 3320 OK, 760 failed, 790 queued
+[2026-03-05 15:54:35]     last fail: http://www. amasci.com/elect/elect/coila.gif
+[2026-03-05 15:54:37]   [4085 d0*] http://www. amasci.com/miscon/books.html  (3324 OK, 789 queued)
+[2026-03-05 15:54:40]   [4090 d0*] http://www. amasci.com/weird.html  (3327 OK, 784 queued)
+[2026-03-05 15:54:40]     +5 links (4879 total known)
+[2026-03-05 15:54:42]   [4095 d0*] http://www. amasci.com/weird/w_art.html  (3328 OK, 784 queued)
+[2026-03-05 15:54:45]   [4100 d0*] http://www. amasci.com/graphics/argon/full01.jpg  (3333 OK, 788 queued)
+[2026-03-05 15:54:47]   [4105 d0*] http://www. amasci.com/graphics/argon/fixfingr005a.mpg  (3338 OK, 783 queued)
+[2026-03-05 15:54:50]   [4110 d0*] http://www. amasci.com/freenrg/plasbang.html  (3343 OK, 804 queued)
+[2026-03-05 15:54:52]   [4115 d0*] http://www. amasci.com/graphics/coilgen.gif  (3348 OK, 802 queued)
+[2026-03-05 15:54:55]   [4120 d0*] http://www. amasci.com/freenrg/tors/floaters.html  (3353 OK, 797 queued)
+[2026-03-05 15:54:58]   [4125 d0*] http://www. amasci.com/search.html   (3358 OK, 795 queued)
+[2026-03-05 15:55:03]   [4135 d0*] http://www. amasci.com/freenrg/plasmafe.txt  (3367 OK, 787 queued)
+[2026-03-05 15:55:05]   [4140 d0*] http://www. amasci.com/freenrg/hudson.txt  (3372 OK, 782 queued)
+[2026-03-05 15:55:08]   [4145 d0*] http://www. amasci.com/tesla/tc.txt  (3377 OK, 783 queued)
+[2026-03-05 15:55:10]   [4150 d0*] http://www. amasci.com/scilists.html  (3382 OK, 778 queued)
+[2026-03-05 15:55:10]     +2 links (4930 total known)
+[2026-03-05 15:55:13]   [4155 d0*] http://www. amasci.com/amateur/balloon.txt  (3386 OK, 778 queued)
+[2026-03-05 15:55:15]   [4160] 3388 OK, 772 failed, 781 queued
+[2026-03-05 15:55:15]     last fail: http://www. amasci.com/emotor/emotor/vdg.html
+[2026-03-05 15:55:20]   [4170 d0*] http://www. amasci.com/tesla/tcvmail.html  (3393 OK, 774 queued)
+[2026-03-05 15:55:23]   [4175 d0*] http://www. amasci.com/mistake.html  (3396 OK, 769 queued)
+[2026-03-05 15:55:25]   [4180 d0*] http://www. amasci.com/graphics/bucky3.gif  (3401 OK, 769 queued)
+[2026-03-05 15:55:28]   [4185 d0*] http://www. amasci.com/freenrg/magputt.html  (3406 OK, 771 queued)
+[2026-03-05 15:55:33]   [4195 d0*] http://www. amasci.com/tesla/tmistk.html  (3415 OK, 763 queued)
+[2026-03-05 15:55:36]   [4200 d0*] http://www. amasci.com/wing/smoke22A.gif  (3419 OK, 777 queued)
+[2026-03-05 15:55:38]   [4205 d0*] http://www. amasci.com/wing/lasrWing.gif  (3422 OK, 772 queued)
+[2026-03-05 15:55:41]   [4210 d0*] http://www. amasci.com/miscon/prsmtxt.txt  (3427 OK, 767 queued)
+[2026-03-05 15:55:43]   [4215 d0*] http://www. amasci.com/miscon/germ.html  (3432 OK, 762 queued)
+[2026-03-05 15:55:46]   [4220 d0*] http://www. amasci.com/amateur/MIRROR.GIF  (3436 OK, 762 queued)
+[2026-03-05 15:55:51]   [4230 d0*] http://www. amasci.com/elect/vwatt1.html  (3442 OK, 755 queued)
+[2026-03-05 15:55:51]     +1 links (4986 total known)
+[2026-03-05 15:55:56]   [4240 d0*] http://www. amasci.com/graphics/mbrain.gif  (3449 OK, 755 queued)
+[2026-03-05 15:56:01]   [4250 d0*] http://www. amasci.com/graphics/hov6.gif  (3456 OK, 754 queued)
+[2026-03-05 15:56:04]   [4255 d0*] http://www. amasci.com/sc/proj/kidprojc.html  (3461 OK, 750 queued)
+[2026-03-05 15:56:06]   [4260 d0*] http://www. amasci.com/miscon/coherence.html  (3466 OK, 752 queued)
+[2026-03-05 15:56:06]     +3 links (5015 total known)
+[2026-03-05 15:56:09]   [4265 d0*] http://www. amasci.com/amateur/lasqueal.html  (3471 OK, 750 queued)
+[2026-03-05 15:56:11]   [4270 d0*] http://www. amasci.com/weird/wallc/wallc1.html  (3476 OK, 748 queued)
+[2026-03-05 15:56:14]   [4275 d0*] http://www. amasci.com/amateur/traffic1/seatraf.html  (3480 OK, 763 queued)
+[2026-03-05 15:56:16]   [4280 d0*] http://www. amasci.com/guestbook.html  (3484 OK, 777 queued)
+[2026-03-05 15:56:17]     +14 links (5071 total known)
+[2026-03-05 15:56:22]   [4290 d0*] http://www. amasci.com/coilgen/generator_3.html  (3489 OK, 785 queued)
+[2026-03-05 15:56:22]     +2 links (5077 total known)
+[2026-03-05 15:56:24]   [4295 d0*] http://www. amasci.com/rrr.html  (3492 OK, 782 queued)
+[2026-03-05 15:56:27]   [4300] 3492 OK, 808 failed, 777 queued
+[2026-03-05 15:56:27]     last fail: http://www. amasci.com/~billb/cgi-bin/guest2.html
+[2026-03-05 15:56:29]   [4305 d0*] http://www. amasci.com/jobs.html  (3496 OK, 776 queued)
+[2026-03-05 15:56:34]   [4315 d0*] http://www. amasci.com/index.htm  (3499 OK, 775 queued)
+[2026-03-05 15:56:37]   [4320] 3503 OK, 817 failed, 773 queued
+[2026-03-05 15:56:37]     last fail: http://www. amasci.com/stats/stats.txt
+[2026-03-05 15:56:39]   [4325 d0*] http://www. amasci.com/tfaq.html  (3507 OK, 768 queued)
+[2026-03-05 15:56:47]   [4340 d0*] http://www. amasci.com/amateur/traffic1/traf1.gif  (3515 OK, 756 queued)
+[2026-03-05 15:56:52]   [4350 d0*] http://www. amasci.com/amateur/traffic/guestbok.html  (3521 OK, 753 queued)
+[2026-03-05 15:56:52]     +4 links (5107 total known)
+[2026-03-05 15:56:55]   [4355 d0*] http://www. amasci.com/amateur/traffic1/twlite3.gif  (3523 OK, 752 queued)
+[2026-03-05 15:56:57]   [4360 d0*] http://www. amasci.com/amateur/traffic1/links.html  (3527 OK, 748 queued)
+[2026-03-05 15:56:57]     +1 links (5109 total known)
+[2026-03-05 15:57:00]   [4365 d0*] http://www. amasci.com/amateur/magnerite.html  (3530 OK, 747 queued)
+[2026-03-05 15:57:02]   [4370 d0*] http://www. amasci.com/amateur/pykrete.html  (3531 OK, 742 queued)
+[2026-03-05 15:57:05]   [4375 d0*] http://www. amasci.com/graphics/lig1.jpg  (3536 OK, 741 queued)
+[2026-03-05 15:57:07]   [4380 d0*] http://www. amasci.com/emotor/vsphere.html  (3541 OK, 738 queued)
+[2026-03-05 15:57:10]   [4385 d0*] http://www. amasci.com/emotor/emotbug.html  (3544 OK, 733 queued)
+[2026-03-05 15:57:13]   [4390 d0*] http://www. amasci.com/amateur/nerdsmax.html  (3549 OK, 733 queued)
+[2026-03-05 15:57:15]   [4395 d0*] http://www. amasci.com/viselect/vistxt.html  (3552 OK, 730 queued)
+[2026-03-05 15:57:18]   [4400 d0*] http://www. amasci.com/emotor/kelvin.html  (3557 OK, 727 queued)
+[2026-03-05 15:57:18]     +3 links (5130 total known)
+[2026-03-05 15:57:20]   [4405 d0*] http://www. amasci.com/emotor/hints.txt  (3559 OK, 731 queued)
+[2026-03-05 15:57:23]   [4410 d0*] http://www. amasci.com/emotor/charger.txt  (3564 OK, 726 queued)
+[2026-03-05 15:57:25]   [4415 d0*] http://www. amasci.com/amateur/dscope2.gif  (3569 OK, 725 queued)
+[2026-03-05 15:57:28]   [4420 d0*] http://www. amasci.com/freenrg/regen.txt  (3574 OK, 752 queued)
+[2026-03-05 15:57:30]   [4425 d0*] http://www. amasci.com/freenrg/tors/drbl.doc  (3579 OK, 750 queued)
+[2026-03-05 15:57:33]   [4430 d0*] http://www. amasci.com/freenrg/timeflo1.html  (3584 OK, 745 queued)
+[2026-03-05 15:57:33]     +2 links (5177 total known)
+[2026-03-05 15:57:35]   [4435 d0*] http://www. amasci.com/greb/greb2.html  (3589 OK, 743 queued)
+[2026-03-05 15:57:38]   [4440 d0*] http://www. amasci.com/greb/Grebennikov/233a.gif  (3594 OK, 776 queued)
+[2026-03-05 15:57:41]   [4445 d0*] http://www. amasci.com/greb/Grebennikov/9s.jpg  (3599 OK, 771 queued)
+[2026-03-05 15:57:43]   [4450 d0*] http://www. amasci.com/greb/Grebennikov/1s.jpg  (3604 OK, 766 queued)
+[2026-03-05 15:57:46]   [4455 d0*] http://www. amasci.com/greb/Grebennikov/14s.jpg  (3609 OK, 761 queued)
+[2026-03-05 15:57:48]   [4460 d0*] http://www. amasci.com/greb/Grebennikov/236d.gif  (3613 OK, 756 queued)
+[2026-03-05 15:57:51]   [4465 d0*] http://www. amasci.com/greb/Grebennikov/233b.gif  (3618 OK, 751 queued)
+[2026-03-05 15:57:53]   [4470 d0*] http://www. amasci.com/greb/Grebennikov/236c.gif  (3623 OK, 746 queued)
+[2026-03-05 15:57:56]   [4475 d0*] http://www. amasci.com/freenrg/gravity3.txt  (3628 OK, 741 queued)
+[2026-03-05 15:57:58]   [4480 d0*] http://www. amasci.com/freenrg/grav3.txt  (3633 OK, 736 queued)
+[2026-03-05 15:58:01]   [4485 d0*] http://www. amasci.com/freenrg/bajak1.txt  (3637 OK, 734 queued)
+[2026-03-05 15:58:03]   [4490 d0*] http://www. amasci.com/freenrg/tors/spin1.html  (3642 OK, 729 queued)
+[2026-03-05 15:58:03]     +1 links (5220 total known)
+[2026-03-05 15:58:06]   [4495 d0*] http://www. amasci.com/weird/vortex/subc.html  (3647 OK, 726 queued)
+[2026-03-05 15:58:09]   [4500 d0*] http://www. amasci.com/tesla/plasplan.html  (3652 OK, 721 queued)
+[2026-03-05 15:58:11]   [4505 d0*] http://www. amasci.com/graphics/holo/curvscr8.gif  (3656 OK, 737 queued)
+[2026-03-05 15:58:14]   [4510 d0*] http://www. amasci.com/graphics/holo/curvscr5.gif  (3661 OK, 732 queued)
+[2026-03-05 15:58:16]   [4515 d0*] http://www. amasci.com/graphics/holo/onestp.gif  (3666 OK, 727 queued)
+[2026-03-05 15:58:19]   [4520 d0*] http://www. amasci.com/graphics/holo/holos1a.jpg  (3671 OK, 725 queued)
+[2026-03-05 15:58:21]   [4525 d0*] http://www. amasci.com/amateur/holo1a.gif  (3676 OK, 720 queued)
+[2026-03-05 15:58:24]   [4530 d0*] http://www. amasci.com/scifair/bio.html  (3680 OK, 717 queued)
+[2026-03-05 15:58:24]     +6 links (5253 total known)
+[2026-03-05 15:58:29]   [4540 d0*] http://www. amasci.com/emotor/vdgroll.gif  (3684 OK, 719 queued)
+[2026-03-05 15:58:31]   [4545 d0*] http://www. amasci.com/miscon/myths10.html  (3688 OK, 714 queued)
+[2026-03-05 15:58:34]   [4550 d0*] http://www. amasci.com/freenrg/bark.html  (3692 OK, 709 queued)
+[2026-03-05 15:58:36]   [4555 d0*] http://www. amasci.com/amateur/projs.txt  (3697 OK, 713 queued)
+[2026-03-05 15:58:39]   [4560 d0*] http://www. amasci.com/amateur/saslgosm.gif  (3702 OK, 708 queued)
+[2026-03-05 15:58:44]   [4570 d0*] http://www. amasci.com/amateur/transis2.html  (3708 OK, 705 queued)
+[2026-03-05 15:58:44]     +1 links (5276 total known)
+[2026-03-05 15:58:47]   [4575 d0*] http://www. amasci.com/amatuer/toys1.html  (3712 OK, 702 queued)
+[2026-03-05 15:58:49]   [4580 d0*] http://www. amasci.com/tesla/wire1.html  (3715 OK, 698 queued)
+[2026-03-05 15:58:49]     +1 links (5279 total known)
+[2026-03-05 15:58:52]   [4585 d0*] http://www. amasci.com/miscon/whyhard2.html  (3719 OK, 695 queued)
+[2026-03-05 15:58:54]   [4590 d0*] http://www. amasci.com/elehob/elehobed.html  (3724 OK, 692 queued)
+[2026-03-05 15:58:57]   [4595 d0*] http://www. amasci.com/freenrg/wasser.html  (3727 OK, 687 queued)
+[2026-03-05 15:59:00]   [4600 d0*] http://www. amasci.com/electrom/aura1.jpg  (3732 OK, 687 queued)
+[2026-03-05 15:59:02]   [4605 d0*] http://www. amasci.com/suppliers.html  (3737 OK, 684 queued)
+[2026-03-05 15:59:05]   [4610 d0*] http://www. amasci.com/graphics/kelvxsec.gif  (3742 OK, 684 queued)
+[2026-03-05 15:59:07]   [4615 d0*] http://www. amasci.com/emotor/vdgdemo.html  (3747 OK, 679 queued)
+[2026-03-05 15:59:10]   [4620 d0*] http://www. amasci.com/graphics/wtrcap3.gif  (3752 OK, 678 queued)
+[2026-03-05 15:59:12]   [4625 d0*] http://www. amasci.com/freenrg/keely.html  (3757 OK, 674 queued)
+[2026-03-05 15:59:15]   [4630 d0*] http://www. amasci.com/maglev/magroll.gif  (3761 OK, 671 queued)
+[2026-03-05 15:59:17]   [4635 d0*] http://www. amasci.com/wing/smring.html  (3765 OK, 669 queued)
+[2026-03-05 15:59:20]   [4640 d0*] http://www. amasci.com/freenrg/morton1.html  (3769 OK, 666 queued)
+[2026-03-05 15:59:20]     +5 links (5311 total known)
+[2026-03-05 15:59:22]   [4645 d0*] http://www. amasci.com/freenrg/mfig2.gif  (3774 OK, 666 queued)
+[2026-03-05 15:59:25]   [4650 d0*] http://www. amasci.com/amateur/gravcam.html  (3779 OK, 661 queued)
+[2026-03-05 15:59:30]   [4660] 3784 OK, 876 failed, 656 queued
+[2026-03-05 15:59:30]     last fail: http://www. amasci.com/weird/elgo2.html
+[2026-03-05 15:59:35]   [4670 d0*] http://www. amasci.com/hum/hum1.html  (3793 OK, 671 queued)
+[2026-03-05 15:59:38]   [4675 d0*] http://www. amasci.com/hum/humbkg.txt  (3798 OK, 666 queued)
+[2026-03-05 15:59:40]   [4680 d0*] http://www. amasci.com/hum/bristol.html  (3803 OK, 661 queued)
+[2026-03-05 15:59:43]   [4685 d0*] http://www. amasci.com/hum/tinn2.txt  (3807 OK, 656 queued)
+[2026-03-05 15:59:45]   [4690 d0*] http://www. amasci.com/hum/info.txt  (3812 OK, 651 queued)
+[2026-03-05 15:59:50]   [4700 d0*] http://www. amasci.com/weird/fieldwkc.doc  (3820 OK, 662 queued)
+[2026-03-05 15:59:53]   [4705 d0*] http://www. amasci.com/weird/cofu.txt  (3825 OK, 657 queued)
+[2026-03-05 15:59:56]   [4710 d0*] http://www. amasci.com/weird/fieldyus.doc  (3830 OK, 652 queued)
+[2026-03-05 15:59:58]   [4715 d0*] http://www. amasci.com/weird/main.css  (3835 OK, 648 queued)
+[2026-03-05 16:00:01]   [4720] 3836 OK, 884 failed, 1866 queued
+[2026-03-05 16:00:01]     last fail: http://www. amasci.com/weird2/3D"https:/media.ten=
+[2026-03-05 16:00:11]   [4740] 3836 OK, 904 failed, 1846 queued
+[2026-03-05 16:00:11]     last fail: http://www. amasci.com/weird2/3D"https:/www.youtube.com/watch?v=3Dk__dqH129vE"
+[2026-03-05 16:00:21]   [4760] 3836 OK, 924 failed, 1826 queued
+[2026-03-05 16:00:21]     last fail: http://www. amasci.com/weird2/3D"https:/drive.google.com/drive/blockuser?blocke=
+[2026-03-05 16:00:31]   [4780] 3836 OK, 944 failed, 1806 queued
+[2026-03-05 16:00:31]     last fail: http://www. amasci.com/weird2/3D"https:/www.mer=
+[2026-03-05 16:00:41]   [4800] 3836 OK, 964 failed, 1786 queued
+[2026-03-05 16:00:41]     last fail: http://www. amasci.com/weird2/3D"mailto:janap128@g=
+[2026-03-05 16:00:52]   [4820] 3836 OK, 984 failed, 1766 queued
+[2026-03-05 16:00:52]     last fail: http://www. amasci.com/weird2/3D"mailto:mules=
+[2026-03-05 16:01:02]   [4840] 3836 OK, 1004 failed, 1746 queued
+[2026-03-05 16:01:02]     last fail: http://www. amasci.com/weird2/3D"https:/www.youtube.com/watch?v=3DZbzcYQVrTxQ=
+[2026-03-05 16:01:12]   [4860] 3836 OK, 1024 failed, 1726 queued
+[2026-03-05 16:01:12]     last fail: http://www. amasci.com/weird2/3D"https:/www.foxnews.com/world/chinas-xi-panic-=
+[2026-03-05 16:01:22]   [4880] 3836 OK, 1044 failed, 1706 queued
+[2026-03-05 16:01:22]     last fail: http://www. amasci.com/weird2/3D"https:/www.youtube.com/watch?v=3DpYGNoZVrsxQ"
+[2026-03-05 16:01:32]   [4900] 3836 OK, 1064 failed, 1686 queued
+[2026-03-05 16:01:32]     last fail: http://www. amasci.com/weird2/3D"https:/lenr-=
+[2026-03-05 16:01:42]   [4920] 3836 OK, 1084 failed, 1666 queued
+[2026-03-05 16:01:42]     last fail: http://www. amasci.com/weird2/=3D"https:/www.engadget.com/2011-05-17-blood-turbine-to-power-your-pacemak=
+[2026-03-05 16:01:52]   [4940] 3836 OK, 1104 failed, 1646 queued
+[2026-03-05 16:01:52]     last fail: http://www. amasci.com/weird2/3D"mailto:88.frank@gmail.com=
+[2026-03-05 16:02:03]   [4960] 3836 OK, 1124 failed, 1626 queued
+[2026-03-05 16:02:03]     last fail: http://www. amasci.com/weird2/3D"https:/www.eia.g=
+[2026-03-05 16:02:13]   [4980] 3836 OK, 1144 failed, 1606 queued
+[2026-03-05 16:02:13]     last fail: http://www. amasci.com/weird2/3D"https:/www.tomshardware.com/news/lk-99-paten=
+[2026-03-05 16:02:23]   [5000] 3836 OK, 1164 failed, 1586 queued
+[2026-03-05 16:02:23]     last fail: http://www. amasci.com/weird2/3D"https:/archive.ph/o/YlYcK/https:/www.researchgate.net/pr=
+[2026-03-05 16:02:33]   [5020] 3836 OK, 1184 failed, 1566 queued
+[2026-03-05 16:02:33]     last fail: http://www. amasci.com/weird2/3D"https:/phys.org/ne=
+[2026-03-05 16:02:43]   [5040] 3836 OK, 1204 failed, 1546 queued
+[2026-03-05 16:02:43]     last fail: http://www. amasci.com/weird2/3D"https:/www.youtube.com/watch?v=3Dn=
+[2026-03-05 16:02:53]   [5060] 3836 OK, 1224 failed, 1526 queued
+[2026-03-05 16:02:53]     last fail: http://www. amasci.com/weird2/3D"https:/news.yahoo.com/=
+[2026-03-05 16:03:03]   [5080] 3836 OK, 1244 failed, 1506 queued
+[2026-03-05 16:03:03]     last fail: http://www. amasci.com/weird2/3D"https:/www.france24.com/en/live-news/20230411=
+[2026-03-05 16:03:14]   [5100] 3836 OK, 1264 failed, 1486 queued
+[2026-03-05 16:03:14]     last fail: http://www. amasci.com/weird2/3D"https:/nam11.safelinks.protec=
+[2026-03-05 16:03:24]   [5120] 3836 OK, 1284 failed, 1466 queued
+[2026-03-05 16:03:24]     last fail: http://www. amasci.com/weird2/3D"https:/www.youtube.com/watch?v=3D8sUjpkmisBs"
+[2026-03-05 16:03:34]   [5140] 3836 OK, 1304 failed, 1446 queued
+[2026-03-05 16:03:34]     last fail: http://www. amasci.com/weird2/3D"https:/www.sciencealert.com/physicist=
+[2026-03-05 16:03:44]   [5160] 3836 OK, 1324 failed, 1426 queued
+[2026-03-05 16:03:44]     last fail: http://www. amasci.com/weird2/3D"https:/lenr-canr.org/acrobat/Bi=
+[2026-03-05 16:03:54]   [5180] 3836 OK, 1344 failed, 1406 queued
+[2026-03-05 16:03:54]     last fail: http://www. amasci.com/weird2/3D"https:/www.theguardi=
+[2026-03-05 16:04:04]   [5200] 3836 OK, 1364 failed, 1386 queued
+[2026-03-05 16:04:04]     last fail: http://www. amasci.com/weird2/3D"http:/itampe.com/on-the-fundamentals-of-charge.html"
+[2026-03-05 16:04:14]   [5220] 3836 OK, 1384 failed, 1366 queued
+[2026-03-05 16:04:14]     last fail: http://www. amasci.com/weird2/3D"https:/sanjosespotlight.com/san-jose-bloom-energy-company-wants-to=
+[2026-03-05 16:04:24]   [5240] 3836 OK, 1404 failed, 1346 queued
+[2026-03-05 16:04:24]     last fail: http://www. amasci.com/weird2/3D"https:/www.chatfast.io/pricing"
+[2026-03-05 16:04:35]   [5260] 3836 OK, 1424 failed, 1326 queued
+[2026-03-05 16:04:35]     last fail: http://www. amasci.com/weird2/3D"https:/th=
+[2026-03-05 16:04:45]   [5280] 3836 OK, 1444 failed, 1306 queued
+[2026-03-05 16:04:45]     last fail: http://www. amasci.com/weird2/=3D"http:/www.youtube.com/watch?v=3Dan6JiBLQqXY&t=3D8s"
+[2026-03-05 16:04:55]   [5300] 3836 OK, 1464 failed, 1286 queued
+[2026-03-05 16:04:55]     last fail: http://www. amasci.com/weird2/3D"https:/www.facebook.com/reel/1153140760136446"
+[2026-03-05 16:05:05]   [5320] 3836 OK, 1484 failed, 1266 queued
+[2026-03-05 16:05:05]     last fail: http://www. amasci.com/weird2/3D"https:/www.reuters=
+[2026-03-05 16:05:15]   [5340] 3836 OK, 1504 failed, 1246 queued
+[2026-03-05 16:05:15]     last fail: http://www. amasci.com/weird2/3D"https:/cointelegraph.com/news/chatgpt-learns-bitcoin-wil=
+[2026-03-05 16:05:25]   [5360] 3836 OK, 1524 failed, 1226 queued
+[2026-03-05 16:05:25]     last fail: http://www. amasci.com/weird2/3D"mailto:hveeder000@gmail.com"=
+[2026-03-05 16:05:35]   [5380] 3836 OK, 1544 failed, 1206 queued
+[2026-03-05 16:05:35]     last fail: http://www. amasci.com/weird2/3D"https:/techcrunch.com/2023/08/18/lk-99-room-temperature-sup=
+[2026-03-05 16:05:46]   [5400] 3836 OK, 1564 failed, 1186 queued
+[2026-03-05 16:05:46]     last fail: http://www. amasci.com/weird2/3D"mailto:jh=
+[2026-03-05 16:05:56]   [5420] 3836 OK, 1584 failed, 1166 queued
+[2026-03-05 16:05:56]     last fail: http://www. amasci.com/weird2/3D"https:/www.youtube.com/w=
+[2026-03-05 16:06:06]   [5440] 3836 OK, 1604 failed, 1146 queued
+[2026-03-05 16:06:06]     last fail: http://www. amasci.com/weird2/3D"mailto:jonathanberry3=
+[2026-03-05 16:06:16]   [5460] 3836 OK, 1624 failed, 1126 queued
+[2026-03-05 16:06:16]     last fail: http://www. amasci.com/weird2/3D"https:/web.archive.org/web/20220428030850/http:=
+[2026-03-05 16:06:26]   [5480] 3836 OK, 1644 failed, 1106 queued
+[2026-03-05 16:06:26]     last fail: http://www. amasci.com/weird2/3D"http:/amasci.com/graphics/tesla/SAM_1253b.jpg"
+[2026-03-05 16:06:36]   [5500] 3836 OK, 1664 failed, 1086 queued
+[2026-03-05 16:06:36]     last fail: http://www. amasci.com/weird2/3D"https:/www.yout=
+[2026-03-05 16:06:46]   [5520] 3836 OK, 1684 failed, 1066 queued
+[2026-03-05 16:06:46]     last fail: http://www. amasci.com/weird2/3D"https:/coldfusionvideos.=
+[2026-03-05 16:06:57]   [5540] 3836 OK, 1704 failed, 1046 queued
+[2026-03-05 16:06:57]     last fail: http://www. amasci.com/weird2/3D"https:/arpa-e.energy.gov/sites/default/files/docume=
+[2026-03-05 16:07:07]   [5560] 3836 OK, 1724 failed, 1026 queued
+[2026-03-05 16:07:07]     last fail: http://www. amasci.com/weird2/3D"https:/www.georg=
+[2026-03-05 16:07:17]   [5580] 3836 OK, 1744 failed, 1006 queued
+[2026-03-05 16:07:17]     last fail: http://www. amasci.com/weird2/3D"https:/www.energizer.com/about-batterie=
+[2026-03-05 16:07:27]   [5600] 3836 OK, 1764 failed, 986 queued
+[2026-03-05 16:07:27]     last fail: http://www. amasci.com/weird2/=3D"mailto:88.frank@gmail.com"
+[2026-03-05 16:07:37]   [5620] 3836 OK, 1784 failed, 966 queued
+[2026-03-05 16:07:37]     last fail: http://www. amasci.com/weird2/3D"https:/openai.com/dall-e-2/"
+[2026-03-05 16:07:47]   [5640] 3836 OK, 1804 failed, 946 queued
+[2026-03-05 16:07:47]     last fail: http://www. amasci.com/weird2/3D"https:/lenr-can=
+[2026-03-05 16:07:57]   [5660] 3836 OK, 1824 failed, 926 queued
+[2026-03-05 16:07:57]     last fail: http://www. amasci.com/weird2/=3D"http:/archive.ph"
+[2026-03-05 16:08:08]   [5680] 3836 OK, 1844 failed, 906 queued
+[2026-03-05 16:08:08]     last fail: http://www. amasci.com/weird2/=3D"http:/ikkem.com/iccf-23_program.php"
+[2026-03-05 16:08:18]   [5700] 3836 OK, 1864 failed, 886 queued
+[2026-03-05 16:08:18]     last fail: http://www. amasci.com/weird2/3D"https:/www.eia.gov/outlooks/aeo/assu=
+[2026-03-05 16:08:28]   [5720] 3836 OK, 1884 failed, 866 queued
+[2026-03-05 16:08:28]     last fail: http://www. amasci.com/weird2/3D"https:/www.youtube.com/watch?v=3DzY6IK0ObDYU"
+[2026-03-05 16:08:38]   [5740] 3836 OK, 1904 failed, 846 queued
+[2026-03-05 16:08:38]     last fail: http://www. amasci.com/weird2/3D"https:/www.cigionline.org/articles/chatgpt-s=
+[2026-03-05 16:08:48]   [5760] 3836 OK, 1924 failed, 826 queued
+[2026-03-05 16:08:48]     last fail: http://www. amasci.com/weird2/3D"https:/translate.google.com"
+[2026-03-05 16:08:58]   [5780] 3836 OK, 1944 failed, 806 queued
+[2026-03-05 16:08:58]     last fail: http://www. amasci.com/weird2/3D"https:/www.amazon.com/How-Create-Mind-Thought-Revealed-eb=
+[2026-03-05 16:09:08]   [5800] 3836 OK, 1964 failed, 786 queued
+[2026-03-05 16:09:08]     last fail: http://www. amasci.com/weird2/3D"mailto:bobcook39923@hotmail.co=
+[2026-03-05 16:09:18]   [5820] 3836 OK, 1984 failed, 766 queued
+[2026-03-05 16:09:18]     last fail: http://www. amasci.com/weird2/3D"https:/www.newsweek.com/nuclear-fusion=
+[2026-03-05 16:09:29]   [5840] 3836 OK, 2004 failed, 746 queued
+[2026-03-05 16:09:29]     last fail: http://www. amasci.com/weird2/3D"mailto:jonathanberr=
+[2026-03-05 16:09:39]   [5860] 3836 OK, 2024 failed, 726 queued
+[2026-03-05 16:09:39]     last fail: http://www. amasci.com/weird2/3D"https:/archive.ph/kIX9s"
+[2026-03-05 16:09:49]   [5880] 3836 OK, 2044 failed, 706 queued
+[2026-03-05 16:09:49]     last fail: http://www. amasci.com/weird2/3D"https:/www.epa.gov/indoor-air-qua=
+[2026-03-05 16:09:59]   [5900] 3836 OK, 2064 failed, 686 queued
+[2026-03-05 16:09:59]     last fail: http://www. amasci.com/weird2/3D"mailto=
+[2026-03-05 16:10:09]   [5920] 3836 OK, 2084 failed, 666 queued
+[2026-03-05 16:10:09]     last fail: http://www. amasci.com/weird2/3D"https:/iopscien=
+[2026-03-05 16:10:19]   [5940 d0*] http://www. amasci.com/weird/xxf.gif  (3837 OK, 646 queued)
+[2026-03-05 16:10:24]   [5950 d0*] http://www. amasci.com/amateur/physerm1.html  (3845 OK, 638 queued)
+[2026-03-05 16:10:24]     +2 links (6590 total known)
+[2026-03-05 16:10:27]   [5955 d0*] http://www. amasci.com/graphics/glance.gif  (3847 OK, 635 queued)
+[2026-03-05 16:10:29]   [5960 d0*] http://www. amasci.com/wrd7sci.doc  (3851 OK, 630 queued)
+[2026-03-05 16:10:32]   [5965 d0*] http://www. amasci.com/exper.html  (3856 OK, 631 queued)
+[2026-03-05 16:10:35]   [5970 d0*] http://www. amasci.com/emotor/mestat.html  (3860 OK, 627 queued)
+[2026-03-05 16:10:35]     +1 links (6598 total known)
+[2026-03-05 16:10:37]   [5975 d0*] http://www. amasci.com/amateur/gravrok.html  (3863 OK, 626 queued)
+[2026-03-05 16:10:40]   [5980 d0*] http://www. amasci.com/art/dork07/dorkopen.jpg  (3868 OK, 629 queued)
+[2026-03-05 16:10:42]   [5985 d0*] http://www. amasci.com/art/dork07/faraday3.JPG  (3872 OK, 630 queued)
+[2026-03-05 16:10:47]   [5995 d0*] http://www. amasci.com/miscon/k6.txt  (3881 OK, 622 queued)
+[2026-03-05 16:10:50]   [6000] 3882 OK, 2118 failed, 618 queued
+[2026-03-05 16:10:50]     last fail: http://www. amasci.com/miscon/a-rant.html
+[2026-03-05 16:10:52]   [6005 d0*] http://www. amasci.com/amfrm  (3886 OK, 613 queued)
+[2026-03-05 16:10:55]   [6010 d0*] http://www.AMASCI.COM/graphics/glance.gif  (3891 OK, 609 queued)
+[2026-03-05 16:10:58]   [6015 d0*] http://www.AMASCI.COM/amateur/heat.html  (3896 OK, 607 queued)
+[2026-03-05 16:11:01]   [6020] 3900 OK, 2120 failed, 604 queued
+[2026-03-05 16:11:01]     last fail: http://www.AMASCI.COM/amateur/scied.html
+[2026-03-05 16:11:06]   [6025 d0*] http://www.AMASCI.COM/miscon/rfig7.gif  (3905 OK, 611 queued)
+[2026-03-05 16:11:10]   [6030 d0*] http://www.AMASCI.COM/miscon/rfig5.gif  (3910 OK, 606 queued)
+[2026-03-05 16:11:14]   [6035 d0*] http://www.AMASCI.COM/sc/kidlink1.html  (3915 OK, 601 queued)
+[2026-03-05 16:11:17]   [6040] 3919 OK, 2121 failed, 598 queued
+[2026-03-05 16:11:17]     last fail: http://www.AMASCI.COM/~billb/cgi-bin/guestbook.html
+[2026-03-05 16:11:20]   [6045 d0*] http://www.AMASCI.COM/amateur/traffic/traffic1.html  (3924 OK, 595 queued)
+[2026-03-05 16:11:26]   [6055 d0*] http://www.AMASCI.COM/amateur/traffic1/seatraf.html  (3930 OK, 608 queued)
+[2026-03-05 16:11:29]   [6060 d0*] http://www.AMASCI.COM/amateur/traffic1/twlite1.gif  (3935 OK, 603 queued)
+[2026-03-05 16:11:35]   [6070 d0*] http://www.AMASCI.COM/amateur/traffic/twlite3.gif  (3941 OK, 598 queued)
+[2026-03-05 16:11:38]   [6075 d0*] http://www.AMASCI.COM/amateur/traffic1/traf1.gif  (3944 OK, 595 queued)
+[2026-03-05 16:11:41]   [6080 d0*] http://www.AMASCI.COM/miscon/miscon4.html  (3948 OK, 593 queued)
+[2026-03-05 16:11:41]     +10 links (6683 total known)
+[2026-03-05 16:11:44]   [6085 d0*] http://www.AMASCI.COM/wing/smoke22A.gif  (3953 OK, 605 queued)
+[2026-03-05 16:11:47]   [6090 d0*] http://www.AMASCI.COM/wing/smokep11A.gif  (3956 OK, 600 queued)
+[2026-03-05 16:11:50]   [6095 d0*] http://www.AMASCI.COM/miscon/lemon1.html  (3960 OK, 595 queued)
+[2026-03-05 16:11:54]   [6100 d0*] http://amasci.com/amateur/webh1296.txt  (3965 OK, 594 queued)
+[2026-03-05 16:12:02]   [6105 d0*] http://amasci.com/amateur/holodisc.html  (3969 OK, 592 queued)
+[2026-03-05 16:12:10]   [6115 d0*] http://www.AMASCI.COM/miscon/voltpres.html  (3978 OK, 590 queued)
+[2026-03-05 16:12:12]   [6120 d0*] http://www.AMASCI.COM/anime/5.html  (3983 OK, 591 queued)
+[2026-03-05 16:12:15]   [6125 d0*] http://www.AMASCI.COM/5.html  (3987 OK, 590 queued)
+[2026-03-05 16:12:18]   [6130 d0*] http://www.AMASCI.COM/amateur/kidsite.html  (3991 OK, 594 queued)
+[2026-03-05 16:12:21]   [6135 d0*] http://www.AMASCI.COM/amateur/projs.txt  (3996 OK, 589 queued)
+[2026-03-05 16:12:24]   [6140] 4000 OK, 2140 failed, 587 queued
+[2026-03-05 16:12:24]     last fail: http://www.AMASCI.COM/amateur/elehobnw.html
+[2026-03-05 16:12:30]   [6145 d0*] http://www.AMASCI.COM/amform  (4005 OK, 584 queued)
+[2026-03-05 16:12:33]   [6150 d0*] http://www.AMASCI.COM/amateur/irgoggl.html  (4010 OK, 579 queued)
+[2026-03-05 16:12:33]     +3 links (6732 total known)
+[2026-03-05 16:12:35]   [6155 d0*] http://www.AMASCI.COM/favicon.ico  (4015 OK, 577 queued)
+[2026-03-05 16:12:39]   [6160] 4017 OK, 2143 failed, 585 queued
+[2026-03-05 16:12:39]     last fail: http://www.AMASCI.COM/~billb/cgi-bin/guest2.html
+[2026-03-05 16:12:51]   [6175 d0*] http://www.AMASCI.COM/freenrg/lee1.txt  (4023 OK, 577 queued)
+[2026-03-05 16:12:55]   [6180 d0*] http://www.AMASCI.COM/stats/  (4028 OK, 572 queued)
+[2026-03-05 16:12:55]     +5 links (6757 total known)
+[2026-03-05 16:13:08]   [6190 d0*] http://amasci.com/we_nerds.html  (4035 OK, 578 queued)
+[2026-03-05 16:13:08]     +2 links (6770 total known)
+[2026-03-05 16:13:12]   [6195 d0*] http://www.AMASCI.COM/stats/arbypag2.html  (4039 OK, 575 queued)
+[2026-03-05 16:13:16]   [6200] 4039 OK, 2161 failed, 593 queued
+[2026-03-05 16:13:16]     last fail: http://www.AMASCI.COM/stats/..\counter\
+[2026-03-05 16:13:35]   [6220] 4040 OK, 2180 failed, 601 queued
+[2026-03-05 16:13:35]     last fail: http://www.AMASCI.COM/stats/browser.cgi?a=62352461&p=
+[2026-03-05 16:13:54]   [6240] 4040 OK, 2200 failed, 581 queued
+[2026-03-05 16:13:54]     last fail: http://www.AMASCI.COM/stats/main.cgi?a=62352461&p=
+[2026-03-05 16:14:05]   [6250 d0*] http://www.amasci.com/amateur/traffic/  (4043 OK, 577 queued)
+[2026-03-05 16:14:05]     +10 links (6837 total known)
+[2026-03-05 16:14:09]   [6255 d0*] http://www.amasci.com/amateur/sciexp.txt  (4046 OK, 584 queued)
+[2026-03-05 16:14:13]   [6260] 4047 OK, 2213 failed, 579 queued
+[2026-03-05 16:14:13]     last fail: http://www.amasci.com/tanim.html
+[2026-03-05 16:14:16]   [6265 d0*] http://www.amasci.com/pfi/  (4051 OK, 574 queued)
+[2026-03-05 16:14:28]   [6275 d0*] http://www.AMASCI.COM/network54.html  (4059 OK, 625 queued)
+[2026-03-05 16:14:33]   [6280 d0*] http://www.AMASCI.COM/freenrg/gravidea.txt  (4064 OK, 620 queued)
+[2026-03-05 16:14:43]   [6285 d0*] http://www.AMASCI.COM/instr/instr2.html  (4069 OK, 627 queued)
+[2026-03-05 16:14:48]   [6290 d0*] http://amasci.com/instr/inst2.html  (4072 OK, 632 queued)
+[2026-03-05 16:14:53]   [6295 d0*] http://amasci.com/graphics/mask.jpg  (4077 OK, 630 queued)
+[2026-03-05 16:14:56]   [6300 d0*] http://www.AMASCI.COM/vincent.html  (4080 OK, 629 queued)
+[2026-03-05 16:15:00]   [6305 d0*] http://www.AMASCI.COM/instr/salmon.html  (4084 OK, 624 queued)
+[2026-03-05 16:15:05]   [6310 d0*] http://www.AMASCI.COM/graphics/eyeb.gif  (4089 OK, 621 queued)
+[2026-03-05 16:15:09]   [6315 d0*] http://www.AMASCI.COM/newname.html  (4094 OK, 616 queued)
+[2026-03-05 16:15:13]   [6320 d0*] http://www.AMASCI.COM/amateur/coolidx.html  (4099 OK, 611 queued)
+[2026-03-05 16:15:13]     +1 links (6932 total known)
+[2026-03-05 16:15:16]   [6325 d0*] http://www.AMASCI.COM/wing/wingwork.html  (4103 OK, 609 queued)
+[2026-03-05 16:15:20]   [6330 d0*] http://www.AMASCI.COM/filmstr/filmstr3.html  (4108 OK, 607 queued)
+[2026-03-05 16:15:20]     +1 links (6938 total known)
+[2026-03-05 16:15:25]   [6335 d0*] http://www.AMASCI.COM/miscon/globe2.html  (4113 OK, 605 queued)
+[2026-03-05 16:15:29]   [6340 d0*] http://www.AMASCI.COM/werid/humanIR.html  (4117 OK, 601 queued)
+[2026-03-05 16:15:33]   [6345 d0*] http://www.AMASCI.COM/graphics/echopen/pen_401.JPG  (4122 OK, 606 queued)
+[2026-03-05 16:15:44]   [6350 d0*] http://www.AMASCI.COM/graphics/echopen/pen_398.JPG  (4127 OK, 601 queued)
+[2026-03-05 16:15:52]   [6355 d0*] http://www.AMASCI.COM/pfi/index.html  (4132 OK, 596 queued)
+[2026-03-05 16:15:57]   [6360] 4136 OK, 2224 failed, 595 queued
+[2026-03-05 16:15:57]     last fail: http://www.AMASCI.COM/miscon/.html
+[2026-03-05 16:16:04]   [6365 d0*] http://www.AMASCI.COM/wsci  (4141 OK, 590 queued)
+[2026-03-05 16:16:07]   [6370 d0*] http://www.AMASCI.COM/freenrg/seapts.html"  (4145 OK, 595 queued)
+[2026-03-05 16:16:09]   [6375 d0*] http://www.AMASCI.COM/wsci/booksle7.doc  (4150 OK, 593 queued)
+[2026-03-05 16:16:14]   [6380 d0*] http://www.AMASCI.COM/dreamFeb2017.html  (4153 OK, 588 queued)
+[2026-03-05 16:16:14]     +2 links (6970 total known)
+[2026-03-05 16:16:19]   [6385 d0*] http://www.AMASCI.COM/weird/unusual/ufoc.JPG  (4158 OK, 587 queued)
+[2026-03-05 16:16:30]   [6395 d0*] http://www.AMASCI.COM/wing/airfoil  (4166 OK, 578 queued)
+[2026-03-05 16:16:34]   [6400 d0*] http://www.AMASCI.COM/amateur/sundogs.html  (4171 OK, 573 queued)
+[2026-03-05 16:16:39]   [6405 d0*] http://www.AMASCI.COM/emotor/negion.html  (4176 OK, 568 queued)
+[2026-03-05 16:16:43]   [6410 d0*] http://www.AMASCI.COM/maglev/maglev.html  (4179 OK, 567 queued)
+[2026-03-05 16:16:43]     +1 links (6978 total known)
+[2026-03-05 16:16:47]   [6415 d0*] http://www.AMASCI.COM/graphics/e-spray1.jpg  (4183 OK, 565 queued)
+[2026-03-05 16:16:54]   [6420 d0*] http://www.AMASCI.COM/graphics/wcamsm.gif  (4188 OK, 567 queued)
+[2026-03-05 16:16:59]   [6425 d0*] http://www.AMASCI.COM/emotor/zapped.html  (4193 OK, 562 queued)
+[2026-03-05 16:17:02]   [6430 d0*] http://www.AMASCI.COM/graphics/infrared/bag1VIS.jpeg  (4198 OK, 568 queued)
+[2026-03-05 16:17:04]   [6435 d0*] http://www.AMASCI.COM/graphics/abc.gif   (4203 OK, 563 queued)
+[2026-03-05 16:17:08]   [6440 d0*] http://amasci.com/freenrg/balllg1.html  (4208 OK, 580 queued)
+[2026-03-05 16:17:14]   [6445 d0*] http://amasci.com/freenrg/grav3.html  (4213 OK, 577 queued)
+[2026-03-05 16:17:20]   [6450 d0*] http://www.AMASCI.COM/freenrg/elgo2.html  (4217 OK, 573 queued)
+[2026-03-05 16:17:20]     +3 links (7026 total known)
+[2026-03-05 16:17:26]   [6455 d0*] http://amasci.com/freenrg/NEONDET.GIF  (4222 OK, 589 queued)
+[2026-03-05 16:17:32]   [6460 d0*] http://amasci.com/freenrg/neondet.txt  (4226 OK, 584 queued)
+[2026-03-05 16:17:39]   [6465 d0*] http://amasci.com/freenrg/magh20.html  (4231 OK, 579 queued)
+[2026-03-05 16:17:42]   [6470 d0*] http://amasci.com/freenrg/bedini.html  (4236 OK, 575 queued)
+[2026-03-05 16:17:42]     +1 links (7046 total known)
+[2026-03-05 16:17:45]   [6475 d0*] http://www.AMASCI.COM/amateur/rsmagnet.txt  (4241 OK, 572 queued)
+[2026-03-05 16:17:48]   [6480 d0*] http://www.AMASCI.COM/freenrg/neondet.txt  (4246 OK, 567 queued)
+[2026-03-05 16:17:50]   [6485 d0*] http://www.AMASCI.COM/weird/evexp.html  (4251 OK, 562 queued)
+[2026-03-05 16:17:57]   [6495 d0*] http://www.AMASCI.COM/amateur/magnerite.html  (4260 OK, 558 queued)
+[2026-03-05 16:18:01]   [6500 d0*] http://www.AMASCI.COM/miscon/coherenc.html  (4264 OK, 553 queued)
+[2026-03-05 16:18:10]   [6510 d0*] http://www.AMASCI.COM/sc/scifair.html  (4271 OK, 548 queued)
+[2026-03-05 16:18:10]     +10 links (7068 total known)
+[2026-03-05 16:18:21]   [6520] 4274 OK, 2246 failed, 552 queued
+[2026-03-05 16:18:21]     last fail: http://amasci.com/amateur/sc/scifair.html
+[2026-03-05 16:18:25]   [6525 d0*] http://www.AMASCI.COM/amateur/coilgen.html  (4276 OK, 547 queued)
+[2026-03-05 16:18:29]   [6530 d0*] http://www.AMASCI.COM/weird/vortex/tnews.txt  (4281 OK, 562 queued)
+[2026-03-05 16:18:38]   [6540 d0*] http://www.AMASCI.COM/freenrg/gravrep.txt  (4287 OK, 555 queued)
+[2026-03-05 16:18:43]   [6545 d0*] http://www.AMASCI.COM/weird/vortex/ref2.txt  (4291 OK, 552 queued)
+[2026-03-05 16:18:46]   [6550 d0*] http://www.AMASCI.COM/weird/antigrav/antigrav2.html  (4295 OK, 548 queued)
+[2026-03-05 16:18:46]     +1 links (7099 total known)
+[2026-03-05 16:18:49]   [6555 d0*] http://www.AMASCI.COM/supliers.html  (4300 OK, 544 queued)
+[2026-03-05 16:18:54]   [6560 d0*] http://www.AMASCI.COM/unew.css  (4303 OK, 544 queued)
+[2026-03-05 16:18:58]   [6565 d0*] http://www.AMASCI.COM/heat.txt  (4307 OK, 543 queued)
+[2026-03-05 16:19:07]   [6575 d0*] http://www.AMASCI.COM/amateur/physvids.html  (4315 OK, 538 queued)
+[2026-03-05 16:19:09]   [6580 d0*] http://www.AMASCI.COM/physvids/3.html  (4320 OK, 554 queued)
+[2026-03-05 16:19:12]   [6585 d0*] http://www.AMASCI.COM/physvids/17.html  (4325 OK, 550 queued)
+[2026-03-05 16:19:15]   [6590 d0*] http://www.AMASCI.COM/physvids/12.html  (4329 OK, 546 queued)
+[2026-03-05 16:19:17]   [6595 d0*] http://www.AMASCI.COM/physvids/18.html  (4334 OK, 541 queued)
+[2026-03-05 16:19:21]   [6600 d0*] http://www.AMASCI.COM/sc/kidproj1.html  (4339 OK, 536 queued)
+[2026-03-05 16:19:21]     +2 links (7138 total known)
+[2026-03-05 16:19:25]   [6605 d0*] http://www.AMASCI.COM/amateur/anim.html  (4343 OK, 535 queued)
+[2026-03-05 16:19:29]   [6610 d0*] http://www.AMASCI.COM/emotor/emot1.html  (4347 OK, 534 queued)
+[2026-03-05 16:19:29]     +4 links (7148 total known)
+[2026-03-05 16:19:35]   [6615 d0*] http://www.AMASCI.COM/emotor/sbotlm1.html  (4351 OK, 533 queued)
+[2026-03-05 16:19:40]   [6620 d0*] http://www.AMASCI.COM/sitemap.html  (4356 OK, 531 queued)
+[2026-03-05 16:19:40]     +6 links (7157 total known)
+[2026-03-05 16:19:45]   [6625 d0*] http://www.AMASCI.COM/emotor/dulcu.html  (4361 OK, 533 queued)
+[2026-03-05 16:19:49]   [6630 d0*] http://www.AMASCI.COM/weird/wpara.html  (4366 OK, 530 queued)
+[2026-03-05 16:19:54]   [6635 d0*] http://www.AMASCI.COM/freenrg/N_MACH2.GIF  (4371 OK, 538 queued)
+[2026-03-05 16:19:59]   [6640 d0*] http://www.AMASCI.COM/graphics/nmchcyl1.gif  (4375 OK, 533 queued)
+[2026-03-05 16:20:07]   [6645 d0*] http://www.AMASCI.COM/freenrg/N_MACH1.GIF  (4380 OK, 528 queued)
+[2026-03-05 16:20:16]   [6655 d0*] http://www.amasci.com/hum/humrpt2.html  (4385 OK, 518 queued)
+[2026-03-05 16:20:20]   [6660] 4385 OK, 2275 failed, 523 queued
+[2026-03-05 16:20:20]     last fail: http://www.amasci.com/hum/John K
+[2026-03-05 16:20:31]   [6670 d0*] http://amasci.com/emotor/electoph.txt  (4388 OK, 513 queued)
+[2026-03-05 16:20:34]   [6675 d0*] http://amasci.com/stats/space.gif  (4391 OK, 511 queued)
+[2026-03-05 16:20:39]   [6680] 4392 OK, 2288 failed, 506 queued
+[2026-03-05 16:20:39]     last fail: http://amasci.com/stats/v_email_stats.cgi?a=62352461&p=
+[2026-03-05 16:20:43]   [6685 d0*] http://www.amasci.com/wing/smring.html  (4394 OK, 503 queued)
+[2026-03-05 16:20:52]   [6695 d0*] http://www.amasci.com/amateur/?M=A  (4402 OK, 497 queued)
+[2026-03-05 16:20:57]   [6700] 4404 OK, 2296 failed, 492 queued
+[2026-03-05 16:20:57]     last fail: http://amasci.com/stats/ar_time.cgi?a=62352461&p=
+[2026-03-05 16:21:08]   [6715 d0*] http://www.amasci.com/amateur/traffic1/gcsweb.gif  (4413 OK, 499 queued)
+[2026-03-05 16:21:11]   [6720 d0*] http://www.amasci.com/amateur/traffic1/links.html  (4416 OK, 496 queued)
+[2026-03-05 16:21:14]   [6725 d0*] http://www.amasci.com/amateur/traffic1/twlite1.gif  (4421 OK, 491 queued)
+[2026-03-05 16:21:17]   [6730 d0*] http://www.amasci.com/emotor/emotr2.gif  (4424 OK, 492 queued)
+[2026-03-05 16:21:25]   [6740] 4429 OK, 2311 failed, 482 queued
+[2026-03-05 16:21:25]     last fail: http://amasci.com/stats/v_ed_arch.cgi?a=62352461&p=
+[2026-03-05 16:21:29]   [6745 d0*] http://www.amasci.com/freenrg/rapr.html  (4434 OK, 483 queued)
+[2026-03-05 16:21:40]   [6760 d0*] http://amasci.com/elect/livescribe.html  (4440 OK, 468 queued)
+[2026-03-05 16:21:40]     +10 links (7238 total known)
+[2026-03-05 16:21:43]   [6765 d0*] http://amasci.com/graphics/echopen/pen_407.JPG  (4445 OK, 473 queued)
+[2026-03-05 16:21:45]   [6770 d0*] http://amasci.com/graphics/echopen/pen_401.JPG  (4450 OK, 468 queued)
+[2026-03-05 16:21:48]   [6775 d0*] http://amasci.com/weird/unusual/rule10.gif  (4454 OK, 466 queued)
+[2026-03-05 16:21:51]   [6780 d0*] http://amasci.com/spam.html  (4459 OK, 464 queued)
+[2026-03-05 16:21:53]   [6785 d0*] http://amasci.com/graphics/microtb.jpg  (4464 OK, 459 queued)
+[2026-03-05 16:21:56]   [6790 d0*] http://amasci.com/coilgen/  (4469 OK, 455 queued)
+[2026-03-05 16:21:59]   [6795 d0*] http://amasci.com/tesla/howgenius.html  (4473 OK, 451 queued)
+[2026-03-05 16:22:02]   [6800 d0*] http://amasci.com/pfi/index.html  (4478 OK, 446 queued)
+[2026-03-05 16:22:04]   [6805 d0*] http://amasci.com/filmstr/filmstr4.html  (4483 OK, 444 queued)
+[2026-03-05 16:22:07]   [6810 d0*] http://amasci.com/graphics/skull3.jpg  (4487 OK, 446 queued)
+[2026-03-05 16:22:10]   [6815 d0*] http://amasci.com/miscon/globe2.html  (4492 OK, 441 queued)
+[2026-03-05 16:22:12]   [6820 d0*] http://amasci.com/stats/stats.html  (4497 OK, 436 queued)
+[2026-03-05 16:22:15]   [6825 d0*] http://amasci.com/amateur/alt_sci_amateur.html  (4502 OK, 431 queued)
+[2026-03-05 16:22:17]   [6830 d0*] http://amasci.com/wsci  (4507 OK, 426 queued)
+[2026-03-05 16:22:17]     +3 links (7259 total known)
+[2026-03-05 16:22:22]   [6835 d0*] http://amasci.com/tesla/ballgitn.html  (4509 OK, 424 queued)
+[2026-03-05 16:22:24]   [6840 d0*] http://amasci.com/tesla/balligntn.txt  (4514 OK, 426 queued)
+[2026-03-05 16:22:28]   [6845 d0*] http://amasci.com/sci-list/sci-list.html  (4517 OK, 422 queued)
+[2026-03-05 16:22:30]   [6850 d0*] http://www.amasci.com/freenrg/plasbang.html  (4522 OK, 417 queued)
+[2026-03-05 16:22:33]   [6855 d0*] http://www.amasci.com/freenrg/spred1.txt  (4527 OK, 414 queued)
+[2026-03-05 16:22:35]   [6860 d0*] http://www.amasci.com/freenrg/antichirp.html  (4532 OK, 411 queued)
+[2026-03-05 16:22:38]   [6865 d0*] http://www.amasci.com/freenrg/subtlg.html  (4537 OK, 406 queued)
+[2026-03-05 16:22:40]   [6870 d0*] http://www.amasci.com/tesla/Tap_Drill_Chart.html  (4542 OK, 402 queued)
+[2026-03-05 16:22:43]   [6875 d0*] http://www.amasci.com/freenrg/chevron.gif  (4547 OK, 410 queued)
+[2026-03-05 16:22:46]   [6880 d0*] http://www.amasci.com/freenrg/NFIELD2.GIF  (4551 OK, 405 queued)
+[2026-03-05 16:22:48]   [6885 d0*] http://www.amasci.com/freenrg/minto.html  (4556 OK, 400 queued)
+[2026-03-05 16:22:51]   [6890 d0*] http://www.amasci.com/  (4561 OK, 396 queued)
+[2026-03-05 16:22:54]   [6895 d0*] http://www.amasci.com/amateur/antibub/anti12.gif  (4566 OK, 403 queued)
+[2026-03-05 16:22:56]   [6900 d0*] http://www.amasci.com/amateur/antibub/anti7.gif  (4571 OK, 398 queued)
+[2026-03-05 16:22:59]   [6905 d0*] http://www.amasci.com/amateur/antibub/anti13.gif  (4576 OK, 393 queued)
+[2026-03-05 16:23:01]   [6910 d0*] http://www.amasci.com/viselect/vedemos.html  (4581 OK, 397 queued)
+[2026-03-05 16:23:04]   [6915 d0*] http://www.amasci.com/viselect/comppcb.gif  (4586 OK, 392 queued)
+[2026-03-05 16:23:06]   [6920 d0*] http://www.amasci.com/hum/adetect.txt  (4591 OK, 410 queued)
+[2026-03-05 16:23:09]   [6925 d0*] http://www.amasci.com/hum/humbkg.txt  (4596 OK, 405 queued)
+[2026-03-05 16:23:11]   [6930 d0*] http://www.amasci.com/hum/oldmsgs.txt  (4601 OK, 400 queued)
+[2026-03-05 16:23:14]   [6935 d0*] http://www.amasci.com/hum/avebury5.wav  (4605 OK, 395 queued)
+[2026-03-05 16:23:17]   [6940 d0*] http://www.amasci.com/hum/hill1.gif  (4610 OK, 390 queued)
+[2026-03-05 16:23:19]   [6945 d0*] http://www.amasci.com/freenrg/h2oblast.html  (4615 OK, 387 queued)
+[2026-03-05 16:23:22]   [6950 d0*] http://www.amasci.com/scied.html  (4620 OK, 384 queued)
+[2026-03-05 16:23:22]     +6 links (7340 total known)
+[2026-03-05 16:23:24]   [6955 d0*] http://www.amasci.com/me.tml  (4625 OK, 389 queued)
+[2026-03-05 16:23:28]   [6960] 4629 OK, 2331 failed, 385 queued
+[2026-03-05 16:23:28]     last fail: http://www.amasci.com/amateur/laser101ways.pdf
+[2026-03-05 16:23:31]   [6965 d0*] http://www.amasci.com/freenrg/hubbard1.txt  (4634 OK, 386 queued)
+[2026-03-05 16:23:33]   [6970 d0*] http://www.amasci.com/freenrg/ideas.html  (4639 OK, 381 queued)
+[2026-03-05 16:23:37]   [6975 d0*] http://www.amasci.com/emotor/emotor.html  (4642 OK, 377 queued)
+[2026-03-05 16:23:39]   [6980 d0*] http://www.amasci.com/emotor/tvgen.html  (4647 OK, 377 queued)
+[2026-03-05 16:23:42]   [6985 d0*] http://www.amasci.com/miscon/nitpik.html  (4650 OK, 374 queued)
+[2026-03-05 16:23:45]   [6990 d0*] http://www.amasci.com/emotor/vdg1.html  (4654 OK, 371 queued)
+[2026-03-05 16:23:45]     +7 links (7368 total known)
+[2026-03-05 16:23:48]   [6995 d0*] http://www.amasci.com/emotor/roller.txt  (4659 OK, 373 queued)
+[2026-03-05 16:23:51]   [7000 d0*] http://www.amasci.com/amateur/coolidx.html  (4663 OK, 370 queued)
+[2026-03-05 16:23:51]     +1 links (7371 total known)
+[2026-03-05 16:23:53]   [7005 d0*] http://www.amasci.com/scilists.html  (4668 OK, 366 queued)
+[2026-03-05 16:23:56]   [7010 d0*] http://www.amasci.com/miscon/myths10.html  (4672 OK, 363 queued)
+[2026-03-05 16:23:59]   [7015 d0*] http://www.amasci.com/emotor/dulcu.html  (4677 OK, 364 queued)
+[2026-03-05 16:24:01]   [7020 d0*] http://www.amasci.com/miscon/rfig9.gif  (4682 OK, 371 queued)
+[2026-03-05 16:24:04]   [7025 d0*] http://www.amasci.com/miscon/rfig1.gif  (4687 OK, 366 queued)
+[2026-03-05 16:24:06]   [7030 d0*] http://www.amasci.com/miscon/rfig6.gif  (4692 OK, 361 queued)
+[2026-03-05 16:24:12]   [7040 d0*] http://www.amasci.com/emotor/stmiscon.htmlr  (4700 OK, 356 queued)
+[2026-03-05 16:24:15]   [7045 d0*] http://www.amasci.com/graphics/argon/full1st01.mpg  (4705 OK, 360 queued)
+[2026-03-05 16:24:18]   [7050 d0*] http://www.amasci.com/graphics/argon/full01.jpg  (4710 OK, 355 queued)
+[2026-03-05 16:24:20]   [7055 d0*] http://www.amasci.com/freenrg/huff.html   (4715 OK, 370 queued)
+[2026-03-05 16:24:23]   [7060 d0*] http://www.amasci.com/weird/main.css  (4720 OK, 366 queued)
+[2026-03-05 16:24:25]   [7065 d0*] http://www.amasci.com/weird/wsmot.html  (4725 OK, 361 queued)
+[2026-03-05 16:24:28]   [7070 d0*] http://www.amasci.com/weird2/vtx  (4730 OK, 356 queued)
+[2026-03-05 16:24:28]     +1223 links (8649 total known)
+[2026-03-05 16:24:37]   [7080] 4730 OK, 2350 failed, 1569 queued
+[2026-03-05 16:24:37]     last fail: http://www.amasci.com/weird2/3D"http:/youtu.be/=
+[2026-03-05 16:24:55]   [7100] 4730 OK, 2370 failed, 1549 queued
+[2026-03-05 16:24:55]     last fail: http://www.amasci.com/weird2/3D"https:/www.reddit.c=
+[2026-03-05 16:25:15]   [7120] 4730 OK, 2390 failed, 1529 queued
+[2026-03-05 16:25:15]     last fail: http://www.amasci.com/weird2/3D"https:/www.youtube.com/watch?v=3DBn41nPOGq-U"
+[2026-03-05 16:25:35]   [7140] 4730 OK, 2410 failed, 1509 queued
+[2026-03-05 16:25:35]     last fail: http://www.amasci.com/weird2/3D"https:/www.lenr-canr.org=
+[2026-03-05 16:25:57]   [7160] 4730 OK, 2430 failed, 1489 queued
+[2026-03-05 16:25:57]     last fail: http://www.amasci.com/weird2/3D"https:/www.thedesertreview.com/news/b=
+[2026-03-05 16:26:20]   [7180] 4730 OK, 2450 failed, 1469 queued
+[2026-03-05 16:26:20]     last fail: http://www.amasci.com/weird2/3D"mailto:m=
+[2026-03-05 16:26:43]   [7200] 4730 OK, 2470 failed, 1449 queued
+[2026-03-05 16:26:43]     last fail: http://www.amasci.com/weird2/3D"https:/www.georgiapower.com/residential/billing-=
+[2026-03-05 16:27:04]   [7220] 4730 OK, 2490 failed, 1429 queued
+[2026-03-05 16:27:04]     last fail: http://www.amasci.com/weird2/3D"https:/www.lenr-canr.org/acrobat/BiberianJPjcondensedzi.=
+[2026-03-05 16:27:22]   [7240] 4730 OK, 2510 failed, 1409 queued
+[2026-03-05 16:27:22]     last fail: http://www.amasci.com/weird2/3D"https:/www.nytimes.com/2023/08/15/science/retractio=
+[2026-03-05 16:27:44]   [7260] 4730 OK, 2530 failed, 1389 queued
+[2026-03-05 16:27:44]     last fail: http://www.amasci.com/weird2/3D"https:/www.researchgate.net/post/An_old_question_that_is=
+[2026-03-05 16:28:02]   [7280] 4730 OK, 2550 failed, 1369 queued
+[2026-03-05 16:28:02]     last fail: http://www.amasci.com/weird2/3D"https:/en.wikipedia.org/wiki/The_Adolescence_of=
+[2026-03-05 16:28:23]   [7300] 4730 OK, 2570 failed, 1349 queued
+[2026-03-05 16:28:23]     last fail: http://www.amasci.com/weird2/3D"https:/physics.stacke=
+[2026-03-05 16:28:48]   [7320] 4730 OK, 2590 failed, 1329 queued
+[2026-03-05 16:28:48]     last fail: http://www.amasci.com/weird2/3D"https:/www.youtube.com/watch?v=3DDs-scY9qESE"
+[2026-03-05 16:29:07]   [7340] 4730 OK, 2610 failed, 1309 queued
+[2026-03-05 16:29:07]     last fail: http://www.amasci.com/weird2/3D"https:/www.gea.com/en/asset=
+[2026-03-05 16:29:26]   [7360] 4730 OK, 2630 failed, 1289 queued
+[2026-03-05 16:29:26]     last fail: http://www.amasci.com/weird2/3D"https:/=
+[2026-03-05 16:29:45]   [7380] 4730 OK, 2650 failed, 1269 queued
+[2026-03-05 16:29:45]     last fail: http://www.amasci.com/weird2/3D"https:/www.lenr-canr.org/acrobat/RothwellJhowtofixgl.pdf"
+[2026-03-05 16:30:04]   [7400] 4730 OK, 2670 failed, 1249 queued
+[2026-03-05 16:30:04]     last fail: http://www.amasci.com/weird2/3D"mailto:mixent.1=
+[2026-03-05 16:30:27]   [7420] 4730 OK, 2690 failed, 1229 queued
+[2026-03-05 16:30:27]     last fail: http://www.amasci.com/weird2/3D"https:/www.youtube.com=
+[2026-03-05 16:30:47]   [7440] 4730 OK, 2710 failed, 1209 queued
+[2026-03-05 16:30:47]     last fail: http://www.amasci.com/weird2/=3D"https:/arxiv.org/abs/2307.12008?s=3D09"
+[2026-03-05 16:31:04]   [7460] 4730 OK, 2730 failed, 1189 queued
+[2026-03-05 16:31:04]     last fail: http://www.amasci.com/weird2/3D"https:/archive.ph/7w21x"
+[2026-03-05 16:31:26]   [7480] 4730 OK, 2750 failed, 1169 queued
+[2026-03-05 16:31:26]     last fail: http://www.amasci.com/weird2/3D"https:/www.youtube.com/watch?v=3Da=
+[2026-03-05 16:31:43]   [7500] 4730 OK, 2770 failed, 1149 queued
+[2026-03-05 16:31:43]     last fail: http://www.amasci.com/weird2/3D"mailto:mules333@g=
+[2026-03-05 16:32:03]   [7520] 4730 OK, 2790 failed, 1129 queued
+[2026-03-05 16:32:03]     last fail: http://www.amasci.com/weird2/3D"mailto:mixent.19@aussiebroadband.com.=
+[2026-03-05 16:32:26]   [7540] 4730 OK, 2810 failed, 1109 queued
+[2026-03-05 16:32:26]     last fail: http://www.amasci.com/weird2/3D"http:/=
+[2026-03-05 16:32:48]   [7560] 4730 OK, 2830 failed, 1089 queued
+[2026-03-05 16:32:48]     last fail: http://www.amasci.com/weird2/3D"http:/www22.pair.com/csdc/car/carfre3.htm"
+[2026-03-05 16:33:07]   [7580] 4730 OK, 2850 failed, 1069 queued
+[2026-03-05 16:33:07]     last fail: http://www.amasci.com/weird2/=3D"mailto:stefan.itampe@gmail.com"
+[2026-03-05 16:33:28]   [7600] 4730 OK, 2870 failed, 1049 queued
+[2026-03-05 16:33:28]     last fail: http://www.amasci.com/weird2/3D"https:/www.sci=
+[2026-03-05 16:33:48]   [7620] 4730 OK, 2890 failed, 1029 queued
+[2026-03-05 16:33:48]     last fail: http://www.amasci.com/weird2/3D"https:/www.tiktok.com/@draw_my_t=
+[2026-03-05 16:34:09]   [7640] 4730 OK, 2910 failed, 1009 queued
+[2026-03-05 16:34:09]     last fail: http://www.amasci.com/weird2/3D"https:/www.nironmagnetics.com/"=
+[2026-03-05 16:34:30]   [7660] 4730 OK, 2930 failed, 989 queued
+[2026-03-05 16:34:30]     last fail: http://www.amasci.com/weird2/3D"https:/youtu.be/88=
+[2026-03-05 16:34:51]   [7680] 4730 OK, 2950 failed, 969 queued
+[2026-03-05 16:34:51]     last fail: http://www.amasci.com/weird2/3D"https:/archive.ph/o/YlYcK/https:/j=
+[2026-03-05 16:35:12]   [7700] 4730 OK, 2970 failed, 949 queued
+[2026-03-05 16:35:12]     last fail: http://www.amasci.com/weird2/3D"mailto:mixent.19@aussiebroadba=
+[2026-03-05 16:35:30]   [7720] 4730 OK, 2990 failed, 929 queued
+[2026-03-05 16:35:30]     last fail: http://www.amasci.com/weird2/3D"https:/icann.org/epp
+[2026-03-05 16:35:54]   [7740] 4730 OK, 3010 failed, 909 queued
+[2026-03-05 16:35:54]     last fail: http://www.amasci.com/weird2/3D"mailto:mules333@gma=
+[2026-03-05 16:36:14]   [7760] 4730 OK, 3030 failed, 889 queued
+[2026-03-05 16:36:14]     last fail: http://www.amasci.com/weird2/3D"http:/www.sciencedirect.com/science/journal=
+[2026-03-05 16:36:32]   [7780] 4730 OK, 3050 failed, 869 queued
+[2026-03-05 16:36:32]     last fail: http://www.amasci.com/weird2/3D"https:/patentimages=
+[2026-03-05 16:36:54]   [7800] 4730 OK, 3070 failed, 849 queued
+[2026-03-05 16:36:54]     last fail: http://www.amasci.com/weird2/3D"https:/en.wikipedia.org/wiki/Help:IPA/English"
+[2026-03-05 16:37:18]   [7820] 4730 OK, 3090 failed, 829 queued
+[2026-03-05 16:37:18]     last fail: http://www.amasci.com/weird2/3D"https:/holcombenergysystems.com/about-us/the=
+[2026-03-05 16:37:39]   [7840] 4730 OK, 3110 failed, 809 queued
+[2026-03-05 16:37:39]     last fail: http://www.amasci.com/weird2/=3D"https:/iopscience.iop.org/article/10.1088/1367-2630/ad091c"
+[2026-03-05 16:38:01]   [7860] 4730 OK, 3130 failed, 789 queued
+[2026-03-05 16:38:01]     last fail: http://www.amasci.com/weird2/3D"http:/lazerah.com"
+[2026-03-05 16:38:22]   [7880] 4730 OK, 3150 failed, 769 queued
+[2026-03-05 16:38:22]     last fail: http://www.amasci.com/weird2/3D"mailto:mixent.19@aussiebroadband.com.au"=
+[2026-03-05 16:38:46]   [7900] 4730 OK, 3170 failed, 749 queued
+[2026-03-05 16:38:46]     last fail: http://www.amasci.com/weird2/3D"https:/www.youtube.com/watch?v=3D3XBL9KlVoYE"=
+[2026-03-05 16:39:08]   [7920] 4730 OK, 3190 failed, 729 queued
+[2026-03-05 16:39:08]     last fail: http://www.amasci.com/weird2/3D"https:/en.wikipedia.org/wiki/News_media"
+[2026-03-05 16:39:27]   [7940] 4730 OK, 3210 failed, 709 queued
+[2026-03-05 16:39:27]     last fail: http://www.amasci.com/weird2/=3D"https:/iai.tv/articles/the-big-bang-didnt-happen-auid-2215"
+[2026-03-05 16:39:46]   [7960] 4730 OK, 3230 failed, 689 queued
+[2026-03-05 16:39:46]     last fail: http://www.amasci.com/weird2/3D"https:/www.youtube.com/watch?v=3DQCX62YJCmGk"
+[2026-03-05 16:40:10]   [7980] 4730 OK, 3250 failed, 669 queued
+[2026-03-05 16:40:10]     last fail: http://www.amasci.com/weird2/3D"https:/www.msn.com/en-us/news/technology/human=
+[2026-03-05 16:40:32]   [8000] 4730 OK, 3270 failed, 649 queued
+[2026-03-05 16:40:32]     last fail: http://www.amasci.com/weird2/3D"https:/lenr-canr.org/acrob=
+[2026-03-05 16:40:53]   [8020] 4730 OK, 3290 failed, 629 queued
+[2026-03-05 16:40:53]     last fail: http://www.amasci.com/weird2/3D"https:/en.wikipedia.org/wiki/Help:Pronunciati=
+[2026-03-05 16:41:13]   [8040] 4730 OK, 3310 failed, 609 queued
+[2026-03-05 16:41:13]     last fail: http://www.amasci.com/weird2/3D"https:/theconvers=
+[2026-03-05 16:41:32]   [8060] 4730 OK, 3330 failed, 589 queued
+[2026-03-05 16:41:32]     last fail: http://www.amasci.com/weird2/3D"https:/iopscien=
+[2026-03-05 16:41:52]   [8080] 4730 OK, 3350 failed, 569 queued
+[2026-03-05 16:41:52]     last fail: http://www.amasci.com/weird2/3D"mailto:jonesb9@pacbell.n=
+[2026-03-05 16:42:15]   [8100] 4730 OK, 3370 failed, 549 queued
+[2026-03-05 16:42:15]     last fail: http://www.amasci.com/weird2/3D"https:/na=
+[2026-03-05 16:42:36]   [8120] 4730 OK, 3390 failed, 529 queued
+[2026-03-05 16:42:36]     last fail: http://www.amasci.com/weird2/3D"mailto:hoh=
+[2026-03-05 16:42:59]   [8140] 4730 OK, 3410 failed, 509 queued
+[2026-03-05 16:42:59]     last fail: http://www.amasci.com/weird2/3D"mailto:vor=
+[2026-03-05 16:43:18]   [8160] 4730 OK, 3430 failed, 489 queued
+[2026-03-05 16:43:18]     last fail: http://www.amasci.com/weird2/3D"https:/arpa-e.energy.gov/sites/default/files/docume=
+[2026-03-05 16:43:37]   [8180] 4730 OK, 3450 failed, 469 queued
+[2026-03-05 16:43:37]     last fail: http://www.amasci.com/weird2/3D"mailto:vortex-l@eskimo.=
+[2026-03-05 16:43:58]   [8200] 4730 OK, 3470 failed, 449 queued
+[2026-03-05 16:43:58]     last fail: http://www.amasci.com/weird2/3D"https:/www.eia.gov/energyexplained/electri=
+[2026-03-05 16:44:17]   [8220] 4730 OK, 3490 failed, 429 queued
+[2026-03-05 16:44:17]     last fail: http://www.amasci.com/weird2/3D"https:/thejournalofc=
+[2026-03-05 16:44:41]   [8240] 4730 OK, 3510 failed, 409 queued
+[2026-03-05 16:44:41]     last fail: http://www.amasci.com/weird2/3D"https:/en.wikipedia.org/wiki/Stanislavski%27s_syst=
+[2026-03-05 16:45:04]   [8260] 4730 OK, 3530 failed, 389 queued
+[2026-03-05 16:45:04]     last fail: http://www.amasci.com/weird2/3D"mailto:jonathanberry3=
+[2026-03-05 16:45:24]   [8280] 4730 OK, 3550 failed, 369 queued
+[2026-03-05 16:45:24]     last fail: http://www.amasci.com/weird2/3D"https:/en.wikipedia.org/wiki/Stillman_Drake"
+[2026-03-05 16:45:38]   [8295 d0*] http://www.amasci.com/amatuer/wirbel.html  (4732 OK, 354 queued)
+[2026-03-05 16:45:41]   [8300] 4736 OK, 3564 failed, 355 queued
+[2026-03-05 16:45:41]     last fail: http://www.amasci.com/scifair/1304 Stockton Road
+[2026-03-05 16:45:47]   [8310 d0*] http://www.amasci.com/amateur/neospher.html  (4741 OK, 348 queued)
+[2026-03-05 16:45:50]   [8315 d0*] http://www.amasci.com/freenrg/tors/  (4746 OK, 344 queued)
+[2026-03-05 16:45:52]   [8320 d0*] http://www.amasci.com/freenrg/tors/drblc.jpg  (4751 OK, 369 queued)
+[2026-03-05 16:45:55]   [8325 d0*] http://www.amasci.com/freenrg/tors/fig5.jpg  (4756 OK, 367 queued)
+[2026-03-05 16:45:57]   [8330 d0*] http://www.amasci.com/freenrg/bajak1.txt  (4761 OK, 363 queued)
+[2026-03-05 16:46:00]   [8335 d0*] http://www.amasci.com/freenrg/tors/pes1.html  (4766 OK, 358 queued)
+[2026-03-05 16:46:03]   [8340 d0*] http://www.amasci.com/freenrg/timeflo1.html  (4770 OK, 357 queued)
+[2026-03-05 16:46:03]     +1 links (8698 total known)
+[2026-03-05 16:46:05]   [8345 d0*] http://www.amasci.com/greb/Grebennikov/7s1.jpg  (4775 OK, 392 queued)
+[2026-03-05 16:46:08]   [8350 d0*] http://www.amasci.com/greb/Grebennikov/5s1.jpg  (4780 OK, 387 queued)
+[2026-03-05 16:46:11]   [8355 d0*] http://www.amasci.com/greb/Grebennikov/otkos.jpg  (4785 OK, 382 queued)
+[2026-03-05 16:46:13]   [8360 d0*] http://www.amasci.com/greb/Grebennikov/6s1.jpg  (4790 OK, 377 queued)
+[2026-03-05 16:46:17]   [8365 d0*] http://www.amasci.com/greb/Grebennikov/14s.jpg  (4794 OK, 372 queued)
+[2026-03-05 16:46:19]   [8370 d0*] http://www.amasci.com/greb/Grebennikov/8s.jpg  (4799 OK, 367 queued)
+[2026-03-05 16:46:22]   [8375 d0*] http://www.amasci.com/greb/Grebennikov/5s2.jpg  (4804 OK, 362 queued)
+[2026-03-05 16:46:25]   [8380 d0*] http://www.amasci.com/greb/Grebennikov/237b.gif  (4809 OK, 357 queued)
+[2026-03-05 16:46:27]   [8385 d0*] http://www.amasci.com/freenrg/galli1.txt  (4814 OK, 352 queued)
+[2026-03-05 16:46:30]   [8390 d0*] http://www.amasci.com/freenrg/pyrexp1.html  (4819 OK, 347 queued)
+[2026-03-05 16:46:32]   [8395 d0*] http://www.amasci.com/amateur/pinhole.html  (4824 OK, 342 queued)
+[2026-03-05 16:46:35]   [8400] 4827 OK, 3573 failed, 350 queued
+[2026-03-05 16:46:35]     last fail: http://www.amasci.com/amateur/sc/scifair.html
+[2026-03-05 16:46:39]   [8405 d0*] http://www.amasci.com/elehob/elehob3.html  (4828 OK, 345 queued)
+[2026-03-05 16:46:46]   [8415 d0*] http://www.amasci.com/emotor/humid.html  (4835 OK, 339 queued)
+[2026-03-05 16:46:48]   [8420 d0*] http://www.amasci.com/faq.html  (4840 OK, 334 queued)
+[2026-03-05 16:46:51]   [8425 d0*] http://www.amasci.com/museum.html  (4845 OK, 329 queued)
+[2026-03-05 16:46:54]   [8430 d0*] http://www.amasci.com/esloud/eslhwto.html  (4849 OK, 326 queued)
+[2026-03-05 16:46:56]   [8435 d0*] http://www.amasci.com/weird/unusual/airthred.html  (4853 OK, 321 queued)
+[2026-03-05 16:46:59]   [8440 d0*] http://www.amasci.com/weird/unusual/whtrngl2.gif  (4858 OK, 326 queued)
+[2026-03-05 16:47:02]   [8445 d0*] http://www.amasci.com/weird/unusual/longthr2.gif  (4863 OK, 323 queued)
+[2026-03-05 16:47:04]   [8450 d0*] http://www.amasci.com/emotor/vdgdemo.html  (4868 OK, 319 queued)
+[2026-03-05 16:47:04]     +1 links (8770 total known)
+[2026-03-05 16:47:07]   [8455 d0*] http://www.amasci.com/surplus/surpopt.html  (4873 OK, 315 queued)
+[2026-03-05 16:47:10]   [8460 d0*] http://www.amasci.com/weird/wclose.html  (4876 OK, 313 queued)
+[2026-03-05 16:47:12]   [8465 d0*] http://www.amasci.com/stats/idbylink.html  (4881 OK, 313 queued)
+[2026-03-05 16:47:26]   [8480] 4883 OK, 3597 failed, 329 queued
+[2026-03-05 16:47:26]     last fail: http://www.amasci.com/stats/new.cgi?a=62352461&p=missing
+[2026-03-05 16:47:45]   [8500] 4885 OK, 3615 failed, 332 queued
+[2026-03-05 16:47:45]     last fail: http://www.amasci.com/stats/browser.cgi?a=62352461&p=
+[2026-03-05 16:48:04]   [8520] 4885 OK, 3635 failed, 312 queued
+[2026-03-05 16:48:04]     last fail: http://www.amasci.com/stats/new.cgi?a=62352461&p=
+[2026-03-05 16:48:08]   [8525 d0*] http://www.amasci.com/stats/arbypag2.html  (4888 OK, 309 queued)
+[2026-03-05 16:48:11]   [8530 d0*] http://www.amasci.com/graphics/moore2.jpg  (4890 OK, 309 queued)
+[2026-03-05 16:48:20]   [8540] 4893 OK, 3647 failed, 314 queued
+[2026-03-05 16:48:20]     last fail: http://www.amasci.com/elect/elect/coil4.gif
+[2026-03-05 16:48:32]   [8550 d0*] http://www.amasci.com/emotor/vdgtame.html  (4894 OK, 304 queued)
+[2026-03-05 16:48:32]     +1 links (8855 total known)
+[2026-03-05 16:48:35]   [8555 d0*] http://www.amasci.com/emotor/scifirst.html  (4899 OK, 300 queued)
+[2026-03-05 16:48:37]   [8560 d0*] http://www.amasci.com/maglev/magschem.gif  (4904 OK, 297 queued)
+[2026-03-05 16:48:40]   [8565 d0*] http://www.amasci.com/amateur/irgoggl.html  (4909 OK, 292 queued)
+[2026-03-05 16:48:42]   [8570 d0*] http://www.amasci.com/miscon/fund.html  (4914 OK, 291 queued)
+[2026-03-05 16:48:45]   [8575 d0*] http://www.amasci.com/graphics/klvwatr.gif"  (4919 OK, 291 queued)
+[2026-03-05 16:48:48]   [8580 d0*] http://www.amasci.com/weird.html  (4924 OK, 286 queued)
+[2026-03-05 16:48:50]   [8585 d0*] http://www.amasci.com/amateur/sundog.html  (4929 OK, 282 queued)
+[2026-03-05 16:49:00]   [8600 d0*] http://www.amasci.com/elect/poynt/figa.gif  (4939 OK, 287 queued)
+[2026-03-05 16:49:02]   [8605 d0*] http://www.amasci.com/graphics/kraus_poynt.gif  (4944 OK, 282 queued)
+[2026-03-05 16:49:05]   [8610 d0*] http://www.amasci.com/tesla/tes1.html  (4949 OK, 277 queued)
+[2026-03-05 16:49:05]     +1 links (8888 total known)
+[2026-03-05 16:49:07]   [8615 d0*] http://www.amasci.com/amateur/dscope2.gif  (4954 OK, 277 queued)
+[2026-03-05 16:49:10]   [8620 d0*] http://www.amasci.com/emotor/enCap.html  (4959 OK, 276 queued)
+[2026-03-05 16:49:12]   [8625 d0*] http://www.amasci.com/amateur/feyn.gif  (4964 OK, 273 queued)
+[2026-03-05 16:49:15]   [8630 d0*] http://www.amasci.com/graphics/qshrnk.jpg  (4968 OK, 273 queued)
+[2026-03-05 16:49:18]   [8635 d0*] http://www.amasci.com/elect/charge1.html  (4972 OK, 269 queued)
+[2026-03-05 16:49:21]   [8640 d0*] http://www.amasci.com/weird/wsotw.html  (4977 OK, 266 queued)
+[2026-03-05 16:49:21]     +3 links (8909 total known)
+[2026-03-05 16:49:23]   [8645 d0*] http://www.amasci.com/tesla/tesray1.html  (4982 OK, 264 queued)
+[2026-03-05 16:49:26]   [8650 d0*] http://www.amasci.com/graphics/tstrain.jpg  (4987 OK, 286 queued)
+[2026-03-05 16:49:28]   [8655 d0*] http://www.amasci.com/graphics/tes_roylsoc.jpg  (4992 OK, 281 queued)
+[2026-03-05 16:49:31]   [8660 d0*] http://www.amasci.com/graphics/tesla/war.jpg  (4997 OK, 276 queued)
+[2026-03-05 16:49:33]   [8665 d0*] http://www.amasci.com/graphics/tesdray2.jpg  (5002 OK, 271 queued)
+[2026-03-05 16:49:36]   [8670 d0*] http://www.amasci.com/graphics/tesla_bulbs1.jpg  (5007 OK, 266 queued)
+[2026-03-05 16:49:39]   [8675 d0*] http://www.amasci.com/tesla/tesceive.html  (5012 OK, 261 queued)
+[2026-03-05 16:49:42]   [8680 d0*] http://www.amasci.com/tesla/jlladdr.html  (5016 OK, 259 queued)
+[2026-03-05 16:49:44]   [8685 d0*] http://www.amasci.com/miscon/whyhrd3.html  (5021 OK, 256 queued)
+[2026-03-05 16:49:47]   [8690 d0*] http://www.amasci.com/maglev/hall.html  (5026 OK, 253 queued)
+[2026-03-05 16:49:50]   [8695 d0*] http://www.amasci.com/amateur/MIRROR3.GIF  (5030 OK, 252 queued)
+[2026-03-05 16:49:52]   [8700 d0*] http://www.amasci.com/instr/salmon.html  (5035 OK, 258 queued)
+[2026-03-05 16:49:58]   [8710 d0*] http://www.amasci.com/graphics/mask.jpg  (5043 OK, 257 queued)
+[2026-03-05 16:50:01]   [8715 d0*] http://www.amasci.com/graphics/prnks.jpg  (5047 OK, 252 queued)
+[2026-03-05 16:50:03]   [8720 d0*] http://www.amasci.com/tesla/wire1.txt  (5052 OK, 252 queued)
+[2026-03-05 16:50:06]   [8725 d0*] http://www.amasci.com/emotor/belt.html  (5057 OK, 248 queued)
+[2026-03-05 16:50:09]   [8730 d0*] http://www.amasci.com/emotor/vdgblt1a.gif  (5061 OK, 249 queued)
+[2026-03-05 16:50:11]   [8735 d0*] http://www.amasci.com/earth2.html  (5066 OK, 245 queued)
+[2026-03-05 16:50:14]   [8740 d0*] http://www.amasci.com/surplus/surpls.html  (5071 OK, 241 queued)
+[2026-03-05 16:50:14]     +2 links (8983 total known)
+[2026-03-05 16:50:20]   [8750 d0*] http://www.amasci.com/graphics/e-spray1.jpg  (5077 OK, 238 queued)
+[2026-03-05 16:50:23]   [8755 d0*] http://www.amasci.com/amateur/hovercft.html  (5082 OK, 234 queued)
+[2026-03-05 16:50:25]   [8760 d0*] http://www.amasci.com/graphics/hov2.gif  (5087 OK, 235 queued)
+[2026-03-05 16:50:28]   [8765 d0*] http://www.amasci.com/emotor/statelect.html  (5092 OK, 231 queued)
+[2026-03-05 16:50:31]   [8770 d0*] http://www.amasci.com/miscon/globe2.html  (5097 OK, 277 queued)
+[2026-03-05 16:50:33]   [8775 d0*] http://www.amasci.com/freenrg/tamp.txt  (5101 OK, 274 queued)
+[2026-03-05 16:50:36]   [8780 d0*] http://www.amasci.com/freenrg/gravpool.txt  (5106 OK, 269 queued)
+[2026-03-05 16:50:40]   [8785 d0*] http://www.amasci.com/stopgo.html  (5108 OK, 267 queued)
+[2026-03-05 16:50:43]   [8790 d0*] http://www.amasci.com/amateur/traffic/tbig.html  (5113 OK, 262 queued)
+[2026-03-05 16:50:46]   [8795 d0*] http://www.amasci.com/amateur/buscards.html  (5117 OK, 257 queued)
+[2026-03-05 16:50:48]   [8800 d0*] http://www.amasci.com/newname.html  (5122 OK, 252 queued)
+[2026-03-05 16:50:51]   [8805 d0*] http://www.amasci.com/graphics/howfast1.gif  (5127 OK, 247 queued)
+[2026-03-05 16:50:53]   [8810 d0*] http://www.amasci.com/traf/  (5132 OK, 242 queued)
+[2026-03-05 16:50:56]   [8815 d0*] http://www.amasci.com/graphics/echopen/pen_405.JPG  (5137 OK, 247 queued)
+[2026-03-05 16:50:59]   [8820 d0*] http://www.amasci.com/graphics/echopen/pen_404.JPG  (5142 OK, 242 queued)
+[2026-03-05 16:51:01]   [8825 d0*] http://www.amasci.com/amateur/sundogs.html  (5147 OK, 237 queued)
+[2026-03-05 16:51:04]   [8830 d0*] http://www.amasci.com/filmstr/filmstr3.html  (5152 OK, 234 queued)
+[2026-03-05 16:51:04]     +1 links (9065 total known)
+[2026-03-05 16:51:07]   [8835 d0*] http://www.amasci.com/weird/unusual/ion1.html  (5156 OK, 232 queued)
+[2026-03-05 16:51:09]   [8840] 5160 OK, 3680 failed, 229 queued
+[2026-03-05 16:51:09]     last fail: http://www.amasci.com/emotor/static/electrostatic2.html
+[2026-03-05 16:51:12]   [8845 d0*] http://amasci.com/graphics/books/moore.jpg  (5164 OK, 227 queued)
+[2026-03-05 16:51:15]   [8850 d0*] http://www.amasci.com/billb1.jpg  (5168 OK, 229 queued)
+[2026-03-05 16:51:18]   [8855 d0*] http://www.amasci.com/unew.html  (5173 OK, 224 queued)
+[2026-03-05 16:51:21]   [8860 d0*] http://www.amasci.com/emotor/vdgbook.html  (5176 OK, 223 queued)
+[2026-03-05 16:51:25]   [8865 d0*] http://www.amasci.com/weird/const.html  (5180 OK, 220 queued)
+[2026-03-05 16:51:27]   [8870 d0*] http://www.amasci.com/freenrg/ELG02XP.GIF  (5185 OK, 239 queued)
+[2026-03-05 16:51:30]   [8875 d0*] http://www.amasci.com/weird/evexp.html  (5190 OK, 234 queued)
+[2026-03-05 16:51:32]   [8880 d0*] http://www.amasci.com/freenrg/audpush.txt  (5195 OK, 229 queued)
+[2026-03-05 16:51:35]   [8885 d0*] http://www.amasci.com/freenrg/faile.html  (5200 OK, 224 queued)
+[2026-03-05 16:51:38]   [8890 d0*] http://www.amasci.com/freenrg/magh20.html  (5204 OK, 220 queued)
+[2026-03-05 16:51:42]   [8895 d0*] http://www.amasci.com/freenrg/antigrav.html  (5209 OK, 215 queued)
+[2026-03-05 16:51:46]   [8900] 5212 OK, 3688 failed, 231 queued
+[2026-03-05 16:51:46]     last fail: http://www.amasci.com/weird/antigrav/amasci.com/news.html
+[2026-03-05 16:51:48]   [8905 d0*] http://www.amasci.com/weird/antigrav/antigrav4.html  (5217 OK, 226 queued)
+[2026-03-05 16:51:51]   [8910 d0*] http://www.amasci.com/weird/wallc/  (5221 OK, 223 queued)
+[2026-03-05 16:51:51]     +1 links (9134 total known)
+[2026-03-05 16:51:54]   [8915 d0*] http://www.amasci.com/freenrg/bw.txt  (5224 OK, 219 queued)
+[2026-03-05 16:51:57]   [8920] 5228 OK, 3692 failed, 215 queued
+[2026-03-05 16:51:57]     last fail: http://www.amasci.com/weird/antigrav4.html
+[2026-03-05 16:52:01]   [8925 d0*] http://www.amasci.com/freenrg/mfig4.gif  (5233 OK, 214 queued)
+[2026-03-05 16:52:08]   [8930 d0*] http://www.amasci.com/caps/capatnt.html  (5238 OK, 209 queued)
+[2026-03-05 16:52:08]     +2 links (9141 total known)
+[2026-03-05 16:52:11]   [8935 d0*] http://www.amasci.com/graphics/lig1.jpg  (5243 OK, 207 queued)
+[2026-03-05 16:52:17]   [8940 d0*] http://www.amasci.com/caps/capnotes.html  (5248 OK, 202 queued)
+[2026-03-05 16:52:20]   [8945 d0*] http://amasci.com/weird/vortex/gravdsk2.txt  (5253 OK, 197 queued)
+[2026-03-05 16:52:23]   [8950 d0*] http://amasci.com/weird/antigrav/antigrav4.html  (5257 OK, 192 queued)
+[2026-03-05 16:52:23]     +1 links (9143 total known)
+[2026-03-05 16:52:25]   [8955 d0*] http://amasci.com/freenrg/gravskep.txt  (5262 OK, 188 queued)
+[2026-03-05 16:52:28]   [8960 d0*] http://amasci.com/weird/vortex2.txt  (5267 OK, 183 queued)
+[2026-03-05 16:52:30]   [8965 d0*] http://amasci.com/weird/main.css  (5272 OK, 179 queued)
+[2026-03-05 16:52:33]   [8970 d0*] http://amasci.com/weird/vtxb2000.txt  (5277 OK, 176 queued)
+[2026-03-05 16:52:36]   [8975 d0*] http://amasci.com/weird/fieldyu.gif  (5282 OK, 171 queued)
+[2026-03-05 16:52:42]   [8980] 5283 OK, 3697 failed, 1389 queued
+[2026-03-05 16:52:42]     last fail: http://amasci.com/weird2/=3D"https:/lenr-canr.org/acrobat/RothwellJcoldfusiona.pdf"
+[2026-03-05 16:53:03]   [9000] 5283 OK, 3717 failed, 1369 queued
+[2026-03-05 16:53:03]     last fail: http://amasci.com/weird2/3D"mailto:juerg@datamart.ch"
+[2026-03-05 16:53:21]   [9020] 5283 OK, 3737 failed, 1349 queued
+[2026-03-05 16:53:21]     last fail: http://amasci.com/weird2/3D"https:/nam11.safelinks.protection.outlook.com/?u=
+[2026-03-05 16:53:43]   [9040] 5283 OK, 3757 failed, 1329 queued
+[2026-03-05 16:53:43]     last fail: http://amasci.com/weird2/3D"https:/youtu.be/u=
+[2026-03-05 16:54:04]   [9060] 5283 OK, 3777 failed, 1309 queued
+[2026-03-05 16:54:04]     last fail: http://amasci.com/weird2/3D"https:/www.armscontrol.org/act/1997-09/press-releases/russian=
+[2026-03-05 16:54:25]   [9080] 5283 OK, 3797 failed, 1289 queued
+[2026-03-05 16:54:25]     last fail: http://amasci.com/weird2/3D"http:/ns88.worldnic.c=
+[2026-03-05 16:54:45]   [9100] 5283 OK, 3817 failed, 1269 queued
+[2026-03-05 16:54:45]     last fail: http://amasci.com/weird2/3D"mailto:EVGRAY@groups.=
+[2026-03-05 16:55:04]   [9120] 5283 OK, 3837 failed, 1249 queued
+[2026-03-05 16:55:04]     last fail: http://amasci.com/weird2/3D"https:/www.nature.com/artic=
+[2026-03-05 16:55:29]   [9140] 5283 OK, 3857 failed, 1229 queued
+[2026-03-05 16:55:29]     last fail: http://amasci.com/weird2/3D"mailto:cbsite01@gmai=
+[2026-03-05 16:55:48]   [9160] 5283 OK, 3877 failed, 1209 queued
+[2026-03-05 16:55:48]     last fail: http://amasci.com/weird2/3D=
+[2026-03-05 16:56:11]   [9180] 5283 OK, 3897 failed, 1189 queued
+[2026-03-05 16:56:11]     last fail: http://amasci.com/weird2/3D"https:/www.whichev.net/2022/04/01/el=
+[2026-03-05 16:56:31]   [9200] 5283 OK, 3917 failed, 1169 queued
+[2026-03-05 16:56:31]     last fail: http://amasci.com/weird2/3D"http:/itampe.com/a-comment-on-special-relativity.html"
+[2026-03-05 16:56:53]   [9220] 5283 OK, 3937 failed, 1149 queued
+[2026-03-05 16:56:53]     last fail: http://amasci.com/weird2/=3D"https:/www.vice.com/en/article/dy3vxy/sony-world-photography-awards-ai=
+[2026-03-05 16:57:13]   [9240] 5283 OK, 3957 failed, 1129 queued
+[2026-03-05 16:57:13]     last fail: http://amasci.com/weird2/3D"https:/oilprice.com/Alternative-Energy/Nuclear-Power/Anothe=
+[2026-03-05 16:57:34]   [9260] 5283 OK, 3977 failed, 1109 queued
+[2026-03-05 16:57:34]     last fail: http://amasci.com/weird2/3D"mailto:jedrothwell@gmail.=
+[2026-03-05 16:57:57]   [9280] 5283 OK, 3997 failed, 1089 queued
+[2026-03-05 16:57:57]     last fail: http://amasci.com/weird2/3D"https:/www.youtube.com/watch?v=3DjlSv_IlXmBg"=
+[2026-03-05 16:58:19]   [9300] 5283 OK, 4017 failed, 1069 queued
+[2026-03-05 16:58:19]     last fail: http://amasci.com/weird2/3D"https:/www.youtube.com/watch?v=
+[2026-03-05 16:58:42]   [9320] 5283 OK, 4037 failed, 1049 queued
+[2026-03-05 16:58:42]     last fail: http://amasci.com/weird2/3D"https:/en.wikipedia.org/wiki/Manganes=
+[2026-03-05 16:59:06]   [9340] 5283 OK, 4057 failed, 1029 queued
+[2026-03-05 16:59:06]     last fail: http://amasci.com/weird2/3D"https:/nam11.safelinks.protection.outloo=
+[2026-03-05 16:59:28]   [9360] 5283 OK, 4077 failed, 1009 queued
+[2026-03-05 16:59:28]     last fail: http://amasci.com/weird2/3D"https:/en.wikipedia.org/w=
+[2026-03-05 16:59:55]   [9380] 5283 OK, 4097 failed, 989 queued
+[2026-03-05 16:59:55]     last fail: http://amasci.com/weird2/3D"mailto:jedrothwell@gmai=
+[2026-03-05 17:00:18]   [9400] 5283 OK, 4117 failed, 969 queued
+[2026-03-05 17:00:18]     last fail: http://amasci.com/weird2/3D"http:/le=
+[2026-03-05 17:00:40]   [9420] 5283 OK, 4137 failed, 949 queued
+[2026-03-05 17:00:40]     last fail: http://amasci.com/weird2/3D"https:/docs.google.=
+[2026-03-05 17:01:03]   [9440] 5283 OK, 4157 failed, 929 queued
+[2026-03-05 17:01:03]     last fail: http://amasci.com/weird2/3D"http:/lenr-canr.org/acrobat/IyengarPKprefaceand.pdf"
+[2026-03-05 17:01:25]   [9460] 5283 OK, 4177 failed, 909 queued
+[2026-03-05 17:01:25]     last fail: http://amasci.com/weird2/3D"https:/lenr-canr.org/acrobat/RothwellJcoldfusion=
+[2026-03-05 17:01:47]   [9480] 5283 OK, 4197 failed, 889 queued
+[2026-03-05 17:01:47]     last fail: http://amasci.com/weird2/3D"https:/icann.org/epp
+[2026-03-05 17:02:06]   [9500] 5283 OK, 4217 failed, 869 queued
+[2026-03-05 17:02:06]     last fail: http://amasci.com/weird2/3D"mailto:r.j.anderton@bt=
+[2026-03-05 17:02:31]   [9520] 5283 OK, 4237 failed, 849 queued
+[2026-03-05 17:02:31]     last fail: http://amasci.com/weird2/3D"https:/www.lenr-canr.org/acrobat/MizunoThydrogenev.pdf"
+[2026-03-05 17:02:53]   [9540] 5283 OK, 4257 failed, 829 queued
+[2026-03-05 17:02:53]     last fail: http://amasci.com/weird2/=3D"https:/arpa-e.energy.gov/sites/default/files/2023-09/05_Duncan_Perform=
+[2026-03-05 17:03:14]   [9560] 5283 OK, 4277 failed, 809 queued
+[2026-03-05 17:03:14]     last fail: http://amasci.com/weird2/3D"Https:/=
+[2026-03-05 17:03:34]   [9580] 5283 OK, 4297 failed, 789 queued
+[2026-03-05 17:03:34]     last fail: http://amasci.com/weird2/3D"mailto:r.j.anderton@btinte=
+[2026-03-05 17:03:53]   [9600] 5283 OK, 4317 failed, 769 queued
+[2026-03-05 17:03:53]     last fail: http://amasci.com/weird2/3D"https:/www.canadiancovidcarealliance.org/wp-content/uploa=
+[2026-03-05 17:04:12]   [9620] 5283 OK, 4337 failed, 749 queued
+[2026-03-05 17:04:12]     last fail: http://amasci.com/weird2/3D"https:/www.wsj.com/articles/covid-origin-ch=
+[2026-03-05 17:04:35]   [9640] 5283 OK, 4357 failed, 729 queued
+[2026-03-05 17:04:35]     last fail: http://amasci.com/weird2/=3D"https:/youtu.be/5_FUsyFpzJk"
+[2026-03-05 17:04:58]   [9660] 5283 OK, 4377 failed, 709 queued
+[2026-03-05 17:04:58]     last fail: http://amasci.com/weird2/3D"https:/www.youtube.com/watch?v=3Djbr0fQfJC-8"
+[2026-03-05 17:05:17]   [9680] 5283 OK, 4397 failed, 689 queued
+[2026-03-05 17:05:17]     last fail: http://amasci.com/weird2/3D"https:/ibb.co/cLBLPBP"
+[2026-03-05 17:05:36]   [9700] 5283 OK, 4417 failed, 669 queued
+[2026-03-05 17:05:36]     last fail: http://amasci.com/weird2/3D"https:/oilprice.com/Alternative-Energy/Nuclear-Power/An=
+[2026-03-05 17:05:57]   [9720] 5283 OK, 4437 failed, 649 queued
+[2026-03-05 17:05:57]     last fail: http://amasci.com/weird2/3D"https:/en.wikipedia.org/wiki/Help:Pronunc=
+[2026-03-05 17:06:20]   [9740] 5283 OK, 4457 failed, 629 queued
+[2026-03-05 17:06:20]     last fail: http://amasci.com/weird2/3D"https:/en.wikipedia.org/wiki/Tundra"
+[2026-03-05 17:06:42]   [9760] 5283 OK, 4477 failed, 609 queued
+[2026-03-05 17:06:42]     last fail: http://amasci.com/weird2/3D"https:/www.youtube=
+[2026-03-05 17:07:03]   [9780] 5283 OK, 4497 failed, 589 queued
+[2026-03-05 17:07:03]     last fail: http://amasci.com/weird2/3D"mailto:ju=
+[2026-03-05 17:07:25]   [9800] 5283 OK, 4517 failed, 569 queued
+[2026-03-05 17:07:25]     last fail: http://amasci.com/weird2/3D"https:/en.wikipedia.org/wiki/Help:Pronunciati=
+[2026-03-05 17:07:50]   [9820] 5283 OK, 4537 failed, 549 queued
+[2026-03-05 17:07:50]     last fail: http://amasci.com/weird2/3D"http:/twitter.com/Sudanamaru1/status/16277533300=
+[2026-03-05 17:08:12]   [9840] 5283 OK, 4557 failed, 529 queued
+[2026-03-05 17:08:12]     last fail: http://amasci.com/weird2/3D"https:/lenrbot.com/about.html"
+[2026-03-05 17:08:32]   [9860] 5283 OK, 4577 failed, 509 queued
+[2026-03-05 17:08:32]     last fail: http://amasci.com/weird2/3D"https:/www.youtube.com/watch?v=3DtS_7eZVt854"
+[2026-03-05 17:08:57]   [9880] 5283 OK, 4597 failed, 489 queued
+[2026-03-05 17:08:57]     last fail: http://amasci.com/weird2/3D"https:/www.q=
+[2026-03-05 17:09:16]   [9900] 5283 OK, 4617 failed, 469 queued
+[2026-03-05 17:09:16]     last fail: http://amasci.com/weird2/3D"m=
+[2026-03-05 17:09:37]   [9920] 5283 OK, 4637 failed, 449 queued
+[2026-03-05 17:09:37]     last fail: http://amasci.com/weird2/3D"https:/www.youtube.com/watch?v=3D3XBL9KlVoYE"=
+[2026-03-05 17:09:58]   [9940] 5283 OK, 4657 failed, 429 queued
+[2026-03-05 17:09:58]     last fail: http://amasci.com/weird2/3D"https:/doi.org/10.1007/BF00670750"
+[2026-03-05 17:10:21]   [9960] 5283 OK, 4677 failed, 409 queued
+[2026-03-05 17:10:21]     last fail: http://amasci.com/weird2/=3D"http:/www.sciencedirect.com/science/journal/18753892"
+[2026-03-05 17:10:48]   [9980] 5283 OK, 4697 failed, 389 queued
+[2026-03-05 17:10:48]     last fail: http://amasci.com/weird2/3D"https:/youtu.be/mcCZftSbges"
+[2026-03-05 17:11:12]   [10000] 5283 OK, 4717 failed, 369 queued
+[2026-03-05 17:11:12]     last fail: http://amasci.com/weird2/3D"https:/lenr-canr.org=
+[2026-03-05 17:11:33]   [10020] 5283 OK, 4737 failed, 349 queued
+[2026-03-05 17:11:33]     last fail: http://amasci.com/weird2/3D"http:/hyperphysics.phy-astr.gsu.e=
+[2026-03-05 17:11:57]   [10040] 5283 OK, 4757 failed, 329 queued
+[2026-03-05 17:11:57]     last fail: http://amasci.com/weird2/3D"https:/www.energy.gov/science/bes/ar=
+[2026-03-05 17:12:16]   [10060] 5283 OK, 4777 failed, 309 queued
+[2026-03-05 17:12:16]     last fail: http://amasci.com/weird2/3D"mailto:hveeder000@gmail.co=
+[2026-03-05 17:12:38]   [10080] 5283 OK, 4797 failed, 289 queued
+[2026-03-05 17:12:38]     last fail: http://amasci.com/weird2/3D"https:/insideclimatenews.org/=
+[2026-03-05 17:13:00]   [10100] 5283 OK, 4817 failed, 269 queued
+[2026-03-05 17:13:00]     last fail: http://amasci.com/weird2/3D"mailto:jonath=
+[2026-03-05 17:13:25]   [10120] 5283 OK, 4837 failed, 249 queued
+[2026-03-05 17:13:25]     last fail: http://amasci.com/weird2/3D"https:/en.wikipedia.org/wiki/Moving_magnet_and_conductor=
+[2026-03-05 17:13:46]   [10140] 5283 OK, 4857 failed, 229 queued
+[2026-03-05 17:13:46]     last fail: http://amasci.com/weird2/3D"http:/lenr-canr.org/acrobat/Fleis=
+[2026-03-05 17:14:07]   [10160] 5283 OK, 4877 failed, 209 queued
+[2026-03-05 17:14:07]     last fail: http://amasci.com/weird2/3D"Https:/www.jnaudin.free.fr/meg/meg.htm"
+[2026-03-05 17:14:25]   [10180] 5283 OK, 4897 failed, 189 queued
+[2026-03-05 17:14:25]     last fail: http://amasci.com/weird2/3D"https:/a.co/i=
+[2026-03-05 17:14:45]   [10200 d0*] http://amasci.com/pathsk2.txt  (5284 OK, 169 queued)
+[2026-03-05 17:14:48]   [10205 d0*] http://amasci.com/weird/wsmot.html  (5289 OK, 164 queued)
+[2026-03-05 17:14:51]   [10210 d0*] http://amasci.com/amateur/scigrps.html  (5293 OK, 160 queued)
+[2026-03-05 17:14:51]     +1 links (10371 total known)
+[2026-03-05 17:14:55]   [10215 d0*] http://amasci.com/emotor/ground.html  (5295 OK, 156 queued)
+[2026-03-05 17:14:59]   [10220 d0*] http://amasci.com/electrom/electrom.html  (5297 OK, 151 queued)
+[2026-03-05 17:14:59]     +1 links (10372 total known)
+[2026-03-05 17:15:05]   [10230 d0*] http://amasci.com/miscon/ele-map.gif  (5305 OK, 145 queued)
+[2026-03-05 17:15:07]   [10235 d0*] http://amasci.com/miscon/rfig5.gif  (5310 OK, 153 queued)
+[2026-03-05 17:15:10]   [10240 d0*] http://amasci.com/miscon/rfig4.gif  (5315 OK, 148 queued)
+[2026-03-05 17:15:12]   [10245 d0*] http://amasci.com/miscon/rfig8.gif  (5320 OK, 143 queued)
+[2026-03-05 17:15:15]   [10250 d0*] http://amasci.com/graphics/yt/bluewater.jpg  (5324 OK, 139 queued)
+[2026-03-05 17:15:18]   [10255 d0*] http://amasci.com/graphics/wtrcap2.gif  (5329 OK, 137 queued)
+[2026-03-05 17:15:21]   [10260 d0*] http://amasci.com/miscon/prism.jpg  (5333 OK, 132 queued)
+[2026-03-05 17:15:23]   [10265 d0*] http://amasci.com/graphics/yt/drydngr.jpg  (5338 OK, 127 queued)
+[2026-03-05 17:15:26]   [10270 d0*] http://amasci.com/wing/saabrok3.jpg  (5343 OK, 128 queued)
+[2026-03-05 17:15:30]   [10275 d0*] http://amasci.com/miscon/germ.html  (5346 OK, 123 queued)
+[2026-03-05 17:15:33]   [10280 d0*] http://amasci.com/amateur/clouds.html  (5349 OK, 119 queued)
+[2026-03-05 17:15:36]   [10285 d0*] http://amasci.com/miscon/prsmtxt.txt  (5354 OK, 114 queued)
+[2026-03-05 17:15:40]   [10290 d0*] http://amasci.com/sc/kidintl.html  (5357 OK, 109 queued)
+[2026-03-05 17:15:43]   [10295 d0*] http://amasci.com/hum/hill1.gif  (5361 OK, 104 queued)
+[2026-03-05 17:15:46]   [10300 d0*] http://amasci.com/hum/taosmsgs.txt  (5366 OK, 99 queued)
+[2026-03-05 17:15:49]   [10305 d0*] http://amasci.com/hum/humrefs.txt  (5371 OK, 94 queued)
+[2026-03-05 17:15:51]   [10310 d0*] http://amasci.com/weird/wpara.html  (5376 OK, 91 queued)
+[2026-03-05 17:15:54]   [10315 d0*] http://amasci.com/weird/wbookstr.html  (5380 OK, 86 queued)
+[2026-03-05 17:15:57]   [10320 d0*] http://amasci.com/freenrg/plasmafe.txt  (5385 OK, 89 queued)
+[2026-03-05 17:15:59]   [10325 d0*] http://amasci.com/freenrg/zpepaper.txt  (5390 OK, 84 queued)
+[2026-03-05 17:16:02]   [10330 d0*] http://amasci.com/freenrg/evolv.txt  (5394 OK, 85 queued)
+[2026-03-05 17:16:05]   [10335 d0*] http://amasci.com/weird/wlists.html  (5397 OK, 81 queued)
+[2026-03-05 17:16:08]   [10340 d0*] http://amasci.com/freenrg/fejnls.html  (5401 OK, 78 queued)
+[2026-03-05 17:16:11]   [10345 d0*] http://amasci.com/weird/wpro.html  (5406 OK, 74 queued)
+[2026-03-05 17:16:14]   [10350 d0*] http://amasci.com/freenrg/tors/  (5411 OK, 70 queued)
+[2026-03-05 17:16:16]   [10355 d0*] http://amasci.com/tesla/tesla.html  (5416 OK, 65 queued)
+[2026-03-05 17:16:21]   [10360] 5417 OK, 4943 failed, 69 queued
+[2026-03-05 17:16:21]     last fail: http://amasci.com/sc/wsite.com/fishingworld
+[2026-03-05 17:16:37]   [10380 d0*] http://amasci.com/amateur/answers1.html  (5422 OK, 61 queued)
+[2026-03-05 17:16:39]   [10385 d0*] http://amasci.com/brainx/  (5427 OK, 57 queued)
+[2026-03-05 17:16:42]   [10390 d0*] http://amasci.com/weird/unusual/e-wall  (5432 OK, 56 queued)
+[2026-03-05 17:16:45]   [10395 d0*] http://amasci.com/graphics/prnks.jpg  (5436 OK, 53 queued)
+[2026-03-05 17:16:47]   [10400 d0*] http://amasci.com/amateur/feyn.gif  (5441 OK, 49 queued)
+[2026-03-05 17:16:50]   [10405 d0*] http://amasci.com/faq.html  (5446 OK, 46 queued)
+[2026-03-05 17:16:52]   [10410 d0*] http://amasci.com/emotor/emot1.html  (5451 OK, 44 queued)
+[2026-03-05 17:16:52]     +4 links (10458 total known)
+[2026-03-05 17:16:55]   [10415 d0*] http://amasci.com/freenrg/antigrav.html  (5455 OK, 43 queued)
+[2026-03-05 17:16:58]   [10420] 5459 OK, 4961 failed, 39 queued
+[2026-03-05 17:16:58]     last fail: http://amasci.com/coolinks.html
+[2026-03-05 17:17:00]   [10425 d0*] http://amasci.com/we-nerds.html  (5464 OK, 35 queued)
+[2026-03-05 17:17:03]   [10430 d0*] http://amasci.com/miscon/miscon.html  (5468 OK, 32 queued)
+[2026-03-05 17:17:15]   [10440] 5470 OK, 4970 failed, 47 queued
+[2026-03-05 17:17:15]     last fail: http://amasci.com/stats/v_bill.cgi?a=62352461&p=missing
+[2026-03-05 17:17:28]   [10455 d0*] http://amasci.com/stats/idbypag2.html  (5472 OK, 32 queued)
+[2026-03-05 17:17:33]   [10460] 5473 OK, 4987 failed, 32 queued
+[2026-03-05 17:17:33]     last fail: http://amasci.com/stats/arbypag2_files/editdata.mso
+[2026-03-05 17:17:38]   [10470 d0*] http://amasci.com/emotor/dulcu.html  (5481 OK, 29 queued)
+[2026-03-05 17:17:41]   [10475 d0*] http://amasci.com/emotor/statelec.html  (5486 OK, 24 queued)
+[2026-03-05 17:17:44]   [10480 d0*] http://amasci.com/freenrg/fnrg.html  (5491 OK, 20 queued)
+[2026-03-05 17:17:44]     +4 links (10504 total known)
+[2026-03-05 17:17:46]   [10485 d0*] http://amasci.com/unew.html  (5496 OK, 19 queued)
+[2026-03-05 17:17:49]   [10490 d0*] http://amasci.com/amateur/irgoggA.html  (5499 OK, 18 queued)
+[2026-03-05 17:17:49]     +11 links (10519 total known)
+[2026-03-05 17:17:52]   [10495 d0*] http://amasci.com/graphics/infrared/cmps1IR.jpeg  (5504 OK, 24 queued)
+[2026-03-05 17:17:54]   [10500 d0*] http://amasci.com/graphics/infrared/shrtaVIS.jpeg  (5509 OK, 19 queued)
+[2026-03-05 17:17:57]   [10505 d0*] http://amasci.com/heat.txt  (5514 OK, 16 queued)
+[2026-03-05 17:18:00]   [10510 d0*] http://amasci.com/static/e-disease.html  (5518 OK, 12 queued)
+[2026-03-05 17:18:00]     +1 links (10523 total known)
+[2026-03-05 17:18:03]   [10515 d0*] http://amasci.com/graphics/nmchcyl1.gif  (5523 OK, 21 queued)
+[2026-03-05 17:18:05]   [10520 d0*] http://amasci.com/freenrg/N_MACH3.GIF  (5527 OK, 16 queued)
+[2026-03-05 17:18:08]   [10525 d0*] http://amasci.com/freenrg/NMACH5.GIF  (5532 OK, 11 queued)
+[2026-03-05 17:18:11]   [10530 d0*] http://amasci.com/amform  (5536 OK, 9 queued)
+[2026-03-05 17:18:13]   [10535 d0*] http://amasci.com/amateur/projs.txt  (5541 OK, 9 queued)
+[2026-03-05 17:18:16]   [10540 d0*] http://amasci.com/neodemo.html  (5546 OK, 4 queued)
+[2026-03-05 17:18:16]     +1 links (10545 total known)
+[2026-03-05 17:18:19]   [10545 d0*] http://amasci.com/supliers.html  (5549 OK, 2 queued)
+[2026-03-05 17:18:22]   [10550 d0*] http://amasci.com/graphics/wcamsm.gif  (5554 OK, 4 queued)
+[2026-03-05 17:18:24] WordPress PDF extraction: found 126 PDF(s)
+[2026-03-05 17:18:38]   PDF OK: rausch.pdf
+[2026-03-05 17:19:40]   PDF OK: photon_what_is_a.pdf
+[2026-03-05 17:19:42]   PDF OK: JosephsonBpathologic.pdf
+[2026-03-05 17:27:31]   PDF OK: CAP-LG.pdf
+[2026-03-05 17:27:39]   PDF OK: Radio-Craft-RE-1949-May.pdf
+[2026-03-05 17:28:51]   PDF OK: frontends.pdf
+[2026-03-05 17:28:59]   PDF OK: biog.pdf
+[2026-03-05 17:30:21]   PDF OK: Electrostaticmotorsjefimenko.pdf
+[2026-03-05 17:31:06]   PDF OK: lbt.pdf
+[2026-03-05 17:31:14]   PDF OK: article2.pdf
+[2026-03-05 17:31:41]   PDF OK: teslarec.pdf
+[2026-03-05 17:31:42]   PDF OK: Kowsky-Frost.pdf
+[2026-03-05 17:31:44]   PDF OK: muse117.pdf
+[2026-03-05 17:31:45]   PDF OK: muse121.pdf
+[2026-03-05 17:32:00]   PDF OK: Orig_maxwell_equations.pdf
+[2026-03-05 17:32:00]   PDF OK: chapman.pdf
+[2026-03-05 17:32:01]   PDF OK: helical6.pdf
+[2026-03-05 17:32:02]   PDF OK: shipov.pdf
+[2026-03-05 17:32:09]   PDF OK: 0305098v1.pdf
+[2026-03-05 17:32:10]   PDF OK: Vaccine-surveillance-report-week-9.pdf
+[2026-03-05 17:32:11]   PDF OK: vaccine-surveillance-report-week-10.pdf
+[2026-03-05 17:32:12]   PDF OK: Electromagnetic_Z-Pinch.pdf
+[2026-03-05 17:32:25]   PDF OK: H14-3.pdf
+[2026-03-05 17:32:28]   PDF OK: RothwellJcoldfusiona.pdf
+[2026-03-05 17:32:29]   PDF OK: circuit.pdf
+[2026-03-05 17:32:30]   PDF OK: AJP-SurfaceCharge.pdf
+[2026-03-05 17:32:34]   PDF OK: Tesla.pdf
+[2026-03-05 17:32:35]   PDF OK: nature03.pdf
+[2026-03-05 17:32:36]   PDF OK: Puthoff.pdf
+[2026-03-05 17:32:46]   PDF OK: Index-Popular-Electronics-1954-2003.pdf
+[2026-03-05 17:32:47]   PDF OK: The-Experimenter-1925-02.pdf
+[2026-03-05 17:32:48]   PDF OK: SI-1928-06.pdf 
+[2026-03-05 17:32:51]   PDF OK: The-COVID-19-Inoculations-More-Harm-Than-Good-REV-Dec-16-2021.pdf
+[2026-03-05 17:33:06]   PDF OK: StringhamRwhenbubble.pdf
+[2026-03-05 17:33:29]   PDFs: 34 downloaded, 2 cached, 90 failed
+[2026-03-05 17:33:29]   Missing PDFs list: /Users/esaruoho/work/merlib-mirror/sites/amasci.com/_missing_pdfs.txt
+[2026-03-05 17:33:29] Generating index...
+[2026-03-05 17:33:29] Index: 1550 files
+[2026-03-05 17:33:29]   .html: 721
+[2026-03-05 17:33:29]   .gif: 298
+[2026-03-05 17:33:29]   .jpg: 237
+[2026-03-05 17:33:29]   .txt: 181
+[2026-03-05 17:33:29]   .pdf: 35
+[2026-03-05 17:33:29]   .doc: 14
+[2026-03-05 17:33:29]   .css: 12
+[2026-03-05 17:33:29]   .jpeg: 12
+[2026-03-05 17:33:29]   .htm: 7
+[2026-03-05 17:33:29]   .html : 7
+[2026-03-05 17:33:29]   .mpg: 5
+[2026-03-05 17:33:29]   .html_: 3
+[2026-03-05 17:33:29]   .mp3: 2
+[2026-03-05 17:33:29]   .gif_: 2
+[2026-03-05 17:33:29]   .wav: 2
+[2026-03-05 17:33:29] 
+============================================================
+[2026-03-05 17:33:29] LIVE MIRROR COMPLETE
+[2026-03-05 17:33:29] Downloaded: 10554, OK: 5558, Failed: 4996
+[2026-03-05 17:33:29] Total URLs seen: 10554
+[2026-03-05 17:33:29] ============================================================
+[2026-03-05 17:33:29] 
+Next step: fe-ingest.sh /Users/esaruoho/work/merlib-mirror/sites/amasci.com

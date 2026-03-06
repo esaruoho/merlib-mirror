@@ -1,0 +1,21 @@
+Date: Mon, 5 Jun 2000 12:24:50 -0600
+From: Buster Anderson <beenergy@telusplanet.net>
+To: William Beaty <billb@eskimo.com>
+Subject: Re: Comments from billb amform
+
+William - Thank you for your response. A friend built 30 layers of aluminum
+foil and Capton with no detectable results. He used a balance beam. On the
+.015 tin, there was a very slight difference at about 45 layers (maybe 1/10
+of a gram) but none detectable at either 30 or 60 layers. The measurement on
+the Capton layer thckness was about 50% thicker than two layers of wax paper
+using a micrometer. That might be a factor also to be considered.
+
+The other person used mylar but his scale was out of range for the electric
+rocket weight. I suggested a balance beam and he is purchasing a higher
+voltage DC source. A wilmerst hand crank generator might be good all around
+for expense and being able to test at different voltages up the scale (Wax
+paper two layers could rupture or short at about 800 volts).
+
+Feel free to post the above information if it helps someone. Good Luck -
+Buster Anderson
+

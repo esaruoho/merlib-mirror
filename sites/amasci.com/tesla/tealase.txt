@@ -1,0 +1,59 @@
+I speculated that a lightning bolt might have enough energy to cause 
+population inversion in the nitrogen in the atmosphere, and if the plasma 
+path was straight enough, a mirrorless pulse-laser would be formed.  
+Something like the "Blumlein" Nitrogen laser in the Scientific American 
+Amatuer Science column in the 1970's
+
+If this can happen, then thunderstorms might occasionally spit out 
+megawatt pulses of microsecond-long UV laser beams.  But is this possible 
+at one atmosphere and with oxygen impurities?
+
+   -Bill Beaty
+
+
+
+Date: Thu, 17 Aug 1995 11:30:31 -0600
+From: Kristian Ukkonen <kukkonen@snakemail.hut.fi>
+Reply to: usa-tesla@usa.net
+To: billb@mail.eskimo.com
+Subject: Re: Zot!
+
+
+> On Wed, 16 Aug 1995 EDHARRIS@MPS.OHIO-STATE.EDU wrote:
+> 
+> > Interesting idea, Bill. But I made a N2 laser ala Blumlein and found that 
+> > it didn't work with air - the oxygen must be causing some problem.
+
+It does work with N2 at pressures of 1atm and even higher - the
+technology is called TEA-lasers - Transversely Excited Atmospheric
+lasers. The problem with using plain air is that the electrodes
+corrode rather badly compared to using pure nitrogen.. In fact, it's
+enough to have a tube with the electrodes on the sides and pour
+some LN2 inside the tube every now and then.. There is no need for
+sealing the laser-"tube".. - this is the way how a friend of mine
+tested the basic ideas..
+
+I'd guess that you didn't use enough energy to excite the air to
+superradiance.. Some of the more comples designs use a larger
+storage capasitor and peaking caps on the sides of the electrodes etc..
+
+Thos who are interested in the subject will find the following interesting:
+
+  Applied physics letters, vol 28, no 2, 15 jan 1976
+
+  Applied physics letters, vol 28, no 5, 1 march 1976
+
+  Applied Physics letters, vol 31, no 10, 15 nov 1977
+
+  IEEE journal of quantum electronics, vol qe-10, no 2, feb 1974 
+
+  Applied physics letters 41(7), 1 oct 1982
+
+I'd say that the last one is the most interesting for practical
+purposes.
+
+Yours,
+
+  Kristian Ukkonen.
+
+ps. not that this would be of direct use to tesla-coiling.. :)

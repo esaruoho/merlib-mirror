@@ -1,0 +1,112 @@
+MOVED TO http://amasci.com/emotor/vdgplan.html
+
+old version is below
+
+
+
+
+
+
+BOOKS & MAGS WITH VANDEGRAAFF GENERATOR PLANS            Bill Beaty
+
+   As of Feb 1998 I've found no VDG machine plans on internet.
+   I don't have any plans myself, sorry.
+
+   Where can you possibly get any of these old magazines? From
+   your local library!  Any library will have these available.
+   Don't believe me?  Ask a librarian about "Interlibrary Loan."  
+   True, it might take several days to transfer the magazine
+   from a distant place.  But with Interlibrary Loan service,
+   what one library has, all others have also.
+
+SCIENTIFIC AMERICAN, The Amateur Scientist, April 1955, pp110-118
+The article which started it all.  Contains a drawing and description
+of a 12in. tall VDG based on jello molds and large steel cans.
+
+HANDS-ON ELECTRONICS, Build this VandeGraaff Generator, By D.E.Patrick, 
+pp42-44, Nov/Dec 1985  (magazine)
+VDG construction article, uses DC high voltage supply.
+
+MODEL MAKING FOR PHYSICISTS, A. D. Bulman, Growul & Co. 1968, pp130-138
+Chapter on VDG construction. Carbon-coated glass ball as conductor.
+Double-ended VDG plans.
+
+POPULAR ELECTRONICS, Vol 25 No 5, May 1966 pp57-60 Supercharged Salt 
+Shaker, by Ed Francis   (magazine)
+Tiny VDG construction article.
+
+THE DESIGN & CONST. OF VANDEGRAAFF ELECTROSTATIC GENERATORS by K. Scott
+International Tesla Society, PO Box 5636, Colorado Springs, CO 80931
+719-475-0918   http://www.tesla.org
+
+POPULAR SCIENCE, Nov 1964 pp142-145, Lightning in your Living Room, by 
+Harry Walton.  (magazine)
+
+THE PHYSICS TEACHER, May 1990,  "VDGs: Theory, Maintenance, and Belt Fab."
+by Dr. Dick Berg.
+
+TEACHING HIGH SCHOOL SCIENCE: A SOURCEBOOK FOR THE PHYSICAL SCIENCES,
+Joseph/Brandwein/Morholt/Pollack/Castka, Harcourt Brace & World, 1961, p503
+
+
+**************************************************************
+Commercial source for plans and mail-order kits:
+
+   SCIENCE FIRST               (ask for their catalog!)
+   95 Botsford Pl.
+   Buffalo, NY
+   800-875-3214
+   716-874-0133 phone
+   716-874-9853 fax
+   info@sciencefirst.com
+
+   Toy VDG plans 12-020, $3.95
+
+   14" spun aluminum oblate sphere
+   about 750,000 volt maximum potential
+   (It's hole is sized for standard PVC sewer pipe)
+   part no. 60-0604  $80.00
+
+   7" spun aluminum oblate, 60-601, $25.00
+
+   2" rubber belt, 45" (22" in loop) 29-1480, $17.00
+
+   Complete 750KV VandeGraaff Generator Kit 10-085, $299.95
+
+   Complete 200KV VandeGraaff Generator Kit 10-065, $89.95
+
+
+**************************************************************
+OTHER VDG SELLERS:
+
+ CENCO, www.cenconet.com
+ EDMUND SCIENTIFIC  www.edsci.com
+ WINSCO 219-563-8406
+ SARGENT-WELCH 800-727-4368
+
+
+**************************************************************
+KELVIN WATER DROP GENERATORS:
+
+  THE PHYSICS TEACHER, May 1988, pp304-306, The Ting-A-Ling Machine, by 
+  Cliff Bettis   (uses mixing bowls)
+
+  THE PHYSICS TEACHER, February 1972, pp100-101, Electrostatic Lobby 
+  Display, by M. Fast   (uses coffee cans)
+
+
+
+Some electrostatics books available by mail order from:
+   The International Tesla Society,
+   PO Box 5636, Colorado Springs, CO 80931, 719-475-0918:
+   http://rmi.net/~its
+
+ -  THE DESIGN & CONST. OF VANDEGRAAFF ELECTROSTATIC GENERATORS by K. Scott
+ -  FUNDAMENTALS OF APPLIED ELECTROSTATICS by J. M. Crowley
+ -  HOMEMADE LIGHTNING by R.A. Ford (has Wimshurst plans)
+ -  SECRETS OF BUILDING ELECTROSTATIC LIGHTNING BOLT GENERATORS by W. Noon
+    (Wimshurst machine)
+ -  THE INFLUENCE MACHINE, HOW TO MAKE IT, HOW TO USE IT, by J. Wimshurst
+
+     ...several others, obtain their "Resource catalog"
+

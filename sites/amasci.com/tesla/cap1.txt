@@ -1,0 +1,52 @@
+Date: Thu, 3 Aug 1995 16:07:30 -0600
+From: Erik C Schwartz <ECS9211@tntech.edu>
+Reply to: usa-tesla@usa.net
+Subject: Re: Capacitor sources
+
+Hello,
+
+I have an excellent idea for those of you who make glass and foil caps.
+
+Build a box out of wood about three inches taller than your glass plates, the
+box need not have a lid. Using a table saw or a hand saw (the power kind with
+the blades that are used on a table saw), abjust the blade so that instead of
+cutting through the wood it cuts a slot. Use nails to assemble the liddless
+box, making sure that the seams are together (no cracks). Slide your plate
+glass caps into the box, leave about 1.2" to 2" space between the caps, you
+don't want any arcing. Now go outside, this can get messy! Heat, in a double
+boiler, some canning parifin, enough to cover the caps completely. While the
+parifin is melting, get duct tape and go over every seam, then go over the
+seams again and this time over lap the edges of the tape already on the box. I
+also forgot to mention, you need to connect your caps in parralell(sp?), run
+uncoated copper wire from each plate to the top of the box, placing the wire
+opposite sides of the box for each capacitor. Now the parifin should be
+completely melted use a candy making thremometer to measure the temp. It needs
+to be about 190 F. When it reaches this, pour the parifin into the box,
+covering the caps completely, you will want to parifin to come almost to the
+top of the box. Make sure that the parafin is not leaking out of the seams of
+the box. if you discover that it is, use more duct tape to stop the leaking. If
+you have a limited budget, you might want to get a large cookie sheet, that has
+lips on all sides, then if parifin leakes you can reuse it. It will take about
+24 hours for the parifin to completely harden, in the first 45 - 120 minutes
+you may want to check on it. I have had experience making candles, and the wax
+tends to get air bubbles, these cause sinks in cooling wax. If any air bubbles
+are seen, use a dowel to try and move them to the surface, the parifin should
+be clear enough to see through went molten. If any sinks occur, the only time
+you can correct them is during the 45 - 120 minutes. Use the dowel, and poke it
+through the hardened sink and the move it up and down, then pour more parifin
+into the hole, and file the sink.
+	This project can get annoying, when you have to continue to fill the
+sinks, how ever if you manage to remove the air pockets under the sinks ond
+fill the sink, this protects the caps from losing energy to ionize the air
+around it. Unprotected glass/foil caps glow blue, this may not seem like a
+large lose, but every little bit counts.
+
+Erik Schwartz
+ecs9211@gemini.tntech.edu
+
+After thoughts : I forgot, It is a good idea to also allow 1 or 2 inches on the
+bottom of the box to keep the highly charged caps from arcing around the
+parifin. Just don't make the slots go all the way to the bottom of the box so
+that the parifin will cover all sides of the caps. 
+
+If this procedure works well for anyone, please give some feedback!

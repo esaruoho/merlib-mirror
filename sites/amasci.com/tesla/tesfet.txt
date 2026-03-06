@@ -1,0 +1,40 @@
+From mrbarton@ix.netcom.comWed Sep 20 03:37:27 1995
+Date: Sun, 25 Jun 1995 11:44:14 -0600
+From: Mark Barton <mrbarton@ix.netcom.com>
+Reply to: usa-tesla@usa.net
+To: billbeskimo.com
+Subject: Re: Vacuum Tube Driven Tesla Coils
+
+You wrote: 
+
+>The idea of making an offline switchmode power supply driver for a TC
+>primary (using IRF840 FETs in a full h-bridge configuration) occurred
+>to me a while back while I was designing a supply for a European
+>Customer. You could put at least 500VA into the primary with such a
+>setup and probably get a nasty RF burn, to boot, if you were careless.
+>This is a piece of cake with modern PWM control and CMOS power FET
+>driver IC's. Anybody out there try this yet?? Certainly not as
+>mad-scientist-looking as a rotary spark gap but the potential for EMI
+>control is certainly there and would make for a much happier
+>neighborhood.
+>
+
+Geoff,
+
+I have posted info on this system before, but will tell you it briefly. 
+A friend and I have built a VFET H-bridge driver that operates at 10KW 
+CW and about 40KW in burst mode (carrier bursts at about 100Hz rep 
+rate).  The carrier frequency is 80KHz.  The effects are startling.  CW 
+operation yields a 4 foot SHEET of electrical flame that sprays from 
+the discharge electrode with hisses and crackles.  Burst mode gives the 
+familiar tendrils of a classic TC along with that rrraaaaaaattt sound 
+we all love.
+
+Power supply: rectified and power factor corrected 240VAC yielding 
+400VDC.  Large bank of electrolytics to support burst mode operation.
+
+I believe the FETs are IRF540 type, 4 per leg.
+
+Mark
+
+

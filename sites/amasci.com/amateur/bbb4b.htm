@@ -1,0 +1,469 @@
+<HEAD>
+
+<TITLE>S. P. McGreevy BBB-4 Natural VLF Radio Receiver Plans</TITLE>
+
+<META NAME="AUTHOR" CONTENT="S. P. McGreevy Productions">
+</HEAD>
+
+<BODY>
+
+<center><H1>Stephen P. McGreevy's BBB-4 (Bare Bones Basic)
+Natural VLF Radio Receiver Schematic</H1></center>
+<HR>
+<P>
+REVISED RELEASE COPYRIGHT 1996 to1998 S. P. McGREEVY.  BBB-4 VLF Receiver for 
+broadband 0.1 to 11 kHz reception of naturally-occurring ELF-VLF radio phenomena. This schematic is being offered as-is.  Please see notes at the bottom of this sheet before contacting me about this unit.  If all instructions and notes are followed, there
+ should be no problem with it whatsoever.  Also, this unit will not receive ULF earthquake signals, nor am I very knowledgeable about such phenomena except for the very basics (I say this to reduce the number of inquiries I receive about such phenomena).
+<P>
+<HR>
+
+<PRE>
+01)  __________         BBB-4 VLF RCVR          o  +9 Volts
+02)  \    |   /                                 |      
+03)   \   |  /               ___________________|_____________\  To Audio
+04)    \  | /          C9  + |          |0.1uF  |             /  amp. 9 v 
+05)     \ |/         100uF __|__      __|__ C10 |                rail.
+06)      \/                _____      _____     |
+07)       |                  |          |       \
+08) 1 to  |                  |__________|       /  1K
+09) 3 mtr.|                __|__                \  R4
+10) whip  |               /  /  /    2N3819     /
+11)  ant. |      R1     C1             Q1    D  |_______||____\ To filter &amp;
+12)       |    1 Meg   0.1 uF          G  |_____|       ||    /  A.F. AMP.
+13)       |---/\/\/\---||---|-----|-------|           0.1 uF
+14)                         |     |       |-----|      C3
+15)                   C2   _|_    \           S |
+16)                  47pF  ___    / R2          /
+17)                         |     \ 10 Meg.     \
+18)                         |     /             /  220 ohms
+19)                         |     |             \  R3
+20)                         |-----|             /
+21)                       __|__               __|__
+22)                     /  /  /             /  /  /
+23)
+24)-------------------------------------------------------------------------
+25)     AUDIO FILTER L1 (A PI-FILTER USING A COMMON AUDIO XFMR AS INDUCTOR)
+26)                              *                 (^^^ = coil windings)
+27)(From FET drain coupling cap C3) L1  (1KCT xfmr primary) OR 160-200 milliHenry choke
+28)                           ==============  (Approx. 160 milli-Henries)
+29)           \_____ _________|UUUUUU|UUUUUU                  To input of 
+30)           /     |                |_______________| |____\  bi-polar
+31)                 |                         |      | |    /   audio amp.
+32)                 |                         |      0.1 uF
+33).0033 - .0047uF__|__   0.0033 TO .0047 uF  |        C6
+34)           C4  _____                C5   __|__
+35)                 |                       _____
+36)                 |                         |
+37)                 |                         |
+38)               __|__                     __|__
+39)              /  /  /                   /  /  /
+40)
+41)
+42) *L1 is a 1 KCT pri. to 8 ohm sec. audio xfmr. using one half of primary
+43)  winding and the center-tap as a series inductor equalling approx.
+44a) 160 milliHenry. C4 and C5 range from 0.0033 microFarads to 0.0047 microFarads regardless
+44b) of J-FET used.
+45)------------------------------------------------------------------------
+46)                 MICROPHONE LEVEL NPN AUDIO AMPLIFIER 
+47)      (+9 volt rail)
+48)   \__________________________________
+49)   /               |                 |
+50)                   |            10 K /
+51)              33 K \            R7   \
+52)               R5  /                 /                  MIC. LEVEL
+53)                   \          (C)____|______| |_______\   OUTPUT
+54) From audio        /            /           | |       /  To tape rec. or
+55)    filter         |    (B)  | /          0.1 uF          speaker amp.
+56)  \________________|_________|/            C8
+57)  /          |               |\__
+58)             |       Q2      | \/ (E)
+59)             |    2N3904        \______
+60)             |      NPN          |     |
+61)             |     Bipolar     + |     |
+62)             |  Transistor     __|__   \
+63)             \            1uF  _____   / R8
+64)     4.7K    /            C7     |     \ 1.5K
+65)      R6     \                   |     /
+66)             /                   |_____|
+67)             |                   |     
+68)           __|__               __|__  
+69)          /  /  /             /  /  /
+70)
+71)-------------------------------------------------------------------------
+Parts List:
+Caps:
+6 x 0.1 uF
+1 x 47 pf
+2 x .0033 uF or .0047 uF (see notes above or below)
+1 x 1 uF electrolytic
+1 x 2.2 uF electrolytic (see notes below)
+1 x 100 uF electrolytic
+---
+Resistors:
+1 x 1 meg.
+1 x 10 meg.
+1 x 200 ohm
+1 x 33K
+1 x 10 K
+1 x 4.7 K
+1 x 1.5 K
+---
+2 semiconductors (transistors):
+Q1: 2N3819  - a JFET, radio shack cat. # 276-2035
+Q2: 2N3904 - a NPN bipolar transistor, radio shack cat # RSU 11328564
+
+Misc:
+Audio transformer 8 ohm secondary, 1 K-ohm primary, center tapped, radioshack 273-1380
+--------------------------------------------------------------------------
+
+</PRE>
+
+<H3>BBB-4 receiver notes and other information:</H3>
+
+<P>
+The &quot;BBB-4&quot; is a broadband 0.2 to 12+ kHz V.L.F. receiver
+with a passband peak at approximately 1.5 - 2 kHz, and is designed to
+receive naturally-occurring V.L.F. phenomena (such as &quot;whistlers&quot;)
+that occur as electromagnetic (radio) waves at audio-frequencies.
+This receiver was designed to be hand-held or tripod mounted, and its output patched
+to a MICROPHONE-LEVEL input such as a tape-recorder or speaker-amplifier
+(such as the one available at Radio Shack (&quot;Mini Audio Amplifier/Speaker&quot;
+cat. # 277-1008). &quot;Radio Shack&quot; in the US and Canada
+is also known as &quot;Tandy&quot; overseas, such as in the U.K.
+<P>
+It is similar to the ready-made WR-3 and WR-3E that I used to sell (but no longer as I am concentrating on the development 
+of three compact disc audio albums of natural radio) in
+its employment of a whip antenna to successfully and with sensitivity
+monitor audio frequency VLF Natural Radio.  The differences between
+the BBB-4 and WR-3/3E units are that the BBB-4 does not have a headphone amplifier
+like the WR-3/3E units nor a switchable audio-filter.  This BBB-4 receiver can only be patched
+either to an outboard speaker/headphone-amplifier or a microphone-level
+tape recorder input.
+<P>
+Dissatisfied with more complicated and cumbersome multi-turn loop
+receiver schemes back in 1991, I opted to design a whistler receiver that
+was simple to build and use by newcomers to this realm of radio. 
+ I also desired the BBB-4 to be as sensitive and low-noise as
+possible using a small whip antenna while being highly immune to broadcast and utility station
+overload. 
+<P>
+The BBB-4 V.L.F. receiver circuit (&quot;BBB-4&quot; standing
+for a fourth version of my &quot;Bare-Bones-Basic&quot; designs)
+is remarkably sensitive and works very well with short whip antennas
+between 1-3 metres in length, since it operates on the same principle
+as high-impedance &quot;active antennas&quot; designed for other
+frequency ranges (such as long, medium or shortwaves).
+<P>
+The BBB-4, due to its F.E.T. &quot;front-end&quot; being a high-performance
+J-FET, has an input impedance of about 10 megohms, which is why
+the short whip antenna--more correctly called an &quot;electrical-field
+probe&quot;--works fantastically for being such a tiny fraction
+of the received-frequencies' wavelengths in size (the ultimate
+isotropic antenna). R1 and C2 act as a roll-off to frequencies
+above about 20-30 kHz, efficiently eliminating potential receiver
+overload/intermod from Loran-C (100 kHz), strong AM-BCB signals
+or SWBC signals, and frequencies up into the VHF ranges. R2 sets
+the gate impedance for the J-FET. R4 and R3 set the optimum bias
+on the FET for maximum dynamic range and minimum susceptibility
+to overload and intermod. C3 and C6 slightly helps roll-off low-frequencies
+such as powerline &quot;hum.&quot;
+<P>
+The &quot;pi-filter&quot; consisting of C4, L1 and C5 roll-off
+frequencies beginning at about 7 kHz, so there are not excessive
+levels of 10.2 - 13.6 kHz &quot;Omega&quot; signals or higher
+frequency signals, which can create problems with the recording
+system connected to the output of the receiver. R5 to R8 , Q2
+and C7 form a fairly low-noise Class-A audio amplifier which boosts
+the output from Q1 to a level plenty for all microphone-level
+recorder inputs and even some more &quot;sensitive&quot; line-
+level inputs. Bypassing R3 (1K) with a 2.2 uF cap will boost FET
+gain somewhat, esp. the higher frequencies--depending on your
+location and listening conditions, this may or may not be desireable.
+<P>
+The circuit can be built on perfboard such as IC-LSI boards or
+even wired point-to-point, as layout is not very critical. However,
+the parts' values ARE critical for optimum passband shape and
+sensitivity. <B>It is recommended that this circuit be installed 
+into a metal enclosure for maximum RF shielding</B>.
+<P>
+L1, the inductor, can either be a 160-200 milliHenry choke
+or the Radio-Shack 1K to 8 ohm audio transformer available at
+Radio-Shack (cat. # 273-1380). Use the black and green or black
+and blue wires (the center-tap and one end of the primary winding).
+<P>
+The audio transformer was used since it is easily available at
+Radio Shack stores. In fact, ALL the parts are available at Radio
+Shack. Capacitors C4 and C5 work with L1 to reduce Omega to tolerable
+levels. Solder the J-FET into the circuit LAST, and take measures
+to protect the FET from static electricity. The total cost for
+parts (not including an enclosure) for the BBB-4 are in the neighbourhood
+of $15-20 U.S.
+<P>
+A rugged telescoping-whip antenna is the GROVE ENTERPRISES &quot;ANT-8&quot;
+7-46-inch telescoping whip with a BNC connector. This is available
+for $16.95 from Grove Enterprises, P.O. Box 98, Brasstown, NC
+28902-0098, U.S.A. (Order Line 1 (800) 438-8155. They send out
+a free catalog. Another telescoping whip antenna of like design
+is available from C. CRANE RADIO CO. in Fortuna, CA in Fortuna,
+California (800) 522-TUNE (522-8863). E-field-probe receivers
+of this type need to be operated at locations away from trees,
+buildings, or other obstacles by about 100 feet/30 metres. This
+is because received signal levels (due to E-field attenuation)
+will be poor if the receiver is operated too near (or under) such
+obstructions.
+<P>
+The greatest nemesis to monitoring and recording naturally occurring
+VLF phenomena are electric AC powerlines, which emit annoying
+hum at 50/60 Hertz and also harmonics beyond 1 or 2 kHz. The only
+cure for this &quot;hum&quot; problem it to locate monitoring
+sites well away from AC powerlines. Locations at least 1 km/0.6
+mi. or so away from a.c. powerlines will begin to be acceptable,
+though the farther you can get from powerlines, the better. Hilly
+or mountainous terrain (with open areas free of trees) offer larger
+areas away from powerlines, though large fields and meadows where
+the powerlines are shielded by trees, etc. may be surprisingly
+hum-free. (On the other hand, &quot;low-hum&quot; areas can exist
+remarkably close to or witiin towns and cities if most AC lines
+are below ground.)
+<P>
+Remote locations such as deep into desert and wilderness regions
+offer the most rewarding locations, both aesthetically and electrically,
+to listen, and you may be able to get over 10 miles from the nearest
+powerline. If so, you can make the receiver's antenna several
+metres in length (keeping it vertical) for maximum sensitivity.
+Longer vertical antennas or horizontal wires may either overload
+the receiver, or in the case of long/low wires, will create a
+mismatch which will actually reduce output. Experiment here.
+<P>
+NOTE: A 100 milliHenry choke across C5 (the second .0047 cap in the audio
+filter) will greatly reduce the below 1 kHz frequencies, including
+pesky power- line hum. This may enable you to listen far closer
+to AC power-lines including even some backyard locations! Grounding
+is non-critical. High-impedance FET receivers of this type need
+only minimal grounding to work well--even just the body of the
+listener holding the metal enclosure of the receiver will be adequate
+in most cases. If you wish for really low noise performance in the input stage, replace R1 with a 100 milliHenry choke.
+<P>
+If recording, it is best to stick a 8-10 inch ground rod into
+the soil to reduce the possibility of feedback with some tape
+recorders. Also, a small ground-rod (8-10 inches long) will cut
+noise from body or foot movements (due to capacitive interaction
+with the ground). If you ground the receiver to objects such as
+fences, beware that certain grounds may couple AC powerline noise
+to the receiver, which is why I recommend a simple Earth ground.
+Better quality tape recorders, with adjustable input level controls,
+are desirable, as &quot;cheapie&quot; portable recorders with
+auto-level control will often have annoying variations in record
+level due to lightning-sferics. And, these cheap recorders also
+put noise of their own onto the tape.
+<P>
+A shielded 600 ohm patch-cord will suffice between the output
+of the BBB-4 and microphone input of a tape recorder or speaker
+amplifier.
+<P>
+The most common naturally occurring V.L.F. emissions to be heard
+are the myriad &quot;crackling and popping&quot; sounds of lightning-stroke
+electromagnetic impulses (static/sferics) from lightning storms
+within a couple thousand-km/mile radius of the listener. Since
+there are nearly 100 lightning storms in progress anywhere on
+the Earth at any given time, and that millions of lightning strokes
+happen daily, there is NEVER a moment when these lightning &quot;sferics&quot;
+will not be heard. However, the density and strength of lightning
+sferics can vary day-to-day and hour-to-hour. Mid-winter offers
+the lowest density of sferics, and summer evenings can be full
+of a dense barrage of strong sferics masking everything else.
+<P>
+The other most common (and most awesome) sounds are &quot;whistlers&quot;--eerie
+descending tones caused when the lightning electromagnetic energy
+gets &quot;ducted&quot; along Earth's magnetic lines-of-force
+(magnetosphere) to the opposite polar hemisphere, then gets rebounded
+back to the vicinity of the originating lightning stroke impulse.
+However, there doesn't have to be lightning within sight or even
+a few hundred miles of your listening location--lightning from
+storms up to thousands of km/miles away, particularly if more
+to the north of your location, can generate large whistlers which
+are heard continent-wide.
+<P>
+On the other hand, it's quite spectacular to watch safely distant
+lightning storms generate whistlers in the receiver's output--you
+hear the huge &quot;crack&quot; of the lightning impulse sferic,
+then, if the conditions to support whistlers are occurring, a
+whistler may follow from 1 to 2 seconds after the lightning stroke.
+Optimum times to listen for natural V.L.F. phenomena, such as
+whistlers, are between sunset and sunrise, with the midnight to
+sunrise period generally being the best.
+<P>
+Statistically, the greatest activity to be heard is around dawn
+and sunrise (4-7 a.m. local time)_sferics tend to be fairly low
+as compared to the sunset period. Dawn Chorus can occur during
+magnetic- storms, and will peak anywhere from an hour before sunrise
+to 2 hours past sunrise.
+<P>
+Whistlers can occur at anytime, but the period of minimum frequency
+is midday. Sometimes, activity can also occur just after sunset,
+but sferics will be fiercer. Lightning sferics will be most fierce
+during summer afternoons and minimum (generally) an hour or so
+after sunrise until thunderstorm activity picks up later on. Winter
+can present delightfully low lightning sferics_other activity
+will be more &quot;in the clear.&quot;
+<P>
+Tweeks, the &quot;ringing/pinging&quot; sounds of sferics caused
+by the Earth- surface/ionosphere &quot;waveguide,&quot; will be
+best from an hour after sunset to 2-3 a.m. local time, gradually
+tapering off toward sunrise. Their number and intensity of &quot;pinginess&quot;
+can vary from night to night_some nights they can sound rather
+&quot;pale,&quot; but other nights they can ring in a variety
+of beautiful mixtures and pitches. Whistlers, which may or may
+not be heard on some days or even weeks, can range in sound from
+quite pure notes to very diffuse &quot;breathy&quot; sounds. They
+can swoop in frequency from very high to low, or abruptly cut-off
+as they descend in pitch.
+<P>
+If you live north of the about latitude 45 in the US and Canada, 
+or in northern Europe, or extreme southern Australia and New Zealand (closer to the auroral zones),
+ you will likely be able to hear interesting natural radio
+activity about 50% of the time, especially during magnetically disturbed/storming periods.  For those farther south, 
+don't be discouraged if you listen for several hours, or several
+sessions on different days, without hearing whistlers or other
+natural radio phenomena. When you DO hear them, it will make up
+for the &quot;dry&quot; times, as there is nothing like &quot;live&quot;
+listening! Listeners located north between 40-55 degrees north
+or south latitude are in the optimum latitudes for monitoring
+natural V.L.F. phenomena.
+<P>
+If you can see visible Aurora (Northern/Southern Lights) from
+your location, you are at a great location for natural V.L.F phenomena
+monitoring! Latitudes between 20-30 degrees north and south will
+hear less, but at times, still loud phenomena. I've heard whistlers
+just fine in Hawaii_presumably those whistlers were louder farther
+north, but still, they were heard! DO NOT operate this receiver
+(or any other) when nearby lightning threatens! Take appropriate
+lightning precautions when lightning is occurring nearby (within
+5-10 miles).
+<P>
+Nearby lightning will cause excessively loud sferics in the receiver's
+output, and whistlers will not be louder just because lightning
+is close-by. Reserve listening for fair weather periods_most often,
+the best and loudest natural V.L.F. phenomena will happen during
+clear weather, since lightning can be quite distant, as mentioned
+above, and still spawn loud whistlers.
+<P>
+Coordinated monitoring of naturally occurring V.L.F. phenomena
+among individuals and groups has a strong potential to uncover
+new and previously unknown characteristics of these phenomena,
+particularly if those monitoring simultaneously are located hundreds
+and thousands of miles apart. Research and understanding of V.L.F.
+phenomena has been hindered by a lack of listeners, which is something
+a few research groups, both amateur and professional, are attempting
+to alleviate.
+<P>
+I hope you enjoy this receiver and are interested in monitoring
+and studying naturally occurring VLF radio phenomena for yourself.
+It is quite fascinating, especially when one ponders the fact
+that Earth's natural radio emissions have been &quot;sounding-off&quot;
+way before we Humans came into existence and started making radio
+waves of our own!
+<P>
+Happy Listening!
+<P>
+Stephen P. McGreevy
+<P>
+Text and schematic originally released November 1993, updated
+November 1995, January 1996 with thanks to many rec.radio.shortwave
+readers!!!
+<P>
+<B>Additional Tips:</B> 
+<P>
+1) A 100-200 milliHenry inductor connected across C5 the will act as a
+high-pass filter, nicely attenuating 60-360 Hz powerline emissions
+(hum).
+<P>
+2) If you want less gain from the Q2 stage (and slightly lower
+noise), reduce R8 to 4.7K.
+<P>
+3) Listen to WWV-shortwave (2.5, 5, 10, 15, 20 MHz) for geo- magnetic
+indices at 18 min. past each hour (WWVH-Hawaii at :45). A K- index
+at or above 3 indicates enhanced conditions for natural phenomena,
+especially chorus.
+<P>
+4) The U.S. NOAA/USAF/Space Environment Center (SEC) runs a fantastic Website with geomagnetic
+indices and other information available at:<A HREF="http://sec.noaa.gov">http://sec.noaa.gov</A>.
+Lists the past 30+ days' geomagnetic conditions, proton and electron
+fluences, and so forth. There seems a rough correlation between
+high electron fluences and louder whistlers at middle latitudes--
+look for fluences at 1.0E + 07 or higher. Periods when the solar
+flux is rising also seem to be times when whistlers occur more
+often. Nights of fabulous whistlers can be unpredictable and can't
+be reliably predicted via &quot;indices,&quot; so if you have
+a chance to listen, do so! Again, high K-indices over 3-4 mean
+probable chorus (auroral chorus at higher latitudes and dawn chrous
+at mid. latitudes near or just after your local sunrise. Conditions
+which hinder HF propagation make Natural Radio come alive!
+<P>
+Stephen P. McGreevy, N6NKS
+<P>
+<B>FINAL NOTE:</B> This E-field VLF receiver schematic and instructions
+are being offered &quot;as-is.&quot; It performs very well as
+described and in its form shown. Experiment at your own risk and
+enjoyment. It is made for a 1-3 metre whip (vertical) antenna
+only. It will not work with ham or SWL antennas, nor loop antennas,
+nor longwires. It is designed for approx. 300 Hz to 11 kHz reception--not
+lower nor higher frequencies. As it is presented herein, it will not receive man-made broadcasts/transmissions
+such as military VLF stations in the 16-25 kHz spectrum, nor earthquake (ULF)
+signals below 5 Hz, as some have previously asked me.
+<P>It is strictly a 0.4 - 11 kHz receiver for
+<A HREF="http://www.triax.com/vlfradio">Natural Radio</A> phenomena listening.
+<U>I tend to lack time to answer questions about it other than what
+is presented here.</U> Other than that, have fun with it!!! Commercial-use
+strictly prohibited without consent of Stephen McGreevy (ask and
+you may/shall receive...).
+<P>
+<B>NEW!:</B> Dave in north-eastern Holland (Gronigen) sent me this e-mail, saying how well his build of the BBB-4 works.  He has a fantastic web site showing photos of his finished receiver and antenna to BNC jack adaptations for use with his own BBB-4.  
+The URL of his web site with this information is: <A HREF="http://www.da4e.nl/elfspecial.html"> http://www.da4e.nl/elfspecial.html</A>
+<P>
+He also has some .wav recordings of his reception at this site.  The text of his e-mail is as follows:
+<PRE>
+Message-ID: <001401bdd387$568a6cc0$b40e86c2@do42>
+From: "Dave" <do42@euronet.nl>
+To: <vlfradio@triax.com>
+Subject: Whistlers and chorus
+Date: Sat, 29 Aug 1998 21:58:05 +0200
+
+Hi Stephen
+I am impressed with the performance of the BBB-4 reciever, I have now built
+2 and am avidly busy day and night recording in the very north east of the
+Netherlands in the polder areas where there are no cables and trees.
+So far I have captured both chorus and whistlers, and am using Gram to
+spectrumise the recordings. We had great trouble trying to get the
+transformers, so used 2 82 milliH chokes instead. Great stuff. I have been a
+radio freak for years, from UHF to LW and now to ELF. I intend to set up a
+page(s) on this area with spectrograms and sound bits, I would like to have
+the E-mail address of the designer of the Gram program, I could not find his
+address anywhere. Also if you have any more details of filtering in
+progress.
+Thanks so much for the turn on in this region of the atmosphere, as I was
+and am busy with the magnetic end of this for some time now.
+If you have time, like to hear from you..
+best wishes from Holland..
+Dave.  http://www.rcg.nl/~dave/elfspecial.html
+<P>
+http://www.rcg.nl/~dave/index.html
+
+
+</PRE>
+Rev. 07 Nov. 1999
+
+<HR>
+<H3>OTHER McGREEVY LINKS PERTAINING TO VLF RADIO</H3>
+<P>
+<H4>
+
+<P>
+University of Iowa Plasma Wave Group-hosted URL for fantastic sound files (.WAV) of Natural
+VLF phenomena:
+<BR>
+<A HREF="http://www-pw.physics.uiowa.edu/mcgreevy/">McGreevy ground-based VLF recordings at http://www-pw.physics.uiowa.edu/mcgreevy</A>
+
+</BODY>
+</HTML>
+

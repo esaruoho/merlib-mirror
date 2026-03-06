@@ -1,0 +1,177 @@
+
+
+Invalidation of the light clock gedanken
+
+
+The following is one of the observations that we have made during
+our research into special relativity. It is not *the theory* to
+which several of our postings have referred.
+
+
+SPECIAL THEORY OF RELATIVITY
+
+One of the tenets of Albert Einstein's special theory of relativity
+is its concept of time dilation - 'a moving clock runs slow'.
+
+
+THE LIGHT CLOCK GEDANKEN
+
+Some physics textbooks that deal with the subject of special theories
+concept of time dilation depict this phenomenon using a device known
+as a light clock. The following is a simplified version of this
+gedanken (thought experiment).
+
+Imagine a very tall glass tube - 300 000 kilometres in height - that
+has, at its base (A), a light source. From the point of view of an
+observer (an astronaut) who is standing next to this device a beam
+of light, emitted by the source, will reach the top of the tube (B)
+in one second of their time;
+
+
+
+B
+
+
+*
+
+
+*
+
+
+*
+
+
+*
+
+
+*
+
+
+*
+
+
+*
+
+
+*
+
+
+*
+
+
+*
+
+
+*
+
+
+A
+
+        diagram 1
+
+However, from the point of view of an observer past whom the device
+is moving, the tip of the beam moves in this fashion:
+
+B1                                                                B2
+                                                                   *
+                                                             *
+                                                       *
+                                                *
+                                         *
+                                  *
+                           *
+                    *
+             *
+      *
+*
+A1                                                                 A2
+
+        diagram 2
+
+(the asterisks were placed in a straight line from A1 to B2, I hope
+that they transmitted that way)
+
+On the basis of a constant velocity of light it is said that the
+tip of the beam of light moves from A1 to B2 at 300 000 kilometres
+a second and, due to the fact that this distance is greater than
+the height of the tube, it is said that the beam will therefore
+take longer to make this journey from the point of view of the
+observer than it does from the astronaut's point of view.
+
+If the light clock is travelling at 298 500 kilometres per second
+past the observer it takes ten seconds of the observer's time for
+the tip of the beam of light to move from A1 to B2 (3 000 000ks.)
+so, from the observer's point of view, each of the astronaut's
+seconds must be equal to ten of their seconds ergo the astronaut
+has, according to the textbooks, incurred time dilation.
+
+Of course it is quite obvious that the same effect (as per dia.2)
+will take place irrespective of the direction in which the light
+clock is moving - from the observer's left to right as shown or
+from right to left.
+
+
+THE HAFELE-KEATING EXPERIMENT
+
+In 1971 Hafele and Keating took atomic clocks around the world in
+the same direction as the Earth's axial spin (i.e. from West to
+East). It was found that the clocks incurred time dilation -
+ticking over at a slower rate than the laboratory clock. This was
+said to confirm special theories concept of time dilation.
+
+The clocks were then taken in the opposite direction (i.e. from East
+to West) and it was found, as anticipated, that the clocks  incurred
+time *contraction* - ticking over at a faster rate than the laboratory
+clocks - however this was still said to comply with special theory.
+
+It is axiomatic (as shown by the HKX) that if we are looking at a
+clock that is travelling from West to East, the clock will indicate
+time dilation, compared to our own clock, whilst an identical clock
+that is moving in the opposite direction will indicate time
+contraction (of course, we are only talking about nanoseconds
+therefore we would not *see* these variations however they would,
+according to that experiment, be taking place).
+
+
+NEGATION OF THE LIGHT CLOCK GEDANKEN
+
+If we are looking at a light clock and an atomic clock that are
+moving from East to West (i.e. in the opposite direction to the
+Earth's axial spin) at identical velocities the light clock
+(according to the textbooks) will incur time dilation but the
+atomic clock *will* incur time *contraction*!
+
+Which of those two clocks represent *reality*?
+
+The atomic clock experiment *has* been conducted whilst the light
+clock gedanken is nothing more than a diagrammatical interpretation
+of a mathematical proposition that - according to Einstein, does
+*not* refer to reality.
+
+The Hafele-Keating experiment proved that the textbook depiction
+of special theories concept of time dilation as per the light
+clock gedanken will not take place!
+
+(in fact it can be shown that the textbook depiction is misleading
+however this requires a series of diagrams which would be very
+difficult to present in this format)
+
+The light clock gedanken is acknowledged as being *the accepted*
+presentation of special theories concept of time dilation. If, as
+we suggest, the gedanken *is* nullified as indicated by the results
+of the Hafele-Keating experiment it follows that special theories
+concept of time dilation will not take place as claimed. Special
+theories *assumption* of the constancy of the velocity of light is
+fully dependant on its concept of time dilation. If clocks do *not*
+slow down and lengths do not *physically* contract as presented by
+special theory then its concept of light speed constancy cannot be maintained.
+
+In our forthcoming theory we show that time dilation *does* take
+place but not as depicted by special theory - simply as the result
+of one reference frame moving relative to another reference frame.
+............................................
+
+Copyright  - Sydney - Australia - 26 June1995
+Bill Owen   (for:  W H & G D Owen (B.App.Sc.Hons.))
+wowen@extro.ucc.su.OZ.AU
+

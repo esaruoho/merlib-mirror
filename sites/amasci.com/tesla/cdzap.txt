@@ -1,0 +1,35 @@
+
+Date: Wed, 11 Jun 1997 21:55:04 +0000
+From: Mike <mgahagan@ns.gamewood.net>
+Subject: More fun with Tesla Coils
+
+... don't know if anyone else has tried this or not, but it is a good way
+to put all those free CD-ROM's you get to good use :) Here's what I did. 
+
+I placed an unwanted CD on top of my 1" dia brass spherical discharge 
+terminal. My coil has variable output from 1/2" sparks to about 8". I 
+turned on the coil with it set  on "low". I got the expected corona 
+around the edges of the disk. I slowly turned up the power and an arc 
+started from the hub and went to the surface of the plastic where the 
+thin layer of metal starts. The arc spins around the disk and as it 
+does it disentigrates the metal part of the disc as well as burning 
+off the ink on the printed side. The interesting thing is aside from 
+some warping of the plastic from the heat generated, the plastic is 
+almost completely undamaged! The ink does seem to scorch it in spots 
+as it usually starts to burn, but on the data side the plastic stays 
+smooth and clear. I was wondering if anyone else has tried this, it 
+does make for a nice display. 
+
+
+
+Mike Gahagan
+
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+Version: 2.6
+
+mQCNAjIW4jwAAAEEAKeh8Zuz8dVgP88gvyTsLtEUT/I17PoFsaIVs0MFH1VAwQWg
+PhDIy6+TBJkPvNMIWNwukW8YNkqXqjYmw/45FootDit87mlAIVpOog7m8AReU4F6
+aPEQm6TnqFttMnx/uRIG9EbqaS+bNm9PWoJ+RNrv0mGaxk50A/dTEoQWJiYdAAUR
+tBxNaWtlIDxtZ2FoYWdhbkBnYW1ld29vZC5uZXQ+
+=Sm+t
+-----END PGP PUBLIC KEY BLOCK-----

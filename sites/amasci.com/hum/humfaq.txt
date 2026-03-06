@@ -1,0 +1,110 @@
+This FAQ is under construction, meaning, we have lots of questions but 
+few answers!  If you have questions to add here, please mail me at 
+billb@eskimo.com.  Or join the TAOSHUM-L mailing list.
+----------------------------------------------------------------------------
+
+Q1 - How do most of the "hearers"  describe the Taos Hum (T-H) ?
+
+ A: As those who have seen the www page, the Hum is descibed most commonly
+ as a deisel truck idling in the distance.  Sometimes the sound is
+ constant, sometime it constantly changes in loudness at between one and
+ four times per second.  Sometimes it has a slow "beat note" sound, other
+ times a "morse code" effect.  Some people perceive it as being louder
+ indoors than outside. 
+
+
+Q2 - What is the approximate percentage of the population of Taos NM, who
+claim to have heard T-H?
+
+ A: After examining ten hearers the team (now including James Kelly, a
+ hearing research scientist with the University of New Mexico's Health
+ Sciences Center) began a broad survey of Taos locals. Their survey of
+ 1,440 residents led the team to extrapolate that roughly 2% of the Taos
+ population were hearers.
+
+
+Q3 - From reports of "hearers" in parts of the world other than in Taos,
+NM, what may be said about the global distribution of T-H?
+
+ A: Nearly every state in the US has at least one "hum hearer" report,
+ including Alaska and Hawaii.  The largest number of reports come from the
+ southwestern US, the Pacific Northwest, and southeastern states. 
+ Worldwide, the Hum has caused such problems in the UK and Sweden that
+ hum-hearer support groups have formed there.  There are hum-hearer
+ reports from Italy and from Mexico.  On the other hand, US hum-hearers
+ have traveled to China and S. Korea, and report that no Hum exists in the
+ locations they visited. 
+
+
+Q4 - What sorts of psychological (or other) evaluations suggest that T-H is
+not a hoax or some sort of "mass hysteria" ?
+
+ A: Indirect evidence: some scientists and engineers hear the hum
+ themselves and are able to directly experiment with it (comparing against
+ audio oscillators, detecting zero-beats, etc.)
+
+
+Q5 - What were the acoustic "hum-matching" tests that were run by the
+University of New Mexico (UNM) researchers, on "hearers" in Taos NM?
+
+
+
+Q6 - What frequencies (and modulation) do T-H "hearers" perceive, as a
+result of the hum-matching tests?
+
+ A:  A carrier a 40 - 50 Hz modulated ~1 - 2 Hz.   In England, one
+ hobbyist matches it to a 150Hz and 250Hz signal, modulated ~1 - 5 Hz.
+
+
+Q7 - What was revealed by electromagnetic spectrum scans during the tests
+in Taos, NM?
+
+
+Q8 - What percentage of the T-H "hearers" in the Taos hum matching tests
+reported hearing "beat frequencies" of the test oscillator, against their
+T-H perceived sound?
+
+
+
+Q9 - Is there any quantitative evidence for or against the idea that (the
+US Navy's) ELF communication system is a possible cause of T-H?
+
+ A:  This is just a personal observation: From what little I know of the 
+ ELF system, its main purpose is to signal submarines to the surface (or 
+ raise their attennas) for satelite communication links; only small 
+ amounts of data at a time can be transmitted via low frequency signals.  
+ From what I've read from "hearers", many hear the hum constantly, though 
+ with varying intensity.  I find it difficult to believe that the military 
+ is constantly in contact with is sub fleet and because of this I tend to 
+ discount the ELF system as a source.
+
+
+Q10 - What are some possible explanations for why "hearers" who are very
+sensitive to T-H (those who are significantly "bothered" by it) say that
+wearing ear plugs or other acoustic "quieting" devices, does not help
+reduce T-H?
+
+ A: First, ear plugs and other types of devices are normally effective at
+ reducing the transmission of only high frequency sounds (the wave length
+ of a 1000Hz signal in air is ~1 foot).  Secondly, use of these devices
+ assumes the T-H is an acoustic signal; If the T-H is a result of
+ something other than an acoustic source, these devices would not reduce
+ the intensity of the the perceive "sound". 
+
+
+
+Q11 -  What research efforts in possible human conversion of non-acoustic
+signals into percieved sound are in progress?  That is, has anyone
+postulated any mechanism (in humans) that could explain how a person could
+serve as a detector for ELF, or electrostatic waves or atmospheric gravity
+waves, etc.?
+
+
+
+Q12 -  Did the Taos tests show that the acoustic responses of T-H "hearers"
+was more sensitive (than "average" persons), at the low frequencies of T-H?
+
+ A:  I'm not aware of the results of the few tests that were done in the 
+ area of low frequency sensitive in Taos.  We at UNM, however, have 
+ finished development equipment to investigate low frequency (200 - 20 Hz) 
+ hearing thresholds and have begun testing on "non-hearers".

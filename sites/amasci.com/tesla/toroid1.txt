@@ -1,0 +1,277 @@
+From richard.quick@slug.orgWed Aug 23 21:32:56 1995
+Date: Wed, 23 Aug 1995 22:16:41 -0600
+From: Richard Quick <richard.quick@slug.org>
+Reply to: usa-tesla@usa.net
+To: billbeskimo.com
+Subject: TOROIDS
+
+Quoting Henry.Gessau@abc.se (Henry Gessau):
+
+ > Could you share a bit your knowledge of toroids for T.C.s?
+ > E.g:
+ > - Advantages/disadvantages of toroids vs. spheres
+ > - Size of toroid/sphere required
+ > - Obtaining/constructing toroids/spheres
+
+                 Toroid Discharge Terminals
+
+Another feature of the "classic" Tesla coil design is the sphere
+or ball discharge terminal. Tesla clearly was using spheres while
+he was developing the Colorado Springs oscillator, but during his
+work there he made the discovery of toroids. Photographs of the
+Colorado Springs machine clearly shows a brass toroid as part of
+the antenna mast to prevent corona leakage and premature breakout
+from the top of the extra coil.
+
+As we examine photos and patents of the Wardenclyff machine he 
+built on Long Island, it is clear that the entire tower was con-
+structed to carry the giant toroid terminal. I do not have 
+verifiable information as to the exact size of this terminal, but 
+it is easily over 50' in diameter. Probably closer to 75-100'. 
+Toroids perform several functions as discharge terminals on Tesla 
+coils.
+
+1) They provide a large top capacitance. This top capacitance helps
+"cancel" the high inductance in the secondary coil (as the "C" cancels
+the "L" in an LC oscillator), and increases throughput in the system.
+This is a key to achieving dramatic increases in current output from a
+Tesla resonator.
+
+2) Toroids break down at much higher voltages than other shapes.
+The donut shaped field distributes the charge density. Higher
+voltages must reached before electrical breakdown occurs. To the
+coiler this means longer, higher voltage spark. By swapping a 
+toroid for a sphere and retuning the system you can obtain a 
+20-30% increase in spark lengths with no change to input power.
+
+3) Toroids sever the coupling. This may be a controversial state-
+ment on my part. But from what I have seen, appears to be true. 
+A sphere discharge terminal does not want to separate from the
+field flux interactions between the primary and secondary. The
+primary field flux wants to couple the sphere discharger into the
+system as if it were another turn of the secondary. The spark
+from the sphere discharger will frequently follow the lines of 
+force created in the primary/secondary field flux, and seek to 
+strike downwards and back to the primary. 
+
+While this may be useful if you wish to visualize the size and
+shape of the field, it does nothing to increase your spark
+lengths. A large toroid on the other hand will establish a field
+identity that is separate from the primary/secondary field inter-
+action. Since the toroid field is established well above the top 
+turns of the secondary is does not affect the coil performance or 
+ability to process energy. It does however allow the spark to 
+leave the system unaffected by the primary/secondary lines of 
+force. This has the effect of allowing a clean getaway for the 
+discharge and promotes those long strikes to the ground or other 
+more distant objects.
+
+4) Toriods also have the beneficial effect of dramatically lowering 
+the frequency of the secondary coil. By loading a large toriod on a
+relatively small coil, a very low secondary frequency is reached. 
+Low frequency in Tesla systems means long spark. This way a small 
+coil can give big coil performance. Because of this ability of the 
+toriod to reduce the secondary to low frequencies, it is important 
+to have a very large primary available that can be tapped out to 
+over 10-12 turns in order to regain the system tune. Larger cap-
+acitors may be added, but my experience shows that no additional 
+power or capacitance is required to get big increases in spark 
+production.
+
+5) Toroids provide excellent corona shielding. This shielding
+prevents corona losses and breakdowns in the top turns of the 
+secondary winding.
+
+Clearly the toriod is the ultimate in high Q discharge terminals 
+for Tesla systems. Now go out and buy one. I can hear my friend
+Dave Halliday now..... "You Paid _HOW MUCH?_"!!!
+
+Yup, spun aluminum toroids are available commercially, and they
+run hundreds, even thousands of dollars each. My 20" wide by 5"
+high commercial toriod ran me over 350 clams. My ten inch
+secondary needs a toroid at least twice that big to achieve 
+optimum performance, and as commercial toroids get larger, the 
+price increases exponentially. I priced a 40" toroid for my coil 
+at $2000.00 not including shipping, and they gave me a six month
+delivery time... 
+
+Considering the time, money, and performance; by far the best way
+to obtain toriods is to build them from scratch. Basically we are
+looking for a fairly smooth ring or donut shape that has a flat
+plate mounted in the center. The entire surface needs to be
+conductive. As long as these simple guidelines are met, any way
+you can build one will work fine; but generally there are several
+approaches.
+
+The first method, and my personal favorite, uses a ridged or
+"corrugated" black flexible polypropylene drain piping that is
+commonly found in hardware, plumbing, and construction supply
+dealers here in the states. It is found in a variety of sizes,
+four inch and six inch dia. being common. This flexible piping
+can be cut into suitable lengths and easily bent into a ring of
+the desired size. I match the ends up, and use 3 inch wide
+plastic adhesive tape to hold the two ends together. 
+
+Once the ring is made, I use strips of 3 inch wide plastic
+adhesive tape to smooth out the ridges (or corrugations) in the
+surface. These strips of plastic tape also provide a surface on
+which the conductive layer is applied. Next I obtain a roll, or
+two, of specialty "plumbers tape". This tape is found at the same
+dealers that handle the flexible plastic drain piping mentioned
+above, and is commonly available in two widths, 1-1/2 inches
+wide, and three inches wide. This tape is really just a roll of
+heavy aluminum foil that has a thin adhesive backing. 
+
+Strips of the aluminum foil "plumbers" tape are cut and applied
+in overlapping sections on the plastic ring until the entire
+surface of the ring is covered and has a conductive surface. Next
+a disk or circle of thin plastic, masonite, wood paneling, etc.
+is cut so that it friction fits inside of the conductive ring.
+Lay the toriod on the floor and center the disk in the middle of
+the ring. Set some wood blocks, books, or other spacer beneath
+the center disk to hold it in place in the middle of the con-
+ductive ring. Glue, plumbers tape and/or strips of glue covered
+metal foil are placed around the edges where the flat center
+contacts the outside conductive ring; this holds the center plate
+in place. Next I use a high quality spray adhesive to coat the
+center plate, and cover both sides of the plate with heavy duty
+aluminum foil.
+
+This basically completes the construction of this type of
+homemade toriod. Strips of aluminum foil coated with a high
+quality spray adhesive may be substituted for the commercially
+made aluminum plumbers tape. 
+
+A second type of homemade toriod uses a commercially manufactured
+flexible round aluminum ducting to form the donut or ring. This
+ducting is available from commercial building suppliers, heating
+and air-conditioning companies, and occasionally a hardware
+store. The material is rather fragile, and will dent easily. A
+ring is fashioned and the ends are glued or taped. The conductive
+center plate is constructed and mounted exactly the same as in
+the instructions above.
+
+Another material available in the states is a round flexible
+stainless steel piping sold as a replacement chimney liner. This
+material is tough, flexible, and corrosion proof. It is sold for
+relining chimneys in older houses where the original liner has
+decayed. It is more expensive than the aluminum air ducting, but
+you would need a hammer to dent this material. The ring could be
+riveted or even welded together, although tape or glue would
+probably work. The conductive center plate would be constructed
+as outlined in the instructions above.
+
+Another homemade toriod design uses sections of rounded stove
+pipe elbows fitted together to make a conductive ring. Again the
+center plate is constructed as outlined above.
+
+Do not worry about a perfect and solid connection between all
+sections of a homemade toroid. Overlapping foil with an adhesive
+layer between may show a poor or non-existent connection when
+measured with the VOM, but in practice the skin effect makes 
+this a moot point. The toriod will be function perfectly even 
+if all sections are not perfectly electrically bonded.
+
+In practice a homemade toriod can be put together from scratch in
+a few hours with almost no tools and very little money. The
+performance is nearly identical to a commercially made toriod
+costing hundreds of dollars, though typically homemade toriods 
+do not have the "polish" that commercial toriods have. Trust me
+though, then the lights are down, and the sparks are flying,
+nobody notices glue splotches or other imperfections on the
+surface.
+
+Richard Quick
+
+**************************************************************************
+Mike McCarty quoting Richard Quick:
+
+> Considering the time, money, and performance; by far the best way
+> to obtain toriods is to build them from scratch. Basically we are
+> looking for a fairly smooth ring or donut shape that has a flat
+> plate mounted in the center. The entire surface needs to be
+> conductive. As long as these simple guidelines are met, any way
+> you can build one will work fine; but generally there are several
+> approaches.
+
+I used a piece of corrugated drain tubing but instead of covering 
+it with tape to smooth it I covered it with wallboard joint
+compound, baked it, and sanded it down. (I'm a use what ya got
+type of guy).  I then shot some primer on it and covered it
+with 2 inch aluminum HVAC tape.  I cut a disc of 1/8" aluminum
+for the center.
+
+Mike McCarty
+***************************************************************************
+From: chip (Chip Atkinson)
+Subject: Another toroid construction method.
+
+Greetings,
+
+A couple of weeks ago I built a toroid for my new coil (that will be 
+finished in 97 or so, given as much time as I have).  I found a fairly 
+cheap way of building it and it looks fairly decent.  
+
+Materials:
+
+two aluminum pie pans.  These are the type that are not foil, but are 
+lighter in weight than something that you would buy for baking.  
+
+Aluminum drier hose. 
+
+Aluminum solder.  I got this at a welding supply company for about $7.50 
+per pound.  It takes a little skill to use, but works pretty well. Note:  
+This stuff also sticks to copper, so you can make Cu-Al solder joints.
+
+Procedure:
+Solder the pie plates back to back so that they look like >-< in cross 
+section.  Form the drier hose into the toroid shape and test fit to 
+ensure that the ends touch when wrapped around the V formed at the edge of 
+the pie plate assembly.  When everything looks good, start soldering the 
+hose to the pie plates until you meet at the starting point.  Then solder
+the ends of the hose together.  In cross section, the finished toroid will
+look somewhat like this O>-<O  
+
+Notes:  The aluminum solder melts at a fairly high temperature, so you 
+should experiment on something expendable first.  I can use lead-tin 
+solder just fine, but this stuff is a challenge (but worth it). 
+
+Chip
+**************************************************************************
+
+>From Ed Sonderman, RE: Toroid Mounting 
+
+I use the following method to mount my toroid.  On top of the secondary
+plastic end plate, I glued a pvc end cap for 1.0" dia pvc pipe with the open
+end up.  It helps to sand or turn it on a lathe to get it nice and flat.  Now
+I insert a short piece of 1.0" dia pvc pipe of the height desired (I am using
+about 6.0" now).  Do not glue it.  Then I take another end cap and flatten
+the end off again and drill a 1/4" hole in it.  Then I insert a 1.0" long 1/4
+x 20 nylon screw through the hole from the inside.  Place a piece of tape
+over the head to hold it in place.  Now place this cap on the stand off pipe.
+ My torroids all have a 1/4" dia hole drilled through the center.  I set the
+torroid down over the screw, using a large nylon washer and tighten it down
+with a nylon wing nut.  I have the top 2.0" of the tail of the secondary wire
+stripped bare and wound into a loop.  I place this over the screw before
+sitting the torroid in place.  So it gets clamped into place when the wing
+nut is tightened.  This achieves a mechanical and electrical connection at
+the same time.  The end caps make it easy to change pipe lengths and the
+attachment method allows easy changing of torroids.  Which I never thought
+would be a problem but now I have three.
+
+ I now wish I would have gone with 2.0" dia  pvc caps and pipe since my
+dischargers have grown so large - for more stability.
+
+(Editors Note: Ed went to mounting an end cap for three inch diameter
+PVC plastic pipe to obtain the stability he was looking for)
+
+I am just completing my newest torroid and should get it fired up tonight.
+It is again made of 5.0" dia corrugated black plastic drain pipe.  I used
+about 9.5 feet of drain pipe and a 30" acrylic disc for the center.
+ Finished, it is about 40.0" in diameter.
+
+Ed Sonderman
+
+
+.. If all else fails... Throw another megavolt across it!
+___ Blue Wave/QWK v2.12

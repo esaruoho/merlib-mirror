@@ -1,0 +1,104 @@
+
+Date: Sun, 20 Aug 2000 19:57:34 +0100
+From: Gavin D.
+To: FG <freenrg-l@eskimo.com>
+Cc: keely <Interact@keelynet.com>
+Subject: [FG]: Hodowanec Circuit
+
+
+Hi all,
+
+for a while I have been an avid coiler, but have now decided to embark
+upon the exploration of more subtle energies. So I have turned away from
+the scene of high voltage currents to the realm of strange electronics. 
+Naturally my first port of call was Hodowanec's work on gravity wave
+detectors.  I have built the circuit on breadboard to see what exactly it
+did, but may build a "fixed" version on strip-board; full details of the
+circuit can be fond in the file grav3.html, otherwise I'll send a pcx file
+of the circuit to anybody who is interested.
+
+Anyway, the results.
+
+I first built the simple circuit but found it rather insufficient so I
+moved on to building the "improved circuit" as described in the grav3
+file, this circuit gave better results due to greater total gain. 
+
+Now, in the circuit diagram the value of sensing capacitor was stated to
+be 0.22, this could mean 220nF or 220pF, most likely 220nF considering
+standard notation. However, due to some of the frequencies stated in the
+file, I decided that 220pF was more likely.......I was wrong; I think the
+term is "ego-driven modifications"; 220nF works just fine! 
+
+With the 220nF and the QND capacitor out of circuit, the output was low
+amplitude noise when the Gain potentiometer (RV2) was set to minimum (i.e.
+the wiper was right round to near ground). As the potentiometer was turned
+to maximum, there was a clear tone of around 750Hz (the out but of the
+circuit was connected to both a scope and simple audio amplifier). By
+adjusting the other potentiometer (the one in the feedback path from the
+first op-amps output to the inverting input, from now on RV1) this tone
+change in pitch, upto around 1.5KHz. When Gain RV2 was set between Tone
+and Noise, the signal sounded something like morse code. There was a
+general ELF signal modulated upon this tone, although it was not well
+defined. 
+
+When the QND capacitor was connected into circuit, the out was pure noise. 
+When the 220nF sensing capacitor was removed, the noise disappeared (only
+low level mains hum present), so the sensing capacitor was definitely the
+source of the noise (not the 741 op-amp which makes an excellent noise
+source in it's own right :-) ). Adjusting RV1 only influenced the general
+tone of the white/pink noise. 
+
+I tried replacing the 220nF sensing capacitor with a 1000uF electrolytic
+as suggested in file grav3, this did not work to great. The signal sounded
+like a low frequency pulse train (say around 5Hz or so). However on the
+virtual scope (which tended to inject it's own noise, i.e the switch mode
+PSU for the laptop, around 3kHz) the signal was found to be a train of
+impulses or spikes, also amplitude modulated with the strange ELF signal.
+As spikes contain harmonics, the addition of the QND capacitor made no
+difference at all, the pulsing remained.
+
+I then tried a 100uF cap, this was best of all. Without the QND capacitor
+the output was again pulsing and the frequency of this could be altered by
+adjusting RV1. When the QND capacitor was connected, the pulsing only
+really ceased when both RV1 and RV2 were set to particular point (more of
+a certain minimum, i.e. a 3rd of the way round, when the frequency and
+gain were low enough but a signal was still present)  When this was
+achieved, lower frequency pink noise was present at the output. This pink
+noise definitely had some structured, yet complex, signal deep within it. 
+
+Just to check, I tried replacing the sensing capacitor with other
+components. First I left it open circuit, this resulted in very low level
+mains hum; the same as when a 220pF capacitor is connected. The I tried
+shorting to ground, this resulted in no signal what so ever, apart from
+some very low level noise from the op-amps. In contrast to this I connect
+a 10M resistor, this resulted in again low level mains hum. 
+
+The most amazing result was achieved by replacing the capacitor with a
+piezo-electric element. After tuning my head to stop the acoustic
+feed-back to the headphones, I could hear every movement I made. When I
+dropped a softish item on the table, I heard a massive thud. Not only
+this, but I could hear a conversation from next door; I live in a detached
+house!! 
+
+I also replaced the capacitor with two electrodes inserted into the
+ground. With both electrodes it was no different to shorting the inverting
+input to ground (as mentioned above). However, after removing the earth
+electrode connected the circuit ground, with only the inverting input
+connected to a earth electrode; the circuit gave a tone similar to when
+the 100uF capacitor was connected. The frequency of this tone altered as I
+raised the whole breadboard from the ground, increasing in frequency with
+height (obvious capacitive coupling, but at 100uF!?), it was only after a
+foot or so that I began to hear mains hum and typical natural earth
+current activity; all through a single wire. 
+
+The best sensing capacitor was found to be a disc ceramic 220nF, other
+220nF capacitors were tried. 
+
+
+Well, that's it, read grav3 and give it a try.
+
+Regards,
+
+Gavin
+
+

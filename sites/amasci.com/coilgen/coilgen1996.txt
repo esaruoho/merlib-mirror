@@ -1,0 +1,244 @@
+
+Ultra-simple Electric Generator
+(c)1996 William Beaty
+
+   4  -  1cm x 2cm x 5cm ceramic magnet, Radio Shack #64-1877 $ .99
+   1  -  #30 Magnet wire 200ft, Radio Shack # 278-1345        $3.99
+   1  -  Miniature Lamp, 1.5Volt 25mA Radio Shack #272-1139   $1.29
+   1  -  Cardboard strip, 8cm x 30cm
+   1  -  Large nail, 8cm long or more
+  Misc. -  Knife or sandpaper to strip the wires
+  Misc. -  tape
+  Optional: hand drill or electric drill
+
+
+This AC generator is made up of a hollow-ended cardboard box with a nail
+through the center, many turns of wire wound around the box, and four
+magnets clamped around the nail.  When the nail and magnets are spun fast
+by hand, the little light bulb lights up dimly.
+
+First make the hollow-ended box.  Score the cardboard strip like so:
+
+   ___________________________________________________________________
+  |       8cm      | 3.5cm  |       8cm       | 3cm   |      7.5cm    |
+  |                |        |                 |       |               |
+  |                |        |                 |       |               |
+  |                |        |                 |       |               |
+  |8               |        |                 |       |               |
+  |cm              |        |                 |       |               |
+  |                |        |                 |       |               |
+  |                |        |                 |       |               |
+  |                |        |                 |       |               |
+  |                |        |                 |       |               |
+  |________________|________|_________________|_______|_______________|
+
+
+
+           _____8_________
+         _|______________ \
+        |\       7       | \ 3.5
+        |3\              |  \
+        |  \_____________|___\
+        |  |         8        |
+        |  |                  |
+        |  |                  |
+        |  |                  |    Fold it like this and tape
+        |  |                  |    it securely.
+        |  |                  |
+        |  |                  |
+        |  |                  |
+        |  |                  |
+         \ |                  |
+          \|__________________|
+
+
+            _______________
+           _|______________ \
+         |\               | \
+         | \              |  \
+         |  \_____________|___\
+         |  |                  |  Use the nail to poke a hole perfectly
+         |  |                  |  straight through the center of the
+         |  |                  |  box, going through both sides and all
+         |  |        (hole)    |  three layers of cardboard.  Then pull
+         |  |                  |  the nail out and use it to widen all
+         |  |         O        |  the holes slightly, so when you put
+         |  |                  |  the nail back through, it will be a
+         |  |                  |  bit loose and able to spin.
+         |  |                  |
+          \ |                  |
+           \|__________________|
+
+
+
+                                 Pick the spool of number-30 magnet wire from
+           _______________       the kit of spools. This is the thinnest.
+         _|______________ \      Tape one end of the number-30 magnet wire
+        |\               | \     to the side of the box, then wind all of
+        | \              |  \    the wire onto the box as shown.  It's OK
+        |  \_____________|___\   to cover up the nail hole.  Pull the taped
+        |  |                  |  end of the wire out, then tape down both
+        \  |                  |  of the wires so you have about 10cm
+        \\ |                  |  of wire sticking out.
+        \\\====================|
+        \\\====================/___
+        |\\====================/   \
+   -----+-\====================/    \
+  /     |  ====================      \
+ /      |  |                  |       \   Use sandpaper or the edge of a
+|        \ |                  |        |  knife to scrape the thin plastic
+|         \|__________________|        |  coating off 2cm of the wire ends.
+|                                         Remove every bit of red coating,
+                                          so the wire ends are coppery.
+
+
+           _______________
+         _|______________ \
+        |\               | \
+        | \              |  \
+        |  \_____________|___\           Spread the wire away from the
+        |  |                  |          nail hole and tape it in place.
+        \  |                  |          Stick the nail back through the
+        \\ |                  |          holes and make sure it can spin.
+        \\\====================|         Take your four magnets, stick
+        \\\========---=========/___      them face to face in two pairs,
+        |\\========(\\)========/   \     Then stick the two pairs inside
+   -----+-\===========(_)======/    \    the box and on either side of the
+  /     |  ====================      |   nail so they grab the nail.  Push
+ /      |  |                  |      |   them around until they are some-
+         \ |                  |      |   what balanced and even, then spin
+          \|__________________|      |   the nail and see if they turn
+                                         freely.  If you wish, you can
+                                         stick 2cm squares of cardboard
+                                         between the magnets to straighten
+                                         them, and tape the magnets so they
+                                         don't move around on the nail.
+
+
+             _____ magnets
+            |_____|                    _____________
+            |_____|                   |_____________| 2 magnets
+     =================|| NAIL         |_____________|
+            |_____|                    ______O______
+            |_____|                   |_____________| 2 magnets
+                                      |_____________|
+         SIDE VIEW OF THE
+         NAIL AND MAGNETS             VIEW FROM THE END
+
+
+Twist the scraped end of each generator wire securely around each wire
+from the small light bulb.  One generator wire goes to one light bulb
+wire, the other generator wire goes to the other light bulb wire, and the
+two wire connections should not touch together.
+
+Spin the magnet REALLY fast and the bulb will light dimly.  If it doesn't 
+work, try spinning it in a dark room so you don't miss the dim glow.  If 
+needed, adjust the position of the magnets so they don't hit or scrap the 
+cardboard.  This thing has to spin *fast*, and if the magnets whack the 
+cardboard and stop, you won't see any light.
+
+Once you get it to work, try clamping the point of the nail into the chuck
+of a hand-drill.  Spin the magnets fast with the drill and the bulb will
+light brightly.  Don't go too fast or you'll burn out the bulb, or fling
+magnets all over the room.
+
+Note: your generator produces Alternating Current, not Direct Current.
+The output voltage is about 2 volts max, so there is no shock hazard at
+all.
+
+
+HOW IT WORKS
+
+When a circle of wire surrounds a magnetic field, and the magnetic field
+then changes, a circular voltage appears and forces the movable charges in
+the wire to rotate around the circle.  In other words, moving magnets
+create current in closed circles of wire.  This is a basic law of physics,
+and is the basis of electric generators.
+
+
+OTHER THINGS TO TRY:
+
+Disconnect one wire from the light bulb.  Spin the magnet.  While still 
+spinning the magnet, have a friend touch the wires together so the bulb 
+lights up again.  Is the nail still as easy to spin? Keep spinning the 
+magnet while your friend connects and disconnects the bulb.  Feel any 
+difference in how hard you must spin the nail?
+
+
+SO WHAT?
+
+When you crank the generator and make the lightbulb turn on, you are 
+working against electrical friction in order to create the heat and light. 
+You can FEEL the work you do, because when you connect and disconnect the 
+bulb, it gets harder and easier to crank the generator.
+
+Think of it like this.  If you rub your hands together lightly, the skin 
+stays cool, but if you rub your hands together hard, your skin gets hot. 
+It's hard to heat skin, it takes work.  And it's hard to heat the 
+lightbulb filament, it takes work.  You twist the generator shaft, the 
+generator pushes the wire's charge slowly through the tiny filament, and 
+if you don't keep spinning the magnet, the magnet will be slowed quickly.
+
+
+FEEL AN ELECTRON
+
+When your hand spins the magnet, you can feel the extra work it takes to 
+light the bulb.  This happens because your hand is connected to the 
+flowing charge in the bulb, and when you push on it, you can feel it push 
+back on you!  Your hand twists the nail, the nail spins the magnet, the 
+magnet pushes the invisible magnetic fields, the fields push the movable 
+charges, the charges flow slowly through the light bulb filament, and the 
+tiny filament causes friction against the flow of charge and heats up.  
+But then the reverse happens!  The charge can't move much because of the 
+tiny filament, so it resists the pressure from the magnetic fields, which 
+in turn resist the pressure from the magnet, which resists the twisting 
+pressure from the nail, which resists the twisting pressure from your 
+fingers.  So, in a very real way, you can FEEL the electrons in the light 
+bulb filament. When you push them, you can FEEL their reluctance to move 
+through the narrow filament!
+
+
+A CHALLENGE: there is a simple way to convert your generator into a motor.  
+It involves putting some insulating paint on part of the nail, then using 
+a 6V battery and using the generator wires as "brushes" touching the nail.  
+Can you discover the trick?
+
+
+WARNING:  Keep the magnets away from computers, disks, color TV sets, and 
+wallets and purses containing credit cards.  Try this: Keep the generator 
+far from your color TV, turn on the TV, start spining the nail so the 
+magnet is spinning fast, then bring the generator about 2ft away from the 
+TV screen. DON'T BRING IT CLOSER!!!  Keep spinning the magnets, and you'll 
+see a cool wobbling effect in the TV picture, along with some color 
+changes.  The field from the magnet is bending the electron beam that 
+paints the picture on the screen.  Be careful, if you bring the magnet 
+about 15cm away, the iron sheet inside the TV picture tube will become 
+magnetized and the distorted colors will be permanent.
+
+
+DEBUGGING 
+
+If the generator refuses to work, inspect the place where you twisted the 
+wires together.  The generator wire has a very thin red plastic coating, 
+and you must clean all of it off the wire ends before twisting them to the 
+light bulb wires.  If there is plastic between the metal of the generator 
+wire and the light bulb wire, the circuit will be "open" and no charge 
+will flow.
+
+Don't substitute the magnets with a different type.  Don't use a different 
+kind of light bulb. Don't use fewer magnets.  Weaker magnets may work, but 
+you won't be able to spin them fast enough by hand, and a motor will be 
+required.
+
+The generator can be improved by using more turns of wire.  You used only
+the spool of #30 wire.  With more wire, the magnets don't have to spin as
+fast to light the bulb.  Connect the thinnest of the remaining spools of
+wire to the wire that's there, making sure to scrape the wire ends well
+clean before twisting them together.  Make sure to wind the extra wire in
+the same direction as the rest of the coil.
+
+
+Mail me at: billb a eskimo com
+
+
+

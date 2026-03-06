@@ -1,0 +1,65 @@
+To: ruden@ug1.plk.af.mil (Edward Ruden)
+From: ak@bethune.com (NEWS Alexandre Kampouris)
+Newsgroups: sci.physics.electromag
+Subject: Re: Proof of instability of magnetic levitation needed
+Date: Tue, 1 Aug 1995 23:04:51
+Cc: ak@bethune.com
+
+
+>Cand someone please send me or refer me to a general proof that 
+>*static* magnetic leviation by  *permanent* magnets is always unstable?
+>I already know that if you use a superconductor, or keep parts moving
+>that it can be done. e-mail responses appreciated.
+
+
+Howdy!
+
+In the book
+
+"Electromagnetic Levitation and Suspension Systems",
+B.V. Jayawant,
+Publishers: Edward Arnold, London, 1981,
+
+I quote the following passage from page 11:
+
+...
+The difficulties of achieving stable suspension or levitation are, however, 
+highlited by an examination of the nature of the forces in the case when an 
+inverse square law relates force and distance. Earnshaw [2] in his paper, 
+which is now considered a classic by all workers in field of electromagnetic 
+suspension, shows mathematically that it is impossible for a pole placed in a 
+static field of force to have a position of stable equilibrium when a inverse 
+square law operates; this fundamental calculation is known as Earnshaw's 
+theorem. Braunbeck [3] carried out a similar analysis specifically for 
+unvarying magnetic and electric fields, and deduced that suspension or 
+levitation is possible when materials of mu_r<1 or epsilon_r<1 are introduced.
+
+Suspension has been achieved using diamagnetic materials, and as a result of 
+the effect of currents in the suspended objects.
+
+[...]
+
+It follows from Earnshaw's theorem and Braunbeck's analysis that stable 
+suspension or  levitation is impossible with a system of permanent magnets (or 
+fixed current electromagnets) unless part of the system contains either 
+diamagnetic material (mu_r<1) or a superconductor (mu_r=0), and that it is 
+altogether impossible to achieve levitation in electrostatic fields since 
+there are no known materials with epsilon_r<1.
+
+...
+
+
+[2] Earnswaw, W., On the nature of the molecular forces which regulate the 
+consitution of the luminferous ether., Trans. Camb. Phil. Soc., 7, pp 97-112 
+(1842)
+
+[3] Braunbeck, W. Free suspension of bodies in electric and magnetic fields, 
+Zeitschrift für Physik, 112, 11, pp753-763 (1939)
+
+I hope this helps. The references shouldn't be too hard to locate in a good 
+university library.
+
+Alexandre Kampouris
+G&A Télécom S.A.R.F.
+Montréal
+

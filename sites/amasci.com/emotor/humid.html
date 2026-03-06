@@ -1,0 +1,397 @@
+<html>
+<head>
+<title>Electrostatic Generator Hints: Solving Humidity Problems</title>
+<base href="http://amasci.com/" >
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" >
+<link rel="prev" href="static/electrostatic2.html" >
+
+<link rel="canonical" href="http://amasci.com/emotor/humid.html" />
+
+<meta name="google-translate-customization" content="c3ed531053d636c5-1d98312485736f8d-g564ee6842740dee4-a" ></meta>
+
+<meta http-equiv="keywords" content="electrostatic,generator,static electricity,
+ehd,electrohydrodynamic,water,drop,waterdrop,machine,static,electricity,wimshurst" >
+</head>
+
+<BODY bgcolor="#ffffff" >
+
+<table  height=76 summary="nav links, google search window" width=100%><tr>
+<td valign=top>
+<center>
+<TABLE summary="navigation" ><TR valign="top">
+<TD ALIGN="CENTER" valign="top" ><font size=3><a href="/emotor/vdg.html" >VDG&nbsp;PAGE</a>&nbsp;&nbsp;|&nbsp;&nbsp;</font><br></TD>
+<TD ALIGN="CENTER" ><font size=3>
+<a href="/" >SCIENCE&nbsp;HOBBYIST</a>&nbsp;&nbsp;|&nbsp;&nbsp;</font><br></TD>
+<TD ALIGN="CENTER" ><font size=3>
+<a href="/emotor/statelec.html" >ELECTROSTATICS DEMOS</a>&nbsp;&nbsp;|&nbsp;&nbsp;<br></font></TD>
+<TD ALIGN="CENTER" ><font size=3>
+<a href="/search.html" >SEARCH</a></font><br></TD>
+</TR></TABLE>
+</center>
+</td>
+<td summary="google search" align=right valign=top>
+<div id="google_translate_element" ></div>
+<script type="text/javascript" >
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout:google.translate.TranslateElement.FloatPosition.TOP_LEFT, gaTrack: true, gaId: 'UA-101029-1'}, 'google_translate_element');
+}
+</script>
+<script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit" ></script>
+<div>
+<script>
+  (function() {
+    var cx = 'partner-pub-6310699831332590:m1ib2jl3jyf';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:searchbox-only></gcse:searchbox-only>
+</div>
+</td></tr></table>
+
+
+<table width=100% summary="main text content" ><tr>
+
+<td width=180  summary="google ad" valign=top align=left>
+<pre>
+
+</pre>
+
+<script type="text/javascript" ><!--
+google_ad_client = "pub-6310699831332590";
+google_ad_width = 160;
+google_ad_height = 600;
+google_ad_format = "160x600_as";
+google_ad_type = "text";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "000000";
+google_color_url = "666666";
+google_color_text = "333333";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js" >
+</script>
+
+<pre>
+
+
+
+
+
+
+
+
+</pre>
+
+<script type="text/javascript" ><!--
+google_ad_client = "pub-6310699831332590";
+google_ad_width = 160;
+google_ad_height = 600;
+google_ad_format = "160x600_as";
+google_ad_type = "text";
+google_color_border = "FFFFFF";
+google_color_bg = "FFFFFF";
+google_color_link = "000000";
+google_color_url = "666666";
+google_color_text = "333333";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js" >
+</script>
+
+</td>
+
+
+<td valign=top summary="humidity problems" width=800><font size=4>
+
+<h1><font size=5>Electrostatic and VandeGraaff Generators: Solving 
+Humidity Problems</font></h1>
+<h3>(c)1994 William J. Beaty</h3>
+<br clear=all>
+<font size=4>
+
+UP: <a href="/emotor/statelec.html">All Electrostatics Demos</a>, 
+<a href="/scied.html#demo">Physics Demonstrations</a>
+<ul>
+<li><a href="/emotor/humid.html#blo" >Saved by the Blow-dryer</a>
+<li><a href="/emotor/humid.html#box" >"Hotbox" for classroom storage</a>
+<li><a href="/emotor/humid.html#dess" >Using Dessicant</a>
+<li><a href="/emotor/humid.html#dirt" >Enemies: Surface Dirt and grease</a>
+<li><a href="/emotor/humid.html#supl" >During high RH, Hi-volt Supplies Still Work</a>
+<li><a href="/emotor/humid.html#mote" >Sharp, invisible dust-motes</a>
+<li><a href="/emotor/humid.html#res" >Humidity's Physical Effects</a>
+<li><a href="/emotor/humid.html#dry" >Sometimes it's TOO dry?!</a>
+<li>Also see: <a href="/emotor/vdgbug.html" >VandeGraaff debugging</a>
+<li>Also see: <a href="/emotor/stathint.html" >Electrostatic debugging hints</a>
+</ul>
+
+<hr>
+
+
+<a name="blo" ></a>
+<h3>Blow-dryer</h3>
+
+Always carry an electric blow-dryer with you when doing electrostatics
+demos in high-humidity locations.  When your VandeGraaff machine fails,
+the usual cause is adsorbed water on the rollers and belt, which prevents
+the initial charge-separation from occurring where belt touches/peels from
+the roller surface.  Pop open the sphere or the base, run the machine,
+then direct warm air upon each of the rollers until the upper sphere
+starts making sparks when touched. Don't give up, sometimes it takes 5
+minutes or more to dry the cloth rollers used in the base of the WINSCO
+Inc. VDG. Another common problem is fingerprints and grime which make the
+belt and roller become conductive on humid days.  Replace the belt with a
+fresh one.  Or, remove the dirty belt, clean both sides with plenty of 
+rubbing
+alcohol, then pat it dry with a clean paper towel.  You want to flush the 
+oil away, not just move it around, so let lots of alcohol dribble off.  If 
+one of the rollers
+is plastic, wipe it off with alcohol too. [WARNING: don't wet acrylic
+plastic with alcohol, it will crack.] Fully dry it by operating the
+belt in the machine while applying the blow-dryer.  Don't wet the felt
+type of roller, it takes too long to dry again.  <br><p>
+
+<a name="box" ></a>
+<h3>"Hotbox" for storage</h3>
+It is not impossible to perform electrostatic demonstrations in a very
+high humidity environment.  One secret is to build a "hotbox" storage
+device for your equipment.  A cabinet with a tight-fitting lid can be
+heated with a small light bulb inside.  Anything stored in this box will
+have its conductive surface moisture evaporated by the low heat.  In a
+pinch you can heat your equipment in a trash can containing a light bulb. 
+One science teacher revived a long-dead VDG machine using this method. 
+WARNING!  FIRE DANGER!  Try different small lightbulbs to find one which
+produces approx. 110F heat in the box.  Too large a bulb in too small a
+box can start a fire.  Also, it is wise to mount the bulb near the top of
+the box.  This makes it less likely that a flammable object will fall
+against the bulb.<br><p>
+
+<a name="dess" ></a>
+<h3>Dessicant</h3>
+
+It is also possible to use baked silica-gel dessicant instead of a
+lightbulb to dry the contents of a sealed case.  If you can obtain a
+couple of pounds of color-change silica gel dessicant, placing the stuff
+in your box will lower the air's humidity and act to dry your equipment. 
+The dessicant eventually turns from blue to pink as it gets full of
+moisture.  Hours of oven-baking at low temperature according to its
+supplied instructions will restore its dessicating properties. <br><p>
+
+<a name="dirt" ></a>
+<h3>Dirt and grease</h3>
+
+Occasionally wipe any grime from the vertical column of your VDG using a
+paper towel slightly dampened with rubbing alcohol, then dry the column
+thoroughly with the blow-dryer.  DO NOT WET THE PLASTIC, it will cause
+instant cracking.  Avoid getting any alcohol near the mounting screws on
+the column, since the internal stress in the plastic plus alcohol can
+crack the plastic.  [Some people suggest using soapy water only, then
+blow-drying thoroughly.] It seems like grime builds up on electrostatic
+devices faster than on any other object.  It's no illusion.  Electrostatic
+generators create ion currents in the air around them, and this charged
+air in turn charges all the dust motes and air pollution particles, which
+then seek out any available surface.  If you live in a big city, your VDG
+machine will quickly acquire a black coating as all the car exhaust is
+extracted from the air and coats itself on the machine! <br><p>
+
+<a name="supl" ></a>
+<h3>Hi-volt Supplies Still Work</h3>
+
+Sometimes the humidity is so high that no amount of debugging can fix your
+demo.  In this case, sometimes a DC power supply can be used in place of a
+VDG machines. I have several 20,000-volt power supplies bought from
+surplus mail-order suppliers.  They convert 24Vdc to high voltage.  They
+will give a mild shock, but are not as bad as a Leyden jar.  Another
+high-voltage supply:  <a
+href="/emotor/negion.html" >negative ion generators. 
+</a>These devices are actually DC power supplies having 10KV or higher
+output, but with large current-limiting resistance in series.  Touch their
+output and you feel nothing, but connect the ionizer brush to a pop-bottle
+electrostatic motor, and it spins like mad.  Negative air ionizers are
+pricey, but I see them for $5.00 frequently at garage sales.  <br><p>
+
+Here's an electrostatic demo which will even work when submerged
+underwater! (grin) <a href="/redgreen.html" >
+RED AND GREEN ELECTRICITY</a>, This one works because no actual charges
+are involved.  It's really a visual analogy for electrostatics, which uses
+red and green transparancies to simulate the + and - charge within matter. 
+This article might not look like much, but I highly recommend that you
+mess around with the red and green plastic anyway.  I would estimate that
+the depth and solidity of my own understanding of Electrostatics was
+DOUBLED by messing around with these simple plastic sheets.<br><p>
+
+<a name="mote" ></a>
+<h3>Sharp dust-motes</h3>
+
+One last possibility: if the voltage on your machine seems to drop
+suddenly during operation, try wiping down the sphere with a damp cloth. 
+Sometimes your machine will attract a sharp, conductive dust mote which
+then spews charged wind.  This presents major current leakage and
+partially shorts out the sphere voltage.  With luck, wiping down the
+sphere will dislodge it. <br><p>
+
+
+
+<a name="res" ></a>
+
+
+<h3>Humidity's Effects</h3>
+
+Why does high humidity affect electrostatic devices?  Simple: it makes
+surfaces conductive enough to "short out" the devices.  Under
+high-humidity conditions, insulating surfaces can behave as a dead short,
+almost like metal, even though their resistance remains too high to easily
+measure.  A paradox?  No.<br><p>
+
+Electrostatic
+effects deal with high voltage at little or no current.  Because the
+voltage is high and the current low, even a fairly insulating object can
+act like an conductor when used with electrostatic devices.  Ohm's Law
+tells us that high voltage at low current implies high resistance.  For
+normal, non-electrostatic circuitry, low voltage at high current implies
+LOW resistance.  Therefor 
+we can say that "conductivity" in the electrostatic realm involve enormous
+values of electrical resistance, while "conductivity" in normal circuitry 
+does not.<br><p>
+
+For example: A generator that produces 1 microamp at
+10,000 volts has an inherent series source impedance of 10^10, ten
+billion
+ohms.
+(Compare a 1.5v D-cell, which has far less than one ohm internal series
+impedance.) 
+If the source-impedance of an electrostatic generator is ten billion ohms,
+then any material having much less than this resistance will act as a good
+conductor, while materials having much more resistance will be insulators.
+(Compare to a D-cell, where 'conductors' must be lots less than one ohm,
+and 'insulators' must be much greater.)<br><p>
+
+A dirty surface in a humid environment might have hundreds of millions of
+ohms across its surface, yet it will act as a good conductor and can short
+out your generator.  You must clean and dry the insulating surface so that
+its resistance rises to a range of *thousands of billions* of ohms across
+a few inches, so the generator will see it as an insulator.  A wire will
+have a resistance of less than one ohm, yet a dirty surface, a surface
+which is more insulating than metal by hundreds of millions of times, will
+still act as a good conductor.  Very strange, no?  Electrostatics shows us
+that the meaning of "Conductor" and "Insulator" is not fixed: it varies
+depending on the nature of the generator or power supply, and the nature
+of the electrical load. Electrostatics is not the only place this occurs. 
+For example, in superconducting systems, copper can be used as an
+INSULATOR.  In AC power transmission, stepup transformers are used to make
+the long power lines act "more conductive."  And in electrostatic systems,
+humid string (in Ben Franklin's kite) can act as a conductor.<br><p>
+
+
+<a name="dry" ></a>
+<h3>Too dry?!</h3>
+
+I encountered one instance where the humidity was TOO LOW for a
+demonstration:  I opened a fresh bag of rice-crispy cereal, intending to
+produce a big messy "Volta's Hailstorm" effect using a VandeGraaff
+generator and a pie pan, filling the pan with cereal.  Fortunately I tried
+out the demo just before the kids arrived.  It didn't work.  The rice
+crispies were too dry, acted as insulators, and refused to pick up a
+charge and be repelled, and so were attracted instead.  Sprinkling water
+into the cereal box and giving it a good long shaking cured the
+difficulty.
+
+<br><p>Another place where humidity can be too LOW:  when performing the
+VDG hair-raise demo, sometimes the VDG generator works fine, but long hair
+simply won't rise.  This is probably because the hair has become an
+insulator, and charge is unable to leak along the hair shafts and give
+them an imbalance of alike-charge.  Slightly humid hair is required for
+success; totally dry hair will cling to the head by induction and will not
+rise. 
+<br><p>
+<a href="https://web.archive.org/web/20160319110305/http://www2.ece.rochester.edu/~jones/demos/humidity.html" rel="nofollow" >Humidity hints at U. of Rochester</a>
+<br>
+
+Also see: <a href="/emotor/vdgbug.html" >VandeGraaff debugging</a>\
+<br>
+UP: <a href="/emotor/statelec.html" >MAIN ELECTROSTATICS PAGE</a>
+<br><p>
+
+</font></td>
+
+
+<td></td></tr></table>
+
+<center>
+<table summary="google ads" width=100% height=95><tr>
+<td summary="google banner ad" align=center>
+<script type="text/javascript" ><!--
+google_ad_client = "pub-6310699831332590";
+google_ad_width = 728;
+google_ad_height = 90;
+google_ad_format = "728x90_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "F8F8F8";
+google_color_bg = "FFFFFF";
+google_color_link = "0033CC";
+google_color_url = "008000";
+google_color_text = "000000";
+//--></script>
+<script type="text/javascript"
+  src="http://pagead2.googlesyndication.com/pagead/show_ads.js" >
+</script>
+</td></tr></table>
+</center>
+
+
+
+
+
+
+<pre>
+
+
+
+
+
+
+
+</pre>
+<center>
+<font size=3>
+<a href="/emotor/humid.html" >
+http://amasci.com/emotor/humid.html</a><br>
+Created and maintained by <a href="/billb.html" >Bill Beaty</a>.  
+<br>
+Mail me at: <a href="/amfrm/" >
+<img border=0 width=141 height=19 src="/graphics/abc.gif" ></a>.
+
+<br>
+ 
+</center>
+
+
+<center>
+<!-- Start of StatCounter Code for Default Guide -->
+<script type="text/javascript">
+var sc_project=10408414; 
+var sc_invisible=0; 
+var sc_security="00267183"; 
+var scJsHost = (("https:" == document.location.protocol) ?
+"https://secure." : "http://www.");
+document.write("<sc"+"ript type='text/javascript' src='" + scJsHost + "statcounter.com/counter/counter.js'></"+"script>");
+</script>
+<noscript><div class="statcounter">
+<a title="shopify stats" href="http://statcounter.com/shopify/" target="_blank">
+<img class="statcounter" src="http://c.statcounter.com/10408414/0/00267183/0/" alt="shopify stats"></a></div></noscript>
+<!-- End of StatCounter Code for Default Guide -->
+<a href="http://statcounter.com/p10408414/?guest=1">View My Stats</a>
+</center>
+
+
+</font>
+</body>
+</html>
+

@@ -1,0 +1,33 @@
+HENDERSHOT DEVICE                                            W. Beaty
+
+In the 1920's Lester Hendershot, in working on a new type of aviation
+compass, stumbled across a method of generating energy.  The "Hendershot
+magnetic motor" made headlines and attracted such big name investors as
+Charles Lindberg.  Hendershot ran into political difficulties in promoting
+his device, attempted to take his business to Mexico, and finally faded
+into obscurity having taken a "couldn't refuse" payoff to never work on
+his device again.
+
+Hendershot believed that his device was not "perpetual motion", but
+instead was tapping into the earth's magnetic field and rotation for an
+energy source. 
+
+The Hendershot Device is a self-acting oscillator.  It consists of a pair
+of large air-core coils in "basket weave" format, hand-made cylindrical
+capacitors inside the coils, several high-value capacitors, a couple of
+standard transformers, and a permanent-magnet "buzzer" as a regulator. 
+The two large coils are tuned to resonate together.  The device generated
+an AC output and could light a bank of lightbulbs.
+
+It seems that only Hendershot was able to adjust his device for successful
+operation.  There have been occasional rumors of recent successes at
+lighting light bulbs, but no solid facts.  Hendershot's son is currently
+attempting to reproduce his father's discovery, but as yet reports no
+success.
+
+Hendershot's son sells a set of plans, contact the Laura Lee Radio
+Bookstore for info, www.lauralee.com.  More info and a different set of
+plans are available via mailorder from Rex Research "Infolios", see my
+NON-CONVENTIONAL BOOKS AND MAILORDER page on WEIRD SCIENCE page,
+amasci.com/weird.html
+

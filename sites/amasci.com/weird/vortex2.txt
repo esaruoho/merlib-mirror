@@ -1,0 +1,1162 @@
+
+From owner-vortex-l Wed May 24 19:07:49 1995
+Return-Path: <owner-vortex-l>
+Received: by mail.eskimo.com (5.65c/1.35)
+	id AA18812; Wed, 24 May 1995 19:07:46 -0700
+Received: from matrix.eden.com by mail.eskimo.com (5.65c/1.35)
+	id AA18783; Wed, 24 May 1995 19:07:36 -0700
+Received: from net-1-150.eden.com (net-1-150.eden.com [199.171.21.150]) by matrix.eden.com (8.6.12.1/8.6.5) with SMTP id VAA15826 for <vortex-l@mail.eskimo.com>; Wed, 24 May 1995 21:07:29 -0500
+Date: Wed, 24 May 1995 21:07:29 -0500
+Message-Id: <199505250207.VAA15826@matrix.eden.com>
+X-Sender: little@eden.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+To: vortex-l@mail.eskimo.com
+From: little@eden.com (Scott Little)
+Subject: homopolar generators
+X-Mailer: <PC Eudora Version 1.4>
+Sender: owner-vortex-l@mail.eskimo.com
+Precedence: bulk
+Reply-To: vortex-l@mail.eskimo.com
+Status: RO
+X-Status: A
+
+Hi Reed, Scott Little here.
+
+I have spent some time considering homopolar generators.  I have studied 
+Faraday's paradox (the one he reportedly resolved himself some 20 years 
+after first confronting it) and even performed the famous experiment 
+("cemented" magnet vs stationary magnet) and, at present, I don't feel that 
+there is anything "unusual" or "magic" about these devices...of course, I'm 
+always on the lookout :-)  They're damn peculiar, however, and require a 
+bunch of clear-headed thinking not to get confused over...which is why, I 
+believe, that many investigators have thought them to be "magic".
+
+
+From owner-vortex-l Thu May 25 07:46:02 1995
+Return-Path: <owner-vortex-l>
+Received: by mail.eskimo.com (5.65c/1.35)
+	id AA02688; Thu, 25 May 1995 07:45:54 -0700
+Received: from eskimo.com by mail.eskimo.com (5.65c/1.35)
+	id AA02668; Thu, 25 May 1995 07:45:46 -0700
+Received: by eskimo.com (5.65c/1.35)
+	id AA02157; Thu, 25 May 1995 07:45:44 -0700
+Date: Thu, 25 May 1995 07:45:43 -0700 (PDT)
+From: William Beaty <billbeskimo.com>
+To: vortex-l@mail.eskimo.com
+Subject: Re: homopolar generators
+In-Reply-To: <199505250551.AAA02985@matrix.eden.com>
+Message-Id: <Pine.SUN.3.91.950525073752.1109A-100000@eskimo.com>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Sender: owner-vortex-l@mail.eskimo.com
+Precedence: bulk
+Reply-To: vortex-l@mail.eskimo.com
+Status: RO
+X-Status: 
+
+On Thu, 25 May 1995, Scott Little wrote:
+
+> >On another note:  I noticed a general rule with homopolar motors and 
+> >generators: A magnet makes the radial current in the disk flow in a 
+> >spiral pattern, which drags the disk along,
+> 
+> Bill, I'm not sure I understand this spiral current business.  Are you 
+> suggesting that this is WHY the disk rotates?  Surely the primary impetus 
+> for rotation comes simply from purely radial current "crossed into" the 
+> axial B, which results in tangential force. Am I missing something?
+
+But doesn't it result in a tangential force on the mobile *carriers*?  
+I can see why a b-field makes the radial electron flow become a spiral 
+electron flow.  But why should it drag the metal along?
+
+Now that you have me thinking, I guess the same can be said of the motor 
+principle: a current in a wire in a b-field will be deflected, and will 
+drag the wire along with it, rather than just causing a Hall effect 
+charge separation along the sides of the wire.  However, current in a 
+wire is in a closed loop, and it is energetically favorable for the loop 
+to reorient itself in the b-field, hence the force felt by each segment 
+of the loop.  But I can't see how this applies to the disk.  How can the 
+turning of the disk represent a move to a lower energy state?  And 
+besides, it doesn't represent a lower state, since it never changes 
+energy.  Maybe its actually the MOTION of the disk that is the lower 
+energy state, rather than any particular POSITION, and so the disk wants 
+to be continuously accelerating whenever current exists within?
+
+.....................uuuu / oo \ uuuu........,.............................
+William Beaty  voice:206-762-3818   bbs:206-789-0775    cserv:71241,3623
+EE/Programmer/Science exhibit designer        http://amasci.com/
+Seattle, WA 98117  billbeskimo.com           SCIENCE HOBBYIST web page
+
+
+
+From owner-vortex-l Thu May 25 08:02:32 1995
+Return-Path: <owner-vortex-l>
+Received: by mail.eskimo.com (5.65c/1.35)
+	id AA05014; Thu, 25 May 1995 08:02:29 -0700
+Received: from eskimo.com by mail.eskimo.com (5.65c/1.35)
+	id AA04996; Thu, 25 May 1995 08:02:22 -0700
+Received: by eskimo.com (5.65c/1.35)
+	id AA03309; Thu, 25 May 1995 08:02:18 -0700
+Date: Thu, 25 May 1995 08:02:18 -0700 (PDT)
+From: William Beaty <billbeskimo.com>
+To: vortex-l@mail.eskimo.com
+Subject: Re: homopolar generators
+In-Reply-To: <Pine.SUN.3.91.950525073752.1109A-100000@eskimo.com>
+Message-Id: <Pine.SUN.3.91.950525075726.1109C-100000@eskimo.com>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Sender: owner-vortex-l@mail.eskimo.com
+Precedence: bulk
+Reply-To: vortex-l@mail.eskimo.com
+Status: RO
+X-Status: 
+
+On Thu, 25 May 1995, William Beaty wrote:
+
+>  But I can't see how this applies to the disk.  How can the 
+> turning of the disk represent a move to a lower energy state?  And 
+> besides, it doesn't represent a lower state, since it never changes 
+> energy.  Maybe its actually the MOTION of the disk that is the lower 
+> energy state, rather than any particular POSITION, and so the disk wants 
+> to be continuously accelerating whenever current exists within?
+
+By the way, I'm visualizing a radially symmetric machine with continuous
+liquid metal contacts on the entire edge, and disk/cylinder geometry for
+the external circuit rather than wires.  The usual "textbook" variety has
+a contact brush only at one point on the edge, and charges flow in the
+disk only between the disk center and this brush.  Forces MAY be applied 
+to the external circuit wires relative to the disk in the "textbook" 
+version, but this isnt true of the radially symmetric version, yet it 
+still turns.  I think.  At least it is SAID to turn.  Things like this 
+you almost have to try yourself, because the books say many incorrect 
+things about these machines.
+
+.....................uuuu / oo \ uuuu........,.............................
+William Beaty  voice:206-762-3818   bbs:206-789-0775    cserv:71241,3623
+EE/Programmer/Science exhibit designer        http://amasci.com/
+Seattle, WA 98117  billbeskimo.com           SCIENCE HOBBYIST web page
+
+
+
+From owner-vortex-l Thu May 25 19:28:57 1995
+Return-Path: <owner-vortex-l>
+Received: by mail.eskimo.com (5.65c/1.35)
+	id AA25239; Thu, 25 May 1995 19:28:53 -0700
+Received: from eskimo.com by mail.eskimo.com (5.65c/1.35)
+	id AA25221; Thu, 25 May 1995 19:28:46 -0700
+Received: by eskimo.com (5.65c/1.35)
+	id AA08535; Thu, 25 May 1995 19:28:45 -0700
+Date: Thu, 25 May 1995 19:28:44 -0700 (PDT)
+From: William Beaty <billbeskimo.com>
+To: vortex-l@mail.eskimo.com
+Subject: Re: homopolar generators
+In-Reply-To: <199505252052.PAA00271@matrix.eden.com>
+Message-Id: <Pine.SUN.3.91.950525190716.5393A-100000@eskimo.com>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Sender: owner-vortex-l@mail.eskimo.com
+Precedence: bulk
+Reply-To: vortex-l@mail.eskimo.com
+Status: RO
+X-Status: 
+
+On Thu, 25 May 1995, Scott Little wrote:
+
+> I must say, your energy approach is confusing me.  You're right, in order 
+> for it to exert a force to move, it must be moving toward lower energies (by 
+> definition)....but the whole thing is perfectly symmertrical, nothing is 
+> moving in or out of the magnetic field!?  Damn, I thought I had this all 
+> figured out.
+
+Ha!  I'm still wondering how an electron beam can be deflected by 
+a magnetic field, since by what measurement does empty space full 
+of uniform b-field have position?  Every bit of the field must have 
+position relative to the electrons, yet the field is smooth, so how can 
+it have features which can be compared to the electron position, and 
+velocity be detected thereby?  Don't tell me that field lines are real 
+after all!
+
+With the homopolar motor, I was supposing that the back-emf of a rotating
+disk, in combination with the fields around it, might represent a lower
+energy state, and so the disk would start moving, but then a HIGHER speed
+would represent a lower energy state for it, and so the disk would attain a
+particular value of increasing RPMs, rather than behaving like a coil and
+attaining a particular position.  But I haven't thought about this in 
+depth, so the idea might be off the wall.
+
+.....................uuuu / oo \ uuuu........,.............................
+William Beaty  voice:206-762-3818   bbs:206-789-0775    cserv:71241,3623
+EE/Programmer/Science exhibit designer        http://amasci.com/
+Seattle, WA 98117  billbeskimo.com           SCIENCE HOBBYIST web page
+
+
+
+From owner-vortex-l Wed May  3 18:31:00 1995
+Return-Path: <owner-vortex-l>
+Received: by mail.eskimo.com (5.65c/1.35)
+	id AA05807; Wed, 3 May 1995 18:30:56 -0700
+Received: from big.aa.net by mail.eskimo.com (5.65c/1.35)
+	id AA05779; Wed, 3 May 1995 18:30:49 -0700
+Received: (from knuke@localhost) by big.aa.net (8.6.9/8.6.9) id SAA25855; Wed, 3 May 1995 18:30:51 -0700
+Date: Wed, 3 May 1995 18:30:50 -0700 (PDT)
+From: Michael Huffman <knuke@aa.net>
+To: vortex-l@mail.eskimo.com
+Subject: Re: Direction, Focus, Purpose
+In-Reply-To: <199505032238.RAA24244@matrix.eden.com>
+Message-Id: <Pine.LNX.3.91.950503173620.23218A-100000@big.aa.net>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Sender: owner-vortex-l@mail.eskimo.com
+Precedence: bulk
+Reply-To: vortex-l@mail.eskimo.com
+Status: RO
+X-Status: 
+
+
+
+On Wed, 3 May 1995, Scott Little wrote:
+
+> I'm still here, Mike (or do you go by Knuke?)...
+
+Knuke is a knickname that I picked up in Germany many years ago. One of 
+these days I'll get around to explaining how I got it, but I use it now 
+as a cyber-kname:-)
+
+> 
+> I'm a little more open to other energy technologies than you are but I guess 
+> I'd like to vote against metaphysics...hey, I'm an engineer!
+> 
+
+I'm very open to all energy technologies. In fact I love them! I just get 
+the feeling that now is a very critical time for this one, and the cold 
+fusion community in general for reasons of funding. Acceptance of a 
+technology by the mainstream manufacturing community is essential for the 
+commercialization of a product. Commercialization of a product is what is 
+going to be necessary to further fund research. Cavitation heaters are 
+right on the verge of acceptance by the mainstream manufacturing 
+community for several good reasons. First, they are relatively easy to 
+understand because they rely on little more than Newtonian physics. 
+Secondly, they would be very easy to mass produce compared to any CF 
+device or even a "present art" device. Third, they don't pollute, which 
+makes them an environmentally attractive alternative to the "present 
+art". Fourth, HVAC people won't have to take courses on QM to install 
+these things in peoples' basements. Fifth, almost anybody that knows how 
+to spin a wrench should be able to maintain their own heater themselves 
+after it is installed.
+
+> >  The second reason is that I am presently trying to convince ENECO that 
+> >that 1) my patent is worth buying,
+
+Of course, I'm not doing this just for fun. I have an agenda. I do hope 
+to make money on this, but not a lot. I'm selling a 50% share of the 
+ownership for $50K, which is probably less than the inventor of the 
+cabbage patch doll recieved. Part of that money will pay my debts, and 
+the rest will go toward buying the equipment necessary to continue 
+working on this for a year.
+ 
+
+> Rumor has it that ENECO has a Potopov device. Has anyone heard whether they 
+> have gotten it to work as advertised (i.e. 4 kW in...12 kW out)?
+
+The last I heard from Fred on that was they were bench testing a Russian 
+device that had no moving parts. This was a couple of months ago I think. 
+Jed mentioned in one of his posts that efforts were underway to get a 
+Potopov device to the States for analysis, but didn't say who was doing 
+the getting. Griggs actually called me, and told me that he had spoken 
+with Sapogin about the Potopov device. He said that it used a rotor that 
+was slightly occulted or out of round. 
+  The "no moving parts" machine is probably something like an eductor or 
+a venturi tube. Bill and I talked about this over the phone, and I also 
+saw some discussion about a device by a Victor Schauberger that sounded 
+vaguely similar. I haven't seen either one so I can't really comment except 
+that I would like to know more. It seems that if the Potopov device is 
+actually an out of round rotor, that it would be getting some venturi 
+type action within a close fitting case. My machine would get a similar 
+reaction simply by offsetting the middle housing piece or by adding 
+irregularities to the middle housing piece.
+  Jed, if there is anything that you could tell us at all about the 
+Potopov device, we sure would be interested in reading it.   
+
+-Knuke
+
+
+From owner-vortex-l Wed May 31 10:53:38 1995
+Return-Path: <owner-vortex-l>
+Received: by mail.eskimo.com (5.65c/1.35)
+	id AA00559; Wed, 31 May 1995 10:46:51 -0700
+Received: from big.aa.net by mail.eskimo.com (5.65c/1.35)
+	id AA29950; Wed, 31 May 1995 10:44:00 -0700
+Received: from d114.aa.net (d114.aa.net [204.157.220.114]) by big.aa.net (8.6.11/8.6.9) with SMTP id KAA10534 for <vortex-l@mail.eskimo.com>; Wed, 31 May 1995 10:43:56 -0700
+Date: Wed, 31 May 1995 10:43:56 -0700
+X-Intended-For: <vortex-l@mail.eskimo.com>
+Message-Id: <199505311743.KAA10534@big.aa.net>
+X-Sender: knuke@aa.net
+X-Mailer: Windows Eudora Version 1.4.4
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+To: vortex-l@mail.eskimo.com
+From: knuke@aa.net (Michael T. Huffman)
+Subject: Re: Huffman device status
+Sender: owner-vortex-l@mail.eskimo.com
+Precedence: bulk
+Reply-To: vortex-l@mail.eskimo.com
+Status: RO
+X-Status: 
+
+>Hey Knuke:
+>
+>Are you getting any more data off your device or are you just sitting around 
+>your kitchen in a radiation suit? :)
+>
+>Scott
+>
+To All,
+  This has been a very busy week for me, which is why I haven't posted for a
+while.  I had to ship the device last Wed., and this radiation business
+really got in the way.  The last test that I did was with a layer of epoxy
+around the inside of the middle housing piece. I put this in to reduce the
+gap by .01" all the way around. Bill saw the housing piece before I ground
+it into tolerance, so he might be able to describe it better. The results of
+the tests were positive, indicating that a smaller gap was beneficial, but
+the epoxy won't bind at temps exceeding 250F.  When I ran the device in pure
+steam mode, the epoxy came away from the housing and was disintegrated by
+the rotor. I tried this three times, and it got destroyed each time so the
+only way of tightening the gap is to either find a better epoxy or cut a new
+housing piece. I ended up just stripping out the remaining epoxy and
+shipping the device with the .03" gap.  ENECO got the thing Fri., and they
+were setting it up yesterday.  I should know by Friday what their initial
+findings are, and I report back. I've also been making some changes in the
+way I'm handling the Internet, so I've been busy setting that up. I'll have
+more to report later. -Knuke
+
+  
+
+
+From owner-vortex-l Wed May 31 14:02:37 1995
+Return-Path: <owner-vortex-l>
+Received: by mail.eskimo.com (5.65c/1.35)
+	id AA01211; Wed, 31 May 1995 14:02:23 -0700
+Received: from eskimo.com by mail.eskimo.com (5.65c/1.35)
+	id AA00950; Wed, 31 May 1995 14:00:59 -0700
+Received: by eskimo.com (5.65c/1.35)
+	id AA01054; Wed, 31 May 1995 14:00:50 -0700
+Date: Wed, 31 May 1995 14:00:49 -0700 (PDT)
+From: William Beaty <billbeskimo.com>
+To: vortex-l@mail.eskimo.com
+Subject: Re: New Developments in Homopolar Generators
+In-Reply-To: <199505311644.MAA23727@ios.com>
+Message-Id: <Pine.SUN.3.91.950531135914.29492A-100000@eskimo.com>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Sender: owner-vortex-l@mail.eskimo.com
+Precedence: bulk
+Reply-To: vortex-l@mail.eskimo.com
+Status: RO
+X-Status: 
+
+
+There are some Homopolar files in my WWW pages.  You can go directly
+to them at http://amasci.com/freenrg/fnrg.html
+Look down the list for "N-machine.'  Do you have WWW access?
+
+
+.....................uuuu / oo \ uuuu........,.............................
+William Beaty  voice:206-762-3818   bbs:206-789-0775    cserv:71241,3623
+EE/Programmer/Science exhibit designer        http://amasci.com/
+Seattle, WA 98117  billbeskimo.com           SCIENCE HOBBYIST web page
+
+
+
+From owner-vortex-l Wed May 31 14:38:34 1995
+Return-Path: <owner-vortex-l>
+Received: by mail.eskimo.com (5.65c/1.35)
+	id AA08299; Wed, 31 May 1995 14:38:27 -0700
+Received: from 204.122.16.4 by mail.eskimo.com (5.65c/1.35)
+	id AA08234; Wed, 31 May 1995 14:38:11 -0700
+Message-Id: <199505312138.AA08234@mail.eskimo.com>
+X-Sender: ghawk@mail.eskimo.com
+X-Mailer: Windows Eudora Version 1.4.4
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Date: Wed, 31 May 1995 14:42:50 -0700
+To: vortex-l@mail.eskimo.com
+From: ghawk@eskimo.com (Gary Hawkins)
+Subject: Re: Reed's Homopolar
+Sender: owner-vortex-l@mail.eskimo.com
+Precedence: bulk
+Reply-To: vortex-l@mail.eskimo.com
+Status: RO
+X-Status: 
+
+>Reed, you said:
+>
+>>inventor 
+>>has kept a very low profile and has had very little written about him in the 
+>>publications such as New Energy News and Space Energy Journal (he wanted it 
+>>that way -- don't attract attention until you have something that works)
+>
+>
+>I like him already.
+>
+>We (H.E. Puthoff & I) at EarthTech have a standing offer that we would like 
+>to personally extend to you.  If you will loan us one of your devices for 
+>testing, we will perform an accurate power/energy balance measurement on it, 
+>write a publication-quality scientific report on our results, and return the 
+>device to you.  You get the report (and, of course, the device back) free of 
+>charge, no strings attached.
+>
+>We make this offer because we are interested in observing genuine over-unity 
+>devices in order to further our understanding of the zero-point field, the 
+>prime candidate for the source of extraordinary energy. 
+>
+>
+>
+>
+>
+>Scott Little
+>EarthTech International, Inc.  4030 Braker Lane West  Austin TX 78759  USA
+>512-346-3848 (voice)  512-346-3017 (FAX)  little@eden.com (email)
+>     
+>
+>
+>
+It should not be shipped anywhere.  That provides the ability for anyone to 
+interupt it in transit.  You folks could go to where it is to provide some 
+preliminary test results.  If someone stole it from Mr. Little's location, it 
+would be a tragic can of worms for everyone concerned, and years of work would 
+be down the drain to have to start all over building it.
+-----------------------------------------------------------------------
+      Horizon Technology -- Tomorrow's Technology Today
+                      http://www.eskimo.com/~ghawk
+
+
+From reedh@styx.ios.com Thu Jun  1 09:20:24 1995
+Return-Path: <reedh@styx.ios.com>
+Received: from ios.com by mail.eskimo.com (5.65c/1.35)
+	id AA02001; Thu, 1 Jun 1995 09:20:19 -0700
+Received: from 198.4.70.83 ([198.4.70.83]) by ios.com (8.6.9/8.6.9) with SMTP id MAA22514 for <billbeskimo.com>; Thu, 1 Jun 1995 12:20:07 -0400
+Date: Thu, 1 Jun 1995 12:20:07 -0400
+Message-Id: <199506011620.MAA22514@ios.com>
+From: reedh@styx.ios.com
+Subject: Re: New Developments in Homopolar Generators
+To: billbeskimo.com
+X-Mailer: AIR Mail 3.X (SPRY, Inc.)
+Status: RO
+X-Status: 
+
+Thanks for the WWW page.  I do have WWW access and I'll try it out today.
+
+Reed
+
+From owner-vortex-l Tue May 30 20:07:36 1995
+Return-Path: <owner-vortex-l>
+Received: by mail.eskimo.com (5.65c/1.35)
+	id AA29098; Tue, 30 May 1995 20:07:31 -0700
+Received: from matrix.eden.com by mail.eskimo.com (5.65c/1.35)
+	id AA29048; Tue, 30 May 1995 20:07:19 -0700
+Received: from net-1-136.eden.com (net-1-136.eden.com [199.171.21.136]) by matrix.eden.com (8.6.12.1/8.6.12) with SMTP id WAA16493 for <vortex-l@mail.eskimo.com>; Tue, 30 May 1995 22:07:13 -0500
+Date: Tue, 30 May 1995 22:07:13 -0500
+Message-Id: <199505310307.WAA16493@matrix.eden.com>
+X-Sender: little@eden.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+To: vortex-l@mail.eskimo.com
+From: little@eden.com (Scott Little)
+Subject: Huffman device status
+X-Mailer: <PC Eudora Version 1.4>
+Sender: owner-vortex-l@mail.eskimo.com
+Precedence: bulk
+Reply-To: vortex-l@mail.eskimo.com
+Status: RO
+X-Status: 
+
+Hey Knuke:
+
+Are you getting any more data off your device or are you just sitting around 
+your kitchen in a radiation suit? :)
+
+
+Scott
+
+
+From ghawk@eskimo.com Thu Jun  1 23:13:03 1995
+Return-Path: <ghawk@eskimo.com>
+Received: from 204.122.16.4 by mail.eskimo.com (5.65c/1.35)
+	id AA22691; Thu, 1 Jun 1995 23:12:58 -0700
+Message-Id: <199506020612.AA22691@mail.eskimo.com>
+X-Sender: ghawk@mail.eskimo.com
+X-Mailer: Windows Eudora Version 1.4.4
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Date: Thu, 01 Jun 1995 23:17:37 -0700
+To: William Beaty <billbeskimo.com>
+From: ghawk@eskimo.com (Gary Hawkins)
+Subject: Re: Inventors potluck?
+Status: RO
+X-Status: 
+
+>I'm still interested.  Is it tomorrow?  When and where?
+>
+>
+>.....................uuuu / oo \ uuuu........,.............................
+>William Beaty  voice:206-762-3818   bbs:206-789-0775    cserv:71241,3623
+>EE/Programmer/Science exhibit designer        http://amasci.com/
+>Seattle, WA 98117  billbeskimo.com           SCIENCE HOBBYIST web page
+>
+>
+>
+>
+Hmm, call Don, 527-6221, I really don't know it they are sticking to their
+schedule.
+-----------------------------------------------------------------------
+      Horizon Technology -- Tomorrow's Technology Today
+                      http://www.eskimo.com/~ghawk
+
+
+From owner-vortex-l Fri Jun  2 13:40:40 1995
+Return-Path: <owner-vortex-l>
+Received: by eskimo.com (5.65c/1.35)
+	id AA14060; Fri, 2 Jun 1995 13:40:36 -0700
+Received: by eskimo.com (5.65c/1.35)
+	id AA14014; Fri, 2 Jun 1995 13:40:24 -0700
+Date: Fri, 2 Jun 1995 13:40:23 -0700 (PDT)
+From: William Beaty <billbeskimo.com>
+To: vortex-l@eskimo.com
+Subject: Entropy violations?
+Message-Id: <Pine.SUN.3.91.950602133208.12529B-100000@eskimo.com>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Sender: owner-vortex-l@mail.eskimo.com
+Precedence: bulk
+Reply-To: vortex-l@mail.eskimo.com
+Status: RO
+X-Status: 
+
+
+Scott, have you ever given any though to self-organizing patterns with 
+regard to reversal of entropy?  It just occurred to me that, even though 
+interactions at the micro-scale would conserve energy, the spontaneous 
+growth of patterns in "emergent phenomena" physics might involve entropy 
+reversal.  If there's some situation analogous to cellular automata or 
+chaotic oscillators and single molecules are the active elements, then a 
+self-organizing pattern would be an entropy reversal, and extraction of 
+work from the pattern on the whole would cause cooling and useful work.  
+Same as Maxwell's demon, a harnessing of the micro-level thermal 
+vibrations to do macro-level work.  But a violation of thermo laws.
+
+I think turbulence and vortices involve spontaneous organization.  Maybe 
+the legends about self-propelling vortices have something to do with 
+Chaos as Maxwell-Demon?
+
+
+.....................uuuu / oo \ uuuu........,.............................
+William Beaty  voice:206-762-3818   bbs:206-789-0775    cserv:71241,3623
+EE/Programmer/Science exhibit designer        http://amasci.com/
+Seattle, WA 98117  billbeskimo.com           SCIENCE HOBBYIST web page
+
+
+
+From owner-vortex-l Fri Jun  2 17:14:55 1995
+Return-Path: <owner-vortex-l>
+Received: by mail.eskimo.com (5.65c/1.35)
+	id AA13511; Fri, 2 Jun 1995 17:14:52 -0700
+Received: from matrix.eden.com by mail.eskimo.com (5.65c/1.35)
+	id AA13486; Fri, 2 Jun 1995 17:14:42 -0700
+Received: from net-1-164.eden.com (net-1-217.eden.com [199.171.21.217]) by matrix.eden.com (8.6.12.1/8.6.12) with SMTP id TAA06903 for <vortex-l@mail.eskimo.com>; Fri, 2 Jun 1995 19:14:37 -0500
+Date: Fri, 2 Jun 1995 19:14:37 -0500
+Message-Id: <199506030014.TAA06903@matrix.eden.com>
+X-Sender: little@eden.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+To: vortex-l@mail.eskimo.com
+From: little@eden.com (Scott Little)
+Subject: Re: Entropy violations?
+X-Mailer: <PC Eudora Version 1.4>
+Sender: owner-vortex-l@mail.eskimo.com
+Precedence: bulk
+Reply-To: vortex-l@mail.eskimo.com
+Status: RO
+X-Status: 
+
+>
+>Scott, have you ever given any though to self-organizing patterns with 
+>regard to reversal of entropy? 
+
+Actually, I'm pretty sure you're correct about this.  There are other 
+situations in which it is apparent that energy is being added from "outside" 
+to local microscopic frames.  What we need is some way to "cohere" these 
+effects and point a lot of them in one useful direction....
+
+any ideas?
+
+Scott Little
+EarthTech International, Inc.  4030 Braker Lane West  Austin TX 78759  USA
+512-346-3848 (voice)  512-346-3017 (FAX)  little@eden.com (email)
+     
+
+
+From owner-vortex-l Fri Jun  2 20:37:16 1995
+Return-Path: <owner-vortex-l>
+Received: by mail.eskimo.com (5.65c/1.35)
+	id AA08770; Fri, 2 Jun 1995 20:37:09 -0700
+Received: from 204.122.16.4 by mail.eskimo.com (5.65c/1.35)
+	id AA08734; Fri, 2 Jun 1995 20:36:57 -0700
+Message-Id: <199506030336.AA08734@mail.eskimo.com>
+X-Sender: ghawk@mail.eskimo.com
+X-Mailer: Windows Eudora Version 1.4.4
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Date: Fri, 02 Jun 1995 20:41:37 -0700
+To: vortex-l@mail.eskimo.com
+From: ghawk@eskimo.com (Gary Hawkins)
+Subject: Re: Inventor's potluck
+Sender: owner-vortex-l@mail.eskimo.com
+Precedence: bulk
+Reply-To: vortex-l@mail.eskimo.com
+Status: RO
+X-Status: 
+
+>>
+>>Gary, maybe we should try to get Mike H. out to the Inventor's potluck 
+>>(which I've not heard back from yet) since Mike is very interested in 
+>>carving plastic parts with CAM devices.
+>>
+>If it would mean that I have to cook anything besides water, it might not be
+>a good idea:-) 
+
+You could just bring something from the store like I do, or something to drink.
+
+>What is the Inventor's Potluck? 
+
+A bunch of inventors reconoitering, usually about 15 people, everything from 
+doctors to grandmas.  She recently took a trip overseas on the money she's
+making 
+from her first invention, a mosquito net that holds a shape over one's head,
+and 
+easily folds away, even though it has a frame to it.  It's being sold at REI
+for one, 
+and I was there once as she asked around for ideas and struggled over whether 
+she would ever get anywhere with it.  Pretty neat to watch that happen for
+her.  
+Many of this group have recent successes, and others are working on it.
+
+>Is it local? 
+
+That's relative, but to you, yes.
+
+>Does it involve food? 
+
+Hopefully that's what it has been all of this time cause I've been eating it.
+
+>I'm interested.
+
+Bill has the details.
+
+--Gary
+-----------------------------------------------------------------------
+      Horizon Technology -- Tomorrow's Technology Today
+                      http://www.eskimo.com/~ghawk
+
+
+From owner-vortex-l Fri Jun  2 22:20:11 1995
+Return-Path: <owner-vortex-l>
+Received: by mail.eskimo.com (5.65c/1.35)
+	id AA21028; Fri, 2 Jun 1995 22:20:05 -0700
+Received: from matrix.eden.com by mail.eskimo.com (5.65c/1.35)
+	id AA21002; Fri, 2 Jun 1995 22:19:49 -0700
+Received: from net-1-179.eden.com (net-1-179.eden.com [199.171.21.179]) by matrix.eden.com (8.6.12.1/8.6.12) with SMTP id AAA01073 for <vortex-l@mail.eskimo.com>; Sat, 3 Jun 1995 00:19:44 -0500
+Date: Sat, 3 Jun 1995 00:19:44 -0500
+Message-Id: <199506030519.AAA01073@matrix.eden.com>
+X-Sender: little@eden.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+To: vortex-l@mail.eskimo.com
+From: little@eden.com (Scott Little)
+Subject: Entropy reductions...energy gains
+X-Mailer: <PC Eudora Version 1.4>
+Sender: owner-vortex-l@mail.eskimo.com
+Precedence: bulk
+Reply-To: vortex-l@mail.eskimo.com
+Status: RO
+X-Status: A
+
+Bill, I guess I answered a little too quickly.  Are you talking about 
+entropy reducing situations, such as crystallization?  Such processes 
+usually do proceed toward lower energy states...that is the free atoms have 
+more energy than the crystallized atoms.  Thus energy has to be evolved for 
+the change to take place....right?
+
+I was talking about something different.  For example, the finite line width 
+of atomic spectra.  Take a given atom with a known emission/absorbtion line. 
+ Arrange to shine photons at this atom whose energy is slightly below the 
+nominal energy required to excite the emission line.  Under these conditions 
+the excitation efficiency is NOT ZERO!  A certain percentage of the incident 
+photons arrive in phase with a zero-point field photon of the correct energy 
+and, lo and behold, the excitation occurs.  When said atom de-excites, the 
+energy of the emitted photon is the full nominal value!  Voila!..a genuine 
+instance of extraction of energy from the zero-point field.  Now here's your 
+assignment, Bill:  Build a practical energy converter that operates on this 
+principle and draws enough power from the zero-point field to run itself and 
+provide 1 watt of surplus power, thus satisfying Puthoff's "1 watt 
+challenge".  If you need any diodes or resistors, let me know :)
+
+
+From owner-vortex-l Sat Jun  3 00:02:31 1995
+Return-Path: <owner-vortex-l>
+Received: by mail.eskimo.com (5.65c/1.35)
+	id AA00634; Sat, 3 Jun 1995 00:02:26 -0700
+Received: from eskimo.com by mail.eskimo.com (5.65c/1.35)
+	id AA00617; Sat, 3 Jun 1995 00:02:19 -0700
+Received: by eskimo.com (5.65c/1.35)
+	id AA16671; Sat, 3 Jun 1995 00:02:17 -0700
+Date: Sat, 3 Jun 1995 00:02:16 -0700 (PDT)
+From: William Beaty <billbeskimo.com>
+To: vortex-l@mail.eskimo.com
+Subject: Re: Entropy reductions...energy gains
+In-Reply-To: <199506030519.AAA01073@matrix.eden.com>
+Message-Id: <Pine.SUN.3.91.950602231815.12020A@eskimo.com>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Sender: owner-vortex-l@mail.eskimo.com
+Precedence: bulk
+Reply-To: vortex-l@mail.eskimo.com
+Status: RO
+X-Status: 
+
+On Sat, 3 Jun 1995, Scott Little wrote:
+
+> Bill, I guess I answered a little too quickly.  Are you talking about 
+> entropy reducing situations, such as crystallization?  
+
+Nope.  I was wondering about Self Organizing Systems, and Emergent
+Properties, which come under Complexity theory and Chaotic Dynamics, I
+think.  Things like the ZB chemical oscillator, which organizes itself
+into colored spiral patterns in the petri dish.  Or Fractal patterns that
+arise in many systems.  In Self Organization, complex patterns emerge from
+nothing, caused (if 'caused' is the word) by interactions between many
+small parts.  Without the proper theory, you'd expect random white-noise 
+patterns to exist, but instead the microscopic elements somehow agree 
+among themselves to become organized into a macroscopic form.  I'd expect 
+the microscopic interactions to conserve energy.  But does the 
+spontaneous emergence of complexity ever represent a decrease in energy?
+
+I'm not that familiar with this field, and I was wondering if the small
+parts in any of these 'emergent' patterns were thermal vibrations.  If so,
+the large scale pattern would be a cohering of thermal vibrations, and the
+growth of the pattern would be a genuine entropy reversal.  The
+microscopic parts would be cooled as the macroscopic pattern was created,
+and the macroscopic pattern might be something like sound, and work could
+be extracted.  Or maybe this would take the form of some nonlinear effect
+which would allow thermal vibrations to directly power IR flourescence,
+allowing the construction of a Laser powered by reverse entropy.  
+
+But in describing this, I can see that the existance of such an effect
+would be as earthshaking as the discovery of a real Maxwell's Demon
+effect, and we'd have heard about it.  But since everyone assumes energy
+conservation and thermo laws are correct, I wonder if something like this
+could have been overlooked.  And if it involved the spontaneous 
+organization of ZPE, it probably would be discoverable only by accident or 
+lucky observation.  I have the impression that it's hard to predict 
+whether or not a self-organizing pattern will arise, and they are usually 
+explained after the fact rather than predicted in advance.
+
+Are you familiar with Conway's Life, or other Cellular Automata computer
+programs?  If something similar existed in nature at the atomic level, it
+would represent an entropy reversal as microscopic motion was cooled and
+used to drive macroscopic patterns. 
+
+> Now here's your 
+> assignment, Bill:  Build a practical energy converter that operates on this 
+> principle and draws enough power from the zero-point field to run itself and 
+> provide 1 watt of surplus power, thus satisfying Puthoff's "1 watt 
+> challenge".  If you need any diodes or resistors, let me know :)
+
+If I use photons way up in the cosmic ray gammas, so each one has the
+mass-energy of a small rabbit dropping, and use oppositely charged
+singularities in close orbit instead of atoms, as the photons bounce
+around in the system they strike mirrors connected to little rachet arms
+which would drive wooden gears.  It would be hard to keep running, because
+every once in a while the photon would tunnel through a mirror and you'd
+have to go chase it down and put it back. 
+
+.....................uuuu / oo \ uuuu........,.............................
+William Beaty  voice:206-762-3818   bbs:206-789-0775    cserv:71241,3623
+EE/Programmer/Science exhibit designer        http://amasci.com/
+Seattle, WA 98117  billbeskimo.com           SCIENCE HOBBYIST web page
+
+
+
+From owner-vortex-l Fri Jun  2 14:20:00 1995
+Return-Path: <owner-vortex-l>
+Received: by mail.eskimo.com (5.65c/1.35)
+	id AA11898; Fri, 2 Jun 1995 14:06:35 -0700
+Received: from big.aa.net by mail.eskimo.com (5.65c/1.35)
+	id AA10921; Fri, 2 Jun 1995 14:00:55 -0700
+Received: from d114.aa.net (d114.aa.net [204.157.220.114]) by big.aa.net (8.6.11/8.6.9) with SMTP id OAA12208 for <vortex-l@mail.eskimo.com>; Fri, 2 Jun 1995 14:00:38 -0700
+Date: Fri, 2 Jun 1995 14:00:38 -0700
+X-Intended-For: <vortex-l@mail.eskimo.com>
+Message-Id: <199506022100.OAA12208@big.aa.net>
+X-Sender: knuke@aa.net
+X-Mailer: Windows Eudora Version 1.4.4
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+To: vortex-l@mail.eskimo.com
+From: knuke@aa.net (Michael T. Huffman)
+Subject: Re: Inventor's potluck
+Sender: owner-vortex-l@mail.eskimo.com
+Precedence: bulk
+Reply-To: vortex-l@mail.eskimo.com
+Status: RO
+X-Status: 
+
+>
+>Gary, maybe we should try to get Mike H. out to the Inventor's potluck 
+>(which I've not heard back from yet) since Mike is very interested in 
+>carving plastic parts with CAM devices.
+>
+If it would mean that I have to cook anything besides water, it might not be
+a good idea:-) What is the Inventor's Potluck? Is it local? Does it involve
+food? I'm interested. BTW, I just wrote a rather lengthy letter to Mitch
+Schwartz regarding the latest developments on my machine. I've asked him if
+I can post the letter to this group so that I don't have to type it all out
+again. I also invited him to check out Vortex-l, so I expect that he will.
+-Knuke
+
+
+From owner-vortex-l Sat May 20 17:53:31 1995
+Return-Path: <owner-vortex-l>
+Received: by eskimo.com (5.65c/1.35)
+	id AA18358; Sat, 20 May 1995 17:52:28 -0700
+Received: by eskimo.com (5.65c/1.35)
+	id AA18345; Sat, 20 May 1995 17:52:21 -0700
+Date: Sat, 20 May 1995 17:52:19 -0700 (PDT)
+From: William Beaty <billbeskimo.com>
+To: vortex-l@eskimo.com
+Subject: s.p.f archive
+Message-Id: <Pine.SUN.3.91.950520174810.17074A-100000@eskimo.com>
+Mime-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Sender: owner-vortex-l@mail.eskimo.com
+Precedence: bulk
+Reply-To: vortex-l@mail.eskimo.com
+Status: RO
+X-Status: 
+
+
+I finally managed to make the sci.phys.fusion news archive work off of my 
+web page.  If you haven't seen this before, try it out.  Type in your 
+login name as a keyword, and it will (I think) give you every message you 
+ever posted there.  Immortality of a sort, and if CF proves to be 
+sucessful, it will be a very interesting historical document.
+
+It's at http://amasci.com/weird.html, down in the Cold Fusion 
+heading.
+
+.....................uuuu / oo \ uuuu........,.............................
+William Beaty  voice:206-762-3818   bbs:206-789-0775    cserv:71241,3623
+EE/Programmer/Science exhibit designer        http://amasci.com/
+Seattle, WA 98117  billbeskimo.com           SCIENCE HOBBYIST web page
+
+
+
+From ghawk@eskimo.com Tue May 23 20:03:58 1995
+Return-Path: <ghawk@eskimo.com>
+Received: from 204.122.16.4 by mail.eskimo.com (5.65c/1.35)
+	id AA18281; Tue, 23 May 1995 20:03:53 -0700
+Message-Id: <199505240303.AA18281@mail.eskimo.com>
+X-Sender: ghawk@mail.eskimo.com
+X-Mailer: Windows Eudora Version 1.4.4
+Mime-Version: 1.0
+Content-Type: text/plain; charset="us-ascii"
+Date: Tue, 23 May 1995 20:08:19 -0700
+To: William Beaty <billbeskimo.com>
+From: ghawk@eskimo.com (Gary Hawkins)
+Subject: Re: vortex-l
+Status: RO
+X-Status: 
+
+>On Tue, 23 May 1995, Gary Hawkins wrote:
+>
+>> This is excellent.  I told Reed Huish about the mailing list, because he is
+>> head of 
+>> a company that is looking to invest in energy saving farout science
+>> projects.  Also 
+>> finally faxed the info about the company, to Michael H.  This warm
+welcome from 
+>> you, and where he can find more, couldn't have been better.
+>> -----------------------------------------------------------------------
+>
+>I just moved some messages there.  I killed lots, like things from Jed 
+>about tracking down the Popatov device.  Quite a bit I could put back...
+>
+>.....................uuuu / oo \ uuuu........,.............................
+>William Beaty  voice:206-762-3818   bbs:206-789-0775    cserv:71241,3623
+>EE/Programmer/Science exhibit designer        http://amasci.com/
+>Seattle, WA 98117  billbeskimo.com           SCIENCE HOBBYIST web page
+>
+>
+>
+>
+Your call.
+-----------------------------------------------------------------------
+      HORIZON TECHNOLOGY -- Tomorrow's Technology Today
+                        http://www.eskimo.com/~ghawk
+
+
+From owner-vortex-l Wed May 24 15:12:23 1995
+Return-Path: <owner-vortex-l>
+Received: by mail.eskimo.com (5.65c/1.35)
+	id AA13451; Wed, 24 May 1995 15:12:18 -0700
+Received: from ios.com by mail.eskimo.com (5.65c/1.35)
+	id AA13345; Wed, 24 May 1995 15:11:37 -0700
+Received: from 198.4.70.83 ([198.4.70.83]) by ios.com (8.6.9/8.6.9) with SMTP id SAA01610 for <vortex-l@mail.eskimo.com>; Wed, 24 May 1995 18:11:26 -0400
+Date: Wed, 24 May 1995 18:11:26 -0400
+Message-Id: <199505242211.SAA01610@ios.com>
+From: reedh@styx.ios.com
+Subject: Re: vortex-l
+To: vortex-l@mail.eskimo.com
+X-Mailer: AIR Mail 3.X (SPRY, Inc.)
+Sender: owner-vortex-l@mail.eskimo.com
+Precedence: bulk
+Reply-To: vortex-l@mail.eskimo.com
+Status: RO
+X-Status: A
+
+Thanks for the tip Bill.  I see that you are a EE.  Do you know anything about 
+homopolar generators (n-machines)?
+
+If so, lets talk.
+
+Reed
+
+From billbeskimo.com Wed May 24 20:19:42 1995
+Date: Wed, 24 May 1995 20:19:39 -0700 (PDT)
+From: William Beaty <billbeskimo.com>
+To: vortex-l@mail.eskimo.com
+Subject: Re: homopolar generators
+In-Reply-To: <199505250207.VAA15826@matrix.eden.com>
+Message-ID: <Pine.SUN.3.91.950524195658.8685A-100000@eskimo.com>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: O
+X-Status: 
+
+On Wed, 24 May 1995, Scott Little wrote:
+
+> Hi Reed, Scott Little here.
+> 
+> I have spent some time considering homopolar generators.  I have studied 
+> Faraday's paradox (the one he reportedly resolved himself some 20 years 
+> after first confronting it) and even performed the famous experiment 
+> ("cemented" magnet vs stationary magnet) and, at present, I don't feel that 
+> there is anything "unusual" or "magic" about these devices...of course, I'm 
+> always on the lookout :-)  They're damn peculiar, however, and require a 
+> bunch of clear-headed thinking not to get confused over...which is why, I 
+> believe, that many investigators have thought them to be "magic".
+
+The stationary/rotating magnet effect is pretty much a nonissue.  The
+drive and reaction forces are expressed relative to the static parts of
+the circuit, and the magnet never experiences forces, whether it rotates
+or not.  Yet people keep encountering these devices anew and getting all
+excited... 
+
+But there still is some 'magic' of the physics kind involved.  Why should
+an electric current, when deflected, take a conductor along with it
+instead of just changing paths within the conductor?  I don't think this
+case is covered under Maxwell's eqn's.  It involves an interaction between
+moving charges and the matrix in which they move.  The problem isn't very
+straightforward, at least I don't THINK so, because in closed circuits
+there is no nonmagnetic reaction force applied in parallel with a single
+conductor when a pulse of current is applied.  Why doesn't a ring of wire
+get jerked ahead when the current suddenly starts and stops flowing? 
+Because the current doesn't drag the metal matrix along with it?  But
+then, when a current flowing radially in a disk is forced to flow in a
+spiral (by the application of the axial field), I wouldn't expect the
+current to drag the metal and cause it to rotate.  Yet it does.  I'm
+confused. 
+
+This is not helped by the usual spoked-wagon-wheel model of these devices. 
+I WOULD expect a spoked wheel to be propelled into rotation by magnetic
+effects.  But a contiguous disk I would expect to remain still, even if
+the current was flowing in a spiral. 
+
+On another note:  I noticed a general rule with homopolar motors and 
+generators: A magnet makes the radial current in the disk flow in a 
+spiral pattern, which drags the disk along, and if curved slots are cut in 
+the disk to FORCE a spiral flow, the generator becomes self-regenerative 
+and the axial-field permanent magnet may be removed.  The classic 
+regenerative homopolar machine has a disk with spiral slots and no field- 
+magnets.
+
+I was thinking about cylindrical homopolar designs and realized that the
+same rule can be applied: trace the path that the current takes under the
+influence of the magnetic field, cut slots in the rotor to force this flow
+pattern, and then remove the magnet.  The result is a cylinder with a
+'chevron' pattern of slots, and the cylinder should rotate when current is
+applied to the edges, even if there is no applied magnetic field at all. 
+The current in the chevron creates both the "permanent magnet"  field, and
+the field in the metal rotor.  Will this really work?  I want to try this
+out someday, when I figure out how to be several people! 
+
+.....................uuuu / oo \ uuuu........,.............................
+William Beaty  voice:206-762-3818   bbs:206-789-0775    cserv:71241,3623
+EE/Programmer/Science exhibit designer        http://amasci.com/
+Seattle, WA 98117  billbeskimo.com           SCIENCE HOBBYIST web page
+
+
+
+From billbeskimo.com Thu May 25 07:45:45 1995
+Date: Thu, 25 May 1995 07:45:43 -0700 (PDT)
+From: William Beaty <billbeskimo.com>
+To: vortex-l@mail.eskimo.com
+Subject: Re: homopolar generators
+In-Reply-To: <199505250551.AAA02985@matrix.eden.com>
+Message-ID: <Pine.SUN.3.91.950525073752.1109A-100000@eskimo.com>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: O
+X-Status: 
+
+On Thu, 25 May 1995, Scott Little wrote:
+
+> >On another note:  I noticed a general rule with homopolar motors and 
+> >generators: A magnet makes the radial current in the disk flow in a 
+> >spiral pattern, which drags the disk along,
+> 
+> Bill, I'm not sure I understand this spiral current business.  Are you 
+> suggesting that this is WHY the disk rotates?  Surely the primary impetus 
+> for rotation comes simply from purely radial current "crossed into" the 
+> axial B, which results in tangential force. Am I missing something?
+
+But doesn't it result in a tangential force on the mobile *carriers*?  
+I can see why a b-field makes the radial electron flow become a spiral 
+electron flow.  But why should it drag the metal along?
+
+Now that you have me thinking, I guess the same can be said of the motor 
+principle: a current in a wire in a b-field will be deflected, and will 
+drag the wire along with it, rather than just causing a Hall effect 
+charge separation along the sides of the wire.  However, current in a 
+wire is in a closed loop, and it is energetically favorable for the loop 
+to reorient itself in the b-field, hence the force felt by each segment 
+of the loop.  But I can't see how this applies to the disk.  How can the 
+turning of the disk represent a move to a lower energy state?  And 
+besides, it doesn't represent a lower state, since it never changes 
+energy.  Maybe its actually the MOTION of the disk that is the lower 
+energy state, rather than any particular POSITION, and so the disk wants 
+to be continuously accelerating whenever current exists within?
+
+.....................uuuu / oo \ uuuu........,.............................
+William Beaty  voice:206-762-3818   bbs:206-789-0775    cserv:71241,3623
+EE/Programmer/Science exhibit designer        http://amasci.com/
+Seattle, WA 98117  billbeskimo.com           SCIENCE HOBBYIST web page
+
+
+
+From billbeskimo.com Thu May 25 08:02:19 1995
+Date: Thu, 25 May 1995 08:02:18 -0700 (PDT)
+From: William Beaty <billbeskimo.com>
+To: vortex-l@mail.eskimo.com
+Subject: Re: homopolar generators
+In-Reply-To: <Pine.SUN.3.91.950525073752.1109A-100000@eskimo.com>
+Message-ID: <Pine.SUN.3.91.950525075726.1109C-100000@eskimo.com>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: O
+X-Status: 
+
+On Thu, 25 May 1995, William Beaty wrote:
+
+>  But I can't see how this applies to the disk.  How can the 
+> turning of the disk represent a move to a lower energy state?  And 
+> besides, it doesn't represent a lower state, since it never changes 
+> energy.  Maybe its actually the MOTION of the disk that is the lower 
+> energy state, rather than any particular POSITION, and so the disk wants 
+> to be continuously accelerating whenever current exists within?
+
+By the way, I'm visualizing a radially symmetric machine with continuous
+liquid metal contacts on the entire edge, and disk/cylinder geometry for
+the external circuit rather than wires.  The usual "textbook" variety has
+a contact brush only at one point on the edge, and charges flow in the
+disk only between the disk center and this brush.  Forces MAY be applied 
+to the external circuit wires relative to the disk in the "textbook" 
+version, but this isnt true of the radially symmetric version, yet it 
+still turns.  I think.  At least it is SAID to turn.  Things like this 
+you almost have to try yourself, because the books say many incorrect 
+things about these machines.
+
+.....................uuuu / oo \ uuuu........,.............................
+William Beaty  voice:206-762-3818   bbs:206-789-0775    cserv:71241,3623
+EE/Programmer/Science exhibit designer        http://amasci.com/
+Seattle, WA 98117  billbeskimo.com           SCIENCE HOBBYIST web page
+
+
+
+From billbeskimo.com Thu May 25 19:28:46 1995
+Date: Thu, 25 May 1995 19:28:44 -0700 (PDT)
+From: William Beaty <billbeskimo.com>
+To: vortex-l@mail.eskimo.com
+Subject: Re: homopolar generators
+In-Reply-To: <199505252052.PAA00271@matrix.eden.com>
+Message-ID: <Pine.SUN.3.91.950525190716.5393A-100000@eskimo.com>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: O
+X-Status: 
+
+On Thu, 25 May 1995, Scott Little wrote:
+
+> I must say, your energy approach is confusing me.  You're right, in order 
+> for it to exert a force to move, it must be moving toward lower energies (by 
+> definition)....but the whole thing is perfectly symmertrical, nothing is 
+> moving in or out of the magnetic field!?  Damn, I thought I had this all 
+> figured out.
+
+Ha!  I'm still wondering how an electron beam can be deflected by 
+a magnetic field, since by what measurement does empty space full 
+of uniform b-field have position?  Every bit of the field must have 
+position relative to the electrons, yet the field is smooth, so how can 
+it have features which can be compared to the electron position, and 
+velocity be detected thereby?  Don't tell me that field lines are real 
+after all!
+
+With the homopolar motor, I was supposing that the back-emf of a rotating
+disk, in combination with the fields around it, might represent a lower
+energy state, and so the disk would start moving, but then a HIGHER speed
+would represent a lower energy state for it, and so the disk would attain a
+particular value of increasing RPMs, rather than behaving like a coil and
+attaining a particular position.  But I haven't thought about this in 
+depth, so the idea might be off the wall.
+
+.....................uuuu / oo \ uuuu........,.............................
+William Beaty  voice:206-762-3818   bbs:206-789-0775    cserv:71241,3623
+EE/Programmer/Science exhibit designer        http://amasci.com/
+Seattle, WA 98117  billbeskimo.com           SCIENCE HOBBYIST web page
+
+
+
+From billbeskimo.com Wed May 31 14:00:51 1995
+Date: Wed, 31 May 1995 14:00:49 -0700 (PDT)
+From: William Beaty <billbeskimo.com>
+To: vortex-l@mail.eskimo.com
+Subject: Re: New Developments in Homopolar Generators
+In-Reply-To: <199505311644.MAA23727@ios.com>
+Message-ID: <Pine.SUN.3.91.950531135914.29492A-100000@eskimo.com>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: O
+X-Status: 
+
+
+There are some Homopolar files in my WWW pages.  You can go directly
+to them at http://amasci.com/freenrg/fnrg.html
+Look down the list for "N-machine.'  Do you have WWW access?
+
+
+.....................uuuu / oo \ uuuu........,.............................
+William Beaty  voice:206-762-3818   bbs:206-789-0775    cserv:71241,3623
+EE/Programmer/Science exhibit designer        http://amasci.com/
+Seattle, WA 98117  billbeskimo.com           SCIENCE HOBBYIST web page
+
+
+

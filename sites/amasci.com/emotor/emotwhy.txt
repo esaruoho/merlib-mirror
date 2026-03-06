@@ -1,0 +1,90 @@
+WHAT IS IT USED FOR?                            (c)1997 William J. Beaty
+
+http://amasci.com/emotor/emotor.html
+
+What's this Pop Bottle motor good for?  Well, it's mostly useful as a
+physics demonstration, to show that "static electricity" isn't feeble and
+useless.  If you have an electrostatic generator, this motor gives you
+another use for it.
+
+It is a little-known fact that there is a tiny charge flowing between the
+sky and the surface of the earth.  This sort of motor has been run
+directly from the sky-current.  A tall antenna is insulated from the earth
+and is used to intercept the vertical current and develop a high voltage
+to drive the motor.  This charge flow is pumped by thunderstorms all over
+the world, so you might say that electrostatic motors can directly harness
+the power of thunderstorms.  One researcher (Dr. Oleg Jefimenko) attained
+1/16 horsepower output using a "Poggendorf" electrostatic motor, a type
+which uses a plastic cylinder surrounded by knife-edge electrodes.  He
+runs his e-motors with a fine wire lifted by a weather balloon.
+
+Compared to normal motors, electrostatic motors are extremely light in
+weight and use inexpensive materials.  A normal motor requires iron cores
+and heavy copper wire, while an electrostatic motor can use thin
+lightweight plastic and incredibly thin metal coatings.  This should be
+very useful when people start living fulltime in space.  Lifting a heavy
+iron motor into orbit is costly in terms of fuel and spacecraft
+maintenance, it is far cheaper to lift a thin plastic motor.
+
+Electrostatic motors are much weaker than iron/copper motors because they
+cannot be used with *really* high voltage.  An iron/copper motor is based
+upon electric current, and it can be used with high current in order to
+get high power output.  It gets hot, but thicker wire and cooling fans
+take care of that.  Electrostatic motors are different, they are based on
+voltage, and if you turn the voltage up on an electrostatic motor, you
+don't get increased motor power, you just get big sparks.  The air between
+the metal plates turns conductive, and the sparks short out the power
+supply.  However, if you place this sort of motor in a vacuum, normal
+sparks become impossible.  (Sparks are air which has turned into plasma,
+and without air, there is no plasma and no sparks.)  You then can turn the
+voltage up hundreds or thousands of times higher, which gives you much
+MUCH higher power output. Where's a source of inexpensive vacuum?  Space,
+obviously!  Zero-cost vacuum, and the high cost of lifting heavy materials
+into orbit, make electrostatic motors a good choice for applications in
+space.
+
+You may have heard about the recent invention of "Micromotors",
+microscopic motors built of silicon and constructed on the surface of
+integrated circuit chips.  Most of these motors are electrostatic motors,
+because it's easy to lay down a two-dimensional electrode pattern on
+silicon, while it's nearly impossible to wind a 3D coil magnet.  Your
+basic silicon micromotor contains a whirling conductive paddle which is
+surrounded by metal electrode plates.  The plates are electrified in
+sequence by an external power supply circuit, and the paddle follows the
+moving voltage wave.  Where your large pop-bottle motor uses 10,000 volts,
+the micromotors typically use 100v or less.
+
+Your body is run by muscles which can lengthen and contract.  Muscles are
+a class of motor called a "linear motor" (the opposite of a "rotary"
+motor.)  Muscles move when long molecules are slid across each other by
+sequential chemical bonding, and this chemical bonding is (guess!)
+electrostatic.  Your muscles are electrostatic motors.  Your body is a
+robot which runs entirely with linear electrostatic stepper motors.
+
+Ever hear of Nanotechnology?  This is the study of objects and patterns
+which are the size of atoms.  One goal of nanotechnology is to build
+machines which are the size of molecules, and these machines will require
+rotary motors and linear motors.  These motors will be electrostatic. 
+Actually, these motors already exist.  Certain bacteria are able to swim
+because they have wiggling cilia as "propellers."  A few years ago it was
+discovered that some bacteria cilia does not wiggle, instead it spins.
+Among these is the E. Coli bacteria in your intestines.  The spinning
+cilia is powered by a molecule-sized rotary electrostatic motor!  If
+nature can build these motors, then Nanotechnology will eventually do the
+same (or maybe instead we will learn to harness the bacteria genetics, and
+GROW our molecular electrostatic motors as desired.)
+
+In light of all of the above, don't you begin to get the idea that
+electrostatic motors are normal and sensible, while coil/magnet motors are
+the odd and strange ones? 
+
+
+
+((((((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))))
+William J. Beaty                                  SCIENCE HOBBYIST website
+billbeskimo.com                                  amasci.com
+EE/programmer/sci-exhibits          science projects, tesla, weird science
+Seattle, WA   206-762-3818          freenrg-L taoshum-L vortex-L webhead-L
+
+
+

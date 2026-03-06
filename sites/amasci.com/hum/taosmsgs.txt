@@ -1,0 +1,1342 @@
+Date: Sun, 28 May 1995 16:25:23 -0700 (PDT)
+From: Eaton/Cutler-Hammer Corp. <eaton1@halcyon.com>
+To: Ray Adams <adams@ece.engr.utk.edu>
+Cc: "Sara T. Allen" <72164.3606@compuserve.com>
+Subject: Re: Wrong, Wrong!
+
+On Sat, 27 May 1995, Ray Adams wrote:
+
+>                        Subject:                               Time:5:55 PM
+>   OFFICE MEMO          Wrong, Wrong!                          Date:5/27/95
+> Please ignore the previous correction.
+> 
+> It really IS Joe H. Mullins
+> 
+> Oh Woe is me!
+> 
+
+
+Heh!
+
+Feel free to give out my email address to anyone.  This one (halcyon.com) is 
+at work, so you should direct any correspondence to billb@eskimo.com.
+
+A later thought I had about the human interferometer: give each member of 
+the array a proportional control (knob or slidepot) and let them move it 
+in synch with the perceived beat between the "hum" and the reference 
+oscillator.  Wire these to give voltage outputs, and pipe them into a 
+cheap data-aquisition board.  This would give solid, precision time 
+records of the response of the subjects.  If tracked over a fair amount 
+of time, the sloppy human responses could easily be processed to average 
+out, and give much better values for phase and frequency.  If phase 
+differences CAN be perceived, then such a system could even have some 
+simple software on the back end to create directional readings of hum 
+source in realtime.
+
+It should be interesting to find out if the Hum is acoustic or RF.  
+Standing waves might be a problem for both types, and vertical modes will 
+make direction finding useless.  But then, the human array could be 
+spread out over a vertical apartment building to search for maxima and 
+minima (if the signal is acoustic)
+
+A thought: if there are no centralized discussion groups for the Taos Hum,
+I could have one created on eskimo.com.  If, for example, a group called
+taoshm-l is created, then anyone interested in the subject can send a
+subscription command to the list server, and forever afterwards any mail
+sent to taoshm-l@eskimo.com will be echoed to all subscribers.  By simply
+replying to any message coming from taoshm-l, subscribers can send mail to
+it without having to type in the long email address. The overall effect is
+that of a compuserve forum, or an internet newsgroup, but accessed
+entirely via email.  (This might be somewhat expensive for poor compuserve
+users, since compuserve charges them for each message received from
+internet.)  If there is enough interest, and if such a thing does not 
+exist already elsewhere, I can have it set up.
+
+Also: be careful about "cc:" in your email.  It gave me Dr. Mullins' unm 
+address in the message header.
+
+
+===================================+==================================
+Bill Beaty
+Eaton/Cutler-Hammer Corp.         Industrial Optoelectronics
+720 80th St. SW                   voice: 1-800-426-9184
+Everett, WA 98203-6299            fax:   1-206-347-0544
+
+
+
+
+
+
+
+Date: Sun, 28 May 1995 16:32:18 -0700 (PDT)
+From: Eaton/Cutler-Hammer Corp. <eaton1@halcyon.com>
+To: Ray Adams <adams@ece.engr.utk.edu>
+Subject: Re: Taos Hum
+
+On Fri, 26 May 1995, Ray Adams wrote:
+
+>         Reply to:   RE>>Taos Hum
+> Thanks again, Bill, for including some of the background that you and Sara
+> have discussed, and for her address on Compuserve.  Several of your ideas
+> are very interesting - especially with regards to using the "hearers" as
+> direction finders - since they at present are really the ONLY "confirmed?"
+> means of detecting the signal.  
+
+Ask Sara about the audio tape that someone made of the hum.  It was based 
+upon a high-gain transistor amplifier connected to a piezo.  I haven't 
+heard it myself.  I could imagine that it is simply 60/120 hz hum from 
+the ambient e-field from inside a house.  But maybe not...
+
+> I wonder how a group of humans could
+> cooperate as a "coherent" array, however ;-) ?
+
+If each human listens to a weak, low freq signal on headphones, and the 
+amplitude is adjusted to give a distinct beat-signal when the freq 
+approaches that of the Hum signal, then the human subjects could easily 
+wave hands slowly to and fro as the perceived hum became louder and 
+softer at the beat frequency.  If all subjects listen to an identical 
+reference oscillator, then any differences in hand-waving will be caused 
+by real phase differences in the Hum.  This only works if the Hum is an 
+acoustic signal.  If it is E/M, then the subjects would have to be spaced 
+many hundreds of miles apart before phase differences would become 
+detectable.  And the velocity of the reference oscillator signal being 
+sent to the distant sites would require measurement.
+
+
+===================================+==================================
+Bill Beaty                        Design Engineer
+Eaton/Cutler-Hammer Corp.         Industrial Optoelectronics
+720 80th St. SW                   voice: 1-800-426-9184
+Everett, WA 98203-6299            fax:   1-206-347-0544
+
+
+
+
+
+
+
+Date: Fri, 26 May 1995 20:50:54 EST
+From: Ray Adams <adams@ece.engr.utk.edu>
+To: "Eaton/Cutler-Hammer Corp." <eaton1@halcyon.com>
+Subject: Re: Taos Hum
+
+        Reply to:   RE>>Taos Hum
+Thanks again, Bill, for including some of the background that you and Sara
+have discussed, and for her address on Compuserve.  Several of your ideas
+are very interesting - especially with regards to using the "hearers" as
+direction finders - since they at present are really the ONLY "confirmed?"
+means of detecting the signal.  I wonder how a group of humans could
+cooperate as a "coherent" array, however ;-) ?
+
+Regards,
+
+Ray Adams
+--------------------------------------
+Date: 5/26/95 12:05 PM
+To: Ray Adams
+From: Eaton/Cutler-Hammer Corp.
+
+snip> - - -
+
+
+Raymond K. Adams (Twice retired )
+Formerly: Univ. of Tennessee ECE Dept.
+Formerly formerly: I&C Div. ORNL
+102 Wendover Circle
+Oak Ridge, TN 37830
+Internet: ADAMS@ECE.ENGR.UTK.EDU
+AOL: Ray Adams
+
+
+
+
+
+
+
+Date: Sat, 27 May 1995 13:42:09 EST
+From: Ray Adams <adams@ece.engr.utk.edu>
+To: "Sara T. Allen" <72164.3606@compuserve.com>
+Cc: Bill Beaty - Eaton/C-H <eaton1@halcyon.com>,
+    Joe Mullins - UNM <jmullins@unm.edu>
+Subject: Taos Hum
+
+                       Subject:                               Time:11:54 AM
+  OFFICE MEMO          Taos Hum                               Date:5/27/95
+Hello Sara,
+
+Bill Beaty sent me your e-mail address, after I had posted an inquiry about
+the Taos Hum, on one of the Internet NewsGroups.  I had also asked Joe
+Mullins if he knew anyone interested in Taos Hum, who might have an
+Internet address, and he also mentioned your name, but didn't have your
+address.  I had earlier corresponded with Joe after tracking him down
+following the GMA (or NBC morning news show, I can't remember which) and he
+sent me a copy of the paper he delivered (plus several other items of
+interest that have grown out of the UNM studies) at the Acoustical Society
+meeting this past December.  I was energized to track you down, by the NBC
+"Unsolved Mysteries" program (that aired) a few days ago, in which a woman
+was interveiwed (was that you?) who said something about "computer network"
+interconnections with other "hearers".
+
+I think that I am a "hearer".  I started noticing a sort of "rumble" in the
+early morning hours a couple of years ago that I could not turn off (even
+by turning off the master power breaker in our home) and whose source I
+could not trace.  I am all the more convinced that I am a "hearer" after
+reading the material Joe Mullins sent to me, and by comparing my
+experiences with the experiences had by those interviewed on TV.  This past
+Christmastime, during a skiing trip to the Colorado Mountains, I
+consciously sought to determine whether I could hear the "Hum" at 9000 ft
+elevation (Near WinterPark, Co.) and I (sometimes) did - but it did not
+seem as distinct as it sometimes is, here at home.  Then, after returning
+to Tennessee in January, the "hum" seemed to disappear for awhile, only to
+re-appear on the 11th of March, around 6:30am, EST.
+
+To give you a bit of background on myself,  I am now retired after (8 years
+of) teaching Electrical Engineering at the University of Tennessee, in
+Knoxville.  Prior to that, I was for 36+ years, an Engineer/Group-Leader in
+the Instrumentation and Controls Division of Oak Ridge National Laboratory,
+in Oak Ridge, TN.  I was in charge of several groups doing measurements and
+controls work; The Metrology Laboratory, The Instrument Development Group,
+and the Personal Computer Support Group.  Working in those groups rewarded
+me with first-hand knowledge of small-signal detection associated with
+(many, sometimes bizarre) physical phenomina.  Although my later academic
+work was (mostly) in electrical engineering, my undergraduate degree was in
+Engineering Physics at the University of Colorado.  Hence, I identify
+closely with (strange) physical phenomina, and the Western (Mountain
+States) US.
+
+When I corresponded with Joe Mullins, recently, I suggested that use of the
+Internet might be a useful way to engage the cooperative efforts of a large
+number of (widely dispersed) "hearers".  Reading through some of the e-mail
+correcpondence (kindly sent to me by Bill Beaty) that Bill & you have had,
+has thoroughly convinced me that this could be quite productive of
+interesting and novel ideas.  Of course, we would need to be aware that
+many of the ideas freely contributed would be worth just that, but there
+would seem to be little to lose, so long as we keep an open mind and stick
+to "physics".
+
+I should appreciate your updating me on what sorts of experiences and
+observations have been revealed through your e-mail "hum - an" network. 
+Are hearers doing anything to quantify the times of onset and
+dissappearance (and relative amplitude) of the hum?  If so, perhaps the
+sameness, or differences in those times from the observations of persons
+throughout the world would reveal "something".  Toward the end of last
+year, even while shaving (electric razor), I would often know when the hum
+dissappeared, as it seemed to, between 7:00 and 8:00am EST.  Had I been a
+better trained, or more highly motivated observer, I would have carefully
+noted those times.
+
+I'll look forward to hearing from you.
+
+Ray Adams
+
+
+Raymond K. Adams (Twice retired )
+Formerly: Univ. of Tennessee ECE Dept.
+Formerly formerly: I&C Div. ORNL
+102 Wendover Circle
+Oak Ridge, TN 37830
+Internet: ADAMS@ECE.ENGR.UTK.EDU
+AOL: Ray Adams
+
+
+
+
+
+
+
+Date: Sat, 27 May 1995 16:18:56 EST
+From: Ray Adams <adams@ece.engr.utk.edu>
+To: Bill Beaty - Eaton/C-H <eaton1@halcyon.com>
+Subject: FWD>Taos Hum Idea
+
+                       Subject:                               Time:2:32 PM
+  OFFICE MEMO          FWD>Taos Hum Idea                      Date:5/27/95
+Bill, here is a copy of a note I sent to Joe Mullins at UNM.  I do not have
+his permission to give you his e-mail address (nor your permission to give
+him yours), so that is the reason I did not copy you directly with my note
+to him.  I will extract portions of his paper for you in the next day or
+so.  I thought your interferometer idea, absolutely brilliant.  I hope you
+don't mind my calling it a "hum-an" interferometer ;-)
+Ray
+--------------------------------------
+Date: 5/27/95 4:12 PM
+From: Ray Adams
+Hi again, Joe,
+
+I now have the e-mail address of Sara Allen, sent to me as a result of an
+inquiry into the Taos Hum, that I made on an Internet (Physics) NewsGroup -
+just one example of the connectivity benefits of the Internet.  The person
+who sent me Sara's address wondered if a copy of your (Acoustical Society)
+paper on the hum, might be available as a textfile, anywhere accessible on
+the Internet.  Publishing (assuming the Acoustical Society would grant that
+kind of distribution) the paper in that form could serve to set a proper
+scientific tone (and quash other wierd descriptions of your studies) for
+the hum.  I am sending him a brief extract of the paper and I am suggesting
+to him that he could write to you for a copy of the paper.  Of course it
+would be so much simpler for you and him, if you just made a textfile of it
+available - say on an anonymous ftp server, there at UNM.
+
+Also, here is a really interesting suggestion that he (this person) made
+relative to learning more about the hum.  He said, (my comments in
+[brackets] ):
+  "One thing I've wondered about: humans who are sensitive to the Hum can 
+hear beat notes against an audio oscillator, which makes possible the use
+of humans as phase-sensitive antennas.  A simple experiment would be to see
+if adjacent humans pick up an identical phase of hum.  If not, then the Hum
+may not be an external, independant signal.  Or maybe it is a modulation of
+a very short wave signal [interesting conjecture!].  If humans DO detect
+identical phase over a few feet of spacing, then a long baseline
+interferometer with humans as detectors [all referenced via individual
+head-sets to the same phase audio tone] could possibly discover the hum
+wavelength [and thereby, the velocity of the propagation, since f would be
+known], propagation direction, etc.  Several of these [hum-an
+interferometers] used simultaneously could triangulate upon a source."
+
+I think that some training of the array members might need to be done, but
+could easily be accomplished (out of doors) by using an acoustic source
+some distance away, along with the headphones and (phase standard) local
+oscillator.   Fewer than a dozen observers could be spaced 5.5m (For sound
+propagation in air => lambda/2 at 30 Hz) apart.  They could raise their
+hands (perhaps with eyes closed, to avoid influence by sight) when the beat
+note rises and falls.  If the phase standard (local oscillator) were tuned
+(perhaps by ONE of the observers) one-half Hz away from the acoustic test
+source, the beat would be at one-half Hz, which is slow enough that (hand
+raising) response time might be neglected.  The hum-an array could easily
+be faced normal to the (test) sound source, by an observer in position to
+see (the phase of) all the hands going up and down (who would be able to
+"rotate" the array via verbal instructions carried to the array members via
+their head-sets).
+
+In your paper, you made mention of the fact that the "Hum-Matching" tests
+indicated that not all observers set the frequency dial at the same place. 
+As a musician, I can tell you that this is not an unexpected result, even
+if what they were all hearing was the very same tone.  The reference-phase
+idea should eliminate that variability between observers, as now they would
+need only to respond to the beat note intensity.  If the interferometer
+idea were to work, it could shed light on the propagation mechanism, because
+the wave length is so dependent on the transmission medium and the nature
+(acoustic or electromagnetic) of the "Hum".  Even if the hum-an
+interferometer were to absolutely FAIL to be able to detect the direction
+and wavelength of the "hum", THAT would be something learned, about the
+"Hum". 
+
+If it would make communicating easier with the "hum-an interferometer
+inventor" (the person who sent me Sara's address), let me know and I will
+give you his e-mail address and also send him yours.
+
+Regards,
+
+Ray Adams
+
+Raymond K. Adams (Twice retired )
+Formerly: Univ. of Tennessee ECE Dept.
+Formerly formerly: I&C Div. ORNL
+102 Wendover Circle
+Oak Ridge, TN 37830
+Internet: ADAMS@ECE.ENGR.UTK.EDU
+AOL: Ray Adams
+
+
+
+
+
+
+
+Date: Thu, 25 May 1995 21:26:01 EST
+From: Ray Adams <adams@ece.engr.utk.edu>
+To: "Eaton/Cutler-Hammer Corp." <eaton1@halcyon.com>
+Subject: Re: Taos Hum
+
+        Reply to:   RE>>Taos Hum
+Thanks so much for your reply, Bill.  Someone else sent me the name of Sara
+Allen, but so far, no e-mail address.  I would like to write her a message
+if it would not be too much trouble for you to find her e-mail address.
+
+One of the persons doing bona fide research work on the Taos Hum is Jim
+Mullins, at U of New Mexico.  He retired from active teaching last December
+ but is still doing some work on the Hum.  He sent me an interesting paper
+that he delivered on the Hum, at the Acoustical Society in Austin, Tx,
+toward th end of last year.
+
+Thanks again for your note,  hope you can find Sara Allen's e-mail address.
+
+Ray Adams 
+
+--------------------------------------
+Date: 5/25/95 1:05 PM
+To: Ray Adams
+From: Eaton/Cutler-Hammer Corp.
+In article <adams-2305951133470001@rka.engr.utk.edu> you wrote:
+: Has anyone seen a discussion (anywhere in a News Group) of Taos Hum - the
+: perceived low frequency "rumble" that about 15% of survey respondents
+near
+: Taos New Mexico have been "hearing"?
+
+There was a short discussion in alt.sci.physics.acoustics awhile back.  
+Most of the online stuff on Taos Hum has been on Compuserve.  If you 
+want, I can look up the person who is actually trying to get some 
+research done on the phenomena.  Sarah Allen, I think it was, on cserve.
+Faraday shielded rooms don't stop it, sensitive VLF receivers and audio 
+microphones don't detect it, and going down in a mineshaft makes it 
+louder.  We have one employee here who without prompting asked me about 
+this funny noise he heard while camping.  I said "sounds like a distant 
+diesl generator?"  Yep.  That's the Hum.  I hear that here in Seattle 
+there is some kind of support group for those plagued by sensitivity to 
+the constant noise.  And one state senator got involved, reported that it 
+was a military communication technique which was unexpectedly hearable by 
+humans, but then retracted his statement and now says that the Hum does 
+not exist.
+
+
+--
+===================================+==================================
+Bill Beaty
+Eaton/Cutler-Hammer Corp.         Industrial Optoelectronics
+720 80th St. SW                   voice: 1-800-426-9184
+Everett, WA 98203-6299            fax:   1-206-347-0544
+
+
+
+
+
+
+Date: 29 May 95 20:53:46 EDT
+From: "Sara T. Allen" <72164.3606@compuserve.com>
+To: <billb@eskimo.com>
+Subject: The Hum
+
+Bill,
+
+ A short note just to let you know that I received your e-mail. I also have an
+internet address which is
+ sallen@laplaza.taos.nm.us
+
+ It is a very heavily used community access so I am still on compuserve which
+I can access as necessary. Sometimes on the laplaza connect I just get a busy
+signal for hours and I don't like to stay up very late cruising the net cause
+then I am usually up til morning! :)
+
+ Yes, I think it would be a good idea to have a central internet discussion
+group on the hum and yes, why don't you go ahead and set it up.
+
+ Several of us are planning a national convention of hearers sometime in
+August. We haven't yet settled on a place but it is looking like the upper
+Michigan penninsula which is where Hal lives, right near the ELF site, which,
+BTW, he is apparently getting some cooperation from, as they have offered to
+have a planned shutdown to see if indeed that they are the source of the
+problem.
+
+ Anyway, I want to keep this short right now as I have a house guest and all.
+
+ Thanks for your continued interest.
+
+ You can use either the internet address or the compuserve address. For now
+the CIS address is the more efficient.
+
+ Do you use Pretty Good Privacy? It is a good way to discuss sensitive issues
+without fear of being eavesdropped on.
+
+ Sara
+
+
+  E-mail from: Sara T. Allen, 29-May-1995
+
+
+
+
+
+
+
+Date: Thu, 1 Jun 1995 13:54:00 -0700 (PDT)
+From: William Beaty <billb@eskimo.com>
+To: taoshum-l@eskimo.com
+Subject: Hum tape
+
+Sara:
+
+I haven't kept track of Hum discussion since last fall.  Did the person 
+with the tape recording of the piezo sensor manage to reproduce his device?
+
+Also, I'm wondering if it would be worthwhile for me to get involved with
+the group in Seattle.  I've long been interested in trying out hum-
+cancelling ideas, the beatwave direction finder, etc.  One person here at 
+work can hear the hum, but only while camping far from civilization.  He 
+actually approached me about it since I have a reputation for interest in 
+natural anomalies.  He had never heard of "Taos Hum" before, and is a 
+skeptical academic type as well.  Yet that desiel generator just over the 
+hill keeps rumbling...
+
+.....................uuuu / oo \ uuuu........,.............................
+William Beaty  voice:206-762-3818   bbs:206-789-0775    cserv:71241,3623
+EE/Programmer/Science exhibit designer        http://www.eskimo.com/~billb/
+Seattle, WA 98117  billb@eskimo.com           SCIENCE HOBBYIST web page
+
+
+
+
+
+
+
+To: billb@eskimo.com (William Beaty- eskimo)
+From: adams@ece.engr.utk.edu (Ray Adams)
+Organization: University of Tennessee
+Date: Thu, 01 Jun 1995 11:12:01 EST
+Subject: Thanks!
+                       Subject:                               Time:11:16 AM
+  OFFICE MEMO          Thanks!                                Date:6/1/95
+Hi Bill,
+
+Yes, the TaosHum newslist seems to be working!  Thanks for subscribing me. 
+Sara had mentioned that you were setting it up and I think it will be an
+asset to those interested persons who want to contribute to the group.
+
+Regards,
+
+Ray
+
+Raymond K. Adams (Twice retired )
+Formerly: Univ. of Tennessee ECE Dept.
+Formerly formerly: I&C Div. ORNL
+102 Wendover Circle
+Oak Ridge, TN 37830
+Internet: ADAMS@ECE.ENGR.UTK.EDU
+AOL: Ray Adams
+
+
+
+Date: Thu, 1 Jun 1995 13:54:00 -0700 (PDT)
+From: William Beaty <billb@eskimo.com>
+To: taoshum-l@eskimo.com
+Subject: Hum tape
+
+Sara:
+
+I haven't kept track of Hum discussion since last fall.  Did the person 
+with the tape recording of the piezo sensor manage to reproduce his device?
+
+Also, I'm wondering if it would be worthwhile for me to get involved with
+the group in Seattle.  I've long been interested in trying out hum-
+cancelling ideas, the beatwave direction finder, etc.  One person here at 
+work can hear the hum, but only while camping far from civilization.  He 
+actually approached me about it since I have a reputation for interest in 
+natural anomalies.  He had never heard of "Taos Hum" before, and is a 
+skeptical academic type as well.  Yet that desiel generator just over the 
+hill keeps rumbling...
+
+
+.....................uuuu / oo \ uuuu........,.............................
+William Beaty  voice:206-762-3818   bbs:206-789-0775    cserv:71241,3623
+EE/Programmer/Science exhibit designer        http://www.eskimo.com/~billb/
+Seattle, WA 98117  billb@eskimo.com           SCIENCE HOBBYIST web page
+
+
+
+
+
+
+To: billb@eskimo.com (William Beaty- eskimo)
+From: adams@ece.engr.utk.edu (Ray Adams)
+Organization: University of Tennessee
+Date: Tue, 30 May 1995 17:44:50 EST
+Subject: FWD>RE>Wrong again!
+
+Regarding:                    FWD>RE>Wrong again!
+Note the permission to use Joe Mullins e-mail address AND the description
+of the phase experiment.  BTW, when you mentioned a lonnnng wavelength,
+could you have been thinking about a larrrrrge frequency in one of your
+previous notes?  Maybe I misunderstood, but my thinking of what you said
+didn't jibe with V=F*(Lambda).
+
+I see that I have just received a message (not yet read) from Sara Allen. 
+Thanks again for giving me her address.
+
+Ray
+
+--------------------------------------
+Date: 5/30/95 11:45 AM
+From: joe h mullins
+Ray
+
+No problem about the name -- Joe is correct (even legal: my parents named 
+me Joe, not Joseph, although that has been no end of confusion for some 
+more rigid bureaucratic types, who can't seem to understand that it is 
+not really Joseph!)
+
+The phase idea also was mentioned by my graduate student on the project, 
+who is building the equipment we are planning to use on the next set of 
+tests on hearers and non-hearers.  This equipment will be able to record, 
+automatically, the responses of subjects to things such as hearing 
+thresholds, and consequently could also record the frequency of "beats" 
+assuming they are slow enough to allow the subject to react by pushing a 
+button in synchronism with a beat.  His idea, however, was prompted by 
+the fact that many, in fact most, of the hearers report that the sound 
+"pulses" at a rate somewhere between .5 and 2 hz, and that a different 
+pulse rate between two hearers would already tell one something about 
+whether this is an identifiable external source.  Or it might not.
+
+I have no problem with the distribution of e-mail addresses.  That's what 
+they are for!  Sometimes, however, I forget to check my mail for a few 
+days, so I might not be as prompt as may be desired in answering.
+
+Joe Mullins
+
+
+
+
+Date: Tue, 30 May 1995 09:42:50 -0600 (MDT)
+From: joe h mullins <jmullins@unm.edu>
+To: Ray Adams <adams@ece.engr.utk.edu>
+Subject: Re: Wrong again!
+
+Raymond K. Adams (Twice retired )
+Formerly: Univ. of Tennessee ECE Dept.
+Formerly formerly: I&C Div. ORNL
+102 Wendover Circle
+Oak Ridge, TN 37830
+Internet: ADAMS@ECE.ENGR.UTK.EDU
+AOL: Ray Adams
+
+
+
+
+
+To: billb@eskimo.com (William Beaty)
+From: adams@ece.engr.utk.edu (Ray Adams)
+Organization: University of Tennessee
+Date: Tue, 30 May 1995 20:30:37 EST
+Subject: Re: Hum
+
+        Reply to:   RE>Hum
+Ah yes - I'm guilty of a sort of twist on the old "what I heard was not
+what you said" phenominon.  Thanks for the re-explanation.
+
+I sent a note on the hum to a couple of physicist type friends of mine. 
+One of them (an excessivily orderly type who ranks lots of things by
+probabilities - [has only one child]) has written me a reply of a couple of
+pages, which I am still digesting.  However, he said that he had heard of
+the Taos Hum on the "fringe watchers alert" some time ago.  Am I missing
+out on all sorts of other types of phenomina that I could also "experience"
+just because of not knowing about "fringe watchers"?  In the case of the
+hum I "heard" it before I knew that others were "hearing" and talking about
+it - as I gather is the case with many, if not most hum "hearers"
+
+--------------------------------------
+Date: 5/30/95 6:47 PM
+To: Ray Adams
+From: William Beaty
+On Tue, 30 May 1995, Ray Adams wrote:
+
+> BTW, when you mentioned a lonnnng wavelength,
+> could you have been thinking about a larrrrrge frequency in one of your
+> previous notes?  Maybe I misunderstood, but my thinking of what you said
+> didn't jibe with V=F*(Lambda).
+
+I'll have to look through my sentmail, I don't recall.  I'm visualizing 
+the earth/ionosphere waveguide resonance, with the fundamental being 
+somewhere around 7.5Hz.  If 7.5 corresponds to the entire earth, then 
+60Hz or 120Hz is still going to span many hundreds of KM at 1/4wave 
+spacing of 'hearers.'
+
+Exotic possibilities: the Hum might involve electrostatic waves through 
+the earth's bulk, rather than EM in the ionospheric waveguide.  If so, an 
+ELF loop antenna might not detect them, while a vertical whip with high 
+impedance amp would.  I think.  Such waves might not be possible if rock 
+is too conductive, or they might just act like another set of EM earth 
+resonances.  It's one more thing to try.
+
+
+Raymond K. Adams (Twice retired )
+Formerly: Univ. of Tennessee ECE Dept.
+Formerly formerly: I&C Div. ORNL
+102 Wendover Circle
+Oak Ridge, TN 37830
+Internet: ADAMS@ECE.ENGR.UTK.EDU
+AOL: Ray Adams
+
+
+
+
+Date: Thu, 01 Jun 1995 23:40:41 -0400 (EDT)
+From: LASSEY@delphi.com
+Subject: Taos Hum
+To: billb@eskimo.com
+
+If you form a list based on the Taos Hum, please include me:
+lassey@delphi.com.  A report on the hum is available from The University
+of New Mexico, Public Affairs Department, 1805 Roma NE, Albuquerque,
+New Mexico 87131-0011.
+
+
+
+
+Date: Fri, 2 Jun 1995 07:39:59 -0700 (PDT)
+From: William Beaty <billb@eskimo.com>
+To: taoshum-l@eskimo.com
+Subject: Hum info
+
+To all:
+
+Does anyone here know of any Taos Hum info files online anywhere?  I can
+put link buttons to them from my Weird Science web page, and give the
+internet people a place to get questions answered.  If there is enough
+material, I could even start a separate Web page. 
+
+So, anyone feel like typing in a FAQ (Frequently Asked Questions) 
+document?  Or a history of the Hum?  Or a bibliography?
+
+.....................uuuu / oo \ uuuu........,.............................
+William Beaty  voice:206-762-3818   bbs:206-789-0775    cserv:71241,3623
+EE/Programmer/Science exhibit designer        http://www.eskimo.com/~billb/
+Seattle, WA 98117  billb@eskimo.com           SCIENCE HOBBYIST web page
+
+
+
+
+
+Date: 02 Jun 95 23:10:48 EDT
+From: "Sara T. Allen" <72164.3606@compuserve.com>
+To: <billb@eskimo.com>
+Subject: Hum info
+
+ >> So, anyone feel like typing in a FAQ (Frequently Asked Questions)
+ document?  Or a history of the Hum?  Or a bibliography? <<
+
+ It is time for me to put together a concise history of the search for the
+hum. Give me a week or two and I'll upload you a file.
+
+ Sara
+
+  E-mail from: Sara T. Allen, 02-Jun-1995
+
+
+
+
+
+Date: 05 Jun 95 23:22:35 EDT
+From: "Sara T. Allen" <72164.3606@compuserve.com>
+To: <billb@eskimo.com>
+Subject: Reply to: Re: Hum info
+
+ >> Another possibility (something I tend to do myself) is to answer good
+questions as they come, then save my writing for later editing and
+publication. <<
+
+ With all my good intentions, that will probably be the way it comes down. I
+WANT to write about the hum but living conditions at the moment are not
+conducive to writing. It is planting time in the Northern New Mexico mountains
+and I've got hundreds of vegetable starts to transplant as well as seed to
+sow. Also, I am moving in with my mom for awhile so I have to go through
+several years of accumulated nonsense to find the things that I need to have
+around me every day, of course the computer is high on the list as well as the
+VCR, TV, stereo and on and on. :)
+
+ Anyway, I will do the best that I can.
+
+ Sara
+
+
+  E-mail from: Sara T. Allen, 05-Jun-1995
+
+
+
+
+
+Date: 07 Jun 95 09:57:30 EDT
+From: "Sara T. Allen" <72164.3606@compuserve.com>
+To: <billb@eskimo.com>
+Subject: Reply to: Re: Reply to: Re: Hum info
+
+ >> I find that have some old files of your discussion on the Hum which I
+ could edit a bit as a start.  Don't feel pushed!  The Internet suddenly
+discovers the Hum and wants the whole story, now!  But this has been
+ going on since, when, 1988? <<
+
+ Thanks! :)
+
+ Sara
+
+  E-mail from: Sara T. Allen, 07-Jun-1995
+
+
+
+
+
+Date: 07 Jun 95 09:57:36 EDT
+From: "Sara T. Allen" <72164.3606@compuserve.com>
+To: <billb@eskimo.com>
+Subject: Post some old msgs?
+
+ >> OK if I post an old compuserve message of yours here and on the WWW
+ page?  It goes like this: <<
+
+ No problem with me to post any old messages of mine. And no problem with any
+threads having to do with hum discussions. I have several myself. I am not
+sure of the protocol involved in putting third parties CIS id #'s and names on
+the internet without their permission. Am I just being overly cautious?
+
+ Sara
+
+
+  E-mail from: Sara T. Allen, 07-Jun-1995
+
+
+
+
+Date: Fri, 2 Jun 1995 15:30:32 -0700 (PDT)
+From: David Dawson <ddawson@eskimo.com>
+To: taoshum-L@eskimo.com
+Subject: Introduction
+
+Hello! I have just joined the list. I'll be in New Mexico this summer... 
+I wonder if anyone can suggest a good place to visit to see if I can hear 
+the hum? Thanks.
+
+==    David Dawson     =                                                ==
+== ddawson@eskimo.com  = "Mean old 'Frisco, and that low-down Santa Fe" ==
+==  Seattle, WA USA    =                          - Big Bill Broonzy    ==
+==                     =                                                ==
+
+
+
+
+Date: Sun, 4 Jun 1995 12:48:29 -0700
+From: Bill Robicheaux <robi@halcyon.com>
+To: taoshum-L@eskimo.com
+Subject: Taos Hum
+
+>An email discussion list for 'Taos Hum' research, questions, general
+>discussion, etc. has just started up at taoshum-L@eskimo.com
+>
+>The Taos Hum is a constant low noise which sounds like a diesil engine in
+>the distance, and is generally heard in quiet environments far from
+>cities.  Some people cannot hear it at all, while others are extremely
+>sensitive.  The source of the sound is still a mystery.
+
+Intresting - I have never heard of this before.
+
+Allow me to introduce myself,  my name is Bill Robicheaux,
+Age - mid 40's, Occupation - retired EE with expertise in
+EMC (Electro-Magnetic Compatability), Obsessions - Sailing,
+Psycology, Metaphysics, Environmental science, etc.  :^)
+
+Since I know nothing of this phenomenon other than what is
+described above,  I would like to ask a few questions to
+enter into this discussion:
+
+(1) Has this sound ever been measured at different localities
+    around the globe?  If so, does the intensity change, and
+    does it appear to come from all directions from the location
+    of measurement?  Has the frequency spectrum of this noise
+    been determined?
+    
+(2) It is fairly well known that very low frequency sound can be 
+    heard over tremendous distances.  For instance, it is now
+    known that some birds navigate their migration routes by
+    determining the direction of the ocean's roar of the surf
+    even from the central U.S.  Some possible sources of this
+    sound may be: (a) The ocean surf, (b) the combined sound
+    of thunder around the world (there are approximately 300
+    to 500 lightning strokes per second around the world),
+    (c) the combined sound of vehicular traffic, (d) the background
+    seismic tremor, (e) combinations of all of the above.
+    
+(3) In his book, "The Global Brain", Peter Russell refers to
+    a "Gaiafield" of planetary collective energy.  There is
+    a possibility that this "Taos Hum" is direct evidence of
+    such a field (which has many interesting possibilities)
+    
+(4) Before the existence of motor powered vessels on the oceans
+    of the world, whales could communicate through the water
+    with others around the world.  The background "din" of motor
+    vessels has drastically reduced the range of the whale's
+    communication ability.  If the oceans are a "sounding board"
+    this "background noise" may likely be transferred to vibrations
+    in the air, as well as the water.
+
+I would like to offer my skills as an analog design engineer towards
+exploring the nature of this "Taos Hum", given the proper resources
+and adaquate time (of which I have little at present.)
+
+I hope the discussion is limited to exploration and scientific
+discovery, rather than becoming a forum for unverifiable beliefs.
+
+I shall contribute what I can.  Please fill me in regarding the
+details of this "Taos Hum".   Thanks, and "Hum" to all of you.  :^)
+
+:) E-mail: robi@halcyon.com * . .  |  \ /  /\ :+ /\ "I am what I am, and   :)
+:) Bill Robicheaux (Row-be-show)  /| - O -/  \ ./  \ that's all that I am" :)
+:) Renton, Washington, USA    _R_/_|__/ \/    \/    \Popeye the sailor man :)
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~d\______/~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+To: billb@eskimo.com (William Beaty- eskimo)
+Cc: 72164.3606@compuserve.com (Sara T. Allen),
+        jmullins@unm.edu (Joe Mullins - UNM (Ret'd))
+From: adams@ece.engr.utk.edu (Ray Adams)
+Date: Mon, 05 Jun 1995 14:22:37 EST
+Subject: Re: Hum info
+
+        Reply to:   RE>Hum info
+Hi Bill,
+(cc's to Joe Mullins and Sara Allen)
+Bill, I've re-directed this reply to you directly, rather than to the list.
+ I will be happy to type in some questions (see below) about T-H, but
+someone else should provide the answers.  Would you be willing to assemble
+submitted questions and answers into an FAQ document?  I would think that
+Sara or Joe Mullins would be the best ones to supply answers, don't you
+think? (perhaps they could collaborate on the answers).  Also, I would
+suggest that the FAQ document be considered a "live" and frequently revised
+document, what do you think?  The Newslist is (as of 6/5) beginning to
+recieve some very interesting new (at least to me) ideas.
+
+Also, what happened to the idea that the Mullins-Poteet (Acoustical
+Society) Paper be made available in text form for downloading by list
+subscribers (and others)?
+
+Q1 - How do most of the "hearers"  describe the Taos Hum (T-H) ?
+
+Q2 - What is the approximate percentage of the population of Taos NM, who
+claim to have heard T-H?
+
+Q3 - From reports of "hearers" in parts of the world other than in Taos,
+NM, what may be said about the global distribution of T-H?
+
+Q4 - What sorts of psychological (or other) evaluations suggest that T-H is
+not a hoax or some sort of "mass hysteria" ?
+
+Q5 - What were the acoustic "hum-matching" tests that were run by the
+University of New Mexico (UNM) researchers, on "hearers" in Taos NM?
+
+Q6 - What frequencies (and modulation) do T-H "hearers" perceive, as a
+result of the hum-matching tests?
+
+Q7 - What was revealed by electromagnetic spectrum scans during the tests
+in Taos, NM?
+
+Q8 - What percentage of the T-H "hearers" in the Taos hum matching tests
+reported hearing "beat frequencies" of the test oscillator, against their
+T-H perceived sound?
+
+Q9 - Is there any quantitative evidence for or against the idea that (the
+US Navy's) ELF communication system is a possible cause of T-H?
+
+Q10 - What are some possible explanations for why "hearers" who are very
+sensitive to T-H (those who are significantly "bothered" by it) say that
+wearing ear plugs or other acoustic "quieting" devices, does not help
+reduce T-H?
+
+Q11 -  What research efforts in possible human conversion of non-acoustic
+signals into percieved sound are in progress?  That is, has anyone
+postulated any mechanism (in humans) that could explain how a person could
+serve as a detector for ELF, or electrostatic waves or atmospheric gravity
+waves, etc.?
+
+Q12 -  Did the Taos tests show that the acoustic responses of T-H "hearers"
+was more sensitive (than "average" persons), at the low frequencies of T-H?
+
+--------------------------------------
+Date: 6/2/95 10:43 AM
+To: Ray Adams
+From: taoshum-l
+
+To all:
+
+Does anyone here know of any Taos Hum info files online anywhere?  I can
+put link buttons to them from my Weird Science web page, and give the
+internet people a place to get questions answered.  If there is enough
+material, I could even start a separate Web page. 
+
+So, anyone feel like typing in a FAQ (Frequently Asked Questions) 
+document?  Or a history of the Hum?  Or a bibliography?
+
+.....................uuuu / oo \ uuuu........,.............................
+William Beaty  voice:206-762-3818   bbs:206-789-0775    cserv:71241,3623
+EE/Programmer/Science exhibit designer        http://www.eskimo.com/~billb/
+Seattle, WA 98117  billb@eskimo.com           SCIENCE HOBBYIST web page
+
+
+Raymond K. Adams (Twice retired )
+Formerly: Univ. of Tennessee ECE Dept.
+Formerly formerly: I&C Div. ORNL
+102 Wendover Circle
+Oak Ridge, TN 37830
+Internet: ADAMS@ECE.ENGR.UTK.EDU
+AOL: Ray Adams
+
+
+
+
+
+Date: Wed, 7 Jun 1995 11:53:08 -0700 (PDT)
+From: William Beaty <billb@eskimo.com>
+To: taoshum-l@mail.eskimo.com
+Subject: Re: Info on the Hum
+
+On Wed, 7 Jun 1995, David Dawson wrote:
+
+> Bill - please say more about the hum being heard here in Seattle! Where, 
+> when, etc...
+
+You'll have to wait for Sara A. to respond.  There apparently is a group 
+out here.  She was on a local TV show last year in Seattle.  Also, 
+someone at work approached me out of the blue about this noise he was 
+hearing during campouts...    I haven't heard the Hum myself.
+
+.....................uuuu / oo \ uuuu........,.............................
+William Beaty  voice:206-762-3818   bbs:206-789-0775    cserv:71241,3623
+EE/Programmer/Science exhibit designer        http://www.eskimo.com/~billb/
+Seattle, WA 98117  billb@eskimo.com           SCIENCE HOBBYIST web page
+
+
+
+
+
+Date: Thu, 1 Jun 1995 22:43:57 -0700 (PDT)
+From: William Beaty <billb@eskimo.com>
+To: LASSEY@delphi.com
+Subject: Re: Taos Hum
+
+On Thu, 1 Jun 1995 LASSEY@delphi.com wrote:
+
+> If you form a list based on the Taos Hum, please include me:
+> lassey@delphi.com.  A report on the hum is available from The University
+> of New Mexico, Public Affairs Department, 1805 Roma NE, Albuquerque,
+> New Mexico 87131-0011.
+
+It's up today!  To subscribe, send this:
+subscribe taoshum-L youremailaddrhere
+
+Send it to: majordomo@eskimo.com
+
+You'll get a greeting message, then start getting mail from the group.  
+To send mail, send it to taoshum-l@eskimo.com
+
+
+.....................uuuu / oo \ uuuu........,.............................
+William Beaty  voice:206-762-3818   bbs:206-789-0775    cserv:71241,3623
+EE/Programmer/Science exhibit designer        http://www.eskimo.com/~billb/
+Seattle, WA 98117  billb@eskimo.com           SCIENCE HOBBYIST web page
+
+
+
+Date: Wed, 14 Jun 1995 08:33:03 -0600 (MDT)
+From: Carlos Melendez <carlos@slider.unm.edu>
+To: Ray Adams <adams@ece.engr.utk.edu>
+Cc: William Beaty- eskimo <billb@eskimo.com>
+Subject: Re: Where is FAQ file?
+
+On Tue, 13 Jun 1995, Ray Adams wrote:
+
+>                        Subject:                               Time:10:16 PM
+>   OFFICE MEMO          Where is FAQ file?                     Date:6/13/95
+> Hi Bill,
+> 
+> cc: Carlos Melendez
+> 
+> I thought that in a recent message, you inferred (maybe I am the one
+> drawing inferences) that you posted (as a file) the FAQ  Q's I submitted so
+> that they could begin to (magically) accumulate answers.  Yet, I cannot
+> find that the taoshum-L has ANY associated files (according to the reply
+> that majordomo gave me (last week) when I asked what files there are).  
+> 
+> I was just thinking that since Joe Mullins' grad student (Carlos Melendez)
+> has subscribed to the list that perhaps he might want to take on the task
+> of generating answers to FA questions and also maybe put up some
+> (educational type) Q's of his own, based on the sources of knowledge, there
+> at UNM.  That way, we could be reasonably sure that the FAQ file doesn't
+> take off in some really wierd direction.  
+> 
+> I'll look forward to your comments (and also your pointer to where the file
+> is, if I correctly interpreted what I thought you said ;-)
+> 
+> Ray
+> 
+> 
+> Raymond K. Adams (Twice retired )
+> Formerly: Univ. of Tennessee ECE Dept.
+> Formerly formerly: I&C Div. ORNL
+> 102 Wendover Circle
+> Oak Ridge, TN 37830
+> Internet: ADAMS@ECE.ENGR.UTK.EDU
+> AOL: Ray Adams
+> 
+> 
+> 
+
+Ray,
+
+I would be happy to reply to any questions that may be generated on this 
+list.  I must admit my ignorance as to the exact workings and 
+nomenclature within this type (list) of service; for instance, what is 
+this FAQ file?  
+
+As far as posting questions, I have many.  I would like your input, as 
+well as other people's, as to the direction this list is seeking to take.
+
+
+                        Carlos Melendez
+                      /
+        +------------/--+     UU     UU   NN    NN   MM       MM
+        |           /   |     UU     UU   NNN   NN   MMM     MMM
+        |        *Taos  |     UU     UU   NN N  NN   MM M   M MM
+        |         /     |     UU     UU   NN  N NN   MM  M M  MM
+        |        /      |      UU   UU    NN   NNN   MM   M   MM
+        |       *       |        UUU      NN    NN   NN       NN
+        |      ABQ      |
+        |               |     University of New Mexico, USA
+        |               |     Mechanical Engineering
+        |       ________+     
+        +_______\
+			      "TECHNOLOGY: No place for wimps" - Dilbert
+
+
+
+
+
+
+Date: Thu, 8 Jun 1995 12:44:19 -0600 (MDT)
+From: Carlos Melendez <carlos@slider.unm.edu>
+To: taoshum-l@eskimo.com
+Subject: Greetings
+
+Hello everyone,
+
+I am Carlos Melendez, a graduate student working on my Master's in 
+Mechanical Engineering at the University of New Mexico in Albuquerque.
+For the past year and a half I have been working with two other researchers
+(Dr. James Kelly and Dr. Joe Mullins) on this phenomenon that has become 
+known as the Taos Hum. 
+
+I'm glad this list has been initiated and look forward to the exchange of 
+ideas and information.
+
+
+                        Carlos Melendez
+                      /
+        +------------/--+     UU     UU   NN    NN   MM       MM
+        |           /   |     UU     UU   NNN   NN   MMM     MMM
+        |        * Taos |     UU     UU   NN N  NN   MM M   M MM
+        |         /     |     UU     UU   NN  N NN   MM  M M  MM
+        |        /      |      UU   UU    NN   NNN   MM   M   MM
+        |       *       |        UUU      NN    NN   NN       NN
+        |      ABQ      |
+        |               |     University of New Mexico, USA
+        |               |     Mechanical Engineering
+        |       ________+     
+        +_______\
+			      "TECHNOLOGY: No place for wimps" - Dilbert
+ 
+
+
+
+Date: Thu, 13 Jul 1995 09:44:40 +0100
+To: taoshum-L@eskimo.com
+From: Vanessa Spedding <Vanessa@elucid.demon.co.uk>
+Subject: Hello
+
+Hi
+I've just subscribed to this list and am wondering if anybody is out there?
+Haven't had any mail yet.
+
+I came across Bill Beatty's page by accident one day and was absolutely
+stunned to read about the hum. My last year in rural U.K. has been spent
+driving everybody mad with my convictions that there is an idling lorry
+engine somewhere nearby. In the end I virtually went mad myself and then
+decided it was a medical problem and resigned myself to a lifetime of
+solitary, low frequency tinnitus.
+
+The concept of Taos hum is a revelation. If anybody wants to chat more
+about it (hoping you haven't covered so much you're bored by now) I'm all
+ears :-)
+
+Vanessa
+
+
+
+
+
+Date: Thu, 13 Jul 1995 07:10:24 -0700 (PDT)
+From: The Science Club <sciclub@halcyon.com>
+To: taoshum-l@eskimo.com
+Subject: Re: Hello
+
+On Thu, 13 Jul 1995, Vanessa Spedding wrote:
+
+> Hi
+> I've just subscribed to this list and am wondering if anybody is out there?
+> Haven't had any mail yet.
+
+Hi Vanessa!
+
+This discussion group is new, and soon after it started there was a 
+hacker attack on the Eskimo site.  The site is currently up, but with 
+inhibited login while security is upgraded.  I've finally got back online 
+through another system.
+
+I think that an article on my WWW page mentioned the existance of a group
+of hum-sensitive people in the UK (called 'hummers' by the press).  
+Anyone here know how to contact them? 
+
+If there are other groups like this, I can start a list of addresses on 
+the web page.  Sara?
+
+
+****************************************************************************
+Bill Beaty                                        THE SCIENCE CLUB
+sciclub@halcyon.com                               School Outreach Programs
+Seattle, WA
+
+
+
+
+
+Date: Sat, 15 Jul 1995 13:02:04 +0100
+To: taoshum-l@eskimo.com
+From: Vanessa Spedding <Vanessa@elucid.demon.co.uk>
+Subject: Re: replies
+
+Bill Beaty wrote:
+
+>Hi Vanessa!
+>
+>This discussion group is new, and soon after it started there was a
+>hacker attack on the Eskimo site.  The site is currently up, but with
+>inhibited login while security is upgraded.  I've finally got back online
+>through another system.
+
+Hi Bill,
+
+Thanks for your reply and explanations. I wonder, as a sideline, what
+hackers hope to gain from plundering the Eskimo site?
+
+Thanks also to others that responded privately or otherwise. If anyone
+*does* know contact details for the UK "hummers" I'd be very interested.
+
+Meanwhile I'm really looking for general feedback on whether people think
+the Hum is a form of low frequency tinnitus (which I'm quite prepared to
+accept even if it does feel very external) or whether there are any other
+plausible explanations. (Not really into underground aliens theories I'm
+afraid ;-)
+
+I'm away, and so will be silent, for a while, however.
+
+Vanessa
+
+
+
+
+Date: Sat, 15 Jul 1995 09:19:58 -0700 (PDT)
+From: William Beaty <billb@eskimo.com>
+To: taoshum-l@mail.eskimo.com
+Subject: Re: replies
+
+On Sat, 15 Jul 1995, Vanessa Spedding wrote:
+
+> Hi Bill,
+> 
+> Thanks for your reply and explanations. I wonder, as a sideline, what
+> hackers hope to gain from plundering the Eskimo site?
+
+It's just vandalism by some immature idiot.  The current story is that an
+eskimo user boasted of the security features at this site, so the hacker
+had to prove his machismo by breaking in and trashing files.  But since
+unix systems are not very secure, it doesn't take a lot to do this.  The
+vandal certainly proved his mettle by attacking a small hobbyist-type
+company having two employees and not much overhead.
+
+> Meanwhile I'm really looking for general feedback on whether people think
+> the Hum is a form of low frequency tinnitus (which I'm quite prepared to
+> accept even if it does feel very external) or whether there are any other
+> plausible explanations. (Not really into underground aliens theories I'm
+> afraid ;-)
+
+The best theory I've heard is that the hum originates with the worldwide 
+military submarine communications system.  This would explain why it 
+seems to change intensity as international incidents occur.  But if this 
+is the source, then the hum is ELF radio frequencies, and will be easily 
+shielded by iron enclosures.  Since it seems not to be shieldable, then 
+this theory doesn't work.  
+
+There is always the possibility that the military has discovered some new
+physics which makes unconventional communications devices possible, and
+this is the origin of the hum.  Tesla claimed that his World System radio
+was not based on radio waves, though modern researchers believe otherwise. 
+In the '50s a Dr. Hooper explored an unshieldable electrostatic field
+which originates with electron motion in wires, but his work has been
+ignored. 
+
+.....................uuuu / oo \ uuuu........,.............................
+William Beaty  voice:206-762-3818   bbs:206-789-0775    cserv:71241,3623
+EE/Programmer/Science exhibit designer        http://www.eskimo.com/~billb/
+Seattle, WA 98117  billb@eskimo.com           SCIENCE HOBBYIST web page
+
+
+
+
+Date: Sun, 16 Jul 1995 09:58:27 -0700 (PDT)
+From: William Beaty <billb@eskimo.com>
+To: taoshum-l@eskimo.com
+Subject: Tinnitus FAQ
+
+There is a group involved with tinnitus which has a Frequently Asked 
+Questions file posted on the WWW.  For any with interest, I just put its 
+link to it on the Taos Hum page.
+
+.....................uuuu / oo \ uuuu........,.............................
+William Beaty  voice:206-762-3818   bbs:206-789-0775    cserv:71241,3623
+EE/Programmer/Science exhibit designer        http://www.eskimo.com/~billb/
+Seattle, WA 98117  billb@eskimo.com           SCIENCE HOBBYIST web page
+
+
+
+
+Date: Thu, 27 Jul 1995 07:13:02 -0700 (PDT)
+From: William Beaty <billb@mail.eskimo.com>
+To: taoshum-l@mail.eskimo.com
+Subject: Re: Seattle people
+
+On Fri, 23 Jun 1995, David Dawson wrote:
+
+> Bill - 
+> 
+> I'd be glad to help with the experiment, if you could use someone to 
+> assist with sound equipment, etc. . I haven't heard the hum, but I'm going to 
+> Santa Fe and Taos in July, and I'll give a listen. Any tips on where to go 
+> to hear the hum? Or is it 'everywhere'? 
+> 
+> On Thu, 22 Jun 1995, William Beaty wrote:
+> > 
+> > I'd like to get in touch with anyone in Seattle who can hear the Hum.  
+> 
+
+Hi David.  I'm answering old mail from before the crash.  I'm not a hum 
+'hearer,' but someone at work is, and says he hears it on campouts in the 
+NW.  I don't think it's a lot louder in Taos, it's just that the media flap 
+started there.  So far I've not met anyone local who can hear it reliably.
+
+.....................uuuu / oo \ uuuu........,.............................
+William Beaty  voice:206-762-3818   bbs:206-789-0775    cserv:71241,3623
+EE/Programmer/Science exhibit designer        http://www.eskimo.com/~billb/
+Seattle, WA 98117  billb@eskimo.com           SCIENCE HOBBYIST web page
+
+
+
+
+
+From: JKarleen@aol.com
+Received: by mail02.mail.aol.com
+	(1.37.109.16/16.2) id AA175850382; Mon, 31 Jul 1995 21:26:22 -0400
+Date: Mon, 31 Jul 1995 21:26:22 -0400
+To: taoshum-L@eskimo.com
+Subject: Hum on -Sightings-
+
+Just thought I'd drop a note and let everyone know that the -Sightings-
+program is going to air a segment on the Hum during the new television week
+to start August 5.  I don't know whether this is a repeat of their original
+April program or new material, but in case you missed the -Sightings-
+announcement on this week's show, thought I'd repeat it here.  Wishing you
+all "humless" days!
+
+Judy Cole
+

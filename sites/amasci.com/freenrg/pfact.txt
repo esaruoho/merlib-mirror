@@ -1,0 +1,153 @@
+
+From billbeskimo.com Fri Aug  8 21:25:28 1997
+Date: Fri, 8 Aug 1997 21:24:21 -0700 (PDT)
+From: William Beaty <billbeskimo.com>
+To: Tim Girard <tim@tumbleweed.com>
+Cc: freenrg-l@eskimo.com
+Subject: RE: PODMOD, MRA, egos...    ...power factor.
+
+On Thu, 10 Jul 1997, Tim Girard wrote:
+
+> Hi Bill,
+> Can you explain the AC power factor to me. I must have missed it in the
+> list somewhere.
+
+Hi Tim!  This was heavily discussed in 1994 on Keelynet, many people
+here are already familiar.
+
+It involves AC, coils, and capacitors.  The short version: if volts and
+current in an AC wave are at zero phase angle or 180deg phase, there is a
+continuous energy flow in the pair of wires.  But if the phase angle is
+90deg or 270deg, there is no energy flow.  So, if you ONLY measure voltage
+and current, and ignore the phase between them, you know nothing about
+energy flow.  With AC systems, you cannot just measure volts, measure
+current, then multiply to get wattage.  That only works for pure DC.
+
+THE LONG VERSION:
+
+If you stick a resistor across an AC line, the voltage drives a
+current, and when the voltage is high, the current is high, and the energy
+flow (wattage) is high.  When the voltage reverses every 120th second, the
+current reverses too, so the wattage is still positive.  The resistor gets
+hot, and it actually is heated by two whacks of energy every 60th of a
+second (heat is maxiumum when the voltage is positive AND when the voltage
+is negative.)  The energy waveform turns out to be a 120hz sine wave
+flowing into the resistor as the volts and current keep reversing.
+
+RESISTOR
+       voltage     current      energy
+        wave        wave         wave
+         .           .            .
+         +           +            +
+        ++          ++           ++++
+        +++         +++        +++++++++       VOLTS AND CURRENT VARY
+        +++         +++        +++++++++       TOGETHER DURING AC CYCLE,
+        ++          ++           ++++          SO ENERGY ALWAYS FLOWS 
+         +           +            +            FROM GENERTOR TO RESISTOR
+         .           .            .
+         -           -            +
+        --          --           ++++
+        ---         ---        +++++++++
+        ---         ---        +++++++++
+        --          --           ++++
+         -           -            +
+_______________________________________________________________________
+
+Now if you stick a capacitor across the AC line, something entirely
+different happens.  As the voltage wave cycles along, first there is a
+tiny voltage and a large current as the capacitor charges.  Then the line
+voltage rises to maximum as the capacitor becomes fully charged, and the
+current is zero when the voltage is maximum.  The voltage then falls, and
+the capacitor discharge causes a current which is reversed in polarity
+compared to the first current.  When the voltage is down to zero again,
+this reversed current is maximum.  The voltage then goes to negative
+maximum, the capacitor charges in the opposite polarity, and when the
+voltage gets to negative maximum , the capacitor is fully charged and the
+current is again zero.  The voltage then falls, and the capacitor current
+reverses again as it discharges. 
+
+If we look at the energy flow (watts, or volts times current) around the
+capacitor circuit, we find that it is very different than the energy flow
+for the resistor.  For the resistor, voltage and current both went
+positive and negative at the same time, so energy flow was ALWAYS
+positive, meaning that electrical energy flow direction was always FROM
+the generator and TO the resistor (and then converted to heat.)  But in
+the capacitor, the voltage and current are out of phase, so the energy
+flow is back and forth like so: 
+
+CAPACITOR
+       voltage     current      energy
+        wave        wave         wave
+         .          ++++          .
+         +           +++         +++
+        ++           ++         ++++
+        +++           +          +++
+       ++++           .           .
+        +++           -          ---
+        ++           --         ----      VOLTS AND CURRENT ARE 90 DEG
+         +           ---         ---      OUT OF PHASE.  ENERGY FLOW
+         .          ----          .       DIRECTION GOES POS AND NEG,
+         -           ---         +++      SO GENERATOR STORES ENERGY IN
+        --           --         ++++      CAPACITOR, THEN CAPACITOR 
+        ---           -          +++      DELIVERS ENERGY BACK TO 
+       ----           .           .       GENERATOR AGAIN.  EVEN THOUGH
+        ---           +          ---      VOLTS AND CURRENT ARE THERE,
+        --           ++         ----      THERE IS NO ENERGY OUTPUT.
+         -           +++         ---      ENERGY JUST "SLOSHES" BACK
+         .          ++++          .       AND FORTH.
+
+With the resistor, the generator delivered a continuous energy flow.  With
+the capacitor, the energy sloshes back and forth between the generator and
+the capacitor.  There is zero average energy flow!  The capacitor draws a
+current, but it doesn't use any energy.  This weird situation occurs when
+the voltage and current waves are at 90 degrees phase as my above crude
+diagram depicts. 
+
+It also occurs when they are at 270 degrees phase, and 270 degrees occurs
+when a coil is connected across an AC outlet.  (To simplify the concept,
+imagine a coil that's wound with special zero-ohm wire.)  It seems
+counter-intuitive, no?  But when you stick a coil of wire across an AC
+outlet, the coil draws current, but it draws no energy.  Energy goes into
+the coil for a moment, but then it goes back to the generator.
+
+What happens at other degrees of phase besides 0,90,180,270?  Turns out
+that the average energy flow (watts) for pure sine waves can be calculated
+like so: 
+
+   Watts  =   Volts x Amps x COS(phase)
+
+"phase" is the phase shift in degrees.  The cosine function is zero at 90
+and 270 degrees, just like the energy flow in the above capacitor diagram. 
+
+COS(phase) is called the "power factor".  Power Factor causes grief for
+free energy experimenters when they try to calculate energy output.  If
+you calculate watts by multiplying volts and amps, your watts might
+actually be much less, or the direction of energy flow might actually be
+backwards in relation to what you expect.  To calculate the net energy
+flow, you must measure the phase difference between volts and amps, then
+perform the above calculation.
+
+What about other, non-sinewave waveforms?  Easy (though harder to do).
+See that capacitor energy wave diagram above?  Just take one full cycle
+and add up all the pluses and minuses in the energy wave.  To do this
+accurately you'll have to capture the voltage and current waveforms with
+a 12-bit A-to-D card, then do a running total of the product of volts and
+amps for one complete cycle.  Either that, or buy a (hyper expensive) high
+frequency true-RMS AC power meter which has separate inputs for volts and
+current.
+
+Needless to say, energy flow measurements are extremely difficult for
+anything but pure sine waves.  Since most F/E devices rely on nonlinear
+physics, their outputs are usually not sine waves.  And so it's easy to
+make a mistake and fool yourself into believing that your experiment is
+producing energy.  And unless you normally perform these measurements as
+part of your profession, it's difficult to get anyone to believe that you
+performed the power measurements correctly.
+
+
+.....................uuuu / oo \ uuuu........,.............................
+William Beaty  voice:206-762-3818   bbs:206-789-0775    cserv:71241,3623
+EE/Programmer/Science exhibit designer        http://amasci.com/
+Seattle, WA 98117  billbeskimo.com           SCIENCE HOBBYIST web page
+
+

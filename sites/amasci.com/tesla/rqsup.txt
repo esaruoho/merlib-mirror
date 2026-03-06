@@ -1,0 +1,82 @@
+From richard.quick@slug.orgMon Aug 28 07:24:55 1995
+Date: Mon, 28 Aug 1995 01:25:44 -0600
+From: Richard Quick <richard.quick@slug.org>
+Reply to: usa-tesla@usa.net
+To: billbeskimo.com
+Subject: Re: transformers
+
+Quoting "M. Durller" <mikedlt@u.washington.edu>:
+
+ > How exactly does one ballast a "pole pig" or other large       
+ > commercial transformer? 
+
+I have always found a few Magic Chef oven elements and an arc
+welder in series or series/parallel with the transformer low
+voltage winding worked extremely well. A "salt water rheostat"
+can be built in a plastic waste can doped with a few teaspoons of
+baking soda. Current is controlled by raising and lowering copper
+electrodes into the water bath.
+
+ > More importantly, could someone give me any clues as to where  
+ > I might pick one up at?
+
+The Transformer Bank, Inc., University Technology Center
+      1313 Fifth St. SE,  Minneapolis, MN  55415
+       Tel: (612) 379-3958, Fax: (612) 379-5962
+Suppliers of surplus high voltage transformers and transmission
+equipment. Good source of non-shunted step up xfrmrs.
+
+Jefferson Electric Co., Elk Grove Village, Illinois USA 
+phone is (708) 806-6500.
+Manufactures and supplies neon sign transformers, they also have
+"ballast" transformers which are internally limited high current
+transformers. 
+
+NWL Transformers, Dept. G, Rising Sun Rd., Bordentown, NJ 08505 
+Source for neon sign and other transformers.
+
+Cornell-Dubilier, 1605 E. Rodney French Blvd., New Bedford,  
+MA 02744, Tel: 508-996-8564  They bought out Sangamo
+
+ Danny Churchill at Commercial Radio Co. in VT, 802-226-7582, 
+sometimes has some interesting stuff around.  I bet you'd    
+find him interesting even if he didn't have whatever model   
+you currently need.  Among other things, he manufactures     
+custom high-voltage inductors and transformers, in an old 3  
+story brick schoolhouse converted to a factory/warehouse. (T.S.)
+
+Hipotronics, Inc., RTE.22, Brewster, New York, 10590 (or 10509)
+TEL: 914-279-8091
+Manufacturers of high-voltage test equipment. Capacitors,
+transformers, bussing, toroids, etc. are available. These are 
+the guys who make the test gear that power utilities use to
+destroy their xmission equipment to determine breakdown limits.
+
+Maxwell Labs, Inc., 8888-G Balboa Ave, San Diego, CA, 92123
+TEL: 619-279-5100
+Manufacturer of commercial high-voltage equipment, capacitors,
+power supplies, etc..
+
+Vacuum Tube Industries, Inc., 506 North Warren Avenue,
+P.O. Box 2009, Brockton, MA.  02405  USA
+tel: 508-584-4500, tel: 800-528-5014, fax: 508-584-0096
+Specialize in new and rebuilt 450 KC power tubes for commercial
+RF induction heaters and the supply & control xfrmrs, cooling
+loops, etc.. You can get a couple of heavy duty plate
+transformers that can be placed in series for a HV Tesla power
+supply.
+
+Weisner Electronics, 149 Hunter Ave, Albany, NY, 12206
+TEL: 518-438-2801
+Plate xfmrs, mica caps, tubes, etc..
+
+Or make a contact at your local power utility.
+
+Richard Quick
+
+
+
+
+
+.. If all else fails... Throw another megavolt across it!
+___ Blue Wave/QWK v2.12

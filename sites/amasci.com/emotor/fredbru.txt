@@ -1,0 +1,42 @@
+Date: Sun, 25 May 97 19:11:43 +0100
+From:
+To: Mr Bill Beatty <billbeskimo.com>
+Subject: Thank you note and report  of methods used
+
+Dear Bill,
+
+Thank you for your web page on building a van de graaff generator. My son,
+age 11, and I used your info and the articles your page cited to
+successfully build a small machine that was the hit of Fred's 6th grade
+science fair.  At one point you answered a question for us on a 3 2 liter
+bottle motor but we later decided to build the generator instead. 
+
+We used 1/8 inch acrylic sheets to build a 6 inches on a side cube with an
+open bottom and one open side as our base. We follwed the 1955 Scientic
+American articles' diagram and used an acrylic tube but then cut 2 notches
+for a top pulley shaft right in the top of the tube. We used a 110 volt
+1/150 hp motor and a 7" by 5/8" by 1/8" rubber band as our belt.  The top
+pulley was hard to locate but we finally found a perfect item in a
+hardware store.  The item was sold as part of a 1/4 inch cable connecting
+kit,it cost 2$ and change and we discarded the connectors and used both of
+the "stops" each of which was a 3/4 by 3/4 inch clyinder with about a 9/32
+hole for a shaft.  We used a 1/4 inch solid acrylic rod for the upper
+pulley shaft. We built another acrlic box, 4 inches on a side and open on
+the top and bottom, to support the sphere.  This method allowed for
+maximun visibility of all parts except those within the sphere. We also
+found that copper strips sold for gutter work did nicely for holding the
+spray screens and connecting to the plus and minus terminals. For the
+terminals we used another hardware store item, also made of copper,
+designed to connect to 1/4" marine battery threaded post extensions which
+included a treaded hole with a flat screw type device ideal for attaching
+a wire connecting to a wand with round discharging ball and/or a ground
+wire ect.
+
+These were the high points of our design method.  We appreciate your
+having so much info available on the WWW and thought we would try to make
+a contribution by writing this report in the hope that some other amatuers
+might be saved some time in finding materials ect. 
+
+Thanks again,
+
+Fred and Bruce (Dad)

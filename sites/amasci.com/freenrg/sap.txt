@@ -1,0 +1,138 @@
+
+                    The Self Accelerating Plasma Tube
+                               (SAP Tube)                Ossie Callanan
+
+Anyone who has recieved the latest New Energy News newsletter should have
+also recieved an additional advertisement by Stefan Marinov titled, "MARINOV: 
+ANNUS HORRIBILIS", which accompanied the newsletter and also appeared in the 
+March 28th 1996 issue of Nature magazine.
+
+Basically it is an update of his scalar magnetic field theories and devices
+which appeared on page 299 of the proceedings from the May 1994 Symposium
+on New Energy.
+
+In this paper I would like to bring to your attention one of his devices he
+calls the SIBERIAN COLIU. Following is a small extract from the advertisement
+which describes its components in principle.
+
+"A cylindrical magnet is cut along one of its axial planes and the one half
+is turned up-down (the magnetic forces themselves do the rotation). Around
+this magnet, there is a trough filled with mercury in which the copper ring
+which can be seen at right swims (the children take salt solution and suspend
+the ring on threads). After sending a current of some tens of amperes from
+the battery at left, which is regulated by the rheostat, the ring begins to
+rotate. That's all!"
+
+Circuit:
+
+  Cylinder magnet in center             Copper ring rotates clockwise
+                           \    __---__/
+                              _/ __ __ \_
+                             /  /  |  \  \
+               ---->---->---|  | N | S |  |--->---->----
+               |             \_ \__|__/ _/             |
+               |               \__   __/               |
+               |                  ---                  |
+               |                                       |
+               |                  |   |                |
+               ----<----<-------| | | |-------<----<----
+                                  |   |
+                                 Battery
+
+
+According to his theories, you can do the reverse. Rotate the copper ring
+clockwise and it will generate power in the same direction of current flow.
+Yes I said the same direction. Marinov has demonstrated and proved this in
+his devices. What this means, and as he explains, is that working as a motor
+or a generator, there is no opposing torque to the direction of rotation and
+hence the device becomes "Self Accellerating" and as long as you draw power
+from it, it will power itself.
+
+There is one barrier when constructing this as a mechanical device and that
+is friction. Due to the low torques generated, friction halts the self
+accellerating process but its seems that Marinov has overcome this and
+implies that he has a SIBERIAN COLIU working as a PERPETUUM MOBILE and will
+soon present this at a press conference.
+
+It soon comes to mind that if his theories are true and his device is indeed
+doing what he explains then surely there must be a way to tap this energy
+in a more efficient way than a crudely inefficient electro mechanical device.
+
+I believe I have come up with such a way and device. I have been able to do
+so by deriving an analogy of Marinov's Scalar Magnetic Theory to the rotation
+of the Earth.
+
+If the Earth were a spherical magnet with the same field properties as that 
+of Marinov's cylinder magnet, and the sun constantly supplied electrons just
+like that of the battery, then the Earth's ionosphere and crust would act
+like the copper ring and rotate. If this is so, no wonder that satelite 
+tether was vaporised. It would have been tapping into an unimaginable amount
+of energy that was keeping the earth in perpetual rotation. You can bet NASA 
+never heard of Marinov's theories.
+
+>From this analogy it then becomes easy to imagine an efficient device with
+no moving parts that may utilise Scalar magnetism to derive free energy and
+power itself.
+
+All that would be required is to replace the copper ring with an ionised
+gas plasma that may be contained in a sealed tube in the shape of a donut of
+which the cylinder magnet will then be placed in the hole. Two metal 
+conductors shall be placed at oppossing ends on the outside of the donut tube
+of which their axis will be at right angles to the cut plane of the cylinder
+magnet.
+
+When a DC current is placed on the electrodes and the gas is ionised, it will
+become conductive (maybe even superconductive). This will cause the gas to
+rotate inside its donut tube (according to Marinov's theory). This will
+inturn generate more current in the same direction of the applied current
+flow and the device will become self generating and the excess power may be
+fed to a load.
+
+See Diagram Below:              
+
+Ionising gas in donut tube-"x"
+                          \     _______      Donut shaped gas containment
+Cylinder magnet in centre   \__/   x   \__ /            tube
+                        \  _/ x __---__ x \_
+     Metal Conductor __   / x _/ __ __ \_ x \   Metal conductor electrode 
+         electrode     \ / x /  /  |  \  \ x \ /
+               ---->----|-  |  | N | S |  |  -|---->----
+               |         \ x \_ \__|__/ _/ x /         |
+               |          \_ x \__   __/ x _/          |
+               |            \_ x  ---  x _/            |
+               |              \__  x  __/              |
+               |                 -----                 |
+               |                         Changover     |
+               |                  |   |   Switch       |
+               |---<----<-------| | | |---0/--0----<---|
+               |                  |   |     |          |
+               |          Ionising Current Source      |
+               |                            |          |
+               |                           \_          |
+               ----<----<-----/\/\/\/\----0  \0----<----
+                                Load    Changeover
+                                         Switch
+
+As can be seen above, there are no mechanical parts and hence, no friction
+to over come so even the smallest amount of torque on the gas plasma will
+soon accellerate to very large amounts as determined by the amount of current
+the load draws.
+
+I believe other successful vacuume tube energy devices of the past must have
+worked by utilising the same principles. T. Henry Moray was quoted as saying
+the amount of energy his device produced was determined by the load he placed
+on it. The more load he connected, the device powered with no problems.
+This is inherent in the working principle of the above device.
+
+If anyone experiments with the above mentioned device, it will be appreciated
+if the results are forwarded to me via Keelynet or at mathew3@netspace.net.au. 
+
+All comments, questions and critique welcome...
+
+Regards,
+        Ossie Callanan
+        freenrg-L@eskimo.com
+
+
+
+
