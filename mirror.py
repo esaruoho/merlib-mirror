@@ -445,6 +445,15 @@ def should_skip_url(url, domain):
     ext = os.path.splitext(path)[1]
     if ext in skip_exts:
         return True
+    # Skip Blogspot/Blogger noise: search pagination, comment permalinks, feeds
+    query = parsed.query.lower()
+    if 'blogspot.com' in host or 'blogger.com' in host:
+        if '/search' in path and ('updated-max=' in query or 'reverse-paginate' in query):
+            return True
+        if 'showcomment=' in query:
+            return True
+        if '/feeds/' in path and '/comments/' in path:
+            return True
     return False
 
 
