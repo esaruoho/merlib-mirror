@@ -1,0 +1,5562 @@
+<!DOCTYPE html>
+<html class='v2' dir='ltr' lang='en' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+<head>
+<link href='https://www.blogger.com/static/v1/widgets/335934321-css_bundle_v2.css' rel='stylesheet' type='text/css'/>
+<meta content='width=1100' name='viewport'/>
+<meta content='https://matpitka.blogspot.com/2013/10/a-general-model-for-metabolism.html' property='og:url'/>
+<meta content='TGD diary' property='og:title'/>
+<meta content='article' property='og:type'/>
+<meta content='https://tgdtheory.fi/tgdmaterials/myphoto.JPG' property='og:image'/>
+<meta content='{{post.title}}' property='og:title'/>
+<meta content='' property='og:description'/>
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<meta content='blogger' name='generator'/>
+<link href='https://matpitka.blogspot.com/favicon.ico' rel='icon' type='image/x-icon'/>
+<link href='https://matpitka.blogspot.com/2013/10/a-general-model-for-metabolism.html' rel='canonical'/>
+<link rel="alternate" type="application/atom+xml" title="TGD diary - Atom" href="https://matpitka.blogspot.com/feeds/posts/default" />
+<link rel="alternate" type="application/rss+xml" title="TGD diary - RSS" href="https://matpitka.blogspot.com/feeds/posts/default?alt=rss" />
+<link rel="service.post" type="application/atom+xml" title="TGD diary - Atom" href="https://www.blogger.com/feeds/10614348/posts/default" />
+
+<link rel="alternate" type="application/atom+xml" title="TGD diary - Atom" href="https://matpitka.blogspot.com/feeds/4763533786464384972/comments/default" />
+<!--Can't find substitution for tag [blog.ieCssRetrofitLinks]-->
+<meta content='https://matpitka.blogspot.com/2013/10/a-general-model-for-metabolism.html' property='og:url'/>
+<meta content=' A general model for metabolism' property='og:title'/>
+<meta content='' property='og:description'/>
+<title>TGD diary:  A general model for metabolism</title>
+<!--Can't find substitution for tag [blog.postSummary]-->
+https://matpitka.blogspot.com/2013/10/a-general-model-for-metabolism.html
+<!--Can't find substitution for tag [blog.postImage]-->
+<style id='page-skin-1' type='text/css'><!--
+/*
+-----------------------------------------------
+Blogger Template Style
+Name:     Simple
+Designer: Blogger
+URL:      www.blogger.com
+----------------------------------------------- */
+/* Variable definitions
+====================
+<Variable name="keycolor" description="Main Color" type="color" default="#66bbdd"/>
+<Group description="Page Text" selector="body">
+<Variable name="body.font" description="Font" type="font"
+default="normal normal 12px Arial, Tahoma, Helvetica, FreeSans, sans-serif"/>
+<Variable name="body.text.color" description="Text Color" type="color" default="#222222"/>
+</Group>
+<Group description="Backgrounds" selector=".body-fauxcolumns-outer">
+<Variable name="body.background.color" description="Outer Background" type="color" default="#66bbdd"/>
+<Variable name="content.background.color" description="Main Background" type="color" default="#ffffff"/>
+<Variable name="header.background.color" description="Header Background" type="color" default="transparent"/>
+</Group>
+<Group description="Links" selector=".main-outer">
+<Variable name="link.color" description="Link Color" type="color" default="#2288bb"/>
+<Variable name="link.visited.color" description="Visited Color" type="color" default="#888888"/>
+<Variable name="link.hover.color" description="Hover Color" type="color" default="#33aaff"/>
+</Group>
+<Group description="Blog Title" selector=".header h1">
+<Variable name="header.font" description="Font" type="font"
+default="normal normal 60px Arial, Tahoma, Helvetica, FreeSans, sans-serif"/>
+<Variable name="header.text.color" description="Title Color" type="color" default="#3399bb" />
+</Group>
+<Group description="Blog Description" selector=".header .description">
+<Variable name="description.text.color" description="Description Color" type="color"
+default="#777777" />
+</Group>
+<Group description="Tabs Text" selector=".tabs-inner .widget li a">
+<Variable name="tabs.font" description="Font" type="font"
+default="normal normal 14px Arial, Tahoma, Helvetica, FreeSans, sans-serif"/>
+<Variable name="tabs.text.color" description="Text Color" type="color" default="#999999"/>
+<Variable name="tabs.selected.text.color" description="Selected Color" type="color" default="#000000"/>
+</Group>
+<Group description="Tabs Background" selector=".tabs-outer .PageList">
+<Variable name="tabs.background.color" description="Background Color" type="color" default="#f5f5f5"/>
+<Variable name="tabs.selected.background.color" description="Selected Color" type="color" default="#eeeeee"/>
+</Group>
+<Group description="Post Title" selector="h3.post-title, .comments h4">
+<Variable name="post.title.font" description="Font" type="font"
+default="normal normal 22px Arial, Tahoma, Helvetica, FreeSans, sans-serif"/>
+</Group>
+<Group description="Date Header" selector=".date-header">
+<Variable name="date.header.color" description="Text Color" type="color"
+default="#222222"/>
+<Variable name="date.header.background.color" description="Background Color" type="color"
+default="transparent"/>
+<Variable name="date.header.font" description="Text Font" type="font"
+default="normal bold 11px Arial, Tahoma, Helvetica, FreeSans, sans-serif"/>
+<Variable name="date.header.padding" description="Date Header Padding" type="string" default="inherit"/>
+<Variable name="date.header.letterspacing" description="Date Header Letter Spacing" type="string" default="inherit"/>
+<Variable name="date.header.margin" description="Date Header Margin" type="string" default="inherit"/>
+</Group>
+<Group description="Post Footer" selector=".post-footer">
+<Variable name="post.footer.text.color" description="Text Color" type="color" default="#666666"/>
+<Variable name="post.footer.background.color" description="Background Color" type="color"
+default="#f9f9f9"/>
+<Variable name="post.footer.border.color" description="Shadow Color" type="color" default="#eeeeee"/>
+</Group>
+<Group description="Gadgets" selector="h2">
+<Variable name="widget.title.font" description="Title Font" type="font"
+default="normal bold 11px Arial, Tahoma, Helvetica, FreeSans, sans-serif"/>
+<Variable name="widget.title.text.color" description="Title Color" type="color" default="#000000"/>
+<Variable name="widget.alternate.text.color" description="Alternate Color" type="color" default="#999999"/>
+</Group>
+<Group description="Images" selector=".main-inner">
+<Variable name="image.background.color" description="Background Color" type="color" default="#ffffff"/>
+<Variable name="image.border.color" description="Border Color" type="color" default="#eeeeee"/>
+<Variable name="image.text.color" description="Caption Text Color" type="color" default="#222222"/>
+</Group>
+<Group description="Accents" selector=".content-inner">
+<Variable name="body.rule.color" description="Separator Line Color" type="color" default="#eeeeee"/>
+<Variable name="tabs.border.color" description="Tabs Border Color" type="color" default="#eeeeee"/>
+</Group>
+<Variable name="body.background" description="Body Background" type="background"
+color="#eeaa00" default="$(color) none repeat scroll top left"/>
+<Variable name="body.background.override" description="Body Background Override" type="string" default=""/>
+<Variable name="body.background.gradient.cap" description="Body Gradient Cap" type="url"
+default="url(https://resources.blogblog.com/blogblog/data/1kt/simple/gradients_light.png)"/>
+<Variable name="body.background.gradient.tile" description="Body Gradient Tile" type="url"
+default="url(https://resources.blogblog.com/blogblog/data/1kt/simple/body_gradient_tile_light.png)"/>
+<Variable name="content.background.color.selector" description="Content Background Color Selector" type="string" default=".content-inner"/>
+<Variable name="content.padding" description="Content Padding" type="length" default="10px" min="0" max="100px"/>
+<Variable name="content.padding.horizontal" description="Content Horizontal Padding" type="length" default="10px" min="0" max="100px"/>
+<Variable name="content.shadow.spread" description="Content Shadow Spread" type="length" default="40px" min="0" max="100px"/>
+<Variable name="content.shadow.spread.webkit" description="Content Shadow Spread (WebKit)" type="length" default="5px" min="0" max="100px"/>
+<Variable name="content.shadow.spread.ie" description="Content Shadow Spread (IE)" type="length" default="10px" min="0" max="100px"/>
+<Variable name="main.border.width" description="Main Border Width" type="length" default="0" min="0" max="10px"/>
+<Variable name="header.background.gradient" description="Header Gradient" type="url" default="none"/>
+<Variable name="header.shadow.offset.left" description="Header Shadow Offset Left" type="length" default="-1px" min="-50px" max="50px"/>
+<Variable name="header.shadow.offset.top" description="Header Shadow Offset Top" type="length" default="-1px" min="-50px" max="50px"/>
+<Variable name="header.shadow.spread" description="Header Shadow Spread" type="length" default="1px" min="0" max="100px"/>
+<Variable name="header.padding" description="Header Padding" type="length" default="30px" min="0" max="100px"/>
+<Variable name="header.border.size" description="Header Border Size" type="length" default="1px" min="0" max="10px"/>
+<Variable name="header.bottom.border.size" description="Header Bottom Border Size" type="length" default="0" min="0" max="10px"/>
+<Variable name="header.border.horizontalsize" description="Header Horizontal Border Size" type="length" default="0" min="0" max="10px"/>
+<Variable name="description.text.size" description="Description Text Size" type="string" default="140%"/>
+<Variable name="tabs.margin.top" description="Tabs Margin Top" type="length" default="0" min="0" max="100px"/>
+<Variable name="tabs.margin.side" description="Tabs Side Margin" type="length" default="30px" min="0" max="100px"/>
+<Variable name="tabs.background.gradient" description="Tabs Background Gradient" type="url"
+default="url(https://resources.blogblog.com/blogblog/data/1kt/simple/gradients_light.png)"/>
+<Variable name="tabs.border.width" description="Tabs Border Width" type="length" default="1px" min="0" max="10px"/>
+<Variable name="tabs.bevel.border.width" description="Tabs Bevel Border Width" type="length" default="1px" min="0" max="10px"/>
+<Variable name="post.margin.bottom" description="Post Bottom Margin" type="length" default="25px" min="0" max="100px"/>
+<Variable name="image.border.small.size" description="Image Border Small Size" type="length" default="2px" min="0" max="10px"/>
+<Variable name="image.border.large.size" description="Image Border Large Size" type="length" default="5px" min="0" max="10px"/>
+<Variable name="page.width.selector" description="Page Width Selector" type="string" default=".region-inner"/>
+<Variable name="page.width" description="Page Width" type="string" default="auto"/>
+<Variable name="main.section.margin" description="Main Section Margin" type="length" default="15px" min="0" max="100px"/>
+<Variable name="main.padding" description="Main Padding" type="length" default="15px" min="0" max="100px"/>
+<Variable name="main.padding.top" description="Main Padding Top" type="length" default="30px" min="0" max="100px"/>
+<Variable name="main.padding.bottom" description="Main Padding Bottom" type="length" default="30px" min="0" max="100px"/>
+<Variable name="paging.background"
+color="#ffffff"
+description="Background of blog paging area" type="background"
+default="transparent none no-repeat scroll top center"/>
+<Variable name="footer.bevel" description="Bevel border length of footer" type="length" default="0" min="0" max="10px"/>
+<Variable name="mobile.background.overlay" description="Mobile Background Overlay" type="string"
+default="transparent none repeat scroll top left"/>
+<Variable name="mobile.background.size" description="Mobile Background Size" type="string" default="auto"/>
+<Variable name="mobile.button.color" description="Mobile Button Color" type="color" default="#ffffff" />
+<Variable name="startSide" description="Side where text starts in blog language" type="automatic" default="left"/>
+<Variable name="endSide" description="Side where text ends in blog language" type="automatic" default="right"/>
+*/
+/* Content
+----------------------------------------------- */
+body {
+font: normal normal 12px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+color: #222222;
+background: #eeaa00 none repeat scroll top left;
+padding: 0 40px 40px 40px;
+}
+html body .region-inner {
+min-width: 0;
+max-width: 100%;
+width: auto;
+}
+h2 {
+font-size: 22px;
+}
+a:link {
+text-decoration:none;
+color: #cc6611;
+}
+a:visited {
+text-decoration:none;
+color: #888888;
+}
+a:hover {
+text-decoration:underline;
+color: #ff9900;
+}
+.body-fauxcolumn-outer .fauxcolumn-inner {
+background: transparent url(https://resources.blogblog.com/blogblog/data/1kt/simple/body_gradient_tile_light.png) repeat scroll top left;
+_background-image: none;
+}
+.body-fauxcolumn-outer .cap-top {
+position: absolute;
+z-index: 1;
+height: 400px;
+width: 100%;
+}
+.body-fauxcolumn-outer .cap-top .cap-left {
+width: 100%;
+background: transparent url(https://resources.blogblog.com/blogblog/data/1kt/simple/gradients_light.png) repeat-x scroll top left;
+_background-image: none;
+}
+.content-outer {
+-moz-box-shadow: 0 0 40px rgba(0, 0, 0, .15);
+-webkit-box-shadow: 0 0 5px rgba(0, 0, 0, .15);
+-goog-ms-box-shadow: 0 0 10px #333333;
+box-shadow: 0 0 40px rgba(0, 0, 0, .15);
+margin-bottom: 1px;
+}
+.content-inner {
+padding: 10px 10px;
+}
+.content-inner {
+background-color: #ffffff;
+}
+/* Header
+----------------------------------------------- */
+.header-outer {
+background: #cc6611 url(https://resources.blogblog.com/blogblog/data/1kt/simple/gradients_light.png) repeat-x scroll 0 -400px;
+_background-image: none;
+}
+.Header h1 {
+font: normal normal 60px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+color: #ffffff;
+text-shadow: 1px 2px 3px rgba(0, 0, 0, .2);
+}
+.Header h1 a {
+color: #ffffff;
+}
+.Header .description {
+font-size: 140%;
+color: #ffffff;
+}
+.header-inner .Header .titlewrapper {
+padding: 22px 30px;
+}
+.header-inner .Header .descriptionwrapper {
+padding: 0 30px;
+}
+/* Tabs
+----------------------------------------------- */
+.tabs-inner .section:first-child {
+border-top: 0 solid #eeeeee;
+}
+.tabs-inner .section:first-child ul {
+margin-top: -0;
+border-top: 0 solid #eeeeee;
+border-left: 0 solid #eeeeee;
+border-right: 0 solid #eeeeee;
+}
+.tabs-inner .widget ul {
+background: #f5f5f5 url(https://resources.blogblog.com/blogblog/data/1kt/simple/gradients_light.png) repeat-x scroll 0 -800px;
+_background-image: none;
+border-bottom: 1px solid #eeeeee;
+margin-top: 0;
+margin-left: -30px;
+margin-right: -30px;
+}
+.tabs-inner .widget li a {
+display: inline-block;
+padding: .6em 1em;
+font: normal normal 14px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+color: #999999;
+border-left: 1px solid #ffffff;
+border-right: 1px solid #eeeeee;
+}
+.tabs-inner .widget li:first-child a {
+border-left: none;
+}
+.tabs-inner .widget li.selected a, .tabs-inner .widget li a:hover {
+color: #000000;
+background-color: #eeeeee;
+text-decoration: none;
+}
+/* Columns
+----------------------------------------------- */
+.main-outer {
+border-top: 0 solid #eeeeee;
+}
+.fauxcolumn-left-outer .fauxcolumn-inner {
+border-right: 1px solid #eeeeee;
+}
+.fauxcolumn-right-outer .fauxcolumn-inner {
+border-left: 1px solid #eeeeee;
+}
+/* Headings
+----------------------------------------------- */
+div.widget > h2,
+div.widget h2.title {
+margin: 0 0 1em 0;
+font: normal bold 11px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+color: #000000;
+}
+/* Widgets
+----------------------------------------------- */
+.widget .zippy {
+color: #999999;
+text-shadow: 2px 2px 1px rgba(0, 0, 0, .1);
+}
+.widget .popular-posts ul {
+list-style: none;
+}
+/* Posts
+----------------------------------------------- */
+h2.date-header {
+font: normal bold 11px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+}
+.date-header span {
+background-color: transparent;
+color: #222222;
+padding: inherit;
+letter-spacing: inherit;
+margin: inherit;
+}
+.main-inner {
+padding-top: 30px;
+padding-bottom: 30px;
+}
+.main-inner .column-center-inner {
+padding: 0 15px;
+}
+.main-inner .column-center-inner .section {
+margin: 0 15px;
+}
+.post {
+margin: 0 0 25px 0;
+}
+h3.post-title, .comments h4 {
+font: normal normal 22px Arial, Tahoma, Helvetica, FreeSans, sans-serif;
+margin: .75em 0 0;
+}
+.post-body {
+font-size: 110%;
+line-height: 1.4;
+position: relative;
+}
+.post-body img, .post-body .tr-caption-container, .Profile img, .Image img,
+.BlogList .item-thumbnail img {
+padding: 2px;
+background: #ffffff;
+border: 1px solid #eeeeee;
+-moz-box-shadow: 1px 1px 5px rgba(0, 0, 0, .1);
+-webkit-box-shadow: 1px 1px 5px rgba(0, 0, 0, .1);
+box-shadow: 1px 1px 5px rgba(0, 0, 0, .1);
+}
+.post-body img, .post-body .tr-caption-container {
+padding: 5px;
+}
+.post-body .tr-caption-container {
+color: #222222;
+}
+.post-body .tr-caption-container img {
+padding: 0;
+background: transparent;
+border: none;
+-moz-box-shadow: 0 0 0 rgba(0, 0, 0, .1);
+-webkit-box-shadow: 0 0 0 rgba(0, 0, 0, .1);
+box-shadow: 0 0 0 rgba(0, 0, 0, .1);
+}
+.post-header {
+margin: 0 0 1.5em;
+line-height: 1.6;
+font-size: 90%;
+}
+.post-footer {
+margin: 20px -2px 0;
+padding: 5px 10px;
+color: #666666;
+background-color: #f9f9f9;
+border-bottom: 1px solid #eeeeee;
+line-height: 1.6;
+font-size: 90%;
+}
+#comments .comment-author {
+padding-top: 1.5em;
+border-top: 1px solid #eeeeee;
+background-position: 0 1.5em;
+}
+#comments .comment-author:first-child {
+padding-top: 0;
+border-top: none;
+}
+.avatar-image-container {
+margin: .2em 0 0;
+}
+#comments .avatar-image-container img {
+border: 1px solid #eeeeee;
+}
+/* Comments
+----------------------------------------------- */
+.comments .comments-content .icon.blog-author {
+background-repeat: no-repeat;
+background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAAXNSR0IArs4c6QAAAAZiS0dEAP8A/wD/oL2nkwAAAAlwSFlzAAALEgAACxIB0t1+/AAAAAd0SU1FB9sLFwMeCjjhcOMAAAD+SURBVDjLtZSvTgNBEIe/WRRnm3U8RC1neQdsm1zSBIU9VVF1FkUguQQsD9ITmD7ECZIJSE4OZo9stoVjC/zc7ky+zH9hXwVwDpTAWWLrgS3QAe8AZgaAJI5zYAmc8r0G4AHYHQKVwII8PZrZFsBFkeRCABYiMh9BRUhnSkPTNCtVXYXURi1FpBDgArj8QU1eVXUzfnjv7yP7kwu1mYrkWlU33vs1QNu2qU8pwN0UpKoqokjWwCztrMuBhEhmh8bD5UDqur75asbcX0BGUB9/HAMB+r32hznJgXy2v0sGLBcyAJ1EK3LFcbo1s91JeLwAbwGYu7TP/3ZGfnXYPgAVNngtqatUNgAAAABJRU5ErkJggg==);
+}
+.comments .comments-content .loadmore a {
+border-top: 1px solid #999999;
+border-bottom: 1px solid #999999;
+}
+.comments .comment-thread.inline-thread {
+background-color: #f9f9f9;
+}
+.comments .continue {
+border-top: 2px solid #999999;
+}
+/* Accents
+---------------------------------------------- */
+.section-columns td.columns-cell {
+border-left: 1px solid #eeeeee;
+}
+.blog-pager {
+background: transparent none no-repeat scroll top center;
+}
+.blog-pager-older-link, .home-link,
+.blog-pager-newer-link {
+background-color: #ffffff;
+padding: 5px;
+}
+.footer-outer {
+border-top: 0 dashed #bbbbbb;
+}
+/* Mobile
+----------------------------------------------- */
+body.mobile  {
+background-size: auto;
+}
+.mobile .body-fauxcolumn-outer {
+background: transparent none repeat scroll top left;
+}
+.mobile .body-fauxcolumn-outer .cap-top {
+background-size: 100% auto;
+}
+.mobile .content-outer {
+-webkit-box-shadow: 0 0 3px rgba(0, 0, 0, .15);
+box-shadow: 0 0 3px rgba(0, 0, 0, .15);
+}
+.mobile .tabs-inner .widget ul {
+margin-left: 0;
+margin-right: 0;
+}
+.mobile .post {
+margin: 0;
+}
+.mobile .main-inner .column-center-inner .section {
+margin: 0;
+}
+.mobile .date-header span {
+padding: 0.1em 10px;
+margin: 0 -10px;
+}
+.mobile h3.post-title {
+margin: 0;
+}
+.mobile .blog-pager {
+background: transparent none no-repeat scroll top center;
+}
+.mobile .footer-outer {
+border-top: none;
+}
+.mobile .main-inner, .mobile .footer-inner {
+background-color: #ffffff;
+}
+.mobile-index-contents {
+color: #222222;
+}
+.mobile-link-button {
+background-color: #cc6611;
+}
+.mobile-link-button a:link, .mobile-link-button a:visited {
+color: #ffffff;
+}
+.mobile .tabs-inner .section:first-child {
+border-top: none;
+}
+.mobile .tabs-inner .PageList .widget-content {
+background-color: #eeeeee;
+color: #000000;
+border-top: 1px solid #eeeeee;
+border-bottom: 1px solid #eeeeee;
+}
+.mobile .tabs-inner .PageList .widget-content .pagelist-arrow {
+border-left: 1px solid #eeeeee;
+}
+
+--></style>
+<style id='template-skin-1' type='text/css'><!--
+body {
+min-width: 960px;
+}
+.content-outer, .content-fauxcolumn-outer, .region-inner {
+min-width: 960px;
+max-width: 960px;
+_width: 960px;
+}
+.main-inner .columns {
+padding-left: 0px;
+padding-right: 310px;
+}
+.main-inner .fauxcolumn-center-outer {
+left: 0px;
+right: 310px;
+/* IE6 does not respect left and right together */
+_width: expression(this.parentNode.offsetWidth -
+parseInt("0px") -
+parseInt("310px") + 'px');
+}
+.main-inner .fauxcolumn-left-outer {
+width: 0px;
+}
+.main-inner .fauxcolumn-right-outer {
+width: 310px;
+}
+.main-inner .column-left-outer {
+width: 0px;
+right: 100%;
+margin-left: -0px;
+}
+.main-inner .column-right-outer {
+width: 310px;
+margin-right: -310px;
+}
+#layout {
+min-width: 0;
+}
+#layout .content-outer {
+min-width: 0;
+width: 800px;
+}
+#layout .region-inner {
+min-width: 0;
+width: auto;
+}
+body#layout div.add_widget {
+padding: 8px;
+}
+body#layout div.add_widget a {
+margin-left: 32px;
+}
+--></style>
+<link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=10614348&amp;zx=73f9823c-24c5-41c5-8336-616b6e529353' media='none' onload='if(media!=&#39;all&#39;)media=&#39;all&#39;' rel='stylesheet'/><noscript><link href='https://www.blogger.com/dyn-css/authorization.css?targetBlogID=10614348&amp;zx=73f9823c-24c5-41c5-8336-616b6e529353' rel='stylesheet'/></noscript>
+<meta name='google-adsense-platform-account' content='ca-host-pub-1556223355139109'/>
+<meta name='google-adsense-platform-domain' content='blogspot.com'/>
+
+<script type="text/javascript" language="javascript">
+  // Supply ads personalization default for EEA readers
+  // See https://www.blogger.com/go/adspersonalization
+  adsbygoogle = window.adsbygoogle || [];
+  if (typeof adsbygoogle.requestNonPersonalizedAds === 'undefined') {
+    adsbygoogle.requestNonPersonalizedAds = 1;
+  }
+</script>
+
+
+</head>
+<body class='loading'>
+<div class='navbar section' id='navbar' name='Navbar'><div class='widget Navbar' data-version='1' id='Navbar1'><script type="text/javascript">
+    function setAttributeOnload(object, attribute, val) {
+      if(window.addEventListener) {
+        window.addEventListener('load',
+          function(){ object[attribute] = val; }, false);
+      } else {
+        window.attachEvent('onload', function(){ object[attribute] = val; });
+      }
+    }
+  </script>
+<div id="navbar-iframe-container"></div>
+<script type="text/javascript" src="https://apis.google.com/js/platform.js"></script>
+<script type="text/javascript">
+      gapi.load("gapi.iframes:gapi.iframes.style.bubble", function() {
+        if (gapi.iframes && gapi.iframes.getContext) {
+          gapi.iframes.getContext().openChild({
+              url: 'https://www.blogger.com/navbar/10614348?po\x3d4763533786464384972\x26origin\x3dhttps://matpitka.blogspot.com',
+              where: document.getElementById("navbar-iframe-container"),
+              id: "navbar-iframe"
+          });
+        }
+      });
+    </script><script type="text/javascript">
+(function() {
+var script = document.createElement('script');
+script.type = 'text/javascript';
+script.src = '//pagead2.googlesyndication.com/pagead/js/google_top_exp.js';
+var head = document.getElementsByTagName('head')[0];
+if (head) {
+head.appendChild(script);
+}})();
+</script>
+</div></div>
+<div class='body-fauxcolumns'>
+<div class='fauxcolumn-outer body-fauxcolumn-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</div>
+<div class='content'>
+<div class='content-fauxcolumns'>
+<div class='fauxcolumn-outer content-fauxcolumn-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</div>
+<div class='content-outer'>
+<div class='content-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left content-fauxborder-left'>
+<div class='fauxborder-right content-fauxborder-right'></div>
+<div class='content-inner'>
+<header>
+<div class='header-outer'>
+<div class='header-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left header-fauxborder-left'>
+<div class='fauxborder-right header-fauxborder-right'></div>
+<div class='region-inner header-inner'>
+<div class='header section' id='header' name='Header'><div class='widget Header' data-version='1' id='Header1'>
+<div id='header-inner'>
+<div class='titlewrapper'>
+<h1 class='title'>
+<a href='https://matpitka.blogspot.com/'>
+TGD diary
+</a>
+</h1>
+</div>
+<div class='descriptionwrapper'>
+<p class='description'><span>Daily musings, mostly about  physics and consciousness, heavily biased  by Topological Geometrodynamics background.</span></p>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+<div class='header-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</header>
+<div class='tabs-outer'>
+<div class='tabs-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left tabs-fauxborder-left'>
+<div class='fauxborder-right tabs-fauxborder-right'></div>
+<div class='region-inner tabs-inner'>
+<div class='tabs no-items section' id='crosscol' name='Cross-Column'></div>
+<div class='tabs no-items section' id='crosscol-overflow' name='Cross-Column 2'></div>
+</div>
+</div>
+<div class='tabs-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<div class='main-outer'>
+<div class='main-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left main-fauxborder-left'>
+<div class='fauxborder-right main-fauxborder-right'></div>
+<div class='region-inner main-inner'>
+<div class='columns fauxcolumns'>
+<div class='fauxcolumn-outer fauxcolumn-center-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<div class='fauxcolumn-outer fauxcolumn-left-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<div class='fauxcolumn-outer fauxcolumn-right-outer'>
+<div class='cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left'>
+<div class='fauxborder-right'></div>
+<div class='fauxcolumn-inner'>
+</div>
+</div>
+<div class='cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<!-- corrects IE6 width calculation -->
+<div class='columns-inner'>
+<div class='column-center-outer'>
+<div class='column-center-inner'>
+<div class='main section' id='main' name='Main'><div class='widget Blog' data-version='1' id='Blog1'>
+<div class='blog-posts hfeed'>
+
+          <div class="date-outer">
+        
+<h2 class='date-header'><span>Thursday, October 24, 2013</span></h2>
+
+          <div class="date-posts">
+        
+<div class='post-outer'>
+<div class='post hentry uncustomized-post-template' itemprop='blogPost' itemscope='itemscope' itemtype='http://schema.org/BlogPosting'>
+<meta content='10614348' itemprop='blogId'/>
+<meta content='4763533786464384972' itemprop='postId'/>
+<a name='4763533786464384972'></a>
+<h3 class='post-title entry-title' itemprop='name'>
+ A general model for metabolism
+</h3>
+<div class='post-header'>
+<div class='post-header-line-1'></div>
+</div>
+<div class='post-body entry-content' id='post-body-4763533786464384972' itemprop='description articleBody'>
+The general strategy in attempts to understand metabolism is based on the assumption that a very large class of   anomalous phenomena rely on same basic mechanism. This includes life as a phenomenon,  water memory and homeopathy, free energy phenomena involving over-unity phenomena related to the dissociation of water, lightning and ball lightning, anomalous effects associated with rotating magnetic systems,  phenomena related to UFOs (light balls), even remote mental interactions.  One must have a unified explanation for all these phenomena based on a real theory. <br />
+</p><p>Plasmoid as primitive life form would the underlying connecting thread between these phenomena so that all the listed phenomena would involve life and  prebiotic (or possibly postbiotic!) life.  This gives very strong constraints on the model. Plasmoid should consists of the analogs of linear biomolecules, it should metabolize and communicate, in TGD Universe it should have magnetic body, and even genetic code might be realized. In particular, the simplified analog of biological metabolism would be at work. In living matter photosynthesis relies on the  splitting of water    whereas cell respiration relies  on the reversal of this process producing  carbon di-oxide and water. Something very similar should happen in free energy systems involving electrolysis,  and the fact that water splitting occurs also in  several  free energy phenomena suggests that these processes are analogous to photosynthesis and store energy to "molecules" analogous to various linear biomolecules, in particular sugars.  Even the counterpart of ADP-ATP process might be realized. <br />
+</p><p>TGD suggests a very general model for the metabolism of pre-biotic  systems (or post-biotic ones:the identification depends on  what general vision about evolution is adopted)  identifed as plasmoids  consisting of  cyclic  linear structures formed by exotic water molecules. For a dark water molecule one proton would be dark and dark protons of the neighboring exotic water molecules would   bind to form  a linear structure identifiable as dark nucleus: this picture is a direct generalization of nuclear string model (see <a href="http://www.tgdtheory.fi/public_html/tgdquant/tgdquant.html#Planck">this</A>, <a href="http://www.tgdtheory.fi/public_html/paddark/paddark.html#nuclstring">this</A>, and <a href="http://www.tgdtheory.fi/public_html/paddark/paddark.html#exonuclear">this</A>).  These linear structures would define the  analogs of linear biomolecules.  This metabolism would be more fundamental than ordinary biochemical metabolism and form a  yet unkown part of the latter.  One cannot exclude the possibility that also other than water molecules contain dark protons: the signature would be the presence of apparently unallowed covalent bonds due to the fact the dark proton is not visible.     In the following  I will discuss the basic principles involved.  <br />
+</p><p><b> 1. Three possible models for liberation of metabolic energy</B><br />
+</p><p>One can imagine three different models for the liberation of metabolic energy. <br />
+</p><p><ol><li>  The simplest TGD based model is as a phase transition increasing the value of p-adic prime p assignable to the space-time sheet at which particle is topologically condensed:  <br />
+<br />
+<ol><li>Particle  "drops" to a larger space-time sheet with larger p-adic prime p<sub>1</sub> with  p<sub>1</sub>/p&asymp; 2<sup>k</sup>.   The problem   is that different particles need not drop simultaneously so that coherent liberation of energy is not automatic consequence of the assumption.<br />
+<br />
+<li> The space-time sheet itself suffers a phase transition increasing its  p-adic length scale.  In absence of interactions (particles in box) the energies are scaled down by factor 2<sup>-k</sup> and the difference is liberated as usable energy.    Coherent liberation of energy  is achieved automatically. If the particle insider the space-time sheet is free in good approximation a model as particle in box applies, and   if the expansion of the space-time sheet takes place adiabatically,   the quantum numbers characterizing the  state of the particle do not change in the transition. As a consequence, the energy E = k&sum;<sub>i</sub> n<sub>i</sub><sup>2</sup>hbar<sup>2</sup>/2mL<sub>p</sub><sup>2</sup> is reduced  as L<sub>p</sub> &prop; p<sup>1/2</sup> increases to L<sub>p<sub>1</sub></sub>,  where  p<sub>1</sub>/p&asymp; 2<sup>k</sup> holds true. The difference of vacuum energies is liberated as usable energy in coherent manner:  this is  of special  significance in living systems. This has led to the identification of p-adic length scales that would correspond to fundamental metabolic quantum with value about .5 eV. Entire hierarchy of metabolic quanta is predicted.<br />
+<br />
+</OL><li>The space-time sheet could also carry magnetic energy and particles are expected to be in cyclotron states and perhaps form a cyclotron Bose-Einstein condensate. In this case the phase transition reduces the value of B but preservers the magnetic flux so that B&rarr; B/2<sup>k</sup>, p<sub>1</sub>/p&asymp; 2<sup>k</sup>,  takes place.  This scales down the energies of cyclotron states by the same scaling factor  2<sup>-k</sup> as in the case of free particle. The liberated energy is in good approximation just the cyclotron energy for large enough values of k. Coherence is achieved automatically. The value of the  fundamental metabolic energy quantum   and the value of endogenous magnetic field of about B<sub>end</sub>=.2 Gauss  deduced from the experiments of Blackman and others  fix the  value of  h<sub>eff</sub>. It would be proportional to particle mass number A.<br />
+<br />
+<li>The earlier model for the liberation of cyclotron energy was based on the assumption that the value of B is not changed but that the value of magnetic quantum number n changed. If n is reduced one achieves liberation of energy. Coherence of the transition might produce problems now.  Both  models can explain the observations of  Blackman and others concerning the effects of ELF radiation on vertebrate brain  since the spectrum of photons energies inducing effects correspond to cyclotron energies for the latter option and in excellent approximation to it for the previous model. The mechanism is however quite different.<br />
+<br />
+</OL>This phase transition for the larger space-time sheet can take place in two steps.  <ol><li>First a phase transition increasing h<sub>eff</sub> of the background space-time  sheet by n=2<sup>k</sup> occurs. This leaves ZPKE invariant but scales up the size of the space-time sheet by 2<sup>k/2</sup>. The interpretation would be as "electric expansion" of Brown's gas.  No energy transfer takes place since both kinetic and magnetic energies are invariant under the scaling of hbar. Note however than in the original situation the magnetic field can be very strong so that zooming up from microscopic scales can happen.<br />
+<br />
+<li>After this a phase transition reducing Planck constant back to h but increasing p-adic length scale by 2<sup>k</sup> occurs. The size scale of the background space-time sheet is not affected but the zero point kinetic energy is reduced by factor 2<sup>-k</sup> and liberated as usable energy. This phase transition would take place for the dark component of Brown's gas in the melting of the metal and other similar phenomena. Also the liberation of metabolic energy in living matter could correspond to this phase transition.<br />
+</OL>This model for electric expansion, implosion, and energy liberation assumes nothing about the particles involved since dark particle means ordinary particle topologically condensed on dark space-time sheet and having wave function de-localized in the n-sheeted structure. For instance, water can be dark in this sense.  One could indeed consider the possibility that the vapour phase identified as charged water cluster is just water containing positive ions H<sup>3</sup><sub>+</sub>  or protons and electrons and that phase transition to large hbar phase expands the space-time sheet at which water is topologically condensed at evaporates the water. Ordinary liquid to gas transition could  proceed in the same manner and involve liberation of ZPKE at the second step of the process. In the general case the  binding energy involved with the formation of the denser phase could compensate for the energy gain in the increase of the p-adic prime so that the melting would require energy feed. </p><p><b>2.  Model for the building bricks of plasmoids</B> </p><p>I have already earlier discussed a model for dark proton sequences as primitive life forms.   The observation discussed by Moray B. King inspired a more detailed formulation of the model of plasmoids identified as primitive life forms in TGD framework.   <ol><li>The key observation was that the model for dark nuclei (see <a href="http://www.tgdtheory.fi/public_html/paddark/paddark.html#nuclstring">this</A> and <a href="http://www.tgdtheory.fi/public_html/hologram/hologram.html#homeoc">this</A>),  in particular dark proton, predicts counterparts of DNA, RNA, tRNA, and amino-acids and also vertebrate genetic code follows naturally. This together with nuclear string model led to the vision that life appears already at the level of dark variants of nuclei. The observed anomalous H<sub>1.5</sub>O stoichiometry of water in atto-second scale supports the view that dark protons appear in ordinary water.  <br />
+<br />
+<li>This model was first introduced to explain water memory and homeopathy. The basic idea was that the process creating homeopathic remedy induces the analog of molecular evolution for the dark proton sequences, which in turn provide representations for the molecules appearing in environment. These representations would be fundamental also for the functioning of immune system of living matter. The dark life could provide R&amp;D laboratory for living matter allowing to test say various gene candidates and transcribe them to ordinary biological DNAs if they are successful in the  virtual model world. Evolution would not be random but directed just as evolution of technologies.<br />
+<br />
+<li>The latest  step in the process (see <a href="http://www.tgdtheory.fi/public_html/tgdlian/tgdlian.html#persconsc">this</A>)  was the proposal that cell membranes involve  dark proton sequences providing a representation of dark DNA and connected by magnetic flux tubes to the units of DNA in genome. These two DNA representations would be identical.  Quite generally, dark and ordinary biomolecules might be connected by magnetic flux tubes. <br />
+<br />
+</OL>This picture does not yet provide model for the metabolism of the building bricks of  plasmoids. Something very much analogous to the splitting of sugars to carbon di-oxide and water is however expected. Since carbon is not present now, this leaves only the option that the  linear dark structures are nothing but exotic form of water for  which the proton of  one hydrogen atom of each water molecule is dark. These dark protons would combine by strong interactions to a nuclear string and  O-H groups would be attached to them.  The  cyclic analog of DNA, RNA, or amino-acid realizing genetic code would be the outcome. The stoichiometry H<sub>1.5</sub>O observed in atto-second time scale would be achieved in average sense if  the portions of exotic and dark water are same.  The prediction is that dark water is heavier than ordinary water: the molecular weight would correspond to average length of the dark water cycle. This is consistent with the observations about Brown's gas. </p><p>Plasmoid should also possess a magnetic body. This requires a currents rotating along the cyclic structures.  The obvious identification of the current is as dark  supra currents assignable to dark protons so that the  building bricks of plasmoid would be analogous to super-conducting rings.   </p><p><b>3. Model for the metabolism of  plasmoids</B> </p><p>The proposed dark analogs of basic biomolecules   would be created through  the analog of photosynthesis involving  the splitting of water to H + OH followed by H&rarr; H<sub>dark</sub> and by recombination to a sequence of dark water  molecules. The process would be analogous to translation of mRNA to amino-acids and could proceed by an analogous mechanism.  The process would be spontaneous since the energy of cyclotron states would not change in h&rarr; h<sub>eff</sub>= 2<sup>k</sup>&times; h.  </p><p>Metabolic energy would be liberated in the decay of the exotic water back to water with h<sub>eff</sub>=h and p-adic prime  scaled by about 2<sup>k</sup>. This process is completely analogous to the splitting of various linear biomolecules in metabolism in order to obtain metabolic energy.  This process would explain the ability of cool Brown's gas to melt metal for instance.  When fossil  fuels are used, the outcome is carbon di-oxide and water. Now only water is obtained so that this form of free energy might not contribute to the warming of environment.  </p><p>The process differs from ZPE in that it  does not provide any endless source of energy.  Since water is in practice an unlimited natural resource, this shold  not be a problem.   A closed cycle at the level of visible matter is obtained only if the reverse phase transition transforming the water with h<sub>eff</sub>=h and p-adic prime p<sub>1</sub>&asymp; 2<sup>k/2</sup>p to  that with h<sub>eff</sub>=2<sup>k</sup>&times; h and p-adic prime p takes place spontaneously.   </p><p>The irradiation with carrier frequency f<sub>h</sub> and modulation frequency f<sub>l</sub> such that one has f<sub>l</sub>/f<sub>h</sub>= 2<sup>-k</sup> is one possibility which I have proposed.  Dark solar radiation  at magnetic flux tubes with magnetic field B<sub>end</sub>=.2 Gauss (guess from the experiments of Blackman;  also many other values can be considered) could provide automatically the needed pulsed radiation inducing the phase transition. The most optimistic option is that  this transition  occurs even in the case of closed system in which water circulates.  </p><p>Before attempting to identify  reasonable candidates for f<sub>l</sub> and f<sub>h</sub> it is useful to consider estimates for h<sub>eff</sub>/h=2<sup>k</sup>. Note that this assumption might be too strong: the  vision about evolution as emergence of number theoretical complexity suggests that so called Fermat integers defining polygons, which are constructible using ruler and compass,  define favored values of h<sub>eff</sub>/h=n (see <a href="http://www.tgdtheory.fi/public_html/tgdquant/tgdquant.html#Planck">this</A>). These integers are expressible as products of different Fermat primes F<sub>n</sub>= 2<sup>2<sup>k</sup></sup>+1 and power of 2.  The  known Fermat primes correspond to k= 0,1,2,3,4 and are  3,5,17,257,65537.  Only the two lowest ones differ significantly from power of two.This raises the question whether also the scale hierarchies 3<sup>1/2</sup>L(k),  5<sup>1/2</sup>L(k), and 15<sup>1/2</sup>L(k) are important besides p-adic length scale hierarchy L(k)= 2<sup>k/2</sup>R<sub>CP<sub>2</sub></sub>. They could be associated with the  algebraic extensions of p-adic numbers involving 3<sup>1/2</sup> and5<sup>1/2</sup>.  <ol><li>The condition that cold nuclear fusion is possible via the TGD based mechanism requires  dark variant of weak interactions corresponds to scaled up p-adic length scale  of order atomic size.  The condition that weak bosons are effectively massless in atomic length scale gives one estimate  for h<sub>eff</sub>/h.  The condition that  weak scale characterized by M<sub>89</sub> is increased to that characterized by M<sub>127</sub> gives h<sub>eff</sub>/h=2<sup>48</sup>&asymp; 2.8&times; 10<sup>14</sup>.<br />
+</p><p><br />
+<li>Second  estimate for h<sub>eff</sub>/h follows from the condition that cyclotron energy for given charged particle is of the order of metabolic energy quantum. For proton B<sub>end</sub>=.2 Gauss gives f<sub>c</sub>=300 Hz. The energy is about .5 eV for   h<sub>eff</sub>/h= 1.37&times;10<sup>14</sup> rather near to  h<sub>eff</sub>/h= 2<sup>47</sup>  which is  by a factor of 1/2 smaller than the previous estimate. It is however clear that the estimates are internally consistent:  skeptic would see this  as a pure accident  and some-one taking anthropic principle  seriously as an outcome of  evolution in very general sense.  Note that for electron the metabolic  energy quantum would be about 938 eV suggesting that keV energy scale assignable to the dark weak interactions  has its own metabolic energy quantum.<br />
+</p><p>For ion of mass number A and ionization  z the value producing the same value of metabolic quantum is A/z&times; 1.37&times; 10<sup>14</sup>.  An alternative  assumption is a hierarchy of metabolic quanta coming as z/A multiples of the fundamental metabolic energy quantum for a fixed value of  h<sub>eff</sub>/h.  The condition that the metabolic energy quantum  is above thermal energy of photon at   physiological temperature for which peak wavelength for blackbody radiation  corresponds to energy of .13 eV. This gives  A/z&le; .5/.13=3.84. The estimate is too stringent since Ca<sup>++</sup> with A/z=20 should allow metabolic energy quantum above the thermal energy. This suggests that h<sub>eff</sub>/h characterizes given ion and that its multiples  coming as  power of two are allowed. <br />
+<br />
+<li> For h<sub>eff</sub>/h=n=2<sup>k<sub>dark</sub></sup> with k<sub>dark</sub> &in; {47,48}  dark electron would have p-adic  length scale L(k), k=127+ d<sub>dark</sub>&in; [174,175]. This corresponds to a Compton   length   l<sub>c</sub>&in; [28,4] &mu;m. That this corresponds  to    the  size scale of cell  gives additional support for the vision.  Note also that for electron the  size scale of CD identified as secondary p-adic time scale associated with M<sub>127</sub>=2<sup>127</sup>-1  corresponds to .1 seconds, which defines a fundamental biorhythm.  Proton Compton length  would be scaled to the range [15,21] nm (10 nm  defines the thickness of the  cell membrane) and  light current quarks with energy of 5-20 MeV to the size scale of   cell nucleus.<br />
+<br />
+</OL>A  reasonable guess is that the  candidates for f<sub>h</sub> and f<sub>l</sub> should satisfy the condition f<sub>h</sub>/f<sub>l</sub>=2<sup>k</sup>, k=47  or k=48. f<sub>h</sub> can be deduced from the estimate for h<sub>eff</sub>.    <ol><li>Schumann frequency 7.8 Hz is the first  candidate for the modulating frequency. This would give UV frequency  f<sub>h</sub>&asymp; 1.1 &times; 10<sup>15</sup> Hz corresponding to energy of  9.7 eV for k=47, which corresponds to the energy scale for covalent bonds. The energy scale of hydrogen atom is 13.6 eV.<br />
+<br />
+<li>For the cyclotron frequency of DNA  (which depends only weakly on the length of the DNA sequence due to the constant charge density per unit length) of about 1 Hz  (the frequency of heart beat) one would obtain f<sub>h</sub>=1.4&times; 10<sup>14</sup> Hz for k=47,  which corresponds to energy of 1.4 eV and is just below the visible range starting around 1.65 eV.   The scaling of this energy by 3<sup>1/2</sup>/2, 5<sup>1/2</sup>/4, and15<sup>1/2</sup>/4. For k=48 the energy would be  to 3.3 eV, which is quite near to the  UV end 3.36 eV of visible portion of spectrum. Again one can ask whether just accidents are in question.<br />
+</p><p>Allowing  the generalization of the p-adic length scale hypothesis one obtains 7 photon energies in the visible range corresponding to the scalings of 1.4 eV by [3<sup>1/2</sup>/2, 5<sup>1/2</sup>/4, 5<sup>1/2</sup>/2, , 15<sup>1/2</sup>/4, 3<sup>1/2</sup>, 2, 3<sup>1/2</sup>/8,5<sup>1/2</sup>] giving     E/eV= [1.71,  1.57, 2.21,   1.91, 2.42,  2.71,  2.80, 3.13]. Note that 2 eV corresponds to red light and metabolic energy quantum of .50 eV   to k=51. An interesting question is  whether  these special frequencies  relate to the peak  wave lengths for color vision.<br />
+<br />
+</OL>A macroscopic variant of photosynthesis using the possibly existing dark photons at the flux tubes of B<sub>end</sub>=.2  Gauss  can be imagined.  The flux tubes of B<sub>end</sub>   could  correspond to those of B<sub>E</sub> with nominal value .5 Gauss if a weakening of the field value takes  place  inside  living matter. Note that  in case of h<sub>eff</sub>/h&sim; 10<sup>14</sup> this field value would correspond to about 10<sup>10</sup> Tesla for the  ordinary value of hbar  (a field strengths assignable to supernovas!)  and assignable to electron Compton scale. </p><p>The sequences of these two phase transitions involved with dark metabolism  would be very much analogous to ..-ATP-ADP-ATP-...  "Karma's cycle". There is also a strong analogy with breathing and even sleep-wake-up cycle and longer bio-rhythms.  p-Adic fractality forces  to ask whether all these rhythms involve the same dark metabolic cycle but in different scales. Increase of h<sub>eff</sub> indeed corresponds to an increase of "IQ" in TGD inspired theory of consciousness and its reduction to its lowering. This could  quite concretely correspond the experience of becoming tired.  There is also a close analogy with the state function reduction sequence in ZEO. State function reductions occur alternatively at the opposite boundaries of causal diamond (CD) of given scale and I have proposed an  interpretation in terms of generalized sleep-awake cycles.  </p><p><b>4. Does dark biology represent pre- or post-biotic evolution?</B> </p><p>The discovery of dark proton realization of genetic codons (see <a href="http://www.tgdtheory.fi/public_html/paddark/paddark.html#nuclstring">this</A> and <a href="http://www.tgdtheory.fi/public_html/hologram/hologram.html#homeoc">this</A>)  was an accident and I am still puzzled about whether the vertebrate genetic code can really emerge from dark nuclear physics or is it  only a curiosity or self deception. The first interpretation for the dark code is as a code associated with prebiotic evolution (see <a href="http://www.tgdtheory.fi/public_html/genememe/genememe.html#prebio">this</A>). This is suggested by the enormous simplicity for  the analogs of counterparts of linear biomolecules, and the fact that the utilization of metabolic energy means that these "molecules" decay to ordinary water.  In this view life would have migrated from dark space-time sheets to visible space-time sheets.  This  higher level life would be gradually migrating to lower levels in the hierarchy and taking visible matter to its control and that biological evolution represents a step in this process.  </p><p>There are however some objections against this view. The dark code corresponds to vertebrate code, which can be seen as an outcome of  along genetic evolution. There are also other codes, which are less perfect (see the  <a href="http://www.tgdtheory.fi/public_html/genememe/genememe.html#genenumber">chapter </A> of "Genes and Memes"   representing a number theoretic approach to genetic code). For instance, the meaning of the  codeword is context dependent for some codons and Peter Gariaev has proposed that this context dependence is a more general phenomenon.  One would expect that prebiotic code is much simpler than genetic code and I have considered a model for  how genetic code might have emerged from more primitive codes with 4 and 16 code words  as a "product code" (see <a href="http://www.tgdtheory.fi/public_html/genememe/genememe.html#genenumber">this</A>). </p><p>These objections inspire the question whether  life could migrate from lower to higher scales. The dark genetic code would in this framework correspond to the emergence of a new level in evolution -  perhaps identifiable as cultural evolution.   This would explain why dark variant of  the genetic code corresponds to vertebrate code. One could also solve Fermi paradox (see <a href="http://www.tgdtheory.fi/public_html/mangconsc/magnconsc.html#mantleufo">this</A>) due to the fact that no signs of intelligent life have been observed in cosmos and probabilistic estimate suggests that cosmos is full of life. The answer could be very  simple: in some stage the civilization transforms to dark matter invisible to us! The civilizations are there but living on magnetic flux quanta and probably communicate with us telepathically.  The higher evolutionary level  would also conform with the fact that the spatial and temporal scales of consciousness are much longer than for the consciousness assignable to visible manner.  This could allow also to understand the mystery of crop circles. To my opinion many of them are genuine, and the interpretation as some kind of cognitive representations analogous to those realized in brain is highly suggestive. Certainly these representations would represent mental images of conscious entities,  which are at higher evolutionary level than us.  </p><p>Many great leaps in evolution have occurred via crisis periods involving extinction. Could it be that gradual transition to dark matter based life could be begin as a response to  the recent crises  of human kind?  The  gradual transition of life  to the dark matter level would  indeed  solve  the energy problem by coupling us to the energy sources assignable to the dark matter hierarchy at various magnetic bodies. It would also solve the problem caused by the climate warming if it is indeed is due to the liberation of CO<sub>2</sub> as fossil fuels are used. The dark matter "molecules"  as analogs of biomolecules and  hydrocarbons  would produce only water when  used.   </p><p>See the  new  chapter <a href="http://www.tgdtheory.fi/public_html/hologram/hologram.html#molephoto"> Macroscopic quantum coherence and quantum metabolism as different sides of the same coin: Part II</A> of "Bio-Systems as Conscious Holograms" for  details.  </p><p><br />
+<div style='clear: both;'></div>
+</div>
+<div class='post-footer'>
+<div class='post-footer-line post-footer-line-1'>
+<span class='post-author vcard'>
+Posted by
+<span class='fn' itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://www.blogger.com/profile/13512912323574611883' itemprop='url'/>
+<a class='g-profile' href='https://www.blogger.com/profile/13512912323574611883' rel='author' title='author profile'>
+<span itemprop='name'>Matti Pitkänen</span>
+</a>
+</span>
+</span>
+<span class='post-timestamp'>
+at
+<meta content='https://matpitka.blogspot.com/2013/10/a-general-model-for-metabolism.html' itemprop='url'/>
+<a class='timestamp-link' href='https://matpitka.blogspot.com/2013/10/a-general-model-for-metabolism.html' rel='bookmark' title='permanent link'><abbr class='published' itemprop='datePublished' title='2013-10-24T05:16:00-07:00'>5:16 AM</abbr></a>
+</span>
+<span class='post-comment-link'>
+</span>
+<span class='post-icons'>
+<span class='item-action'>
+<a href='https://www.blogger.com/email-post/10614348/4763533786464384972' title='Email Post'>
+<img alt='' class='icon-action' height='13' src='https://resources.blogblog.com/img/icon18_email.gif' width='18'/>
+</a>
+</span>
+<span class='item-control blog-admin pid-1145779316'>
+<a href='https://www.blogger.com/post-edit.g?blogID=10614348&postID=4763533786464384972&from=pencil' title='Edit Post'>
+<img alt='' class='icon-action' height='18' src='https://resources.blogblog.com/img/icon18_edit_allbkg.gif' width='18'/>
+</a>
+</span>
+</span>
+<div class='post-share-buttons goog-inline-block'>
+<a class='goog-inline-block share-button sb-email' href='https://www.blogger.com/share-post.g?blogID=10614348&postID=4763533786464384972&target=email' target='_blank' title='Email This'><span class='share-button-link-text'>Email This</span></a><a class='goog-inline-block share-button sb-blog' href='https://www.blogger.com/share-post.g?blogID=10614348&postID=4763533786464384972&target=blog' onclick='window.open(this.href, "_blank", "height=270,width=475"); return false;' target='_blank' title='BlogThis!'><span class='share-button-link-text'>BlogThis!</span></a><a class='goog-inline-block share-button sb-twitter' href='https://www.blogger.com/share-post.g?blogID=10614348&postID=4763533786464384972&target=twitter' target='_blank' title='Share to X'><span class='share-button-link-text'>Share to X</span></a><a class='goog-inline-block share-button sb-facebook' href='https://www.blogger.com/share-post.g?blogID=10614348&postID=4763533786464384972&target=facebook' onclick='window.open(this.href, "_blank", "height=430,width=640"); return false;' target='_blank' title='Share to Facebook'><span class='share-button-link-text'>Share to Facebook</span></a><a class='goog-inline-block share-button sb-pinterest' href='https://www.blogger.com/share-post.g?blogID=10614348&postID=4763533786464384972&target=pinterest' target='_blank' title='Share to Pinterest'><span class='share-button-link-text'>Share to Pinterest</span></a>
+</div>
+</div>
+<div class='post-footer-line post-footer-line-2'>
+<span class='post-labels'>
+</span>
+</div>
+<div class='post-footer-line post-footer-line-3'>
+<span class='post-location'>
+</span>
+</div>
+</div>
+</div>
+<div class='comments' id='comments'>
+<a name='comments'></a>
+<h4>17 comments:</h4>
+<div id='Blog1_comments-block-wrapper'>
+<dl class='avatar-comment-indent' id='comments-block'>
+<dt class='comment-author ' id='c7520518062314526376'>
+<a name='c7520518062314526376'></a>
+<div class="avatar-image-container vcard"><span dir="ltr"><a href="https://www.blogger.com/profile/00525169618204198073" target="" rel="nofollow" onclick="" class="avatar-hovercard" id="av-7520518062314526376-00525169618204198073"><img src="https://resources.blogblog.com/img/blank.gif" width="35" height="35" class="delayLoad" style="display: none;" longdesc="//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1zJ0NguXfATVRQdqm4S2pdH6HqxixeT17MjTlKt8RJqObIwBiE7uc0KrmC0mGOJMGXPWd5hKFL659nqxZsNPykkFdfcfYG_BNYRD0Kh1SqhrtgBq6dixRXK43FPU2kw/s45-c/PhysicsByTheRiver.jpg" alt="" title="L. Edgar Otto">
+
+<noscript><img src="//blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1zJ0NguXfATVRQdqm4S2pdH6HqxixeT17MjTlKt8RJqObIwBiE7uc0KrmC0mGOJMGXPWd5hKFL659nqxZsNPykkFdfcfYG_BNYRD0Kh1SqhrtgBq6dixRXK43FPU2kw/s45-c/PhysicsByTheRiver.jpg" width="35" height="35" class="photo" alt=""></noscript></a></span></div>
+<a href='https://www.blogger.com/profile/00525169618204198073' rel='nofollow'>L. Edgar Otto</a>
+said...
+</dt>
+<dd class='comment-body' id='Blog1_cmt-7520518062314526376'>
+<p>
+Hey, Matti<br /><br />I see you have been busy with some deep thinking.  There is a problem with how you use the term dark -x and I and others use it.  This sort of mirror thing may be well, ghostly obscure but I feel you constrained by the old terminology while accessing a wider physics.  It is sort of like the supersymmetric partners that sustains the standard theory, that is it is with such dark photons and so on...  I too applied black holes and string theory to the genetics but it was too late for a friend with terminal brain cancer but it is cleaver to relate all this to metabolism and cold fusion products.  But is p-adics in your question of other roots like 3 or 5  a new idea for you? You will understand quasics this way but I know now we are in different directions to which my questions were not directly in the same area as you even if we had shared terminology.  Of course the mentioning of some things will put off the establishment science- crop circles, even I had to look a little deeper beyond this.  I do not think cold fusion just explainable as possible by quantum ideas, it must go deeper.  <br /><br />I added a core speculation in my blogspot at these hinted at foundations and in the end as a review added the 256 coordinate system (the quason) and as you speculated on 16 precursor dna-rna as an alternative to methylation effects, although that idea has been well known but controversial, I posted some of it in response to Gong on the viXra blog.  You and I  are different in that some open questions on this I no longer need to ask... I thought p-adics would be much more powerful.  It will be quite interesting to see what you find further along your own paths of inquiry.
+</p>
+</dd>
+<dd class='comment-footer'>
+<span class='comment-timestamp'>
+<a href='https://matpitka.blogspot.com/2013/10/a-general-model-for-metabolism.html?showComment=1382658391241#c7520518062314526376' title='comment permalink'>
+4:46 PM
+</a>
+<span class='item-control blog-admin pid-145296060'>
+<a class='comment-delete' href='https://www.blogger.com/comment/delete/10614348/7520518062314526376' title='Delete Comment'>
+<img src='https://resources.blogblog.com/img/icon_delete13.gif'/>
+</a>
+</span>
+</span>
+</dd>
+<dt class='comment-author ' id='c3484846309165576936'>
+<a name='c3484846309165576936'></a>
+<div class="avatar-image-container avatar-stock"><span dir="ltr"><a href="http://tgdtheory.com/" target="" rel="nofollow" onclick=""><img src="//resources.blogblog.com/img/blank.gif" width="35" height="35" alt="" title="Matti Pitkanen">
+
+</a></span></div>
+<a href='http://tgdtheory.com/' rel='nofollow'>Matti Pitkanen</a>
+said...
+</dt>
+<dd class='comment-body' id='Blog1_cmt-3484846309165576936'>
+<p>
+<br />I try to define  what I mean with dark matter practically every time I use it.  The motivations for &quot;dark&quot; are obvious and I also try to  make clear the differences with respect to standard identifications. <br /><br />Concerning p-adics:  sqr(t) and sqrt(5)  and more general algebraic numbers appearing in p-adic length scales could emerge naturally for algebraic extensions via canonical identification mapping algebraic extensions of  p-adics to reals. <br /><br />If  Fermat primes  define a hierarchy of preferred multiples of Planck constant, one obtains them for both dark  and p-adic hierarchies.  The &quot;resonance&quot; between identical p-adic length scales and dark scales would be basic aspect of liberation of energy in metabolism.<br /><br />Crop circles is of course something which instantaneously transforms academic colleague enjoying monthly salary  to an animal like state in  deep rage;-).  Is it  fun to tease academic colleagues or why I doing this to  these innocent creatures?;-) <br /><br /><br /><br /><br />
+</p>
+</dd>
+<dd class='comment-footer'>
+<span class='comment-timestamp'>
+<a href='https://matpitka.blogspot.com/2013/10/a-general-model-for-metabolism.html?showComment=1382757112939#c3484846309165576936' title='comment permalink'>
+8:11 PM
+</a>
+<span class='item-control blog-admin pid-1554971221'>
+<a class='comment-delete' href='https://www.blogger.com/comment/delete/10614348/3484846309165576936' title='Delete Comment'>
+<img src='https://resources.blogblog.com/img/icon_delete13.gif'/>
+</a>
+</span>
+</span>
+</dd>
+<dt class='comment-author ' id='c6508995603321182343'>
+<a name='c6508995603321182343'></a>
+<div class="avatar-image-container avatar-stock"><span dir="ltr"><a href="http://www.stealthskater.com" target="" rel="nofollow" onclick=""><img src="//resources.blogblog.com/img/blank.gif" width="35" height="35" alt="" title="K.R.A.M.">
+
+</a></span></div>
+<a href='http://www.stealthskater.com' rel='nofollow'>K.R.A.M.</a>
+said...
+</dt>
+<dd class='comment-body' id='Blog1_cmt-6508995603321182343'>
+<p>
+I archived your earlier papers on UFOs as Plasmoids and the Arecibo crop circle at http://www.stealthskater.com/Pitkanen.htm#Plasmoids .  There is also mention of &quot;plasmoids&quot; by other authors at http://www.stealthskater.com/UFO.htm#Plasmoids .<br /><br />It is interesting to note that while most physicists discount the possibility of alien civilizations navigating to Earth, they do seem fascinated by the idea that these might be &quot;time machines&quot; as in quantum teleportation or messages from the Future.  Perhaps along the same lines as your &#39;Two Great Personal Great Experiences&#39; which led to your discovery of TGD (http://www.stealthskater.com/Pitkanen.htm#Bio )???
+</p>
+</dd>
+<dd class='comment-footer'>
+<span class='comment-timestamp'>
+<a href='https://matpitka.blogspot.com/2013/10/a-general-model-for-metabolism.html?showComment=1382790431413#c6508995603321182343' title='comment permalink'>
+5:27 AM
+</a>
+<span class='item-control blog-admin pid-1554971221'>
+<a class='comment-delete' href='https://www.blogger.com/comment/delete/10614348/6508995603321182343' title='Delete Comment'>
+<img src='https://resources.blogblog.com/img/icon_delete13.gif'/>
+</a>
+</span>
+</span>
+</dd>
+<dt class='comment-author ' id='c5464029444994072624'>
+<a name='c5464029444994072624'></a>
+<div class="avatar-image-container avatar-stock"><span dir="ltr"><a href="http://tgdtheory.com/" target="" rel="nofollow" onclick=""><img src="//resources.blogblog.com/img/blank.gif" width="35" height="35" alt="" title="Matti Pitkanen">
+
+</a></span></div>
+<a href='http://tgdtheory.com/' rel='nofollow'>Matti Pitkanen</a>
+said...
+</dt>
+<dd class='comment-body' id='Blog1_cmt-5464029444994072624'>
+<p>
+<br />Theoreticians are irrational in their rationality. One and same person refuses to believe that the recent physics might not explain everything  but is ready to believe that space-time is brane in 11-D space and that physics cannot predict anything without anthropic principle. Sociological factors determine our beliefs. <br /><br />As a matter of fact, the great experiences came later than the basic idea of TGD. Great experiences  forced destroyed once and for all  my belief in reductionistic and materialistic dogmas and stimulated interest on consciousness and eventually led to TGD inspired theory of consciousness.<br />
+</p>
+</dd>
+<dd class='comment-footer'>
+<span class='comment-timestamp'>
+<a href='https://matpitka.blogspot.com/2013/10/a-general-model-for-metabolism.html?showComment=1382797909467#c5464029444994072624' title='comment permalink'>
+7:31 AM
+</a>
+<span class='item-control blog-admin pid-1554971221'>
+<a class='comment-delete' href='https://www.blogger.com/comment/delete/10614348/5464029444994072624' title='Delete Comment'>
+<img src='https://resources.blogblog.com/img/icon_delete13.gif'/>
+</a>
+</span>
+</span>
+</dd>
+<dt class='comment-author ' id='c887489967546076847'>
+<a name='c887489967546076847'></a>
+<div class="avatar-image-container vcard"><span dir="ltr"><a href="https://www.blogger.com/profile/16634036177244152897" target="" rel="nofollow" onclick="" class="avatar-hovercard" id="av-887489967546076847-16634036177244152897"><img src="https://resources.blogblog.com/img/blank.gif" width="35" height="35" class="delayLoad" style="display: none;" longdesc="//3.bp.blogspot.com/_9z_pVRiRDok/SapU2lRs1OI/AAAAAAAAAEg/31MEmM_VuPY/S45-s35/Ida%2Bo%2BOle.jpg" alt="" title="Ulla">
+
+<noscript><img src="//3.bp.blogspot.com/_9z_pVRiRDok/SapU2lRs1OI/AAAAAAAAAEg/31MEmM_VuPY/S45-s35/Ida%2Bo%2BOle.jpg" width="35" height="35" class="photo" alt=""></noscript></a></span></div>
+<a href='https://www.blogger.com/profile/16634036177244152897' rel='nofollow'>Ulla</a>
+said...
+</dt>
+<dd class='comment-body' id='Blog1_cmt-887489967546076847'>
+<p>
+Have you read the papers of Don Hotson, 3 papers? He has a somewhat linked view of what is dark matter, using imaginary dimensions coming from a topology. <br />http://openseti.org/Docs/HotsonPart1.pdf<br />change the 1 to a 2 for part 2.<br />http://www.scribd.com/doc/58324936/Dirac-s-Equation-and-the-Sea-of-Negative-Energy-Part-3-by-D-L-Hotson<br /><br />Some deep thoughts of yours again :)
+</p>
+</dd>
+<dd class='comment-footer'>
+<span class='comment-timestamp'>
+<a href='https://matpitka.blogspot.com/2013/10/a-general-model-for-metabolism.html?showComment=1382898203437#c887489967546076847' title='comment permalink'>
+11:23 AM
+</a>
+<span class='item-control blog-admin pid-1897092753'>
+<a class='comment-delete' href='https://www.blogger.com/comment/delete/10614348/887489967546076847' title='Delete Comment'>
+<img src='https://resources.blogblog.com/img/icon_delete13.gif'/>
+</a>
+</span>
+</span>
+</dd>
+<dt class='comment-author ' id='c4610212962032143638'>
+<a name='c4610212962032143638'></a>
+<div class="avatar-image-container avatar-stock"><span dir="ltr"><a href="http://tgdtheory.com/" target="" rel="nofollow" onclick=""><img src="//resources.blogblog.com/img/blank.gif" width="35" height="35" alt="" title="Matti Pitkanen">
+
+</a></span></div>
+<a href='http://tgdtheory.com/' rel='nofollow'>Matti Pitkanen</a>
+said...
+</dt>
+<dd class='comment-body' id='Blog1_cmt-4610212962032143638'>
+<p>
+<br />Not my thoughts this time;-)! <br /><br />I have seen Hotson&#39;s article earlier. Hotson challenges existing views, in particular about the sign of energy. This is quite ok. <br /><br />The interpretation of Dirac equation  and bringing in ether as Hotson does, leads however  nowhere. <br />Hotson also  confuses negative roots (negative frequency modes  for modes for Dirac equation) with imaginary unit and  suggests imaginary time, and ends up with complete mathematical nonsense. Theoretical physics cannot be done without proper mathematical tools.  Again and again reading this kind of articles teaches this.<br /><br />In quantum field theory Dirac equation is perfectly understood. The real challenges relate to the idealization of particles with  point like particles. String models replaced point like particles with strings. It was not enough.  In  TGD they are replaced with 3-D surfaces and also now string like objects emerge naturally but are not the whole truth.  This is the path to follow, not return to thirties and even to the ether physics of the eighteenth century.<br /> <br /><br />
+</p>
+</dd>
+<dd class='comment-footer'>
+<span class='comment-timestamp'>
+<a href='https://matpitka.blogspot.com/2013/10/a-general-model-for-metabolism.html?showComment=1382975480306#c4610212962032143638' title='comment permalink'>
+8:51 AM
+</a>
+<span class='item-control blog-admin pid-1554971221'>
+<a class='comment-delete' href='https://www.blogger.com/comment/delete/10614348/4610212962032143638' title='Delete Comment'>
+<img src='https://resources.blogblog.com/img/icon_delete13.gif'/>
+</a>
+</span>
+</span>
+</dd>
+<dt class='comment-author ' id='c7044183830050930939'>
+<a name='c7044183830050930939'></a>
+<div class="avatar-image-container vcard"><span dir="ltr"><a href="https://www.blogger.com/profile/16634036177244152897" target="" rel="nofollow" onclick="" class="avatar-hovercard" id="av-7044183830050930939-16634036177244152897"><img src="https://resources.blogblog.com/img/blank.gif" width="35" height="35" class="delayLoad" style="display: none;" longdesc="//3.bp.blogspot.com/_9z_pVRiRDok/SapU2lRs1OI/AAAAAAAAAEg/31MEmM_VuPY/S45-s35/Ida%2Bo%2BOle.jpg" alt="" title="Ulla">
+
+<noscript><img src="//3.bp.blogspot.com/_9z_pVRiRDok/SapU2lRs1OI/AAAAAAAAAEg/31MEmM_VuPY/S45-s35/Ida%2Bo%2BOle.jpg" width="35" height="35" class="photo" alt=""></noscript></a></span></div>
+<a href='https://www.blogger.com/profile/16634036177244152897' rel='nofollow'>Ulla</a>
+said...
+</dt>
+<dd class='comment-body' id='Blog1_cmt-7044183830050930939'>
+<p>
+Well, sometimes we must step back to see forward...
+</p>
+</dd>
+<dd class='comment-footer'>
+<span class='comment-timestamp'>
+<a href='https://matpitka.blogspot.com/2013/10/a-general-model-for-metabolism.html?showComment=1382984933938#c7044183830050930939' title='comment permalink'>
+11:28 AM
+</a>
+<span class='item-control blog-admin pid-1897092753'>
+<a class='comment-delete' href='https://www.blogger.com/comment/delete/10614348/7044183830050930939' title='Delete Comment'>
+<img src='https://resources.blogblog.com/img/icon_delete13.gif'/>
+</a>
+</span>
+</span>
+</dd>
+<dt class='comment-author ' id='c2322474059144622630'>
+<a name='c2322474059144622630'></a>
+<div class="avatar-image-container vcard"><span dir="ltr"><a href="https://www.blogger.com/profile/16634036177244152897" target="" rel="nofollow" onclick="" class="avatar-hovercard" id="av-2322474059144622630-16634036177244152897"><img src="https://resources.blogblog.com/img/blank.gif" width="35" height="35" class="delayLoad" style="display: none;" longdesc="//3.bp.blogspot.com/_9z_pVRiRDok/SapU2lRs1OI/AAAAAAAAAEg/31MEmM_VuPY/S45-s35/Ida%2Bo%2BOle.jpg" alt="" title="Ulla">
+
+<noscript><img src="//3.bp.blogspot.com/_9z_pVRiRDok/SapU2lRs1OI/AAAAAAAAAEg/31MEmM_VuPY/S45-s35/Ida%2Bo%2BOle.jpg" width="35" height="35" class="photo" alt=""></noscript></a></span></div>
+<a href='https://www.blogger.com/profile/16634036177244152897' rel='nofollow'>Ulla</a>
+said...
+</dt>
+<dd class='comment-body' id='Blog1_cmt-2322474059144622630'>
+<p>
+Hawking also use imaginary time.<br />Hotson arrived at 10 D 4+6. I think he used 3D for time, but is that really necessary? I have met the 3D time also in hidden 6+xD theories. <br /><br />The imaginary units can be linked to octonions, but they are so tiny... But maybe in a nanoworld the tinyness is not of so big problem. Can it be because of an unquantized Planck constant (seen as a 3 surface, as a relation) because Planck time is a minimum distance? This also means that our world as we see it is quantized (angular momentum) and there is also the possibility of the hierarchies in form of CD-diamonds...<br /><br />Another interpretation of his imaginary dimensions must then be virtual dimensions, but how that is done in math, I cannot say. The virtual dimensions must be an (e)m-effect and come in right angles? What does it tell about the quantization of Plancks constant?<br /><br />This view also would be an entrance to the &#39;magnetic bodies&#39;?<br /><br />Does this at all make sense to you? I must ask, because there is a very messy world out there, so full of misinformation and fantasies :)<br />
+</p>
+</dd>
+<dd class='comment-footer'>
+<span class='comment-timestamp'>
+<a href='https://matpitka.blogspot.com/2013/10/a-general-model-for-metabolism.html?showComment=1383033023327#c2322474059144622630' title='comment permalink'>
+12:50 AM
+</a>
+<span class='item-control blog-admin pid-1897092753'>
+<a class='comment-delete' href='https://www.blogger.com/comment/delete/10614348/2322474059144622630' title='Delete Comment'>
+<img src='https://resources.blogblog.com/img/icon_delete13.gif'/>
+</a>
+</span>
+</span>
+</dd>
+<dt class='comment-author ' id='c3629751523298578517'>
+<a name='c3629751523298578517'></a>
+<div class="avatar-image-container avatar-stock"><span dir="ltr"><a href="http://tgdtheory.com/" target="" rel="nofollow" onclick=""><img src="//resources.blogblog.com/img/blank.gif" width="35" height="35" alt="" title="Matti Pitkanen">
+
+</a></span></div>
+<a href='http://tgdtheory.com/' rel='nofollow'>Matti Pitkanen</a>
+said...
+</dt>
+<dd class='comment-body' id='Blog1_cmt-3629751523298578517'>
+<p>
+<br />I am not sure what imaginary time means here. <br />Hawking uses effectively imaginary time in an attempt to define  path integrals as analytical continuations of functional integrals  in general relativity. One calculates  in Euclidian signature (&quot;imaginary time&quot;), where things are not so ill-defined and returns to Minkowskian. This is just trickery used also in quantum field theories.<br /><br />In TGD framework Euclidian signature of space-time region is associated with the space-time surfaces representing particles  - &quot;lines&quot; of  generalized Feynman diagrams. Euclidian signature is completely real physically: also black hole interiors are replaced with Euclidian regions.  <br /><br />I would not however use the word &quot;imaginary time&quot; since it is un-necessary and misleading as also the notion of imaginary dimension.  One can just speak of complex structure. Ordinary plane and any 2-D object possesses complex structure but one does not speak of imaginary space-dimension. <br /><br />By conformal invariance one can choose complex coordinates in infinite number of manners and one can assign  imaginary/real dimension  to the conformal image of lines parallel to y-axis/x-axis of plane so that the notion is not conformal invariant.<br /><br /><br />
+</p>
+</dd>
+<dd class='comment-footer'>
+<span class='comment-timestamp'>
+<a href='https://matpitka.blogspot.com/2013/10/a-general-model-for-metabolism.html?showComment=1383055263770#c3629751523298578517' title='comment permalink'>
+7:01 AM
+</a>
+<span class='item-control blog-admin pid-1554971221'>
+<a class='comment-delete' href='https://www.blogger.com/comment/delete/10614348/3629751523298578517' title='Delete Comment'>
+<img src='https://resources.blogblog.com/img/icon_delete13.gif'/>
+</a>
+</span>
+</span>
+</dd>
+<dt class='comment-author ' id='c3882223439452132922'>
+<a name='c3882223439452132922'></a>
+<div class="avatar-image-container vcard"><span dir="ltr"><a href="https://www.blogger.com/profile/16634036177244152897" target="" rel="nofollow" onclick="" class="avatar-hovercard" id="av-3882223439452132922-16634036177244152897"><img src="https://resources.blogblog.com/img/blank.gif" width="35" height="35" class="delayLoad" style="display: none;" longdesc="//3.bp.blogspot.com/_9z_pVRiRDok/SapU2lRs1OI/AAAAAAAAAEg/31MEmM_VuPY/S45-s35/Ida%2Bo%2BOle.jpg" alt="" title="Ulla">
+
+<noscript><img src="//3.bp.blogspot.com/_9z_pVRiRDok/SapU2lRs1OI/AAAAAAAAAEg/31MEmM_VuPY/S45-s35/Ida%2Bo%2BOle.jpg" width="35" height="35" class="photo" alt=""></noscript></a></span></div>
+<a href='https://www.blogger.com/profile/16634036177244152897' rel='nofollow'>Ulla</a>
+said...
+</dt>
+<dd class='comment-body' id='Blog1_cmt-3882223439452132922'>
+<p>
+I have seen that in Schrödinger eq. is also ih (hbar) used. Is this also a way to describe complex systems? http://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation<br />Does this also make the Planck constant complex?<br /><br />In fact Hotson also used the term &#39;complex systems&#39; and complex numbers for these things, alternately.
+</p>
+</dd>
+<dd class='comment-footer'>
+<span class='comment-timestamp'>
+<a href='https://matpitka.blogspot.com/2013/10/a-general-model-for-metabolism.html?showComment=1383163164518#c3882223439452132922' title='comment permalink'>
+12:59 PM
+</a>
+<span class='item-control blog-admin pid-1897092753'>
+<a class='comment-delete' href='https://www.blogger.com/comment/delete/10614348/3882223439452132922' title='Delete Comment'>
+<img src='https://resources.blogblog.com/img/icon_delete13.gif'/>
+</a>
+</span>
+</span>
+</dd>
+<dt class='comment-author ' id='c4640919459399053011'>
+<a name='c4640919459399053011'></a>
+<div class="avatar-image-container avatar-stock"><span dir="ltr"><a href="http://tgdtheory.com/" target="" rel="nofollow" onclick=""><img src="//resources.blogblog.com/img/blank.gif" width="35" height="35" alt="" title="Matti Pitkanen">
+
+</a></span></div>
+<a href='http://tgdtheory.com/' rel='nofollow'>Matti Pitkanen</a>
+said...
+</dt>
+<dd class='comment-body' id='Blog1_cmt-4640919459399053011'>
+<p>
+<br />No: Planck constant is real. Complexity theory and quantum mechanics are two different disciplines.  Complex in the sense of complexity theory has nothing to do with the &quot;complex&quot; as attribute of  numbers.
+</p>
+</dd>
+<dd class='comment-footer'>
+<span class='comment-timestamp'>
+<a href='https://matpitka.blogspot.com/2013/10/a-general-model-for-metabolism.html?showComment=1383206488793#c4640919459399053011' title='comment permalink'>
+1:01 AM
+</a>
+<span class='item-control blog-admin pid-1554971221'>
+<a class='comment-delete' href='https://www.blogger.com/comment/delete/10614348/4640919459399053011' title='Delete Comment'>
+<img src='https://resources.blogblog.com/img/icon_delete13.gif'/>
+</a>
+</span>
+</span>
+</dd>
+<dt class='comment-author ' id='c7412453152215353913'>
+<a name='c7412453152215353913'></a>
+<div class="avatar-image-container vcard"><span dir="ltr"><a href="https://www.blogger.com/profile/16634036177244152897" target="" rel="nofollow" onclick="" class="avatar-hovercard" id="av-7412453152215353913-16634036177244152897"><img src="https://resources.blogblog.com/img/blank.gif" width="35" height="35" class="delayLoad" style="display: none;" longdesc="//3.bp.blogspot.com/_9z_pVRiRDok/SapU2lRs1OI/AAAAAAAAAEg/31MEmM_VuPY/S45-s35/Ida%2Bo%2BOle.jpg" alt="" title="Ulla">
+
+<noscript><img src="//3.bp.blogspot.com/_9z_pVRiRDok/SapU2lRs1OI/AAAAAAAAAEg/31MEmM_VuPY/S45-s35/Ida%2Bo%2BOle.jpg" width="35" height="35" class="photo" alt=""></noscript></a></span></div>
+<a href='https://www.blogger.com/profile/16634036177244152897' rel='nofollow'>Ulla</a>
+said...
+</dt>
+<dd class='comment-body' id='Blog1_cmt-7412453152215353913'>
+<p>
+Why is there then the imaginary Plancks constant? Schrödinger eguations tells explicitly it is imaginary.<br /><br />When you say that 3-surfaces also ends with string-like objects, how is then the Self reacting to that?
+</p>
+</dd>
+<dd class='comment-footer'>
+<span class='comment-timestamp'>
+<a href='https://matpitka.blogspot.com/2013/10/a-general-model-for-metabolism.html?showComment=1383215072661#c7412453152215353913' title='comment permalink'>
+3:24 AM
+</a>
+<span class='item-control blog-admin pid-1897092753'>
+<a class='comment-delete' href='https://www.blogger.com/comment/delete/10614348/7412453152215353913' title='Delete Comment'>
+<img src='https://resources.blogblog.com/img/icon_delete13.gif'/>
+</a>
+</span>
+</span>
+</dd>
+<dt class='comment-author ' id='c8932527182404774482'>
+<a name='c8932527182404774482'></a>
+<div class="avatar-image-container vcard"><span dir="ltr"><a href="https://www.blogger.com/profile/16634036177244152897" target="" rel="nofollow" onclick="" class="avatar-hovercard" id="av-8932527182404774482-16634036177244152897"><img src="https://resources.blogblog.com/img/blank.gif" width="35" height="35" class="delayLoad" style="display: none;" longdesc="//3.bp.blogspot.com/_9z_pVRiRDok/SapU2lRs1OI/AAAAAAAAAEg/31MEmM_VuPY/S45-s35/Ida%2Bo%2BOle.jpg" alt="" title="Ulla">
+
+<noscript><img src="//3.bp.blogspot.com/_9z_pVRiRDok/SapU2lRs1OI/AAAAAAAAAEg/31MEmM_VuPY/S45-s35/Ida%2Bo%2BOle.jpg" width="35" height="35" class="photo" alt=""></noscript></a></span></div>
+<a href='https://www.blogger.com/profile/16634036177244152897' rel='nofollow'>Ulla</a>
+said...
+</dt>
+<dd class='comment-body' id='Blog1_cmt-8932527182404774482'>
+<p>
+http://arxiv.org/abs/hep-th/0106273<br />&quot;The quantum imaginary ℏi is the contraction of a dynamical variable whose back-reaction provides the Dirac mass.&quot;
+</p>
+</dd>
+<dd class='comment-footer'>
+<span class='comment-timestamp'>
+<a href='https://matpitka.blogspot.com/2013/10/a-general-model-for-metabolism.html?showComment=1383220474293#c8932527182404774482' title='comment permalink'>
+4:54 AM
+</a>
+<span class='item-control blog-admin pid-1897092753'>
+<a class='comment-delete' href='https://www.blogger.com/comment/delete/10614348/8932527182404774482' title='Delete Comment'>
+<img src='https://resources.blogblog.com/img/icon_delete13.gif'/>
+</a>
+</span>
+</span>
+</dd>
+<dt class='comment-author ' id='c3000007188946939648'>
+<a name='c3000007188946939648'></a>
+<div class="avatar-image-container avatar-stock"><span dir="ltr"><a href="http://tgdtheory.com/" target="" rel="nofollow" onclick=""><img src="//resources.blogblog.com/img/blank.gif" width="35" height="35" alt="" title="Matti Pitkanen">
+
+</a></span></div>
+<a href='http://tgdtheory.com/' rel='nofollow'>Matti Pitkanen</a>
+said...
+</dt>
+<dd class='comment-body' id='Blog1_cmt-3000007188946939648'>
+<p>
+Makes no sense to me;-).   I do not how I could express my views about Hotson&#39;s articles in diplomatic manner;-).  It is nicely written fluent prose....;-) 
+</p>
+</dd>
+<dd class='comment-footer'>
+<span class='comment-timestamp'>
+<a href='https://matpitka.blogspot.com/2013/10/a-general-model-for-metabolism.html?showComment=1383276000567#c3000007188946939648' title='comment permalink'>
+8:20 PM
+</a>
+<span class='item-control blog-admin pid-1554971221'>
+<a class='comment-delete' href='https://www.blogger.com/comment/delete/10614348/3000007188946939648' title='Delete Comment'>
+<img src='https://resources.blogblog.com/img/icon_delete13.gif'/>
+</a>
+</span>
+</span>
+</dd>
+<dt class='comment-author ' id='c204401997845053832'>
+<a name='c204401997845053832'></a>
+<div class="avatar-image-container avatar-stock"><span dir="ltr"><img src="//resources.blogblog.com/img/blank.gif" width="35" height="35" alt="" title="Anonymous">
+
+</span></div>
+Anonymous
+said...
+</dt>
+<dd class='comment-body' id='Blog1_cmt-204401997845053832'>
+<p>
+http://phys.org/news/2013-11-theoretical-physics-sex.html<br /><br />:)
+</p>
+</dd>
+<dd class='comment-footer'>
+<span class='comment-timestamp'>
+<a href='https://matpitka.blogspot.com/2013/10/a-general-model-for-metabolism.html?showComment=1383780403165#c204401997845053832' title='comment permalink'>
+3:26 PM
+</a>
+<span class='item-control blog-admin pid-1554971221'>
+<a class='comment-delete' href='https://www.blogger.com/comment/delete/10614348/204401997845053832' title='Delete Comment'>
+<img src='https://resources.blogblog.com/img/icon_delete13.gif'/>
+</a>
+</span>
+</span>
+</dd>
+<dt class='comment-author ' id='c7803426865906563135'>
+<a name='c7803426865906563135'></a>
+<div class="avatar-image-container vcard"><span dir="ltr"><a href="https://www.blogger.com/profile/16634036177244152897" target="" rel="nofollow" onclick="" class="avatar-hovercard" id="av-7803426865906563135-16634036177244152897"><img src="https://resources.blogblog.com/img/blank.gif" width="35" height="35" class="delayLoad" style="display: none;" longdesc="//3.bp.blogspot.com/_9z_pVRiRDok/SapU2lRs1OI/AAAAAAAAAEg/31MEmM_VuPY/S45-s35/Ida%2Bo%2BOle.jpg" alt="" title="Ulla">
+
+<noscript><img src="//3.bp.blogspot.com/_9z_pVRiRDok/SapU2lRs1OI/AAAAAAAAAEg/31MEmM_VuPY/S45-s35/Ida%2Bo%2BOle.jpg" width="35" height="35" class="photo" alt=""></noscript></a></span></div>
+<a href='https://www.blogger.com/profile/16634036177244152897' rel='nofollow'>Ulla</a>
+said...
+</dt>
+<dd class='comment-body' id='Blog1_cmt-7803426865906563135'>
+<p>
+Sorry that I bother you once again.<br /><br />Operators are used as a form of &#39;query&#39; to a system note the p (momentum) =- delta ℏi due to the need for quantization - p 4 http://digitalcommons.calpoly.edu/cgi/viewcontent.cgi... The Quantum Mechanics of Supersymmetry<br /><br />For example, in order to calculate the kinetic energy of the system, one would apply the kinetic energy operator, notated by ^T (read &#8220;t-hat&#8221;). The object that is operated on in quantum mechanics is called the wave function, denoted by Ψ , and is a function of both position and time.<br />Ψ typically represents a particle, but it is important to note that Ψ also contains information about the environment the particle exists in. For example, a particle in free space will have a different wave function than if that same particle were in a confined box. Notice the similarity to classical mechanics where the kinetic energy T of an object with momentum p is given by the same equation without the hats. Naturally, one would reason that applying the momentum operator to a wave function should return its momentum. But this is only true if ψ satisfies a certain relationship with the momentum operator. That is, ψ must be a &#8216;momentum eigenstate&#8217;. Applying ^ H to the wave function returns the total energy of the system, provided that ψ is an energy eigenstate. If the Hamiltonian is written out in its complete form, the result is the familiar time-independent Schrӧdinger equation (SE) ...<br /><br />Note that ℏ is quantized here.<br /><br />This is essentially the same process as when we take 2 pi for half a circle...and 4 pi for the whole as for a harmonic oscillator?  the wave function is the same if it runs in a circle?
+</p>
+</dd>
+<dd class='comment-footer'>
+<span class='comment-timestamp'>
+<a href='https://matpitka.blogspot.com/2013/10/a-general-model-for-metabolism.html?showComment=1383823185626#c7803426865906563135' title='comment permalink'>
+3:19 AM
+</a>
+<span class='item-control blog-admin pid-1897092753'>
+<a class='comment-delete' href='https://www.blogger.com/comment/delete/10614348/7803426865906563135' title='Delete Comment'>
+<img src='https://resources.blogblog.com/img/icon_delete13.gif'/>
+</a>
+</span>
+</span>
+</dd>
+<dt class='comment-author ' id='c7986454452848141537'>
+<a name='c7986454452848141537'></a>
+<div class="avatar-image-container vcard"><span dir="ltr"><a href="https://www.blogger.com/profile/16634036177244152897" target="" rel="nofollow" onclick="" class="avatar-hovercard" id="av-7986454452848141537-16634036177244152897"><img src="https://resources.blogblog.com/img/blank.gif" width="35" height="35" class="delayLoad" style="display: none;" longdesc="//3.bp.blogspot.com/_9z_pVRiRDok/SapU2lRs1OI/AAAAAAAAAEg/31MEmM_VuPY/S45-s35/Ida%2Bo%2BOle.jpg" alt="" title="Ulla">
+
+<noscript><img src="//3.bp.blogspot.com/_9z_pVRiRDok/SapU2lRs1OI/AAAAAAAAAEg/31MEmM_VuPY/S45-s35/Ida%2Bo%2BOle.jpg" width="35" height="35" class="photo" alt=""></noscript></a></span></div>
+<a href='https://www.blogger.com/profile/16634036177244152897' rel='nofollow'>Ulla</a>
+said...
+</dt>
+<dd class='comment-body' id='Blog1_cmt-7986454452848141537'>
+<p>
+http://rsif.royalsocietypublishing.org/content/10/79/20120869.full An algoritm for life. Looks interesting.
+</p>
+</dd>
+<dd class='comment-footer'>
+<span class='comment-timestamp'>
+<a href='https://matpitka.blogspot.com/2013/10/a-general-model-for-metabolism.html?showComment=1384548136776#c7986454452848141537' title='comment permalink'>
+12:42 PM
+</a>
+<span class='item-control blog-admin pid-1897092753'>
+<a class='comment-delete' href='https://www.blogger.com/comment/delete/10614348/7986454452848141537' title='Delete Comment'>
+<img src='https://resources.blogblog.com/img/icon_delete13.gif'/>
+</a>
+</span>
+</span>
+</dd>
+</dl>
+</div>
+<p class='comment-footer'>
+<a href='https://www.blogger.com/comment/fullpage/post/10614348/4763533786464384972' onclick='javascript:window.open(this.href, "bloggerPopup", "toolbar=0,location=0,statusbar=1,menubar=0,scrollbars=yes,width=640,height=500"); return false;'>Post a Comment</a>
+</p>
+</div>
+</div>
+
+        </div></div>
+      
+</div>
+<div class='blog-pager' id='blog-pager'>
+<span id='blog-pager-newer-link'>
+<a class='blog-pager-newer-link' href='https://matpitka.blogspot.com/2013/10/no-susy-dark-matter.html' id='Blog1_blog-pager-newer-link' title='Newer Post'>Newer Post</a>
+</span>
+<span id='blog-pager-older-link'>
+<a class='blog-pager-older-link' href='https://matpitka.blogspot.com/2013/10/the-tgd-variant-of-model-of-widom-and.html' id='Blog1_blog-pager-older-link' title='Older Post'>Older Post</a>
+</span>
+<a class='home-link' href='https://matpitka.blogspot.com/'>Home</a>
+</div>
+<div class='clear'></div>
+<div class='post-feeds'>
+<div class='feed-links'>
+Subscribe to:
+<a class='feed-link' href='https://matpitka.blogspot.com/feeds/4763533786464384972/comments/default' target='_blank' type='application/atom+xml'>Post Comments (Atom)</a>
+</div>
+</div>
+</div></div>
+</div>
+</div>
+<div class='column-left-outer'>
+<div class='column-left-inner'>
+<aside>
+</aside>
+</div>
+</div>
+<div class='column-right-outer'>
+<div class='column-right-inner'>
+<aside>
+<div class='sidebar section' id='sidebar-right-1'><div class='widget PageList' data-version='1' id='PageList1'>
+<div class='widget-content'>
+<ul>
+<li>
+<a href='https://matpitka.blogspot.com/'>Home</a>
+</li>
+<li>
+<a href='https://www.facebook.com/matti.pitkanen.731'>Brief facebook postings about progress in TGD</a>
+</li>
+<li>
+<a href='http://www.tgdtheory.fi'>Homepage about TGD</a>
+</li>
+<li>
+<a href='http://www.tgdtheory.fi/books/tgdbooks.html'>13 online books about TGD</a>
+</li>
+<li>
+<a href='http://www.tgdtheory.fi/books/conscbooks.html'>11 online books about TGD inspired theory of consciousness and quantum biology</a>
+</li>
+<li>
+<a href='http://www.tgdtheory.fi/tgdarticlesall.html'>Articles about TGD</a>
+</li>
+<li>
+<a href='https://www.researchgate.net/profile/M_Pitkanen'>Material about TGD  in Research Gate </a>
+</li>
+</ul>
+<div class='clear'></div>
+</div>
+</div><div class='widget BlogArchive' data-version='1' id='BlogArchive1'>
+<h2>Blog Archive</h2>
+<div class='widget-content'>
+<div id='ArchiveList'>
+<div id='BlogArchive1_ArchiveList'>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2026/'>
+2026
+</a>
+<span class='post-count' dir='ltr'>(21)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2026/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(1)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2026/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(9)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2026/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(11)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2025/'>
+2025
+</a>
+<span class='post-count' dir='ltr'>(132)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2025/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2025/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(12)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2025/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(8)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2025/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(4)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2025/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(9)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2025/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(17)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2025/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(11)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2025/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2025/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(18)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2025/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(14)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2025/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2025/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2024/'>
+2024
+</a>
+<span class='post-count' dir='ltr'>(162)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2024/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(16)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2024/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(16)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2024/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2024/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(9)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2024/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(9)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2024/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(12)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2024/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2024/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(19)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2024/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(19)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2024/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(20)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2024/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(12)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2024/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(10)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2023/'>
+2023
+</a>
+<span class='post-count' dir='ltr'>(151)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2023/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(10)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2023/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(22)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2023/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(14)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2023/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(11)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2023/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(18)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2023/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(18)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2023/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2023/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(5)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2023/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(5)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2023/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(18)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2023/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(15)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2023/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(8)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2022/'>
+2022
+</a>
+<span class='post-count' dir='ltr'>(114)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2022/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(8)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2022/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2022/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(9)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2022/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(9)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2022/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2022/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(8)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2022/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2022/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(10)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2022/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(12)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2022/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(8)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2022/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(9)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2022/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(14)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2021/'>
+2021
+</a>
+<span class='post-count' dir='ltr'>(87)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2021/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(4)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2021/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(10)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2021/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(9)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2021/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(4)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2021/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2021/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(8)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2021/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2021/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2021/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(5)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2021/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(9)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2021/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2021/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2020/'>
+2020
+</a>
+<span class='post-count' dir='ltr'>(98)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2020/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2020/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(4)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2020/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2020/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(5)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2020/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2020/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(4)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2020/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(15)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2020/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(4)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2020/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(8)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2020/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2020/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(8)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2020/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(18)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2019/'>
+2019
+</a>
+<span class='post-count' dir='ltr'>(126)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2019/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(11)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2019/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(19)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2019/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(19)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2019/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(11)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2019/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2019/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(5)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2019/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2019/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2019/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(10)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2019/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(11)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2019/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(5)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2019/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(8)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2018/'>
+2018
+</a>
+<span class='post-count' dir='ltr'>(125)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2018/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(11)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2018/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2018/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(9)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2018/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(8)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2018/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2018/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(15)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2018/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(15)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2018/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(4)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2018/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(12)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2018/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2018/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(8)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2018/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(11)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2017/'>
+2017
+</a>
+<span class='post-count' dir='ltr'>(131)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2017/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(17)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2017/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(11)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2017/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2017/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2017/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(8)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2017/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(5)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2017/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(8)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2017/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(5)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2017/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(14)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2017/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(19)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2017/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(10)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2017/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(15)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2016/'>
+2016
+</a>
+<span class='post-count' dir='ltr'>(158)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2016/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(18)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2016/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(15)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2016/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(10)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2016/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(12)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2016/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(16)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2016/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(10)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2016/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2016/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(14)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2016/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(11)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2016/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2016/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(14)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2016/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(12)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2015/'>
+2015
+</a>
+<span class='post-count' dir='ltr'>(139)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2015/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(15)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2015/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(4)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2015/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2015/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(11)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2015/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(17)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2015/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2015/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(10)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2015/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(8)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2015/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(12)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2015/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(11)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2015/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(15)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2015/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(16)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2014/'>
+2014
+</a>
+<span class='post-count' dir='ltr'>(82)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2014/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(16)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2014/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(11)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2014/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(8)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2014/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2014/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(4)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2014/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(11)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2014/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2014/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2014/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(4)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2014/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(5)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2014/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(3)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2014/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(5)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate expanded'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy toggle-open'>
+
+        &#9660;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2013/'>
+2013
+</a>
+<span class='post-count' dir='ltr'>(66)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2013/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2013/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate expanded'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy toggle-open'>
+
+        &#9660;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2013/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(3)</span>
+<ul class='posts'>
+<li><a href='https://matpitka.blogspot.com/2013/10/no-susy-dark-matter.html'>No SUSY dark matter</a></li>
+<li><a href='https://matpitka.blogspot.com/2013/10/a-general-model-for-metabolism.html'>A general model for metabolism</a></li>
+<li><a href='https://matpitka.blogspot.com/2013/10/the-tgd-variant-of-model-of-widom-and.html'>The TGD variant of the model of Widom and Larsen f...</a></li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2013/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(9)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2013/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2013/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(4)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2013/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2013/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2013/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(4)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2013/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2013/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2013/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2012/'>
+2012
+</a>
+<span class='post-count' dir='ltr'>(140)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2012/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(12)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2012/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(8)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2012/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2012/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(9)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2012/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(16)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2012/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(17)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2012/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(10)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2012/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(14)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2012/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(10)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2012/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(12)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2012/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(11)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2012/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(15)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2011/'>
+2011
+</a>
+<span class='post-count' dir='ltr'>(148)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2011/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(15)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2011/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(20)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2011/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(19)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2011/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2011/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2011/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(10)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2011/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(14)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2011/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(11)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2011/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(9)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2011/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(8)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2011/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(12)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2011/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(11)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2010/'>
+2010
+</a>
+<span class='post-count' dir='ltr'>(66)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2010/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2010/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2010/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(11)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2010/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2010/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(5)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2010/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(3)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2010/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(3)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2010/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2010/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(5)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2010/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(4)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2010/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(4)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2010/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2009/'>
+2009
+</a>
+<span class='post-count' dir='ltr'>(84)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2009/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2009/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(9)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2009/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(10)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2009/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(8)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2009/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(8)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2009/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2009/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(5)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2009/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2009/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2009/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(10)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2009/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(5)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2008/'>
+2008
+</a>
+<span class='post-count' dir='ltr'>(95)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2008/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2008/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(9)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2008/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(10)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2008/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2008/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2008/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2008/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(8)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2008/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(5)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2008/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(4)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2008/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(10)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2008/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(18)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2008/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(9)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2007/'>
+2007
+</a>
+<span class='post-count' dir='ltr'>(156)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2007/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(17)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2007/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(11)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2007/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2007/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2007/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(13)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2007/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(18)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2007/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(24)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2007/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(15)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2007/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(17)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2007/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(11)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2007/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(4)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2007/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2006/'>
+2006
+</a>
+<span class='post-count' dir='ltr'>(73)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2006/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(6)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2006/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(3)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2006/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(10)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2006/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(5)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2006/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(9)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2006/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2006/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(7)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2006/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(10)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2006/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(3)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2006/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(3)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2006/01/'>
+January
+</a>
+<span class='post-count' dir='ltr'>(10)</span>
+</li>
+</ul>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2005/'>
+2005
+</a>
+<span class='post-count' dir='ltr'>(89)</span>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2005/12/'>
+December
+</a>
+<span class='post-count' dir='ltr'>(10)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2005/11/'>
+November
+</a>
+<span class='post-count' dir='ltr'>(5)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2005/10/'>
+October
+</a>
+<span class='post-count' dir='ltr'>(9)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2005/09/'>
+September
+</a>
+<span class='post-count' dir='ltr'>(5)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2005/08/'>
+August
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2005/07/'>
+July
+</a>
+<span class='post-count' dir='ltr'>(2)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2005/06/'>
+June
+</a>
+<span class='post-count' dir='ltr'>(8)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2005/05/'>
+May
+</a>
+<span class='post-count' dir='ltr'>(8)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2005/04/'>
+April
+</a>
+<span class='post-count' dir='ltr'>(11)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2005/03/'>
+March
+</a>
+<span class='post-count' dir='ltr'>(15)</span>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<a class='toggle' href='javascript:void(0)'>
+<span class='zippy'>
+
+        &#9658;&#160;
+      
+</span>
+</a>
+<a class='post-count-link' href='https://matpitka.blogspot.com/2005/02/'>
+February
+</a>
+<span class='post-count' dir='ltr'>(14)</span>
+</li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+<div class='clear'></div>
+</div>
+</div><div class='widget Profile' data-version='1' id='Profile1'>
+<h2>Contributors</h2>
+<div class='widget-content'>
+<ul>
+<li><a class='profile-name-link g-profile' href='https://www.blogger.com/profile/13512912323574611883' style='background-image: url(//www.blogger.com/img/logo-16.png);'>Matti Pitkänen</a></li>
+<li><a class='profile-name-link g-profile' href='https://www.blogger.com/profile/02878098583699829755' style='background-image: url(//www.blogger.com/img/logo-16.png);'>Sebastiaan</a></li>
+</ul>
+<div class='clear'></div>
+</div>
+</div></div>
+</aside>
+</div>
+</div>
+</div>
+<div style='clear: both'></div>
+<!-- columns -->
+</div>
+<!-- main -->
+</div>
+</div>
+<div class='main-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+<footer>
+<div class='footer-outer'>
+<div class='footer-cap-top cap-top'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+<div class='fauxborder-left footer-fauxborder-left'>
+<div class='fauxborder-right footer-fauxborder-right'></div>
+<div class='region-inner footer-inner'>
+<div class='foot no-items section' id='footer-1'></div>
+<table border='0' cellpadding='0' cellspacing='0' class='section-columns columns-2'>
+<tbody>
+<tr>
+<td class='first columns-cell'>
+<div class='foot no-items section' id='footer-2-1'></div>
+</td>
+<td class='columns-cell'>
+<div class='foot no-items section' id='footer-2-2'></div>
+</td>
+</tr>
+</tbody>
+</table>
+<!-- outside of the include in order to lock Attribution widget -->
+<div class='foot section' id='footer-3' name='Footer'><div class='widget Attribution' data-version='1' id='Attribution1'>
+<div class='widget-content' style='text-align: center;'>
+Powered by <a href='https://www.blogger.com' target='_blank'>Blogger</a>.
+</div>
+<div class='clear'></div>
+</div></div>
+</div>
+</div>
+<div class='footer-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</footer>
+<!-- content -->
+</div>
+</div>
+<div class='content-cap-bottom cap-bottom'>
+<div class='cap-left'></div>
+<div class='cap-right'></div>
+</div>
+</div>
+</div>
+<script type='text/javascript'>
+    window.setTimeout(function() {
+        document.body.className = document.body.className.replace('loading', '');
+      }, 10);
+  </script>
+<!--Omalla vastuullasi on ilmoittaa blogin lukijoille blogissa k\xe4ytett\xe4vist\xe4 ev\xe4steist\xe4 ja ker\xe4tt\xe4vist\xe4 tiedoista. Blogger laatii k\xe4ytt\xf6\xf6si perusilmoituksen, jota voit muokata tai jonka voit korvata omalla ilmoituksellasi. Katso lis\xe4tietoja osoitteesta http://www.blogger.com/go/cookiechoices.-->
+<script defer='' src='/js/cookienotice.js'></script>
+<script>
+    document.addEventListener('DOMContentLoaded', function(event) {
+      window.cookieChoices && cookieChoices.showCookieConsentBar && cookieChoices.showCookieConsentBar(
+          (window.cookieOptions && cookieOptions.msg) || 'T\xe4ll\xe4 sivustolla k\xe4ytet\xe4\xe4n Googlen ev\xe4steit\xe4 palveluiden toimittamiseen ja liikenteen analysoimiseen. IP-osoitteesi ja k\xe4ytt\xe4j\xe4agenttisi jaetaan Googlelle. Google saa my\xf6s suorituskyky\u2011 ja suojaustiedot, joiden avulla voidaan varmistaa laadukkaat palvelut, luoda k\xe4ytt\xe4j\xe4tilastoja, havaita v\xe4\xe4rink\xe4ytt\xf6\xe4 sek\xe4 reagoida siihen.',
+          (window.cookieOptions && cookieOptions.close) || 'Selv\xe4',
+          (window.cookieOptions && cookieOptions.learn) || 'Lis\xe4tietoja',
+          (window.cookieOptions && cookieOptions.link) || 'https://www.blogger.com/go/blogspot-cookies');
+    });
+  </script>
+
+<script type="text/javascript" src="https://www.blogger.com/static/v1/widgets/432983155-widgets.js"></script>
+<script type='text/javascript'>
+window['__wavt'] = 'AOuZoY5uqOOIKc4qCv-QvOoQuqujzPw-Tw:1772895058403';_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d10614348','//matpitka.blogspot.com/2013/10/a-general-model-for-metabolism.html','10614348');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '10614348', 'title': 'TGD diary', 'url': 'https://matpitka.blogspot.com/2013/10/a-general-model-for-metabolism.html', 'canonicalUrl': 'https://matpitka.blogspot.com/2013/10/a-general-model-for-metabolism.html', 'homepageUrl': 'https://matpitka.blogspot.com/', 'searchUrl': 'https://matpitka.blogspot.com/search', 'canonicalHomepageUrl': 'https://matpitka.blogspot.com/', 'blogspotFaviconUrl': 'https://matpitka.blogspot.com/favicon.ico', 'bloggerUrl': 'https://www.blogger.com', 'hasCustomDomain': false, 'httpsEnabled': true, 'enabledCommentProfileImages': true, 'gPlusViewType': 'FILTERED_POSTMOD', 'adultContent': false, 'analyticsAccountNumber': '', 'encoding': 'UTF-8', 'locale': 'en', 'localeUnderscoreDelimited': 'en', 'languageDirection': 'ltr', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'isDynamicViewsAvailable': true, 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22TGD diary - Atom\x22 href\x3d\x22https://matpitka.blogspot.com/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22TGD diary - RSS\x22 href\x3d\x22https://matpitka.blogspot.com/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22TGD diary - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/10614348/posts/default\x22 /\x3e\n\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22TGD diary - Atom\x22 href\x3d\x22https://matpitka.blogspot.com/feeds/4763533786464384972/comments/default\x22 /\x3e\n', 'meTag': '', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'adsenseHasAds': false, 'adsenseAutoAds': false, 'boqCommentIframeForm': true, 'loginRedirectParam': '', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/b4ec9ed16a3249cf', 'plusOneApiSrc': 'https://apis.google.com/js/platform.js', 'disableGComments': true, 'interstitialAccepted': false, 'sharing': {'platforms': [{'name': 'Get link', 'key': 'link', 'shareMessage': 'Get link', 'target': ''}, {'name': 'Facebook', 'key': 'facebook', 'shareMessage': 'Share to Facebook', 'target': 'facebook'}, {'name': 'BlogThis!', 'key': 'blogThis', 'shareMessage': 'BlogThis!', 'target': 'blog'}, {'name': 'X', 'key': 'twitter', 'shareMessage': 'Share to X', 'target': 'twitter'}, {'name': 'Pinterest', 'key': 'pinterest', 'shareMessage': 'Share to Pinterest', 'target': 'pinterest'}, {'name': 'Email', 'key': 'email', 'shareMessage': 'Email', 'target': 'email'}], 'disableGooglePlus': true, 'googlePlusShareButtonWidth': 0, 'googlePlusBootstrap': '\x3cscript type\x3d\x22text/javascript\x22\x3ewindow.___gcfg \x3d {\x27lang\x27: \x27en\x27};\x3c/script\x3e'}, 'hasCustomJumpLinkMessage': false, 'jumpLinkMessage': 'Read more', 'pageType': 'item', 'postId': '4763533786464384972', 'pageName': ' A general model for metabolism', 'pageTitle': 'TGD diary:  A general model for metabolism', 'metaDescription': ''}}, {'name': 'features', 'data': {}}, {'name': 'messages', 'data': {'edit': 'Edit', 'linkCopiedToClipboard': 'Link copied to clipboard!', 'ok': 'Ok', 'postLink': 'Post Link'}}, {'name': 'template', 'data': {'name': 'custom', 'localizedName': 'Custom', 'isResponsive': false, 'isAlternateRendering': false, 'isCustom': true}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'isMobile': false, 'title': ' A general model for metabolism', 'description': '', 'url': 'https://matpitka.blogspot.com/2013/10/a-general-model-for-metabolism.html', 'type': 'item', 'isSingleItem': true, 'isMultipleItems': false, 'isError': false, 'isPage': false, 'isPost': true, 'isHomepage': false, 'isArchive': false, 'isLabelSearch': false, 'postId': 4763533786464384972}}]);
+_WidgetManager._RegisterWidget('_NavbarView', new _WidgetInfo('Navbar1', 'navbar', document.getElementById('Navbar1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'header', document.getElementById('Header1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'lightboxEnabled': true, 'lightboxModuleUrl': 'https://www.blogger.com/static/v1/jsbin/482998109-lbx.js', 'lightboxCssUrl': 'https://www.blogger.com/static/v1/v-css/828616780-lightbox_bundle.css'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_PageListView', new _WidgetInfo('PageList1', 'sidebar-right-1', document.getElementById('PageList1'), {'title': '', 'links': [{'isCurrentPage': false, 'href': 'https://matpitka.blogspot.com/', 'title': 'Home'}, {'isCurrentPage': false, 'href': 'https://www.facebook.com/matti.pitkanen.731', 'title': 'Brief facebook postings about progress in TGD'}, {'isCurrentPage': false, 'href': 'http://www.tgdtheory.fi', 'title': 'Homepage about TGD'}, {'isCurrentPage': false, 'href': 'http://www.tgdtheory.fi/books/tgdbooks.html', 'title': '13 online books about TGD'}, {'isCurrentPage': false, 'href': 'http://www.tgdtheory.fi/books/conscbooks.html', 'title': '11 online books about TGD inspired theory of consciousness and quantum biology'}, {'isCurrentPage': false, 'href': 'http://www.tgdtheory.fi/tgdarticlesall.html', 'title': 'Articles about TGD'}, {'isCurrentPage': false, 'href': 'https://www.researchgate.net/profile/M_Pitkanen', 'title': 'Material about TGD  in Research Gate '}], 'mobile': false, 'showPlaceholder': true, 'hasCurrentPage': false}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogArchiveView', new _WidgetInfo('BlogArchive1', 'sidebar-right-1', document.getElementById('BlogArchive1'), {'languageDirection': 'ltr', 'loadingMessage': 'Loading\x26hellip;'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_ProfileView', new _WidgetInfo('Profile1', 'sidebar-right-1', document.getElementById('Profile1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_AttributionView', new _WidgetInfo('Attribution1', 'footer-3', document.getElementById('Attribution1'), {}, 'displayModeFull'));
+</script>
+</body>
+</html>
