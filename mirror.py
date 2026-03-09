@@ -1117,109 +1117,7 @@ def run_status(domain, output_base=None):
     print(f"\nActual files on disk: {file_count}")
 
 
-# ── 17b. Dropbox mode ─────────────────────────────────────────────────────
-
-def extract_dropbox_id(url):
-    """Extract folder/file ID from a Dropbox shared URL."""
-    # https://www.dropbox.com/scl/fo/FOLDER_ID/...
-    m = re.search(r'dropbox\.com/scl/fo/([a-zA-Z0-9_-]+)', url)
-    if m:
-        return m.group(1), 'folder'
-    # https://www.dropbox.com/scl/fi/FILE_ID/...
-    m = re.search(r'dropbox\.com/scl/fi/([a-zA-Z0-9_-]+)', url)
-    if m:
-        return m.group(1), 'file'
-    # Legacy: https://www.dropbox.com/sh/HASH/...
-    m = re.search(r'dropbox\.com/sh/([a-zA-Z0-9_-]+)', url)
-    if m:
-        return m.group(1), 'folder'
-    # Legacy: https://www.dropbox.com/s/HASH/filename
-    m = re.search(r'dropbox\.com/s/([a-zA-Z0-9_-]+)', url)
-    if m:
-        return m.group(1), 'file'
-    return None, None
-
-
-def run_dropbox(url, output_base=None, label=None):
-    """Download a Dropbox shared folder or file."""
-    dropbox_id, item_type = extract_dropbox_id(url)
-    if not dropbox_id:
-        log(f"ERROR: Could not extract Dropbox ID from: {url}")
-        sys.exit(1)
-
-    domain = label if label else f"dropbox-{dropbox_id}"
-    base = output_base or ARCHIVE_DIR
-    output_dir = os.path.join(base, domain)
-    os.makedirs(output_dir, exist_ok=True)
-
-    log(f"Dropbox download: {item_type} {dropbox_id}")
-    log(f"Output: {output_dir}")
-
-    # Force direct download: set dl=1
-    # Remove existing dl= parameter and add dl=1
-    dl_url = re.sub(r'[?&]dl=[01]', '', url)
-    separator = '&' if '?' in dl_url else '?'
-    dl_url = f"{dl_url}{separator}dl=1"
-
-    zip_path = os.path.join(output_dir, '_dropbox_download.zip')
-
-    # Download with curl
-    cmd = [
-        'curl', '-L', '-o', zip_path,
-        '--max-time', '3600',
-        '--retry', '3',
-        '--retry-delay', '5',
-        '-#',  # progress bar
-        dl_url,
-    ]
-    log(f"Running: curl -L -o {zip_path} ... (URL truncated)")
-
-    result = subprocess.run(cmd, capture_output=False)
-    if result.returncode != 0:
-        log(f"ERROR: curl exited with code {result.returncode}")
-        sys.exit(1)
-
-    # Check if we got a ZIP file
-    if not os.path.isfile(zip_path) or os.path.getsize(zip_path) < 100:
-        log("ERROR: Download too small or missing — may need authentication")
-        sys.exit(1)
-
-    # Check if it's actually a ZIP
-    with open(zip_path, 'rb') as f:
-        magic = f.read(4)
-
-    if magic[:2] == b'PK':
-        # It's a ZIP — extract it
-        log(f"Extracting ZIP ({os.path.getsize(zip_path)} bytes)...")
-        import zipfile
-        with zipfile.ZipFile(zip_path, 'r') as zf:
-            zf.extractall(output_dir)
-        os.remove(zip_path)
-        log("ZIP extracted and removed.")
-    else:
-        # Single file download (not zipped) — rename from .zip
-        # Try to figure out the real filename from content-disposition or URL
-        log("Download is not a ZIP — keeping as single file.")
-        # Try to extract filename from URL
-        from urllib.parse import urlparse, unquote
-        parsed = urlparse(url)
-        path_parts = parsed.path.rstrip('/').split('/')
-        if path_parts:
-            real_name = unquote(path_parts[-1])
-            if real_name and real_name != dropbox_id:
-                real_path = os.path.join(output_dir, real_name)
-                os.rename(zip_path, real_path)
-                log(f"Saved as: {real_name}")
-            else:
-                log(f"Saved as: _dropbox_download.zip (could not determine filename)")
-
-    # Generate index
-    generate_index(output_dir, domain, source='dropbox.com')
-
-    log(f"Done: {domain}")
-
-
-# ── 17c. Google Drive mode ────────────────────────────────────────────────
+# ── 17b. Google Drive mode ────────────────────────────────────────────────
 
 def extract_gdrive_id(url):
     """Extract file/folder ID from a Google Drive URL."""
@@ -1332,10 +1230,6 @@ def auto_detect(arg):
     if 'drive.google.com' in arg:
         return 'gdrive', {'url': arg}
 
-    # Dropbox URL -> dropbox
-    if 'dropbox.com' in arg:
-        return 'dropbox', {'url': arg}
-
     # Bare domain (no protocol, has a dot, no slashes)
     if '/' not in arg and '.' in arg and not arg.startswith('http'):
         return 'wayback', {'domain': arg}
@@ -1349,7 +1243,7 @@ def auto_detect(arg):
 
 def main():
     # ── Smart auto-detect: if first arg isn't a subcommand, figure it out ──
-    subcommands = {'wayback', 'live', 'gdrive', 'dropbox', 'status'}
+    subcommands = {'wayback', 'live', 'gdrive', 'status'}
     if len(sys.argv) > 1 and sys.argv[1] not in subcommands and sys.argv[1] not in ('-h', '--help'):
         first = sys.argv[1]
         mode, info = auto_detect(first)
@@ -1366,9 +1260,6 @@ def main():
         elif mode == 'gdrive':
             new_argv = [sys.argv[0], 'gdrive', info['url']] + sys.argv[2:]
             sys.argv = new_argv
-        elif mode == 'dropbox':
-            new_argv = [sys.argv[0], 'dropbox', info['url']] + sys.argv[2:]
-            sys.argv = new_argv
         # else: fall through to argparse which will show usage
 
     parser = argparse.ArgumentParser(
@@ -1380,7 +1271,6 @@ def main():
   %(prog)s wayback cheniere.org --from 20200101 --to 20221231
   %(prog)s live https://example.com --delay 0.5
   %(prog)s gdrive https://drive.google.com/drive/folders/FOLDER_ID
-  %(prog)s dropbox https://www.dropbox.com/scl/fo/FOLDER_ID/...
   %(prog)s status riess.org
 
 Smart mode (auto-detects):
@@ -1388,7 +1278,6 @@ Smart mode (auto-detects):
   %(prog)s https://example.com                -> live https://example.com
   %(prog)s https://web.archive.org/web/2022/https://foo.org/  -> wayback foo.org
   %(prog)s https://drive.google.com/drive/folders/ID  -> gdrive
-  %(prog)s https://www.dropbox.com/scl/fo/ID/...     -> dropbox
 """,
     )
     parser.add_argument('--version', action='version', version=f'%(prog)s {VERSION}')
@@ -1420,12 +1309,6 @@ Smart mode (auto-detects):
     gd.add_argument('--label', help='Custom directory name (instead of gdrive-ID)')
     gd.add_argument('--output-dir', dest='output_dir', help='Override output base directory')
 
-    # dropbox
-    db = sub.add_parser('dropbox', help='Download from Dropbox shared link')
-    db.add_argument('url', help='Dropbox shared folder or file URL')
-    db.add_argument('--label', help='Custom directory name (instead of dropbox-ID)')
-    db.add_argument('--output-dir', dest='output_dir', help='Override output base directory')
-
     # status
     st = sub.add_parser('status', help='Show mirror progress')
     st.add_argument('domain', help='Domain to check')
@@ -1445,8 +1328,6 @@ Smart mode (auto-detects):
                  max_pages=args.max_pages, output_base=output_base)
     elif args.mode == 'gdrive':
         run_gdrive(args.url, output_base=output_base, label=getattr(args, 'label', None))
-    elif args.mode == 'dropbox':
-        run_dropbox(args.url, output_base=output_base, label=getattr(args, 'label', None))
     elif args.mode == 'status':
         run_status(args.domain, output_base=output_base)
 
