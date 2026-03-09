@@ -17,7 +17,9 @@ import re
 import sys
 import json
 import time
+import shutil
 import argparse
+import subprocess
 import urllib.request
 import urllib.parse
 from datetime import datetime
@@ -1115,6 +1117,81 @@ def run_status(domain, output_base=None):
     print(f"\nActual files on disk: {file_count}")
 
 
+# ── 17b. Google Drive mode ────────────────────────────────────────────────
+
+def extract_gdrive_id(url):
+    """Extract file/folder ID from a Google Drive URL."""
+    # https://drive.google.com/drive/folders/FOLDER_ID
+    m = re.search(r'drive\.google\.com/drive/folders/([a-zA-Z0-9_-]+)', url)
+    if m:
+        return m.group(1), 'folder'
+    # https://drive.google.com/file/d/FILE_ID
+    m = re.search(r'drive\.google\.com/file/d/([a-zA-Z0-9_-]+)', url)
+    if m:
+        return m.group(1), 'file'
+    # https://drive.google.com/open?id=ID
+    m = re.search(r'drive\.google\.com.*[?&]id=([a-zA-Z0-9_-]+)', url)
+    if m:
+        return m.group(1), 'file'
+    return None, None
+
+
+def find_gdown():
+    """Find gdown executable."""
+    gdown_path = shutil.which('gdown')
+    if gdown_path:
+        return gdown_path
+    # Common pipx location
+    candidates = [
+        os.path.expanduser('~/.local/bin/gdown'),
+        '/opt/homebrew/bin/gdown',
+    ]
+    for c in candidates:
+        if os.path.isfile(c) and os.access(c, os.X_OK):
+            return c
+    return None
+
+
+def run_gdrive(url, output_base=None, label=None):
+    """Download a Google Drive file or folder using gdown."""
+    gdown_path = find_gdown()
+    if not gdown_path:
+        log("ERROR: gdown not found. Install with: pipx install gdown")
+        sys.exit(1)
+
+    gdrive_id, item_type = extract_gdrive_id(url)
+    if not gdrive_id:
+        log(f"ERROR: Could not extract Google Drive ID from: {url}")
+        sys.exit(1)
+
+    domain = label if label else f"gdrive-{gdrive_id}"
+    base = output_base or ARCHIVE_DIR
+    output_dir = os.path.join(base, domain)
+    os.makedirs(output_dir, exist_ok=True)
+
+    log(f"Google Drive download: {item_type} {gdrive_id}")
+    log(f"Output: {output_dir}")
+
+    # Build gdown command
+    cmd = [gdown_path, url, '-O', output_dir + '/', '--fuzzy', '--continue']
+    if item_type == 'folder':
+        cmd.append('--folder')
+        # --remaining-ok: don't fail if some files can't be downloaded
+        cmd.append('--remaining-ok')
+
+    log(f"Running: {' '.join(cmd)}")
+
+    result = subprocess.run(cmd, capture_output=False)
+
+    if result.returncode != 0:
+        log(f"WARNING: gdown exited with code {result.returncode}")
+
+    # Generate index
+    generate_index(output_dir, domain, source='drive.google.com')
+
+    log(f"Done: {domain}")
+
+
 # ── 18. CLI ─────────────────────────────────────────────────────────────────
 
 def parse_wayback_url(url):
@@ -1149,6 +1226,10 @@ def auto_detect(arg):
             return 'wayback', {'domain': domain, 'ts_from': ts[:8] if ts else None}
         return None, {}
 
+    # Google Drive URL -> gdrive
+    if 'drive.google.com' in arg:
+        return 'gdrive', {'url': arg}
+
     # Bare domain (no protocol, has a dot, no slashes)
     if '/' not in arg and '.' in arg and not arg.startswith('http'):
         return 'wayback', {'domain': arg}
@@ -1162,7 +1243,7 @@ def auto_detect(arg):
 
 def main():
     # ── Smart auto-detect: if first arg isn't a subcommand, figure it out ──
-    subcommands = {'wayback', 'live', 'status'}
+    subcommands = {'wayback', 'live', 'gdrive', 'status'}
     if len(sys.argv) > 1 and sys.argv[1] not in subcommands and sys.argv[1] not in ('-h', '--help'):
         first = sys.argv[1]
         mode, info = auto_detect(first)
@@ -1176,6 +1257,9 @@ def main():
         elif mode == 'live':
             new_argv = [sys.argv[0], 'live', info['url']] + sys.argv[2:]
             sys.argv = new_argv
+        elif mode == 'gdrive':
+            new_argv = [sys.argv[0], 'gdrive', info['url']] + sys.argv[2:]
+            sys.argv = new_argv
         # else: fall through to argparse which will show usage
 
     parser = argparse.ArgumentParser(
@@ -1186,12 +1270,14 @@ def main():
   %(prog)s wayback riess.org --resume
   %(prog)s wayback cheniere.org --from 20200101 --to 20221231
   %(prog)s live https://example.com --delay 0.5
+  %(prog)s gdrive https://drive.google.com/drive/folders/FOLDER_ID
   %(prog)s status riess.org
 
 Smart mode (auto-detects):
   %(prog)s riess.org                          -> wayback riess.org
   %(prog)s https://example.com                -> live https://example.com
   %(prog)s https://web.archive.org/web/2022/https://foo.org/  -> wayback foo.org
+  %(prog)s https://drive.google.com/drive/folders/ID  -> gdrive
 """,
     )
     parser.add_argument('--version', action='version', version=f'%(prog)s {VERSION}')
@@ -1217,6 +1303,12 @@ Smart mode (auto-detects):
     lv.add_argument('--max-pages', type=int, help=f'Max pages to crawl for link discovery (default: {MAX_DISCOVER_PAGES})')
     lv.add_argument('--output-dir', dest='output_dir', help='Override output base directory')
 
+    # gdrive
+    gd = sub.add_parser('gdrive', help='Download from Google Drive')
+    gd.add_argument('url', help='Google Drive folder or file URL')
+    gd.add_argument('--label', help='Custom directory name (instead of gdrive-ID)')
+    gd.add_argument('--output-dir', dest='output_dir', help='Override output base directory')
+
     # status
     st = sub.add_parser('status', help='Show mirror progress')
     st.add_argument('domain', help='Domain to check')
@@ -1234,6 +1326,8 @@ Smart mode (auto-detects):
     elif args.mode == 'live':
         run_live(args.url, seeds_file=args.seeds, delay=args.delay,
                  max_pages=args.max_pages, output_base=output_base)
+    elif args.mode == 'gdrive':
+        run_gdrive(args.url, output_base=output_base, label=getattr(args, 'label', None))
     elif args.mode == 'status':
         run_status(args.domain, output_base=output_base)
 

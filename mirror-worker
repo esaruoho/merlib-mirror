@@ -140,12 +140,13 @@ process_job_file() {
   filename="$(basename "$job_file")"
 
   # Extract fields from the .job file
-  local target domain mode path_filter ts_to
+  local target domain mode path_filter ts_to label
   target="$(grep '^target:' "$job_file" | head -1 | sed 's/^target: *//')"
   domain="$(grep '^domain:' "$job_file" | head -1 | sed 's/^domain: *//')"
   mode="$(grep '^mode:' "$job_file" | head -1 | sed 's/^mode: *//')"
   path_filter="$(grep '^path_filter:' "$job_file" | head -1 | sed 's/^path_filter: *//' || true)"
   ts_to="$(grep '^ts_to:' "$job_file" | head -1 | sed 's/^ts_to: *//' || true)"
+  label="$(grep '^label:' "$job_file" | head -1 | sed 's/^label: *//' || true)"
 
   if [[ -z "$domain" || -z "$mode" ]]; then
     log "ERROR: Missing domain or mode in $filename"
@@ -178,6 +179,11 @@ process_job_file() {
     fi
   elif [[ "$mode" == "live" ]]; then
     mirror_args=(live "$target" --output-dir "$SITES_DIR")
+  elif [[ "$mode" == "gdrive" ]]; then
+    mirror_args=(gdrive "$target" --output-dir "$SITES_DIR")
+    if [[ -n "$label" ]]; then
+      mirror_args+=(--label "$label")
+    fi
   else
     log "ERROR: Unknown mode '$mode'"
     mv "$PROCESSING_DIR/$filename" "$FAILED_DIR/$filename"
