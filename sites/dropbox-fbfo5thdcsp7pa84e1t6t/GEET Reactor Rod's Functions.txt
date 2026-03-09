@@ -1,0 +1,23 @@
+The GEET Reactor Rod or Bullet Rod has these main functions:
+
+1. Work as a venturi so it can raise the vacuum on the intake side of the reactor all the way to the vapors by narrowing the opening the vapors travel into.
+
+2. It's meant to be a thermoelectric effect enabler.
+
+3. It's meant to speed up the vapor air mixture so they speed up to spiral around it.
+
+4. Help invoke a strong wind effect due to the vapors traveling around the rod in one direction, the hot exhaust traveling down the opposite direction around the intake pipe, copying how twisters, hurricanes, and tornadoes work, making a high wind in the middle pipe due to the colliding of hot and cold fluids, making strong enough windiness to lift that rod so it can hover and spin, similarly to how tornadoes, twisters, hurricanes, and funnel clouds can grab and fling around objects.
+
+5. Amplify shear stress on the fluids, making spiral and rub along the surface of the reactor rod and the inner wall of the intake pipe of the fuel reactor.
+
+6. Serve as a means to enable Electrostatic Discharge to spark around it as electrical current under vacuum.
+
+7. Due to Faraday's Law, induce Electromagnetic Induction on the reactor rod due to the sparking electrical current surrounding it, THEN through Lenz's Law, induce Counter Electromagnetic Inductions and the respective Electromotive Forces or EMFs proper.
+
+8. Act as a heat accumulator for extracting heat and kinetic energies out of the exhaust.
+
+9. The Rod acts as a thermoelectric generator using the exhaust heat.
+
+10. Helps the GEET reactor absorb ions that naturally will occure in internal combustion engine exhaust, which is why if you are NOT using something like this, you're recommended to electrically ground the exhaust every so many feet to make it flow faster, the ions would slow down the flow of exhaust gases in normal engines NOT modified with this technology.
+
+

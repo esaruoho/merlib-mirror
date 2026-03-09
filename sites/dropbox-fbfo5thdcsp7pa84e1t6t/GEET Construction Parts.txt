@@ -1,0 +1,64 @@
+Fuel Processor
+1 - 15.6 inch x ½ inch Black Iron, Duplex Steel, or Ferritic Stainless Steel Pipe - (Cut + Threaded)
+1 - 12" x 1" Black Iron, Duplex Steel, or Ferritic Stainless Steel Pipe (painted)
+1 - 12" x 1/2" Steel, Ferritic Stainless Steel or Alnico Rod
+2 - 1" x 1/2" x 1/2" Black Iron or Ferritic Stainless Steel Reducing Tees (Ward -  best)
+2 - 22mm / 7/8" Copper Oil Drain Plug Washers
+1 - 2" x 1/2" Galvanized or Black Iron Pipe Nipple
+1 - 1/2" Galvanized Pipe Connector
+1 - 1" Galvanized Pipe Hangar with Bolt & Nuts
+3 - 1 1/2" x 1/2" Galvanized, Black Iron, Duplex Steel, or Ferritic Stainless Steel Pipe Nipples
+1 - 3" x 1/2" Galvanized, Black Iron, Duplex Steel, or Ferritic Stainless Steel Pipe Nipple
+3 - 1/2" NPT Ball Valves (B&K - best)
+1 - 1/2" Galvanized, Black Iron, Duplex Steel, or Ferritic Stainless Steel NPT Muffler
+2 - 1/2" Galvanized, Black Iron, Duplex Steel, or Ferritic Stainless Steel Pipe Tees
+2 - 1/2" x 1/4" Galvanized, Black Iron, Duplex Steel, or Ferritic Stainless Steel Pipe Reducing Bushings
+1 - Can Hi-Temp Grill Paint
+27" - ½" Copper Tubing (* 5/8")
+2 - ½’’ to 5/8’’ NPT Brass Male Flare Fitting    (* 5/8")
+2 - ½" Brass Flare Nuts (* 5/8")
+
+
+
+
+
+4 - 1/2" Galvanized Hose Clamps
+6' - 1/2" ID Clear Vinyl Hose - (cut in half)
+2 - 3" x ¼" Galvanized Pipe Nipples - (cut in half)
+4 - 9/16" Galvanized Bushing Washers - (1/8" thick)
+1 - ¼" Galvanized Pipe Elbow
+2 - ¾" x ¼" Galvanized Pipe Nipples
+1 - ¼" Galvanized Pipe Connector
+1 - 10 ¾" x ½" Copper Water Pipe
+1 - ½" Copper Pipe Cap
+2 - ½" x ¼" NPT Copper Pipe Adapters
+
+
+Step 1 - Tools needed - pipe wrench, crescent wrench, spring tube benders, pipe cutter, pipe flaring tool, allen wrench, soldering equipment, file, and screw driver. Obtain all your parts and tools needed for the conversion ahead of time.
+
+Most professional plumbing supply stores stock higher quality parts compared to large home centers cheap plumbing parts. The savings aren't that much on a small project like this. The most crucial quality part is on the inner pipe, problems arise from inconsistent wall thickness, out of roundness, thick weld seams, etc on low quality pipe.
+
+Step 2 - Strip down the engine removing the gas tank, muffler, and carburetor. Remove the mower blade and replace with a 12" diameter steel disk flywheel of the same thickness as the blade for safety.
+
+Step 3 - Take the 1"x1/2"x1/2" reducing tees and mount them on a 1" nipple (short pipe), and then using a lathe, machine the end smooth and fly cut (bore out) the hole in the end 27/32" (21mm) so that the 1/2" inner pipe will slide inside. This procedure can also be done by using a drill press to drill a 27/32" or 7/8" hole in the end of the tee and then use a file to smooth the roughness off.
+
+The 1/2" pipe connector and 1/2" tee will each need to have one end smoothed off as well to receive the copper washers as a tight seal. If anyone has a machine shop that would like to do this for others, contact GEET. We might also offer a complete kit that has all the parts ready to be assembled in minutes if there's enough interest.
+
+Step 4 - Have a plumber or plumbing center cut your inner reactor 1/2" pipe to 16 + 7/16" and thread both ends. Use Black Pipe here because galvanized pipe gives off toxic fumes if heated too much. File the 12" x 1/2" multi-fuel steel rod to a bullet point on one end only. (7 + 3/8" x 1/2" for gasoline only) This will keep you out of trouble later if you can't remember which way the rod points. The engine will not run if the rod is put in backwards after it has a magnetic signature.
+
+Assemble the parts in order as in the above picture using the 7/8" / 22mm copper.washers used in oil drain plugs for cars. (2 - 1"x1/2"x1/2" machined reducing tees joined by the 12" long 1" nipple, slide the 16 + 7/16" long 1/2" reactor pipe inside, add a copper washer on each end and then add the 1/2" connector and 1/2" tee.)
+
+Step 5 - Assemble the other valve component subassemblies above. The 1/2" thick steel intake / exhaust adapter plate above is used only on some engines like "Tecumseh" and Overhead Valve Engines (picture 9).
+
+Some "Briggs and Stratton" engines, etc usually already have the exhaust threaded for 1/2" pipe, but the intake is on the other side of the engine causing longer hose runs. Also a compression pipe connector or a piece of rubber hose with clamps will need to be connected from the engine intake to the Bubbler pipe.
+
+(1/2" valve (Air Mixture Valve), 1 1/2" x 1/2" nipple, 1/2" tee, 1 1/2" x 1/2" nipple, 1/2" valve (Throttle Valve), 1/2" to 1/4" pipe reducer bushing, half of 3" x 1/4" nipple.) and (Muffler, 1/2" ball valve (Optional - Back pressure valve), 3"  x 1/2" nipple, 1/2" tee, 1/2" to 1/4" pipe reducer bushing, half of 3" x 1/4" nipple, 1 1/2" nipple.)
+
+Step 6 - Assemble the sub-assemblies onto the reaction chamber above making sure to install the 12" rod inside pointed away from the engine.
+
+If you choose to use a modified carburetor instead of a bubbler, you will need to decide where to put it and how to connect the necessary lines for fuel in and Air-Fuel mixture out. You will be using the float bowl system on it to control the fuel flow from the tank so the fuel tank MUST be higher than the carburetor.
+
+A Simple Mounting Bracket can be built from the appropriate size "angle iron. Flat steel or stainless steel may also be used, depending on how you decide to mount it. Use bolts and locking nuts to connect the carburetor (also use a gasket) to the bracket. On the other side of the bracket weld a 1/2" x 1-1/2 - 2" NPT Steel Nipple for fuel-air mixing and connecting to your 1/2" tubing which goes to the reaction chamber.
+
+Before you screw the brass fitting on the end of the nipple, place a small piece of 35 or 40 mesh brass or stainless steel screen made into a cone inside the fitting on the end of the nipple, place a small piece of the brass screen inside the fitting so it covers the opening (make sure it stays secure). This is a safety precaution in case the engine should backfire and it will allow the fuel droplets to be mush smaller as it can vaporize better under the high vacuum. Once you've secured the completed unit to your engine, connect the tubing from the carburetor to the reaction chamber.
+
