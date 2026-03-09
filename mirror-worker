@@ -184,6 +184,11 @@ process_job_file() {
     if [[ -n "$label" ]]; then
       mirror_args+=(--label "$label")
     fi
+  elif [[ "$mode" == "dropbox" ]]; then
+    mirror_args=(dropbox "$target" --output-dir "$SITES_DIR")
+    if [[ -n "$label" ]]; then
+      mirror_args+=(--label "$label")
+    fi
   else
     log "ERROR: Unknown mode '$mode'"
     mv "$PROCESSING_DIR/$filename" "$FAILED_DIR/$filename"
