@@ -11,17 +11,21 @@ MERLib Mirror — Mirroring the Internet's Modern Energy Research into a Library
 Usage:
   mirror-submit DOMAIN                # Mirror domain via Wayback Machine
   mirror-submit URL                   # Auto-detect mode (wayback or live)
+  mirror-submit GDRIVE_URL            # Download Google Drive folder/file
   mirror-submit --no-push TARGET      # Queue locally without git push
   mirror-submit status                # Show queue status
 
 Options:
   --no-push         Skip git commit+push (for bot use)
+  --label NAME      Custom directory name (for gdrive, replaces gdrive-ID)
   -h, --help        Show this help
 
 Examples:
   mirror-submit riess.org
   mirror-submit https://web.archive.org/web/2022/https://cheniere.org/
   mirror-submit https://some-live-site.org
+  mirror-submit https://drive.google.com/drive/folders/FOLDER_ID
+  mirror-submit --label don-smith-papers https://drive.google.com/drive/folders/FOLDER_ID
 EOF
   exit 0
 }
@@ -35,6 +39,20 @@ extract_domain() {
     # Strip www.
     d="${d#www.}"
     echo "$d"
+    return 0
+  fi
+
+  # Google Drive URL → extract folder/file ID as "domain"
+  if [[ "$input" =~ drive\.google\.com/drive/folders/([a-zA-Z0-9_-]+) ]]; then
+    echo "gdrive-${BASH_REMATCH[1]}"
+    return 0
+  fi
+  if [[ "$input" =~ drive\.google\.com/file/d/([a-zA-Z0-9_-]+) ]]; then
+    echo "gdrive-${BASH_REMATCH[1]}"
+    return 0
+  fi
+  if [[ "$input" =~ drive\.google\.com.*[?&]id=([a-zA-Z0-9_-]+) ]]; then
+    echo "gdrive-${BASH_REMATCH[1]}"
     return 0
   fi
 
@@ -125,6 +143,12 @@ detect_mode() {
     return
   fi
 
+  # Google Drive URL → gdrive mode
+  if [[ "$input" =~ drive\.google\.com ]]; then
+    echo "gdrive"
+    return
+  fi
+
   # Bare domain or domain/path → wayback mode
   if [[ "$input" == *.* && ! "$input" =~ ^https?:// ]]; then
     echo "wayback"
@@ -164,12 +188,15 @@ queue_job() {
 
   local ts_to="$5"
 
+  local label="$6"
+
   cat > "$filepath" <<JOBEOF
 target: $target
 domain: $domain
 mode: $mode
 path_filter: $path_filter
 ts_to: $ts_to
+label: $label
 submitted: $(date -u +%Y-%m-%dT%H:%M:%SZ)
 submitted_from: $(hostname -s)
 JOBEOF
@@ -219,6 +246,7 @@ show_status() {
 # --- Parse arguments ---
 
 DO_PUSH=true
+LABEL=""
 TARGETS=()
 
 while [[ $# -gt 0 ]]; do
@@ -226,6 +254,10 @@ while [[ $# -gt 0 ]]; do
     --no-push)
       DO_PUSH=false
       shift
+      ;;
+    --label)
+      LABEL="$2"
+      shift 2
       ;;
     -h|--help) usage ;;
     status)
@@ -264,10 +296,15 @@ for target in "${TARGETS[@]}"; do
     continue
   fi
 
+  # --label overrides the domain (directory name) for gdrive jobs
+  if [[ -n "$LABEL" && "$mode" == "gdrive" ]]; then
+    domain="$LABEL"
+  fi
+
   path_filter="$(extract_path_filter "$target" "$domain")"
   ts_to="$(extract_wayback_timestamp "$target")"
 
-  if queue_job "$target" "$domain" "$mode" "$path_filter" "$ts_to"; then
+  if queue_job "$target" "$domain" "$mode" "$path_filter" "$ts_to" "$LABEL"; then
     ((queued++)) || true
   fi
 done
