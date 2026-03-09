@@ -1,0 +1,25 @@
+As a byproduct of my research into T. Henry Moray's and Nikola Tesla's researches into Radiant Energy, I've theorized a means to harness Ambient EM rays, mainly Radio, Microwave, and Cosmic Microwave Background(CMB) should enough be detected by an antenna and convert it to useful electricity and that electricity could power an on-board plasma assisted fuel reformer at mildest, plasma-PINCH assisted fuel reforming at the most extremes.
+
+
+Essentially, a radiation-doped antenna(think as in a wire coild type antenna made of copper alloyed with traces od Uranium and Thorium) would be used as a really sensitive receiver of EM signals, once that's turned into electricity, that'll be routed to a device known as Joseph Tate's Ambient Power Module(APM), and once that electricity's been stored into the capacitor portion of the APM, that "juice" would be sent to a superregenerative amplifier box made entirely of solid state parts, except the oscillator, that should IDEALLY be the Moray Oscillator Gas Tube Design EXACTLY as he first created it and as I explained it.
+
+The output from this amplifier will go into a transformer that'll lower the volts to 13-15 volts and raise the amperes to as many as engineerably possible.
+
+This could essentially remove a battery's input to the alternator for its EM field to be generated, which leaves said generator to be freed up in many aspects, plus the better coil wiring would increase the efficiency, meaning less enging power to drive recharge batteries, power lights, or even serve as a means to impart eough amps to power  an on-board plasma-pinch assisted fuel reformer, such as the Early 2000's MIT plagiarization of Paul Pantone called the Plasmatron or the "Alcohol Water Motor" system invented in the 1970's by Jean Pierre Marie Chambrin in France.
+
+There would be 2 electrical systems going into the "Fuel Reactor" such as the plasma discharge system inspired by Aaron Murakami's "Ignition Secrets" able to ionize the air/fuel vapor/water vapor/exhaust gas mixture it's being surrounded by a pulsed EM field of 10 or more ampes, 24 gigahertz, 100-200 kilovolts, and the intake of the reactor could be modified to allow triboelectric charging at the intake lines and the carburetors to ensure ionizing!!
+
+This device could be bolted onto practically any engine!!!
+
+We need to also consider the intake portion of the fuel reactor needs to be under 15-20 Hg suction pressure, THAT IS SERIOUS VACUUM!!
+
+
+The "Fuel Reactor" itself should be forged from either duplex or ferritic stainless steels, but the grades of choice used should be deviated by having Boron, Cobalt, Vanadium, and Iridium alloyed into them in just the right amounts so they can ADD to the strength, corrosion resistance, and also make the said stainless steel grades of those two types better catalysts in and of themselves.
+
+
+The Pulsed EM Field Circuit would basically be a capacitor bank that would hold a certain amount of charge, with a relay or series of relay switches before the capacitor bank itself at the start of the ciruit to draw only a certain number of amperes to actually trigger the circuit, then a switched times by the engine that this Fuel Processor would be mounted to would pulse the "juice" to an oscillator to put out a higher freqyency signal of 24 gigahertz, then that would be rectified by a diode brige made of diodes designed to handle such high volts and frequencies, that would THEN lead to a specially designed induction coil made to handle such high frequencies which would in turn send high EMF pulses to the coil surrounding the "Fuel Reactor", the reactor being a heat exchanger of the Chambrin Reactor Design.
+
+What I also advocate is to figure out ways to capture the flyback from when the EMF Pulses fully collapse to recycle what electricity would've been lost, like what Paul Babcock has done in his Babcock DC Motor and what John Bedini had done multiple .
+
+
+What I'm proposing is a system of a much better alternator, eliminating the need for a battery to power it, and a means to power an on-board fuel reformer in a way that follows the Chambrin Design, but adds a huge series of improvements, and reduces the power consumption to be LOWER than the early 2000's MIT Project that plagiarized from Paul Pantone called the Plasmatron could EVER hope to achieve as well as factors multiple energy inputs into its design besides the main input to the circuits, how to power said circuits, and how to power an internal combustion engine in a way that can possibly clean the air and make our economies more profitably self-sufficient..

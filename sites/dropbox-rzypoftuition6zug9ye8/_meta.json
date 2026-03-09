@@ -1,0 +1,17 @@
+{
+  "source": "dropbox.com",
+  "domain": "dropbox-rzypoftuition6zug9ye8",
+  "mirror_date": "2026-03-09T10:05:37.865903",
+  "total_urls": 0,
+  "downloaded": 108,
+  "failed": 0,
+  "files": 108,
+  "file_types": {
+    ".jpg": 25,
+    ".pdf": 47,
+    ".png": 31,
+    ".odt": 1,
+    ".txt": 3,
+    ".dwg": 1
+  }
+}
