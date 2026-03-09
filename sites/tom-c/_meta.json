@@ -1,0 +1,12 @@
+{
+  "source": "drive.google.com",
+  "domain": "tom-c",
+  "mirror_date": "2026-03-09T15:14:56.286974",
+  "total_urls": 0,
+  "downloaded": 1,
+  "failed": 0,
+  "files": 1,
+  "file_types": {
+    ".pdf": 1
+  }
+}
