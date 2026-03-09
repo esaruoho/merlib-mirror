@@ -12,13 +12,12 @@ Usage:
   mirror-submit DOMAIN                # Mirror domain via Wayback Machine
   mirror-submit URL                   # Auto-detect mode (wayback or live)
   mirror-submit GDRIVE_URL            # Download Google Drive folder/file
-  mirror-submit DROPBOX_URL           # Download Dropbox shared folder/file
   mirror-submit --no-push TARGET      # Queue locally without git push
   mirror-submit status                # Show queue status
 
 Options:
   --no-push         Skip git commit+push (for bot use)
-  --label NAME      Custom directory name (for gdrive/dropbox, replaces ID-based name)
+  --label NAME      Custom directory name (for gdrive, replaces gdrive-ID)
   -h, --help        Show this help
 
 Examples:
@@ -27,8 +26,6 @@ Examples:
   mirror-submit https://some-live-site.org
   mirror-submit https://drive.google.com/drive/folders/FOLDER_ID
   mirror-submit --label don-smith-papers https://drive.google.com/drive/folders/FOLDER_ID
-  mirror-submit https://www.dropbox.com/scl/fo/FOLDER_ID/...
-  mirror-submit --label my-papers https://www.dropbox.com/scl/fo/FOLDER_ID/...
 EOF
   exit 0
 }
@@ -54,27 +51,8 @@ extract_domain() {
     echo "gdrive-${BASH_REMATCH[1]}"
     return 0
   fi
-  local gdrive_id_re='drive\.google\.com.*[?&]id=([a-zA-Z0-9_-]+)'
-  if [[ "$input" =~ $gdrive_id_re ]]; then
+  if [[ "$input" =~ drive\.google\.com.*[?&]id=([a-zA-Z0-9_-]+) ]]; then
     echo "gdrive-${BASH_REMATCH[1]}"
-    return 0
-  fi
-
-  # Dropbox URL → extract folder/file ID as "domain"
-  if [[ "$input" =~ dropbox\.com/scl/fo/([a-zA-Z0-9_-]+) ]]; then
-    echo "dropbox-${BASH_REMATCH[1]}"
-    return 0
-  fi
-  if [[ "$input" =~ dropbox\.com/scl/fi/([a-zA-Z0-9_-]+) ]]; then
-    echo "dropbox-${BASH_REMATCH[1]}"
-    return 0
-  fi
-  if [[ "$input" =~ dropbox\.com/sh/([a-zA-Z0-9_-]+) ]]; then
-    echo "dropbox-${BASH_REMATCH[1]}"
-    return 0
-  fi
-  if [[ "$input" =~ dropbox\.com/s/([a-zA-Z0-9_-]+) ]]; then
-    echo "dropbox-${BASH_REMATCH[1]}"
     return 0
   fi
 
@@ -113,12 +91,6 @@ extract_wayback_timestamp() {
 extract_path_filter() {
   local input="$1"
   local domain="$2"
-
-  # Dropbox and Google Drive URLs have no meaningful path filter
-  if [[ "$input" =~ dropbox\.com || "$input" =~ drive\.google\.com ]]; then
-    echo ""
-    return
-  fi
 
   # From "domain/path" style input (e.g. padrak.com/ine)
   if [[ "$input" == "${domain}/"* ]]; then
@@ -174,12 +146,6 @@ detect_mode() {
   # Google Drive URL → gdrive mode
   if [[ "$input" =~ drive\.google\.com ]]; then
     echo "gdrive"
-    return
-  fi
-
-  # Dropbox URL → dropbox mode
-  if [[ "$input" =~ dropbox\.com ]]; then
-    echo "dropbox"
     return
   fi
 
@@ -330,8 +296,8 @@ for target in "${TARGETS[@]}"; do
     continue
   fi
 
-  # --label overrides the domain (directory name) for gdrive/dropbox jobs
-  if [[ -n "$LABEL" && ("$mode" == "gdrive" || "$mode" == "dropbox") ]]; then
+  # --label overrides the domain (directory name) for gdrive jobs
+  if [[ -n "$LABEL" && "$mode" == "gdrive" ]]; then
     domain="$LABEL"
   fi
 
