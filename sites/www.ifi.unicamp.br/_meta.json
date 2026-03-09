@@ -1,0 +1,18 @@
+{
+  "source": "live",
+  "domain": "www.ifi.unicamp.br",
+  "mirror_date": "2026-03-09T16:57:33.949165",
+  "total_urls": 0,
+  "downloaded": 448,
+  "failed": 0,
+  "files": 448,
+  "file_types": {
+    ".html": 3,
+    ".mp3": 2,
+    ".pdf": 391,
+    ".jpg": 42,
+    ".wav": 1,
+    ".jpeg": 2,
+    ".htm": 7
+  }
+}
