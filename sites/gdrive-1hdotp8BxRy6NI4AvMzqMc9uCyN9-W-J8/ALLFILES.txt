@@ -1,0 +1,21 @@
+Zirbes books/Definitions of elements
+Zirbes books/Zirbes: Falling bodies theory, unreleased addition 1991
+Zirbes books/Zirbes: Magnetic Theory, addition
+Zirbes books/Zirbes: Tank Electrical generator
+Zirbes books/Zirbes: additional chapters
+Zirbes books/electronTheory vector files/Zirbes_electron-drawing01.svg
+Zirbes books/electronTheory vector files/Zirbes_electron-drawing02.svg
+Zirbes books/electronTheory vector files/Zirbes_electron-drawing03.svg
+Zirbes books/electronTheory vector files/Zirbes_electron-drawing04.svg
+Zirbes books/electronTheory vector files/Zirbes_electron-drawing05.svg
+Zirbes books/electronTheory vector files/Zirbes_electron-drawing06.svg
+Zirbes books/electronTheory vector files/Zirbes_electron-drawing07.svg
+Zirbes books/electronTheory vector files/Zirbes_electron-drawing07A.svg
+Zirbes books/electronTheory vector files/Zirbes_electron-drawing07B.svg
+Zirbes books/electronTheory vector files/Zirbes_electron-drawing08.svg
+Zirbes books/electronTheory vector files/Zirbes_electron-drawing09.svg
+Zirbes books/electronTheory vector files/Zirbes_electron-drawing10.svg
+Zirbes books/electronTheory vector files/Zirbes_electron-drawing11.svg
+Zirbes books/electronTheory vector files/Zirbes_electron-drawing12.svg
+Zirbes books/electronTheory vector files/Zirbes_electron-drawing13.svg
+Zirbes books/electronTheory vector files/Zirbes_electron-drawing14.svg

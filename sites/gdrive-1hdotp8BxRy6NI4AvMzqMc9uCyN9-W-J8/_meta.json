@@ -1,0 +1,13 @@
+{
+  "source": "drive.google.com",
+  "domain": "gdrive-1hdotp8BxRy6NI4AvMzqMc9uCyN9-W-J8",
+  "mirror_date": "2026-03-09T22:50:51.574633",
+  "total_urls": 0,
+  "downloaded": 21,
+  "failed": 0,
+  "files": 21,
+  "file_types": {
+    "(none)": 5,
+    ".svg": 16
+  }
+}
