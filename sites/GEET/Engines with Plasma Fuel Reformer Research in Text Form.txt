@@ -1,0 +1,432 @@
+ WATER as FUEL - WATERFUEL - WATERCAR - WATERGAS - WATERBURNER - WATER FIRE - WATERPOWER - WATERBREAKER - WATERERA - WATERMOTOR - WATERENERGY -
+---------------------------------------------
+
+MDG's website is divided in parts, with direct access through click on the following banners:
+- - - - -
+
+---------------------------------------------
+WaterFuel Home / Intro / Site Map - 500 Links
+Water Electrolysis Systems - Water Explosion Systems - Plasma Systems - Other Water Dissociation Systems 1 - 2 - Other Fuel Savers - Other Fuels
+---------------------------------------------
+COLD FUSION - GEET REACTORS - PLASMATRONS
+
+GEET / PANTONE PLASMA SYSTEMS :
+
+
+# VortexHeatExchanger, Promizing New Specialized Yahoogroup on The Chambrin/Pantone/Martz Reproduction, Founded: Jul 9, 2007, from http://tech.groups.yahoo.com/group/VortexHeatExchanger/
+
+
+Description: This group is for R & D, theory and practical use information about how to build a fuel reformer that uses a vortexing heat exchanger for reforming fuels for your car, farm equipment or genset as well as for fuel cells. This fuel reformer is for hydrogen production and will help people to get much better fuel economy. Research on this type of reformer was started by Jean Chambrin and others around the world. Jean Chambrin's system is patented under patent numbers WO8204096 and WO8203249. Later a similar system was patented by Paul Pantone in the USA which he called the GEET (TM) reactor fuel pretreater. Paul Pantone's U.S. patent number 5.794.601 does not mention vortex action nor unusual electromagnetic phenomena however these were reported by Paul Pantone and other independent researchers investigating his fuel pretreater's performance. The fuel pretreater uses a heat exchanger with a ferromagnetic pipe inside a ferromagnetic pipe with a central ferromagnetic rod in the inner pipe. This device is relatively easy for a Do-It-Yourselfer to build. Builders of powered plasma and catalytic fuel reformers are welcome to join also.
+
+To join this group you must have or be working on, using & investigating some form of a fuel reformer either for research or personal or commercial use. You must agree to share your research and/or practical knowledge here as you expect others to do with you.
+
+There are risks of fire and explosion when experimenting with this device, mostly if you don't know what you are doing. By staying in this group you must accept the risks and the responsibility to know what you are getting into and not blame anyone here if something goes wrong.
+
+This forum is moderated to keep out religion, politics, bad language and spam. This forum is also edited to keep files and folders organized and easy for us all to navigate.
+
+GEET is a registered trademark of Global Environmental Energy Technologies which does not control or oversee this private research group.
+
+
+## From the file: Making It Work (find original in the forum)
+
+1. Reactor Magnetics
+Use ferromagnetic pipes and rod, like steel or iron. Some ferromagnetic materials or coatings work even better but still must have some iron. Mike Hollar of GEET would not say which ones work better but said some do. Use a compass to check that the magnetic orientations of pipes and rod are like in this file: Alternate Small Engine Plans sheet 2.gif
+
+If you can just turn some of the pieces to get the orientation correct then try that. If the magnetic orientation of a piece is through the width rather than along the length then you can degauss it by heating it up above its Curie temperature i.e. usually until just barely starting to turn red in a dark room and then quench fast in water. The ends of the pipes closest to the exhaust may get above this temperature already and so sometimes it is more the cooler ends of the pipes that save a remnant magnetic field on them.
+
+2. Rod Length
+Make your rod length to match the reactor orientation and fuel type. If the reactor is oriented vertically as opposed to horizontally relative to the orientation of the Earth's magnetic field it will affect the length of rod that makes the reactor work the best. Paul Pantone recommends these rod lengths based on fuel type and reactor orientation:
+
+water as fuel - 32mm vertical rod or 64mm horizontal rod
+petrol - 92mm vertical rod or 184mm horizontal rod
+diesel fuel - 115mm vertical rod or 229mm horizontal rod
+crude oil - 156mm vertical rod or 305mm horizontal rod
+
+If the rod is a too long (for the fuel in use + the reactor's orientation) it will not be as efficient as it could be but if the rod is too short (for the fuel in use + the reactor's orientation) then the reaction will not start at all and it will only act like a fuel vapourizer instead of a fuel reformer. Unfortunately, gap size (see 8 below) and the exact type of ferrous metal used for the pipes and rod affect the correct length to use also.
+
+If you start with a rod too long and burn it in to get a magnetic signature on it. Mike Hollar says do not cut that rod to the length determined by where compass shows the ends to be but rather cut a new rod to length based on the end points of the burned in rod. But he never said why to use a new rod.
+
+3. Pipe Lengths
+Make the area where inner and outer pipes overlap no more than an inch longer max at each end than the rod length. Preheating of the vapours, as occurs in longer pipes before and after the rod's position, is taking away from the needed temperature differentials as the vapours swirl past the rod. The pipes don't have to be like in the diagram linked to in 1. Instead of just straight pipes, the pipes could also be L shaped or U shaped but the area of pipe inside pipe where heat exchange occurs should not be very much longer than the rod length.
+
+4. Reactor Vacuum
+Insure that where your vapours go into the reactor to get reformed you have 8 to 10 inches of vacuum. Like this:
+see long link in original document on Vacuum Chart
+I'm talking about between the bubbler or carby and the reactor input.
+
+5. Dry Vapours
+Insure the vapours going into the reactor are as dry as you can get them. Too wet of a mist can kill the reaction.
+
+6. Cool Vapours
+Get the vapours into the reactor as cool as you can. If you have 8 to 10 inches of vacuum it should help stop the vapours from condensing. The cooler the vapours are and the hotter the exhaust is as they pass each other in opposite directions in the reactor, the better the reaction. I had a valve after the bubbler that was just barely open and the vapour decompressing through the value got much cooler. That is how I had it when mine worked. But Paul Pantone and others have had the valve before the bubbler and had the bubbler under vacuum and theirs worked also.
+
+7. Rod Freedom to Center Itself
+Insure the rod is free to move around in the end to end direction. You need some loops of wire at the ends to stop the rod from going too far but still the rod needs a good range to move on its own. A horizontal orientation of the reactor may work better for this.
+
+8. Rod in Pipe Gap Size
+Insure you have a small gap size between the rod and the inner pipe's inner wall. For engines smaller than a car engine a 1/32 inch or 1mm gap all around is good. For a reactor to go with a car engine a 1/16 inch or 1.5 to 2mm gap is good. Smaller gaps may work better but if the gap is too small then you must insure the inner pipe's inner weld seam is removed else use DOM steel pipes with a smooth inner wall.
+
+9. Pipe Sizing
+Regarding outer pipe versus inner pipe sizing, calculate the cross section surface area between inner and outer pipes to come close to the original exhaust pipe cross section area. Then if the pipe sizes available are an in between size, get the outer pipe slighting smaller or the inner pipe slightly bigger so there is some restriction to the exhaust compared to the original exhaust cross section area. The restriction should be in the area where the rod is in the inner pipe. If you don't have enough restriction later you may need to restrict the exhaust with a valve before the output to the muffler. The restriction keeps the temperature up in the area where heat needs to transfer to the inner pipe. After the restriction the exhaust gases decompress like air conditioning freon after an orifice valve. This causes the exhaust gases to be lower pressure and cooler. If much heat was absorbed by the vapours going through the inner pipe then the exhaust gases can be so cold after passing the restriction that frost forms on the muffler. The best setup is where intake and exhaust gases are about the same temperature. CAUTION: If your reactor is not reforming the fuel+water vapours, if it is only acting as a vapourizor then too much exhaust restriction can overheat the engine's exhaust valves. Also insure that there is good vacuum on the intake side so that after the cylinder fires there is not so high of pressure on the exhaust side when the exhaust valves open.
+
+10. Running on Water Only
+Working on water only: Several different sources say multiple reactors need to be used to get the engine to run on water only. One source said 2 to 6 reactors. Chambrin's reactor is also similar a 7 reactor device.
+
+--------------------------------------------- Return to the top
+
+## 1974, Jean CHAMBRIN & Jack JOJON, France, car running with 60% of WATER.
+Patents : WO8203249A1: "A reactor for transforming water and carburant for use as a fuel mixture", and WO8204096A1: "A reactor to transmute the matter which using any fuel in its solid, liquid or gaseous state"
+
+And French patent 2,302,420 :
+
+# WO8204096, A REACTOR FOR TRANSFORMING AND CARBURANTS FOR USE AS A FUEL MIXTURE, from http://v3.espacenet.com , Data supplied from the esp@cenet database.
+
+Publication date: 1982-11-25, Inventor: CHAMBRIN JEAN PIERRE MARIE (BR), - international: F02B43/04; F02B43/00; (IPC1-7): F02B43/08, Also published as: EP0078799 (A1), FI821543 (A), EP0078799 (A0), BE893151 (A), PT74890 (B).
+
+Description:
+An apparatus that enables the running of any engine, turbine, boiler, heater, etc., regardless of the fuel used, due to its capacity of transmuting such carburants, once they contain dihydrogen oxide or are associated to it, into a new fuel.
+
+To start the transmutation process it is only necessary to reach the adequate temperature for the process, irrespective of the fuel used - gasoline, ammonia, keresone, ethylic or methylic alcohol, or any carburant available (either in solid, liquid or gassy state) - combined with a hydric element Contrary to what one can imagine, this temperature does not reach extraordinary levels since, in this case, it is only one of the necessary elements to the accomplishment of the phenomenon.
+
+The assembly of the REACTOR itself is the main condition to its functioning.
+
+
+Once we had the necessary conditions to set in the process, the REACTOR can even be fed only with dihydrogen oxide (H2O=WATER). Although the phenomenon proved satisfactory, also, in this case, the use of other carburants, mainly the alcohols, even though in minimal proportions (5 to 95% of dihydrogen oxide), is also important. It was verified that the carburants which are firstly used to set in the process can also stabilize the transmutation, as the proportion of dihydrogen increases, keeping it whithin the limits of the necessary safety.
+
+A formal explanation to the said proces, considering the use of the REACTOR TO TRANSMUTE THE MATTER, may be given by its capacity of producing hydrogen at relatively low temperatures with the support of the exhaust gases of the engine to which it is attached, and the hydrogen transmutation into other gases, with occasional and consecutive changes of the elements, causing an electromagnetic reaction of the physical field, by an elastic compression of these gases. Since a starting mechanism of the process is determined, the calories wasted to set the engine into motion, which can be either conventional, gasoline or diesel consuming, or boilers, turbines, etc., are also used to produce a fuel which will be re-used.
+
+Hence, one can say the REACTOR TO TRANSMUTE THE MATTER is an apparatus to produce calories. For example, if 2,000 Kcal (two thousand kilo/calories) is introduced in the REACTOR it will be possible to multiply these calories by 100 (a hundred), 1,000 (a thousand) and even 100,000 (a hundred thousand) according to what it is chosen to be used. The only condition to have a progressive multiplication of the calories without problems is to provide a cooling apparatus like the one used in combustion engines during operation.
+
+Another important aspect of the process accomplished with the REACTOR TO TRANSMUTE THE MATTER is the necessary obtention of the molecules strike, as intensive as possible. The bigger in intensity and molecules the strike is, more calories will be produced and consequently more potentiality it will have.
+
+The REACTOR TO TRANSMUTE THE MATTER (Fig. 1-2), which is installed, in case of engines, between the carburator (Fig. 1-1), already modified, and the engine block, processes the fuels, or the hydrogen oxide, before their admission in the engine (Fig. 1-3).
+
+The outer side of the REACTOR must be conceived to receive the gases inlet to the engine (Fig. 1-3), the exhaust gases outlet of the engine (Fig. l-5), which has a ball to decompress the gases (Fig. 1-5), and the feed back pipe (Fig. 1-6).
+
+After innumerable experiments and considering the velocity of the molecules, the REACTOR TO TRANSMUTE THE MATTER has a cylindric shape (Fig. 1-2 and Fig 2 - longitudinal section) with two or more tubes inside (Fig. 2-7) according to its use. These tubes are placed leaving 5 to 10 mm between each other, depending such variation on the dimensions of the engine or apparatus to which the REACTOR is attached. The width of the REACTOR will also be determined according to the type of engine or apparatus employed.
+
+The builder of the REACTOR TO TRANSMUTE THE MATTER must consider in his calculations mainly the production of hydrogen and of the several other gases that feed the engine, turbine, boiler, etc.
+
+The invention of the REACTOR TO TRANSMUTE THE MATTER has a cylindric shape because it helps to speed up the velocity of the molecules. A shock barrier is placed Iongitudinally (Fig. 3 - cross section - 9 and 10) to multiply the fractioning of molecules, intensifying, there fore, the calories producing process. On the other hand, it is also necessary a constant pressure of the exhaust gases next to the REACTOR (Fig.1-6) since in case of reducing the gases flux at the outlet the engine will become less powerful.
+
+So, it is interesting to involve the REACTOR with an obconical covering (Fig 2-8) which maintains the gases balance and to insert a compressure ball of the gases at the outlet of the exhaust pipe of the original engine (Fig. 1-4 and 2-4). With this system it is possible to obtain a constant pressure of the gases without braking the engine.
+
+The REACTOR TO TRANSMUTE THE MATTER must be endowed with a thick metalic covering, considering the high internal temperatures registered, made of a material with high thermal conductivity. Also the manifolds that go accross this covering (Fig. 2-7) must be made of a material with a good thermal conductivity. Although various types of metals present such required qualities, the different types of copper, in some cases even an alloy of bronze and brass, proved to better meet the demands of the REACTOR and to be more economic for construction.
+
+
+The results achieved with the REACTOR TO TRANSMUTE THE MATTER are of great importance. Using a mixture of dihydrogen oxide and ethylic alcohol, equally proportioned in weight, as fuel to feed the REACTOR, it was identified at the outlet of the REACTOR (before its admission in the engine) 33 (thirty three) different gases, such as: ARGON, ALUMINIUM, COBALT, MOLYBDENUM, TECHNETIUM, RUTHENIUM, RHODIUM, PALLADIUM, LANTHANUM, THULIUM, ASTATINE, AMERICIUM and CURIUM. In additon, at the outlet of the exhaust pipe it was observed 46 (forty six) different gases. Among these gases it was registered: HYDROGEN, HELIUM, LITHIUM, BERYLLIUM, ALUMINIUM, CHLORINE, TECHNETIUM, RUTHENIUM, RHODIUM, BARIUM, LANTHANUM, POLONIUM, PROTACTINIUM, AMERICIUM, CURIUM, BERKELIUM and HAHNIUM.
+
+Three other gases which are in the group could not be identified according to the PERIODIC CHART OF THE ELEMENTS; Their numbers are 109, 111 and 131. It is interesting to remember that the PERIODIC CHART OF THE ELEMENTS classifies only till element No.105.
+
+
+Another innovation of the REACTOR TO TRANSMUTE THE MATTER is the feasibility of storing the exhaust gases and to send them back under a given pressure to the REACTOR, acting in this way as a compressor pipe. If this method is applied, it will have to be injected, forsafety's sake, with an electronic injector or any other system, a minimum quantity of alcohol or any other fuel at each revolution of the engine. With this system, it became possible to reduce substantially the consumption of carburants.
+
+It will be necessary only one liter of alcohol or any other fuel to cover 60 km (37 miles). Or even set a stationary engine into motion with one liter of fuel, at 1,800 rpm (revolutions per minute), during an hour.
+
+
+# Extracts translated from http://quanthomme.free.fr/energieencore/carnet17.htm in french :
+
+Everybody has heard about CHAMBRIN and his 'water-engine'. As I found an original old article (from magazine 'L'automobile' n 338, jully 1974), I submit it to you, along with some commentaries. You'll see how it's rich of knowledge.
+
+… 'An engine that runs with 60% water and 40% alcohol'…
+
+System discovered during the 'oil crisis' of 1973, the 2 French men just saying : "You see it's not so difficult !" (means to run a car without oil ...)
+
+
+… Chambrin : in 1957, you remember we were already talking about an oil crisis. But at that time I missed many things to do it. Jojon was one of my customers at the car workshop; electronic is his passion. And you know, the modern mechanic is nothing without the help of electronic, like an horse without rider. We had talks, and the result is that.
+…there is 2 parts in the system; one is mechanic, the other electronic The mechanic part is a 'cracking room' like a Seguin's marmite. The electronic part is where we send a High Tension, few kilovolts, at few pico-amps, at High Frequency. the concept is that water cracking occur at 2000-2300 degree, so we need to reduce this cracking temperature, like they do in the Big Reactors at very high temperature or through 4 to 5 reaction at 730 or 1050 degrees to crack the water.
+
+… we thought like this; we can easily obtain 700 to 800 degrees. Then we must find an easy and cheap way to sustain this reaction and then crack the water. We thought about alcohol because it's easy to mix with water (soluble in water)… So we have a mix that goes in the admission pipe at 750 degrees and meet a barrier of potentials, I mean 3 elements, first a frequency in a way created by the light (!?! The translator doesn't understand), and secondly a High Frequency at High Voltage to crack the water, and third a Low Frequency that contain the reaction in a definite area.
+
+… we know that some metals, like Nickel, or alloy like Stainless Steel based on Nickel, are catalysts to obtain a cracking at lower temperatures … commentary from the website chronicler, Rene.
+
+… By our experiences, we know that a car can run with 5% of oil and 95% of water.
+
+
+… We reject only water and carbon dioxide, that's all, and that's not much pollution… soon we could be able to run in closed loop, by using back the water coming out from the exhaust, needing only little add to compensate the energy loses, because no system is perfect.
+… we spent nights, Sundays, and full holydays on this engine. Today it turns well, we are paid already !
+
+see also: http://quanthomme.free.fr/energielibre/systemes/PageChercheurAEC1.htm
+
+Remark : Plasma is the very powerful 4th state of matter, and elements going trough it can transmute …
+
+--------------------------------------------- Return to the top
+
+# Jan. 2007, Plasma Carburetor, Pogues, Chambrin, Pantone ; Replica by french sdc77, in french http://essenceciel.tk.free.fr/phpBB2/viewtopic.php?t=414
+
+... An Internal Combustion Engine has a miserable efficiency, less than 30%. YES, 70% of the fuel you put in is wasted !! A few reasons: Burning Time to short, fuel under liauid form, very archaical architecture of the old piston engines.
+
+... Our goal: recycle calories wasted, to transform the fuel sent to the engine, in another form, cracked in form of hydrogen and carbon. At engine blocj exit, temperature around 700o C. At that temperature, fuel dissociates by thermolysis, and we know also that water can dissociate at 700o C under certain conditions. And we konow that in presence of carbon water can dissociate at even lower temperatures. Like fuel is composed of hydrogen + carbon, we can try to pass water through our system.
+
+So it is question of a Thermic Exchanger, intake/exhaust. Pogues carburetor is a bit compilcated for us, so we will just 'borrow his spiraling design' ... Chambrin is a Thermic Exchanger and we use this principle but not his design, to complex and may be not so efficient. About Pantone we think he has a too short distance thermic exchange area compare to ours.
+
+... We have 2 spirals imbricated, the red is for exhaust gases that arrive from the motor directly in the center of the system, through a 40mm diameter hole.
+
+The other spiral in the admission, the flus is reversed to increase the heat exchange. It starts at the opposite side, up and right on the schem, to arrive in the center and go into the engine.
+
+We used 2 plates of 5mm thick iron, with in between a 4 meters long iron plate, 8/10 cm thick ; it's a 2 m long exchange surface ! We are far from the few cm of Pantone's reactor.
+
+
+
+
+This design seems to difficult to use without important leaking, so sdc77 has evolved to another design with the same concept:
+He uses a copper pipe binded in a spiral form, sandwiched between two plates, the intake going in the pipe, and the exhaust gases spiraling outside the pipe, contained by the two plates. Even if there is a bit of exhaust gases leaking, the most important is that there is no leaking between intake vaporized fuel and exhaust gases.
+
+They still have to improve the design because the motor is not running properly yet ... but interresting design anyway.
+
+--------------------------------------------- Return to the top
+
+# - 1975, Frederic WENTWORTH, USP 3,862,819 moved to the 'Water injection' page, in 'Fuel Savers' section, water_injection.html
+
+--------------------------------------------- Return to the top
+
+# - 1976, Henri HITZ , French, Patented in France 78,148,72 and in Germany 26,33,348.2, invented during WW2, system to save 20-40% of fuel, by adding water and methanol, and preheating the fuel.
+
+--------------------------------------------- Return to the top
+
+# - 1998, Paul and Molley PANTONE, Fuel Pretreater Apparatus and method, USP 5,794,601 http://geet-pantone.com/index.html .
+The GEET Fuel Processor is a self-inducing Plasma generator.
+
+The technology used in the GEET Fuel Processor is a combination of the most basic scientific principles, most of which falls within the normal rules and of thermodynamics. But some of the 70 simultaneous phenomenon are not found in those books, since it is the combination of events, which is the body of this discovery.
+Put quite simply, the exhaust heat is transferred to the incoming fuel vapor, which must be maintained in a vacuum, and the overall configuration provides a molecular breakdown within the vacuum of all of the heavier elements. Therefore, intensifying the vacuum, the speed of molecular breakdown or reaction is magnified, and less heat is required.
+
+
+The GEET Plasma unit generates several "electrical" fields at the same time while operating, some of which are in opposite direction and all are affected by the direction of mass movement as well as by the gravitational field of our planet. During lectures from coast to coast Paul and Molley have explained that it is frequency and vibration that determines the amount of plasma or energy being developed.
+… During tests the over-revving to engines has startled engineers and scientists from around the world, as engines are sped up to over twice the normal rpm, and slowed down to a fraction of their normal idle speed, with no noticeable vibration. Have you ever seen a 350 Chevrolet idle at 80 rpm? We have.
+
+
+… supplying the fuel into the Plasma chamber in a vacuum and through a longitudinal, natural release, causes a Radial reaction which is self induced, which creates energy as electrons are pulled into the reaction of plasma, instead of consuming energy…
+… An additional stabilizing feature within our system is the natural circulation of opposing masses as a vorticular motion within the Plasma Field, … The size of the Field zone must coincide with the fuel and parameters with specific limitations, dependent on the fuel demand.
+Now we should also explain that a small unit, such as a 10 hp engine can be used as a "servant" to produce fuel to be used by an un-modified larger engine or furnace, by adapting pumps and only modifying the air intake only. Thus a 10 hp engine could make the fuel for a locomotive.
+
+
+… The "balance " point of a perfectly adjusted GEET Plasma reaction chamber, will give the same temperature coming out of the exhaust pipe as the ambient air, as well as the air quality should be the same or a slight increase of oxygen coming out of the tailpipe. So far the inventor has accomplished a 2% increase in oxygen coming out of an internal combustion using crude oil as fuel and a 3.5% increase using Battery acid mixed with 80% saltwater.
+At the higher than ambient oxygen levels you normally find ice forming on the exhaust pipes as a normal function of this phenomenon. When the Plasma field chamber is too short or too long for the density of the fuel being used, it overheats the South end and Chills the North end of the reactor, this also causes the field to consume oxygen, instead of creating it…
+
+--------------------------------------------- Return to the top
+
+# GEET Patent on KEELYNET, by Peter T. Michel, GEETofPA@aol.com, Sun, 20 Jun 1999 http://www.keelynet.com/interact/archive/00000363.htm
+
+As far as the GEET, I decided to build one myself, and it worked great! I ran it on a 4.0 HP Briggs and Stratton on a lawnmower. I was able to run it on 5% gas, 5% oil, and the remaining 90% was a mixture of pickle juice, jalepeno juice, Sprite soda, and water. I was actually able to run it in a closed-loop as well! The entire exhaust fed back into the intake and I could shut down any outside air, and it worked great! On one model, it ran silently in a closed-loop except for the sound of the valves opening and closing. That kind of freaked me out, but it was cool as anything to witness!
+
+I also recently testified in Philadelphia at the EPA hearings for Tier 2 emissions standards and spoke of what the GEET has to offer. I had an excellent reception from people, particularly people from various environmental organizations.
+
+At the Conference on Future Energy (COFE) in Bethesda, MD, myself and a couple of friends demonstrated another GEET mower running on a mixture of black coffee (delicious hotel made), Mountain Dew, and about 20% gas. The emissions ran so clean that several people held their faces to the exhaust and breathed deeply with big smiles on their faces. And I have it on videotape to prove it!
+
+So, does it work? I'd have to say, yes, definitely. I've been experimenting with different designs including a double reaction chamber, but am not getting good results. I asked Paul about this and he said that the greatest reaction occurs when you have the coldest possible fuel vapor, and the hottest possible exhaust, going in opposite directions in the chamber. I'm gonna play around with refrigerants that boil at low temperatures and see what happens.
+
+The clearances also need to be very small in order to have the greatest acceleration. Essentially, the cold vapors (best when closest to 32 degrees F for most fuels) heat up to around 900 degrees F in an instant as they accelerate up the rod, effectively annihilating its molecular (and atomic?) structure. I couldn't help but notice the similarities of what is happening in the chamber, to the elements necessary for elemental transmutation as described by Walter Russell. Indeed, there is a transmutation happening of some type as mass spec tests performed at Brigham Young Univ. showed 73 elements entering the chamber and only 13 elements coming out! -- With a new one that they've named Pantonium! Most of the fuel that comes out of the chamber is hydrogen making it a very clean burning fuel.
+
+The best fuel they found was a mixture of 80% seawater and 20% crude oil. In an ideal reaction, the reaction is endothermic in nature and has actually caused frost to form on the muffler. Also, using this "fuel" mixture and having an ideal reaction, they were able to obtain mileage increases that I cannot even mention here. But, let's just say, it was WELL OVER 25 times the mpg! (Due to pressures and dangers from the "darker side" the production model will only provide 2-3 times the gas mileage. Paul already had his brake lines cut, his car blown up, and his house burned down, because some stupid TV news reporter told the world that he was ready to put the oil companies out of business!)
+
+Some interesting things were noted with the steel rod inside the chamber. Namely, it takes on magnetic properties that can actually indicate the latitude where it was last run. Also, concentric rings form on the rod and each seems to have it's own magnetic polarity. Together, these rings seem to comprise a magnetic signature that has to do with where the chamber is situated with respect to the earth's magnetic field, and the type of fuel being used. When first running the chamber, Paul says that you need to "burn in" the rod's signature. You do this by pointing the end of the reaction chamber from which the exhaust is entering, towards magnetic north. Then, by running the engine for at least 20 minutes that signature is burned into the rod. Then, you can run the engine anywhere without any problems.
+
+GEET also has a new water machine that can create 200,000 gallons of pure water every 24 hours, even in dry desert conditions, using only a 10 HP engine. Imagine turning dry, barren desertland into green, fertile farmland.
+Now, using a GEET fuel processor on the generator, you can fill it up once a day and just let it keep running out in the middle of the desert!
+
+I feel like I hit pay-dirt with GEET. They have over 400 inventions from inventors all over the world who just want to keep inventing and want to leave the marketing to GEET management and their worldwide distributors. I asked many people what they thought about GEET and Paul Pantone prior to diving into this and they all had positive things to say....
+
+--------------------------------------------- Return to the top
+
+- GEET Pantone by Jean Louis NAUDIN, famous scientist experimenter of all unusual technologies: http://jlnlabs.imars.com/bingofuel/pmcjlnen.htm
+
+
+The Multi-Fuels Processor of GEET is a new internationally patented technology (US005794601A1) whose inventor is Paul Pantone. This revolutionary system allows the common 4 strokes engines to run with a water/ hydrocarbon mixture. It is able to use all types of fuels (gasoline, diesel, kerosene, crude oils and others derived from hydrocarbons...) with its endothermic plasma reactor.
+The Multi-Fuels Processor allows also a significant reduction of pollution generated by the gaz exhaust of almost 85% compared to a conventional engine.
+
+Tests carried out by many industrialists and experimenters already showed that it is even possible to make function an engine equipped with this device with a mixture of hydrocarbons (20%) and water (80%)...
+
+
+The endothermic reactor is composed of two coaxial steel cylinders:
+- the interior cylinder (threaded at each end), called the pyrolytic chamber (430mm length and 15mm of inner diameter) contains a steel rod of 300mm length and 13mm of diameter (not magnetized before the burning-in). A side of this steel rod is round in order to identify its magnetic polarity after its disassembling. The rod is maintained in the center of the pyrolytic chamber with to 3 small nipples welded at each end.
+- the external cylinder (threaded at each end) is a steel tube of 300mm length and 26mm of inner diameter.
+
+The two cylinders are placed coaxialy with two reducing T (showed on the diagram below) placed at each end.
+The bubbler is a tank containing a mixture of water and hydrocarbon (gasoline, diesel, kerosene, crude oils and others derived from hydrocarbons...).
+The hot gas flow coming from the exhaust of the engine circulates by the outside part of the reactor with a strong kinetic energy, that contributes to bring up to very high temperature the steel rod (being used as heat accumulator) contained in the pyrolytic chamber. The gases cross the engine and penetrate then in the bubbler containing the water/hydrocarbon mixture. The vapor of the mixture is strongly aspired by the vacuum created by the engine intake and is pushed by the pressure coming from the exhaust. The kinetic energy of the vapor is increased considerably by the reduction of the diameter in the pyrolytic chamber (by Venturi effect). The combined effect of the high temperature and the increase of the kinetic energy produces a thermo-chemical decomposition ( molecular breakdown ) of the water/ hydrocarbon mixture.
+
+The endothermic reactor forms an Electro-Plasma-Chemical unit (EPC) and it is now possible to create a high-output fuel coming from the decomposition of the water contained in the water/ hydrocarbon mixture. This fact is confirmed by the presence of oxygen gaz (O2) in great amount measured in the exhaust.
+
+--------------------------------------------- Return to the top
+
+- Another GEET Pantone study : Final engineer studying project for ENSAIS (Ecole Nationale Supérieure des Arts et Industries de Strasbourg) Diploma by C. Martz. November 24th, 2001. http://quanthomme.free.fr/pantone/martz
+
+"Design of a testing ground and characterization of P. Pantone's GEET process based on hydrocarbon conversion"
+This testing ground has been built to characterize the GEET process by measuring definite points as, for instance, the specific consumption (i.e. output) ,different flows, temperatures, pressures, H2/O2 gas analysis...
+
+
+… The fall of pollution on CO and HC (un-burnt) is remarkable. Furthermore on carbon gas the pollution is falling with the motor's charge (40% to 70% of diminution). Maybe the conversion reaction is more efficient when the motor is loaded (that means exhaust gas are hotter).
+
+At this time we don't know where the rest of carbon is: a classical gas or fuel combustion give 14 to 16% carbon gas (CO+CO2), with GEET we are at 6%maximum (only CO2), which means that quantity of carbon are missing in exhaust gas...I hope that further experiences would solve this problem and say where is the carbon.
+
+After a few hours of functioning, we have noted some interesting remarks on some rod (we got 9 rods of different dimensions):
+Observing a hot point on the cold side of the rod. A cold point is just after this hot point which show that the reaction has inner-reaction high temperature. I mean this hot point does NOT come from exhaust gas high temperature.
+
+
+… But if really it is not hydrogen, the GEET gas is certainly a high hydrogenous gas ( smell of ether) which got the energetic advantages of hydrogen.
+GEET gas coming out of reactor is more volatile and simple than the fuel and water vapors coming in. Then it is sure than there is a gas conversion in the reactor but the obtained GEET gas must be exactly definite… GEET gas is still unknown, it MUST be analysis by other ways( chemical, spectral...).
+
+--------------------------------------------- Return to the top
+
+- SPECIAL DELIVERY from FRANCE: Le GEET c'est GENIAL ! (GEET it's GREAT !)
+
+
+# Ion Vortex Theory, Marc C., Nov. 2006, original pdf in french: http://quanthomme.free.fr/qhsuite/imagenews06/theoriechampmarc281106.pdf
+and also see http://quanthomme.free.fr/qhsuite/separionfluidmouv.htm
+
+REMARK: need technical translator for this 24 pages document, realy very interresting … here I can only put some schematics.
+
+A study on the Pantone Reactor. All info and schematic are given in the Public Domain by their author.
+Extracts:
+
+# … The LORENTZ forces are alsmost not discussed in high school, they are just to introduce those of LAPLACE : we abandon the ‘charged particule’, to replace it by ‘an electric current in a conductor’. Big mystake:
+
+- An Electron moves at only 2.16 kmh in the copper; we could follow it by walk … with good eyes!
+- An Positive or Negative Ion moves at 800 kmh … 370 times faster than an electron!
+
+The main difficulty is to control and canalize the Ions that are just willing to ‘fly away’ ; that where the Vortex is interresting …
+
+
+# … It took me 5 years to take seriously the Pantone’s patent. How could I expect that my readers believe immediately in this theory. We must let time for reflexion and experimentation first …
+
+
+# … A good example is the Law of Coulomb that every good student memorized: “ the opposite signs are attracted, same signs repell”
+How many learned that it is sometime the opposite, the Electrodynamic Forces (Lorentz ones) surpassing those of Coulomb?
+Could my theory re-establish at least this notion of DUALITY, ever existing in Physics …
+
+
+# 4. Ionic Vortex in a Pantone Reactor:
+
+
+Each Ion induces a magnetic field in proportion with its speed. The Ions closed to each other in the vortex tend to come closer when their speed increases.
+
+
+In fact the Electrodynamic Force (Fe) become stronger than the Coulomb Force (Fe) that was repelling them.
+
+# Optimal Molecular Breakdown
+If the reactor can transform the mix of air+water (+ eventual fuel) in a plasma, like Paul Pantone said, then we obtain, theorically:
+H2O=H+H+O, CO2=C+O+O, NO2=N+O+O, etc …
+In other terms, we obtain production of Mono Atomic Hydrogen and Oxygen, from water or from the oxydes present in the air ; so the vortex acts like an air purificator.
+
+
+# The Pantone Reactor is an electric apparatus that produces an electric field without generator!
+
+# … The Vortex associates Magnetic and Electric Fields, without limiting the last one. No electron flow, No energy dissipation. Efficiency is closed to 1.
+
+# The principle of the Charge Conservation wins on the Energy Conservation one.
+Paradox of the Charge Conservation:
+
+
+# By wich way this ‘half-energy’, that became ‘un-desirable’, has been thrown out of the circuit ? To learn more about this, just put a radio receiver or TV close to the circuit, to see or hear the parasists: joining the 2 condensators liberated some electromagnetic energy as a pulse ; from where appear an ‘infinity’ of radio waves radiated all around …
+
+# Is it possible to conciliate ‘Charge Conservation” and ‘Energy Conservation” in a closed system, without ever use external energy ?
+
+
+# Because of the particular links that it creates between the molecules constituting it, an Ionic Vortex is comparable to a spring, that contracts when heat is added, and expand in the opposite case.
+
+# … 8.3 Water boiling:
+By wich way the boiling water limits its temperature at the pot top surface at around 100 Deg.C.?
+It is said that the water gives away its internal energy in the form of cold; but where did the water store this energy?
+Myself, after reading an article on the web about ‘micro vorteces’ observed in water vapor (article that I can’t find again), I think that the liquid to vapor transit comes with a re-organization of the molecules, what creates micron sized ionic vorteces, converting the heat in a organized molecule movment.
+
+
+# Pantone Reactor without Rod:
+
+
+By taking out the rod, the magnetic induction become less intensive than before, but the global efficiency is increased because the Ions are no more in friction with the rod. This Ions at the center of the vortex, rotating almost along the tube axle, have a speed quasi null, then the magnetic interactions with the external krown of the vortex are increased …
+
+--------------------------------------------- Return to the top
+
+# SPAD fuel saver ON PRODUCTION !, France, October 2006. from pdf brochure : hypnow_spad_v8.pdf
+
+.. fuel saving announced from 30 to 60% ; only water is processed in a Pantone type reactor ; it's a bolt-on, all in one solution installed on the exhaust ; version for agriculture tractors.
+
+--------------------------------------------- Return to the top
+
+The French speaking people have engaged a large battle to develop the use of the GEET of the Pantones, and with the help of Mr J.L. Naudin, the website's managers of QUANTHOMME.com, Mr M. DAVID replication and tests, Mr Martz engineering study, now it's hundreds of vehicles that have been modified there, since 5 years, may be thousands …
+Especially the agricultural people are adapting their tractors and machines since one of them found a simplified version of the GEET concept, that offer also enormous advantages, like reducing the fuel consumption by factor 2 to 5, and eliminating 95% of the exhaust fumes (testing with a white textile pulled on the exhaust exit, that stays white !), and without major modification on the vehicle.
+
+They developed the SPAD, and the G-tone, that process only the water from a tank through the GEET reactor; but it seems already sufficient :
+Sending some vacuum made water vapor through the GEET reactor heated by the exhaust pipe, gives EXTRA-ORDINARY RESULTS.
+
+Modified GEET, only water is processed, fuel line not touched. (from France)
+
+Left picture: System 'G-Tone' http://jmww.club.fr/index.html - Middle: 'SPAD' from J. P. PETIT: http://easy.spad.free.fr - Right: System 'GG' for cars
+
+- One tractor at 1800-1900 RPM during 1h ½ of work: 7.3 l/h of diesel in place de 20-22 l/h without the G-TONE system = consumption divided per 3.
+- Another tractor : 8 hours of full work, consumption in diesel was 7.5 L/Hour and 1.7L of water; before, without SPAD system, 12 to 15 L/Hour = consumption reduced per factor 2.
+
+More links about GEET Pantone:
+- a great website full of information and pictures, gathering the replications of GEET, but in French : http://quanthomme.free.fr/pantone.htm
+- and THE French forum : http://fr.groups.yahoo.com/group/PMC-France/
+- Mr DAVID advises and replications : http://quanthomme.free.fr/pantone/PageM_David.htm
+- download of C.Martz study on GEET : http://www.econologie.com/rapport_pfe.htm
+
+- Lorries, Boats, Big Generators can also be converted …
+
+
+--------------------------------------------- Return to the top
+
+# - 2001, RENAULT (French car manufacturer), for a FUEL REFORMER SYSTEM using Water Steam:
+The French patent in pdf http://econologie.com/file/brevets/renault_FR2831532.pdf
+
+--------------------------------------------- Return to the top
+
+# - 2002, M. Richard PORTER, GEET PANTONE demonstrated, using 95% water + 5% gasoline, http://community-2.webtv.net/RICHARDPORTER2/FREEENERGY/
+
+HYDROGEN FUEL TECHNOLOGY DEMONSTRATOR
+
+
+The surprisingly simple "hydrogen fuel reactor" system on this engine allowed it to run on a mixture of 95% water and 5% gasoline. The above picture was taken from a camcorder video taped presentation that I participated in on 10/10/02. While reviewing the tape (Dec. '04) the most impressive part of the video show was the scenes where I am breathing the exhaust to demonstrate the "clean burning" characteristics of hydrogen (see picture on this site). The way the builder/demonstrator had to throttle the engine back to keep it from over revving to destruction is also quite impressive.
+
+During the demonstration I drank, gargled, and swallowed the water used in the jar on the table to show that the liquid was water. We had to put 5% gasoline in with the water to make this particular unit work. The color is the result of the water and gasoline being mixed by vent air. This air is being fed to the bottom of the jar in a pulsating stream as fuel/vapor is drawn into the engine's cylinder when the intake valve is open during its four-cycle operation.
+
+It is important for everything to be air tight not only to make sure that the system works properly but also to prevent hazards with hydrogen. A friend of the inventor of this machine had a hydrogen leak that blew his garage roof off. I would use a fan and a vent in the highest part of any ceiling where any hydrogen producing system is being used.
+
+The reactor unit is "surrounded" by hot moving exhaust gasses in the exhaust pipe, this highly energizes the reactor's magnetized rod core which, in turn, "rips" enough of the passing water molecules apart to supply hydrogen fuel to run the engine. THIS IS JUST HOW SIMPLE THIS SYSTEM REALLY IS -- DEFINATELY NOT ROCKET SCIENCE!
+
+MAGNETISM (ZERO POINT ENERGY) is the power used here to separate water into HYDROGEN and oxygen. The following information is absolutely all that is necessary to build a working "FREE ENERGY" device. Yes, it is so simple it is hard to believe!
+
+For aircraft operation a pin near the top of the reactor containment tube may be needed if inverted flight is anticipated. Turbulence characteristics requirements at the aft end of the rod may require a limiting support that contacts only the center of the rod. The rod "floats" during normal operation. This floating phenomena automatically centers the magnetized rod in the magnetized soft steel tube. The interacting forces are probably sufficient enough to eliminate any need for a top pin. Units mounted horizontally work very well so my concern about a top pin is probably unnecessary. The builder of this system said that if a top pin is used it should be made from a non-magnetizable material. Just DO NOT shut off the engine in inverted flight unless you have enough altitude to get the airplane upright in order to get the engine started if no top pin is used.
+
+
+This shaft is "cold rolled" soft steel. Though not critical, the shape of the "pointed end" that rests against the steel pin as described above should look a lot like the proven shape shown here. It is critical that the tolerance between the rod and the inside wall of the tube containing the rod be less than thirty thousandth of an inch. Because of the heat involved the reactor tube should be seamless.
+
+This shaft is a little too long and it has not yet been tuned to any engine. The tuning process requires that the assembled unit be mounted on the engine that will be using it. During the "magnetizing process" regular gasoline can be used. The engine should be run about thirty minutes. Tests have shown that there is a very intense electrical phenomena inside the tube that "processes" the rod. The processed rod shows what appears to be "annual rings" like a tree where it is cut.
+
+After the thirty minute run and a cooling down period that is long enough to comfortably handle the parts, take the rod out of the unit. Now, here is where we do something that is not very well understood. Hold an ordinary compass with the needle pointing north and the pointed end of the vertically held rod near the north pointing compass needle. O. K., now slowly move the compass up the rod until the compass needle suddenly swings around and is pointing south. This is the point on the rod where it must be cut. After the rod is cut it is necessary to drill or grind a "slight" concave shape on the cut end. It is important that the lowest point be in the center of the rod end.
+
+The builder of this HYDROGEN REACTOR said that most engines will run on 100% water if two to six reactor cells per unit are used. Some engines can evidently run on only one cell as shown in the above pictures. The video tape shows us trying to get a run on water only but we failed. I was promised that I would be provided a live demonstration of "water-only fuel" to video tape in the future. The modification that might work on this particular demonstrator could be as simple as using a "T" connection that would allow the engine to be switched over to a water-only fuel container once the engine is warmed up and the reactor is working at a higher efficiency.
+
+CLOSEUP SHOT OF THIS SINGLE CELL HYDROGEN REACTOR UNIT
+
+
+My hand is near the "hydrogen end" of the reactor unit. Back pressure from the muffler is needed to maintain a high enough temperature for "efficient" operation. The reason multiple cells are needed for reliable operation on water only fuel is because of the inefficiency of this particular technology. Water/water vapor mixed with the hydrogen makes this a very safe fuel with this hydrogen system. The inside of the engine is also much cleaner than any dirty gasoline burning engine.
+
+DO NOT DO THIS WITH AN ORDINARY GASOLINE ENGINE
+
+
+Because there was 5 - 10% gasoline in the water fuel we used on this run, there was a slight exhaust odor. HYDROGEN only produces water vapor when burned. Given the amount of exhaust vapor that can be seen on the video tape it seems obvious to me that a lot of the water in this system is not producing hydrogen, but is simply flowing through and "steam cleaning" the inside of the engine.
+
+DO NOT USE ALCOHOL OR ANYTHING CONTAINING ALCOHOL IN THIS REACTOR!!!
+Anything that is mostly water works. Evidently, alcohol is too efficient, and/or too much of the extra oxygen in alcohol may be involved in a hydrogen/oxygen combustion process in the reactor cell, as the reactor tends to become dangerously hot when alcohol is present in the fuel.
+
+--------------------------------------------- Return to the top
+
+# - 2003, M. SALELLES and M. MARTZ, French Patent 2,858,364, enhance the GEET PANTONE system:
+
+
+
+
+--------------------------------------------- Return to the top
+
+# 2004, Michel David, France, a gasoline genset running on diesel, through an original small mecanic 'reactor' inspired by the work of Paul Pantone.
+http://perso.wanadoo.fr/quanthommesuite/ge5Michel%20David.htm
+
+On the short film to download on the webpage, you'll see that there is no fumes at the exhaust when starting the group with gasoline, and also no fumes when it's switched on diesel… absolutly no changes in RPM or noise when the gasoline genset runs with diesel. Michel David, Hervé F., Michel Schmit, Bernadette and Jean Soarès (famous webmasters of www.quanthomme.com) are present on the video
+
+Explication: Starting with a standard Pantone Reactor, M. David had the idea to create a flat reactor, where are fitted 5 spaces of 0,75 mm, that replace the rod and internal tube on a GEET, what gives a large surface of friction for the gasses accelerated by the rotational obturation system made by M. David at the air intake.
+
+M. David used copper pipes that he pressed to make them flat, with a metalsaw blade inserted inside to keep the desired space.
+
+Any fuel is passed through a modified carburettor that pulverized it, then through the reactor to the engine, where it arrives as gas. It's easy to run any genset with diesel, with or without adding water. It needs a very good vacuum at the intake side, that's why M. David uses a homemade rotating obturator to increase this vacuum effect. This system very easy to make by any professional, can be mecanic or electromecanic, with a progressive action for the opening-closing of the holes to obtain a soft feeding following the needs of a vehicle's engine. 
