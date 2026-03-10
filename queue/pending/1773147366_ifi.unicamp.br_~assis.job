@@ -1,0 +1,9 @@
+target: https://www.ifi.unicamp.br/~assis/
+domain: ifi.unicamp.br
+mode: live
+path_filter: /~assis
+ts_to: 
+label: 
+offline: false
+submitted: 2026-03-10T12:56:06Z
+submitted_from: CloudcityMacMini
