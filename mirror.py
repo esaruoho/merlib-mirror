@@ -1246,6 +1246,7 @@ def find_gdown():
     # Common pipx location
     candidates = [
         os.path.expanduser('~/.local/bin/gdown'),
+        os.path.expanduser('~/Library/Python/3.9/bin/gdown'),
         '/opt/homebrew/bin/gdown',
     ]
     for c in candidates:
@@ -1254,13 +1255,191 @@ def find_gdown():
     return None
 
 
-def run_gdrive(url, output_base=None, label=None):
-    """Download a Google Drive file or folder using gdown."""
-    gdown_path = find_gdown()
-    if not gdown_path:
-        log("ERROR: gdown not found. Install with: pipx install gdown")
-        sys.exit(1)
+def _gdrive_curl_download(file_id, dest_path):
+    """Download a single Google Drive file by ID using curl (fallback for gdown failures)."""
+    url = f"https://drive.google.com/uc?export=download&id={file_id}&confirm=t"
+    try:
+        result = subprocess.run(
+            ['curl', '-sL', '-o', dest_path, url],
+            capture_output=True, timeout=300,
+        )
+        if result.returncode != 0:
+            return False
+        # Verify it's not an HTML error page
+        if os.path.exists(dest_path) and os.path.getsize(dest_path) > 0:
+            with open(dest_path, 'rb') as f:
+                header = f.read(16)
+            if header.startswith(b'<!') or header.startswith(b'<html'):
+                os.remove(dest_path)
+                return False
+            return True
+    except Exception:
+        pass
+    return False
 
+
+def _gdrive_rescue_missing(output_dir, gdown_output):
+    """After gdown finishes, find files it listed but failed to download, retry with curl.
+
+    gdown prints 'Processing file <ID> <filename>' for each file.
+    We check which of those files actually exist on disk and retry missing ones.
+    """
+    # Parse all "Processing file <id> <name>" lines from gdown output
+    listed_files = []
+    for line in gdown_output.splitlines():
+        m = re.match(r'Processing file (\S+)\s+(.+)', line)
+        if m:
+            listed_files.append((m.group(1), m.group(2)))
+
+    if not listed_files:
+        return 0
+
+    # Find which files are missing from disk (search recursively)
+    existing_files = set()
+    for root, dirs, files in os.walk(output_dir):
+        for f in files:
+            existing_files.add(f)
+
+    missing = [(fid, fname) for fid, fname in listed_files if fname not in existing_files]
+
+    if not missing:
+        log(f"All {len(listed_files)} listed files are present on disk")
+        return 0
+
+    log(f"Rescuing {len(missing)} files that gdown failed to download...")
+
+    # Determine the deepest content directory (where PDFs should go)
+    # Walk to find where most files already exist
+    rescue_dir = output_dir
+    for root, dirs, files in os.walk(output_dir):
+        if len(files) > 5:
+            rescue_dir = root
+            break
+
+    rescued = 0
+    for i, (fid, fname) in enumerate(missing, 1):
+        dest = os.path.join(rescue_dir, fname)
+        if os.path.exists(dest):
+            continue
+        log(f"  [{i}/{len(missing)}] Downloading: {fname}")
+        if _gdrive_curl_download(fid, dest):
+            size_kb = os.path.getsize(dest) // 1024
+            log(f"    OK ({size_kb}KB)")
+            rescued += 1
+        else:
+            log(f"    FAILED — could not retrieve {fname} (ID: {fid})")
+
+    log(f"Rescue complete: {rescued}/{len(missing)} recovered")
+    return rescued
+
+
+def _gdrive_api_list_folder(folder_id, api_key):
+    """List ALL files in a Google Drive folder using the API v3. No 50-file limit."""
+    all_items = []
+    page_token = None
+
+    while True:
+        params = {
+            'q': f"'{folder_id}' in parents and trashed = false",
+            'key': api_key,
+            'pageSize': '1000',
+            'fields': 'nextPageToken,files(id,name,mimeType,size)',
+        }
+        if page_token:
+            params['pageToken'] = page_token
+
+        query = urllib.parse.urlencode(params)
+        url = f"https://www.googleapis.com/drive/v3/files?{query}"
+        req = urllib.request.Request(url)
+        resp = urllib.request.urlopen(req, timeout=30)
+        data = json.loads(resp.read().decode('utf-8'))
+
+        for item in data.get('files', []):
+            all_items.append({
+                'id': item['id'],
+                'name': item['name'],
+                'mime': item['mimeType'],
+                'size': int(item.get('size', 0)),
+                'is_folder': item['mimeType'] == 'application/vnd.google-apps.folder',
+            })
+
+        page_token = data.get('nextPageToken')
+        if not page_token:
+            break
+
+    return all_items
+
+
+def _gdrive_api_list_recursive(folder_id, api_key, path='', depth=0):
+    """Recursively list all files in a folder tree using the Google Drive API."""
+    items = _gdrive_api_list_folder(folder_id, api_key)
+    indent = '  ' * depth
+    log(f"{indent}Found {len(items)} items in folder")
+
+    all_files = []
+    for item in items:
+        full_path = os.path.join(path, item['name']) if path else item['name']
+
+        if item['is_folder']:
+            log(f"{indent}  Entering: {item['name']}/")
+            sub = _gdrive_api_list_recursive(item['id'], api_key, full_path, depth + 1)
+            all_files.extend(sub)
+        else:
+            all_files.append({
+                'id': item['id'],
+                'name': item['name'],
+                'path': full_path,
+                'size': item.get('size', 0),
+            })
+
+    return all_files
+
+
+def _gdrive_api_download_all(files, output_dir):
+    """Download all listed files via curl, preserving folder structure."""
+    total = len(files)
+    ok = 0
+    failed = []
+
+    for i, f in enumerate(files, 1):
+        dest = os.path.join(output_dir, f['path'])
+        os.makedirs(os.path.dirname(dest), exist_ok=True)
+
+        if os.path.exists(dest) and os.path.getsize(dest) > 0:
+            ok += 1
+            continue
+
+        size_str = f" ({f['size'] // 1024}KB)" if f.get('size') else ''
+        log(f"  [{i}/{total}] {f['name']}{size_str}")
+
+        if _gdrive_curl_download(f['id'], dest):
+            actual_kb = os.path.getsize(dest) // 1024
+            log(f"    OK ({actual_kb}KB)")
+            ok += 1
+        else:
+            log(f"    FAILED — {f['name']} (ID: {f['id']})")
+            failed.append(f)
+
+    log(f"Download complete: {ok}/{total}")
+    if failed:
+        log(f"Failed: {len(failed)} files")
+        failed_path = os.path.join(output_dir, '_failed_downloads.txt')
+        with open(failed_path, 'w') as fp:
+            for f in failed:
+                fp.write(f"{f['id']}\t{f['path']}\n")
+        log(f"Failed list written to: {failed_path}")
+
+    return failed
+
+
+def run_gdrive(url, output_base=None, label=None):
+    """Download a Google Drive file or folder.
+
+    Strategy:
+      1. If GDRIVE_API_KEY is set: use Google Drive API for complete listing + curl downloads
+         (no 50-file limit, no gdown dependency)
+      2. Otherwise: use gdown + curl rescue pass (limited to ~50 files per folder level)
+    """
     gdrive_id, item_type = extract_gdrive_id(url)
     if not gdrive_id:
         log(f"ERROR: Could not extract Google Drive ID from: {url}")
@@ -1274,19 +1453,64 @@ def run_gdrive(url, output_base=None, label=None):
     log(f"Google Drive download: {item_type} {gdrive_id}")
     log(f"Output: {output_dir}")
 
-    # Build gdown command
+    api_key = os.environ.get('GDRIVE_API_KEY')
+
+    # ── Strategy 1: API + curl (complete, reliable) ──
+    if api_key and item_type == 'folder':
+        log("Using Google Drive API for complete folder listing")
+        try:
+            all_files = _gdrive_api_list_recursive(gdrive_id, api_key)
+            log(f"Total files found: {len(all_files)}")
+            _gdrive_api_download_all(all_files, output_dir)
+            generate_index(output_dir, domain, source='drive.google.com')
+            log(f"Done: {domain}")
+            return
+        except Exception as e:
+            log(f"WARNING: API listing failed ({e}), falling back to gdown")
+
+    # ── Strategy 2: gdown + curl rescue (fallback, 50-file cap) ──
+    gdown_path = find_gdown()
+    if not gdown_path:
+        log("ERROR: gdown not found and no GDRIVE_API_KEY set.")
+        log("Either: pip install gdown  OR  set GDRIVE_API_KEY env var")
+        sys.exit(1)
+
+    if not api_key:
+        log("WARNING: No GDRIVE_API_KEY set — gdown is limited to ~50 files per folder.")
+        log("For complete downloads, set GDRIVE_API_KEY (free from Google Cloud Console).")
+
+    # Build gdown command — capture output so we can parse file listings
     cmd = [gdown_path, url, '-O', output_dir + '/', '--fuzzy', '--continue']
     if item_type == 'folder':
         cmd.append('--folder')
-        # --remaining-ok: don't fail if some files can't be downloaded
         cmd.append('--remaining-ok')
 
     log(f"Running: {' '.join(cmd)}")
 
-    result = subprocess.run(cmd, capture_output=False)
+    # Run gdown with retries (it skips already-downloaded files on each retry)
+    max_retries = 3
+    gdown_output = ''
+    for attempt in range(1, max_retries + 1):
+        process = subprocess.Popen(
+            cmd, stdout=subprocess.PIPE, stderr=subprocess.STDOUT,
+            text=True, bufsize=1,
+        )
+        attempt_lines = []
+        for line in process.stdout:
+            print(line, end='', flush=True)
+            attempt_lines.append(line)
+        process.wait()
+        gdown_output += ''.join(attempt_lines)
 
-    if result.returncode != 0:
-        log(f"WARNING: gdown exited with code {result.returncode}")
+        if process.returncode == 0:
+            break
+        log(f"WARNING: gdown attempt {attempt}/{max_retries} exited with code {process.returncode}")
+        if attempt < max_retries:
+            log("Retrying (gdown will skip already-downloaded files)...")
+
+    # Rescue any files gdown listed but failed to download
+    if item_type == 'folder':
+        _gdrive_rescue_missing(output_dir, gdown_output)
 
     # Generate index
     generate_index(output_dir, domain, source='drive.google.com')

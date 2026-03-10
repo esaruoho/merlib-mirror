@@ -8,6 +8,11 @@ if [[ -x /opt/homebrew/bin/brew ]]; then
   eval "$(/opt/homebrew/bin/brew shellenv)"
 fi
 
+# Source API keys from .env if present (not committed to repo)
+if [[ -f .env ]]; then
+  set -a; source .env; set +a
+fi
+
 echo "=== MERLib Mirror ==="
 echo "Mirroring the Internet's Modern Energy Research into a Library"
 echo "Repo: $(pwd)"

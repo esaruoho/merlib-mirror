@@ -27,9 +27,13 @@ _progress.json.tmp
 *.rar
 *.swf
 
+# Offline-only archives (downloaded but never pushed to GitHub)
+offline/
+
 # Worker state
 .worker.pid
 
 # OS junk
 .DS_Store
 __pycache__/
+.env
