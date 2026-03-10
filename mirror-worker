@@ -39,10 +39,10 @@ idle() { [[ "${VERBOSE:-}" == "1" ]] && log "$*" || true; }
 # Write PID so mirror-submit can wake us
 PIDFILE="$REPO_DIR/.worker.pid"
 echo $$ > "$PIDFILE"
-trap 'rm -f "$PIDFILE"' EXIT
 
-# SIGUSR1 interrupts sleep — used by mirror-submit to wake worker immediately
-trap 'log "Woken by signal"; true' USR1
+cleanup() { rm -f "$PIDFILE"; }
+trap cleanup EXIT
+trap 'log "Woken by signal"' USR1
 
 WORKER_HASH=""
 
@@ -72,6 +72,7 @@ sync_repo() {
 commit_and_push() {
   local msg="$1"
   local domain="$2"
+  local site_dir="$3"   # absolute path to the job's output directory
   cd "$REPO_DIR"
 
   # Create a branch for this mirror job
@@ -81,7 +82,14 @@ commit_and_push() {
     git checkout main 2>/dev/null
   }
 
-  git add -A
+  # ONLY add files belonging to this job — never git add -A
+  if [[ -d "$site_dir" ]]; then
+    git add -- "$site_dir"
+  else
+    log "WARNING: site dir $site_dir does not exist, nothing to add"
+    git checkout main 2>/dev/null
+    return 0
+  fi
 
   if git diff --cached --quiet 2>/dev/null; then
     log "No changes to commit for $domain"
@@ -91,20 +99,17 @@ commit_and_push() {
 
   git commit -m "$msg"
 
-  # Check size of domain directory before pushing
-  local domain_dir="$SITES_DIR/$domain"
-  if [[ -d "$domain_dir" ]]; then
-    local size_kb
-    size_kb="$(du -sk "$domain_dir" 2>/dev/null | cut -f1)"
-    local size_mb=$(( size_kb / 1024 ))
+  # Check size of site directory before pushing
+  local size_kb
+  size_kb="$(du -sk "$site_dir" 2>/dev/null | cut -f1)"
+  local size_mb=$(( size_kb / 1024 ))
 
-    if [[ "$size_kb" -gt "$MAX_PUSH_SIZE_KB" ]]; then
-      log "WARNING: $domain is ${size_mb}MB (>${MAX_PUSH_SIZE_KB}KB) — committed locally, skipping push"
-      git checkout main 2>/dev/null
-      return 0
-    fi
-    log "Size: ${size_mb}MB — under 1GB threshold, pushing"
+  if [[ "$size_kb" -gt "$MAX_PUSH_SIZE_KB" ]]; then
+    log "WARNING: $domain is ${size_mb}MB (>${MAX_PUSH_SIZE_KB}KB) — committed locally, skipping push"
+    git checkout main 2>/dev/null
+    return 0
   fi
+  log "Size: ${size_mb}MB — under 1GB threshold, pushing"
 
   git push -u origin "$branch" || {
     log "Push failed, will retry next cycle"
@@ -113,9 +118,9 @@ commit_and_push() {
   }
 
   local file_count
-  file_count="$(find "$domain_dir" -type f ! -name '_*' 2>/dev/null | wc -l | tr -d ' ')"
+  file_count="$(find "$site_dir" -type f ! -name '_*' 2>/dev/null | wc -l | tr -d ' ')"
   local size_human
-  size_human="$(du -sh "$domain_dir" 2>/dev/null | cut -f1)"
+  size_human="$(du -sh "$site_dir" 2>/dev/null | cut -f1)"
 
   # Create PR
   if command -v gh &>/dev/null; then
@@ -140,13 +145,14 @@ process_job_file() {
   filename="$(basename "$job_file")"
 
   # Extract fields from the .job file
-  local target domain mode path_filter ts_to label
+  local target domain mode path_filter ts_to label offline
   target="$(grep '^target:' "$job_file" | head -1 | sed 's/^target: *//')"
   domain="$(grep '^domain:' "$job_file" | head -1 | sed 's/^domain: *//')"
   mode="$(grep '^mode:' "$job_file" | head -1 | sed 's/^mode: *//')"
   path_filter="$(grep '^path_filter:' "$job_file" | head -1 | sed 's/^path_filter: *//' || true)"
   ts_to="$(grep '^ts_to:' "$job_file" | head -1 | sed 's/^ts_to: *//' || true)"
   label="$(grep '^label:' "$job_file" | head -1 | sed 's/^label: *//' || true)"
+  offline="$(grep '^offline:' "$job_file" | head -1 | sed 's/^offline: *//' || true)"
 
   if [[ -z "$domain" || -z "$mode" ]]; then
     log "ERROR: Missing domain or mode in $filename"
@@ -159,16 +165,24 @@ process_job_file() {
   log "━━━ MERLib Mirror — New job ━━━━━━━━━━━━━━━━"
   log "Domain: $domain"
   log "Mode:   $mode"
+  [[ "$offline" == "true" ]] && log "Offline: YES (download only, no commit/push)"
   log "Target: $target"
 
   # Move to processing
   mv "$job_file" "$PROCESSING_DIR/$filename"
 
+  # Choose output directory: offline/ for offline jobs, sites/ for normal
+  local output_dir="$SITES_DIR"
+  if [[ "$offline" == "true" ]]; then
+    output_dir="$REPO_DIR/offline"
+    mkdir -p "$output_dir"
+  fi
+
   # Build mirror.py command
   local mirror_args=()
 
   if [[ "$mode" == "wayback" ]]; then
-    mirror_args=(wayback "$domain" --resume --output-dir "$SITES_DIR")
+    mirror_args=(wayback "$domain" --resume --output-dir "$output_dir")
     if [[ -n "$path_filter" ]]; then
       mirror_args+=(--path "$path_filter")
       log "Path filter: $path_filter"
@@ -178,14 +192,14 @@ process_job_file() {
       log "Timestamp cap: --to $ts_to"
     fi
   elif [[ "$mode" == "live" ]]; then
-    mirror_args=(live "$target" --output-dir "$SITES_DIR")
+    mirror_args=(live "$target" --output-dir "$output_dir")
   elif [[ "$mode" == "gdrive" ]]; then
-    mirror_args=(gdrive "$target" --output-dir "$SITES_DIR")
+    mirror_args=(gdrive "$target" --output-dir "$output_dir")
     if [[ -n "$label" ]]; then
       mirror_args+=(--label "$label")
     fi
   elif [[ "$mode" == "dropbox" ]]; then
-    mirror_args=(dropbox "$target" --output-dir "$SITES_DIR")
+    mirror_args=(dropbox "$target" --output-dir "$output_dir")
     if [[ -n "$label" ]]; then
       mirror_args+=(--label "$label")
     fi
@@ -199,7 +213,7 @@ process_job_file() {
   log "Running: python3 $MIRROR_PY ${mirror_args[*]}"
 
   # Run mirror.py — log errors but still mark as done
-  local site_dir="$REPO_DIR/sites/$domain"
+  local site_dir="$output_dir/$domain"
   local exit_code=0
   python3 "$MIRROR_PY" "${mirror_args[@]}" 2>&1 | tee "$site_dir/_mirror_worker.log" 2>/dev/null || exit_code=$?
 
@@ -211,8 +225,12 @@ process_job_file() {
   # Always move to done — partial mirrors are still valuable
   mv "$PROCESSING_DIR/$filename" "$DONE_DIR/$filename"
 
-  # Commit and push to main
-  commit_and_push "mirror: $domain" "$domain"
+  # Commit and push — unless offline mode
+  if [[ "$offline" == "true" ]]; then
+    log "Offline mode — files saved locally, skipping commit and push"
+  else
+    commit_and_push "mirror: $domain" "$domain" "$site_dir"
+  fi
 
   log "Done: $domain"
   log "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
