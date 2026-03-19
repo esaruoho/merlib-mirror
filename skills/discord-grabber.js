@@ -1,6 +1,8 @@
 (async function scrapeDiscord() {
   const allMessages = new Map();
   const imageURLs = [];
+  const videoURLs = [];
+  const fileURLs = [];
   const scroller = document.querySelector('[class*="managedReactiveScroller"]')
                 || document.querySelector('[data-jump-section="global"][role="group"]')
                 || document.querySelector('[class*="scroller__36d07"]');
@@ -77,6 +79,7 @@
       const videos = Array.from(new Set(
         Array.from(videoEls).map(v => v.src || v.href).filter(Boolean)
       ));
+      videos.forEach(v => { if (!videoURLs.includes(v)) videoURLs.push(v); });
 
       const fileEls = el.querySelectorAll('[class*="attachment_"] a[href*="cdn.discordapp.com"]');
       const files = Array.from(fileEls)
@@ -85,6 +88,7 @@
           const lower = href.toLowerCase();
           return !lower.match(/\.(png|jpg|jpeg|gif|webp|mp4|webm|mov)(\?|$)/);
         });
+      files.forEach(f => { if (!fileURLs.includes(f)) fileURLs.push(f); });
 
       allMessages.set(id, {
         id,
@@ -154,6 +158,8 @@
     totalMessages: sorted.length,
     uniqueAuthors: [...new Set(sorted.map(m => m.author))],
     totalImages: imageURLs.length,
+    totalVideos: videoURLs.length,
+    totalFiles: fileURLs.length,
     dateRange: sorted.length
       ? `${sorted[0].timestamp} → ${sorted[sorted.length - 1].timestamp}`
       : 'N/A',
@@ -173,43 +179,94 @@
   URL.revokeObjectURL(url);
   console.log('%c[Discord Scraper] JSON downloaded!', 'color: lime; font-weight: bold');
 
-  // --- DOWNLOAD IMAGES (skip junk < 10KB) ---
-  if (imageURLs.length > 0) {
-    const downloadImages = confirm(
-      `Found ${imageURLs.length} images. Download them all?\n\n` +
-      `(Tiny images < 10KB like emoji will be auto-skipped.\n` +
-      `They'll save as individual files via your browser's download manager.)`
+  // --- DOWNLOAD ALL ATTACHMENTS (full mirror) ---
+  const totalAttachments = imageURLs.length + videoURLs.length + fileURLs.length;
+  if (totalAttachments > 0) {
+    const doDownload = confirm(
+      `Full mirror: ${imageURLs.length} images, ${videoURLs.length} videos, ${fileURLs.length} files.\n\n` +
+      `Tiny images < 10KB (emoji) will be auto-skipped.\n` +
+      `Download all ${totalAttachments} attachments?`
     );
-    if (downloadImages) {
-      let skipped = 0;
-      let downloaded = 0;
-      const MIN_SIZE = 10 * 1024; // 10KB minimum — skip emoji/icons
-      console.log(`[Discord Scraper] Downloading ${imageURLs.length} images (skipping < ${MIN_SIZE/1024}KB)...`);
-      for (let i = 0; i < imageURLs.length; i++) {
-        const imgUrl = imageURLs[i];
-        try {
-          const resp = await fetch(imgUrl);
-          const imgBlob = await resp.blob();
-          if (imgBlob.size < MIN_SIZE) {
-            skipped++;
-            console.log(`[Discord Scraper] Skipped tiny image (${imgBlob.size}B): ${imgUrl.slice(0, 80)}`);
-            continue;
-          }
-          const ext = imgUrl.match(/\.(png|jpg|jpeg|gif|webp)/i)?.[1] || 'png';
-          const imgA = document.createElement('a');
-          imgA.href = URL.createObjectURL(imgBlob);
-          imgA.download = `discord-img-${String(downloaded + 1).padStart(4, '0')}.${ext}`;
-          document.body.appendChild(imgA);
-          imgA.click();
-          document.body.removeChild(imgA);
-          URL.revokeObjectURL(imgA.href);
-          downloaded++;
-          if (downloaded % 5 === 0) await new Promise(r => setTimeout(r, 500));
-        } catch (err) {
-          console.warn(`[Discord Scraper] Failed to download image ${i + 1}: ${imgUrl}`, err);
-        }
+    if (doDownload) {
+      const MIN_IMG_SIZE = 10 * 1024; // 10KB minimum for images
+
+      // Helper to download a blob with a given filename
+      async function downloadBlob(blob, filename) {
+        const a = document.createElement('a');
+        a.href = URL.createObjectURL(blob);
+        a.download = filename;
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+        URL.revokeObjectURL(a.href);
       }
-      console.log(`%c[Discord Scraper] Done! ${downloaded} downloaded, ${skipped} tiny images skipped.`, 'color: lime; font-weight: bold');
+
+      // --- IMAGES ---
+      if (imageURLs.length > 0) {
+        let skipped = 0, downloaded = 0;
+        console.log(`%c[Discord Scraper] Downloading ${imageURLs.length} images...`, 'color: cyan');
+        for (let i = 0; i < imageURLs.length; i++) {
+          try {
+            const resp = await fetch(imageURLs[i]);
+            const blob = await resp.blob();
+            if (blob.size < MIN_IMG_SIZE) {
+              skipped++;
+              console.log(`[Discord Scraper] Skipped tiny image (${blob.size}B): ${imageURLs[i].slice(0, 80)}`);
+              continue;
+            }
+            const ext = imageURLs[i].match(/\.(png|jpg|jpeg|gif|webp)/i)?.[1] || 'png';
+            await downloadBlob(blob, `discord-img-${String(downloaded + 1).padStart(4, '0')}.${ext}`);
+            downloaded++;
+            if (downloaded % 5 === 0) await new Promise(r => setTimeout(r, 500));
+          } catch (err) {
+            console.warn(`[Discord Scraper] Failed image ${i + 1}:`, err);
+          }
+        }
+        console.log(`%c[Discord Scraper] Images: ${downloaded} downloaded, ${skipped} skipped.`, 'color: lime');
+      }
+
+      // --- VIDEOS ---
+      if (videoURLs.length > 0) {
+        console.log(`%c[Discord Scraper] Downloading ${videoURLs.length} videos...`, 'color: cyan');
+        for (let i = 0; i < videoURLs.length; i++) {
+          try {
+            const resp = await fetch(videoURLs[i]);
+            const blob = await resp.blob();
+            const ext = videoURLs[i].match(/\.(mp4|webm|mov)/i)?.[1] || 'mp4';
+            await downloadBlob(blob, `discord-vid-${String(i + 1).padStart(4, '0')}.${ext}`);
+            console.log(`[Discord Scraper] Video ${i + 1}/${videoURLs.length} (${(blob.size / 1024 / 1024).toFixed(1)}MB)`);
+            await new Promise(r => setTimeout(r, 1000)); // videos are large, pace downloads
+          } catch (err) {
+            console.warn(`[Discord Scraper] Failed video ${i + 1}:`, err);
+          }
+        }
+        console.log(`%c[Discord Scraper] Videos: ${videoURLs.length} downloaded.`, 'color: lime');
+      }
+
+      // --- FILES ---
+      if (fileURLs.length > 0) {
+        console.log(`%c[Discord Scraper] Downloading ${fileURLs.length} files...`, 'color: cyan');
+        for (let i = 0; i < fileURLs.length; i++) {
+          try {
+            const resp = await fetch(fileURLs[i]);
+            const blob = await resp.blob();
+            // Try to extract original filename from URL path
+            let filename;
+            try {
+              const urlPath = new URL(fileURLs[i]).pathname;
+              filename = decodeURIComponent(urlPath.split('/').pop());
+            } catch (_) {
+              filename = `discord-file-${String(i + 1).padStart(4, '0')}`;
+            }
+            await downloadBlob(blob, filename);
+            console.log(`[Discord Scraper] File ${i + 1}/${fileURLs.length}: ${filename} (${(blob.size / 1024).toFixed(0)}KB)`);
+            if (i % 3 === 2) await new Promise(r => setTimeout(r, 500));
+          } catch (err) {
+            console.warn(`[Discord Scraper] Failed file ${i + 1}:`, err);
+          }
+        }
+        console.log(`%c[Discord Scraper] Files: ${fileURLs.length} downloaded.`, 'color: lime');
+      }
     }
   }
 
