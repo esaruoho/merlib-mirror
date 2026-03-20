@@ -1,0 +1,28 @@
+[2026-03-20 17:24:02] ============================================================
+[2026-03-20 17:24:02] LIVE MIRROR: torkado.de
+[2026-03-20 17:24:02] Seed: http://torkado.de
+[2026-03-20 17:24:02] Seed path: /
+[2026-03-20 17:24:02] Max link depth: 5
+[2026-03-20 17:24:02] Output: /Users/esaruoho/work/merlib-mirror/sites/torkado.de
+[2026-03-20 17:24:02] ============================================================
+[2026-03-20 17:24:02] Crawling / (download-as-you-go)...
+[2026-03-20 17:24:02]   [1 d0*] http://torkado.de  (1 OK, 0 queued)
+[2026-03-20 17:24:02]     +9 links (10 total known)
+[2026-03-20 17:24:02]   [2 d0*] http://torkado.de/img/CoverAvatarJ222.jpg  (2 OK, 8 queued)
+[2026-03-20 17:24:04]   [3 d0*] http://torkado.de/okkCh.htm  (3 OK, 7 queued)
+[2026-03-20 17:24:04]     +3 links (13 total known)
+[2026-03-20 17:24:05]   [4 d0*] http://torkado.de/img9/OC019.jpg  (4 OK, 9 queued)
+[2026-03-20 17:24:06]   [5 d0*] http://torkado.de/img9/O16.gif  (5 OK, 8 queued)
+[2026-03-20 17:24:06]   [6 d0*] http://www.torkado.de  (6 OK, 7 queued)
+[2026-03-20 17:24:06]     +8 links (21 total known)
+[2026-03-20 17:24:07]   [7 d0*] http://www.torkado.de/img/CoverAvatarJ222.jpg  (7 OK, 14 queued)
+[2026-03-20 17:24:08]   [8 d0*] http://www.torkado.de/torkado.htm  (8 OK, 13 queued)
+[2026-03-20 17:24:08]     +30 links (51 total known)
+[2026-03-20 17:24:08]   [9 d0*] http://www.torkado.de/wuerthGetriebe.htm  (9 OK, 42 queued)
+[2026-03-20 17:24:08]     +4 links (55 total known)
+[2026-03-20 17:24:09]   [10 d0*] http://www.torkado.de/wuerth-maschine.jpg  (10 OK, 45 queued)
+[2026-03-20 17:24:13]   [15 d0*] http://www.torkado.de/GetriebeS.gif  (15 OK, 47 queued)
+[2026-03-20 17:24:18]   [20 d0*] http://www.torkado.de/Getriebe1b.gif  (20 OK, 42 queued)
+[2026-03-20 17:24:21]   [25 d0*] http://www.torkado.de/gewicht2.htm  (25 OK, 42 queued)
+[2026-03-20 17:24:26]   [30 d0*] http://www.torkado.de/img3/kbraeuer2.gif  (30 OK, 55 queued)
+[2026-03-20 17:24:36]   [40 d0*] http://www.torkado.de/pdfs/rz130_2007.pdf  (38 OK, 60 queued)
