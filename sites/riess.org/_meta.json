@@ -1,0 +1,14 @@
+{
+  "source": "web.archive.org",
+  "domain": "riess.org",
+  "mirror_date": "2026-03-17T01:00:24.682080",
+  "total_urls": 26,
+  "downloaded": 25,
+  "failed": 1,
+  "files": 39,
+  "file_types": {
+    ".gif": 7,
+    ".html": 16,
+    ".txt": 16
+  }
+}
