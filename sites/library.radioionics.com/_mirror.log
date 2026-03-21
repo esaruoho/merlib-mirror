@@ -1,0 +1,18 @@
+[2026-03-21 16:34:19] ============================================================
+[2026-03-21 16:34:19] LIVE MIRROR: library.radioionics.com
+[2026-03-21 16:34:19] Seed: https://library.radioionics.com
+[2026-03-21 16:34:19] Seed path: /
+[2026-03-21 16:34:19] Max link depth: 5
+[2026-03-21 16:34:19] Output: /Users/esaruoho/work/merlib-mirror/sites/library.radioionics.com
+[2026-03-21 16:34:19] ============================================================
+[2026-03-21 16:34:19] Crawling / (download-as-you-go)...
+[2026-03-21 16:34:20] Generating index...
+[2026-03-21 16:34:20] Index: 0 files
+[2026-03-21 16:34:20] 
+============================================================
+[2026-03-21 16:34:20] LIVE MIRROR COMPLETE
+[2026-03-21 16:34:20] Downloaded: 1, OK: 0, Failed: 1
+[2026-03-21 16:34:20] Total URLs seen: 1
+[2026-03-21 16:34:20] ============================================================
+[2026-03-21 16:34:20] 
+Next step: fe-ingest.sh /Users/esaruoho/work/merlib-mirror/sites/library.radioionics.com
