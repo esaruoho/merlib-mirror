@@ -1,0 +1,8 @@
+TorkadoFaktor-Test 
+
+ Test-Applet zur Ermittlung des Faktors bei fester exc-Einstellung . 
+Bei Klick auf STOP/WEITER (wenn die Kurve geschlossen ist) wird neu gestartet mit dem rechts eingetragenem Wert. 
+Die links ausgegebene Zahl ist nach einem guten Klick-Treffer rechts einzutragen, das war der aktuelle Faktor-Wert beim Klick. 
+Faktor steigt mit d_Faktor pro Bild 
+ KurveB: k= 1 + Faktor*(abstand-R)/(4Pi); winkeltheta = winkeltheta - dtheta*k; winkelphi = winkelphi + dphi/k; 
+ radiusklein= r(1 + exc1*(cos(theta)^2 + cos(theta)) + exc2*(sin(theta)^2 + sin(theta))); ( Skizze fr Def.Winkel )

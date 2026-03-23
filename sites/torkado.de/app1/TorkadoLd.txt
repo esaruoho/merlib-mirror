@@ -1,0 +1,9 @@
+TorkadoL 
+
+ Drehimpulserhaltung L=r x m*v mit (dphi/k)*(dtheta*k)=const , (dphi/k) = Winkelgeschwindigkeit w 
+ ( Skizze ), Torus fr exc1=exc2=0 
+ KurveB: k= 1 + Faktor*(abstand-R)/(4Pi); winkeltheta = winkeltheta - dtheta*k; winkelphi = winkelphi + dphi/k; 
+ KurveA: winkelphi und winkeltheta getauscht; 
+ radiusklein= r(1 + exc1*(cos(theta)^2 + cos(theta)) + exc2*(sin(theta)^2 + sin(theta))); 
+ Geschlossene Kurven bei Faktor=1 fr dphi/dtheta=g*M/N, mit M ganz, N ganz , g=0.618034.., r=5 und passenden exc 
+ Geschlossene Kurven bei Faktor=0 fr dphi/dtheta=M/N, mit M ganz, N ganz , M > N, r=5, exc1=exc2=0

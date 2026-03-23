@@ -1,0 +1,18 @@
+Goldener-Schnitt-Filter 
+
+ GSF 
+
+ Frequenz [Hz]: 
+
+2 alternativ zu berechnende Gren mssen Null (=0) gesetzt werden (auer Frequenz): 
+
+ Spannung [V]: 
+
+ Leistung [VA]: 
+
+ Strom [A]: 
+
+ Impedanz [Ohm]: 
+
+ Skizze und Gleichungen 
+ info@aladin24.de

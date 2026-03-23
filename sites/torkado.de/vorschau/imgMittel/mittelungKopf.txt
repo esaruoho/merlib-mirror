@@ -1,0 +1,65 @@
+Schaedel_MittelungMal {
+; Outside: Color Density 16
+init:
+  z = #pixel
+  z2 = z
+
+loop:
+   x = real(z)
+   y = imag(z)
+   x2 = real(z2)
+   y2 = imag(z2)
+   xmitt = sqrt(x*x2)
+   ymitt = sqrt(y*y2)
+   zmitt = xmitt + flip(ymitt)
+
+   z1 = x - flip(y)
+   z = z1^z + @seed + @koppl*zmitt
+
+   z1a = x2 - flip(y2)
+   z2 = z1a^z2 + @seed - @koppl*zmitt
+
+bailout:
+  |z| < @bailout
+default:
+  title = "Kopf Mittelung Mal"
+  magn = 0.01
+  center = (-170.0,0.0)     ; (1,0)
+  method = onepass  ; multipass
+  maxiter = 100
+  ;angle = 90
+  ; gradientrotation ? = -27
+  ;periodicity = 0
+  ;rating = notrecommended ; recomended
+$IFDEF VER50
+  rating = recommended
+$ENDIF
+
+  param koppl
+    caption = "Koppelparameter"
+    default = 0.01
+  endparam
+  param bailout
+    caption = "Bailout value"
+    default = 1.0e9
+    ;min = 1.0
+$IFDEF VER40
+    exponential = true
+$ENDIF
+    hint = "This parameter defines how soon an orbit bails out while \
+            iterating. Larger values give smoother outlines; values around 4 \
+            give more interesting shapes around the set. Values less than 4 \
+            will distort the fractal."
+  endparam
+  param seed
+    caption = "Julia seed"
+    default = (-1.0, 0)
+    hint = "Use this parameter to create many different Julia sets. A good \
+            way to set this parameter is with the Switch, Eyedropper, or \
+            Explore features."
+  endparam
+switch:
+  type = "Mandelbrot"
+  power = power
+  bailout = bailout
+}

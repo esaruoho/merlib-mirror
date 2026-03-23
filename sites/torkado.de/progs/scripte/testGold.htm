@@ -1,0 +1,61 @@
+<html>
+<head>
+<title>Goldener Schnitt</title>
+</head>
+
+<body bgcolor="#000000" text="#FFFFFF">
+
+<h3><font color="#FFFFFF"><b>Goldener Schnitt<br>Test<br>x = 1/x + 1</b></font></h3>
+
+<form name="gold">
+Startzahl fr x:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <input type="text" size="15" name="zahl" value="10.0"> <br><br>
+
+  <blockquote> <font color="#00FF00" size="3" face="Courier New">
+    <blockquote>
+            <input type="button" value="Test starten" onclick="calculation1()">
+         </blockquote>
+</font>
+</blockquote>
+</form>
+
+
+<br>
+
+
+<p>
+  <script language="JavaScript"><!--
+// JavaScript von G.Mueller www.aladin24.de
+
+
+function calculation1()
+{
+
+  z0 = document.gold.zahl.value;
+  x = z0*1.0;
+
+  ausgabe = "Goldener Schnitt:  Startzahl = " + x + "<br><br>";
+
+
+  for (i=1; i<101; i++)
+  {
+    quot1= 1/x + 1.0;
+    x = quot1;
+
+    ausgabe += "i= " + i + " &nbsp;&nbsp; x = 1/x + 1 = " + quot1 + "<br>";
+
+  }
+
+  document.write(ausgabe.bold());
+
+
+
+}
+
+
+
+
+// --></script>
+
+
+</body>
+</html>

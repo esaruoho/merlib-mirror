@@ -1,0 +1,10 @@
+FractalSearch Kopf 
+
+ Iterationsverfolgung Kopf 
+
+ Hinweis: Dieses Bild ist nur fr Koppelfaktor = 0.01 
+
+ Punkt x 
+ Punkt y 
+ Koppelfaktor 
+ Zahl der Iterationen

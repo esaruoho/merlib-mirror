@@ -1,0 +1,48 @@
+<HTML>
+<HEAD>
+<TITLE>TorkadoL</TITLE>
+</HEAD>
+<BODY>
+<h3> Drehimpulserhaltung L=r x m*v mit (dphi/k)*(dtheta*k)=const , (dphi/k) = Winkelgeschwindigkeit w</h3>
+     (<a href="../toruswinkel.gif" target="_blank">Skizze</a>), Torus fr exc1=exc2=0<br>
+      KurveB: &nbsp;&nbsp; k= 1 + Faktor*(abstand-R)/(4Pi); winkeltheta = winkeltheta - dtheta*k; winkelphi = winkelphi + dphi/k;<br>
+	  KurveA: &nbsp;&nbsp; winkelphi und winkeltheta getauscht;<br>
+      radiusklein= r(1 + exc1*(cos(theta)^2 + cos(theta)) + exc2*(sin(theta)^2 + sin(theta)));<br>
+      Geschlossene Kurven bei Faktor=1 fr dphi/dtheta=g*M/N, mit M ganz, N ganz , g=0.618034.., r=5 und passenden exc<br>
+      Geschlossene Kurven bei Faktor=0 fr dphi/dtheta=M/N, mit M ganz, N ganz , M > N, r=5, exc1=exc2=0<br>
+
+<table cellpadding="5" bgcolor="#669999"><tr><td>
+
+<APPLET CODE="TorkadoL.class" WIDTH=810 HEIGHT=440>
+	<param name=language value="German">
+	<param name=Radius_gross value="6">
+	<param name=Radius_klein value="5">
+	<param name=Exzentr1 value="0">
+	<param name=Exzentr2 value="0">
+	<param name=d_phi value="0.06">
+	<param name=d_theta value="0.02">
+    <param name=Faktor value="0">
+	<param name=Kippwinkel value="90">
+	<param name=anzeigenKurveA value="false">
+	<param name=anzeigenKurveB value="true">
+	<param name=Schrittzahl value="9000">
+	<param name=Bildverkleinerung value="1.3">
+	<param name=ColorBackground value="ffffff">
+	<param name=ColorPanel value="dddddd">
+    <param name=ColorSchrift value="000000">
+	<param name=ColorX_Achse value="ffffff">
+	<param name=ColorY_Achse value="ffffff">
+	<param name=ColorZ_Achse value="ffffff">
+	<param name=ColorA1 value="000000">
+	<param name=ColorA2 value="888888">
+	<param name=ColorA3 value="ff0000">
+	<param name=ColorA4 value="ffaaaa">
+	<param name=ColorB1 value="aa00aa">
+	<param name=ColorB2 value="ff88ff">
+	<param name=ColorB3 value="0000aa">
+	<param name=ColorB4 value="8888ff">
+</APPLET>
+
+ </td></tr><table>
+</BODY>
+</HTML>

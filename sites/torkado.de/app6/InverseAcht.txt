@@ -1,0 +1,8 @@
+Rotierende Acht 
+
+ Inverse Acht - Flachtoren 
+
+ Alle Applet-Parameter als Startwert im Quelltext der HTM-Seite einstellbar, z.B. param name=Radius_gross value="10.0" 
+ param name=UmdrehungenMitR value="0.5" 
+
+ Hinweis: Jeweils am oberen und unteren Umkehrpunkt wechselt die Farbe, die Stelle oben ist farblich markiert.

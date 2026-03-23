@@ -1,0 +1,47 @@
+phigold^x, Logarithmische Spirale phigold=1.61803 
+
+ Logarithmische Spirale r = phigold^(phi/b) 
+
+ Umlufe u: 
+
+ Parameter b: 
+ Schrittzahl s: 
+
+ Ergebnisse:
+ Endradius bis Nullpunkt 
+
+ Gesamt-Laenge L iterativ 
+
+ Gesamt-Laenge L analytisch (u Ganz) 
+
+ Gesamt-Laenge in 2Pi 
+
+ Laenge L1= 2Pi*(Faktor-1)/ln(Faktor) 
+
+ Laenge L1 iterativ 
+
+ Laenge L2-L1 iterativ 
+
+ Faktor =R(u)/R(u-1) 
+
+r = Basis^(phi/b) mit Basis = phigold = 1.618033988749894848204586834 
+Spiralenlnge: L=L1*(Sum(F^n) fr n=0 bis (Umlufe-1)), 
+ z.B. L5=L1*(1+F+F^2+F^3+F^4), F=Faktor=R(u)/R(u-1) 
+Erster Umlauf: L1= (Faktor-1)*b/ln(Basis) 
+Berechnung b aus Faktor: b = 2Pi*ln(Basis)/ln(Faktor) 
+Berechnung Faktor aus b: Faktor = (Basis)^(2Pi/b) 
+
+z.B. mit b= 4.362050591352134 (macht Faktor 2 pro Umlauf) 
+oder mit b= 2.181025295676=4.36205/2 (macht Faktor 4 pro Umlauf) 
+oder mit b= 2.752147504668033 (macht Faktor 3 pro Umlauf) 
+oder mit b= 1.3760737523340165=2.75214/2 (macht Faktor 9 pro Umlauf) 
+oder mit b= 1.878632934825546274 (macht Faktor 5 pro Umlauf) 
+oder mit b= 0.939316467412773137=1.87863/2 (macht Faktor 25 pro Umlauf) 
+
+oder mit b= 2Pi= 6.283185307179586476925286766559 (macht Faktor phigold pro Umlauf) 
+oder mit b= Pi (macht Faktor phigold^2=2.618034 pro Umlauf) 
+oder mit b= Pi/2 (macht Faktor phigold^4=6.85410 pro Umlauf) 
+oder mit b= Pi/4 (macht Faktor phigold^8=46.97871 pro Umlauf) 
+oder mit b= 4Pi (macht Faktor sqrt(phigold)=1.272019 pro Umlauf) 
+
+ Links: Umrechnung verschiedener b ohne Kenntnis von Faktor

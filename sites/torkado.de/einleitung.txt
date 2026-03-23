@@ -1,0 +1,50 @@
+Einleitung 
+
+ Einleitung 
+
+ Wenn es um Freie Energie (FE) geht, denkt jeder gleich 
+ an 'Perpetuum mobile'. 
+ Das ist aber falsch. 
+ Alle FE-Ger&auml;te lassen erkennen, da&szlig; die Energie 
+ nicht aus dem NICHTS kommt. Sie kommt nur einer nicht genau erkannten 
+ Quelle. Wenn die Quelle dann detektiert ist, bekommen diese Ger&auml;te 
+ einen anderen Namen, wie W&auml;rmepumpe oder Gravitationsmotor usw. 
+ . Mir sind bisher Ger&auml;te (ihre Bauanleitung) begegnet, die offenbar 
+ mit der Gravitation wechselwirken. Aber sie bewegen sich nicht einfach 
+ nur nach unten und nach oben. Sie rotieren im Raum und besitzen mindestens 
+ zwei getrennte Rotationsachsen, die Bremsphasen und Beschleunigungsphasen 
+ erzeugen. Ihre Bahn f&uuml;hrt nach unten UND zur Seite, und es ist 
+ keine Symmetrie dabei. Der nach unten f&uuml;hrende Weg ist l&auml;nger, 
+ flacher und rotationsbeschleunigt, der nach oben f&uuml;hrende Weg ist 
+ steil, kurz und rotationsgebremst. In fl&uuml;ssigen Systemen bilden 
+ sich kaskadenf&ouml;rmige Unterstrukturen mit immer neuen, kleineren 
+ exzentrisch drehenden Walzen. Charakteristisch ist die beim Einschwingen 
+ zunehmende Zahl der Drehvektoren. 
+ F&uuml;r die Anwendung des Energiesatzes setzt man immer 
+ Quellenfreiheit voraus: Man bildet dann das Wegintegral &uuml;ber eine 
+ geschlossene Kurve, und die Gesamtenergie ist dann nie positiv, bestenfalls 
+ Null bei Vernachl&auml;ssigung von Reibung und anderen Verlusten. 
+ Die Quellenfreiheit ist hier der Irrtum. 
+ Die Quellenfreiheit des G-Feldes ist in diesem Falle 
+ nicht garantiert. Exzentrisch (mit mehreren Drehvektoren W) rotierende 
+ Massen der lokalen Dichte rho erzeugen tr&auml;gheitsbedingt (Rotationsbeschleunigung 
+ dv/dt) ein eigenes zus&auml;tzliches G-Feld 
+ dG(t)=rho(t)* (dv(t)) x W(t) f&uuml;r 
+ jedes einzelne W ; 
+ genau so, wie ein bewegter Leiter im Magnetfeld mit der Flu&szlig;dichte 
+ B=my*H ein E-Feld E=vxB erzeugt, das beim Schlie&szlig;en des Kreises 
+ einen Stromflu&szlig; (elektrische Ladungen=Quellen) bewirken kann. 
+ L&auml;&szlig;t man das erzeugte dG-Feld konstruktionsbedingt &uuml;berwiegend 
+ gegen die Erdgravitation arbeiten, bleibt im geschlossenen Wegintegral 
+ (mit allen Quellen) eine positive Energie &uuml;brig, die das System 
+ energetisch aufschaukelt und die man auch entnehmen kann. 
+
+ Die Texte sind erst vor kurzem entstanden und werden fast t&auml;glich 
+ aktualisiert. 
+ Erst in einer sp&auml;teren Version finden Sie 
+ sauber &uuml;berarbeitete Texte, dieses hier ist aktuelles Ideen-Rohmaterial. 
+
+ Momentan bester/neuester Text 
+ Rundgang 
+ Inhalt 
+ Meine Email-Adresse: info@aladin24.de

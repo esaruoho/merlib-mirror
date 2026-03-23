@@ -1,0 +1,230 @@
+<html>
+<head>
+<title>Funktion x^x waechst mit Eulerscher Zahl</title>
+</head>
+
+<body bgcolor="#333333" text="#DDDDDD" link="#DDDDDD" vlink="#DDDDDD" alink="#EEEEEE">
+
+<h2 align="center"><font color="#FFFFFF"><b>Die Funktion x^x beinhaltet die Eulersche Zahl e = 2.718281828.. nicht nur als Extremwert, <br>sondern auch als Grenzwert</b></font></h2><font color="#FFFFFF">
+
+<hr>
+<table width="100%" border="0" cellpadding="15" align="center">
+  <tr>
+    <td><font color="#DDDDDD" size="3" face="Courier New">Fr x gegen Unendlich gilt:<br>
+  <br>
+  (x^x) / ((x-1)^(x-1)) / (x-0.5) = e
+  <br>e = 2.718281828.. &nbsp;&nbsp; Eulersche Zahl<br><br>
+  x kann beliebig gebrochen sein, aber die Schrittweite 1 muss beibehalten werden.<br><br>
+  gefunden von Frithjof Mller</font>
+  </td>
+    <td>
+    <img src="images/e_xhxKeller.gif" width="243" height="263">
+     &nbsp;&nbsp;&nbsp;
+        <img src="images/KellerFormel.gif" width="262" height="200">
+    </td>
+  </tr>
+</table>
+
+<font color="#DDDDDD" size="3" face="Courier New">
+<form name="zhz1">
+
+  <blockquote>
+    <blockquote>
+            <input type="button" value="Test1 starten" onclick="calculation1()">
+    </blockquote>
+</blockquote>
+</form>
+<hr>
+
+<br><b>Es folgte daraus die Vermutung:</b> <br><br>lim [(1+1/n)^(n+1/2)] = e konvergiert besser als lim [(1+1/n)^n] = E<br><br>
+gefunden von Gabi Mueller<br><br>
+
+<b>Beweis fuer den gleichen Grenzwert e (= E = 2.718281828459..):</b><br><br>
+
+ &nbsp;&nbsp;&nbsp;((n+1)^(n+1))/(n^n)/(n+0.5)<br><br>
+ &nbsp; = ((n+1)/n)^n  *(n+1)/(n+0.5)<br>
+ &nbsp; = &nbsp;&nbsp;(1+1/n)^n    *(n+1)/(n+0.5)<br>
+ &nbsp; = &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;E &nbsp;&nbsp;&nbsp;&nbsp;      *(n+1)/(n+0.5)<br><br>
+ &nbsp; Der limes von (n+1)/(n+0.5) geht gegen 1 fuer n gegen Unendlich.<br><br>
+ &nbsp; Aus (n+1)/(n+0.5) = ((n+1)/n)^k folgt<br>
+ &nbsp; k = ln((n+1)/(n+0.5))/ln((n+1)/n)<br>
+ &nbsp; Ab ca. n = 1.0E10 ist k=0.5 auf 10 Kommastellen genau.<br><br>
+ <b>Numerischer Nachweis der besseren Konvergenz:</b><br><br>
+ Die Konvergenz mit einer Potenz (n +- delta) mit delta ungleich 0.5 ist immer schlechter.
+
+<form name="zhz2">
+
+    n von : <input type="text" size="20" name="NV" value="2000"> &nbsp; n bis: <input type="text" size="20" name="NB" value="2030"><br><br>
+    delta : <input type="text" size="20" name="Delta" value="0.5001"><br><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <input type="button" value="Test2 starten" onclick="calculation2()">
+
+</form>
+<hr>
+
+<br>Ebenso zeigt es sich, dass die analoge Ergnzung auf die exp-Funktion uebertragbar ist. Man kann numerisch nachweisen, dass
+<br><br>lim [(1+x/n)^(n+x/2)] = exp(x) wesentlich besser konvergiert als lim [(1+x/n)^n] = Exp(x)<br><br>
+
+
+<form name="zhz3">
+
+    n von : <input type="text" size="20" name="NV" value="2000"> &nbsp; n bis: <input type="text" size="20" name="NB" value="2030"><br><br>
+    delta : <input type="text" size="20" name="Delta" value="0.5001"><br><br>
+    x-Wert: <input type="text" size="20" name="XX" value="2.2"> fr exp(x) = (1 + x/n)^(n+delta*x)<br><br>
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <input type="button" value="Test3 starten" onclick="calculation3()">
+
+</form>
+<hr></font>
+<p><font color="#DDDDDD" size="3" face="Courier New"> <br>
+  <br>
+  Hinweis:<br>
+  Die Funktionen x^(1/x) und x^x haben bei der Eulerschen Zahl x=e bzw. x=1/e
+  Extremwerte:<br>
+  <br>
+  <img src="images/xh1dx.gif" width="298" height="159"><br>
+  <br>
+  <img src="images/xhx.gif" width="550" height="330"> </font></p>
+<p><font color="#DDDDDD" size="3" face="Courier New">Weiteres zu x^x und seiner
+  Umkehrfunktion:<br>
+  </font><font color="#DDDDDD" size="3" face="Courier New"><a href="LogamentusNewton.htm">LogamentusNewton.htm</a>
+  </font></p>
+<p>&nbsp;</p>
+<p><font color="#DDDDDD" size="3" face="Courier New">Ergnzung: Es ist analytisch
+  ableitbar, dass die Potenz mit der besten Konvergenz weitere Summanden hat,
+  und zwar <br>
+  <img src="images/potenz.gif" width="650" height="50"><br>
+  </font></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><font color="#DDDDDD" size="3" face="Courier New"><br>
+  <br>
+  Kontakt (2022)<br>
+  <br>
+  Gabi und Frithjof M&uuml;ller<br>
+  Danziger Str. 9<br>
+  35415 Pohlheim<br>
+  Germany<br>
+
+  <br>
+  Email: <a href="mailto:info@viva-vortex.de">info@viva-vortex.de</a> <br>
+  <br>
+
+
+  <br>
+  <br>
+  </font>
+  <script language="JavaScript"><!--
+// JavaScript von G.Mueller www.aladin24.de
+
+
+function calculation1()
+{
+
+  e=Math.exp(1.0);
+
+  ausgabe = "quot = (X^X) / ((X-1)^(X-1)) / (X-0.5) => e = 2.7182818 <br><br>";
+
+  fzz=1;
+
+  for (z=2; z<150; z++)
+  {
+    fzza=fzz;
+    fzz=Math.pow(z,z);
+    quot=fzz/fzza/(z-0.5);
+
+    ausgabe += "X= " + z + " &nbsp;&nbsp; quot= " + quot + "<br>";
+
+  }
+
+  document.write(ausgabe.bold());
+
+}
+
+function calculation2()
+{
+
+  e=Math.exp(1.0);
+
+  del0 = document.zhz2.Delta.value;
+  nv0 = document.zhz2.NV.value;
+  nb0 = document.zhz2.NB.value;
+
+  delta = del0*1.0;
+  nv = nv0*1.0;
+  nb = nb0*1.0;
+
+
+  ausgabe  = "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;delta = " + del0 + "<br>";
+  ausgabe += "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;e = lim(1+1/n)^(n+1/2) ";
+  ausgabe += "&nbsp;.........&nbsp;d = lim(1+1/n)^(n+delta) ";
+  ausgabe += "&nbsp;.........&nbsp;E = lim(1+1/n)^n<br><br>";
+
+
+  for (n=nv; n<=nb; n++)
+  {
+    m1=1+1/n;
+    m2=n+0.5;
+    m3=n+delta;
+
+    ee=Math.pow(m1,m2);
+    eee=Math.pow(m1,n);
+    eed=Math.pow(m1,m3);
+
+    ausgabe += "n= " + n + " &nbsp;&nbsp; e= " + ee + "&nbsp;&nbsp;&nbsp;&nbsp;";
+    ausgabe += "d= " + eed + "&nbsp;&nbsp;&nbsp;&nbsp; E= " + eee + "<br>";
+
+  }
+  ausgabe += "<br>genaue Konstante e = 2.7182818284590452353602874713527";
+
+  document.write(ausgabe.bold());
+
+}
+
+function calculation3()
+{
+
+  e=Math.exp(1.0);
+
+  del0 = document.zhz3.Delta.value;
+  nv0 = document.zhz3.NV.value;
+  nb0 = document.zhz3.NB.value;
+  x0 = document.zhz3.XX.value;
+
+  delta = del0*1.0;
+  nv = nv0*1.0;
+  nb = nb0*1.0;
+  x  = x0*1.0;
+
+  ausgabe  = "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;delta = " + del0 + "<br>";
+  ausgabe += "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;x = " + x0 + "<br>";
+  ausgabe += "&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;exp = lim(1+x/n)^(n+x/2) ";
+  ausgabe += "&nbsp;.........&nbsp;dxp = lim(1+x/n)^(n+delta*x) ";
+  ausgabe += "&nbsp;.........&nbsp;Exp = lim(1+x/n)^n<br><br>";
+
+
+  for (n=nv; n<=nb; n++)
+  {
+    m1=1+x/n;
+    m2=n+x/2.0;
+    m3=n+delta*x;
+
+    ee=Math.pow(m1,m2);
+    eee=Math.pow(m1,n);
+    eed=Math.pow(m1,m3);
+
+    ausgabe += "n= " + n + " &nbsp;&nbsp; exp= " + ee + "&nbsp;&nbsp;&nbsp;&nbsp;";
+    ausgabe += "dxp= " + eed + "&nbsp;&nbsp;&nbsp;&nbsp; Exp= " + eee + "<br>";
+
+  }
+
+  expx = Math.exp(x);
+
+  ausgabe += "<br>genauer Funktionswert exp("+ x + ") = " + expx + "<br>";
+
+  document.write(ausgabe.bold());
+
+}
+
+// --></script>
+</p>
+</body>
+</html>

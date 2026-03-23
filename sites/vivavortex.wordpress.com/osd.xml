@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+	<ShortName>vivavortex</ShortName>
+	<Description>Search viva vortex - ALLES LEBT - Ein Blick auf die Welt (und die Physik) im Wirbelweltbild</Description>
+	<Contact>help@wordpress.com</Contact>
+	<Url type="application/atom+xml" template="https://vivavortex.wordpress.com/?s={searchTerms}&amp;feed=atom" />
+	<Url type="rss+xml" template="https://vivavortex.wordpress.com/?s={searchTerms}&amp;feed=rss2" />
+	<Url type="text/html" template="https://vivavortex.wordpress.com/?s={searchTerms}" method="GET" />
+	<Url type="application/opensearchdescription+xml" rel="self" template="https://vivavortex.wordpress.com/osd.xml" />
+	<LongName>viva vortex - ALLES LEBT</LongName>
+	<Image height="16" width="16" type="image/vnd.microsoft.icon">https://vivavortex.wordpress.com/wp-content/uploads/2017/08/cropped-auge.jpg?w=16</Image>
+	<Image height="64" width="64" type="image/jpeg">https://vivavortex.wordpress.com/wp-content/uploads/2017/08/cropped-auge.jpg?w=64</Image>
+	<Query role="example" searchTerms="photography" />
+	<Tags>Blog</Tags>
+	<Developer>Automattic</Developer>
+	<SyndicationRight>open</SyndicationRight>
+	<AdultContent>false</AdultContent>
+	<Language>de-DE</Language>
+	<OutputEncoding>UTF-8</OutputEncoding>
+	<InputEncoding>UTF-8</InputEncoding>
+	<moz:SearchForm>https://vivavortex.wordpress.com</moz:SearchForm>
+</OpenSearchDescription>

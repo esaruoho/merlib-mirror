@@ -1,0 +1,74 @@
+Gewicht2 
+
+ Kugel-Oberflchenwelle im Zweiteilchensystem 
+ (Hypothese: eine neu erkannte Wellenart) 
+
+ Globale Bedeutung der "3" ? 
+ Erdradius R = 6378.15 km 
+ Mondradius r = 1738 km 
+ Umfang der Erde - Mondradius = Wellenl&auml;nge der Schumannwelle 
+ ( 40075 km 
+ - 1738 km = 38337 km = 
+ c / 7.82 Hz ) 
+ ((Umfang der Erde) - Mondradius ) / (Durchmesser der Erde) 
+ = (2Pi*R-r)/(2*R) = 3.0053
+ Die Oberflchen-Eigenschwingungen der Erde, die vom Mondeinflu 
+ (Mondstempel) hervorgerufen werden, haben eine genau 3 mal 
+ grere Wellenlnge als der mittlere Erddurchmesser, bzw. 
+ haben den sechsfachen Erdradius.
+ Die Oberflchen-Eigenschwingung der Erde ist genau so 
+ gro, als wenn sie entlang einer Hexagonalstruktur verliefe. 
+ Die Eckpunkte dieses Sechsecks liegen auf der Erdoberflche.
+ Diese "3" als Faktor zwischen Baugre (d=2*R) und Wellenlnge 
+ der Kugel-Eigenschwingung knnte eventuell typisch sein 
+ fr lebendige Schwingungen. Dann htte der Mondradius keine 
+ zufllige Gre, oder zumindest der Abstand Erde-Mond wrde 
+ sich genau so eingestellt haben, da der "Mondstempel" 
+ die richtige Gre hat, um fr die Stempel-Schwingung das 
+ Pi zur 3 zu machen, bzw. um den Kreisumfang zum Sechseck 
+ zu machen. 
+ Aquinos ELF-Antenne von 70mm entspricht in diesem Modell 
+ dem Erddurchmesser und erzeugt in einer Kugel um sich herum 
+ (der Eisenkugel) eine Eigenschwingung von der dreifachen 
+ Wellenlnge: 21 cm (Radiowelle Wasserstoff?). 
+ Ich gehe davon aus , da jede Antennenhlfte eine ganze 
+ Schwingung(0.0099 Hz) durchfhrt, und wegen der 180-Grad-Gegenstellung 
+ beider Antennenhlften in jedem Moment die auslschende 
+ Gegenwelle dazukommt, um nur noch Skalarwellen brig zu 
+ haben, die vollstndig vom Eisen absorbiert werden (und 
+ den thereigenen Skalarwellen wie Spiegelzwillige gleichen). 
+ Da die Aquino-Eisenkugel viel grer ist, ist der Wert von 
+ I=8.51 A nicht die Stromgre, die das erstmalig Gewicht 
+ auf Null stellt, sondern das passiert schon bei kleinerer 
+ Stromstrke fr die Innenkugel direkt um die Antenne herum. 
+ Wenn die gesamte Kugel schwebt, wird der Rest von der inzwischen 
+ aufwrts treibenden Innenkugel getragen.
+ Dieser Gesichtspunkt einer dreifachen Kugeloberflchen-Eigenschwingung, 
+ wenn er global wirksam ist, mte auch im atomaren Bereich 
+ wirksam sein.
+ Dann mten Frequenzen fr Kugelresonanzen, berechnet 
+ durch das Oktavgesetz von Frithjof Mller (www.aladin24.de/elemente/), 
+ nicht einfach mit f=c/L rechnerisch ermittelt werden (L=C*Z*2^N), 
+ sondern mit f=c/(3*L). Dies ist gleichbedeutend mit einer 
+ Drittelung der Masse in der Comptonlnge C=h/(mc). Anschaulich 
+ gesagt (fr m=mp): Ausgangsteilchen sind (nicht freie) Quarks 
+ statt Protonen. Oder gibt es auch fr m=me, d.h. C=Ce je 
+ Elektron drei Elektronen-Quarks (Achtung, es geht um Masse, 
+ nicht um Ladung) ? 
+ Auf diese Weise erhlt der 'Meter' eine fast wundersame 
+ Bedeutung: 
+ Mit Z=1 (Elektron, Wasserstoff) 
+ Meterwelle = Ce*Z*2^37 *3 = 1.0003 m 
+ Das wurde auch frher berechnet fr Kohlenstoff (Z=6, L=Ce*6*2^36), 
+ und ich nahm an, der "Zufall" hngt mit der Lnge der Elle 
+ zusammen (ca. 0.25m), aus der der Meter hervorgegangen ist. 
+ Und da wir Kohlenstoffwesen sind, sind unsere Knochen logischerweise 
+ kohlenstoffresonant. 
+ Jetzt wissen wir sogar, warum wir Kohlenstoffwesen sind: 
+ Elektronen-Quarks-Resonanz. ;-)
+
+ Fortsetzung 
+ Inhalt 
+
+ Meine 
+ Email-Adresse: info@aladin24.de

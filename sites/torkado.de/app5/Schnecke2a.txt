@@ -1,0 +1,9 @@
+Schnecke 2^N 
+
+ 4 Windungen nach innen und zurck; Torsionsschwingung (mit Richtungswechsel) 
+ Steigungen dR = d_phi * r_aktuell / k; dH = d_phi / r_aktuell * Hhenfaktor; 
+ bei k = Hhenfaktor ist d_phi * dR * dH = d_phi^3 = const 
+ Alle Applet-Parameter als Startwert im Quelltext der HTM-Seite einstellbar, z.B. param name=Radius_gross value="10.0" 
+ param name=L_mal_X value="4" 
+ param name=WinkelSchrittverhaeltnis value="29" 
+ Hinweis: k=9.0647 fr Rneu/Ralt=0.5

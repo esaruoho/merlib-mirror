@@ -1,0 +1,49 @@
+<HTML>
+<HEAD>
+<TITLE>TorkadoFaktor-Test</TITLE>
+</HEAD>
+<BODY>
+<h3> Test-Applet zur Ermittlung des Faktors bei fester exc-Einstellung .</h3>
+Bei Klick auf STOP/WEITER (wenn die Kurve geschlossen ist) wird neu gestartet mit dem rechts eingetragenem Wert.<br>
+Die links ausgegebene Zahl ist nach einem guten Klick-Treffer rechts einzutragen, das war der aktuelle Faktor-Wert beim Klick.<br>
+Faktor steigt mit d_Faktor pro Bild<br>
+      KurveB: &nbsp;&nbsp; k= 1 + Faktor*(abstand-R)/(4Pi); winkeltheta = winkeltheta - dtheta*k; winkelphi = winkelphi + dphi/k;<br>
+      radiusklein= r(1 + exc1*(cos(theta)^2 + cos(theta)) + exc2*(sin(theta)^2 + sin(theta))); (<a href="../toruswinkel.gif" target="_blank">Skizze fr Def.Winkel</a>)<br>
+      <b>Symmetriewechsel: *** bitte exc2 von -0.3 auf exc2= -0.1 setzen , danach exc2= -0.0 setzen ! (evtl.Kippwinkel=90) ***</b><br><br>
+
+<table cellpadding="5" bgcolor="#669999"><tr><td>
+
+<APPLET CODE="TorkadoFaktor.class" WIDTH=810 HEIGHT=440>
+	<param name=language value="German">
+	<param name=Radius_gross value="6">
+	<param name=Radius_klein value="5">
+	<param name=exc1 value="0.01">
+	<param name=exc2 value="-0.03">
+	<param name=d_fak value="0.000001">
+	<param name=d_phi value="0.0618034">
+	<param name=d_theta value="0.08">
+	<param name=Faktor value="2.22874">
+	<param name=Kipp-Winkel value="20">
+	<param name=Bildverkleinerung value="1.1">
+	<param name=VariationExc1 value="true">
+	<param name=VariationExc2 value="true">
+	<param name=Schrittzahl value="9000">
+	<param name=ColorBackground value="ffffff">
+	<param name=ColorPanel value="dddddd">
+    <param name=ColorSchrift value="000000">
+	<param name=ColorX_Achse value="ffffff">
+	<param name=ColorY_Achse value="ffffff">
+	<param name=ColorZ_Achse value="ffffff">
+	<param name=ColorA1 value="000000">
+	<param name=ColorA2 value="888888">
+	<param name=ColorA3 value="ff0000">
+	<param name=ColorA4 value="ffaaaa">
+	<param name=ColorB1 value="aa00aa">
+	<param name=ColorB2 value="ff88ff">
+	<param name=ColorB3 value="0000aa">
+	<param name=ColorB4 value="8888ff">
+</APPLET>
+
+ </td></tr><table>
+</BODY>
+</HTML>

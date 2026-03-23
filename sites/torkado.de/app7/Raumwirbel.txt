@@ -1,0 +1,5 @@
+Spirale Logarithmisch 
+
+ Logarithmische Spirale (konstante Krmmung) r = a * exp(phi/b) 
+mit Phasen-Drehung in der Mitte 
+dH = (d_phi)/(r_aktuell) * Hhenfaktor

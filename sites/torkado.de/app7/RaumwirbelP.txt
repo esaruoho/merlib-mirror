@@ -1,0 +1,5 @@
+Spirale fast-Logarithmisch 
+
+ Fast-Logarithmische Spirale r = (a * exp(phi/b) - 1) 
+mit Phasen-Drehung in der Mitte 
+dH = (d_phi)/(r_aktuell) * Hhenfaktor

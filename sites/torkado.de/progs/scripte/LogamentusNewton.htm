@@ -1,0 +1,282 @@
+<html>
+<head>
+<title>Logamentus</title>
+</head>
+
+<body bgcolor="#333333" text="#DDDDDD" link="#FFFFFF" vlink="#6666DD" alink="#00BB00">
+
+<h2 align="center"><font color="#DDDDDD" face="Courier New"><b>Logamentus x =
+  LM(A), wobei A = x^x</b></font></h2>
+
+<hr>
+<font color="#DDDDDD" size="3" face="Courier New">
+<h3>Reeller Logamentus </h3>(Programm im Quelltext dieser Seite zu finden)<br><br><br>
+
+</font><form name="logamentus"><font color="#DDDDDD" size="3" face="Courier New">
+
+
+     A = x^x :&nbsp;&nbsp;&nbsp;&nbsp; <input type="text" size="20" name="AAA" value="823543"> <br>
+     Genauigkeit:&nbsp; <input type="text" size="20" name="GEN" value="1.0E-12"> <br><br>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+     <input type="button" value="Newton: Nur berechnen" onclick="calculation1(1)">  &nbsp;
+	 <input type="button" value="Newton: + Iterationen anzeigen" onclick="calculation1(2)"><br><br>
+Nach Iterationen wie unten erklrt:<br><br>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     <input type="button" value="Nur berechnen" onclick="calculation2(1)">  &nbsp;
+     <input type="button" value="+ Iterationen anzeigen" onclick="calculation2(2)"><br><br>
+
+
+&nbsp;&nbsp; Ergebnis:<br><br>
+
+&nbsp;&nbsp;<input type="text" size="20" name="XXX" value=" "> <input type="text" size="22" name="Fehler" value=" "> x = LM(A) und Fehlertoleranz<br>
+&nbsp;&nbsp;<input type="text" size="20" name="ITZ" value=" "> bentigte Iterationszahl
+<br><br><hr><br>
+
+</font>
+</form>
+
+<p><br>
+  <font color="#DDDDDD" size="3" face="Courier New"> Startwert:<br>
+  x = ln(A)/2 (fr A > 1000) oder x = ln(A) (fr 1000 > A > e*e)<br>
+  oder x = 1 (fr A < e*e)<br>
+  <br>
+  <b>Newton-Verfahren:</b><br>
+  Schleife: x = (x + ln(A))/(1.0 + ln(x));<br>
+  <br>
+  <b>Anderes Verfahren:</b><br>
+  Schleife:<br>
+  &nbsp;&nbsp;&nbsp;&nbsp; x0 = ln(A)/ln(x);<br>
+  &nbsp;&nbsp;&nbsp;&nbsp; xm0 = sqrt(x*x0);<br>
+  &nbsp;&nbsp;&nbsp;&nbsp; x1 = A^(1/xm0);<br>
+  &nbsp;&nbsp;&nbsp;&nbsp; x2 = A^(1/x1);<br>
+  &nbsp;&nbsp;&nbsp;&nbsp; xm = sqrt(x1*x2);<br>
+  &nbsp;&nbsp;&nbsp;&nbsp; x = ln(A)/ln(xm);<br>
+  &nbsp;&nbsp;&nbsp;&nbsp; E = x^x;<br>
+  &nbsp;&nbsp;&nbsp;&nbsp; if (abs(E/A-1)/Genauigkeit < 1.0) break;<br>
+  <br>
+  Fr A < 0.69220270.. = (1/e)^(1/e) kein x ermittelbar<br>
+  <br>
+  Konstanten:<br>
+  1.6180339887498948482045868343656 = phigold = (sqrt(5)+1)/2 <br>
+  2.7182818284590452353602874713527 = e<br>
+  7.389056098930650227230427460575 = e^2<br>
+  15.15426224147926418976043027262 = e^e<br>
+  </font><font color="#DDDDDD" size="3" face="Courier New">20.085536923187667740928529654582
+  = e^3<br>
+  </font><font color="#DDDDDD" size="3" face="Courier New">8103.0839275753840077099966894328
+  = e^9<br>
+  0.065988035845312537076790187596846 = 1/(e^e)<br>
+  </font><font color="#DDDDDD" size="3" face="Courier New">0.13533528323661269189399949497248
+  = 1/(e^2)<br>
+  </font><font color="#DDDDDD" size="3" face="Courier New">0.36787944117144232159552377016146
+  = 1/e<br>
+  0.6922027041603439407918677636835 = (1/e)^(1/e)<br>
+  1.4446635270126840720352160449 = 1/((1/e)^(1/e))<br>
+  <br>
+  </font></p>
+<font color="#DDDDDD" size="3" face="Courier New"><hr></font>
+<p><font color="#DDDDDD" size="3" face="Courier New"><br>
+  Hinweis:<br>
+  Die Funktionen x^(1/x) und x^x haben bei der Eulerschen Zahl x=e bzw. x=1/e
+  Extremwerte:<br>
+  <br>
+  <img src="images/xh1dx.gif" width="298" height="159"><br>
+  <br>
+  <img src="images/xhx.gif" width="550" height="330">
+
+<br><br>Eulersche Zahl e als Limes in x^x : &nbsp;&nbsp; <a href="xhx2022.htm">xhx2022.htm</a> <br></font><br>
+  </p>
+<hr>
+<p><font face="Courier New, Courier, mono"><b>Herleitung Newton-Rekursion:</b></font></p>
+<p><font color="#DDDDDD" size="3" face="Courier New">A = x^x = exp(ln(x^x)) =
+  exp(x*ln(x)) <br>
+  <br>
+  Erste Ableitung: <br>
+  <br>
+  (x^x)' = exp(x*lnx) * (x*lnx)' <br>
+  (x^x)' = exp(x*lnx) * (lnx + 1) <br>
+  (x^x)' = x^x * (ln(x) + 1) <br>
+  <br>
+  Newtonverfahren: <br>
+  <br>
+  x(i+1) = x(i) - f(x(i))/f(x(i))' <br>
+  f(x) = 0 = x^x - A </font></p>
+<p><font color="#DDDDDD" size="3" face="Courier New"> x = x - (x^x - A) / (x^x
+  * (ln(x) + 1)) <br>
+  x = x - (1 - A/x^x) / (ln(x) + 1) <br>
+  x = x - (1 - 1) / (ln(x) + 1) <br>
+  Hauptnenner: <br>
+  x = ((x*(ln(x) + 1) - 0) / (ln(x) + 1) <br>
+  x = (x*ln(x) + x) / (ln(x) + 1)</font></p>
+<p><font color="#DDDDDD" size="3" face="Courier New">Ergebnis (Iterationsschleife):
+  </font></p>
+<p><font color="#DDDDDD" size="3" face="Courier New"> <b>x = (x + ln(A)) / (1
+  + ln(x))</b><br>
+  ============================= <br>
+  <br>
+  <br>
+  </font><br>
+  <script language="JavaScript"><!--
+// JavaScript von Gabi M.
+
+
+function calculation1(modus)
+{
+
+  e = 2.7182818284590452353602874713527; // = e
+  eq = 7.389056098930650227230427460575; // =e*e
+
+  A0 = document.logamentus.AAA.value;
+  G0 = document.logamentus.GEN.value;
+
+  A = A0*1.0;
+  Gen = 1.0/G0;
+  lnA = Math.log(A);
+
+  if (Gen < 10)  { Gen = 10.0; document.logamentus.GEN.value = "0.1"; }
+
+  x = 1;
+  if (A > eq) x = lnA;
+  if (A > 1000) x = lnA/2.0;
+
+  xm = x; E=1.0; abb_alt=20.0; abbruch=10.0;
+
+
+  ausgabe = "A= " + A + " &nbsp;&nbsp;&nbsp; E = x^x = Probe<br><br>";
+  ausgabe += "i= 0 &nbsp;&nbsp; xStart = " + xm + "<br>";
+
+// Schleife:
+
+  for (n=1; n<=50; n++)
+  {
+
+    x = (xm + lnA)/(1.0 + Math.log(xm));
+
+    E = Math.pow(x, x);
+
+    i=n;
+
+    if(modus == "2")
+    { ausgabe += "i= " + i + "&nbsp;&nbsp; x = " + x + "&nbsp;&nbsp; E= " + E + "<br>"; }
+
+    abb_alt2= abb_alt;
+    abb_alt= abbruch;
+    abbruch = Math.abs(E/A - 1.0)*Gen;
+    if (abbruch < 1.0) break;
+    if (abbruch == abb_alt || abbruch == abb_alt2) break;
+
+    xm = x;
+
+  }
+// Ende Schleife
+
+  delta = (Math.abs(x - xm));
+
+  if(modus == "1")
+  {
+    document.logamentus.XXX.value = x;
+    document.logamentus.Fehler.value = delta;
+    document.logamentus.ITZ.value = i;
+  }
+  else
+  {
+    test=0.36787944117144232159552377016146;
+    E1 = Math.pow(test, test);
+    ausgabe += "<br>Zur Zahlengenauigkeit der JavaScript - pow(x,x)-Funktion:";
+    ausgabe += "<br>Fr x = 1/e = 0.36787944117144232159552377016146 &nbsp; ist";
+    ausgabe += "<br>x^x = " + E1 + " &nbsp; statt der richtigen Zahl:";
+    ausgabe += "<br>x^x = 0.6922027041603439407918677636835<br>";
+
+    document.write(ausgabe.bold());
+  }
+
+}
+
+function calculation2(modus)
+{
+
+  e = 2.7182818284590452353602874713527; // = e
+  eq = 7.389056098930650227230427460575; // =e*e
+
+  A0 = document.logamentus.AAA.value;
+  G0 = document.logamentus.GEN.value;
+
+  A = A0*1.0;
+  Gen = 1.0/G0;
+  if (A > e) { lnA = Math.log(A); } else lnA=0.0;
+
+  if (Gen < 10)  { Gen = 10.0; document.logamentus.GEN.value = "0.1"; }
+  if (Gen*A > 1.0E19)  { Gen = 1.0E19/A; gz=1.0/Gen; document.logamentus.GEN.value = gz; }
+
+  x = 1;
+  if (A > eq) x = lnA;
+  if (A > 1000) x = lnA/2.0;
+
+  x1=x; x2=x1; xm0=x1; xm=x1;
+  ausgabe = "A= " + A + " &nbsp;&nbsp;&nbsp; E = x^x = Probe<br><br>";
+
+// Schleife:
+
+  for (n=1; n<=3000; n++)
+  {
+    if(A > e)
+    {
+      x0 = lnA/Math.log(x);
+      xm0 = Math.sqrt(x*x0);
+    }
+    else xm0=x;
+
+    x1_alt=x1;
+    x1 = Math.pow(A, 1/xm0);
+
+    x2_alt=x2;
+    x2 = Math.pow(A, 1/x1);
+
+    xm = Math.sqrt(x1*x2);
+
+    if(A > e) { x = lnA/Math.log(xm); } else x = xm;
+
+    E = Math.pow(x, x);
+
+    i=n;
+
+    if(modus == "2")
+    { ausgabe += "i= " + i + "&nbsp;&nbsp; x = " + x + "&nbsp;&nbsp; E= " + E + "<br>"; }
+
+    if (Math.abs(E/A - 1.0)*Gen < 1.0) break;
+
+  }
+// Ende Schleife
+
+  delta = (Math.abs(x1 - x1_alt) + Math.abs(x2 - x2_alt) + Math.abs(x1 - x2))/3.0;
+
+  if(modus == "1")
+  {
+    document.logamentus.XXX.value = x;
+    document.logamentus.Fehler.value = delta;
+    document.logamentus.ITZ.value = i;
+  }
+  else
+  {
+    test=0.36787944117144232159552377016146;
+    E1 = Math.pow(test, test);
+    ausgabe += "<br>Zur Zahlengenauigkeit der JavaScript - pow(x,x)-Funktion:";
+    ausgabe += "<br>Fr x = 1/e = 0.36787944117144232159552377016146 &nbsp; ist";
+    ausgabe += "<br>x^x = " + E1 + " &nbsp; statt der richtigen Zahl:";
+    ausgabe += "<br>x^x = 0.6922027041603439407918677636835<br>";
+
+
+    document.write(ausgabe.bold());
+  }
+
+}
+
+
+
+
+// --></script>
+  <br>
+</p>
+</body>
+</html>

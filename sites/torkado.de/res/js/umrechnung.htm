@@ -1,0 +1,97 @@
+<html>
+<head>
+<title>c=L*f</title>
+</head>
+
+<body bgcolor="#000000" text="#FFFFFF">
+<hr>
+
+<h3> &nbsp;&nbsp; Umrechnung &nbsp;&nbsp;&nbsp;&nbsp;  f[Hz] = c/L  &nbsp;&nbsp; <---> &nbsp;&nbsp; L[m]= c/f</h3>
+
+<form name="HWZ">
+
+ <blockquote>
+  <strong>
+  <font color="#ffffdd" size="3" face="Courier New">
+
+
+			Eingabe Frequenz(Hz) f: &nbsp;&nbsp;&nbsp;&nbsp;
+			<input type="text" size="30" name="Fr" value="2450000000"> Hz<br>
+
+			Ausgabe Wellenlänge L(f):
+            <input type="text" size="30" name="La" value=" "> m<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <input type="text" size="30" name="La9" value=" "> nm<br><br><br>
+
+
+          	Eingabe Wellenlänge(m) L1: &nbsp;
+            <input type="text" size="30" name="Le" value="0.125"> m<br>
+
+     		Ausgabe Frequenz f (L1):&nbsp;
+            <input type="text" size="30" name="FrLa" value=" "> Hz<br>
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <input type="text" size="30" name="FrLa6" value=" "> MHz<br>
+
+
+          	<br>Eingabe c(m/s):
+            <input type="text" size="10" name="Vc" value="299792458"> m/s <br>
+
+
+      </strong></font>
+
+  </blockquote>
+  <br>
+
+    <blockquote>
+        <blockquote>
+            <p>
+           <input type="button" value="Berechnen" onclick="calculation1()">
+           <input type="reset" value="Alte Einstellung"> </p>
+        </blockquote>
+    </blockquote>
+
+</font>
+</form>
+
+<hr>
+
+
+<p><script language="JavaScript"><!--
+// JavaScript by G.Mueller
+
+
+function calculation1() {
+
+ //c = 2.99792458E8; // m/s
+
+ Fr0  = document.HWZ.Fr.value;
+ Le0  = document.HWZ.Le.value;
+ Vc0  = document.HWZ.Vc.value;
+
+ Frz = Fr0*1;
+ Lez = Le0*1;
+ Vcz = Vc0*1;
+
+Laz = 0.0;
+FrLaz = 0.0;
+
+ if (Frz > 0) Laz = Vcz/Frz;
+ if (Frz > 0) La9z = Vcz/Frz*1.0E9;
+ if (Lez > 0) FrLaz = Vcz/Lez;
+ if (Lez > 0) FrLa6z = Vcz/Lez/1.0E6;
+
+ document.HWZ.La.value = Laz;
+ document.HWZ.La9.value = La9z;
+ document.HWZ.FrLa.value = FrLaz;
+ document.HWZ.FrLa6.value = FrLa6z;
+};
+
+
+// --></script>
+
+
+
+</body>
+</html>

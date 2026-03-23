@@ -1,0 +1,47 @@
+<HTML>
+<HEAD>
+<TITLE>Torkado</TITLE>
+</HEAD>
+<BODY>
+<h3> Z=1</h3>
+Torkado aus zwei sich kreuzenden Spiralen mit r-abhngigen Winkelschritten (<a href="../toruswinkel.gif" target="_blank">Skizze</a>)<br>
+      KurveB: &nbsp;&nbsp; k= 1.0 + Faktor*(abstand-R)/(4Pi); winkeltheta = winkeltheta - dtheta*k; winkelphi = winkelphi + dphi/k;<br>
+	  KurveA: &nbsp;&nbsp; k= 1.0 + Faktor*(abstand-R)/(4Pi); winkeltheta = winkeltheta + dphi*k; winkelphi = winkelphi + dtheta/k;<br>
+      radiusklein= r(1 + exc1*(cos(theta)^2 + cos(theta)) + exc2*(sin(theta)^2 + sin(theta)));<br>
+      Kurvenstart bei (x,y,z)=(R+radiusklein,0,0)<br><br>
+
+<table cellpadding="5" bgcolor="#669999"><tr><td>
+
+<APPLET CODE="TorkadoL.class" WIDTH=810 HEIGHT=440>
+	<param name=language value="German">
+	<param name=Radius_gross value="10.5">
+	<param name=Radius_klein value="5">
+	<param name=Exzentr1 value="0.0013">
+	<param name=Exzentr2 value="-0.0012">
+	<param name=d_phi value="0.0618034">
+	<param name=d_theta value="0.08">
+	<param name=Faktor value="1.0">
+	<param name=Kippwinkel value="90">
+	<param name=anzeigenKurveA value="false">
+	<param name=anzeigenKurveB value="true">
+	<param name=Schrittzahl value="86">
+	<param name=Bildverkleinerung value="2.0">
+	<param name=ColorBackground value="ffffff">
+	<param name=ColorPanel value="dddddd">
+    <param name=ColorSchrift value="000000">
+	<param name=ColorX_Achse value="ffffff">
+	<param name=ColorY_Achse value="ffffff">
+	<param name=ColorZ_Achse value="ffffff">
+	<param name=ColorA1 value="000000">
+	<param name=ColorA2 value="888888">
+	<param name=ColorA3 value="ff0000">
+	<param name=ColorA4 value="ffaaaa">
+	<param name=ColorB1 value="aa00aa">
+	<param name=ColorB2 value="ff88ff">
+	<param name=ColorB3 value="0000aa">
+	<param name=ColorB4 value="8888ff">
+</APPLET>
+
+ </td></tr><table>
+</BODY>
+</HTML>

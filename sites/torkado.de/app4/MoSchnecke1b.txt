@@ -1,0 +1,8 @@
+Schnecke 2^N 
+
+ 7 ebene Windungen nach innen (Widerstandsfreie Einwirbelung) 
+Steigungen dR = d_phi*r_aktuell/9; = Radiushalbierung pro Umlauf rot (KurveB) 
+ Alle Applet-Parameter einstellbar, z.B. Startwert: param name=Radius_gross value="10.0" 
+ param name=L_mal_X value="7" 
+ param name=WinkelSchrittverhaeltnis value="2" 
+ param name=RadiusunterschiedInvers value="32"

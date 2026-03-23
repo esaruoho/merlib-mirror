@@ -1,0 +1,26 @@
+Spirale3D 2^N 
+
+ Spiralenlnge L = 2*(9 * R), 4 Windungen, Ein Sauerstoff-Notenschlssel ? 
+Steigungen dR = d_phi*r_aktuell/9; dz=d_phi*Teile/r_aktuell; dz-Vorzeichenumkehr bei 77.28 % von auen gerechnet (=1/Zahl), 
+Damit ist pro Schritt das Winkel-Volumen konstant K=d_phi*dR*dz = d_phi^3*Teile/9 , das Raumvolumen schrumpft nach innen. 
+Fr das Raumvolumen mte zustzlich mit (r_aktuell)^3 multipliziert werden, da erst (d_phi*r_aktuell) eine Lnge ist. 
+ Applet-Parameter: param name=Radius_gross value="11.498" 
+ param name=Teile value="1.389" 
+ param name=Zahl value="1.294" 
+Es gilt bei 4 Windungen: Hhe H = (9*R)/(g*10)=L/(g*20) ____ mit g=0.618032 (Goldener Schnitt). Hier ist R/R0 (Abbruch1) bei fast g/10. 
+H=8*Ce*2^33=16.672 cm ist Resonanzlnge fr Sauerstoff; 4 Windungen unten und oben =8 --> Z=8 ist das Element Sauerstoff 
+H ist die wichtigste Baugre des Aquapol-Gertes, das zur Mauertrockenlegung eingesetzt wird. 
+Gertebeschreibung siehe unten. 
+
+ Gertebeschreibung als Blick von unten, da es wie eine Lampe aufgehngt wird: 
+ Der im Werbematerial gezeigte Aufbau entspricht nicht dem auf dem Markt zuletzt eingesetzen Gert , denn dieses ist viel einfacher. 
+ Es liegen jeweils 3 Metallspiralen (ihr Startpunkt ist jeweils um 120 Grad verschoben) in der gleichen Ebene einer runden 
+ Kunststoffscheibe (Durchmesser ca.110mm), auen beginnend rechtsdrehend nach innen 4 Umdrehungen, endend in einer kleinen Metallkreisscheibe. 
+ Eine zweite Kunstoffplatte schliet sich an. Auf ihr sind 3 weitere Spiralen, von innen nach auen betrachtet im gleichen Drehsinn. 
+ Beide Platten sind zusammengeklebt und haben zusammen eine Dicke von 4mm. Man kann die innere Spiralenebene nur durchscheinen sehen. 
+ Im Luftabstand von 160 mm befindet sich die gleiche 4mm-Platte noch einmal. Die Mittelpunkte aller Spiralen sind mit einem Metallstab verbunden. 
+ Jeder uere Startpunkt der Spiralen hat eine Abstand zum Mittelpunkt von 103 mm (=H*g). 
+ Die nach innen geleitete Energie knnte also sowohl im Abstand von 2.6 mm (=H/64, in der eigenen Doppelscheibe) wieder spiralig heraustreten, 
+ oder in der zweiten Doppelscheibe, im Abstand von H=167 mm. Die beiden Doppelscheiben erinnern an einen Resonator und an einen Kondensator. 
+ Die beiden 4mm-Scheiben sind etwas gegeneinander gedreht (die Startpunkte der Spiralen liegen nicht bereinander). 
+ Mglicherweise hngt die Funktion des Gertes von dieser Phasendrehung ab.

@@ -1,0 +1,157 @@
+Handicap Massepunkt 
+
+ Handicap Massepunkt 
+
+ Eine 
+ Diskussion: 
+
+ > Warum wird 
+ die Eigendrehung bewegter rotierender Teilsysteme gern 
+ > > vernachlssigt, weil es mathematisch schwer zu behandeln ist 
+ ? 
+ > Ich wei nicht, was Du speziell meinst, aber normalerweise pickt 
+ man 
+ > sich immer erst die einfachsten Flle heraus und geht dann 
+ > schrittweise zu komplizierterem ber. 
+
+ Ich bitte um Entschuldigung. Ich habe zuerst Beipiele genannt 
+ und dann die Ursache des bels, sonst httest Du vor Lachen gar 
+ nicht weitergelesen. 
+
+ Genau dieses eine mathematische Problem verhindert, da wir die 
+ Quantentheorie richtig verstehen. Es wird per Definition ('Massepunkt') 
+ aus der klassischen Physik ausgeklammert. 
+ Wir haben mit hierarchisch rotierenden Systemen die Quanten in 
+ Gro vor der Nase und sehen es nicht (extremes Beispiel: Wrthmaschine, 
+ siehe Bild auf http://f25.parsimony.net/forum62901/messages/2271.htm 
+ ): 
+ Eine geschlossene Schwingung im Raum ist eine Spirale, die sich 
+ selbst in den Schwanz beit (von mir genannt 'Torkado', oder aufgeschnitten/einfach 
+ dargestellt, wie etwa die Bilder auf http://www.aladin24.de/htm/gewicht1.htm 
+ ). Um sich nicht selbst zu kreuzen, mssen die Radien variieren. 
+ Fr ein zeitlich konstantes mittleres Schwingungsbild (verfolgbar 
+ fr unsere Augen) mu es eine rumliche Periodizitt geben. Die 
+ kann nur ganzzahlig sein, was die Umdrehungen betrifft, sonst 
+ gbe es 'Periheldrehungen', also eine Verschmierung des Bildes, 
+ also eine Unschrfe. 
+
+ Wir haben Quanten, wenn wir das System ganz lassen (Teilchenbild). 
+
+ Und 
+ wir haben Wellen (Unschrfe, Wellenfunktionen), wenn wir es stren 
+ (Doppelspalt). 
+
+ &Auml;lterer Text: 
+ Achtung: Als folgender Text entstand, war f&uuml;r mich die Idee des 
+ dynamischen (torkadof&ouml;rmigen) G-Feldes noch nicht vorhanden. 
+
+ Beweis: 
+
+ Die folgenden Texte stammen aus Brockhaus abc Physik: 
+ ------------------------------------------------------- 
+
+ Drehmoment 
+
+ Moment der an einen Massenpunkt P angreifenden Kraft F bezglich eines 
+ festen Punktes O 
+ M = r x F 
+ mit r = OP 
+ ------------------------------------------------------- 
+
+ Drehmomentensatz 
+
+ In Massepunktsystemen 
+ ist das Gesamtdrehmoment bezglich eines vorgegebenen Punktes O die 
+ vektorielle Summe der Drehmomente seiner Bestandteile. 
+
+ Der Momentensatz besagt, da ein starrer Krper drehungsfrei sein kann, 
+ wenn die Summe aller Drehmomente verschwindet (->)Hebel). Sind die Wirkungslinien 
+ aller Krfte parallel, z.B. bei einer Waage, so gilt der Hebelsatz in 
+ der Form Kraft * Kraftarm = Last * Lastarm . 
+ -------------------------------------------------------- 
+
+ Drehimpuls 
+
+ In der Mechanik eines Massepunktes ist der Drehimpuls das Vektorprodukt 
+ L= r x p des Ortsvektors r und des Impulsvektors p=mv 
+ . 
+ Da der Impuls das Produkt aus der Masse m und der Geschwindigkeit 
+ v=ds/dt des Massepunktes ist, wobei r der von einem willkrlichen, aber 
+ festen Bezugspunkt aus bestimmte Radiusvektor ist, entspricht 
+ im Fall einer ebenen Bewegung dem Betrag L des Drehimpulses 
+ anschaulich die mit 2m multiplizierte Flche A, die der Radiusvektor 
+ r vom Ursprung O zum Aufpunkt P in der Zeiteinheit berstreicht. 
+ 2m dA/dt = m | rxdr | /dt = | r x mv | = L 
+ Im Falle 
+ der stets ebenen Zentralbewegung ist L und damit auch 
+ dA/dt konstant (Flchensatz). ... 
+
+ Der Drehimpuls ist nur dann von der Wahl des Bezugspunktes O unabhngig, 
+ wenn der Schwerpunkt des Massepunktsystems ruht. ndert sich im allgemeinen 
+ Fall der Bezugspunkt, so ist L = L' + a x P, wobei P der Gesamtimpuls 
+ des Systems und a=ri-ri' derjenige Vektor ist, um den O' gegenber O 
+ verschoben wurde. Ist Sigma' das Schwerpunktsystem, in dem das mechanische 
+ System als Ganzes ruht, so gilt 
+
+ L = L' + R x P 
+
+ ,d.h. der Gesamtdrehimpuls setzt sich aus dem Eigendrehimpuls 
+ L' des Systems im Schwerpunktsystem und dem von der Schwerpunktsbewegung 
+ des Systems als Ganzes herrhrenden Bahndrehimpuls (orbitaler 
+ Drehimpuls) LB= R x P zusammen; R ist dabei der Radiusvektor 
+ des Schwerpunktes. 
+ Der Eigendrehimpuls 
+ L' eines mechanischen Systems im Schwerpunktsystem kann stets auf den 
+ Bahndrehimpuls der einzelnen Massepunkte bezglich des Schwerpunktes 
+ zurckgefhrt werden, d.h. die Massepunkte haben keinen Eigendrehimpuls. 
+ Dies trifft nicht fr Elementarteilchen, 
+ z.B. Elektronen oder Protonen, zu , 
+ die einen Eigendrehimpuls haben knnen (Spin). 
+ Fr physikalische Felder wird eine rumliche Drehimpulsdichte 
+ eingefhrt, aus der sich der Gesamtdrehimpuls des Feldes als Integral 
+ ber das ganze felderfllende Volumen ergibt. 
+
+ ------------------------------------------------------------------------------------------------------------ 
+ ------------------------------------------------------------------------------------------------------------ 
+
+ Folgerungen und Hypothesen 
+ Die Drehimpulserhaltung bei Rotationen mit mehreren Drehachsen 
+ ist nur an die ebene Bewegung gebunden. 
+ Wenn eine nicht-ebene Bewegung mit mehreren Drehachsen 
+ einen Drehimpuls erzeugt, dann gehrt sie zu einem offenen System. 
+ In abgeschlossenen Systemen mit mehreren Drehachsen, wo 
+ Impulserhaltung gilt, gibt es nur ebene Bewegungen. 
+ Eine Ebene hat keine Dicke und somit auch keine Masse, 
+ daraus folgt: 
+ Reale abgeschlossene Systeme mit mehreren Drehachsen gibt es nicht. 
+
+ Theoretische abgeschlossene Systeme mit mehreren Drehachsen sind Spezialflle 
+ absoluter Symmetrie. 
+
+ Die Definition des Mechanischen Systems beruht auf dem 
+ Begriff Massepunkt, der keinen Eigendrehimpuls hat ! 
+ Es ist falsch, die endliche Ausdehnung von Systemgrundbestandteilen 
+ zu vernachlssigen, weil dadurch wichtige Eigenschaften des Makrosystems 
+ mit verschwinden. 
+ Das Beispiel der Wrthmaschine zeigt, da man mit Hilfe 
+ von Eigendrehimpuls plus nichtebener Bahndrehung plus Gravitation (die 
+ Bahn lt sich nicht umkehren) zu einem auskoppelbarem Drehmoment kommen 
+ kann. 
+ Die Wrthmaschine besteht sozusagen aus Teilchen und 
+ Antiteilchen mit je Spin=1 . 
+ Jedes Elementarteilchen macht es genauso. 
+ Elementarteilchen brauchen Gravitation oder ein quivalent, 
+ um ihre dynamische nichtebene Bau/Bahnform zu erhalten. Sie knnen sich 
+ keinen totalen Spinrichtungswechsel leisten, ohne von ihrer Energiequelle 
+ getrennt zu werden. Sie mssen bei allen Bewegungen mit ihrer Hauptachse 
+ senkrecht zum erzeugenden Feld bleiben. Daraus folgt die ganze Physik, 
+ alle Bewegungen grnden auf Drehmomenten. Deswegen gibt es Kreuzprodukte, 
+ im Gleichgewichtsfall das Hebelgesetz usw.. Alle bekannten Gesetze beruhen 
+ darauf, bei genauerem Hinsehen : Pointingvektor fr Energietransport, 
+ Auftrieb, Bernoulli, fr hhere Systeme dann Navier-Stokes, Maxwell, 
+ aber die verstricken sich schon wieder in sich selbst wegen der Unkenntnis 
+ der dynamischen atomaren Grundlagen. 
+
+ Fortsetzung 
+ Inhalt 
+ Meine Email-Adresse: info@aladin24.de

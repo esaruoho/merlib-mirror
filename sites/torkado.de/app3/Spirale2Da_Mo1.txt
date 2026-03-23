@@ -1,0 +1,7 @@
+Spirale3D 2^N 
+
+ Spiralenlnge L zufllig ca. 15 * R bei 4 ebenen Windungen und auen bei R=10.304cm abgeschnitten 
+Steigungen dR = d_phi*r_aktuell/9; 
+ Applet-Parameter: param name=Radius_gross value="11.498" 
+ param name=L_mal_X value="4" 
+Zum Applet fr geschlossene ebene Spirale und Vergleich mit Foto . Hier das Ganze in 3D mit Resonanzhhe.

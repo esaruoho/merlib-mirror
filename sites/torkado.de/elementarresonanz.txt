@@ -1,0 +1,69 @@
+Elementar-Resonanzen von Frithjof M&uuml;ller 
+
+ Java-Scripte 
+ Experimentelle 
+ Belege f&uuml;r die Elementarresonanz 
+
+ Elektronen-Resonanz 
+
+ Resonanzl&auml;ngen , der Frequenzen, sowie Drittel und Dreifache der 
+ Frequenzen 
+ Suche 
+ L aus Z ( + f und f/3 und f*3) 
+ Resonanzl&auml;ngen 
+ , L&auml;nge mal phi, sowie Drittel und Dreifache der L&auml;ngen 
+ Suche 
+ L aus Z ( + L*phi und L/3 und L/3) 
+ Resonanzl&auml;ngen, 
+ L&auml;nge durch phi, sowie F&uuml;nftel und F&uuml;nffache der L&auml;ngen 
+ Suche 
+ L aus Z ( + L/phi und L/5 und L/5) 
+ Resonanzl&auml;ngen 
+ , der Synchronzeiten T, sowie Drittel und Dreifache von T 
+ Suche 
+ L aus Z ( + T und T/3 und T*3) 
+ Resonanz-Fl&auml;chen, 
+ -Volumen, -Massen (Dichte am Beispiel Kupfer) 
+ Suche 
+ A, V, M aus Z 
+ Achtung: Die Frequenzen gelten nur f&uuml;r Lichtgeschwindigkeit. 
+ Im allgemeinen existiert ein Geschwindigkeitsrauschen, und damit auch 
+ ein Frequenzrauschen 
+
+ Umgekehrte 
+ Rechnung: Eingabe einer L&auml;nge und Ermittlung des resonanten Elementes 
+ Suche 
+ Z aus L 
+ Umrechnung 
+ Frequenz <---> Wellenl&auml;nge mit c 
+
+ Protonen-Resonanz 
+
+ Resonanzl&auml;ngen , der Frequenzen, sowie Drittel und Dreifache der 
+ Fequenzen 
+ Suche 
+ L aus Z ( + f und f/3 und f*3) 
+ Resonanzl&auml;ngen 
+ , L&auml;nge mal phi, sowie Drittel und Dreifache der L&auml;ngen 
+ Suche 
+ L aus Z ( + L*phi und L/3 und L/3) 
+ Resonanzl&auml;ngen 
+ ,L&auml;nge durch phi, sowie F&uuml;nftel und F&uuml;nffache der L&auml;ngen 
+ Suche 
+ L aus Z ( + L/phi und L/5 und L/5) 
+ Resonanzl&auml;ngen 
+ , der Synchronzeiten T, sowie Drittel und Dreifache von T 
+ Suche 
+ L aus Z ( + T und T/3 und T*3) 
+ Resonanz-Fl&auml;chen, 
+ -Volumen, -Massen (Dichte am Beispiel Kupfer) 
+ Suche 
+ A, V, M aus Z 
+ Achtung: Die Frequenzen gelten nur f&uuml;r Lichtgeschwindigkeit. 
+ Im allgemeinen existiert ein Geschwindigkeitsrauschen, und damit auch 
+ ein Frequenzrauschen 
+
+ Umgekehrte 
+ Rechnung: Eingabe einer L&auml;nge und Ermittlung des resonnaten Elementes 
+ Suche 
+ Z aus L

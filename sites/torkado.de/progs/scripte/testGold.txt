@@ -1,0 +1,5 @@
+Goldener Schnitt 
+
+ Goldener Schnitt Test x = 1/x + 1 
+
+Startzahl fr x:

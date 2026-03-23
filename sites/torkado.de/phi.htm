@@ -1,0 +1,309 @@
+<html>
+<head>
+<title>phi</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+</head>
+
+<body bgcolor="#FFFFFF" text="#FFFFFF" link="#FFFFCC" vlink="#CCFFFF" alink="#FFCCCC" background="images/056_backg.jpg">
+<table width="700" border="0" cellpadding="3" align="center" bgcolor="#FFFFFF">
+  <tr>
+    <td>
+      <table width="700" border="0" cellpadding="10" align="center" bgcolor="#669999">
+        <tr> 
+          <td>&nbsp;</td>
+          <td> 
+            <div align="center"> 
+              <h2>Goldener Schnitt <br>
+                Iteratives Teilchenmodell<br>
+                Hyperbolischer Kegel</h2>
+            </div>
+          </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr> 
+          <td>&nbsp;</td>
+          <td> 
+            <div align="left"> 
+              <p align="left">F&uuml;r die Bilder unten (siehe auch das Applet) 
+                wurde folgende Gleichung verwendet:</p>
+              <p align="left">Iteration: </p>
+              <p align="left"> xrett = 1/y + 1; <br>
+                yrett = 1/x - 1; <br>
+                x = xrett; <br>
+                y = yrett; </p>
+              <p align="left">Die Startwerte f&uuml;r x und y waren die Koordinaten 
+                der Bildpunkte.</p>
+              <p align="left"><br>
+                Der Mittelpunkt der Kreuzes (Bildes) ergab sich bei: <br>
+                x(0)=1<br>
+                y(0)= -1 </p>
+              <p align="left"><br>
+                Bildgre: <br>
+                Breite vertikal dy=25 <br>
+                Breite horizontal dx=25 </p>
+              <p align="left">Deutung grob:<br>
+                Ein Energie-Quant wird st&auml;ndig in y emittiert (-1) und von 
+                x absorbiert (+1).<br>
+                Gleichzeitig reflektiert jede Gr&ouml;&szlig;e an einer Kugel 
+                (Flower-of-Life-Struktur des Raumes), wird dadurch invertiert 
+                und in die andere Koordinatenrichtung hineingespiegelt. Das Koordinatensystem 
+                mu&szlig; nicht rechtwinklig sein, wie im Bild verwendet.</p>
+              <p align="left">Das Java-Applet ist aufzurufen &uuml;ber:</p>
+              <p align="left"><a href="http://www.aladin24.de/Bild/app2/gamePhi4.htm" target="_blank">http://www.aladin24.de/Bild/app2/gamePhi4.htm 
+                </a></p>
+              <p align="left">Um die Zahl der Iterationen zu &auml;ndern, mu&szlig; 
+                man bei max_it auf das blaue K&auml;stchen klicken, bis dort eine 
+                Markierung erscheint. Dann kann man unten im gro&szlig;en Textfeld 
+                die Iterationszahl eintragen und &lt;CR&gt; dr&uuml;cken. Gibt 
+                man eine negative Zahl ein, wird die Zahl zur vorhandenen addiert, 
+                man braucht dann nur nur noch &lt;CR&gt; dr&uuml;cken, um das 
+                n&auml;chste Bild zu starten (mit max_it=1 beginnen, dann -1 eintragen, 
+                dann kommen Einzelschritte) </p>
+              <p align="left">&nbsp;</p>
+              <p align="left">1.Bild ist die erste Iteration, 2.Bild ist die zweite 
+                Iteration usw. bis zur 16. Iteration .</p>
+              <p align="left">Der Wechsel l&auml;&szlig;t sich im Dreier-Rhythmus 
+                fortsetzen. Aber eigentlich ist es genau ein Sechser-Zyklus (siehe 
+                Spiegelung um Diagonale).<br>
+                In die Tabelle ist die Nummer der Iteration eingetragen:</p>
+              <table width="400" border="1" cellpadding="3" align="center">
+                <tr> 
+                  <td width="138"> 
+                    <div align="center">Teilchen</div>
+                  </td>
+                  <td width="117"> 
+                    <div align="center">Welle <br>
+                      asymmetrisch</div>
+                  </td>
+                  <td width="111"> 
+                    <div align="center">Welle<br>
+                      symmetrisch</div>
+                  </td>
+                </tr>
+                <tr> 
+                  <td width="138"> 
+                    <div align="center">..</div>
+                  </td>
+                  <td width="117"> 
+                    <div align="center">..</div>
+                  </td>
+                  <td width="111"> 
+                    <div align="center">1</div>
+                  </td>
+                </tr>
+                <tr> 
+                  <td width="138"> 
+                    <div align="center">2&nbsp; (vertikal)</div>
+                  </td>
+                  <td width="117"> 
+                    <div align="center">3</div>
+                  </td>
+                  <td width="111"> 
+                    <div align="center">4</div>
+                  </td>
+                </tr>
+                <tr> 
+                  <td width="138"> 
+                    <div align="center">5&nbsp; (horizontal)</div>
+                  </td>
+                  <td width="117"> 
+                    <div align="center">6</div>
+                  </td>
+                  <td width="111"> 
+                    <div align="center">7</div>
+                  </td>
+                </tr>
+                <tr> 
+                  <td width="138"> 
+                    <div align="center">8 &nbsp;(vertikal)</div>
+                  </td>
+                  <td width="117"> 
+                    <div align="center">9</div>
+                  </td>
+                  <td width="111"> 
+                    <div align="center">10</div>
+                  </td>
+                </tr>
+                <tr> 
+                  <td width="138"> 
+                    <div align="center">11 (horizontal)</div>
+                  </td>
+                  <td width="117"> 
+                    <div align="center">12</div>
+                  </td>
+                  <td width="111"> 
+                    <div align="center">13</div>
+                  </td>
+                </tr>
+                <tr> 
+                  <td width="138"> 
+                    <div align="center">14 (vertikal)</div>
+                  </td>
+                  <td width="117"> 
+                    <div align="center">15</div>
+                  </td>
+                  <td width="111"> 
+                    <div align="center">16</div>
+                  </td>
+                </tr>
+                <tr> 
+                  <td width="138"> 
+                    <div align="center">17 (horizontal)</div>
+                  </td>
+                  <td width="117"> 
+                    <div align="center">18</div>
+                  </td>
+                  <td width="111"> 
+                    <div align="center">19</div>
+                  </td>
+                </tr>
+                <tr> 
+                  <td width="138"> 
+                    <div align="center">20 (vertikal)</div>
+                  </td>
+                  <td width="117"> 
+                    <div align="center">21</div>
+                  </td>
+                  <td width="111"> 
+                    <div align="center">22</div>
+                  </td>
+                </tr>
+                <tr> 
+                  <td width="138"> 
+                    <div align="center">26 (horizontal)</div>
+                  </td>
+                  <td width="117"> 
+                    <div align="center">27</div>
+                  </td>
+                  <td width="111"> 
+                    <div align="center">28</div>
+                  </td>
+                </tr>
+                <tr> 
+                  <td colspan="3"> 
+                    <div align="center">usw.</div>
+                  </td>
+                </tr>
+              </table>
+            </div>
+          </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr> 
+          <td>&nbsp;</td>
+          <td> 
+            <div align="left"> 
+              <p>&nbsp;</p>
+              <p>&nbsp;</p>
+              <table width="320" border="0" cellpadding="3" align="center">
+                <tr>
+                  <td>1</td>
+                  <td><img src="images/gamePhi4_1.jpg" width="302" height="302"></td>
+                </tr>
+                <tr>
+                  <td>2</td>
+                  <td><img src="images/gamePhi4_2.jpg" width="302" height="302"></td>
+                </tr>
+                <tr>
+                  <td>3</td>
+                  <td><img src="images/gamePhi4_3.jpg" width="302" height="302"></td>
+                </tr>
+                <tr>
+                  <td>4</td>
+                  <td><img src="images/gamePhi4_4.jpg" width="302" height="302"></td>
+                </tr>
+                <tr>
+                  <td>5</td>
+                  <td><img src="images/gamePhi4_5.jpg" width="302" height="302"></td>
+                </tr>
+                <tr>
+                  <td>6</td>
+                  <td><img src="images/gamePhi4_6.jpg" width="302" height="302"></td>
+                </tr>
+                <tr>
+                  <td>7</td>
+                  <td><img src="images/gamePhi4_7.jpg" width="302" height="302"></td>
+                </tr>
+                <tr>
+                  <td>8</td>
+                  <td><img src="images/gamePhi4_8.jpg" width="302" height="302"></td>
+                </tr>
+                <tr>
+                  <td>9</td>
+                  <td><img src="images/gamePhi4_9.jpg" width="302" height="302"></td>
+                </tr>
+                <tr>
+                  <td>10</td>
+                  <td><img src="images/gamePhi4_10.jpg" width="302" height="302"></td>
+                </tr>
+                <tr>
+                  <td>11</td>
+                  <td><img src="images/gamePhi4_11.jpg" width="302" height="302"></td>
+                </tr>
+                <tr>
+                  <td>12</td>
+                  <td><img src="images/gamePhi4_12.jpg" width="302" height="302"></td>
+                </tr>
+                <tr>
+                  <td>13</td>
+                  <td><img src="images/gamePhi4_13.jpg" width="302" height="302"></td>
+                </tr>
+                <tr>
+                  <td>14</td>
+                  <td><img src="images/gamePhi4_14.jpg" width="302" height="302"></td>
+                </tr>
+                <tr>
+                  <td>15</td>
+                  <td><img src="images/gamePhi4_15.jpg" width="302" height="302"></td>
+                </tr>
+                <tr>
+                  <td>16</td>
+                  <td><img src="images/gamePhi4_16.jpg" width="302" height="302"></td>
+                </tr>
+              </table>
+              <h2 align="center">&nbsp;</h2>
+              
+            </div>
+          </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr> 
+          <td>&nbsp;</td>
+          <td> 
+            <div align="center"> 
+              <p align="center">&nbsp;</p>
+              <p align="center">&nbsp;</p>
+            </div>
+          </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr> 
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr> 
+          <td>&nbsp;</td>
+          <td> 
+            <div align="center"> 
+              <p><a href="jaeckel_grav.htm">Fortsetzung</a><br>
+                <br>
+                <a href="inhalt.htm">Inhalt</a> </p>
+              <p>Meine Email-Adresse: <a href="mailto:info@aladin24.de">info@aladin24.de</a></p>
+            </div>
+          </td>
+          <td>&nbsp;</td>
+        </tr>
+        <tr> 
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+          <td>&nbsp;</td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+<p align="center">&nbsp;</p>
+<p>&nbsp;</p>
+</body>
+</html>

@@ -1,0 +1,81 @@
+<html>
+<head>
+<title>b-Umrechnung Basis</title>
+</head>
+
+<body bgcolor="#000000" text="#FFFFFF" link="#00FF00" vlink="#00DD00" alink="#00BB00">
+
+<h2 align="center"><font color="#FFFFFF"><b>b-Umrechnung fr gleiche logarithmische Spiralen <br>verschiedener Basis mit R=(Basis)^(phase/b)</b></font></h2>
+<hr>
+
+</p>
+<form name="spirale">
+
+  <blockquote> <font color="#00FF00" size="3" face="Courier New">
+    <blockquote>
+
+	 Parameter b2:&nbsp; <input type="text" size="40" name="Paramb2" value="9.064720283654388"> <br>
+	 Basis a2:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <input type="text" size="40" name="Basis2" value="2.7182818284590452353602874713527"> <br><br>
+	 Basis a1:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <input type="text" size="40" name="Basis1" value="1.618033988749894848204586834"> <br><br>
+
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     <input type="button" value="Berechnen" onclick="calculation1()"><br><br>
+
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ergebnis: &nbsp;
+     <input type="text" size="40" name="Paramb1" value=" "> Parameter b1<br>
+
+
+         </blockquote>
+</font>
+</blockquote>
+</form>
+<hr>
+<font color="#00FF00" size="3" face="Courier New">Links: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="spirale_quant.htm">Basis beliebig</a> </font>
+<hr>
+
+<br><font color="#00FF00" size="3" face="Courier New">
+
+
+b1 = b2*ln(a1)/ln(a2);<br><br>
+b1 = 4.362050591352134 fr b2=9.064720283654388, a2=e, a1=phigold <br>
+mit phigold = 1.618033988749894848204586834<br><br>
+b1 = 9.064720283654388 fr b2=4.362050591352134, a2=phigold, a1=e <br>
+mit e = 2.7182818284590452353602874713527<br><br>
+
+</font><br>
+
+  <script language="JavaScript"><!--
+// JavaScript von G.Mueller
+
+
+function calculation1()
+{
+
+  b20 = document.spirale.Paramb2.value;
+  a20 = document.spirale.Basis2.value;
+  a10 = document.spirale.Basis1.value;
+
+  // ZPi = 6.283185307179586476925286766559; //2Pi
+  // phigold = 1.618033988749894848204586834;
+  // e=2.7182818284590452353602874713527;
+
+  b2 = b20*1.0;
+  a2 = a20*1.0;
+  a1 = a10*1.0;
+
+  b1 = b2*Math.log(a1)/Math.log(a2);
+
+
+  document.spirale.Paramb1.value = b1;
+
+  //ausgabe = "Rest = " + Nround + "<br><br>";
+  //document.write(ausgabe.bold());
+
+
+}
+
+
+// --></script>
+
+</body>
+</html>

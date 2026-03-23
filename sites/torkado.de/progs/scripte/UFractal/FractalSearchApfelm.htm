@@ -1,0 +1,84 @@
+<html>
+<head>
+<title>FractalSearch Apfelmaennchen</title>
+</head>
+
+<body bgcolor="#000000" text="#FFFFFF">
+<h4><font color="#FFFFFF"><FONT FACE="Arial, Helvetica, sans-serif">Iterationsverfolgung
+<br>Z = Z&#149;Z + C <br>
+mit Z = x + iy <br>
+C als Punkte der Bildebene, Start: x=0, y=0</FONT></font></h4>
+<IMG SRC="images/Apfel_NetzWeb.jpg" WIDTH="548" HEIGHT="462">
+<br> <FONT FACE="Arial, Helvetica, sans-serif" SIZE="2">Hinweis: Die Bilder hier sind nur fr Koppelfaktor = 0.0</FONT>
+<form name="gold">
+<br> <B><FONT FACE="Arial, Helvetica, sans-serif" SIZE="2">Punkt x</FONT></B> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <input type="text" size="15" name="zahlx" value="-1.7">
+<br> <B><FONT FACE="Arial, Helvetica, sans-serif" SIZE="2">Punkt y</FONT></B> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <input type="text" size="15" name="zahly" value="0.2">
+<br> <B><FONT FACE="Arial, Helvetica, sans-serif" SIZE="2">Koppelfaktor</FONT></B> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <input type="text" size="5" name="koppelfaktor" value="0.0">
+<br> <B><FONT FACE="Arial, Helvetica, sans-serif" SIZE="2">Zahl der Iterationen</FONT></B> &nbsp; <input type="text" size="5" name="maxiterat" value="50"> <br>
+<blockquote> <blockquote> <input type="button" value="Rechnung starten" onclick="calculation1(1)">
+&nbsp;&nbsp; <input type="button" value="y zuerst schreiben" onclick="calculation1(2)">
+</blockquote> </blockquote></form>
+<FONT FACE="Arial, Helvetica, sans-serif" SIZE="2">
+Details:<br>
+<IMG SRC="images/Apfel_Netz_Detail1Web.jpg" WIDTH="642" HEIGHT="482"><br><br>
+<IMG SRC="images/Apfel_Netz_Detail2_Web.jpg" WIDTH="642" HEIGHT="482"><br><br>
+<IMG SRC="images/Apfel_Netz_Detail3_Web.jpg" WIDTH="642" HEIGHT="482"><br>
+<br>Zur Iterationsverfolgung fr <a href="FractalSearchAuge.htm">Auge</a>
+<br>Zur Iterationsverfolgung fr <a href="FractalSearchSpinne.htm">Spinne</a>
+<br> <a href="/vorschau/zehnIterat.htm">weitere Bilder</a>
+</FONT>
+
+<p> <script language="JavaScript"><!--
+// JavaScript von G.Mueller www.aladin24.de
+
+
+function calculation1(modus)
+{
+  zx = document.gold.zahlx.value;
+  zy = document.gold.zahly.value;
+  ima = document.gold.maxiterat.value;
+  kopp = document.gold.koppelfaktor.value;
+  Cx = zx*1.0;
+  Cy = zy*1.0;
+  imax = ima*1;
+  koppl = kopp*1.0;
+
+
+  ausgabe = "Punkt x = " + Cx + "<br>";
+  ausgabe += "Punkt y = " + Cy + "<br>";
+  ausgabe += "Zahl Iterat. = " + imax + "<br>";
+  ausgabe += "Koppelfaktor = " + koppl + " &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Apfelmnnchen<br><br>";
+
+   x1 = 0.0;
+   y1 = 0.0;
+   x2 = x1;
+   y2 = y1;
+
+  for (i=1; i<=imax; i++)
+  {
+	x1n = x1*x1 - y1*y1 + Cx + koppl*x2;
+	y1n = 2.0*x1*y1 + Cy + koppl*y2;
+
+	x2n = x2*x2 - y2*y2 + Cx - koppl*x1;
+	y2n = 2.0*x2*y2 + Cy - koppl*y1;
+
+    x1 = x1n;
+    y1 = y1n;
+    x2 = x2n;
+    y2 = y2n;
+
+    if (modus == 1) ausgabe += "i= " + i + " &nbsp;&nbsp; x = " + x1 + " &nbsp;&nbsp; y = " + y1 + "<br>";
+    if (modus == 2) ausgabe += "i= " + i + " &nbsp;&nbsp; y = " + y1 + " &nbsp;&nbsp; x = " + x1 + "<br>";
+
+  }
+
+  document.write(ausgabe.bold());
+
+}
+
+
+
+
+// --></script>
+</body>
+</html>

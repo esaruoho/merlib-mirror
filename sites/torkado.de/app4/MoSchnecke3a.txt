@@ -1,0 +1,7 @@
+Schnecke 2^N 
+
+ 7 Windungen nach innen (Widerstandsfreie Einwirbelung) und zurck; dR-proportionale z-Bewegung; keine Umkehr 
+Steigungen dR = d_phi*r_aktuell/9; = Radiushalbierung pro Umlauf rot (KurveB); dz = dR * Hoehenfaktor 
+ Alle Applet-Parameter einstellbar, z.B. Startwert: param name=Radius_gross value="10.0" 
+ param name=L_mal_X value="7" 
+ param name=RadiusunterschiedInvers value="32"

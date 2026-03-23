@@ -1,0 +1,39 @@
+exp(x), Logarithmische Spirale mit Basis e 
+
+ Logarithmische Spirale r = exp(phi/b) 
+
+ Umlufe u: 
+
+ Parameter b: 
+ Schrittzahl s: 
+
+ Ergebnisse:
+ Endradius bis Nullpunkt 
+
+ Gesamt-Laenge iterativ 
+
+ Gesamt-Laenge analytisch (u Ganz) 
+
+ Gesamt-Laenge in 2Pi 
+
+ Laenge L1=(Faktor-1)*b 
+
+ Laenge L1 iterativ 
+
+ Laenge zweite Runde (L2-L1) iterativ 
+
+ Faktor =R(u)/R(u-1) 
+
+r = Basis^(phi/b) mit Basis = e 
+Spiralenlnge: L=L1*(Sum(F^n) fr n=0 bis (Umlufe-1)), 
+ z.B. L5=L1*(1+F+F^2+F^3+F^4), F=Faktor=R(u)/R(u-1) 
+Erster Umlauf: L1= (Faktor-1)*b/ln(Basis) 
+Berechnung b aus Faktor: b = 2Pi*ln(Basis)/ln(Faktor) 
+Berechnung Faktor aus b: Faktor = (Basis)^(2Pi/b) 
+
+z.B. mit b= 3.41874 (macht Faktor 2Pi pro Umlauf; bei u=4 ist GesLaenge/R = rund b)) 
+oder mit b= 9.064720283654388 (macht Faktor 2 pro Umlauf) 
+oder mit b=13.05700522 (macht Faktor 1.618033988 pro Umlauf) 
+oder mit b=15.49624167 (macht Faktor 1.5 pro Umlauf) 
+
+ Links: Umrechnung verschiedener b ohne Kenntnis von Faktor
