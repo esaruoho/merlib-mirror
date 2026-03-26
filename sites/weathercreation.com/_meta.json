@@ -1,0 +1,13 @@
+{
+  "source": "web.archive.org",
+  "domain": "weathercreation.com",
+  "mirror_date": "2026-03-26T23:05:42.626605",
+  "total_urls": 2,
+  "downloaded": 2,
+  "failed": 0,
+  "files": 4,
+  "file_types": {
+    ".html": 2,
+    ".txt": 2
+  }
+}

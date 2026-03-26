@@ -1,0 +1,34 @@
+[2026-03-26 23:02:24] ============================================================
+[2026-03-26 23:02:24] WAYBACK MIRROR: weathercreation.com
+[2026-03-26 23:02:24] Output: /Users/esaruoho/work/merlib-mirror/sites/weathercreation.com
+[2026-03-26 23:02:24] Delay: 1.0s
+[2026-03-26 23:02:24] ============================================================
+[2026-03-26 23:02:24] Resuming: phase=init, 0 already done
+[2026-03-26 23:02:24] 
+=== PHASE 1: URL Discovery ===
+[2026-03-26 23:02:24] Querying CDX for weathercreation.com...
+[2026-03-26 23:03:36]   Found 1005 URLs for weathercreation.com
+[2026-03-26 23:03:36] Querying CDX for www.weathercreation.com...
+[2026-03-26 23:03:37]   Found 1005 URLs for www.weathercreation.com
+[2026-03-26 23:05:35] Path filter '/rainmaker': 1005 -> 2 URLs
+[2026-03-26 23:05:35] Total unique valid URLs: 2
+[2026-03-26 23:05:35]   text/html: 1
+[2026-03-26 23:05:35]   text/xml: 1
+[2026-03-26 23:05:35] 
+=== PHASE 2: Downloading ===
+[2026-03-26 23:05:42] 
+=== PHASE 3: Generating Index ===
+[2026-03-26 23:05:42] Generating index...
+[2026-03-26 23:05:42] Index: 4 files
+[2026-03-26 23:05:42]   .html: 2
+[2026-03-26 23:05:42]   .txt: 2
+[2026-03-26 23:05:42] 
+============================================================
+[2026-03-26 23:05:42] MIRROR COMPLETE
+[2026-03-26 23:05:42] Total URLs: 2
+[2026-03-26 23:05:42] Downloaded: 2
+[2026-03-26 23:05:42] Failed: 0
+[2026-03-26 23:05:42] Files: 4
+[2026-03-26 23:05:42] ============================================================
+[2026-03-26 23:05:42] 
+Next step: fe-ingest.sh /Users/esaruoho/work/merlib-mirror/sites/weathercreation.com
