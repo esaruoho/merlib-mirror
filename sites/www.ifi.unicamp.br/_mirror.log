@@ -122,3 +122,127 @@
 [2026-03-09 16:57:33] ============================================================
 [2026-03-09 16:57:33] 
 Next step: fe-ingest.sh /Users/esaruoho/work/merlib-mirror/sites/www.ifi.unicamp.br
+[2026-03-28 23:29:32] ============================================================
+[2026-03-28 23:29:32] LIVE MIRROR: www.ifi.unicamp.br
+[2026-03-28 23:29:32] Seed: https://www.ifi.unicamp.br/~assis/
+[2026-03-28 23:29:32] Seed path: /~assis
+[2026-03-28 23:29:32] Max link depth: 5
+[2026-03-28 23:29:32] Output: sites/www.ifi.unicamp.br
+[2026-03-28 23:29:32] ============================================================
+[2026-03-28 23:29:32] Crawling /~assis (download-as-you-go)...
+[2026-03-28 23:29:32]   [1 d0*] https://www.ifi.unicamp.br/~assis/  (1 OK, 0 queued)
+[2026-03-28 23:29:32]     +7 links (8 total known)
+[2026-03-28 23:29:33]   [2 d0*] https://www.ifi.unicamp.br/~assis/books.htm  (2 OK, 6 queued)
+[2026-03-28 23:29:33]     +120 links (128 total known)
+[2026-03-28 23:29:33]   [3 d0*] https://www.ifi.unicamp.br/~assis/Archimedes-1st-edition.pdf  (3 OK, 125 queued)
+[2026-03-28 23:29:34]   [4 d0*] https://www.ifi.unicamp.br/~assis/Errata-Archimedes-1st-edition.pdf  (4 OK, 124 queued)
+[2026-03-28 23:29:34]   [5 d0*] https://www.ifi.unicamp.br/~assis/cover-Inductance.jpg  (5 OK, 123 queued)
+[2026-03-28 23:29:35]   [6 d0*] https://www.ifi.unicamp.br/~assis/Ronaldo-Furtado-de-Oliveira.pdf  (6 OK, 122 queued)
+[2026-03-28 23:29:35]   [7 d0*] https://www.ifi.unicamp.br/~assis/errata-O-Metodo.pdf  (7 OK, 121 queued)
+[2026-03-28 23:29:36]   [8 d0*] https://www.ifi.unicamp.br/~assis/Errata-Weber-in-English-Vol-4.pdf  (8 OK, 120 queued)
+[2026-03-28 23:29:36]   [9 d0*] https://www.ifi.unicamp.br/~assis/errata-Principia-Folha.pdf  (9 OK, 119 queued)
+[2026-03-28 23:29:37]   [10 d0*] https://www.ifi.unicamp.br/~assis/capa-O-Universo-Vermelho.jpg  (10 OK, 118 queued)
+[2026-03-28 23:29:39]   [15 d0*] https://www.ifi.unicamp.br/~assis/Tabela-de-Conteudo-O-Universo-Vermelho.pdf  (15 OK, 113 queued)
+[2026-03-28 23:29:42]   [20 d0*] https://www.ifi.unicamp.br/~assis/Errata-Arquimedes-Apeiron.pdf  (20 OK, 108 queued)
+[2026-03-28 23:29:45]   [25 d0*] https://www.ifi.unicamp.br/~assis/Weber-in-English-Vol-4.pdf  (25 OK, 103 queued)
+[2026-03-28 23:29:47]   [30 d0*] https://www.ifi.unicamp.br/~assis/Electricity-in-Russian-Vol-2.pdf  (30 OK, 98 queued)
+[2026-03-28 23:29:50]   [35 d0*] https://www.ifi.unicamp.br/~assis/capa-Goldemberg.jpg  (35 OK, 93 queued)
+[2026-03-28 23:29:52]   [40 d0*] https://www.ifi.unicamp.br/~assis/Coulomb-in-English.pdf  (40 OK, 88 queued)
+[2026-03-28 23:29:55]   [45 d0*] https://www.ifi.unicamp.br/~assis/Weber-em-portugues-Vol-4.pdf  (45 OK, 83 queued)
+[2026-03-28 23:29:57]   [50 d0*] https://www.ifi.unicamp.br/~assis/Weber-in-English-Vol-3.pdf  (50 OK, 78 queued)
+[2026-03-28 23:30:00]   [55 d0*] https://www.ifi.unicamp.br/~assis/Electricity-in-Italian.pdf  (55 OK, 73 queued)
+[2026-03-28 23:30:02]   [60 d0*] https://www.ifi.unicamp.br/~assis/errata-Curso-de-Eletrodinamica-de-Weber.pdf  (60 OK, 68 queued)
+[2026-03-28 23:30:05]   [65 d0*] https://www.ifi.unicamp.br/~assis/Tabela-de-Conteudo-Eletricidade-LFE.pdf  (65 OK, 63 queued)
+[2026-03-28 23:30:07]   [70 d0*] https://www.ifi.unicamp.br/~assis/Calculo-de-Indutancia-e-de-Forca-em-Circuitos-Eletricos-2a-edicao.pdf  (70 OK, 58 queued)
+[2026-03-28 23:30:10]   [75 d0*] https://www.ifi.unicamp.br/~assis/capa-Serway-Jewett-2.jpg  (75 OK, 53 queued)
+[2026-03-28 23:30:12]   [80 d0*] https://www.ifi.unicamp.br/~assis/Tabela-de-Conteudo-Arquimedes-LFE.pdf  (80 OK, 48 queued)
+[2026-03-28 23:30:15]   [85 d0*] https://www.ifi.unicamp.br/~assis/Eletrodinamica-de-Weber-2a-edicao.pdf  (85 OK, 43 queued)
+[2026-03-28 23:30:17]   [90 d0*] https://www.ifi.unicamp.br/~assis/errata-Relational-Mechanics-Mach-Weber.pdf  (90 OK, 38 queued)
+[2026-03-28 23:30:20]   [95 d0*] https://www.ifi.unicamp.br/~assis/Electricity-in-Russian.pdf  (95 OK, 33 queued)
+[2026-03-28 23:30:22]   [100 d0*] https://www.ifi.unicamp.br/~assis/Tabela-de-Conteudo-A-Forca-Eletrica-de-uma-Corrente.pdf  (100 OK, 28 queued)
+[2026-03-28 23:30:25]   [105 d0*] https://www.ifi.unicamp.br/~assis/errata-A-Forca-Eletrica-de-uma-Corrente.pdf  (105 OK, 23 queued)
+[2026-03-28 23:30:27]   [110 d0*] https://www.ifi.unicamp.br/~assis/O-Metodo-Ilustrado-de-Arquimedes.pdf  (110 OK, 18 queued)
+[2026-03-28 23:30:30]   [115 d0*] https://www.ifi.unicamp.br/~assis/Errata-Coulomb-livro.pdf  (115 OK, 20 queued)
+[2026-03-28 23:30:33]   [120 d0*] https://www.ifi.unicamp.br/~assis/capa-A-Forca-Eletrica-de-uma-Corrente.pdf  (120 OK, 15 queued)
+[2026-03-28 23:30:35]   [125 d0*] https://www.ifi.unicamp.br/~assis/eletricidade-06-04-2020.pdf  (125 OK, 105 queued)
+[2026-03-28 23:30:38]   [130 d0*] https://www.ifi.unicamp.br/~assis/Relational-Mechanics-24-10-2009.pdf  (130 OK, 100 queued)
+[2026-03-28 23:31:02]   [135 d0*] https://www.ifi.unicamp.br/~assis/aula-lei-de-escala-04-2022.pdf  (135 OK, 95 queued)
+[2026-03-28 23:31:05]   [140 d0*] https://www.ifi.unicamp.br/~assis/Arquimedes-23-06-2018.pdf  (140 OK, 90 queued)
+[2026-03-28 23:31:17]   [145 d0*] https://www.ifi.unicamp.br/~assis/La-Manana-del-Sur-Argentina-02-01-2000.jpg  (145 OK, 85 queued)
+[2026-03-28 23:31:20]   [150 d0*] https://www.ifi.unicamp.br/~assis/mecanica-optica-27-11-2015.pdf  (150 OK, 80 queued)
+[2026-03-28 23:31:22]   [155 d0*] https://www.ifi.unicamp.br/~assis/O-Estado-de-Sao-Paulo-14-09-1991-pag-14.pdf  (155 OK, 75 queued)
+[2026-03-28 23:31:25]   [160 d0*] https://www.ifi.unicamp.br/~assis/eletricidade-22-10-2021.pdf  (160 OK, 70 queued)
+[2026-03-28 23:31:27]   [165 d0*] https://www.ifi.unicamp.br/~assis/Relational-Mechanics-07-07-2019.pdf  (165 OK, 65 queued)
+[2026-03-28 23:31:30]   [170 d0*] https://www.ifi.unicamp.br/~assis/Correio-Popular-27-11-1990-pag-32.pdf  (170 OK, 60 queued)
+[2026-03-28 23:31:32]   [175 d0*] https://www.ifi.unicamp.br/~assis/Jornal-do-Brasil-pag-26-de-09-06-1991.pdf  (175 OK, 55 queued)
+[2026-03-28 23:31:35]   [180 d0*] https://www.ifi.unicamp.br/~assis/Folha-de-Sao-Paulo-caderno-de-empregos-1993.pdf  (180 OK, 50 queued)
+[2026-03-28 23:31:37]   [185 d0*] https://www.ifi.unicamp.br/~assis/Weber-Electrodynamics-18-10-2019.pdf  (185 OK, 45 queued)
+[2026-03-28 23:31:40]   [190 d0*] https://www.ifi.unicamp.br/~assis/Ampere-Electrodynamics-17-02-2020.pdf  (190 OK, 40 queued)
+[2026-03-28 23:31:42]   [195 d0*] https://www.ifi.unicamp.br/~assis/Revista-Isto-E-26-08-1998-pag-59.jpg  (195 OK, 35 queued)
+[2026-03-28 23:31:57]   [200 d0*] https://www.ifi.unicamp.br/~assis/Jornal-do-Brasil-pag-26-de-09-06-1991.jpeg  (200 OK, 30 queued)
+[2026-03-28 23:31:59]   [205 d0*] https://www.ifi.unicamp.br/~assis/Jornal-da-Unicamp-numero-50-dezembro-pags-1-e-3(1990).pdf  (205 OK, 25 queued)
+[2026-03-28 23:32:02]   [210 d0*] https://www.ifi.unicamp.br/~assis/Jornal-da-USP-numero-243-pag-9-de-8-a-14-03-1993.pdf  (210 OK, 20 queued)
+[2026-03-28 23:32:04]   [215 d0*] https://www.ifi.unicamp.br/~assis/Jornal-da-Unicamp-numero-50-dezembro-pag-1(1990).jpg  (215 OK, 15 queued)
+[2026-03-28 23:32:07]   [220 d0*] https://www.ifi.unicamp.br/~assis/Ana-Elitha-dos-Santos-Amaral(2008).pdf  (220 OK, 36 queued)
+[2026-03-28 23:32:10]   [225 d0*] https://www.ifi.unicamp.br/~assis/Douglas-Soares-da-Silva(2006).pdf  (225 OK, 31 queued)
+[2026-03-28 23:32:12]   [230 d0*] https://www.ifi.unicamp.br/~assis/emelygirondossantos.pdf  (230 OK, 26 queued)
+[2026-03-28 23:32:15]   [235 d0*] https://www.ifi.unicamp.br/~assis/Andre-Koch-Torres-Assis.jpg  (235 OK, 21 queued)
+[2026-03-28 23:32:17]   [240 d0*] https://www.ifi.unicamp.br/~assis/Erica-Formighieri(2007).pdf  (240 OK, 16 queued)
+[2026-03-28 23:32:20]   [245 d0*] https://www.ifi.unicamp.br/~assis/livros.htm  (245 OK, 11 queued)
+[2026-03-28 23:32:23]   [250 d0*] https://www.ifi.unicamp.br/~assis/Phys-Essays-V8-p335-341(1995).pdf  (249 OK, 207 queued)
+[2026-03-28 23:32:25]   [255 d0*] https://www.ifi.unicamp.br/~assis/Amperes-motor-in-German(2017).pdf  (254 OK, 202 queued)
+[2026-03-28 23:32:28]   [260 d0*] https://www.ifi.unicamp.br/~assis/Revista-SBHC-V5-p53-59(1991).pdf  (259 OK, 197 queued)
+[2026-03-28 23:32:30]   [265 d0*] https://www.ifi.unicamp.br/~assis/Revista-Bras-Ens-Fis-V29-p605-612(2007).pdf  (264 OK, 192 queued)
+[2026-03-28 23:32:33]   [270 d0*] https://www.ifi.unicamp.br/~assis/Eur-J-Phys-V18-p241-246(1997).pdf  (269 OK, 187 queued)
+[2026-03-28 23:32:35]   [275 d0*] https://www.ifi.unicamp.br/~assis/Cad-Bras-Ens-Fis-V22-p95-104(2005).pdf  (274 OK, 182 queued)
+[2026-03-28 23:32:38]   [280 d0*] https://www.ifi.unicamp.br/~assis/Proc-4th-Int-Conf-Hands-on-Sci-p9-16(2007).pdf  (279 OK, 177 queued)
+[2026-03-28 23:32:41]   [285 d0*] https://www.ifi.unicamp.br/~assis/Apeiron-V7-p131-132(2000).pdf  (284 OK, 172 queued)
+[2026-03-28 23:32:43]   [290 d0*] https://www.ifi.unicamp.br/~assis/Int-J-Theor-Phys-V30-p537-545(1991).pdf  (289 OK, 167 queued)
+[2026-03-28 23:32:46]   [295 d0*] https://www.ifi.unicamp.br/~assis/Discriminacao-p285-297(2000).pdf  (294 OK, 162 queued)
+[2026-03-28 23:32:48]   [300 d0*] https://www.ifi.unicamp.br/~assis/Annales-Fond-Louis-de-Broglie-V44-p111-123(2019).pdf  (299 OK, 157 queued)
+[2026-03-28 23:32:51]   [305 d0*] https://www.ifi.unicamp.br/~assis/Revista-Bras-Ens-Fis-V29-p499-508(2007).pdf  (304 OK, 152 queued)
+[2026-03-28 23:32:53]   [310 d0*] https://www.ifi.unicamp.br/~assis/Found-Phys-V26-p271-283(1996).pdf  (309 OK, 147 queued)
+[2026-03-28 23:32:56]   [315 d0*] https://www.ifi.unicamp.br/~assis/J-Franklin-Inst-B-V332-p747-753(1995).pdf  (314 OK, 142 queued)
+[2026-03-28 23:32:58]   [320 d0*] https://www.ifi.unicamp.br/~assis/Mitteilungen-Gauss-Gesellschaft-V40-p53-74(2003).pdf  (319 OK, 137 queued)
+[2026-03-28 23:33:01]   [325 d0*] https://www.ifi.unicamp.br/~assis/Gen-Relat-Grav-V27-p429-437(1995).pdf  (324 OK, 132 queued)
+[2026-03-28 23:33:03]   [330 d0*] https://www.ifi.unicamp.br/~assis/J-Advanced-Phys-V4-p77-82(2015)-German.pdf  (329 OK, 127 queued)
+[2026-03-28 23:33:06]   [335 d0*] https://www.ifi.unicamp.br/~assis/Am-J-Phys-77-p54-58(2009).pdf  (334 OK, 122 queued)
+[2026-03-28 23:33:08]   [340 d0*] https://www.ifi.unicamp.br/~assis/Revista-Bras-Ens-Fis-V21-p469-475(1999).pdf  (339 OK, 117 queued)
+[2026-03-28 23:33:11]   [345 d0*] https://www.ifi.unicamp.br/~assis/comparacao-mec-relac-relat-geral-p27-38(2001).pdf  (344 OK, 112 queued)
+[2026-03-28 23:33:13]   [350 d0*] https://www.ifi.unicamp.br/~assis/Phys-Rev-E-V68-046611(2003).pdf  (349 OK, 107 queued)
+[2026-03-28 23:33:16]   [355 d0*] https://www.ifi.unicamp.br/~assis/Discriminacao-p390-400(2010).PDF  (354 OK, 102 queued)
+[2026-03-28 23:33:18]   [360 d0*] https://www.ifi.unicamp.br/~assis/Science-and-Education-V20-p83-87(2011).pdf  (359 OK, 97 queued)
+[2026-03-28 23:33:21]   [365 d0*] https://www.ifi.unicamp.br/~assis/Errata-Found-Phys-V29-p729-753(1999).pdf  (364 OK, 92 queued)
+[2026-03-28 23:33:23]   [370 d0*] https://www.ifi.unicamp.br/~assis/IEEE-Trans-Magnetics-V34-p317-319(1998).pdf  (369 OK, 87 queued)
+[2026-03-28 23:33:26]   [375 d0*] https://www.ifi.unicamp.br/~assis/Revista-SBHC-V16-p69-80(1996).pdf  (374 OK, 82 queued)
+[2026-03-28 23:33:28]   [380 d0*] https://www.ifi.unicamp.br/~assis/Revista-SBHC-V18-p81-94(1997).pdf  (379 OK, 77 queued)
+[2026-03-28 23:33:32]   [385 d0*] https://www.ifi.unicamp.br/~assis/Proc-Conf-Foundations-Math-Phys-p8-22(1989).pdf  (383 OK, 72 queued)
+[2026-03-28 23:33:34]   [390 d0*] https://www.ifi.unicamp.br/~assis/Newton-e-os-Problemas-Inversos(2017).pdf  (388 OK, 67 queued)
+[2026-03-28 23:33:37]   [395 d0*] https://www.ifi.unicamp.br/~assis/Can-J-Phys-V93-p1571-1573(2015).pdf  (393 OK, 62 queued)
+[2026-03-28 23:33:39]   [400 d0*] https://www.ifi.unicamp.br/~assis/Can-J-Phys-V78-p357-362(1997).pdf  (398 OK, 57 queued)
+[2026-03-28 23:33:42]   [405 d0*] https://www.ifi.unicamp.br/~assis/Apeiron-V20-p84-96(2017).pdf  (403 OK, 52 queued)
+[2026-03-28 23:33:44]   [410 d0*] https://www.ifi.unicamp.br/~assis/Science-and-Education-V22-p717-721(2013).pdf  (408 OK, 47 queued)
+[2026-03-28 23:33:47]   [415 d0*] https://www.ifi.unicamp.br/~assis/Assis-Neves(2018).pdf  (413 OK, 42 queued)
+[2026-03-28 23:33:49]   [420 d0*] https://www.ifi.unicamp.br/~assis/Weber_EM8.pdf  (418 OK, 37 queued)
+[2026-03-28 23:33:52]   [425 d0*] https://www.ifi.unicamp.br/~assis/Ciencia-e-Ensino-V2(2008).pdf  (423 OK, 32 queued)
+[2026-03-28 23:33:54]   [430 d0*] https://www.ifi.unicamp.br/~assis/Commun-Theor-Phys-V18-p475-478(1992).pdf  (428 OK, 27 queued)
+[2026-03-28 23:33:57]   [435 d0*] https://www.ifi.unicamp.br/~assis/Errata-Am-J-Phys-V88-p1140-1144(2020).pdf  (433 OK, 22 queued)
+[2026-03-28 23:33:59]   [440 d0*] https://www.ifi.unicamp.br/~assis/Apeiron-V13-p3-11(1992).pdf  (438 OK, 17 queued)
+[2026-03-28 23:34:02]   [445 d0*] https://www.ifi.unicamp.br/~assis/The-field-concepts-of-Faraday-and-Maxwell(2009).pdf  (443 OK, 12 queued)
+[2026-03-28 23:34:14] Generating index...
+[2026-03-28 23:34:14] Index: 448 files
+[2026-03-28 23:34:14]   .pdf: 391
+[2026-03-28 23:34:14]   .jpg: 42
+[2026-03-28 23:34:14]   .htm: 7
+[2026-03-28 23:34:14]   .html: 3
+[2026-03-28 23:34:14]   .mp3: 2
+[2026-03-28 23:34:14]   .jpeg: 2
+[2026-03-28 23:34:14]   .wav: 1
+[2026-03-28 23:34:14] 
+============================================================
+[2026-03-28 23:34:14] LIVE MIRROR COMPLETE
+[2026-03-28 23:34:14] Downloaded: 457, OK: 448, Failed: 9
+[2026-03-28 23:34:14] Total URLs seen: 457
+[2026-03-28 23:34:14] ============================================================
+[2026-03-28 23:34:14] 
+Next step: fe-ingest.sh sites/www.ifi.unicamp.br
