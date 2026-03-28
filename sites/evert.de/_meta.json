@@ -1,0 +1,16 @@
+{
+  "source": "live",
+  "domain": "evert.de",
+  "mirror_date": "2026-03-28T21:33:52.276923",
+  "total_urls": 0,
+  "downloaded": 908,
+  "failed": 0,
+  "files": 908,
+  "file_types": {
+    ".pdf": 67,
+    ".htm": 214,
+    ".gif": 594,
+    ".jpg": 32,
+    ".html": 1
+  }
+}
