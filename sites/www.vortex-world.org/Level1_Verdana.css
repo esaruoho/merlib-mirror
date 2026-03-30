@@ -1,0 +1,85 @@
+body {
+  font-family: Verdana, Geneva, Arial, helvetica, sans-serif;
+}
+
+td {
+	font-family: Verdana, Geneva, Arial, helvetica, sans-serif;
+}
+
+th {
+	font-family: Verdana, Geneva, Arial, helvetica, sans-serif;
+}
+.links {
+	font-size: x-small;
+	color: #333333;
+	text-decoration:none;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.header01 {
+	font-size: x-large;
+	color: #999999;
+	text-decoration:none;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.quicklinks {
+	font-size: x-small;
+	color: #999999;
+	text-decoration:none;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.header02 {
+	font-size: large;
+	color: #666666;
+	text-decoration:none;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.bodytext {
+	font-size: 10px;
+	color: #333333;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+a:link {
+	color: #999999; text-decoration:none
+}
+a:visited {
+	color: #999999; text-decoration:none
+}
+.style6Copy {
+	font-size: 10px;
+	color: #666666;
+	text-decoration: none;
+	font-weight: normal;
+	font-variant: normal;
+}
+.mainheader {
+	font-size: xx-large;
+	color: #006699;
+}
+.style10Copy {
+	font-size: medium;
+	color: #006699;
+	font-weight: bold;
+}
+.citat {
+	color: #666666;
+	font-size: 12px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.header03 {
+	font-size: 14px;
+	color: #666666;
+	text-decoration:none;
+	font-weight: bold;
+}
+.bodyblue {
+	font-size: x-small;
+	color: #006699;
+}
+a:hover {
+	color: #FF9933;
+}
+.languagelink {
+	font-size: small;
+	font-weight: bold;
+	color: #999999;
+}
