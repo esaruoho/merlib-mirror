@@ -1,0 +1,62 @@
+[2026-03-29 23:16:07] ============================================================
+[2026-03-29 23:16:07] LIVE MIRROR: www.vortex-world.org
+[2026-03-29 23:16:07] Seed: https://www.vortex-world.org
+[2026-03-29 23:16:07] Seed path: /
+[2026-03-29 23:16:07] Max link depth: 5
+[2026-03-29 23:16:07] Output: /Users/esaruoho/work/merlib-mirror/sites/www.vortex-world.org
+[2026-03-29 23:16:07] ============================================================
+[2026-03-29 23:16:07] Crawling / (download-as-you-go)...
+[2026-03-29 23:16:07]   [1 d0*] https://www.vortex-world.org  (1 OK, 0 queued)
+[2026-03-29 23:16:07]     +4 links (5 total known)
+[2026-03-29 23:16:08]   [2 d0*] https://www.vortex-world.org/firstpage.htm  (2 OK, 3 queued)
+[2026-03-29 23:16:08]     +10 links (15 total known)
+[2026-03-29 23:16:08]   [3 d0*] https://www.vortex-world.org/index.htm  (3 OK, 12 queued)
+[2026-03-29 23:16:09]   [4 d0*] https://www.vortex-world.org/bilder/divider.gif  (4 OK, 11 queued)
+[2026-03-29 23:16:10]   [5 d0*] https://www.vortex-world.org/watertreatment.htm  (5 OK, 10 queued)
+[2026-03-29 23:16:10]     +8 links (23 total known)
+[2026-03-29 23:16:10]   [6 d0*] https://www.vortex-world.org/rensnurr.htm  (6 OK, 17 queued)
+[2026-03-29 23:16:10]     +2 links (25 total known)
+[2026-03-29 23:16:11]   [7 d0*] https://www.vortex-world.org/bilder/buttonbackwater.gif  (7 OK, 18 queued)
+[2026-03-29 23:16:11]   [8 d0*] https://www.vortex-world.org/bilder/malmogrp-virvel.gif  (8 OK, 17 queued)
+[2026-03-29 23:16:12]   [9 d0*] https://www.vortex-world.org/elansunstar.htm  (9 OK, 16 queued)
+[2026-03-29 23:16:13]   [10 d0*] https://www.vortex-world.org/bilder/selforganizing.gif  (10 OK, 15 queued)
+[2026-03-29 23:16:16]   [15 d0*] https://www.vortex-world.org/bilder/landgre.gif  (15 OK, 13 queued)
+[2026-03-29 23:16:19]   [20 d0*] https://www.vortex-world.org/bilder/flatair1.gif  (20 OK, 16 queued)
+[2026-03-29 23:16:22]   [25 d0*] https://www.vortex-world.org/windmill.htm  (25 OK, 11 queued)
+[2026-03-29 23:16:25]   [30 d0*] https://www.vortex-world.org/bilder/turbhtm2.jpg  (30 OK, 13 queued)
+[2026-03-29 23:16:28]   [35 d0*] https://www.vortex-world.org/bilder/virvelsmall.gif  (35 OK, 8 queued)
+[2026-03-29 23:16:32]   [40 d0*] https://www.vortex-world.org/bilder/viktor40.jpg  (40 OK, 11 queued)
+[2026-03-29 23:16:35]   [45 d0*] https://www.vortex-world.org/bilder/viktor50.jpg  (45 OK, 6 queued)
+[2026-03-29 23:16:38]   [50 d0*] http://www.vortex-world.org/bilder/sunstar.gif  (49 OK, 38 queued)
+[2026-03-29 23:16:43]   [60] 50 OK, 10 failed, 48 queued
+[2026-03-29 23:16:43]     last fail: http://www.vortex-world.org/morelinks-filer/image005.gif
+[2026-03-29 23:16:52]   [75 d0*] http://www.vortex-world.org/bilder/Knossos.jpg  (54 OK, 37 queued)
+[2026-03-29 23:16:54]   [80 d0*] http://www.vortex-world.org/elansunstar.htm  (59 OK, 32 queued)
+[2026-03-29 23:16:57]   [85 d0*] http://www.vortex-world.org/bilder/selforganizing.gif  (64 OK, 28 queued)
+[2026-03-29 23:17:00]   [90 d0*] http://www.vortex-world.org/bilder/vort1.gif  (69 OK, 38 queued)
+[2026-03-29 23:17:02]   [95 d0*] http://www.vortex-world.org/bilder/pa134543.gif  (74 OK, 33 queued)
+[2026-03-29 23:17:05]   [100 d0*] http://www.vortex-world.org/bilder/repulsin1.gif  (79 OK, 28 queued)
+[2026-03-29 23:17:07]   [105 d0*] http://www.vortex-world.org/bilder/virvelsmall.gif  (83 OK, 27 queued)
+[2026-03-29 23:17:10]   [110 d0*] http://www.vortex-world.org/viktorschauberger.htm  (87 OK, 23 queued)
+[2026-03-29 23:17:10]     +7 links (140 total known)
+[2026-03-29 23:17:13]   [115 d0*] http://www.vortex-world.org/bilder/livingwater.jpg  (92 OK, 25 queued)
+[2026-03-29 23:17:15]   [120] 96 OK, 24 failed, 21 queued
+[2026-03-29 23:17:15]     last fail: https://www.vortex-world.org/morelinks_files/storbalja.MP4
+[2026-03-29 23:17:27]   [140 d0*] https://www.vortex-world.org/energyproduction.htm  (100 OK, 3 queued)
+[2026-03-29 23:17:27]     +2 links (145 total known)
+[2026-03-29 23:17:30]   [145 d0*] https://www.vortex-world.org/Level1_Verdana.css  (105 OK, 0 queued)
+[2026-03-29 23:17:31] Generating index...
+[2026-03-29 23:17:31] Index: 53 files
+[2026-03-29 23:17:31]   .gif: 28
+[2026-03-29 23:17:31]   .htm: 12
+[2026-03-29 23:17:31]   .jpg: 11
+[2026-03-29 23:17:31]   .css: 1
+[2026-03-29 23:17:31]   .html: 1
+[2026-03-29 23:17:31] 
+============================================================
+[2026-03-29 23:17:31] LIVE MIRROR COMPLETE
+[2026-03-29 23:17:31] Downloaded: 145, OK: 105, Failed: 40
+[2026-03-29 23:17:31] Total URLs seen: 145
+[2026-03-29 23:17:31] ============================================================
+[2026-03-29 23:17:31] 
+Next step: fe-ingest.sh /Users/esaruoho/work/merlib-mirror/sites/www.vortex-world.org
