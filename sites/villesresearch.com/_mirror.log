@@ -1,0 +1,33 @@
+[2026-03-31 13:48:49] ============================================================
+[2026-03-31 13:48:49] WAYBACK MIRROR: villesresearch.com
+[2026-03-31 13:48:49] Output: /Users/esaruoho/work/merlib-mirror/sites/villesresearch.com
+[2026-03-31 13:48:49] Delay: 1.0s
+[2026-03-31 13:48:49] ============================================================
+[2026-03-31 13:48:49] Resuming: phase=init, 0 already done
+[2026-03-31 13:48:49] 
+=== PHASE 1: URL Discovery ===
+[2026-03-31 13:48:49] Querying CDX for villesresearch.com...
+[2026-03-31 13:48:51]   Found 68 URLs for villesresearch.com
+[2026-03-31 13:48:51] Querying CDX for www.villesresearch.com...
+[2026-03-31 13:49:17]   Found 68 URLs for www.villesresearch.com
+[2026-03-31 13:49:28] Path filter '/about.html': 70 -> 1 URLs
+[2026-03-31 13:49:28] Total unique valid URLs: 1
+[2026-03-31 13:49:28]   text/html: 1
+[2026-03-31 13:49:28] 
+=== PHASE 2: Downloading ===
+[2026-03-31 13:49:50] 
+=== PHASE 3: Generating Index ===
+[2026-03-31 13:49:50] Generating index...
+[2026-03-31 13:49:50] Index: 2 files
+[2026-03-31 13:49:50]   .html: 1
+[2026-03-31 13:49:50]   .txt: 1
+[2026-03-31 13:49:50] 
+============================================================
+[2026-03-31 13:49:50] MIRROR COMPLETE
+[2026-03-31 13:49:50] Total URLs: 1
+[2026-03-31 13:49:50] Downloaded: 1
+[2026-03-31 13:49:50] Failed: 0
+[2026-03-31 13:49:50] Files: 2
+[2026-03-31 13:49:50] ============================================================
+[2026-03-31 13:49:50] 
+Next step: fe-ingest.sh /Users/esaruoho/work/merlib-mirror/sites/villesresearch.com
