@@ -1,0 +1,15 @@
+[2026-04-02 14:16:25] ============================================================
+[2026-04-02 14:16:25] WAYBACK MIRROR: wikischool.org
+[2026-04-02 14:16:25] Output: /Users/esaruoho/work/merlib-mirror/sites/wikischool.org
+[2026-04-02 14:16:25] Delay: 1.0s
+[2026-04-02 14:16:25] ============================================================
+[2026-04-02 14:16:25] Resuming: phase=init, 0 already done
+[2026-04-02 14:16:25] 
+=== PHASE 1: URL Discovery ===
+[2026-04-02 14:16:25] Querying CDX for wikischool.org...
+[2026-04-02 14:16:48]   CDX query failed for wikischool.org
+[2026-04-02 14:16:48] Querying CDX for www.wikischool.org...
+[2026-04-02 14:18:06]   CDX query failed for www.wikischool.org
+[2026-04-02 14:20:41] Path filter '/divided_light': 3 -> 0 URLs
+[2026-04-02 14:20:41] Total unique valid URLs: 0
+[2026-04-02 14:20:41] ERROR: No URLs found!
