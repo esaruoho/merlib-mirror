@@ -1,0 +1,14 @@
+[2026-04-14 17:23:19] ============================================================
+[2026-04-14 17:23:19] WAYBACK MIRROR: magnetricity.com
+[2026-04-14 17:23:19] Output: /Users/esaruoho/work/merlib-mirror/sites/magnetricity.com
+[2026-04-14 17:23:19] Delay: 1.0s
+[2026-04-14 17:23:19] ============================================================
+[2026-04-14 17:23:19] Resuming: phase=init, 0 already done
+[2026-04-14 17:23:19] 
+=== PHASE 1: URL Discovery ===
+[2026-04-14 17:23:19] Querying CDX for magnetricity.com...
+[2026-04-14 17:23:27]   CDX query failed for magnetricity.com
+[2026-04-14 17:23:27] Querying CDX for www.magnetricity.com...
+[2026-04-14 17:23:34]   CDX query failed for www.magnetricity.com
+[2026-04-14 17:23:50] Total unique valid URLs: 0
+[2026-04-14 17:23:50] ERROR: No URLs found!
