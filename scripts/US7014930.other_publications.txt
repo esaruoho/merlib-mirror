@@ -1,0 +1,165 @@
+# Other publications (merged for reading). One entry per blank line.
+# Source: /Users/esaruoho/Downloads/US7014930.pdf
+
+1.
+Jahn, “Physics of Electric Propulsion”, pp. 126-130 (1968).
+
+2.
+US 2003/O143442 A1              Jul. 31, 2003
+
+3.
+Belogub et al., “Petrol-Hydrogen Truck With Load-Carrying Capacity 5 Tons”, J. Hydrogen Energy, Vol. 16, No. 6, pp. 423-426 (1991), no month available.
+
+4.
+Breshears et al., “Partial Hydrogen Injection Into Internal Combustion Engines”, Proceedings of the EPA 1: Sympo Ann Arbor, MI, pp. 268-277 (Oct. 1973).
+
+5.
+Review and Required Research', PD-vol. 33, Fossile Fuel
+
+6.
+Combustion, ASME, pp. 1-9 (1991), no month available.
+
+7.
+Czernichowski et al., “Multi-Electrodes High Pressure Glid as and vapor incinerauon, Proceedings of workshop on Plasma Destruction of Wastes, France, pp. 1-13 (1990), no
+
+8.
+Das, “Exhaust Emission Characterization of Hydrogen-Op Techniques”, Int. J. Hydrogen Energy, Vol. 16, No. 11, pp. 765-775 (1991), no month available.
+
+9.
+Das, “Hydrogen Engines: A View of the Past and a Look into the Future”,s: Int. J. of Hydrogen Energy, vol. 15, No. 6, pp. 425-443 (1990), no month available.
+
+10.
+Das, “Fuel Induction Techniques for a Hydrogen Operated Engine”, Int. J. of Hydrogen Energy, vol. 15, No. 11 (1990),
+
+11.
+Deluchi, “Hydrogen Vehicles: An Evaluation of Fuel Stor Costs”, Int. J. Hydrogen Energy, vol. 14, No. 2, pp. 81-130 (1989), no month available.
+
+12.
+Ducloset al., “Diagnostic Studies of a Pinch Plasma Accel erator”, AIAA Journal, vol. 1, No. 11, pp. 2505-2513 (Nov.
+
+13.
+Feucht et al., “Hydrogen Drive for Road Vehicles-Results vol. 13, No. 4, pp. 243-250 (1988), no month available.
+
+14.
+Finegold et al., “Dissociated Methanol as a Consumable Hydride for Automobiles and Gas Turbines”, pp. 1359–1369,
+
+15.
+Hall et al., “Initial Studies of a New Type of Ignitor: The Railplug" -SAE Paper 912319, pp. 1730-1746 (1991), no
+
+16.
+Houseman et al., “Hydrogen Engines Based On Liquid
+
+17.
+Fuels, A Review”, G.E., Proc., 3 "World Hydrogen Energy Conf., pp. 949-968 (1980), no month available.
+
+18.
+Houseman, et al., “Two Stage Combustion for Low Emis sions Without Catalytic Converters”, Proc. of Automobile Engineering Meeting, Dearborn, MI, pp. 1-9 (Oct. 18-22,
+
+19.
+Jones et al., “Exhaust Gas Reforming of Hydrocarbon Fuels”, Soc. of Automotive Engineers, Paper 93.1086, pp. 223-234 (1993), no month available.
+
+20.
+Kaske et al., “Hydrogen Production by the Hils Plasma Reforming Process”, Proc. VI World Hydrogen Energy Conference, vol. 1, pp. 185-190 (1986), no month available.
+
+21.
+MacDonald, “Evaluation of Hydrogen-Supplemented Fuel
+
+22.
+Society of Automotive Engineers, Paper 760101, pp. 1-16        Bromberg, “Emissions Reductions. Using Hydrogen from (1976), no month available.
+
+23.
+Plasmatron Fuel Converters”, Int. J. of Hydrogen Energy 26,
+
+24.
+Mackay, “Development of a 24 kW Gas Turbine-Driven             pp. 1115-1121 (2001), no month available.
+
+25.
+Generator Set for Hybrid Vehicles', 940510, pp. 99-105,        Bromberg, “Experimental Evaluation of SI Engine Opera
+
+26.
+Mackay, “Hybrid Vehicle Gas Turbines”, 930044, pp. 35-41,      Plasma Boosted Reformer, Massachusetts Institute of
+
+27.
+Matthews et al., “Further Analysis of Railplugs as a New       JA-99-32 (1999), no month available.
+
+28.
+Type of Ignitor”, SAE Paper 922167, pp. 1851-1862 (1992),      Bromberg, “Compact Plasmatron-Boosted Hydrogen Gen eration Technology for Vehicular Applications”, Int. J. of
+
+29.
+Mischenko et al., “Hydrogen as a fuel for Road Vehicles”,      Hydrogen Energy 24, pp. 341-350 (1999), no month avail
+
+30.
+Proc. VII World Hydrogen Energy Conference, vol. 3, pp.        able. 2037-2056 (1988), no month available.
+
+31.
+Gore, “Hydrogen A Go-Go", Discover, p. 92-93, (Jul. 1999).
+
+32.
+Monroe et al., “Evaluation of a Cu/Zeolite Catalyst to         Burch, “An Investigation of the NO/H/O Reaction on
+
+33.
+Remove No from Lean Exhaust”, Society of Automotive            Noble-Metal Catalysts at Low Temperatures Under Lean
+
+34.
+Engineers, Paper 930737, pp. 195-203 (1993), no month          Burn Conditions,” Journal of Applied Catalysis B: Environ
+
+35.
+Rabinovich et al., “On Board Plasmatron Generation of          mental 23, pp. 115-121 (1999), no month available.
+
+36.
+Hydrogen Rich Gas for Engine Pollution Reduction”, Pro         Costa, “An Investigation of the NO/H/O (Lean De-No)
+
+37.
+Electric and Hybrid Electric Vehicles, Gaithersburg, MD,       Pt/La, Sro-Ceo Fe0s Catalyst a Low Temperatures”,Jour pp. 83-88 (Oct. 1993) (not published). nal of Catalysis 209, pp. 456-471 (2002), no month avail
+
+38.
+Rabinovich et al., “Plasmatron Internal Combustion Engine      Kirwan, “Development of a Fast Start-up O Gasoline
+
+39.
+System for Vehicle Pollution Reduction”, Int. J. of Vehicle    Reformer for Near Zero Spark-Ignition Engines”, Delphi
+
+40.
+Design, vol. 15, Nos. Mar. 4, 2005, pp. 234-242 (1994), no     Automotive Systems, pp. 1-21 (2002), no month available.
+
+41.
+Scott et al., “Hydrogen Fuel Breakthrough with On-Demand       Shellef, “Twenty-five Years after Introduction of Automotive Catalysts: What Next?” Journal of Catalysis Today 62, pp.
+
+42.
+Gas Generator', 372 Automotive Engineering, vol. 93, No.       35-50 (2000), no month available.
+
+43.
+8, Warrendale, PA, U.S.A., pp. 81-84 (Aug. 1985).              Koebel, “Selective Catalytic Reduction of NO and NO at
+
+44.
+Shabalina et al., “Slag Cleaning by Use of Plasma Heating”,    Low Temperatures”, Journal of Catalysis Today 73, pp. pp. 1-7, no month/yr available. 239-247 (2002), no month available.
+
+45.
+Handbook of Thermodynamic High Temperature Process             Frank, “Kinetics and Mechanism of the Reduction of Nitric Data, pp. 507-547, no month/yr available.
+
+46.
+Varde et al., “Reduction of Soot in Diesel Combustion with     C-A1 O Catalyst”, Journal of Applied Catalysis B: Envi
+
+47.
+Hydrogen and Different H/C Gaseous Fuels”, Hydrogen            ronmental 19, pp. 45-57 (1998), no month available.
+
+48.
+Energy Progress V, pp. 1631-1639, no month/yr available.       Nanba, “Product Analysis of Selective Catalytic Reduction
+
+49.
+Wang et al., “Emission Control Cost Effectiveness of Alter     of NO with C.H. Over H-Ferrierite”, Journal of Catalysis native-Fuel Vehicles”, Society of Automotive Engineers,        211, pp. 53-63 (2002), no month available.
+
+50.
+Paper 93.1786, pp. 91-122 (1993), no month available.          Simanaitis, “Whither the Automobile?', Road and Track,
+
+51.
+Wilson, “Turbine Cars”, Technology Review, pp. 50-56           pp. 98-102 (Sep. 2001).
+
+52.
+Stokes, “A Gasoline Engine Concept for Improved Fuel
+
+53.
+Tachtler, “Fuel Cell Auxiliary Power Unit-Innovation for       Economy - The Lean Boost System”, International Falls the Electric Supply of Passenger Cars?”, Society of Auto       Fuels and Lubricants Meeting and Exposition, Baltimore, motive Engineers, Paper No. 2000-01-0374, pp. 109-117          MD, SAE Technical Paper Series, 14 pages (Oct. 16-19, (2000), no month available.
+
+54.
+Kirwan, “Fast Start-Up On-Board Gasoline Reformer for          Chandler, “Device May Spark Clean-Running Cars”, The
+
