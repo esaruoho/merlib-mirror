@@ -1,0 +1,43 @@
+<HTML>
+<HEAD>
+<TITLE>Schnecke 2^N</TITLE>
+</HEAD>
+<BODY>
+<h3> 4 Windungen nach innen und zurck; </h3>
+ Steigungen dR = d_phi * r_aktuell / k; dH = d_phi / r_aktuell * Hhenfaktor;<br>
+ bei k = Hhenfaktor ist d_phi * dR * dH = d_phi^3 = const   <br>
+ Alle Applet-Parameter als Startwert im Quelltext der HTM-Seite einstellbar, z.B. param name=Radius_gross value="10.0"<br>
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;param name=L_mal_X value="4"<br>
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;param name=WinkelSchrittverhaeltnis value="17" <br>
+ Hinweis: k=9.0647 fr Rneu/Ralt=0.5
+<br>
+
+<table cellpadding="5" bgcolor="#669999"><tr><td>
+
+<APPLET CODE="Schnecke1.class" WIDTH=1100 HEIGHT=880>
+	<param name=language value="German">
+	<param name=Radius_gross value="10">
+	<param name=WinkelSchrittverhaeltnis value="17">
+    <param name=kStattNeun value="6">
+    <param name=Hoehenfaktor value="1.0">
+	<param name=Starthoehe value="0">
+	<param name=Kippwinkel value="90">
+	<param name=Bildverkleinerung value="2">
+    <param name=L_mal_X value="4">
+    <param name=RadiusunterschiedInvers value="200">
+	<param name=anzeigenKurveA value="false">
+	<param name=anzeigenKurveB value="false">
+	<param name=anzeigenKurveC value="true">
+	<param name=Schrittzahl value="500">
+	<param name=ColorBackground value="ffffff">
+	<param name=ColorPanel value="dddddd">
+    <param name=ColorSchrift value="000000">
+	<param name=ColorX_Achse value="0000ff">
+	<param name=ColorY_Achse value="0000ff">
+	<param name=ColorZ_Achse value="ffffff">
+ </APPLET>
+
+ </td></tr><table>
+
+</BODY>
+</HTML>

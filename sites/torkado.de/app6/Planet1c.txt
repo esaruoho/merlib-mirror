@@ -1,0 +1,29 @@
+resonant-rotierende Masse 
+
+ Bahnkurve der 3D-Schwingung einer rotierenden Masse 
+Alle synchronen Varianten der Schwingungsverkopplung zwischen radialer, vertikaler und tangentialer Schwingung (beide Vorzeichen) 
+KurveA = f(A_T*cos( theta )), Schlauchquerschnitt kippt um die groe Radius-Achse in eine mehr liegende Ebene; oberer Umkehrpunkt wandert zurck oder vor 
+KurveB = f(A_T*sin(theta)), Schlauchquerschnitt bleibt senkrecht stehen, kippt um die innere z-Achse nach vorn oder hinten 
+KurveC hat A_T=0, dient dem Vergleich ohne die tangentiale Zusatzschwingung 
+
+ Alle Applet-Parameter als Startwert im Quelltext der HTM-Seite einstellbar, z.B. param name=Radius_gross value="10.0" 
+ param name=UmdrehungenMitR value="0.25" 
+
+ Hinweis: Jeweils am oberen und unteren Umkehrpunkt wechselt die Farbe, die Stelle oben ist farblich markiert. Starttag ist bei (x,y,z)=(R,0,0). 
+
+ Kurve A: (fr KurveB an markierter Stelle sintheta ) 
+ radiuskleinR = A_R*R; 
+ radiuskleinH = A_Z*R; 
+ radiuskleinT = A_T*R/Schrittzahl/2; 
+ d_theta=(2Pi)/Schrittzahl; 
+ d_phi=d_theta/WinkelSchrittverhaeltnis*Drehgeschwindigkeit; 
+ Schleife: 
+ winkeltheta +=d_theta; 
+ costheta=Math.cos(winkeltheta); 
+ sintheta=Math.sin(winkeltheta); 
+ winkelphi += (d_phi+radiuskleinT* costheta ); 
+ paramv=R+radiuskleinR*costheta; 
+
+ uuu = paramv*Math.cos(winkelphi); 
+ vvv = paramv*Math.sin(winkelphi); 
+ www = radiuskleinH*sintheta+Starthoehe;

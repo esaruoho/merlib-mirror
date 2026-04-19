@@ -1,0 +1,26 @@
+FractalSearch Spinne 
+
+ Iterationsverfolgung
+ Z = Z^(Z*) - 1 
+mit Z = x + iy und Z* = x - iy und 
+Start: x=Cx, y=Cy (Bildebene) 
+
+ Hinweis: Dieses Bild ist nur fr Koppelfaktor = 0.01 . Nahbild um Null hier. 
+ Es wurde mit der Software UltraFractal berechnet, die lngere Fliekommazahlen hat (hier JavaScript).
+ Der eigentliche Schdel ist grer (gleiche Formel) und wre hier zu berechnen (leider Zahlenlnge zu kurz).
+
+ Punkt x 
+ Punkt y 
+ Koppelfaktor 
+ Zahl der Iterationen 
+
+ Hier sieht man, dass nur dnne Linien eventuell nicht-divergent sind (koppl=0, Bailout=4).
+ Hier eine 2390-fache Vergrerung bei (0.214387, 0.2402897)
+( hier nur 23-fach), (koppl=0, Bailout=1E50).
+ Hier das gleiche Bild und dieselbe Stelle mit koppl=0.01
+( hier nur 23-fach). 
+Die Stelle im 8-fach-Bild hier wieder mit Bailout=4, das Zentrum unten links ist die Null. 
+Hier noch eine Bildserie zur Abbruchgrenze .
+ Zur Iterationsverfolgung fr Auge 
+ Zur Iterationsverfolgung fr Apfelmnnchen 
+ weitere Bilder

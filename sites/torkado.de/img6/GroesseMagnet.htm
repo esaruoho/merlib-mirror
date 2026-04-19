@@ -1,0 +1,177 @@
+<html>
+<head>
+<title>Magnetengroesse</title>
+</head>
+
+<body bgcolor="#555555" text="#FFFFFF" link="#FFFF00" vlink="#CCFFFF" alink="#FF99CC">
+<hr>
+
+<h3>Magnetengroesse mit abgestumpfter Kegelspitze, Masse 2630,6 g<br>Dichte vorgegeben</h3>
+<br>
+<form name="Groesse">
+
+ <blockquote>
+  <strong>
+  <font color="#FFFFFF" size="3" face="Courier New">
+
+
+            Hhe Zylinder in Zoll:
+			<input type="text" size="18" name="hzylinder" value="9.0"> <br>
+            Hhe Kegel in Zoll: &nbsp;&nbsp;
+ 			<input type="text" size="18" name="hspitze" value="1.0"> <br>
+ 			Hhe Stumpf in Zoll: &nbsp;
+ 			<input type="text" size="18" name="hstumpf" value="0.0"> <br><br>
+
+            Dichte in g/cm^3: &nbsp;&nbsp;&nbsp;&nbsp;
+ 			<input type="text" size="18" name="dichte" value="8.0"> <br>
+ 			Durchmesser in cm: &nbsp;&nbsp;&nbsp;
+ 			<input type="text" size="18" name="durchmesser" value=""> <br><br>
+
+            Hhe Zylinder in cm:  &nbsp;
+			<input type="text" size="18" name="hoehezyl" value=""> <br>
+            Hhe Spitze in cm: &nbsp;&nbsp;&nbsp;
+			<input type="text" size="18" name="hoehespitz" value=""> <br>
+            Gesamthhe in cm:  &nbsp;&nbsp;&nbsp;&nbsp;
+			<input type="text" size="18" name="hoehe" value=""> <br>
+            2Pi / (Hhe/Durchm.):&nbsp;
+			<input type="text" size="18" name="zweiPi" value=""> <br>
+			</strong></font>
+
+  </blockquote>
+  <br>
+    <blockquote>
+        <blockquote>
+            <p>
+                 <input type="button" value="Durchmesser berechnen" onclick="calculation()"> &nbsp;&nbsp;&nbsp;
+                 <input type="button" value="Text Ausgeben" onclick="rechnung()"> &nbsp;&nbsp;&nbsp;
+
+        </blockquote>
+    </blockquote>
+
+    <br><font color="#FFFFFF" size="3" face="Courier New">
+
+    V = PI * d^2 * ( h + hs/3 - hst/3*(hst^2/(h^2)) ) / 4;<br>
+ 	rho = masse/V;<br>
+
+ 	d = sqrt( masse/rho * 4.0 / (PI * (h + hs/3.0 - hst/3.0*hst*hst/h/h)) )<br>
+
+
+    </font>
+
+
+</font>
+</form>
+
+<hr>
+
+
+<p><script language="JavaScript"><!--
+// JavaScript von Gabi Mueller
+//
+
+function calculation() {
+
+PI = Math.PI;
+ZPI = 2.0*PI;
+masse = 2630.6;
+
+ // Ce = 2.42611E-12;
+ // c = 29979245800; // cm/s
+ // 1'' = 2.54 cm
+
+ h0 = document.Groesse.hzylinder.value;
+ hs0 = document.Groesse.hspitze.value;
+ hst0 = document.Groesse.hstumpf.value;
+ rho0 = document.Groesse.dichte.value;
+
+ h = h0*2.54;
+ hs = hs0*2.54;
+ hst = hst0*2.54;
+ rho = rho0*1.0;
+
+ hsum = h + hs - hst;
+ hspitze = hs - hst;
+
+ // d = hsum/ZPI;
+ // dst = hst/h * d;
+ // V = PI * d * d * (h + hs/3.0 - hst/3.0*hst*hst/h/h) / 4.0;
+ // rho = masse/V;
+
+ dq = masse/rho * 4.0 / (PI * (h + hs/3.0 - hst/3.0*hst*hst/h/h));
+ d = Math.sqrt(dq);
+ vZPi = ZPI / (hsum / d);
+
+ document.Groesse.dichte.value = rho;
+ document.Groesse.durchmesser.value = d;
+ document.Groesse.hoehe.value = hsum;
+ document.Groesse.hoehezyl.value = h;
+ document.Groesse.hoehespitz.value = hspitze;
+ document.Groesse.zweiPi.value = vZPi;
+
+
+// document.write(ausgabe1);
+
+
+
+};
+
+function rechnung() {
+
+PI = Math.PI;
+ZPI=2.0*PI;
+masse = 2630.6;
+
+ // Ce = 2.42611E-12;
+ // c = 29979245800; // cm/s
+ // 1'' = 2.54 cm
+
+ h0 = document.Groesse.hzylinder.value;
+ hs0 = document.Groesse.hspitze.value;
+ hst0 = document.Groesse.hstumpf.value;
+ rho0 = document.Groesse.dichte.value;
+
+ h = h0*2.54;
+ hs = hs0*2.54;
+ hst = hst0*2.54;
+ rho = rho0*1.0;
+
+ hsum = h + hs - hst;
+ hspitze = hs - hst;
+
+ // d = hsum/ZPI;
+ // dst = hst/h * d;
+ // V = PI * d * d * (h + hs/3.0 - hst/3.0*hst*hst/h/h) / 4.0;
+ // rho = masse/V;
+
+ dq = masse/rho * 4.0 / (PI * (h + hs/3.0 - hst/3.0*hst*hst/h/h));
+ d = Math.sqrt(dq);
+ vZPi = ZPI / (hsum / d);
+
+ausgabe2 = "<br>";
+
+ausgabe2 += "Hhe Zylinder in Zoll: " + h0 + "<br>";
+ausgabe2 += "Hhe Kegel in Zoll: &nbsp;&nbsp; " + hs0 + "<br>";
+ausgabe2 += "Hhe Stumpf in Zoll: &nbsp; " + hst0 + "<br>";
+
+ausgabe2 += "<br>Dichte in g/cm^3: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; " + rho + "<br>";
+ausgabe2 += "Durchmesser in cm: &nbsp;&nbsp;&nbsp; " + d + "<br>";
+
+ausgabe2 += "<br>Hhe Zylinder in cm:  &nbsp; " + h + "<br>";
+ausgabe2 += "Hhe Spitze in cm: &nbsp;&nbsp;&nbsp;&nbsp; " + hspitze + "<br>";
+ausgabe2 += "Gesamthhe in cm: &nbsp;&nbsp;&nbsp;&nbsp; " + hsum + "<br>";
+ausgabe2 += "2Pi/ (Hhe/Durchm.):&nbsp; " + vZPi + "<br>";
+
+
+   document.write(ausgabe2);
+
+
+};
+
+
+
+// --></script>
+
+
+
+</body>
+</html>

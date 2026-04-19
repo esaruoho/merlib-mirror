@@ -1,0 +1,18 @@
+b-Umrechnung Basis 
+
+ b-Umrechnung fr gleiche logarithmische Spiralen verschiedener Basis mit R=(Basis)^(phase/b) 
+
+ Parameter b2: 
+ Basis a2: 
+ Basis a1: 
+
+ Ergebnis: 
+ Parameter b1 
+
+ Links: Basis beliebig 
+
+b1 = b2*ln(a1)/ln(a2); 
+b1 = 4.362050591352134 fr b2=9.064720283654388, a2=e, a1=phigold 
+mit phigold = 1.618033988749894848204586834 
+b1 = 9.064720283654388 fr b2=4.362050591352134, a2=phigold, a1=e 
+mit e = 2.7182818284590452353602874713527

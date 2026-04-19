@@ -1,0 +1,109 @@
+Gewicht1 
+
+ Harmonie, 
+ Resonanz und Dissonanz 
+
+ Dissonanz 
+ (ohne jede Schwebung) und Harmonie 
+ F&uuml;r 
+ Pflanzen bzw. alle Organismen ist es am Wichtigsten zu wissen, 
+ wie optimale Dissonanz entsteht, weil dies Stabilit&auml;t 
+ und Nahrung (Absorption) bedeutet. Ein Getreidehalm mit 
+ einer Resonanzfrequenz, die in jedem vorbeiziehenden Wind 
+ vorkommt, wird nicht lange halten. 
+ Lebewesen sind vor allem offene Systeme, die m&ouml;glichst 
+ viel Energie aufnehmen wollen (Dissonanzstehwelle), die 
+ aber dann im inneren System m&ouml;glichst lange festgehalten 
+ wird (Resonanzschwingung). 
+ Weiteres 
+ zu Pflanzen und phi siehe hier . 
+ Die 
+ Biophysik ben&ouml;tigt neben der Resonanzphysik ebenso 
+ dringend eine (noch kaum erforschte) Dissonanzphysik. Der 
+ Begriff Skalarwelle geistert &uuml;berall herum. Er betrifft 
+ Strukturen, die schwingende elektromagnetischen Felder bestimmter 
+ Frequenzen so gegeneinander stellen, da&szlig; sie sich 
+ zu Null kompensieren. Die "verschwundene" Energie 
+ wird einerseits an Ort und Stelle absorbiert, und andererseits 
+ nichtlokal &uuml;bertragen. Hier beginnt die Dissonanzphysik. 
+ Aus 
+ einer Resonanzfrequenz berechnet sich die optimale Dissonanzfrequenz 
+ durch Multiplikation mit g=0.6180339. 
+ Weiteres 
+ zu Resonanzen und Faltungen siehe hier . 
+
+ Schwebungs 
+ - Resonanz und Harmonie 
+ Aquinos 
+ Antenne von 7 cm (Lambda/2) ist 1/3 von 21 cm (1.4204 GHz). 
+ Wenn hier die Wasserstoff-Radiowellen eine wichtige Rolle 
+ spielen sollten, die also evtl. (unerw&auml;hnt) empfangen 
+ werden, dann ist immernoch 21/14 fr das Wellenlngenverhltnis 
+ zu rechnen. Fr ein Fequenzverhltnis von 2/3 mit gleicher 
+ Amplitude habe ich die Schwebungswelle mal grafisch dargestellt. 
+ Hier 
+ als Applet , oder siehe Bild. 
+ Im Vergleich dazu eine 3/4-Anpassung 
+ (auch als Bild). Die 3/4-Anpassung ist schon wesentlich 
+ unsymmetrischer, also kann der 1/3-Frequenzunterschied ein 
+ Optimum sein. Beide Amplitudenverlufe sehen allerdings 
+ sehr nach Torkado 
+ aus, wenn man die Amlitude als Radius einer in sich geschlossenen 
+ Spirale auffat, die nach 6Pi oder 8Pi wieder am selben 
+ Punkt ankommt. Von einer Vierfach-Spirale einer Urschwingung 
+ wird des fteren in alten Schriften berichtet. 
+
+ Dissonanz-Quantisierung 
+ Desweiteren gibt es da noch die Jckel-Gleichung 
+ (er war vor allem ein Mathe-Genie): 
+ (-1.618034)^(-n) + 1.618^n = Z (J&auml;ckel) 
+ mit n ganz, Z = ganz = 2,1,3,4,7,11,18,29,... 
+
+ Jedes neue Z ist Summe der beiden Vorgnger, 
+ wie bei der Fibonacci-Reihe. Es generiert sich phi wieder 
+ neu ( 29/18=1.611.., 47/29=1.620.., ... ) 
+ (-1.618034)^(-0) + 1.618034^0 = 2 
+ (-1.618034)^(-1) + 1.618034^1 = 1 
+ (-1.618034)^(-2) + 1.618034^2 = 3 
+ (-1.618034)^(-3) + 1.618034^3 = 4 
+ (-1.618034)^(-4) + 1.618034^4 = 7 
+ Hier taucht die 7 auch auf, gleich nach der 
+ 4 und der 3. Die 5 fehlt, sie steckt bereits im phi=(sqrt(5)+1)/2=1.618034.. 
+
+ Inversionen (Reflektionen am Kreis/Kugel) emittieren oder 
+ absorbieren ein Quant (die"+-1"): 
+ 1/phi = phi - 1= g 
+ 1/g = g + 1= phi 
+ phi*phi - 1 = phi 
+ (die ersten drei Glieder von (J&auml;ckel), allgemein bekannt) 
+
+ Die &uuml;brigen Glieder f&uuml;r Z = 4, 7, 
+ 11, usw. sind wiederholte Multiplikationen von phi mit sich 
+ selbst. 
+ Vektoriell betrachtet: Str&ouml;mung der Gr&ouml;&szlig;e 
+ phi und der (reflektierten) Gegenstr&ouml;mung -phi kreuzen 
+ sich mit einem ebensolchen Paar im 90 Grad-Winkel. So ein 
+ wiederholtes Vektorprodukt ist realisierbar durch einen 
+ Energieflu&szlig; entlang der Kanten eines Doppeltetraeders. 
+ In der Komplexe Monsterebene mit z=z^2+C w&auml;re 
+ als Beispiel die Juliamenge bei C=-i zu betrachten. Sie 
+ ist absolut irrational, hat nur unendlich dnne Chaoslinien 
+ (Antennen mit Dreierkreuzung), in denen sich in allen Tiefen 
+ kein einziges kleines Apfelmnnchen befindet. 
+
+ Z 
+ = x + iy 
+ Z 
+ = 1 / Z + 1 + C Z 
+ = Z*Z + C 
+
+ Zo = (1, i) , C = (x,y) Zo 
+ = (0, 1.6180339i), C = (x,y) 
+
+ Mehr dazu hier . 
+
+ Fortsetzung 
+ Inhalt 
+
+ Meine 
+ Email-Adresse: info@aladin24.de

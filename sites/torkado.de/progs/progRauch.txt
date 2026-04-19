@@ -1,0 +1,21 @@
+Programm von Markus Rauch f&uuml;r Elementar-Resonanz 
+
+ Programm f&uuml;r Elementarresonanz 
+ zum freien Download 
+
+ Dieses Programm von 
+ Markus Rauch zur Berechnung 
+ von Resonanzgr&ouml;&szlig;en auf Basis von Frithjof M&uuml;llers Resonanzgleichung 
+ erlaubt beliebige Auswahl von Elementen Z oder N-Potenzen. Ein beliebiger 
+ Faktor ist einf&uuml;gbar. Es lassen sich auch umgekehrt zu gegeben Resonanzgr&ouml;&szlig;en 
+ die passenden Z und N ermitteln. Der Faktor Ce kann uminterpretiert werden, 
+ um andere Skalenbereiche zu erreichen. 
+ Man kann sich 
+ vom Ergebnis eine Textdatei oder eine Excel-Datei ausgeben lassen. 
+ Ohne R&uuml;cksprache 
+ mit dem Autor ist es nicht erlaubt, das Programm als Download auf anderen 
+ Web-Seiten anzubieten. 
+ Download 
+ des Programms (zip-Datei, knapp 2 MB) 
+
+ Home

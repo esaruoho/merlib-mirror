@@ -1,0 +1,62 @@
+<HTML>
+<HEAD>
+<TITLE>gemittelter Koppelparameter</TITLE> <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+</HEAD>
+
+<BODY BGCOLOR="#FFFFFF">
+<P ALIGN="CENTER"><FONT FACE="Arial, Helvetica, sans-serif" SIZE="3"><B><FONT SIZE="2">Programmvariante</FONT><BR><BR>Zwillingsverfahren
+mit gleichem Koppelanteil</B></FONT></P><P ALIGN="CENTER"><FONT FACE="Arial, Helvetica, sans-serif" SIZE="3"><B>Kopf
+&nbsp;&nbsp;&nbsp; </B></FONT><B><FONT FACE="Arial, Helvetica, sans-serif" SIZE="3">&nbsp;&nbsp;Z
+= Z ^ (Z*) - 1&nbsp;&nbsp;</FONT></B></P><P ALIGN="CENTER">&nbsp;</P><P ALIGN="CENTER"><FONT FACE="Arial, Helvetica, sans-serif" SIZE="2"><B>Zwillingsverfahren:
+</B><BR>Zwei identische Rekursionen (z und z2) werden parallel gerechnet und <BR>gegenseitig
+verkoppelt (Faktor koppl), die eine additiv, die andere subtraktiv <BR>(=gerichteter
+Energiefluss zwischen benachbarten Zellen; jeder Rasterpunkt als Zelle betrachtet).
+<BR>Gemeint ist nicht eine iterative Vermischung der Bildpunkte, <BR>sondern quasi
+senkrecht zur Bildebene eine zweite Ebene von Rekursionen, <BR>zwischen denen
+ein Austausch besteht. <BR>Der Anteil (@koppl * z) fließt aus der z2-Ebene heraus
+und der Anteil (@koppl * z2) <BR>fließt in die z-Ebene hinein. Also ein Koppel-Fluss
+vertikal zur Bildebene. Soweit die Bilder bisher.</FONT></P><P ALIGN="CENTER"><FONT FACE="Arial, Helvetica, sans-serif" SIZE="2">Neu:
+Beim Verfahren mit gleichem Koppelanteil wird vorher zwischen z und z2 gemittelt:</FONT></P><TABLE WIDTH="336" BORDER="0" CELLPADDING="15" ALIGN="CENTER"><TR BGCOLOR="#FFFFCC"><TD><P ALIGN="LEFT"><FONT FACE="Arial, Helvetica, sans-serif" SIZE="2"><B>init:</B><BR>
+z = #pixel<BR> z2 = z<BR><BR> <B>loop:</B><BR> x = real(z)<BR> y = imag(z)<BR>
+x2 = real(z2)<BR> y2 = imag(z2)<BR> xmitt = sqrt(x*x2)<BR> ymitt = sqrt(y*y2)<BR>
+zmitt = xmitt + flip(ymitt)<BR><BR> z1 = x - flip(y)<BR> z = z1^z + @seed + @koppl*zmitt<BR><BR>
+z1a = x2 - flip(y2)<BR> z2 = z1a^z2 + @seed - @koppl*zmitt<BR><BR> <B>bailout:</B><BR>
+|z| < @bailout </FONT></P><P ALIGN="LEFT"><FONT FACE="Arial, Helvetica, sans-serif" SIZE="2">...</FONT></P></TD></TR></TABLE><DIV ALIGN="CENTER"><FONT FACE="Arial, Helvetica, sans-serif" SIZE="2">UltraFractal<BR>
+
+<A HREF="imgMittel/mittelungKopf.txt">vollst&auml;ndiges Programm</A> </FONT><BR><FONT SIZE="2" FACE="Arial, Helvetica, sans-serif">
+<A HREF="SchaedelZ.txt">Programm ohne Mittelung</A></FONT><BR><BR></DIV><P ALIGN="CENTER">
+
+<IMG SRC="imgMittel/MittelungMalWeb.jpg" WIDTH="963" HEIGHT="642"><BR><FONT FACE="Arial, Helvetica, sans-serif" SIZE="2">Bailout
+=1.0E+9 , gedreht um 90 Grad<BR></FONT><FONT FACE="Arial, Helvetica, sans-serif" SIZE="2">Bild
+mit additiver Mittelung <A HREF="imgMittel/MittelungPlusWeb.jpg">hier</A></FONT></P><P ALIGN="CENTER">&nbsp;</P><TABLE WIDTH="653" BORDER="0" CELLPADDING="15" ALIGN="CENTER"><TR><TD><P ALIGN="CENTER"><FONT FACE="Arial, Helvetica, sans-serif" SIZE="2">In
+folgenden Bildern ist die Abbruchgrenze Bailout = 7 und koppl = 0.01</FONT></P><P ALIGN="CENTER">
+
+<IMG SRC="imgMittel/Mittel_-170_0_0k01_b7Web.jpg" WIDTH="642" HEIGHT="482"><BR><FONT FACE="Arial, Helvetica, sans-serif" SIZE="2">Bildmittelpunkt
+(-170, 0), Vergr&ouml;&szlig;erungsfaktor magn = 0.01</FONT></P><P ALIGN="CENTER">
+
+<IMG SRC="imgMittel/Mittel_b7_Detail1Web.jpg" WIDTH="642" HEIGHT="482"><BR><FONT FACE="Arial, Helvetica, sans-serif" SIZE="2">Detail
+vom letzten Bild (Spitze rechts)</FONT></P><P ALIGN="CENTER">
+
+<IMG SRC="imgMittel/Mittel_0k35_0_1_b7_Detail2Web.jpg" WIDTH="642" HEIGHT="482"><BR><FONT FACE="Arial, Helvetica, sans-serif" SIZE="2">Detail
+vom Bild vorher; Bildmittelpunkt (0.35, 0), Vergr&ouml;&szlig;erungsfaktor magn
+= 1</FONT></P><P>&nbsp;</P><P>&nbsp;</P><P>&nbsp;</P><P ALIGN="CENTER"><FONT FACE="Arial, Helvetica, sans-serif" SIZE="3"><B>Auge&nbsp;&nbsp;
+</B></FONT><B><FONT FACE="Arial, Helvetica, sans-serif" SIZE="3">&nbsp;&nbsp;Z
+= Z *(Z*) + C&nbsp;&nbsp;</FONT></B></P><P ALIGN="CENTER"><FONT FACE="Arial, Helvetica, sans-serif" SIZE="2">xmitt
+= (x+x2) / 2<BR> ymitt = (y+y2) / 2</FONT></P><P ALIGN="CENTER"><FONT FACE="Arial, Helvetica, sans-serif" SIZE="2">koppl=0.5,
+Bailout = 1.0E+9</FONT></P><P ALIGN="CENTER">
+
+<IMG SRC="imgMittel/AugeP_InsGCgrad_CD4Web.jpg" WIDTH="642" HEIGHT="482"><BR><FONT FACE="Arial, Helvetica, sans-serif" SIZE="2">Auge
+mit Mittelung m=(a+b)/2 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<A HREF="imgMittel/VergleichAuge0k5Web.jpg">Vergleich</A>
+&nbsp; </FONT></P><P ALIGN="CENTER">
+
+<IMG SRC="imgMittel/AugeP_Muskeln_it100Web.jpg" WIDTH="642" HEIGHT="482"><BR><FONT FACE="Arial, Helvetica, sans-serif" SIZE="2">Detail</FONT></P><P ALIGN="CENTER">
+
+<IMG SRC="imgMittel/AugeP_Muskeln_it100Detail2Web.jpg" WIDTH="642" HEIGHT="482"><BR><FONT FACE="Arial, Helvetica, sans-serif" SIZE="2">Detail
+vom Detail</FONT></P><P ALIGN="CENTER">&nbsp;</P><P ALIGN="CENTER"><FONT FACE="Arial, Helvetica, sans-serif" SIZE="2"><A HREF="imgMittel/AugeMittelMalWeb.jpg">Hier</A>&nbsp;das
+Auge mit Mittelwert m = sqrt(a*b) bei koppl=0.5. Es ist sehr unsymmetrisch.<BR></FONT><FONT FACE="Arial, Helvetica, sans-serif" SIZE="2"><A HREF="imgMittel/ApfelMittelMal_k0k5Web.jpg">Hier</A>&nbsp;
+analog &nbsp;&nbsp;m = sqrt(a*b) vom Apfelm&auml;nnchen bei koppl=0.5.</FONT></P><P ALIGN="CENTER"><FONT FACE="Arial, Helvetica, sans-serif" SIZE="2"><A HREF="imgMittel/ApfelMittelPlus_k0k5Web.jpg">Hier</A>
+mit m = (a+b)/2 vom Apfelm&auml;nnchen bei koppl=0.5 .<BR>Und <A HREF="imgMittel/Apfel_k0k5Web.jp">hier</A>
+&nbsp;das ungemittelte Apfelm&auml;nnchen bei koppl=0.5 .</FONT></P><P ALIGN="CENTER">&nbsp;</P><P ALIGN="CENTER">&nbsp;</P><P><FONT FACE="Arial, Helvetica, sans-serif" SIZE="2">Gabi
+M&uuml;ller </FONT></P><P><FONT FACE="Arial, Helvetica, sans-serif" SIZE="2">01.06.09</FONT></P></TD></TR></TABLE><P>&nbsp;</P><P>&nbsp;</P><P>&nbsp;</P><P>&nbsp;</P><P>&nbsp;</P><P>&nbsp;</P>
+</BODY>
+</HTML>

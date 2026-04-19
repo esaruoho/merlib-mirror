@@ -1,0 +1,149 @@
+phi 
+
+ Goldener Schnitt 
+ Iteratives Teilchenmodell 
+ Hyperbolischer Kegel 
+
+ F&uuml;r die Bilder unten (siehe auch das Applet) 
+ wurde folgende Gleichung verwendet: 
+ Iteration: 
+ xrett = 1/y + 1; 
+ yrett = 1/x - 1; 
+ x = xrett; 
+ y = yrett; 
+ Die Startwerte f&uuml;r x und y waren die Koordinaten 
+ der Bildpunkte. 
+
+ Der Mittelpunkt der Kreuzes (Bildes) ergab sich bei: 
+ x(0)=1 
+ y(0)= -1 
+
+ Bildgre: 
+ Breite vertikal dy=25 
+ Breite horizontal dx=25 
+ Deutung grob: 
+ Ein Energie-Quant wird st&auml;ndig in y emittiert (-1) und von 
+ x absorbiert (+1). 
+ Gleichzeitig reflektiert jede Gr&ouml;&szlig;e an einer Kugel 
+ (Flower-of-Life-Struktur des Raumes), wird dadurch invertiert 
+ und in die andere Koordinatenrichtung hineingespiegelt. Das Koordinatensystem 
+ mu&szlig; nicht rechtwinklig sein, wie im Bild verwendet. 
+ Das Java-Applet ist aufzurufen &uuml;ber: 
+ http://www.aladin24.de/Bild/app2/gamePhi4.htm 
+
+ Um die Zahl der Iterationen zu &auml;ndern, mu&szlig; 
+ man bei max_it auf das blaue K&auml;stchen klicken, bis dort eine 
+ Markierung erscheint. Dann kann man unten im gro&szlig;en Textfeld 
+ die Iterationszahl eintragen und <CR> dr&uuml;cken. Gibt 
+ man eine negative Zahl ein, wird die Zahl zur vorhandenen addiert, 
+ man braucht dann nur nur noch <CR> dr&uuml;cken, um das 
+ n&auml;chste Bild zu starten (mit max_it=1 beginnen, dann -1 eintragen, 
+ dann kommen Einzelschritte) 
+
+ 1.Bild ist die erste Iteration, 2.Bild ist die zweite 
+ Iteration usw. bis zur 16. Iteration . 
+ Der Wechsel l&auml;&szlig;t sich im Dreier-Rhythmus 
+ fortsetzen. Aber eigentlich ist es genau ein Sechser-Zyklus (siehe 
+ Spiegelung um Diagonale). 
+ In die Tabelle ist die Nummer der Iteration eingetragen: 
+
+ Teilchen 
+
+ Welle 
+ asymmetrisch 
+
+ Welle 
+ symmetrisch 
+
+ .. 
+
+ .. 
+
+ 1 
+
+ 2 (vertikal) 
+
+ 3 
+
+ 4 
+
+ 5 (horizontal) 
+
+ 6 
+
+ 7 
+
+ 8 (vertikal) 
+
+ 9 
+
+ 10 
+
+ 11 (horizontal) 
+
+ 12 
+
+ 13 
+
+ 14 (vertikal) 
+
+ 15 
+
+ 16 
+
+ 17 (horizontal) 
+
+ 18 
+
+ 19 
+
+ 20 (vertikal) 
+
+ 21 
+
+ 22 
+
+ 26 (horizontal) 
+
+ 27 
+
+ 28 
+
+ usw. 
+
+ 1 
+
+ 2 
+
+ 3 
+
+ 4 
+
+ 5 
+
+ 6 
+
+ 7 
+
+ 8 
+
+ 9 
+
+ 10 
+
+ 11 
+
+ 12 
+
+ 13 
+
+ 14 
+
+ 15 
+
+ 16 
+
+ Fortsetzung 
+
+ Inhalt 
+ Meine Email-Adresse: info@aladin24.de

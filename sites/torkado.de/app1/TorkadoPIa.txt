@@ -1,0 +1,7 @@
+TorkadoAlphaA 
+
+ Ermittlung des Radius beim minimalen L/(2Pi*R) - Verhltnis (beim Kreis=1) Schrittanzahl mu auf 1 Umlauf eingestellt sein ! 
+Torkado aus zwei sich kreuzenden Spiralen mit r-abhngigen Winkelschritten ( Skizze ) 
+ Kurve: k= 1.0 + Faktor*(abstand-R)/(4Pi); winkeltheta = winkeltheta - dtheta*k; winkelphi = winkelphi + dphi/k; 
+ radiusklein= r(1 + exc1*(cos(theta)^2 + cos(theta)) + exc2*(sin(theta)^2 + sin(theta))); 
+ Kurvenstart bei (x,y,z)=(R+radiusklein,0,0)

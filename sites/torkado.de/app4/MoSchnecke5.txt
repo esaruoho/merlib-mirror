@@ -1,0 +1,8 @@
+Schnecke 2^N 
+
+ 4 Windungen nach innen (Widerstandsfreie Einwirbelung) und zurck; 
+ Steigungen dR = d_phi*r_aktuell/9; = Radiushalbierung pro Umlauf; dH = d_phi/r_aktuell*9; 
+ d_phi*dR*dH=d_phi^3=const 
+ Alle Applet-Parameter einstellbar, z.B. Startwert: param name=Radius_gross value="10.0" 
+ param name=L_mal_X value="4" 
+ param name=WinkelSchrittverhaeltnis value="29"

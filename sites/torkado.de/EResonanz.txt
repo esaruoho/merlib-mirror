@@ -1,0 +1,22 @@
+Elementar-Resonanz 
+
+ Elementarresonanz 
+
+ nach 
+ der Gleichung von Frithjof Mller: 
+ ( raum&zeit Nr.86(1997),S.5 / Nr.88(1997),S.36 / 
+ Nr.97(1999),S.5 / Nr.130(2004),S.36 ) 
+
+ L 
+ = Z * Ce * 2^N 
+
+ mit 
+ Z= Kernladungszahl 
+ Ce=Comptonwellenl&auml;nge 
+ f&uuml;r Elektronen Ce=h/(mc) 
+ h= Plancksches Wirkungsquantum 
+ m=Elektronenmasse 
+ c=Lichtgeschwindigkeit 
+ N= ganze Zahl (geh&auml;uft bei N=33+13*k, k ganz) 
+
+ Programme

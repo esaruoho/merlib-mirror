@@ -1,0 +1,100 @@
+ZSternMalZ_MandelbrotZwilling {
+;
+; (Generic Mandelbrot set.)
+;   Inside  : Exponential Smoothing   einstellen
+;   z = Zwilling 1;  z2 = Zwilling 2
+init:
+  z = @start
+  z2 = z
+loop:
+  zold = z
+  zs = real(z) - flip(imag(z))
+  z = zs*z + #pixel + @koppl * z2
+  
+  zs2 = real(z2) - flip(imag(z2))
+  z2 = zs2*z2 + #pixel - @koppl * zold
+bailout:
+  |z| <= @bailout
+default:
+  title = "(Z*) * Z + C = MandelbrotZwilling (Auge)"
+  center = (-0.5, 0)
+  helpfile = "Uf*.chm"
+  helptopic = "Html\formulas\standard\mandelbrot.html"
+$IFDEF VER50
+  rating = recommended
+$ENDIF
+  param start
+    caption = "Starting point"
+    default = (0,0)
+    hint = "The starting point parameter can be used to distort the Mandelbrot \
+            set. Use (0, 0) for the standard Mandelbrot set."
+  endparam
+  param koppl
+    caption = "Koppelparameter"
+    default = (0.5,0)
+  endparam
+  float param bailout
+    caption = "Bailout value"
+    default = 4.0
+    min = 1.0
+$IFDEF VER40
+    exponential = true
+$ENDIF
+    hint = "This parameter defines how soon an orbit bails out while \
+            iterating. Larger values give smoother outlines; values around 4 \
+            give more interesting shapes around the set. Values less than 4 \
+            will distort the fractal."
+  endparam
+}
+
+ZSternMalZ_MandelbrotZwilling1 {
+;
+; (Generic Mandelbrot set.)
+;   Inside  : Generic Coloring (Gradient) einstellen
+;   z = Zwilling 1;  z2 = Zwilling 2
+init:
+  z = @start
+  z2 = z
+loop:
+  zold = z
+  zs = real(z) - flip(imag(z))
+  z = zs*z + #pixel + @koppl * z2
+  
+  zs2 = real(z2) - flip(imag(z2))
+  z2 = zs2*z2 + #pixel - @koppl * zold
+bailout:
+  |z - zold| > @bailout
+default:
+  title = "Auge Glaenzend DiffBailaout koppl 0"
+  center = (-0.75, 0)
+  magn = 1.0
+  maxiter = 1000
+  helpfile = "Uf*.chm"
+  helptopic = "Html\formulas\standard\mandelbrot.html"
+$IFDEF VER50
+  rating = recommended
+$ENDIF
+  param start
+    caption = "Starting point"
+    default = (0,0)
+    hint = "The starting point parameter can be used to distort the Mandelbrot \
+            set. Use (0, 0) for the standard Mandelbrot set."
+  endparam
+  param koppl
+    caption = "Koppelparameter"
+    default = (0,0)
+  endparam
+  float param bailout
+    caption = "Bailout value"
+    default = 1.0E-15
+    ;min = 1.0
+$IFDEF VER40
+    exponential = true
+$ENDIF
+    hint = "This parameter defines how soon an orbit bails out while \
+            iterating. Larger values give smoother outlines; values around 4 \
+            give more interesting shapes around the set. Values less than 4 \
+            will distort the fractal."
+  endparam
+
+}

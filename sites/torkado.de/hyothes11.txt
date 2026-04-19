@@ -1,0 +1,149 @@
+Fragen 11 
+
+ Hypothesen berlegungen zu verschiedenen Fragen 
+
+ Thema: "Warum ist die Broers-Frequenz gesund ?" 
+
+ http://www.dieter-broers.de/ 
+
+Ein Gert wie Megawave ist eine Art Defibrillator fr die Zellen, die ihren natrlichen Rhythmus vergessen haben,
+die ins Flimmern gekommen sind wegen Elektrosmog, Umweltgiften in Luft und Essen, wegen Lrm und zu hufigem
+Konfliktgeschehen. 
+Der Biophysiker Dieter Broers nutzt in seiner Erfindung die 150 MHz-Trgerwelle, weil unsere DNS auseinandergewickelt ziemlich genau 2 m
+lang sein soll, und zustzlich ist es notwendig, Erdschwingungen (Schumannwelle) zu berlagern. Das wirksame Frequenzfenster weicht ein wenig
+von den glatten 150 MHz ab. Die genauen Werte lassen sich mit Compton-Harmonie 
+berechnen, wie im Folgenden gezeigt. 
+
+ Kohlenstoff als Stichwort bei Wikipedia: 
+Aufgrund seiner besonderen Elektronenkonfiguration (halbgefllte L-Schale) besitzt es die Fhigkeit
+zur Bildung von komplexen Moleklen und weist von allen chemischen Elementen die grte Vielfalt
+an chemischen Verbindungen auf. Kohlenstoffverbindungen bilden die molekulare Grundlage allen irdischen Lebens. 
+
+ Stein der Weisen - ein Mythos ? 
+Das Edemetall Gold ist energetisch maximal gesttigt, das perfekteste ('lteste' in Alchemistensprache) Metall. Alle
+anderen Metalle sind jngere Erscheinungsformen von Gold, deren Wandlung in Gold aber gestoppt wird, sobald man
+es der Erde entnimmt, hnlich einer Pilzpflanze, die den unverletzten Kontakt zu ihrem Myzellgewebe braucht. 
+Ich vermute, die Menschen gehren auch so einem Netz an, wie die Pilze. Es ist lediglich bei den Pilzen nicht
+unsichbar, und deshalb dort verletzlicher. Und damit meine ich nicht die soziale Einbindung. Ich meine die
+rein-existentielle Energieversorgung, die fundamentaler als Atmung und Verdauung ist.
+Die Trgerschwingung dieses Netzes lsst sich in Silber und Gold 'einfrieren', wie Ton in eine Schallplatte. 
+Schlucken wir Krnchen von dieser Schallplatte (Stein der Weisen), bertrgt sich die Schwingung auf alle Zellen,
+die nun voll in die maximal mgliche Resonanz zum Netz kommen und auch ihre Spezialinfo (Modulation, die von
+DNS empfangbar ist) abrufen knnen. Die Folge ist perfekte Gesundheit und (behauptete) Unsterblichkeit. 
+
+Die beiden Frequenzen 150 MHz und 8 Hz ffnen vermutlich in hnlicher Weise (wie Frequenzen im Stein der Weisen)
+geschlossene Chakren, verbessern den seelischen und geistigen Anschluss "nach Hause". Dadurch gelangt der Mensch
+auch mental gesehen, zu einem klaren Blick auf seine Denkfehler und Verhaltensweisen, die zu der Krankheit fhrten. 
+
+Die Kohlenstoffresonanz (Z=6) bei N= 37 mit
+f = 149,835 MHz (bei L=2,00082m) Klick 
+ ist zu klein (die genaue Frequenz liegt "einige Hunderte Hertz" hher als genau 150.0 MHz), aber ansonsten schon sehr in der Nhe. 
+Doch zusammen mit Gold und Silber lsst sich etwas Interessantes finden: 
+
+Element ------ Z --- N --- Wellenlnge ------ Frequenz ---- Wellenlnge*0.618 -- Frequenz*1.618 
+
+Silber -------- 47 ---34 --- 195,913 cm ------ 153,023 MHz -------------------------------------------- 
+Kohlenstoff -- 6 --- 37 --- 200,082 cm ------ 149,835 MHz -------------------------------------------- 
+Gold --------- 79 --- 34 ------------------------------------------------ 203,51 cm ------- 147,31 MHz Klick 
+
+ Bezieht man den Goldenen Schnitt mit ein - und das ist der Faktor zwischen ebener und eingerollter (Teilchen-)Welle,
+dann liegt Kohlenstoff genau zwischen Silber und Gold, und der Mittelwert von allen ist ziemlich genau Broers Frequenz. 
+
+Berechnung des Mittelwertes: 
+195,913 cm 
+153,023 MHz > 149,835 MHz > 147,31 MHz ---- (153,023+149,835+147,31)/3 = 150,062 MHz 
+
+Dieter Broers heilsame Resonanzwelle liegt tatschlich bei bei L=199,8..cm, weil offenbar Silber (L=195,913 cm)
+auch eine Rolle fr die Strmung des Lebendigen spielt. Vielleicht ist die Silberfrequenz der zweite
+Umkehrpunkt einer Schwankung der globalen Schwingung (siehe auch
+ hier ) ? 
+Die beiden Umkehrfrequenzen von Gold und Silber passen vermutlich zusammen wie Sonne und Mond, bzw. es sind Sonne und Mond genau
+so 'konstruiert'(gewachsen), um zur Gold- und Silberwelle zu passen und zusammen im Mittelwert den
+Kohlenstoff-Lebensstrom zu 'beliefern', besser gesagt feinstofflich zu ernhren. Es sind Wirbel in
+Wirbeln. Die Schwingungen sind vermutlich mehrdimensional, vielleicht sogar nur ein eifrmiges Kreisen zwischen
+zwei Radien. In der senkrechten Richtung jedoch (der Torkado ist rumlich) kann es nur noch die Wasser- und Sauerstoffresonanz
+sein (diese sind gleich bei verschiedenem N wegen Z(Sauerstoff)=8=2^3). 
+
+Die Frequenz von Gold entspricht also einer intensiven universalen kosmischen Schwingung (Strahlung, Strmung).
+Um den Faktor 0.618034 verkrzt (aufgrund Polumlenkung; Krmmung an den Polen), bilden sich
+durch Wachstum im Kosmos die Kohlenstoff-Formen aus, gesttzt durch subtile Geninformationen, die ebenfalls
+schon in der kosmischen Schwingung stecken (moduliert durch andere, frhere Existenzen). 
+Zur endgltigen Ausbildung der Form ist lediglich ein resonanter Kondensationskeim notwendig (DNS-artig).
+Wir wissen aus Experimenten mit Mikrowellen, dass DNS-Information per Welle bertragbar sind, sofern
+Empfangsmaterie (eine Eizelle) vorhanden ist. Man hatte es geschafft, die Geninformation von Salamandern
+und Enten zu vermischen, indem lediglich die Eier mit Mikrowellen durchstrahlt wurden. 
+
+Vermutlich handelt es sich um ein Schwingsystem, das normalerweise von Sonne (Gold) und Mond (Silber) angeregt wird,
+und aus dem sich der Kohlenstoff Energie zieht, die ordnend im Krper wirkt (Lebensenergie genannt).
+Alle drei Quellen/Elemente sitzen im gleichen Schwingkreis und 'einigen' sich auf den Frequenz-Mittelwert.
+Das Silber scheint fr die Spule zu stehen (Lebens-H-Feld), das Gold fr den Kondensator (Lebens-E-Feld),
+und der Kohlenstoff ist R (alle Leitungen der 'Schaltung', also die Kohlenstoff-Materie im Krper) und
+koordiniert die Phasenlagen. Der Krper wchst so, dass die Schwingungsphasen passen und Verluste vermieden
+werden. Wenn alles gut ist, ist R Null oder negativ. Gold- und Silberfrequenz kommen dann klar und rein in der
+Zelle an. Wenn man krank ist, ist R positiv (viele Verluste). Der Kohlenstoff ist Antenne fr das E-Feld aus der
+Sonne (leicht verkrzt). Das Sonnensystem ist resonant zu Gold (wie ein vergrertes Goldatom). Oder andersherum:
+Gold ist genau deshalb der Endzustand aller Metalle auf hiesigen Planeten, wenn sie genug Zeit haben, alt zu werden, also
+endgltig (fertig) einzuschwingen. 
+Das knnte woandes auch ein anderes metallisches Element sein, aber es htte dort denselben Edelmetallstatus.
+Wiederholt aus spirituellen Quellen: Die Erde wurde in der Vergangenheit oft wegen Gold-Abbau von Auerirdischen besucht. 
+
+ Gold und 3 hoch N 
+Und weiter geht's mit dem Thema Gold und 150 MHz, das Programm liefert: 
+
+Gold (Z=79) 
+21 Ver-Drei-Fachungen treffen auf die 2 m Resonanzlnge mit 0.3% Abweichung 
+34 Ver-Zwei-Fachungen (plus Einwirbelung *0.618034) treffen auf die 2 m Resonanzlnge mit 1.79% Abweichung 
+
+L = 79 * Ce * 3^21 = 2.00502 m Klick 
+ err=0.319 Au Z=79 N=21 L=2.00502 m f=149.521 MHz T=6.6880431803157E-9 s 
+
+L = 0.618034 * 79 * Ce * 2^34 = 2.03519 m Klick 
+ err=1.79 Au Z=79 N=34 L=2.03519 m f=147.304 MHz T=6.7886736523125E-9 s 
+
+Die beiden Potenzen 21 und 34 sind auch noch Fibonacci-Zahlen. 
+
+Ich habe mich gefragt, ob sowas fter vorkommt. 
+Die Faltung 2^N und 3^K steht mit dem Verhltnis ln2/ln3 = 0,6309.. (Idealfall bei gut passenden N und K) in Zusammenhang. 
+Das konkrete Verhltns 3^21 / 2^34 = 0,60887.. , also kein Wunder, dass der Faktor 0.618 da ungefhr hinein passt. 
+Genauso gut knnte Platin Z=78 genommen werden, da passt nmlich noch 2^34 besser (0.538% Fehler) als Gold,
+aber die 3^21 schlechter (-0.959% Abweichung). 
+
+Dieser Treffer fr 3^21 bei 2m bedeutet aber im Umkehrschluss, dass es vielleicht eine wichtige Rolle spielt, ob die
+DNS auch im 3^K-Rhythmus schwingt oder nicht. Das zeichnet die 150 MHz aus. Hherharmonische Wellen, etwa 2m/16 = 12.5 cm, haben jedenfalls keinen 3^K-Treffer mehr. 
+
+Was bedeuten Verdreifachungen ? 
+Mit frontalem Sto, der in 3D zu (wiederholten) Lngenwellen-Verdopplungen fhrt wie beim Comptoneffekt,
+hat das eher nichts zu tun. Jedenfalls nicht in 3D. Und ber analoge Vorgnge in 4D und 5D und hher
+traue ich mir keine Behauptungen. 
+
+Die Verdreifachung hat aber mit Energie-bergabe zu tun. 
+Und jetzt wird es spannend: Bei Kohlenstoff (Z=6) ist die analoge Abweichung riesengro, auch mit Faktor phi und 2^38. 
+L = 6 * Ce * 3^23 = 1.37052 m Klick 
+ err=-45.83 C Z=6 N=23 L=1.37052 m f=218.743 MHz T=4.5715738194563E-9 s 
+
+L = 0.618034 * 6 * Ce * 2^38 = 2.47315 m Klick 
+ err=19.18 C Z=6 N=38 L=2.47315 m f=121.219 MHz T=8.2495274762278E-9 s 
+
+Was also bei Gold fr die 2m-Lnge (DNA) auch andersdimensional schwingt und 'ernhrt'
+(Energie hin und her schiebt), ist bei Kohlenstoff dissonant. Dissonant heit auch: sich
+selbst erhaltend, nichts weiter- oder abzugeben. Nur in Verdopplungen lsst sich
+die 2 Meter-Kohlenstoff-Welle resonant verkoppeln, wo die Energie nur marginal ihre Ebene verlsst. 
+
+ Goldener Schnitt 
+
+ 2004 Frchte / Kohlenstoffresonanz 
+
+ 2007 Teil1 Hther 
+
+ 2007 Teil2 Sonnensystem als elektr.Schwingkreis 
+
+ 2007 Teil3 
+
+ Nachkommen zeigen ngste ihrer Vorfahren, ohne diese zu kennen 
+ Kann etwas Unsichtbares existieren ? 
+ Wiederholbarkeitswahn und Periodensystem 
+ Warum fllt der Mond nicht vom Himmel ? 
+ Subwirbel sind niemals allein 
+
+ www.torkado.de 
+ Impressum: Gabi Mller, Junostr. 2, 56566 Neuwied, info@aladin24.de

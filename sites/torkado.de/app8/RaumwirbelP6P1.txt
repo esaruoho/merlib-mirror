@@ -1,0 +1,6 @@
+Spirale Logarithmisch 
+
+ Das Sonnensystem r = a * (1 + Fi^(phi/k)) 
+mit Zentralkreisen als mittl. Bahnradien nach E.Mhlthaler 
+k=1+b fr schwarze Spirale, k=1-b fr blaue Spirale, Fi=1.618034.., b=4.362, a=-1/4 
+dH = (d_phi)/(r_aktuell) * Hhenfaktor

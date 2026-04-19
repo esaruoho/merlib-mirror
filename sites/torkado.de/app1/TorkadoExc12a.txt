@@ -1,0 +1,8 @@
+TorkadoExc-Test 
+
+ Test-Applet zur Ermittlung der Exzentrizitt exc1 und/oder -exc2 . 
+Bei Klick auf STOP/WEITER (wenn die Linien schmal sind) wird neu gestartet mit dem rechts eingetragenem Wert. 
+Die links ausgegebene Zahl ist nach einem guten Klick-Treffer rechts einzutragen, das war der aktuelle exc-Wert beim Klick. 
+exc1 steigt mit d_exc pro Bild, exc2 fllt. 
+ KurveB: k= 1 + Faktor*(abstand-R)/(4Pi); winkeltheta = winkeltheta - dtheta*k; winkelphi = winkelphi + dphi/k; 
+ radiusklein= r(1 + exc1*(cos(theta)^2 + cos(theta)) + exc2*(sin(theta)^2 + sin(theta))); ( Skizze fr Def.Winkel )

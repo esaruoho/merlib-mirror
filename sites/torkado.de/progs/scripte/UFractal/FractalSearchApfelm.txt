@@ -1,0 +1,19 @@
+FractalSearch Apfelmaennchen 
+
+ Iterationsverfolgung
+ Z = Z&#149;Z + C 
+mit Z = x + iy 
+C als Punkte der Bildebene, Start: x=0, y=0 
+
+ Hinweis: Die Bilder hier sind nur fr Koppelfaktor = 0.0 
+
+ Punkt x 
+ Punkt y 
+ Koppelfaktor 
+ Zahl der Iterationen 
+
+Details: 
+
+ Zur Iterationsverfolgung fr Auge 
+ Zur Iterationsverfolgung fr Spinne 
+ weitere Bilder

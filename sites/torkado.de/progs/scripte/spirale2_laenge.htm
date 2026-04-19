@@ -1,0 +1,137 @@
+<html>
+<head>
+<title>2^x, Logarithmische Spirale mit Basis 2</title>
+</head>
+
+<body bgcolor="#000000" text="#FFFFFF" link="#00FF00" vlink="#00DD00" alink="#00BB00">
+
+<h2 align="center"><font color="#FFFFFF"><b>Logarithmische Spirale r = 2^(phi/b)</b></font></h2>
+<hr>
+
+</p>
+<form name="spirale">
+
+  <blockquote> <font color="#00FF00" size="3" face="Courier New">
+    <blockquote>
+
+     Umlufe u:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<input type="text" size="20" name="uml" value="3.0"> <br><br>
+
+	 Parameter b:&nbsp;&nbsp;&nbsp; <input type="text" size="20" name="Paramb" value="6.283185307179586476925286766559"> <br>
+	 Schrittzahl s:&nbsp; <input type="text" size="20" name="SchrittZahlS" value="2000"> <br><br>
+
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     <input type="button" value="Berechnen" onclick="calculation1()"><br><br>
+
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ergebnisse:
+     <input type="text" size="20" name="Radius" value=" "> Endradius bis Nullpunkt<br>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" size="20" name="Laenge" value=" "> Gesamt-Laenge L iterativ<br>
+	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" size="20" name="LaengeR" value=" "> Gesamt-Laenge L analytisch (u Ganz)<br>
+	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" size="20" name="Laenge2Pi" value=" "> Gesamt-Laenge in 2Pi <br>
+	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+	 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" size="20" name="LaengeKreis" value=" "> Laenge L1= 2Pi*(Faktor-1)/ln(Faktor) <br><br>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" size="20" name="Laenge1" value=" "> Laenge L1 iterativ<br>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" size="20" name="Laenge2" value=" "> Laenge L2-L1 iterativ<br><br>
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" size="20" name="Faktor" value=" "> Faktor =R(u)/R(u-1)<br>
+
+         </blockquote>
+</font>
+</blockquote>
+</form>
+<hr>
+
+<br><font color="#00FF00" size="3" face="Courier New">
+r = Basis^(phi/b) mit Basis = 2<br><br>
+Spiralenlnge: L=L1*(Sum(F^n) fr n=0 bis (Umlufe-1)), <br>
+ &nbsp;&nbsp;&nbsp;&nbsp; z.B. L5=L1*(1+F+F^2+F^3+F^4), F=Faktor=R(u)/R(u-1)<br>
+Erster Umlauf: L1= (Faktor-1)*b/ln(Basis)<br>
+Berechnung b aus Faktor: b = 2Pi*ln(Basis)/ln(Faktor)<br>
+Berechnung Faktor aus b: Faktor = (Basis)^(2Pi/b)<br><br>
+
+mit b= 6.283185307179586476925286766559 (macht Faktor 2 pro Umlauf)<br><br>
+
+<br>Links: <a href="spiraleUmrechnung.htm">Umrechnung</a> verschiedener b ohne Kenntnis von Faktor
+
+</font><br>
+
+  <script language="JavaScript"><!--
+// JavaScript von G.Mueller
+
+
+function calculation1()
+{
+
+  u0 = document.spirale.uml.value;
+  b0 = document.spirale.Paramb.value;
+  s0 = document.spirale.SchrittZahlS.value;
+
+  ZPi = 6.283185307179586476925286766559; //2Pi
+  uml = u0*1.0;
+  b = b0*1.0;
+  schrittzahl = s0*1.0;
+
+  phi = ZPi*uml;
+  Radius = Math.pow(2.0, phi/b);
+  Faktor = Math.pow(2.0, (phi+ZPi)/b) / Radius;
+
+  phase = 0;
+  dphase = ZPi/schrittzahl;
+  sz = schrittzahl*uml;
+  laenge = 0;
+  l1 = 0; l2 = 0;
+
+  for (n=1; n<=sz; n++)
+  {
+    r_akt = Math.pow(2.0, phase/b);
+    laenge = laenge + r_akt;
+    phase = phase + dphase;
+    if(n == schrittzahl) l1 = laenge;
+    if(n == schrittzahl*2) l2 = laenge - l1;
+  }
+
+  laenge = laenge*dphase;
+  l1 = l1*dphase;
+  l2 = l2*dphase;
+
+  laengeZPi = laenge/ZPi;
+  laengeKr = ZPi*(Faktor-1)/Math.log(Faktor);
+
+  // Umrechnung: b1 = b*Math.log(e)/Math.log(basis);
+
+  Sum=1.0;
+
+  for (m=1; m < uml; m++)
+  {
+     if(m == 1) { Sum = Sum + Faktor; }
+     else
+     { Sum = Sum + Math.pow(Faktor,m); }
+  }
+
+  laengeRad = laengeKr * Sum;
+
+  document.spirale.Radius.value = Radius;
+  document.spirale.Laenge.value = laenge;
+  document.spirale.LaengeR.value = laengeRad;
+  document.spirale.Laenge2Pi.value = laengeZPi;
+  document.spirale.LaengeKreis.value = laengeKr;
+  document.spirale.Laenge1.value = l1;
+  document.spirale.Laenge2.value = l2;
+  document.spirale.Faktor.value = Faktor;
+
+  //ausgabe = "Rest = " + Nround + "<br><br>";
+  //document.write(ausgabe.bold());
+
+
+}
+
+
+// --></script>
+
+</body>
+</html>

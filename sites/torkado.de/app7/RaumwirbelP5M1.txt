@@ -1,0 +1,6 @@
+Spirale Logarithmisch 
+
+ Logarithmische Spirale r = a * (1 - Fi^(phi/k)) 
+mit Phasen-Drehung in der Mitte 
+k=1+b fr schwarze Spirale, k=1-b fr blaue Spirale, fi=1.618034.., b=4.37, 
+dH = (d_phi)/(r_aktuell) * Hhenfaktor

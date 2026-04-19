@@ -1,0 +1,64 @@
+<HTML>
+<HEAD>
+<TITLE>resonant-rotierende Masse</TITLE>
+</HEAD>
+<BODY>
+<h3> Bahnkurve der 3D-Schwingung einer rotierenden Masse</h3>
+Alle synchronen Varianten der Schwingungsverkopplung zwischen radialer, vertikaler und tangentialer Schwingung (beide Vorzeichen)<br>
+KurveA = f(A_T*cos(<a href="http://www.aladin24.de/Bild/toruswinkel.gif">theta</a>)), Schlauchquerschnitt kippt um die groe Radius-Achse in eine mehr liegende Ebene; oberer Umkehrpunkt wandert zurck oder vor<br>
+KurveB = f(A_T*sin(theta)), Schlauchquerschnitt bleibt senkrecht stehen, kippt um die innere z-Achse nach vorn oder hinten<br>
+KurveC hat A_T=0, dient dem Vergleich ohne die tangentiale Zusatzschwingung<br><br>
+
+ Alle Applet-Parameter als Startwert im Quelltext der HTM-Seite einstellbar, z.B. param name=Radius_gross value="10.0"<br>
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;param name=UmdrehungenMitR value="0.25"<br>
+ <br>
+ Hinweis: Jeweils am oberen und unteren Umkehrpunkt wechselt die Farbe, die Stelle oben ist farblich markiert. Starttag ist bei (x,y,z)=(R,0,0).<br><br>
+
+<table cellpadding="5" bgcolor="#669999"><tr><td>
+
+<APPLET CODE="Planet1.class" WIDTH=870 HEIGHT=500>
+	<param name=language value="German">
+	<param name=Radius_gross value="6">
+	<param name=Amplit_radial_zu_R value="0.2">
+	<param name=Amplit_vertikal_zu_R value="0.2">
+	<param name=Amplit_tangential_zu_R value="-0.25">
+	<param name=WinkelSchrittverhaeltnis value="30">
+	<param name=Drehgeschwindigkeit value="1">
+	<param name=UmdrehungenMitR value="0.5">
+  	<param name=Starthoehe value="0">
+	<param name=Kippwinkel value="200">
+	<param name=Drehwinkel value="180">
+	<param name=Bildverkleinerung value="1">
+   	<param name=anzeigenKurveA value="true">
+	<param name=anzeigenKurveB value="false">
+	<param name=anzeigenKurveC value="false">
+	<param name=Schrittzahl value="360">
+	<param name=ColorBackground value="ffffff">
+	<param name=ColorPanel value="dddddd">
+    <param name=ColorSchrift value="000000">
+	<param name=ColorX_Achse value="0000ff">
+	<param name=ColorY_Achse value="0000ff">
+	<param name=ColorZ_Achse value="0000ff">
+ </APPLET>
+
+ </td></tr><table>
+
+         <br><br><b>Kurve A:</b> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; (fr <b>KurveB</b> an markierter Stelle <b>sintheta</b>)<br>
+         radiuskleinR = A_R*R; <br>
+ 		 radiuskleinH = A_Z*R;<br>
+ 		 radiuskleinT = A_T*R/Schrittzahl/2;<br>
+ 		 d_theta=(2Pi)/Schrittzahl;<br>
+         d_phi=d_theta/WinkelSchrittverhaeltnis*Drehgeschwindigkeit;<br><br>
+       Schleife:<br>
+          winkeltheta +=d_theta;<br>
+          costheta=Math.cos(winkeltheta);<br>
+          sintheta=Math.sin(winkeltheta);<br>
+          winkelphi += (d_phi+radiuskleinT*<b>costheta</b>);<br>
+          paramv=R+radiuskleinR*costheta;<br>
+
+          uuu = paramv*Math.cos(winkelphi);<br>
+ 		  vvv = paramv*Math.sin(winkelphi);<br>
+		  www = radiuskleinH*sintheta+Starthoehe;<br><br>
+
+</BODY>
+</HTML>

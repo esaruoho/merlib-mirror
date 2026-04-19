@@ -1,0 +1,7 @@
+Spirale Logarithmisch 
+
+ Logarithmische Spirale r = a * (1 - exp(phi/k)) 
+mit Phasen-Drehung in der Mitte 
+k = b * (1 - exp(delta)); mit delta = (1 - exp(phi)); und b=9.065 , a=1 
+
+dH = (d_phi)/(r_aktuell) * Hhenfaktor

@@ -1,0 +1,7 @@
+Spirale Logarithmisch 
+
+ Logarithmische Spirale r = a * 2^(phi/(f(a,b,phi)) - 1 
+mit Phasen-Drehung in der Mitte 
+f = b*(1 - a * 2^delta); mit delta = b* (1 - a * 2^phi); und b = 2*Pi 
+Sonne fngt hier die Spirale ein (Black Hole?). 
+dH = (d_phi)/(r_aktuell) * Hhenfaktor

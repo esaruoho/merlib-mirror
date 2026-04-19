@@ -1,0 +1,159 @@
+[2026-03-22 23:16:25] ============================================================
+[2026-03-22 23:16:25] LIVE MIRROR: vivavortex.wordpress.com
+[2026-03-22 23:16:25] Seed: https://vivavortex.wordpress.com
+[2026-03-22 23:16:25] Output: merlib-mirror/sites/vivavortex.wordpress.com
+[2026-03-22 23:16:25] Max discovery pages: 500
+[2026-03-22 23:16:25] ============================================================
+[2026-03-22 23:16:25] Discovering links (BFS)...
+[2026-03-22 23:16:33]   Crawled 10 pages, 244 URLs found so far...
+[2026-03-22 23:16:42]   Crawled 20 pages, 305 URLs found so far...
+[2026-03-22 23:16:52]   Crawled 30 pages, 374 URLs found so far...
+[2026-03-22 23:17:00]   Crawled 40 pages, 467 URLs found so far...
+[2026-03-22 23:17:10]   Crawled 50 pages, 521 URLs found so far...
+[2026-03-22 23:17:21]   Crawled 60 pages, 604 URLs found so far...
+[2026-03-22 23:17:30]   Crawled 70 pages, 653 URLs found so far...
+[2026-03-22 23:17:39]   Crawled 80 pages, 734 URLs found so far...
+[2026-03-22 23:17:48]   Crawled 90 pages, 802 URLs found so far...
+[2026-03-22 23:17:58]   Crawled 100 pages, 874 URLs found so far...
+[2026-03-22 23:18:07]   Crawled 110 pages, 936 URLs found so far...
+[2026-03-22 23:18:17]   Crawled 120 pages, 1020 URLs found so far...
+[2026-03-22 23:18:26]   Crawled 130 pages, 1064 URLs found so far...
+[2026-03-22 23:18:35]   Crawled 140 pages, 1117 URLs found so far...
+[2026-03-22 23:18:43]   Crawled 150 pages, 1175 URLs found so far...
+[2026-03-22 23:18:53]   Crawled 160 pages, 1254 URLs found so far...
+[2026-03-22 23:19:17]   Rate limited (429), waiting 30s...
+[2026-03-22 23:20:36]   Crawled 220 pages, 1272 URLs found so far...
+[2026-03-22 23:20:43]   Crawled 230 pages, 1273 URLs found so far...
+[2026-03-22 23:21:28]   Crawled 260 pages, 1285 URLs found so far...
+[2026-03-22 23:21:42]   Rate limited (429), waiting 30s...
+[2026-03-22 23:22:29]   Rate limited (429), waiting 30s...
+[2026-03-22 23:23:08]   Crawled 310 pages, 1308 URLs found so far...
+[2026-03-22 23:23:20]   Rate limited (429), waiting 30s...
+[2026-03-22 23:24:18]   Rate limited (429), waiting 30s...
+[2026-03-22 23:25:51]   Rate limited (429), waiting 30s...
+[2026-03-22 23:26:22]   Crawled 420 pages, 1337 URLs found so far...
+[2026-03-22 23:26:25]   Rate limited (429), waiting 30s...
+[2026-03-22 23:27:00]   Rate limited (429), waiting 30s...
+[2026-03-22 23:27:47]   Rate limited (429), waiting 30s...
+[2026-03-22 23:28:18]   Rate limited (429), waiting 60s...
+[2026-03-22 23:29:35]   Crawled 470 pages, 1353 URLs found so far...
+[2026-03-22 23:30:04] Discovered 1354 URLs (crawled 500 pages for links)
+[2026-03-22 23:33:20] Progress: 20/1354 (20 OK)
+[2026-03-22 23:36:42] Progress: 40/1354 (40 OK)
+[2026-03-22 23:40:06] Progress: 60/1354 (60 OK)
+[2026-03-22 23:43:43] Progress: 80/1354 (80 OK)
+[2026-03-22 23:47:20] Progress: 100/1354 (100 OK)
+[2026-03-22 23:50:46] Progress: 120/1354 (120 OK)
+[2026-03-22 23:54:16] Progress: 140/1354 (140 OK)
+[2026-03-22 23:57:45] Progress: 160/1354 (160 OK)
+[2026-03-23 00:02:20] Progress: 180/1354 (180 OK)
+[2026-03-23 00:05:47] Progress: 200/1354 (200 OK)
+[2026-03-23 00:09:23] Progress: 220/1354 (220 OK)
+[2026-03-23 00:12:59] Progress: 240/1354 (240 OK)
+[2026-03-23 00:16:28] Progress: 260/1354 (260 OK)
+[2026-03-23 00:19:53] Progress: 280/1354 (280 OK)
+[2026-03-23 00:23:21] Progress: 300/1354 (300 OK)
+[2026-03-23 00:26:52] Progress: 320/1354 (320 OK)
+[2026-03-23 00:30:21] Progress: 340/1354 (340 OK)
+[2026-03-23 00:33:50] Progress: 360/1354 (360 OK)
+[2026-03-23 00:37:11] Progress: 380/1354 (380 OK)
+[2026-03-23 00:40:38] Progress: 400/1354 (400 OK)
+[2026-03-23 00:44:07] Progress: 420/1354 (420 OK)
+[2026-03-23 00:47:02]   Rate limited (429), waiting 30s...
+[2026-03-23 00:48:04] Progress: 440/1354 (440 OK)
+[2026-03-23 00:50:29]   Rate limited (429), waiting 30s...
+[2026-03-23 00:52:04] Progress: 460/1354 (460 OK)
+[2026-03-23 00:55:34] Progress: 480/1354 (480 OK)
+[2026-03-23 00:57:05]   Rate limited (429), waiting 30s...
+[2026-03-23 00:59:33] Progress: 500/1354 (500 OK)
+[2026-03-23 01:02:57] Progress: 520/1354 (520 OK)
+[2026-03-23 01:06:27] Progress: 540/1354 (540 OK)
+[2026-03-23 01:09:56] Progress: 560/1354 (560 OK)
+[2026-03-23 01:13:26] Progress: 580/1354 (580 OK)
+[2026-03-23 01:16:55] Progress: 600/1354 (600 OK)
+[2026-03-23 01:20:26] Progress: 620/1354 (620 OK)
+[2026-03-23 01:23:56] Progress: 640/1354 (640 OK)
+[2026-03-23 01:27:21] Progress: 660/1354 (660 OK)
+[2026-03-23 01:30:50] Progress: 680/1354 (680 OK)
+[2026-03-23 01:34:15] Progress: 700/1354 (700 OK)
+[2026-03-23 01:37:41] Progress: 720/1354 (720 OK)
+[2026-03-23 01:41:08] Progress: 740/1354 (740 OK)
+[2026-03-23 01:41:18]   Rate limited (429), waiting 30s...
+[2026-03-23 01:45:11] Progress: 760/1354 (760 OK)
+[2026-03-23 01:48:40] Progress: 780/1354 (780 OK)
+[2026-03-23 01:52:10] Progress: 800/1354 (800 OK)
+[2026-03-23 01:55:37] Progress: 820/1354 (820 OK)
+[2026-03-23 01:59:05] Progress: 840/1354 (840 OK)
+[2026-03-23 02:02:30] Progress: 860/1354 (860 OK)
+[2026-03-23 02:05:58] Progress: 880/1354 (880 OK)
+[2026-03-23 02:09:26] Progress: 900/1354 (900 OK)
+[2026-03-23 02:12:56] Progress: 920/1354 (920 OK)
+[2026-03-23 02:16:23] Progress: 940/1354 (940 OK)
+[2026-03-23 02:19:53] Progress: 960/1354 (960 OK)
+[2026-03-23 02:23:21] Progress: 980/1354 (980 OK)
+[2026-03-23 02:26:50]   Rate limited (429), waiting 30s...
+[2026-03-23 02:27:21] Progress: 1000/1354 (1000 OK)
+[2026-03-23 02:30:51] Progress: 1020/1354 (1020 OK)
+[2026-03-23 02:34:15] Progress: 1040/1354 (1040 OK)
+[2026-03-23 02:37:43] Progress: 1060/1354 (1060 OK)
+[2026-03-23 02:41:11] Progress: 1080/1354 (1080 OK)
+[2026-03-23 02:44:39] Progress: 1100/1354 (1100 OK)
+[2026-03-23 02:48:08] Progress: 1120/1354 (1120 OK)
+[2026-03-23 02:51:34] Progress: 1140/1354 (1140 OK)
+[2026-03-23 02:55:04] Progress: 1160/1354 (1160 OK)
+[2026-03-23 02:58:28] Progress: 1180/1354 (1180 OK)
+[2026-03-23 03:02:13] Progress: 1200/1354 (1197 OK)
+[2026-03-23 03:05:37] Progress: 1220/1354 (1217 OK)
+[2026-03-23 03:09:02] Progress: 1240/1354 (1237 OK)
+[2026-03-23 03:12:29] Progress: 1260/1354 (1257 OK)
+[2026-03-23 03:15:55] Progress: 1280/1354 (1277 OK)
+[2026-03-23 03:19:22] Progress: 1300/1354 (1297 OK)
+[2026-03-23 03:22:51] Progress: 1320/1354 (1317 OK)
+[2026-03-23 03:26:19] Progress: 1340/1354 (1337 OK)
+[2026-03-23 03:29:00] WordPress PDF extraction: found 30 PDF(s)
+[2026-03-23 03:29:01]   PDF OK: rz147_2007_priv.pdf
+[2026-03-23 03:29:02]   PDF OK: DUS_Anh4Schluss.pdf
+[2026-03-23 03:29:02]   PDF OK: DUS_InhaltVorwort.pdf
+[2026-03-23 03:29:28]   PDF OK: DialogAlbertEGabiMTeil1u2.pdf
+[2026-03-23 03:29:28]   PDF OK: GrafikTetrisTEG13.pdf
+[2026-03-23 03:29:35]   PDF OK: ESP_of_Quarks.pdf
+[2026-03-23 03:29:35]   PDF OK: APmod9.pdf
+[2026-03-23 03:29:36]   PDF OK: APmod9PlusC.pdf
+[2026-03-23 03:29:36]   PDF OK: AeVivaVortexA0.pdf
+[2026-03-23 03:29:36]   PDF OK: AeVivaVortexA1.pdf
+[2026-03-23 03:29:36]   PDF OK: AeVivaVortexA2.pdf
+[2026-03-23 03:29:37]   PDF OK: AeVivaVortexA3.pdf
+[2026-03-23 03:29:37]   PDF OK: AeVivaVortexA5.pdf
+[2026-03-23 03:29:37]   PDF OK: AeVivaVortexAnhang.pdf
+[2026-03-23 03:29:38]   PDF OK: AeVivaVortexQuellen.pdf
+[2026-03-23 03:29:38]   PDF OK: AeVivaVortexA10.pdf
+[2026-03-23 03:29:38]   PDF OK: AeVivaVortexA11.pdf
+[2026-03-23 03:29:39]   PDF OK: AeVivaVortexA13.pdf
+[2026-03-23 03:29:39]   PDF OK: AeVivaVortexA8.pdf
+[2026-03-23 03:29:39]   PDF OK: Extra_sensory_perception_of_nuclear_structure_and_subatomic_particles.pdf
+[2026-03-23 03:30:05]   PDFs: 20 downloaded, 2 cached, 8 failed
+[2026-03-23 03:30:05]   Missing PDFs list: merlib-mirror/sites/vivavortex.wordpress.com/_missing_pdfs.txt
+[2026-03-23 03:30:05] Generating index...
+[2026-03-23 03:30:05] Index: 1037 files
+[2026-03-23 03:30:05]   .html: 336
+[2026-03-23 03:30:05]   .html__share%3dfacebook: 162
+[2026-03-23 03:30:05]   .html__share%3dtwitter: 162
+[2026-03-23 03:30:05]   .jpg: 78
+[2026-03-23 03:30:05]   .gif: 27
+[2026-03-23 03:30:05]   .pdf: 20
+[2026-03-23 03:30:05]   .jpg__w%3d739: 12
+[2026-03-23 03:30:05]   .gif__w%3d739: 10
+[2026-03-23 03:30:05]   .4: 2
+[2026-03-23 03:30:05]   .html__like_comment%3d425%26_wpnonce%3d340e895cfd: 1
+[2026-03-23 03:30:05]   .html__replytocom%3d425: 1
+[2026-03-23 03:30:05]   .html__like_comment%3d11%26_wpnonce%3d8e5ba17cf3: 1
+[2026-03-23 03:30:05]   .html__like_comment%3d12%26_wpnonce%3d4996be14de: 1
+[2026-03-23 03:30:05]   .html__like_comment%3d3%26_wpnonce%3db001b04c09: 1
+[2026-03-23 03:30:05]   .html__like_comment%3d4%26_wpnonce%3d7db5f2cd73: 1
+[2026-03-23 03:30:05] 
+============================================================
+[2026-03-23 03:30:05] LIVE MIRROR COMPLETE
+[2026-03-23 03:30:05] URLs: 1354, Downloaded: 1350
+[2026-03-23 03:30:05] ============================================================
+[2026-03-23 03:30:05] 
+Next step: fe-ingest.sh merlib-mirror/sites/vivavortex.wordpress.com

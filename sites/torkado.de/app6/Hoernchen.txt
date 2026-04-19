@@ -1,0 +1,8 @@
+Hoernchen 
+
+ Hrnchen ( KurveA ) und Verdreh-Hrnchen (KurveB, gut zu sehen bei Dreh-Winkel=0) 
+
+ Alle Applet-Parameter als Startwert im Quelltext der HTM-Seite einstellbar, z.B. param name=Radius_gross value="10.0" 
+ param name=UmdrehungenMitR value="1.0" 
+
+ Hinweis: Jeweils am oberen und unteren Umkehrpunkt wechselt die Farbe, die Stelle oben ist farblich markiert.

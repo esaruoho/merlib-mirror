@@ -1,0 +1,39 @@
+<HTML>
+<HEAD>
+<TITLE>Schnecke 2^N</TITLE>
+</HEAD>
+<BODY>
+<h3> 7 Windungen nach innen (Widerstandsfreie Einwirbelung) und zurck; dR-proportionale z-Bewegung; keine Umkehr</h3>
+Steigungen dR = d_phi*r_aktuell/9; = Radiushalbierung pro Umlauf rot (KurveB); dz = dR * Hoehenfaktor <br>
+ Alle Applet-Parameter einstellbar, z.B. Startwert: param name=Radius_gross value="10.0"<br>
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;param name=L_mal_X value="7"<br>
+ &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;param name=RadiusunterschiedInvers value="32" <br>
+
+<br>
+
+<table cellpadding="5" bgcolor="#669999"><tr><td>
+
+<APPLET CODE="MoSchnecke3.class" WIDTH=1100 HEIGHT=880>
+	<param name=language value="German">
+	<param name=Radius_gross value="10">
+	<param name=WinkelSchrittverhaeltnis value="1.618">
+	<param name=RadiusunterschiedInvers value="32">
+    <param name=Hoehenfaktor value="2.5">
+	<param name=Kippwinkel value="0">
+    <param name=L_mal_X value="7">
+	<param name=anzeigenKurveA value="true">
+	<param name=anzeigenKurveB value="true">
+	<param name=Schrittzahl value="600">
+	<param name=Bildverkleinerung value="3">
+	<param name=ColorBackground value="ffffff">
+	<param name=ColorPanel value="dddddd">
+    <param name=ColorSchrift value="000000">
+	<param name=ColorX_Achse value="0000ff">
+	<param name=ColorY_Achse value="0000ff">
+	<param name=ColorZ_Achse value="ffffff">
+ </APPLET>
+
+ </td></tr><table>
+
+</BODY>
+</HTML>

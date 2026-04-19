@@ -1,0 +1,145 @@
+<html>
+<head>
+ <meta name="author" content="Gabi Mueller, www.torkado.de">
+ <title>Goldener-Schnitt-Filter</title>
+</head>
+<body bgcolor="#BFDABE" link="#336600" vlink="#336600" alink="#336600">
+
+
+<table width="600" border="0" cellpadding="15" align="center" bgcolor="#FFFFFF">
+  <tr>
+    <td>
+
+<font face="Courier New">
+
+<h2 align="center">GSF</h2>
+
+<form name="Filter">
+
+ <blockquote>
+ <font size="3">
+
+
+            Frequenz [Hz]:&nbsp;&nbsp;
+			<input type="text" size="20" name="fc" value="16.6666"><br><br>
+
+2 alternativ zu berechnende Gren mssen<br> Null (=0) gesetzt werden (auer Frequenz):<br><br>
+
+			Spannung [V]: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <input type="text" size="20" name="Uo" value="15000"><br>
+
+			Leistung [VA]: &nbsp;&nbsp;&nbsp;&nbsp;
+            <input type="text" size="20" name="Po" value="40E6"><br><br>
+
+
+			Strom [A]: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+            <input type="text" size="20" name="Io" value="0"><br>
+
+			Impedanz [Ohm]: &nbsp;&nbsp;&nbsp;
+            <input type="text" size="20" name="Zo" value="0"> <br>
+
+
+  </font>
+  </blockquote>
+  <br>
+
+         <p align="center">
+             <input type="button" value="Baugren in mH,mF" onclick="calculation()"><br><br>
+
+          </p>
+
+</form>
+</font>
+
+    </td>
+  </tr>
+</table>
+
+
+<p><script language="JavaScript"><!--
+
+//
+
+function calculation()
+{
+
+ PI = Math.PI;
+ zPI=2.0*PI;
+ Fi=(1.0+Math.sqrt(5.0))/2.0;
+
+ fc0 = document.Filter.fc.value;
+ Uo0 = document.Filter.Uo.value;
+ Po0 = document.Filter.Po.value;
+ Io0 = document.Filter.Io.value;
+ Zo0 = document.Filter.Zo.value;
+
+ fc = fc0*1.0;
+ Uo = Uo0*1.0;
+ Po = Po0*1.0;
+ Io = Io0*1.0;
+ Zo = Zo0*1.0;
+
+
+ if (Uo > 0)
+ {
+   if(Po > 0)
+   { Zo = Uo*Uo/Po; Io = Po/Uo; }
+   else
+   {
+     if (Zo > 0)
+      { Po = Uo*Uo/Zo; Io = Po/Uo; }
+     else
+      {if (Io > 0) Po = Uo*Io;
+       Zo = Uo*Uo/Po; }
+      }
+  }
+  else
+  {
+     if(Po > 0)
+      { if (Io > 0) {Zo = Po/(Io*Io); Uo = Po/Io; }
+        else { if (Zo > 0) {Io = Math.sqrt(Po/Zo); Uo = Math.sqrt(Po*Zo); } } }
+     else
+      { if(Zo > 0 && Io > 0) { Po=Io*Io*Zo; Uo = Po/Io; }
+
+      }
+   }
+
+
+ fgh=fc/Fi;
+ fgt=fc*Fi;
+ iH=1000.0; // Umrechnung mH,mF
+
+ Ct = iH/(zPI*fgt*Zo); //Tiefpass
+ Lt = iH/(zPI*fgt/Zo); //Tiefpass
+ Ch = iH/(zPI*fgh*Zo); //Hochpass
+ Lh = iH/(zPI*fgh/Zo); //Hochpass
+
+ ausgabe1 = "Daten und Baugren des GSF<br><br>";
+
+ ausgabe1 += "Frequenz fc= " + fc + " Hz<br>";
+ ausgabe1 += "Spannung Uo= " + Uo + " V<br>";
+ ausgabe1 += "Leistung Po= " + Po + " VA<br>";
+ ausgabe1 += "Impedanz Zo= " + Zo + " Ohm<br>";
+ ausgabe1 += "Stromstrke Io= " + Io + " A<br><br>";
+
+ ausgabe1 += "Hochpass &nbsp;&nbsp;&nbsp;&nbsp; Lh= " + Lh + " mH<br>";
+ ausgabe1 += "Hochpass &nbsp;&nbsp;&nbsp;&nbsp; Ch= " + Ch + " mF<br>";
+ ausgabe1 += "Tiefpass &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lt= " + Lt + " mH<br>";
+ ausgabe1 += "Tiefpass &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Ct= " + Ct + " mF<br>";
+
+ document.write(ausgabe1);
+
+};
+
+
+
+// --></script>
+
+
+<p align="center"><a href="/img/hochtiefSinus.gif">Skizze und Gleichungen</a></p>
+<p align="center"><a href="mailto:info@aladin24.de">info@aladin24.de</a></p>
+
+
+
+</body>
+</html>

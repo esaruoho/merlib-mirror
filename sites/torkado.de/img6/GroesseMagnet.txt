@@ -1,0 +1,26 @@
+Magnetengroesse 
+
+ Magnetengroesse mit abgestumpfter Kegelspitze, Masse 2630,6 g Dichte vorgegeben 
+
+ Hhe Zylinder in Zoll:
+
+ Hhe Kegel in Zoll: 
+
+ Hhe Stumpf in Zoll: 
+
+ Dichte in g/cm^3: 
+
+ Durchmesser in cm: 
+
+ Hhe Zylinder in cm: 
+
+ Hhe Spitze in cm: 
+
+ Gesamthhe in cm: 
+
+ 2Pi / (Hhe/Durchm.): 
+
+ V = PI * d^2 * ( h + hs/3 - hst/3*(hst^2/(h^2)) ) / 4; 
+ rho = masse/V; 
+
+ d = sqrt( masse/rho * 4.0 / (PI * (h + hs/3.0 - hst/3.0*hst*hst/h/h)) )

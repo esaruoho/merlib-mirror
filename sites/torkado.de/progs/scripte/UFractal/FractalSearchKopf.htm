@@ -1,0 +1,83 @@
+<html>
+<head>
+<title>FractalSearch Kopf</title>
+</head>
+
+<body bgcolor="#808080" text="#FFFFFF">
+<h3><font color="#FFFFFF"><b><FONT FACE="Arial, Helvetica, sans-serif">Iterationsverfolgung Kopf</FONT></b></font></h3>
+<IMG SRC="images/Kopf_Netz5halbWeb.jpg" WIDTH="642" HEIGHT="350">
+<br> <FONT FACE="Arial, Helvetica, sans-serif" SIZE="2">Hinweis: Dieses Bild ist nur fr Koppelfaktor = 0.01 </FONT>
+<form name="gold">
+<br> <B><FONT FACE="Arial, Helvetica, sans-serif" SIZE="2">Punkt x</FONT></B> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <input type="text" size="15" name="zahlx" value="90">
+<br> <B><FONT FACE="Arial, Helvetica, sans-serif" SIZE="2">Punkt y</FONT></B> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <input type="text" size="15" name="zahly" value="100">
+<br> <B><FONT FACE="Arial, Helvetica, sans-serif" SIZE="2">Koppelfaktor</FONT></B> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <input type="text" size="5" name="koppelfaktor" value="0.01">
+<br> <B><FONT FACE="Arial, Helvetica, sans-serif" SIZE="2">Zahl der Iterationen</FONT></B> &nbsp; <input type="text" size="5" name="maxiterat" value="50"> <br>
+<blockquote> <blockquote> <input type="button" value="Rechnung starten" onclick="calculation1(1)">
+&nbsp;&nbsp; <input type="button" value="y zuerst" onclick="calculation1(2)">
+</blockquote> </blockquote></form><br>
+
+<p> <script language="JavaScript"><!--
+// JavaScript von G.Mueller www.aladin24.de
+
+
+function calculation1(modus)
+{
+  zx = document.gold.zahlx.value;
+  zy = document.gold.zahly.value;
+  ima = document.gold.maxiterat.value;
+  kopp = document.gold.koppelfaktor.value;
+  Cx = zx*1.0;
+  Cy = zy*1.0;
+  imax = ima*1;
+  koppl = kopp*1.0;
+
+  ausgabe = "Punkt x = " + Cx + "<br>";
+  ausgabe += "Punkt y = " + Cy + "<br>";
+  ausgabe += "Zahl Iterat. = " + imax + "<br>";
+  ausgabe += "Koppelfaktor = " + koppl + " &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Kopf<br><br>";
+
+   x = Cx;
+   y = Cy;
+   p = x;
+   t = y;
+   Cx = -1.0;
+   Cy = 0.0;
+
+  for (i=1; i<=imax; i++)
+  {
+
+   xs = x;
+   ys = y;
+   r = Math.sqrt(x*x+y*y);
+   f = -Math.atan2(y,x);
+   rneu = Math.pow(r,x) * Math.exp(-f*y);
+   fneu = f*x + y * Math.log(r);
+   xneu = rneu * Math.cos(fneu);
+   yneu = rneu * Math.sin(fneu);
+   x = xneu + Cx + koppl*p;
+   y = yneu + Cy + koppl*t;
+
+   rpt = Math.sqrt(p*p+t*t);
+   fpt = -Math.atan2(t,p);
+   rptneu = rpt^p * Math.exp(-fpt*t);
+   fptneu = fpt*p + t * Math.log(rpt);
+   pneu = rptneu * Math.cos(fptneu);
+   tneu = rptneu * Math.sin(fptneu);
+   p = pneu + Cx - koppl*xs;
+   t = tneu + Cy - koppl*ys;
+
+    if (modus == 1) ausgabe += "i= " + i + " &nbsp;&nbsp; x = " + x + " &nbsp;&nbsp; y = " + y + "<br>";
+    if (modus == 2) ausgabe += "i= " + i + " &nbsp;&nbsp; y = " + y + " &nbsp;&nbsp; x = " + x + "<br>";
+
+  }
+
+  document.write(ausgabe.bold());
+
+}
+
+
+
+
+// --></script>
+</body>
+</html>

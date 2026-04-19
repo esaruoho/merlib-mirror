@@ -1,0 +1,57 @@
+Funktion x^x waechst mit Eulerscher Zahl 
+
+ Die Funktion x^x beinhaltet die Eulersche Zahl e = 2.718281828.. nicht nur als Extremwert, sondern auch als Grenzwert 
+
+ Fr x gegen Unendlich gilt: 
+
+ (x^x) / ((x-1)^(x-1)) / (x-0.5) = e
+ e = 2.718281828.. Eulersche Zahl 
+ x kann beliebig gebrochen sein, aber die Schrittweite 1 muss beibehalten werden. 
+ gefunden von Frithjof Mller 
+
+ Es folgte daraus die Vermutung: lim [(1+1/n)^(n+1/2)] = e konvergiert besser als lim [(1+1/n)^n] = E 
+gefunden von Gabi Mueller 
+
+ Beweis fuer den gleichen Grenzwert e (= E = 2.718281828459..): 
+
+ ((n+1)^(n+1))/(n^n)/(n+0.5) 
+ = ((n+1)/n)^n *(n+1)/(n+0.5) 
+ = (1+1/n)^n *(n+1)/(n+0.5) 
+ = E *(n+1)/(n+0.5) 
+ Der limes von (n+1)/(n+0.5) geht gegen 1 fuer n gegen Unendlich. 
+ Aus (n+1)/(n+0.5) = ((n+1)/n)^k folgt 
+ k = ln((n+1)/(n+0.5))/ln((n+1)/n) 
+ Ab ca. n = 1.0E10 ist k=0.5 auf 10 Kommastellen genau. 
+ Numerischer Nachweis der besseren Konvergenz: 
+ Die Konvergenz mit einer Potenz (n +- delta) mit delta ungleich 0.5 ist immer schlechter.
+
+ n von : n bis: 
+ delta : 
+
+ Ebenso zeigt es sich, dass die analoge Ergnzung auf die exp-Funktion uebertragbar ist. Man kann numerisch nachweisen, dass
+ lim [(1+x/n)^(n+x/2)] = exp(x) wesentlich besser konvergiert als lim [(1+x/n)^n] = Exp(x) 
+
+ n von : n bis: 
+ delta : 
+ x-Wert: fr exp(x) = (1 + x/n)^(n+delta*x) 
+
+ Hinweis: 
+ Die Funktionen x^(1/x) und x^x haben bei der Eulerschen Zahl x=e bzw. x=1/e
+ Extremwerte: 
+
+ Weiteres zu x^x und seiner
+ Umkehrfunktion: 
+ LogamentusNewton.htm 
+
+ Ergnzung: Es ist analytisch
+ ableitbar, dass die Potenz mit der besten Konvergenz weitere Summanden hat,
+ und zwar 
+
+ Kontakt (2022) 
+
+ Gabi und Frithjof M&uuml;ller 
+ Danziger Str. 9 
+ 35415 Pohlheim 
+ Germany 
+
+ Email: info@viva-vortex.de

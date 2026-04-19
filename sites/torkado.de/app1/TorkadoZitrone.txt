@@ -1,0 +1,8 @@
+Torkado 
+
+ Z=1 
+Torkado aus zwei sich kreuzenden Spiralen mit r-abhngigen Winkelschritten ( Skizze ) 
+ KurveB: k= 1.0 + Faktor*(abstand-R)/(4Pi); winkeltheta = winkeltheta - dtheta*k; winkelphi = winkelphi + dphi/k; 
+ KurveA: k= 1.0 + Faktor*(abstand-R)/(4Pi); winkeltheta = winkeltheta + dphi*k; winkelphi = winkelphi + dtheta/k; 
+ radiusklein= r(1 + exc1*(cos(theta)^2 + cos(theta)) + exc2*(sin(theta)^2 + sin(theta))); 
+ Kurvenstart bei (x,y,z)=(R+radiusklein,0,0)

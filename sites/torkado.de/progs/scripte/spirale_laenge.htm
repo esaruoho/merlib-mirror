@@ -1,0 +1,201 @@
+<html>
+<head>
+<title>beliebige Basis, Logarithmische Spirale</title>
+</head>
+
+<body bgcolor="#000000" text="#FFFFFF" link="#00FF00" vlink="#00DD00" alink="#00BB00">
+
+<h2 align="center"><font color="#FFFFFF"><b>Logarithmische Spirale r = Basis^(phase/b)</b></font></h2>
+<hr>
+
+</p>
+
+<form name="spirale">
+  <font color="#00FF00" size="3" face="Courier New">
+
+     Umlufe u:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+			<input type="text" size="20" name="uml" value="7.12990076140357"> <br><br>
+
+	 Basis a:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <input type="text" size="20" name="Basis" value="2.7182818284590452353602874713527"> <br>
+	 Parameter b:&nbsp;&nbsp;&nbsp; <input type="text" size="20" name="Paramb" value="">&nbsp; oder Faktor F: <input type="text" size="20" name="Fakt" value="2"><br>
+	 Schrittzahl s:&nbsp; <input type="text" size="20" name="SchrittZahlS" value="2000"> <br><br>
+
+     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     <input type="button" value="Berechnen" onclick="calculation1()"><br><br>
+
+&nbsp;&nbsp; Ergebnisse:<br><br>
+&nbsp;&nbsp;<input type="text" size="20" name="Radius" value=" "> End-Radius R ab Nullpunkt<br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iterativ
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;analytisch<br>
+&nbsp;&nbsp;<input type="text" size="20" name="Laenge" value=" "> <input type="text" size="20" name="LaengeA" value=" "> Gesamt-Laenge L<br>
+&nbsp;&nbsp;<input type="text" size="20" name="LaengeR" value=" "> <input type="text" size="20" name="LaengeAR" value=" "> L / R <br>
+&nbsp;&nbsp;<input type="text" size="20" name="Laenge2Pi" value=" "> <input type="text" size="20" name="LaengeA2Pi" value=" "> L / (2Pi) <br>
+&nbsp;&nbsp;<input type="text" size="20" name="Laenge2PiR" value=" "> <input type="text" size="20" name="LaengeA2PiR" value=" "> L / (2Pi*R) <br>
+&nbsp;&nbsp;<input type="text" size="20" name="LaengedL1" value=" "> <input type="text" size="20" name="LaengeAdL1" value=" "> L / (L1) <br><br>
+&nbsp;&nbsp;<input type="text" size="20" name="Laenge1i" value=" "> <input type="text" size="20" name="LaengeL1A" value=" "> Laenge L1<br>
+&nbsp;&nbsp;<input type="text" size="20" name="Laenge2i" value=" "> <input type="text" size="20" name="Laenge2a" value=" "> Laenge L2-L1<br>
+&nbsp;&nbsp;<input type="text" size="20" name="LaengeEndi" value=" "> <input type="text" size="20" name="LaengeEnda" value=" "> Laenge L-L(int(u)))<br><br>
+&nbsp;&nbsp;&nbsp;F = a^(2Pi/b) &nbsp;<input type="text" size="20" name="Faktor2" value=" "> <br>
+
+</font>
+</form>
+<hr>
+
+<br><font color="#00FF00" size="3" face="Courier New">
+2.7182818284590452353602874713527 = e<br>
+1.618033988749894848204586834 = phigold<br>
+6.283185307179586476925286766559 = 2Pi<br>
+3.1415926535897932384626433832795 = Pi<br>
+7.389056098930650227230427460575 = e^2<br>
+15.15426224147926418976043027262 = e^e<br>
+0.36787944117144232159552377016146  = 1/e<br>
+0.6922027041603439407918677636835  = (1/e)^(1/e)<br>
+1.4446635270126840720352160449  = 1/((1/e)^(1/e))<br><br>
+
+r = (Basis)^(phase/b) <br><br>
+Spiralenlnge: L = L1*(R-1)/(F-1) = 2Pi*(R-1)/ln(F) = b*(R-1)/ln(Basis),<br>oder auch fr ganze u: L=L1*(Sum(F^n) fr n=0 bis (Umlufe-1)), <br>
+ &nbsp;&nbsp;&nbsp;&nbsp; z.B. L5=L1*(1+F+F^2+F^3+F^4), F=Faktor=R(u)/R(u-1)<br>
+Erster Umlauf: L1 = (Faktor-1)*b/ln(Basis) = 2Pi*(Faktor-1)/ln(Faktor)<br>
+Berechnung b aus Faktor: b = 2Pi*ln(Basis)/ln(Faktor)<br>
+Berechnung Faktor aus b: Faktor = (Basis)^(2Pi/b)<br><br>
+
+weitere Ergebnisse:<br>
+a = e, b = 9.06472.. bzw. Faktor = 2  mit u>>1 erzeugt eine Lnge, <br>die genau gleich b*R ist: L / R = b, bei u=7.129900761403599 ist L/R=9<br>
+a = e, b = -2Pi bzw. Faktor = 1/e  mit u>>1 erzeugt eine Lnge, <br>die genau gleich 2Pi ist: L /(2Pi) = 1<br>
+a = e, b = 2Pi &nbsp; bzw. Faktor = e  mit u>>1 erzeugt eine Lnge, <br>die dem Umkreis entspricht: L /(2Pi*R) = 1<br>
+a = e, b = 2Pi/2 bzw. Faktor = e^2  mit u>>1 erzeugt eine Lnge, <br>die dem halben Umkreis entspricht: L /(2Pi*R) = 0.5<br>
+a = e, b = 2Pi/e bzw. Faktor = e^e  mit u>>1 erzeugt eine Lnge, <br>die 1/e vom Umkreis entspricht: L /(2Pi*R) = 1/e<br>
+a = e, b = 2Pi*e bzw. Faktor = 1/((1/e)^(1/e)), wobei dies <br>ein <a href="http://www.urhebung.com/06/07/images/xhx.gif" target="_blank">Extremwert in x^x</a> ist, mit u>>1 erzeugt eine Lnge, <br>die dem e-fachen vom Umkreis entspricht: L /(2Pi*R) = e<br><br>
+dies gilt natrlich auch unabhngig von a und b=f(a,F), sofern die Spiralen gleich sind (gleicher Faktor).<br><br>
+<br>Links: <a href="spiraleUmrechnung.htm">Umrechnung</a> verschiedener b ohne Kenntnis von Faktor
+
+</font><br>
+
+  <script language="JavaScript"><!--
+// JavaScript von G.Mueller
+
+
+function calculation1()
+{
+
+  u0 = document.spirale.uml.value;
+  a0 = document.spirale.Basis.value;
+  b0 = document.spirale.Paramb.value;
+  f0 = document.spirale.Fakt.value;
+  s0 = document.spirale.SchrittZahlS.value;
+
+  ZPi = 6.283185307179586476925286766559; // =2Pi
+
+  uml = u0*1.0;
+  a = a0*1.0;
+  b = b0*1.0;
+  f = f0*1.0;
+  schrittzahl = s0*1.0;
+
+  if (f < 0) f = -f;
+  if (f > 0) b = ZPi*Math.log(a)/Math.log(f);
+
+  phi = ZPi*uml;
+  Radius = Math.pow(a, phi/b);
+  // Faktor = Math.pow(a, (phi+ZPi)/b) / Radius;
+  Faktor = Math.pow(a, ZPi/b);
+
+  phase = 0;
+  dphase = ZPi/schrittzahl;
+  sz = schrittzahl*uml;
+  schrittzahlEnd = schrittzahl*Math.floor(uml);
+  laenge = 0;
+  l1 = 0; l2 = 0;
+
+  for (n=1; n<=sz; n++)
+  {
+    r_akt = Math.pow(a, phase/b);
+    laenge = laenge + r_akt;
+    phase = phase + dphase;
+    if(n == schrittzahl) l1 = laenge;
+    if(n == schrittzahl*2) l2 = laenge - l1;
+    if(n == schrittzahlEnd) l3 = laenge;
+
+  }
+
+  laenge = laenge*dphase;
+  l1i = l1*dphase;
+  l2i = l2*dphase;
+  l3i = laenge - l3*dphase;
+
+  laengeZPi = laenge/ZPi;
+  laengeR = laenge/Radius;
+  laengeZPiR = laenge/ZPi/Radius;
+  laengeL1 = ZPi*(Faktor-1)/Math.log(Faktor);
+  laengedurchL1 = laenge/laengeL1;
+
+
+  /*
+
+  Sum=1.0;
+  umlInt= Math.floor(uml);
+
+  for (m=1; m < umlInt; m++)
+  {
+     if(m == 1) { Sum = Sum + Faktor; }
+     else
+     { Sum = Sum + Math.pow(Faktor,m); }
+  }
+
+  laengeAn = laengeL1 * Sum;
+
+  */
+
+
+  laengeAn = laengeL1*(Radius-1)/(Faktor-1);
+  // laengeAn = b*(Radius-1)/Math.log(a);
+
+  phi2 = ZPi*2.0;
+  Radius2 = Math.pow(a, phi2/b);
+  l2a = laengeL1*((Radius2-1)/(Faktor-1) - 1.0);
+
+  phiUm1 = ZPi*Math.floor(uml);
+  RadiusUm1 = Math.pow(a, phiUm1/b);
+  l3a = laengeAn - laengeL1*(RadiusUm1-1)/(Faktor-1);
+
+  laengeAZPi = laengeAn/ZPi;
+  laengeAR = laengeAn/Radius;
+  laengeAZPiR = laengeAn/ZPi/Radius;
+  laengeAdurchL1 = laengeAn/laengeL1;
+
+  if (f == 0) fstr = "";
+  if (f > 0 ) fstr = f;
+
+  document.spirale.Paramb.value = b;
+  document.spirale.Fakt.value = fstr;
+
+  document.spirale.Radius.value = Radius;
+  document.spirale.Laenge.value = laenge;
+  document.spirale.LaengeA.value = laengeAn;
+  document.spirale.Laenge2Pi.value = laengeZPi;
+  document.spirale.LaengeR.value = laengeR;
+  document.spirale.Laenge2PiR.value = laengeZPiR;
+  document.spirale.LaengedL1.value = laengedurchL1;
+  document.spirale.LaengeA2Pi.value = laengeAZPi;
+  document.spirale.LaengeAR.value = laengeAR;
+  document.spirale.LaengeA2PiR.value = laengeAZPiR;
+  document.spirale.LaengeAdL1.value = laengeAdurchL1;
+  document.spirale.LaengeL1A.value = laengeL1;
+  document.spirale.Laenge1i.value = l1i;
+  document.spirale.Laenge2i.value = l2i;
+  document.spirale.Laenge2a.value = l2a;
+  document.spirale.LaengeEndi.value = l3i;
+  document.spirale.LaengeEnda.value = l3a;
+  document.spirale.Faktor2.value = Faktor;
+
+  //ausgabe = "Rest = " + Nround + "<br><br>";
+  //document.write(ausgabe.bold());
+
+}
+
+
+
+// --></script>
+
+</body>
+</html>

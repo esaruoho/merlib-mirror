@@ -1,0 +1,52 @@
+Schaedel mit Z gerechnet {
+
+init:
+  z = #pixel
+  z2 = z
+loop:
+   z1n = z
+   z1 = real(z) - flip(imag(z))
+   z = z1^z + @seed + @koppl*z2
+
+   z1a = real(z2) - flip(imag(z2))
+   z2 = z1a^z2 + @seed - @koppl*z1n
+
+bailout:
+  |z| <= @bailout
+default:
+  title = "Schaedel mit Z"
+  magn = 0.0075
+  center = (-170,0)
+  maxiter = 1000
+  angle = 90
+
+$IFDEF VER50
+  rating = recommended
+$ENDIF
+  param seed
+    caption = "Julia seed"
+    default = (-1.0, 0)
+    hint = "Use this parameter to create many different Julia sets. A good \
+            way to set this parameter is with the Switch, Eyedropper, or \
+            Explore features."
+  endparam
+  param koppl
+    caption = "Koppelparameter"
+    default = 0.01
+
+  endparam
+  param bailout
+    caption = "Bailout value"
+    default = 5.0e3
+    min = 1.0
+$IFDEF VER40
+    exponential = true
+$ENDIF
+    hint = "This parameter defines how soon an orbit bails out while \
+            iterating. Larger values give smoother outlines; values around 4 \
+            give more interesting shapes around the set. Values less than 4 \
+            will distort the fractal."
+  endparam
+
+}
+

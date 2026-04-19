@@ -1,0 +1,36 @@
+2^x, Logarithmische Spirale mit Basis 2 
+
+ Logarithmische Spirale r = 2^(phi/b) 
+
+ Umlufe u: 
+
+ Parameter b: 
+ Schrittzahl s: 
+
+ Ergebnisse:
+ Endradius bis Nullpunkt 
+
+ Gesamt-Laenge L iterativ 
+
+ Gesamt-Laenge L analytisch (u Ganz) 
+
+ Gesamt-Laenge in 2Pi 
+
+ Laenge L1= 2Pi*(Faktor-1)/ln(Faktor) 
+
+ Laenge L1 iterativ 
+
+ Laenge L2-L1 iterativ 
+
+ Faktor =R(u)/R(u-1) 
+
+r = Basis^(phi/b) mit Basis = 2 
+Spiralenlnge: L=L1*(Sum(F^n) fr n=0 bis (Umlufe-1)), 
+ z.B. L5=L1*(1+F+F^2+F^3+F^4), F=Faktor=R(u)/R(u-1) 
+Erster Umlauf: L1= (Faktor-1)*b/ln(Basis) 
+Berechnung b aus Faktor: b = 2Pi*ln(Basis)/ln(Faktor) 
+Berechnung Faktor aus b: Faktor = (Basis)^(2Pi/b) 
+
+mit b= 6.283185307179586476925286766559 (macht Faktor 2 pro Umlauf) 
+
+ Links: Umrechnung verschiedener b ohne Kenntnis von Faktor

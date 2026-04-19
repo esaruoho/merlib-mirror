@@ -1,0 +1,46 @@
+Pflanzen 
+
+ N a t u r 
+
+ Goldener Schnitt 
+
+ Blattstellung 
+ Entstehen keine Blattquirle (symmetrische Stellung, 
+ Distanzwinkel 180 Grad), sondern liegt die zerstreute oder wechselseitige 
+ Blattstellung vor (Dispersion), dann betr&auml;gt der Divergenzwinkel 
+ weniger als 180 Grad, zum Beispiel 120 Grad (rationales Zahlenverh&auml;ltnis). 
+ Oft kommt es aber zu &uuml;berhaupt keiner Wiederholung einer 
+ Gegen&uuml;berstellung zweier Bl&auml;tter (irrationales Zahlenverh&auml;ltnis): 
+ der Goldene Winkel spielt dann eine Rolle: 
+ 360(1-g)=137.51 &deg; mit g=(sqrt(5)-1)/2=0.618033989 
+ Spiralige Blattstellung: 
+ Grundlage ist die einfache Dreieckstellung von 120&deg;. Beim 
+ Fortschreiten von einem Blatt zum drittn&auml;chsten wird die 
+ Achse etwas mehr als einmal umrundet: 3*137.51&deg;=412.52&deg;=360&deg;+52.52&deg; 
+ . 
+ Der Abstand der Bl&auml;tter vom Zentrum der Bl&uuml;te 
+ wird in jedem Schritt um einen festen Betrag erh&ouml;ht. Bild 
+ ganz oben: Im mittleren Modell ist der Divergenzwinkel genau der 
+ des Goldenen Schnittes, rechts und links daneben wurde er minimal 
+ variiert. 
+
+ Nur eine kleine Differenz, positiv oder 
+ negativ angebracht, l&auml;&szlig;t entgegengesetzte, geradezu 
+ orthogonale Spiralen erkennen. 
+ Wenn diese Stellung einer 
+ beweglichen Str&ouml;mung entspr&auml;che, k&ouml;nnten dann nicht 
+ beide Spiralen je einem elektrischen bzw. einem magnetischen Feld 
+ entsprechen ? 
+
+ ************* 
+
+ Chemische Tornados 
+ der B-Z-Reaktion: Im Zentrum geht die Oszillation 
+ in eine neue Ebene. 
+ (B-Z: Belousov-Zhabotinskii) 
+
+ Bilder aus 
+ "Natur und Form" (ISBN 3-88722-213-X) 
+
+ Inhalt 
+ Meine Email-Adresse: info@aladin24.de
