@@ -1,0 +1,41 @@
+[2026-04-19 09:57:24] ============================================================
+[2026-04-19 09:57:24] WAYBACK MIRROR: jvmoloney.com
+[2026-04-19 09:57:24] Output: /Users/esaruoho/work/merlib-mirror/sites/jvmoloney.com
+[2026-04-19 09:57:24] Delay: 1.0s
+[2026-04-19 09:57:24] ============================================================
+[2026-04-19 09:57:24] Resuming: phase=init, 0 already done
+[2026-04-19 09:57:24] 
+=== PHASE 1: URL Discovery ===
+[2026-04-19 09:57:24] Querying CDX for jvmoloney.com...
+[2026-04-19 09:57:38]   Found 38 URLs for jvmoloney.com
+[2026-04-19 09:57:38] Querying CDX for www.jvmoloney.com...
+[2026-04-19 09:57:41]   Found 38 URLs for www.jvmoloney.com
+[2026-04-19 09:57:51] Total unique valid URLs: 38
+[2026-04-19 09:57:51]   text/html: 21
+[2026-04-19 09:57:51]   image/gif: 11
+[2026-04-19 09:57:51]   image/jpeg: 6
+[2026-04-19 09:57:51] 
+=== PHASE 2: Downloading ===
+[2026-04-19 09:59:03] [9/38] FAIL http://www.jvmoloney.com:80/_vti_bin/fpcount.exe/?Page=welcome.htm|Ima
+[2026-04-19 09:59:10] [11/38] OK cover2.htm (5,835b) @20040612
+[2026-04-19 10:00:23] [21/38] OK images/scientists-banner5.jpg (132,056b) @20040417
+[2026-04-19 10:02:20] [31/38] OK site_map.htm (6,503b) @20220428
+[2026-04-19 10:03:35] 
+=== PHASE 3: Generating Index ===
+[2026-04-19 10:03:35] Generating index...
+[2026-04-19 10:03:35] Index: 57 files
+[2026-04-19 10:03:35]   .txt: 21
+[2026-04-19 10:03:35]   .htm: 20
+[2026-04-19 10:03:35]   .gif: 9
+[2026-04-19 10:03:35]   .jpg: 6
+[2026-04-19 10:03:35]   .html: 1
+[2026-04-19 10:03:35] 
+============================================================
+[2026-04-19 10:03:35] MIRROR COMPLETE
+[2026-04-19 10:03:35] Total URLs: 38
+[2026-04-19 10:03:35] Downloaded: 37
+[2026-04-19 10:03:35] Failed: 1
+[2026-04-19 10:03:35] Files: 57
+[2026-04-19 10:03:35] ============================================================
+[2026-04-19 10:03:35] 
+Next step: fe-ingest.sh /Users/esaruoho/work/merlib-mirror/sites/jvmoloney.com
