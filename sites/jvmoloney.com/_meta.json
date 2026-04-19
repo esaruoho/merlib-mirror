@@ -1,0 +1,16 @@
+{
+  "source": "web.archive.org",
+  "domain": "jvmoloney.com",
+  "mirror_date": "2026-04-19T10:03:35.504304",
+  "total_urls": 38,
+  "downloaded": 37,
+  "failed": 1,
+  "files": 57,
+  "file_types": {
+    ".htm": 20,
+    ".txt": 21,
+    ".gif": 9,
+    ".jpg": 6,
+    ".html": 1
+  }
+}
