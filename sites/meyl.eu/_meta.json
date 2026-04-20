@@ -1,0 +1,12 @@
+{
+  "source": "live",
+  "domain": "meyl.eu",
+  "mirror_date": "2026-04-20T21:47:29.302494",
+  "total_urls": 0,
+  "downloaded": 1,
+  "failed": 0,
+  "files": 1,
+  "file_types": {
+    ".html": 1
+  }
+}
