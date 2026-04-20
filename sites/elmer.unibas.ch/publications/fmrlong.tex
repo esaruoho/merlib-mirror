@@ -1,0 +1,2509 @@
+\documentstyle[aps,prb%
+,preprint%
+%,twocolumn%
+]{revtex} 
+\preprint{Submitted to {\it Phys. Rev. B}}
+\setlength{\textheight}{25cm}  % comment out for galley proofs
+%\let\labelm\label \renewcommand{\label}[1]{\fbox{\tt #1}\labelm{#1}}
+\begin{document} 
+\draft
+\title{PATTERN DYNAMICS OF PARAMETRICALLY EXCITED SPIN WAVES NEAR THE 
+   INSTABILITY THRESHOLD}
+\author{Franz-Josef Elmer}
+\address{Institut f\"ur Physik, Universit\"at 
+   Basel, CH-4056 Basel, Switzerland}
+\maketitle
+\begin{abstract}
+The dynamics of dissipative patterns built up by parametrically
+excited spin waves in an insulating ferromagnetic film driven by
+out-of-plane parallel pumping is studied theoretically. Crystal-field
+anisotropies and surface pinning of spins are neglected whereas the
+dipolar field is fully included. Near the instability threshold the
+dynamics is governed by amplitude equations for the slowly
+time-varying amplitudes of pairs of unstable spin-waves. Because of
+rotational symmetry an infinite number spin waves having the same
+wave length but propagating in different directions become unstable 
+simultaneously. 
+The dynamics of the amplitude equations is mainly determined by
+a nonlinear coupling coefficient which is not an even function of
+the difference between the angles of propagation.  A detailed
+description of the numerical method of the calculation of the
+coefficients of the amplitude equations is given.  From the amplitude
+equations stationary solutions and their stability are calculated.
+The only stable patterns are squares and three-wave patterns;
+hexagons are unstable. For frequencies of the pump field above some
+threshold all stationary patterns are unstable. In this regime the
+dynamical behavior is dominated by switching between squares and/or
+three-wave patterns. The pattern switching is extremely sensitive to
+noise which leads to a weak noise-induced turbulence.
+\end{abstract}
+\pacs{PACS numbers: 76.50.+g, 05.70.Ln}
+
+\narrowtext
+
+\section{\protect\label{s.intro}Introduction}
+
+Pattern formation in systems driven far from thermal equilibrium has
+universal features which can be found in many different physical,
+chemical, and even biological system (for a review see
+Ref.~\onlinecite{cro.93}). Most of the physical systems which have
+been studied experimentally as well as theoretically are fluids
+driven in various ways. The reason for that is twofold. First, the
+basic macroscopic equation of motion of a simple fluid, the
+Navier-Stokes equation, is well-known since more than 150 years. This
+equation is well-established and its limits are very well-known. It
+is the foundation on which all theoretical studies rely. But the main
+reason for the popularity of fluids is that it is easy to {\em
+visualize\/} the patterns and their formation. 
+
+This visualization gives important information about the state of the
+system which fruitfully stimulates theoretical approaches. The
+theories lead to predictions which can often be tested in relatively
+cheap experiments. Thus the visualization of the pattern formation in
+fluids leads to a strong interaction between theory and experiment
+which is an important factor for a successful understanding of 
+pattern formation.
+
+But how typical is pattern formation in fluids for non-equilibrium
+pattern formation in general? Which behaviors are universal? In order
+to answer these questions, totally different systems were studied and
+still have to be studied. In this paper I investigate insulating
+solid-state ferromagnets well below the Curie temperature. There are 
+well-known systems for nonlinear pattern formation in thermal
+equilibrium \cite{bro.63}. Ferromagnets can be driven away from
+thermal equilibrium by fast oscillating electro-magnetic fields.
+
+In 1952 the first non-equilibrium effect in ferromagnets driven in
+this way was found by Bloembergen and Damon\cite{blo.52}. They
+observed an anomalous behavior in the ferromagnetic resonance if the
+strength of the driving microwave (pump field) exceeds some
+threshold. In 1957 Suhl was able to explain successfully this typical
+non-equilibrium effect by {\em parametric resonance\/} of spin waves
+\cite{suh.57}. In the last ten years high-power ferromagnetic
+resonance has become a well-known example for deterministic chaos in
+a solid-state system \cite{wig.94}.
+
+The nonlinear dynamics of parametrically excited spin-waves is mostly
+investigated by means of traditional ferromagnetic resonance
+techniques. These methods are unable to visualize the patterns which
+emerge above the threshold; they provide only {\em spatially
+averaged\/} information about them. There are a few experiments
+reported in the literature where inelastic Brillouin scattering was
+used to investigate these patterns \cite{gai.75,wet.83}. But this
+method is also unable to visualize patterns in real space because of
+the inelastic character of the scattering. The lack of visualisations
+of pattern formation in high-power ferromagnetic resonance is a major
+disadvantage compared to fluid systems. 
+
+What is an appropriate method of visualization of parametrically
+excited spin waves? Equilibrium patterns in micromagnetism can be
+visualized very well with {\em Faraday rotation\/} because the
+rotation of the polarization of a light beam penetrating a sample
+depends on the component of the magnetization parallel to the beam.
+This method has also been successfully applied in the measurement of
+precession cones in ferromagnetic resonance\cite{gna.87}.
+
+In order to have optimal experimental conditions of visualization, a
+{\em film\/} with the static field perpendicular to the film plane
+would be ideal. The reasons for that are twofold. First, in a film
+the pattern is quasi-two-dimensional. Second, the static field should
+be parallel to the light beam in order to measure the precession cone
+as optimal as possible. From the experimental point of view either
+parallel or transverse pumping is appropriate. In this paper only
+parallel pumping is investigated because of simplicity. 
+
+The aim of this paper is to investigate and to predict spin wave
+patterns and their dynamics in a system which is optimized as above
+in order to get good chances for successful pattern visualization.
+Because of simplicity a very ideal film is studied. It is a uniform
+one without inhomogeneities and impurities. In the $(x,y)$ plane it
+extends to infinity with an overall constant thickness. The only
+intrinsic fields are an isotropic exchange field and the dipolar
+field. Furthermore, the surface spins are assumed to be free. 
+Crystal-field anisotropies and surface pinning of the spins are
+neglected. This is not a matter of principle. The restriction is
+introduced only for simplicity; the theory presented below can be
+easily extended in this direction. 
+
+It is very helpful especially for the discussion of universal aspects
+of pattern formation to compare out-of-plane parallel pumping with
+two pattern-forming systems from fluid dynamics. The first system is
+the {\em Faraday instability\/} observed in 1831 by
+Faraday\cite{far.31}. It is a parametric resonance instability of
+surface waves on a fluid which is driven by a vertical oscillation of
+the fluid container. Squares, stripes, hexagons, and spatially
+quasiperiodic patterns, as well as defects in these patterns have
+been observed \cite{cro.93}. The similarity to the out-of-plane
+parallel pumping of a ferromagnetic film is evident because of
+parametric resonance.  Furthermore both systems are in the ideal case
+translationally and rotationally symmetric. The latter symmetry has
+the consequence that at the instability threshold a continuous set of
+waves with the same wavelength but propagating in different
+directions become unstable at once. Nonlinear interaction between
+these waves is responsible for the kind of patterns the system will
+select. In the case of the Faraday instability this leads mainly to
+squares \cite{mil.91}. In the case of out-of-plane parallel pumping I
+have predicted squares and three-wave patterns \cite{elm.93}. 
+
+The general behavior of a pattern forming system is strongly
+influenced by symmetries. They are important sources of
+universalities. From this point of view one recognizes an essential 
+difference between Faraday instability and spin-wave instability.
+The fluid system has an additional symmetry which is strongly broken
+in the magnetic system: the reflection symmetry at an arbitrary plane
+perpendicular to the surface. The reason for the symmetry breaking is
+the magnetic field, more precisely, the dipolar field which is also
+responsible for the parallel pumping instability.
+
+For that reason I compare pattern formation in out-of-plane parallel
+pumping also with another well-studied fluid system where the
+reflection symmetry is also broken but which is still translationally
+and rotationally symmetric. It is the {\em rotated\/}
+Rayleigh-B\'enard system. The rotation breaks the reflection
+symmetry. When the angular velocity is below a threshold, the system
+behaves like a nonrotated Rayleigh-B\'enard convection where
+convection rolls appear for Rayleigh numbers (i.e., for temperature
+differences) which are larger than a critical value. But above the
+threshold these roll patterns are unstable even at the onset of
+convection.  This is the K\"uppers-Lortz instability \cite{kue.69}.
+In 1980 Busse and Heikes analyzed the consequence of this instability
+based on the investigation of a system of three coupled amplitude
+equations \cite{bus.80}. They found that when a new convection roll
+grows due to the K\"uppers-Lortz instability the old roll disappears
+simultaneously. Thus one roll pattern is switched off and at the same
+time a new roll pattern, rotated by a finite angle (roughly
+$60^\circ$), is switched on. They also did experiments which seemed
+to confirm this analysis. I have shown that this {\em pattern
+switching\/} should also occur in out-of-plane parallel pumping
+\cite{elm.95}. From the general point of view the reason for pattern
+switching in both systems is the lack of reflection symmetry.
+
+The starting point of the present theoretical investigation is the
+basic equation of motion of micromagnetism, i.e., the Landau-Lifshitz
+equation. In a first step the stability of the ground state is
+calculated. At the instability threshold of parametric resonance
+nontrivial solutions bifurcate. In leading order these solutions are
+linear superpositions of the destabilizing spin waves. In a second
+step a system of {\em amplitude equations\/} for the amplitudes of
+the standing spin waves is derived in the framework of multiple-scale
+perturbation theory where the smallness parameter is the distance
+from the threshold. 
+
+It is very common to investigate pattern formation in terms of 
+amplitude equations \cite{cro.93,man.90}. The advantage is twofold.
+First, from the point of view of bifurcation theory they are normal 
+forms and can therefore be rigorously derived. For that reason they
+are universal which means that their form is determined completely by
+symmetry and the kind of symmetry breaking caused by the instability.
+All other properties of the system are condensed into a few
+coefficients.  The second advantage is that pattern formation can be
+investigated even though the coefficients of the amplitude equations
+are not known explicitly either because the basic equation is not
+known or because it is to difficult to derive the coefficients. 
+
+The approach presented in this paper is different from approaches
+found in the literature of spin-wave instabilities \cite{wig.94}.
+The most systematic one is the $S$-theory \cite{zak.75,lvo.94}. In
+the language of pattern formation the $S$-theory is a multiple-scale
+perturbation theory. It starts from the {\em undamped\/} system. The
+smallness parameter is the strength of the parametric driving. The
+resulting equation of motion describes the dynamics of the amplitudes
+of all spin waves (i.e., solutions of the linearized, undamped, 
+undriven system) fulfilling the parametric resonance condition (i.e.,
+frequency of spin waves equals half the driving frequency). Damping
+is introduced phenomenologically into the equations of motion. It is
+not related to the Landau-Lifshitz damping. Amplitude equations can
+also be derived from the equations of motion of the $S$-theory.
+Milner has successfully applied this two-step approach (i.e., basic
+equation of motions $\to$ $S$-theory $\to$ amplitude equations) for
+the Faraday instability \cite{mil.91}. 
+
+The main reason for starting directly from the Landau-Lifshitz
+equation is that the $S$-theory is applicable only for small damping
+constants, because the threshold for parametric resonance scales
+linearly with the damping constant. Another disadvantage is that the
+$S$-theory does not include the damping in a systematic way. But
+linear and nonlinear damping terms have strong influences on pattern
+formation \cite{mil.91}. 
+
+The first attempt to study pattern formation in high-power
+ferromagnetic resonance in terms of amplitude equations was done by
+the author several years ago\cite{elm.87,elm.88}.  A general
+discussion of the possible forms of amplitude equations in terms of
+symmetry was given by the author in Ref.~\onlinecite{elm.92}. Very
+recently Matth\"aus and Sauermann derived amplitude equations for a
+ferromagnet with an uniaxial internal anisotropy field but with
+dipolar field neglected\cite{mat.95}. In the present work for the
+first time the dipolar field is fully included. The amplitude
+equations are derived, their coefficients are calculated, and their
+solutions are discussed.  The main results have been previously
+published in two short communications\cite{elm.93,elm.95}.
+
+The paper is organized in the following manner. The basic equations
+of motions are presented in Sec.~\ref{BEQM}. In Sec.~\ref{INST} the
+stability of the ground state is calculated numerically as well as in
+an analytical approximation. In Sec.~\ref{DLEQ} the amplitude
+equations are derived. The stationary solutions of the amplitude
+equations as well as their stability are investigated in
+Sec.~\ref{SSLEQ}. The dynamical behavior of the amplitude equations
+are discussed in Sec.~\ref{TEMP}. In the last section
+(Sec.~\ref{CON}) the results are summarized and their relevance for
+experiments are discussed. Also concluding remarks concerning
+extensions of the theory in various directions are given.
+
+
+\section{\protect\label{BEQM}The basic equations of motion}
+
+Static magnetization patterns are very well described by the theory
+of micromagnetism\cite{bro.63}. They are local minima of the free
+energy $W$.  Micromagnetism assumes that the temperature is much
+below the Curie temperature and that typical length scales of the
+patterns (e.g., the width of a domain wall) are much larger than the
+atomic scale (e.g.,  the diameter of the crystallographic unit cell).
+The state of a ferromagnet is therefore determined by the
+magnetization field ${\bf M}({\bf r})$. Its dynamics is governed by
+the Landau-Lifshitz (LL) equation:
+\begin{equation}
+  \frac{1}{\gamma}\partial_t{\bf M} = -{\bf M}\times{\bf H}^{eff}
+   -\frac{g}{M_0}{\bf M}\times({\bf M}\times{\bf H}^{eff}),
+  \label{LLeq}
+\end{equation}
+where $\gamma$ is the gyromagnetic ratio, $M_0$ the value of the
+magnetization in thermal equilibrium, ${\bf H}^{eff}({\bf
+r},t)=-\delta W/\delta{\bf M}$ the effective magnetic field at site
+${\bf r}$, and $g$ the relative line width of the resonance line. The
+LL equation will be our basic equation of motion like the
+Navier-Stokes equation for fluid dynamics.
+
+The damping term of the LL equation (i.e., the second term on the
+right hand side) is a phenomenological one. In the literature other
+damping terms are also used. The most common ones are (i) the Gilbert
+damping $\left(\frac{g}{\gamma M_0}\right){\bf M}\times
+\partial_t{\bf M}$ which is mathematically equivalent to the
+Landau-Lifshitz damping and (ii) the Bloch-Bloembergen damping
+$\Gamma_\bot M_x{\bf e}_x+\Gamma_\bot M_y{\bf e}_y+\Gamma_\|(M_z-M_0)
+{\bf e}_z$ which is mainly used in connection with ferromagnetic
+resonance. Only the Landau-Lifshitz and Gilbert damping leave the
+length of magnetization vector unchanged (i.e., $|{\bf
+M}|=M_0=const$).
+
+In theories of parametrically excited spin waves, damping is usually
+introduced in another phenomenological
+way\cite{wig.94,zak.75,dam.63}. The magnetization is described by a
+superposition of spin waves. The dynamics is governed by a equations
+of motion for the amplitudes of the spin waves. They are derived from
+the {\em undamped\/} LL equation. Damping is introduced by adding 
+phenomenological damping terms. Their coefficients are assumed to 
+depend on the wave number. The coefficient of the linear term can be
+obtained from measurements of the threshold of parallel 
+pumping\cite{dam.63}. These measurements are not consistent with the
+coefficient one would get from the LL equation. From this point of
+view the damping term in the LL equation should be replaced by a
+spatially convolution term. But ${\bf M}=const$ and the correct
+wave-number dependence of the linear damping term do not determine it
+uniquely.  Such a generalized damping term can be derived only from a
+microscopic theory\cite{gar.91,ple.93}. Nevertheless we use in this
+paper the LL equation (\ref{LLeq}) because we want to demonstrate our
+method for a simple case. A second reason is that the state of the
+art in visualization of parametrically excited spin-wave pattern is
+far from the point where an accurate quantitative comparison between
+theory and experiment is possible.  
+
+The LL equation has to be completed by the specification of 
+${\bf H}^{eff}$:
+\begin{equation}
+  {\bf H}^{eff}=(H+h\cos\tilde{\omega}t){\bf e}_z+D\nabla^2{\bf M}
+      -\nabla\Phi_M.
+  \label{heff}
+\end{equation}
+The first term is the external field; the second term comes from the
+exchange interaction; the third term is the dipolar field where 
+electro-magnetic wave propagation has been neglected. The dipolar
+field is the gradient of the magnetostatic potential $\Phi_M$ which
+obeys Poisson's equation:
+\begin{equation}
+  \Delta\Phi_M = \left\{\begin{array}{ll}4\pi\nabla{\bf M},&
+   \mbox{inside the sample,}\\0,&\mbox{outside the sample.}
+   \end{array}\right.
+  \label{Poi}
+\end{equation}
+We assume a film of thickness $d$ infinitely extended in the $(x,y)$
+plane. The boundary conditions are:
+\begin{equation}
+  |\nabla\Phi_M|(|z|\to\infty)=\partial_z{\bf M}|_{z=0}=
+   \partial_z{\bf M}|_{z=d}=0.
+  \label{bc}
+\end{equation}
+This Neumann-like boundary conditions for the magnetization are
+caused by the fact that we assume free surface spins. In the case of
+strong surface pinning the boundary conditions would be
+Dirichlet-like. 
+
+Since the length of the magnetization vector is invariant under the
+dynamics, the number of independent components of ${\bf M}$ is two
+rather than three. The magnetization is defined by a point on the
+sphere with radius $M_0$. It is convenient to project this sphere
+stereographically onto the $(x,y)$ plane. Interpreting each point in
+this plane as a complex number, the magnetization reduces to a
+complex field $m({\bf r},t)$ which is defined by
+\begin{equation}
+  m=\frac{M_x+iM_y}{M_0+M_z}.
+  \label{s.proj}
+\end{equation}
+The transformation back to ${\bf M}$ reads 
+\begin{equation}
+  {\bf M}=\frac{M_0}{1+|m|^2}
+   \left(\begin{array}{c}m+m^*\\im^*-im\\1-|m|^2\end{array}\right).
+  \label{m.to.M}
+\end{equation}
+The LL equation in terms of $m$ reads\cite{lak.84}:
+\begin{eqnarray}
+  \partial_tm&=&(i-g)\left[-l^2\Delta m+2l^2\frac{m^*(\nabla m)^2}
+   {1+|m|^2}\right.\nonumber\\ &&+\frac{1}{2}(\partial_x+
+   i\partial_y)\phi_M-\frac{m^2}{2}(\partial_x-i\partial_y)\phi_M
+   \nonumber\\ &&+m(\omega_H+\omega_h\cos\omega t-\partial_z\phi_M)
+   \Bigl].
+  \label{LLeqP}
+\end{eqnarray}
+We have introduced the following dimensionless time and space units
+\begin{equation}
+ t\to\frac{t}{4\pi\gamma M_0},\quad{\bf r}\to{\bf r}d 
+  \label{scale}
+\end{equation}
+and parameters:
+\begin{equation}\begin{array}{c}
+ l=\frac{\displaystyle 1}{\displaystyle d}\sqrt{
+   \frac{\displaystyle D}{\displaystyle 4\pi}},\quad
+ \phi_M=\frac{\displaystyle \Phi_M}{\displaystyle 4\pi M_0d}\\[2mm]
+ \omega_H=\frac{\displaystyle H}{\displaystyle 4\pi M_0},\quad
+ \omega_h=\frac{\displaystyle h}{\displaystyle 4\pi M_0},\quad
+ \omega=\frac{\displaystyle \tilde{\omega}}{\displaystyle 4\pi
+   \gamma M_0}. 
+ \end{array}\label{param}
+\end{equation}
+The Poisson equation (\ref{Poi}) becomes:
+\begin{eqnarray}
+   \Delta\phi_M&=&(\partial_x+i\partial_y)\left(\frac{m^*B(z)}
+   {1+|m|^2}\right)+(\partial_x-i\partial_y)\left(\frac{mB(z)}
+   {1+|m|^2}\right)
+   \nonumber\\&&+\partial_z\left[\left(\frac{1-|m|^2}{1+|m|^2}\right)
+   B(z)\right],
+  \label{PoiP}
+\end{eqnarray}
+where $B(z)$ is the box function
+\begin{equation}
+  B(z)=\left\{\begin{array}{ll}0,&\mbox{for}\ z<0,\\
+   1,&\mbox{for}\ 0\le z\le 1,\\0,&\mbox{for}\ z>1.\end{array}
+   \right.
+  \label{Box}
+\end{equation}
+The advantage of writing the Poisson equation with the box function 
+is that we do not need to distinguish between inside and outside of
+the sample.  Furthermore the correct boundary condition for the
+dipolar field at the surface is automatically fulfilled. The boundary
+conditions (\ref{bc}) turn into
+\begin{equation}
+  |\nabla\phi_M|(|z|\to\infty)=\partial_zm|_{z=0}=\partial_zm|
+   _{z=1}=0.
+  \label{bcP}
+\end{equation}
+Note that the boundary condition for $m$ would be nonlinear in the
+case of surface pinning of the spins.
+
+Eqs.~(\ref{LLeqP},\ref{PoiP}) together with the boundary condition
+(\ref{bcP}) represent the basic equations of motion from which we
+will start our investigation. There are five independent parameters:
+The exchange length $l$ measured in units of the film thickness, the
+damping constant $g$, the static field $\omega_H$ and the pump field
+$\omega_h$ measured in units of the demagnetization field (i.e.,
+$4\pi M_0$), and the frequency of the driving field measured in units
+of $1/(4\pi\gamma M_0)$. 
+
+
+\section{\protect\label{INST}The instability of the ground state} 
+
+The trivial stationary state of (\ref{LLeqP},\ref{PoiP},\ref{bcP}) is
+\begin{equation}
+  m^T=0,\quad \phi^T_M=\frac{|z|-|z-1|}{2},
+  \label{triv}
+\end{equation}
+where the magnetization ${\bf M}$ is parallel to the external field.
+The magnetostatic potential $\phi^T_M$ causes the dipolar field
+$-\nabla\phi^T_M =-{\bf e}_z$ which reduces the external static field
+$\omega_H$. This demagnetization leads to the well-known instability
+of a uniformally magnetized sample against domain formations for
+$\omega_H<1$. In that case the trivial state (\ref{triv}) is not the
+ground state. We are not further dealing with this case.  Therefore
+we assume that always $\omega_H>1$ holds. The trivial state 
+(\ref{triv}) is then the ground state of the undriven system.
+
+It is well-known that in the bulk the ground state becomes unstable
+if the pump field exceeds some threshold. The destabilizing modes are
+spin waves which fulfill the parametric resonance condition (i.e.,
+$\omega_k=\omega/2$) and propagate perpendicular to the external
+field\cite{dam.63}.  But the boundaries make the subject more
+complicated. First they discretize roughly speaking the
+$z$-component of the wave number.  But, as we will see below, the
+bulk analysis is still correct in so far as the waves which are
+roughly uniform in $z$-direction cause the instability. The only
+exception is related to the second effect of the boundaries, namely
+the {\em hybridization\/} (i.e., the avoiding of crossings of
+different branches) of waves with different
+$z$-components in the wave number. Near a hybridization region the
+threshold of each wave will be increased which may allow another wave
+to become the most unstable one.
+
+In order to study the stability of the ground state (\ref{triv}) 
+we have to calculate whether an infinitesimally small deviation
+increases in time or dies out. Therefore the linearized equations 
+of motion for the deviations $m$ and $\phi=\phi_M-\phi^T_M$ has to be
+solved. They are
+\begin{mathletters}\label{linEq}
+\begin{eqnarray}
+  \partial_tm-(i-g)&&\Bigl[-l^2\Delta m+\frac{1}{2}(\partial_x+
+   i\partial_y)\phi\nonumber\\ && +(\omega_H-1+\omega_h\cos\omega 
+   t)m\Bigr]=0
+  \label{linLL}
+\end{eqnarray}
+and
+\begin{equation}
+  \Delta\phi-[(\partial_x+i\partial_y)m^*+\mbox{c.c.}]B(z)=0.
+  \label{linPoi}
+\end{equation}
+\end{mathletters}
+The boundary conditions are still (\ref{bcP}). 
+
+Eq.~(\ref{linLL}), its conjugated complex, and (\ref{linPoi}) define
+a system of partial differential equations for $m$, $m^*$, and
+$\phi$.  This system is invariant under translation symmetry in the
+plane and rotation symmetry around the $z$-axis. Since some
+coefficients are time periodic due to the driving field we make a
+Floquet ansatz:
+\begin{equation}
+  \left(\begin{array}{c}m\\m^*\\\phi\end{array}\right)({\bf r},t)=
+  \left(\begin{array}{c}e^{i\alpha}\mu(z,t)\\e^{-i\alpha}\mu^*(z,t)\\
+   2i\psi(z,t)/k\end{array}\right)e^{i{\bf k}{\bf r}+\lambda t},
+  \label{lin.sol}
+\end{equation}
+where ${\bf k}=k_x{\bf e}_x+k_y{\bf e}_y$ is an arbitrary in-plane
+wave number with $k_x=k\cos\alpha$ and $k_y=k\sin\alpha$. The
+functions $\mu$, $\mu^*$, and $\psi$ are solutions of
+\begin{mathletters}
+\label{mu.eq}
+\begin{eqnarray}
+   &&\partial_t\mu+\lambda\mu-(i-g)[-l^2\partial_z^2\mu+l^2k^2\mu+
+   \nonumber\\&&\hspace{3em}+(\omega_H-1+\omega_h\cos\omega t)\mu-
+   \psi]=0,
+   \label{mu.eqm}\\
+   &&\partial_t\mu^*+\lambda\mu^*+(i+g)[-l^2\partial_z^2\mu^*+l^2
+   k^2\mu^*+\nonumber\\&&\hspace{3em}+(\omega_H-1+\omega_h\cos\omega
+   t)\mu^*-\psi]=0,
+   \label{mu.eqms}\\
+   &&\partial_z^2\psi-k^2\psi-k^2(\mu+\mu^*)B(z)/2=0,\label{mu.eqp}
+\end{eqnarray}
+\end{mathletters}
+with the boundary conditions
+\begin{equation}\begin{array}{c}
+  (\mu,\mu^*,\psi)(z,t+2\pi/\omega)=(\mu,\mu^*,\psi)(z,t),\\
+  \psi(|z|\to\infty)=0,\\
+  \partial_z\mu|_{z=0}=\partial_z\mu|_{z=1}=
+  \partial_z\mu^*|_{z=0}=\partial_z\mu^*|_{z=1}=0
+\end{array}
+  \label{mu.bc}
+\end{equation}
+It is often convenient to eliminate $\psi$ by integrating
+(\ref{mu.eqp}):
+\begin{equation}
+  \psi(z,t)=-\frac{k}{4}\int_0^1e^{-k|z-z'|}[\mu(z',t)+\mu^*(z',t)]
+   \,dz'.
+  \label{psi.eq}
+\end{equation}
+
+The imaginary part of $\lambda$ is only determined up to integer
+multiples of $\omega$, similar to the wave vector in the Bloch ansatz
+for the wavefunction of an electron in a crystal. We will restrict
+ourself to the first Brillouin zone $|\mbox{Im}\lambda|\le\omega/2$. 
+
+Eqs.~(\ref{mu.eq}) and (\ref{mu.bc}) define an eigenvalue problem.
+The real part of the eigenvalues $\lambda$ will tell us whether the
+ground state is stable or not. It is also important to know the
+unstable eigenfunctions, because in leading order the patterns
+emerging at the threshold are superpositions of these eigenfunctions.
+We call these eigenfunctions ``spin waves'' although they are
+strictly speaking not spin waves because they are the solution of the
+linearized but {\em driven\/} LL equation. For small values of $g$
+and $\omega_h$ the difference is not very large but important.  It is
+therefore instructive to solve the eigenvalue problem for
+$g=\omega_h=0$. 
+
+\subsection{\protect\label{LINM}Mode spectrum}
+
+We are looking for eigensolutions of the {\em undamped\/} (i.e.,
+$g=0$) and {\em undriven\/} (i.e., $\omega_h=0$) eigenvalue problem
+(\ref{mu.eq}) with boundary conditions (\ref{mu.bc}). The eigenvalue
+$\lambda$ is purely imaginary, i.e., $\lambda=i\omega_k$. Since the
+time-periodic term is absent, the eigenfunctions are constant in $t$.
+Appendix~\ref{APA} shows the way to solve this eigenvalue problem
+exactly. But there remains a transcendental algebraic equation for 
+$\omega_k$ which can be solved only numerically. Figure~\ref{f.modes}
+shows the dispersion relation of several eigensolutions which are
+characterized by the number of nodes in $z$ direction. 
+
+It is possible to get remarkably good results outside the
+hybridization area from an analytic approximation which works also
+very well for the stability thresholds. Furthermore a generalization
+of this approximation becomes the basis of the numerical treatment of
+the linear stability analysis and the calculation of the coefficients
+of the amplitude equations.
+
+The approximation can be divided into three steps. First, we make
+the ansatz 
+\begin{equation}
+  (\mu,\mu^*)=(\mu_0,\mu^*_0)\cos(N\pi z),
+  \label{mu.appr}
+\end{equation}
+where $N$ is an integer denoting the number of {\em nodes\/} of the
+eigenfunction in $z$-direction. This ansatz fulfills the boundary
+conditions (\ref{mu.bc}). It also reflects the symmetry of the
+eigenvalue problem under reflection at the plane $z=1/2$. Second,
+we calculate $\psi$ {\em exactly\/} by using (\ref{psi.eq}). Note
+that $\psi$ contains terms of the form $\exp(\pm kz)$ caused by the
+boundaries. In the third step we {\em project\/} $\psi$ onto $\cos
+(N\pi z)$. That is, we multiply (\ref{psi.eq}) with $\cos(N\pi z)$,
+integrate over $z$ from zero to one, divide the result by
+$\int_0^1\cos^2(N\pi z)dz$, and multiply the result again
+with $\cos(N\pi z)$. This leads to
+\begin{eqnarray}
+  \psi&=&-\beta_N(\mu_0+\mu^*_0)\cos(N\pi z)+\nonumber\\
+   &&+\mbox{terms orthogonal to}\ \cos(N\pi z),
+  \label{psi.appr}
+\end{eqnarray}
+where
+\begin{equation}
+  \beta_N=\frac{k}{1+\delta_{0N}}\int_0^1\int_z^1e^{k(z-z')}
+   \cos(N\pi z)\cos(N\pi z')dz'dz.
+  \label{beta}
+\end{equation}
+Here $\delta_{ij}$ is the Kronecker symbol. Calculating the integrals
+leads to
+\begin{mathletters}\label{beta0n}
+\begin{equation}
+  \beta_0=\frac{1}{2}\left(1-\frac{1-e^{-k}}{k}\right)=\frac{k}{4}
+   +{\cal O}(k^2)
+  \label{beta0}
+\end{equation}
+and
+\begin{equation}
+   \beta_{N\not=0}=\frac{k^2}{2(k^2+N^2\pi^2)}-\frac{k^3[1-(-1)^N
+   e^{-k}]}{(k^2+N^2\pi^2)^2}.
+  \label{betan}
+\end{equation}
+\end{mathletters}
+This approximation of $\psi$ inserted into (\ref{mu.eq}) 
+leads to the eigenfrequency
+\begin{equation}
+  \omega_k^{(N)}=\sqrt{\alpha_N^2-\beta_N^2}
+  \label{wk.n}
+\end{equation}
+with
+\begin{equation}
+ \alpha_N=\omega_H-1+l^2(k^2+N^2\pi^2)+\beta_N.
+  \label{alpha}
+\end{equation}
+Since $\beta_0={\cal O}(k)$ we get
+\begin{equation}
+  \omega_k^{(0)}=\omega_H-1+\frac{k}{4}+{\cal O}(k^2).
+  \label{wk.0}
+\end{equation}
+This nodeless mode is the {\em dipolar mode\/} because in leading
+order of $k$ the dipolar interaction dominates. The other modes
+(i.e., $N>0$) are ferromagnetic spin waves where the exchange
+interaction and the dipolar interaction are equally important. For
+$k\to\infty$ we get the well-known bulk dispersion relation because
+$2\beta_N\to k^2/ (k^2+N^2\pi^2)$.
+
+Fig.~\ref{f.modes} shows a very good agreement between the exact
+dispersion relation and the approximate one. Of course the 
+approximation cannot reproduce the hybridization because the ansatz
+(\ref{mu.appr}) assumes independent branches.  In the exact spectra
+crossings between two even modes or two odd modes are avoided by
+hybridization \cite{gri.91,kal.94}. But crossings between even and
+odd nodes are possible because they belong to different irreducible
+representations of the inversion group. The size of the hybridization
+region increases with decreasing film thickness (i.e.,  increasing
+$l$). 
+
+\subsection{\protect\label{LINS}Linear stability analysis}
+
+In order to analyze the stability of the ground state we have to
+discuss the eigenvalues of (\ref{mu.eq}) with finite damping (i.e.,
+$g\not=0$) and finite driving (i.e., $\omega_h\not=0$).  The sign of
+the real part of $\lambda(k)$ decides whether the trivial solution is
+stable (negative sign) or unstable (positive sign) against a
+particular mode with wave number $k$. The value of $\omega_h$ where
+the real part of $\lambda$ is exactly zero defines the instability
+threshold above which this particular mode will grow exponentially.
+This threshold is called the {\em neutral curve\/} $\omega_{hNC}(k)$.
+In the case of parametric resonance it has local minima at values of
+$k$ where the parametric resonance condition $\omega_k\approx
+n\omega/2$, $n$ integer, is fulfilled \cite{cro.93}. The lowest
+minimum belongs to the first-order parametric resonance (i.e.,
+$\omega_k\approx\omega/2$). The ground state is only stable if the
+real parts of $\lambda$ of {\em all\/} modes are less than zero. The
+instability threshold $\omega_{hc}$ is therefore given by the
+absolute minimum of the neutral curve, i.e.,
+$\omega_{hc}=\min_k\omega_{hNC}(k)$. Thus the parametric resonance
+causing instabilities is always of first order \cite{rem4}.
+
+Based on the approximation (\ref{mu.appr}) made in Sec.~\ref{LINM} we
+are able to calculate approximatively the neutral curve. In accordance
+with the Floquet theory we make the ansatz
+\begin{equation}
+  (\mu_0,\mu_0^*)=(\mu_+,\mu_-)e^{i\omega t/2}+
+                  (\mu^*_-,\mu^*_+)e^{-i\omega t/2}.
+  \label{mu.appr.t}
+\end{equation}
+This ansatz together with (\ref{psi.appr}) is put into
+(\ref{mu.eqm},\ref{mu.eqms}). We calculate the neutral curve directly
+by setting $\lambda=0$ in (\ref{mu.eqm},\ref{mu.eqms}). This leads to
+a generalized eigenvalue problem with $\omega_h$ as the eigenvalue.
+The characteristic polynomial can be solved because it is quadratic 
+in $\omega_h^2$ (for details see App.~\ref{APB}). The minimum of
+the neutral curve $\omega_{hNC}^{(N)}$ in leading order of $g$ is
+\begin{equation}
+  \omega_{hc}^{(N)}=g\omega\sqrt{1+\frac{\omega^2}{4\beta_N^2}}
+  \label{whcn}
+\end{equation}
+and takes place at $\omega_k^{(n)}=\omega/2+{\cal O}(g^2)$. 
+It can be shown that $\omega_{hc}^{(N)}<\omega_{hc}^{(N+1)}$.
+Thus the dipolar mode (i.e., $N=0$) causes the instability. This
+result is consistent with the bulk calculation which
+leads to an instability of spin waves propagating
+perpendicular to the static field \cite{dam.63}.
+
+The numerical approach to calculate the neutral curve is based on an
+extension of the approximations (\ref{mu.appr}) and
+(\ref{mu.appr.t}). We make the ansatz
+\begin{equation}
+  \left(\begin{array}{c}\mu\\\mu^*\end{array}\right)=
+   \sum_{n=0}^N\sum_{l=1}^{2L}\left(\begin{array}{c}\mu_{2l-2L-1,n}\\
+      \mu^*_{2l-2L-1,n}\end{array}\right)e^{i(l-L-1/2)\omega t}
+   \cos(n\pi z).
+  \label{mu.G.an}
+\end{equation}
+The exact solution of (\ref{mu.eq}) fits also into this ansatz but
+with $N=L=\infty$. Thus $L$ and $N$ define numerical cutoffs in $t$
+and $z$, respectively, and (\ref{mu.G.an}) is therefore a Galerkin
+ansatz\cite{man.90}. Again $\psi$ is eliminated by (\ref{psi.eq}). 
+After projecting (\ref{mu.eqm},\ref{mu.eqms}) onto $e^{i(l-L)\omega
+t}\cos (n\pi z)$ we get a homogeneous system of $4L(N+1)$ linear
+algebraic equations for $4L(N+1)$ unknown coefficients
+$\mu_{2l-2L-1,n}$ and $\mu^*_{2l-2L-1,n}$. Because (\ref{mu.eq}) is
+linear in $\omega_h$, it is a generalized linear eigensystem where
+$\omega_h$ is the eigenvalue.  The characteristic polynomial is a
+polynomial of order $2L(N+1)$ in $\omega_h^2$ because of symmetry. The
+neutral curve $\omega_{hNC}$ is given by the smallest positive
+solution of this polynomial. I have solved this generalized eigensystem
+with a standard routine from the EISPACK subroutine package. It also
+yields the eigensolution $(\mu,\mu^*,\psi)$ which is the starting
+point for the derivation of the amplitude equations in section
+\ref{DLEQ}.
+
+Fig.~\ref{f.nc} depicts several numerically obtained neutral curves. 
+Each relative minimum is related to the first-order
+parametric resonance of a particular mode. For decreasing damping $g$
+the minima get closer to zero and become sharper. The distance to
+zero (i.e., the threshold) scales like $g$ whereas the curvature
+scales like $1/g^2$. 
+
+The $\omega$-dependence of the relative minima of the neutral curve 
+is shown in Fig.~\ref{f.thresh}. The left-hand part of the figure
+looks almost identical to Fig.~\ref{f.modes}(a) because the deviation
+from the parametric resonance condition $\omega=2\omega_k$ is of
+order $g^2$.  The right hand part of Fig.~\ref{f.thresh} shows the
+thresholds. The analytically obtained approximations are 
+remarkable good except near the hybridization area. Here the
+threshold increases strongly. Therefore another mode becomes the
+most unstable one (usually the mode number one). 
+The width of the interval in $\omega$ where
+this is the case is roughly {\em independent\/} of the damping
+constant $g$ (see Fig.~\ref{f.thresh}). At those values of $\omega$
+where $k_c$ switches from one mode to another a competition takes
+place between two different instabilities. Such a point is called a
+{\em co-dimension 2\/} point because it is defined by two
+parameters of the system (here $\omega_h$ and $\omega$). All this
+does not happen when the damping constant $g$ is too large or the
+coupling strength of the hybridized modes too low. There will be no
+co-dimension-2 bifurcation either due to the competition between the
+hybridized modes or between an additional mode. For example, the
+hybridization between the dipolar mode and the second exchange mode
+in Fig.~\ref{f.modes}(b) is too weak in order to change the
+qualitative behavior near this point. There is only a very small and
+tiny peak in the threshold $\omega_{hc}(\omega)$.
+
+In the next section we derive the system of amplitude equations
+governing the dynamics of the amplitude of the most unstable modes.
+We do this only for the dipolar modes which are the most unstable
+modes outside of  hybridization regions. The case near hybridization
+points will be treated separately in a forthcoming paper.
+
+
+\section{\protect\label{DLEQ}Derivation of the system of amplitude
+equations}
+
+In this section we describe in some detail how amplitude
+equations can be derived in principle and how it is done numerically. 
+
+The basic equations of motion (\ref{LLeqP},\ref{PoiP}) and 
+the boundary conditions (\ref{bcP}) can be written symbolic form as
+\begin{equation}
+  F({\bf u},\omega_h)=0\quad\mbox{and}\quad B({\bf u})=0,
+  \label{eqm}
+\end{equation}
+respectively, where of the pump field $\omega_h$ is the
+{\em control parameter\/}, and
+\begin{equation}
+  {\bf u}({\bf r},t)\equiv\left(\begin{array}{c}m({\bf r},t)\\m^*(
+   {\bf r},t)\\\phi_M({\bf r},t)\end{array}\right)
+  \label{OP} 
+\end{equation} 
+is the {\em order parameter\/} which contains the magnetization
+described by $m$ and $m^*$ and the magnetostatic potential $\phi_M$.
+
+From the previous section we know that the ground state (\ref{triv})
+becomes unstable at $\omega_h=\omega_{hc}$. Above the instability
+threshold the {\em amplitudes\/} of the modes responsible for the
+instability increase exponentially. The nonlinearities of the
+equations of motion may eventually stop this growth. From bifurcation
+theory it is expected that for $\omega_h\to\omega_{hc}$ the values of
+the saturated amplitudes go to zero\cite{rem5}. In order to calculate
+nontrivial solutions it is therefore natural to use a perturbation
+theory with $\omega_h-\omega_{hc}$ as the smallness parameter.
+The perturbation theory we use is a {\em multiple-scale perturbation 
+theory\/} \cite{man.90,nay.73}. Instead of $\omega_h-\omega_{hc}$ it
+is more convenient to introduce a formal smallness parameter $\eta$ 
+which loosely speaking is proportional to the amplitudes and which
+will be set to one after the calculation. The order parameter as well
+as the control parameter are expanded into power series of $\eta$:
+\begin{mathletters}\label{hu.pow}
+\begin{eqnarray}
+ \omega_h&=&\omega_{hNC}(k)+\omega_{h1}\eta+\omega_{h2}\eta^2+
+   {\cal O}(\eta^3), \label{h.pow}\\
+ {\bf u}&=&{\bf u}^T+{\bf u}_1\eta+{\bf u}_2\eta^2+{\cal O}(\eta^3),
+   \label{u.pow}
+\end{eqnarray}
+\end{mathletters}
+where ${\bf u}^T$ denotes the ground state (\ref{triv}). 
+A multiple-scale perturbation theory assumes that the amplitudes of
+the destabilized modes vary slowly in time. It leads to a system of 
+equations of motion for these amplitudes called {\em
+amplitude equations\/} or {\em Landau equations\/}. The latter name
+comes from the similarity to Landau's phenomenological theory of phase
+transition. In the language of bifurcation theory these equations are
+normal forms.
+
+We have expanded $\omega_h$ around $\omega_{hNC}(k)$ (i.e., the
+neutral curve at an arbitrary value of $k$) instead of $\omega_{hc}$
+which is only a special case (i.e., the minimum of the neutral
+curve). This means that we calculate the bifurcation of a spatially
+periodic solutions from an arbitrary point on the neutral curve.
+After that we will restrict ourselves to the physical relevant case
+$k=k_c$ (i.e., the absolute minimum of the neutral curve).
+
+Inserting the expansion(\ref{hu.pow}) into the equation of motion
+(\ref{eqm}) and sorting out powers of $\eta$ we get a hierarchy of
+linear equations and linear boundary conditions:
+\begin{equation}
+  {\cal L}[{\bf u}_n]={\bf f}_n,\ {\cal K}[{\bf u}_n]={\bf b}_n
+  \quad\mbox{for}\quad n=1,2,\ldots,
+  \label{eqm.n}
+\end{equation}
+with ${\bf f}_1={\bf b}_1=0$. The operators $\cal L$ and $\cal K$ are
+defined by the linearized equation of motion (\ref{linEq}) for 
+$\omega_h=\omega_{hNC}$ and by the boundary conditions (\ref{bcP}),
+respectively.  The inhomogeneities ${\bf f}_n$ and ${\bf b}_n$ depend
+on the solutions ${\bf u}^T$, ${\bf u}_1,\ldots,{\bf u}_{n-1}$. Here
+${\bf b}_n\equiv 0$ because the boundary conditions (\ref{bcP}) are
+linear. In the case of (partially) pinned surface spins, the boundary
+conditions is nonlinear and ${\bf b}_n\not=0$.
+
+Since the first equation in this hierarchy is (\ref{linEq}), the
+general solution is a linear combination of wave solutions
+(\ref{lin.sol}) propagating in different directions
+\begin{equation}
+  {\bf u}_1({\bf r},t)=\left(\begin{array}{c}\sum\limits_je^{i
+   \alpha_j}\left[A_j({T_{{n}}})e^{i{\bf k}_j{\bf r}}+\mbox{c.c.}
+   \right]\mu(z,t)\\\sum\limits_je^{-i\alpha_j}\left[A_j({T_{{n}}})
+   e^{i{\bf k}_j{\bf r}}+\mbox{c.c.}\right]\mu^*(z,t)\\\frac{2}{k}
+   \sum\limits_j\left[iA_j({T_{{n}}})e^{i{\bf k}_j{\bf r}}+
+   \mbox{c.c.}\right]\psi(z,t)\end{array}\right),
+  \label{u1}
+\end{equation}
+where 
+\begin{eqnarray}
+  {\bf k}_j&=&k\,(\cos\alpha_j\cdot{\bf e}_x+\sin\alpha_j\cdot{
+   \bf e}_y),\label{u1.k}\\T_n&=&\eta^nt,\quad n=1,2,\ldots,
+  \label{u1.T}
+\end{eqnarray}
+and where $\mu$, $\mu^*$, and $\psi$ are solutions of (\ref{mu.eq})
+for $\lambda=0$ and $\omega_h=\omega_{hNC}(k)$. Note, that the
+amplitudes of counter-propagating waves cannot be chosen
+arbitrarily because the magnetostatic potential (i.e., the third
+component of ${\bf u}$) has to be real. The solution (\ref{u1})
+excludes all waves which are either damped or growing on a time scale
+of order $\eta^0$. In the language of bifurcation theory this means
+that we only want to know what happens on the center manifold.
+
+The amplitudes $A_j$ are assumed to depend slowly on time. This is 
+described by several time scales which are proportional to inverse
+powers of the smallness parameter $\eta$. The slow time dependence is
+formally established by introducing new independent time variables
+$T_n$ and by the replacement
+\begin{equation}
+  \partial_t\to\partial_t+\sum\limits_{n=1}^\infty\eta^n\partial
+   _{T_n}.
+  \label{dt}
+\end{equation}
+This leads to additional terms in the inhomogeneities ${\bf f}_n$ 
+which are proportional to time derivatives on slow scales.
+
+In order to get nontrivial solutions of (\ref{eqm.n}) the
+inhomogeneities have to fulfill a solvability condition because $\cal
+L$ is a singular operator. For that reason we introduce the scalar
+product
+\begin{equation}
+  \langle{\bf u}_a|{\bf u}_b\rangle=\int\!\!\int(m_am_b+m_a^*m_b^*
+   +\phi_a\phi_b)d^3r\,dt.
+  \label{sp}
+\end{equation}
+We define a adjoint operator ${\cal L}^\dagger$ by $\langle{\bf u}_a|
+{\cal L}{\bf u}_b\rangle\equiv \langle{\cal L}^\dagger{\bf u}_a|{\bf
+u}_b\rangle$.  The boundary condition ${\cal K}{\bf u}=0$ is in our
+case self-adjoint.  The solutions ${\bf u}^\dagger$ of the adjoint
+problem can be obtained from the solution (\ref{lin.sol}) of the
+orginal problem by the transformation
+$(y,t,m)\to\bigl(-y,-t,(g-i)m/2\bigr)$, i.e.,
+\begin{equation}
+  {\bf u}_j^\dagger({\bf r},t)=\left(\begin{array}{c}
+  {\displaystyle e^{-i\alpha_j}\mu(z,-t)\over\displaystyle i-g}\\
+  {\displaystyle e^{i\alpha_j}\mu^*(z,-t)\over\displaystyle -i-g}\\
+  {\displaystyle i\psi(z,-t)\over\displaystyle k}\end{array}\right)
+  e^{-i{\bf k}_j{\bf r}}.
+  \label{u.adj}
+\end{equation}
+The solvability conditions read
+\begin{equation}
+  \langle{\bf u}^\dagger|{\bf f}_n\rangle=0,\quad n=2,3,\ldots.
+  \label{solv.con}
+\end{equation}
+It means that {\em resonant terms\/} should be zero. The
+inhomogeneities are build up from superpositions of terms of the form
+$c(z,t)\exp(i\sum_{\nu=1}^n{\bf k}_{j_\nu}{\bf r})$. A term is
+resonant if $\left|\sum_{\nu=1}^n{\bf k}_{j_\nu}\right|=k$.
+
+All inhomogeneities have two terms which are linear in the amplitudes
+$A_j$
+\begin{eqnarray*}
+  {\bf f}_{n+1}&=&\omega_{hn}\cos\omega t\left(\begin{array}{c}(i-g)
+   m_1\\(-i-g)m_1^*\\0\end{array}\right)\\&&-\partial_{T_n}\left(
+   \begin{array}{c}m_1\\m_1^*\\0\end{array}\right)+{\cal O}(A^2),
+   \quad n=1,2,\ldots.
+\end{eqnarray*}
+After the projection onto ${\bf u}_j^\dagger$ we get
+\begin{equation}
+  S_t\partial_{T_n}A_j=\omega_{hn}S_hA_j+{\cal O}(A^2)
+  \label{dAn}
+\end{equation}
+with
+\begin{equation}
+  S_t=\int\limits_0^1\int\limits_0^{2\pi/\omega}\left(\frac{\mu(z,-t)
+   \mu(z,t)}{i-g}+\mbox{c.c.}\right)\,dt\,dz
+  \label{St}
+\end{equation}
+and
+\begin{equation}
+  S_h=\int\limits_0^1\int\limits_0^{2\pi/\omega}[\mu(z,-t)\mu(z,t)
+   \cos\omega t+\mbox{c.c.}]\,dt\,dz.
+  \label{Sh}
+\end{equation}
+Because of (\ref{dt}) and (\ref{h.pow}) the sum over all equations 
+(\ref{dAn}) multiplied by $\eta^n$ yields 
+\begin{equation}
+  S_t\dot{A}_j=(\omega_h-\omega_{hNC})S_hA_j+{\cal O}(A^2).
+  \label{gen.L.eq.nonk}
+\end{equation}
+It is convenient to introduce the dimensionless control parameter:
+\begin{equation}
+  \epsilon\equiv\frac{\omega_h-\omega_{hNC}}{\omega_{hNC}}=
+   \frac{h-h_{NC}}{h_{NC}}.
+  \label{rel.com}
+\end{equation}
+It is negative (positive) below (above) the threshold.
+After dividing (\ref{gen.L.eq.nonk}) by $\omega_{hNC}S_h$ we get the
+linear part of the amplitude equations
+\begin{equation}
+  \tau_0\dot{A}_j=\epsilon A_j+{\cal O}(A^2),
+  \label{gen.L.eq}
+\end{equation}
+with 
+\begin{equation}
+  \tau_0=\frac{S_t}{\omega_{hNC}S_h}.
+  \label{tau}
+\end{equation}
+The characteristic time scale of the dynamics of the spin-wave
+amplitudes are given by $\tau_0/\epsilon$. It diverges at the
+threshold because of $\epsilon\to 0$. This is the well-known critical
+slowing-down at non-equilibrium phase transitions. For the
+approximation introduced in Sec.~\ref{INST} we can calculate
+$\tau_0$ analytically. Using the results from Appendix~\ref{APB} we
+get for the dipolar mode
+\begin{equation}
+  \tau_0=\frac{1}{\alpha_0g}+{\cal O}(g^0),
+  \label{tau.exp}
+\end{equation}
+where $\alpha_0$ is defined by (\ref{alpha}). Thus the time scale is,
+as expected, proportional to the inverse of the damping constant $g$.
+
+In order to get the nonlinear terms of (\ref{gen.L.eq}) we first look
+at the quadratic term of ${\bf f}_2$. It reads
+\begin{equation}
+   -\left(\begin{array}{c}
+   (i-g)m_1\partial_z\phi_1\\(-i-g)m_1^*\partial_z\phi_1\\
+   2\partial_z[|m_1|^2B(z)]\end{array}\right),
+  \label{f2}
+\end{equation}
+where $B(z)$ is the box function (\ref{Box}).  The projection of this
+term onto the adjoint solution (\ref{u.adj}) leads to the quadratic
+term in (\ref{gen.L.eq}). From Sec.~\ref{INST} we know that the modes
+are either even or odd in the $z$-direction.  Therefore (\ref{f2}) is
+always odd. From this it follows that {\em the quadratic term in the
+amplitude equations is absent for even modes\/} because the adjoint
+mode is also even and the projection is therefore zero. 
+
+Usually a quadratic term is absent since the most unstable mode is
+the dipolar mode which is even. Only near hybridization points where
+an odd mode becomes the most unstable one we get a quadratic term.
+The dipolar mode is even because we have assumed that the sample is
+symmetric under reflection at the plane $z=1/2$. In a real sample
+this symmetry is often broken because the film is usually mounted on
+a substrate which may have a different permeability than the air
+above the film. Furthermore the substrate may change the boundary
+conditions for the magnetization. In the following we assume
+that the quadratic term is absent. The more general case will be
+treated in a forthcoming paper.
+
+In order to calculate ${\bf f}_3$ we need the solution of
+(\ref{eqm.n}) for $n=2$. A general solution is the sum of a
+particular solution and a solution of the homogeneous equation.
+The relevant part of the latter one
+(i.e., the part on the center manifold) is 
+(\ref{u1}) where the amplitudes $A_j$ are replaced by some other
+amplitudes. We omit this part because it leads only to a
+renormalisation of the amplitudes $A_j$. From the quadratic part
+(\ref{f2}) of the inhomogeneity ${\bf f}_2$ we get terms like ${\bf
+c}(z,t)A_jA_{j'}\exp[i({\bf k}_j+{\bf k}_{j'}){\bf r}]$ which lead to 
+similar terms in the solution ${\bf u}_2$. Actually the
+inhomogeneous version of (\ref{mu.eq}) should be solved for
+$\lambda=0$ and $k=|{\bf k}_j+ {\bf k}_{j'}|$. We do this numerically
+by the Galerkin ansatz (\ref{mu.G.an}) where $\psi$ has been
+eliminated by (\ref{psi.eq}). The nonlinear terms in ${\bf f}_3$ have
+the same parity as the adjoint solution ${\bf u}_j^\dagger$. Thus the
+solvability condition leads always to a nonzero third-order term in
+the amplitude equations (\ref{gen.L.eq}).
+
+What it is general structure of this third-order term? We can answer 
+this question by looking at the possible resonances of ${\bf f}_3$
+for $k_j$. Since the nonlinear terms of ${\bf f}_3$ are of the form
+${\bf c}(z,t)A_j A_{j'}A_{j''}\exp[i({\bf k}_j+{\bf k}_{j'}+{\bf
+k}_{j''}){\bf r}]$, nine different combinations are possible (see
+Fig.~\ref{f.res}). Note that the amplitude which belongs to $-{\bf
+k}_j$ is $A_j^*$. Three combinations lead to a term of the form
+$|A_j|^2A_j$ whereas six combinations lead to a term of the form
+$|A_{j'}|^2A_j$ with $j'\not=j$. Thus the amplitude equations up to
+third order read
+\begin{eqnarray}
+  \tau_0\dot{A}_j&=&\epsilon A_j-c\left[|A_j|^2+\sum\limits_{j'\not=
+   j}a(\alpha_j-\alpha_{j'})|A_{j'}|^2\right]A_j.
+  \label{L.eq.3}
+\end{eqnarray}
+It can be shown that the coefficients of the nonlinear terms are real. 
+The {\em coupling function\/} $a(\alpha)$ has the following properties
+\begin{equation}
+  a(\alpha\to 0)=2,\quad a(\alpha+\pi)=a(\alpha),\quad a(-\alpha)
+   \not=a(\alpha).
+  \label{a.prop}
+\end{equation}
+The first property is caused by the fact that, e.g., the resonances
+$(j',j,-j')$ and $(j,j',-j')$ give the same contributions as
+$(j,j,-j)$ if ${\bf k}_{j'}\to{\bf k}_j$ (see Fig.~\ref{f.res}). The
+rotational symmetry is responsible for the second property
+\cite{rem6}. The last property is caused by the fact that the {\em
+dipolar\/} field strongly breaks the reflection symmetry at any plane
+perpendicular to the film plane. 
+
+The broken reflection symmetry has strong consequences. In order to
+see this we assume for a moment that it is not broken which yields an
+even coupling function $a(\alpha)$. In this case the system of
+amplitude equations (\ref{L.eq.3}) can be written in a variational
+form
+\begin{equation}
+  \tau_0\dot{A}_j=-\frac{\partial L}{\partial A_j^*},
+  \label{L.eq.var}
+\end{equation}
+where
+\begin{equation}
+  L=\sum\limits_j\Bigl[-\epsilon|A_j|^2+\frac{c}{2}|A_j|^4+\frac{c}
+   {2}\sum\limits_{j'\not=j}a(\alpha_j-\alpha_j')|A_{j'}A_j|^2\Bigr]
+  \label{L.fct}
+\end{equation}
+is a real function called {\em Lyapunov function\/}. It corresponds
+to the free energy in Landau's phenomenological theory of phase
+transitions. It {\em decreases monotonically\/} in time if the
+amplitudes are solutions of (\ref{L.eq.var}). Thus limit cycles or
+irregular oscillations are not possible for $t\to\infty$. In systems
+like the Faraday instability or the Rayleigh-B\'enard convection
+where the reflection symmetry is not broken, Eq.~(\ref{L.eq.var})
+describes therefore only stationary attractors. In our case the
+reflection symmetry is broken, and the coupling function is not even.
+In fact the odd part of $a(\alpha)$ (i.e.,
+$[a(\alpha)+a(-\alpha)]/2$) is usually quite large (see
+Fig.~\ref{f.aa}). A Lyapunov function does not exist. Therefore limit
+cycles or even chaotic motions are possible at the onset of the main
+instability. In Sec.~\ref{TEMP} we will see that this is indeed the
+case.
+
+The calculation of $\tau_0$, $b$, $c$, and $a(\alpha)$ is in general 
+possible only numerically. The algorithm I have used is based on the 
+fact that all functions which are involved in the calculation 
+have the general form
+\begin{eqnarray}
+  F({\bf r},t)&=&\sum_jA_+^{n_j^+}A_-^{n_j^-}c_j\exp\Bigl[
+   i(n_j^+{\bf k}_+{\bf r}+n_j^-{\bf k}_-{\bf r}+\nonumber\\
+  &&+n_j^z\pi z+n_j^t\frac{\omega}{2}t)+n_j^\phi|n_j^+{\bf k}_+
+  +n_j^-{\bf k}_-|z\Bigr],
+  \label{data.s}
+\end{eqnarray}
+where ${\bf k}_\pm=k\left(\cos\frac{\alpha}{2}\cdot{\bf e}_x\pm\sin
+\frac{\alpha}{2}\cdot{\bf e}_y\right)$, all $n$'s are integer, 
+$c_j$ is a complex number, and 
+$A_\pm^{-n}\equiv\left(-A_\pm^*\right)^n$. The terms with
+$n_j^\phi\not=0$ are necessary to describe parts of the magnetostatic
+potential which are obtained from exact integration 
+(\ref{psi.eq}). It is easy to write subroutines for such an
+integration and other operations (multiplication, addition, scalar
+product, etc.) in the function space defined by (\ref{data.s}). In
+order to construct the solution ${\bf u}_2$ four linear algebraic
+equations have to be solved which I have done by using a standard
+routine from the LINPACK subroutine package.
+
+Of special importance is the coupling function $a(\alpha)$. As we
+will see in the next section, the functional dependence of $a$ on
+$\alpha$ tells us which patterns exist and which of them are
+stable. In the limit $k_c\to 0$ we can derive the functional form of
+$a$ analytically because the dipolar mode becomes
+uniform in $z$-direction (see appendix~\ref{APC}):
+\begin{equation}
+  a(\alpha)=\frac{4}{3}+\frac{2}{3}\cos 2\alpha+a_s\sin 2\alpha,
+  \label{a.lim}
+\end{equation}
+where $a_s$ is given by (\ref{a3.as}). It can be calculated in
+general only numerically. But for $g\to 0$ it is possible to do 
+this analytically because the Galerkin ansatz (\ref{mu.G.an}) 
+for $L=1$ becomes exact. We get 
+\begin{equation}
+  a_s=\frac{k_c}{3\omega g}.
+  \label{as}
+\end{equation}
+Thus, in leading order of $g$ the coupling function is an odd
+function which reflects the strongly broken reflection symmetry.
+Nevertheless the even part of the coupling function, although of
+higher order, will be important for the saturation of the amplitude
+of the unstable spin waves.
+
+Figure~\ref{f.aa} shows a comparison between analytic and
+numerical results for small values of $k_c$. The even part of
+$a(\alpha)$ is quite well approximated by $(4+2\cos 2\alpha)/3$. The
+error is not larger than one percent and is independent of $g$.
+The deviations in the odd part of the coupling function are at least
+by a factor of ten larger, and they strongly depend on $g$. 
+
+The next order of the amplitude equations can be calculated in
+principle, 
+but it would be an extremely tedious task to do that.  This is
+especially true for even modes where the next term is of fifth order
+because the fourth order term is absent for the same reason as for
+the quadratic term (i.e., ${\bf f}_4$ is always odd in $z$).
+
+Higher-order terms are important if $c$ (i.e., the overall strength 
+of the third order terms) becomes small or negative. Numerical
+calculations show that $c$ changes its sign near the minima of the
+neutral curve (see Fig.~\ref{f.nc}). At the minimum $c$ is always
+positive except near hybridization points. But the point on the
+neutral curve where $c$ is equal to zero approaches the minimum for
+$g\to 0$. This behavior is typical for parametric resonance because
+the resonance frequency usually depends on the amplitude which leads
+to a foldover of the resonance line \cite{lan.60}. In our case the
+demagnetizing field is responsible for this frequency detuning
+\cite{rem7}.
+
+
+\section{\protect\label{SSLEQ}Stationary solutions of the amplitude
+equations}
+
+In this section we investigate stationary patterns of (\ref{L.eq.3}) 
+and their stability. The general stationary pattern, called $N$-wave
+pattern, is built up from $N$ different standing waves, i.e., $N$
+amplitudes $A_j$ are unequal zero whereas the rest is zero. 
+
+It is more convenient to replace the amplitudes in (\ref{L.eq.3}) by
+\begin{equation}
+  A_j=R_je^{i\chi_j},
+  \label{ARX}
+\end{equation}
+which leads to
+\begin{eqnarray}
+  \tau_0\dot{R}_j&=&\epsilon R_j-c\left[R_j^2+\sum\limits_{j'\not=j}
+   a(\alpha_j-\alpha_{j'})R_{j'}^2\right]R_j,\label{dR}\\
+  \tau_0R_j\dot{\chi}_j&=&0.
+  \label{dChi}
+\end{eqnarray}
+Thus $\chi_j=const$ for all waves. Two linear combinations of
+$\chi_j$ are related to the translation symmetry in the $(x,y)$ plane.
+Assuming $\epsilon,c>0$ and introducing the scaling
+\begin{equation}
+  t\to\frac{\tau_0}{2\epsilon}\,t,\quad\mbox{and}\quad
+   P_j=\frac{c}{\epsilon}R_j^2
+  \label{b0.scale}
+\end{equation}
+we get 
+\begin{equation}
+  \dot{P}_j=\left[1-P_j-\sum\limits_{j'\not=j}a(\alpha_j-\alpha_{j'})
+   P_{j'}\right]P_j.
+  \label{dP}
+\end{equation}
+Equation (\ref{dP}) does not contain the
+control parameter $\epsilon$ any more. This fact has the important
+consequence that {\em the dynamical behavior of the solutions is
+independent of the strength of the control parameter\/}. The control
+parameter only determines the time scale on which the dynamics
+happens. Thus it is not possible to describe secondary instabilities
+in the framework of a third-order amplitude equations without
+quadratic terms. The dynamics is only determined by the coupling
+function $a(\alpha)$.
+
+For a given set of angles $\{\alpha_1,\ldots,\alpha_N\}$ the 
+stationary $N$-wave pattern is uniquely given because it is
+determined by a system of linear algebraic equations. But the
+solution does not make sense for all possible angles because all
+$P_j$'s have to be positive.  Nevertheless solutions exist for a
+finite number of connected subsets in the angle space.
+
+In order to investigate the stability of the stationary solutions we
+linearize (\ref{dP}) around the solution. This leads to an equation
+of motion for small perturbations $\delta P_j$ which can be solved by
+the ansatz $\delta P_j=C_je^{\lambda t}$. We get an eigenvalue
+problem which separates into the nontrivial case
+\begin{equation}
+  (P_j+\lambda)C_j+P_j\sum\limits_{j'\not=j}
+   a(\alpha_j-\alpha_{j'})C_{j'}=0,\ \ j=1,\ldots,N,
+  \label{instab}
+\end{equation}
+and into infinitely many trivial cases where we immediately get
+\begin{equation}
+  \lambda(\alpha)=1-\sum\limits_{j=1}^Na(\alpha-\alpha_{j})P_{j},
+   \quad\alpha\not\in\{\alpha_1,\ldots,\alpha_N\}.
+  \label{exstab}
+\end{equation}
+We define two kinds of stability.
+\begin{description}
+\item[Internal stability:] 
+A pattern will be internally stable if the real parts of all
+eigenvalues $\lambda$ of the nontrivial case (\ref{instab}) are less
+than zero.  Thus a perturbation of the amplitudes which build the
+pattern decays to zero.
+\item[External stability:]
+A pattern will be externally stable if $\lambda(\alpha)$ defined by
+(\ref{exstab}) is less than zero for all $\alpha$. External stability
+means that the amplitudes which do not build the pattern do not grow.
+\end{description}
+A pattern is stable if it is externally as well as internally stable.
+If a pattern is externally unstable there will be at least one 
+interval of $\alpha$ for which $\lambda(\alpha)$ is positive. 
+Figure~\ref{f.lambda} shows $\lambda(\alpha)$ for several types of
+$N$-wave patterns. Using (\ref{dP}) and (\ref{a.prop}) we get 
+\begin{equation}
+  \lambda(\alpha\to\alpha_j)=-P_j.
+  \label{exstab0}
+\end{equation}
+Thus the pattern is externally stable against waves with angles from
+a finite interval around $\alpha_j$.
+
+In the following we calculate $N$-wave patterns and their stability
+for different values of $N$.
+
+\subsection{\protect\label{wave1}One-wave patterns}
+
+The simplest pattern is built up from a single standing wave, i.e.,
+$P_1=1$ and $P_{j\not=1}=0$. It is a stripe pattern similar to the
+roll pattern in Rayleigh-B\'enard convection. From (\ref{instab}) we
+find immediately that one-wave patterns are always internally stable 
+because $\lambda=-1$. They are externally stable if
+$\lambda(\alpha)=1-a(\alpha)<0$ for all $\alpha$. This is true only
+if the minimum of $a(\alpha)$ is larger than one. In the limit
+$k_c\to 0$ where the coupling function has the form (\ref{a.lim}),
+one-wave patterns are always unstable because $\lambda(\pi/2)=1/3>0$.
+In the general case where $a(\alpha)$ can be calculated only
+numerically, I have always found that the minimum of coupling
+functions is strongly negative (see e.g. Fig~\ref{f.aa}) due to the
+odd part of $a(\alpha)$. The angle of the fastest growing wave is
+roughly $45^\circ$ behind the stripe pattern (see e.g.
+Fig.~\ref{f.lambda}).
+
+This external instability of one-wave pattern is similar to the
+K\"uppers-Lortz instability in rotated Rayleigh-B\'enard convection
+\cite{kue.69}. This rotation breaks the reflection symmetry and
+leads therefore to an odd contribution for the coupling function
+$a(\alpha)$. But contrary to our situation the K\"uppers-Lortz
+instability can be controlled by the angular velocity. The odd part
+of the coupling function increases with the angular velocity. If a
+threshold is exceeded the roll pattern becomes unstable. The most
+unstable wave is roughly $60^\circ$ ahead the roll pattern.
+
+\subsection{\protect\label{wave2}Two-wave patterns}
+
+Two-wave patterns are built by two standing waves with amplitudes
+\begin{equation}
+  P_\pm=\frac{1-a(\pm\Delta\alpha)}{1-a(\Delta\alpha)\,a(-\Delta
+   \alpha)},   \quad\mbox{with}\quad\Delta\alpha=\alpha_+-\alpha_-.
+  \label{2wave}
+\end{equation}
+Since $P_\pm$ should be positive two-wave patterns exist only if
+either $a(\pm\Delta\alpha)<1$ and $a(\Delta\alpha)\,
+a(-\Delta\alpha)<1$ or $a(\pm\Delta\alpha)>1$. Thus they should
+always exist for $\Delta\alpha$ near zero because $a(0)=2$. For small
+values of the damping constant $g$ the odd part of the coupling
+function $a$ becomes very large. Therefore the signs of
+$a(\pm\Delta\alpha)-1$ are always different except for $\Delta\alpha$
+near zero and near $\pi/2$. Because the odd part of $a$ scales like
+$1/g$ the width of the interval of existence scales like $g$.
+Two-wave patterns around $\pi/2$ (i.e., squares) exist if
+$a(\pi/2)+1>0$ which is the case for $k_c\to 0$ since (\ref{a.lim})
+holds. Nothing changes qualitatively in the general case where the
+coupling function can be calculated only numerically.
+
+The analysis of the eigenvalue problem (\ref{instab}) leads to 
+the condition for internal stability which reads $a(\Delta\alpha)\, 
+a(-\Delta\alpha)<1$. Thus patterns for $\Delta\alpha$ near zero are 
+always internally unstable. Squares are stable. This can be proved
+in the limit $k_c\to 0$ (see App.~\ref{APD}). This seems to be true 
+also in the general case.
+
+In order to study the external stability of square patterns 
+$\lambda(\alpha)$ defined by (\ref{exstab}) has to be calculated. In
+the limit $k_c\to 0$ square patterns are stable (see App.~\ref{APD}).
+But in the general case they become unstable if $k_c$ exceeds some
+threshold. An example is shown in Fig.~\ref{f.lambda}. 
+Figure~\ref{f.kcc} shows that the threshold monotonically increases
+with the strength $\omega_H$ of the static field. It is roughly
+independent of the exchange length $l$ which means that the
+instability is mainly caused by the dipolar interaction. On the other
+hand the threshold strongly depends on the damping constant $g$. It
+monotonically increases with $g$.
+
+Also stable rhombic patterns exist. But their interval of
+$\Delta\alpha$ is around $\pi/2$. Its width scales with the damping
+constant $g$ and is therefore very small. Thus stable rhombic
+patterns are practically indistinguishable from square patterns.
+Figure~\ref{f.pat}(a) shows how a square pattern looks like if it
+appears in an experiment where Faraday rotation is used for
+visualization.
+
+\subsection{\protect\label{wave3}Three-wave patterns}
+
+First we discuss regular three-wave patterns, i.e. hexagons. 
+Appendix~\ref{APD} shows that for $k_c\to 0$ they exist, they are
+externally stable, but they are internally only marginally stable.
+That is, an oscillating mode with frequency $a_s/2$ exists which 
+neither decays nor increases. From numerically calculated coupling
+functions I found that the correction terms to (\ref{a.lim}) are
+always such that hexagons are internally unstable contrary to what is
+stated in Ref.~\onlinecite{elm.93}\cite{rem8}. This is similar
+to what is found in a rotated Rayleigh-B\'enard system\cite{bus.80}.
+
+The general stationary three-wave pattern is defined by arbitrary
+angles $\alpha_j$. Since the $P_j$'s have to be positive, not all
+angles are allowed. In the limit $k_c\to 0$ and $g\to 0$ where the
+coupling function $a(\alpha)$ is given by (\ref{a.lim}) and where
+$a_s\to\infty$ the set of possible angles can be calculated
+analytically (see App.~\ref{APE}). It turns out that any combination 
+of angles has to be inside the region defined by 
+\begin{equation}
+  \alpha_2-\alpha_1,\alpha_3-\alpha_1<90^\circ<\alpha_3-\alpha_1.
+  \label{3w.bound}
+\end{equation}
+Due to permutation symmetry and periodicity of $a(\alpha)$ additional
+angles are allowed. All allowed angle combinations can be most easily
+visualized by cutting the circle with three lines into six pieces.
+The lines should go through the center of the circle. They represent
+three pairs of wave vectors like in Fig.~\ref{f.res}. The circle has
+to be cut in such a way that the angle of each wedge is less than
+$90^\circ$. For finite but large $a_s$ the allowed region is inside
+the triangle defined by (\ref{3w.bound}).  The distance of the border
+to an edge of the triangle is of order $1/a_s^2$ whereas in the
+corners it is of order $1/a_s$. In the general case where $k_c$ is
+arbitrary but $g$ still small the same region of allowed angles has
+been found numerically.
+
+Contrary to two-wave patterns where for small damping only squares 
+are allowed a whole variety of three-wave patterns are possible. There
+is densed set of periodic patterns. A pattern is periodic if integers
+$n_1$, $n_2$, and $n_3$ can be found with
+\begin{equation}
+  n_1{\bf k}_1+n_2{\bf k}_2+n_3{\bf k}_3=0
+  \label{regpat.c1}
+\end{equation}
+and with
+\begin{equation}
+  n_1^2<n_2^2+n_3^2,\quad\mbox{and cycl. perm.}
+  \label{regpat.c2}
+\end{equation}
+The last condition is a consequence of (\ref{3w.bound}). Hexagons 
+($n_1=n_2=n_3$) are periodic patterns with the smallest unit
+cell.  Quasiperiodic patterns are patterns for which
+(\ref{regpat.c1}) cannot be fulfilled for any set of integer. These
+are the generic three-wave patterns because the measure of periodic
+patterns is zero. In practice one cannot distinguish between periodic
+patterns with large unit cells and quasiperiodic patterns because of
+finite extension of the sample in lateral direction.  Examples of a
+periodic and a quasiperiodic three-wave pattern are shown in
+Fig.~\ref{f.pat}(b) and Fig.~\ref{f.pat}(c), respectively.
+
+All three-wave patterns are internally stable for $k_c\to 0$ and
+$g\to 0$ (see App.~\ref{APE}). But numerically hexagons are unstable
+in this limit as already mentioned above.  Figure~\ref{f.stab} shows
+the regions of internal and external stability for three different 
+values of $k_c$. We see that for small values of $k_c$ indeed all
+patterns are internally stable except around
+$\alpha_2-\alpha_1=\alpha_3-\alpha_2=60^\circ$. This instability
+region grows with increasing $k_c$. The region of external stability
+does not fill the whole existence triangle even in the limit $k_c\to
+0$ and $g\to 0$ (see also Fig.~1 in Ref.~\onlinecite{elm.93}). Thus
+there exist externally unstable patterns. The region of external
+stability shrinks with increasing $k_c$ and eventually disappears.
+Above a certain critical value of $k_c$ all possible three-wave
+patterns are either externally or internally unstable.
+Figure~\ref{f.kcc} shows that this threshold increases with the
+external static field $\omega_H$. The threshold is always larger than
+the threshold of square patterns. Again it is nearly independent of
+the exchange length $l$ and increases with the damping constant $g$.
+
+\subsection{\protect\label{waveN}$N$-wave patterns}
+
+Appendix~\ref{APD} shows that regular $N$-wave patterns are
+externally unstable if $N$ is larger than three. This is proved only
+in the limit $k_c\to 0$ where (\ref{a.lim}) holds but all numerically
+calculated coupling functions share this property. Furthermore, in
+numerical simulations of the system of amplitude equations
+(\ref{L.eq.3}) I have never found internally stable $N$-wave patterns
+with $N>3$.
+
+
+\section{\protect\label{TEMP}Temporal behavior of 
+   the amplitude equations}
+
+In the previous section we have seen that above threshold not only
+one stable stationary pattern is possible but large continuous
+families of patterns (squares and three-wave patterns). This
+multistability is very common in pattern formation\cite{cro.93} and 
+raises immediately the question {\em which pattern the system
+selects\/}. This question can be answered for thermal equilibrium
+systems where a free energy functional exists. This is also possible
+for some models of systems far from thermal equilibrium where a
+Lyapunov functional exists which plays the role of a free energy. The
+absolute minimum of the free energy or of the Lyapunov functional
+gives the ground state. All relative minima define metastable states.
+On a large time scale which is determined by the barrier height and
+the strength of thermal noise the system will eventually select the
+ground state. 
+
+In Sec.~\ref{DLEQ} we have seen that the system of amplitude
+equations (\ref{L.eq.3}) does not have a Lyapunov functional because 
+the coupling function $a(\alpha)$ is not even. Thus regular and
+irregular oscillations may occur which lead to a richer temporal
+behavior than usual where the coupling is symmetric. On the other
+hand the lack of a Lyapunov function makes it difficult to solve the
+problem of pattern selection. 
+
+In the previous section we have also seen that if $k_c$ exceeds some
+threshold, all stationary patterns are unstable. In that case we want
+to know the temporal behavior of the system of amplitude equations.
+
+Both questions can be attacked by numerical integration of the
+amplitude equations (\ref{dR}). By a rescaling similar to
+(\ref{b0.scale}) we can set formally $\tau_0=\epsilon=c=1$. I have
+done this integration for a set of $N$ equally distributed wave
+vectors (i.e., $\alpha_j=\pi j/N$) with $N=90$. The selected pattern
+may depend on the history of the system \cite{cro.93}. For that
+reason I have assumed that, like in most experiments, the pump field
+is suddenly tuned from below threshold to above threshold. This
+situation can be simulated by an initial condition with randomly
+chosen amplitudes with $0<R_j<0.01$. The dynamical behavior strongly
+depends on whether a noise term is added to the equations of motion
+or not.
+
+\subsection{\protect\label{WNOIS}Dynamics without noise}
+
+First I present the result of the simulations without noise.
+Figure~\ref{f.dyn} shows the typical behavior for three different
+values of $k_c$. Note that for each example the coupling function is
+the same as for the corresponding part of Fig.~\ref{f.stab}. For
+clarity, simulations with $N=36$ are shown instead of $N=90$, but the
+presented examples are typical for $N=90$.
+
+The behavior at the initial stage (roughly up to twenty time units)
+is the same for all coupling functions. This is most clearly seen in
+Fig.~\ref{f.dyn}(a) because the time scale is by a factor of ten
+smaller than in Fig.~\ref{f.dyn}(b) and (c).  At the beginning all
+amplitudes grow exponentially because the nonlinear terms in
+(\ref{dR}) are small. When the amplitudes are large enough the
+nonlinearities lead to an intermediate saturation. After that,
+competition takes place, and only three amplitudes survive whereas
+all other amplitudes die out exponentially. Note that in general the
+surviving amplitudes do not coincide with those which are initially
+the largest ones.  For example, at $t=0$ the three largest amplitudes
+in Fig.~\ref{f.dyn}(a) are $R_{16}$, $R_{30}$, and $R_{10}$ in that
+order. 
+
+After this initial stage of the dynamics, the further temporal
+behavior depends on the coupling function. In the case $k_c\to 0$
+there is a large probability that the initially selected three-wave
+pattern is stable like in the example shown in Fig.~\ref{f.dyn}(a).
+By repeating the numerical experiment I found that mostly three-wave 
+patterns are selected. They are presumably distributed equally over 
+the space of stable angle configurations. Squares occur very rarely
+because it is very unlikely that two amplitudes are selected with
+wave vectors forming an angle from the small stable interval around 
+$90^\circ$. Since the width of this interval scales with the damping 
+constant $g$, the probability for squares is presumably proportional 
+to $g$. Below we will see that in the presence of noise the situation
+is reversed and squares are much more probable than three-wave
+patterns.
+
+In Sec.~\ref{wave3} we have seen that the region of stable three-wave
+patterns decreases for increasing $k_c$ (see also Fig.~\ref{f.stab}).
+Thus the probability of the initially selected three-wave pattern to
+be stable also decreases. The typical behavior for that case is shown
+in Fig.~\ref{f.dyn}(b). At the beginning one of the large number of
+{\em internally stable\/} three-wave patterns [see
+Fig.~\ref{f.stab}(b)] will be selected. But because it is externally
+unstable, amplitudes which have died out after the initial growth
+become unstable again and grow. Contrary to the initial stage the
+growth rate now depends on the angle. It is given by
+$\lambda(\alpha)$ defined by (\ref{exstab}). The fastest growing
+amplitude eventually competes with the established amplitudes.  Since
+four-wave patterns are internally unstable this competition has 
+loosers which includes at least one of the established waves. Thus
+the system switches from one internally stable but externally
+unstable pattern to another one which is at least internally stable.
+Such a {\em pattern switching\/} is mathematically speaking a {\em
+heteroclinic orbit\/} between two internally stable patterns. 
+
+In order to understand this pattern switching, we first discuss as
+the simplest example a system of three amplitude equations 
+corresponding to three equally spaced angles. This system was first
+investigated in ecology where it is a model for the competition of
+three species\cite{may.75}. The internally stable solutions are
+one-wave patterns whereas the hexagon pattern is internally unstable.
+Starting with a slightly disturbed hexagon the solution winds outward
+on a spiral. It does not reach an ordinary limit cycle. Instead it
+approaches for $t\to\infty$ a sequence of heteroclinic orbits. Each
+of them is a switching from a one-wave pattern to another one-wave
+pattern rotated by $60^\circ$. Because the heteroclinic orbits are
+approached closer and closer, the waiting time between two switchings
+increases. This gives rise to an unusual type of limit cycle with a
+diverging period. Mathematically speaking this system of equations is
+structurally unstable which means that a tiny change in the equation
+of motion changes the behavior qualitatively. For example, the
+behavior is extremely sensitive to noise. Busse and Heikes have used
+the same system of amplitude equations for rotated Rayleigh-B\'enard
+convection above the K\"uppers-Lortz instability\cite{bus.80}. From
+this sensitivity on noise they conclude that weak turbulence occurs
+right at the onset of convection.
+
+The behavior of this simple system of three amplitude equations
+occurs qualitatively also in the general case. For example we clearly
+see in Fig.~\ref{f.dyn} an increase of the average waiting time. The
+situation is more complicated because there is a complex ``net'' of
+heteroclinic orbits which becomes denser and denser for an increasing
+number of amplitude equations. The nodes of this net are the
+internally stable $N$-wave patterns. Thus there are infinitely many.
+From each externally unstable node heteroclinic orbits start which
+end at other nodes. I never found heteroclinic orbits which do not
+end at internally stable patterns.  Patterns which are also
+externally stable are terminating nodes in this net. 
+
+Starting with some random initial condition the system relatively
+quickly approaches the net. After that it ``travels'' on it from node
+to node. Each transition corresponds to a pattern switching. At the
+beginning the journey is still influenced by the randomness of the
+initial condition. But for increasing time the transition from one
+node to another one becomes more and more predictable. The reason for
+that is twofold.  First, the angle-dependent growth rate
+$\lambda(\alpha)$ selects the fastest growing heteroclinic orbits.
+Second, the waiting time increases because the system approaches the
+heteroclinic orbits closer and closer.  Thus the amplitudes of
+externally stable angles $\alpha$ [i.e., $\lambda(\alpha)<0$] relax
+to extremely low values [e.g., at $t=1000$ all amplitudes in
+Fig.~\ref{f.dyn}(b) have values below $10^{-100}$ except the three
+amplitudes defining the pattern]. This increases the predictability
+of the selection process because near the maximum of 
+$\lambda(\alpha)$ the amplitudes have a Gaussian distribution, i.e.,
+\begin{equation}
+  R_j(T)\approx R_j(0)e^{\lambda_{max}T}\exp\left(\frac{
+   \lambda_{max}''T}{2}(\alpha_j-\alpha_{max})^2\right),
+  \label{r.dist}
+\end{equation}
+where the maximum and the curvature of the growth rate at
+$\alpha=\alpha_{max}$ is denoted by $\lambda_{max}>0$ and
+$\lambda_{max}''<0$, respectively, $T$ is the waiting time between
+two switchings, and the $R_j(0)$ are the values of the amplitudes
+after the last switch. We clearly see that the sharpness of the
+Gaussian distribution increases with $T$. For $T\to\infty$ the
+heteroclinic orbit is determined by $\alpha_{max}$. The dynamics on
+the net becomes {\em deterministic\/} because there is always one
+single maximum of $\lambda(\alpha)$ which defines a unique
+heteroclinic orbit. The only exceptions are externally unstable
+squares because they have two equally sized maxima [see
+Fig.~\ref{f.lambda}(b)]. Thus the values of the amplitudes at the
+angles of the maxima determine the heteroclinic orbit. I have found
+numerically that the heteroclinic orbit ends in a square if these
+amplitudes are of the same order. If a square pattern occurs the
+probability increases that the next switching will lead also to a
+square. 
+
+The dynamics can described by a map of the angle space of the
+internally stable three-wave pattern onto itself. Up to an arbitrary
+rotation three-wave patterns are characterized by angle differences.
+For example, one can use $\alpha_2-\alpha_1$ and $\alpha_3-\alpha_2$
+like in Fig.~\ref{f.stab}. Thus the map is two-dimensional. Not every
+internally stable three-wave pattern is mapped onto another
+internally stable three-wave pattern. There are three other
+possibilities. In each of them the dynamics is terminated in the sense
+that the trajectory on the net does not return to three-wave
+patterns. In the first case the pattern is externally stable. Thus a
+stable fixed point of the amplitude equations is reached. In the
+second case the pattern leads to a square. If squares are externally
+unstable, the system moves on the net from square to square. The
+motion is similar to the simple behavior of the system of three
+amplitude equation.  Thus we get a quasiperiodic motion. In the third
+case, the three-wave pattern leads to a one-wave pattern.  Looking at
+Fig.~\ref{f.lambda}(a) it is clear that a one-wave pattern leads to
+another one-wave pattern rotated by roughly $45^\circ$.
+
+I have numerically simulated this map. There are three steps. In a
+first step the pattern is calculated for a point in the plane 
+$(\alpha_2-\alpha_1,\alpha_3-\alpha_2)$ which belongs to an 
+internally stable three-wave pattern. In the second step the maximum
+of the growth rate $\lambda(\alpha)$ is searched. In the third step
+the amplitude equations are integrated numerically for a
+four-dimensional subspace defined by the amplitudes of the angles
+$\alpha_1\equiv 0$, $\alpha_2$, $\alpha_3$, and $\alpha_{max}$. For
+the initial value of $R_{max}$ a small number, say $0.01$, is chosen.
+This loop is repeated until one of the above-mentioned termination
+conditions is reached.
+
+For the coupling functions of Fig.~\ref{f.dyn}(b) and (c) I have
+often found very long transients (several hundred iterations) until
+the dynamics of the map is terminated. These transients are chaotic.
+I have seen this by looking at the distance between the trajectories
+of two slightly different initial conditions. The distance clearly
+increases roughly exponentially as long as it is much smaller than
+the possible maximum.
+
+\subsection{\protect\label{NOIS}Dynamics with noise}
+
+In this subsection we investigate the amplitude dynamics 
+in the presence of gaussian white noise, i.e.,
+\begin{equation}
+  \tau_0\dot{R}_j=\epsilon R_j-c\left[R_j^2+\sum\limits_{j'\not=j}
+   a(\alpha_j-\alpha_{j'})R_{j'}^2\right]R_j+\nu\xi_j(t)
+  \label{Lnoise}
+\end{equation}
+with
+\begin{equation}
+  \langle\xi_j(t)\rangle=0,\quad 
+   \langle\xi_j(t)\xi_{j'}(t')\rangle=\delta(t-t')\delta_{j,j'}.
+  \label{n.prop}
+\end{equation}
+
+In a system with a Lyapunov functional, noise is necessary to bring
+the system from a metastable state to the ground state. In our case
+where a Lyapunov potential does not exist, a qualitatively similar
+behavior may occur. That is, noise may drive the system into some
+preferred state. Therefore I have integrated (\ref{Lnoise}) for the
+coupling function of Fig.~\ref{f.stab}(a) where $k_c$ is small and
+the number of stable three-wave patterns is large. For
+$\nu<10^{-2}\sqrt{\epsilon^3/c}$ the system behaves qualitatively as
+in the deterministic case discussed in the previous subsection. For
+$\nu>10^{-2}\sqrt{\epsilon^3/c}$ the probability for squares
+increases. The reason for that is twofold. First, some of the squares
+are not genuine squares. They are rhombic forming an angle which is
+not from the small interval around $90^\circ$ mentioned in
+Sec.~\ref{wave2}. These rhombic patterns are noisy three-wave
+patterns located in the angle space near the boundary of existence
+[see Fig.~\ref{f.stab}(a)]. One of the amplitudes of such patterns is
+of the same order as the noise amplitude. In the simulation shown in 
+Fig.~\ref{f.dynn}(a) an example of a rhombic pattern appears for $t$
+between $600$ and $800$. One clearly sees that the averaged noise
+level for the amplitudes $R_1,\ldots,R_{18}$ is larger than for
+$R_{20},\ldots,R_{35}$. If we would switch off the noise, one of the
+amplitudes $R_1,\ldots,R_{18}$ would reach a nonzero value.  
+
+The second reason for a larger probability of squares is that
+sometimes a noise-induced pattern switching occurs which replaces the
+initial three-wave pattern by a three-wave pattern which is closer to
+the border of existence in the angle space. Thus noise drives the
+system in such a way that it prefers squares or rhombic patterns
+which are almost squares. Squares are more stable than rhombic
+patterns which are more stable than three-wave patterns. For
+$\nu>0.1\sqrt{\epsilon^3/c}$ even squares becomes unstable. In
+Fig.~\ref{f.dynn}(a) we clearly see squares and rhombic patterns
+which are followed by irregular noisy bursts where the noise is
+amplified.  After a burst there follows again a square or a rhombic
+pattern. Note that these pattern changes are different from the
+pattern switching discussed in the previous subsection. Here the
+patterns perform a random walk on the circle whereas in the case of
+pattern switching the pattern drifts in a well-defined direction.
+
+Nevertheless this drift is extremely sensitive to noise. In the
+previous subsection we have seen that the pattern-switching map
+becomes deterministic if the waiting time $T$ is large. From
+(\ref{r.dist}) we see that $T$ is related to the values of the
+amplitudes after the last switch. In the case of noise the amplitudes
+cannot decay on average below a level which is proportional to the
+noise amplitude.  Thus the averaged waiting time is proportional to
+the logarithm of the inverse noise amplitude. Pattern switching
+therefore disappears if the averaged waiting time is of the same
+order as the averaged switching time.
+
+Figure~\ref{f.dynn}(b) shows an example of a simulation with a noise
+level which is by orders of magnitude smaller than the noise level of
+the simulation shown in Fig.~\ref{f.dynn}(a). The coupling function
+is the same as for Fig.~\ref{f.dyn}(b). Again we see that the drift 
+caused by pattern switching and, as expected, the waiting time does
+not increase.  Squares are much more probable than in the noiseless
+case.  On the other hand there are noise-induced switchings from
+squares to three-wave patterns, a process which is very unlikely in
+the deterministic case.  The stable three-wave patterns are robust
+against that noise level.  It is not clear whether the behavior shown
+in Fig.~\ref{f.dynn}(b) is a transient or not. In simulations of the
+kind shown in Fig.~\ref{f.dynn}(b) I have never found a case in which
+the system selects a stable pattern. 
+
+Fig.~\ref{f.dynn}(c) shows a simulation for the same coupling
+function as for Fig.~\ref{f.dyn}(c) and Fig.~\ref{f.stab}(c). Here
+all stationary patterns are unstable. The noise level is the same as
+in Fig.~\ref{f.dynn}(b) but $\lambda_{max}$ is often larger. Thus in
+accordance with (\ref{r.dist}) the averaged waiting time is smaller.
+It is almost of the same order as the switching time. A careful
+inspection of Fig.~\ref{f.dynn}(c) shows that a fuzzy square drifts
+very fast clockwise around the circle. The anticlockwise rotation seen
+in Fig.~\ref{f.dynn}(c) is an optical illusion caused by the finite
+number of amplitudes.
+
+
+\section{\protect\label{CON}Conclusion}
+
+In this work a system of amplitude equations for the out-of-plane
+parallel pumping has been derived [eqs.~(\ref{L.eq.3})]. Internal
+anisotropy fields and surface pinning of spins have been neglected,
+but the dipolar field has been fully included. The dipolar field has
+two important consequences. (i) It is the main factor determining the
+most unstable mode. Corrections due to the exchange field are of
+second order. (ii) It gives rise to a strong odd contribution in the
+nonlinear coupling function $a(\alpha)$. In fact, without the dipolar
+field $a$ would be a constant plus a very small even term caused by
+the exchange interaction. 
+
+The coupling function has been calculated numerically and
+analytically. It determines the dynamical behavior of the system of
+amplitude equations. Squares and periodic as well as quasiperiodic 
+three-wave patterns are the only stable stationary patterns.
+Fig.~\ref{f.pat} shows how these pattern would look if visualized by
+Faraday rotation. These patterns become unstable if the critical wave
+number $k_c$ determined by the parametric resonance condition
+$\omega/2=\omega_k^{(0)}=\omega_H-1+k/2+{\cal O}(k^2)$ exceeds a
+threshold. Near and above this threshold the dynamics is
+characterized by pattern switching. That is, an internally stable
+pattern, e.g., a square, is switched off and at the same time another
+internally stable pattern is switched on. This process is extremely
+sensitive to noise and leads to noise-induced weak turbulence. 
+
+Quadratic terms in the amplitude equation are absent because the
+system is symmetric against reflection at the middle plane of the
+film. In a real film this symmetry is often broken.  Thus weak
+quadratic terms should be expected. Quadratic terms also appear near
+hybridization points where due to a strong coupling the threshold of
+the dipolar mode is increased to values which are above the threshold
+of the most unstable odd mode. Quadratic terms lead to hexagonal
+patterns and to secondary instabilities where these patterns become
+unstable \cite{cro.93}.
+
+What may be expected if crystal-field anisotropies and surface
+pinning are included in the theory? A uniaxial anisotropy which does 
+not destroy the rotational symmetry leaves the system of amplitude 
+equations unchanged. Only the coupling function is slightly modified
+but has still the properties (\ref{a.prop}). This is also the case
+for surface pinning. If the spins pin differently at the lower and
+the upper surface, quadratic terms should appear. Cubic anisotropies
+destroy the rotational symmetry.  There are two special cases. (i)
+The film surface is parallel to the $(1,0,0)$ plane. Only in this
+case the linearized equation of motion (\ref{linEq}) is not changed
+and {\em all\/} waves with an in-plane wave number $k_c$ become still
+unstable simultaneously. But the coupling no longer depends on the
+angle differences alone. This may lead to a preference of square
+patterns. (ii) The film surface is parallel to the $(1,1,1)$ plane.
+The number of amplitude equations reduces to three. The preferred
+pattern may be hexagonal.
+
+Amplitude equation are very successful in order to understand pattern
+formation in systems with strong dissipation. In the case of
+parametric resonance where the damping is relatively weak, amplitude
+equations may be not the optimal way to treat these system. This is
+due to the fact that the third-order terms of the amplitude equations
+at the minimum of the neutral curve are presumably of the same
+strength as the fifth-order terms. The calculation of the fifth-order
+terms is straightforward but extremely tedious. The $S$-theory does
+not have this problem because it is a multiple-scale expansion where
+the pump field is the expansion parameter. Thus the relative control
+parameter $\epsilon$ has not to be small. Only the threshold has to
+be small which implies small damping. But the main problem of the
+$S$-theory is that the damping is included only phenomenologically
+after the multiple-scale expansion of the undamped problem. It is an
+open question if it possible to get the linear and non-linear damping
+terms of the $S$-theory systematically.
+
+An experimentalist wants to know whether such patterns can be
+observed in a real experiment. In order to visualize them it is
+important to know how strongly a pattern changes the orientation of
+the polarization of the transmitted light. Faraday rotation at normal
+incidence measures the time-averaged $z$-component of the
+magnetization integrated over the film thickness.  Thus thicker films
+are better than thin films.  Because the deviation of ${\bf M}$ from
+$M_0{\bf e}_z$ will be small, the deviation of the polarization of
+the light from its orientation in the case of the undriven film is
+proportional to the square of the opening angle $\theta$ of the
+precession cone. For YIG films of a few $\mu m$ thickness precession
+cones with $\theta=5^\circ$ can be detected\cite{gna.87}. In leading
+order of the amplitudes, the precession angle $\theta$ is given by 
+\begin{equation}
+  \theta(x,y)=4\langle|\mu|\rangle_{t,z}\left|\sum_j e^{i\alpha_j}
+   R_j\cos({\bf k}_j{\bf r}+\chi_j)\right|,
+  \label{theta}
+\end{equation}
+where $\langle\cdot\rangle_{t,z}$ is the average with respect to $t$
+and $z$.  For regular periodic patterns the maximum of $\theta$ can
+be calculated. For small values of $k_c$ the maximum scales with the
+square root of $k_c\epsilon$. 
+
+In the Introduction I have already emphasized the important role of
+pattern visualization in order to understand the nonlinear behavior.
+Global information like the absorbed power is ambiguous. This is
+illustrated in Figs.~\ref{f.dyn} and \ref{f.dynn} where the the
+evolution of each amplitude is compared with the absorbed power which
+is proportional to the sum of the amplitudes squared. Sometimes it
+seems to be possible to identify from the absorbed power signal the 
+pattern. For example the absorption is stronger for squares than for
+three-wave patterns [see Fig.~\ref{f.dynn}(b)]. But this
+identification works only after a learning process where, first, some
+pattern has been identified and, second, a correlation between
+pattern and global information has been found. The same is true for
+other features of the dynamical process. For example, the absorbed
+power sharply decreases during a pattern switching process. A similar
+phenomenon occurs in Rayleigh-B\'enard convection during the
+appearance or disappearance of a defect where the Nusselt number
+which measures heat flow also sharply decreases\cite{cro.89}.
+
+We do not know which patterns and pattern dynamics lead to certain
+actually measured time behavior of the absorbed power. In the
+literature one often finds models which are simplifications like the
+Lorenz equation which is a simplification of Rayleigh-B\'enard
+convection. That is, a small number of modes are assumed to be the
+most relevant degrees of freedom. Even though the models are often
+based on the $S$-theory they are often not derived systematically.
+For example, the nonlinear coupling constants are not calculated.
+They are chosen in such a way that the nonlinear dynamics of the
+model fits at least qualitatively with the observed data. A
+systematic calculation of the coefficients would improve these
+models, but it would not help much because Lorenz-like models neglect
+often important degrees of freedom. From the theoretical point of
+view it is difficult to get them. It is relatively easy only near the
+main-pattern forming instability.
+
+I would like to strongly encourage experimentalists to perform
+experiments where the patterns caused by parametrically excited spin
+waves can be directly observed. This step is absolutely essential in
+order to make progress in the understanding of the nonlinear dynamics
+of high-power ferromagnetic resonance. Theoretical works like the
+present one hopefully lead to a strong motivation which is needed to
+overcome the experimental difficulties of visualization. 
+
+\section*{Acknowledgment}
+
+I gratefully acknowledge helpful discussions with H. Benner, W. Just,
+H. Riecke, G. and H. Sauermann. I especially thank H. Thomas for
+careful reading of the manuscript.  This work was finished during my
+stay at the Technische Hochschule Darmstadt. I thank H. Sauermann for
+his hospitality.  This work was supported by the Swiss National
+Science Foundation. A part of this work was performed within a
+program of the Sonderforschungbereich 185 Darmstadt-Frankfurt.
+
+
+\appendix
+
+\section{\protect\label{APA}Exact solutions of the linearized,
+undamped and undriven equation of motion}
+
+The linearized equations of motion (\ref{mu.eq}) without damping and 
+driving (i.e., $g=\omega_h=0$) reads:
+\begin{equation}\begin{array}{r}
+   (\omega_H-1+l^2k^2-\omega_k)\mu-l^2\mu''-\psi=0,\\
+   (\omega_H-1+l^2k^2+\omega_k)\mu^*-l^2{\mu^*}''-\psi=0,\\
+   \psi''-k^2\psi-k^2(\mu+\mu^*)/2=0,\end{array}
+  \label{mu.eqN}
+\end{equation}
+with 
+\begin{equation}\begin{array}{c}
+  \mu'(0)={\mu^*}'(0)=\psi'(0)-k\psi(0)=0,\\
+  \mu'(1)={\mu^*}'(1)=\psi'(1)+k\psi(1)=0.
+  \end{array}
+  \label{mu.bcN}
+\end{equation}
+The boundary conditions for $\psi$ come from integrating 
+(\ref{mu.eqp}) outside the interval $[0,1]$ and
+matching the exterior values of $\psi$ and $\psi'$ with its interior
+values at the boundary.
+
+The general solution of (\ref{mu.eqN}) is an arbitrary linear
+combination of the six eigenfunctions 
+\begin{displaymath}
+ \left(\begin{array}{c}\mu\\\mu^*\\\psi\end{array}\right)=\left(
+   \begin{array}{c}\mu_0\\\mu^*_0\\\psi_0\end{array}\right)e^{iqz},
+\end{displaymath}
+where $q$ is a solution of the characteristic polynomial
+\begin{equation}\begin{array}{r}
+ (k^2+q^2)\Bigl([\omega_H-1+l^2(k^2+q^2)]^2-\omega_k^2\Bigr)
+   \hspace{10mm}\\-k^2[\omega_H-1+a(k^2+q^2)]=0.\end{array}
+  \label{q.eq}
+\end{equation}
+Because the general solution has to fulfill the six boundary
+conditions (\ref{mu.bcN}), the coefficients of the eigenfunctions are
+the nontrivial solutions of a linear homogeneous system of algebraic
+equations. The determinant of the corresponding matrix has to be
+zero. This defines an implicit equation for $\omega_k$. 
+The determinant factorizes because (\ref{mu.eqN}) 
+and (\ref{mu.bcN}) are invariant under inversion at $z=1/2$. Thus
+\begin{equation}
+ \left(\begin{array}{c}\mu\\\mu^*\\\psi\end{array}\right)=
+   \sum_{j=1}^3C_jf_j(z)\left(\begin{array}{c}
+      1/\Delta\omega_j^-\\1/\Delta\omega_j^+\\1\end{array}\right),
+  \label{mu.sol}
+\end{equation}
+with
+\begin{eqnarray}
+  \Delta\omega_j^\pm&=&\omega_H-1+l^2(k^2+q_j^2)\pm\omega_k,
+  \label{mu.c.wj}\\
+  f_j(z)&=&\left\{\begin{array}{ll}q_j\cos q_j(z-1/2),&
+   \mbox{for even solutions},\\
+   \sin q_j(z-1/2),&\mbox{for odd solutions}.\end{array}\right.
+  \label{mu.c.fj}
+\end{eqnarray}
+The boundary conditions $\mu'(0)={\mu^*}'(0)=\psi'(0)-k\psi(0)=0$ 
+lead to
+\begin{equation}
+  \left(\begin{array}{ccc}
+   1/\Delta\omega_1^-&1/\Delta\omega_2^-&1/\Delta\omega_3^-\\
+   1/\Delta\omega_1^+&1/\Delta\omega_2^+&1/\Delta\omega_3^+\\
+   1-kh_1&1-kh_2&1-kh_3\end{array}\right)\left(\begin{array}{c}
+   C_1f_1'(0)\\C_2f_2'(0)\\C_3f_3'(0)\end{array}\right)=0,
+  \label{mu.c.eq}
+\end{equation}
+with
+\begin{equation}
+  h_j=\left\{\begin{array}{ll}q_j^{-1}\cot q_j/2,
+   &\mbox{for even solutions},\\-q_j^{-1}\tan q_j/2,
+   &\mbox{for odd solutions}.\end{array}\right.
+  \label{mu.c.hj}
+\end{equation}
+The zeros of the determinant of the matrix on the left-hand side of 
+(\ref{mu.c.eq}) define $\omega_k$ which can be calculated
+numerically.
+
+
+\section{\protect\label{APB}Approximated stability analysis}
+
+The ansatz 
+\begin{equation}\begin{array}{rcl}
+  \mu&=&\left(\mu_+e^{i\omega t/2}+\mu_-^*e^{-i\omega t/2}\right)
+   \cos N\pi z,\\\mu^*&=&\left(\mu_-e^{i\omega t/2}+\mu^*_+
+   e^{-i\omega t/2}\right)\cos N\pi z,\end{array}
+  \label{mu.ans}
+\end{equation}
+together with Eq.~(\ref{psi.eq}) and $\lambda=0$ turns 
+(\ref{mu.eqm},\ref{mu.eqms}) into 
+\begin{equation}
+  \left(\begin{array}{cccc}
+   \alpha_-&\beta_N&\omega_h/2&0\\\beta_N&\alpha_+&0&\omega_h/2\\
+   \omega_h/2&0&\alpha^*_+&\beta_N\\0&\omega_h/2&\beta_N&
+   \alpha^*_-\end{array}\right)\left(\begin{array}{c}\mu_+\\\mu_-
+   \\\mu^*_-\\\mu^*_+\end{array}\right)=0,
+  \label{mu0.eq}
+\end{equation}
+with
+\begin{equation}
+ \alpha_\pm=\alpha_N\pm\frac{i\omega}{2(i\pm g)},
+  \label{alphapm}
+\end{equation}
+where $\alpha_N$ and $\beta_N$ are defined by (\ref{alpha}) and
+(\ref{beta0n}), respectively. 
+The neutral curve is the smallest positive real solution of the 
+characteristic polynomial in $\omega_h$:
+\begin{equation}
+  \omega_{hNC}^{(N)}(k)=2\sqrt{p_N-\sqrt{p_N^2-q_N}},
+  \label{whnn}
+\end{equation}
+with
+\begin{equation}
+  p_N=\alpha_N^2+\beta_N^2-\frac{1-g^2}{(1+g^2)^2}
+   \left(\frac{\omega}{2}\right)^2
+  \label{whnnp}
+\end{equation}
+and
+\begin{equation}
+  q_N=\left(\alpha_N^2-\beta_N^2-\frac{\omega^2/4}{1+g^2}\right)^2
+   +\frac{\alpha_N^2}{(1+g^2)^2}\omega^2g^2.
+  \label{whnnq}
+\end{equation}
+The eigenvector is given by 
+\begin{eqnarray}
+  \mu_\pm&=&\omega_h^3-2(\beta_N+\alpha^*_\pm)\omega_h^2\nonumber\\
+   &&-4[\beta_N^2-(\alpha_\pm+\alpha^*_\pm)\beta_N+\alpha_\pm
+   \alpha^*_\mp]  \omega_h\nonumber\\
+   &&+8(\beta_N^2-\alpha^*_\pm\alpha^*_\mp)(\beta_N-\alpha_\pm),
+  \label{mu.pm}
+\end{eqnarray}
+where $\omega_h$ is defined by (\ref{whnn}). The minimum of 
+(\ref{whnn}) is 
+\begin{equation}
+  \omega_{hc}^{(N)}=\frac{\omega\alpha_N}{\beta_N}\,g+{\cal O}(g^2).
+  \label{whc}
+\end{equation}
+It occurs at 
+\begin{equation}
+  \omega_k^{(N)}=\frac{\omega}{2}+{\cal O}(g^2),
+  \label{wkc}
+\end{equation}
+which is the condition for first-order parametric resonance. The
+eigenvector at the minimum is
+\begin{equation}
+ \mu_\pm=8\omega\alpha_N\left(\alpha_N-\beta_N\pm\frac{\omega}{2}
+   \right)(1+i)\,g+{\cal O}(g^2).
+  \label{mu.pmc}
+\end{equation}
+
+
+\section{\protect\label{APC}Calculation of the nonlinear
+coefficients for $\lowercase{k}_{\lowercase{c}}\to 0$}
+
+In order to calculate $a(\alpha)$ we take in (\ref{u1}) only two
+amplitudes, say $A_\pm$ with $\alpha_\pm=\pm\alpha/2$ and ${\bf
+k}_\pm=k\left(\cos{\alpha\over 2}\cdot {\bf e}_x\pm\sin{\alpha\over
+2}\cdot{\bf e}_y\right)$. The projection of ${\bf f}_3$ onto ${\bf
+u}_+^\dagger$ defined by (\ref{u.adj}) with ${\bf k}_j={\bf k}_+$ and
+$\alpha_j=\alpha/2$ gives 
+\begin{equation}
+  \frac{\langle{\bf u}_+^\dagger|{\bf f}_3\rangle}{S_h\omega_{hNC}}=
+  -c\left[|A_+|^2+a(\alpha)|A_-|^2\right]A_+.
+  \label{a3.proj}
+\end{equation}
+
+In the limit $k\to 0$ the dipolar mode becomes independent of $z$,
+i.e.,
+\begin{equation}
+  \mu(z,t)=\mu(t)\quad\mbox{and}\quad \psi(z,t)=-\frac{k}{4}[
+   \mu(t)+\mu^*(t)].
+  \label{a3.mu}
+\end{equation}
+The last equation is obtained from (\ref{psi.eq}). The
+solution of (\ref{eqm.n}) for $n=2$ becomes therefore simply
+\begin{equation}
+  m_2=m_2^*=0,\quad \partial_z\phi_2=-2|m_1|^2B(z).
+  \label{a3.u2}
+\end{equation}
+The nonlinear terms of the third-order inhomogeneity ${\bf f}_3$
+reads
+\begin{equation}
+   -\left(\begin{array}{c}
+   (i-g)\left[\frac{m_1^2}{2}(\partial_x-i\partial_y)\phi_1
+   -2m_1|m_1|^2\right]\\
+   (-i-g)\left[\frac{m_1^{*2}}{2}(\partial_x+i\partial_y)\phi_1
+   -2m^*_1|m_1|^2\right]\\
+   \left[(\partial_x+i\partial_y)m^*_1|m_1|^2+\mbox{c.c.}\right]B(z)
+   \end{array}\right).
+  \label{a3.f3}
+\end{equation}
+We have dropped the exchange terms because they contribute only in 
+second order of $k$. For the projection onto ${\bf u}_+^\dagger$ we
+have to calculate only the term of (\ref{a3.f3}) which is
+proportional to $\exp(i{\bf k}_+{\bf r})$. After some tedious
+calculations we get
+\begin{displaymath}
+  \langle{\bf u}_+^\dagger|{\bf f}_3\rangle=6\,\mbox{Re}\,w\left[
+   |A_+|^2+a(\alpha)|A_-|^2\right]A_+,
+\end{displaymath}
+where $a$ is given by (\ref{a.lim}) with
+\begin{equation}
+  a_s=\frac{2\,\mbox{Im}\,w}{3\,\mbox{Re}\,w}
+  \label{a3.as}
+\end{equation}
+and
+\begin{equation}
+  w=\langle\mu^2(t)[2\mu(-t)\mu^*(t)+\mu(-t)\psi(t)
+   +\psi(-t)\mu^*(t)]\rangle_t,
+  \label{a3.w}
+\end{equation}
+where $\langle\cdot\rangle_t$ denotes the temporal average. For $c$
+we get
+\begin{equation}
+  c=\frac{-6\,\mbox{Re}\,w}{S_h\omega_{hc}}.
+  \label{a3.c}
+\end{equation}
+Using (\ref{mu.pmc}) one finds that at the minimum of the neutral
+curve $w$ is purely imaginary in leading order. This has two
+consequences. (i) $c$ changes its sign near the minimum of the
+neutral curve. (ii) $a_s$ scales like $1/g$. Calculating the
+next-order terms we get (\ref{as}) plus terms of order $g^0$.
+
+\section{\protect\label{APD}Regular $N$-wave pattern}
+
+Regular $N$-wave patterns are characterized by equally spaced 
+evenly angles $\alpha_j$. That is,
+\begin{equation}
+  \alpha_j=\frac{\pi}{N}\,j.
+  \label{APD.aj}
+\end{equation}
+Furthermore all amplitudes $P_j$ are equal. Using (\ref{a.prop}) and 
+(\ref{dP}) we get
+\begin{equation}
+  P_j=P\equiv\frac{1}{\sum_{j=1}^Na(\pi j/N)-1}.
+  \label{APD.P}
+\end{equation}
+It is convenient to introduce the Fourier series of the coupling
+function $a(\alpha)$:
+\begin{equation}
+  a(\alpha)=\sum_{n=-\infty}^\infty a_ne^{2in\alpha},\quad{\rm with}
+   \quad a_{-n}=a^*_n.
+  \label{ADP.Four}
+\end{equation}
+The Fourier coefficients are given by
+\begin{equation}
+   a_n=\frac{1}{\pi}\int_0^\pi a(\alpha)e^{-2in\alpha}d\alpha.
+  \label{ADP.an}
+\end{equation}
+For $k_c\to 0$ where $a(\alpha)$ is very well
+approximated by (\ref{a.lim}), the Fourier components are
+\begin{equation}
+  a_0=\frac{4}{3},\quad a_1=\frac{1}{3}-i\frac{a_s}{2},
+   \quad a_{n>1}=0.
+  \label{APD.a.lim}
+\end{equation}
+Using the identity
+\begin{equation}
+  \sum_{j=1}^Na\left(\frac{\pi}{N}j\right) e^{-2\pi i\frac{m}{N}j}=
+   N\sum_{n=-\infty}^\infty a_{m+nN}
+  \label{ADP.ident}
+\end{equation}
+we can express $P$ also in terms of the Fourier components of 
+$a(\alpha)$
+\begin{equation}
+  P=\frac{1}{N\sum_{n=-\infty}^\infty a_{nN}-1}.
+  \label{APD.P2}
+\end{equation}
+Regular $N$-wave patterns exist if $P$ is positive. In the limit
+$k_c\to 0$ all regular patterns exist because of 
+\begin{equation}
+  P=\frac{3}{4N-3}>0,\quad{\rm for}\quad N>1.
+  \label{APD.P.lim}
+\end{equation}
+In the general case regular patterns will exist at least for large
+$N$ if $a_0$ is positive and $a(\alpha)$ is a smooth function. In
+fact it is sufficient that the coupling function does not have steps
+which would lead to $|a_n|\sim 1/n$. For all numerically calculated
+coupling functions I always found that $a(\alpha)$ is continuous and
+$a_0>0$. Moreover, all regular $N$-wave pattern exist because
+$a(\alpha)$ is always smooth enough.
+
+In order to test the internal stability of the regular patterns,
+the eigenvalue problem (\ref{instab}) has to be solved. This can be
+done by the ansatz
+\begin{equation}
+  C_j=e^{2\pi i\frac{m}{N}j},\quad m=0,1,\ldots,N-1.
+  \label{APD.cj}
+\end{equation}
+Using (\ref{ADP.ident}) we get the eigenvalues
+\begin{equation}
+  \lambda_m=P\left(1-N\sum_{n=-\infty}^\infty a_{m+nN}\right).
+  \label{APD.lm}
+\end{equation}
+Because of (\ref{APD.P2}) $\lambda_0=-1$ holds for any $N$. For
+continuous coupling functions regular $N$-wave patterns become
+eventually unstable if $N$ gets large. In the long-wavelength limit
+where only two Fourier components are non-zero all patterns with
+$N>3$ are internally unstable. Hexagons (i.e., $N=3$) are just
+marginal. That is,
+\begin{equation}
+  \lambda_{1,2}=\mp i\frac{a_s}{2}.
+  \label{APD.lm.hex}
+\end{equation}
+Square are stable because $\lambda_1=-1/5$.
+
+In order to test the external stability of regular $N$-wave patterns
+we have to calculate (\ref{exstab}) which yields
+\begin{equation}
+  \lambda(\alpha)=1-NP\sum_{n=-\infty}^\infty a_{nN}e^{2inN\alpha}.
+  \label{APD.exstab}
+\end{equation}
+By using (\ref{APD.P2}) we immediately verify (\ref{exstab0}). For
+$k_c\to 0$ any regular pattern is externally stable because only the
+Fourier components $a_0$ and $a_1$ are nonzero. In the general case
+of continuous coupling functions, regular patterns are externally
+stable if $N$ is sufficiently large.
+
+
+\section{\protect\label{APE}Three-wave patterns for
+$\lowercase{k}_{\lowercase{c}}\to 0$ and $\lowercase{g}\to 0$}
+
+We calculate the general three-wave pattern for the coupling function
+(\ref{a.lim}) with $a_s\to\infty$ (i.e. $g\to 0$).  We introduce the
+abbreviations
+\begin{equation}
+  u_3=a_s\sin 2(\alpha_2-\alpha_1),\quad v_3=\frac{4}{3}+\frac{2}{3}
+   \cos 2(\alpha_2-\alpha_1)
+  \label{APE.uv}
+\end{equation}
+and the cyclic permutations of them. The amplitudes $P_j$ are
+solutions of
+\begin{equation}
+  \left(\begin{array}{ccc} 1 & v_3-u_3 & v_2+u_2 \\ 
+   v_3+u_3 & 1 & v_1-u_1 \\ v_2-u_2 & v_1+u_1 & 1 \end{array}\right)
+  \left(\begin{array}{c}  P_1 \\ P_2 \\ P_3  \end{array}\right)=
+  \left(\begin{array}{c}  1 \\ 1 \\ 1  \end{array}\right),
+  \label{APE.eq.p}
+\end{equation}
+which are given by
+\begin{equation}
+  P_1=\frac{u_1(u_1+u_2+u_3)}{D}+{\cal O}(a_s^{-1})
+  \label{APE.P}
+\end{equation}
+and its cyclic permutations. The denominator $D$ is the determinant
+of the matrix in (\ref{APE.eq.p}). In leading order of $a_s$ it is 
+given by
+\begin{equation}
+  D=u_1(u_1+u_2v_3)+\mbox{cycl. perm.}
+  \label{APE.D}
+\end{equation}
+Because $v_j$ is always positive, we immediately see that $P_j>0$ for
+$j=1,2,3$ is only possible if all $u_j$'s have the same sign. Thus
+the basic region of allowed angles is given by (\ref{3w.bound}).
+
+The general three-wave pattern is internally stable if the real part
+of each root of the characteristic polynomial defined by the
+determinant of the matrix of (\ref{instab}) is negative. The
+characteristic polynomial reads
+\begin{equation}
+  \lambda^3+c_2\lambda^2+c_1\lambda+c_0=0
+  \label{APE.cP}
+\end{equation}
+with
+\begin{equation}
+  c_2=P_1+P_2+P_3,\quad c_0=P_1P_2P_3D,
+  \label{APE.c20}
+\end{equation}
+and
+\begin{equation}
+  c_1=P_2P_3(1-v_1^2+u_1^2)+\mbox{cycl. perm.}
+  \label{APE.c1}
+\end{equation}
+In accordance with the well-known Rough-Hurwitz criterion (see e.g.
+Ref.~\onlinecite{tho.86}) the real
+part of $\lambda$ is always negative if and only if
+\begin{equation}
+  c_2c_1>c_0>0.
+  \label{APE.RH}
+\end{equation}
+Since $P_j>0$ the last inequality leads to $D>0$ which is in
+leading order always fulfilled. Evaluating $c_2c_1-c_0$ in leading
+order of $a_s$ shows that the first inequality also holds. Thus any
+possible three-wave pattern is internally stable.
+
+
+\begin{references}
+
+\bibitem{cro.93}
+M.~C. Cross and P.~C. Hohenberg, Rev. Mod. Phys. {\bf 65}, 851 
+(1993).
+
+\bibitem{bro.63}
+W.~F. Brown, Jr., {\it Micromagnetics} (John Wiley, New York, 1963).
+
+\bibitem{blo.52}
+N. Bloembergen and R.~W. Damon, Phys. Rev. {\bf 85}, 699 (1952).
+
+\bibitem{suh.57}
+H. Suhl, J. Phys. Chem. Solids {\bf 1}, 209 (1957).
+
+\bibitem{wig.94}
+P.~E. Wigen, {\it Nonlinear phenomena and chaos in magnetic
+materials} (World Scientific, Singapore, 1994).
+
+\bibitem{gai.75}
+Y.~A. Gaidai, I.~I. Kondilenko, and A.~A. Solomko, ZhETF Pis. Red. 
+{\bf 21}, 575 (1975) [JETP Lett. {\bf 21}, 269 (1975)].
+
+\bibitem{wet.83}
+W. Wettling, W.~D. Wilber, P. Kabos, and C.~E. Patton, Phys. Rev.
+Lett. {\bf 51}, 1680 (1983).
+
+\bibitem{gna.87}
+K. Gnatzig, H. D\"otsch, M. Ye, and A. Brockmeyer, J. Appl. Phys. 
+{\bf 62}, 4839 (1987).
+
+\bibitem{far.31}
+M. Faraday, Philos. Trans. R. Soc. London {\bf 52}, 319 (1831).
+
+\bibitem{mil.91}
+S.~T. Milner, J. Fluid Mech. {\bf 225}, 81 (1991).
+
+\bibitem{elm.93}
+F.~J. Elmer, Phys. Rev. Lett. {\bf 70}, 2028 (1993).
+
+\bibitem{kue.69}
+G. K\"uppers and D. Lortz, J. Fluid Mech. {\bf 35}, 609 (1969).
+
+\bibitem{bus.80}
+F.~H. Busse and K.~E. Heikes, science {\bf 208}, 173 (1980).
+
+\bibitem{elm.95}
+F.~J. Elmer, J. Magn. Magn. Mater. {\bf 140-144}, 1951 (1995).
+
+\bibitem{man.90}
+P. Manneville, {\it Dissipative Structures and Weak Turbulence}, 
+(Academics Press, Boston, 1990).
+
+\bibitem{zak.75}
+V.~E. Zakharov, V.~S. L'vov, and S.~S. Starobinets, Usp. Fiz. Nauk. 
+{\bf 114}, 609 (1975) [Sov. Phys. Usp. {\bf 17}, 896 (1975)].
+
+\bibitem{lvo.94}
+V.~S. L'vov, {\it Wave Turbulence Under Parametric Excitation},
+(Springer, Berlin, 1994).
+
+\bibitem{elm.87}
+F.~J. Elmer, PhD thesis, unpublished (1987).
+
+\bibitem{elm.88}
+F.~J. Elmer, J. de Phys. C8 {\bf 49}, 1597 (1988).
+
+\bibitem{elm.92}
+F.~J. Elmer, in {\it Pattern formation in complex dissipative
+systems}, edited by S. Kai, World Scientific, Singapore (1992).
+
+\bibitem{mat.95}
+F. Matth\"aus and H. Sauermann, appears in Z. Phys. B (1995).
+
+\bibitem{dam.63} 
+R.~W. Damon, in {\it Magnetism, Vol. I}, edited by G.~T. Rado and
+H. Suhl, Academic Press, New York (1963).
+
+\bibitem{gar.91}
+D.~A. Garanin, Physica A {\bf 172}, 470 (1991).
+
+\bibitem{ple.93}
+T. Plefka, Z. Phys. B {\bf 90}, 447 (1993).
+
+\bibitem{lak.84}
+M. Lakshmanan and K. Nakamura, Phys. Rev. Lett. {\bf 53}, 2497 
+(1984).
+
+\bibitem{gri.91}
+Y.~V. Gribkova and M.~I. Kaganov, Fiz. Tverd. Tela {\bf 33}, 508 
+(1991) [Sov. Phys. Solid State {\bf 33}, 290 (1991)].
+
+\bibitem{kal.94}
+B.~A. Kalinikos, in {\it Linear and Nonlinear Spin Waves in Magnetic
+Films and Superlattices}, edited by M.~G. Cottam, World Scientific,
+Singapure (1994).
+
+\bibitem{rem4}
+We assume that $\omega>2(\omega_H-1)$ to ensure the existence of a
+mode which is able to fulfill the first order parametric resonance
+condition.
+
+\bibitem{rem5}
+This is not true for a subcritical pitchfork bifurcation.
+Nevertheless, there will exist an unstable solution for which this
+property holds.
+
+\bibitem{nay.73}
+A. Nayfeh, {\it Perturbation Methods}, (Wiley, New York, 1973).
+
+\bibitem{rem6}
+The rotational symmetry is also responsible for the fact that the
+coupling function $a$ depends only on the {\em difference\/} of the 
+angles.
+
+\bibitem{lan.60}
+L.~D. Landau and E.~M. Lifshitz, {\it Mechanics}, (Pergamon Press,
+1960).
+
+\bibitem{rem7}
+The $-1$ in the dispersion relation (\ref{wk.n}) is actually the 
+spatial-temporal average over $-M_z/M_0$ which decreases with
+increasing amplitudes $A_j$. To fulfill still the parametric
+resonance condition $k$ has to be decreased. Thus the bifurcation on
+the lower(higher)-$k$ side of the resonance dips in Fig.~\ref{f.nc}
+is sub(super)critical.
+
+\bibitem{rem8}
+The correction in Ref.~\onlinecite{elm.93} which makes hexagons
+stable reads $-\eta+\eta\cos 2\alpha$, where $\eta=Dk_c^2/(9\pi)$
+(note there is an error in Eq.~10 of Ref.~\onlinecite{elm.93}). This
+correction comes from the exchange interaction and is therefore of 
+second order in $k_c$. But there is a first-order correction caused
+by the dipolar interaction which is responsible for the instability
+of hexagons.
+
+\bibitem{may.75}
+R.~M. May and W.~J. Leonard, SIAM J. Appl. Math. {\bf 29}, 243 
+(1975).
+
+\bibitem{cro.89}
+V. Croquette, Contemp. Phys. {\bf 30}, 113, 153 (1989).
+
+\bibitem{tho.86}
+J.~M.~T. Thompson and H.~B. Stewart, {\it Nonlinear Dynamics and
+Chaos} (Wiley, New York, 1986).
+
+\end{references}
+
+\begin{figure}
+\caption[modes]{\protect\label{f.modes}
+Exact (solid lines) and approximate 
+(dotted lines) dispersion relations for $\omega_H=1.1$ and (a)
+$l^2=0.0025$, (b) $l^2=0.007$. The numbers denote mode indices.}
+\end{figure}
+
+\begin{figure}
+\caption[neutral curves]{\protect\label{f.nc}
+Neutral curves for several values of $\omega$ around the
+hybridization point in Fig.~\protect\ref{f.modes}a. Parameters:
+$\omega_H=1.1$, $l^2=0.0025$, $g=0.01$, $N=4$, and $L=2$. An arrow
+denotes the absolute minimum of the neutral curve; it defines the
+instability threshold $\omega_{hc}$ and the critical wave number
+$k_c$. Solid(dotted) lines indicate points on the neutral curve where
+spatially periodic solutions with wavelength $2\pi/k$ bifurcate
+super(sub)critically.}
+\end{figure}
+
+\begin{figure}
+\caption[threshold]{\protect\label{f.thresh}
+Instability threshold $\omega_{hc}$ and critical wave number $k_c$ as
+functions of $\omega$. Parameters: $\omega_H=1.1$, $l^2=0.0025$,
+$N=4$, and $L=2$. Solid and dashed-dotted lines denote numerical
+values for $g=0.001$ and $g=0.01$, respectively. Dotted lines denote
+approximate values. Bold lines denote the absolute minimum.  The
+numbers distinguish different modes.}
+\end{figure}
+
+\begin{figure}
+\caption[resonances]{\protect\label{f.res}
+All possible resonances which contributes to the third-order term in
+the amplitude equation for $A_j$. The notation, $j_1,j_2,j_3$ means
+the resonance ${\bf k}_{j_1}+{\bf k}_{j_2}+{\bf k}_{j_3}$.  }
+\end{figure}
+
+\begin{figure}
+\caption[coupling function]{\protect\label{f.aa}
+The coupling function $a(\alpha)$ for $\omega_H=1.1$, $l^2=0.0025$,
+$\omega=0.22$, and $g=0.001$. The solid line is the numerical result
+for $N=4$, $L=2$ whereas the dashed line is the analytical result
+(\ref{a.lim}) with $a_s$ given by (\ref{as}). The insets depict the
+maximum of the relative deviation of the numerical result from the
+analytical result.}
+\end{figure}
+
+\begin{figure}
+\caption[lambda]{\protect\label{f.lambda}
+Examples of external instability. Parameters: $\omega_H=1.1$, 
+$l^2=0.0025$, $g=0.001$, $N=4$, $L=2$, $\omega=0.25$ yielding
+$k_c=0.117$. The nonvanishing amplitudes of a pattern are denoted by
+circles. The radius of a circle is proportional to the amplitude. The
+growth rate $\lambda(\alpha)$ defined by (\ref{exstab}) is shown for
+a one-wave pattern, a square, and a three-wave pattern
+($\alpha_2=70^\circ$ and $\alpha_3=102^\circ$).  }
+\end{figure}
+
+\begin{figure}
+\caption[Stability of squares and quasiperiodic three-wave patterns]{
+\protect\label{f.kcc}
+Stability of squares and quasiperiodic three-wave patterns. For
+values of $k_c$ above the solid(dotted) line squares (three-wave
+patterns) are unstable. The thresholds are calculated for $g=10^{-3}$
+and $l^2=0.0025$.  Quantitatively almost the same values are obtained
+for $l^2=0.0001$.}
+\end{figure}
+
+\begin{figure}
+\caption[Patterns]{\protect\label{f.pat}
+Simulated photographs of a square pattern (a), a periodic (b) and a
+quasiperiodic (c) three-wave pattern assuming Faraday rotation as the
+appropriate visualisation technique. Parameters: $\omega_H=1.1$, 
+$l^2=0.0025$, $g=0.001$, $N=4$, $L=2$, $\omega=0.22$ (i.e.
+$k_c=0.043$), $\alpha_1=0^\circ$, (a) $\alpha_2=90^\circ$, (b)
+$\alpha_2=75.5225^\circ$, $\alpha_3=104.4775^\circ$, (c)
+$\alpha_2=70^\circ$, $\alpha_3=100^\circ$. The angles for the
+periodic three-wave pattern are chosen in such a way as to fulfill
+(\ref{regpat.c1}) for $n_1=1$ and $n_2=n_3=2$. The grey scale denotes
+the temporal average of $M_x^2+M_y^2$ where black means zero.  }
+\end{figure}
+
+\begin{figure}
+\caption[three wave stability]{\protect\label{f.stab}
+Stability of three-wave patterns. Parameters: $\omega_H=1.1$, 
+$l^2=0.0025$, $g=0.001$, $N=4$, and $L=2$. (a) $\omega=0.22$ yielding
+$k_c=0.043$.  (b) $\omega=0.25$ yielding $k_c=0.117$.  (c)
+$\omega=0.30$ yielding $k_c=0.272$. }
+\end{figure}
+
+\begin{figure}
+\caption[Dynamics without noise]{\protect\label{f.dyn}
+The dynamical behavior of a system of 36 amplitude equations. The
+angles $\alpha_j$ are equally spaced. On the left-hand side, the
+absolute values of the amplitudes of the modes $j=1,\ldots,36$ are
+represented by the widths of the lines plotted against the vertical
+$t$-axis. The right-hand side shows the absorbed power in units of
+the absorbed power of a one-wave pattern, which is given by 
+$\sum_jP_j$. The parameters are the same as for Fig.~\ref{f.stab}.  }
+\end{figure}
+
+\begin{figure}
+\caption[Dynamics with noise]{\protect\label{f.dynn}
+The dynamical behavior of a system of 36 amplitude equations with
+noise. The parameters are the same as in Fig.~\ref{f.dyn}. The noise
+levels are (a) $\nu=0.13\sqrt{\epsilon^3/c}$ and (b,c) $\nu=5\cdot
+10^{-7}\sqrt{\epsilon^3/c}$.  }
+\end{figure}
+
+
+\end{document}
+

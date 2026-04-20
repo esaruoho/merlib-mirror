@@ -1,0 +1,261 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+
+<HEAD>
+<LINK REV="made" HREF="mailto:Franz-Josef.Elmer@unibas.ch">
+<META name="keywords" content="Pendulum, Physics, Nonlinear Dynamics">
+<META name="description" content="Pendulum dynamics">
+
+	<META NAME="GENERATOR" Content="Visual Page 1.0 for Windows">
+	<META HTTP-EQUIV="Content-Type" CONTENT="text/html;CHARSET=iso-8859-1">
+	<TITLE>The upside-down pendulum</TITLE>
+</HEAD>
+
+<BODY TEXT="#000000" BGCOLOR="#FFFFB0" LINK="#0000FF" VLINK="#0000FF" ALINK="#FF0000">
+
+<P><A NAME="top"></A> 
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0">
+	<TR ALIGN="CENTER">
+		<TD WIDTH="120" VALIGN="TOP">
+			<CENTER>
+			<P>
+			<TABLE BORDER="4" BGCOLOR="#FFFFFF">
+				<TR>
+					<TD>
+						<P ALIGN="CENTER"><A HREF="index.html"><IMG SRC="plab_s.gif" WIDTH="101" HEIGHT="35" ALIGN="BOTTOM" ALT="Logo"
+						BORDER="0"></A>
+					</TD>
+				</TR>
+			</TABLE>
+
+</CENTER>
+		</TD>
+		<TD>
+			<CENTER>
+			<P>
+			<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="248">
+				<TR>
+					<TD WIDTH="124" BGCOLOR="#FFFFFF">
+						<P ALIGN="CENTER"><A HREF="lab.htm"><FONT SIZE="4">The Lab</FONT></A>
+					</TD>
+					<TD WIDTH="124" BGCOLOR="#99FF99">
+						<P ALIGN="CENTER"><A HREF="lroom.htm"><FONT SIZE="4"><B>The Lecture Room</B></FONT></A>
+					</TD>
+				</TR>
+				<TR>
+					<TD WIDTH="124"><IMG SRC="nb_b.gif" WIDTH="124" HEIGHT="6" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_u.gif" WIDTH="124" HEIGHT="6" ALIGN="BOTTOM" BORDER="0"></TD>
+				</TR>
+			</TABLE>
+
+			<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="620">
+				<TR>
+					<TD WIDTH="124"><IMG SRC="nb_l.gif" WIDTH="124" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_m.gif" WIDTH="124" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_m.gif" WIDTH="124" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_m.gif" WIDTH="124" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_r.gif" WIDTH="124" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"></TD>
+				</TR>
+				<TR>
+					<TD WIDTH="124" BGCOLOR="#FFFFFF">
+						<P ALIGN="CENTER"><A HREF="eqm.htm">The Equations of Motion</A>
+					</TD>
+					<TD WIDTH="124" BGCOLOR="#FFFFFF">
+						<P ALIGN="CENTER"><A HREF="oscres.htm">Oscillations and Resonances</A>
+					</TD>
+					<TD WIDTH="124" BGCOLOR="#FFFFFF">
+						<P ALIGN="CENTER"><A HREF="nldyn.htm">Nonlinear Dynamics</A>
+					</TD>
+					<TD WIDTH="124" BGCOLOR="#99FF99">
+						<P ALIGN="CENTER"><A HREF="app.htm"><B>Miscellaneous Topics</B></A>
+					</TD>
+					<TD WIDTH="124" BGCOLOR="#FFFFFF">
+						<P ALIGN="CENTER"><A HREF="links.htm">Links and Literature</A>
+					</TD>
+				</TR>
+				<TR>
+					<TD WIDTH="124"><IMG SRC="nb_b.gif" WIDTH="124" HEIGHT="6" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_b.gif" WIDTH="124" HEIGHT="6" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_b.gif" WIDTH="124" HEIGHT="6" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_u.gif" WIDTH="124" HEIGHT="6" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_b.gif" WIDTH="124" HEIGHT="6" ALIGN="BOTTOM" BORDER="0"></TD>
+				</TR>
+			</TABLE>
+
+			<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="372">
+				<TR>
+					<TD WIDTH="124"><IMG SRC="nb_l.gif" WIDTH="124" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_m.gif" WIDTH="124" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_r.gif" WIDTH="124" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"></TD>
+				</TR>
+				<TR>
+					<TD WIDTH="124" BGCOLOR="#99FF99">
+						<P ALIGN="CENTER"><A HREF="upside.htm"><I><B>The Upside-Down Pendulum</B></I></A>
+					</TD>
+					<TD WIDTH="124" BGCOLOR="#FFFFFF">
+						<P ALIGN="CENTER"><A HREF="lyapexp.htm"><I>The Lyapunov Exponent</I></A>
+					</TD>
+					<TD WIDTH="124" BGCOLOR="#FFFFFF">
+						<P ALIGN="CENTER"><A HREF="fractal.htm"><I>Fractals</I></A>
+					</TD>
+				</TR>
+			</TABLE>
+
+</CENTER>
+		</TD>
+	</TR>
+</TABLE>
+
+<H1 ALIGN="CENTER">The upside-down pendulum</H1>
+<P>Balancing a pencil on the tip of your finger is difficult, isn't it? But to stabilize a 
+rigid pendulum in the upside-down position is easy! You don't need sophisticated controlling 
+technology. You only need a simple and fast motor moving the suspension point 
+of the pendulum periodically up and down! If you don't believe me, try it in 
+the <A HREF="vpend.htm">lab</A>!</P>
+
+<P>How can this stabilization effect be understood? 
+Starting from the equation of motion of a vertically driven pendulum<A NAME="(1)"></A></p>
+<p><TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+	<TR>
+		<TD WIDTH="10%">(1)</TD>
+		<TD WIDTH="90%">
+			<P ALIGN="CENTER"><IMG SRC="vpendeq.gif" WIDTH="333" HEIGHT="41" ALIGN="BOTTOM" BORDER="0">
+		</TD>
+	</TR>
+</TABLE>
+<p>and applying the <B>Kapiza method</B> is the easiest way to understand this effect. 
+This method was invented by the russian physicist P.L. Kapiza (1894-1984) in order to
+treat analytically systems with a natural time scale much larger than the time scale of 
+driving. It is only an approximative method, but it works quite well in cases where these
+time scales are of different order of magnitude. The method starts with the ansatz</p>
+<p><CENTER>
+<IMG SRC="upside1.gif" WIDTH="198" HEIGHT="18" ALIGN="BOTTOM" BORDER="0">.</CENTER></p>
+<p>where <IMG SRC="greek/varphi.gif" WIDTH="13" HEIGHT="22" ALIGN="BOTTOM" ALT="phi" 
+BORDER="0"><SUB>slow</SUB> is the slowly variing part and <IMG SRC="greek/varphi.gif" 
+WIDTH="13" HEIGHT="22" ALIGN="BOTTOM" ALT="phi" BORDER="0"><SUB>fast</SUB> the fast one. 
+That is, averaged over the fast time scale yields <IMG SRC="upside2.gif" WIDTH="130" 
+HEIGHT="19" ALIGN="BOTTOM" BORDER="0">. Putting this ansatz into the equation of motion 
+yields two equation, one for the slow time scale:</p>
+<p><A NAME="(2)"></A>
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+ <TR>
+  <TD WIDTH="10%">(2)</TD>
+  <TD WIDTH="90%">
+   <P ALIGN="CENTER"><IMG SRC="upside4.gif" WIDTH="517" HEIGHT="41" ALIGN="BOTTOM" BORDER="0">
+  </TD>
+ </TR>
+</TABLE></p>
+<p>and one for the fast time scale:</p>
+<p><A NAME="(3)"></A>
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+ <TR>
+  <TD WIDTH="10%">(3)</TD>
+  <TD WIDTH="90%">
+   <P ALIGN="CENTER"><IMG SRC="upside5.gif" WIDTH="499" HEIGHT="41" ALIGN="BOTTOM" BORDER="0">
+  </TD>
+ </TR>
+</TABLE></p>
+<p>Two approximations are made. First, everything is linearized in 
+<nobr><IMG SRC="greek/varphi.gif" WIDTH="13" HEIGHT="22" ALIGN="BOTTOM" ALT="phi" 
+BORDER="0"><SUB>fast</SUB>,</nobr> assuming that the fast oscillations are small. Here 
+<IMG SRC="upside3.gif" WIDTH="253" HEIGHT="18" ALIGN="BOTTOM" BORDER="0" hspace=3>. 
+In the last equation <IMG SRC="upside6.gif" WIDTH="350" HEIGHT="19" ALIGN="BOTTOM" BORDER="0"
+hspace=3> 
+has been neglected. This is justified as long as both time scales are well separated.
+The time dependence of <nobr><IMG SRC="greek/varphi.gif" WIDTH="13" HEIGHT="22" 
+ALIGN="BOTTOM" ALT="phi" hspace=2 BORDER="0"><SUB>slow</SUB></nobr> can be neglected in 
+the equation of motion for <nobr><IMG SRC="greek/varphi.gif" WIDTH="13" HEIGHT="22" 
+ALIGN="BOTTOM" ALT="phi" BORDER="0"><SUB>fast</SUB>.</nobr> 
+Thus, <nobr><IMG SRC="greek/varphi.gif" WIDTH="13" HEIGHT="22" 
+ALIGN="BOTTOM" ALT="phi" hspace=2 BORDER="0"><SUB>slow</SUB></nobr> 
+can be treated as a constant. 
+Therefore, eq. (<A HREF="#(3)">3</A>) can be easily solved:</p>
+<p><CENTER>
+<IMG SRC="upside7.gif" WIDTH="482" HEIGHT="45" ALIGN="BOTTOM" BORDER="0"></CENTER></p>
+<p>Multiply this with <IMG SRC="upside8.gif" WIDTH="65" HEIGHT="18" ALIGN="BOTTOM" BORDER="0"> 
+and average over the fast time scale, you will get an equation of motion for 
+<IMG SRC="greek/varphi.gif" WIDTH="13" HEIGHT="22" ALIGN="BOTTOM" ALT="phi" 
+BORDER="0"><SUB>slow</SUB> alone:</p>
+<p>
+<A NAME="(4)"></A>
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="100%">
+ <TR>
+  <TD WIDTH="10%">(4)</TD>
+  <TD WIDTH="90%">
+   <P ALIGN="CENTER"><IMG SRC="upside9.gif" WIDTH="689" HEIGHT="46" ALIGN="BOTTOM" BORDER="0">
+  </TD>
+ </TR>
+</TABLE></p>
+<p>This is an equation of motion for the slowly variing part of the motion. 
+The averaged product of the fast oscillation of the driving and the fast oscillation of 
+the system leads to an effective force on the pendulum. 
+In the upside-down position it is a restoring force. For</P>
+<p><CENTER>
+<IMG SRC="upside10.gif" WIDTH="393" HEIGHT="58" ALIGN="BOTTOM" BORDER="0"></CENTER></p>
+<p>it is stronger than the repelling force and the upside-down pendulum is stabilized. 
+That is, the solution  <IMG SRC="greek/varphi.gif" WIDTH="13" HEIGHT="22" ALIGN="BOTTOM" 
+ALT="phi" BORDER="0"><SUB>slow</SUB> =180&deg; is a stable solution of (<A HREF="#(4)">4</A>) 
+and in the framework of the Kapiza method also of (<A HREF="#(1)">1</A>).
+The stabilization of the upside-down pendulum is accompanied by a subcritical 
+<a href="bif.htm#pfbif">pitchfork bifurcation</a> of (<a href="#(4)">4</a>).</P>
+
+<p>Dynamical stabilization is applied in a so-called <b>Paul trap</b> where a single
+ion can be catched. The ion sits in an equilibrium point of a static quadrupole field. 
+This equilibrium point is unstable as any equilibrium point of a static electrical field.
+But a rapidly oscillating electrical field (typical frequency 1Mhz) is able to turn it 
+into a stable equilibrium point.</p>
+<P>
+<TABLE BORDER="0" CELLPADDING="8" BGCOLOR="#80FFC0">
+ <TR>
+  <TD><B>QUESTIONS worth to think about:</B></TD>
+ </TR>
+ <TR>
+  <TD>
+   <OL>
+    <LI>Apply the Kapiza method to the <a href="eqm2.htm#(horizontal)">horizontally 
+     driven pendulum</a>. How does it behave for large driving frequencies? Show that
+     the down-hanging equlibrium becomes unstable if the driving amplitude exceeds a
+     critical value. What kind of <a href="bif.htm#bif">bifurcation</a> occurs?
+   </OL>
+  </TD>
+ </TR>
+</TABLE>
+</P>
+
+<P>
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="19%">
+	<TR>
+		<TD WIDTH="33%">
+			<P ALIGN="CENTER"><A HREF="app.htm"><IMG SRC="prevarow.gif" WIDTH="31" HEIGHT="31" ALIGN="BOTTOM" ALT="arrow" BORDER="0"></A>
+		</TD>
+		<TD WIDTH="33%">
+			<P ALIGN="CENTER"><A HREF="#top"><IMG SRC="toparow.gif" WIDTH="31" HEIGHT="31" ALIGN="BOTTOM" ALT="arrow" BORDER="0"></A>
+		</TD>
+		<TD WIDTH="34%">
+			<P ALIGN="CENTER"><A HREF="lyapexp.htm"><IMG SRC="nextarow.gif" WIDTH="31" HEIGHT="31" ALIGN="BOTTOM" ALT="arrow"
+			BORDER="0"></A>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH="33%">
+			<P ALIGN="CENTER"><A HREF="app.htm">previous</A>
+		</TD>
+		<TD WIDTH="33%">
+			<P ALIGN="CENTER"><A HREF="#top">top</A>
+		</TD>
+		<TD WIDTH="34%">
+			<P ALIGN="CENTER"><A HREF="lyapexp.htm">next</A>
+		</TD>
+	</TR>
+</TABLE>
+
+<HR ALIGN="CENTER" NOSHADE>
+<!---
+<IMG SRC="baustell.gif" WIDTH="49" HEIGHT="43" ALIGN="BOTTOM" BORDER="0">This site is still under construction!
+--->
+<nobr>
+<ADDRESS>&copy; 1998 <a href="http://www.elmer.unibas.ch">Franz-Josef Elmer</a>, <IMG SRC="envelope.gif" WIDTH="20" HEIGHT="10" ALIGN="BOTTOM" BORDER="0">
+&nbsp;Franz-Josef doht Elmer aht unibas doht ch, 
+last modified Friday, July 24, 1998.
+</BODY>
+
