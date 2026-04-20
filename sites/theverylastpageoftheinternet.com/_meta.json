@@ -1,0 +1,13 @@
+{
+  "source": "web.archive.org",
+  "domain": "theverylastpageoftheinternet.com",
+  "mirror_date": "2026-04-20T10:37:02.601023",
+  "total_urls": 1,
+  "downloaded": 1,
+  "failed": 0,
+  "files": 2,
+  "file_types": {
+    ".htm": 1,
+    ".txt": 1
+  }
+}

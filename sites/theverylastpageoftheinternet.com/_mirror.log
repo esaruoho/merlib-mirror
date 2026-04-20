@@ -1,0 +1,33 @@
+[2026-04-20 10:34:37] ============================================================
+[2026-04-20 10:34:37] WAYBACK MIRROR: theverylastpageoftheinternet.com
+[2026-04-20 10:34:37] Output: /Users/esaruoho/work/merlib-mirror/sites/theverylastpageoftheinternet.com
+[2026-04-20 10:34:37] Delay: 1.0s
+[2026-04-20 10:34:37] ============================================================
+[2026-04-20 10:34:37] Resuming: phase=init, 0 already done
+[2026-04-20 10:34:37] 
+=== PHASE 1: URL Discovery ===
+[2026-04-20 10:34:37] Querying CDX for theverylastpageoftheinternet.com...
+[2026-04-20 10:34:59]   Found 3796 URLs for theverylastpageoftheinternet.com
+[2026-04-20 10:34:59] Querying CDX for www.theverylastpageoftheinternet.com...
+[2026-04-20 10:36:01]   Found 3796 URLs for www.theverylastpageoftheinternet.com
+[2026-04-20 10:36:59] Path filter '/menu/mainold.htm': 3796 -> 1 URLs
+[2026-04-20 10:36:59] Total unique valid URLs: 1
+[2026-04-20 10:36:59]   text/html: 1
+[2026-04-20 10:36:59] 
+=== PHASE 2: Downloading ===
+[2026-04-20 10:37:02] 
+=== PHASE 3: Generating Index ===
+[2026-04-20 10:37:02] Generating index...
+[2026-04-20 10:37:02] Index: 2 files
+[2026-04-20 10:37:02]   .htm: 1
+[2026-04-20 10:37:02]   .txt: 1
+[2026-04-20 10:37:02] 
+============================================================
+[2026-04-20 10:37:02] MIRROR COMPLETE
+[2026-04-20 10:37:02] Total URLs: 1
+[2026-04-20 10:37:02] Downloaded: 1
+[2026-04-20 10:37:02] Failed: 0
+[2026-04-20 10:37:02] Files: 2
+[2026-04-20 10:37:02] ============================================================
+[2026-04-20 10:37:02] 
+Next step: fe-ingest.sh /Users/esaruoho/work/merlib-mirror/sites/theverylastpageoftheinternet.com
