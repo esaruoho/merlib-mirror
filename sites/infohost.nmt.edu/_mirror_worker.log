@@ -1,18 +1,3 @@
-[2026-04-21 12:21:49] ============================================================
-[2026-04-21 12:21:49] WAYBACK MIRROR: infohost.nmt.edu
-[2026-04-21 12:21:49] Output: /Users/esaruoho/work/merlib-mirror/sites/infohost.nmt.edu
-[2026-04-21 12:21:49] Delay: 1.0s
-[2026-04-21 12:21:49] ============================================================
-[2026-04-21 12:21:49] Resuming: phase=init, 0 already done
-[2026-04-21 12:21:49] 
-=== PHASE 1: URL Discovery ===
-[2026-04-21 12:21:49] Querying CDX for infohost.nmt.edu...
-[2026-04-21 12:22:10]   Found 50000 URLs for infohost.nmt.edu
-[2026-04-21 12:22:10] Querying CDX for www.infohost.nmt.edu...
-[2026-04-21 12:22:21]   Found 50000 URLs for www.infohost.nmt.edu
-[2026-04-21 12:22:37] Path filter '/~pharis': 49721 -> 0 URLs
-[2026-04-21 12:22:37] Total unique valid URLs: 0
-[2026-04-21 12:22:37] ERROR: No URLs found!
 [2026-04-21 22:19:48] ============================================================
 [2026-04-21 22:19:48] WAYBACK MIRROR: infohost.nmt.edu
 [2026-04-21 22:19:48] Output: /Users/esaruoho/work/merlib-mirror/sites/infohost.nmt.edu
