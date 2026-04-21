@@ -1,0 +1,9 @@
+target: https://web.archive.org/web/20181212013130/http://infohost.nmt.edu/~pharis/
+domain: infohost.nmt.edu
+mode: wayback
+path_filter: /~pharis
+ts_to: 20181212
+label: 
+offline: false
+submitted: 2026-04-21T19:16:21Z
+submitted_from: RayMac
