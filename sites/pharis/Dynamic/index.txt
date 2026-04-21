@@ -1,0 +1,19 @@
+Index of /~pharis/Dynamic 
+
+ Index of /~pharis/Dynamic 
+ Name Last modified Size Description 
+ Parent Directory - 
+ Chapter1.pdf 03-Jul-2001 11:48 171K 
+ Chapter2.pdf 03-Jul-2001 11:48 368K 
+ Chapter3.pdf 03-Jul-2001 11:48 227K 
+ Chapter4.pdf 03-Jul-2001 11:48 383K 
+ Chapter5.pdf 03-Jul-2001 11:48 320K 
+ Chapter6.pdf 03-Jul-2001 11:48 309K 
+ Chapter7.pdf 03-Jul-2001 11:48 256K 
+ Chapter8.pdf 03-Jul-2001 11:48 125K 
+ Chapter9.pdf 03-Jul-2001 11:48 97K 
+ Dynamic_Theory.zip 03-Jul-2001 12:59 2.1M 
+ Intro.pdf 03-Jul-2001 11:48 87K 
+ dynahome.html 03-Jul-2001 12:53 890 
+
+ Apache/2.2.3 (Red Hat) Server at infohost.nmt.edu Port 80
