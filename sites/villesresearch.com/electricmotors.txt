@@ -1,0 +1,61 @@
+Ville's Research 
+
+ Homepage 
+ Experiments 
+ About 
+ Resources 
+
+ Electric motors 
+
+ Heart monopole aka homopolar motor, discovered by Michael Faraday 1821 
+
+ Experiments with simple homopolar motor demonstrated rotational directions produced by electric and magnetic fields. 
+ When battery's positive pole and permanent magnet's geomagnetic North pole are upwards, conductor rotates counter-clockwise when observed from the top. 
+
+ Battery (pole on top) 
+ + 
+ + 
+ - 
+ - 
+
+ Magnet (pole on top) 
+ North 
+ South 
+ North 
+ South 
+
+ Conductor (rotation) 
+ CCW 
+ CW 
+ CW 
+ CCW 
+
+ The rotation of the conductor can be explained by the Lorentz force. (1) Note that in the drawing magnetic poles are defined as in electrical theory and the magnet is rotating instead of the conductor. 
+ However, there is an alternative explanation that is worth exploring. According to John Bedini (2009) zero-point vacuum energy enters the magnet at Bloch wall and creates the magnetic fields. He sees the magnetic fields as a sort of figure eight, where particles of magnetic flux are flowing in and out the magnet in a perpetual state. These particles are also spinning. Bedini says this motor proves that the magnetic fields are actually rotating because there is no switching action on the motor. (2) 
+
+ References 
+ (1) Wikipedia. Homopolar motor. Retrieved October 12, 2011, from http://en.wikipedia.org/wiki/Homopolar_motor 
+ (2) Craddock, Anthony J. 2009. Energy from the Vacuum part 12 - Petrovoltaics and the Faraday motor. 
+
+ Figure 
+ Lorentz force. Retrieved and modified October 12, 2011 from http://scitation.aip.org/journals/doc/PHTEAH-ft/vol_42/iss_9/553_1-F2.jpg 
+
+ What's new 
+
+ Wireless light (September 18, 2012) 
+ Magnetic fields and energies (July 18, 2012) 
+ Attraction curve (October 21, 2011) 
+ Heart monopole (October 12, 2011) 
+ Artificial honeycomb (July 13, 2011) 
+ Hyperbolic disc (February 3, 2011) 
+ Structural analysis (December 13, 2010) 
+ These webpages! (September 30, 2010) 
+
+ Research 
+
+ Electric motors 
+ Permanent magnet motors 
+ Cavity structural effect 
+ Ether research 
+
+ &copy; 2010-2012 Ville Piippola
