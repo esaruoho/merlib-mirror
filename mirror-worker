@@ -75,12 +75,18 @@ commit_and_push() {
   local site_dir="$3"   # absolute path to the job's output directory
   cd "$REPO_DIR"
 
-  # Create a branch for this mirror job
+  # Create (or recreate) a branch for this mirror job.
+  # -B is idempotent: deletes any local branch of the same name and creates
+  # fresh from main. Without this, a stale local branch from a prior run could
+  # be checked out instead and overwrite today's freshly-crawled tracked files
+  # (e.g. _meta.json, _mirror.log) with yesterday's committed versions — which
+  # is exactly what happened to mirror/meyl.eu PR #33 (commit contained
+  # yesterday's 5 stale files while disk had 178 fresh ones).
   local branch="mirror/${domain//[^a-zA-Z0-9._-]/-}"
-  git checkout -b "$branch" main 2>/dev/null || git checkout "$branch" 2>/dev/null || {
-    log "WARNING: could not create branch $branch, committing to main"
-    git checkout main 2>/dev/null
-  }
+  if ! git checkout -B "$branch" main 2>/dev/null; then
+    log "WARNING: could not create branch $branch (checkout -B failed), committing to main"
+    git checkout main 2>/dev/null || true
+  fi
 
   # ONLY add files belonging to this job — never git add -A
   if [[ -d "$site_dir" ]]; then
