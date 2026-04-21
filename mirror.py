@@ -614,8 +614,16 @@ def download_wayback_url(url, cdx_timestamp, domain, output_dir, delay):
     timestamps += [t for t in FALLBACK_TIMESTAMPS if t not in timestamps]
 
     consecutive_fails = 0
+    cdx_extras_loaded = False
+    attempts_made = 0
+    # Cap grows once CDX extras are loaded so we can actually try them.
+    max_attempts = MAX_TIMESTAMP_ATTEMPTS
+    i = 0
 
-    for ts in timestamps[:MAX_TIMESTAMP_ATTEMPTS]:
+    while i < len(timestamps) and attempts_made < max_attempts:
+        ts = timestamps[i]
+        i += 1
+        attempts_made += 1
         wayback_url = f"https://web.archive.org/web/{ts}{modifier}/{clean_url}"
         content, _ct, ok = fetch_url(wayback_url)
 
@@ -650,6 +658,30 @@ def download_wayback_url(url, cdx_timestamp, domain, output_dir, delay):
             break
 
         time.sleep(0.2)
+
+        # After exhausting the initial list, do one CDX lookup for ALL known
+        # snapshots of this URL and append any we haven't tried yet.
+        if i >= len(timestamps) and not cdx_extras_loaded:
+            cdx_extras_loaded = True
+            try:
+                q = f"https://web.archive.org/cdx/search/cdx?url={urllib.parse.quote(clean_url, safe='')}&output=json&fl=timestamp,statuscode&filter=statuscode:200"
+                snap_content, _ct, snap_ok = fetch_url(q, timeout=30)
+                if snap_ok:
+                    snap_data = json.loads(snap_content)
+                    known = {t[:8] for t in timestamps}
+                    added = 0
+                    for row in snap_data[1:]:
+                        t8 = row[0][:8]
+                        if t8 not in known:
+                            timestamps.append(t8)
+                            known.add(t8)
+                            added += 1
+                    if added:
+                        # Allow up to 8 more attempts to try the new timestamps.
+                        max_attempts += min(added, 8)
+                        consecutive_fails = 0
+            except Exception:
+                pass
 
     return False, 0, None
 
@@ -758,11 +790,19 @@ def run_wayback(domain, resume=False, ts_from=None, ts_to=None, delay=None, outp
         log("\n=== PHASE 1: URL Discovery ===")
 
         all_urls = []
-        for query_domain in [domain, f"www.{domain}"]:
-            log(f"Querying CDX for {query_domain}...")
+        # When a path filter is given, scope the CDX query to that subpath directly.
+        # Avoids the 50k per-query cap eating the subpath on large hosts.
+        if path_filter:
+            sub = path_filter.strip('/')
+            url_patterns = [f'{domain}/{sub}/*', f'www.{domain}/{sub}/*']
+        else:
+            url_patterns = [f'{domain}/*', f'www.{domain}/*']
+
+        for url_pattern in url_patterns:
+            log(f"Querying CDX for {url_pattern}...")
 
             params = {
-                'url': f'{query_domain}/*',
+                'url': url_pattern,
                 'output': 'json',
                 'collapse': 'urlkey',
                 'filter': 'statuscode:200',
@@ -779,13 +819,13 @@ def run_wayback(domain, resume=False, ts_from=None, ts_to=None, delay=None, outp
 
             content, _ct, ok = fetch_url(cdx_url, timeout=120)
             if not ok:
-                log(f"  CDX query failed for {query_domain}")
+                log(f"  CDX query failed for {url_pattern}")
                 continue
 
             try:
                 data = json.loads(content)
                 if len(data) < 2:
-                    log(f"  No results for {query_domain}")
+                    log(f"  No results for {url_pattern}")
                     continue
 
                 for row in data[1:]:
@@ -798,9 +838,9 @@ def run_wayback(domain, resume=False, ts_from=None, ts_to=None, delay=None, outp
                             'length': row[4] if len(row) > 4 else '',
                         })
 
-                log(f"  Found {len(data) - 1} URLs for {query_domain}")
+                log(f"  Found {len(data) - 1} URLs for {url_pattern}")
             except json.JSONDecodeError as e:
-                log(f"  JSON parse error for {query_domain}: {e}")
+                log(f"  JSON parse error for {url_pattern}: {e}")
 
         # Also check root domain
         for root_domain in [domain, f"www.{domain}"]:
