@@ -1,0 +1,528 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+
+<HEAD>
+<LINK REV="made" HREF="mailto:Franz-Josef.Elmer@unibas.ch">
+<META name="keywords" content="Pendulum, Physics, Nonlinear Dynamics">
+<META name="description" content="Pendulum dynamics">
+
+	<META NAME="GENERATOR" Content="Visual Page 1.0 for Windows">
+	<META HTTP-EQUIV="Content-Type" CONTENT="text/html;CHARSET=iso-8859-1">
+	<TITLE>Harmonic Oscillator</TITLE>
+</HEAD>
+
+<BODY TEXT="#000000" BGCOLOR="#FFFFB0" LINK="#0000FF" VLINK="#0000FF" ALINK="#FF0000">
+
+<P><A NAME="top"></A> 
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0">
+	<TR ALIGN="CENTER">
+		<TD WIDTH="120" VALIGN="TOP">
+			<CENTER>
+			<P>
+			<TABLE BORDER="4" BGCOLOR="#FFFFFF">
+				<TR>
+					<TD>
+						<P ALIGN="CENTER"><A HREF="index.html"><IMG SRC="plab_s.gif" WIDTH="101" HEIGHT="35" ALIGN="BOTTOM" ALT="Logo"
+						BORDER="0"></A>
+					</TD>
+				</TR>
+			</TABLE>
+
+</CENTER>
+		</TD>
+		<TD>
+			<CENTER>
+			<P>
+			<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="248">
+				<TR>
+					<TD WIDTH="124" BGCOLOR="#FFFFFF">
+						<P ALIGN="CENTER"><A HREF="lab.htm"><FONT SIZE="4">The Lab</FONT></A>
+					</TD>
+					<TD WIDTH="124" BGCOLOR="#99FF99">
+						<P ALIGN="CENTER"><A HREF="lroom.htm"><FONT SIZE="4"><B>The Lecture Room</B></FONT></A>
+					</TD>
+				</TR>
+				<TR>
+					<TD WIDTH="124"><IMG SRC="nb_b.gif" WIDTH="124" HEIGHT="6" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_u.gif" WIDTH="124" HEIGHT="6" ALIGN="BOTTOM" BORDER="0"></TD>
+				</TR>
+			</TABLE>
+
+			<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="620">
+				<TR>
+					<TD WIDTH="124"><IMG SRC="nb_l.gif" WIDTH="124" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_m.gif" WIDTH="124" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_m.gif" WIDTH="124" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_m.gif" WIDTH="124" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_r.gif" WIDTH="124" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"></TD>
+				</TR>
+				<TR>
+					<TD WIDTH="124" BGCOLOR="#FFFFFF">
+						<P ALIGN="CENTER"><A HREF="eqm.htm">The Equations of Motion</A>
+					</TD>
+					<TD WIDTH="124" BGCOLOR="#99FF99">
+						<P ALIGN="CENTER"><A HREF="oscres.htm"><B>Oscillations and Resonances</B></A>
+					</TD>
+					<TD WIDTH="124" BGCOLOR="#FFFFFF">
+						<P ALIGN="CENTER"><A HREF="nldyn.htm">Nonlinear Dynamics</A>
+					</TD>
+					<TD WIDTH="124" BGCOLOR="#FFFFFF">
+						<P ALIGN="CENTER"><A HREF="app.htm">Miscellaneous Topics</A>
+					</TD>
+					<TD WIDTH="124" BGCOLOR="#FFFFFF">
+						<P ALIGN="CENTER"><A HREF="links.htm">Links and Literature</A>
+					</TD>
+				</TR>
+				<TR>
+					<TD WIDTH="124"><IMG SRC="nb_b.gif" WIDTH="124" HEIGHT="6" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_u.gif" WIDTH="124" HEIGHT="6" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_b.gif" WIDTH="124" HEIGHT="6" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_b.gif" WIDTH="124" HEIGHT="6" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_b.gif" WIDTH="124" HEIGHT="6" ALIGN="BOTTOM" BORDER="0"></TD>
+				</TR>
+			</TABLE>
+
+			<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="496">
+				<TR>
+					<TD WIDTH="124"><IMG SRC="nb_l.gif" WIDTH="124" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_m.gif" WIDTH="124" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_m.gif" WIDTH="124" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_r.gif" WIDTH="124" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"></TD>
+				</TR>
+				<TR>
+					<TD WIDTH="124" BGCOLOR="#99FF99">
+						<P ALIGN="CENTER"><A HREF="harmosc.htm"><I><B>The Harmonic Oscillator</B></I></A>
+					</TD>
+					<TD WIDTH="124" BGCOLOR="#FFFFFF">
+						<P ALIGN="CENTER"><A HREF="nonosc.htm"><I>Nonlinear Oscillations</I></A>
+					</TD>
+					<TD WIDTH="124" BGCOLOR="#FFFFFF">
+						<P ALIGN="CENTER"><A HREF="nonres.htm"><I>Nonlinear Resonance</I></A>
+					</TD>
+					<TD WIDTH="124" BGCOLOR="#FFFFFF">
+						<P ALIGN="CENTER"><A HREF="parres.htm"><I>Parametric Resonance</I></A>
+					</TD>
+				</TR>
+			</TABLE>
+
+</CENTER>
+		</TD>
+	</TR>
+</TABLE>
+</P>
+<P>
+<H1 ALIGN="CENTER">The Harmonic Oscillator</H1>
+<p>The harmonic oscillator is a canonical system discussed in every
+freshman course of physics. Thus, you might skip this lecture if you are
+familiar with it.
+</p>
+<H2><A NAME="solution"></A>1. Basic equations of motion and solutions</H2>
+<P>The linearized equation of motion of an undamped and undriven pendulum is called a 
+<I>harmonic oscillator</I>:<BR><br>
+<a name="1"></a>
+<TABLE BORDER="0" CELLSPACING="0">
+	<TR>
+		<TD WIDTH="35"><A NAME="1"></A>(1)</TD>
+		<TD WIDTH="1000" ALIGN="CENTER">
+			<P ALIGN="CENTER"><nobr><i>d</i><SUP>2<IMG SRC="greek/varphi.gif" align=middle alt="phi" hspace=2
+></SUP>/<I>dt</I><SUP>2</SUP> + <IMG SRC="greek/omega.gif" align=middle alt="omega" hspace=2
+><SUB>0</SUB><SUP>2<IMG SRC="greek/varphi.gif" align=middle alt="phi" hspace=2
+></SUP> = 0,</nobr>
+		</TD>
+	</TR>
+</TABLE>
+</P>
+<a name="super"></a>
+<P>Nearly all oscillators and oscillations in physics are modeled by this equation of motion, at least in a first
+approximation, because it can be solved analytically. It is a linear second-order
+differential equation with constant coefficients. 
+Such a differential equation can be solved easily by the ansatz
+<nobr><IMG SRC="greek/varphi.gif" align=middle alt="phi" hspace=2>= exp(<IMG SRC="greek/lambda.gif" align=middle alt="lambda" hspace=2
+><I>t</I>),</nobr> where <IMG SRC="greek/lambda.gif" align=middle alt="lambda" hspace=2
+> is some constant which has to be calculated. Each <nobr><i>d</i>/<i>dt</i></nobr>
+puts a factor <IMG SRC="greek/lambda.gif" align=middle alt="lambda" hspace=2> before the exponential
+function. Thus, a linear ordinary differential equation like (<a href="#1">1</a>)
+turns into a polynomial because the
+common exponential function (a nonzero factor) can be dropped. Thus, <nobr><IMG
+SRC="greek/lambda.gif" align=middle alt="lambda" hspace=2><SUP>2</SUP> + <IMG SRC="greek/omega.gif" align=middle alt="omega" hspace=2
+><SUB>0</SUB><SUP>2</SUP> = 0.</nobr> The roots
+of this so-called <b>characteristic polynomial</b> are <nobr><IMG SRC="greek/lambda.gif" align=middle alt="lambda" hspace=2
+> = &plusmn;<i>i</i><IMG SRC="greek/omega.gif" align=middle alt="omega" hspace=2
+><SUB>0</SUB>.</nobr> Hence, we get <I>two</I> solutions. Because the equation of motion is
+<I>linear</I>, one gets new solutions by multiplying a known solution by an arbitrary factor or by adding a solution
+to another one. This so-called <b>superposition principle</b> of linear differential equations is very powerful.
+It says that <I>any</I> solution can be built up by only a few different types of &quot;building blocks&quot; called
+<b>fundamental solutions</b>. The solutions <nobr>exp(-<i>i</i><IMG SRC="greek/omega.gif" align=middle alt="omega" hspace=2
+><SUB>0</SUB><I>t</I>)</nobr> and <nobr>exp(+<i>i</i><IMG SRC="greek/omega.gif" align=middle alt="omega" hspace=2
+><SUB>0</SUB><I>t</I>)</nobr> are a set of two independent
+fundamental solutions of the harmonic oscillator. Thus, the general solution of (<A HREF="#1">1</A>) reads <br><br>
+<a name="2"></a>
+<TABLE BORDER="0" CELLSPACING="0">
+	<TR>
+		<TD WIDTH="35"><A NAME="2"></A>(2)</TD>
+		<TD WIDTH="1000" ALIGN="CENTER">
+			<P ALIGN="CENTER"><nobr><IMG SRC="greek/varphi.gif" align=middle alt="phi" hspace=2>(<I>t</I>)
+			= <I>C </I>exp(<i>i</i><IMG SRC="greek/omega.gif" align=middle alt="omega" hspace=2><SUB>0</SUB><I>t</I>)
+			+ <I>C<SUP>*</SUP> </I>exp(-<i>i</i><IMG SRC="greek/omega.gif" align=middle alt="omega" hspace=2
+><SUB>0</SUB><I>t</I>),</nobr>
+		</TD>
+	</TR>
+</TABLE><br>
+where <I>C</I> is a complex number and <I>C</I><SUP>* </SUP>denotes its conjugated complex. Because of the superposition
+principle, the set of fundamental solutions can be arbitrary, except that a fundamental solution has to be independent
+from the other ones. That is, each fundamental solution can not be written as a weighted
+sum of the other fundamental solutions. Instead of the complex
+valued exponential functions, one often chooses <nobr>sin(<IMG SRC="greek/omega.gif" align=middle alt="omega" hspace=2
+><SUB>0</SUB><I>t</I>)=(exp(<i>i</i><IMG SRC="greek/omega.gif" align=middle alt="omega" hspace=2
+><SUB>0</SUB><I>t</I>)-exp(-<i>i</i><IMG SRC="greek/omega.gif" align=middle alt="omega" hspace=2
+><SUB>0</SUB><I>t</I>))/2<i>i</i></nobr> and <nobr>cos(<IMG SRC="greek/omega.gif" align=middle alt="omega" hspace=2
+><SUB>0</SUB><I>t</I>)=(exp(<i>i</i><IMG SRC="greek/omega.gif" align=middle alt="omega" hspace=2
+><SUB>0</SUB><I>t</I>)+exp(-<i>i</i><IMG SRC="greek/omega.gif" align=middle alt="omega" hspace=2
+><SUB>0</SUB><I>t</I>))/2</nobr> as another
+set of fundamental solutions. Therefore, 
+<TABLE BORDER="0" CELLSPACING="0">
+	<TR>
+		<TD WIDTH="35"><A NAME="3"></A>(3)</TD>
+		<TD WIDTH="1000" ALIGN="CENTER">
+			<P ALIGN="CENTER"><nobr><IMG SRC="greek/varphi.gif" align=middle alt="phi" hspace=2>(<I>t</I>)
+			= <I>A </I>sin(<IMG SRC="greek/omega.gif" align=middle alt="omega" hspace=2><SUB>0</SUB><I>t</I>)
+			+ <I>B </I>cos(<IMG SRC="greek/omega.gif" align=middle alt="omega" hspace=2><SUB>0</SUB><I>t</I>),</nobr>
+		</TD>
+	</TR>
+</TABLE>
+</P>
+<P>is a general solution, too. The constants <I>A</I> and <I>B</I> can be expressed in term of <I>C</I> and vice versa.</P>
+<P>
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0">
+	<TR>
+		<TD><IMG SRC="sinus.gif" WIDTH="439" HEIGHT="288" ALIGN="LEFT" BORDER="0">Using the porperties of trigonometric functions,
+			the general solution can also be expressed in a physically more relevant way:<BR>
+			
+			<TABLE BORDER="0" CELLSPACING="0">
+				<TR>
+					<TD WIDTH="35"><A NAME="4"></A>(4)</TD>
+					<TD WIDTH="200" ALIGN="CENTER">
+						<P ALIGN="CENTER"><nobr><IMG SRC="greek/varphi.gif" align=middle alt="phi" hspace=2>(<I>t</I>)
+						= <IMG SRC="greek/varphi.gif" align=middle alt="phi" hspace=2><SUB>max </SUB>sin(<IMG
+						SRC="greek/omega.gif" align=middle alt="omega" hspace=2><SUB>0</SUB><I>t</I>-<IMG
+						SRC="greek/psi.gif" align=middle alt="psi" hspace=2>),</nobr>
+					</TD>
+				</TR>
+			</TABLE>
+where <nobr><IMG SRC="greek/varphi.gif" align=middle alt="phi" hspace=2><SUB>max
+			</SUB></nobr><SUB> </SUB>and <nobr><IMG SRC="greek/psi.gif" align=middle alt="psi" hspace=2></nobr>
+			are the <b>amplitude</b> and the <b>phase</b> of oscillation, respectively. Again they can be expressed in terms
+			of the integration constants of (<A HREF="#2">2</A>) or (<A HREF="#3">3</A>). Note, that these constants are determined
+			by the initial conditions <nobr><IMG SRC="greek/varphi.gif" align=middle alt="phi" hspace=2
+>(<I>0</I>)</nobr><SUB> </SUB>and <nobr><i>d</i><IMG SRC="greek/varphi.gif" align=middle alt="phi" hspace=0
+>/<I>dt</I>|<SUB>0</SUB></nobr>. The <b>period</b> of oscillation is <nobr><I>T</I><SUB>0</SUB>=2<IMG
+			SRC="greek/pi.gif" align=middle alt="pi" hspace=2>/<IMG SRC="greek/omega.gif" align=middle alt="omega" hspace=2
+><SUB>0</SUB>.</nobr> These three quantities are independent from each 
+other. This isn't a triviality as <A HREF="nonosc.htm">nonlinear 
+oscillations</A> show. In fact, the independence of the frequency from the 
+amplitude is a more subtile definition of a harmonic oscillator.</TD>
+	</TR>
+</TABLE>
+</P>
+<H2><A NAME="damping"></A>2. Damping</H2>
+<P>What happens if the harmonic oscilliator is damped? In this case, the equation of motions has an additional term which
+comes from the damping force:</P>
+<P>
+<a name="5"><TABLE BORDER="0" CELLSPACING="0">
+<TR><TD WIDTH="35">(5)</TD>
+<TD WIDTH="1000" ALIGN="CENTER">
+<P ALIGN="CENTER"><nobr><i>d</i><SUP>2<IMG SRC="greek/varphi.gif" align=middle 
+alt="phi" hspace=2></SUP>/<I>dt</I><SUP>2</SUP> + <IMG SRC="greek/gamma.gif" 
+align=middle alt="gamma" hspace=2><i>d</i><IMG
+SRC="greek/varphi.gif" align=middle alt="phi" hspace=2>/<I>dt</I> +
+<IMG SRC="greek/omega.gif" align=middle alt="omega" 
+hspace=2><SUB>0</SUB><SUP>2<IMG
+SRC="greek/varphi.gif" align=middle alt="phi" hspace=2></SUP> = 0.</nobr>
+</TD></TR></TABLE></a>
+</P>
+
+<P>Again, with the ansatz <nobr><IMG SRC="greek/varphi.gif" align=middle alt="phi" hspace=2
+>= exp(<IMG SRC="greek/lambda.gif" align=middle alt="lambda" hspace=2><I>t</I>),</nobr>
+one gets a characteristic polynomial:
+<nobr><IMG SRC="greek/lambda.gif" align=middle alt="lambda" hspace=2><SUP>2</SUP> + <IMG SRC="greek/gamma.gif" align=middle alt="gamma" hspace=2
+><IMG SRC="greek/lambda.gif" align=middle alt="lambda" hspace=2
+> + <IMG SRC="greek/omega.gif" align=middle alt="omega" hspace=2><SUB>0</SUB><SUP>2</SUP>
+= 0.</nobr> It has the solutions</P>
+<P>
+<TABLE BORDER="0" CELLSPACING="0">
+	<TR>
+		<TD WIDTH="35"><A NAME="6"></A>(6)</TD>
+		<TD WIDTH="1000" ALIGN="CENTER">
+			<P ALIGN="CENTER"><nobr><IMG SRC="greek/lambda.gif" align=middle alt="lambda" hspace=2><SUB>&plusmn;</SUB>
+			= -<IMG SRC="greek/gamma.gif" align=middle alt="gamma" hspace=2>/2 &plusmn; (<IMG SRC="greek/gamma.gif" align=middle alt="gamma" hspace=2
+><SUP>2</SUP>/4 - <IMG SRC="greek/omega.gif" align=middle alt="omega" hspace=2
+><SUB>0</SUB><SUP>2</SUP>)<SUP>1/2</SUP>.</nobr>
+		</TD>
+	</TR>
+</TABLE>
+</P>
+<P>
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0">
+	<TR>
+		<TD>
+			<P><IMG SRC="hosc.gif" WIDTH="264" HEIGHT="456" ALIGN="LEFT" BORDER="0">Depending on wether <nobr><IMG SRC="greek/gamma.gif" align=middle alt="gamma" hspace=2
+><SUP>2</SUP>/4</nobr> is less than, equal, or greater than <nobr><IMG
+			SRC="greek/omega.gif" align=middle alt="omega" hspace=2><SUB>0</SUB><SUP>2</SUP>,</nobr>
+			one has to distinguish three cases:</P>
+			<DL>
+				<DT>The <B>underdamped </B>case: <nobr><IMG SRC="greek/gamma.gif" align=middle alt="gamma" hspace=2>/2
+				&lt; <IMG SRC="greek/omega.gif" align=middle alt="omega" hspace=2><SUB>0</SUB></nobr></DT>
+<DD>The eigenvalues <IMG SRC="greek/lambda.gif" align=middle alt="lambda" hspace=2><SUB>&plusmn;</SUB>
+are a conjugated complex pair. The imaginary part 
+<nobr>(<IMG SRC="greek/omega.gif" align=middle alt="omega" hspace=2
+><SUB>0</SUB><SUP>2</SUP> - <IMG 
+SRC="greek/gamma.gif" align=middle alt="gamma" hspace=2
+><SUP>2</SUP>/4 )<SUP>1/2</SUP></nobr><SUP> </SUP>is just the frequency <IMG 
+SRC="greek/omega.gif" align=middle alt="omega" hspace=2
+> of a damped oscillation. The real part determines
+the rate of decay. The general solution reads 
+<A NAME="7"></A><TABLE BORDER="0" CELLSPACING="0" WIDTH="369">
+<TR>
+    <TD WIDTH="69">(7)</TD>
+						<TD WIDTH="292" ALIGN="CENTER">
+							<P ALIGN="CENTER"><nobr><IMG SRC="greek/varphi.gif" align=middle alt="phi" hspace=2>(<I>t</I>)
+							= <IMG SRC="greek/varphi.gif" align=middle alt="phi" hspace=2><SUB>max </SUB>exp(-<IMG
+							SRC="greek/gamma.gif" align=middle alt="gamma" hspace=2><I>t</I>/2) sin(<IMG SRC="greek/omega.gif" align=middle alt="omega" hspace=2
+><I>t</I>+<IMG SRC="greek/psi.gif" align=middle alt="psi" hspace=2
+>),</nobr>
+						</TD>
+					</TR>
+				</TABLE>
+The exponentially decaying amplitude of the oscillation is called the <I>envelope</I>.
+<DT>The <B>critically damped</B> case: <nobr><IMG SRC="greek/gamma.gif" align=middle alt="gamma" hspace=2>/2
+				= <IMG SRC="greek/omega.gif" align=middle alt="omega" hspace=2><SUB>0</SUB></nobr></DT>
+<DD>Both eigenvalues are identically. In this so-called <I>degenerated</I> 
+case, the ansatz <nobr><IMG SRC="greek/varphi.gif" align=middle alt="phi" 
+hspace=2> = exp(<IMG SRC="greek/lambda.gif" align=middle alt="lambda" 
+hspace=2><I>t</I>)</nobr> is not generally enough because it leads only to one solution.
+But for a fundamental system two independent solutions are needed. Where do we get a second solution? In such a case
+the ansatz <nobr><IMG SRC="greek/varphi.gif" align=middle alt="phi" hspace=2 >=
+				<I>t</I>&nbsp;exp(<IMG SRC="greek/lambda.gif" align=middle alt="lambda" 
+hspace=2><I>t</I>)</nobr> helps. Thus the general solution reads 
+				<TABLE BORDER="0" CELLSPACING="0" WIDTH="369">
+					<TR>
+						<TD WIDTH="69"><A NAME="8"></A>(8)</TD>
+						<TD WIDTH="292" ALIGN="CENTER">
+							<P ALIGN="CENTER"><nobr><IMG SRC="greek/varphi.gif" align=middle alt="phi" hspace=2>(<I>t</I>)
+							= (<I>At</I>+<I>B</I>)<SUB> </SUB>exp(-<IMG SRC="greek/gamma.gif" align=middle alt="gamma" hspace=2><I>t</I>/2).</nobr>
+						</TD>
+					</TR>
+				</TABLE>
+
+				<DT>The <B>overdamped </B>case: <nobr><IMG SRC="greek/gamma.gif" align=middle alt="gamma" hspace=2>/2
+				&gt; <IMG SRC="greek/omega.gif" align=middle alt="omega" hspace=2><SUB>0</SUB></nobr></DT>
+				<DD>Both eigenvalues are negative and real. The general solution reads 
+				<TABLE BORDER="0" CELLSPACING="0" WIDTH="369">
+					<TR>
+						<TD WIDTH="69"><A NAME="8"></A>(8)</TD>
+						<TD WIDTH="292" ALIGN="CENTER">
+							<P ALIGN="CENTER"><nobr><IMG SRC="greek/varphi.gif" align=middle alt="phi" hspace=2>(<I>t</I>)
+							= <I>A</I><SUB>+ </SUB>exp(<IMG SRC="greek/lambda.gif" align=middle alt="lambda" hspace=2><SUB>+</SUB><I>t</I>)
+							+ <I>A</I><SUB>- </SUB>exp(<IMG SRC="greek/lambda.gif" align=middle alt="lambda" hspace=2><SUB>-</SUB><I>t</I>).</nobr>
+						</TD>
+					</TR>
+				</TABLE>
+Any initial condition leads to an exponentially decay. There is only one extrema (minimum or maximum)
+				contrary to the underdamped case with infinitely many maxima and minima. The decay is dominated by the eigenvalue
+				most closest to zero.
+			</DL>
+		</TD>
+	</TR>
+</TABLE>
+</P>
+
+<H2><A NAME="resonance"></A>3. Resonance</H2>
+<P>Oscillations in a damped harmonic oscillator decay to zero. When it is 
+driven by a periodic force, one oscillation survives. 
+The equation of motion of a damped and driven harmonic oscillator reads <br><br>
+<TABLE BORDER="0" CELLSPACING="0">
+ <TR>
+  <TD WIDTH="35"><A NAME="9"></A>(9)</TD>
+  <TD WIDTH="817" ALIGN="CENTER">
+   <P ALIGN="CENTER"><nobr><i>d</i><SUP>2<IMG SRC="greek/varphi.gif" align=middle alt="phi" hspace=2
+   ></SUP>/<I>dt</I><SUP>2</SUP> + <IMG SRC="greek/gamma.gif" align=middle alt="gamma" hspace=2><i>d</i><IMG
+   SRC="greek/varphi.gif" align=middle alt="phi" hspace=2>/<I>dt</I>+
+   <IMG SRC="greek/omega.gif" align=middle alt="omega" hspace=2><SUB>0</SUB><SUP>2<IMG
+   SRC="greek/varphi.gif" align=middle alt="phi" hspace=2></SUP> = <I>a</I> cos
+   2<IMG SRC="greek/pi.gif" align=middle alt="pi" hspace=2><I>f t</I>.</nobr>
+  </TD>
+ </TR>
+</TABLE><br>
+This is still a linear differential equation, but the sum of two solutions are no longer a solution. The reason
+for that is the <b>inhomogenous term</b> on the right-hand side. Nevertheless, the superposition principle holds
+in a modified version. A solution of (<A HREF="#9">9</A>) plus an arbitray solution of 
+(<A HREF="#5">5</A>) (a so-called <b>homogeneous solution</b>) 
+is also a solution of (<A HREF="#9">9</A>). 
+One needs only <I>one</I> solution of (<A HREF="#9">9</A>) (the so-called <b>particular
+solution</b>) to generate any solution of 
+(<A HREF="#9">9</A>) with the help of the homogeneous solution. Here, a particular solution can be found by the ansatz <br><br>
+<A NAME="10"></A><TABLE BORDER="0" CELLSPACING="0" WIDTH="369">
+	<TR>
+		<TD WIDTH="69">(10)</TD>
+		<TD WIDTH="292" ALIGN="CENTER">
+			<P ALIGN="CENTER"><nobr><IMG SRC="greek/varphi.gif" align=middle alt="phi" hspace=2>(<I>t</I>)
+			= <I>A </I>sin(2<IMG SRC="greek/pi.gif" align=middle alt="pi" hspace=2><I>f t</I>)<I> +</I> <I>B
+			</I>cos(2<IMG SRC="greek/pi.gif" align=middle alt="pi" hspace=2><I>f t</I>).</nobr>
+		</TD>
+	</TR>
+</TABLE><br>
+It turns (<A HREF="#9">9</A>) into a sum with terms proportionally to <nobr>cos(2<IMG SRC="greek/pi.gif" align=middle alt="pi" hspace=2
+><I>f t</I>)</nobr> and <nobr>sin(2<IMG SRC="greek/pi.gif" align=middle alt="pi" hspace=2
+><I>f t</I>).</nobr> Because the equation should hold for any value of <I>t</I>,
+the sum of all cosinus terms and the sum of all sinus terms have to be zero independently. Hence, <nobr>[<IMG SRC="greek/omega.gif" align=middle alt="omega" hspace=2
+><SUB>0</SUB><SUP>2</SUP>-(2<IMG SRC="greek/pi.gif" align=middle alt="pi" hspace=2
+><I>f)</I><SUP>2</SUP>] <I>B + </I>2<IMG SRC="greek/pi.gif" align=middle alt="pi" hspace=2
+><I>f<IMG SRC="greek/gamma.gif" align=middle alt="gamma" hspace=2>
+A </I>= <I>a</I></nobr><I> </I>and <nobr>[<IMG SRC="greek/omega.gif" align=middle alt="omega" hspace=2
+><SUB>0</SUB><SUP>2</SUP>-(2<IMG SRC="greek/pi.gif" align=middle alt="pi" hspace=2
+><I>f)</I><SUP>2</SUP>]<I> A - </I>2<IMG SRC="greek/pi.gif" align=middle alt="pi" hspace=2><I>f<IMG
+SRC="greek/gamma.gif" align=middle alt="gamma" hspace=2> B </I>= 0,</nobr> respectively. The solution of these
+equations reads<br><br>
+<A NAME="11"></A><TABLE BORDER="0" CELLSPACING="0" WIDTH="804">
+	<TR>
+		<TD WIDTH="58">(11)</TD>
+		<TD WIDTH="300" ALIGN="CENTER">
+			<P ALIGN="CENTER"><nobr><I>A </I>= 2<IMG SRC="greek/pi.gif" align=middle alt="pi" hspace=2><I>f<IMG
+			SRC="greek/gamma.gif" align=middle alt="gamma" hspace=2>a</I> <FONT SIZE="5">/ (</FONT>[<IMG SRC="greek/omega.gif" align=middle alt="omega" hspace=2
+><SUB>0</SUB><SUP>2</SUP>-(2<IMG SRC="greek/pi.gif" align=middle alt="pi" hspace=2
+><I>f)</I><SUP>2</SUP>]<SUP>2</SUP><I> +</I> (2<IMG SRC="greek/pi.gif" align=middle alt="pi" hspace=2
+><I>f<IMG SRC="greek/gamma.gif" align=middle alt="gamma" hspace=2
+></I>)<SUP>2</SUP><FONT SIZE="5">)</FONT>,</nobr>
+		</TD>
+		<TD WIDTH="300" ALIGN="CENTER">
+			<P ALIGN="CENTER"><nobr><I>B </I>= [<IMG SRC="greek/omega.gif" align=middle alt="omega" hspace=2
+><SUB>0</SUB><SUP>2</SUP>-(2<IMG SRC="greek/pi.gif" align=middle alt="pi" hspace=2><I>f)</I><SUP>2</SUP>]
+			<I>a</I> <FONT SIZE="5">/ (</FONT>[<IMG SRC="greek/omega.gif" align=middle alt="omega" hspace=2
+><SUB>0</SUB><SUP>2</SUP>-(2<IMG SRC="greek/pi.gif" align=middle alt="pi" hspace=2><I>f)</I><SUP>2</SUP>]<SUP>2</SUP><I>
+			+</I> (2<IMG SRC="greek/pi.gif" align=middle alt="pi" hspace=2><I>f<IMG SRC="greek/gamma.gif" align=middle alt="gamma" hspace=2
+></I>)<SUP>2</SUP><FONT SIZE="5">)</FONT>.</nobr>
+		</TD>
+	</TR>
+</TABLE><br>
+</P>
+<P>In the long-time limit any solution of (<A HREF="#9">9</A>) approaches the particular solution (<A HREF="#10">10</A>)
+since any solution of (<A HREF="#5">5</A>) decays to zero. The harmonic oscillator, therefore, oscillates <I>not</I>
+with its eigenfrequency <nobr><IMG SRC="greek/omega.gif" align=middle alt="omega" hspace=2
+><SUB>0</SUB></nobr><SUB> </SUB>but with the frequency of the periodic force. The amplitude of oscillations
+depend on the driving frequency. It has its maximum when the driving frequency matches the eigenfrequency. This
+phenomenon is called <b>resonance</b>. To see this, rewrite equation (<A HREF="#10">10</A>) in the form <nobr><img
+src="greek/varphi.gif" align=middle alt="phi" hspace=2>(<i>t</i>)&nbsp;=&nbsp;<img
+src="greek/varphi.gif" align=middle alt="phi" hspace=2><sub>max</sub>&nbsp;cos(2<img src="greek/pi.gif" align=middle alt="pi" hspace=2><i>ft</i>-<img
+src="greek/psi.gif" align=middle alt="psi" hspace=2>)</nobr>, with<br> 
+<A NAME="12"><TABLE BORDER="0" CELLSPACING="0" WIDTH="610">
+	<TR>
+		<TD WIDTH="20">(12)</TD>
+		<TD WIDTH="411" ALIGN="CENTER">
+			<P ALIGN="CENTER"><nobr>&nbsp;<IMG SRC="greek/varphi.gif" align=middle alt="phi" hspace=2
+><SUB>max</SUB> = <I>a</I> <FONT SIZE="5">/</FONT> <FONT SIZE="5">(</FONT>[<IMG SRC="greek/omega.gif" align=middle alt="omega" hspace=2
+><SUB>0</SUB><SUP>2</SUP>-(2<IMG SRC="greek/pi.gif" align=middle alt="pi" hspace=2
+><I>f)</I><SUP>2</SUP>]<SUP>2</SUP><I> +</I> (2<IMG SRC="greek/pi.gif" align=middle alt="pi" hspace=2
+><I>f<IMG SRC="greek/gamma.gif" align=middle alt="gamma" hspace=2
+></I>)<SUP>2</SUP><FONT SIZE="5">)</FONT><SUP>1/2</SUP></nobr>
+		</TD>
+	</TR>
+</TABLE></A>
+</P>
+<P>and 
+<TABLE BORDER="0" CELLSPACING="0" WIDTH="633">
+	<TR>
+		<TD WIDTH="43"><A NAME="13"></A>(13)</TD>
+		<TD WIDTH="411" ALIGN="CENTER">
+			<P ALIGN="CENTER"><nobr><IMG SRC="greek/psi.gif" align=middle alt="psi" hspace=2> = arctan <FONT
+			SIZE="5">(</FONT>2<IMG SRC="greek/pi.gif" align=middle alt="pi" hspace=2><I>f<IMG SRC="greek/gamma.gif" align=middle alt="gamma" hspace=2
+></I><FONT SIZE="5"><I>/</I></FONT>[<IMG SRC="greek/omega.gif" align=middle alt="omega" hspace=2
+><SUB>0</SUB><SUP>2</SUP>-(2<IMG SRC="greek/pi.gif" align=middle alt="pi" hspace=2
+><I>f)</I><SUP>2</SUP>]<FONT SIZE="5">).</FONT></nobr>
+		</TD>
+	</TR>
+</TABLE><br>
+In the underdamped case, the amplitude as a function of the driving frequency has a maximum near the eigenfrequency <nobr><I>f</I><SUB>0</SUB>
+= <IMG SRC="greek/omega.gif" align=middle alt="omega" hspace=2
+><SUB>0</SUB>/2<IMG SRC="greek/pi.gif" align=middle alt="pi" hspace=2></nobr> of the oscillator. The deviation
+is of quadratic order in <IMG SRC="greek/gamma.gif" align=middle alt="gamma" hspace=2>. The maximum
+is <nobr><I>a</I>/(<IMG SRC="greek/omega.gif" align=middle alt="omega" hspace=2><SUB>0</SUB><IMG
+SRC="greek/gamma.gif" align=middle alt="gamma" hspace=2>)</nobr> in leading order of <IMG
+SRC="greek/gamma.gif" align=middle alt="gamma" hspace=2>. This is by a factor <nobr><IMG SRC="greek/omega.gif" align=middle alt="omega" hspace=2
+><SUB>0</SUB>/<IMG SRC="greek/gamma.gif" align=middle alt="gamma" hspace=2
+></nobr> larger than the amplitude for <nobr><I>f<IMG SRC="greek/rarrow.gif" align=middle alt="to" hspace=2
+></I>0.</nobr> That is, the amplitude of oscillation is larger
+than the amplitude of driving. This can be easily observed in the lab at the <A HREF="hpend.htm">horizontally driven
+pendulum</A>. The width of the so-called <b>resonance line</b> is proportional to <IMG SRC="greek/gamma.gif" align=middle alt="gamma" hspace=2
+>. In the critically damped and overdamped case the resonance line disappears.</P>
+<P ALIGN="CENTER"><IMG SRC="hres.gif" WIDTH="792" HEIGHT="440" ALIGN="BOTTOM" BORDER="0"></P>
+<P>In the limit <nobr><I>f<IMG SRC="greek/rarrow.gif" align=top alt="to" hspace=2
+></I>0</nobr> the phase of oscillation is identical with the driving phase. In resonance, the phase is just 90&deg; behind the driving
+phase. At high frequencies the phase approaches 180&#176;. 
+Thus, the pendulum moves just opposite to the drive. Again,
+this can be easily observed in the lab 
+at the <A HREF="hpend.htm">horizontally driven pendulum</A>.</P>
+<P>
+<TABLE BORDER="0" CELLPADDING="8" BGCOLOR="#80FFC0">
+        <TR>
+                <TD><B>QUESTIONS worth to think about:</B></TD>
+        </TR>
+        <TR>
+                <TD>
+                        <OL>
+<li>What happens with an undamped harmonic oscillator driven exactly by its eigenfrequency?
+<LI>Another look at the dynamics of the damped and driven harmonic oscillator
+is the following one: Instead of discussing the solution as a function of
+time, discuss it as a function of the initial conditions. For example, 
+calculate the angle and the angular velocity at a given time as a function
+of the angle and the angluar velocity for the previous period of driving. That is,
+given are the initial conditions <img src="greek/varphi.gif" align=middle alt="phi">(0)
+and <i>d</i><img src="greek/varphi.gif" align=middle alt="phi">/<i>dt</i>|<sub>0</sub>.
+Calculate <img src="greek/varphi.gif" align=middle alt="phi">(1/<i>f</i>)
+and <i>d</i><img src="greek/varphi.gif" align=middle alt="phi">/<i>dt</i>|<sub>1/<i>f</i>
+</sub> as a function of the initial conditions. This calculation leads to
+a <a href="bterm.htm#pmap">Poincar&eacute; map</a> or <b>stroboscopic map</b>.
+                        </OL>
+                </TD>
+        </TR>
+</TABLE>
+</P>
+
+<P>
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="19%">
+	<TR>
+		<TD WIDTH="33%">
+			<P ALIGN="CENTER"><A HREF="oscres.htm"><IMG SRC="prevarow.gif" WIDTH="31" HEIGHT="31" ALIGN="BOTTOM" ALT="arrow"
+			BORDER="0"></A>
+		</TD>
+		<TD WIDTH="33%">
+			<P ALIGN="CENTER"><A HREF="#top"><IMG SRC="toparow.gif" WIDTH="31" HEIGHT="31" ALIGN="BOTTOM" ALT="arrow" BORDER="0"></A>
+		</TD>
+		<TD WIDTH="34%">
+			<P ALIGN="CENTER"><A HREF="nonosc.htm"><IMG SRC="nextarow.gif" WIDTH="31" HEIGHT="31" ALIGN="BOTTOM" ALT="arrow"
+			BORDER="0"></A>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH="33%">
+			<P ALIGN="CENTER"><A HREF="oscres.htm">previous</A>
+		</TD>
+		<TD WIDTH="33%">
+			<P ALIGN="CENTER"><A HREF="#top">top</A>
+		</TD>
+		<TD WIDTH="34%">
+			<P ALIGN="CENTER"><A HREF="nonosc.htm">next</A>
+		</TD>
+	</TR>
+</TABLE>
+
+<HR ALIGN="CENTER" NOSHADE>
+<!-----
+<IMG SRC="baustell.gif" WIDTH="49" HEIGHT="43" ALIGN="BOTTOM" BORDER="0">This site is still under construction!
+---->
+<nobr>
+<ADDRESS>&copy; 1998 <a href="http://www.elmer.unibas.ch">Franz-Josef Elmer</a>, <IMG SRC="envelope.gif" WIDTH="20" HEIGHT="10" ALIGN="BOTTOM" BORDER="0">
+&nbsp;Franz-Josef doht Elmer aht unibas doht ch, 
+last modified Sunday, July 19, 1998.
+</BODY>
+
+</HTML>

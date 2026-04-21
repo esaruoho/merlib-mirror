@@ -1,0 +1,103 @@
+[2026-04-20 22:13:46] ============================================================
+[2026-04-20 22:13:46] LIVE MIRROR: elmer.unibas.ch
+[2026-04-20 22:13:46] Seed: https://elmer.unibas.ch/pendulum/index.html
+[2026-04-20 22:13:46] Seed path: /pendulum/index.html
+[2026-04-20 22:13:46] Max link depth: 5
+[2026-04-20 22:13:46] Output: /Users/esaruoho/work/merlib-mirror/sites/elmer.unibas.ch
+[2026-04-20 22:13:46] ============================================================
+[2026-04-20 22:13:46] Crawling /pendulum/index.html (download-as-you-go)...
+[2026-04-20 22:13:46]   [1 d0*] https://elmer.unibas.ch/pendulum/index.html  (1 OK, 0 queued)
+[2026-04-20 22:13:46]     +6 links (7 total known)
+[2026-04-20 22:13:47]   [2 d1] https://elmer.unibas.ch/pendulum/lab.htm  (2 OK, 5 queued)
+[2026-04-20 22:13:47]     +20 links (27 total known)
+[2026-04-20 22:13:47]   [3 d1] https://elmer.unibas.ch/pendulum/plab.gif  (3 OK, 24 queued)
+[2026-04-20 22:13:48]   [4 d1] https://elmer.unibas.ch/pendulum/pendani.gif  (4 OK, 23 queued)
+[2026-04-20 22:13:49]   [5 d1] https://elmer.unibas.ch/pendulum/lroom.htm  (5 OK, 22 queued)
+[2026-04-20 22:13:49]     +18 links (45 total known)
+[2026-04-20 22:13:50]   [6 d1] http://www.elmer.unibas.ch  (6 OK, 39 queued)
+[2026-04-20 22:13:50]     +9 links (54 total known)
+[2026-04-20 22:13:50]   [7 d1*] http://www.elmer.unibas.ch/pendulum/index.html  (7 OK, 47 queued)
+[2026-04-20 22:13:50]     +5 links (59 total known)
+[2026-04-20 22:13:51]   [8 d1] https://elmer.unibas.ch/pendulum/envelope.gif  (8 OK, 51 queued)
+[2026-04-20 22:13:52]   [9 d2] https://elmer.unibas.ch/pendulum/prevarow.gif  (9 OK, 50 queued)
+[2026-04-20 22:13:52]   [10 d2] https://elmer.unibas.ch/pendulum/nb_u.gif  (10 OK, 49 queued)
+[2026-04-20 22:13:56]   [15 d2] https://elmer.unibas.ch/pendulum/toparow.gif  (15 OK, 44 queued)
+[2026-04-20 22:13:59]   [20 d2] https://elmer.unibas.ch/pendulum/nb_b.gif  (20 OK, 47 queued)
+[2026-04-20 22:14:03]   [25 d2] https://elmer.unibas.ch/pendulum/plab_s.gif  (25 OK, 42 queued)
+[2026-04-20 22:14:06]   [30 d2] https://elmer.unibas.ch/pendulum/eqm.htm  (30 OK, 45 queued)
+[2026-04-20 22:14:10]   [35 d2] https://elmer.unibas.ch/pendulum/leqm.htm  (35 OK, 55 queued)
+[2026-04-20 22:14:14]   [40 d2] https://elmer.unibas.ch/pendulum/parres.htm  (40 OK, 60 queued)
+[2026-04-20 22:14:14]     +10 links (110 total known)
+[2026-04-20 22:14:17]   [45 d2] https://elmer.unibas.ch/pendulum/links.htm  (45 OK, 83 queued)
+[2026-04-20 22:14:21]   [50 d2] http://www.elmer.unibas.ch/bm/index.html  (50 OK, 93 queued)
+[2026-04-20 22:14:21]     +6 links (149 total known)
+[2026-04-20 22:14:25]   [55 d2] http://www.elmer.unibas.ch/pendulum/lroom.htm  (55 OK, 95 queued)
+[2026-04-20 22:14:28]   [60 d3] https://elmer.unibas.ch/pendulum/greek/omega.gif  (60 OK, 127 queued)
+[2026-04-20 22:14:31]   [65 d3] https://elmer.unibas.ch/pendulum/greek/varphi.gif  (65 OK, 122 queued)
+[2026-04-20 22:14:35]   [70 d3] https://elmer.unibas.ch/pendulum/sinus.gif  (69 OK, 117 queued)
+[2026-04-20 22:14:38]   [75 d3] https://elmer.unibas.ch/pendulum/hres.gif  (74 OK, 112 queued)
+[2026-04-20 22:14:41]   [80 d3] https://elmer.unibas.ch/pendulum/2dflows.gif  (79 OK, 109 queued)
+[2026-04-20 22:14:45]   [85 d3] https://elmer.unibas.ch/pendulum/statbif.gif  (84 OK, 104 queued)
+[2026-04-20 22:14:48]   [90 d3] https://elmer.unibas.ch/pendulum/forces.gif  (89 OK, 99 queued)
+[2026-04-20 22:14:52]   [95 d3] https://elmer.unibas.ch/pendulum/bakermap.gif  (94 OK, 94 queued)
+[2026-04-20 22:14:55]   [100 d3] https://elmer.unibas.ch/pendulum/greek/ttheta.gif  (99 OK, 89 queued)
+[2026-04-20 22:14:59]   [105 d3] https://elmer.unibas.ch/pendulum/parresac.gif  (104 OK, 84 queued)
+[2026-04-20 22:15:02]   [110 d3] https://elmer.unibas.ch/pendulum/parres1.gif  (109 OK, 79 queued)
+[2026-04-20 22:15:06]   [115 d3] https://elmer.unibas.ch/pendulum/upside1.gif  (114 OK, 74 queued)
+[2026-04-20 22:15:09]   [120 d3] https://elmer.unibas.ch/pendulum/upside8.gif  (119 OK, 69 queued)
+[2026-04-20 22:15:13]   [125 d3] https://elmer.unibas.ch/pendulum/pendper.gif  (124 OK, 64 queued)
+[2026-04-20 22:15:17]   [130 d3] http://www.elmer.unibas.ch/dgl.htm  (129 OK, 59 queued)
+[2026-04-20 22:15:21]   [135 d3] http://www.elmer.unibas.ch/publications/fkt1.tex  (134 OK, 54 queued)
+[2026-04-20 22:15:26]   [140 d3] http://www.elmer.unibas.ch/patt_s.gif  (138 OK, 54 queued)
+[2026-04-20 22:15:30]   [145 d3] http://www.elmer.unibas.ch/bm/gamma.gif  (143 OK, 55 queued)
+[2026-04-20 22:15:34]   [150 d3] http://www.elmer.unibas.ch/pendulum/bif.htm  (148 OK, 50 queued)
+[2026-04-20 22:15:34]     +16 links (216 total known)
+[2026-04-20 22:15:36]   [155 d3] http://www.elmer.unibas.ch/pendulum/eqm.htm  (153 OK, 67 queued)
+[2026-04-20 22:15:39]   [160 d3] http://www.elmer.unibas.ch/pendulum/nextarow.gif  (158 OK, 64 queued)
+[2026-04-20 22:15:41]   [165 d3] http://www.elmer.unibas.ch/pendulum/nb_m.gif  (163 OK, 80 queued)
+[2026-04-20 22:15:44]   [170 d3] http://www.elmer.unibas.ch/pendulum/nonosc.htm  (168 OK, 88 queued)
+[2026-04-20 22:15:44]     +5 links (263 total known)
+[2026-04-20 22:15:47]   [175 d3] http://www.elmer.unibas.ch/pendulum/nldyn.htm  (173 OK, 89 queued)
+[2026-04-20 22:15:49]   [180 d3] http://www.elmer.unibas.ch/pendulum/screen6.gif  (178 OK, 86 queued)
+[2026-04-20 22:15:52]   [185 d3] http://www.elmer.unibas.ch/pendulum/upend.htm  (183 OK, 81 queued)
+[2026-04-20 22:15:55]   [190 d4] http://www.elmer.unibas.ch/flab/FKTModel/index.html  (188 OK, 85 queued)
+[2026-04-20 22:15:55]     +5 links (280 total known)
+[2026-04-20 22:16:00]   [195 d4] http://www.elmer.unibas.ch/publications/ava_s.jpg  (193 OK, 95 queued)
+[2026-04-20 22:16:05]   [200 d4] http://www.elmer.unibas.ch/publications/f_phot_b.jpg  (198 OK, 90 queued)
+[2026-04-20 22:16:07]   [205 d4] http://www.elmer.unibas.ch/pendulum/greek/rarrow.gif  (203 OK, 85 queued)
+[2026-04-20 22:16:10]   [210 d4] http://www.elmer.unibas.ch/pendulum/p2bif.gif  (208 OK, 80 queued)
+[2026-04-20 22:16:12]   [215 d4] http://www.elmer.unibas.ch/pendulum/tbif.gif  (213 OK, 75 queued)
+[2026-04-20 22:16:15]   [220 d4] http://www.elmer.unibas.ch/pendulum/psection.gif  (218 OK, 70 queued)
+[2026-04-20 22:16:17]   [225 d4] http://www.elmer.unibas.ch/pendulum/parresac.gif  (223 OK, 65 queued)
+[2026-04-20 22:16:20]   [230 d4] http://www.elmer.unibas.ch/pendulum/parres2.gif  (228 OK, 60 queued)
+[2026-04-20 22:16:23]   [235 d4] http://www.elmer.unibas.ch/pendulum/upside7.gif  (233 OK, 55 queued)
+[2026-04-20 22:16:25]   [240 d4] http://www.elmer.unibas.ch/pendulum/upside8.gif  (238 OK, 50 queued)
+[2026-04-20 22:16:28]   [245 d4] http://www.elmer.unibas.ch/pendulum/upside9.gif  (243 OK, 45 queued)
+[2026-04-20 22:16:30]   [250 d4] http://www.elmer.unibas.ch/pendulum/hres.gif  (248 OK, 40 queued)
+[2026-04-20 22:16:33]   [255 d4] http://www.elmer.unibas.ch/pendulum/flow.gif  (253 OK, 35 queued)
+[2026-04-20 22:16:35]   [260 d4] http://www.elmer.unibas.ch/pendulum/nonosc3.gif  (258 OK, 30 queued)
+[2026-04-20 22:16:38]   [265 d4] http://www.elmer.unibas.ch/pendulum/koch.gif  (263 OK, 25 queued)
+[2026-04-20 22:16:41]   [270 d5] https://elmer.unibas.ch/flab/index.html  (267 OK, 20 queued)
+[2026-04-20 22:16:41]     +3 links (293 total known)
+[2026-04-20 22:16:43]   [275 d5] https://elmer.unibas.ch/fje_CV.html  (272 OK, 34 queued)
+[2026-04-20 22:16:47]   [280 d5] http://www.elmer.unibas.ch/flab/FKTModel/img/LogoLarge.gif  (277 OK, 29 queued)
+[2026-04-20 22:16:52]   [285 d5] http://www.elmer.unibas.ch/flab/coulombSlider/index_de.html  (282 OK, 27 queued)
+[2026-04-20 22:16:57]   [290 d5] http://www.elmer.unibas.ch/flab/FKModel/img/FKModelEqM.gif  (287 OK, 24 queued)
+[2026-04-20 22:16:58] Generating index...
+[2026-04-20 22:16:58] Index: 165 files
+[2026-04-20 22:16:58]   .gif: 107
+[2026-04-20 22:16:58]   .htm: 30
+[2026-04-20 22:16:58]   .html: 16
+[2026-04-20 22:16:58]   .jpg: 5
+[2026-04-20 22:16:58]   .pdf: 3
+[2026-04-20 22:16:58]   .tex: 2
+[2026-04-20 22:16:58]   .js: 1
+[2026-04-20 22:16:58]   .mpg: 1
+[2026-04-20 22:16:58] 
+============================================================
+[2026-04-20 22:16:58] LIVE MIRROR COMPLETE
+[2026-04-20 22:16:58] Downloaded: 290, OK: 287, Failed: 3
+[2026-04-20 22:16:58] Total URLs seen: 314
+[2026-04-20 22:16:58] ============================================================
+[2026-04-20 22:16:58] 
+Next step: fe-ingest.sh /Users/esaruoho/work/merlib-mirror/sites/elmer.unibas.ch

@@ -1,0 +1,279 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+
+<HEAD>
+<LINK REV="made" HREF="mailto:Franz-Josef.Elmer@unibas.ch">
+<META name="keywords" content="Pendulum, Physics, Nonlinear Dynamics">
+<META name="description" content="Pendulum dynamics">
+
+	<META NAME="GENERATOR" Content="Visual Page 1.0 for Windows">
+	<META HTTP-EQUIV="Content-Type" CONTENT="text/html;CHARSET=iso-8859-1">
+	<TITLE>Nonlinear Resonance</TITLE>
+</HEAD>
+
+<BODY TEXT="#000000" BGCOLOR="#FFFFB0" LINK="#0000FF" VLINK="#0000FF" ALINK="#FF0000">
+
+<P><A NAME="top"></A> 
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0">
+	<TR ALIGN="CENTER">
+		<TD WIDTH="120" VALIGN="TOP">
+			<CENTER>
+			<P>
+			<TABLE BORDER="4" BGCOLOR="#FFFFFF">
+				<TR>
+					<TD>
+						<P ALIGN="CENTER"><A HREF="index.html"><IMG SRC="plab_s.gif" WIDTH="101" HEIGHT="35" ALIGN="BOTTOM" ALT="Logo"
+						BORDER="0"></A>
+					</TD>
+				</TR>
+			</TABLE>
+
+</CENTER>
+		</TD>
+		<TD>
+			<CENTER>
+			<P>
+			<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="248">
+				<TR>
+					<TD WIDTH="124" BGCOLOR="#FFFFFF">
+						<P ALIGN="CENTER"><A HREF="lab.htm"><FONT SIZE="4">The Lab</FONT></A>
+					</TD>
+					<TD WIDTH="124" BGCOLOR="#99FF99">
+						<P ALIGN="CENTER"><A HREF="lroom.htm"><FONT SIZE="4"><B>The Lecture Room</B></FONT></A>
+					</TD>
+				</TR>
+				<TR>
+					<TD WIDTH="124"><IMG SRC="nb_b.gif" WIDTH="124" HEIGHT="6" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_u.gif" WIDTH="124" HEIGHT="6" ALIGN="BOTTOM" BORDER="0"></TD>
+				</TR>
+			</TABLE>
+
+			<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="620">
+				<TR>
+					<TD WIDTH="124"><IMG SRC="nb_l.gif" WIDTH="124" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_m.gif" WIDTH="124" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_m.gif" WIDTH="124" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_m.gif" WIDTH="124" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_r.gif" WIDTH="124" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"></TD>
+				</TR>
+				<TR>
+					<TD WIDTH="124" BGCOLOR="#FFFFFF">
+						<P ALIGN="CENTER"><A HREF="eqm.htm">The Equations of Motion</A>
+					</TD>
+					<TD WIDTH="124" BGCOLOR="#99FF99">
+						<P ALIGN="CENTER"><A HREF="oscres.htm"><B>Oscillations and Resonances</B></A>
+					</TD>
+					<TD WIDTH="124" BGCOLOR="#FFFFFF">
+						<P ALIGN="CENTER"><A HREF="nldyn.htm">Nonlinear Dynamics</A>
+					</TD>
+					<TD WIDTH="124" BGCOLOR="#FFFFFF">
+						<P ALIGN="CENTER"><A HREF="app.htm">Miscellaneous Topics</A>
+					</TD>
+					<TD WIDTH="124" BGCOLOR="#FFFFFF">
+						<P ALIGN="CENTER"><A HREF="links.htm">Links and Literature</A>
+					</TD>
+				</TR>
+				<TR>
+					<TD WIDTH="124"><IMG SRC="nb_b.gif" WIDTH="124" HEIGHT="6" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_u.gif" WIDTH="124" HEIGHT="6" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_b.gif" WIDTH="124" HEIGHT="6" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_b.gif" WIDTH="124" HEIGHT="6" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_b.gif" WIDTH="124" HEIGHT="6" ALIGN="BOTTOM" BORDER="0"></TD>
+				</TR>
+			</TABLE>
+
+			<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="496">
+				<TR>
+					<TD WIDTH="124"><IMG SRC="nb_l.gif" WIDTH="124" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_m.gif" WIDTH="124" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_m.gif" WIDTH="124" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_r.gif" WIDTH="124" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"></TD>
+				</TR>
+				<TR>
+					<TD WIDTH="124" BGCOLOR="#FFFFFF">
+						<P ALIGN="CENTER"><A HREF="harmosc.htm"><I>The Harmonic Oscillator</I></A>
+					</TD>
+					<TD WIDTH="124" BGCOLOR="#FFFFFF">
+						<P ALIGN="CENTER"><A HREF="nonosc.htm"><I>Nonlinear Oscillations</I></A>
+					</TD>
+					<TD WIDTH="124" BGCOLOR="#99FF99">
+						<P ALIGN="CENTER"><A HREF="nonres.htm"><I><B>Nonlinear Resonance</B></I></A>
+					</TD>
+					<TD WIDTH="124" BGCOLOR="#FFFFFF">
+						<P ALIGN="CENTER"><A HREF="parres.htm"><I>Parametric Resonance</I></A>
+					</TD>
+				</TR>
+			</TABLE>
+
+</CENTER>
+		</TD>
+	</TR>
+</TABLE>
+</P>
+<H1 ALIGN="CENTER">Nonlinear Resonance</H1>
+<P>At the first glance, nonlinear resonance seems not to be so much different from the 
+(linear) resonance of a harmonic oscillator. But both, the dependency of the eigenfrequency 
+of a nonlinear oscillator on the amplitude and the nonharmoniticity
+of the oscillation lead to a behavior that is impossible in harmonic oscillators, namely, 
+the <A HREF="#foldover">foldover effect</A> and <A HREF="#super">superharmonic resonance</A>, 
+respectively. Both effects are especially important in the case of weak damping.</P>
+<P><A NAME="foldover"></A>
+<H2>1. The foldover effect</h2>
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0">
+ <TR>
+  <TD VALIGN="TOP">
+  <p>
+  <TABLE ALIGN="LEFT" BORDER="0">
+   <TR>
+   <TD>
+    <P ALIGN="CENTER">
+    <nobr><I>g</I>&nbsp;=&nbsp;9.81 m/sec<SUP>2</SUP>,&nbsp;</nobr> 
+    <nobr><I>l</I>&nbsp;=&nbsp;1 m,&nbsp;</nobr>
+    <nobr><IMG SRC="greek/gamma.gif" WIDTH="11" HEIGHT="22" ALIGN="MIDDLE" ALT="gamma" BORDER="0" HSPACE="2">&nbsp;=&nbsp;0.4&nbsp;sec<SUP>-1</SUP>&nbsp;</nobr>
+   </TD>
+   </TR>
+   <TR>
+    <TD><IMG SRC="foldover.gif" WIDTH="367" HEIGHT="262" ALIGN="BOTTOM" ALT="Foldover resonance lines" BORDER="0" HSPACE="5"></TD>
+   </TR>
+  </TABLE>
+  The foldover effect got its name from the bending of the resonance peak in a amplitude 
+  versus frequency plot. This	bending is due to the frequency-amplitude relation which is 
+  typical for <A HREF="nonosc.htm">nonlinear oscillators</A>.
+  As an example, the figure on the left shows a <A HREF="spend.htm">sinusoidally driven 
+  pendulum</A>. As long as the driving amplitude <I>A</I> is small, the resonance line 
+  is very well approximated by the <A HREF="harmosc.htm#12">result</A> for an underdamped 
+  harmonic oscillator. For a stronger driving, the resonance lines &quot;folds&quot;, 
+  leading to <A HREF="bif.htm#snbif">bistability and hysteresis</A>. That is, the nonlinear 
+  oscillator oscillates either with a large amplitude or a small amplitude. 
+  Inbetween there is always an unstable periodic solution (shown as a dotted line). 
+  At the ends of the interval of bistablity this unstable limit cycle annihilates with 
+  one of its stable counterpart in a <A HREF="bif.htm#snbif">saddle-node bifurcation</A>. 
+  The foldover effect also occurs in <A HREF="#super">superharmonic
+  resonance</A> and <A HREF="parres.htm#osc">parametric resonance</A>.</p>
+  <p>
+  The nonlinear resonance line can be approximated considerably well (see the green line in the figure) by the following
+			heuristic approach: Take the <A HREF="harmosc.htm#12">resonance line</A> of the harmonic oscillator and replace
+			the eigenfrequency <nobr><IMG SRC="greek/omega.gif" WIDTH="14" HEIGHT="22" ALIGN="MIDDLE" ALT="omega" BORDER="0"
+			HSPACE="2"><SUB>0</SUB></nobr> by the <A HREF="nonosc.htm#TK">frequency-amplitude relation</A> <nobr><IMG SRC="greek/omega.gif"
+			WIDTH="14" HEIGHT="22" ALIGN="MIDDLE" ALT="omega" BORDER="0" HSPACE="2"><SUB>res</SUB>(<IMG SRC="greek/varphi.gif"
+			WIDTH="13" HEIGHT="22" ALIGN="MIDDLE" ALT="phi" BORDER="0" HSPACE="2"><SUB>max</SUB>)&nbsp;=&nbsp;2<IMG SRC="greek/pi.gif"
+			WIDTH="12" HEIGHT="22" ALIGN="MIDDLE" ALT="pi" BORDER="0" HSPACE="2">/T</nobr> (shown as a thin black line in the
+			figure). This approximation assumes that the oscillation is still harmonic, i.e., sinusoidal, but the frequency
+			depends on the amplitude. The figure shows that this approximation works quantitatively well even for large values
+			of <nobr><IMG SRC="greek/varphi.gif" WIDTH="13" HEIGHT="22" ALIGN="MIDDLE" ALT="phi" BORDER="0" HSPACE="2"><SUB>max</SUB>.</nobr>
+			By the way, the most easiest way to plot this approximation is to draw <I>f</I> as a function of <nobr><IMG SRC="greek/varphi.gif"
+			WIDTH="13" HEIGHT="22" ALIGN="MIDDLE" ALT="phi" BORDER="0" HSPACE="2"><SUB>max</SUB></nobr> because the <A HREF="harmosc.htm#12">equation
+			for the resonance line</A> is a quadratic in <nobr><I>f</I> <SUP>2</SUP></nobr>.<BR>
+<BR>
+For small values of the damping constant <IMG SRC="greek/gamma.gif" WIDTH="11" HEIGHT="22" ALIGN="MIDDLE" ALT="gamma"
+BORDER="0" HSPACE="2">, the onset <I>A</I><SUB>c</SUB> of bistability is proportional to some power of <IMG SRC="greek/gamma.gif"
+WIDTH="11" HEIGHT="22" ALIGN="MIDDLE" ALT="gamma" BORDER="0" HSPACE="2">. A power-law in the frequency-amplitude
+relation, i.e.,<BR>
+<center><nobr>(<IMG SRC="greek/omega.gif" WIDTH="14" HEIGHT="22" ALIGN="MIDDLE" ALT="omega" BORDER="0" HSPACE="2"><SUB>res</SUB>&nbsp;-&nbsp;<IMG
+SRC="greek/omega.gif" WIDTH="14" HEIGHT="22" ALIGN="MIDDLE" ALT="omega" BORDER="0" HSPACE="2"><SUB>0</SUB>)&nbsp;&nbsp;~&nbsp;&nbsp;(<IMG
+SRC="greek/varphi.gif" WIDTH="13" HEIGHT="22" ALIGN="MIDDLE" ALT="phi" BORDER="0" HSPACE="2"><SUB>max</SUB>)<SUP>
+s</SUP></nobr></center><BR>
+<BR>
+leads to<BR>
+<center><nobr><I>A</I><SUB>c</SUB>&nbsp;&nbsp;~&nbsp;&nbsp;<IMG SRC="greek/gamma.gif" WIDTH="11" HEIGHT="22" ALIGN="MIDDLE"
+ALT="gamma" BORDER="0" HSPACE="2"><SUP>1+1/s </SUP>,</nobr></center><BR>
+because the width and the height of the resonance line are proportional to <IMG SRC="greek/gamma.gif" WIDTH="11"
+HEIGHT="22" ALIGN="MIDDLE" ALT="gamma" BORDER="0" HSPACE="2"> and <nobr><I>A</I>/<IMG SRC="greek/gamma.gif" WIDTH="11"
+HEIGHT="22" ALIGN="MIDDLE" ALT="gamma" BORDER="0" HSPACE="2">,</nobr> respectively. </TD>
+</TR>
+</TABLE>
+<A NAME="super"></A><BR>
+<H2>2. Superharmonic resonance</H2>
+<P>
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0">
+	<TR>
+		<TD VALIGN="TOP">
+			<TABLE ALIGN="LEFT" BORDER="0">
+				<TR>
+					<TD>
+						<P ALIGN="CENTER"><nobr><I>g</I>&nbsp;=&nbsp;9.81 m/sec<SUP>2</SUP>,&nbsp;</nobr> <nobr><I>l</I>&nbsp;=&nbsp;1
+						m,&nbsp;</nobr> <nobr><IMG SRC="greek/gamma.gif" WIDTH="11" HEIGHT="22" ALIGN="MIDDLE" ALT="gamma" BORDER="0" HSPACE="2">&nbsp;=&nbsp;0.1&nbsp;sec<SUP>-1</SUP>&nbsp;</nobr>
+					</TD>
+				</TR>
+				<TR>
+					<TD><IMG SRC="supharm.gif" WIDTH="365" HEIGHT="270" ALIGN="LEFT" BORDER="0"></TD>
+				</TR>
+			</TABLE>
+			Nonlinear oscillators do not oscillate sinusoidal. Their oscillation is a sum of harmonic (i.e., sinusoidal) oscillations
+			with frequencies which are integer multiples of the fundamental frequency (i.e., the inverse of the period of the
+			nonlinear oscillation). <A NAME="fourier"></A>This is the well-known theorem of Jean Baptiste Joseph Fourier (1768-1830)
+			which says that periodic functions can be written as (infinite) sums (so-called <B>Fourier series</B>) of sinus
+			and cosinus functions. Superharmonic resonance is simply the resonance with one of this higher harmonics of a nonlinear
+			oscillation. In a plot of oscillation amplitude versus driving frequency, you can, therefore, expect additional resonance
+			peaks. In general, they appear at driving frequencies which are integer fractions of the fundamental frequency.<BR>
+<BR>
+If you try to find them for the <A HREF="spend.htm">pendulum driven by a periodic force</A>, you have to choose
+			relatively large driving amplitudes and low values for the damping constant. Nevertheless, you will not
+			find superharmonic resonance at half the eigenfrequency of the pendulum! Why? The reason is <I>symmetry</I>. The
+			undriven pendulum is <I>invariant</I> under reflection symmetry. That is, if you change the sign of <IMG SRC="greek/varphi.gif"
+			WIDTH="13" HEIGHT="22" ALIGN="TOP" ALT="phi" BORDER="0">, the <A HREF="eqm1.htm#(1)">equation of motion</A> remains
+			unchanged. Due to this symmetry, the nonlinear oscillation of the pendulum does not contain frequencies which
+			are even multiples of the fundamental frequency. Thus, the first superharmonic resonance occurs near one third of
+			the fundamental frequency. Again, the <A HREF="#foldover">foldover effect</A> occurs.</TD>
+	</TR>
+</TABLE>
+</P>
+<P>
+<TABLE BORDER="0" CELLPADDING="8" BGCOLOR="#80FFC0">
+ <TR>
+  <TD><B>QUESTIONS worth to think about:</B></TD>
+ </TR>
+ <TR>
+  <TD>
+   <OL>
+    <li>What happens in a nonlinear oscillator driven nonlinearly as for pendula driven by
+    periodic motions of their suspension point? Will the foldover effect and superharmonic
+    resonance also occur in these cases or not? Will there be additional resonance lines
+    as for the case of a pendulum driven by a sinusoidal force? 
+   </OL>
+  </TD>
+ </TR>
+</TABLE>
+</P>
+
+
+<P>
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="19%">
+	<TR>
+		<TD WIDTH="33%">
+			<P ALIGN="CENTER"><A HREF="nonosc.htm"><IMG SRC="prevarow.gif" WIDTH="31" HEIGHT="31" ALIGN="BOTTOM" ALT="arrow"
+			BORDER="0"></A>
+		</TD>
+		<TD WIDTH="33%">
+			<P ALIGN="CENTER"><A HREF="#top"><IMG SRC="toparow.gif" WIDTH="31" HEIGHT="31" ALIGN="BOTTOM" ALT="arrow" BORDER="0"></A>
+		</TD>
+		<TD WIDTH="34%">
+			<P ALIGN="CENTER"><A HREF="parres.htm"><IMG SRC="nextarow.gif" WIDTH="31" HEIGHT="31" ALIGN="BOTTOM" ALT="arrow"
+			BORDER="0"></A>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH="33%">
+			<P ALIGN="CENTER"><A HREF="nonosc.htm">previous</A>
+		</TD>
+		<TD WIDTH="33%">
+			<P ALIGN="CENTER"><A HREF="#top">top</A>
+		</TD>
+		<TD WIDTH="34%">
+			<P ALIGN="CENTER"><A HREF="parres.htm">next</A>
+		</TD>
+	</TR>
+</TABLE>
+
+<HR ALIGN="CENTER" NOSHADE>
+<!---
+<IMG SRC="baustell.gif" WIDTH="49" HEIGHT="43" ALIGN="BOTTOM" BORDER="0">This site is still under construction!
+--->
+<nobr>
+<ADDRESS>&copy; 1998 <a href="http://www.elmer.unibas.ch">Franz-Josef Elmer</a>, <IMG SRC="envelope.gif" WIDTH="20" HEIGHT="10" ALIGN="BOTTOM" BORDER="0">
+&nbsp;Franz-Josef doht Elmer aht unibas doht ch, 
+last modified Monday, July 20, 1998.
+
+
+</BODY>
+

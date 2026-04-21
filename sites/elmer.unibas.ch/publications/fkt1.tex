@@ -1,0 +1,1287 @@
+\documentstyle[aps,prb%
+,preprint%
+%,twocolumn%
+]{revtex}
+\preprint{Submitted to {\it Phys. Rev. B}}
+\setlength{\textheight}{25cm}  % comment out for galley proofs
+%\let\labelm\label \renewcommand{\label}[1]{\fbox{\tt #1}\labelm{#1}}
+\begin{document}
+\draft
+\title{DRY FRICTION IN THE FRENKEL-KONTOROVA-TOMLINSON MODEL:
+   \\I. STATIC PROPERTIES}
+\author{Michael Weiss and Franz-Josef Elmer}
+\address{Institut f\"ur Physik, Universit\"at
+   Basel, CH-4056 Basel, Switzerland}
+\maketitle
+\begin{abstract}                                                     
+We investigate wearless friction in a simple mechanical model called
+Frenkel-Kontorova-Tomlinson model. It combines the Frenkel-Kontorova
+model (i.e., a harmonic chain in a spatially periodic potential) with
+the Tomlinson model (i.e., independent oscillators connected to a
+sliding surface in a fixed potential describing the other surface).
+We investigate static properties like the ground state, the
+metastable states, and static friction, as well as the the kinetic
+friction in the limit of quasistatic sliding.  Like in the
+Frenkel-Kontorova model the behavior strongly depends on whether the
+ratio of lattice constants is commensurate or incommensurate.  In the
+incommensurate case Aubry's transition by breaking of analyticity
+also appears in the Frenkel-Kontorova-Tomlinson model. The behavior
+depends strongly on the strength of the interaction between the
+sliding surfaces.  For increasing interaction, we find three
+thresholds which denote the appearance of static friction, of kinetic
+friction in the quasistatic limit, and of metastable states in that
+order. These are identical only in the incommensurate case. In the
+commensurate case static friction can be nonzero even though the
+kinetic friction vanishes for sliding velocity going to zero.
+\end{abstract}
+\pacs{PACS numbers: 46.30.Pa, 05.70.Ln, 81.40.Pq%
+%\\Submitted to Phys. Rev. B.%
+}
+
+\narrowtext
+
+\section{\protect\label{INT}Introduction}
+
+Dry friction is a phenomenon of everyday life. Since Coulomb's work
+its basic phenomenological laws are well-known\cite{bow.54}: (i) The
+friction force is independent of the area of the sliding surface.
+(ii) It is proportional to the load. (iii) The kinetic friction,
+i.e., the force to keep a body sliding at a constant velocity, does
+not depend on the velocity and it is less than or equal to the static
+friction, i.e., the force to start sliding. On a macroscopic level,
+these laws are well understood in terms of the Bowden-Tabor adhesion
+model\cite{bow.54,sin.92} which is a macroscopic model based on the
+elastic and plastic properties of the sliding bodies.
+
+In spite of the simplicity of Coulomb's laws, the sliding of two solid
+bodies is a very complex phenomenon which operates mostly far away
+from thermal equilibrium. It involves processes on various spatial
+and temporal scales, from microscopic to macroscopic (for an overview
+of the state of the art see Ref.~\onlinecite{sin.92}). Also
+deviations from Coulomb laws have been found, which depend on the
+material of the sliding bodies, the surface properties, the sliding
+history, and the mechanical environment. Up to now no generally
+accepted theory exists which is able (i) to explain these deviations
+and (ii) to calculate friction forces from the bulk and surface
+properties of the sliding bodies. However, in recent years modern
+experimental technologies have made it possible to study wearless
+friction between clean and atomically flat surfaces\cite{sin.92}.
+There is some hope that theoretical models will lead to an
+understanding of such less complex systems.
+
+The first attempt to explain Coulomb's laws on the atomic level was
+given by Tomlinson\cite{tom.29} in his pioneering work in 1929. He
+considered the surface atoms as single independent oscillators which
+are ``plucked'' by the atoms of the other surface like a guitar
+string.  Even quasistatic sliding (i.e., sliding at an
+infinitesimally small velocity) will lead to plucking of atoms if the
+stiffness of the interaction between a surface atom and the bulk is
+smaller than the stiffness of the interaction between this atom and
+an atom from the other surface at the moment of closest
+contact\cite{mcc.89,mcc.92}. During plucking the atom is assumed to
+jump abruptly from one equilibrium position to another. Such jumps
+lead to vibrations of the jumping atom. The kinetic energy of the
+vibrating atom is assumed to dissipate totally into the bulk of the
+sliding bodies due to excitation of some kind of waves. Thus finite
+friction is possible even in the limit of zero sliding velocity,
+contrary to viscous friction which vanishes in the quasistatic limit.
+The assumptions that the jumps occur instantaneously and that the
+atoms are uncoupled, i.e., a vibrating atom does not excite
+vibrations of other atoms, lead to Coulomb's third
+law\cite{tom.29,mcc.92}.
+
+The easiest model for taking into account the coupling between atoms
+is the Frenkel-Kontorova (FK) model\cite{fre.38} which is a model of
+an adsorbed monolayer on an atomically flat surface. It is a
+one-dimensional model with a chain of adsorbate atoms coupled
+linearly by nearest-neighbor interactions. The chain interacts with a
+spatially periodic potential. The FK model has also been used as a
+simple friction model\cite{sok.84,mcc.89,mcc.92}.  The static
+properties of this model strongly depend on the ratio of the lattice
+constants of the adsorbate layer and the substrate surface. Aubry has
+shown\cite{aub.78} that in the case of an irrational ratio, the
+ground state can be shifted by an infinitesimally small force as long
+as the strength of the periodic potential is below a critical value
+(the point of analyticity breaking). Thus the static friction is
+zero. This is true only in the thermodynamic limit, i.e., in the case
+of an infinite number of adsorbate atoms. 
+
+There is some ambiguity in the literature concerning the meaning of
+the term {\em frictionless\/}. In the context of the FK model
+frictionless means zero static friction. Another meaning of
+frictionless found in the literature is a vanishing kinetic friction
+in the limit of infinitesimally slow sliding\cite{mcc.89}. Recently
+this notion has been called {\em
+superlubricity\/}\cite{shi.93,hir.93}, which is a misleading term
+because it does {\em not\/} imply that a {\em finite\/} sliding
+velocity exists below which the kinetic friction is zero. It should
+be emphasized that the two definitions of frictionless are {\em
+not\/} equivalent. Of course, zero static friction implies zero
+kinetic friction if we believe in Coulomb's third law. But a
+vanishing kinetic friction does not imply a vanishing static
+friction.  This can be easily seen in the Tomlinson model: When the
+interaction of the oscillator with the sliding surface is weak, it
+will not be plucked. Thus it can be moved adiabatically without
+dissipation and the kinetic friction is zero. Nevertheless the
+surface {\em pins\/} the oscillator. Therefore a finite force is
+necessary to depin it which means that the static friction is not
+zero. It is equal to the amplitude of the oscillating sliding force
+in the case of adiabatic sliding.
+
+The main disadvantage of the FK model is that the atoms are not
+coupled to the sliding body. One simple way to overcome this
+disadvantage is to couple each atom harmonically to a rigid body (see
+Fig.~\ref{f1}).  The resulting model we call the
+Frenkel-Kontorova-Tomlinson (FKT) model because it is a combination
+of the FK model and the Tomlinson model.
+
+The FKT model is similar to the Burridge-Knopoff (BK)
+model\cite{bur.67}, which was proposed as a model of an earthquake
+fault. The main difference is that in the BK model the interaction
+with the lower body is replaced by a phenomenological dry friction
+law. Usually a velocity-weakening law is chosen\cite{car.89}. For
+small sliding velocities, this model exhibits avalanches (i.e., 
+earthquakes). For that reason the BK model has become a popular model
+for the investigation of self-organized
+criticality\cite{car.89,sor.92}. Also soliton-like behavior has been
+found\cite{sch.93}. 
+
+This paper is the first part of a series of papers investigating the
+FKT model. This part considers only the static properties. The
+forthcoming parts will be devoted to kinetic friction and stick-slip
+motion, respectively. This first part is organized as follows: 
+Section~\ref{MOD} introduces the FKT model. Sec.~\ref{F0}
+investigates the FKT model in the case of zero driving force. In
+Sec.~\ref{STA} we calculate the static friction. The kinetic friction
+in the quasistatic limit is considered in Sec.~\ref{KIN}. We conclude
+with Sec.~\ref{CON}.
+
+
+\section{\protect\label{MOD}The model}
+
+The Frenkel-Kontorova-Tomlinson (FKT) model is a one-dimensional
+lattice model for the atomic monolayer of the surface of a soft body
+(upper body in Fig.~\ref{f1}) which slides on a hard body (lower body
+in Fig.~\ref{f1}). The monolayer is described by a chain of $N$
+particles with harmonic nearest-neighbor interactions (coil springs).
+The interaction of each particle with the otherwise rigid upper body
+is also harmonic (leaf springs). The equilibrium positions of the
+particles due to this interaction define a regular lattice where the
+lattice constant is assumed to be the bulk lattice constant of the
+upper body. The interaction of the particles with the lower body is
+described by a spatially periodic external potential which defines a
+hard surface. The lower body is assumed to be fixed whereas the upper
+body is movable. The model assumes motions only {\em parallel\/} to
+the sliding surface.
+
+The potential energy of the FKT model is \begin{eqnarray}
+  \lefteqn{V(\xi_1,\cdots,\xi_N,x_B)=\frac{1}{2}
+    \sum_{j=1}^N(\xi_j-\xi_{j-1})^2}\nonumber\\
+   &&+\frac{\kappa}{2}\sum_{j=1}^N\xi_j^2
+  +\frac{b}{2\pi}\sum_{j=1}^N\cos 2\pi (x_B+cj+\xi_j)-Fx_B.
+  \label{MOD.V} 
+\end{eqnarray} 
+Here $c$ is the lattice constant of
+the upper body, $x_B$ is the position of the upper body relative to
+the lower surface, $\xi_j$ is the position of particle $j$ relative
+to the support $x_B+cj$ of its leaf spring, $\kappa$ is the stiffness
+of the leaf springs, $b$ is the strength of the external potential
+which models the interaction with the lower body, and $F$ is the
+force applied to the upper body.  All variables and parameters are
+measured in dimensionless units.  They are based on the following
+independent basic units: The length unit is the surface lattice
+constant of the lower body, and the unit of the interaction strength
+is the stiffness of the nearest-neighbor coupling. All other units
+can be expressed in terms of these basic units. 
+
+We choose periodic boundaries
+\begin{equation}
+  \xi_{j+N}=\xi_j.
+  \label{MOD.pb}
+\end{equation}
+This implies a rational upper lattice constant $c$ because $cN$ has
+to be an integer
+\begin{equation}
+  c=\frac{P}{Q},
+  \label{MOD.cpb}
+\end{equation}
+where $P$ and $Q$ are coprime, and $Q$ is a divisor of $N$.
+
+For $F\not=0$ the potential energy $V$ is not bounded from below.
+Thus no ground state exists and all local minima correspond to
+metastable states. Therefore, the system is always in a
+non-equilibrium state.  At finite temperature, the system can escape
+from a metastable state to another metastable state with lower
+energy. Thus the system creeps due to thermal
+activation\cite{hes.94}. In this paper we restrict ourselves to zero
+temperature.
+
+The FKT model is invariant against the following transformations:
+\begin{mathletters}
+\label{MOD.sym}
+\begin{itemize}
+\item {\bf Translations} by an integer multiple of the lattice
+constant of the lower body generated by
+\begin{equation}
+  x_B\to x_B+1.
+  \label{MOD.Tsym}
+\end{equation}
+\item {\bf Cyclic permutations} of the deformations $\xi_j$ generated
+by
+\begin{equation}\begin{array}{rcl}
+   x_B&\to &x_B+c,\\
+   \xi_j&\to &\xi_{j+1}.
+   \end{array}\label{MOD.CPsym}
+\end{equation}
+\item {\bf Reflection} of the upper body at $x=0$ 
+\begin{equation}\begin{array}{rcl}
+   x_B&\to &-x_B,\\
+   \xi_j&\to &-\xi_{-j},\\
+   F&\to &-F.
+   \end{array}\label{MOD.I2sym}
+\end{equation}
+\item {\bf Rescalings} of the lattice constant, generated by
+\begin{equation}
+  c\to c+1.
+  \label{MOD.Ssym}
+\end{equation}
+\item {\bf Inversion} of the counting order
+\begin{equation}\begin{array}{rcl}
+   c&\to &-c,\\\xi_j&\to &\xi_{-j}.
+   \end{array}\label{MOD.I1sym}
+\end{equation}
+\end{itemize}
+\end{mathletters}
+These transformations leave the energy landscape invariant except 
+(\ref{MOD.Tsym}) and (\ref{MOD.CPsym}) shift the potential by a 
+constant value proportional to $F$. The symmetries (\ref{MOD.sym}) 
+hold also for an arbitrary periodic potential except the reflection
+symmetry (\ref{MOD.I2sym}) which holds only for potentials which are
+invariant against reflection like the cosine potential in
+(\ref{MOD.V}). The symmetries permit us to restrict $c$ to the
+interval $[1/2,1]$.
+
+For $\kappa=0$ the FKT model becomes the FK model.  For
+$\kappa,b\to\infty$ but $b/\kappa$ finite, or similarly by dropping
+the nearest-neighbor interaction, the FKT model turns into the
+Tomlinson model of independent oscillators.
+
+Similar to the FK model we expect a strong dependence of the FKT
+model on whether $c$ is rational or irrational. There are 
+two extreme cases: (i) the most commensurate case, $c=1$, and (ii)
+the most incommensurate case given by the golden mean
+$c=(\sqrt{5}-1)/2=0.618\ldots$ In order to treat the latter case 
+we have to investigate a series of FKT models
+with successively increasing numbers of particles. Since continued
+fractions are the optimum rational approximations of irrational
+numbers, we take successive pairs from the Fibonacci series
+$1,1,2,3,5,8,13,\ldots$ in order to approximate the golden mean.
+
+\section{\protect\label{F0}The FKT model without driving}
+
+In this section we investigate the FKT model where the
+external force is absent, i.e., $F=0$. Stationary states are the
+extrema of (\ref{MOD.V}) which are solutions of
+\begin{mathletters}
+\label{F0.eq}
+\begin{eqnarray}
+ 0=-\partial_{\xi_j}V&=&\xi_{j+1}+\xi_{j-1}-(2+\kappa)\xi_j
+   \nonumber\\&&+b\sin 2\pi(x_B+cj+\xi_j) \label{F0.eqj}\\
+ 0=-\partial_{x_B}V&=&\kappa\sum_{j=1}^N\xi_j\label{F0.xisum}.
+\end{eqnarray}
+\end{mathletters}
+It is important to note that $x_B$ is not a free variable because a
+state which is stationary with respect to the $\xi_j$ need not be
+stationary with respect to $x_B$.
+
+Because of the symmetries (\ref{MOD.Tsym}), (\ref{MOD.CPsym}), and
+(\ref{MOD.I2sym}) any solution can be generated from a solution
+with
+\begin{equation}
+ x_B\in \left[0,\frac{1}{2Q}\right].
+  \label{F0.xB.int}
+\end{equation}
+
+For $F=0$, the potential energy (\ref{MOD.V}) of the FKT model is
+bounded from below. Thus a {\em ground state\/} exists. It strongly 
+determines the static friction, as we will see below.
+
+\subsection{\protect\label{F01}The ground state}
+
+In order to calculate the ground state, we start with the trivial
+case $b=0$ where the energy surface is a paraboloid in the
+$N$-dimensional configuration space defined by $\{\xi_j\}$.
+Eq.~(\ref{F0.xisum}) defines a plane in this configuration space on
+which the solution is situated. The absolute minimum of the parabolic
+energy surface is at $\xi_j=0$. This solution automatically fulfills
+(\ref{F0.xisum}).  Thus $x_B$ is arbitrary.
+
+In the general case, $b\not=0$, the external potential adds some
+corrugation onto the parabolic energy surface which shifts the
+absolute minimum a certain amount outside the origin. By changing
+$x_B$, this minimum can be moved into the plane defined by
+(\ref{F0.xisum}). Thus, the ground state position $x_B^G$ of the
+upper body is no longer arbitrary. The deformations $\xi_j^G$ of the
+absolute minimum in any direction cannot exceed half the periodicity
+of the external potential:
+\begin{equation}
+  |\xi_j^G|\le \frac{1}{2},\quad j=1,\ldots,N.
+  \label{F0.GS1}
+\end{equation}
+For small values of $b$ the $\xi_j^G$'s are linear in $b$. For
+$b\to\infty$ the particles are situated in the local minima of the
+external potential. In order to minimize the potential energy in the
+springs, each particle will presumably sit in that potential well
+which is directly underneath the support of the leaf spring (see
+Fig.~\ref{f1}). Thus we conjecture that for the ground state
+\begin{equation}
+  \mbox{Int}\,(x_B^G+cj+\xi_j^G)=\mbox{Int}\,(x_B^G+cj),\quad 
+   j=1,\ldots,N
+  \label{F0.GS2}
+\end{equation}
+holds. The same property holds for the ground state of the FK
+model\cite{aub.78}, where $c$ corresponds to the winding number.
+Numerically we have not found any example demonstrating the opposite.
+Furthermore, we found that any other state violates (\ref{F0.GS2}).
+Thus the ground state is uniquely defined by (\ref{F0.GS2}). Note
+that (\ref{F0.GS1}) and (\ref{F0.GS2}) are independent conditions.
+The ground state is either {\em commensurate\/} or {\em
+incommensurate\/} depending on whether $c$ is rational or irrational.
+
+Aubry has shown\cite{aub.78} that the ground state of the 
+FK model can be uniquely described by a {\em hull function\/}. 
+This concept can also be applied to the FKT model. Thus we write
+\begin{equation}
+  \xi_j^G=g_S(x_B^G+cj).
+  \label{F0.gS}
+\end{equation}
+From Eq.~(\ref{F0.eqj}), the hull function $g_S$ is a solution of the
+delay equation
+\begin{eqnarray}
+  0&=&g_S(x+c)+g_S(x-c)-(2+\kappa)g_S(x)\nonumber\\
+   &&+b\sin 2\pi[x+g_S(x)]. \label{F0.gS.eq}
+\end{eqnarray}
+where $x = x_B^G+cj$. Assuming that the ground state does not break
+the symmetries (\ref{MOD.sym}) we get 
+\begin{mathletters}
+\label{F0.gS.prop}
+\begin{equation}
+  g_S(x+1)=g_S(x)=-g_S(-x).
+  \label{F0.gS.sym}
+\end{equation}
+The properties (\ref{F0.GS1}) and (\ref{F0.GS2}) are equivalent to
+\begin{equation}
+   |g_S(x)|\le 1/2
+  \label{F0.gS.p1}
+\end{equation}
+and
+\begin{equation}
+   |g_S(x)+x\,\mbox{mod}\,1-1/2|\le 1/2,
+  \label{F0.gS.p2}
+\end{equation}
+respectively.
+\end{mathletters}
+
+Which values of $x_B$ fulfill Eq.~(\ref{F0.xisum})?
+First we consider the commensurate case. Because of the symmetries
+(\ref{MOD.sym}), every $x_B$ with $x_B\,\mbox{mod}\,(1/2Q)=0$ yields
+a stationary state. Numerically we find that the ground state is
+given by
+\begin{equation}
+ x_B^G=\left(\frac{1}{2}+n\right)\frac{1}{Q},\quad n\ {\rm integer}.
+   \label{F0.xB}
+\end{equation}
+
+In the incommensurate case $x_B$ is arbitrary.  We can interpret
+$x_B$ as a {\em phase\/} which is discrete for rational values of $c$
+and continuous for irrational ones. Below we will see that this
+interpretation becomes very important for the construction of
+elementary defect solutions.
+
+Figure~\ref{f.hull} shows the hull functions of numerically
+calculated ground states for an incommensurate value of $c$.  We
+clearly see that they fulfill the properties (\ref{F0.gS.prop}).
+Fig.~\ref{f.hull} also shows the phenomenon of {\em breaking of 
+analyticity\/}, first discovered by Aubry\cite{aub.78} in the FK
+model. It means that in the incommensurate case the hull function is
+no longer analytic for $b$ above a certain critical value $b_c^S$.
+The nonanalyticity is caused by jumps which appear at certain points.
+The biggest jump is at $x=0$. It means that a kind of forbidden
+region has emerged around the maxima of the external potential where
+no particle is allowed to be. Due to the nearest-neighbor interaction
+jumps also appear at $x=cn$, $n$ integer. The size of the jumps
+decreases with increasing order $|n|$. Since the hull function is a
+periodic function and $c$ is an irrational number, jumps occur in any
+neighborhood of any point $x\in[0,1]$.
+
+In the Tomlinson limit of the FKT model (i.e., $\kappa,b\to\infty$)
+we can discuss the hull function analytically
+because we can drop the delay terms of (\ref{F0.gS.eq}). We get
+the hull function $g_S(x)$ in parametric form
+\begin{equation}
+g_S(\tau)=\frac{b}{\kappa}\sin 2\pi\tau,\quad x(\tau)=\tau-g_S(\tau).
+  \label{F0.g}
+\end{equation}
+It is uniquely defined as long as $b<\kappa/(2\pi)$. For
+$b>\kappa/(2\pi)$ three different values of $g_S$ are possible at
+least around $x=0$. The additional two values corresponds to a
+metastable state and an unstable saddle of a single Tomlinson
+oscillator (see Fig.~\ref{f.hull2}). Thus they are not relevant for
+the hull function which describes the ground state. Furthermore, they
+do not fulfill (\ref{F0.gS.p2}).
+
+This analysis suggests that the main jump and all additional jumps of
+the hull function (which are infinitesimally small in the Tomlinson
+limit) are caused by the appearance of {\em metastable states\/}. In
+the following subsection we therefore discuss the question what kind
+of metastable states appear first and for which values of $b$?
+
+\subsection{\protect\label{F02}Metastable states}
+
+For small values of $b$ the corrugation is weak and the ground state
+is still the only stationary stable state. If $b$ is larger than a 
+critical value $b_c^K$, additional stationary states emerge which
+have the following properties. They violate condition (\ref{F0.GS2}).
+The matrix $\partial^2V/\partial\xi_i\partial\xi_j$ is positive
+definite which means that these states are stable against
+infinitesimal small disturbances in $\xi_j$, $j=1,\ldots,N$. But they
+may be still unstable against infinitesimal small perturbations
+which includes also disturbances in $x_B$. If $b$ exceeds a further
+threshold $b_c^m\ge b_c^K$, the first of these states become stable. 
+
+The first metastable state will not be very different from the ground
+state. It can be described by the ground state plus a {\em defect\/}.
+But what kind of defect?  Naively one might expect a defect caused by
+a single hopping of one particle to its neighboring potential well.
+For the FK model it is known that this is not the case\cite{val.88}.
+The elementary defect in the FK model and in the FKT model too --- as
+we will see below --- is a {\em phase kink\/} which separates two
+domains with ground states corresponding to different phases $x_B$
+defined by (\ref{F0.xB}) (see Fig.~\ref{f.kink}). The phase of each
+domain is a kind of ``virtual'' body position which would be the real
+position if the other domain does not exist.  In the FK model such a
+phase kink is a localized deviation from the ground state which means
+that the kink energy does not depend on the size $N$ of the system if
+$N$ is much larger than the size of the kink.  On the other hand, in
+the FKT model the energy of such a defect scales with $N$ because of
+the {\em nonlocal\/} coupling of each particle via the upper body.
+The nonlocality is expressed by condition (\ref{F0.xisum}) which
+means that the real position $x_B$ is the average over the virtual
+ones weighted by the domain sizes (see Fig.~\ref{f.kink}). Thus the
+difference between the real $x_B$ and the virtual $x_B$ shifts {\em
+each\/} particle out of its ground-state position even if it is far
+away from the kink.
+
+Another consequence of the nonlocal coupling is that we cannot treat
+an infinitely extended FKT model because the ratio of the domain
+sizes would not be defined. Thus we consider a very large but finite
+system. Because of the periodic boundaries, the numbers of kinks and 
+antikinks have to be equal.
+
+The above-mentioned defect of one particle hopping into the
+neighboring potential well corresponds to a pair of a kink and an
+antikink which are together as closely as possible. In the following
+we argue that the first metastable state consists of a pair of a kink
+and an antikink which are as far away as possible, not because of the
+usual exponentially decreasing kink-antikink interaction but because
+of the nonlocality. The difference between the virtual values of
+$x_B$ of the domain states is $1/Q$.
+
+First we treat the Tomlinson limit where the kink-antikink
+interaction disappears because of the absence of the nearest-neighbor
+interaction. For $b>\kappa/(2\pi)$ and $x_B$ fixed, each Tomlinson
+oscillator develops additional stationary states because the hull
+function $g_S(x)$ defined by (\ref{F0.g}) looses its uniqueness. One
+of these additional states is metastable for $x_B$ fixed (see
+Fig.~\ref{f.kink}). Nevertheless for $b$ just above $\kappa/(2\pi)$
+any state other than the ground state which fulfills the nonlocality
+condition (\ref{F0.xisum}) is still unstable when $x_B$ is free.  In
+order to see this the most commensurate case (i.e., $c=1$) is treated
+in Appendix~\ref{AP1}. It turns out that the first metastable
+kink-antikink state (see Fig.~\ref{f.kink}) is indeed that one with
+equally sized domains (see Fig.~\ref{f.c1kink}). It appears for
+$b>\kappa/4$. Thus 
+\begin{equation}
+  b_c^m=\frac{\kappa}{4},\quad{\rm for}\quad c=1.
+  \label{F0.bcm.c0}
+\end{equation}
+This threshold also holds in general, not only in the Tomlinson
+limit, because the nearest-neighbor interaction only leads to a finite
+kink size, but does not change the domain states.
+
+For other values of $c$ we have found numerically that the state with
+equally sized domains is always the first metastable state. It has
+the following properties:  (i) $x_B\,\mbox{mod}\,(1/Q)=0$. (ii) All
+$\xi_j$'s fulfill (\ref{F0.GS1}).  (iii) All $\xi_j$'s fulfill
+(\ref{F0.GS2}) except for those for which the support of their leaf
+spring (see Fig.~\ref{f1}) is directly above a maximum of the
+external potential. The displacement $\xi_j$ is positive in one
+domain and negative in the other one.  Thus in one domain every
+$Q$-th particle violates (\ref{F0.GS2}).
+
+In the incommensurate case metastable states appear beyond the point
+of breaking of analyticity, i.e., $b_c^m\ge b_c^S$.  Numerically we
+have some evidence that $b_c^m=b_c^S$ always holds, as in the FK
+model\cite{aub.78}.
+
+\section{\protect\label{STA}Static friction}
+
+Before investigating the static friction we have to
+clarify the meaning of static friction in deterministic
+zero-temperature models, like the FKT model. We do this from the 
+point of view of nonlinear dynamics. 
+
+\subsection{\protect\label{STA1}Definition of static friction}
+
+From the phenomenological point of view the static friction $F_S$ is
+defined as the smallest driving force $F$ which initiates sliding.
+That is, any force $F$ below $F_S$ does not lead to a relative motion
+of the surfaces. Thus, the static friction is defined by the {\em
+boundaries\/} of $F$ for which the stationary, motionless {\em
+state\/} is {\em stable\/}. Therefore the static friction depends on
+the internal state of the real contact area between the sliding
+surfaces which in the FKT model is determined by the configuration of
+the $N$ particles describing the surface atoms of the upper body (see
+Fig.~\ref{f1}). Since different states may have different stability
+boundaries the static friction is in general not uniquely defined. It
+will depend on the {\em history\/} of the friction system, a
+well-known experimental fact. For example, it was
+found\cite{hes.94,rab.65} that the static friction increases with the
+sticking duration, i.e., the time during which the sliding surfaces
+do not move (at least not on a macroscopic level).
+
+In view of the non-uniqueness of the static friction the question
+arises:  Is a sound definition of static friction possible which does
+not depend on the history of the total friction system? The answer of
+this question is positive and the appropriate definition reads: {\em
+The static friction $F_S$ is the smallest driving force above which
+no stable stationary state exists\/}. This definition is very similar
+to the definition of the depinning force in models describing the
+pinning-depinning transition of charge-density waves or interacting
+vortices in typ-II superconductors.  In these models the dynamics is
+usually treated in the overdamped limit which has the following
+consequences. Assuming we start with a metastable state and
+slowly increase $F$. The state follows $F$ adiabatically until a
+certain value is reached where it annihilates with an unstable state
+in a saddle-node bifurcation. Thus the system depins locally and some
+degrees of freedom start to move. In the case of overdamped dynamics
+the system will be trapped by the next relative minimum of the energy
+surface in configuration space. Thus for a slowly increasing
+driving force $F$ the system will follow a sequence of depinning
+events where it locally relaxes into another pinned state. 
+Eventually the system globally depins. This happens at least when the
+last state disappears.
+
+Applied to friction we see that the above definition of the static
+friction makes sense in the absence of inertia effects both in the
+internal degrees of freedom and in the macroscopic sliding body. It
+is also independent of the history of the friction system. The local
+reconfigurations may be interpreted as {\em
+microslips\/}\cite{rab.65} which do not lead to sliding on a
+macroscopic scale. It must, however, be realized that the study of a
+massless sliding body is somewhat academic, and a discussion of
+inertia effects will be crucial for a realistic treatment of static
+friction. Here we emphasize the main difference between models for
+pinning-depinning transitions, like the FK model, and models like the
+FKT model, namely the {\em existence of a macroscopic sliding mass
+which interacts directly with many or even all internal degrees of
+freedom\/}, which is also responsible for the {\em nonlocal\/}
+coupling of the internal degrees of freedom. For finite inertia we
+expect that an unstable state does not evolve into another stable
+state but rather leads to global sliding. Nevertheless, $F_S$ gives
+an upper bound for the actual static friction. It is calculated in the
+next subsection. The static friction in the more realistic case of
+finite inertia will be discussed in the context of stick-slip motion
+in part III.
+
+\subsection{\protect\label{STA2}Static friction of the FKT model}
+
+In the previous subsection we have defined the maximum static
+friction $F_S$ as the driving force $F$ where the last stationary
+state disappears. The stationary states are the solutions of
+\begin{mathletters}
+\label{STA.eq}
+\begin{eqnarray}
+ 0=-\partial_{\xi_j}V&=&\xi_{j+1}+\xi_{j-1}-(2+\kappa)\xi_j
+   \nonumber\\&&+b\sin 2\pi(x_B+cj+\xi_j) \label{STA.eqj}\\
+ 0=-\partial_{x_B}V&=&\kappa\sum_{j=1}^N\xi_j+F\label{STA.eqB}.
+\end{eqnarray}
+\end{mathletters}
+
+Without solving (\ref{STA.eq}) it is possible to give an overall upper
+bound $F_S^{max}$ for the static friction $F_S$.  Taking the sum over
+(\ref{STA.eqj}) and using (\ref{STA.eqB}) we get 
+\begin{equation}
+  F=-b\sum_{j=1}^N\sin 2\pi(x_B+cj+\xi_j),
+  \label{STA.F}
+\end{equation}
+from which immediately follows that $|F|$ is always smaller than
+\begin{equation}
+  F_S^{max}=Nb.
+  \label{STA.FSmax}
+\end{equation}
+
+Starting with a stable, stationary state of the FKT model without
+driving, what happens if $F$ is quasistatically switched on? First,
+$x_j$ and $x_B$ will change adiabatically, i.e., they are smooth
+functions of $F$.  Eventually $F$ will reach a value -- the depinning
+force -- where the state annihilates with an unstable stationary
+state in a saddle-node bifurcation. From physical intuition and from
+our numerical studies we are convinced that {\em the ground state of
+the FKT model has the largest depinning force which therefore defines
+the maximal static friction force $F_S$\/}. We are able to prove this
+conjecture only for $c=1$ (see App.~\ref{AP0}), but it is consistent
+with the above-mentioned experimental observations that the static
+friction always increases with the sticking time. At the beginning of
+sticking just after a global sliding event the contact area will be
+in a metastable state.  On a large time scale where thermal agitation
+becomes important, the system will overcome the barrier and move into
+a more stable state. By repetition of this process it will eventually
+reach the ground state.
+
+For $c=1$ and $c=1/2$ we are able to calculate $F_S$ analytically (see
+App.~\ref{AP0}). For other rational values of $c$ we have calculated
+$F_S$ numerically. We find the following properties: (i) The maximal
+static friction $F_S$ as a function of $b$ increases strictly
+monotonically. (ii) Near zero it scales like 
+\begin{equation}
+  F_S\sim b^Q.
+\end{equation}
+(iii) For $b\to\infty$ it approaches $F_S^{max}$. (iv) For fixed
+values of $b$ it decreases with decreasing commensurability of $c$.
+More precisely: If we organize the rational numbers in a Farey 
+tree\cite{remSTA.2}, we find that the static friction of some
+rational value of $c$ is less than the static friction of the parents
+of this rational number in the Farey tree. 
+
+Figure~\ref{f.FS} shows $F_S(b)$ for a sequence of rational values of
+$c$ which approaches the golden mean $(\sqrt{5}-1)/2$. We see that
+the sequence of curves converges to a curve with a singularity at the
+point of breaking of analyticity $b_c^S$. For $b<b_c^S$ the static
+friction $F_S$ is exactly zero because the analyticity of the hull
+function (\ref{F0.gS}) makes it possible to shift the surface atoms
+of the upper body smoothly over the corrugated surface of the lower
+body. Thus a Goldstone mode exists and no force is needed for
+sliding. As static friction and the breaking of analyticity always
+appear together, we change the meaning of $b_c^S$.  In the following
+$b_c^S$ denotes the threshold above which the static friction is not
+zero. In the commensurate case $b_c^S$ is equal to zero.
+
+For $b>b_c^S$, $F_S$ increases strictly monotonically with $b$. 
+Numerically we find a power law near $b_c^S$
+\begin{equation}
+ F_S\sim (b-b_c^S)^\alpha,\quad{\rm with}\quad\alpha\approx 2.
+ \label{STA.powlaw}
+\end{equation}
+This behavior of $F_S$ is similar to what is found for the depinning
+force of the ground state of the FK model\cite{pey.83}, except that
+for the FK model $\alpha\approx 3$. We have checked that in the FKT
+model the exponent $\alpha$ remains roughly two for values of
+$\kappa$ down to $0.01$. Thus $\alpha(\kappa\to 0)$ is possibly not
+continuous at $\kappa=0$.
+
+\section{\protect\label{KIN}Kinetic friction in the quasistatic limit}
+
+In this section we analyze the case of vanishing kinetic friction in
+the quasistatic limit, i.e., sliding velocity $v\to 0$. The kinetic
+friction for arbitrary sliding velocities will be calculated in part
+II.
+
+The kinetic friction is the lateral force which is necessary to keep
+the upper body at a constant velocity $v$. Thus, the block position
+$x_B$ is the control parameter contrary to Secs.~\ref{F0} and
+\ref{STA} where the applied force $F$ was the control parameter. 
+
+Quasistatic sliding gives the system enough time to relax into a
+stable state after an infinitesimal change of $x_B$. The stationary
+states, which are solutions of (\ref{STA.eqj}), depend on $x_B$. From
+(\ref{STA.eqB}) follows the lateral force 
+\begin{equation}
+  F(x_B)=-\kappa\sum_{j=1}^N\xi_j(x_B)
+  \label{KIN.F}
+\end{equation}
+which is necessary to keep the upper body at position $x_B$. In the
+field of nanotribology\cite{sin.92} this lateral force is often
+called friction force (for example in the term `friction force
+microscopy') even though it is not of dissipative character as we
+will see below.  Kinetic friction has to be defined from the {\em
+work\/} which is necessary to slide two interacting surfaces over a
+finite distance. Thus the kinetic friction $F_K$ is the {\em averaged
+lateral force\/}, i.e.,
+\begin{equation}
+  F_K=-\lim_{x_B\to\infty}\frac{\kappa}{x_B}\int_0^{x_B}
+      \sum_{j=1}^N\xi_j(x)\,dx.
+  \label{KIN.FK}
+\end{equation}
+
+As already mentioned in the introduction, frictionless sliding has
+attracted some attention in the literature. We emphasize that zero
+friction for a {\em finite\/} velocity is not possible in open
+systems. The kinetic friction may vanish only for sliding velocity
+$v\to 0$.  Frictionless sliding simply means that Coulomb's law of
+constant kinetic friction is replaced by some other (e.g., viscous)
+friction law where the kinetic friction vanishes for $v\to 0$. 
+
+What is the condition for vanishing kinetic friction in the
+quasistatic limit? The answer is: The state of the system must follow
+the quasistatic change of $x_B$ adiabatically. In this case the
+$\xi_j$'s are functions of $x_B$. Thus the potential energy
+(\ref{MOD.V}) with $F\equiv 0$ becomes a continuous periodic function
+of $x_B$, i.e., 
+\begin{displaymath}
+	\tilde{V}(x_B)\equiv V(\xi_1(x_B),\ldots,\xi_N(x_B),x_B).
+\end{displaymath}
+Using (\ref{STA.eq}) we get for the lateral force (\ref{KIN.F})
+\begin{displaymath}
+	F(x_B)=\partial_{x_B}V=\frac{d\tilde V}{dx_B},
+\end{displaymath}
+which is a conservative force oscillating around zero. Its
+average is zero, i.e., $F_K=0$. 
+
+As long as $b$ is small there exists only one solution of
+(\ref{STA.eqj}) for any value of $x_B$. It is given by the same hull
+function $g_S$ introduced in Sec.~\ref{F01} in order to characterize
+the ground state (\ref{F0.gS}) of the undriven system even in the
+commensurate case. The only difference is that now $x_B$ is
+arbitrary.  For $b>b_c^K$ additional stationary states appear as
+already noted in Sec.~\ref{F02}. The reason is that the hull function
+$g_S$ is no longer uniquely defined because the solutions of
+(\ref{F0.gS.eq}) develop loops at values of $x$ which are integer
+multiples of $1/Q$. The largest loop appears at $x=0$ (see also
+Fig.~\ref{f.hull2}). The loops correspond to bistability intervals
+which are bounded by saddle-node bifurcations. When we start with
+some state, the quasistatic change of $x_B$ moves the state
+adiabatically until a saddle-node bifurcation is reached. At that
+point the system has to rearrange itself into a new metastable state.
+During this rearrangement the particles have to move over a finite
+distance where they dissipate the energy which is determined by the
+difference between the potential energy before and after the 
+rearrangement. Thus $F_K\not=0$ for $b>b_c^K$. As additional states
+and kinetic friction in the quasistatic limit always occur together,
+$b_c^K$ also denotes the threshold below which the kinetic friction
+vanishes for $v\to 0$.
+
+For $c=1$ and $1/2$ we are able to calculate $b_c^K$ analytically 
+(see App.~\ref{AP2}). For other values of $c$ this is possible only
+numerically. Figure~\ref{f.bck} shows numerical results of $b_c^K$ 
+as a function of $\kappa$ for a sequence of rational values of $c$ 
+approaching the golden mean. We find the following properties: (i) 
+$b_c^K$ as a function of $\kappa$ increases strictly monotonic. 
+(ii) Near zero it scales like
+\begin{equation}
+  b_c^K\sim \kappa^{1/Q}.
+\end{equation}
+(iii) In the Tomlinson limit $\kappa\to\infty$ it approaches 
+$\kappa/(2\pi)$. (iv) For fixed values of $\kappa$ it increases 
+with decreasing the commensurability of $c$. 
+
+In the incommensurate limit $b_c^K$ becomes finite in the 
+limit $\kappa\to 0$. The value $b_c^K(\kappa\to 0)$ is $\approx 0.154$ 
+which can not be distinguished numerically from the value of the
+point of breaking of analyticity of the FK model for the golden 
+mean\cite{pey.83}. Thus $b_c^K(\kappa\to 0)=b_c^K(\kappa=0)$. 
+Numerically we find that $b_c^K$ scales near $\kappa=0$ like
+\begin{equation}
+ b_c^K-b_c^K(0)\sim \kappa^\beta,\quad{\rm with}\quad
+   \beta\approx\frac{1}{2}.
+ \label{KIN.bck}
+\end{equation}
+
+In the incommensurate case the breaking of analyticity of the hull
+function corresponds to the appearance of loops in the solution of
+(\ref{F0.gS.eq}).  Thus, $b_c^K=b_c^S$ which is confirmed by our
+numerical results.  Therefore both static friction and kinetic
+friction in the quasistatic limit are zero. In the commensurate case,
+on the other hand, zero kinetic friction does not imply zero static
+friction. In fact $F_S$ is always unequal to zero.
+
+\section{\protect\label{CON}Conclusion}
+
+In this paper we have introduced a simple model of wearless friction,
+the Frenkel-Kontorova-Tomlinson (FKT) model (see Fig.~\ref{f1}),
+a combination of the Frenkel-Kontorova (FK) model and the 
+Tomlinson model. Here we have investigated only the static properties
+of the FKT model. The behavior of the system strongly depends on (i) 
+the strength $b$ of the interaction between the sliding surfaces and 
+(ii) the commensurability of the surface lattices. There are three 
+threshold values of $b$ at which the behavior changes qualitatively. 
+
+The first threshold is denoted by $b_c^S$. Below $b_c^S$ the static
+friction is zero whereas above $b_c^S$ it increases like a power law
+and approaches $F_S^{max}=bN$ in the asymptotic limit. In the
+commensurate case where the ratio $c$ of the lattice constants of
+both sliding surfaces is rational $b_c^S$, is zero. The exponent of
+the power law is given by the denominator of $c$. In the
+incommensurate case, $b_c^S$ is finite and increases with the ratio
+$\kappa$ of the stiffnesses of the leaf and coil springs (see 
+Fig.~\ref{f1}). For the golden mean the exponent is roughly two.
+
+For $b$ below the second threshold denoted by $b_c^K$, the kinetic
+friction $F_K$ is zero in the limit of quasistatic sliding (i.e.,
+sliding velocity $v\to 0$). That is, for $b<b_c^K$ the kinetic
+friction behaves similar to viscous friction. For $b>b_c^K$
+Tomlinson's basic dissipation mechanism leads to a finite kinetic
+friction. Therefore $b_c^K$ is also the threshold above which
+additional stationary states appear which are stationary for fixed
+relative positions of the sliding bodies.  The threshold $b_c^K$
+increases with $\kappa$ and is always larger than zero. Therefore, in
+the commensurate case vanishing kinetic friction does not imply
+vanishing static friction.  The FKT model for $b>b_c^K$ is an example
+of a dry-friction system which dynamically behaves like a viscous
+fluid under shear even though the static friction is not zero. This
+is a generic behavior which strongly violates Coulomb's third law.
+
+The third threshold denoted by $b_c^m$ is important for the precise 
+meaning of the maximal static friction $F_S$. Below this threshold 
+the ground state of the undriven FKT model is the only stable state.
+For $b>b_c^m$ additional metastable states appear. The first
+metastable state is characterized by equally sized domains. The
+domain states are almost the ground state but for different virtual
+positions of the sliding bodies (for an example, see
+Fig.~\ref{f.c1kink}). The bulk domain states differ from the exact
+ground state because the real position is the average of the virtual
+ones. In the commensurate case the gap in the energy between the
+first metastable state and the ground state is an {\em extensive\/}
+quantity, i.e., it is proportional to the number of particles. This
+is a consequence of the {\em nonlocal\/} character of the FKT model. 
+
+Since the static friction is the force which is necessary to start
+sliding, it depends on the state of the system. Therefore static
+friction is not uniquely defined for $b>b_c^m$, but the function
+$F_S(b)$ introduced in Sec.~\ref{STA} gives an upper limit of the
+actual static friction. It is defined as the smallest force above
+which there exist no stable state. We have seen that $F_S$ is given
+by the force required to depin the model from the ground state.
+
+The relation between these thresholds depend on whether $c$ is
+rational or irrational. For the commensurate case the relation is
+\begin{equation}
+  0=b_c^S<b_c^K<b_c^m.
+  \label{CON.bc.c}
+\end{equation}
+For the incommensurate case it is
+\begin{equation}
+  0<b_c^S=b_c^K=b_c^m.
+  \label{CON.bc.ic}
+\end{equation}
+
+Concerning the static properties of the FKT model there remain a lot
+of open questions to be investigated. From the mathematical point of
+view, a number of conjectures has been presented in this paper for
+which we have strong numerical evidence but no rigorous proof. For
+example, it is evident from physical intuition that the ground state
+has the largest depinning force. This has been found also in more
+complex system\cite{rob.95}. It would be desirable to have a proof of
+this conjecture at least for a certain class of models.
+
+Although the FKT model is a very simplified model even for atomically
+flat surfaces, we believe that it is able to mimic some of the
+qualitative behavior of real systems. The FKT model has the potential
+to become a prototypical model for dry friction of atomically flat
+surfaces like the FK model for the commensurate-incommensurate
+transition and charge-density waves.
+
+The FKT model can be extended in various directions. An important one
+would be the introduction of quenched randomness due to unavoidable
+surface impurities because in FK-like models it may destroy the 
+frictionless state in the incommensurate case\cite{mat.94}.
+
+\section*{Acknowledgment}
+
+We gratefully acknowledge helpful discussions with T. Baumberger, T.
+Gyalog, M.~O. Robbins, R. Schilling, T. Strunz, and H. Thomas. 
+We especially thank H. Thomas for careful reading of the manuscript. 
+This work was supported by the Swiss National Science Foundation.
+
+\appendix
+
+\section{\label{AP1}The first metastable state in the Tomlinson limit
+    for \protect\lowercase{{$c=1$}}}
+
+For the Tomlinson limit (i.e., $\kappa,b\to\infty$ but $b/\kappa$
+finite) of the undriven FKT model we drop the first two terms of the
+potential (\ref{MOD.V}). Stationary states are solutions of
+\begin{equation}
+  \partial_{x_j}V=\kappa\xi_j-b\sin 2\pi(x_B+cj+\xi_j)=0
+  \label{AP1.xi}
+\end{equation}
+and (\ref{F0.xisum}).
+A stationary states is stable if the second derivative of the
+potential $DV$ is a positive definite matrix. It reads
+\begin{equation}
+ DV\equiv\left(\begin{array}{ccccc}D_1&0&\ldots&0&-\kappa\\
+   0&D_2&\ldots&0&-\kappa\\\vdots&\vdots&\ddots&\vdots&\vdots\\0&0&
+   \ldots&D_N&-\kappa\\kappa&-\kappa&\ldots&-\kappa&N\kappa
+   \end{array}\right),
+  \label{AP1.DV}
+\end{equation}
+where
+\begin{equation}
+  D_j=\kappa+C_j,\quad{\rm with}\quad C_j=-2\pi b\cos 
+   2\pi(x_B+cj+\xi_j).
+  \label{AP1.D}
+\end{equation}
+It is positive definite if all $D_j$'s and $\mbox{det}\,DV$ are
+positive. After some algebraic operations one finds
+\begin{equation}
+  \mbox{det}\,DV=\kappa\left(\prod_{j=1}^ND_j\right)\sum_{j=1}^N
+   \frac{C_j}{D_j}.
+  \label{AP1.det}
+\end{equation}
+Thus the stability conditions read
+\begin{equation}
+  \sum_{j=1}^N\frac{C_j}{D_j}>0\quad\mbox{and}\quad D_j>0,
+   \ j=1,\ldots,N.
+  \label{AP1.stab}
+\end{equation}
+A sufficient condition for stability is
+\begin{equation}
+  C_j>0,\ j=1,\ldots,N.
+  \label{AP1.suf.stab}
+\end{equation}
+
+For the case $c=1$ we investigate the existence and stability of
+solutions containing a kink and an antikink in more detail. The
+solution has two domains where $\xi$ is uniform in each
+domain. There are $N_\pm$ particles with $\xi_\pm$ fulfilling
+(\ref{AP1.xi}) with $N_++N_-=N$. The definition $p=N_+/N$ measures
+the extent of the plus domain relative to the total extent of the
+system. Because of (\ref{F0.xisum}) it has to fulfill
+\begin{equation}
+  p\xi_++(1-p)\xi_-=0.
+  \label{AP1.p}
+\end{equation}
+The solution is stable if $pC_+/D_++(1-p)C_-/D_->0$ and $D_\pm>0$.
+Eqs.~(\ref{AP1.xi}), (\ref{AP1.p}), and
+\begin{equation}
+  p\frac{C_+}{D_+}+(1-p)\frac{C_-}{D_-}=0
+  \label{AP1.sum}
+\end{equation}
+define implicitly $b/\kappa$ as an even function of $p-1/2$. 
+The numerical solution is shown in Fig.~\ref{f.c1kink}. The
+minimum at $p=1/2$ can be calculated analytically because
+(\ref{AP1.p}) implies $\xi_-=-\xi_+$. Furthermore $x_B=0$ because of
+(\ref{AP1.xi}) and therefore $C_\pm=-2\pi b\cos 2\pi\xi_+$. Thus
+(\ref{AP1.sum}) reduces to $C_\pm=0$ which implies $\xi_+=1/4$. With
+(\ref{AP1.xi}) we get $b_c^m=\kappa/4$.
+
+\section{\protect\label{AP0}$F_S$ for \lowercase{$c=1$} and 
+\lowercase{$c=1/2$}}
+
+In accordance with our conjecture that the static friction $F_S$ is 
+given by the depinning force of the ground state, we solve the
+delay equation (\ref{F0.gS.eq}) for the hull function $g_S$. Using
+(\ref{F0.gS}) and (\ref{STA.eqB}) we get
+\begin{equation}
+  F(x_B)=-\kappa\sum_{j=1}^N g_S(x_B+cj).
+  \label{AP0.F}
+\end{equation}
+The static friction $F_S$ is determined by the maximum of $F(x_B)$ 
+which can be obtained by equating the extrema.
+
+First we calculate $F_S$ for $c=1$. Because of the periodicity of 
+$g_S$ the delay equation turns into an algebraic equation
+\begin{equation}
+  0=-\kappa g_S(x)+b\sin 2\pi[x+g_S(x)].
+  \label{AP0.eq1}
+\end{equation}
+For $F$ we get
+\begin{equation}
+  F(x_B)=-\kappa N g_S(x_B)=-bN\sin 2\pi[x+g_S(x)].
+  \label{AP0.F1}
+\end{equation}
+The extrema of $F$ are also extrema of $g_S$. From (\ref{AP0.eq1}) 
+follows
+\begin{equation}
+  \frac{dg_S}{dx}=\frac{2\pi b\cos 2\pi[x+g_S(x)]}{\kappa-2\pi b\cos 
+	2\pi[x+g_S(x)]}.
+  \label{AP0.gs1}
+\end{equation}
+The extrema are implicitly defined by $x+g_S=n/2+1/4$, $n$ integer, 
+which leads to
+\begin{equation}
+  F_S=bN.
+  \label{AP0.FS1}
+\end{equation}
+Thus $F_S$ is equal to the overall upper bound $F_S^{max}$
+which proves our conjecture that the ground state has the largest
+depinning force.
+
+For the case $c=1/2$ we introduce $g_1(x)\equiv g_S(x)$ and $g_2(x)
+\equiv g_S(x+1/2)$. In accordance with the symmetries
+(\ref{F0.gS.sym}) the delay equation (\ref{F0.gS.eq}) turns into a
+system of two coupled algebraic equations 
+\begin{equation}\begin{array}{rcl}
+  0&=&2g_2(x)-(2+\kappa)g_1(x)+b\sin 2\pi[x+g_1(x)]\\
+  0&=&2g_1(x)-(2+\kappa)g_2(x)-b\sin 2\pi[x+g_2(x)].
+\end{array}
+\label{AP0.eq2}
+\end{equation}
+For $F$ we get
+\begin{equation}
+  F(x_B)=-\frac{\kappa N}{2}[g_1(x_B)+g_2(x_B)].
+  \label{AP0.F2}
+\end{equation}
+It is not possible to give an analytic expression of $F_S$ as an 
+explicit function of $b$. But we are able to express $F_S(b)$ in 
+parametric form, i.e., $F_S(D)$ and $b(D)$ where the parameter $D$ is
+defined by
+\begin{equation}
+  D=g_1-g_2.
+  \label{AP0.D}
+\end{equation}
+Together with (\ref{AP0.F2}) we can rewrite (\ref{AP0.eq2}):
+\begin{equation}\begin{array}{rcl}
+  0&=&\frac{F}{N}+b\cos 2\pi\left(x-\frac{F}{\kappa N}\right)\cdot
+	\sin \pi D\\
+  0&=&-\left(2+\frac{\kappa}{2}\right)\,D+b\sin 2\pi\left(x-\frac{F}
+	{\kappa N}\right)\cdot\cos \pi D.
+\end{array}
+\label{AP0.eq2v2}
+\end{equation}
+Eliminating $x$ we get
+\begin{equation}
+  \frac{F}{F_S^{max}}=\pm\sin\pi D\sqrt{1-\left(\frac{(4+\kappa)D}
+	{2b\cos\pi D}\right)^2}.
+  \label{AP0.FS}
+\end{equation}
+In order to get the extrema of $F(x_B)$ we differentiate
+(\ref{AP0.eq2v2}) in $x$. Using $dF/dx\equiv 0$, eliminating $dD/dx$
+and $x-F/(\kappa N)$ we get
+\begin{equation}
+  b=\frac{4+\kappa}{2\pi\cos^2\pi D}\sqrt{(\pi D+\sin\pi D
+   \cos\pi D)\pi D}.
+  \label{AP0.b}
+\end{equation}
+Eqs.~(\ref{AP0.b}) and (\ref{AP0.FS}) define $F_S(b)$ parametrically.
+Expansions into Taylor series around $D=0$ and $D=1/2$ yield
+\begin{equation}
+  \frac{F}{F_S^{max}}=\frac{\pi}{4+\kappa}\,b+{\cal O}(b^2),
+  \label{AP0.FS.b0}
+\end{equation}
+and
+\begin{equation}
+  \frac{F}{F_S^{max}}=1-\frac{4+\kappa}{4}\,b^{-1}+{\cal O}(b^{-2}),
+  \label{AP0.FS.bi}
+\end{equation}
+respectively.
+
+\section{\protect\label{AP2}\protect\lowercase{$b_c^{\protect
+   \uppercase{K}}$}for \protect\lowercase{$c=1$} and \protect
+   \lowercase{$c=1/2$}}
+
+Loops appear in the solutions of (\ref{F0.gS.eq}) when the slope of
+$g_S(x)$ becomes infinite. For $c=1$ the delay equation
+(\ref{F0.gS.eq}) turns into the algebraic equation (\ref{AP0.eq1}). 
+Near $x=0$ we make the ansatz
+\begin{equation}
+  g_S(x)=g'x+{\cal O}(x^2)
+  \label{AP2.ansatz}
+\end{equation}
+which yields
+\begin{equation}
+  0=[-\kappa g'+2\pi b(1+g')]x+{\cal O}(x^2).
+\end{equation}
+Equating the coefficient of $x^1$ equal to zero we get
+\begin{equation}
+  g'=\frac{2\pi b}{\kappa-2\pi b}.
+  \label{AP2.gs}
+\end{equation}
+The slope of $g_S(x)$ becomes infinite at $x=0$ for $b$ equal to
+\begin{equation}
+  b_c^K=\frac{\kappa}{2\pi}.
+  \label{AP2.bck1}
+\end{equation}
+
+For the case $c=1/2$ the delay equation (\ref{F0.gS.eq}) turns 
+into the system of algebraic equations (\ref{AP0.eq2}) for
+$g_1(x)\equiv g_S(x)$ and $g_2(x)\equiv g_S(x+1/2)$.  Again we expand
+$g_1$ and $g_2$ in Taylor series:
+\begin{equation}
+  g_i=g_i'x+{\cal O}(x^2),\quad i=1,2.
+  \label{AP2.ansatz2}
+\end{equation}
+Inserting this ansatz into (\ref{AP0.eq2}) and equating the
+coefficient of $x^1$ equal to zero leads to
+\begin{equation}\begin{array}{rcl}
+  (2+\kappa-2\pi b)g_1'-2g_2'&=&2\pi b\\
+  -2g_1'+(2+\kappa+2\pi b)g_2'&=&-2\pi b.
+\end{array}
+\label{AP2.eq3}
+\end{equation}
+The solution is
+\begin{equation}
+  g_{1,2}=\frac{2\pi b(2\pi b\pm\kappa)}{(4+\kappa)\kappa-(2\pi b)^2}.
+  \label{AP2.g12}
+\end{equation}
+Thus the slope of $g_S$ becomes infinite at $x=0$ and $x=1/2$ for 
+$b$ equal to
+\begin{equation}
+  b_c^K=\frac{\sqrt{(4+\kappa)\kappa}}{2\pi}.
+  \label{AP2.bck2}
+\end{equation}
+
+\begin{references}
+\bibitem{bow.54}
+F.P. Bowden and D. Tabor, {\it Friction and Lubrication} (Oxford
+University Press, 1954).
+
+\bibitem{sin.92}
+I.L. Singer and H.M. Pollock (eds), {\it Fundamentals of Friction:
+Macroscopic and Microscopic Processes} (Kluwer Academic Publishers,
+Dordrecht, 1992).
+
+\bibitem{tom.29}
+G.A. Tomlinson, Phil. Mag. Series 7, {\bf 7}, 905 (1929).
+
+\bibitem{mcc.89}
+G.M. McClelland, in {\it Adhesion and Friction}, M. Grunze and H.J.
+Kreuzer (eds.), Springer Series in Surface Science {\bf 17}, 1
+(Springer Verlag, Berlin, 1990).
+
+\bibitem{mcc.92}
+G.M. McClelland and J.N. Glosli, in Ref.~\onlinecite{sin.92}, p. 405.
+
+\bibitem{fre.38}
+Y.I. Frenkel and T. Kontorova, Zh. Eksp. Teor. Fiz. {\bf 8}, 1340 
+(1938).
+
+\bibitem{sok.84}
+J.B. Sokoloff, Surf. Sci. {\bf 144}, 267 (1984).
+
+\bibitem{aub.78} 
+  S. Aubry, in  {\it Solitons and Condensed Matter Physics}, edited by
+  A.R. Bishop and T. Schneider (Springer-Verlag, New York, 1978).
+
+\bibitem{shi.93}
+K. Shinjo and M. Hirano, Surf. Sci. {\bf 283}, 473 (1993).
+
+\bibitem{hir.93}
+M. Hirano and K. Shinjo, Wear {\bf 168}, 121 (1993).
+
+\bibitem{bur.67}
+R. Burridge and L. Knopoff, Bull. Seismol. Soc. Am. {\bf 57}, 341 
+(1967).
+
+\bibitem{car.89}
+J.M. Carlson and J.S. Langer, Phys. Rev. Lett. {\bf 62}, 2632 (1989), 
+Phys. Rev. A {\bf 40}, 6470 (1989).
+
+\bibitem{sor.92}
+D. Sornette, J. Phys. I (France) {\bf 2}, 2089 (1992).
+
+\bibitem{sch.93}
+J. Schmittbuhl, J.-P. Vilotte, and S. Roux, Europhys. Lett. {\bf 21},
+375 (1993).
+
+\bibitem{hes.94}
+F. Heslot, T. Baumberger, B. Perrin, B. Caroli, and C. Caroli, Phys.
+Rev. E {\bf 49}, 4973 (1994).
+
+\bibitem{val.88}
+F. Vallet, R. Schilling, and S. Aubry, J. Phys. C {\bf 21}, 67 (1988).
+
+\bibitem{rab.65}
+E. Rabinowicz, {\it Friction and Wear of Materials} (Wiley \&
+Sons, New York, 1965).
+
+\bibitem{remSTA.2}
+The Farey tree is generated by successive subdivision of intervals.
+Each interval defined by the rationals $M_L/N_L$ and $M_R/N_R$ is
+divided  at $(M_L+M_R)/(N_L+N_R)$ into two subintervals. This process
+starts with $[0/1,1/1]$ and is repeated to infinity.
+
+\bibitem{pey.83}
+M. Peyrard and S. Aubry, J. Phys. C {\bf 16}, 1593 (1983).
+
+\bibitem{rob.95}
+M.O. Robbins, private communication.
+
+\bibitem{mat.94}
+H. Matsukawa and H. Fukuyama, Phys. Rev. B {\bf 49}, 17286 (1994).
+
+\end{references}
+
+\begin{figure}
+%\begin{center}
+%\epsfig{file=FKT-Modell_fje.eps, width=\textwidth} 
+%\end{center}
+\caption{\protect\label{f1}
+The Frenkel-Kontorova-Tomlinson (FKT) model where $x_B$ is the
+position of the upper sliding body, $F$ is the applied force, $c$ is
+the lattice constant of the surface of the upper sliding body,
+$\kappa_1$ and $\kappa_2$ are the stiffness constants of the coil and
+the leaf springs, respectively, $\xi_j$ is the position of particle
+$j$ relative to the support of its leaf spring, and $b$ is the
+strength of the interaction with the surface of the fixed rigid lower
+body. Its lattice constant defines the length unit.  The stiffness of
+the coil springs defines the unit of the strength of interaction.}
+\end{figure}
+
+\begin{figure}[htbp]
+%\begin{center}
+%\epsfig{file=hull_fje.eps, width=\textwidth} 
+%\end{center}
+\caption[hull]{\protect\label{f.hull}
+The hull function $g_S(x)$ for $\kappa=1$ and
+$c=(\sqrt{5}-1)/2\approx 144/233$. Solid line: $b=0.4$. Dotted line:
+$b=0.5$.}
+\end{figure}
+
+\begin{figure}[htbp]
+%\begin{center}
+%\epsfig{file=hull2.eps, width=\textwidth} 
+%\end{center}
+\caption[hull2]{\protect\label{f.hull2}
+The hull function $g_S(x)$ in the Tomlinson limit (i.e.,
+$\kappa,b\to\infty$) defined by (\ref{F0.g}) with $b/\kappa=1$. The
+solid line indicates stable states of a single Tomlinson oscillator
+with fixed support $x$. Dashed-dotted and dotted lines indicate
+metastable states and unstable states, respectively. The squares 
+denote the ground state of the FKT model for $\kappa=10$, $b=10$, and
+$c=21/34$.}
+\end{figure}
+
+\begin{figure}[htbp]
+%\begin{center}
+%\epsfig{file=fkink.eps, width=\textwidth} 
+%\end{center}
+\caption[kink]{\protect\label{f.kink}
+The first metastable states are kink-antikink pairs. They separate
+domains with different ground states which are characterized by
+``virtual'' positions $x_B$ of the upper body. The upper part of the
+figure gives an example for $c=1$ in the Tomlinson limit.}
+\end{figure}
+
+\begin{figure}[htbp]
+%\begin{center}
+%\epsfig{file=phase.eps, width=\textwidth} 
+%\end{center}
+\caption[c1kink]{\protect\label{f.c1kink}
+Phase diagram of the elementary kink-antikink pair for
+$c=1$ and $N\to\infty$. The relative portion of one domain is denoted
+by $p$.}
+\end{figure}
+
+\begin{figure}[htbp]
+%\begin{center}
+%\epsfig{file=ffs.eps, width=\textwidth} 
+%\end{center}
+\caption[FS]{\protect\label{f.FS}
+Static friction $F_S$ as a function of $b$ for $\kappa=1$ and for a
+sequence of rational values of $c$ (thin lines) which converges to
+the golden mean $(\sqrt{5}-1)/2$ (thick line).}
+\end{figure}
+
+\begin{figure}[htbp]
+%\begin{center}
+%\epsfig{file=b_c_fje.eps, width=\textwidth} 
+%\end{center}
+\caption[bck]{\protect\label{f.bck}
+The threshold $b_c^K$ as a function of $\kappa$
+for a sequence of rational values of $c$ (thin lines) which converges 
+to the golden mean $(\sqrt{5}-1)/2$ (thick line).}
+\end{figure}
+
+\end{document}
+

@@ -1,0 +1,366 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+
+<HEAD>
+<LINK REV="made" HREF="mailto:Franz-Josef.Elmer@unibas.ch">
+<META name="keywords" content="Pendulum, Physics, Nonlinear Dynamics">
+<META name="description" content="Pendulum dynamics">
+
+	<META NAME="GENERATOR" Content="Visual Page 1.0 for Windows">
+	<META HTTP-EQUIV="Content-Type" CONTENT="text/html;CHARSET=iso-8859-1">
+	<TITLE>Basic Terms of Nonlinear Dynamics</TITLE>
+</HEAD>
+
+<BODY TEXT="#000000" BGCOLOR="#FFFFB0" LINK="#0000FF" VLINK="#0000FF" ALINK="#FF0000">
+
+<P><A NAME="top"></A>
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0">
+	<TR ALIGN="CENTER">
+		<TD WIDTH="120" VALIGN="TOP">
+			<CENTER>
+			<P>
+			<TABLE BORDER="4" BGCOLOR="#FFFFFF">
+				<TR>
+					<TD>
+						<P ALIGN="CENTER"><A HREF="index.html"><IMG SRC="plab_s.gif" WIDTH="101" HEIGHT="35" ALIGN="BOTTOM" ALT="Logo"
+						BORDER="0"></A>
+					</TD>
+				</TR>
+			</TABLE>
+
+</CENTER>
+		</TD>
+		<TD>
+			<CENTER>
+			<P>
+			<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="248">
+				<TR>
+					<TD WIDTH="124" BGCOLOR="#FFFFFF">
+						<P ALIGN="CENTER"><A HREF="lab.htm"><FONT SIZE="4">The Lab</FONT></A>
+					</TD>
+					<TD WIDTH="124" BGCOLOR="#99FF99">
+						<P ALIGN="CENTER"><A HREF="lroom.htm"><FONT SIZE="4"><B>The Lecture Room</B></FONT></A>
+					</TD>
+				</TR>
+				<TR>
+					<TD WIDTH="124"><IMG SRC="nb_b.gif" WIDTH="124" HEIGHT="6" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_u.gif" WIDTH="124" HEIGHT="6" ALIGN="BOTTOM" BORDER="0"></TD>
+				</TR>
+			</TABLE>
+
+			<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="620">
+				<TR>
+					<TD WIDTH="124"><IMG SRC="nb_l.gif" WIDTH="124" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_m.gif" WIDTH="124" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_m.gif" WIDTH="124" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_m.gif" WIDTH="124" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_r.gif" WIDTH="124" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"></TD>
+				</TR>
+				<TR>
+					<TD WIDTH="124" BGCOLOR="#FFFFFF">
+						<P ALIGN="CENTER"><A HREF="eqm.htm">The Equations of Motion</A>
+					</TD>
+					<TD WIDTH="124" BGCOLOR="#FFFFFF">
+						<P ALIGN="CENTER"><A HREF="oscres.htm">Oscillations and Resonances</A>
+					</TD>
+					<TD WIDTH="124" BGCOLOR="#99FF99">
+						<P ALIGN="CENTER"><A HREF="nldyn.htm"><B>Nonlinear Dynamics</B></A>
+					</TD>
+					<TD WIDTH="124" BGCOLOR="#FFFFFF">
+						<P ALIGN="CENTER"><A HREF="app.htm">Miscellaneous Topics</A>
+					</TD>
+					<TD WIDTH="124" BGCOLOR="#FFFFFF">
+						<P ALIGN="CENTER"><A HREF="links.htm">Links and Literature</A>
+					</TD>
+				</TR>
+				<TR>
+					<TD WIDTH="124"><IMG SRC="nb_b.gif" WIDTH="124" HEIGHT="6" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_b.gif" WIDTH="124" HEIGHT="6" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_u.gif" WIDTH="124" HEIGHT="6" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_b.gif" WIDTH="124" HEIGHT="6" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_b.gif" WIDTH="124" HEIGHT="6" ALIGN="BOTTOM" BORDER="0"></TD>
+				</TR>
+			</TABLE>
+
+			<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="372">
+				<TR>
+					<TD WIDTH="124"><IMG SRC="nb_l.gif" WIDTH="124" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_m.gif" WIDTH="124" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_r.gif" WIDTH="124" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"></TD>
+				</TR>
+				<TR>
+					<TD WIDTH="124" BGCOLOR="#99FF99">
+						<P ALIGN="CENTER"><A HREF="bterm.htm"><I><B>Basic Terms</B></I></A>
+					</TD>
+					<TD WIDTH="124" BGCOLOR="#FFFFFF">
+						<P ALIGN="CENTER"><A HREF="bif.htm"><I>Stability and Bifurcation</I></A>
+					</TD>
+					<TD WIDTH="124" BGCOLOR="#FFFFFF">
+						<P ALIGN="CENTER"><A HREF="chaos.htm"><I>The Nature of Chaos</I></A>
+					</TD>
+				</TR>
+			</TABLE>
+
+</CENTER>
+		</TD>
+	</TR>
+</TABLE>
+</P>
+<P>
+<H1 ALIGN="CENTER">Basic Terms of Nonlinear Dynamics</H1>
+
+<P>Nonlinear dynamics is a <i>language</i> to talk about <i>dynamical systems</i>.
+Here, brief definitions are given for the basic terms of this language.
+All these terms will be illustrated at the pendulum.
+
+<DL>
+ <DT><a name="system"></a><b>Dynamical system:</b></dt>
+ <dd>A part of the world which can be seen as a self-contained entity with some temporal
+     behavior. In nonlinear dynamics, speaking about a dynamical system usually means to
+     speak about an abstract mathematical system which is a <b>model</b> for such an entity.
+     Mathematically, a dynamical system is defined by its <a href="#state">state</a> and by
+     its <a href="#eqm">dynamics</a>.
+     A pendulum is an example for a dynamical system.
+ <DT><A NAME="state"></A><B>State:</B></DT>
+ <DD>A number or a vector (i.e., a list of numbers) defining the state of the dynamical system
+     uniquely. For the <I>undriven pendulum</I>, the state is uniquely defined by the
+     <nobr><U>angle</U>&nbsp;<IMG SRC="greek/varphi.gif" WIDTH="13" HEIGHT="22" ALIGN="MIDDLE"
+     ALT="phi" BORDER="0" HSPACE="2"></nobr> and the <U>angular velocity</U> <nobr><IMG
+     SRC="greek/omega.gif" WIDTH="14" HEIGHT="22" ALIGN="MIDDLE" ALT="omega" BORDER="0"
+     HSPACE="2"> := d<IMG SRC="greek/varphi.gif" WIDTH="13" HEIGHT="22" ALIGN="MIDDLE" ALT="phi"
+     BORDER="0" HSPACE="2">/dt.</nobr>. In the case of driving, the <U>driving phase <IMG
+     SRC="greek/theta.gif" ALIGN="MIDDLE" ALT="theta" BORDER="0" HSPACE="2"></U> is also needed
+     because the pendulum becomes a <A HREF="#nonauto">nonautonomous system</A>.
+     In spatially extended systems, the state is often a <I>field</I> (a scalar
+     field or a vector field). Mathematically spoken, fields are functions with space
+     coordinates as independent variables. The velocity field of a fluid is a well-known example.
+ <DT><A NAME="ps"></A><B>Phase space:</B></DT>
+ <DD>All possible states of the system. Each point in the phase space corresponds to a unique
+     state. In the case	of the <I>undriven pendulum</I>, the phase space has two dimensions
+     whereas for <I>driven pendula</I> it has three. The dimension of the phase space is
+     infinite in cases where the system state is defined by a field.
+ <DT><A NAME="eqm"></A><B>Dynamics</B> or <B>equation of motion:</B></DT>
+ <DD>The causal relation between the present state and the next state in the future.
+     It is a <I>deterministic rule</I> which tells us what happens in the next time step.
+     In the case of a <B>continuous time</B>, the time step is infinitesimally	small.
+     Thus, the equation of motion is a <B>differential equation</B> or a system of
+     differential equations:<BR>
+     <TABLE BORDER="0">
+      <TR>
+       <TD WIDTH="1000" ALIGN="CENTER">
+          <nobr><I>d<B>u</B>/dt</I> = <B><I>F</I></B>(<B><I>u</I></B>),</nobr>
+       </TD>
+      </TR>
+     </TABLE>
+     where <I><B>u</B></I> is the state and <I>t</I> is the time variable.
+     An example is the <A HREF="eqm1.htm#(1)">equation of motion</A> of an undriven and
+     undamped pendulum. In the case of a <B>discrete time</B>, the time steps are nonzero
+     and the dynamics is a <B>map</B>:<BR>
+     <TABLE BORDER="0">
+      <TR>
+       <TD WIDTH="1000" ALIGN="CENTER">
+          <nobr><B><I>u</I></B><I><SUB>n</SUB></I><SUB>+1</SUB> =
+          <B><I>F</I></B>(<B><I>u</I></B><I><SUB>n</SUB></I>),</nobr>
+       </TD>
+      </TR>
+     </TABLE>
+     with the discrete time <I>n</I>. An example is the <A HREF="chaos.htm#bmap">baker map</A>.
+     Note, that the corresponding physical time points <nobr><I>t<SUB>n</SUB></I></nobr>
+     do not necessarily occur equidistantly. Only the order has to be the same.
+     That is, <nobr><I>n &lt; m</I></nobr> implies <nobr><I>t<SUB>n</SUB> &lt;
+     t<SUB>m</SUB></I></nobr>.<BR>
+     The dynamics is <B>linear</B> if the causal relation between the present state and
+     the next state is linear. Otherwise it is <B>nonlinear</B>.<BR>
+     What happens if the next state isn't uniquely defined by the present one?
+     In general, this is an indication that the phase space is not complete.
+     Thus, there are important variables determining the state which had been forgotten.
+     Of course, this is a crucial point while modelling a real-life systems.
+     But beside this, there are two important classes of systems where the phase space
+     is incomplete: The <A NAME="nonauto"></A><B>nonautonomuous systems</B>
+     and the <b>stochastic systems</b>. A nonautonomous systems has an equation of motion
+     which depends explicitly on time.
+     Thus, the dynamical rule governing the next state not only depends on the present
+     state but also at the time it applies.
+     A driven pendulum is an example of a nonautonomuous system.
+     Fortunately, there is an easy way	to make the phase space complete.
+     Simply include the time into the definition of the state!
+     Mathematically, this is done by introducing a new state variable <IMG
+     SRC="greek/tau.gif" ALIGN="MIDDLE" ALT="tau" BORDER="0" HSPACE="2">.
+     Its dynamics reads <nobr><i>d</i><IMG SRC="greek/tau.gif" ALIGN="MIDDLE" ALT="tau"
+     BORDER="0" HSPACE="2">/<I>dt</I> = 1,</nobr> or <IMG SRC="greek/tau.gif"
+     ALIGN="MIDDLE" ALT="tau" BORDER="0" HSPACE="2"><SUB>n+1</SUB> = <IMG
+     SRC="greek/tau.gif" ALIGN="MIDDLE" ALT="tau" BORDER="0" HSPACE="2"><SUB>n</SUB>,
+     depending on whether time is continuous or discrete.
+     For the periodically driven pendula, it is also natural to take the
+     <I>driving phase</I> <IMG SRC="greek/theta.gif" ALIGN="MIDDLE" ALT="theta"
+     BORDER="0" HSPACE="2"> as the new state variable.
+     Its equation of motion reads<BR>
+     <TABLE BORDER="0">
+      <TR>
+       <TD WIDTH="1000" ALIGN="CENTER">
+          <nobr><I>d</i><IMG SRC="greek/theta.gif" ALIGN="MIDDLE" ALT="theta" BORDER="0"
+          HSPACE="2">/<i>dt</I> = 2<IMG SRC="greek/pi.gif" WIDTH="12" HEIGHT="22"
+          ALIGN="MIDDLE" ALT="pi" BORDER="0" HSPACE="2"><I>f</I>,</nobr>
+       </TD>
+      </TR>
+     </TABLE>
+     where <I>f</I> is the driving frequency (the angular driving frequency is
+     <nobr>2<IMG SRC="greek/pi.gif" WIDTH="12" HEIGHT="22" ALIGN="MIDDLE" ALT="pi"
+     BORDER="0" HSPACE="2"><I>f</I>).</nobr><BR>
+     In a <A NAME="stochastic"></A><B>stochastic system</B>, the number and the nature
+     of the variables necessary to complete the phase space is usually unknown.
+     Therefore, the next state can not be deduced from the present one.
+     The deterministic	rule is replaced by a stochastic one.
+     Instead of the next state, it gives only the probabilities of all points in
+     the phase space to be the next state.
+ <dt><A NAME="orbit"></A><B>Orbit </B>or <B>trajectory:</B></DT>
+ <DD>A solution of the <a href="#eqm">equation of motion</a>. In the case of continuous time,
+     it is a curve in <a href="#ps">phase space</a> parametrized by the time variable.
+     For a discrete system it is an ordered  set of points in the <a href="#ps">phase space</a>.
+ <DT><A NAME="flow"></A><B>Flow:</B></DT>
+ <DD>The mapping of the whole phase space of a continuous dynamical system onto
+     itself for a given time step <I>t</I>.
+     If <I>t</I> is an infinitesimal time step <I>dt</I>, the flow is just given by
+     the right-hand side of the <a href="#eqm">equation of motion</a> (i.e., <B><I>F</I></B>).
+     In general, the flow for a finite time step is not known analytically because
+     this would be equivalent to have a solution of the equation of motion.<BR>
+     <TABLE BORDER="0">
+      <TR>
+       <TD WIDTH="100%"><IMG SRC="phasespc.gif" WIDTH="572" HEIGHT="270"
+	ALIGN="LEFT" ALT="phase space and flow" BORDER="0" hspace=3>
+	As an example, the figure shows the flow of a damped pendulum.
+	The black arrows of the vector field <B><I>F</I></B> are tangential at the
+	<a href="#orbit">trajectories</a>.
+	In a two-dimensional <a href="#ps">phase space</a>, you can draw a qualitative
+	picture of the flow and the orbits. First, draw the so-called <I>null clines</I>.
+	These are the lines were the time derivative
+	of one component of the <a href="#state">state</a> variable is zero.
+	Here, one null cline is the angle axes because the time derivative of the angle is
+	zero when the angular velocity is zero.
+	The other null cline is <nobr><IMG SRC="greek/omega.gif" WIDTH="14" HEIGHT="22"
+	ALIGN="MIDDLE" ALT="omega" BORDER="0" HSPACE="2"> = - <IMG SRC="greek/omega.gif"
+	WIDTH="14" HEIGHT="22" ALIGN="MIDDLE" ALT="omega" BORDER="0"
+	HSPACE="2"><SUB>0</SUB><SUP>2</SUP>sin<IMG SRC="greek/varphi.gif" WIDTH="13"
+	HEIGHT="22" ALIGN="MIDDLE" ALT="phi" BORDER="0" HSPACE="2">/<IMG SRC="greek/gamma.gif"
+	ALIGN="MIDDLE" ALT="gamma" BORDER="0" HSPACE="2">.</nobr>
+	On these null clines, draw the vector field vertical or horizontal, respectively.
+	Between the null clines draw the vector field in the direction north east,
+	south east, south west, or north west. The direction is determined by the
+	signs of <nobr><I>d</i><IMG SRC="greek/varphi.gif" WIDTH="13" HEIGHT="22" ALIGN="MIDDLE"
+	ALT="phi" BORDER="0" HSPACE="2">/<i>dt</I></nobr> and <nobr><I>d</i><IMG
+	SRC="greek/omega.gif" WIDTH="14" HEIGHT="22" ALIGN="MIDDLE" ALT="omega"
+	BORDER="0" HSPACE="2">/<i>dt</I></nobr>. At the crossing points of the null clines, the
+	vector field is zero, i.e., <nobr><I>d</i><IMG SRC="greek/varphi.gif"
+	WIDTH="13" HEIGHT="22" ALIGN="MIDDLE" ALT="phi"	BORDER="0" HSPACE="2">/<i>dt</I> =
+	0</nobr> and <nobr><I>d</i><IMG SRC="greek/omega.gif" WIDTH="14" HEIGHT="22"
+	ALIGN="MIDDLE" ALT="omega" BORDER="0" HSPACE="2">/<i>dt</I> = 0</nobr>.
+	These points are called <b>fixed points</b>.
+	They correspond to <I>stationary</I> solutions.
+	Fixed points are examples of <A HREF="#nonwandset">non-wandering sets</A>.
+	They can be either stable or unstable.
+       </TD>
+      </TR>
+     </TABLE>
+ <DT><A NAME="psection"></A><a name="pmap"></a><B>Poincar&eacute; section</B> and
+     <B>Poincar&eacute; map:</B></DT>
+ <DD><TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0">
+      <TR>
+       <TD><IMG SRC="psection.gif" WIDTH="191" HEIGHT="151" ALIGN="LEFT" BORDER="0">
+	A carefully chosen (curved) plane in the <a href="#ps">phase space</a> that is crossed
+	by almost all <a href="#orbit">orbits</a>.
+	It is a tool developed by Henri Poincar&eacute; (1854-1912) for a visualization
+	of the <a href="#flow">flow</a> in a <a href="#ps">phase space</a> of more than
+	two dimensions. The Poincar&eacute; section has one dimension less than the phase space.
+	The <b>Poincar&eacute; map</b> maps the points of the Poincar&eacute;
+	section onto itself. It relates two consecutive intersection points.
+	Note, that only those intersection points counts which come
+	from the same side of the plane.
+	A Poincar&eacute; map turns a <a href="#eqm">continuous dynamical system</a>
+	into a discrete one.
+	If the Poincar&eacute; section is carefully chosen no information is lost concerning
+	the qualitative behavior of the <a href="#eqm">dynamics</a>.
+	Poincar&eacute; maps are invertable maps because one gets <B><I>u</I></B><SUB>n</SUB>
+	from <B><I>u</I></B><I><SUB>n</SUB></I><SUB>+1</SUB> by following the orbit backwards.
+	In the <a href="lab.htm">Pendulum Lab</a>, you can turn the
+	<A HREF="lab.htm#osc">oscilloscope</A> into a special Poincar&eacute; map called
+	<B>stroboscopic map</B> were the Poincar&eacute; section is defined by a certain
+	phase of the time-periodic driving.
+       </TD>
+      </TR>
+     </TABLE>
+ <DT><A NAME="nonwandset"></A><B>Non-wandering set:</B></DT>
+  <DD>A set of points in the <a href="#ps">phase space</a> having the following property:
+      All <a href="#orbit">orbits</a> starting from a point of this set come
+      arbitrarily close and arbitrarily often to any point of the set.
+      Non-wandering sets are coming in four flavors:
+      <OL>
+       <LI><B>Fixed points:</B>Stationary solutions. For the undriven pendulum and for the
+	vertically driven pendulum, <nobr><IMG SRC="greek/varphi.gif" WIDTH="13" HEIGHT="22"
+	ALIGN="MIDDLE" ALT="phi" BORDER="0" HSPACE="2"> = 0</nobr>, <nobr><I>d</i><IMG
+	SRC="greek/varphi.gif" WIDTH="13" HEIGHT="22" ALIGN="MIDDLE" ALT="phi" BORDER="0"
+	HSPACE="2">/<i>dt</I> = 0</nobr> and <nobr><IMG SRC="greek/varphi.gif" WIDTH="13"
+	HEIGHT="22" ALIGN="MIDDLE" ALT="phi" BORDER="0" HSPACE="2"> = 180&deg;</nobr>,
+	<nobr><I>d</i><IMG SRC="greek/varphi.gif" WIDTH="13" HEIGHT="22" ALIGN="MIDDLE"
+	ALT="phi" BORDER="0" HSPACE="2">/<i>dt</I> = 0</nobr> are fixed points.
+       <LI><B>Limit cycles:</B>Periodic solutions. These solutions are common in weakly
+	driven pendula.
+       <LI><B>Quasiperiodic orbits:</B> Periodic solutions with at least two incommensurable
+	frequencies (i.e., the ratio of the frequencies is an irrational number).
+	In the <a href="lab.htm">Pendulum Lab</a>, these solutions occur only in undamped but
+	driven pendula.
+       <LI><B>Chaotic orbits:</B> Bound non-periodic solutions.
+	These solutions occur in driven pendula if the driving is strong enough.
+      </OL>
+      The first three types can also occur in linear dynamics.
+      The fourth type appears only in nonlinear systems.
+      Its possibility was first anticipated by the genius of Henri Poincar&eacute; (1854-1912).
+      In the meanwhile, computers had turned this previously counterintuitive behavior into
+      a widespread experience. In the seventies, this irregular behavior was termed
+      <A HREF="chaos.htm">deterministic chaos</A>.
+      In the <a href="#pmap">Poincar&eacute;</a> map, limit cycles become fixed points.
+      A non-wandering set can be either <B>stable</B> or <B>unstable</B>.
+      Changing a parameter of the system can change the <A HREF="bif.htm#stab">stability</A>
+      of a non-wandering set.
+      This is accompanied by a change of the <I>number</I> of non-wandering sets due to
+      a <A HREF="bif.htm#bif">bifurcation</A>.
+</DL>
+
+<P>
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="19%">
+	<TR>
+		<TD WIDTH="33%">
+			<P ALIGN="CENTER"><A HREF="nldyn.htm"><IMG SRC="prevarow.gif" WIDTH="31" HEIGHT="31" ALIGN="BOTTOM" ALT="arrow"
+			BORDER="0"></A>
+		</TD>
+		<TD WIDTH="33%">
+			<P ALIGN="CENTER"><A HREF="#top"><IMG SRC="toparow.gif" WIDTH="31" HEIGHT="31" ALIGN="BOTTOM" ALT="arrow" BORDER="0"></A>
+		</TD>
+		<TD WIDTH="34%">
+			<P ALIGN="CENTER"><A HREF="bif.htm"><IMG SRC="nextarow.gif" WIDTH="31" HEIGHT="31" ALIGN="BOTTOM" ALT="arrow" BORDER="0"></A>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH="33%">
+			<P ALIGN="CENTER"><A HREF="nldyn.htm">previous</A>
+		</TD>
+		<TD WIDTH="33%">
+			<P ALIGN="CENTER"><A HREF="#top">top</A>
+		</TD>
+		<TD WIDTH="34%">
+			<P ALIGN="CENTER"><A HREF="bif.htm">next</A>
+		</TD>
+	</TR>
+</TABLE>
+
+<HR ALIGN="CENTER" NOSHADE>
+<!---
+<IMG SRC="baustell.gif" WIDTH="49" HEIGHT="43" ALIGN="BOTTOM" BORDER="0">This site is still under construction!
+--->
+<nobr>
+<ADDRESS>&copy; 1998 <a href="http://www.elmer.unibas.ch">Franz-Josef Elmer</a>, <IMG SRC="envelope.gif" WIDTH="20" HEIGHT="10" ALIGN="BOTTOM" BORDER="0">
+&nbsp;Franz-Josef doht Elmer aht unibas doht ch,
+last modified Wednesday, July 22, 1998.
+
+
+</BODY>
+
