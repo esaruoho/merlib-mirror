@@ -1,0 +1,29 @@
+{
+  "source": "live",
+  "domain": "meyl.eu",
+  "mirror_date": "2026-04-21T10:49:30.470837",
+  "total_urls": 0,
+  "downloaded": 176,
+  "failed": 0,
+  "files": 176,
+  "file_types": {
+    ".pdf": 39,
+    ".jpg": 73,
+    ".gif": 3,
+    ".png": 12,
+    ".ico": 1,
+    ".html": 36,
+    ".html__dir%3d85_about%26page%3d1%26sublevel%3d0": 1,
+    ".html__dir%3d50_experimental%26page%3d1%26sublevel%3d0": 1,
+    ".html__dir%3d15_events%26page%3d1%26sublevel%3d0": 1,
+    ".html__dir%3d80_meyl%26page%3d1%26sublevel%3d0": 1,
+    ".html__dir%3d90_contact%26page%3d1%26sublevel%3d0": 1,
+    ".html__dir%3d55_shop%26page%3d1%26sublevel%3d0": 1,
+    ".html__dir%3d45_videos-on-demand%26page%3d1%26sublevel%3d0": 1,
+    ".html__dir%3d10_home%26page%3d1%26sublevel%3d0": 1,
+    ".html__dir%3d47_papers%26page%3d1%26sublevel%3d0": 1,
+    ".html__dir%3d60_documents%26page%3d1%26sublevel%3d0": 1,
+    ".html__dir%3d30_books%26page%3d1%26sublevel%3d0": 1,
+    ".html__dir%3d40_media%26page%3d1%26sublevel%3d0": 1
+  }
+}

@@ -1,0 +1,20 @@
+[2026-04-21 09:53:27] ============================================================
+[2026-04-21 09:53:27] WAYBACK MIRROR: theverylastpageoftheinternet.com
+[2026-04-21 09:53:27] Output: /Users/esaruoho/work/merlib-mirror/sites/theverylastpageoftheinternet.com
+[2026-04-21 09:53:27] Delay: 1.0s
+[2026-04-21 09:53:27] ============================================================
+[2026-04-21 09:53:27] Resuming: phase=complete, 1 already done
+[2026-04-21 09:53:27] 
+=== PHASE 3: Generating Index ===
+[2026-04-21 09:53:27] Generating index...
+[2026-04-21 09:53:27] Index: 0 files
+[2026-04-21 09:53:27] 
+============================================================
+[2026-04-21 09:53:27] MIRROR COMPLETE
+[2026-04-21 09:53:27] Total URLs: 1
+[2026-04-21 09:53:27] Downloaded: 1
+[2026-04-21 09:53:27] Failed: 0
+[2026-04-21 09:53:27] Files: 0
+[2026-04-21 09:53:27] ============================================================
+[2026-04-21 09:53:27] 
+Next step: fe-ingest.sh /Users/esaruoho/work/merlib-mirror/sites/theverylastpageoftheinternet.com
