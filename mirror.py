@@ -18,6 +18,7 @@ import sys
 import json
 import time
 import shutil
+import hashlib
 import argparse
 import subprocess
 import urllib.request
@@ -275,6 +276,22 @@ def sanitize_path(url):
     # Sanitize characters
     path = re.sub(r'[<>:"|?*]', '_', path)
 
+    # Truncate over-long basenames (filesystems limit filenames to 255 bytes).
+    # Preserve extension and append a short hash of the original name for uniqueness.
+    MAX_NAME_BYTES = 200
+    dir_part, base = os.path.split(path)
+    if len(base.encode('utf-8', errors='ignore')) > MAX_NAME_BYTES:
+        stem, ext = os.path.splitext(base)
+        if len(ext.encode('utf-8', errors='ignore')) > 20:
+            # absurdly long "extension" (query-string-as-ext) — treat whole base as stem
+            stem, ext = base, ''
+        h = hashlib.sha1(base.encode('utf-8', errors='ignore')).hexdigest()[:10]
+        budget = MAX_NAME_BYTES - len(ext.encode('utf-8', errors='ignore')) - 1 - len(h)
+        stem_bytes = stem.encode('utf-8', errors='ignore')[:max(budget, 1)]
+        stem = stem_bytes.decode('utf-8', errors='ignore')
+        base = f"{stem}_{h}{ext}"
+        path = os.path.join(dir_part, base) if dir_part else base
+
     return path
 
 
@@ -399,6 +416,26 @@ class _LinkExtractorHTML(HTMLParser):
             self.links.add(full)
 
 
+_META_REFRESH_RE = re.compile(
+    r'<meta[^>]+http-equiv\s*=\s*["\']?refresh["\']?[^>]*content\s*=\s*["\']?\s*\d+\s*;\s*url\s*=\s*([^"\'>\s]+)',
+    re.IGNORECASE,
+)
+
+
+def _extract_meta_refresh_targets(text, base_url):
+    """Return URLs from <meta http-equiv="refresh" content="0; URL=..."> tags.
+
+    Redirect splash pages (e.g. meyl.eu/) have zero <a> tags — without this we
+    crawl one file and stop. The browser follows the refresh instantly; so do we.
+    """
+    urls = set()
+    for m in _META_REFRESH_RE.finditer(text):
+        target = m.group(1).strip().strip('"\'')
+        if target:
+            urls.add(urllib.parse.urljoin(base_url, target))
+    return urls
+
+
 def extract_links(html_content, base_url):
     """Extract links from HTML. Uses Scrapling if available, else HTMLParser."""
     text = html_content if isinstance(html_content, str) else html_content.decode('utf-8', errors='replace')
@@ -426,13 +463,14 @@ def extract_links(html_content, base_url):
             src = script.attrib.get('src', '')
             if src:
                 links.add(urllib.parse.urljoin(base_url, src))
+        links |= _extract_meta_refresh_targets(text, base_url)
         links = {l for l in links if not l.startswith(('javascript:', 'mailto:', 'data:', '#'))}
         return links
 
     # Fallback: stdlib HTMLParser
     extractor = _LinkExtractorHTML(base_url)
     extractor.feed(text)
-    return extractor.links
+    return extractor.links | _extract_meta_refresh_targets(text, base_url)
 
 
 def should_skip_url(url, domain):
