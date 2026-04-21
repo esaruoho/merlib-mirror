@@ -1,0 +1,75 @@
+Ville's Research 
+
+ Homepage 
+ Experiments 
+ About 
+ Resources 
+
+ Welcome to my research site! These pages contain unconventional research on natural energies. Special interests are in the fields of magnetism and subtle energies. The purpose is to search new innovations for future well-being and share information with researchers alike. 
+ The focus is on creative processes that may result in new innovations. Part of the research is intended for understanding nature beyond conventional science from etheric point of view. 
+ Have a good time researching! 
+
+ Wireless Light 
+
+ The experimental setup includes an electrical circuit for generating alternate currents of high voltage and high frequency. 
+ There appears to be a short, pulse-like amplification of light intensity at the instant of switch closure. At voltages under 25 V (with 10 M&Omega; resistor), the circuit may have to be jump-started by short-circuiting the transistor's collector to its base/emitter with a quick tap. 
+ At higher voltages, the intensity of light and lighting up distance increase, but at the same time the transistor gets very hot. The performance of the circuit seems to get better by adding a couple of switching diodes (for example 1N4001 or 1N4148). 
+ After the first successful tuning (added a couple of diodes and changed the resistor to 10k&Omega;) there is no need to jump-start the circuit. The transistor still heats up at higher voltages, but within reasonable limits. The system is exciting and there is a lot to experiment and learn. 
+ Thanks to Lidmotor and Michael Judd for the inspiring YouTube videos. 
+
+ "I have made the discovery that an electrical current of an excessively small period and very high potential may be utilized economically and practicably to great advantage for the production of light." 
+ Nikola Tesla 1891, System of Electric Lighting Patent. 
+
+ According to George Trinkaus (1989) the primary and the secondary coils should be wound in the same direction. The primary coil has a role in the fine tuning the tesla coil. "One old rule of thumb says the primary and the secondary should have equal weights of copper." (1) 
+ Although the experimental system is not exactly tesla coil, the same fine tuning methods seems to apply. The new primary coil has 8 loops of 2.15 mm diameter (~AWG 12) copper wire. The coil height and diameter is 80 mm. The fluorescent tubes generate soft light, and during low voltage operation, the tubes produce magical looking flows of varying light intensity. 
+
+ Here is a sample measurement made with TESTEC High Voltage Probe (HVP 15HF) connected to Tektronix TDS 1001C-EDU digital oscilloscope. 
+ According to measurement (from the base of the transistor) the voltage coming from the batteries is converted to 830 kHz AC with peak to peak voltage about 3.2 kV. The whole system goes into excited state. The working frequency of the circuit varies with the load and the measurement style. The frequency goes down by some tens of kilohertz by adding more lights or tilting the probe closer to the coils. 
+ In the picture, the system is lighting three fluorescent tubes with soft light. The amount of light is still to be measured with a light meter. It is estimated to be only a fraction of the brightness than with normal household power. 
+ (September 20, 2012) 
+
+ Magnet Motor Research 
+
+ Searching for environmentally friendly magnet motor to produce clean energy. 
+ According to Tom Bearden a self-rotating permanent magnet motor receives energy from the active vacuum. It is known in particle physics that dipoles such as permanent magnets and electrets continually absorb, integrate and emit energy from the vacuum. 
+ Inspiration ~ natural whirls In April 2005 I saw a little whirlwind (dust devil) travel into a calm bay on the Gulf of Finland in Helsinki. On the sea surface, the vortex built up a round wave like structure which looked like two fish circling around common center. It is interesting that our interplanetary magnetic field (heliospheric current sheet) as well as many galaxies form similar structures. 
+ In June 2008 I got lucky again, as I saw a little waterspout (water devil) on the beaches of Ounasjoki River in Rovaniemi, Finland. It was a delightful view with uplifting sounds. The whirlwind levitated hundreds of water droplets near the shores as it moved across the river. On the middle of the river it created two crescent/half moon shaped wave areas to the opposite sides of common center. These areas contained countless of little wave peaks, and it looked like waters surface tension was barely enough to keep water from levitating up. 
+ Water devils and dust devils are minor whirlwinds created by rising air and local winds. The ones I saw probably developed into two-celled vortices with inner downdrafts and outer updrafts. They had a toroidal structure with two effective updraft areas on the opposite sides. In the water devil these most effective updraft areas were clearly visible (the two crescents/half moons) and also a vortex ring like structure was visible for a moment as the whirlwind levitated water. 
+ The open question is how to copy whirlwinds and other natural vortices for the purpose of creating self sustaining energy flow in to the motor, and use the additional energy from the environment as a recharging mechanism to keep the motor turning. 
+
+ Thoughts about whirlwinds and water levitation 
+ As we are living in the electrical environment of the Earth, the Sun and our Galaxy, this cosmic energy takes a part to all weather phenomena from galactic winds to whirlwinds. 
+ Whirlwinds generate electric potential differences between updraft and downdraft tubes, and local environment. Due to normal atmospheric charge, dry air is usually more positively charged than moist air, since high humidity prevents build up of static charges. When rising air is dry and falling air is moist, the updraft tube is more positively charged than the downdraft tube. 
+ In the seen water devil the local atmospheric charge and additional positive charges in the updraft tube could well have contributed to the water levitation and the formation of many little wave peaks, as the positively charged air electrostatically induces negative charge on the water surface and attracts charged water. 
+
+ Whirlwinds are self sustaining heat engines. In the heart of the whirlwind is a low pressure center, which is surrounded by inner downdraft of cooler high density air and outer updraft of warmer low density air. At the surface, the air flows from the high density inner funnel to the low density outer funnel and also from the environment to the outer funnel. At upper levels the air flows back from the warm regions to the cool regions in the center of the whirlwind. 
+ August 26, 2010 
+
+ References 
+
+ (1) Trinkaus, George. 1989. Tesla Coil (3rd edition). United States of America: High Voltage Press. 
+
+ Research topics 
+
+ Electric innovations 
+ Permanent magnet motors 
+ Cavity structural effect 
+ Ether research 
+
+ What's new 
+
+ Wi-Li 1 (October 3, 2013) 
+ Odylic flames, magnets and charges (July 29, 2013) 
+ Torsion fields (July 18, 2013) 
+ Wireless light 3.0 (October 3, 2012) 
+ Wireless light 2.0 (September 28, 2012) 
+ Wireless light (September 18, 2012) 
+ Magnetic fields and energies (July 18, 2012) 
+ Attraction curve (October 21, 2011) 
+ Heart monopole (October 12, 2011) 
+ Artificial honeycomb (July 13, 2011) 
+ Hyperbolic disc (February 3, 2011) 
+ Structural analysis (December 13, 2010) 
+ These webpages! (September 30, 2010) 
+
+ &copy; 2010-2014 Ville Piippola
