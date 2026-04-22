@@ -1,0 +1,641 @@
+[2026-04-22 10:57:19] ============================================================
+[2026-04-22 10:57:19] WAYBACK MIRROR: tesla.hu
+[2026-04-22 10:57:19] Output: /Users/esaruoho/work/merlib-mirror/sites/tesla.hu
+[2026-04-22 10:57:19] Delay: 1.0s
+[2026-04-22 10:57:19] ============================================================
+[2026-04-22 10:57:19] Resuming: phase=init, 0 already done
+[2026-04-22 10:57:19] 
+=== PHASE 1: URL Discovery ===
+[2026-04-22 10:57:19] Querying CDX for tesla.hu/*...
+[2026-04-22 10:57:21]   Found 3794 URLs for tesla.hu/*
+[2026-04-22 10:57:21] Querying CDX for www.tesla.hu/*...
+[2026-04-22 10:57:24]   Found 3794 URLs for www.tesla.hu/*
+[2026-04-22 10:57:41] Total unique valid URLs: 3793
+[2026-04-22 10:57:41]   image/gif: 2807
+[2026-04-22 10:57:41]   text/html: 409
+[2026-04-22 10:57:41]   application/msword: 203
+[2026-04-22 10:57:41]   image/jpeg: 111
+[2026-04-22 10:57:41]   image/png: 99
+[2026-04-22 10:57:41]   application/javascript: 52
+[2026-04-22 10:57:41]   text/javascript: 42
+[2026-04-22 10:57:41]   text/css: 39
+[2026-04-22 10:57:41]   text/plain: 14
+[2026-04-22 10:57:41]   application/vnd.oasis.opendocument.formula-template: 6
+[2026-04-22 10:57:41]   application/pdf: 3
+[2026-04-22 10:57:41]   video/mp4: 3
+[2026-04-22 10:57:41]   application/octet-stream: 1
+[2026-04-22 10:57:41]   image/x-icon: 1
+[2026-04-22 10:57:41]   application/rss+xml: 1
+[2026-04-22 10:57:41]   application/vnd.ms-fontobject: 1
+[2026-04-22 10:57:41]   image/svg+xml: 1
+[2026-04-22 10:57:41] 
+=== PHASE 2: Downloading ===
+[2026-04-22 10:59:02] [10/3793] OK doc_eng.gif (403b) @20040916
+[2026-04-22 11:00:07] [20/3793] OK download/rp32-d08.rar (1,446,484b) @20231015
+[2026-04-22 11:02:01] [30/3793] OK lebon/forces/f_004.gif (229,431b) @20050120
+[2026-04-22 11:03:21] [40/3793] OK lebon/forces/f_023.gif (209,466b) @20050120
+[2026-04-22 11:05:16] [50/3793] OK lebon/forces/f_043.gif (225,966b) @20231015
+[2026-04-22 11:05:17] --- Progress: 50/3793 (1%) | New: 50 | Rate: 7/min ---
+[2026-04-22 11:07:25] [60/3793] OK lebon/forces/f_063.gif (201,025b) @20220428
+[2026-04-22 11:10:38] [70/3793] OK lebon/forces/f_083.gif (223,286b) @20220428
+[2026-04-22 11:11:25] [80/3793] OK lebon/forces/f_105.gif (228,624b) @20050120
+[2026-04-22 11:13:51] [90/3793] OK lebon/forces/f_125.gif (221,832b) @20050120
+[2026-04-22 11:15:48] [100/3793] OK lebon/forces/f_142.gif (181,461b) @20050120
+[2026-04-22 11:15:49] --- Progress: 100/3793 (2%) | New: 100 | Rate: 6/min ---
+[2026-04-22 11:19:02] [110/3793] OK lebon/forces/f_161.gif (217,885b) @20050120
+[2026-04-22 11:21:19] [120/3793] OK lebon/forces/f_181.gif (224,274b) @20040805
+[2026-04-22 11:23:11] [130/3793] OK lebon/forces/f_201.gif (228,975b) @20030816
+[2026-04-22 11:25:11] [140/3793] OK lebon/forces/f_220.gif (224,762b) @20211028
+[2026-04-22 11:27:12] [150/3793] OK lebon/forces/f_239.gif (231,625b) @20220428
+[2026-04-22 11:27:13] --- Progress: 150/3793 (3%) | New: 150 | Rate: 5/min ---
+[2026-04-22 11:28:59] [160/3793] OK lebon/forces/f_257.gif (223,835b) @20050120
+[2026-04-22 11:31:17] [170/3793] OK lebon/forces/f_277.gif (221,821b) @20050120
+[2026-04-22 11:33:07] [180/3793] OK lebon/forces/f_294.gif (219,617b) @20231015
+[2026-04-22 11:34:54] [190/3793] OK lebon/forces/f_311.gif (228,084b) @20231015
+[2026-04-22 11:37:05] [200/3793] OK lebon/forces/f_331.gif (244,450b) @20050120
+[2026-04-22 11:37:06] --- Progress: 200/3793 (5%) | New: 200 | Rate: 5/min ---
+[2026-04-22 11:40:12] [210/3793] OK lebon/forces/f_351.gif (220,772b) @20231015
+[2026-04-22 11:42:45] [220/3793] OK lebon/forces/f_369.gif (221,748b) @20050105
+[2026-04-22 11:44:16] [230/3793] OK lebon/forces/f_c09.gif (102,954b) @20050105
+[2026-04-22 11:46:09] [240/3793] OK lebon/matter/m_001.gif (87,581b) @20050120
+[2026-04-22 11:49:36] [250/3793] OK lebon/matter/m_011.gif (106,591b) @20030816
+[2026-04-22 11:49:37] --- Progress: 250/3793 (6%) | New: 250 | Rate: 5/min ---
+[2026-04-22 11:51:07] [260/3793] OK lebon/matter/m_021.gif (104,991b) @20050120
+[2026-04-22 11:52:45] [270/3793] OK lebon/matter/m_031.gif (107,254b) @20050120
+[2026-04-22 11:55:45] [280/3793] OK lebon/matter/m_041.gif (106,979b) @20220428
+[2026-04-22 11:58:18] [290/3793] OK lebon/matter/m_051.gif (70,137b) @20050120
+[2026-04-22 12:00:30] [300/3793] OK lebon/matter/m_061.gif (100,282b) @20200128
+[2026-04-22 12:00:32] --- Progress: 300/3793 (7%) | New: 300 | Rate: 5/min ---
+[2026-04-22 12:02:22] [310/3793] OK lebon/matter/m_071.gif (95,852b) @20050120
+[2026-04-22 12:03:55] [320/3793] OK lebon/matter/m_081.gif (105,928b) @20231015
+[2026-04-22 12:05:41] [330/3793] OK lebon/matter/m_091.gif (105,001b) @20050120
+[2026-04-22 12:07:33] [340/3793] OK lebon/matter/m_101.gif (80,616b) @20050120
+[2026-04-22 12:10:24] [350/3793] OK lebon/matter/m_111.gif (103,464b) @20210518
+[2026-04-22 12:10:25] --- Progress: 350/3793 (9%) | New: 350 | Rate: 5/min ---
+[2026-04-22 12:11:59] [360/3793] OK lebon/matter/m_121.gif (106,396b) @20030816
+[2026-04-22 12:13:51] [370/3793] OK lebon/matter/m_131.gif (104,007b) @20050120
+[2026-04-22 12:16:06] [380/3793] OK lebon/matter/m_141.gif (106,486b) @20050120
+[2026-04-22 12:17:57] [390/3793] OK lebon/matter/m_151.gif (95,937b) @20231015
+[2026-04-22 12:19:48] [400/3793] OK lebon/matter/m_161.gif (102,660b) @20050120
+[2026-04-22 12:19:49] --- Progress: 400/3793 (10%) | New: 400 | Rate: 5/min ---
+[2026-04-22 12:22:41] [410/3793] OK lebon/matter/m_171.gif (84,452b) @20050120
+[2026-04-22 12:24:10] [420/3793] OK lebon/matter/m_181.gif (104,965b) @20050120
+[2026-04-22 12:26:14] [430/3793] OK lebon/matter/m_191.gif (86,841b) @20220428
+[2026-04-22 12:28:20] [440/3793] OK lebon/matter/m_201.gif (110,944b) @20050120
+[2026-04-22 12:30:52] [450/3793] OK lebon/matter/m_211.gif (107,690b) @20050120
+[2026-04-22 12:30:53] --- Progress: 450/3793 (11%) | New: 450 | Rate: 5/min ---
+[2026-04-22 12:32:47] [460/3793] OK lebon/matter/m_221.gif (101,600b) @20050120
+[2026-04-22 12:34:18] [470/3793] OK lebon/matter/m_231.gif (98,736b) @20030816
+[2026-04-22 12:36:38] [480/3793] OK lebon/matter/m_241.gif (96,728b) @20050120
+[2026-04-22 12:38:49] [490/3793] OK lebon/matter/m_251.gif (107,428b) @20050120
+[2026-04-22 12:40:54] [500/3793] OK lebon/matter/m_261.gif (102,550b) @20050120
+[2026-04-22 12:40:55] --- Progress: 500/3793 (13%) | New: 500 | Rate: 5/min ---
+[2026-04-22 12:42:31] [510/3793] OK lebon/matter/m_271.gif (106,387b) @20050120
+[2026-04-22 12:44:27] [520/3793] OK lebon/matter/m_281.gif (110,116b) @20050120
+[2026-04-22 12:46:33] [530/3793] OK lebon/matter/m_291.gif (101,234b) @20050120
+[2026-04-22 12:48:29] [540/3793] OK lebon/matter/m_301.gif (105,362b) @20050120
+[2026-04-22 12:51:05] [550/3793] OK lebon/matter/m_311.gif (97,822b) @20050120
+[2026-04-22 12:51:06] --- Progress: 550/3793 (14%) | New: 550 | Rate: 5/min ---
+[2026-04-22 12:53:04] [560/3793] OK lebon/matter/m_321.gif (85,065b) @20050120
+[2026-04-22 12:54:44] [570/3793] OK lebon/matter/m_331.gif (129,950b) @20050120
+[2026-04-22 12:56:41] [580/3793] OK lebon/matter/m_341.gif (93,957b) @20050120
+[2026-04-22 12:58:09] [590/3793] OK lebon/matter/m_351.gif (101,556b) @20050120
+[2026-04-22 12:59:28] [600/3793] OK lebon/matter/m_361.gif (99,534b) @20050120
+[2026-04-22 12:59:29] --- Progress: 600/3793 (15%) | New: 600 | Rate: 5/min ---
+[2026-04-22 13:01:25] [610/3793] OK lebon/matter/m_371.gif (98,097b) @20231015
+[2026-04-22 13:03:17] [620/3793] OK lebon/matter/m_381.gif (77,504b) @20050120
+[2026-04-22 13:04:58] [630/3793] OK lebon/matter/m_391.gif (105,474b) @20050120
+[2026-04-22 13:06:29] [640/3793] OK lebon/matter/m_401.gif (106,610b) @20050120
+[2026-04-22 13:08:15] [650/3793] OK lebon/matter/m_411.gif (107,854b) @20050120
+[2026-04-22 13:08:16] --- Progress: 650/3793 (17%) | New: 650 | Rate: 5/min ---
+[2026-04-22 13:10:09] [660/3793] OK lebon/matter/m_421.gif (98,091b) @20050120
+[2026-04-22 13:11:38] [670/3793] OK lebon/matter/m_431.gif (53,758b) @20050120
+[2026-04-22 13:13:58] [680/3793] OK lebon/matter/m_c08.gif (79,941b) @20050120
+[2026-04-22 13:16:11] [690/3793] OK lebon/matter/m_l18.gif (81,919b) @20050120
+[2026-04-22 13:18:28] [700/3793] OK main.htm (735b) @20030208
+[2026-04-22 13:18:29] --- Progress: 700/3793 (18%) | New: 700 | Rate: 5/min ---
+[2026-04-22 13:19:35] [703/3793] FAIL https://www.tesla.hu/misc/drupal.js
+[2026-04-22 13:22:48] [704/3793] FAIL https://www.tesla.hu/misc/drupal.js?pyslzu
+[2026-04-22 13:23:07] [705/3793] FAIL https://www.tesla.hu/misc/drupal.js?pzespl
+[2026-04-22 13:23:59] [706/3793] FAIL https://www.tesla.hu/misc/drupal.js?pzv9gj
+[2026-04-22 13:24:49] [707/3793] FAIL https://www.tesla.hu/misc/drupal.js?q0yi6y
+[2026-04-22 13:26:29] [708/3793] FAIL https://www.tesla.hu/misc/drupal.js?q1djqh
+[2026-04-22 13:27:20] [709/3793] FAIL https://www.tesla.hu/misc/drupal.js?q5ljmd
+[2026-04-22 13:28:21] [710/3793] FAIL https://www.tesla.hu/misc/drupal.js?qavyyd
+[2026-04-22 13:29:20] [711/3793] FAIL https://www.tesla.hu/misc/drupal.js?qc2h2r
+[2026-04-22 13:30:08] [712/3793] FAIL https://www.tesla.hu/misc/drupal.js?qcf2h8
+[2026-04-22 13:31:13] [713/3793] FAIL https://www.tesla.hu/misc/drupal.js?qei7v5
+[2026-04-22 13:33:10] [714/3793] FAIL https://www.tesla.hu/misc/drupal.js?qf1wz6
+[2026-04-22 13:33:34] [715/3793] FAIL https://www.tesla.hu/misc/drupal.js?qf7c4u
+[2026-04-22 13:34:30] [716/3793] FAIL https://www.tesla.hu/misc/drupal.js?qf932a
+[2026-04-22 13:35:31] [717/3793] FAIL https://www.tesla.hu/misc/drupal.js?qgrj8a
+[2026-04-22 13:36:33] [718/3793] FAIL https://tesla.hu/misc/drupal.js?qihw5m
+[2026-04-22 13:38:23] [719/3793] FAIL https://www.tesla.hu/misc/drupal.js?qja5d5
+[2026-04-22 13:38:52] [720/3793] FAIL https://www.tesla.hu/misc/jquery-extend-3.4.0.js
+[2026-04-22 13:41:28] [721/3793] FAIL https://www.tesla.hu/misc/jquery-extend-3.4.0.js?v=1.4.4
+[2026-04-22 13:42:30] [722/3793] FAIL https://www.tesla.hu/misc/jquery-html-prefilter-3.5.0-backport.js?v=1.
+[2026-04-22 13:43:29] [723/3793] FAIL https://www.tesla.hu/misc/jquery.js
+[2026-04-22 13:44:19] [724/3793] FAIL https://www.tesla.hu/misc/jquery.js?v=1.4.4
+[2026-04-22 13:45:26] [725/3793] FAIL https://www.tesla.hu/misc/jquery.once.js
+[2026-04-22 13:46:11] [726/3793] FAIL https://www.tesla.hu/misc/jquery.once.js?v=1.2
+[2026-04-22 13:47:09] [727/3793] FAIL https://www.tesla.hu/misc/textarea.js?v=7.69
+[2026-04-22 13:48:57] [728/3793] FAIL https://tesla.hu/misc/textarea.js?v=7.72
+[2026-04-22 13:49:15] [729/3793] FAIL https://www.tesla.hu/modules/field/theme/field.css
+[2026-04-22 13:50:00] [730/3793] FAIL https://www.tesla.hu/modules/node/node.css
+[2026-04-22 13:50:28] [731/3793] FAIL https://www.tesla.hu/modules/system/system.base.css
+[2026-04-22 13:51:23] [732/3793] FAIL https://www.tesla.hu/modules/system/system.menus.css
+[2026-04-22 13:52:23] [733/3793] FAIL https://www.tesla.hu/modules/system/system.messages.css
+[2026-04-22 13:53:18] [734/3793] FAIL https://www.tesla.hu/modules/system/system.theme.css
+[2026-04-22 13:53:59] [735/3793] FAIL https://www.tesla.hu/modules/user/user.css
+[2026-04-22 13:55:03] [743/3793] OK moray/actinia/a009.gif (104,673b) @20231015
+[2026-04-22 13:56:33] --- Progress: 750/3793 (19%) | New: 717 | Rate: 4/min ---
+[2026-04-22 13:57:22] [753/3793] OK moray/articles/page_1.gif (773,163b) @20231015
+[2026-04-22 13:58:58] [763/3793] OK moray/edition1/e1_007.gif (72,361b) @20030816
+[2026-04-22 14:01:57] [773/3793] OK moray/edition1/edition1.doc (429,056b) @20040615
+[2026-04-22 14:04:14] [783/3793] OK moray/edition2/e2_008.gif (210,917b) @20220428
+[2026-04-22 14:06:12] [793/3793] OK moray/edition2/e2_018.gif (188,353b) @20050120
+[2026-04-22 14:07:48] --- Progress: 800/3793 (21%) | New: 767 | Rate: 4/min ---
+[2026-04-22 14:08:07] [803/3793] OK moray/edition2/e2_028.gif (158,501b) @20050120
+[2026-04-22 14:10:34] [813/3793] OK moray/edition2/e2_038.gif (178,940b) @20220428
+[2026-04-22 14:12:56] [823/3793] OK moray/edition2/e2_048.gif (213,550b) @20050120
+[2026-04-22 14:15:32] [833/3793] OK moray/edition2/e2_058.gif (205,264b) @20050120
+[2026-04-22 14:16:41] [843/3793] OK moray/edition3/e3_003.gif (114,252b) @20030818
+[2026-04-22 14:17:44] --- Progress: 850/3793 (22%) | New: 817 | Rate: 4/min ---
+[2026-04-22 14:18:05] [853/3793] OK moray/edition3/e3_013.gif (171,217b) @20030820
+[2026-04-22 14:19:48] [863/3793] OK moray/edition3/edition3.doc (78,848b) @20040312
+[2026-04-22 14:22:33] [873/3793] OK moray/edition4/e4_008.gif (124,665b) @20050130
+[2026-04-22 14:24:11] [883/3793] OK moray/edition4/e4_018.gif (138,344b) @20231015
+[2026-04-22 14:26:17] [893/3793] OK moray/edition4/e4_028.gif (112,491b) @20231015
+[2026-04-22 14:27:28] --- Progress: 900/3793 (23%) | New: 867 | Rate: 4/min ---
+[2026-04-22 14:27:58] [903/3793] OK moray/edition4/e4_038.gif (114,407b) @20030816
+[2026-04-22 14:30:19] [913/3793] OK moray/edition4/e4_048.gif (122,933b) @20160904
+[2026-04-22 14:32:25] [923/3793] OK moray/edition4/e4_058.gif (119,896b) @20040504
+[2026-04-22 14:34:20] [933/3793] OK moray/edition4/e4_068.gif (123,767b) @20160903
+[2026-04-22 14:36:26] [943/3793] OK moray/edition4/e4_078.gif (123,384b) @20160904
+[2026-04-22 14:37:49] --- Progress: 950/3793 (25%) | New: 917 | Rate: 4/min ---
+[2026-04-22 14:38:10] [953/3793] OK moray/edition4/e4_088.gif (126,086b) @20160904
+[2026-04-22 14:40:15] [963/3793] OK moray/edition4/e4_098.gif (106,250b) @20160903
+[2026-04-22 14:41:44] [973/3793] OK moray/edition4/e4_108.gif (112,979b) @20160904
+[2026-04-22 14:44:20] [983/3793] OK moray/edition4/e4_118.gif (109,855b) @20231015
+[2026-04-22 14:46:25] [993/3793] OK moray/edition4/e4_128.gif (123,742b) @20231015
+[2026-04-22 14:47:37] --- Progress: 1000/3793 (26%) | New: 967 | Rate: 4/min ---
+[2026-04-22 14:47:59] [1003/3793] OK moray/edition4/e4_138.gif (138,949b) @20050122
+[2026-04-22 14:50:15] [1013/3793] OK moray/edition4/e4_148.gif (103,827b) @20050124
+[2026-04-22 14:52:24] [1023/3793] OK moray/edition4/e4_158.gif (120,690b) @20050125
+[2026-04-22 14:54:00] [1033/3793] OK moray/edition4/e4_168.gif (145,477b) @20050128
+[2026-04-22 14:56:24] [1043/3793] OK moray/edition4/e4_178.gif (118,250b) @20220428
+[2026-04-22 14:57:33] --- Progress: 1050/3793 (27%) | New: 1017 | Rate: 4/min ---
+[2026-04-22 14:58:19] [1053/3793] OK moray/edition4/e4_188.gif (60,269b) @20231015
+[2026-04-22 15:00:04] [1063/3793] OK moray/edition4/e4_198.gif (70,760b) @20050130
+[2026-04-22 15:02:54] [1073/3793] OK moray/edition5/e5_006.gif (50,154b) @20031229
+[2026-04-22 15:04:43] [1083/3793] OK moray/edition5/e5_016.gif (127,435b) @20231015
+[2026-04-22 15:07:48] [1093/3793] OK moray/edition5/e5_026.gif (55,947b) @20031229
+[2026-04-22 15:09:06] --- Progress: 1100/3793 (29%) | New: 1067 | Rate: 4/min ---
+[2026-04-22 15:09:26] [1103/3793] OK moray/edition5/e5_036.gif (116,964b) @20050131
+[2026-04-22 15:11:58] [1113/3793] OK moray/edition5/e5_046.gif (117,445b) @20231015
+[2026-04-22 15:14:05] [1123/3793] OK moray/edition5/e5_056.gif (109,712b) @20231015
+[2026-04-22 15:16:58] [1133/3793] OK moray/edition5/e5_066.gif (162,669b) @20160904
+[2026-04-22 15:19:01] [1143/3793] OK moray/edition5/e5_076.gif (162,666b) @20160904
+[2026-04-22 15:20:21] --- Progress: 1150/3793 (30%) | New: 1117 | Rate: 4/min ---
+[2026-04-22 15:20:48] [1153/3793] OK moray/edition5/e5_086.gif (118,250b) @20031229
+[2026-04-22 15:22:45] [1163/3793] OK moray/edition5/e5_096.gif (53,787b) @20031229
+[2026-04-22 15:24:48] [1173/3793] OK moray/edition5/e5_106.gif (155,781b) @20220428
+[2026-04-22 15:26:42] [1183/3793] OK moray/edition5/e5_116.gif (101,793b) @20031229
+[2026-04-22 15:28:57] [1193/3793] OK moray/edition5/e5_126.gif (108,813b) @20031229
+[2026-04-22 15:30:20] --- Progress: 1200/3793 (31%) | New: 1167 | Rate: 4/min ---
+[2026-04-22 15:30:40] [1203/3793] OK moray/edition5/e5_137.gif (222,812b) @20160904
+[2026-04-22 15:32:20] [1213/3793] OK moray/edition5/e5_147.gif (256,339b) @20050122
+[2026-04-22 15:34:48] [1223/3793] OK moray/edition5/e5_157.gif (218,485b) @20211028
+[2026-04-22 15:36:32] [1233/3793] OK moray/edition5/e5_167.gif (157,783b) @20050125
+[2026-04-22 15:39:10] [1243/3793] OK moray/edition5/e5_177.gif (72,148b) @20050128
+[2026-04-22 15:40:30] --- Progress: 1250/3793 (32%) | New: 1217 | Rate: 4/min ---
+[2026-04-22 15:40:52] [1253/3793] OK moray/edition5/e5_187.gif (162,888b) @20050128
+[2026-04-22 15:42:21] [1263/3793] OK moray/edition5/e5_197.gif (156,506b) @20050129
+[2026-04-22 15:44:26] [1273/3793] OK moray/edition5/e5_207.gif (139,046b) @20050129
+[2026-04-22 15:46:11] [1283/3793] OK moray/edition5/e5_217.gif (151,509b) @20050130
+[2026-04-22 15:48:32] [1293/3793] OK moray/edition5/e5_227.gif (157,181b) @20050130
+[2026-04-22 15:49:26] --- Progress: 1300/3793 (34%) | New: 1267 | Rate: 4/min ---
+[2026-04-22 15:49:45] [1303/3793] OK moray/edition5/e5_237.gif (84,113b) @20050131
+[2026-04-22 15:51:37] [1313/3793] OK moray/edition5/e5_247.gif (35,559b) @20231015
+[2026-04-22 15:53:50] [1323/3793] OK moray/edition5/e5_257.gif (109,123b) @20160904
+[2026-04-22 15:55:23] [1333/3793] OK moray/edition5/e5_267.gif (146,432b) @20160904
+[2026-04-22 15:57:20] [1343/3793] OK moray/edition5/e5_277.gif (86,225b) @20160904
+[2026-04-22 15:58:48] --- Progress: 1350/3793 (35%) | New: 1317 | Rate: 4/min ---
+[2026-04-22 15:59:10] [1353/3793] OK moray/patent/p_000_02.gif (250,646b) @20050526
+[2026-04-22 16:00:54] [1363/3793] OK moray/photos/photo3.gif (343,327b) @20231015
+[2026-04-22 16:04:26] [1373/3793] OK moray/recovery/r006.gif (113,700b) @20050120
+[2026-04-22 16:06:05] [1383/3793] OK moray/recovery/r016.gif (25,408b) @20050120
+[2026-04-22 16:08:22] [1393/3793] OK moray/recovery/r026.gif (107,383b) @20050120
+[2026-04-22 16:10:25] --- Progress: 1400/3793 (36%) | New: 1367 | Rate: 4/min ---
+[2026-04-22 16:10:47] [1403/3793] OK moray/recovery/r036.gif (85,563b) @20050120
+[2026-04-22 16:12:41] [1413/3793] OK node/20.html (16,087b) @20191016
+[2026-04-22 16:14:32] [1423/3793] OK node/3.html (45,163b) @20190731
+[2026-04-22 16:17:21] [1433/3793] OK rss.xml (91,446b) @20231015
+[2026-04-22 16:18:44] [1436/3793] FAIL http://www.tesla.hu/sindely/atommmag.pdf
+[2026-04-22 16:19:41] [1438/3793] FAIL https://www.tesla.hu/sites/all/modules/ckeditor/css/ckeditor.css
+[2026-04-22 16:20:40] [1439/3793] FAIL https://www.tesla.hu/sites/all/modules/ctools/css/ctools.css
+[2026-04-22 16:21:45] [1441/3793] FAIL https://www.tesla.hu/sites/all/modules/date/date_api/date.css
+[2026-04-22 16:23:35] [1442/3793] FAIL https://www.tesla.hu/sites/all/modules/google_analytics/googleanalytic
+[2026-04-22 16:24:13] [1443/3793] FAIL https://www.tesla.hu/sites/all/modules/google_analytics/googleanalytic
+[2026-04-22 16:25:01] [1444/3793] FAIL https://www.tesla.hu/sites/all/modules/google_analytics/googleanalytic
+[2026-04-22 16:25:53] [1445/3793] FAIL https://www.tesla.hu/sites/all/modules/google_analytics/googleanalytic
+[2026-04-22 16:26:56] [1446/3793] FAIL https://www.tesla.hu/sites/all/modules/google_analytics/googleanalytic
+[2026-04-22 16:28:47] [1447/3793] FAIL https://www.tesla.hu/sites/all/modules/google_analytics/googleanalytic
+[2026-04-22 16:29:17] [1448/3793] FAIL https://www.tesla.hu/sites/all/modules/google_analytics/googleanalytic
+[2026-04-22 16:30:14] [1449/3793] FAIL https://www.tesla.hu/sites/all/modules/google_analytics/googleanalytic
+[2026-04-22 16:31:06] [1450/3793] FAIL https://www.tesla.hu/sites/all/modules/google_analytics/googleanalytic
+[2026-04-22 16:31:07] --- Progress: 1450/3793 (38%) | New: 1404 | Rate: 4/min ---
+[2026-04-22 16:31:52] [1451/3793] FAIL https://www.tesla.hu/sites/all/modules/google_analytics/googleanalytic
+[2026-04-22 16:32:41] [1452/3793] FAIL https://www.tesla.hu/sites/all/modules/google_analytics/googleanalytic
+[2026-04-22 16:33:32] [1453/3793] FAIL https://www.tesla.hu/sites/all/modules/google_analytics/googleanalytic
+[2026-04-22 16:34:57] [1454/3793] FAIL https://www.tesla.hu/sites/all/modules/google_analytics/googleanalytic
+[2026-04-22 16:35:41] [1455/3793] FAIL https://tesla.hu/sites/all/modules/google_analytics/googleanalytics.js
+[2026-04-22 16:36:31] [1456/3793] FAIL https://www.tesla.hu/sites/all/modules/google_analytics/googleanalytic
+[2026-04-22 16:38:26] [1457/3793] FAIL https://www.tesla.hu/sites/all/modules/protected_submissions/css/prote
+[2026-04-22 16:39:00] [1458/3793] FAIL https://www.tesla.hu/sites/all/modules/views/css/views.css
+[2026-04-22 16:39:44] [1459/3793] FAIL https://www.tesla.hu/sites/all/modules/webform/js/webform.js?qcf2h8
+[2026-04-22 16:40:54] [1460/3793] FAIL https://tesla.hu/sites/all/modules/webform/js/webform.js?qgrj8a
+[2026-04-22 16:42:38] [1466/3793] FAIL https://www.tesla.hu/sites/all/themes/tesla/css/animation.css
+[2026-04-22 16:43:41] [1467/3793] FAIL https://www.tesla.hu/sites/all/themes/tesla/css/articles.css
+[2026-04-22 16:44:45] [1468/3793] FAIL https://www.tesla.hu/sites/all/themes/tesla/css/articles.css?z=2
+[2026-04-22 16:46:23] [1469/3793] FAIL https://www.tesla.hu/sites/all/themes/tesla/css/articless.css
+[2026-04-22 16:48:07] [1470/3793] FAIL https://www.tesla.hu/sites/all/themes/tesla/css/fonts.css
+[2026-04-22 16:48:31] [1471/3793] FAIL https://www.tesla.hu/sites/all/themes/tesla/css/fonts.css?a=5
+[2026-04-22 16:49:20] [1472/3793] FAIL https://www.tesla.hu/sites/all/themes/tesla/css/front-page-slider.css
+[2026-04-22 16:50:09] [1473/3793] FAIL https://www.tesla.hu/sites/all/themes/tesla/css/normalize.css
+[2026-04-22 16:51:18] [1474/3793] FAIL https://www.tesla.hu/sites/all/themes/tesla/css/resp.css
+[2026-04-22 16:52:47] [1475/3793] FAIL https://www.tesla.hu/sites/all/themes/tesla/css/resp.css?y=10
+[2026-04-22 16:53:49] [1476/3793] FAIL https://www.tesla.hu/sites/all/themes/tesla/css/resp.css?y=4
+[2026-04-22 16:55:03] [1477/3793] FAIL https://www.tesla.hu/sites/all/themes/tesla/css/style.css
+[2026-04-22 16:56:58] [1478/3793] FAIL https://www.tesla.hu/sites/all/themes/tesla/css/style.css?x=10
+[2026-04-22 16:57:26] [1479/3793] FAIL https://www.tesla.hu/sites/all/themes/tesla/css/style.css?x=5
+[2026-04-22 16:58:13] [1480/3793] FAIL https://www.tesla.hu/sites/all/themes/tesla/css/vars.css
+[2026-04-22 16:58:18] [1481/3793] OK sites/all/themes/tesla/fonts/DIN.eot (112,695b) @20200227
+[2026-04-22 17:00:30] [1491/3793] OK sites/all/themes/tesla/images/accelerating.png (1,315b) @20231015
+[2026-04-22 17:03:32] --- Progress: 1500/3793 (39%) | New: 1429 | Rate: 4/min ---
+[2026-04-22 17:03:46] [1501/3793] OK sites/all/themes/tesla/images/contact.png (1,433,505b) @20190731
+[2026-04-22 17:05:09] [1511/3793] OK sites/all/themes/tesla/images/logo.png (3,017b) @20190731
+[2026-04-22 17:06:52] [1521/3793] OK sites/all/themes/tesla/images/plug.png (488b) @20190731
+[2026-04-22 17:09:05] [1531/3793] OK sites/all/themes/tesla/images/tech-bg-model-s.jpg (220,506b) @20201010
+[2026-04-22 17:11:23] [1541/3793] OK sites/all/themes/tesla/images/tesla-model-y.jpg (256,641b) @20190731
+[2026-04-22 17:12:06] [1542/3793] FAIL https://www.tesla.hu/sites/all/themes/tesla/js/animation.js
+[2026-04-22 17:13:06] [1543/3793] FAIL https://www.tesla.hu/sites/all/themes/tesla/js/animation.js?pyslzu
+[2026-04-22 17:14:05] [1544/3793] FAIL https://www.tesla.hu/sites/all/themes/tesla/js/animation.js?pzespl
+[2026-04-22 17:15:14] [1545/3793] FAIL https://www.tesla.hu/sites/all/themes/tesla/js/animation.js?pzv9gj
+[2026-04-22 17:16:04] [1546/3793] FAIL https://www.tesla.hu/sites/all/themes/tesla/js/animation.js?q0yi6y
+[2026-04-22 17:18:00] [1547/3793] FAIL https://www.tesla.hu/sites/all/themes/tesla/js/animation.js?q1djqh
+[2026-04-22 17:18:43] [1548/3793] FAIL https://www.tesla.hu/sites/all/themes/tesla/js/animation.js?q5ljmd
+[2026-04-22 17:19:31] [1549/3793] FAIL https://www.tesla.hu/sites/all/themes/tesla/js/animation.js?qavyyd
+[2026-04-22 17:20:17] [1550/3793] FAIL https://www.tesla.hu/sites/all/themes/tesla/js/animation.js?qc2h2r
+[2026-04-22 17:20:18] --- Progress: 1550/3793 (40%) | New: 1470 | Rate: 4/min ---
+[2026-04-22 17:21:20] [1551/3793] FAIL https://www.tesla.hu/sites/all/themes/tesla/js/animation.js?qcf2h8
+[2026-04-22 17:22:46] [1552/3793] FAIL https://www.tesla.hu/sites/all/themes/tesla/js/animation.js?qf1wz6
+[2026-04-22 17:23:31] [1553/3793] FAIL https://www.tesla.hu/sites/all/themes/tesla/js/animation.js?qf932a
+[2026-04-22 17:24:04] [1554/3793] FAIL https://www.tesla.hu/sites/all/themes/tesla/js/animation.js?qgrj8a
+[2026-04-22 17:25:55] [1555/3793] FAIL https://tesla.hu/sites/all/themes/tesla/js/animation.js?qihw5m
+[2026-04-22 17:26:36] [1556/3793] FAIL https://www.tesla.hu/sites/all/themes/tesla/js/animation.js?qja5d5
+[2026-04-22 17:27:35] [1557/3793] FAIL https://tesla.hu/sites/all/themes/tesla/js/front-page-slider.js?qihw5m
+[2026-04-22 17:28:09] [1558/3793] FAIL https://www.tesla.hu/sites/all/themes/tesla/js/front-page-slider.js?qj
+[2026-04-22 17:28:59] [1559/3793] FAIL https://tesla.hu/sites/all/themes/tesla/js/model-3.js?qgrj8a
+[2026-04-22 17:29:51] [1560/3793] FAIL https://www.tesla.hu/sites/all/themes/tesla/js/script.js
+[2026-04-22 17:30:39] [1561/3793] FAIL https://www.tesla.hu/sites/all/themes/tesla/js/script.js?pyslzu
+[2026-04-22 17:31:35] [1562/3793] FAIL https://www.tesla.hu/sites/all/themes/tesla/js/script.js?pzespl
+[2026-04-22 17:32:23] [1563/3793] FAIL https://www.tesla.hu/sites/all/themes/tesla/js/script.js?pzv9gj
+[2026-04-22 17:33:32] [1564/3793] FAIL https://www.tesla.hu/sites/all/themes/tesla/js/script.js?q0yi6y
+[2026-04-22 17:34:41] [1565/3793] FAIL https://www.tesla.hu/sites/all/themes/tesla/js/script.js?q1djqh
+[2026-04-22 17:36:07] [1566/3793] FAIL https://www.tesla.hu/sites/all/themes/tesla/js/script.js?q5ljmd
+[2026-04-22 17:37:02] [1567/3793] FAIL https://www.tesla.hu/sites/all/themes/tesla/js/script.js?qavyyd
+[2026-04-22 17:38:40] [1568/3793] FAIL https://www.tesla.hu/sites/all/themes/tesla/js/script.js?qc2h2r
+[2026-04-22 17:39:13] [1569/3793] FAIL https://www.tesla.hu/sites/all/themes/tesla/js/script.js?qcf2h8
+[2026-04-22 17:40:07] [1570/3793] FAIL https://www.tesla.hu/sites/all/themes/tesla/js/script.js?qei7v5
+[2026-04-22 17:40:54] [1571/3793] FAIL https://www.tesla.hu/sites/all/themes/tesla/js/script.js?qf1wz6
+[2026-04-22 17:41:45] [1572/3793] FAIL https://www.tesla.hu/sites/all/themes/tesla/js/script.js?qf7c4u
+[2026-04-22 17:42:36] [1573/3793] FAIL https://www.tesla.hu/sites/all/themes/tesla/js/script.js?qf932a
+[2026-04-22 17:43:40] [1574/3793] FAIL https://www.tesla.hu/sites/all/themes/tesla/js/script.js?qgrj8a
+[2026-04-22 17:44:35] [1575/3793] FAIL https://tesla.hu/sites/all/themes/tesla/js/script.js?qihw5m
+[2026-04-22 17:45:43] [1576/3793] FAIL https://www.tesla.hu/sites/all/themes/tesla/js/script.js?qja5d5
+[2026-04-22 17:49:52] [1580/3793] FAIL https://www.tesla.hu/sites/default/files/advagg_css/css__2s6TfhoFXojUd
+[2026-04-22 17:51:04] [1581/3793] FAIL https://www.tesla.hu/sites/default/files/advagg_css/css__lqoHjhsdZaphR
+[2026-04-22 17:52:30] [1583/3793] FAIL https://www.tesla.hu/sites/default/files/advagg_css/css__lRBaqqnZdNwkv
+[2026-04-22 17:54:02] [1586/3793] FAIL https://www.tesla.hu/sites/default/files/advagg_js/js__HxTbhN-HTG8H6pU
+[2026-04-22 17:55:55] [1588/3793] FAIL https://www.tesla.hu/sites/default/files/advagg_js/js__lVD1e5_No5a6pGJ
+[2026-04-22 17:58:13] [1589/3793] FAIL https://www.tesla.hu/sites/default/files/advagg_js/js__po2twWn_MSbMzS_
+[2026-04-22 17:58:25] [1592/3793] OK sites/default/files/all_black__FihuredAshWoodDecor.png (7,456b) @20190731
+[2026-04-22 17:59:30] --- Progress: 1600/3793 (42%) | New: 1488 | Rate: 4/min ---
+[2026-04-22 17:59:46] [1602/3793] OK sites/default/files/carpet-black_2.png (3,620b) @20190731
+[2026-04-22 18:01:09] [1612/3793] OK sites/default/files/color-blue_4.png (2,690b) @20190731
+[2026-04-22 18:02:51] [1622/3793] OK sites/default/files/color-white_0.png (2,898b) @20220428
+[2026-04-22 18:04:22] [1628/3793] FAIL https://www.tesla.hu/sites/default/files/css/css_47DEQpj8HBSa-_TImW-5J
+[2026-04-22 18:05:11] [1629/3793] FAIL https://www.tesla.hu/sites/default/files/css/css_9KPuoFGUDny5nNld8SpbQ
+[2026-04-22 18:06:06] [1630/3793] FAIL https://tesla.hu/sites/default/files/css/css_FJswg08Tv_pXYvsHn_Ac9AEYN
+[2026-04-22 18:07:01] [1631/3793] FAIL https://www.tesla.hu/sites/default/files/css/css_gZezUDwARJV_kr-G07qOB
+[2026-04-22 18:08:08] [1632/3793] FAIL https://www.tesla.hu/sites/default/files/css/css_InXBoY9-UFJP89WberZNq
+[2026-04-22 18:08:58] [1633/3793] FAIL https://www.tesla.hu/sites/default/files/css/css_ldrW251eS3zO8ZBHepxrf
+[2026-04-22 18:09:53] [1634/3793] FAIL https://www.tesla.hu/sites/default/files/css/css_PGbJgHCUCBf4dg7K9Kt8a
+[2026-04-22 18:10:51] [1635/3793] FAIL https://www.tesla.hu/sites/default/files/css/css_V4Al7I9PP4_t8JICRBjdb
+[2026-04-22 18:11:24] [1640/3793] OK sites/default/files/gemini_wheels.png (25,893b) @20201008
+[2026-04-22 18:15:34] [1650/3793] FAIL https://www.tesla.hu/sites/default/files/js/js_4nhl8AvkZMcGDJR36vWPmvd
+[2026-04-22 18:15:35] --- Progress: 1650/3793 (43%) | New: 1529 | Rate: 4/min ---
+[2026-04-22 18:16:46] [1651/3793] FAIL https://www.tesla.hu/sites/default/files/js/js_L22uITt4O6hrnigHU7R4r0o
+[2026-04-22 18:17:41] [1652/3793] FAIL https://www.tesla.hu/sites/default/files/js/js_pC9e0vFncoqBvRxwFo_hDCJ
+[2026-04-22 18:19:24] [1653/3793] FAIL https://www.tesla.hu/sites/default/files/js/js_qf9LaySVljt9SfTbasHWPMP
+[2026-04-22 18:20:19] [1654/3793] FAIL https://www.tesla.hu/sites/default/files/js/js_qikmINIYTWe4jcTUn8cKiMr
+[2026-04-22 18:21:13] [1655/3793] FAIL https://www.tesla.hu/sites/default/files/js/js_razFVvYtT13cBslTwVhF0Eh
+[2026-04-22 18:22:10] [1656/3793] FAIL https://www.tesla.hu/sites/default/files/js/js_rsGiM5M1ffe6EhN-RnhM5f3
+[2026-04-22 18:22:59] [1657/3793] FAIL https://www.tesla.hu/sites/default/files/js/js_xmhwO38lLaCNjkZrXAHyFmM
+[2026-04-22 18:24:15] [1658/3793] OK sites/default/files/kerelem_nagycsalados_auto.pdf (118,084b) @20231015
+[2026-04-22 18:25:59] [1667/3793] FAIL https://www.tesla.hu/sites/default/files/scroll.png
+[2026-04-22 18:26:22] [1669/3793] OK sites/default/files/silver19.png (3,630b) @20190731
+[2026-04-22 18:28:28] [1679/3793] OK sites/default/files/styles/article_main_image/public/ford-vs-tesla-900 (29,829b) @20200913
+[2026-04-22 18:31:12] [1689/3793] OK sites/default/files/styles/article_main_image/public/screenshot_12.png (252,709b) @20191016
+[2026-04-22 18:33:01] [1699/3793] OK sites/default/files/styles/article_main_image/public/tesla-fremont-fac (325,018b) @20200611
+[2026-04-22 18:33:14] --- Progress: 1700/3793 (44%) | New: 1571 | Rate: 4/min ---
+[2026-04-22 18:34:36] [1709/3793] OK sites/default/files/styles/article_main_image/public/tesla-model-3-san (38,229b) @20210103
+[2026-04-22 18:36:24] [1719/3793] OK sites/default/files/styles/article_main_image/public/tesla-model-y-win (19,672b) @20200621
+[2026-04-22 18:39:04] [1729/3793] OK sites/default/files/styles/article_main_image/public/tesla-software-up (23,652b) @20210125
+[2026-04-22 18:40:56] [1739/3793] OK sites/default/files/styles/article_main_image/public/tesla_model_x_-_f (254,028b) @20200225
+[2026-04-22 18:42:57] [1749/3793] OK sites/default/files/tesla-roadster.jpg (172,310b) @20201215
+[2026-04-22 18:43:01] --- Progress: 1750/3793 (46%) | New: 1621 | Rate: 4/min ---
+[2026-04-22 18:45:40] [1759/3793] FAIL https://www.tesla.hu/sites/default/files/tesla_model_x.jpg
+[2026-04-22 18:45:54] [1760/3793] OK sites/default/files/winter18_0.png (7,283b) @20190731
+[2026-04-22 18:47:55] [1770/3793] OK tesla/articles/_data_image/jpeg;base64,/9j/4AAQSkZJRgABAgAAZABkAAD/7AA (18,590b) @20210429
+[2026-04-22 18:49:02] [1780/3793] OK tesla/articles/18880516/fig09.gif (65,204b) @20130605
+[2026-04-22 18:50:12] [1790/3793] OK tesla/articles/18880516/fig19.gif (1,976b) @20130605
+[2026-04-22 18:51:24] [1800/3793] OK tesla/articles/18900925.doc (26,624b) @20060105
+[2026-04-22 18:51:25] --- Progress: 1800/3793 (47%) | New: 1670 | Rate: 4/min ---
+[2026-04-22 18:52:55] [1810/3793] OK tesla/articles/18910408.doc (22,016b) @20060105
+[2026-04-22 18:56:02] [1820/3793] OK tesla/articles/18910520/fig01.gif (242,915b) @20231015
+[2026-04-22 18:58:16] [1830/3793] OK tesla/articles/18910520/fig10.gif (31,358b) @20130605
+[2026-04-22 18:59:51] [1840/3793] OK tesla/articles/18910520/fig19.gif (6,102b) @20130605
+[2026-04-22 19:02:06] [1850/3793] OK tesla/articles/18910520/fig28.gif (29,898b) @20130605
+[2026-04-22 19:02:07] --- Progress: 1850/3793 (48%) | New: 1720 | Rate: 4/min ---
+[2026-04-22 19:03:38] [1860/3793] OK tesla/articles/18910701/a_021.gif (183,426b) @20031009
+[2026-04-22 19:04:53] [1870/3793] OK tesla/articles/18910902/fig02.gif (22,226b) @20110517
+[2026-04-22 19:06:23] [1880/3793] OK tesla/articles/18920200/fig03.gif (139,634b) @20130205
+[2026-04-22 19:07:53] [1890/3793] OK tesla/articles/18920200/fig13.gif (38,713b) @20130205
+[2026-04-22 19:09:58] [1900/3793] OK tesla/articles/18920200/fig23.gif (60,050b) @20130205
+[2026-04-22 19:09:59] --- Progress: 1900/3793 (50%) | New: 1770 | Rate: 4/min ---
+[2026-04-22 19:12:08] [1910/3793] OK tesla/articles/18920200/fig33.gif (36,493b) @20130205
+[2026-04-22 19:13:51] [1920/3793] OK tesla/articles/18930200/fig02.gif (42,469b) @20231015
+[2026-04-22 19:15:51] [1930/3793] OK tesla/articles/18930200/fig12.gif (11,006b) @20231015
+[2026-04-22 19:18:01] [1940/3793] OK tesla/articles/18930200/fig22.gif (51,994b) @20130605
+[2026-04-22 19:20:49] [1950/3793] OK tesla/articles/18930200/fig32.gif (32,942b) @20130605
+[2026-04-22 19:20:50] --- Progress: 1950/3793 (51%) | New: 1820 | Rate: 4/min ---
+[2026-04-22 19:22:27] [1960/3793] OK tesla/articles/18960319.doc (16,384b) @20060105
+[2026-04-22 19:25:26] [1970/3793] OK tesla/articles/18960509.doc (17,408b) @20060105
+[2026-04-22 19:26:52] [1980/3793] OK tesla/articles/18970127/index.htm (1,317b) @20030906
+[2026-04-22 19:28:43] [1990/3793] OK tesla/articles/18980206.doc (12,288b) @20060105
+[2026-04-22 19:30:48] [2000/3793] OK tesla/articles/18980913/fig09.gif (122,589b) @20110615
+[2026-04-22 19:30:49] --- Progress: 2000/3793 (52%) | New: 1870 | Rate: 4/min ---
+[2026-04-22 19:32:37] [2010/3793] OK tesla/articles/19000600/19000600.doc (164,352b) @20040118
+[2026-04-22 19:34:44] [2015/3793] FAIL http://www.tesla.hu:80/tesla/articles/19000600/fig02.gif
+[2026-04-22 19:35:51] [2021/3793] OK tesla/articles/19000600/fig08.gif (743,728b) @20231015
+[2026-04-22 19:37:20] [2031/3793] OK tesla/articles/19040101/page_1.gif (142,699b) @20130205
+[2026-04-22 19:39:05] [2041/3793] OK tesla/articles/19050716.doc (16,384b) @20231015
+[2026-04-22 19:40:43] --- Progress: 2050/3793 (54%) | New: 1919 | Rate: 4/min ---
+[2026-04-22 19:40:55] [2051/3793] OK tesla/articles/19071022.doc (14,848b) @20060105
+[2026-04-22 19:42:33] [2061/3793] OK tesla/articles/19100116.doc (15,872b) @20060105
+[2026-04-22 19:44:36] [2071/3793] OK tesla/articles/19141220.doc (50,176b) @20231015
+[2026-04-22 19:45:41] [2081/3793] OK tesla/articles/19161202.doc (22,016b) @20231015
+[2026-04-22 19:47:36] [2091/3793] OK tesla/articles/19190100/page_2.gif (311,459b) @20130205
+[2026-04-22 19:50:10] --- Progress: 2100/3793 (55%) | New: 1969 | Rate: 4/min ---
+[2026-04-22 19:50:22] [2101/3793] OK tesla/articles/19190200/fig09.gif (19,670b) @20130605
+[2026-04-22 19:51:34] [2111/3793] OK tesla/articles/19190401.doc (15,872b) @20060105
+[2026-04-22 19:53:38] [2121/3793] OK tesla/articles/19190600/fig01.gif (20,202b) @20130605
+[2026-04-22 19:56:03] [2131/3793] OK tesla/articles/19190600/page_2.gif (752,415b) @20130605
+[2026-04-22 19:58:29] [2141/3793] OK tesla/articles/19190601/page_6.gif (345,054b) @20130605
+[2026-04-22 20:00:00] --- Progress: 2150/3793 (56%) | New: 2019 | Rate: 4/min ---
+[2026-04-22 20:00:13] [2151/3793] OK tesla/articles/19190700/fig08.gif (289,004b) @20130205
+[2026-04-22 20:03:19] [2161/3793] OK tesla/articles/19190700/fig18.gif (655,472b) @20130205
+[2026-04-22 20:04:32] [2171/3793] OK tesla/articles/19201211.doc (23,552b) @20060105
+[2026-04-22 20:05:50] [2181/3793] OK tesla/articles/19291129.doc (14,336b) @20060105
+[2026-04-22 20:07:49] [2191/3793] OK tesla/articles/19311100/h9311100.doc (14,336b) @20060105
+[2026-04-22 20:09:49] --- Progress: 2200/3793 (58%) | New: 2069 | Rate: 4/min ---
+[2026-04-22 20:10:03] [2201/3793] OK tesla/articles/19311200/page_5.gif (212,302b) @20110517
+[2026-04-22 20:11:27] [2211/3793] OK tesla/articles/19330910.doc (20,480b) @20060105
+[2026-04-22 20:13:22] [2221/3793] OK tesla/articles/19340400.doc (11,776b) @20060105
+[2026-04-22 20:14:57] [2231/3793] OK tesla/articles/19340710.doc (12,800b) @20110709
+[2026-04-22 20:17:00] [2241/3793] OK tesla/articles/19350200/page_3.gif (729,398b) @20220428
+[2026-04-22 20:19:26] --- Progress: 2250/3793 (59%) | New: 2119 | Rate: 4/min ---
+[2026-04-22 20:19:38] [2251/3793] OK tesla/articles/19350922.doc (19,456b) @20060105
+[2026-04-22 20:20:56] [2261/3793] OK tesla/articles/19381008.doc (15,360b) @20060105
+[2026-04-22 20:22:54] [2271/3793] OK tesla/articles/19400922.doc (13,824b) @20060105
+[2026-04-22 20:24:35] [2281/3793] OK tesla/cikk/autotolvajt-fogott-egy-tesla-kaliforniaban.html (15,190b) @20231015
+[2026-04-22 20:27:27] [2291/3793] OK tesla/cikk/elhuzott-mars-mellett-tesla-roadstere.html (14,580b) @20201130
+[2026-04-22 20:28:34] --- Progress: 2300/3793 (60%) | New: 2169 | Rate: 4/min ---
+[2026-04-22 20:28:46] [2301/3793] OK tesla/cikk/haromeves-lett-tesla-model-3.html (18,833b) @20200814
+[2026-04-22 20:30:21] [2311/3793] OK tesla/cikk/kulonleges-kepesseget-talaltak-teslaban.html (15,272b) @20231015
+[2026-04-22 20:32:46] [2321/3793] OK tesla/cikk/mire-eszbe-kapsz-tesla-roadster-mar-100-kmoranal-tart.html (16,107b) @20200724
+[2026-04-22 20:35:30] [2331/3793] OK tesla/cikk/szinvaltos-lesz-tesla-cybertruck.html (16,839b) @20220428
+[2026-04-22 20:37:53] [2341/3793] OK tesla/cikk/tesla-kovetkezo-autoi-attorest-hozhatnak-az-ev-knek.html (20,174b) @20200814
+[2026-04-22 20:39:00] --- Progress: 2350/3793 (61%) | New: 2219 | Rate: 4/min ---
+[2026-04-22 20:39:12] [2351/3793] OK tesla/cikk/tesla-tulajok-nemsokara-tobbfele-nyelven-dudalhatnak.html (13,212b) @20191016
+[2026-04-22 20:40:41] [2361/3793] OK tesla/colorado/c_001.gif (37,907b) @20050409
+[2026-04-22 20:43:16] [2371/3793] OK tesla/colorado/c_014.gif (150,420b) @20130605
+[2026-04-22 20:46:31] [2381/3793] OK tesla/colorado/c_026.gif (32,746b) @20231015
+[2026-04-22 20:47:41] [2391/3793] OK tesla/colorado/c_036.gif (154,978b) @20040805
+[2026-04-22 20:49:17] --- Progress: 2400/3793 (63%) | New: 2269 | Rate: 4/min ---
+[2026-04-22 20:49:29] [2401/3793] OK tesla/colorado/c_046.gif (152,281b) @20130605
+[2026-04-22 20:51:07] [2411/3793] OK tesla/colorado/c_056.gif (111,862b) @20130605
+[2026-04-22 20:53:12] [2421/3793] OK tesla/colorado/c_066.gif (183,403b) @20130605
+[2026-04-22 20:54:43] [2431/3793] OK tesla/colorado/c_076.gif (144,933b) @20130605
+[2026-04-22 20:55:57] [2441/3793] OK tesla/colorado/c_086.gif (80,668b) @20130605
+[2026-04-22 20:58:08] --- Progress: 2450/3793 (64%) | New: 2319 | Rate: 4/min ---
+[2026-04-22 20:58:24] [2451/3793] OK tesla/colorado/c_096.gif (113,588b) @20130605
+[2026-04-22 21:00:14] [2461/3793] OK tesla/colorado/c_106.gif (117,532b) @20130605
+[2026-04-22 21:02:43] [2471/3793] OK tesla/colorado/c_116.gif (112,679b) @20130605
+[2026-04-22 21:04:08] [2481/3793] OK tesla/colorado/c_126.gif (42,495b) @20130605
+[2026-04-22 21:05:45] [2491/3793] OK tesla/colorado/c_136.gif (125,727b) @20130605
+[2026-04-22 21:08:11] --- Progress: 2500/3793 (65%) | New: 2369 | Rate: 4/min ---
+[2026-04-22 21:08:23] [2501/3793] OK tesla/colorado/c_146.gif (99,749b) @20130605
+[2026-04-22 21:10:33] [2511/3793] OK tesla/colorado/c_156.gif (103,972b) @20130605
+[2026-04-22 21:12:28] [2521/3793] OK tesla/colorado/c_166.gif (148,180b) @20130605
+[2026-04-22 21:14:47] [2531/3793] OK tesla/colorado/c_176.gif (98,238b) @20130605
+[2026-04-22 21:17:25] [2541/3793] OK tesla/colorado/c_186.gif (99,453b) @20130605
+[2026-04-22 21:17:57] --- Progress: 2550/3793 (67%) | New: 2419 | Rate: 4/min ---
+[2026-04-22 21:18:46] [2551/3793] OK tesla/colorado/c_196.gif (98,288b) @20210518
+[2026-04-22 21:20:26] [2561/3793] OK tesla/colorado/c_206.gif (77,535b) @20231015
+[2026-04-22 21:22:41] [2571/3793] OK tesla/colorado/c_216.gif (123,620b) @20231015
+[2026-04-22 21:24:32] [2581/3793] OK tesla/colorado/c_226.gif (95,368b) @20130605
+[2026-04-22 21:26:04] [2591/3793] OK tesla/colorado/c_236.gif (98,384b) @20130605
+[2026-04-22 21:27:37] --- Progress: 2600/3793 (68%) | New: 2469 | Rate: 4/min ---
+[2026-04-22 21:27:49] [2601/3793] OK tesla/colorado/c_246.gif (97,520b) @20130605
+[2026-04-22 21:30:16] [2611/3793] OK tesla/colorado/c_256.gif (89,765b) @20130605
+[2026-04-22 21:32:05] [2621/3793] OK tesla/colorado/c_266.gif (92,089b) @20130605
+[2026-04-22 21:34:06] [2631/3793] OK tesla/colorado/c_276.gif (100,390b) @20130605
+[2026-04-22 21:35:58] [2641/3793] OK tesla/colorado/c_286.gif (90,138b) @20130605
+[2026-04-22 21:37:35] --- Progress: 2650/3793 (69%) | New: 2519 | Rate: 4/min ---
+[2026-04-22 21:37:57] [2651/3793] OK tesla/colorado/c_296.gif (81,331b) @20130605
+[2026-04-22 21:39:23] [2661/3793] OK tesla/colorado/c_306.gif (71,793b) @20130605
+[2026-04-22 21:41:09] [2671/3793] OK tesla/colorado/c_316.gif (123,404b) @20130605
+[2026-04-22 21:43:32] [2681/3793] OK tesla/colorado/c_326.gif (70,023b) @20130605
+[2026-04-22 21:45:07] [2691/3793] OK tesla/colorado/c_336.gif (817,860b) @20130605
+[2026-04-22 21:47:23] --- Progress: 2700/3793 (71%) | New: 2569 | Rate: 4/min ---
+[2026-04-22 21:47:37] [2701/3793] OK tesla/colorado/c_346.gif (1,414,807b) @20130605
+[2026-04-22 21:49:18] [2711/3793] OK tesla/colorado/c_356.gif (159,314b) @20130605
+[2026-04-22 21:51:04] [2721/3793] OK tesla/colorado/c_366.gif (289,171b) @20130605
+[2026-04-22 21:53:31] [2731/3793] OK tesla/colorado/c_376.gif (1,145,254b) @20130605
+[2026-04-22 21:55:01] [2741/3793] OK tesla/colorado/c_386.gif (920,293b) @20130605
+[2026-04-22 21:56:32] --- Progress: 2750/3793 (72%) | New: 2619 | Rate: 4/min ---
+[2026-04-22 21:56:45] [2751/3793] OK tesla/colorado/c_397.gif (114,800b) @20130605
+[2026-04-22 21:58:31] [2761/3793] OK tesla/colorado/c_407.gif (171,311b) @20130605
+[2026-04-22 22:00:16] [2771/3793] OK tesla/colorado/c_417.gif (162,002b) @20231015
+[2026-04-22 22:02:45] [2781/3793] OK tesla/colorado/c_427.gif (1,414,181b) @20211028
+[2026-04-22 22:05:33] [2791/3793] OK tesla/colorado/c_438.gif (30,707b) @20231015
+[2026-04-22 22:07:20] --- Progress: 2800/3793 (73%) | New: 2669 | Rate: 4/min ---
+[2026-04-22 22:07:32] [2801/3793] OK tesla/gumitalca-elso-csomagtartoba.html (15,798b) @20191016
+[2026-04-22 22:11:52] [2807/3793] FAIL http://www.tesla.hu/tesla/lectures/18910520/index.htm
+[2026-04-22 22:13:32] [2808/3793] FAIL http://www.tesla.hu/tesla/lectures/18920200/index.htm
+[2026-04-22 22:14:57] [2809/3793] FAIL http://www.tesla.hu/tesla/lectures/18930200/index.htm
+[2026-04-22 22:15:35] [2814/3793] OK tesla/patents/b---1877.001/b_001_04.gif (234,032b) @20130605
+[2026-04-22 22:18:14] [2821/3793] FAIL http://www.tesla.hu/tesla/patents/b---2801.011/b_011_03.gif
+[2026-04-22 22:19:32] [2822/3793] FAIL http://www.tesla.hu/tesla/patents/b---2801.011/b_011_04.gif
+[2026-04-22 22:20:33] [2826/3793] OK tesla/patents/b---2812.012/b_012_02.gif (219,350b) @20130605
+[2026-04-22 22:23:35] [2836/3793] OK tesla/patents/b---2975.002/b_002_04.gif (134,738b) @20040616
+[2026-04-22 22:27:07] [2838/3793] FAIL http://www.tesla.hu/tesla/patents/b---2975.002/b_002_06.gif
+[2026-04-22 22:28:18] [2847/3793] OK tesla/patents/b---6481.003/b_003_05.gif (216,883b) @20211028
+[2026-04-22 22:29:54] --- Progress: 2850/3793 (75%) | New: 2713 | Rate: 4/min ---
+[2026-04-22 22:31:36] [2857/3793] OK tesla/patents/b---6502.004/b_004_05.gif (82,233b) @20130605
+[2026-04-22 22:33:12] [2867/3793] OK tesla/patents/b---8200.020/b_020_03.gif (215,414b) @20231015
+[2026-04-22 22:34:48] [2877/3793] OK tesla/patents/b---8575.009/b_009_04.gif (206,276b) @20231015
+[2026-04-22 22:38:10] [2887/3793] OK tesla/patents/b--11293.017/b_017_07.gif (201,829b) @20130605
+[2026-04-22 22:40:51] [2897/3793] OK tesla/patents/b--13563.018/b_018_01.gif (183,484b) @20220428
+[2026-04-22 22:41:03] --- Progress: 2900/3793 (76%) | New: 2763 | Rate: 4/min ---
+[2026-04-22 22:41:52] [2907/3793] OK tesla/patents/b--14550.016/b_016_05.gif (215,509b) @20231015
+[2026-04-22 22:43:33] [2917/3793] OK tesla/patents/b--14579.019/b_019_07.gif (205,600b) @20040609
+[2026-04-22 22:45:55] [2927/3793] OK tesla/patents/b--16709.006/index.htm (1,235b) @20031124
+[2026-04-22 22:47:24] [2937/3793] OK tesla/patents/b--19426.008/b_008_04.gif (162,053b) @20130606
+[2026-04-22 22:49:11] [2947/3793] OK tesla/patents/b--20981.013/b_013_08.gif (208,608b) @20130605
+[2026-04-22 22:49:40] --- Progress: 2950/3793 (77%) | New: 2813 | Rate: 4/min ---
+[2026-04-22 22:50:36] [2957/3793] OK tesla/patents/b--24001.021/b_021_06.gif (122,685b) @20231015
+[2026-04-22 22:53:18] [2967/3793] OK tesla/patents/b--26371.015/b_015_02.gif (180,958b) @20210518
+[2026-04-22 22:55:07] [2977/3793] OK tesla/patents/b--26371.015/b_015_12.gif (31,995b) @20130605
+[2026-04-22 22:56:44] [2987/3793] OK tesla/patents/b-174544.022/b_022_05.gif (161,039b) @20130605
+[2026-04-22 22:58:15] [2997/3793] OK tesla/patents/b-185446.024/b_024_02.gif (210,252b) @20231015
+[2026-04-22 22:58:30] --- Progress: 3000/3793 (79%) | New: 2863 | Rate: 4/min ---
+[2026-04-22 23:00:28] [3007/3793] OK tesla/patents/b-186082.025/b_025_04.gif (104,694b) @20220428
+[2026-04-22 23:02:15] [3017/3793] OK tesla/patents/b-186084.027/b_027_02.gif (214,046b) @20050504
+[2026-04-22 23:03:45] [3027/3793] OK tesla/patents/c--24033.001/c_001_01.gif (89,855b) @20050505
+[2026-04-22 23:05:29] [3037/3793] OK tesla/patents/c--24033.001/c_001_11.gif (83,240b) @20231015
+[2026-04-22 23:07:54] [3047/3793] OK tesla/patents/c--29537.002/c_002_08.gif (95,855b) @20040805
+[2026-04-22 23:08:12] --- Progress: 3050/3793 (80%) | New: 2913 | Rate: 4/min ---
+[2026-04-22 23:09:26] [3057/3793] OK tesla/patents/c--29537.002/c_002_18.gif (93,992b) @20050505
+[2026-04-22 23:11:23] [3067/3793] OK tesla/patents/c--30172.003/c_003_03.gif (81,862b) @20050504
+[2026-04-22 23:13:25] [3077/3793] OK tesla/patents/c--33317.004/c_004_02.gif (82,160b) @20231015
+[2026-04-22 23:15:03] [3087/3793] OK tesla/patents/c--33317.004/c_004_12.gif (86,245b) @20220428
+[2026-04-22 23:17:07] [3097/3793] OK tesla/patents/c-135174.005/c_005_05.gif (150,696b) @20050505
+[2026-04-22 23:17:34] --- Progress: 3100/3793 (81%) | New: 2963 | Rate: 4/min ---
+[2026-04-22 23:18:38] [3107/3793] OK tesla/patents/c-142352.006/c_006_01.gif (185,891b) @20050505
+[2026-04-22 23:24:45] [3117/3793] OK tesla/patents/c-142352.006/c_006_11.gif (109,745b) @20220428
+[2026-04-22 23:28:19] [3127/3793] OK tesla/patents/p--11865.089/p_089_01.gif (221,526b) @20041225
+[2026-04-22 23:30:37] [3137/3793] OK tesla/patents/p-334823.001/p_001_02.gif (210,413b) @20050506
+[2026-04-22 23:32:59] [3147/3793] OK tesla/patents/p-335787.003/index.htm (1,232b) @20040311
+[2026-04-22 23:33:45] --- Progress: 3150/3793 (83%) | New: 3013 | Rate: 4/min ---
+[2026-04-22 23:35:26] [3157/3793] OK tesla/patents/p-336961.004/p_004_02.gif (52,233b) @20050505
+[2026-04-22 23:38:38] [3167/3793] OK tesla/patents/p-350954.006/p_006_02.gif (194,806b) @20041225
+[2026-04-22 23:40:54] [3177/3793] OK tesla/patents/p-381968.008/p_008_02.gif (104,458b) @20050504
+[2026-04-22 23:43:18] [3187/3793] OK tesla/patents/p-381969.009/p_009_02.gif (137,446b) @20050505
+[2026-04-22 23:45:28] [3197/3793] OK tesla/patents/p-382279.011/index.htm (1,159b) @20040311
+[2026-04-22 23:46:17] --- Progress: 3200/3793 (84%) | New: 3063 | Rate: 4/min ---
+[2026-04-22 23:47:45] [3207/3793] OK tesla/patents/p-382280.012/p_012_04.gif (94,768b) @20040609
+[2026-04-22 23:49:58] [3217/3793] OK tesla/patents/p-382281.013/p_013_04.gif (197,859b) @20050505
+[2026-04-22 23:52:02] [3227/3793] OK tesla/patents/p-382845.015/p_015_03.gif (220,335b) @20050504
+[2026-04-22 23:54:27] [3237/3793] OK tesla/patents/p-390414.017/index.htm (1,083b) @20040311
+[2026-04-22 23:56:31] [3247/3793] OK tesla/patents/p-390721.019/p_019_02.gif (224,012b) @20050506
+[2026-04-22 23:57:21] --- Progress: 3250/3793 (85%) | New: 3113 | Rate: 4/min ---
+[2026-04-22 23:58:49] [3257/3793] OK tesla/patents/p-396121.021/p_021_01.gif (106,901b) @20050504
+[2026-04-23 00:00:59] [3267/3793] OK tesla/patents/p-405858.023/p_023_01.gif (139,484b) @20050505
+[2026-04-23 00:05:03] [3277/3793] OK tesla/patents/p-406968.025/p_025_02.gif (208,443b) @20050504
+[2026-04-23 00:08:30] [3287/3793] OK tesla/patents/p-416191.027/index.htm (1,083b) @20040311
+[2026-04-23 00:11:56] [3297/3793] OK tesla/patents/p-416193.029/index.htm (1,007b) @20040311
+[2026-04-23 00:12:52] --- Progress: 3300/3793 (87%) | New: 3163 | Rate: 4/min ---
+[2026-04-23 00:14:54] [3307/3793] OK tesla/patents/p-416195.031/p_031_02.gif (80,316b) @20130605
+[2026-04-23 00:18:04] [3317/3793] OK tesla/patents/p-418248.033/index.htm (1,007b) @20040610
+[2026-04-23 00:22:40] [3327/3793] OK tesla/patents/p-428057.035/p_035_01.gif (54,634b) @20130605
+[2026-04-23 00:27:05] [3337/3793] OK tesla/patents/p-433701.037/p_037_03.gif (131,649b) @20130605
+[2026-04-23 00:30:08] [3347/3793] OK tesla/patents/p-445207.040/p_040_01.gif (77,486b) @20130605
+[2026-04-23 00:31:35] --- Progress: 3350/3793 (88%) | New: 3213 | Rate: 4/min ---
+[2026-04-23 00:33:35] [3357/3793] OK tesla/patents/p-447921.042/p_042_03.gif (214,856b) @20050104
+[2026-04-23 00:37:15] [3367/3793] OK tesla/patents/p-455067.044/p_044_01.gif (84,193b) @20130605
+[2026-04-23 00:40:18] [3377/3793] OK tesla/patents/p-455069.046/p_046_02.gif (209,530b) @20050104
+[2026-04-23 00:43:11] [3387/3793] OK tesla/patents/p-462418.048/p_048_02.gif (220,555b) @20130605
+[2026-04-23 00:45:25] [3397/3793] OK tesla/patents/p-487796.051/index.htm (1,235b) @20040610
+[2026-04-23 00:46:13] --- Progress: 3400/3793 (89%) | New: 3263 | Rate: 4/min ---
+[2026-04-23 00:47:47] [3407/3793] OK tesla/patents/p-511559.052/p_052_03.gif (177,466b) @20050104
+[2026-04-23 00:49:57] [3417/3793] OK tesla/patents/p-511915.054/p_054_01.gif (106,931b) @20050104
+[2026-04-23 00:52:06] [3427/3793] OK tesla/patents/p-512340.056/h-512340.doc (16,384b) @20060105
+[2026-04-23 00:54:15] [3437/3793] OK tesla/patents/p-514168.058/p_058_01.gif (80,613b) @20050104
+[2026-04-23 00:56:28] [3447/3793] OK tesla/patents/p-514170.060/p_060_02.gif (217,637b) @20130605
+[2026-04-23 00:57:15] --- Progress: 3450/3793 (90%) | New: 3313 | Rate: 4/min ---
+[2026-04-23 00:58:48] [3457/3793] OK tesla/patents/p-517900.063/index.htm (1,159b) @20040311
+[2026-04-23 01:01:01] [3467/3793] OK tesla/patents/p-555190.065/index.htm (1,083b) @20040311
+[2026-04-23 01:03:05] [3477/3793] OK tesla/patents/p-568176.067/index.htm (1,156b) @20040610
+[2026-04-23 01:05:18] [3487/3793] OK tesla/patents/p-568177.068/p_068_04.gif (179,904b) @20130605
+[2026-04-23 01:07:25] [3497/3793] OK tesla/patents/p-568179.070/p_070_01.gif (116,033b) @20040615
+[2026-04-23 01:08:14] --- Progress: 3500/3793 (92%) | New: 3363 | Rate: 4/min ---
+[2026-04-23 01:09:41] [3507/3793] OK tesla/patents/p-577670.072/p_072_01.gif (99,547b) @20050105
+[2026-04-23 01:12:18] [3513/3793] FAIL http://www.tesla.hu/tesla/patents/p-577671.073/p_073_02.gif
+[2026-04-23 01:13:33] [3518/3793] OK tesla/patents/p-583953.074/p_074_03.gif (195,525b) @20130605
+[2026-04-23 01:15:42] [3528/3793] OK tesla/patents/p-609245.076/p_076_04.gif (264,247b) @20130605
+[2026-04-23 01:17:54] [3538/3793] OK tesla/patents/p-609247.078/p_078_03.gif (180,665b) @20050105
+[2026-04-23 01:20:04] [3548/3793] OK tesla/patents/p-609250.081/p_081_01.gif (66,507b) @20040609
+[2026-04-23 01:20:44] --- Progress: 3550/3793 (93%) | New: 3412 | Rate: 4/min ---
+[2026-04-23 01:22:51] [3558/3793] OK tesla/patents/p-611719.083/index.htm (1,159b) @20040311
+[2026-04-23 01:25:04] [3568/3793] OK tesla/patents/p-613735.084/p_084_04.gif (272,461b) @20130605
+[2026-04-23 01:28:03] [3576/3793] FAIL http://www.tesla.hu/tesla/patents/p-613809.085/p_085_06.gif
+[2026-04-23 01:28:45] [3579/3793] OK tesla/patents/p-613809.085/p_085_09.gif (284,445b) @20130606
+[2026-04-23 01:30:51] [3589/3793] OK tesla/patents/p-645576.086/p_086_05.gif (276,297b) @20110615
+[2026-04-23 01:32:56] [3599/3793] OK tesla/patents/p-655838.088/p_088_02.gif (233,863b) @20130605
+[2026-04-23 01:33:19] --- Progress: 3600/3793 (94%) | New: 3461 | Rate: 4/min ---
+[2026-04-23 01:35:12] [3609/3793] OK tesla/patents/p-685012.090/p_090_04.gif (77,954b) @20050120
+[2026-04-23 01:37:17] [3619/3793] OK tesla/patents/p-685954.092/p_092_02.gif (63,296b) @20130605
+[2026-04-23 01:39:37] [3629/3793] OK tesla/patents/p-685955.093/p_093_02.gif (222,153b) @20130605
+[2026-04-23 01:41:48] [3639/3793] OK tesla/patents/p-685956.094/p_094_04.gif (269,259b) @20130605
+[2026-04-23 01:45:04] [3649/3793] OK tesla/patents/p-685957.095/p_095_03.gif (260,069b) @20130605
+[2026-04-23 01:45:27] --- Progress: 3650/3793 (96%) | New: 3511 | Rate: 4/min ---
+[2026-04-23 01:47:42] [3659/3793] OK tesla/patents/p-723188.097/p_097_01.gif (89,899b) @20130605
+[2026-04-23 01:49:55] [3669/3793] OK tesla/patents/p-725605.098/p_098_05.gif (258,491b) @20130605
+[2026-04-23 01:51:54] [3673/3793] FAIL http://www.tesla.hu/tesla/patents/p-787412.099/p_099_02.gif
+[2026-04-23 01:53:22] [3680/3793] OK tesla/patents/p1061142.100/p_100_02.gif (234,546b) @20130605
+[2026-04-23 01:55:31] [3690/3793] OK tesla/patents/p1113716.102/p_102_01.gif (87,679b) @20130606
+[2026-04-23 01:57:47] [3700/3793] OK tesla/patents/p1209359.104/p_104_01.gif (79,192b) @20130605
+[2026-04-23 01:57:57] --- Progress: 3700/3793 (97%) | New: 3560 | Rate: 4/min ---
+[2026-04-23 02:00:08] [3710/3793] OK tesla/patents/p1266175.105/p_105_02.gif (230,906b) @20130605
+[2026-04-23 02:02:18] [3720/3793] OK tesla/patents/p1274816.106/p_106_05.gif (217,576b) @20050124
+[2026-04-23 02:04:24] [3730/3793] OK tesla/patents/p1329559.108/p_108_05.gif (249,720b) @20040615
+[2026-04-23 02:06:37] [3740/3793] OK tesla/patents/p1402025.110/p_110_04.gif (154,788b) @20050125
+[2026-04-23 02:08:41] [3750/3793] OK tesla/patents/p1655114.112/p_112_02.gif (87,168b) @20050128
+[2026-04-23 02:08:51] --- Progress: 3750/3793 (98%) | New: 3610 | Rate: 4/min ---
+[2026-04-23 02:11:03] [3760/3793] OK tesla/tesla-model-s.html (28,434b) @20190716
+[2026-04-23 02:13:06] [3770/3793] OK varsanyi/analizis.htm (8,197b) @20041109
+[2026-04-23 02:15:09] [3780/3793] OK varsanyi/main.htm (2,298b) @20050106
+[2026-04-23 02:17:12] [3790/3793] OK varsanyi/torque1.gif (20,266b) @20210319
+[2026-04-23 02:18:03] 
+=== PHASE 3: Generating Index ===
+[2026-04-23 02:18:03] Generating index...
+[2026-04-23 02:18:04] Index: 4033 files
+[2026-04-23 02:18:04]   .gif: 2805
+[2026-04-23 02:18:04]   .txt: 382
+[2026-04-23 02:18:04]   .htm: 236
+[2026-04-23 02:18:04]   .doc: 203
+[2026-04-23 02:18:04]   .html: 158
+[2026-04-23 02:18:04]   .png: 93
+[2026-04-23 02:18:04]   .jpg: 49
+[2026-04-23 02:18:04]   .rar: 12
+[2026-04-23 02:18:04]   .otf: 6
+[2026-04-23 02:18:04]   .pdf: 3
+[2026-04-23 02:18:04]   .mp4: 3
+[2026-04-23 02:18:04]   .js: 3
+[2026-04-23 02:18:04]   .exe: 1
+[2026-04-23 02:18:04]   .ico: 1
+[2026-04-23 02:18:04]   .html__utm_source%3dvillanyautosok%26utm_medium%3dbanner%26utm_campaign%3drendelj_teslat_konfiguratorral: 1
+[2026-04-23 02:18:04] 
+============================================================
+[2026-04-23 02:18:04] MIRROR COMPLETE
+[2026-04-23 02:18:04] Total URLs: 3793
+[2026-04-23 02:18:04] Downloaded: 3653
+[2026-04-23 02:18:04] Failed: 140
+[2026-04-23 02:18:04] Files: 4033
+[2026-04-23 02:18:04] ============================================================
+[2026-04-23 02:18:04] 
+Next step: fe-ingest.sh /Users/esaruoho/work/merlib-mirror/sites/tesla.hu

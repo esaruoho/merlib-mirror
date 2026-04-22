@@ -1,0 +1,107 @@
+Pepe's Pages: Kszlk- s szoftverfejleszts: 
+
+ Kszlk- s szoftverfejleszts: 
+
+ Mott:
+
+"Tant nni: Pistike, tudsz zongorzni?" 
+"Pistike: Lehet, br mg nem prbltam!" 
+
+Eddigi plym alatt tbb tucat klnbz egyedi clgpet ill.
+kis sorozat kszlket fejlesztettem ki. Ezek zmben
+elektronikus vagy elektromechanikus eszkzk, de volt kztk
+pneumatikus berendezs is. Ezen kszlkek kifejlesztse,
+bezemelse sorn termszetesen nagy tapasztalatra tettem szert,
+gy rmmel llok brki rendelkezsre szinte brmilyen jelleg
+berendezs megtervezsben, legyrtsban s bezemelsben.
+Tjkozdskppen itt egy rvid lista azokrl a berendezsekrl,
+amelyek kifejlesztsben az vek sorn rszt vettem: 
+
+ Habvg CNC gpekhez programtervez- s -betlt PC-s
+tervezrendszer; 
+ Shima Seiki ktgpekhez ksztett floppy-s
+programbetlt terminl (TFD); 
+ Galvanizl iker-gyrtsor daruvezrlse Z80-as
+mikrovezrlvel; 
+ CNC margpekhez gravroz programcsomag s AutoCAD 
+interfsz; 
+ 12 kW-os nagymret zsugorfliz berendezs pneumatikus
+mozgatssal; 
+ Ipari kivitel fliahegeszt gpek tbbfle mretben; 
+ Klyhz kszlk ultranagy-vkuum rendszerek 350 C-os
+hkezelsre; 
+ Szmtgp-vezrls tekercselgp nagymret, specilis
+tekercselsekre; 
+ PC-104-es formtum FPGA vezrl, digitlis vezrlsi s
+adatgyjtsi clokra; 
+ Drive Guard hardver bvtkrtys adat- s
+vrusvdelmi rendszer IBM PC-re; 
+ Egely Wheel szmtgpes interfsz csatlakozba
+ptett PIC mikrovezrlvel; 
+
+ Vllalok: 
+
+ Analg s digitlis ramkrk tervezst, ill. kis sorozat
+NYK-tervezst, beltetst; 
+ Egyedi kszlkek tervezst, egyedi ill. kis sorozat
+gyrtst a kszlkek tokozsval, igny esetn a mikrovezrl
+alap bels mkdtet szoftverek elksztsvel egytt; 
+ CPLD/FPGA alap digitlis tervezst akr 100 MHz-es
+frekvencikig; 
+ Klnfle egyedi kszlk-interfszek/kommunikcik
+visszafejtst ill. programozst; 
+ Vezrl-automatikkat ill. nagy sebessg felgyel- s
+beavatkoz rendszereket gyrt- s mrrendszerek kezelshez -
+ez utbbiakat hardver szint eszkz-programozssal, nem pedig
+dglass, Windows alap "folyamatirnyt szoftver"-nek nevezett
+vackokkal; 
+ Lptetmotoros finomhajtsokat, ill. azok optikai
+inkrement-jelads pozci-rzkelst; 
+ NC-CNC vezrlsek, frekvenciavlts motorhajtsok,
+szmtgp-vezrls kszlkek szervizelst, bvtst,
+talaktst; ill. a leselejtezett berendezsek
+jrahasznostst. 
+
+Fentieken kvl termszetesen nagyon sok tisztn szoftveres
+fejlesztsem volt ill. van; ezek DOS alatt 16 biten a Turbo
+Pascal ban, DOS alatt 32 biten ill. Linux alatt a
+ Free Pascal ban
+kszlnek; mikrovezrlk esetben pedig - az ltalam is karbantartott -
+ PAS2PIC 
+fordtval dolgozom; termszetesen ahol szksges, ott
+ assembly szoftverbettek gondoskodnak a nagy sebessg
+mkdsrl. Br manapsg a Windows trhdtsa miatt a C/C++ a
+"men", de sohasem szabad elfelejteni, hogy a kt nyelv mra mr
+kzel azonos szinten van; mg azonban a C/C++ inkbb a
+rendszerkzeli szoftverek rsra alkalmas, addig a Pascal a
+nyelvre jellemz ers szintaktika s egyb szigor programozsi
+szablyok miatt kifejezetten alkalmasabb a nagy mret
+alkalmazsok ksztsre, mivel sokkal knnyebb vele hibtlanul
+mkd programot rni. tlthatsga s knny mdosthatsga
+miatt is elszeretettel hasznlom. Tbb olyan szoftvert is rtam
+benne, amelyet tbb tucat ill. tbb szz ember hasznlt hiba
+nlkl, s erre klnsen bszke vagyok! Kevs program mondhatja
+el magrl, hogy mind a mai napig a felhasznlk kedvence,
+holott csaknem 15 ves s mg mindig DOS alatt fut - a
+ VzKzm programom azonban pl. egy ezek kzl!
+Tjkozdskppen itt egy rvid lista a fbb
+szoftver-fejlesztseimrl: 
+
+ Termszetes nyelv fordtrendszer kdmotorja, mely
+angol-nmet-magyar nyelv kztti tetszleges irny gpi
+fordtst tett lehetv (Az Akadmiai Kiad Rt -vel
+kzsen vgzett ksrleti projekt); 
+ VzKzm analitikus nyilvntart program a Belvz-,
+Csatornam s Belterleti Vzrendez Trsulatok szmra (kb. 150
+referencia orszgszerte); 
+ A szmtgp-vezrls ktgpek piacvezetje, a Shima
+Seiki cg tervezszoftvernek hazai adaptcija, PC-s
+portolsa; 
+ MP3 zenefjlok katalogizlsra, feldolgozsra,
+hiba-analzisre rt szoftvercsomag; 
+ SimField vgeselem-szoftver elektrosztatikus,
+elektromos s mgneses terek numerikus szmtsra (Lsd Vgeselem-analzis link.); 
+ Atommag-modellez grafikus szoftver (Ksrleti projekt.); az
+albbi kpen a 42-es rendszm, 97-es tmegszm molibdn-izotp
+szimulcija lthat Sindely Lszl atommag-elmlete
+szerint.

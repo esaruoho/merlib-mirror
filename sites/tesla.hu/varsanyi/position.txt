@@ -1,0 +1,66 @@
+Pepe's Pages: POSITION - Hordozhat kijelz inkrementlis jeladhoz 
+
+ POSITION - Hordozhat kijelz inkrementlis jeladhoz 
+
+A POSITION inkrementlis szgmr az inkrementlis
+rzkelkhz kszlt hordozhat, elemrl mkd nll kijelz
+kszlk, amely a berendezsek belltst, kimrst knnyti
+meg. A kszlk bekapcsolst kveten ki kell vlasztani a
+hasznlt inkrement alap-felbontst, amely 50-tl 2500-ig
+terjedhet, azaz minden szabvnyos inkrementet ismer a kszlk.
+Az els inkrement jelre a kszlk automatikusan relatv
+kijelzsre vlt, majd az els indexjel utn - amit egy piros LED
+is jelez - automatikusan abszolt kijelzsre tr t. Zld LED
+jelzi a relatv s abszolt kijelzsi mdot, amit a nyomgombbal
+vlthatunk, ill. jelzi a tl gyors mozgs miatti szmolsi
+hibt. A kijelzs brhol nullzhat, onnantl fogva az els
+indexjelig relatv elmozdulst jelez ki a kszlk. 
+
+A kszlk mretei: 123*70*28 mm. Hts oldaln egy ki-be
+kapcsol gombot s egy 5 plus n. "tuchel" ajzatot tartalmaz
+DIN 41524 szerinti rintkez-elrendezssel. Ells lapjn egy 4
+szmjegyes LED kijelzt, kt llapot kijelz LED-et s egy
+bellt nyomgombot tartalmaz. A doboz belsejben van az
+elemtart 4 db AA-s mret, LR6-os n. ceruzaelemhez.
+(Akkumultor ill. kls tplls nem hasznlhat, br ez utbbi
+opciknt megvalsthat.) Tartalmaz tovbb 3 bels bellt
+jumpert a hasznlt inkrement polaritsainak belltshoz. A
+kszlk alkalmas minden 5VDC-rl mkd inkrementlis jelad
+kezelsre, ill. kls tplls esetn akr 12-24VDC-rl mkd
+inkrementlis jeladk kezelsre is kpes, tovbb ugyanazzal a
+csatlakozval s interfsszel van elltva, mint a
+ XilMER . 
+
+ A POSITION hordozhat kijelz az albbi f jellemzkkel rendelkezik: 
+
+ 4 szmjegy, jl lthat piros LED kijelz az abszolt vagy
+relatv lpsszgek kirsra; 
+ Nyomgomb az inkrement felbontsnak belltshoz, ill.
+zem kzben a kijelzett rtk nullzshoz s a relatv
+zemmdba lpshez; 
+ Piros visszajelz LED az indexpozcin lls kijelzshez,
+zld LED az abszolt vagy relatv zemmd kijelzshez, ill. a
+tl gyors forgs miatt bekvetkez tvesztsi hiba
+kijelzshez; 
+ Digitlis (TTL) inkrementlis jelad bemenet, 5 VDC
+tpllssal, ksleltets-mentes digitlis zavarszrssel; bels
+4,7K &#87; -os felhz ellenllsval
+kzvetlenl fogadja a TTL s az NPN nyitott kollektoros (open
+collector) kimenet inkrementeket; kls alkatrszekkel alkalmas
+PNP, nagy feszltsg TTL (HVTTL/HTL) s differencilis (RS-422)
+kimenet ill. 12-24 VDC tpfeszltsg inkrementek jeleinek
+csatlakoztatsra is; 
+ 4+1 csatorns bemenetnek ksznheten az inkrementet
+ngyszeres felbontssal kezeli, mikzben a forgsirny-vltst
+s az alaphelyzetet is detektlja; 
+ Beptett elemtart 4 db AA mret LR6-os alkli elemhez,
+mely tbb rnyi folyamatos mkdst biztost; 
+ A kszlk befoglal mretei: 123*70*28 mm. Szne
+vilgosszrke, opcionlisan fekete. 
+
+ Tartozkok a POSITION hordozhat kijelzhz: 
+
+ POSITION hordozhat kijelz kszlk; 
+ Felhasznli kziknyv 
+
+ Vissza az elz oldalra!

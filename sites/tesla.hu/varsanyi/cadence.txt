@@ -1,0 +1,105 @@
+Pepe's Pages: CADENCE - Programozhat temez inkrementlis jeladhoz 
+
+ CADENCE - Programozhat temez inkrementlis jeladhoz 
+
+A CADENCE temez egy olyan - inkrementlis jeladt is
+kezelni kpes - vezrlkszlk, amely kpes bizonyos
+szghelyzetek elrsekor klnbz ramkrket ki-be kapcsolni.
+Az temez egy inkrement jeladt kezel maximum 2048-as
+alapfelbontssal, s annak jelei alapjn max. 16 teljesen
+fggetlen ramkrt tud vezrelni. Kifejezetten alkalmas Adams-
+s Minato-motorok vezrlsre, ill. brmely olyan motor,
+genertor vagy egyb forggp vezrlsre, amelynl bizonyos
+szgtartomnyokban kell tekercseket ki- ill. bekapcsolni.
+Kaszkdolhat a tbb csatorna elrshez, ill. PC-hez
+kapcsolhat a kapcsolsi program gyors cserjhez. Beptett
+inkrementlis jelad dekdert tartalmaz, teht a PC-s
+szoftverrel mint kijelz egysg is mkdik. Rendelkezik egy
+szinkron kimenettel, amellyel oszcilloszkpot vagy
+mrs-adatgyjt krtyt lehet indtani, vlaszthatan
+ciklusonknt vagy lpsenknt. Beptett idztje alapjn akr
+sajt maga is tudja lptetni a programot, teht fel tudja
+prgetni a motorokat ll helyzetbl is. 
+
+A CADENCE az Advantech ltal hasznlt 2*20 plus
+szalagkbeles csatlakoz kbel segtsgvel kapcsolhat brmely
+Advantech gyrtmny, vagy ahhoz hasonl felpts ISA vagy PCI
+buszos mrs-adatgyjt rendszerhez. (Az jabb, 68 plus,
+SCSI-II mret csatlakozval szerelt mrs-adatgyjt krtykhoz
+specilis adapterrel csatlakoztathat.) Sajt tpelltst nem
+tartalmaz, mert vagy a mrs-adatgyjt krtyrl, vagy pedig a
+vezrelt motor oldalrl kapja a tpfeszltsgt. (Opcionlisan
+persze brmely digitlis interfsz megoldhat, pl. akr EPP
+prhuzamos port is.) 
+
+A CADENCE ktfle kivitelben kszl: a RAM-ot tartalmaz
+verzi gyors program-vltoztatst tesz lehetv, azonban a
+trolt program kikapcsolskor trldik. A FLASH verzi nem
+felejt memrit tartalmaz, a belltott programja kikapcsols
+utn is megmarad. Htrnya a lassabb programozs, ill. az, hogy
+a programozsok szmt a FLASH memrik korltozzk, hiszen azok
+IC-tl fggen csak korltozott szmban programozhatk jra.
+Ezrt ez a verzi inkbb csak a mr jl belltott demonstrcis
+gpek mkdtetshez ajnlott. 
+
+A CADENCE rendelkezik egy kls trigger kimenettel is,
+amelyet az oszcilloszkp vagy a mrs-adatgyjt krtya trigger
+bemenetre lehet ktni. Oszcilloszkp esetn a ciklusonknti egy
+triggerjellel lehet ellenrizni a mkdst, mrs-adatgyjt
+krtya hasznlata esetn pedig a lpsenknti trigger lehetv
+teszi, hogy a mkdssel fzispontos szinkronban mrhessk a
+kszlk egyes pontjain bell zemi feszltsg- s
+ramviszonyokat. 
+
+A kszlk mretei: 123*70*28 mm. Hts oldaln 2*20 plus
+szalagkbel van kivezetve, ellapjn pedig 25 plus D-SUB
+anyacsatlakoz tallhat. Sajt tpelltst nem tartalmaz. 
+
+ A CADENCE az albbi f jellemzkkel rendelkezik: 
+
+ Digitlis (TTL) inkrementlis jelad bemenet, 5 VDC
+tpllssal, ksleltets-mentes digitlis zavarszrssel; bels
+4,7K &#87; -os felhz ellenllsval
+kzvetlenl fogadja a TTL s az NPN nyitott kollektoros (open
+collector) kimenet inkrementeket; kls alkatrszekkel alkalmas
+PNP, nagy feszltsg TTL (HVTTL/HTL) s differencilis (RS-422)
+kimenet ill. 12-24 VDC tpfeszltsg inkrementek jeleinek
+csatlakoztatsra is; 
+ 4+1 csatorns bemenetnek ksznheten az inkrementet
+ngyszeres felbontssal kezeli, mikzben a forgsirny-vltst
+s az alaphelyzetet is detektlja; 
+ 16 nagy ram TTL digitlis kimenet a kapcsolelemek
+meghajtsra, melyek max. 20 mA-es rammal terhelhetk, gy akr
+LED/optocsatol is meghajthat velk kzvetlenl; 
+ 1 db TTL szint kls trigger kimenet az oszcilloszkp vagy
+mrs-adatgyjt krtya kls trigger bemenethez; llthat
+mdon ciklusonknt vagy lpsenknt ad ki kimen jelet; 
+ A bemenetek/kimenetek foglalatban lv cserlhet levlaszt
+IC-kkel vannak kezelve, gy hibs bekts esetn csak azokat
+kell kicserlni; a kszlk vezrl IC-je nem krosodhat; 
+ 8 KiByte*16 bites bels nagy sebessg SRAM, ami
+opcionlisan FLASH memria is lehet; 
+ Beptett frekvenciaosztjval tetszleges lpsi sebessg
+bellthat automatikus zemben, ami lehetv teszi a
+csatlakoztatott forggp lass felprgetst, majd lland
+forgatst; 
+ Valdi 16 bites adattvitel az Advantech krtykon
+szabvnyostott 2*20 vonalas digitlis input-output porton
+keresztl; (Ms gyrtk hasonl cl interfszhez illeszts
+lehetsges.) 
+ Tpllsa vagy a szmtgp fell, vagy a 25 plus D-SUB
+anyacsatlakozjn keresztl trtnik; a 16+1 kimen csatorna
+mellett a +5 s +12 VDC tpfeszltsg is elrhet; 
+ A kszlk befoglal mretei: 123*70*28 mm. Szne
+vilgosszrke, opcionlisan fekete. 
+
+ Tartozkok a CADENCE programozhat temezhz: 
+
+ CADENCE programozhat temez modul; 
+ Felhasznli kziknyv; 
+ Programlemez a betlt-programoz programmal; 
+ 2 db 1,2 mteres 20 plus szalagkbel csatlakozkkal;
+100%-ig kompatibilis az Advantech PCL-10120 tpusszm
+kbelvel. 
+
+ Vissza az elz oldalra!
