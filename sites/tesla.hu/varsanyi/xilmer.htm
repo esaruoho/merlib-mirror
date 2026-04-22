@@ -1,0 +1,190 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+   <TITLE>Pepe's Pages: XilMER mobil - Hordozhat szgsebessg-mr rendszer</TITLE>
+   <META HTTP-EQUIV="Content-type" CONTENT="text/html; Charset=ISO-8859-2">
+   <META NAME="Author" CONTENT="Pepe">
+   <META NAME="language" CONTENT="hu">
+   <META NAME="description" CONTENT="Pepe's Pages">
+   <META NAME="keywords" CONTENT="Varsnyi Pter Varsnyi Pter Varsanyi Peter">
+   <META NAME="GENERATOR" CONTENT="Mozilla/3.01Gold (Win16; I) [Netscape]">
+</HEAD>
+<BODY>
+
+<P></P>
+<DIV ALIGN=center><P><FONT SIZE=+2><B>XilMER mobil</B> - Hordozhat szgsebessg-mr rendszer</FONT></P></DIV>
+<P></P>
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;
+A  <B>XilMER</B> mobil verzija egy hordozhat kivitel, elemrl
+vagy  kls  dugasz-tpegysgrl mkdtethet adatgyjt egysg,
+amely  alkalmas laptop vagy asztali szmtgpekkel trtn, nem
+nll  mrsre.  A  mrst  vezrl  program a szmtgpek EPP
+nyomtat portjt (ez minden jabb, legalbb Pentium processzoros
+szmtgpben    beptve    rendelkezsre   ll)   felhasznlva
+kommunikl az adatgyjtvel. </P>
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;
+A  kszlk  mretei:  123*70*39 mm. Hts oldaln tartalmaz egy
+szabvnyos    PC-s   nyomtat   csatlakozt   (sszekt   kbel
+mellkelve),  egy  2,5 mm-es DC tpfeszltsg-csatlakozt (kls
+tplls  esetn  6-9  VDC  / 300 mA a fogyaszts), s egy ki-be
+kapcsol  nyomgombot  visszajelz  LED-del.  Ellapjn  3  db 5
+plus   n.  "tuchel"  ajzatot  tartalmaz  DIN  41524  szerinti
+rintkez-elrendezssel. A doboz belsejben elemtart tallhat,
+amelyben   4   db  AA-s  mret,  LR6-os  n.  ceruzaelemmel  is
+tpllhat   a       kszlk  ill.  az  inkrementlis  jeladk.
+Akkumultor  azonban nem hasznlhat. A kszlk alkalmas minden
+5VDC-rl  mkd  inkrementlis  jelad  kezelsre,  ill. kls
+tplls  esetn akr 12-24 VDC-rl mkd inkrementlis jeladk
+kezelsre   is.   Egy   kszlk  max.  hrom,  index-csatorns
+inkrementlis jeladt tud kezelni.</P>
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;
+A  <B>XilMER</B>  egy  szabadon  programozhat  logikai ramkrt
+tartalmaz,    melyben    15    teljesen   fggetlen   hardverbl
+megvalstott  idpont-rgzt  trol  (time  capture register)
+van,  melyek  a  bemeneten  rkez  jelvltsok  bekvetkeztnek
+idejt  rendkvl  pontosan  s  hiba  nlkl  tudjk  mrni  s
+trolni,  amg a mrprogramot futtat szmtgp be nem olvassa
+a  memrijba az adatokat. Az ramkr bonyolultsgt jl jelzi,
+hogy tbb, mint 3500 elemi kapuramkrbl ll!</P>
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;
+Minden inkrementlis jelad 2 vagy 3 csatornval rendelkezik: Az
+<B><I>A</B></I>  s  <B><I>B</B></I> kimenet a forgs irnyt s
+sebessgt  hatrozza  meg,  mg  az  opcionlis <B><I>I</B></I>
+kimenet az inkrement egy adott alap-pozcijt definilja. Ettl
+a  ponttl  kell  elre  vagy  htrafel  szmolni az elforduls
+szgt. Mg az <B><I>I</B></I> kimeneten fordulatonknt egyetlen
+rvid  impulzus  jelenik  csak  meg, addig az <B><I>A</B></I> s
+<B><I>B</B></I>      kimeneteken   az  inkrement  alapfelbontsa
+szerinti   darabszm   alacsony  s  magas  szint  jelenik  meg
+egymshoz  kpest 90-os fziseltolssal az albbiak szerint:
+</P>
+
+<CENTER><P><IMG SRC="optosign.gif"></P></CENTER>
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;
+A  15 fggetlen bemenet 3 db 5-s csoportra van osztva, mely a 3
+inkrementhez   csatlakozik:  minden  inkrement  <B><I>A</B></I>,
+<B><I>B</B></I>  s  <B><I>I</B></I>  csatornjhoz tartozik egy
+<B><I>A</B></I>,     <B><I><U>A</B></I></U>,    <B><I>B</B></I>,
+<B><I><U>B</B></I></U>  s  egy <B><I>I</B></I> trol, melyeket
+sorban   <B><I>x1</B></I>,  <B><I>x2</B></I>,  <B><I>x3</B></I>,
+<B><I>x4</B></I>  ill.  <B><I>x5</B></I> csatorna-sorszm jell,
+ahol az <B><I>x</B></I> helyn az inkrementlis bemenet sorszma
+ll  1-tl  3-ig.  Az  <B><I>A</B></I> trol az <B><I>A</B></I>
+bemenet alacsony -> magas tmenetekor, az <B><I><U>A</B></I></U>
+trol  viszont  az  <B><I>A</B></I>  bemenet  magas -> alacsony
+tmenetekor  trolja el a jelvlts idpontjt, akrcsak a msik
+csatorna    esetben,   ahol   a   <B><I>B</B></I>   trol   az
+<B><I>B</B></I>   bemenet  alacsony  ->  magas  tmenetekor,  az
+<B><I><U>B</B></I></U>  trol viszont a <B><I>B</B></I> bemenet
+magas -> alacsony tmenetekor trolja el a jelvlts idpontjt.
+Az  <B><I>I</B></I>  bemenet esetben nincs jelentsge a pontos
+idpontnak,  ill.  a felfut vagy lefut irnynak; ezen csatorna
+esetben  pusztn  a  jel lte vagy nem lte hordoz informcit.
+Ezrt  elg  egy csatorna is a mrshez. A pontos idpont mrse
+csupn  azrt  trtnik  meg  mgis,  hogy  az  egyes  csatornk
+adatainak  sszefslse  sorn  az  index-pozci  a  megfelel
+helyre kerljn be.</P>
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;
+A  fentieknek megfelelen pl. a 2. szm inkrement elre forgsa
+esetn az albbi csatorna-szmokat fogjuk ltni: ... 21, 22, 23,
+24,  21,  22,  23, 24, 21 ... Htrafele forgs esetn pedig: ...
+21,  24,  23,  22,  21,  24,  23, 22, 21 ... A csatornk mellett
+megjelen  pontos idadatbl pedig rekonstrulni tudjuk az egyes
+llapotvltozsok   idejt,   s  ezzel  kiszmolhatv  vlik a
+tengely   szghelyzete,   forgsnak  irnya,  szgsebessge  s
+szggyorsulsa  mind  a hrom tengelyre kln-kln. Ebbl aztn
+mr  szmthatk  a  forgsi  energik,  a nyomatkok s az erk
+is.</P>
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;
+A <B>XilMER</B>, trolinak vges hossza miatt csak korltozott,
+rvid  idtartamokat tud mrni; ezen idk kiterjesztse cljbl
+felhasznlja  a mkdtet szmtgp sajt bels rjt is, s a
+kt  idadatbl  lltja el a vgleges, pontos idt. Ez a mrs
+elindtstl  szmtott  30  percig  mehet, teht maximum ilyen
+hossz  lehet idben egy mrs. Mivel a szmtgpek bels rja
+nha  igencsak  pontatlan, ezrt az idt minden esetben a XilMER
+sajt  rajele  ill. annak pontossga hatrozza meg. Ez a XilMER
+eredeti  rajel-genertorval  1  Hz-en  bell  pontos. A mrsi
+pontok   szma   a   szabad  memria  fggvnye,  kb.  60-70.000
+adatpontot   jelent   jelenleg,   azonban  kln  igny  alapjn
+termszetesen  korltlan  szm adatpont rgztse is megoldhat
+ugyanezzel  az  ramkrrel.  A  gyakorlatban azonban ennyi bven
+elg szokott lenni.</P>
+
+<U><P>A <B>XilMER</B> mobil verzija az albbi f jellemzkkel rendelkezik:</P></U>
+
+<UL>
+<LI>3 db teljesen fggetlen digitlis (TTL) inkrementlis jelad
+bemenet   5   VDC   tpllssal,   ksleltets-mentes  digitlis
+zavarszrssel;  bels  4,7 K<FONT FACE="Symbol">&#87;</FONT>-os
+felhz  ellenllsval  kzvetlenl  fogadja  a  TTL  s az NPN
+nyitott  kollektoros  (open  collector)  kimenet inkrementeket;
+kls   alkatrszekkel   alkalmas   PNP,  nagy  feszltsg  TTL
+(HVTTL/HTL)  s  differencilis (RS-422) kimenet ill. 12-24 VDC
+tpfeszltsg     inkrementek     jeleinek    csatlakoztatsra
+is;</LI>
+<LI>EPP   nagy   sebessg  prhuzamos  interfsz  asztali  vagy
+hordozhat     szmtgpekkel     trtn    sszektsre    s
+megszakts-kezelses  adattvitelre kb. 1MByte/sec adattviteli
+sebessggel;</LI>
+<LI>Inkrementenknti  4+1  csatorns bemenetnek ksznheten az
+inkrementeket  ngyszeres felbontssal kpes kezelni, mikzben a
+forgsirny-vltst s az alaphelyzetet is detektlja;</LI>
+<LI>Csatornnknt  akr  20  kHz-es  bemen frekvencia megfelel
+szoftverbelltsok esetn, ami pl. 360-as alaposzts inkrement
+esetn tbb, mint 3.000 RPM max. fordulatszmot jelent;</LI>
+<LI>Alapkiptsben    az    1   MHz-es   rajelvel   1   <FONT
+FACE="Symbol">&#109;</FONT>s-os     felbontssal     mri     az
+inkrement-jeleket;  az  rajel  ad IC cserjvel lehetsges 100
+ns-os (10 MHz) vagy akr 50 ns-os (20 MHz) felbonts is;</LI>
+<LI>Beptett  alacsony  vesztesg feszltsg-stabiliztor ill.
+elemtart   4  db  AA  mret  LR6-os  alkli  elemhez,  melynek
+segtsgvel  tbb  rnyi  mrs  is  lehetsges kls tplls
+nlkl;</LI>
+<LI>Kls  DC  tpfeszltsg-csatlakoz  min.  6 VDC stabilizlt
+vagy   min.   9   VDC   stabilizlatlan   bemen   feszltsgre.
+ramfelvtel  inkrementek  nlkl  kb. 80 mA, inkrementekkel 400
+mA;</LI>
+<LI>A  beptett  Xilinx  Spartan szabadon programozhat logikai
+ramkr   (FPGA)   tetszleges  egyb  mrstechnikai  feladatra
+tprogramozhat,  gy  az  ramkr  tbb  clra  is hasznlhat.
+Opcionlisan csatornnknt 4 bemenet, azaz sszesen 12 digitlis
+bemenet kezelhet ekkor;</LI>
+<LI>A   kszlk   befoglal   mretei:   123*70*39   mm.  Szne
+vilgosszrke, opcionlisan fekete.</LI>
+</UL></P>
+
+<TABLE CELLSPACING=0 BORDER=0 CELLPADDING=5 WIDTH="100%">
+<TR><TD WIDTH="50%" VALIGN="TOP">
+
+<U><P>Tartozkok a <B>XilMER</B> mobil verzijhoz:</P></U>
+
+<P><UL>
+<LI><B>XilMER</B> hordozhat szgsebessg-mr egysg;</LI>
+<LI>Felhasznli kziknyv;</LI>
+<LI>Programlemez a mrprogrammal ill. nhny mrs-kirtkelst
+segt   szoftverrel,   tovbb   a  legknnyebben  beszerezhet
+inkrementlis jeladk gyri adatlapjaival PDF formtumban;</LI>
+<LI>1,8 mteres nagy sebessg nyomtatkbel.</LI>
+</UL></P>
+
+</TD>
+<TD WIDTH="50%" VALIGN="TOP">
+<P><IMG SRC="xilmer.jpg" HEIGHT=192 WIDTH=256></P>
+</TD>
+</TR>
+</TABLE>
+
+<P><CENTER><IMG SRC="xilmer2.jpg" WIDTH="100%"></CENTER></P>
+
+<DIV ALIGN=right><P><A HREF="elado.htm">Vissza az elz oldalra!</A></DIV>
+
+</BODY>
+</HTML>

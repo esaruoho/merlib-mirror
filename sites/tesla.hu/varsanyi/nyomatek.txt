@@ -1,0 +1,431 @@
+Pepe's Pages: Dinamikus er- s nyomatkmrs: 
+
+ Dinamikus er- s nyomatkmrs: 
+
+Mrseim sorn tkztem abba a problmba, hogy dinamikus erket
+kellett volna nagyon pontosan mrnem. Br az ermrs
+megoldsra a mrstechnika rgta ismeri a nylsmr
+blyegeket, mint trivilis megoldst, azonban ezeknek szmtalan,
+kezdk szmra ismeretlen nehzsgk ill. htrnyuk van az
+albbiak szerint: 
+
+ A nylsmr talaktk problmi: 
+
+Elszr is a nylsmr blyeg nylst mr, nem pedig grblst
+- ki gondolta volna! Ez csak azrt rdekes, mert nem gy
+mreteznk nylsmr blyeghez alaptestet, hogy sacc/kb.
+vesznk egy aclrudat, hanem egy hasbot kell olyan mdon
+megmunklni, hogy azon legyen egy adott szakasz, ahol a folysi
+hatr alatti a hzer - s tisztn csak hzer van! -, tovbb
+a fellp nyls sszhangban van a nylsmr blyegre meg
+adott rtkkel. Ez jellemzen tizedmillimteres megmunklst
+ignyel. (Persze a mindenki ltal ismert szaktgpen trtn
+tiszta nylsmrs esetn nincsen hajlt er; de a gyakorlatban
+ez az egyetlen ilyen eset...) 
+
+De mirt olyan lnyeges a tisztn hzer, ha egyszer a hajlts
+is hzs? Hiszen minden hajltott testnek van hzott s nyomott
+oldala... Csakhogy mg a hz- s nyomer lland a hossz
+mentn, addig a hajltnyomatk L-tl fgg: a tmadspontban
+M=0, a talppontban M=max., a kett kztt meg folyamatosan
+vltozik. Ebbl addan a hzott s nyomott oldal feszltsgei
+is vltoznak a tvolsggal. Az mg a kisebbik baj, hogy a blyeg
+kt vge nem lesz azonos mrtkben hzva, s gy nem lesz
+lineris; a nagyobbik baj, hogy az alaptestek mrete nha alig
+prszorosa a blyeg hossznak, gy akr 20%-os
+nyls-klnbsgek is lehetnek a blyeg kt vge kztt. Ha
+pedig az alaptest kt oldaln nem pontosan egy magassgban
+vannak a blyegek, akkor mg az is plusz hibt visz be. Pontosan
+ezrt csinljk a specilis megmunkls alaptesteket, ahol
+ilyen hiba nem fordulhat el, mert a blyeg egyenletesen van
+hzva teljes hosszon. 
+
+Jellemz hiba tovbb, amikor hajltssal ksztik el az
+alaptestet; ebben az esetben az anyagban marad feszltsg a
+mechanikai ill. a hhatsokra, vagy egyszeren csak az id
+elteltvel elkezd lassan kiegyenltdni, s szpen lassan
+magtl elhzza a blyegek kimen jelt, pl. minden egyes mrs
+utn egy kicsivel odbb kerl a nullpont. Ezrt kell forgcsols
+utn hkezelt anyagbl kszteni az alaptestet. 
+
+A nylsmr blyeg felragasztst is lehet pl.
+pillanatragasztval vgezni, ami garantlt mdja a
+hasznavehetetlenn ttelnek! Az alaptest nylst ugyanis a
+ragasztnak t kell tudnia vinnie kszs s trs nlkl. Egy
+tlagos pillanatragaszt merev, erhatsra trik, a tbbi meg
+kszik, azaz lland F er hatsra mgis cskken nylst mr a
+blyeg. Teht egyrszt specilis ragaszt kell hozz, msrszt
+az alaptest fellett is megfelelen el kell kszteni
+ragaszts eltt. A rugalmas, de elektromosan rnykol
+kivezetsek megfelel elksztse sem a legegyszerbb. 
+
+Gondolni kell arra is, hogy a nylsmr blyeg is egy rzkel,
+melynek van egy rzkelsi hatra, ami felett elhangoldik vagy
+elromlik. A nylsmr blyeg klnsen rzkeny ilyen
+szempontbl: egy ts, egy nagyobb rnts elg ahhoz, hogy a
+blyegben hajszlrepedsek alakuljanak ki, s onnantl mris
+mst mr. Vagy mechanikailag kell hatrolni a mozgst, hogy ne
+lphessen fel tlterhels, vagy pedig rendszeresen ellenrz
+mrsekkel kell ellenrizni az rzkelt, hogy pontosan mr-e.
+Ugyancsak vdeni kell a karcoldstl, nedvessgtl, portl,
+htl s minden egyb krost behatstl. 
+
+Ezek utn nem vletlen, hogy egy adott ertartomnyra mretezett
+alaptestet a 4 db nylsmr blyeggel - ami anyagron alig
+prezer forint - gy 100.000,- Ft-tl kezdik rulni. s ez mg
+csak az rzkel! 
+
+ A nylsmr hidak mrtalaktinak problmi: 
+
+Aztn ott az elektronika is: cirka 10-30 mV-os jel jn le a
+hdrl, amit persze stabilizlt tppal kell tpllni. Csakhogy
+egy tlagos tpban lv zaj kb. 1-2 mV, szinte semmi, ugye? De
+10 mV mellett mr kicsit sok! Ezrt sem szoks egy blyeget
+hasznlni, de mg 4 db hdba kapcsolt blyegnl is bezavar nha.
+No meg ki hiszi azt nagy naivan, hogy a 4 db blyeg
+hajszlpontosan azonos ellenlls? Elrulom: ltalban 10 db
+van egy csomagban, s br sszevlogatottak, mgis keresni kell
+azonos rtk procskkat, hogy kis erknl is jl dolgozhasson.
+
+Zavarszrsrl mr nem is beszlek; ltalban 4 Hz-nl illik
+vgni, ha nem EKG-t vagy falba rejtett vezetkek feldertsre
+alkalmas kszlket akarunk, ugyanis a mrerstnek 333 vagy
+1000-szeres a szoksos erstse, azaz a legkisebb rdihullmot
+ill. elektromos zavart is ilyen mrtkben ersti fel. Egy sz,
+mint szz, n a szintn olyan 80-120 ezer Ft kztti ron adott
+zavarvdett nylsmr talakt moduloknl ktttem ki. 
+
+Termszetesen lteznek nagyobb hatrfrekvencij mrerstk
+is; 10 ill. 20 kHz szokott lenni a kvetkez szabvnyos rtk.
+Azonban ezeket nem tisztn ermrsre, hanem rezgs- s
+zajmrsre szoks hasznlni. Ebben az esetben a kapott jelek
+spektrumt vizsgljk FFT-vel. Itt mr nem lnyeges az
+ofszet-kompenzls, hiszen az alapjel eltoldsa egy FFT utn
+gyis lnyegtelenn vlik. 
+
+gy azt lthatjuk, hogy 4 Hz felett tulajdonkppen nem tudunk
+dinamikusan erket mrni! A nylsmr blyeget ugyanis fkpp
+mrlegcellkba s rezgsmrsre ajnljk. A mrlegcella s az
+ermrs nem ugyanaz; egy test slya ugyanis nem vltozik, mert
+a gravitci lland; az er viszont jellemzen dinamikus dolog.
+Mrpedig nagyon kevs olyan mreszkz van, ami ugyanazt mri
+statikusan, mint dinamikusan. Mrlegcella esetben is jellemzen
+tbb tucat mrsi pont tlagbl szmolnak eredmnyt, a sima RC
+szrs ugyanis ugyangy alkalmatlan szokott lenni az
+tlagolsra, ahogy valdi effektv rtket sem lehet mrni egy
+jelbl ilyen mdszerrel. Teht a nylsmr blyeges
+mrrendszerekre megadott pl. 30 mrs/sec nem azt jelenti, hogy
+30 ert mrhetek le msodpercenknt, hanem inkbb azt, hogy egy
+ert 30-szor mrhetek le msodpercenknt, hogy abbl tlagot
+szmoljak. Ez mr valban megfelelen pontos lesz, ha a blyeg,
+a ragaszt, ill. a kls krlmnyek megfelelek. Ugyanez az
+eset, ha tartly/hd/szaktgp/stb. adott pontjn lv, kzel
+lland ert kell mrni. Ide tnyleg szuper! 
+
+ A nyomatkmrs problmi: 
+
+Tengelyek nyomatknak a mrse mg problmsabb: a mrend
+nyomatkot tovbbt tengelybe be kell iktatni egy kzdarabot,
+azaz a kt vgn valahogy ssze kell kapcsolni kt tengelyt
+egy-egy tengelykapcsolval. Ez lehet persze merev kts is, de
+ltalban rugalmas a kapcsolat, hiszen nagyon nehz az
+egytengelysget biztostani, klnsen nagyobb sly gpek
+esetben. Ekkor viszont ktelez a kt oldalon a csapgyas
+altmaszts, megvezets. Ez rgtn mr egy nagy kltsg, hiszen
+jelents talaktsokkal jr. 
+
+A nylsmr blyegekhez valahogy oda kell vezetni a hidat
+gerjeszt feszltsget, ill. a mrt jelet el kell onnan vinni.
+Tekintettel ez utbbi nagyon alacsony rtkre, ltalban az
+egsz mr-talaktt a tengelyre rakjk, amely egy induktv
+csatoltekercsen keresztl kapja a tpll villamos energit, s
+egy msik tekercsen keresztl pedig pl. egy
+feszltsg-frekvencia konverzi utn nagyfrekvencis jelek
+formjban kldi vissza a mrt nyomatkkal arnyos jelet. 
+
+Ez bonyolultsgban bven indokolja, hogy egy ilyen forg
+nyomatkmr modul jonnan akr 1-1,5 milli Ft-ba is bele
+szokott kerlni, de a legolcsbb pldnyai is jcskn 300.000,-
+Ft krl kezddnek. 
+
+ A mrt jel digitalizlsnak problmi: 
+
+Vgezetl nem szabad arrl sem elfeledkezni, hogy ez mg csak
+egy analg jel, amit mg digitalizlni kell, hiszen a mrsi
+adatokbl az esetek tbbsgben csak tovbbi szmtsok sorn
+lehet azokat a keresett eredmnyeket ellltani, melyek
+megszerzse rdekben a mrst elvgeztk. A digitalizls az
+esetek zmben 12 bites felbontssal trtnik, ami kzvetlen
+megjelentsre bsgesen elg, azonban pl. egy 12 biten
+digitalizlt jelen mr csak klnbz simtsok utn lehet pl.
+derivltat szmolni; a 2. derivlt kiszmtsa pedig ltalban
+csak elg pontatlanul szokott sikerlni; mr csak azrt is, mert
+a digitalizls sorn is tovbbi zajok ill.
+kvantlsi-linearitsi hibk kerlnek bele a mrsbe a
+digitalizls elvi mkdsbl addan. Gyakori problma
+tovbb, hogy a statikus feszltsgek miatt a mrt jelet
+galvanikusan is el kell vlasztani a mrsi clra szolgl
+szmtgptl, mert a klnben kialakul fldhurkok sokszor
+lehetetlenn teszik a mrst. Mrpedig egy analg jel galvanikus
+levlasztsa nem csak drga, de sajnos sokszor tovbbi
+linearitsi/pontossgi hibk forrsa is szokott lenni. 
+
+ A digitlis er/nyomatk-mrs fizikai alapjai: 
+
+Ezek utn azt hiszem, mindenki ltja s rti, mirt is
+klnleges s nehz feladat a dinamikus er- s nyomatkmrs.
+Szerencsre erre a problmra knl olcs s pontos megoldst az
+ltalam kidolgozott s vek ta sikerrel alkalmazott tisztn
+digitlis alap dinamikus ermrs . Ennek mkdse azonban
+nmi fizikai ismeretet ignyel, melyet megprblok az
+albbiakban rviden levezetni kln a lineris, s kln a
+forgmozgsokra. Az erre s a nyomatkra az albbi kpleteket
+lehet felrni Newton trvnyei alapjn: 
+
+ ahol: 
+ F - a mrni kvnt er, 
+ m - a rendszer tmege, 
+ a - a rendszer gyorsulsa, 
+ v - a rendszer sebessge, 
+ s - a rendszer ltal megtett t. 
+
+ ahol: 
+ M - a mrni kvnt nyomatk, 
+ &#81; - a rendszer tehetetlensge, 
+ &#98; - a rendszer szggyorsulsa, 
+ &#119; - a rendszer szgsebessge, 
+ &#106; - a rendszer szgelfordulsa. 
+
+A fentiekbl lthat, hogy mg az ermrs visszavezethet egy
+fix tmeg megmrsre, s egy t-id sszefggs mrsre, addig
+a nyomatkmrs esetben egy szintn fix, geometria ltal
+meghatrozott tehetetlensgi tnyezbl, s egy szg-id
+sszefggs mrsbl ll a feladat. (A tehetetlensgi tnyez
+egyrszt jl szmolhat; tbb tervezprogram is kpes ezt a
+pusztn a srsgi s a geometriai adatokbl kiszmtani;
+msrszt pedig a ksbbiekben majd mutatok egy egyszer mdszert
+ennek megmrsre.) 
+
+A folyamatos technikai haladsnak ksznheten az utbbi vekben
+nagyon pontos s olcs inkrementlis jeladkat lehet vsrolni.
+A legolcsbb, mrsi clra is alkalmas inkrementlis forgjelad
+mr 10.000,- Ft-tl kaphat, mg lineris tmr eszkzket
+akr egy beszradt fvkj bontott tintasugaras nyomtatbl is
+ki lehet termelni. Ezek az inkrementlis jeladk tulajdonkppen
+egyben kpesek megvalstani a teljes rzkel egysget, hiszen
+egyszerre adnak ki az tra/szgelfordulsra jellemz adatot,
+ill. idadatot, amelyek alapjn megfelel mreszkzzel a
+korbban ismertetett Newton-kpletek 3. verzija alapjn azonnal
+szmthat a mrni kvnt er/nyomatk. 
+
+ A digitlis er/nyomatk-mrsek elnyei: 
+
+Nagy elnye a tisztn digitlis er/nyomatk-mrsnek, hogy: 
+
+ Semmifle talaktst nem kvn a mrend rendszeren, csak
+egy inkrementlis jelad - akr ideiglenes - csatlakoztatst
+ignyli egy tengelyvghez vagy a mozg test vghez; 
+ Nem kell er- vagy nyomatkmr kzdarabot beiktatni a
+mrshez, teht elmaradnak a drga mechanikai elkszt munkk,
+a felfggesztsek s tengelykapcsolk elksztse; 
+ Az inkrementlis jeladk optikai alap mkdsbl addan a
+mrs teljessggel rints nlkl trtnik; a mrt rendszer s a
+mrrendszer teljes elklnlse akr szemmel is jl lthat. Ez
+klnsen ott lnyeges, ahol pl. 100% feletti hatsfokok
+bizonytsa a cl; 
+ A mrend er/nyomatk nagysgtl fggen nem kell
+klnbz rzkenysg mrfejeket vsrolni, hanem egyetlen
+inkrementlis jeladval lemrhet minden, amely radsul minimum
+1 nagysgrenddel olcsbb, mint a kaphat legolcsbb ermr
+cella; 
+ A mrfej - mr-talakt - digitalizl rendszer
+sszrhoz kpest egy digitlis ermr rendszer rzkelvel s
+mr-digitalizl egysggel akr annak tizedbl-huszadbl is
+kijhet; radsul ezek mindegyike hordozhat, nem ignyli a
+mrend rendszerbe trtn fix beptst; 
+ A mrt eredmnyek azonnal digitlis formba kerlnek; az gy
+elrt digitlis felbonts sok esetben tbb nagysgrenddel
+pontosabb, mint egy szoksos 12 bites digitalizlssal nyert
+rtk. A kapott eredmny alkalmas lehet akr a 2.-3. derivlt
+zajmentes kiszmtsra is; 
+ A mrs abszolt rtkben mindig pontos, nem kell kln
+kalibrlni, hiszen olyan alapadatokra tmaszkodik, amelyek
+geometriailag vannak definilva: a tmeg ill. a tehetlensgi
+tnyez a geometriai mretekbl, a megtett t az inkrementlis
+jelad gyrtsa sorn kialaktott felbontsbl, az id pedig
+kvarcvezrelt rajelbl szrmazik; 
+ Tlterhelsbl, tlfeszltsgbl, mechanikai behatsokbl
+addan sem a mrrzkel, sem a mr-talakt nem tud
+meghibsodni, ellltdni; gy nem ignyel idszakonknti
+ellenrz-kalibrl mrseket; 
+ A klnfle mrsi mdszerek kztt van olyan megolds is,
+amely az er/nyomatk rtkt nem csak egy munkapontban, hanem
+akr egy sor munkapontban kpes rgzteni egyetlenegy mrs
+adatai alapjn; teht nem kell kln mrs-sorozatokat vgezni,
+hanem elg egyetlen, pr msodperces mrst csinlni; 
+ A mrsi "sebessg" az alkalmazott inkrementlis jelad
+felbontstl fgg; gy akr 1-10 kHz-es er/nyomatk-vltozsi
+kilengseket is mrni lehet vele; 
+ A mrs idtartama ltalban pr msodperc csupn, nem kell
+llandsult zemllapot ill. fordulatszm bellsra vrni a
+kellen zajmentes mrshez. 
+
+A mrrendszer mkdst az albbi mdon kell elkpzelni: a
+mrs lelke egy XilMER fantzianevet kapott mreszkz,
+melyet az Elad kszlkek link alatt
+rszletesen be fogok mutatni. A XilMER -nek tbbfle
+kivitele is van; ltalban 3 db teljesen fggetlen inkrementlis
+jeladt kpesek kezelni oly mdon, hogy egyszerre troljk el az
+inkrementlis jelad ltal kiadott helyzet-informcit a hozz
+tartoz pillanatnyi idadattal egytt. A mrs vgn ezek az
+adatok egy - EXCEL-be is beolvashat - szvegfjlba kerlnek, de
+termszetesen kln kirtkel programokat is lehet hozz
+hasznlni. A mrsi fjl tartalmazza az inkrementlis jeladktl
+rkez csatornajeleket s a hozzjuk tartoz abszolt idt. A
+csatornajelekbl nem csak a megtett tvolsg/szgelforduls
+szmthat, hanem a mozgs irnynak tetszleges szm
+megfordulsa, megllsa, ill. indexjel alkalmazsa esetn egy
+kitntetett index-pozcin trtn thaladsa is. Ebbl a mozgs
+geometriai plyja knnyen rekonstrulhat. A jelekhez kapcsolt
+idadatok alapjn pedig az egyes elemi szakaszokon vgbemen
+mozgs sebessge is kiszmolhat; ebbl pedig a (szg)gyorsuls
+mr szmthat. 
+
+A mrsnek tbbfle elvi megoldsa is lehet; nhnyat
+pldakppen bemutatok belle azzal a megjegyzssel, hogy mint a
+rendszer kifejlesztje s tbb ves tapasztalattal rendelkez
+aktv felhasznlja, szinte minden ltez mrstechnikai
+problmra van mr kidolgozott s kiprblt mrsi elrendezsem.
+gy nagyon szvesen segtek brkinek, aki ilyen vagy olyan
+specilis eset megoldsra keres mrsi elrendezst. Krem
+hvjanak fel vagy keressenek meg szemlyesen! 
+
+ Mrsi plda: lktet nyomatk tengely mrse: 
+
+A mrs legegyszerbb formjban egy lktet terhels tengely
+nyomatkt kell mrni. Ehhez nem kell mst tenni, mint a tengely
+egyik vgre csatlakoztatni egy inkrementlis forgjeladt, majd
+a mrs kzzel trtn elindtsa utn a meghajtst kikapcsolva,
+pr fordulat megttele utn lelltani a mrst. Ezt kveten az
+inkrementlis jelad indexjelei alapjn ki kell vlasztani egy
+teljes fordulatot, melyre ezek utn mr ki lehet szmolni a
+szgsebessget s a szggyorsulst a szghelyzet fggvnyben.
+
+Mr csak egyetlen egy adat hinyzik, ez pedig a rendszer
+tehetetlensgi tnyezje. Ezt az albbi cseles mrssel lehet
+kimrni, ha a kiszmolshoz nem llnak rendelkezsre a
+szksges adatok. (Megjegyzem, ltalban minden gyrilag
+kszlt forggpre megadjk a tehetetlensgi tnyez rtkt,
+mr csak azrt is, mert a berendezs bekapcsolsakor a felprgs
+sebessgt s annak tbblet-energiaignyt csak ez alapjn lehet
+kiszmolni. Az ms dolog, hogy ezt az adatot a gpek
+adattbljn ltalban nem tntetik fel, csak a mellkelt
+dokumentciban.) 
+
+A tehetetlensgi tnyez kimrshez a berendezst lehetleg
+terhelsmentes llapotba kell hozni, ha megoldhat, pl. egy
+kalapcsos darlnl el kell zrni a beml nylst. Vrjuk meg,
+amg a rendszer kzel egyenletes sebessggel megy. Ennek pontos
+rtke azonban lnyegtelen. Indtsunk el egy kalibrl mrst,
+majd rgtn utna kapcsoljuk ki a meghajtst, mire a rendszer a
+sajt srldsi egytthatjtl fgg mrtkben elkezd lassulni.
+Ebbl mrjnk le annyit, amennyit tudunk. 
+
+Ezek utn a rendszer tengelyre fel kell tenni egy olyan sima
+ballaszt fmtrcst, amelynek a tehetetlensgi tnyezjt jl ki
+tudjuk szmolni. Ennek legegyszerbb esete egy kzpen lyukas
+korong, amelynek a szmtsi kplete a kvetkez: 
+
+ ahol: 
+ &#81; - a keresett tehetetlensgi tnyez; 
+ m - a ballaszt lendkerk tmege; 
+ r - a bels furat tmrje; 
+ R - a korong kls tmrje. 
+
+A felfogats legegyszerbb helye ltalban a meghajt motor
+vgn lv htventilltor; a vdrcs eltvoltsa utn a
+htventilltor helyre lehet a legknnyebben felrakni a
+ballaszt trcst. A rgzts nem kritikus; az sem problma, ha a
+motor bekapcsolsakor netn megcsszik a trcsa. A lnyeg az,
+hogy a motor kikapcsolsakor a trcsa ne cssszon meg a lassan
+lassul tengelyvgen. 
+
+A ballaszt-trcsa felhelyezse utn a mrend rendszert jra
+bekapcsoljuk egy pr msodperces idre, az zemi fordulatszm
+elrsekor a mrrendszert ismt elindtjuk, majd rgtn utna a
+meghajtst ismtelten kikapcsoljuk. A rendszer a sajt srldsi
+egytthatjtl fgg mrtkben elkezd lassulni, ez alkalommal
+azonban a ballasztnyi rtkkel megnvelt tehetetlensgi
+tnyezjbl addan lassabban. Ebbl is mrjnk le annyit,
+amennyit tudunk. 
+
+Ezek utn rtkeljk ki a kt kalibrl mrst szgsebessgre,
+majd keressnk egy olyan tetszleges szgsebessg-rtket, amely
+mind a kt grbn egy nyugodt jrs, rezonancia-mentes
+lassulsi llapotban van. Ebben a pontban szmoljuk ki a
+pillanatnyi szglassuls rtkt. gy teht van egy &#98; 1 s egy &#98; 2 rtknk,
+melyekhez azonos fordulatszm mellett igen pontosan azonos
+kzs, ismeretlen M fkez nyomatk tartozik. Ez gy
+lehetsges, hogy az els esetben csak egy &#81; rendszer rtk
+tehetetlensgi tnyeznk volt, mg a msodik esetben ezt egy
+ &#81; ballaszt 
+rtk tehetetlensgi tnyez megnvelte. Ezek alapjn
+felrhatjuk, hogy: 
+
+ , 
+ trendezve: 
+ . 
+
+Ezzel mr meg is hatroztuk a rendszer sajt tehetetlensgi
+tnyezjt, amellyel a legels mrsben felvett grbe
+szggyorsuls rtkt megszorozva mris kzvetlenl a keresett
+nyomatk rtkt kapjuk a szghelyzet fggvnyben. A mrs mr
+ksz is! Amennyiben nem csak a terhels nyomatkra vagyunk
+kvncsiak, hanem az egsz hajtott rendszer ered nyomatkra,
+akkor egy 4. mrst gy vgezznk el, hogy a meghajtst nem
+kapcsoljuk ki a mrs kzben. Ez esetben a pillanatnyi
+szggyorsulst a terhel ill. hajt nyomatk klnbsge fogja
+eredmnyezni. Ha az gy kapott egyenslyi szg szerinti
+nyomatki grbbl kivonjuk a meghajts kikapcsolsa
+pillanatban mrt nyomatki grbt, akkor megkapjuk a
+rendszernek a hajtm ltal a felvett energia hatsra produklt
+szg szerinti nyomatki grbjt. 
+
+ Mrsi plda: tzijtk-rakta tolerejnek mrse: 
+
+A raktt egy olyan megvezet rendszerre szereljk, amit kt
+rug tart kzphelyzetben, s melynek elmozdulst egy lineris
+inkrementlis rzkel rzkeli. Indexpozci alkalmazsa nem
+szksges, helyette inkbb a rakta elektromos
+gyjtberendezsnek jelt clszer bektni, hogy a rakta gsi
+idejt pontosan tudjuk mrni. A mrs elejn a mrrendszert
+elindtva a rakta llvnyt egy ismert ervel lassan
+megterheljk, pl. egy csign t lelgatott kalibrlt slyra hat
+ervel. A mrst lelltva, megnzzk, mennyi volt az
+llandsult kitrs az inkrementlis jelad szerint, azaz
+felvettk a ruger/elmozduls F/s konstanst. 
+
+Ezek utn a rendszert nyugalomban hagyva elindtjuk a
+mrrendszert, majd aktivljuk az elektromos gyjtst. A
+begyjtott rakta vltoz erssg tolert gerjeszt, ami a
+megvezetst a rugk erejnek ellenben elre-htra mozgatja,
+amit az inkrementlis jelad folyamatosan rzkel. A rakta
+kigse utn a mrst lelltjuk. Az inkrementlis jelad
+csatornajelei alapjn a megvezet rendszer id szerinti
+elmozdulst kzvetlenl megkapjuk; ha ezt az elmozdulst
+megszorozzuk a korbban felvett ruger/elmozduls konstanssal,
+akkor pedig az gsi id s a toler grbjt kapjuk meg. 
+
+Termszetesen ez esetben figyelmen kvl hagytuk, hogy a
+megvezet rendszernek ill. a raktnak is van sajt tmege, gy
+impulzusa, tehetetlensge is lesz. Ezrt ha pontosabb mrsi
+eredmnyeket szeretnnk, akkor egyrszt le kell mrni a rakta
+kezdeti s a kigett tmegt - hiszen a rakta tmege, gy a
+tehetetlensge is az gs sorn folyamatosan cskken -, msrszt
+le kell mrni a megvezet rendszer mozg rszeinek ssztmegt
+is. A korbbi mrsben mrt adatokbl ezek utn ki kell
+szmtani az er hatsra bekvetkez elmozdulsok pillanatnyi
+sebessgt s gyorsulst; ezek utn a vltoz, de ismert tmeg
+s a mrt gyorsuls alapjn a korbban kiszmolt statikus
+erkhz egy gyorsulsokbl-lassulsokbl s vltoz tmegbl
+add plusz dinamikus er is hozzaddik ill. levondik.

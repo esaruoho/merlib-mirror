@@ -1,0 +1,51 @@
+A Tesla intelligensebbé tette önvezető szoftverét 
+
+ 3 months ago 
+
+ A Tesla intelligensebbé tette önvezető szoftverét 
+
+ Az Autopilot mostantól felismeri a STOP jelzéseket és a közlekedési lámpákat is. 
+
+ Az önvezető módra vonatkozó legújabb frissítést április közepén terjesztette ki a Tesla kifejezetten az ún. Early Access Program tagjainak, ám a hónap vége felé minden tulajdonos számára elérhetővé vált . 
+
+ Teslásoknak: ha olyan Teslád van, amely a legújabb hardverrel (hardware 3) rendelkezik, amelyben a teljes értékű önvezető funkció is szerepel, akkor autód felismeri a közúti jelzőlámpákat, illetve a STOP táblákat. Az újítás hivatalosan a 2020.06.12-ei szoftverfrissítés része. Azt mindenképp ki kell hangsúlyoznom, hogy a frissítés egyelőre csak az Egyesült Államok Tesla tulajdonosainak lesznek elérhetők, más piacokon erre még néhány hónapot előreláthatólag várni kell! Ennek ellenére egy angol YouTuber srác által készített videón úgy fest, az Egyesült Királyságba is megérkezett a Tesla friss funkciója: 
+
+ A frissítés magától értetődő módon működik, be kell hozzá kapcsolni a navigációt, hogy felismerje a táblákat, jelzéseket. Önvezető módban az autó miután felismerte az adott táblát vagy jelzést, annak megfelelően cselekszik, így ha például STOP táblát észlel, a Tesla megáll. A járművezetőnek továbbra sem szabad hátradőlnie és tétlenül élvezni az utazást, míg a Tesla magától teszi a dolgát. Épp ellenkezőleg, a Tesla megerősítést vár a vezetőtől, hogy az útkereszteződés biztonságos, akár a sebességváltón kapcsolva, akár a gázpedál megnyomásával. 
+
+ A funkció pontos neve „Stopping at Traffic Lights and Stop Signs”. A felhasználói utasításban a Tesla természetesen kitér arra, hogy ez még csak egy béta állapotú funkció, ami azt jelenti, hogy működéskor a sofőrnek folyamatosan figyelnie kell. Kihangsúlyoztak bizonyos eseteket is, melyeknél nem működik a funkció: vasúti átkelők, behajtani tilos zónák, útdíjfizető kapuk, gyalogátkelő helyek, valamint átmenetileg telepített jelzőlámpák például építkezések és útfelújítások esetében. 
+
+ Amennyiben a gyártónak sikerül tovább fejlesztenie ezt a funkciót, hogy még a fent említett esetekben is működőképes lehessen, akkor kérem szépen szinte teljes autonóm vezetésről lehet majd szó! 
+
+ Forrás: 
+
+ InsideEVs 
+
+ 4 hours 54 min 
+ Már Tesla erőforrás hajtja Johnny Cash régi Rolls-Royce modelljét 
+ Egy klasszikus luxuscirkáló, 100 százalék Tesla meghajtással. 
+
+ 1 day 8 hours 
+ Ötösre vizsgázott egy Tesla Model S éles törésteszten 
+ Egy kamion szinte darabokra tépte az autót, az utasok apróbb sérülésekkel megúszták. 
+
+ 2 days 6 hours 
+ McLaren-verő Model 3-ast készített az Unplugged Performance 
+ A Teslák tuningolására szakosodott cég kihozza a maximumot az EV-ből. 
+
+ Model 3 Model S Model X Model Y Roadster 
+
+ © 2019-2020 MAHZRT 
+
+ Modellek 
+
+ Model 3 Model S Model X Model Y Roadster 
+ Szolgáltatásaink 
+ Tesla hírek 
+ Tesla márkatörténet 
+ Gy.i.k. 
+ TAO támogatás 
+ Nagycsaládos támogatás 
+ Tesla Model S élményvezetés 
+ Kapcsolat 
+
+ Model 3 Model S Model X Model Y Roadster

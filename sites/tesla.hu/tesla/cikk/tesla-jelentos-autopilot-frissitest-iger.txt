@@ -1,0 +1,57 @@
+A Tesla jelentős Autopilot frissítést ígér 
+
+ 3 weeks ago 
+
+ A Tesla jelentős Autopilot frissítést ígér 
+
+ Elon Musk szerint a teljesen önvezető funkció már majdnem elkészült. 
+
+ A Tesla folyamatosan újabb és újabb funkciókkal bővíti semi-autonomous, vagyis félig önvezető Autopilot szoftvercsomagját. Ennek a területnek a fejlesztésében az amerikai cég jóval előrébb jár és sokkal aktívabb szerepet vállal, mint a versenytársai. Egy friss Twitter beszélgetésnek köszönhetően pedig most már azt is tudni lehet, mire számíthatunk a következő, néhány hónapon belül érkező szoftverfrissítés kapcsán. 
+
+ Július 20-án, hétfőn, a Whole Marc Catalog blog Twitteren tette fel a kérdést Elon Musknak, a Tesla vezetőjének, vajon mikorra várható, hogy az Autopilot képes lesz saját maga végrehajtani a sávváltásokat városi környezetben. Autópályán a rendszer bár korlátozottan, de már régóta képes a sofőr beavatkozása nélkül sávot váltani. Ám a városok utcáin lényegesen összetettebb feladatot jelent a manőver végrehajtása, mivel sokkal több akadályt kell figyelnie és számításba vennie a rendszernek. Így eddig ez a funkció még nem volt elérhető. Ám a legfrissebb hírek szerint már nem kell rá sokat várni. 
+
+ Musk válaszából kiderül, hogy a funkció néhány hónapon belül már elérhető lesz. 
+
+ Tulajdonképpen Musk elárulta, hogy a Tesla jelenlegi szoftverének alfa verziója már most is képes egyedül végrehajtani a sávváltásokat a városban. Ezen kívül a vállalat értékes adatokhoz jut a már forgalomban lévő S, X, Y és 3 -as modelljei révén, melyeket a funkció további fejlesztésére és finomhangolására fognak felhasználni. 
+
+ Az elektromos autók úttörője ezt a funkciót úgy nevezi: „Autosteer on City Streets”, vagyis „Automatikus Kormányzás a Városi Utcákon”, amely végleges verziójának kiadása pedig hatalmas mérföldkövet jelent majd a cég életében. Ugyanis ezzel hivatalosan is teljessé válik a „Full Self-Driving”, azaz „Teljesen Önvezető” szoftvercsomag. Természetesen a Tesla a jövőben még tovább fogja fejleszteni a már jelenleg is meglévő funkciókat a folyamatos használat tapasztalatainak alapján. Ezáltal még biztonságosabbá és megbízhatóvá téve a rendszert a soron következő szoftverfrissítésekkel. 
+
+ A legutóbbi jelentős funkcióbővítés alkalmával került a csomagba a Traffic Light and Stop Sign Control (Jelzőlámpa és STOP tábla Figyelő) funkció. Ahogy az elnevezéséből is sejthető, ennek köszönhetően a Teslák képesek felismerni a STOP táblákat, valamint megfigyelni az útkereszteződésekben található jelzőlámpákat és azok jelzéseire reagálni. Így, ha szükséges, akár teljesen önállóan meg is állítják a járművet. 
+
+ Kezdetben az Autopilot üzemmódban közlekedő sofőröknek még meg kellett erősíteniük, hogy az adott kereszteződésben biztonságos-e az áthaladás. Ám mivel a rendszer képes folyamatosan tanulni, így ez az megerősítési kötelezettség feleslegessé vált. 
+
+ Ez a példa is jól mutatja a Tesla erőfeszítéseit, hogy minél kifinomultabb szoftverekkel lássa el autóit. 
+
+ Forrás: 
+
+ CarBuzz 
+
+ 4 hours 12 min 
+ Már Tesla erőforrás hajtja Johnny Cash régi Rolls-Royce modelljét 
+ Egy klasszikus luxuscirkáló, 100 százalék Tesla meghajtással. 
+
+ 1 day 7 hours 
+ Ötösre vizsgázott egy Tesla Model S éles törésteszten 
+ Egy kamion szinte darabokra tépte az autót, az utasok apróbb sérülésekkel megúszták. 
+
+ 2 days 5 hours 
+ McLaren-verő Model 3-ast készített az Unplugged Performance 
+ A Teslák tuningolására szakosodott cég kihozza a maximumot az EV-ből. 
+
+ Model 3 Model S Model X Model Y Roadster 
+
+ © 2019-2020 MAHZRT 
+
+ Modellek 
+
+ Model 3 Model S Model X Model Y Roadster 
+ Szolgáltatásaink 
+ Tesla hírek 
+ Tesla márkatörténet 
+ Gy.i.k. 
+ TAO támogatás 
+ Nagycsaládos támogatás 
+ Tesla Model S élményvezetés 
+ Kapcsolat 
+
+ Model 3 Model S Model X Model Y Roadster

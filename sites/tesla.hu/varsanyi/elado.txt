@@ -1,0 +1,33 @@
+Pepe's Pages: Elad kszlkek: 
+
+ Elad kszlkek: 
+
+Aktvan dolgoz, szabadsz mrstechnikusknt nagyon sok mrsi
+problmra dolgoztam mr ki sikeresen vizsgzott mrsi mdszert
+- mint ahogy sikertelen mrsek is vannak a htam mgtt, mert
+ht tvedni emberi dolog. Amennyire problms volt pr mrs,
+annyira sikeresek lettek msok, olyannyira, hogy mg a
+forgalmazsuknak is rtelmt ltom, mert gy vlem, hogy msok
+is sikerrel hasznosthatjk az ltalam kifejlesztett mrsi
+elveket ill. mreszkzket. 
+
+Ezrt kezdtem el 2004 elejn kifejezetten sorozatgyrtsi cllal
+olyan univerzlis mr- ill. vezrl kszlkeket kifejleszteni,
+amelyek egy bizonyos problmakr hatkony megoldsra
+szolglnak. A kvetkezkben tbb ltalam kifejlesztett s
+hasznlt kszlket fogok bemutatni, mkdsket s
+hasznlatukat rviden elmagyarzni, melyek kzs jellemzje,
+hogy nlam kedvez ron megvsrolhatak. Termszetesen nem
+csak ezen kszlkekkel foglalkozom, hanem, mint a honlapombl
+is kiderlhetett, akr egyedi kszlk-fejlesztsre, akr a
+meglevk mdostsra, jabb, nagyobb teljestmny kszlkek
+gyrtsra is szvesen vllalkozom. Krem, hogy ilyen irny
+ignyeikkel, rdekldseikkel keressenek bizalommal telefonon,
+faxon, E-mail vagy postai levl formjban, vagy ami a
+leghatkonyabb: szemlyesen! 
+
+ XilMER mobil - Hordozhat szgsebessg-mr rendszer 
+ XilLOG - Idmr modul mrs-adatgyjt rendszerekhez 
+ POSITION - Hordozhat kijelz inkrementlis jeladhoz 
+ TESLAGEN - Kvarcvezrelt programozhat jelgenertor 
+ CADENCE - Programozhat temez inkrementlis jeladhoz

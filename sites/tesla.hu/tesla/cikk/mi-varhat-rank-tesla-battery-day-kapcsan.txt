@@ -1,0 +1,73 @@
+Mi várhat ránk a Tesla Battery Day kapcsán? 
+
+ 4 months ago 
+
+ Mi várhat ránk a Tesla Battery Day kapcsán? 
+
+ „Ez lesz a Tesla történelmének egyik legizgalmasabb napja” 
+
+ Hatalmas érdeklődés övezi az Elon Musk által már jóideje beharangozott Battery Day eseményeit, és mindenki azt találgatja, milyen nagy horderejű bejelentésekre számíthatunk az akkumulátor-technológia jelenével és jövőjével kapcsolatban a Tesla vezérétől. 
+
+ Az eredeti elképzelések szerint az eseményt májusban rendezték volna, ám a koronavírus-járvány keresztülhúzta a számításokat. Így végül többszöri halasztást követően végül szeptember 22-re tűzték ki a Battery Day dátumát. 
+
+ „Azt hiszem, hogy ez lesz a Tesla történelmének egyik legizgalmasabb napja” – árulta el Musk a cég 2020 első negyedévének eredménykimutatása során. 
+
+ Majd egy friss, egysoros Twitter-bejegyzésben igyekezett még tovább tüzelni a kedélyeket, mondván: „Sok izgalmas dolgot fogunk bemutatni a Battery Day keretében.” 
+
+ Ezúttal garantáltan nem az elektromos autóké, sokkal inkább a meghajtásukhoz szükséges energiát biztosító akkumulátoroké lesz a főszerep. Szakértők szerint Musk forradalmi, komoly áttörést jelentő technológiai megoldásokat fog a nagyközönség elé tárni. 
+
+ Mivel a jeles nap már itt van a nyakunkon, összegyűjtöttem a találgatásokat azzal kapcsolatban, hogy mit is láthatunk vagy hallhatunk majd az eseményen. 
+
+ Szilícium nanoszál anód 
+
+ Ha ellátogatunk a Battery Day honlapjára, az oldal tetején egy felettébb érdekes képet találunk. A sajátságos minta a szakértők szerint nem más, mint szilícium nanoszálak mikroszkopikus nagyításban. Ez pedig azonnal elindította a találgatásokat, hogy az egyelőre még csak laboratóriumi körülmények között létező technológia lehet a Battery Day legjelentősebb bejelentése. Ugyanis elméletileg a szilícium nanoszál anódok hozhatják el az igazán nagy áttörést az lítiumion akkumulátorok területén. 
+
+ Ennek köszönhetően nagyobb energiasűrűség (vagyis nagyobb hatótáv) és hosszabb élettartam érhető el. Ráadásul tölteni is gyorsabban lehet az akksit. Ez a kombináció lehet a kulcsa annak, hogy jelentősen olcsóbbak legyenek az elektromos autók, így szinte mindenki számára elérhetőek és megfizethetőek lehetnének. 
+
+ A gyártástechnológia átalakítása 
+
+ A Battery Day valószínűleg az akkumulátorokról fog szólni. Ám Musk utalt rá, hogy komoly bejelentést készül tenni a járművek gyártástechnológiával kapcsolatban. Az Electrek értesülései szerint a cégvezető arról fog beszélni, hogyan készülnek majd a Tesla autói a most épülő európai Gigafactory üzemben, Berlinben . Musk elárulta, hogy a Battery Day során szóba fog kerülni a Tesla németországi tervei mellett az autóépítés alapvető technológiájának radikális átalakítása is. 
+
+ Cél a 400 wattóra 
+
+ A Tesla alapítója a Twitteren reagált a felröppent hírekre, és megerősítette, egyáltalán nem zárja ki annak a lehetőségét, hogy a kaliforniai vállalat a jövőben elektromos repülőgépeket is gyártson. Jóslata szerint a koncepció megvalósíthatóságához az szükséges, hogy az akkumulátorok energiasűrűsége elérje a 400 Wattóra/kilogrammos szintet. Ez az előttünk álló három-négy év során valószínűsíthetően bekövetkezhet. 
+
+ Ám – a repülőktől függetlenül – jelen pillanatban elképzelhetetlenül távolinak tűnik ennek az energiasűrűségnek az elérése. Összehasonlításként, a Tesla Model 3 akkumulátora nagyjából 260 Wattóra/kilogrammot teljesít. Képzeljünk csak el egy Model 3-ast , aminek kétszer akkora az energiasűrűsége, mint a jelenleginek. Így már érthető, hogy miért is számít olyan nagy dolognak, ha Musk ennek a célnak az elérésével kapcsolatban tesz bejelentést a Battery Day napján. 
+
+ A millió mérföldes akkumulátor 
+
+ Nagyjából egy éve pletykálnak már a millió mérföldes akkumulátorról, és ha a Tesla szeretne nyilatkozni a témával kapcsolatban, akkor a Battery Day a legjobb alkalom erre. A kínai Contemporary Amperex Technology Limited korábban már hivatalosan is megerősítette, hogy készített egy olyan akkumulátort, amely képes 1,24 millió mérföld (1,99 millió kilométer) megtételére. És mit ad isten, a Tesla autóiban a CATL által szállított akkuk dolgoznak. 
+
+ Elképzelhető, hogy akksik tekintetében a Tesla valami más megoldásban gondolkodik jelenlegi és a jövőbeli járműveit illetően. Vagy a CATL által készített egységnek semmi köze sincs az autókhoz. Azt azonban tudjuk, hogy az villanyautó-gyártó korábban szorosan együttműködött a kutatókkal, hogy kifejlesszék a millió mérföldes akkumulátort . 
+
+ Viszlát kobalt? 
+
+ Amellett, hogy a CATL hivatalosan is megerősítette, hogy a millió mérföldes akku készen áll a sorozatgyártásra, a kínai vállalat egy másik nagyon fontos mérföldkövet is megcélzott. Hiszen arról is beszámoltak, hogy a Teslával karöltve a kobaltmentes akkumulátorok kifejlesztésén dolgoznak. A kobalt amellett, hogy ritka, egy rendkívül ellentmondásos átmeneti fémnek számít. A világ egyik legnagyobb kobalt kitermelője a Kongói Demokratikus Köztársaság, ahol a fém bányászata gyakorlatilag egyet jelent az intézményesített gyermekmunkával, ez pedig nagyon komoly politikai és humanitárius kérdéseket vet fel. Ráadásul még meglehetősen drága is. 
+
+ A hírek szerint a CATL és a Tesla a lítium-nikkel-kobalt-mangán (NCM) és a lítium-nikkel-kobalt-alumínium (NCA) akkumulátorok helyett inkább a lítium-vasfoszfát (LFP) technológiával kísérletezik. Ezek az akksik először a Kínában gyártott autókban jelenhetnek meg. Emellett azt is pletykálják, hogy a kobalt kiesését a kínai cég „cell-to-pack” technológiájával fogják pótolni, ami segít az energiasűrűség és ezzel egyidejűleg a hatótáv növelésében. Mivel ezekről a fejlesztésekről egyelőre csak a pletykák árulkodnak, remélhetőleg a Battery Day keretében többet is megtudhatunk arról, mit szeretne kezdeni a Tesla a kobalttal. 
+
+ Autógyárból energiaszolgáltató? 
+
+ A Tesla már jóideje gyárt napelemeket, ám a legnagyobb potenciált az elektromos közművek jelentik a cég számára. Hosszútávú céljai között szerepel, hogy egy minden igényt kielégítő energetikai vállalattá váljon. Az első lépéseket már meg is tette ezen az úton, hiszen Nyugat-Európában nemrég megkapta az áramszolgáltatáshoz szükséges engedélyeket. Ezen kívül a cég Németországban közvélemény-kutatás keretein belül próbálja kipuhatolni, mi ösztönözné az embereket arra, hogy energiaszolgáltatót váltsanak. 
+
+ A napelemek mellett a kaliforniai vállalat olyan energiatároló eszközöket is fejleszt, amelyek lehetővé teszik a felhasználók számára, hogy a megtermelt többletenergiát eltárolják, vagy az Autobidder program keretében a fölösleges energiatöbbletet eladják az energiaszolgáltatónak. A Tesla ezt a rendszer egyelőre csak az USA-ban és Ausztráliában használja. 
+
+ Szakértők szerint a Tesla nem önállóan fog betörni az energetikai szektorba. Ehhez minden bizonnyal helyi partnerek segítségét fogja igénybe venni az egyes országokban. Talán a Battery Day arra a kérdésre is válasszal szolgál majd, hogy a Tesla átveszi-e az ELMŰ helyét. 
+
+ Forrás: 
+
+ BBC 
+ CNET 
+ Electrek 
+
+ 1 month 3 weeks 
+ Besárgult a Model 3: itt az első New York-i Tesla taxi 
+ Egyre több taxitársaság voksol az elektromos autók használatára. 
+
+ 1 month 3 weeks 
+ A 40 milliós kölcsön, ami megmentette a Teslát a csődtől 
+ „Nincs vége, amíg a kövér hölgy énekel”, avagy mit tanít nekünk a Tesla példája? 
+
+ 1 month 3 weeks 
+ Hivatalos: a 2021-es Model 3-ban már 82 kilowattórás akkupakk dolgozik 
+ A Panasonic új akkucellái tényleg hatékonyabbak, de ez még nem a 4680-as egység.
