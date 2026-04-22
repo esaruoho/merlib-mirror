@@ -1,0 +1,1302 @@
+1000 Vintage Tude Radio Schematics - Contents 
+
+I'm in the process of Debugging the Membership System. 
+If you are having problems Logging In ... Please EMAIL me 
+
+ HOME 
+
+ TESLA 
+ NEOGEN 
+ Lightning 
+ News Articles Links 
+
+ Schematics 
+ MAG101 
+ Forum 
+
+ Contact 
+
+ DAY 
+ TOTAL 
+
+ 111 214655 
+
+ Welcome 
+ : 
+ Guest 
+ ... Join Magnetricity Here 
+ New Site Feature: Member CLICK for Member Content 
+
+ Username: 
+
+ Password: 
+
+ HELP : 
+ What are Member Clicks? 
+
+ Simple foldout sections in a page that contain added Member Content. 
+ This HELP section is an example.
+
+ ... Click to Close 
+
+ HELP : 
+ Login Errors? 
+
+ If you've forgotten or misplaced your Login,
+ you can request a Reminder Email sent to the Email address in your account. 
+
+ ... Click to Close 
+
+ HELP : 
+ Privacy 
+
+ We respect your Right to Privacy. 
+ All Membership Data is Secure and Private.
+ We do not sell or share Member Data with anyone 
+
+ ... Click to Close 
+
+ -->
+
+ NEW! 
+ - Buy any Single Radio Schematic - Delivered via Email! - Click HERE! 
+
+ This site was designed for Microsoft Internet Explorer and I'm not sure how it looks or functions in any other browser 
+
+ Got a moment? Take a look around my site ... Magnetricity.com 
+
+ 1000 Antique Tube Radio Schematics on CD 
+ Limited Edition --- Limited Time Offer 
+
+ US Domestic $36.00 
+
+ OR 
+
+ International $42.00 
+
+ Prices Include Shipping --- Please allow 2-3 weeks delivery 
+
+ CLICK HERE To Purchase This CD On 
+
+ PayPal - BidPay - USPS or WU MO --- International Shipping 
+ No currently open auctions? Please check back in 24 hours 
+
+ Whether you're new to the fine art of Antique Radio Restoration 
+ or a seasoned professional, this compilation is so handy! 
+ Dedicated to all who keep these beauties alive and kicking. 
+
+ ! Special Bonus ! 
+ RCA VACUUM TUBE DATA MANUALS 
+ RC-14 and RC-22 in Acrobat PDF format 
+
+ How to View the Schematics? ... Click HERE 
+
+ AutoStart Menu 
+ This CD includes a handy Autostart Menu and a simple 
+ Easy-to-use HTML Menu that allows you to browse 
+ through the schematics using any Internet Browser 
+
+ All schematics are in standard JPG format 
+ Averaging 2000 x 1400 pixels at 300 dpi in 256 level gray scale 
+ and range 250K to 1.3MB in size and are individually accessible 
+
+ ACDSee v2.4 
+ An Image Viewer for Windows 95/98 (Shareware) 
+ features thumbnails and powerful Zoom and Pan 
+ Displays the entire schematic on-screen 
+ Some schematics too large for browser 
+
+ Adobe Acrobat Reader 5 
+ Required to view RCA Manuals ( Free ) 
+
+ Here is a Full Listing of All Makes and Models 
+ Just Click on a Brand Name below to find your Model 
+
+ Air King 
+ Allied 
+ Andrea 
+ Atwater Kent 
+ Bendix 
+ Browning 
+ Crosley 
+ E H Scott 
+ Emerson 
+
+ Fada 
+ Fairbanks 
+ Farnesworth 
+ Firestone 
+ Freed 
+ General Electric 
+ Goodyear 
+ Hallicrafters 
+ Hammarlund 
+
+ International 
+ Lafayette 
+ Majestic 
+ Marconiphone 
+ Mid-West 
+ Midland 
+ National 
+ Packard Bell 
+ Philco 
+
+ Pilot 
+ RCA 
+ Scott 
+ Sky Chief 
+ Stewart-Warner 
+ Stromberg-Carlson 
+ Wells-Gardner 
+ Westinghouse 
+ Zenith 
+
+ Please note, at this time, I have only the schematics listed here 
+
+ Customer Comments and Feedback: 
+
+ "Excellent quality, Best out there" 
+ "Great transaction. Super item. Highly Recommend!" 
+ "Spousal Unit is THRILLED with this CD. Great value!" 
+ "This is a great CD - Classy label too. Promptly delivered!" 
+ "The best of sellers, a pleasure to do business, good responses & courteous" 
+ "Received CD in perfect condition in record time" 
+ "Whatta Cool item! I'll be able to get into lotsa trouble with this!" 
+ "Great schematics and a very handy viewer. Nice job & quick service!" 
+ "I never saw so much of this kind of information in one place. Great CD!" 
+ "Schematic CD a really class product - good conversations - 'best' transaction" 
+
+ and many more ... 
+
+ Copyright 2001, 2002, 2003, 2004 ... All Rights Reserved 
+
+ -->
+
+ Master List of all Schematics on this CD 
+
+ Air King Return to Top of Page 
+
+ Air King ... 'Knave' 
+ Air King ... 'Royalty' 
+ Air King ... 11F 
+ Air King ... 209 'Prince' 
+ Air King ... 211 224 225 
+ Air King ... 213 'King' 
+ Air King ... 214 1001 & 2001 
+ Air King ... 221 222 223 
+ Air King ... 227 228 229 
+ Air King ... 250 & 260 
+ Air King ... 261 730 & 731 
+ Air King ... 3907 4000 & 4000A 
+ Air King ... 3912 & 3916 
+ Air King ... 3950 & 4001 
+ Air King ... 3980 
+ Air King ... 4002 4007 & 4100 
+ Air King ... 4012 & 4200 
+ Air King ... 4034 
+ Air King ... 4136 
+ Air King ... 4232 4233 4246 4248 (+) 
+ Air King ... 4245 4247 4265 4267 
+ Air King ... 4601 
+ Air King ... 4604 4604A 
+ Air King ... 4607 4607A 4608 4608A 
+ Air King ... 5000 
+ Air King ... 600 
+ Air King ... 688 886 699 
+ Air King ... 6E 
+ Air King ... 700 & 705 
+ Air King ... 700LW 704 
+ Air King ... 701 702 703 725 
+ Air King ... 710 715 1000 & 2000 
+ Air King ... 72 & 73 
+ Air King ... 720 721 770 870(+) 
+ Air King ... 76 501 503 505 
+ Air King ... 777 910(early) 
+ Air King ... 780B 801 
+ Air King ... 810 828 838 
+ Air King ... 914 & 920 
+ Air King ... 9E 252 
+ Air King ... X8312 
+ Air King ... X937 & 3906 
+
+ Allied Return to Top of Page 
+
+ Allied ... 1C5 2C5 510 511 
+ Allied ... 6A-122 
+ Allied ... 6A-127 
+ Allied ... A-10500 A-10501 
+ Allied ... A-9706 A-9707 
+ Allied ... A9741 
+ Allied ... A9752 A9753 A9754(+) 
+ Allied ... A9760 A9761 A97652(+) 
+ Allied ... A9768 A9769 A9770 
+ Allied ... A9848 A9849 
+ Allied ... B-10620 B-10621 
+ Allied ... B-17100 
+ Allied ... B-17101 B-17102 
+ Allied ... B-17103 B-17104 
+ Allied ... B10501 & B10508 
+ Allied ... B10515 B10518 B10525 & B10527 
+ Allied ... B10562 B10563 B10570 
+ Allied ... B10565 to B10568 
+ Allied ... B10577 & B10578 
+ Allied ... B10579 
+ Allied ... B10580 B10581 & B10582 
+ Allied ... B10588 & B10589 
+ Allied ... B10590 B10593 B10595 & B10596 
+ Allied ... B10702 B10706 & B10707 
+ Allied ... B10750 B10760 B10761 B10762 B10770 
+ Allied ... B10782 B10784 & B10786 
+ Allied ... B10790 & E10890 
+ Allied ... D-100 D-101 D-104 D-105 
+ Allied ... D-109 D-110 
+ Allied ... D-110 
+ Allied ... D-121 D-122 'Lullaby' 
+ Allied ... D-125 D-180 D-185 D-186 (+) 
+ Allied ... D-127 D-149 D-189 D-190 (+) 
+ Allied ... D-130 B-17140 
+ Allied ... D-131 
+ Allied ... D-132 
+ Allied ... D-140 D-141 
+ Allied ... D-150 D-195 D-196 
+ Allied ... D-160 D-161 
+ Allied ... D-165 B-17109 
+ Allied ... D-170 D-174 
+ Allied ... D-174 
+ Allied ... D-176 
+ Allied ... D-182 D-197 
+ Allied ... D-312 
+ Allied ... D-336 D-367 
+ Allied ... E-10704 E-10800 E-10803 (+) 
+ Allied ... E-10707 E-10870(late) 
+ Allied ... E-10720 E-10825 E-10826 (+) 
+ Allied ... E-10806 
+ Allied ... E-10807 
+ Allied ... E-10813 E-10814 E-10815 
+ Allied ... E-10821 E-10822 
+ Allied ... E-10831 E-10832 
+ Allied ... E-10893 
+ Allied ... G-9575 to G-9605 
+ Allied ... G-9617 -9619 -9621 (+) 
+
+ Andrea Return to Top of Page 
+
+ Andrea ... 11E6 12E6 14E6 
+ Andrea ... 1402 1404 1406 1408(+) 
+ Andrea ... 1B8 2B8 
+ Andrea ... 1D8 3D8 5D8 7D8(+) 
+ Andrea ... 1E6 2E6 
+ Andrea ... 2D5 3D5 4D5 
+ Andrea ... 400 401 
+ Andrea ... 510 511 
+ Andrea ... 610 to 613 
+ Andrea ... 620 621 
+ Andrea ... 626 627 628 
+ Andrea ... 62X 62PX 
+ Andrea ... 630 631 
+ Andrea ... 6D5 8D5 
+
+ Atwater Kent Return to Top of Page 
+
+ Atwater Kent ... 126 136 416 446 
+ Atwater Kent ... 137 
+ Atwater Kent ... 184 184X 
+ Atwater Kent ... 206D 376D (late) 
+ Atwater Kent ... 206D(early) 
+ Atwater Kent ... 236 
+ Atwater Kent ... 273D 
+ Atwater Kent ... 312 
+ Atwater Kent ... 328 326X 
+ Atwater Kent ... 447 
+ Atwater Kent ... 458Q 515Q 
+ Atwater Kent ... 710 
+ Atwater Kent ... E-145 
+ Atwater Kent ... E-208 
+ Atwater Kent ... E-765 
+ Atwater Kent ... E608 E648 
+ Atwater Kent ... P216 P336 
+ Atwater Kent ... P755 P875 
+
+ Bendix Return to Top of Page 
+
+ Bendix ... 526A -B -C -D -E 
+ Bendix ... 636A -C -D 
+ Bendix ... 646A 
+ Bendix ... 656A 
+ Bendix ... 676B -C -D 
+ Bendix ... 736B 
+
+ Browning Return to Top of Page 
+
+ Browning ... 83 BL-FM22 BL-43-6D 
+
+ Crosley Return to Top of Page 
+
+ Crosley ... 02CA 02CB 
+ Crosley ... 1026 
+ Crosley ... 106CP 
+ Crosley ... 1126 
+ Crosley ... 1216 
+ Crosley ... 1336 
+ Crosley ... 1516 
+ Crosley ... 22CA 22CB 22CP 
+ Crosley ... 416 
+ Crosley ... 417 
+ Crosley ... 43BT 
+ Crosley ... 43FA 53FA 
+ Crosley ... 43FB 
+ Crosley ... 46FA 46FB 
+ Crosley ... 48(late) 48BF 48CB 
+ Crosley ... 49BZ 
+ Crosley ... 506 early 
+ Crosley ... 506 late 
+ Crosley ... 516 5516 6516 
+ Crosley ... 517 & 547 'Teletune Fiver' 
+ Crosley ... 52PA 52PB 
+ Crosley ... 52TL 
+ Crosley ... 537 
+ Crosley ... 539 J539 
+ Crosley ... 53FA 53FB 
+ Crosley ... 53TF 
+ Crosley ... 53TP 
+ Crosley ... 5539 
+ Crosley ... 5549 
+ Crosley ... 566 
+ Crosley ... 56FA 56FB 
+ Crosley ... 56PA 56PB 
+ Crosley ... 56TA 56TC 56TW 
+ Crosley ... 56TA-L 56TC-L 56TW-L 
+ Crosley ... 56TG 56TH 56TJ 56TG-0 (+) 
+ Crosley ... 579 5579 6579 
+ Crosley ... 586 
+ Crosley ... 587 5587 
+ Crosley ... 589 5589 
+ Crosley ... 596 
+ Crosley ... 597 5597 
+ Crosley ... 618 
+ Crosley ... 626 
+ Crosley ... 629 
+ Crosley ... 629 & 644 
+ Crosley ... 634 & 649 
+ Crosley ... 63CA 63TA 
+ Crosley ... 6615 
+ Crosley ... 669 6669 6679 7669 
+ Crosley ... 66TA 66TC 66TW 
+ Crosley ... 676 
+ Crosley ... 716 
+ Crosley ... 719 
+ Crosley ... 726 
+ Crosley ... 729 
+ Crosley ... 72TA 
+ Crosley ... 736 
+ Crosley ... 739 
+ Crosley ... 758 
+ Crosley ... 7739 
+ Crosley ... 819 & 1019 
+ Crosley ... 916 
+ Crosley ... 926 
+ Crosley ... A-157 'Fiver Roamio' 
+ Crosley ... A-167 
+ Crosley ... A-177 
+ Crosley ... A-366 
+ Crosley ... A169 
+ Crosley ... A459 
+ Crosley ... A559 
+ Crosley ... B36BS 
+ Crosley ... C33CA 
+ Crosley ... CA12 
+ Crosley ... CB82-R 
+ Crosley ... TA62 TA62W 
+ Crosley ... TH52 TH52W TH52J 
+ Crosley ... TK52 TK52W 
+
+ E H Scott Return to Top of Page 
+
+ E H Scott ... 'FM Tuner' 
+ E H Scott ... 'Phantom Deluxe' 
+ E H Scott ... 'Philharmonic' 
+
+ Emerson Return to Top of Page 
+
+ Emerson ... 375 
+ Emerson ... BH-203 
+ Emerson ... CH246 CH253 CH256 (+) 
+ Emerson ... D134 D136 D138 D139 (+) 
+ Emerson ... E128 
+ Emerson ... FE-409 
+ Emerson ... GA-439 GA-441 GA1-439 (+) 
+ Emerson ... GJ-449 
+ Emerson ... GL-457 
+ Emerson ... GU-446 
+ Emerson ... J106 
+
+ Fada Return to Top of Page 
+
+ Fada ... 114 136 148 202 209 220 
+ Fada ... 1255 
+ Fada ... 1262 
+ Fada ... 1265 
+ Fada ... 140 
+ Fada ... 144 
+ Fada ... 1480 
+ Fada ... 177 
+ Fada ... 207 APT 
+ Fada ... 211 
+ Fada ... 211 (220v) 
+ Fada ... 211B (220v) 
+ Fada ... 212 
+ Fada ... 214 
+ Fada ... 215 
+ Fada ... 216 
+ Fada ... 242 
+ Fada ... 246 
+ Fada ... 252 
+ Fada ... 254 
+ Fada ... 255 
+ Fada ... 256 
+ Fada ... 260 
+ Fada ... 261 
+ Fada ... 262 
+ Fada ... 264 
+ Fada ... 265 
+ Fada ... 266 
+ Fada ... 267 
+ Fada ... 270 
+ Fada ... 273 
+ Fada ... 288 295 
+ Fada ... 291 
+ Fada ... 311 
+ Fada ... 312 
+ Fada ... 316 early 
+ Fada ... 316 late 
+ Fada ... 350 
+ Fada ... 351 
+ Fada ... 354 
+ Fada ... 361 
+ Fada ... 366 366PT 
+ Fada ... 470 
+ Fada ... 52 F52 53 & F55(late) 
+ Fada ... 57 P58 & PL58 
+ Fada ... 5F50 6A70 
+ Fada ... 63 
+ Fada ... 64APC 
+ Fada ... 652 
+ Fada ... 65PC 
+ Fada ... 68 
+ Fada ... 6A51 6A61 
+ Fada ... 6A65 
+ Fada ... 6A80 
+ Fada ... 74APC 
+ Fada ... 75PC 
+ Fada ... 913 
+ Fada ... A66T & A66PC 
+ Fada ... A76T & A76PC 
+ Fada ... B49 C49 T49 P49 
+ Fada ... C34 
+ Fada ... F55 59 
+ Fada ... L67T & L67C 
+ Fada ... LA60 21 F25 & L26 
+ Fada ... P22 P28A 
+ Fada ... P24(late) 263 
+ Fada ... P40 F44 & F45 
+ Fada ... P41 
+ Fada ... P60 61 & 69 
+ Fada ... PA-11 PA-135 
+ Fada ... PL60 PUL60 & L96 
+ Fada ... RE-187 
+ Fada ... S46 
+
+ Fairbanks Return to Top of Page 
+
+ Fairbanks ... 9B 
+
+ Farnesworth Return to Top of Page 
+
+ Farnesworth ... AC70 AC71 & AK76 
+ Farnesworth ... AC90 AC91 AK95 & AK96 
+ Farnesworth ... AK-17 
+ Farnesworth ... AT-30 
+ Farnesworth ... AT-31 
+ Farnesworth ... AT-40 
+ Farnesworth ... AT20 to AT23 
+ Farnesworth ... ATL50-52 ATL55-56 ATL58-59 
+ Farnsworth ... BC-72 BC-80 BC-81 BK-86 
+ Farnsworth ... BC-92 BC-101 BC-102 
+ Farnsworth ... CC-70 CK-73 CK-75 (+) 
+ Farnsworth ... CC-90 CK-91 CK-02 (+) 
+ Farnsworth ... CK-111 
+ Farnsworth ... CT-50 CT-51 CT-52 CT-53 
+ Farnsworth ... CT-61 CT-62 CT-63 (+) 
+ Farnsworth ... DK-73 DK-75 
+ Farnsworth ... EC-260 
+ Farnsworth ... ET-064 ET-065 ET-066 
+
+ Firestone Return to Top of Page 
+
+ Firestone ... R-1651AS 'Air Chief' 
+ Firestone ... R-1661 'Air Chief' 
+ Firestone ... S-7393-1 
+ Firestone ... S-7397-9 
+ Firestone ... S-7400-1 
+ Firestone ... S7350-2 
+ Firestone ... S7396-2 S7405-3 
+ Firestone ... S7400-2 'Air Chief' 
+ Firestone ... S7402-5 'Commentator' 
+ Firestone ... S7402-7 'Mercury' 
+
+ Freed Return to Top of Page 
+
+ Freed ... 40 
+ Freed ... 51 
+
+ General Electric Return to Top of Page 
+
+ GE ... 100 101 103 105 
+ GE ... 110 111 
+ GE ... 219 220 221 
+ GE ... 303 
+ GE ... 321(early) 
+ GE ... A-125 
+ GE ... E-101 E-105 E-106 
+ GE ... E-115 
+ GE ... E-50 & E-52 
+ GE ... E-51 
+ GE ... E-79 
+ GE ... E-81 E-86 
+ GE ... F-53 
+ GE ... F-63 F-65 & F-66 
+ GE ... F-70 & F-75 
+ GE ... F-81 & F-86 
+ GE ... FA-60 & FA-61 
+ GE ... FA-80 
+ GE ... FB-52 FB-53 FB-56 & FB57 
+ GE ... FB-72 FB-73 FB-76 & FB-77 
+ GE ... GD400 
+ GE ... GD520 GD521 
+ GE ... H400 
+ GE ... H600 H601 H610 
+ GE ... H600U H610U H620U H630U H632U 
+ GE ... H620 H621 H630 H631 (+) 
+ GE ... H625 
+ GE ... H625 H630 H632 
+ GE ... H639AC H639DC 
+ GE ... H708 H736 HJ737 
+ GE ... H73 H77 H79 
+ GE ... HB-410 HB-411 
+ GE ... HB504 & HB505 
+ GE ... HE-74L HE-740 HE-740L 
+ GE ... HJ1005 
+ GE ... HJ612 
+ GE ... HJ905 HJ908 HJ908B 
+ GE ... JB-410 
+ GE ... JB-520 JB-525 
+ GE ... L-540 L-541 L-542 L-543 (+) 
+ GE ... L-643 L-653 L-663 L-673 
+ GE ... L-740 
+ GE ... LB-412 
+ GE ... LC-628 LC-629 LC-638 
+ GE ... LC-638 LC-649 
+ GE ... LC-759 LC-759B LC-768 
+ GE ... U-50 
+ GE ... U-51 & U-55 
+ GE ... U-70 & U-75 
+ GE ... X-150 X-150C X-150V 
+ GE ... X-153 X-153-A1 X-153-D2 
+ GE ... X-156 X-166 
+ GE ... X-1708 
+ GE ... X-181V XC-181V XP-181V (+) 
+ GE ... X-225A X-225V 
+ GE ... X-226 
+ GE ... X-228 
+ GE ... XB-121 XM-121 XR-121 XB-221 (+) 
+
+ Goodyear Return to Top of Page 
+
+ Goodyear ... 01009 01010 
+ Goodyear ... 015070 
+ Goodyear ... 015080 
+ Goodyear ... 015120 
+ Goodyear ... 1173 
+ Goodyear ... 1175 
+ Goodyear ... 523 
+ Goodyear ... 550 
+ Goodyear ... 585 
+ Goodyear ... 588 
+ Goodyear ... 601 
+ Goodyear ... 602 
+ Goodyear ... 661 
+ Goodyear ... 666 
+ Goodyear ... 667 
+ Goodyear ... 741 
+
+ Hallicrafters Return to Top of Page 
+
+ Hallicrafters ... 'Super Skyrider' 
+ Hallicrafters ... 5T 'Sky Buddy' 
+ Hallicrafters ... DD-1 
+ Hallicrafters ... H8PA 
+ Hallicrafters ... S-19R 'Sky Buddy' 
+ Hallicrafters ... S-20 'Sky Champion' 
+ Hallicrafters ... S-20R 
+ Hallicrafters ... S-31 
+ Hallicrafters ... S-31-A 
+ Hallicrafters ... S11 'Super Sky Rider' 
+ Hallicrafters ... S12 'Commercial Sky RIder' 
+ Hallicrafters ... S14 'Sky Chief' 
+ Hallicrafters ... S15 'Sky Challenger' 
+ Hallicrafters ... S8A 
+ Hallicrafters ... S9 SX9 
+ Hallicrafters ... SX-18 'Sky Challenger II' 
+ Hallicrafters ... SX-23 'Super Skyrider' 
+ Hallicrafters ... SX-24 'Skyrider Defiant' 
+ Hallicrafters ... SX-25 'Super Defiant' 
+ Hallicrafters ... SX16 'Super Sky Rider' 
+
+ Hammarlund Return to Top of Page 
+
+ Hammarlund ... 'Super Pro' 
+ Hammarlund ... HQ-120-X 
+ Hammarlund ... SP-200X SP-200SX 
+ Hammarlund ... SP110 'Super Pro' 
+
+ International Return to Top of Page 
+
+ International ... 10 25 to 28 
+ International ... 1030 1035 1140 
+ International ... 400 
+ International ... 41 43 617 
+ International ... 500 
+ International ... 630 735 
+ International ... 634 635 3734 
+ International ... 739 950 
+ International ... 77 777 778 779 
+ International ... 87 
+ International ... KRC-2 845 
+ International ... P 210 
+
+ Lafayette Return to Top of Page 
+
+ Lafayette ... 2A5 2001 
+ Lafayette ... 'Mighty Atom' JB-3 
+ Lafayette ... 'Thriller' C-78 C-78L 
+ Lafayette ... 151 154 186 188 
+ Lafayette ... 480 
+ Lafayette ... A15 & C25 
+ Lafayette ... AS-5 AS-6 
+ Lafayette ... B30 B32 
+ Lafayette ... B33 
+ Lafayette ... B35 B36 
+ Lafayette ... B87 
+ Lafayette ... B90(early) 
+ Lafayette ... B92(K)(early) 
+ Lafayette ... B92(late) 
+ Lafayette ... B97-98 
+ Lafayette ... BB22 
+ Lafayette ... BB69 
+ Lafayette ... BL1 B15 
+ Lafayette ... C-37 
+ Lafayette ... C216 3120 
+ Lafayette ... C40 & SL45 
+ Lafayette ... CC48 
+ Lafayette ... D10 & D11 
+ Lafayette ... D131 D132 D133 
+ Lafayette ... D15 
+ Lafayette ... D16 D17 
+ Lafayette ... D18 
+ Lafayette ... D22 D23 
+ Lafayette ... D26 
+ Lafayette ... D294 D314 D315 
+ Lafayette ... D3 D5 
+ Lafayette ... D30 D31 & M31 
+ Lafayette ... D4 D64 
+ Lafayette ... F20 
+ Lafayette ... Fireside#1 & Fireside#2 
+ Lafayette ... M-31-71 
+ Lafayette ... M37 & M44 
+ Lafayette ... M65 
+ Lafayette ... PA M-31 
+ Lafayette ... S-61 S-62 M-99 'Pigmy' 
+ Lafayette ... S-L71 & R71 
+ Lafayette ... T-21 (early & late) 
+ Lafayette ... U-145 U-155 
+
+ Majestic Return to Top of Page 
+
+ Majestic ... 11056 11058 
+ Majestic ... 11356 
+ Majestic ... 1250 
+ Majestic ... 1S59-EB-PL 
+ Majestic ... 3C80 3C80P 380 
+ Majestic ... 3C90 3SC90 390 
+ Majestic ... 50 
+ Majestic ... 511 511A 519P 551 
+ Majestic ... 51B 51P 51W 
+ Majestic ... 5BDA 5BEA 
+ Majestic ... 60 
+ Majestic ... 620 
+ Majestic ... 639 639B 
+ Majestic ... 800 
+ Majestic ... 939 
+ Majestic ... IM40-W IM40-I IM40-R 
+
+ Marconiphone Return to Top of Page 
+
+ Marconiphone ... 'Vanity' 
+ Marconiphone ... D DE 
+ Marconiphone ... D-10 
+
+ Mid-West Return to Top of Page 
+
+ Mid-West ... 6 Tube Battery 
+ Mid-West ... 6-33 
+ Mid-West ... 6-34 
+ Mid-West ... 6-37 AC-DC 
+ Mid-West ... 6-37 Auto 
+ Mid-West ... 7-36 AC-DC 
+ Mid-West ... 7-36 Battery 
+ Mid-West ... 7-37 AC 
+ Mid-West ... 7-37 AC-DC 
+ Mid-West ... SW5-36 
+
+ Midland Return to Top of Page 
+
+ Midland ... B6A B6B 
+ Midland ... M6A M6D 
+ Midland ... M6B M6C 
+
+ National Return to Top of Page 
+
+ National ... 1-10A 
+ National ... ACSW-3 2V DCSW-3 6V DCSW-3 
+ National ... DCSW-34 ACSW-58 FBX & FBXA 
+ National ... HRO 
+ National ... NC-100 
+ National ... NC-100A 
+ National ... NC-100AB 
+ National ... NC-2-40CS 
+ National ... NC-200 
+ National ... NC-44 NC-44A NC-44B 
+ National ... NC-46 
+
+ Packard Bell Return to Top of Page 
+
+ Packard Bell ... 1052 
+ Packard Bell ... 1054 
+ Packard Bell ... 120-AB 
+ Packard Bell ... 130PR 
+ Packard Bell ... 40B 50P 
+ Packard Bell ... 46DP 48B 
+ Packard Bell ... 46EP 46G 
+ Packard Bell ... 46H 46HC 46HP 
+ Packard Bell ... 48E 48EP 48F 
+ Packard Bell ... 48FPA 58A 
+ Packard Bell ... 561 
+ Packard Bell ... 563 
+ Packard Bell ... 58 
+ Packard Bell ... 5AC 5AE 5AEO 
+ Packard Bell ... 5D 40 48D 48DC 48DK 
+ Packard Bell ... 651 
+ Packard Bell ... 66DR 66DRC 
+ Packard Bell ... 67B 67BA 67BK (+) 
+ Packard Bell ... 6B 65AP 
+ Packard Bell ... B19 
+
+ Philco Return to Top of Page 
+
+ Philco ... 233G 233AG 
+ Philco ... 261 
+ Philco ... 37-10 & 37-11 
+ Philco ... 37-2620 
+ Philco ... 37-2650 
+ Philco ... 37-2670 
+ Philco ... 37-34 
+ Philco ... 37-60 
+ Philco ... 37-602 
+ Philco ... 37-61 
+ Philco ... 37-62 
+ Philco ... 37-620 
+ Philco ... 37-624 
+ Philco ... 37-641 
+ Philco ... 37-643 
+ Philco ... 37-660 
+ Philco ... 37-665 
+ Philco ... 37-89 
+ Philco ... 37-9 
+ Philco ... 37-93 
+ Philco ... 38-1 
+ Philco ... 38-10 
+ Philco ... 38-12 
+ Philco ... 38-14 
+ Philco ... 38-2 
+ Philco ... 38-3 
+ Philco ... 38-38 
+ Philco ... 38-39 
+ Philco ... 38-4 38-5 
+ Philco ... 38-60 
+ Philco ... 38-7 38-8 
+ Philco ... 38-89 
+ Philco ... 39-117 39-118 
+ Philco ... 39-17 
+ Philco ... 39-25 
+ Philco ... 39-36 
+ Philco ... 39-40 
+ Philco ... 39-45 
+ Philco ... 39-711 
+ Philco ... 39-751 
+ Philco ... 39-8 39-8T 
+ Philco ... 40-115 40-124 
+ Philco ... 40-150 40-155 40-180 (+) 
+ Philco ... 40-165 
+ Philco ... 40-195 40-200 
+ Philco ... 40-205 
+ Philco ... 40-525 
+ Philco ... 40-748 
+ Philco ... 41-22CL 42-22CL 
+ Philco ... 41-722 
+ Philco ... 41-745 
+ Philco ... 41-KR 
+ Philco ... 42-1008 42-1009M 42-1009W 
+ Philco ... 42-122 42-123 
+ Philco ... 42-355 42-390 
+ Philco ... 42-842 42-843 42-844 
+ Philco ... 42-KR-3 42-KR-5 
+ Philco ... 46-1201 
+ Philco ... 46-1226 
+ Philco ... 46-480 
+ Philco ... 600 
+ Philco ... 938K 
+ Philco ... 98 
+ Philco ... AR-40 
+ Philco ... AR-45 
+ Philco ... AR-65 
+ Philco ... C-1808 
+ Philco ... C-1908 
+ Philco ... HT11X 
+ Philco ... N-FND 
+ Philco ... P-1935 
+ Philco ... S-1726 
+ Philco ... S-1826 'Studebaker Custom' 
+ Philco ... SW-1 
+ Philco ... T10-CT10 
+ Philco ... TH-1 
+ Philco ... TH-3 
+ Philco ... TH-4 TH-4T 
+ Philco ... TH-5 TH-5T 
+ Philco ... TP-4 
+
+ Pilot Return to Top of Page 
+
+ Pilot ... 125 
+ Pilot ... 1424 
+ Pilot ... 1524 
+ Pilot ... 173 
+ Pilot ... 193 194 (late) 
+ Pilot ... 193 195 
+ Pilot ... 223 
+ Pilot ... 23 P23 25 P25 
+ Pilot ... 293 295 
+ Pilot ... 330 
+ Pilot ... 340 
+ Pilot ... 403 405 
+ Pilot ... 423 425 
+ Pilot ... 623 625 
+ Pilot ... B1 T1 B2 T2 
+ Pilot ... BG 562 BG 563 
+ Pilot ... FM-12(late) 
+ Pilot ... G-162 G-163 
+ Pilot ... G-162A G-162B G-163A(+) 
+ Pilot ... G-184 G-185 
+ Pilot ... G-44 G-45 
+ Pilot ... G-528 G-529 
+ Pilot ... G-56 G-57 
+ Pilot ... G-576 G-577 
+ Pilot ... G-584 G-585 
+ Pilot ... G-752 G-753 
+ Pilot ... G284 
+ Pilot ... G352 G353 
+ Pilot ... H-11 
+ Pilot ... H-12 
+ Pilot ... H-224 H-324 
+ Pilot ... H-373 H-373 
+ Pilot ... H-474 H-134 
+ Pilot ... H-6204 
+ Pilot ... H-64 
+ Pilot ... H-710 
+ Pilot ... H554 H555 
+ Pilot ... H594 H597 
+ Pilot ... H664 H665 
+ Pilot ... S-295 
+ Pilot ... S-393 
+ Pilot ... S-623 S-623J 
+ Pilot ... T-101 
+ Pilot ... T-102 
+ Pilot ... T-121 T-122 
+ Pilot ... T-131 T-135 
+ Pilot ... T-1452 
+ Pilot ... T-286 
+ Pilot ... T-511 
+ Pilot ... T1264 T1351 
+ Pilot ... T1451 T1664 T1764 
+ Pilot ... TP-31 
+ Pilot ... TP1062 TP1862 
+ Pilot ... X-105 
+ Pilot ... X-2253 X-2255 
+ Pilot ... X-304 X-305 
+ Pilot ... X-41 
+ Pilot ... X-48 X-49 
+ Pilot ... X1584 X1684 T1854 
+ Pilot ... X201 
+
+ RCA Return to Top of Page 
+
+ RCA ... 10K1 10T(2nd) 
+ RCA ... 10Q1 
+ RCA ... 11Q4 11Qk 
+ RCA ... 12Q4 12QK 
+ RCA ... 13K 
+ RCA ... 211K 
+ RCA ... 25BK 25BT-3 
+ RCA ... 27K 
+ RCA ... 28T 
+ RCA ... 29K 29K2 
+ RCA ... 35X 
+ RCA ... 4QB 
+ RCA ... 4QB4 
+ RCA ... 516 517 
+ RCA ... 54B1 54B1-N 54B2 54B3 
+ RCA ... 55F 
+ RCA ... 56X10 
+ RCA ... 58V 58AV 
+ RCA ... 59V1 59AV1 
+ RCA ... 5BT 
+ RCA ... 5F 5G 
+ RCA ... 5Q1 
+ RCA ... 5Q2 
+ RCA ... 5Q6 
+ RCA ... 5T1 
+ RCA ... 5T4 
+ RCA ... 5T5 
+ RCA ... 5T6 5T7 5T8 
+ RCA ... 5U 
+ RCA ... 5X5I 5X5W 
+ RCA ... 65U 65AU 
+ RCA ... 66X1 66X2 66X3 66X4 66X9 
+ RCA ... 67M 
+ RCA ... 67M1 67M2 67M3 
+ RCA ... 6K3 7T1 7K1 
+ RCA ... 6Q1 
+ RCA ... 6Q4 
+ RCA ... 6T5 
+ RCA ... 7U2 
+ RCA ... 810K 810K1 810T 
+ RCA ... 810T4 
+ RCA ... 811K 
+ RCA ... 813K 
+ RCA ... 816K 
+ RCA ... 84BT 
+ RCA ... 85BK 85BT 
+ RCA ... 85BT6 
+ RCA ... 85E U102E 
+ RCA ... 85T 
+ RCA ... 86BK 86BT 
+ RCA ... 86E 86K 86K7 86T 86T1 (+) 
+ RCA ... 86T3 87T1 
+ RCA ... 86T4 86T44 
+ RCA ... 86T6 
+ RCA ... 86X4 
+ RCA ... 87EY 87X 87Y 
+ RCA ... 87K1 
+ RCA ... 88K 
+ RCA ... 8BT 8BK 8BT6 8BK6 
+ RCA ... 8M 
+ RCA ... 8M1 8M2 
+ RCA ... 8M3 8M4 
+ RCA ... 8Q1 
+ RCA ... 8T2 8T11 8K11 
+ RCA ... 8U 
+ RCA ... 8U2 
+ RCA ... 910KG U126 U128 
+ RCA ... 94BK 94BT 
+ RCA ... 94BT6 
+ RCA ... 95T 
+ RCA ... 95T5 
+ RCA ... 95X6 
+ RCA ... 96E 96T 96T1 
+ RCA ... 96E2 96K5 96K6 96T7 
+ RCA ... 96K2 96T3 97E 97KG 97T 
+ RCA ... 96T2 96K 
+ RCA ... 97K 
+ RCA ... 97Y 
+ RCA ... 98K 
+ RCA ... 99K 99T 
+ RCA ... 9K1 
+ RCA ... 9K3 
+ RCA ... 9M1 
+ RCA ... 9M2 
+ RCA ... 9SX-1 to 9SX-8 'Little Nipper' 
+ RCA ... 9U 9U2 
+ RCA ... ACR175 
+ RCA ... AR-77 AR-77E 
+ RCA ... B-50 
+ RCA ... D9-19(late) 
+ RCA ... HF-1 
+ RCA ... HF-2 HF-4 U130 
+ RCA ... K105 
+ RCA ... K50 
+ RCA ... K61 
+ RCA ... K80 K81 K82 
+ RCA ... M-60 
+ RCA ... M50 
+ RCA ... Q11 
+ RCA ... Q16 
+ RCA ... QB55 
+ RCA ... QB9 
+ RCA ... QU51C QU51M QU55 
+ RCA ... QU56C QU56M 
+ RCA ... QU61 
+ RCA ... R-96 R-97 
+ RCA ... R-98 
+ RCA ... T63 
+ RCA ... TRK-90 TRK-120 
+ RCA ... U-125 
+ RCA ... U-30 U-129 
+ RCA ... U10 
+ RCA ... U105 U107 
+ RCA ... U106 
+ RCA ... U109 
+ RCA ... U111 
+ RCA ... U119 U122E U124 
+ RCA ... U12 
+ RCA ... U20 
+ RCA ... U42 
+ RCA ... U43 
+ RCA ... U44 
+ RCA ... U46 
+ RCA ... V-140 
+ RCA ... V-175 
+ RCA ... V-209 V-210 
+
+ Scott Return to Top of Page 
+
+ Scott ... 'All-Wave 15'(late) 
+ Scott ... 'All-Wave 2Volt' 
+
+ Sky Chief Return to Top of Page 
+
+ Sky Chief ... A-218 
+ Sky Chief ... A-219 A-221 
+
+ Stewart-Warner Return to Top of Page 
+
+ Stewart-Warner ... 01-521 to 01-529 
+ Stewart-Warner ... 01-531 to 01-539 
+ Stewart-Warner ... 010-611S to 010-619S 
+ Stewart-Warner ... 010-6K1-X 
+ Stewart-Warner ... 06-6H1 
+ Stewart-Warner ... 07-511 to 07-519 
+ Stewart-Warner ... 07-5NX 
+ Stewart-Warner ... 102-D(7 tube) 
+ Stewart-Warner ... 1451 1459 
+ Stewart-Warner ... 1471 to 1479 
+ Stewart-Warner ... 1601 to 1609 
+ Stewart-Warner ... 1731 to 1739 
+ Stewart-Warner ... 1911 to 1919 
+ Stewart-Warner ... 1921 to 1929 
+ Stewart-Warner ... 205FA 
+ Stewart-Warner ... 205GA to 205GZ 
+ Stewart-Warner ... 206HA 
+ Stewart-Warner ... 207BA to 207BZ 
+ Stewart-Warner ... 207FK 
+ Stewart-Warner ... 208BK 
+ Stewart-Warner ... 3041 to 3049 
+ Stewart-Warner ... 72CR16 72CR26 
+ Stewart-Warner ... 9000-B 
+ Stewart-Warner ... 9009-B 9009-H 
+ Stewart-Warner ... 9014-E 
+ Stewart-Warner ... 91-641 to 91-649 
+ Stewart-Warner ... 97-521 to 97-529 
+ Stewart-Warner ... A6 'Air Pal' 
+ Stewart-Warner ... R-3581 to R-3589 
+
+ Stromberg-Carlson Return to Top of Page 
+
+ Stromberg Carlson ... 1020PL 1120LW (+) 
+ Stromberg Carlson ... 1100h 1100HI 
+ Stromberg-Carlson ... 240H -HB -L 
+ Stromberg-Carlson ... 245L -LB -M -MB (+) 
+ Stromberg-Carlson ... 255L 255LB 
+ Stromberg-Carlson ... 260L -LB 260P -PB 
+ Stromberg-Carlson ... 320H 320BH (+) 
+ Stromberg-Carlson ... 325J 325JB (+) 
+ Stromberg-Carlson ... 335L 335LB (+) 
+ Stromberg-Carlson ... 337H 337HB (+) 
+ Stromberg-Carlson ... 340F 340FB (+) 
+ Stromberg-Carlson ... 350M 350MB (+) 
+ Stromberg-Carlson ... 555 
+ Stromberg-Carlson ... 920 
+
+ Wells-Gardner Return to Top of Page 
+
+ Wells-Gardner ... 0DM 
+ Wells-Gardner ... 0F 
+ Wells-Gardner ... 1A62-4 
+ Wells-Gardner ... 1A63-3 1A63-4 
+ Wells-Gardner ... 2CM 
+ Wells-Gardner ... 2DL 
+ Wells-Gardner ... 5F 5FL 
+ Wells-Gardner ... 5H 
+ Wells-Gardner ... 5K 5KL 
+ Wells-Gardner ... 6B18 
+ Wells-Gardner ... 6C17 
+ Wells-Gardner ... 6D 
+ Wells-Gardner ... 6J 
+ Wells-Gardner ... 6L 
+ Wells-Gardner ... 6N 
+ Wells-Gardner ... 6R 
+ Wells-Gardner ... 7A66-2 
+ Wells-Gardner ... 7F 7FL 
+ Wells-Gardner ... 7J 
+ Wells-Gardner ... 7K 
+ Wells-Gardner ... 8A51-3 8A51-4 
+ Wells-Gardner ... 9C 
+ Wells-Gardner ... A10 
+ Wells-Gardner ... A12 
+ Wells-Gardner ... A17 
+ Wells-Gardner ... A2 
+ Wells-Gardner ... A20 
+ Wells-Gardner ... A23 
+ Wells-Gardner ... A4 
+ Wells-Gardner ... A5 
+ Wells-Gardner ... A8 
+ Wells-Gardner ... B1 
+ Wells-Gardner ... B3 B4 
+ Wells-Gardner ... C6 
+ Wells-Gardner ... C7 C11 
+ Wells-Gardner ... S2 
+ Wells-Gardner ... T2 
+
+ Westinghouse Return to Top of Page 
+
+ Westinghouse ... B470-A -B -C -D 
+ Westinghouse ... H-122 H-130 
+ Westinghouse ... H-125 H-126 
+ Westinghouse ... M-106 
+ Westinghouse ... M101 
+ Westinghouse ... M110 M114 
+ Westinghouse ... WR-102 
+ Westinghouse ... WR-12X7 WR-186 
+ Westinghouse ... WR-13K5 
+ Westinghouse ... WR-178 WR-180 (+) 
+ Westinghouse ... WR-211 
+ Westinghouse ... WR-311 
+ Westinghouse ... WR12X1 WR12X2 (+) 
+ Westinghouse ... WR12X15 
+ Westinghouse ... WR12X8 
+ Westinghouse ... WR256 
+ Westinghouse ... WR264 
+ Westinghouse ... WR42X3 WR42X7 
+ Westinghouse ... WR480 
+
+ Zenith Return to Top of Page 
+
+ Zenith ... 10S669 10S690 
+ Zenith ... 11S474 
+ Zenith ... 12S345 12S370 12S371 
+ Zenith ... 12S445 12S453 12S471 
+ Zenith ... 15S308 15S346 15S372 15S373 
+ Zenith ... 15S479 15S495 
+ Zenith ... 15U246 15U269 15U270 (+) 
+ Zenith ... 4B231 
+ Zenith ... 4B313 4B355 
+ Zenith ... 4B314 4B317 
+ Zenith ... 4B422 4B466 4B468 
+ Zenith ... 4K016 4K035 
+ Zenith ... 4K310 4K331 
+ Zenith ... 4K402D(L,M) 
+ Zenith ... 4K422 4K435 4K465 
+ Zenith ... 4T26 4T51 
+ Zenith ... 5-M-90 
+ Zenith ... 5-S-119 5-S-126 5-S-127 (+) 
+ Zenith ... 5-S-29 5-S-56 
+ Zenith ... 5B042 
+ Zenith ... 5D011 5D011W 5D011Y (+) 
+ Zenith ... 5D012T 
+ Zenith ... 5D042T 
+ Zenith ... 5F233 5F251 
+ Zenith ... 5G438 5G467 
+ Zenith ... 5G441 5G442 5G461 
+ Zenith ... 5G484(M) 
+ Zenith ... 5G617 5G2617 
+ Zenith ... 5J217 5J247 5J255 
+ Zenith ... 5J217T 
+ Zenith ... 5M291 
+ Zenith ... 5M294 
+ Zenith ... 5R123 5R135 5R165 
+ Zenith ... 5R216 5R226 5R236 
+ Zenith ... 5R312 5316 5R317 5R337 (+) 
+ Zenith ... 5R680 
+ Zenith ... 5R680X 5R680XJ 
+ Zenith ... 5S042AT -BT -CT 
+ Zenith ... 5S218AT 5S228AT 5S237AT 
+ Zenith ... 5S319 5S330 5S327 5S338 (+) 
+ Zenith ... 5X230 5X274 
+ Zenith ... 6-D-116 6-D-117 6-D-118 
+ Zenith ... 6-S-27 6-S-52 
+ Zenith ... 663 664 
+ Zenith ... 6B321 
+ Zenith ... 6D014 6D029 
+ Zenith ... 6D015 6D030 
+ Zenith ... 6D202 6D219 6D221 6D238 
+ Zenith ... 6D311 6D326 6D336 
+ Zenith ... 6D312 6D316 6D317 6D337 
+ Zenith ... 6D315 
+ Zenith ... 6D410 6D411 6D425 6P418(+) 
+ Zenith ... 6D413 6D414 6D426 6D446(+) 
+ Zenith ... 6D612 6D612W 6D622 (+) 
+ Zenith ... 6G601D 6G601L 6G601M (+) 
+ Zenith ... 6J322 6J357 
+ Zenith ... 6J436 6J463 
+ Zenith ... 6M292 6M293 
+ Zenith ... 6M390 
+ Zenith ... 6MF490 
+ Zenith ... 6MF690 
+ Zenith ... 6MN495 
+ Zenith ... 6MN496 
+ Zenith ... 6P416 to 6P419 6P428 
+ Zenith ... 6R084 
+ Zenith ... 6R481 
+ Zenith ... 6R485 
+ Zenith ... 6R631 
+ Zenith ... 6S203 6S222 6S223 6S229 (+) 
+ Zenith ... 6S254 6S256 
+ Zenith ... 6S254AT 6S256AT 
+ Zenith ... 6S301 6S306 6S321 6S322 (+) 
+ Zenith ... 6S330 6S361 
+ Zenith ... 6S341 6S362 
+ Zenith ... 6S439 6S469 
+ Zenith ... 6S632 6S646 6S656 
+ Zenith ... 7-S-28 7-S-53 
+ Zenith ... 7J232 7J259 
+ Zenith ... 7J232T 7J259T 
+ Zenith ... 7J323 7J368 
+ Zenith ... 7S204 7S232 7S240 7S242 (+) 
+ Zenith ... 7S232AT 7S240AT 7S242AT (+) 
+ Zenith ... 7S323 7S342 7S343 7S363 (+) 
+ Zenith ... 7S432 7S433 7S434 
+ Zenith ... 7S681 7S682 7S685 
+ Zenith ... 834 1102 1106 
+ Zenith ... 8M195 
+ Zenith ... 8S129 8S154 
+ Zenith ... 8S359 
+ Zenith ... 8S443 8S451 8S463 
+ Zenith ... 8S647 8S661 
+ Zenith ... 9S203 9S232 9S242 (+) 
+ Zenith ... 9S232AT 9S244AT 9S262AT (+) 
+ Zenith ... 9S307 9S324 9S344 9S367 (+) 
+ Zenith ... 9S365 
+
+ Return to Top of Page 
+
+ RETURN TO TOP OF PAGE 
+ Copyright 2001, 2002, 2003, 2004, 2005 Rex Hebert ... All Rights Reserved

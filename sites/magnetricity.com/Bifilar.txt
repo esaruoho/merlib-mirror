@@ -1,0 +1,264 @@
+www.Magnetricity.com ... Tesla's BIFILAR 'COIL FOR ELECTRO-MAGNETS' Patent # 512,340, dated January 9, 1894 
+
+ IMPORTANT: Your Browser is outdated. Please UPDATE your Browser 
+
+ HOME TESLA Lightning Gallery News | Links Radio Schematics Magnetics 101 DIY Private 
+
+ Quotations Tesla Image Gallery Biography Auto-Biography Colorado Springs Wardenclyffe Wardenclyffe Today 
+
+ Ancient Vedic Physics 
+
+ SANKHYA Introduction Book Details Sankhya Sutras Articles 
+ Secret of Sankhya 
+ by G. Srinivasan 
+
+ Nikola Tesla was greatly influenced by this Ancient Vedic Physics 
+ after meeting with and hearing the teachings of Swami Vivekananda 
+
+ BIFILAR PATENT 
+
+ Celebrating 
+ 11.84 
+ Years Online 
+ Tuesday, October 22, 2013 
+
+ Site Updates are in Progress 
+
+ 1 
+ User(s) currently online 
+
+ Nikola Tesla's Patent for Bifilar wound coils 
+
+ In this Patent, Nikola Tesla tells us that ... 
+ &bull; A standard solenoidal-wound coil of 1000 turns with a potential of 100 volts across it 
+ will have a difference of 0.1 volt between turns. 
+
+ &bull; A BIFILAR-wound coil of the same number of turns 
+ will have a potential of 50 volts between turns. 
+
+ Because the stored ENERGY is a function of the square of the voltages, 
+ the energy in the BIFILAR Coil will be ... 
+
+ 50 squared / .1 squared = 2500 / .01 
+ = 
+ 250,000 times greater than the solenoid 
+
+ UNITED STATES PATENT OFFICE
+
+ NIKOLA TESLA, OF NEW YORK, N.Y. 
+
+ COIL FOR ELECTRO-MAGNETS 
+
+ SPECIFICATION forming part of Letters Patent No. 512,340, dated January 9, 1894. 
+
+ Application filed July 7, 1893. Serial No. 479,804. (No model.) 
+
+ To all whom it may concern: 
+
+ Be it known that I, NIKOLA TESLA, a citizen of the United States,
+ residing at New York, in the county and State of New York, have invented
+ certain new and useful Improvements in Coils for Electro-Magnets and
+ other Apparatus, of which the following is a specification, reference
+ being had to the drawings accompanying and forming a part of the same.
+
+ In electric apparatus or systems in which alternating currents are
+ employed the self-induction of the coils or conductors may, and in fact,
+ in many cases does operate disadvantagely by giving rise to false
+ currents which often reduce what is known as the commercial efficiency
+ of the apparatus composing the system or operate detrimentally in
+ other respects. The effects of self-induction, above referred to,
+ are known to be neutralized by proportioning to a proper degree the
+ capacity of the circuit with relation to the self-induction and
+ frequency of the currents. This has been accomplished heretofore
+ by the use of condensers constructed and applied as separate instruments.
+
+ My present invention has for its object to avoid the employment of
+ condensers which are expensive, cumbersome and difficult to maintain
+ in perfect condition, and to so construct the coils themselves as
+ to accomplish the same ultimate object.
+
+ I would here state that by the term coils I desire to include generally
+ helices, solenoids, or, in fact, any conductor the different parts of
+ which by the requirements of its application or use are brought into
+ such relations with each other as to materially increase the self-induction.
+
+ I have found that in every coil there exists a certain relation between
+ its self-induction and capacity that permits a current of given frequency
+ and potential to pass through it with no other opposition than that of ohmic
+ resistance, or, in other words, as though it possessed no self-induction.
+ This is due to the mutual relations existing between the special character
+ of the current and the self-induction and capacity of the coil, the latter
+ quantity being just capable of neutralizing the self-induction for that
+ frequency. It is well-known that the higher the frequency or potential
+ difference of the current the smaller the capacity required to
+ counteract the self-induction; hence, in any coil, however small the
+ capacity, it may be sufficient for the purpose stated if the proper
+ conditions in other respects be secured. In the ordinary coils the
+ difference of potential between adjacent turns or spires is very small,
+ so that while they are in a sense condensers, they possess but very
+ small capacity and the relations between the two quantities,
+ self-induction and capacity, are not such as under any ordinary
+ conditions satisfy the requirements herein contemplated, because the
+ capacity relatively to the self-induction is very small.
+
+ In order to attain my object and to properly increase the capacity
+ of any given coil, I wind it in such way as to secure a greater difference
+ of potential between its adjacent turns or convolutions, and since the
+ energy stored in the coil considering - the latter as a condenser, is
+ proportionate to the square of the potential difference between its
+ adjacent convolutions, it is evident that I may in this way secure by
+ a proper disposition of these convolutions a greatly increased capacity
+ for a given increase in potential difference between the turns.
+
+ I have illustrated diagrammatically in the accompanying drawings the
+ general nature of the plan which I adopt for carrying out this invention.
+
+ Figure 1 is a diagram of a coil wound in the ordinary manner. 
+ Figure 2 is a diagram of a winding designed to secure the objects
+ of my invention.
+
+ Let A, Figure 1 , designate any given coil the spires or convolutions of
+ which are wound upon and insulated from each other. Let it be assumed
+ that the terminals of this coil show a potential difference of one hundred
+ volts, and that there are one thousand convolutions; then considering any
+ two contiguous points on adjacent convolutions let it be assumed that
+ there will exist between them a potential difference of one-tenth of a volt.
+
+ If now, as shown in Figure 2 , a conductor B be wound parallel with the
+ conductor A and insulated from it, and the end of A be connected
+ with the starting point of B, the aggregate length of the two conductors
+ being such that the assumed number of convolutions or turns is the same, viz.,
+ one thousand, then the potential difference between any two points in
+ A and B will be fifty volts, and as the capacity effect is
+ proportionate to the square of this difference, 
+ the energy stored in the coil as a whole will now be two hundred and fifty thousand as great . 
+
+ Following out this principle, I may wind any given coil either in whole or in part, not only
+ in the specific manner herein illustrated, but in a great variety of ways,
+ well-known in the art, so as to secure between adjacent convolutions
+ such potential difference as will give the proper capacity to neutralize
+ the self-induction for any given current that may be employed. Capacity
+ secured in this particular way possesses an additional advantage in that
+ it is evenly distributed, a consideration of the greatest importance in
+ many cases, and the results, both as to efficiency and economy, are the
+ more readily and easily obtained as the size of the coils, the potential
+ difference, or frequency of the currents are increased.
+
+ Coils composed of independent strands or conductors wound side by side
+ and connected in series are not in themselves new, and I do not regard
+ a more detailed description of the same as necessary. But heretofore,
+ so far as I am aware, the objects in view have been essentially different
+ from mine, and the results which I obtain even if an incident to such
+ forms of winding have not been appreciated or taken advantage of.
+
+ In carrying out my invention it is to be observed that certain facts are
+ well understood by those skilled in the art, viz: the relations of capacity,
+ self-induction, and the frequency and potential difference of the current.
+ What capacity, therefore, in any given case it is desirable to obtain and
+ what special winding will secure it, are readily determinable from the other
+ factors which are known.
+
+ What I claim as my invention is:
+
+ A coil for electric apparatus the adjacent convolutions of which form
+ parts of the circuit between which there exists a potential difference
+ sufficient to secure in the coil a capacity capable of neutralizing its
+ self-induction, as herein before described.
+
+ A coil composed of contiguous or adjacent insulated conductors
+ electrically connected in series and having a potential difference
+ of such value as to give to the coil as a whole, a capacity sufficient
+ to neutralize its self-induction, as set forth.
+
+ NIKOLA TESLA 
+
+ Witnesses:
+
+ Robt. F. Gaylord
+
+ Parker W. Page
+
+ Image accompanying the Patent 
+
+ DEFINITIONS: 
+
+ SELF-INDUCTANCE 
+
+ The magnetic field produced by a current-carrying wire is always perpendicular to that wire, and that the flux intensity of that magnetic field varies 
+ with the amount of current through it, we can see that a wire is capable of inducing a voltage along its own length simply due to a change in current 
+ through it. 
+ This effect is called self-induction : a changing magnetic field produced by changes in current through a wire inducing voltage along 
+ the length of that same wire. 
+ If the magnetic field flux is enhanced by bending the wire into the shape of a coil, and/or wrapping that coil around a material of high permeability, 
+ this effect of self-induced voltage will be more intense.
+
+ Lenz's Law 
+
+Soon after Faraday proposed his law of induction, Heinrich Lenz developed a rule for determining the direction of the induced current in a loop. Basically, Lenz's law states that an induced current has a direction such that its magnetic field opposes the change in magnetic field that induced the current. This means that the current induced in a conductor will oppose the change in current that is causing the flux to change. Lenz's law is important in understanding the property of inductive reactance, which is one of the properties measured in eddy current testing.
+
+ Inductive Reactance 
+
+The reduction of current flow in a circuit due to induction is called inductive reactance. By taking a closer look at a coil of wire and applying Lenz's law, it can be seen how inductance reduces the flow of current in the circuit. In the image below, the direction of the primary current is shown in red, and the magnetic field generated by the current is shown in blue. The direction of the magnetic field can be determined by taking your right hand and pointing your thumb in the direction of the current. Your fingers will then point in the direction of the magnetic field. It can be seen that the magnetic field from one loop of the wire will cut across the other loops in the coil and this will induce current flow (shown in green) in the circuit. According to Lenz's law, the induced current must flow in the opposite direction of the primary current. The induced current working against the primary current results in a reduction of current flow in the circuit.
+
+It should be noted that the inductive reactance will increase if the number of winds in the coil is increased since the magnetic field from one coil will have more coils to interact with.
+
+Similarly to resistance, inductive reactance reduces the flow of current in a circuit. However, it is possible to distinguish between resistance and inductive reactance in a circuit by looking at the timing between the sine waves of the voltage and current of the alternating current. In an AC circuit that contains only resistive components, the voltage and the current will be in-phase, meaning that the peaks and valleys of their sine waves will occur at the same time. When there is inductive reactance present in the circuit, the phase of the current will be shifted so that its peaks and valleys do not occur at the same time as those of the voltage.
+
+ Page Updated : 04|15|2013 
+ Return to TOP of Page 
+
+ Execution: 1.73 Seconds 
+
+ HOME TESLA Lightning Gallery News | Links Radio Schematics Magnetics 101 DIY Private 
+
+ Quotations Tesla Image Gallery Biography Auto-Biography Colorado Springs Wardenclyffe Wardenclyffe Today 
+
+ Ancient Vedic Physics 
+
+ SANKHYA Introduction Book Details Sankhya Sutras Articles 
+ Secret of Sankhya 
+ by G. Srinivasan 
+
+ Nikola Tesla was greatly influenced by this Ancient Vedic Physics 
+ after meeting with and hearing the teachings of Swami Vivekananda 
+
+ Tuesday, October 22, 2013 @ 02:29:02 am US Central Visitor IP : 
+ 207.241.237.211 Since: 
+ 12/19/2001 
+
+ Uptime: 4324 Days 
+ 11.84 Years
+
+ Last Revision: 04/15/2013 
+
+ Comments, Suggestions, Questions are welcome via ... 
+ Email Response to your Email may be somewhat slow ... I have many irons in the fire 
+
+ "We the willing, led by the unknowing, are doing the impossible for the ungrateful. 
+ We've done so much for so long with so little, we are now qualified to do anything with nothing" 
+
+ ... Anonymous 
+
+ "all men dream: but not equally. 
+ Those who dream by night ... wake in the day to find that it was vanity; 
+ but the dreamers of the day are dangerous men, 
+ for they may act their dream with open eyes, to make it possible." 
+
+ ... T.E. Lawrence 
+
+ "For what is the best choice for each individual - is the highest it is possible for him to achieve" 
+
+ ... Aristotle 
+
+ Magnetricity 
+ gladly accepts public and private
+ Donations via PayPal 
+ Magnetricity is a one-man labor of love. All proceeds from Donations 
+ fund Magnetricity.com directly and your support is truly appreciated 
+
+ Except where otherwise noted, all original Content is Copyright &copy; 2004 - 2013 Magnetricity.com 
+ All Rights are Reserved and Protected by International Law. Please ask Permission for use. 
+
+ I DO NOT Authorize ANYONE to Copy or Mirror this Site or its Content for ANY Purpose 
+
+ Thank You For Visiting
