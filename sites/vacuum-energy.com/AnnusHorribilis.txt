@@ -1,0 +1,443 @@
+Path: bcm.tmc.edu!pendragon!news.msfc.nasa.gov!newsfeed.internetmci.com!
+	in1.uu.net!svc.portal.com!news1.best.com!nntp1.best.com!usenet
+From: Patrick Bailey <pgb@padrak.com>
+Newsgroups: alt.sci.physics.new-theories
+Subject: New Physics, by Stefan Marinov
+Date: 11 May 1996 00:03:25 GMT
+Organization: Best Internet Communications
+Lines: 430
+Message-ID: <4n0lgd$jua@nntp1.best.com>
+NNTP-Posting-Host: bailey.vip.best.com
+Mime-Version: 1.0
+Content-Type: text/plain; charset=iso-8859-1
+Content-Transfer-Encoding: 8bit
+X-Mailer: Mozilla 1.1N (Macintosh; I; 68K)
+X-URL: news:alt.sci.physics.new-theories
+
+MARINOV:  ANNUS HORRIBILIS
+
+The following advertisement appeared in 28 March 1996 issue of Nature.
+
+Reprinted for Fusion Facts by request of Stefan Marinov.
+
+------------------------------------------------
+From an enclosure sent with New Energy News,
+      Vol. 3, No. 10, April 1996.
+
+On:   The Institute for New Energy Web Site at:
+      www.padrak.com/ine/
+
+Permission Given to post anywhere and to anyone.
+------------------------------------------------
+
+------------------------------------------------
+[* Note:  Transcribed for Stefan for use on the internet, to be able to 
+be read by all net browsers.  I have replaced all greek letters, vector 
+notations, and integral signs, etc., by ASCII text  A summary of these 
+replacement definitions appears at the bottom of this paper.  Also, text 
+written in italics has been double-quoted, headings have been 
+capitalized, and equations are spaced out for clarity.  My notes are 
+only in the square brackets.  Patrick Bailey, May 1996.  ine@padrak.com]
+------------------------------------------------
+
+The year 1996 will be an earthquake year for conventional physics:  many 
+formulas in the textbooks will be changed, many century-old dogmas will 
+be renounced and many saints will be de- sainted.  This radical change 
+had to begin tens of years ago but the lack of glasnost in physics all 
+over the world has delayed it and instead of having evolutional, 
+step-by-step reformations and several lighter earthquakes, now there 
+will be a tremendous one., Vours l'avez voulu, Georges Dandins!
+
+By my half-a-century experimental and theoretical work I showed the 
+following (see references in my 16 books, 60 refereed papers, 8 paid 
+advertisements and numerous papers and editor's comments in the journal 
+DEUTSCHE PHYSIK edited by me):
+
+1.  THE PRINCIPLE OF RELATIVITY IS WRONG.
+
+Indeed, I measured three times optico-mechanically and once 
+electromagnetically the Earth's absolute velocity.  Its magnitude is 350 
+km/sec with equatorial coordinates of its apex
+
+     delta = -20 degrees, alpha = 12" (approx.).
+
+2.  THE PRINCIPLE OF EQUIVALENCE IS WRONG.
+
+Indeed, my interferometric "coupled mirrors" experiment which was 
+carried out during a year showed that when the laboratory's acceleration 
+was kinematic (acceleration with respect to distant stars), the 
+laboratory's velocity changed, while when it was dynamic (gravitational 
+attraction by the Earth) there was no change.
+
+3.  THE ENERGY CONSERVATION LAW IS WRONG.
+
+My machines MAMIN COLIU and VENETIN COLIU which work with zero, or near 
+to zero, Lenz effect, and SIBERIAN COLIU which works with anti-Lenz 
+effect violated this law.  Only because of lack of money I could not 
+close the energetic circle in the first two, but the third one was not 
+expensive and I could run it as a "perpetuum mobile." The day when I 
+shall present this machine at a press-conference will be the start-day 
+for the earthquake.
+
+4.  THE LORENTZ EQUATION IS WRONG.
+
+If there are two electric charges q, q' moving with velocities [vectors] 
+v, v' and the vector-distance from q' to q is r, according to the 
+Lorentz equation the [vector] force with which q'v' acts on qv is given 
+by the following "Grassmann  formula"
+
+(1)  fG = (mu0 q q' / (4 pi r**3)) {(v dot r) v' - (v dot v') r}.
+
+Numerous experiments done by other authors (Hering's experiments are 
+from the beginning of the century!) and by me showed that the force 
+acting on qv can be not only transverse to its velocity, as required by 
+(l), but also longitudinal.  Any rational man when seeing at least one 
+falsifying experiment rejects the respective formula (Popper).  However, 
+for thousands and thousands of "Betonköpfe" even a hundred experiments 
+were not enough.  In the photograph there is one such falsifying 
+experiment which (as well as the other) can be carried out by children:  
+A cylindrical magnet is cut along one of its axial planes and the one 
+half is turned up-down (the magnetic forces themselves do the rotation).  
+Around this magnet, there is a trough filled with mercury in which the 
+copper ring which can be seen at right swims (the children take salt 
+solution and suspend the ring on threads).  After sending a current of 
+some tens of amperes from the battery at left, which is regulated by the 
+rheostat, the ring begins to rotate.  That's all!
+
+5.  THE LORENTZ-MARINOV EQUATION IS THE RIGHT ONE.
+
+According to (1) f'G [vector] is not equal and oppositely directed to 
+fG.  I obtained Marinov formula by the "most simple and natural 
+symmetrization" of (1) (take into account that [vector] r = - r')
+
+(2)  fm = (fG - f'B)/2
+
+        = (mu0 q q'/ (8 pi r**3))
+
+          {(v' dot r) v + (v dot r) v' - 2 (v dot v') r}.
+
+Proceeding from (2), and assuming Phi is not 0, and the partial of A 
+with respect to t [pA/pt, where p is the greek symbol delta here] is 
+also not 0, I obtained by the "most simple calculations" that the 
+[vector] force with which an electric system acts on a test charge q 
+moving with velocity v is
+
+(3)  f/q = - grad Phi - (pA/pt) + v x B + v S
+
+         = Elor + v x B + v S
+
+where Phi, A are the electric and magnetic potentials generated by the 
+system at the point of the charge's location, Blor = rot A [vector] is 
+the "Lorentz magnetic intensity," Swhit = - div A/2 is the "Whittaker 
+magnetic intensity," and
+
+(4)  Bmar = -(mu0 / (8 pi)) Integral { q' (v x v') (r dot v)/v**2 r**3 }
+
+     Smar = -(mu0 / (8 pi)) Integral { q' (v dot v') (r dot v)/v**2 r**3 
+}
+
+are the "Marinov vector" and "scalar magnetic intensities."  B = Blor + 
+Bmar [vectors] is called "vector magnetic intensity" and S = Swhit + 
+Smar is called "scalar magnetic intensity."  (3) is called the 
+"Lorentz-Marinov equation."  If neglecting the last term and under B we 
+understand Blor we obtain the Lorentz equation which I call the 
+Lorentz-Grassmann equation.  That's the whole theory!
+
+6.  THE ANGULAR MOMENTUM CONSERVATION LAW IS WRONG.
+
+My Bul-Cub machine with interrupted current and rotating Ampere bridge 
+with interrupted current rotated under the action of internal forces 
+only.  Marinov's formula allows violation of the angular momentum 
+conservation law as the magnetic forces with which two charges interact 
+are equal and oppositely directed but "may not lie on the line 
+connecting them."
+
+7.  IT IS IMPOSSIBLE TO VIOLATE THE MOMENTUM CONSERVATION LAW IN 
+ELECTROMAGNETISM.
+
+Obvious conclusion from Marinov's formula.
+
+8.  DISPLACEMENT CURRENT DOES NOT EXIST.
+
+For closed circuits both Grassmann and Marinov formulas do not allow 
+violation of the momentum and angular momentum conservation laws as the 
+first terms in (1) and (2) contain total differentials.  As conventional 
+physics believes in the displacement current of Maxwell, it accepts that 
+all currents always are closed.  I showed by numerous experiments that 
+there is no displacement current (neither in vacuum nor in dielectrics) 
+and one can interrupt the circuits by the help of condensers.  At the 
+age of 15 I understood that displacement current is a phantasmagoria and 
+presented to my teacher in Sofia the following objection:  "If the 
+displacement current between the plates of a condenser acts with 
+magnetic forces on other currents, then according to Newton's third law 
+the other currents must act with magnetic forces on the displacement 
+current and set it in motion.  But how, comrade teacher, can vacuum be 
+set in motion?"  Teacher's answer was:  "Shut up, child"
+
+9.  THE GAUGE TRANSFORMATIONS ARE ILLEGITIMATE.
+
+According to conventional physics not the potentials but the intensities 
+determine the motion of the test charge (exactly the opposite is true), 
+and thus any change of the potentials which leaves the intensities the 
+same is allowable, i.e., one can "calibrate" the potentials.  It is easy 
+to see that the calibration div A = 0 is allowable.  Thus conventional 
+physics "believes" that a "really existing force", the Whittaker force 
+[vector]
+
+     fw = - q v div A/2
+
+        = q v Swhit
+
+can be put equal to zero.
+
+Monstrosity!
+
+To see the action of fw, take two metal spheres the one charged 
+positively and the other negatively.  Put around one of the spheres a 
+circular wire along which current flows so that it is perpendicular to 
+the line connecting the spheres.  When connecting the spheres by a wire 
+and current begins to flow, the circular wire begins to rotate.  The 
+"only force" which acts on the circular wire is fw.
+
+10.  THERE IS NO PROPAGATION OF INTERACTION.
+
+As only mass can move from one point to another, "interaction" can be 
+only a ghost.  But a rational man does not believe in ghosts.  On the 
+other hand, the mathematical expressions of Bmar and Smar show that the 
+"fields" cannot propagate in space with a certain velocity, as Bmar and 
+Smar depend on the "direction of motion" of the test charge.  To these 
+people who may object that one is not sure whether the Lorentz-Marinov 
+equation is the right one, my answer is:
+
+Until the day when some falsifying experiment should be presented (this 
+day will never come!) the world is "impelled" to accept it as true.
+
+11.  POTENTIAL, RADIATION AND RADIATION REACTION ELECTRIC INTENSITIES.
+
+These three kinds of intensities can be obtained if putting in the 
+expression for the Lorentz "electric intensity" [vector] Elor (see (3)) 
+the observation electric and magnetic potentials
+
+(5)  Phi = q / (4 pi e0 r)
+
+     A = mu0 q v / (4 pi r)
+
+with
+
+     r = r' (v' dot r') / c
+
+     v = v' + u' r' / c
+
+where r, v, u are distance, velocity and acceleration at the 
+"observation" moment t and r', v', u' at the "advanced" moment t' = t - 
+r'/c (conventional physics "wrongly" call t' "retarded moment").  
+Conventional physics, following Lienard and Wiechert, "wrongly" writes A 
+with v'.  For this reason conventional physics obtains only the 
+potential and radiation intensities Epot, Erad and "artificially" 
+introduces the radiation reaction intensity Erea coming to 
+phantasmagoric "self-accelerations."  Proceeding from (5) I (and any 
+child who can differentiate!) obtained also the radiation reaction 
+intensity
+
+     Erea = - mu0 q w / (6 pi c)
+
+where w = w' is the charge's super-acceleration.
+
+     Erad = mu0 q r' x {(r' - v' r' / c) x u'} /
+
+            (4 pi (r'- (v' dot r') / c)**3)
+
+is due to "moving mass" (radiated energy), as charges moving with 
+acceleration lose energy, while Erea acts on the radiating charge 
+itself.  To obtain all radiation effects one has simply to integrate the 
+obtained formulas for a single charge.  That's "nearly" all about 
+radiation of electromagnetic waves!
+
+12.  THERE ARE NO "FIELDS."
+
+According to the "field-marshals" the "fields" exist physically.  One 
+can move them and a moving magnetic field produces electric field, etc.  
+When I hear all these "stupidities," I get diarrhea.  After repeating 
+the Rowland experiment (a magnetic needle near a charged disk deviates 
+when the disk is set in rotation), I carried out the inverse one (the 
+disk at rest, the needle rotates) and the co-moving one (disk and needle 
+rotate), taking instead of a needle a Hall detector.  According to the 
+"field marshals" the inverse experiment must give the same effect as the 
+direct one (I observed no effect), while the co-moving experiment must 
+give null result (I observed the same effect as at the direct 
+experiment).  The Inertial experiment can be done charging a conveyer 
+belt.
+
+13.  CURRENT CONDUCTING WIRES BECOME CHARGED POSITIVELY.
+
+Conventional physics asserts that they remain neutral (Clausius 
+postulate).  Meanwhile always after measurements, the rheostat in the 
+photograph remained charged and touching it by hand there was a spark.  
+The positive sign was established by the method known to ancient Greeks.  
+Every child explains the effect taking into account that the positive 
+electrode of the battery "sucks" electrons from the wire while the 
+negative electrodes "spits" electrons and the former effect is 
+"primary."
+
+14.  B-MACHINES AND S-MACHINES.
+
+The electromagnetic machines working on B are called "B-machines" and 
+these ones working on S are called "S-machines." By the help of the 
+first three fingers of his right hand any child older than 15 can show 
+when looking at the third term in (3) that the B-generators "brake."  
+Meanwhile by the help of only one finger any child younger than 15 can 
+show when looking at the fourth term in (3) that the S-generators 
+"accelerate."
+
+15.  THE PERPETUUM MOBILE SIBERIAN COLIU.
+
+Swhit is produced by the first term in (2) and for a complete circuit is 
+null.  For this reason Swhit can be observed only at interrupted 
+circuits (see item 9).  However Smar can be different from zero also for 
+a complete circuit.  Why then has nobody observed it?  Because all 
+people have worked with cylindrical or quasi-cylindrical magnets for 
+which Smar = 0.  Who has cut a cylindrical magnet in two pieces rotating 
+the one half up-down? - NOBODY!   The first man who has done this is 
+called Gennadi Nicolaev and lives in Tomsk in Siberia.  For this reason 
+I called this magnet the SIBERIAN COLIU magnet and the perpetuum mobile 
+which I constructed with it the SIBERIAN COLIU  machine.  The machine 
+shown in the photograph is a SIBERIAN COLIU machine.  It will work as a 
+perpetuum mobile if the "driving" torque produced by the current induced 
+in the ring when it will be set in rotation with a certain velocity will 
+be larger than the friction torque.  I constructed the machine in the 
+photograph in 1993 and the last three years I did "nothing else" than to 
+try to increase its driving torque and decrease its friction torque, 
+noting that all B-currents induced in the rotor generated additional 
+friction torque.  The driving torque was produced only by the S (i.e., 
+Smar) currents.  Smar is very strong near the cutting plane, from the 
+one side positive, from the other negative.  The "dozens" of my SIBERIAN 
+COLIU machines are presented with photographs in DEUTSCHE PHYSIK.
+
+16.  ALL CONVENTIONAL THEORIES FOR THE ORIGIN ON EARTH'S MAGNETIZATION 
+ARE WRONG.
+
+If rotating a cylindrical piece of any metal by a boring machine, one 
+sees that it becomes magnetized.  Conventional physics believes first 
+that only ferromagnetics become magnetized and second that the 
+magnetization is proportional to the "angular" rotational velocity, as 
+this was promulgated by Barnett.  My friend C. Monstein demonstrated 
+that the magnetization is proportional to the "linear" rotational 
+velocity and I called this the "Monstein-Barnett effect." Proceeding 
+from the Monstein-Barnett effect, I calculated the magnetization of the 
+Earth, the Sun and the planets, obtaining excellent coincidences with 
+the measured values.  As Venus is the only planet whose nucleus is 
+liquid, it is not magnetized.  The most cherished conventional theory 
+for Earth's magnetization is the "unipolar dynamo theory" of Elsasser.  
+It is "ridiculous," as a unipolar machine can work only at the existence 
+of sliding contacts and moving with respect to each other parts.
+
+17.  MAGRETIC ENERGY DOES EXIST.
+
+By the most elementary speculations and calculations I showed that:  a) 
+the gravitational energy of two masses is not a negative quantity, as 
+accepted by conventional physics, but a "positive" quantity,  b) the 
+gravitational potential generated by all masses of the universe is equal 
+to c**2, c)  electricity and gravity are two completely analogical 
+sciences from a mathematical point of view.  The "only difference" is 
+that the gravitational "charges" are the proper masses mb = m/SQRT(1 - 
+v**2/c**2) and that negative masses do not exist.  There are "no" other 
+differences.  Thus, a "magretic energy," i.e., a "magnetic kind" of 
+energy in gravity, must exist and gravity is to be called 
+"gravimagretism" (this is the title of part IV of my encyclopædia work 
+CLASSICAL PHYSICS).  I proposed a "very simple" experiment which can 
+reveal the existence of magretic energy.  This experiment, moreover, can 
+serve for measurement of the Earth's absolute velocity.
+
+18.  THE RECESSION HYPOTHESIS FOR THE GALAXIES IS WRONG.
+
+I call stellar "red shift" this one which is caused by the gravitational 
+action of the star on the emitted by it light, "galactic" "red shift" 
+this one which is caused by the gravitational action of the respective 
+galaxy and "cosmic" -  by all cosmic matter.  Conventional physics 
+believes that the big "red shifts" of light coming from remote galaxies 
+are due to their recession velocities.  This is a phantasmagoria.  The 
+most simple calculation, which can be carried out by any child, shows 
+that they are due to the gravitational action of all cosmic matter and 
+that they are proportional "not" to the distance to the emitting galaxy 
+(or quasar) but to the "square" of this distance.  I showed that the 
+experimental data fit "much better" to a square plot.  Respectively, 
+instead of a Hubble constant, a Hubble-Marinov constant is to be 
+introduced, for which the children obtain the "strictly defined value"
+
+     HM**2 = 2 pi delta mu / (3 c**2)
+
+where delta is the gravitational constant and mu is the average mass 
+density in the Universe.
+
+NOTE:  On the 5 March 1996 I submitted to NATURE my paper
+
+"After 500 Years Columbus-Egg-Problem Has Finally Been Solved,"
+
+in which I show how a body can be maintained in an UNSTABLE equilibrium 
+(problem which, contrary to the general opinion, Columbus has NOT 
+solved).  My "Marinov egg" is supported by magnetic forces.  If it has 
+SPHERICAL form, it has three degrees of freedom (the Euler angles) free 
+and represents moreover a PERPETUUM MOBILE.  If before 1 May the paper 
+will not appear in the scientific columns of NATURE, I shall publish it 
+as a paid advertisement.  In the first (or second) case 15 days after 
+the publication I shall present my SIBERIAN COLIU perpetuum mobile at a 
+press conference.
+
+Stefan Marinov
+Morellenfeldgasse 16, A-8010, Graz, Austria
+
+Marinov is Editor of Deutsche Physik,
+an International Glasnost Journal on Fundamental Physics.
+
+[* Notes on Notations:
+
+A summary of symbols I replaced in this file for internet transmission:
+
+alpha  =  the Greek letter alpha.
+
+delta  =  the Greek letter delta.
+
+e0  =  the greek letter epsilon, subscript zero.
+
+mu0  =  the greek letter mu, subscript zero.
+
+pi  =  3.141592653...
+
+fG  =  f subscript G, etc.
+
+f'G  =  f' subscript G, etc.
+
+Phi  =  the Greek capital letter phi.
+
+pA/pt  =  the partial derivative of A with respect to t -
+          (dA/dt using the greek letters delta, not these d's).
+
+x**y  =  (x)^y  =  x to the power y.
+
+Integral { x } =  the Indefinite Integral of x.
+
+Vectors in the above text:
+
+A
+B
+Blor
+Bmar
+Elor
+Epot
+Erad
+Erea
+fG
+fB
+fM
+fW
+r
+u
+v
+
+and their primes, etc.
+
+(v x v')   =  vector cross product of the vectors v and v'
+
+(r dot v)  =  scalar dot product of the vectors r and v
+
+.. end Note.]

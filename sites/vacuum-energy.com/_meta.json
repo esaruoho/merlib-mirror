@@ -1,0 +1,15 @@
+{
+  "source": "web.archive.org",
+  "domain": "vacuum-energy.com",
+  "mirror_date": "2026-04-30T11:57:40.813763",
+  "total_urls": 30,
+  "downloaded": 28,
+  "failed": 2,
+  "files": 45,
+  "file_types": {
+    ".html": 18,
+    ".txt": 20,
+    ".jpg": 5,
+    ".wmv": 2
+  }
+}
