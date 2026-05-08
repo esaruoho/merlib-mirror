@@ -1,0 +1,24 @@
+ESSAY NO. 8A: APPENDIX V 
+
+ COLD FUSION: MY STORY: PART II 
+
+ APPENDIX V 
+
+ Copyright &copy; Harold Aspden, 1998 
+
+ EXTRACT FROM RESPONSE TO U.S. PATENT EXAMINER ON 07/645,192 MAILED FEBRUARY 24, 1992 
+
+Concerning the Applicant's prior art U.K. Patent Specification GB 2,002,953 this, in the Applicant's opinion, is the closest art and it is appropriate to comment. In 1977 the Applicant realised the practical prospect for using in an ion accelerator certain theoretical principles that had emerged from research on electrodynamics. The technical application, as can be seen from the words of the claims, introduces the idea of segmenting a current flow path so that current is carried mainly by heavy ions in one segment and wholly by electrons in another segment. The whole basis of this was connected with free ion discharges, meaning cold-cathode-type electrical discharges in evacuated discharge chambers. The Applicant had no reason at that time to imagine that ions could be accelerated within a host metal. 
+
+ In the event, the U.K. patent was abandoned as the project was somewhat academic. The question, of course, was one of getting people to believe in the electrodynamic principles involved, because there is concern about the imbalance of force and energy. Almost all the emphasis was on anomalous forces but there was some evidence of record that anomalous energy transfer was involved. The project was also aimed at triggering hot fusion, as can be inferred from the last sentence (lines 61-65 of the specification). 
+
+ It was several years later that the Applicant heard of an ion discharge device invented by a Geoffrey Spence which used the magnetron features of the electrode structure 30 in Fig. 8 but instead of using the auxiliary ion discharge (14-15) as an accelerating control Spence used an electric bias field in that electrode structure. This meant that the electrodynamic deceleration problem was overcome in an easier way so that the balancing acceleration derived its added base power from the electric bias rather than the separate ion discharge. It is understood that the Spence discharge device secured a granted U.S. patent [a search would be needed to trace it] and, when built, in did work to provide the excess power predicted theoretically. Unfortunately, hearsay report says that the test devices burn out the electrodes after several hours operation. The merits of the invention of GB 2,002,953 are, however, merely of historic interest, and from the Applicant's viewpoint the need really is to provide a solid-state structure which can aim to create conditions for generating excess heat by drawing on the electrodynamic interactions of heavy ions and electrons. 
+
+ In effect, the subject invention transfers the electrodynamics of the cold ion discharge between electrodes in a low pressure gas and does what is certainly not obvious. The invention creates in an all-metal circuit segments containing free heavy ions and segments excluding free heavy ions and lets the through current involving electrons set up a multiplicity of segmented low speed discharge zones. The theory in the specification draws on certain analysis concerning discharges in water (not metal) to underline the possible feasibility of generating the anomalous electrodynamic action. The prior art revealed anomalous force in conventional ion discharges and in discharges in water. The Applicant has devised a novel structure for accentuating the heat generating property using a segmented all-metal cathode circuit powered by a circulating current whilst an anode merely primes the cathode with free heavy ions. 
+
+ It is hoped that this response will be deemed adequate to take the examination forward. Thank you for sending the Office Action to U.K. by airmail. Please request the mail room to be sure to send the next Action also by airmail to help the Applicant to conform in timely response. 
+
+ 
+
+H. ASPDEN 
+APPLICANT

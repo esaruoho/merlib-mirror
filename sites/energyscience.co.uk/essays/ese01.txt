@@ -1,0 +1,104 @@
+ESSAY NO. 1 
+
+ ENERGY SCIENCE ESSAY NO. 1 
+
+ THE REALITY OF PERPETUAL MOTION 
+
+ Copyright, Harold Aspden, 1996 
+
+Abstract: This Essay was first published in 1996 at pp. 15-22, Vol. 2 No. 8 issue of 'Infinite Energy' , a Magazine having the address P.O. Box 2816 Concord, NH 03302-2816, USA. 
+
+Having been appointed a new member of the Scientific Advisory Board of
+ 'Infinite Energy' , I have been asked by the Editor-in-Chief, Dr. Mallove, to submit an article 'synthesizing from my previous work'. I will have much more of a specific nature to say in future writings, but think it best here to give a kind of introduction which will outline my approach to the 'free energy' field.
+
+Based on simple Newtonian mechanics, perpetual motion within a purely
+mechanical device is impossible. However, once one understands the true
+electrodynamic nature of the force of gravity and how interactions are set up which involve energy transfer between electric charges, then perpetual motion, subject to machine wear and tear, is just a matter of exercising one's ingenuity. This is because electric charges in motion interact as a function of motion relative to one another and by virtue of their interaction with the all-pervading sub-quantum medium that some call a frame of reference but which we will here refer to by its proper name, the aether.
+
+There are three ways in which one can contemplate building a 'perpetual
+motion' machine, which is really what we are all talking about when we use terms such as 'free energy'. They are: 
+1. Build something you imagine might work and then pray for a miracle as you try to set it running. 
+2. Be attentive to claims made by others who say they have built something that does perform such a miracle and then try to replicate it from the gist of what you can find they have disclosed. 
+3. Study the detail of the mechanism of an existing very large perpetual motion machine which you know does work and to which you have access and see if, by first probing the physics of that mechanism, you can devise a way of tapping into its energy activity, just as the alternator draws electrical power from the engine in your automobile.
+
+The middle course above is the one normally adopted and it has its excitement but is very frustrating and I have chosen the third track, and even though that has had its frustrations I have advanced relentlessly. I believe I now understand the physics needed to access that hidden energy and so can help to build the new energy technology.
+
+If too many would-be venturers in this field go along that second track each travelling separately and they try to replicate what they think others may have done, a state of chaos can result. However, even amongst that chaos, which is now becoming so very active, we are witnessing a kind of clustering as order is beginning to emerge at certain focal points. Thus we see 'cold fusion' or 'plasma discharges' or 'permanent
+magnet motors' as giving some of us the feeling that this is all real and that the era of new energy technology can now begin. There are still those, the vast community of scientists who sit on the side lines and watch, confident in their knowledge that all this effort is a waste of time. I say "watch", but it is more correct to say that they look the other way and avoid all thought of getting something for nothing, at least in the 'free energy' sense.
+
+My interest in this scenario has an unusual background. Being well brought up in the disciplines of science and engineering, I could never have dreamt that 'perpetual motion' would be something I would ever write about, far less get involved in experimentally.
+
+Indeed, my Ph.D. thesis was more concerned with the mysterious loss of
+energy that was observed in the electrical steels used in power transformers and in the alternators used to generate power. I became interested career-wise in inventions and my knowledge of magnetism and its related technology was applied to secure patent protection for a major engineering company in U.K. before moving on to IBM at year-end 1959 as their U.K. Patent Manager. Then from 1963 to 1983 I was the director in charge of IBM's European Patent Operations.
+
+I do not recall ever seeing an invention disclosure in IBM that could be
+classified as `perpetual motion', yet even in the 1960s IBM's patent function was processing several thousand invention disclosures per year. I remember, however, from my pre-IBM years discussing with an elderly German visitor his offer of a 'free energy' machine. He declared it would replace the locomotive diesel engines manufactured at one of our plants. As his credentials he said he was chief engineer involved in U-boat design during World War II and then surprised me my saying 'You know Albert Einstein?', then allowing me a very brief glance at a letter addressed to him and signed by Einstein. He followed that by letters from Max Planck and Werner Heisenberg and thereafter went into a display of copious design details of thrust forces in a closed cycle gas turbine having no fuel input.
+
+When I later studied his calculations I found that he had omitted the reaction forces which arise when gas goes around a bend and had only worked out the axial forces on the compression and expansion sets of turbine blades in his proposed engine. He had in fact not done a full analysis and was in breach of Newton's third law of motion, concluding that action and reaction were not in balance. He was wise enough to know that if one can breach that law then one can contemplate the perpetual motion machine.
+
+I was, in those days, part of the conventional world that knows that 'perpetual motion' is impossible, but, unlike many in that world, I was attentive to alternative opinion. On the pure science front, as opposed to engineering proper, I was already rebelling against the Einstein philosophy, which ran contrary to my research findings on magnetism. I must say that, in view of that scientific interest, the names Einstein,
+Planck and Heisenberg made that little episode of the mid-1950 era stick in my memory. I did know enough German to know whether those letters were supportive, but was not allowed to read anything other than the signature, so you can draw the appropriate conclusion.
+
+I have said above that, as far as I remember, IBM did not process any invention disclosures related to `perpetual motion' and I now mention two news items from the Spring 1966 issue of 'Helpware' sent to me by IBM. They read: 
+ Patent Power: IBM has topped the US patents table for the third year running. With a record 1,383 patents in 1995, IBM received 27% more patents than any other company. 
+Glueballs: Quarks have strangeness and charm, but IBM has glueballs. Three IBM scientists working on the fundamental properties of matter have figured out the properties of the things that stick all the other particles together. 
+
+The latter item made me wonder if 'glueballs' could have something to do with 'cold fusion', because 'glue' has its hot and cold forms and there was a time when hot bonding techniques were used in manufacture, whereas today we also see cold-bonded resin technology.
+
+IBM has doubled its patent filing rate since the 1960s and I wonder how many of those 1,383 US patents granted in 1995 are beginning to touch that forbidden boundary which we see blocking the field of 'cold fusion'? There will surely be some that are invasive and traverse the boundary set by the second law of thermodynamics, as I will explain below when I refer to superconductivity.
+
+As a European Patent Attorney, I was well aware of the facts of patent law which declare, unambiguously, that an invention must be capable of industrial application. Under this heading comes the issue of 'perpetual motion'.
+
+Inventions are excluded from patentability if the article or process is alleged to operate in a manner clearly contrary to well-established natural laws, a specific example being a 'perpetual motion machine'.
+Patent law is applied to reject such inventions by the use of a double-barrel gun. The Patent Examiner fires the first barrel if the claim specifies the intended function or purpose of the machine to be the generation of that 'free energy' we talk about. The second barrel is fired if the claim does not declare the intended function and merely specifies the construction of the machine, it being implicit somewhere in the specification that the objective really is to cover a 'perpetual motion' machine. We therefore confront the chicken-and-egg argument of which comes first, (a) demonstrating actual industrial application of a technology that can be categorized as based on 'perpetual motion' inventions so as then to contest a change of patent law or (b) getting scientists to accept that some of their 'well-established physical laws' are open to challenge and so can become disestablished. Without patent protection, R&D funding is not forthcoming. Even investors not interested in patents will not rely on what they see might work and so take independent scientific advice and that implies need for demonstration of a fully tested operable machine, which then takes us back to square one.
+
+I retired early from IBM in 1983 expressly to get back to university and
+continue my private research on the third track introduced above. I had no idea in 1983 that IBM would later take up research aimed at calculating the masses of protons and neutrons, a subject I had written about years before at some length. You see, if we can understand how protons are created we can understand how energy was shed to create the universe. If that understanding shows us that energy radiated into space can be absorbed, stored for a while and then, by some statistical pattern of events, remolded into protons we have an insight into the operation of that perpetual motion machine we inhabit and which we call the 'universe'.
+
+From 1952 onwards I had been dissecting and probing the operating system
+inside that perpetual motion machine, the aether that pervades the universe, recognizing that it had a demonstration model of itself locked in the domain structures we see inside iron crystals and other ferromagnetic substances. It was in 1988 that I switched to that second track, knowing enough by then of what I needed to know about Nature's own perpetual motion machine. That was just before the discovery of 'cold fusion', but just after the discovery of 'warm superconductivity'.
+
+1988 was a year in which a paper of mine entitled 'The Proton Factor and its Unknown Effects' was published. Readers of 'Infinite Energy' (March-April 1996 issue No. 7) may have noticed a letter by Dr. Paul E. Rowe on p.6 in which he refers to the aether as a source of energy. The writing of that 1988 paper of mine was inspired by the experimental discoveries of Dr. Rowe concerning his finding that protons were actually being created in high energy electrical discharges in his gas discharge tubes. Here,at last, was some practical evidence that seemed highly relevant to my theory of proton creation.
+
+Dr. Rowe`s research was showing that high voltage discharges can add
+hydrogen into the gas in the discharge tube and it seemed not to originate in hydride decomposition of the electrodes. If the discharge meant that the aether was disturbed in a way which made it shed energy then the options are 'excess heat', anomalous electrical EMFs in the electrode circuit and/or creation of matter (hydrogen). I was
+interested in all this, but my main interest was the creation of protons from aether energy.
+
+Meanwhile IBM scientists, in 1985, had announced that they had put together at their Yorktown Research Laboratory their GF11 parallel computer using 576 floating point processors to engage in the largest computing task ever confronting a physicist, that of calculating the mass of the proton and the deuteron. So far as I know it is still working on that problem. Yet ten years earlier I had been co-author on a paper published in the mainstream literature which deduced the proton-electron mass as being 1836.152 and, in the event, the leading scientists later measuring the proton-electron mass ratio to very high precision declared:
+
+ The value that they (Aspden and Eagles) calculate is remarkably close to our experimental value. This is even more curious when one notes that they published this result several years before direct precision measurements of this ratio had begun. 
+
+It was 'curious' because of the method used, which relied on energy in an aether ever-striving to create protons and only winning if it had spare energy to shed from its equilibrium requirements. The word 'aether' was something one normally did not mention in a scientific paper appearing in a mainstream physics journal. So the 'curious' note implies that information based on aether theory is something one should look for in the `Old Curiosity Shop`. [It is in London, not too far from Chancery Lane and the Patent Office Library, a better search place for aethereal curiosity].
+
+Other IBM scientists working in their research facility on the outskirts of Zurich in Switzerland were studying the electrical conducting properties of perovskites and, as we know, that led to the technology of 'warm superconductivity'. Here in fact was a breakthrough into the 'free energy' world, though it was not seen as such at the time.
+
+One can, of course, patent chemical compositions which display unexpected
+properties having useful industrial application. One can do that even though what is involved seems contrary to well established physical law. Whatever happened to Ohm's law? 'Warm superconductivity' defies that law.
+
+I authored a book entitled 'Physics without Einstein' and published in 1969. It explained the nature of the neutron and deuteron, as well as pointing out that there is no neutron in the deuteron, but it also explained that a magnetic field acting on a metal locks the energy of that field into a thermodynamic reacting state inside that metal. 
+The book was read by Dr. Jaggi, an IBM scientist at that Zurich laboratory and, on one of my visits, he drew my attention to his experimental discovery, also published in 1969. He had found that there was a curious saturation condition and size-dependent non-ohmic behaviour occurring in germanium and silicon when the magnetic energy equated to kinetic energy within the conductor. See page 124 of my 1972 book 
+ 'Modern Aether Science' .
+
+The point I am making is that when warm superconductivity was discovered
+the scientific world should have realized that energy shed as heat owing to ohmic resistance loss has a way of regenerating electricity in the metal! I did not know it when I did my own Ph.D. research and discovered that the eddy-current losses in electrical sheet steels could, at certain stages in the B-H magnetization cycle, be as much as six times greater than theory predicted. What I did not then realize was that the energy shed as heat was regenerating EMfs which enhanced the current to levels far above the normal ohmic value. In short, what I am saying is that the power transformers in use today, though very efficient, are not as
+efficient as our natural physical laws say they should be, simply because they are doing what physicists say is impossible and regenerating electrical power from the heat they shed.
+
+What I see in the discovery of 'warm superconductivity' is the corresponding discovery that heat released by ohmic heating regenerates EMFs in certain materials having an appropriately tuned response.
+
+I am now saying that by understanding this fully we can break through new
+energy technology barriers and develop efficient ways of converting low grade heat into electricity in breach of the second law of thermodynamics.
+
+It was on pp 29 and 30 of my book 'Physics without Einstein' that I declared it might be possible to pump energy from the aether. The proposal involved a very powerful magnetic field such as can now be set up by a superconductive solenoid and it involved a ferromagnetic core. It was based on theory which some scientific critics then rubbished by declaring that space would need to reveal a preferred magnetic axis,
+which they said would have been discovered if it existed. I now draw attention to the item 'Testing Over-Unity Devices in Germany' on p. 7 of the March-April 1996 No.7 issue of `Infinite Energy' , in which we were told that high ranking authority in Germany was now ready to move forward and pay serious attention to what might be offered on the 'free energy' front. Professor Gruber received a response to this from an
+institutional source in Moscow. It was from Yu. A. Baurov, declaring that an engine running on physical vacuum energy has been developed and tested with a 'free energy' output of 0.5 kW. As back-up information Baurov refers in that communication to to his co-authored paper in Physics Letters A, 162, pp. 32-34 (1992) entitled 'Experimental Observation of Space Magnetic Anisotropy'. The paper says that
+experiments in which test bodies are suspended in a superconductive solenoid display a preferred magnetic direction in space. The level of magnetic induction used is that we see in ferromagnetic materials.
+
+Here is evidence of an aether that can do work, an aether which fits my
+theoretical prediction, the same aether that creates protons and I had good insight into its way of working because I had decoded how it determines the proton-electron mass ratio.
+
+However, the shattering effect of the dawn of 'cold fusion' made 1989 the year when interest in the new energy field escalated. I was interested immediately, owing to my commitment to a theory which was based on proton creation and deuteron formation without neutrons. I was interested because I was already involved in energy anomalies in metal. I was interested because I had written about anomalous forces acting on cathodes in discharge devices.
+
+Indeed, I was interested enough to file patent applications on "cold fusion", securing patent grant in U.K. but was soon to realize that I was up against a Patent Examiner who reads the Wall Street Journal and if the Wall Street Journal says that cold fusion is a non-runner then the US Patent Office bows to that superior authority! I am being a little cynical here, but have noticed the "More Garbage from the U.S. Patent Office " item on page 60 of the March-April No. 7 issue of Infinite Energy and, well, I will not comment further at this time, save to say that the Wall Street Journal will be appropriately authoritative in reporting the eventual business success in Japan as 'free energy' takes off. 
+
+ To continue press: 
+ CONTINUE

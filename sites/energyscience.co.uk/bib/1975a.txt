@@ -1,0 +1,13 @@
+1975a 
+
+ 1975a 
+
+ The following is a paper jointly authored by H. Aspden and D. M. Eagles and published in Il Nuovo Cimento, v. 30A, pp. 235-238 (1975).
+
+ CALCULATION OF THE PROTON MASS IN A LATTICE MODEL FOR THE AETHER 
+
+ Abstract : A lattice model for the aether is shown to give indications of a fundamental charged particle of mass M such that: M/m e is equal to: 
+ (3/4)(108 ) 3 (1843) -4/3) [(3/2) 1/2) -1] -1 = 1836.15232 
+ a value very close to the observed proton-electron mass ratio of 1836.15152(70).
+ Commentary : As for reference [1972a] , this paper was co-authored with Dr. D. M. Eagles of the then-named National Measurement Laboratory in Sydney, Australia. The author had, by reference [1974a] , reported an advance which had substituted a dimuon mass quantum for the pion in a correlation function involving the proton, the latter being in the author's 1969 book 'Physics without Einstein' . This led to discussion with Dr. Eagles and the appreciation that the muon might be the standard building block from which protons are formed. Dr. Eagles took the initiative of writing the paper, again including the emotive word 'aether' in the title and again securing support from his Laboratory Director for its submission to a reputable scientific journal. Il Nuovo Cimento is published by the Italian Institute of Physics. It was 10 years later, in 1985, that Van Dyck, Moore, Farnham and Schwinberg, reporting on their measurement of the proton-electron mass ratio in the International Journal of Mass Spectroscopy and Ion Processes, vol. 66, pp. 327-337 (1985), had occasion to refer to our paper, using the words:
+ "Finally, as a point of interest, Aspden and Eagles have computed a theoretical value (1836.152320) for this mass ratio by apparent classical arguments. The value that they calculate is remarkably close to our experimentally measured value (i.e. within two standard deviations) This is even more curious when one notes that they published this result several years before direct precision measurements of this ratio had begun."

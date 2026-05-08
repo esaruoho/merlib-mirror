@@ -1,0 +1,127 @@
+COSMIC MUD OR COSMIC MUDDLE? 
+
+ COSMIC MUD OR COSMIC MUDDLE? 
+ Why squander taxpayers' money to allow particle physicists to wallow in mud? 
+
+ Copyright, Harold Aspden, 2000 
+
+I am motivated to write this after hearing a radio programme here in U.K. this morning which informed listeners about the developments at CERN in Geneva, Switzerland concerning the demise of the electron-positron collider and its replacement by its higher energy proton-antiproton counterpart. We were well on track, with the discovery of Higgs in sight, but, with this heavily funded venture at CERN now changing direction, the Americans, we were told, with their onward plans for a more powerful electron-positron collider might now be the first to discover Higgs. 
+
+Having read about this in the literature issued by the Institute of Physics here in U.K., I was only passively interested, but I wondered how the ordinary person could see sense in scientists building a 27 km circular tunnel in the vicinity of Geneva and then sucking the air out of it to allow free passage for high energy electrons and positrons in opposite directions aimed at bringing them into collision to see what might happen. That free passage was along imaginary tracks that physicists describe as a curved field, a magnetic field set up by a very costly system of electromagnets built along the inside of that circular tunnel. Power is imparted to the electrons and positrons by accelerating electric fields, the technology being familiar to those who understand what happens in a television tube, where electric fields give power to electrons and also guide them as they scan row after row across the screen. 
+
+You can imagine how many millions of television sets could be made for the cost of a CERN particle collider. You can imagine the pleasure those televisions can deliver to the public at large who pay for the CERN collider and you can wonder how the public might benefit from what is discovered using that CERN collider. 
+
+Well, enlightenment on that was not forthcoming in that radio report. I, however, did learn something I had not heard of before. It seems that if the Higgs particle is discovered it will deliver an answer to the question of why you, the reader, has mass. That I had heard, but what I did not know is the logic of the link between Higgs and mass, mass here not being the mass of the Higgs particle (called a boson), but rather the mass of anything, given that Higgs interacts with everything having a mass property. No, Higgs is not, it seems, about the force of gravity. That is something else. Gravity sets up a field which acts on mass in proportion to the value of that mass, but Higgs, on the other hand, is a kind of field that gives the mass of anything its particular value. 
+
+I was enlightened as to the logic of the connection when the scientist reporting on the subject declared that, in the language particle physicists use amongst themselves, they call the Higgs field 'cosmic mud'. Once a particle sets a course to travel through that mud it encounters an effect owing to 'mud' sticking to it and that gives it mass. 
+
+So there you are. Your money paid in tax and diverted into science funding which gets into the hands of particle physicists cooperating internationally is being spent on trying to solve a riddle of an imaginary universe which wallows in mud, a pursuit which can only be deplored. 
+
+So this is why I am putting these thoughts of mine on record today, November 2, 2000, after hearing that radio broadcast, given, however, that I did put my previous Essay WHY HIGGS? on record on this web site two weeks ago. 
+
+That Essay did show why the CERN electron-positron collider could indicate energy resonance at certain threshold levels, including that interpreted as a sighting of Higgs, but there is no way that the phenomenon could explain why particles have mass. 
+
+For many years that question to me has been a closed subject, easily explained by the physics of the past. Put in simple terms and without reference to mud, cosmic mud or otherwise, a particle exhibits mass as its property of inertia, it being its response in interacting with an accelerating field to react as we do by the instinct of self-preservation. I have written on this elsewhere and so many times over the years that it is becoming tiresome to say it all again. However, in summary, at the demise of the 19th century and dawn of the 20th century, following the discovery of the electron, physicists argued that a charged electric particle, if accelerated would radiate its energy. In their theory they did not take full account of the interaction of that electric charge and the electric field producing the acceleration. Had they done that then, as I was to discover in due course, some half century on, they would have found that, by assuming that no energy could be radiated owing to the particle responding just so as to conserve its energy, then it would exhibit inertia and mass, the mass being in proportion to the electric energy intrinsic to its unitary charge. The constant governing that proportion is simply c 2 , where c is the speed at which a disturbed electric field ripples through the body of electric charge defining the particle. 
+
+Do keep in mind here that all matter at its truly fundamental level is a composition of electrically charged particles. Even the neutron, which has no net electric charge, comprises positive and negative electric charges which balance to be neutral overall. 
+
+The formula E=Mc 2 is the result of that field ripple within electric charge serving to conserve energy. J J Thomson came close to discovering this in the late 19th century, when he discovered a theoretical link between the kinetic energy and electromagnetic energy of an electron in motion. He had limited his calculation to electromagnetic energy seated outside the body of charge involved and so his formula did not give E=Mc 2 . Instead, it gave E=3Mc 2 /4. That was before Einstein got into the act. Once Einstein started writing about the electrodynamics of the electron, he only got his E=Mc 2 formula consistent with the related mass increase with speed, as known from early electron theory, by making the absurd assumption that the electron was accelerated slowly and so energy radiation could be ignored. It is very poor science to argue mathematically that something can be ignored because it is small, given that a true zero is needed to justify the result observed. 
+
+All this amounts to saying that we surely know why and how any electric particle has a mass property. It is a corollary of the Principle of Energy Conservation. It does not involve 'sticking mud' and a playmate called 'Higgs'! 
+
+Once the electron structure of the atom was deciphered and we knew that the electrons in it were being accelerated all the time without radiating any energy, it should have been obvious to ask the relevant questions and solve the riddle of why the mass property exists as a direct manifestation of energy conservation. 
+
+Instead, physicists introduced hypotheses giving birth to quantum theory, without taking that energy conservation into account, without appreciating how electrons adopt different states of motion expressly to avoid interactions which do promote energy radiation and without taking account that the vacuum itself is a real medium which also contains electric charge in motion. 
+
+That is the background, background which offers no mud bath in giving scope for the Higgs phenomenon. 
+
+I admit now that I have a second motive in writing this Essay so soon as a follow-up to the previous Essay on Higgs. I had developed the theme of that Essay by reference to a paper published in 1972 in Physics Letters. It made sense, therefore, to offer what I had to say about Higgs for publication in Physics Letters and so I wrote the paper which I append below as part of this Essay. 
+
+I think it is instructive for those who read this to see how my submission was processed by the relevant Editor of this scientific periodical and so what follows first is my letter to his E-mail address at the department of Applied Mathematics and Theoretical Physics at Cambridge University, followed by his reply dated October 21, 2000. 
+
+P.V. Landshoff, 
+
+Dear Sir, 
+
+I present below the text of a paper which I would be pleased to have considered for publication in Physics Letters B. There are no figures. The case presented is simple and brief. It has the merit of relying solely on what was disclosed in a 1972 Physics Letters paper which I co-authored with a colleague working at the National Measurement Laboratory in Australia. What is new and original is the appreciation that the high energy involved in electron-positron collisions may force just a few electrons to substitute for the prevalent particle form of that 1972 account by which the fine-structure constant was theoretically derived. The result, which requires no equations to present, speaks for itself. 
+
+Incidentally, I am now retired and have not declared a university affiliation, although I do at this time have an active research project here at the University of Southampton in the Department of Electrical Engineering. 
+
+Also, I mention that decades ago when I was developing the subject theory I had left academia to work for IBM, but a physicist Dr. D. M Eagles took an interest in my theoretical efforts, which stem from my experimental Ph.D. work on magnetic reaction phenomena and related energy anomalies, and he was very critical and tried to disprove what I was saying. In the event, however, he was converted to my cause and the outcome was that 1972 Physics Letters paper. I would find it a gratifying tribute to Dr. Eagles if the paper I now offer were to be accepted. Its acceptance might also stimulate further interest in extending electron-positron collider experiments to take us a little closer to the ultimate truth. 
+
+Please advise if you require copies of any of the references. 
+
+Yours sincerely, 
+
+H. Aspden (Ph.D. Cantab) 
+
+ ********** 
+
+Dear Dr Aspden 
+
+Thank you for submitting your paper, which has been assigned the reference number 8901. 
+
+The paper introduces ideas that differ somewhat from those of the conventional theory. The conventional theory is highly successful: it explains a very large number of experimental facts. So the author of any alternative theory has an obligation to show that it is equally successful, as well as pointing out where its predictions differ from the conventional ones. 
+
+This will need a rather long paper, which will not be suitable for a 
+letters journal. I am sorry. 
+
+Peter Landshoff 
+
+ ******* 
+
+ENERGY THRESHOLDS IN HIGH ENERGY ELECTRON-POSITRON COLLISIONS 
+
+ Harold Aspden 
+ Energy Science Ltd 
+ P.O. Box 35, Southampton SO16 7RB 
+
+ Abstract 
+
+Based on criteria concerning particle interactions in relation to volume conservation of space occupied by transmuting electrical charge forms, as originally disclosed in Physics Letters in 1972, it is shown that the data of that paper indicate an energy threshold at 114.9 GeV, the precise value recently observed in CERN electron-positron collider experiments. 
+
+ Main Text 
+
+Although the reported sighting of the Higgs boson at CERN at 114.9 GeV [1] is seen as a landmark in the quest to unravel the mysteries of the aether, the particle underworld of the vacuum state, it leaves open the question of which theory it supports. 
+
+The Higgs boson is the missing link in the Standard Model, the last of seven parameters requiring experimental identification. Six are mass-energy quantities and one is a dimensionless constant having a numerical value incorporating the fine-structure constant. 
+
+However, though little known, there is a different aether model of record in Physics Letters since 1972 [2] which also depends upon seven parameters, six of which are also mass-energy quantities with the other one also involving that dimensionless fine-structure constant. This latter theory, as it developed [3], provided a precise theoretical derivation of all of these seven parameters, although one of the six mass-energy quantities is necessarily unity, it being the unit of reference for the other five. 
+
+Taking the 0.511 MeV electron as that unit, the five are the virtual forms of muon and tau, the graviton (2.587 GeV) [4], the supergraviton (95.18 GeV) [5] and the m o particle, the latter featuring in the key role defined in the 1972 account. As there shown, its mass is 0.04078 times that of the electron. The Higgs boson at 114.9 GeV is not involved as a primary component in this alternative theory. 
+
+The functional role of those particle components in the framework of the aether can be summarized in the following way. The m o particle constitutes the component of the lattice structure, the basis of what is a kind of fluid crystal property of the vacuum state, which defines the E-frame (local electromagnetic reference frame in which matter at rest is seated). The virtual muons are the primary energy component. They populate and define the I-frame (the inertial reference frame). The E-frame has a cyclical harmonious motion about the I-frame and so needs to be dynamically balanced by a G-frame system in juxtaposed motion relative to the E-frame. Here G implies the gravitational role of the vacuum state, which is seated in the presence of the tau, graviton and supergraviton particles which have transient existence in that G-frame, serving only to keep the E-frame in dynamic balance but incidentally developing the phenomenon of gravity. Pairs of tau particles serve the primary quantum gravitational role, whereas gravitons supplement that action in providing mass balance for the E-frame and matter in that E-frame, but cater also for non-quantum gravitational mass fluctuations. The supergraviton is really a cluster of particles created only when heavy molecules of matter are present and then overriding the function of the tau as required to assure full gravitational balance. 
+
+Given this introduction, the contribution here concerns only the response of this particle-vacuum system when we bring an electron and a positron into collision at very high energy as in the CERN collider experiments. The process involves each particle, in acquiring an entourage of virtual electron-positron pairs which embody the energy of their motion. Crucial to the case presented in that 1972 account [2] is the hypothesis that the volume of space occupied by fundamental electric charge forms is always conserved. If of spherical, symmetric, form, charge volume is proportional to the cube of the bounding radius and energy trapped by electrical charge housed within that radius is inversely proportional to that radius. Mass, though normally proportional to energy, is a property that also depends upon the continuum in which the charge is immersed. In the ultimate hydrodynamic balance in a system having uniform mass density, a sphere exhibits half the mass it would otherwise have given no background continuum. Only the m o particle is really affected by this, because electrons and more massive particles occupy so little volume in relation to their intrinsic mass that the effect is negligible. 
+
+What this means, however, is that the mass ratio of electron to m o is such that the cube of [m e /2m o ] is equal to the volume ratio of the m o particle to that of the electron. Now, the thrust of that 1972 Physics Letters paper involved determining that volume ratio, because it was a vital term in the theoretical evaluation of the fine-structure constant. It was there shown to be 1843, which further corresponds to the ratio m o /m e being 0.04078 as that paper also shows. 
+
+To take this argument forward in the context of the CERN collider experiment, we can now see, given that enough volume of space has to be deployed to allow creation of the electron-positron entourage of the colliding particles, this can only come from an action which provides a substitute for some of the m o particles in the E-frame to free the space they occupy. The need is to keep the dynamic balance. The substitution involves matching the mass density, given that the vacuum has its own way of adjusting to preserve its electrical neutrality. 
+
+Now, since an electron in the E-frame has a mass that is 24.52 that of the m o particle, if a single electron is created to take over that dynamic balancing role, then the space occupied by 24 m o particles becomes available to accommodate the electron-positron energy field in the collider experiment. If five electrons are created in such an event, given a higher energy requirement, then the space of 122 m o particles is available. This corresponds to a mass-energy of 122 times 1843 times 0.511 MeV or 114.9 GeV, precisely the value of the event which is claimed as a sighting of the Higgs boson [1]. 
+
+It is submitted, therefore, that this experimental discovery offers support to this author's particle-vacuum model, but not necessarily support for the Standard Model, which in any event does not predict a Higgs boson mass of this specific value. 
+
+A crucial test, of course, is whether, in the future, the electron-positron collider experiments will reveal other energy states, corresponding to the number of substitute electrons deployed in the specific field region occupied by the colliding particles. The following energy levels are indicated over the range of 1 to 10 electrons: 22.6, 46.1, 68.7, 92.3, 114.9, 138.4, 161.0, 184.6, 207.2 and 230.7 GeV. 
+
+However, the constraints imposed by the need for dynamic balance in an active energy field may exclude all but a few of these energy threshold values. The analysis in that 1972 paper [2] leading to the evaluation of the fine-structure constant was based on a 3x3x3 cubic array of those m o particles spinning about a central axis. Dynamically, this can imply a 3x3 sub-group, or even a 4 or 5 sub-group of substituted m e electrons. Hence the energy threshold set by 9 electrons, with onward separation into energy quanta set by 5 and 4 electron sub-groups, could be favoured. This fits well with the statement in report [1] that the Higgs was seen at 114.9 GeV in company with what seemed to be a neutral Z boson (91.2 GeV) when the energy of each colliding beam was just over 103 GeV. The 9 electron threshold is at 207.2 GeV and the 5:4 electron sub-group division corresponds to the energy thresholds at 114.9 GeV and 92.3 GeV, respectively. 
+
+Presumably the Standard Model requires only one Higgs boson form. In contrast this author's model indicates the above spectrum of energy levels. It is submitted that this warrants recording in the archives of science, just in case onward experimental research indicates discovery of several energy thresholds at the levels just predicted. The author would have hesitated in offering this for publication were it not for the remarkable fact that the theory yields an unambiguous value of 114.9 GeV, precisely that reported as observed. However, this is the kind of result that the theory has revealed, notably for constants such as G, the constant of gravitation and the proton/electron mass ratio, the latter derived from proton creation sourced in that virtual muon field of the I-frame [6] and so it is appropriate to put the result on record. 
+
+ References 
+
+[1] Valerie Jamieson, Physics World, October 2000, p. 5. 
+[2] H. Aspden & D. M. Eagles, Physics Letters, 41A, 423-424 (1972). 
+[3] H. Aspden, 'Aether Science Papers', Sabberton Publications, 1996. 
+[4] H. Aspden, 'The Theory of Gravitation', Sabberton Publications, p. 80, 1966. 
+[5] H. Aspden, Speculations in Science and Technology, 12, 179-186 (1989). 
+[6] H. Aspden & D. M. Eagles, Il Nuovo Cimento, 30A, 235-238 (1975). 
+
+ ******** 
+
+H. Aspden
+November 2, 2000 
+
+Readers interested in these Essays may now wish to progress to the next Essay: SUPERCONDUCTIVITY AND THE SUPERGRAVITON 
+
+ ********

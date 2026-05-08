@@ -1,0 +1,10 @@
+1962b 
+
+ 1962b 
+
+ The following is a U.K. Patent Application filed on June 18, 1958 by The English Electric Company Limited, Harold Aspden being one of the three co-inventors. It was published on March 17, 1962.
+ U.K. PATENT NO. 890,791 
+
+ 'NAVIGATIONAL AIDS' 
+
+ Commentary : This is a patent concerning navigational aids for use by a pursuing fighter aircraft attacking a moving target. It concerns a radar display with means for superimposing optically or electronically a reference grid comprising a family of curves indicating precalculated optimum paths by which a pursuing vehicle may achieve a predetermined position relative to the target vehicle from a range of initial positions of the pursuing vehicle. The curves indicate the bearing to be followed by the fighter in attacking the target.

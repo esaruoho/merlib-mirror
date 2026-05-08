@@ -1,0 +1,217 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>energyscience</title><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<style type="text/css">
+<!--
+body {	background-color: #eeeeee; font-family: Arial, Helvetica, sans-serif;	font-size: 12px;	font-style: normal; line-height: 16px; }
+.header {	font-size: 14px;color: white;	line-height: normal;	font-weight: bold;	background-color: #7A9DBD; }
+.domainname {	font-size: 22px;color: white;	line-height: normal;	font-weight: bold;	background-color: #7A9DBD; text-decoration:none; }
+a.menu { 		line-height: normal;	font-weight: normal; color:blue; text-decoration:none; }
+a.menu:hover { text-decoration:underline; }
+
+#navbar { color:white;background-color:#7A9DBD }
+#navbar ul { 	margin:0px;	list-style-type: none; 	padding-left: 1em;	text-indent: 0em; }
+#navbar li { 	margin:0px; 	padding:0px; 	height: 18px; 	display:block; 	float: left; }
+
+.navbarlink a { font-size: 13px;	font-weight: bold; color:white; text-decoration:none;padding:0px 10px 0px 10px;	border-left:1px solid #FFF;
+ }
+.navbarlink a:hover { 	text-decoration:underline;  }
+
+a.listinglink { color:#7A9DBD;text-decoration:none; }
+a.listinglink:hover { text-decoration:underline; }
+
+a.footerlink { font-size: 10px;color:#7A9DBD;text-decoration:none; }
+a.footerlink:hover { text-decoration:underline; }
+-->
+</style>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-72217-2";
+urchinTracker();
+</script>
+<script language="javascript">
+function check_searcha() {
+  var error = 0;
+  var first_name = document.search.Keywords.value;
+  if (first_name == "" || first_name.length < 3) {
+    error_message = "* Please use more than 2 characters when searching the web.";
+    error = 1;
+  } if (error == 1) {
+    alert(error_message);
+    return false;
+  } else {
+    return true;
+  }
+}
+//--></script>
+
+
+</head>
+<body marginwidth="0" marginheight="0" topmargin="0" bottommargin="0" leftmargin="0" rightmargin="0">
+  
+<table width="970" border="0" align="center" cellpadding="0" cellspacing="0" style="border-color : #666666;  border-style: solid; border-width: 1px;background-color:white">
+  <tr>
+    <td><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr><td colspan=2><table width="100%" border="0"  cellpadding="5" cellspacing="0"><tr>
+    <td height=40px style="border-bottom: 1px solid #ffffff;" valign=bottom id="navbar"><b><a href="http://www.energyscience.co.uk" class="domainname">energyscience.co.uk</a></td>
+  <form name="search" action="http://www.zap.co.uk/index.php" method="POST"  onSubmit="return check_searcha();" target="_new"><td  style="border-bottom: 1px solid #ffffff;color:white;" align=right valign=bottom id="navbar"><b>Search the Web: <input type="text" value="" name="Keywords" id="Keywords" size=50><input type=hidden value=yes name=dirsearch>  <input type="submit" value="Search" style="font-family:Arial,Verdana;"></b></td></form>
+</tr></table></td></tr>
+  <tr>
+    <td width="150" class="header">&nbsp;&nbsp;Navigation</td>
+    <td id="navbar"><div id="navbar" nowrap>
+               <ul>
+                   
+      <li><span  class="navbarlink"><a href="category.php?subcat=130300&kid=120400&Keywords=Science">Science</a></span></li> <li><span  class="navbarlink"><a href="category.php?subcat=130300&kid=120401&Keywords=Chemistry">Chemistry</a></span></li> <li><span  class="navbarlink"><a href="category.php?subcat=130300&kid=120402&Keywords=Scientific Software">Scientific Software</a></span></li> <li><span  class="navbarlink"><a href="category.php?subcat=130300&kid=120403&Keywords=Kids Science">Kids Science</a></span></li> <li><span class="navbarlink">&nbsp;</span></li></ul></div></td>
+  
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="top" style="border-right: 1px dashed #7A9DBD;" width=150><table width=100% cellpadding=4 cellspacing=4>
+      
+<tr><td><b><a href="category.php?subcat=130300&kid=120401&Keywords=Chemistry"  class="menu">Chemistry</a></tr></td><tr><td><b><a href="category.php?subcat=130300&kid=120403&Keywords=Kids Science"  class="menu">Kids Science</a></tr></td><tr><td><b><a href="category.php?subcat=130300&kid=120400&Keywords=Science"  class="menu">Science</a></tr></td><tr><td><b><a href="category.php?subcat=130300&kid=120402&Keywords=Scientific Software"  class="menu">Scientific Software</a></tr></td></td></tr></table>
+<table width=100% cellpadding=4 cellspacing=0>
+<tr><td class="header">Categories</td></tr></table>
+  <table width=100% cellpadding=4 cellspacing=4>
+<tr><td><b><a href="category.php?subcat=130200&Keywords=Animals"  class="menu">Animals</a></tr></td><tr><td><b><a href="category.php?subcat=130100&Keywords=General"  class="menu">General</a></tr></td><tr><td><b><a href="category.php?subcat=130500&Keywords=Geography"  class="menu">Geography</a></tr></td><tr><td><b><a href="category.php?subcat=130600&Keywords=History"  class="menu">History</a></tr></td><tr><td><b><a href="category.php?subcat=130400&Keywords=Plants"  class="menu">Plants</a></tr></td><tr><td><b><a href="category.php?subcat=130300&Keywords=Scientific Research"  class="menu">Scientific Research</a></tr></td>      
+  </span></td></tr>
+  </table></td>
+  <td valign=top>
+<script language="JavaScript1.2">
+
+//Specify the marquee's width (in pixels)
+var marqueewidth="584px"
+//Specify the marquee's height
+var marqueeheight="20px"
+//Specify the marquee's marquee speed (larger is faster 1-10)
+var marqueespeed=2
+//configure background color:
+var marqueebgcolor="#000000"
+//Pause marquee onMousever (0=no. 1=yes)?
+var pauseit=1
+
+//Specify the marquee's content (don't delete <nobr> tag)
+//Keep all content on ONE line, and backslash any single quotations (ie: that\'s great):
+
+var marqueecontent='<nobr><a href="http://www.angelmakers.co.uk" style="color:white;" target="_new">* ** . . . 4 missing persons reported in small town in Hungary . . . female serial killer suspected . . . [READ MORE] ** *</a></font></nobr>'
+
+
+////NO NEED TO EDIT BELOW THIS LINE////////////
+marqueespeed=(document.all)? marqueespeed : Math.max(1, marqueespeed-1) //slow speed down by 1 for NS
+var copyspeed=marqueespeed
+var pausespeed=(pauseit==0)? copyspeed: 0
+var iedom=document.all||document.getElementById
+if (iedom)
+document.write('<span id="temp" style="visibility:hidden;position:absolute;top:-100px;left:-9000px">'+marqueecontent+'</span>')
+var actualwidth=''
+var cross_marquee, ns_marquee
+
+function populate(){
+if (iedom){
+cross_marquee=document.getElementById? document.getElementById("iemarquee") : document.all.iemarquee
+cross_marquee.style.left=parseInt(marqueewidth)+8+"px"
+cross_marquee.innerHTML=marqueecontent
+actualwidth=document.all? temp.offsetWidth : document.getElementById("temp").offsetWidth
+}
+else if (document.layers){
+ns_marquee=document.ns_marquee.document.ns_marquee2
+ns_marquee.left=parseInt(marqueewidth)+8
+ns_marquee.document.write(marqueecontent)
+ns_marquee.document.close()
+actualwidth=ns_marquee.document.width
+}
+lefttime=setInterval("scrollmarquee()",20)
+}
+window.onload=populate
+
+function scrollmarquee(){
+if (iedom){
+if (parseInt(cross_marquee.style.left)>(actualwidth*(-1)+8))
+cross_marquee.style.left=parseInt(cross_marquee.style.left)-copyspeed+"px"
+else
+cross_marquee.style.left=parseInt(marqueewidth)+8+"px"
+
+}
+else if (document.layers){
+if (ns_marquee.left>(actualwidth*(-1)+8))
+ns_marquee.left-=copyspeed
+else
+ns_marquee.left=parseInt(marqueewidth)+8
+}
+}
+
+if (iedom||document.layers){
+with (document){
+document.write('<table border="0" cellspacing="0" cellpadding="0" width=100% align=center><td valign=top bgcolor=black>&nbsp;&nbsp;<font face="Arial" size="2" color=red><b>Breaking News:</b></font></td><td valign=top>')
+if (iedom){
+write('<div style="position:relative;width:'+marqueewidth+';height:'+marqueeheight+';overflow:hidden">')
+write('<div style="position:absolute;width:'+marqueewidth+';height:'+marqueeheight+';background-color:'+marqueebgcolor+'" onMouseover="copyspeed=pausespeed" onMouseout="copyspeed=marqueespeed">')
+write('<div id="iemarquee" style="position:absolute;left:0px;top:0px"></div>')
+write('</div></div>')
+}
+else if (document.layers){
+write('<ilayer width='+marqueewidth+' height='+marqueeheight+' name="ns_marquee" bgColor='+marqueebgcolor+'>')
+write('<layer name="ns_marquee2" left=0 top=0 onMouseover="copyspeed=pausespeed" onMouseout="copyspeed=marqueespeed"></layer>')
+write('</ilayer>')
+}
+document.write('</td></table>')
+}
+}
+</script>
+<table align="center" border="0" width="100%" cellpadding="6" style="font-size:12px;font-family:Arial,Verdana;line-height: 16px;"><tr></tr>
+    <tr>
+    <td width=50% valign=top>
+    <a href="url2.php?Keywords=Scientific%20Research&paid=1&destination=Amazon.co.uk/books&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1%252DtSn5amwr%252DpdbTISOSDxV8axca58M1qCJF9H9Zf5iMxXON%255FaafCn8xxTOVxv1PdyvGV%252DK4VKfL%255FnPKJFgiKR1WAHfWugoHAzYo0Nq2pXIlxsOwhxOPunIVKPX6uU16oOd%252D%255Fn%252D7acZf0OX5djddAwByR9fBqxM60xeUIQevVig0sskqFc5Z26Kgt9Mm3XJwJSrdRDqybhXfFfZwQ%252D%252DxjkeygNyQVXF2glh0a9VeIIy59pabTfY4Bp7fxnpnJPe6%255FyZoLOgbArOQgu0fDlzrEn9MwICvXhNBOlm4UKV%255FIUSyMzQY3CZ7PXMXrE8oy6D2uX52OGiKiPwY5LQYkEOW8Ux2DeQ55uXEfSKQULoHB42OONafXSS0vdAJZq%252DWNYssH9VyLwzp4WmuZZ6Xn%26yargs%3DAmazon.co.uk%252Fbooks&pos=1" style="font-size:14px;color:#0000cc;text-decoration:underline" onmouseover="window.status='http://Amazon.co.uk/books'; return true;" onmouseout="window.status='';return true;"  target="_new">Scientific Research at Amazon.co.uk</a>
+    <br>
+     
+     
+     <a href="url2.php?Keywords=Scientific%20Research&paid=1&destination=Amazon.co.uk/books&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1%252DtSn5amwr%252DpdbTISOSDxV8axca58M1qCJF9H9Zf5iMxXON%255FaafCn8xxTOVxv1PdyvGV%252DK4VKfL%255FnPKJFgiKR1WAHfWugoHAzYo0Nq2pXIlxsOwhxOPunIVKPX6uU16oOd%252D%255Fn%252D7acZf0OX5djddAwByR9fBqxM60xeUIQevVig0sskqFc5Z26Kgt9Mm3XJwJSrdRDqybhXfFfZwQ%252D%252DxjkeygNyQVXF2glh0a9VeIIy59pabTfY4Bp7fxnpnJPe6%255FyZoLOgbArOQgu0fDlzrEn9MwICvXhNBOlm4UKV%255FIUSyMzQY3CZ7PXMXrE8oy6D2uX52OGiKiPwY5LQYkEOW8Ux2DeQ55uXEfSKQULoHB42OONafXSS0vdAJZq%252DWNYssH9VyLwzp4WmuZZ6Xn%26yargs%3DAmazon.co.uk%252Fbooks&pos=1" style="color:#000000;text-decoration:none" onmouseover="window.status='http://Amazon.co.uk/books'; return true;" onmouseout="window.status=''; return true;"  target="_new">Find thousands of Books and more at Amazon.co.uk. Read reviews, buy new and used titles. Qualified orders over 15 ship free.</a><br>
+    <a href="url2.php?Keywords=Scientific%20Research&paid=1&destination=Amazon.co.uk/books&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1%252DtSn5amwr%252DpdbTISOSDxV8axca58M1qCJF9H9Zf5iMxXON%255FaafCn8xxTOVxv1PdyvGV%252DK4VKfL%255FnPKJFgiKR1WAHfWugoHAzYo0Nq2pXIlxsOwhxOPunIVKPX6uU16oOd%252D%255Fn%252D7acZf0OX5djddAwByR9fBqxM60xeUIQevVig0sskqFc5Z26Kgt9Mm3XJwJSrdRDqybhXfFfZwQ%252D%252DxjkeygNyQVXF2glh0a9VeIIy59pabTfY4Bp7fxnpnJPe6%255FyZoLOgbArOQgu0fDlzrEn9MwICvXhNBOlm4UKV%255FIUSyMzQY3CZ7PXMXrE8oy6D2uX52OGiKiPwY5LQYkEOW8Ux2DeQ55uXEfSKQULoHB42OONafXSS0vdAJZq%252DWNYssH9VyLwzp4WmuZZ6Xn%26yargs%3DAmazon.co.uk%252Fbooks" class="listinglink" onmouseover="window.status='http://Amazon.co.uk/books';this.style.textDecoration='underline'; return true;" onmouseout="window.status='';this.style.textDecoration='none'; return true;"  target="_new">Amazon.co.uk/books</a><br></td>
+    <td width=50% valign=top>
+    <a href="url2.php?Keywords=Scientific%20Research&paid=1&destination=c-rr.co.uk&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1%252DVSnpamwr%252DofbXNTuKGwlgaxca58MprDJV%255FGtZf5iMxXOJ9bKTDn8VxTOVxv1Pdz%255Fuc%255F6ESJPX%255Fm%255FuJGweJRlGNEfWugoHHzYM4N6yp4edw2L4uw%252Djono9IO9c3Vy68eNO%252DiL%252DNiObJEQ0TvYICyR%252Da%255FPFrwsa%255FwPFPQbeKhwYx7Q2GLOkB5aRchLi2L5oJT7YkCtuPwnWbcMxw9d10lOSgOVRkKlnQ8jABol2eWA5Pg7DMfYcXu7X1jN7MZKGo34wPKRfL5LcwsUvIjSfLkNl1Zy%252DP6qRfoE5mv5%255FNdmuYhROOmL4Pu8LhP401szG5GJvURCSpJQAqPxAzFPaGdAiCSiRnjYa8QscZOaa3uhOONqfXSS0vdAJZ4tGiaZwL4huZjTduHTeVR7TniA%252E%252E%26yargs%3Dc-rr.co.uk&pos=2" style="font-size:14px;color:#0000cc;text-decoration:underline" onmouseover="window.status='http://c-rr.co.uk'; return true;" onmouseout="window.status='';return true;"  target="_new">Y Initiative Is the Engine of Our Growth</a>
+    <br>
+     
+     
+     <a href="url2.php?Keywords=Scientific%20Research&paid=1&destination=c-rr.co.uk&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1%252DVSnpamwr%252DofbXNTuKGwlgaxca58MprDJV%255FGtZf5iMxXOJ9bKTDn8VxTOVxv1Pdz%255Fuc%255F6ESJPX%255Fm%255FuJGweJRlGNEfWugoHHzYM4N6yp4edw2L4uw%252Djono9IO9c3Vy68eNO%252DiL%252DNiObJEQ0TvYICyR%252Da%255FPFrwsa%255FwPFPQbeKhwYx7Q2GLOkB5aRchLi2L5oJT7YkCtuPwnWbcMxw9d10lOSgOVRkKlnQ8jABol2eWA5Pg7DMfYcXu7X1jN7MZKGo34wPKRfL5LcwsUvIjSfLkNl1Zy%252DP6qRfoE5mv5%255FNdmuYhROOmL4Pu8LhP401szG5GJvURCSpJQAqPxAzFPaGdAiCSiRnjYa8QscZOaa3uhOONqfXSS0vdAJZ4tGiaZwL4huZjTduHTeVR7TniA%252E%252E%26yargs%3Dc-rr.co.uk&pos=2" style="color:#000000;text-decoration:none" onmouseover="window.status='http://c-rr.co.uk'; return true;" onmouseout="window.status=''; return true;"  target="_new">We are proud that we offer research services appropriate to the firms' world - class standing in research, supported by regular renewal and enhancement.</a><br>
+    <a href="url2.php?Keywords=Scientific%20Research&paid=1&destination=c-rr.co.uk&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1%252DVSnpamwr%252DofbXNTuKGwlgaxca58MprDJV%255FGtZf5iMxXOJ9bKTDn8VxTOVxv1Pdz%255Fuc%255F6ESJPX%255Fm%255FuJGweJRlGNEfWugoHHzYM4N6yp4edw2L4uw%252Djono9IO9c3Vy68eNO%252DiL%252DNiObJEQ0TvYICyR%252Da%255FPFrwsa%255FwPFPQbeKhwYx7Q2GLOkB5aRchLi2L5oJT7YkCtuPwnWbcMxw9d10lOSgOVRkKlnQ8jABol2eWA5Pg7DMfYcXu7X1jN7MZKGo34wPKRfL5LcwsUvIjSfLkNl1Zy%252DP6qRfoE5mv5%255FNdmuYhROOmL4Pu8LhP401szG5GJvURCSpJQAqPxAzFPaGdAiCSiRnjYa8QscZOaa3uhOONqfXSS0vdAJZ4tGiaZwL4huZjTduHTeVR7TniA%252E%252E%26yargs%3Dc-rr.co.uk" class="listinglink" onmouseover="window.status='http://c-rr.co.uk';this.style.textDecoration='underline'; return true;" onmouseout="window.status='';this.style.textDecoration='none'; return true;"  target="_new">c-rr.co.uk</a><br></td></tr>
+    <tr>
+    <td width=50% valign=top>
+    <a href="url2.php?Keywords=Scientific%20Research&paid=1&destination=www.bournemouth.ac.uk&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1%252DtSk5amwryrdLrOTOeLwFsaxca598JuDpF8HNRIoS5gVOR%255Fa6LHksRxW7064w3Uz%255FSX%252Dq8TLfvynviNEA%252DJRUXYR%252D7%252D3YzDyo0%252DhpmWBtxOgbIqxu%255Frns55DGRGb2uxecTv3%252DPIJdbvTCYI844Ayx6b%252DvJvxMax07ZPHeiHjBtuqg7ZU54M6dUs9bnFKZoMTsMgfc%255FIwCuWIKxw3d10lOSgOVRkKlnQ8jABol2eJjR3v6%255FMdJELubHny9uVK7a%252DyYgcOByDt6c6vUDSkCjEmpwyY3fhnrVpgDzwf5rqMX%255FQKz98%255Fb4busLhP401szG5GJvURCSpJQAqPxAzFPaGdAiCSiRnjZK9QscZOaa3uhOEFuDCACgxMwsM7MXlYp4x2k7FzDJoDGSYUMTauQ55Ag%252E%252E%26yargs%3Dwww.bournemouth.ac.uk&pos=3" style="font-size:14px;color:#0000cc;text-decoration:underline" onmouseover="window.status='http://www.bournemouth.ac.uk'; return true;" onmouseout="window.status='';return true;"  target="_new">Postgraduate Research</a>
+    <br>
+     
+     
+     <a href="url2.php?Keywords=Scientific%20Research&paid=1&destination=www.bournemouth.ac.uk&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1%252DtSk5amwryrdLrOTOeLwFsaxca598JuDpF8HNRIoS5gVOR%255Fa6LHksRxW7064w3Uz%255FSX%252Dq8TLfvynviNEA%252DJRUXYR%252D7%252D3YzDyo0%252DhpmWBtxOgbIqxu%255Frns55DGRGb2uxecTv3%252DPIJdbvTCYI844Ayx6b%252DvJvxMax07ZPHeiHjBtuqg7ZU54M6dUs9bnFKZoMTsMgfc%255FIwCuWIKxw3d10lOSgOVRkKlnQ8jABol2eJjR3v6%255FMdJELubHny9uVK7a%252DyYgcOByDt6c6vUDSkCjEmpwyY3fhnrVpgDzwf5rqMX%255FQKz98%255Fb4busLhP401szG5GJvURCSpJQAqPxAzFPaGdAiCSiRnjZK9QscZOaa3uhOEFuDCACgxMwsM7MXlYp4x2k7FzDJoDGSYUMTauQ55Ag%252E%252E%26yargs%3Dwww.bournemouth.ac.uk&pos=3" style="color:#000000;text-decoration:none" onmouseover="window.status='http://www.bournemouth.ac.uk'; return true;" onmouseout="window.status=''; return true;"  target="_new">Ma / Llm and MSc courses to choose from visit Bournemouth University.</a><br>
+    <a href="url2.php?Keywords=Scientific%20Research&paid=1&destination=www.bournemouth.ac.uk&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1%252DtSk5amwryrdLrOTOeLwFsaxca598JuDpF8HNRIoS5gVOR%255Fa6LHksRxW7064w3Uz%255FSX%252Dq8TLfvynviNEA%252DJRUXYR%252D7%252D3YzDyo0%252DhpmWBtxOgbIqxu%255Frns55DGRGb2uxecTv3%252DPIJdbvTCYI844Ayx6b%252DvJvxMax07ZPHeiHjBtuqg7ZU54M6dUs9bnFKZoMTsMgfc%255FIwCuWIKxw3d10lOSgOVRkKlnQ8jABol2eJjR3v6%255FMdJELubHny9uVK7a%252DyYgcOByDt6c6vUDSkCjEmpwyY3fhnrVpgDzwf5rqMX%255FQKz98%255Fb4busLhP401szG5GJvURCSpJQAqPxAzFPaGdAiCSiRnjZK9QscZOaa3uhOEFuDCACgxMwsM7MXlYp4x2k7FzDJoDGSYUMTauQ55Ag%252E%252E%26yargs%3Dwww.bournemouth.ac.uk" class="listinglink" onmouseover="window.status='http://www.bournemouth.ac.uk';this.style.textDecoration='underline'; return true;" onmouseout="window.status='';this.style.textDecoration='none'; return true;"  target="_new">www.bournemouth.ac.uk</a><br></td>
+    <td width=50% valign=top>
+    <a href="url2.php?Keywords=Scientific%20Research&paid=1&destination=www.nature.com/naturejobs&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1%252DpSkZamwr%252DudL3JT%252DKLw14axca58MNsDph%255FH9Zf5iMxXON%252DaKbCmcxxTOVxv1PdzPad%255Fq8VJPv5kPKIEQ6HR1KID7Kh0YjFzI45Pq0Vb%252DkYirAsw%252Dzrn4BOOS8%252DVi68fNKoz6%252DIEObXTCYI844AzBuZ%255FPJowsi%255F07ZPHeiHjBtuqg7ZU54M6dUs9bnFKZoMTsMgfc%255FIwCuWIKxw3d10lOSgOVRkKlnQ8jABol2eJjR3v6%255FMdJELubHny9uVK7a%252DyYgcOByDt6c6vUDSkCjEmpwyY3fhnrVpgDzwf5rqMX%255FQkKofuH7ovMjNeIpuvyb%252DHsGKQi%252DzIxM4KQc3B8yhYQmxYDpTeiW2IcoOHtDuyhOIFuDCACgxMwsM68XlYssH9VyLwzp4WmuZZ6Xn%26yargs%3Dwww.nature.com%252Fnaturejobs&pos=4" style="font-size:14px;color:#0000cc;text-decoration:underline" onmouseover="window.status='http://www.nature.com/naturejobs'; return true;" onmouseout="window.status='';return true;"  target="_new">Naturejobs: Scientific Research</a>
+    <br>
+     
+     
+     <a href="url2.php?Keywords=Scientific%20Research&paid=1&destination=www.nature.com/naturejobs&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1%252DpSkZamwr%252DudL3JT%252DKLw14axca58MNsDph%255FH9Zf5iMxXON%252DaKbCmcxxTOVxv1PdzPad%255Fq8VJPv5kPKIEQ6HR1KID7Kh0YjFzI45Pq0Vb%252DkYirAsw%252Dzrn4BOOS8%252DVi68fNKoz6%252DIEObXTCYI844AzBuZ%255FPJowsi%255F07ZPHeiHjBtuqg7ZU54M6dUs9bnFKZoMTsMgfc%255FIwCuWIKxw3d10lOSgOVRkKlnQ8jABol2eJjR3v6%255FMdJELubHny9uVK7a%252DyYgcOByDt6c6vUDSkCjEmpwyY3fhnrVpgDzwf5rqMX%255FQkKofuH7ovMjNeIpuvyb%252DHsGKQi%252DzIxM4KQc3B8yhYQmxYDpTeiW2IcoOHtDuyhOIFuDCACgxMwsM68XlYssH9VyLwzp4WmuZZ6Xn%26yargs%3Dwww.nature.com%252Fnaturejobs&pos=4" style="color:#000000;text-decoration:none" onmouseover="window.status='http://www.nature.com/naturejobs'; return true;" onmouseout="window.status=''; return true;"  target="_new">Find the science research job you need. Search thousands of jobs at:.</a><br>
+    <a href="url2.php?Keywords=Scientific%20Research&paid=1&destination=www.nature.com/naturejobs&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1%252DpSkZamwr%252DudL3JT%252DKLw14axca58MNsDph%255FH9Zf5iMxXON%252DaKbCmcxxTOVxv1PdzPad%255Fq8VJPv5kPKIEQ6HR1KID7Kh0YjFzI45Pq0Vb%252DkYirAsw%252Dzrn4BOOS8%252DVi68fNKoz6%252DIEObXTCYI844AzBuZ%255FPJowsi%255F07ZPHeiHjBtuqg7ZU54M6dUs9bnFKZoMTsMgfc%255FIwCuWIKxw3d10lOSgOVRkKlnQ8jABol2eJjR3v6%255FMdJELubHny9uVK7a%252DyYgcOByDt6c6vUDSkCjEmpwyY3fhnrVpgDzwf5rqMX%255FQkKofuH7ovMjNeIpuvyb%252DHsGKQi%252DzIxM4KQc3B8yhYQmxYDpTeiW2IcoOHtDuyhOIFuDCACgxMwsM68XlYssH9VyLwzp4WmuZZ6Xn%26yargs%3Dwww.nature.com%252Fnaturejobs" class="listinglink" onmouseover="window.status='http://www.nature.com/naturejobs';this.style.textDecoration='underline'; return true;" onmouseout="window.status='';this.style.textDecoration='none'; return true;"  target="_new">www.nature.com/naturejobs</a><br></td></tr>
+    <tr><td width=50%  valign=top style="border-color : #ffffff;  border-style : solid; border-width : 1px;"><span style="color:#aaaaaa"><b><a href="url2.php?Keywords=Scientific%20Research&paid=0&destination=www.hypnobirthing.co.uk&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1lVSqJauwuz1IPXeHbGPsFsEkOixhr5oD5F8G6Qr8mQ8Au1%255FPpPxjcR5SeVj6Xqmz4Dm6vgbJPTlmv%252DCDA%252DPTU2LGefpjdjJj95%252DY%255F7jColXxOB1k7Stx9AXb2lXN2PSbtSOjow4FObDKS8d844VnEqUrqQwhY3nhrJcVu%252D3kA8klBmPTgc83PJ2yaPaaao5ZaQEO9SRhXfOfZlWmoZ4kfv2M3hWbGuo%252D3BL7R2efHk%255F%255F%255FGfJc1N4eyvzZHLNv24x8biWX3QrbcMsUD5mibEld7OBRVarYRH0wZAFvfqMTfcqTsf%26yargs%3Dwww.hypnobirthing.co.uk&pos=5" style="color:#999999;text-decoration:underline">Hypnosis In Childbirth - Scientific Research Articles - HypnoBirthing UK</a></b><br><a href="url2.php?Keywords=Scientific%20Research&paid=0&destination=www.hypnobirthing.co.uk&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1lVSqJauwuz1IPXeHbGPsFsEkOixhr5oD5F8G6Qr8mQ8Au1%255FPpPxjcR5SeVj6Xqmz4Dm6vgbJPTlmv%252DCDA%252DPTU2LGefpjdjJj95%252DY%255F7jColXxOB1k7Stx9AXb2lXN2PSbtSOjow4FObDKS8d844VnEqUrqQwhY3nhrJcVu%252D3kA8klBmPTgc83PJ2yaPaaao5ZaQEO9SRhXfOfZlWmoZ4kfv2M3hWbGuo%252D3BL7R2efHk%255F%255F%255FGfJc1N4eyvzZHLNv24x8biWX3QrbcMsUD5mibEld7OBRVarYRH0wZAFvfqMTfcqTsf%26yargs%3Dwww.hypnobirthing.co.uk&pos=5"  style="color:#000000;text-decoration:none;" target="_new">Links to scientific research articles about hypnosis and hypnotherapy in labour ... Scientific Research. History of HypnoBirthing Who Started It. About The ...</a><br>
+    <a href="url2.php?Keywords=Scientific%20Research&paid=0&destination=www.hypnobirthing.co.uk&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1lVSqJauwuz1IPXeHbGPsFsEkOixhr5oD5F8G6Qr8mQ8Au1%255FPpPxjcR5SeVj6Xqmz4Dm6vgbJPTlmv%252DCDA%252DPTU2LGefpjdjJj95%252DY%255F7jColXxOB1k7Stx9AXb2lXN2PSbtSOjow4FObDKS8d844VnEqUrqQwhY3nhrJcVu%252D3kA8klBmPTgc83PJ2yaPaaao5ZaQEO9SRhXfOfZlWmoZ4kfv2M3hWbGuo%252D3BL7R2efHk%255F%255F%255FGfJc1N4eyvzZHLNv24x8biWX3QrbcMsUD5mibEld7OBRVarYRH0wZAFvfqMTfcqTsf%26yargs%3Dwww.hypnobirthing.co.uk&pos=5" style="font-size:11px;color:#666666;text-decoration:none;"  onmouseover="window.status='http://www.hypnobirthing.co.uk'; return true;"  target="_new">www.hypnobirthing.co.uk</a></td><td width=50%  valign=top style="border-color : #ffffff;  border-style : solid; border-width : 1px;"><span style="color:#aaaaaa"><b><a href="url2.php?Keywords=Scientific%20Research&paid=0&destination=www.sciam.com&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1NZSqJauwuz1IPXeHbGPsFsEkOixhr5oD5F8G6Qr8mQ8Au1%255FPpPxjcR5SeVj6Xqmz4Dm6vgbJPTlmv%252DCDA%252DPTU2LGefpjdjJj95%252DY%255F7jColXxOB1k7Stx9AXb2lXN2PSbtSOjow4FObDKS8d844VnEqUrqQwhY3nhrJcVu%252D3kA8klBmPTgc83PJ2yaPaaao5WaQEO9SRhXfOfZpWmoZ4kfv2M3hWbGuo%252D3BO%255FhjVJS4m%255F%255FWJI9JQp%252Daux5DLNbqux9YbfkfnDMBSr1nR196v%252DtcyaCvV3BNtowtCHvW4I6boNDoWtv%252DczLrOK9lgyGP%252DAfzgY3D3Y0F9aUd0UKW80mTeLcgNvra2RpdFcsyp8yu3uYPDtRJvXxgw6tDFkvYEleX4nhpcSDXBF8iPh9N7mtJe0my28PG3zjkwzrAi%252D%255FGWSPd8u4X27USxVHIkvQyor%255FymL7LKiDU5uiQoi%255FMIHcNZkLoGkBlKqmyKs8GL7%252D0348BVZ%255F7ZpEV3n9DiSWxHF7W2c7dbGfRtYxKTRPi3je2J%255FWZ%255FK1FFYRmfYN7qihmRjLQpXc%255FdwFopvUBpJjoiKCh4ovXKr4%252Dn437KKDD0vWzAVqXXyAnonM08ThSdzPVhjkrYr4AdRRMBrPRVuZwr%255FU0XF6oI42I42pGBLDH6Neruu6SQn2GW0v3J9vJXjOtJ5fbDLASV78CGvmd64n0Xo1n4AxhV5A0f1sHowXk8mmL4X93M06TM%26yargs%3Dwww.sciam.com&pos=6" style="color:#999999;text-decoration:underline">Scientific American | Science and Technology News</a></b><br><a href="url2.php?Keywords=Scientific%20Research&paid=0&destination=www.sciam.com&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1NZSqJauwuz1IPXeHbGPsFsEkOixhr5oD5F8G6Qr8mQ8Au1%255FPpPxjcR5SeVj6Xqmz4Dm6vgbJPTlmv%252DCDA%252DPTU2LGefpjdjJj95%252DY%255F7jColXxOB1k7Stx9AXb2lXN2PSbtSOjow4FObDKS8d844VnEqUrqQwhY3nhrJcVu%252D3kA8klBmPTgc83PJ2yaPaaao5WaQEO9SRhXfOfZpWmoZ4kfv2M3hWbGuo%252D3BO%255FhjVJS4m%255F%255FWJI9JQp%252Daux5DLNbqux9YbfkfnDMBSr1nR196v%252DtcyaCvV3BNtowtCHvW4I6boNDoWtv%252DczLrOK9lgyGP%252DAfzgY3D3Y0F9aUd0UKW80mTeLcgNvra2RpdFcsyp8yu3uYPDtRJvXxgw6tDFkvYEleX4nhpcSDXBF8iPh9N7mtJe0my28PG3zjkwzrAi%252D%255FGWSPd8u4X27USxVHIkvQyor%255FymL7LKiDU5uiQoi%255FMIHcNZkLoGkBlKqmyKs8GL7%252D0348BVZ%255F7ZpEV3n9DiSWxHF7W2c7dbGfRtYxKTRPi3je2J%255FWZ%255FK1FFYRmfYN7qihmRjLQpXc%255FdwFopvUBpJjoiKCh4ovXKr4%252Dn437KKDD0vWzAVqXXyAnonM08ThSdzPVhjkrYr4AdRRMBrPRVuZwr%255FU0XF6oI42I42pGBLDH6Neruu6SQn2GW0v3J9vJXjOtJ5fbDLASV78CGvmd64n0Xo1n4AxhV5A0f1sHowXk8mmL4X93M06TM%26yargs%3Dwww.sciam.com&pos=6"  style="color:#000000;text-decoration:none;" target="_new">Science and technology coverage, including trivia and games from Scientific American Visit wwwSciamcom</a><br>
+    <a href="url2.php?Keywords=Scientific%20Research&paid=0&destination=www.sciam.com&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1NZSqJauwuz1IPXeHbGPsFsEkOixhr5oD5F8G6Qr8mQ8Au1%255FPpPxjcR5SeVj6Xqmz4Dm6vgbJPTlmv%252DCDA%252DPTU2LGefpjdjJj95%252DY%255F7jColXxOB1k7Stx9AXb2lXN2PSbtSOjow4FObDKS8d844VnEqUrqQwhY3nhrJcVu%252D3kA8klBmPTgc83PJ2yaPaaao5WaQEO9SRhXfOfZpWmoZ4kfv2M3hWbGuo%252D3BO%255FhjVJS4m%255F%255FWJI9JQp%252Daux5DLNbqux9YbfkfnDMBSr1nR196v%252DtcyaCvV3BNtowtCHvW4I6boNDoWtv%252DczLrOK9lgyGP%252DAfzgY3D3Y0F9aUd0UKW80mTeLcgNvra2RpdFcsyp8yu3uYPDtRJvXxgw6tDFkvYEleX4nhpcSDXBF8iPh9N7mtJe0my28PG3zjkwzrAi%252D%255FGWSPd8u4X27USxVHIkvQyor%255FymL7LKiDU5uiQoi%255FMIHcNZkLoGkBlKqmyKs8GL7%252D0348BVZ%255F7ZpEV3n9DiSWxHF7W2c7dbGfRtYxKTRPi3je2J%255FWZ%255FK1FFYRmfYN7qihmRjLQpXc%255FdwFopvUBpJjoiKCh4ovXKr4%252Dn437KKDD0vWzAVqXXyAnonM08ThSdzPVhjkrYr4AdRRMBrPRVuZwr%255FU0XF6oI42I42pGBLDH6Neruu6SQn2GW0v3J9vJXjOtJ5fbDLASV78CGvmd64n0Xo1n4AxhV5A0f1sHowXk8mmL4X93M06TM%26yargs%3Dwww.sciam.com&pos=6" style="font-size:11px;color:#666666;text-decoration:none;"  onmouseover="window.status='http://www.sciam.com'; return true;"  target="_new">www.sciam.com</a></td></tr>
+    <tr><td width=50%  valign=top style="border-color : #ffffff;  border-style : solid; border-width : 1px;"><span style="color:#aaaaaa"><b><a href="url2.php?Keywords=Scientific%20Research&paid=0&destination=www.tmscotland.org&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1lpSqJauwuz1IPXeHbGPsFsEkOixhr5oD5F8G6Qr8mQ8Au1%255FPpPxjcR5SeVj6Xqmz4Dm6vgbJPTlmv%252DCDA%252DPTU2LGefpjdjJj95%252DY%255F7jColXxOB1k7Stx9AXb2lXN2PSbtSOjow4FObDKS8d844VnEqUrqQwhY3nhrJcVu%252D3kA8klBmPTgc83PJ2yaPaaao5YKQEO9SRhXfOfZtWmoZ4kfv2M3hWbGuo%252D3BL7R2eYG088vGJIN5X7auu2NiHocPOgZ0cOhrQlcw3iD%252Dm%255FS%255FB1Nc2YiPG2PcAzwAaE%252D%252DhPCyMhQoOmJ4%252E%26yargs%3Dwww.tmscotland.org&pos=7" style="color:#999999;text-decoration:underline">Transcendental Meditation: Scientific Research on Transcendental Meditation</a></b><br><a href="url2.php?Keywords=Scientific%20Research&paid=0&destination=www.tmscotland.org&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1lpSqJauwuz1IPXeHbGPsFsEkOixhr5oD5F8G6Qr8mQ8Au1%255FPpPxjcR5SeVj6Xqmz4Dm6vgbJPTlmv%252DCDA%252DPTU2LGefpjdjJj95%252DY%255F7jColXxOB1k7Stx9AXb2lXN2PSbtSOjow4FObDKS8d844VnEqUrqQwhY3nhrJcVu%252D3kA8klBmPTgc83PJ2yaPaaao5YKQEO9SRhXfOfZtWmoZ4kfv2M3hWbGuo%252D3BL7R2eYG088vGJIN5X7auu2NiHocPOgZ0cOhrQlcw3iD%252Dm%255FS%255FB1Nc2YiPG2PcAzwAaE%252D%252DhPCyMhQoOmJ4%252E%26yargs%3Dwww.tmscotland.org&pos=7"  style="color:#000000;text-decoration:none;" target="_new">Scientific research on Transcendental Meditation, an easy to learn, effortless ... in more than 500 scientific research studies conducted at 214 independent ...</a><br>
+    <a href="url2.php?Keywords=Scientific%20Research&paid=0&destination=www.tmscotland.org&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1lpSqJauwuz1IPXeHbGPsFsEkOixhr5oD5F8G6Qr8mQ8Au1%255FPpPxjcR5SeVj6Xqmz4Dm6vgbJPTlmv%252DCDA%252DPTU2LGefpjdjJj95%252DY%255F7jColXxOB1k7Stx9AXb2lXN2PSbtSOjow4FObDKS8d844VnEqUrqQwhY3nhrJcVu%252D3kA8klBmPTgc83PJ2yaPaaao5YKQEO9SRhXfOfZtWmoZ4kfv2M3hWbGuo%252D3BL7R2eYG088vGJIN5X7auu2NiHocPOgZ0cOhrQlcw3iD%252Dm%255FS%255FB1Nc2YiPG2PcAzwAaE%252D%252DhPCyMhQoOmJ4%252E%26yargs%3Dwww.tmscotland.org&pos=7" style="font-size:11px;color:#666666;text-decoration:none;"  onmouseover="window.status='http://www.tmscotland.org'; return true;"  target="_new">www.tmscotland.org</a></td><td width=50%  valign=top style="border-color : #ffffff;  border-style : solid; border-width : 1px;"><span style="color:#aaaaaa"><b><a href="url2.php?Keywords=Scientific%20Research&paid=0&destination=en.wikipedia.org&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1klSqJauwuz1IPXeHbGPsFsEkOixhr5oD5F8G6Qr8mQ8Au1%255FPpPxjcR5SeVj6Xqmz4Dm6vgbJPTlmv%252DCDA%252DPTU2LGefpjdjJj95%252DY%255F7jColXxOB1k7Stx9AXb2lXN2PSbtSOjow4FObDKS8d844VnEqUrqQwhY3nhrJcVu%252D3kA8klBmPTgc83PJ2yaPaaao8XOMRctGPwn7WQKx8kdF0hr%252DpZmRWaCG9%252DzpStB3Zf2k%255F9PqULZFW%252D%252DLu376HcRvMprYcPgfGpbYwsAjHxH%252D8%252Dbo%252E%26yargs%3Den.wikipedia.org&pos=8" style="color:#999999;text-decoration:underline">Scientific method - Wikipedia, the free encyclopedia</a></b><br><a href="url2.php?Keywords=Scientific%20Research&paid=0&destination=en.wikipedia.org&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1klSqJauwuz1IPXeHbGPsFsEkOixhr5oD5F8G6Qr8mQ8Au1%255FPpPxjcR5SeVj6Xqmz4Dm6vgbJPTlmv%252DCDA%252DPTU2LGefpjdjJj95%252DY%255F7jColXxOB1k7Stx9AXb2lXN2PSbtSOjow4FObDKS8d844VnEqUrqQwhY3nhrJcVu%252D3kA8klBmPTgc83PJ2yaPaaao8XOMRctGPwn7WQKx8kdF0hr%252DpZmRWaCG9%252DzpStB3Zf2k%255F9PqULZFW%252D%252DLu376HcRvMprYcPgfGpbYwsAjHxH%252D8%252Dbo%252E%26yargs%3Den.wikipedia.org&pos=8"  style="color:#000000;text-decoration:none;" target="_new">... Scientific research) Jump to: navigation, search. Scientific method ... Social research. Sociology of scientific knowledge. Timeline of scientific method ...</a><br>
+    <a href="url2.php?Keywords=Scientific%20Research&paid=0&destination=en.wikipedia.org&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1klSqJauwuz1IPXeHbGPsFsEkOixhr5oD5F8G6Qr8mQ8Au1%255FPpPxjcR5SeVj6Xqmz4Dm6vgbJPTlmv%252DCDA%252DPTU2LGefpjdjJj95%252DY%255F7jColXxOB1k7Stx9AXb2lXN2PSbtSOjow4FObDKS8d844VnEqUrqQwhY3nhrJcVu%252D3kA8klBmPTgc83PJ2yaPaaao8XOMRctGPwn7WQKx8kdF0hr%252DpZmRWaCG9%252DzpStB3Zf2k%255F9PqULZFW%252D%252DLu376HcRvMprYcPgfGpbYwsAjHxH%252D8%252Dbo%252E%26yargs%3Den.wikipedia.org&pos=8" style="font-size:11px;color:#666666;text-decoration:none;"  onmouseover="window.status='http://en.wikipedia.org'; return true;"  target="_new">en.wikipedia.org</a></td></tr>
+    <tr></tr>
+    <tr><td colspan=2 style="border-top: 1px dashed #7A9DBD;">&nbsp;</td></tr><tr><td width=50%  valign=top style="border-color : #ffffff;  border-style : solid; border-width : 1px;"><span style="color:#aaaaaa"><b><a href="url2.php?Keywords=Scientific%20Research&paid=0&destination=ajloun.blogspot.com&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1lxSqJauwuz1IPXeHbGPsFsEkOixhr5oD5F8G6Qr8mQ8Au1%255FPpPxjcR5SeVj6Xqmz4Dm6vgbJPTlmv%252DCDA%252DPTU2LGefpjdjJj95%252DY%255F7jColXxOB1k7Stx9AXb2lXN2PSbtSOjow4FObDKS8d844VnEqUrqQwhY3nhrJcVu%252D3kA8klBmPTgc83PJ2yaPaaao5WaQEO9SRhXfOfZVWmoZ4kfv2M3hWbGuo%252D3Bd8AbfYW5h8%255FKSK8xJ5vHvydDFduH9nN5Ba0eM7N1R9ca1%255F2DFjdc%255FICuPiJJpoA%252E%252E%26yargs%3Dajloun.blogspot.com&pos=9" style="color:#999999;text-decoration:underline">What's up in Jordan?: Scientific research</a></b><br><a href="url2.php?Keywords=Scientific%20Research&paid=0&destination=ajloun.blogspot.com&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1lxSqJauwuz1IPXeHbGPsFsEkOixhr5oD5F8G6Qr8mQ8Au1%255FPpPxjcR5SeVj6Xqmz4Dm6vgbJPTlmv%252DCDA%252DPTU2LGefpjdjJj95%252DY%255F7jColXxOB1k7Stx9AXb2lXN2PSbtSOjow4FObDKS8d844VnEqUrqQwhY3nhrJcVu%252D3kA8klBmPTgc83PJ2yaPaaao5WaQEO9SRhXfOfZVWmoZ4kfv2M3hWbGuo%252D3Bd8AbfYW5h8%255FKSK8xJ5vHvydDFduH9nN5Ba0eM7N1R9ca1%255F2DFjdc%255FICuPiJJpoA%252E%252E%26yargs%3Dajloun.blogspot.com&pos=9"  style="color:#000000;text-decoration:none;" target="_new">... been interested in the issue of scientific research in Jordan the last couple of ... the national economy, scientific research with quality of graduates, ...</a><br>
+    <a href="url2.php?Keywords=Scientific%20Research&paid=0&destination=ajloun.blogspot.com&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1lxSqJauwuz1IPXeHbGPsFsEkOixhr5oD5F8G6Qr8mQ8Au1%255FPpPxjcR5SeVj6Xqmz4Dm6vgbJPTlmv%252DCDA%252DPTU2LGefpjdjJj95%252DY%255F7jColXxOB1k7Stx9AXb2lXN2PSbtSOjow4FObDKS8d844VnEqUrqQwhY3nhrJcVu%252D3kA8klBmPTgc83PJ2yaPaaao5WaQEO9SRhXfOfZVWmoZ4kfv2M3hWbGuo%252D3Bd8AbfYW5h8%255FKSK8xJ5vHvydDFduH9nN5Ba0eM7N1R9ca1%255F2DFjdc%255FICuPiJJpoA%252E%252E%26yargs%3Dajloun.blogspot.com&pos=9" style="font-size:11px;color:#666666;text-decoration:none;"  onmouseover="window.status='http://ajloun.blogspot.com'; return true;"  target="_new">ajloun.blogspot.com</a></td><td width=50%  valign=top style="border-color : #ffffff;  border-style : solid; border-width : 1px;"><span style="color:#aaaaaa"><b><a href="url2.php?Keywords=Scientific%20Research&paid=0&destination=en.wikipedia.org&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1ndSqJauwuz1IPXeHbGPsFsEkOixhr5oD5F8G6Qr8mQ8Au1%255FPpPxjcR5SeVj6Xqmz4Dm6vgbJPTlmv%252DCDA%252DPTU2LGefpjdjJj95%252DY%255F7jColXxOB1k7Stx9AXb2lXN2PSbtSOjow4FObDKS8d844VnEqUrqQwhY3nhrJcVu%252D3kA8klBmPTgc83PJ2yaPaaao5Y6QEO9SRhXfOfZ1A3Y0vneyybC1KbG%255Fi7nAT%255FwSeY2kk%252DO6YKNZYp%252DqzzZDcWNni%255FowdPhXRp6x1uROX6E6t%26yargs%3Den.wikipedia.org&pos=10" style="color:#999999;text-decoration:underline">Research - Wikipedia, the free encyclopedia</a></b><br><a href="url2.php?Keywords=Scientific%20Research&paid=0&destination=en.wikipedia.org&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1ndSqJauwuz1IPXeHbGPsFsEkOixhr5oD5F8G6Qr8mQ8Au1%255FPpPxjcR5SeVj6Xqmz4Dm6vgbJPTlmv%252DCDA%252DPTU2LGefpjdjJj95%252DY%255F7jColXxOB1k7Stx9AXb2lXN2PSbtSOjow4FObDKS8d844VnEqUrqQwhY3nhrJcVu%252D3kA8klBmPTgc83PJ2yaPaaao5Y6QEO9SRhXfOfZ1A3Y0vneyybC1KbG%255Fi7nAT%255FwSeY2kk%252DO6YKNZYp%252DqzzZDcWNni%255FowdPhXRp6x1uROX6E6t%26yargs%3Den.wikipedia.org&pos=10"  style="color:#000000;text-decoration:none;" target="_new">This research provides scientific information and theories for the explanation ... Scientific research is the subject of different classifications. ...</a><br>
+    <a href="url2.php?Keywords=Scientific%20Research&paid=0&destination=en.wikipedia.org&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1ndSqJauwuz1IPXeHbGPsFsEkOixhr5oD5F8G6Qr8mQ8Au1%255FPpPxjcR5SeVj6Xqmz4Dm6vgbJPTlmv%252DCDA%252DPTU2LGefpjdjJj95%252DY%255F7jColXxOB1k7Stx9AXb2lXN2PSbtSOjow4FObDKS8d844VnEqUrqQwhY3nhrJcVu%252D3kA8klBmPTgc83PJ2yaPaaao5Y6QEO9SRhXfOfZ1A3Y0vneyybC1KbG%255Fi7nAT%255FwSeY2kk%252DO6YKNZYp%252DqzzZDcWNni%255FowdPhXRp6x1uROX6E6t%26yargs%3Den.wikipedia.org&pos=10" style="font-size:11px;color:#666666;text-decoration:none;"  onmouseover="window.status='http://en.wikipedia.org'; return true;"  target="_new">en.wikipedia.org</a></td></tr><tr><td align="right" colspan=2><a href="index.php?subcat=130300&Keywords=Scientific%20Research&xargs=12KPjg1iZSsIGmmvmnN%2DmZDrDaoAtP0cHwsd5sCpIIQYgc5XEZUPV9aNqfwIEnELXD3D2BnueXiKELTcO5WMmKNj82dmaODOH5nt2alscEB6%2D0W9dHL4Mfl7n8nfJKHU82&hData=12KPjg1o1g5ML3y8uvAMnOTOOHxi95lpDG98NqepQNatNe8HdpIJV9T5Px" style="font-size:11;font-family:Arial,Verdana;color:#000000;text-decoration:none"><b>Next Page &gt;&gt;</b></a></td></tr></table></td><td width=126 style="border-left: 1px dashed #7A9DBD;" valign=top align=center>
+<table width=100% cellpadding=2 cellspacing=2></table>
+&nbsp;</td>
+  </tr>
+ 
+</table></td></tr></table>
+<table width="970" align=center border="0" cellpadding="0" cellspacing="0" style="color:#666666;font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 10px; line-height: 16px;"><tr><td align=center>Copyright  2007 All rights reserved - <a href="http://www.jdoqocy.com/click-574188-10457491" target="_new" class="footerlink">Advertise Here</a> <a href="../part.php"  class="footerlink">-</a> Terms & Conditions <a href="../bots/index.php" class="footerlink">-</a> This domain name may be for sale: <a href="http://contact.webpark.co.uk/index.php?domain=energyscience.co.uk"  class="footerlink">Contact Us</a></td></tr></table>
+<script language="JavaScript">
+<!--
+document.search.Keywords.focus();
+ document.getElementById( 'Keywords' ).focus();
+//-->
+</script>
+</body>
+</html>

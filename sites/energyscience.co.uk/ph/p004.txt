@@ -1,0 +1,70 @@
+PHYSICS NO. 4 
+
+ THE PHYSICS OF CREATION: LECTURE NO. 4 
+
+ Your Verdict after 30 Years? 
+
+ Copyright &copy; Harold Aspden, 1999 
+
+These Web pages outline what I see as the physics governing Nature's processes of creation. Here in this Lecture I reach a point where I want to ask you, the reader, a question. I ask if, having browsed through what I have disclosed, you are saying to yourself: "Well, what Aspden says is certainly interesting, but if he is only half right in what he is telling us then surely his ideas would have already come to be accepted and have been adopted as standard teaching." I have now received enough feedback to know that there are many amongst you who really have taken the measure of what I have done and have congratulated me on the effort. However, I seek a verdict from the Establishment body, from those in the corridors of scientific power who feel able to judge what warrants the attention of future generations of physicists and can urge redirection concerning what is taught in universities. So, concerning my question, let me suppose your answer is that you think it is due time that the verdict was forthcoming. What will that verdict be? 
+
+Here scientists will say that the way forward is to write scientific papers which are peer-reviewed by learned journals and so launched into the appropriate forum of opinion. Well, I have done that. It was quite a struggle, conducted in the early years from a non-academic base and in the face of considerable resistance, but I feel that there are enough such papers included in the bibliography of my published work to deserve attention. Press: Aspden's Papers to see that listing. 
+
+The problem, however, is that what I offer is seemingly outrageous in that my case is founded on physicists having misinterpreted some rather basic scientific phenomena and turned their backs on some rather important unsolved mysteries. One in particular is the mystery of how energy really is stored in space devoid of matter. However, there are so many such questions which will need to be given answers in the textbooks of the forthcoming third millenium. 
+
+I have also tried writing books periodically as my research evolved, but here one encounters the book reviewer who is only too ready to exercise criticism when that reviewer has no personal knowledge or association with the author. Yes, I am saying that, in general, those who review books concerned with promulgating new ideas in physics are not disposed to showing enthusiasm in welcoming such works, especially if they are not authored by a colleague or friend. 
+
+Here I make the observation that in my research I set out to build an appropriate qualitative picture of certain physical processes that occur at the fundamental level, avoiding going too far from what was a common sense position, but my test of what evolved was whether it would deliver quantitative results concerning dimensionless physical constants and duly matching the values measured. I championed my case with the primary focus on the one physical constant which encapsulates three parameters all connected with the property of the underworld of space. These are the speed of light c, the unit of charge e we associate with electricity, namely that possessed by the electron, and Planck's quantum of action h. The number 137 was, roughly, the value of hc/2 e 2 in the units then used, namely the cgs system. I saw it as significant that I could derive this number 137 from basic principles. My analysis concerned energy deployment in an aether modelled in some respects on the magnetic domain system prevalent in ferromagnetic crystals. 
+
+Well, I knew I was treading an unwelcome path in using the word 'aether' but I had discovered something that had eluded those who confined themselves to the notional four-space world of Einstein. There was more, much more, of value in what I was discovering from my efforts and, having had no joy in getting referee acceptance for papers on that subject over the years running up to 1969, I funded the private publication of a book entitled: 'Physics without Einstein'. 
+
+I was, by then, a Fellow of the IEE in U.K. and, having had related correspondence published in the Letter to Editor forum of the IEE, it was natural that I should ask for my book to be reviewed by that Institution. They chose as a reviewer one of the key scientists at the National Physical Laboratory, where there was expert knowledge on the measurement of the fundamental physical constants. His name was P. Vigoureux. His review of 'Physics without Einstein' (1969 publication) appeared in the May, 1970 issue of Electronics and Power. 
+
+I admit I had mixed feelings after reading the review and I did not quote from it in the onward efforts to sell the work. My main objective in publishing was to get my theory on public record. Now, however, some 30 years on, as I have come across that review in sorting through my old records, I think the review deserves some comment. I admit it is a fair review, but the conclusion infers that my ideas will inevitably not survive the test of time. I ask you to read that review: 
+
+ Physics without Einstein
+ H. ASPDEN
+ Sabberton, 1969. 224pp. 
+
+Life without Einstein can be complicated, but if it leads to the rich harvest Harold Aspden claims to have reaped, the complication is justified. In his view space 'contains an inertial reference frame and provides an electromagnetic reference frame. Time, as a property of space, could be quantified universally as the relative periodic motion of these two frames. This is the simple, logical proposition on which a new theory of physics can be built. It is hardly hypothesis. Time has to be defined in terms of motion. Motion is relative. Two "something" are needed to have relative motion. Only two features of space are available, the inertial and the
+electromagnetic reference frames'. 
+
+The electromagnetic, or E frame is not, however, sufficient; so Aspden assumes that 'there is something in space moving about the inertial reference frame in juxtaposition with the E frame and providing centrifugal
+balance'. 
+
+This something he calls a G frame, and he assumes that 'the E and G frames have, when undisturbed, the same mass density and rotate in the same sized orbits of radius r'. 
+
+This radius is made out to be h/4 mc,
+where m is the mass of the electron and h and c have the usual meaning. The E and G frames are assigned a relative velocity c, which makes the orbital velocity of each frame equal to c/2, and the angular velocity of rotation c/2r. One might wish the author had been more explicit about the orbits of
+the frames. 
+
+Electromagnetic-wave propagation is explained by the light charged particles of the E frame, gravitation by the heavy charged particles of the G frame. The E frame has a cubic lattice of side d related to the radius r
+of the orbit, and a density of 144 g/cm 3 . Aspden calculates r/d by means which, at a first reading, have not seemed convincing to me. The point is important because from that value of r/d he calculates the fine-structure constant as d/144 r, and finds it equal to 1/137.038, which he claims is 'exactly' the value measured. It very nearly was until, quite recently, Taylor et al changed
+it to 1/137.036. But we must not quibble at a part or two in 100,000. If r/d is indeed obtainable from the first principles of the theory, independently of any knowledge of the values of fundamental constants like e, c or h, the result is remarkable. Remarkable also is the subsequent calculation of the constant of gravitation G in terms of e/m, where e and m are the electronic charge and mass, and of the magnetic moment of the Earth in terms of its radius and angular velocity, and of e and c. 
+
+Innovators who claim such achievements deserve a hearing until their arguments are proved to be fallacious; and as electricity is the foundation of Aspden's cosmology, some electrical engineers may find it worth while
+to study his work and to decide for themselves whether his claims are justified or not. 
+
+P. VIGOUREUX 
+
+There is an undertone of sarcasm in this review. Note the use of the word 'quibble' and the statement that, since electricity underlies the theory proposed it is for 'electrical engineers' (not physicists?) to undertake the task of onward verification. 
+
+I will not dwell here on clarifying the few points questioned by Vigoureux in this review, but will say that the number 144 as used in the mass density term and in the formula for the fine-structure constant are justified independently of one another and are not strictly identical. The mass density quantity is somewhat smaller than 144 gm/cc. It is not a quantity we can sense or measure except indirectly by correlating the gravitational potential energy of an aether particle with its thermal energy based on the local cosmic background temperature times the Boltzmann constant. Also involved is the number of such particles per cc, but as they are spaced in a cubic lattice at that distance d mentioned above and r, being h/4 mc, we know that number if we know r/d. The 144 used in the formula hc/2 e 2 , as 144 (r/d) is based on multiplying 4 by 36 and 36 is derived in units involving d by calculating the moment of inertia of a spinning 3x3x3 cubic lattice array of those aether particles. 
+
+The wonder of this work was the calculation of r/d. Vigoureux acknowledges the result as quite remarkable. He may have expected this not to stand up to scrutiny but at least he could see the merit of the proposition. In the event, it was not an electrical engineer, but a physicist, Dr. D M Eagles, who saw my book 'Physics without Einstein' and, working at the Australian equivalent of the U.K. National Physical Laboratory, namely the CSIRO National Measurements Laboratory, he, in conjunction with a computer specialist there named Dr. Burton, did a thorough check on the analysis of the r/d computation. The result which emerged led to the Director of the Laboratory approving submission of the paper entitled 'Aether Theory and the Fine Structure Constant' [1972a] to Physics Letters. As you may see from that paper the theory gave a result slightly greater than 137.0359, which was and is still today within one part per million of the value as accepted by those who determine the numerical value of this constant used by physicists generally. I draw your attention particularly to the comment I have added to the bibliographic reference to that paper on the fine-structure constant. 
+
+From there, 1972 onwards, the story is that told in these Web pages. I have shown in Tutorial No. 7 in full detail how you may verify the calculation of the value of r/d, should you wish to check what is claimed. You will surely agree that it truly is remarkable to be able to calculate the precise value of that extremely important fine-structure constant. It confirms the insight into the aether structure on which it is based. 
+
+Now, although Vigoureux in his review expressed equal admiration for my book for the theoretical derivation of the Constant of Gravitation G and the magnetic moment of the Earth, there was a surprise to add to all this. It was the fact that that interest shown in the theory at the National Measurement Laboratory in Australia bore further fruit. Within three years the theory had yielded the precise value of the proton electron-mass ratio, based on the assumption that the proton is produced from aether energy. See [1975a] and Tutorial No. 9 . I am indebted to the initiative on the part of Dr. Eagles at the National Measurement Laboratory in Australia which secured publication of another peer-reviewed paper which dared to mention 'aether' in its title. Admittedly the result, the derivation of the proton-electron mass ratio to better than part per million precision was something that 'deserves a hearing'. Here I echo the words of Dr. Vigoureux in that review of my book. 
+
+However, when it comes to my special interest, namely gravity and the unification of gravitation and electromagnetism, I find that there is no evidence of interest from the physics community. Here I am trespassing on Einstein's territory. Einstein did not offer a theory for the fine stucture constant or the proton. His champion in England, Sir Arthur Eddington, had attempted a little number play in trying to explain those quantities but to no avail. So, all I can say is that the story of my theory is not yet complete. Yes, I did, in 1980, publish a new book 'Physics Unified' which was to replace 'Physics without Einstein'. This time the book did receive a review from the Institute of Physics (see Review ) but the book has not attracted any special interest from the section of the physics community that prides itself on understanding cosmology and gravitation. 
+
+In conclusion, may I say that there are many scientists amongst the physics community who strive to learn about Nature's secrets concerning cosmology and gravitation but yet will not tolerate anything that is based on the belief in the reality of an aether. That intolerance means that what I say in my books and in my Web pages is being ignored by them, but there must be amongst their students some who read what I am putting on this Web site and wonder. In wondering, those students, should they dare to question their professors on this topic, will learn a lot from the replies they receive. What they will learn will tell them something about their professors, even if their professors choose to be silent in their response, save to say that they prefer not to waste time by discussing the work of a heretic who still believes there is an aether. 
+
+By these Web pages I claim a hearing and hope those who have read this far have found my story interesting. 
+
+Harold Aspden 
+February 19, 1999 
+
+ The author's E-Mail address is: 
+ h.aspden@physics.org

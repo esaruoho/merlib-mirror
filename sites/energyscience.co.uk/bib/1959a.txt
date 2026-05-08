@@ -1,0 +1,12 @@
+1959a 
+
+ 1959a 
+
+ The following is a U.K. Patent Application filed on December 6, 1955 by The English Electric Company Limited, Harold Aspden being the sole inventor. It was published on August 6, 1959.
+ U.K. PATENT NO. 817,674 
+
+ 'ACCELEROMETERS' 
+
+ Commentary : This is a patent concerning ballistic missile guidance control, where accelerometers are used to provide control data which can be integrated to provide a measure of distance travelled. 
+
+The invention concerns overcoming a difficulty encountered in guided missile control systems in the monitoring of time as between the projected travel of the missile to its target and the time during which the accelerometer system has been operating. The invention provides a secondary stator interacting with the accelerometer rotor used to apply a controlled reaction torque with provision for stabilizing the system when the restraint is absent.

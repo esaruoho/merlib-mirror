@@ -1,0 +1,58 @@
+TUTORIAL 02 
+
+ TUTORIAL NOTE 02 
+
+ These notes teach the mathematical basis of Aether Science theory 
+
+ COLLISIONS 
+
+ Copyright, Harold Aspden, 1997 
+
+In Tutorial No. 1 we discussed the principles governing the motion of a particle of mass m when acted upon by a force. In this Tutorial No. 2 the same approach based on energy conservation will be applied to the collision of two particles. We are, however, going to complicate the problem by declaring that all particles of matter are, at the truly fundamental level, not just something having a mass we can denote as m and then proceed by using Newtonian principles. Instead, we shall see them in their true form as being minute particles of electric charge concentrated into a small volume of space so as to have an energy which we know governs their mass.
+
+Eventually we will need to explain how charge derives its polarity in terms of energy, space and time, in order to justify our master plan of reducing everything in fundamental physics to these three dimensions. However, we are obliged to proceed step by step and so we will accept that those fundamental charges each have the unitary charge e equal in magnitude to that of the electron. Indeed, I admit that I cannot, as yet, solve the riddle of charge polarity. It lies in unexplored territory and, apart from a few brief excursions into that territory, I see it as uncharted ground.
+
+Though electricity is everywhere in us and around us, just as is the aether, the question of what determines whether an electric charge is positive or negative and why like polarity charges repel and unlike polarity charges attract is a mystery. Note that I could say that the measure of energy density is the square of field strength, that the polarity of the charge is the direction of that field and that, since there are positive and negative square roots to a positive energy density expressed as the square of field strength, so there must be two polarities of opposite sign. If that level of explanation satisfies your curiosity then we can move on without concern but, if you share my thoughts, you would still wonder whether there is an oscillation mode at the universal Compton electron frequency and whether phase relationships are the governing factor.
+
+Indeed, I see that question of charge polarity as a challenge and possibly the final frontier of our conquest of physics. It surprises me that the subject is not even mentioned by physicists as something warranting research investigation. It seems that it is easier to explore what happened in the first moments of the 'Big Bang' than to look into what is happening within us and all around us here and now on Earth. 
+
+Note also that I shall not be bringing relativistic mass increase into this enquiry. When two charged particles come into collision at high speed they are normally moving 'freely' and my comments in Tutorial No. 1 concerning relativistic mass increase do apply. Indeed, as I explained in my book 'Physics without Einstein' on pp. 17-18 under the title 'Fast Electron Collision' I can draw attention to an experimental study which confirms this in an interesting way. See the paper by F. C. Champion, Proc. Roy. Soc. Lond., v. 136A, p. 630 (1932) . There are two points of special interest raised by this paper. One is the statement by Champion that:
+
+"Considering the total number of collisions measured it would appear that, if any amount of energy is lost by radiation during close encounters, the number of such inelastic collisions is not greater than a few per cent of the total number."
+
+Yet, your teachers will persist in telling you that there is such energy radiation, as given by the Larmor formula, even though one cannot do the mathematics of deriving the formula for mass increase with speed if there is such radiation. They know that energy is radiated by a radio antenna where, if there are billions of electrons (say, N) all oscillating together as current, then that current squared is a measure of the strength of that radiation. However, they do not seem to comprehend the fact that the individual electrons will not radiate on their own. They can only act collectively and so the energy radiated by that antenna is proportional to N(N-1) and not proportional to N 2 . To the radio world, with N measured in billions, or rather many billions of billions, these two quantities are as good as the same, but the individual mass of each of those electrons is quite small and that small difference in energy radiated is what accounts for the inertial mass of the electron. Champion's experiment proved that they do not radiate the energy that gives them that inertial mass. Even Einstein had to assume that, but teacher's have swept the problem aside and they still teach that energy is radiated by the electron when accelerated. Then, when confronted with electron acceleration within the atom, they hide behind the notions of quantum theory to say that the electron only radiates when it jumps between two stable states of motion in the atom. 
+
+The other point is rather subtle. There is some evidence hidden in the experimental data obtained by Champion which leads me to think that there is a statistical chance that a hidden jitter motion, that of the aether, can get involved in those fast electron collisions. Perhaps one day I shall discover my old notes on that theme and put my findings into these Web pages.
+
+Moving on, our reason for introducing electric charge in motion is the physical reality that energy involved in all collision events between particles, as seen at the ultra-microscopic level, is essentially in electrodynamic form and spreads over the field environment of the collision. It is not just something that is seated in one or other of the particles and which gets pooled only at the instant of contact in the collision. The dominating fact is that energy is conserved and, now assuming that the masses of the individual particles do not change because the speeds involved are so low compared with the speed of light, we will proceed here by relying on a force formula that we shall derive from first principles in the next Tutorial No. 3.
+
+That formula declares that the electrodynamic force between two charges e, e' acts directly along the line joining them and is proportional to ee', inversely proportional to the square of their separation distance and directly proportional to the square of their relative velocity. Two electrically neutral particles really comprise numerous such charges of opposite polarity and it is easy to suppose that those individual forces between the numerous pairs of charges approaching collision will cancel out because they all share the motion of their parent particle. However, our sole concern is what happens at the moment of each individual impact between two charges as the parent particles crash into one another. Each colliding pair will have a Coulomb potential ee'/x, if x is the distance between their charge centres at the moment they suffer the change of speed. That remains the same, whether the collision is about to occur or whether it has just occurred. The electrodynamic potential, according to our above formulation, will similarly need to remain the same under these circumstances, since energy is conserved, and so the square of relative velocity of the charges is unchanged as well. However, as you know from mathematics, the square of a negative quantity is the same as the square of its positive equivalent. This means that the event of collision can reverse the sign of the relative velocity as between the two colliding charges.
+
+What is here suggested is that two electrically neutral particles of matter can enter a collision and, given no loss of energy in the process, emerge from that collision with their relative velocities reversed. Yet the reason for this is their microscopic composition as an aggregation of numerous fundamental component electric particles, such as electrons and positively charged atomic nuclei. This proposition has been deduced by applying a force formula that we shall in turn derive from first principle analysis in Tutorial No. 3.
+
+To proceed, the task at hand is to analyze in terms of mechanics the energy involved when two particles of different masses m, M come into collision at velocities of u, U, respectively and emerge from that collision at velocities v, V, respectively, assuming no loss of energy by radiation or otherwise. We proceed, basing our analysis solely on the energy conservation requirement and the reversal of the relative velocities in the collision.
+
+Write: 
+ U-u = v-V 
+and rearrange to give:
+ U+V = v+u 
+Equate the combined kinetic energies of the two particles before and after the collision:
+ mu 2 /2+MU 2 /2 = mv 2 /2+MV 2 /2 
+Now multiply throughout by 2, rearrange and factorize the terms to get:
+ m(u-v)(u+v) = M(V-U)(V+U) 
+Next, use the second equation to simplify the above expression and obtain:
+ m(u-v) = M(V-U) 
+Again rearrange:
+ mu+MU = mv+MV 
+
+The equation now obtained says that the combined linear momentum of the two particles before impact is equal to that of the particles after impact and so shows that momentum is conserved when two particles interact. In mechanics particle interaction is by contact and so, since rate of change of momentum is a measure of force, we can say that no net force is generated by particle interaction. In other words, if one part of a mechanical system acts on another part to set up forces between those parts, the action equals the reaction because the two forces must sum to zero.
+
+It follows that we have derived Newton's Third Law of Motion by applying first principles based solely on energy conservation and a law of force involving relative motion.
+
+Take note that the conservation of energy applies to the whole system and that the system is, in its microcosmic sub-structure, comprised of electric charges, as is the aether itself. Therefore, at all times, in applying Newton's Third Law of Motion, one must not be unduly surprised if anomalies are encountered because the aether itself has got into the act. Isaac Newton had no authority to rule out possible circumstances where, with energy conserved, the reaction of the aether intrudes into the picture and asserts forces on matter. Indeed, it must if it is to shed energy that finds its way into the matter form as by creating protons and electrons.
+
+The starting point for determining what is possible and what is not possible concerning unbalanced forces is the conservation of energy without the help of Newton's Third Law of Motion. The territory where the force anomalies are to be found is that known as electrodynamics, which in turn gets us into the world of gravitation. So let us proceed by moving to Tutorial No. 3 and deriving that electrodynamic formula introduced above. 
+
+ To progress to the next Tutorial press: 
+ Tutorial No. 3 
+ *

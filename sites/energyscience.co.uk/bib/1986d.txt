@@ -1,0 +1,23 @@
+1986d 
+
+ 1986d 
+
+ The following is a paper by H. Aspden published in Hadronic Journal, v. 9, pp. 129-136 (1986).
+
+ THE THEORETICAL NATURE OF THE NEUTRON AND THE DEUTERON 
+
+ Abstract : A Thomson-charge group model, which in 1975 gave a theoretical proton-electron mass ratio of 1836.15232, is now shown to give equally precise results for the several quantitative properties of both the neutron and the deuteron. 
+ Commentary : This is the first of a sequence of eight papers by the author which were published in Hadronic Journal during the period 1986-1989. Full copies of all these papers and the six published in Physics Essays during the period 1988-1995 are included in the author's separately published collection of papers entitled 'Aether Science Papers' . 
+ The 'Thomson-charge group model' referenced in the abstract is a composite structure formed by spherical charges in surface contact, each charge having an energy given by: 
+ E = 2e 2 /3a 
+where e is the electric charge and a is the radius of the sphere bounding the charge.
+
+When two such charges are in contact one obtains an overall energy which is the sum of the two energies of the individual charge offset by the negative Coulomb interaction energy, which, in the cgs esu system of units used for vacuum interactions, is e 2 divided by the sum of the two radii. It is simple algebra to show that certain relationships exist between charge radii and the corresponding individual particle energies when overall energy is minimized or is put equal to the energy of either individual charge. Thus one can begin with a source charge and bring in standard charge quanta which grow in energy terms by virtue of the interaction and can be shed as newly-created particle forms when energy impulses promote separation.
+
+The whole scenario of fundamental particle creation develops from the
+above formulation by J. J. Thomson when applied in this way. The author has found that this is at the very heart of all activity in
+fundamental physics, ranging from the proton to the graviton and notwithstanding the imaginary picture of 'quarks'. It was first 'discovered' in its most fundamental application when the author developed a model of the aether based on point charges and found that to get to a theoretical value of the fine-structure constant that was exact he simply had to make those charges finite in form. The formula that worked to give the right result was the J.J. Thomson formula!
+
+Concerning the so-called 'quark', the particles of imaginary fractional charge, rather than the unitary charge e, the way the reader should view that subject is to question whether a particle of charge e that stands alone for one third of the time but is part of a three-charge, e, -e, e group, the remaining two thirds of the time, if deemed a single entity, comprises two charges of 2e/3 and one charge of -e/3. Sometimes physicists have problems if what they think is a single charge e behaves as if it can split into three fragments and yet they cannot isolate those individual fragments. They look for complex solutions and abstract interpretations when a little common sense and a classical view on the causal foundations of physics will, in the end, give the answers.
+
+Of course, the classical viewpoint can be misleading, as one may see from a study of the background to Earnshaw's theorem, which does concern how charges interact in a vacuum, but that is another story as the reader may see by reading chapter 9 of the author's 1972 book 'Modern Aether Science' .

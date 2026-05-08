@@ -1,0 +1,91 @@
+TUTORIAL 20 
+
+ TUTORIAL NOTE 20 
+
+ Welcome to the Second 'Semester' of Ten Tutorial Notes, which teach the mathematical basis of Aether Science theory. 
+
+ TAKING STOCK: A CONCLUDING DISCUSSION 
+
+ Copyright, Harold Aspden, 1999 
+
+I propose to conclude this second set of ten tutorial notes with a discussion of something that I have thought about, on and off, for some time, but which needed a flash of inspiration before I said anything about it. 
+
+It is whether I dared to indulge in speculation of a kind that some might call mere 'numerology', 'playing with numbers'. 
+
+I remind you of the theoretical formula which my theory delivered for the value of G, the constant of gravitation: 
+ G = (4 ) 2 (e/m e ) 2 /(108 ) 6 (g) 8 ............. (1) 
+where e/m e is the electron charge/mass ratio in electrostatic cgs units and g is the graviton/electron mass ratio. 
+
+As should be self-evident, I did not come to formulate that equation by merely speculating about numerical relationships, though there will be those in the scientific community who suspect that I somehow contrived things to come to a numerical value for g that assured the long-sought relationship between G and e/m e . 
+
+For the record, the above formula and its full derivation, including the primary step of discovering the theoretical derivation of the value of g, was first published by me in 1966 in the second edition of my book The Theory of Gravitation . The above equation (1) appears on page 80 of that work, with g given as 5062.75. The derivation of the formula is also presented in these web pages in Tutorial No. 6 . 
+
+Looking back to pages 78 and 79 of that work I see that I do not discuss how the graviton is created, but rather, in my quest to assess its mass, I discuss its process of decay, concluding that it involves an energy quantum which, in units of the electron's rest-mass energy, is the integer 5063, a result backed by the statement at the top of page 79: 
+ "This must be an integer because it is the number of electrons and positrons formed in a reaction." 
+The onward analysis, which showed how this energy quantum, adjusted very slightly for reasons there stated, became part of a formula leading to equation (1). Hence that g value of 5062.75. 
+
+That was back in the year 1966. That same analysis was based on a theoretical computation of a factor relating the volume of the quon to that of the electron. The quon is the charge form comprising the main lattice structure of the aether and defining the E-frame (electromagnetic reference frame). The factor was found to be 1842.85 and this same factor was a function of r/d. The ratio of electron mass to the quon mass m e /m had been shown to be given by: 
+ m e /m = (9/4)(d/r) 2 ..........(2) 
+where r/d was the ratio of the quantum jitter orbit radius of the quon to the lattice spacing of the simple cubic structure of the quon system. 
+
+The theory, simply stated, was a development from a topic discussed in the earlier 1960 Edition of that book mentioned above, in that both books explained how the fine-structure constant of atomic physics could be derived as the formula: 
+ hc/2 e 2 = 144 (r/d) .............(3) 
+
+Now, in those early days of my research efforts, I was working from a knowledge of measurements of this formulation of the fine-structure constant as being 137.038 and my theory pointed directly at this particular value, based on r/d having been derived theoretically as being 0.302920. That meant, from equation (2) above, that 2m e /m was 12.26017, the cube of this being that 1842.85 factor. 
+
+Later, in 1969, when I published another book Physics without Einstein including this analysis, I found that a scientist working at the National Physical Laboratory in U.K., the British government facility responsible for standard units and the precision measurement of physical constants, reviewed the work, stressing the fact that the theory did not hold true because the latest measurements at the time were showing that fine-structure constant formulation as being 137.036. 
+
+My theoretical value was in error by 1 part in 70,000! 
+
+Then, when the detailed computations of my theory were checked in 1972 by scientists working at the National Measurement Laboratory in Australia and this raised the question again I found myself looking once more at the fundamental argument I had used to determine the numerical value which my theory for that constant had predicted. 
+
+I then saw the light, as it were. All my analysis had been founded on the assumption that the aether lattice charges, those quons, were all moving in synchrony in their quantum orbits along paths of zero electric potential. I had used six-figure logarithmic tables for my calculation of that factor r/d of 0.302920. Later, in 1972, it was found, by precise computer analysis, to have the value 0.302875, (see the result of the computer program I presented in Tutorial No. 7 ), and that changed that 1842.85 value to 1844.49. I then realized that there was a case to argue which imagined that the quon and an electron plus an entourage of electron-positron pairs could transmute one into the other, given an appropriate energy balance. That brought back into mind that above-referenced quotation from my 1966 book: 
+ "This must be an integer because it is the number of electrons and positrons formed in a reaction." 
+and I saw immediately that the 1842.85 factor had to be decreased to its nearest odd integer value, namely 1843. 
+
+That solved the problem and was a real breakthrough which resulted in the publication in Physics Letters of my first refereed scientific paper [1972a] that brought the aether back into prominence as an essential player on the physics stage. 
+
+My theoretical determination of the value of the fine-structure constant was now in perfect accord with observation at the part per million level of precision! 
+
+Furthermore, the reduction of the value of that factor to 1843 implied an increase in the value of r, meaning that the aether contains energy potential just in excess of its zero potential value. Had things worked the other way around then my theory would really have been in trouble, but, in the event, I was, some 25 years on from that time, to discover from the research findings of Tifft that cosmology reveals to us distant galactic regions that may contain so much extra aether energy that r notches upwards to give lower values 1841, 1839, etc of that factor, as revealed by its effect on the fine-structure constant, Planck's constant and the redshift observed. See Tutorial No. 10 and Lecture No. 6 . 
+
+Now, in its turn, this minor correction of the analysis in my theory back in 1972 has a modifying effect on the theoretical evaluation of that mass of the graviton, the calculation of g first discussed above. Working through the 1966 analysis using the corrected r/d factor of 0.302875 one finds that g, as there formulated, has a value close to 5062. Now, the actual value of g is crucial to the determination of G, the constant of gravitation, using equation (1), so we really do need to take stock of what my theory says. 
+
+I did not discuss in my 1966 book how, in fact, gravitons are created. All I could do at that time was to estimate their mass from inferences concerning their decay. The time has now come in these Tutorials where I feel I must offer an explanation of how gravitons are created. 
+
+Remember here that the aether has a G-frame, an I-frame and an E-frame. The G-frame is the seat of the dynamic action which balances the centrifugal effects of the E-frame and matter seated in this E-frame, this frame being the electromagnetic frame of reference. The I-frame is the inertial frame central to the E-frame and the G-frame. The virtual muons populate the I-frame. The positive and negative electric charges that constitute matter are, as we well know, disposed in an overall electrically neutral system and our task is that of explaining how these interact in a gravitational sense. My answer to that is that they do not interact gravitationally in a direct sense. Their mass and its dynamic properties act to induce the presence of gravitons in the G-frame and it is these that interact amongst themselves owing to their motion relative to the electromagnetic reference frame and so set up the gravitational attraction that exists between regions of matter. 
+
+Now, given that gravitons exist in positive and negative forms, and that they all share a harmonious ever-parallel motion at speed c relative to the E-frame, you can perhaps then understand that the electrostatic forces acting between graviton charge is exactly cancelled by the electrodynamic forces. The only residual force arising in the G-frame is that attributable to the space occupied by the gravitons which displaces charge from the diffuse background continuum that exists as the back cloth of the quon aether lattice. 
+
+So gravitation, as we experience it, is the mutual electrodynamic attraction of these graviton spaces that are void of charge owing to their motion at speed c relative to the E-frame. That story is dealt with elsewhere in my writings and in these web pages. Our concern here is the value of that mass ratio g and how the gravitons are created. 
+
+The answer to this is now self-evident. Any loose particle form that exists in the G-frame will be attracted to all other such forms. Energy seated in such particles will tend to merge all the charges together to form charges that grow and grow in size (mass) until they provide the needed dynamic balance to cater for whatever is seated in the E-frame. The mass of those gravitons will be distributed in space according to the local concentration of mass in matter. It will, however, be deployed into forms which assure the universality of G. The volume to mass ratio of these graviton systems must conform with this requirement and this allows us to deduce the particle form assumed by the graviton system in which the value of g is a controlling factor. I have in mind here the virtual tau particles that I regard as associated with the basic graviton and also the 'supergraviton', the subject of a paper inspired by the discovery of warm superconductivity and what has come to be known as 'cold fusion' [1989a] . I cannot delve into the details of that in these Tutorial Notes and so will come now to the topic which gave me the inspiration for writing this particular Tutorial No. 20. 
+
+In the last few days of December 1998, the Institute of Physics in U.K. of which I am a member issued a news item to members via Internet telling us that G had been measured to even greater precision than hitherto. The National Bureau of Standards in USA had reported their finding that G had the value 6.6873 to within 0.14%. Now, as I have said above, the factor g as used in equation (1) was indicated as having a value close to 5063 in the initial version of my theory. 
+
+Accordingly, it may be of interest to tabulate the value of G given by equation (1) above for different values of that factor g: 
+
+ Gravitation Constant 
+ g G Nm 2 kg -2 
+ 5600 6.6967x10 -11 
+ 5601 6.6861x10 -11 
+ 5602 6.6755x10 -11 
+ 5603 6.6650x10 -11 
+ observed 6.6873x10 -11 
+
+To verify the calculation of G note that e/m e in cgs esu is 5.27281x(10) 17 to a degree of precision well within the 0.14% estimate of the precision of the observed value of G reported above. This implies that g has to be very close to 5601, which happens to be the nearest odd integer below the value predicted from the theory, just as that 1843 factor was the nearest odd integer below the value of that factor derived from the theory for the fine-structure constant. 
+
+I see this as worth noting, but hesitate to say more, because it seems that the measured value of G has been raised slightly after many years of believing it to be more in accord with the value in the above table corresponding to g being 5063. 
+
+Taking stock of this result in the light of some 45 years of effort since the 'aether' first favoured me be shedding some of its secrets I still struggle from time to time in interpreting what I have discovered. I can say, for example, that the theory allows me to calculate the masses of the fundamental particles that we sense as matter, such as the heavy leptons, the muon and the taon, but this is by reference to their properties as sensed in the E-frame. Their counterparts which exist in the aether underworld, in the I-frame and the G-frame, respectively, have rest-mass energies which differ very slightly from their equivalent in the matter form. Such a result is, of course, rather perplexing to a reader who has not witnessed how the theory evolved over those years. I understand that, but that is how it is and my analysis of the factors involved is presented in the relevant papers in my published work. 
+
+Another example of such a problem is posed by the question of the so-called 'relativistic mass' of a particle. I say that those gravitons, as particles moving with the G-frame in dynamic balance with material particles in the E-frame, move at speed c relative to that E-frame, which is the electromagnetic reference frame. You might still wonder how a graviton moving at that speed c, the speed of light in vacuo, has no added mass attributable to that motion. Apart from c being speed relative to the E-frame, whereas c/2 is the speed relative to the I-frame, the inertial frame, the answer to that resides in the fact that those graviton particles are not moving freely. They move under the constraint of a system of quons, aether charges sharing the motion of the E-frame, which forces them to stay in synchrony moving in anti-phase with that quon system. They keep in step at the jitter frequency of the aether because they are part of a simple harmonic system, just like a pendulum keeps to time even though its bob may move a little faster because its amplitude of swing might increase a little. So the normal laws of physics we apply to problems of matter moving freely through space are not always strictly applicable to the quantum activity of particles seated in the aether. 
+
+To advance your knowledge of fundamental physics and embrace the nature of gravitation, the creation of protons and the true nature of what underlies Planck's constant of action, requires one to decipher the evidence, evidence provided by the precision measurement of the fundamental dimensionless constants. That is what I have done in developing this aether theory. My theory can only be judged by its results and I may say that at this time I see no rival theory of record that offers comparable answers to this deciphering problem. 
+
+On such a note I end this second series of Tutorial Notes and express my hope that what has been discussed has proved interesting. 
+
+ Harold Aspden 
+ December 28, 1998 
+
+ *

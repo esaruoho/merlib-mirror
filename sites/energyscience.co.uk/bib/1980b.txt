@@ -1,0 +1,26 @@
+1980b 
+
+ 1980b 
+
+ The following is a paper by H. Aspden published by the Institute of Physics (UK) in J. Phys. A.: Math. Gen., v. 13 pp. 3649-3655 (1980).
+
+ THE INVERSE SQUARE LAW AND ITS SPATIAL ENERGY DISTRIBUTION 
+
+ Abstract : Using generalized mathematical considerations the inverse-square law of force is shown to imply specific spatial energy distribution relative to the interacting bodies. The retardation effects associated with energy redeployment when the bodies are in motion are examined. It is found that, as applied to the gravitational interaction between sun and planet and provided there is no discontinuity in the spatial energy distribution, retardation will give a law of motion conforming with Einstein's law of gravitation. A necessary condition is that the energy in transit in the field system is ineffective in determining force for a retardation period equal to the time required for a photon to travel from one body to the field and then return from the field to the other body. The implication is that gravitation could be a quantum
+interaction which assures causality and balance of action and reaction by this dual photon exchange interaction. 
+ Commentary : This paper was, for the author, a breakthrough, in the sense that referees of a journal published by the U.K. Institute of Physics had yielded a little ground and allowed the publication of a paper that so clearly aimed to undermine Einstein's theory. 
+The paper was strictly a mathematical exercise to establish where the mutual interaction energy between two interacting particles was deployed, given that the particles were subject to an inverse square law of force. Although the solution was indeterminate so far as full three-space energy distribution was concerned, the range distribution of energy from either charge was determinate as one of two alternatives. The Coulomb interaction fitted one case and the magnetic interaction fitted the other case. The latter option, as
+applied to gravitation, was found to yield, on a retarded energy transfer basis, with a three-dimensional space metric, the identical equation to that which Einstein had derived from his complex four-space theory. 
+Even so, readers interested in this, will see that the eventual solution of the problem of the Neumann potential [1988a] was needed to justify why the retarded energy transfer was local to each particle and involved sequential action centred on the two
+interacting particles, coupled with an instantaneous action-at-distance directly between the particle centres.
+
+ Reference is now made to a criticism raised by Allen D. Allen concerning the validity of the mathematical case presented in this U.K. Institute of Physics paper. His comments were directed at the counterpart text in the author's book 'Physics Unified' . The following quotation is drawn from this author's paper [1983b] of these Web pages:
+ "The author has shown in 'Physics Unified' how Einstein's General Relativity equation for the law of gravitation can be explained by energy propagation. The theory depends upon analysis of the spatial energy distribution corresponding to the inverse square law of force. Allen D. Allen, in his review, quotes an equation (27) from the book: 
+ -r -3 [sum]c n (n+2)(x/r) n =0 
+from which the author deduced that n was -2 and that the coefficients c n , were zero for values of n not equal to -2. [Note that the expression 'sum' is used instead of a summation sign.] 
+ Allen D. Allen pointed to the difficulty of justifying this conclusion. 
+ The author therefore seeks here to amplify the argument. The above equation is derived from a general formulation subject to the condition that with x larger than r it holds for all x. The summation applies for all negative integer values of n. Imagine that there are N coefficients C n that are not zero and bear in mind that x can have an infinite number of values. We may take N+k different values of x to formulate N+k equations, each with N unknowns. r is fixed. k can be as great as we like. In these circumstances the only solution is that for which each term in the summation is itself zero, as one readily sees by solving: 
+ y+2z=0 
+ 3y+4z=0 
+ 5y+6z=0 
+Here we have three equations and two unknowns and both y and z must be zero. Then, given that each term in the summation is zero, one is led to the conclusion that n is -2 and that the coefficients c n with n as -1, -3, -4, etc. are all zero."

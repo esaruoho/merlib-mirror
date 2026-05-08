@@ -1,0 +1,10 @@
+1983f 
+
+ 1983f 
+
+ The following is a paper by H. Aspden published in Lettere al Nuovo Cimento, v. 37, pp. 307-311 (1983).
+
+ THEORETICAL RESONANCES FOR PARTICLE-ANTIPARTICLE COLLISIONS BASED ON THE THOMSON ELECTRON MODEL 
+
+ Abstract : A hypothetical quantum-statistical lepton particle model which gives a non-relativistic account of time dilation is shown also to predict natural resonances for quark-containing particles colliding with their antiparticles of equal energy. For proton and antiproton collisions the hypothesis indicates only one resonance between 70 and 95 Gev. This is at 82.03 GeV, a result in accord with recently reported experiments at CERN aimed at detecting the W-boson. 
+ Commentary : The author here developed the charge-pair-creation theory by which the kinetic energy of a particle in motion is really a statistical energy of a mean presence of particle-pairs in the surrounding field. This is shown to give a phenomenological basis for the observations usually associated with relativistic mass increase and relativistic time dilation. High energy transitions based on these principles indicate a spectrum of particles developed from a base particle and it is further shown that the proton base particle develops a spectrum including the W intermediate vector boson.

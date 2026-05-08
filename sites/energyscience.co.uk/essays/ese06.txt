@@ -1,0 +1,209 @@
+ESSAY NO. 6 
+
+ ENERGY SCIENCE ESSAY NO. 6 
+
+ THE EXCLUSION PRINCIPLE 
+
+ Copyright, Harold Aspden, 1997 
+
+ Abstract : In this Essay I seek to place on record some comments concerning the 'Pauli Exclusion Principle' . I regard the rules by which atomic physicists determine the permitted quantum states of electrons in atoms as needing careful scrutiny as they are, in some respects, based on erroneous physical foundation. If we reinterpret the evidence and build on a new physical platform, there are important implications extending well beyond the province of the atom. Not only are certain cosmological issues involved, but there are specific aspects of Energy Science intermediate the atom and cosmology that are affected, notably in the technological fields concerned with energy radiation and the nature of ferromagnetism. This is the subject of this Essay. My approach may seem speculative but it will remove that arbitrary aspect which prevails in the simple textbook treatment of atomic theory and it should arouse doubts concerning the elaborate mathematical jungle that surrounds the analysis of the Schoedinger equation in the more advanced textbooks. That can but help to further physics education, but, more important, it can afford a new insight into the energy activity that accompanies the ferromagnetic state but precludes loss of energy by the multi-electron atom. 
+ INTRODUCTION 
+
+No two electrons in an atom can exist in the same quantum state. Why? Is this because a scientist named Pauli made such an assertion or is it because Nature has good reason for avoiding such a situation? If it is Nature's will, then there must be a physical reason. If we have not, as yet, discovered that reason then we must decipher, if we can, the governing pattern in case that gives us a clue concerning that reason. Pauli's exclusion rules have not provided enough enlightenment and so, maybe those rules are incorrect, and there is an alternative way of deciphering that pattern of events we see in the quantum world of the atom. Let me now show you that alternative. 
+ PAULI'S EXCLUSION RULES 
+
+Pauli proposed the 'Exclusion Principle' in 1925. It requires that no two electrons in the same atom can have the same set of quantum numbers n, l, m L and m s . In a magnetic field, where space quantization comes into play, each set of n, l, m L , m s corresponds to a single, distinct energy level. In other words, no two electrons in the same atom can have exactly the same energy in a magnetic field. 
+
+The rules specified by Pauli are: 
+ n (principal quantum number): n = 1,2,3... 
+ l (orbital quantum number): l = 0,1,2....(n-1) 
+ m L (magnetic quantum number): m L = 0, +1,-1,+2,-2,...+l,-l 
+ m s (spin quantum number): m s = +1/2, -1/2 
+
+Now, if you apply these rules, you may verify by reference to textbooks on atomic physics that they lead to a succession of atomic electron shells that could be filled by 2, 8, 18, 32 ... electrons in an ascending sequence, though they do not explain why atoms with many electrons can have unfilled shells in the outer regions. Yes, they do allow one to define sub-shell groups and one can, by reference to Bohr-Sommerfeld theory, argue that highly elliptical electron orbits would affect the way electrons can screen the charge of the nucleus to cause electrons to begin to fill the higher-order shells, but the result is imprecise. At least, though having empirical foundation, it is sufficiently uncertain as to its logical physical basis that I have felt obliged to develop my own interpretation of what is involved. 
+
+If you can understand the physical conditions implied by Pauli's rules and distinctions expressed by words such as 'spin' and 'magnetic', when read in juxtaposition with 'orbital', then, fair enough, you can be content with what you learn from those textbooks. 
+
+For my part, I do not accept the rules prescribed by Pauli, even though they find some support in the technique adopted for finding solutions to the Schroedinger equation. I prefer the following interpretation. 
+ THE ASPDEN EXCLUSION RULES 
+
+As I see it, an electron cannot produce a magnetic field except by virtue of its orbital motion . When an electron, as an embodiment of electric charge, moves, its centre moves as well and invariably that electron describes some kind of orbit, given that it stays within the atom. The notion of 'spin' suggests rotation of the body of that electron charge about its centre, but the disposition of the electric charge as seen from a distance where the electron asserts its magnetic influence is still seated at that centre. 'Spin', whatever that means, does not imply the production of a magnetic field or a magnetic state that can affect energy potential according to the sense of that 'spin'. 
+
+Now, I admit that in my own writings elsewhere, as in my book 'Physics without Einstein' , I have derived that master equation, the Schroedinger equation, in terms of an aether having structure which gives the photon a physical form. There I have also addressed the question of the 'spin' state in a way which distinguishes it from the normal orbital motion. There, however, I was envisaging motion of the electron charge centre in a minor orbit, as motion superimposed on the main orbital motion about the atomic nucleus, which in turn is motion superimposed upon other rotation, such as that of Earth about its own axis. To me, 'spin' in the sense inferred by Dirac is a false picture. My notion of 'spin' is connected with the action which we see as the photon and I picture electrons as migrating around their normal atomic orbits and halting that migration periodically to perform their photon spin by describing the minor orbit in a kind of dance partnership with something in the structure of the aether. However, these notions do not affect what I now have to say about the 'Exclusion Principle'. 
+
+The governing rule that I apply is based on the assumption that the electrons of a non-excited atom will interact precisely in such a way as to avoid shedding energy by electromagnetic radiation. There is my first statement that brings physics into play. The mathematician is satisfied with a 'solution' to an equation for which three variables have integer values, something which tends to hide the problems posed by the physical attributes implied by those integers. 
+
+Next I observe that Pauli was prepared to accept that electrons could occupy states in which their orbital quantum number is zero, as well as their 'magnetic quantum number' being zero. That tells me that he did not consider electrons as something 'real', as otherwise he could never have prescribed conditions where the electron can pass through the very centre, the nucleus, of the atom billions of times every microsecond. Those zeros imply the possibility of oscillation of the electron right through the atomic nucleus. I maintain that such a state of motion has to be excluded, merely by exercising common sense but physics is, of course, involved as well! 
+
+So my task is to decipher the 'Exclusion' rules, keeping the electron orbit as my prime feature and assigning quantum states of perturbed motion to build the 2, 8, 18, 32 electron shells and so conform with the empirical evidence on which Pauli fabricated his 'rules'. 
+
+There are therefore just two rules to keep in mind. These are:- 
+
+(i) that an electron will not, by its own action, radiate the energy stored in the atom nor will it join with other electrons in a conspiracy to radiate that energy, and: 
+
+(ii) that the quantum numbers governing the orbital motion of an electron about the atomic nucleus must not require the electron to penetrate that nucleus by collapsing that orbit into such an oscillation. 
+ THE RADIATION FACTOR 
+
+Years ago, in the 1950s, I encountered a hostile reception in my efforts to explain in terms of aether properties how it is that a magnetic field stores energy in the vacuum that it is recoverable from an inductive reaction. I was told to read about Einstein's theory, with its account of E=Mc 2 . 
+
+Instead, since I did have a fairly extensive knowledge of both the Special and the General Theories of Albert Einstein, I set about interpreting the true physical basis for that famous equation. I simply asked myself to consider what it was that determined the inertial property of an electric charge, having the electron in mind. My intuition said that if an electron was acted upon by an electric field stemming, of course, from other charges present in its environment, then it would be accelerated according to the force acting on that electron charge as restrained by its inertial reaction. What is then more logical than the tentative assumption that the electron will respond to the action of that field precisely in such a way as it must to conserve energy from being dissipated by electromagnetic radiation? 
+
+I knew enough about Einstein's original writings to know that he had made a glaring mistake in his famous 1905 paper: 'On the Electrodynamics of Moving Bodies' , when he wrote: 
+ "A ponderable material point can be made into an electron by the addition of an electric charge, no matter how small. We will now determine the kinetic energy of the electron. If an electron moves from rest under the action of an electrostatic force F, it is clear that the energy withdrawn from the electrostatic field has a value equal to the integral of eF over the range of electron travel. As the electron is to be slowly accelerated, and consequently may not give off any energy in the form of radiation, the energy withdrawn from the electrostatic field must be put down as equal to the kinetic energy of the electron ." 
+
+I place emphasis on that last sentence. I ask any physicist reading this to weigh the significance of those words. To me they say that the mass-energy of an electron moving at a given speed depends upon the history of the manner in which it has been accelerated. Accelerate it very slowly and you conserve energy, meaning that its kinetic energy gained will equal that shed by the drop in electric potential of the electron's interaction with that electrostatic field. Allow it to accelerate rapidly in a stronger field and, still conserving energy, there will be energy radiation, meaning that the kinetic energy is not a prescribed function of speed and mass only. Furthermore, you can easily show, as is well established in classical electron theory (meaning theory in no way dependent upon Einstein's ideas) that the so-called relativistic mass equation for increase of mass with speed can be derived from the equation E=Mc 2 , only if it is assumed than an accelerated electron does not radiate energy. 
+
+So I knew that it was an essential truth in physics that derivation of the well-known Larmor formula for energy radiation by the accelerated electron was fundamentally flawed. I searched for that flaw and found that Larmor had assumed the acceleration of the charge as a source of a propagated field disturbance and had further assumed that energy in that disturbance travels through the vacuum at the speed of light, without bringing the accelerating field F into his formulation. The Larmor formula is: 
+ dW/dt = 2e 2 f 2 /3c 3 
+
+When I corrected that analysis, duly allowing for that accelerating field, I found that the rate of energy dW/dt radiated by a charge e accelerated at the rate f is simply zero, provided the intrinsic electric energy E of the charge is (eF/f)c 2 . If one defines mass M as that accelerating force eF divided by acceleration f, then that gives us a physical derivation of the formula E=Mc 2 . More than this, however, it tells us what inertia really is. Inertia is the property of every electric charge arising from its determination to conserve itself against electromagnetic radiation of the energy it possesses. 
+
+It was, incidentally, many years later that I found an editor of a scientific periodical who was willing to publish such heresy. A brief version of my analysis appears under the title 'Inertia of a Non-radiating Particle' , International Journal of Theoretical Physics, v. 15, pp. 631-633 (1976). See abstract [1976b] in the Bibliographic section of these Web pages. 
+
+Einstein was right in assuming that the electron did not radiate energy when accelerated, but he need not have declared that the acceleration had to be slow. He was sadly very wrong in not seeing the relevance of his assumption, as otherwise he might, in 1905, have come to see the correct way of justifying the E=Mc 2 formula, albeit rooted in classical physics and not his notions about relativity. 
+
+This has important bearing upon our problem of the Exclusion Principle, because one must now ask the question: 
+ What happens in terms of energy radiation if two electrons share precisely the same state of motion about a common centre? 
+Well, the answer is clear. If each of those electrons refuses to radiate energy belonging exclusively to the field of each such electron, then what is left is the energy seated in the field interaction as between those two electrons. Now, I well understand that the Larmor formula is relied upon in classical electromagnetic field theory to account for energy radiation by a radio antenna. However, the current oscillations in such an antenna involve billions of electrons all sharing the same acceleration, that is, in their collective behaviour they do not comply with the Pauli Exclusion Principle, meaning that they are not restrained by quantum considerations from shedding energy by radiation. Note then that the Larmor formula would need a factor n 2 , where n is a very large number. If we subtract n from n 2 to take account of the fact that no electron radiates its own energy, then that radio antenna has to get by with radiation proportional to n(n-1) instead of n 2 . I know of no experiment that can be sensitive enough to demonstrate such a difference, given that n really must be enormous even for very small antenna currents. So you must not let your knowledge of energy transfer by radio waves or even the heat you feel from sunlight influence you into saying that I am wrong to believe that an electron cannot radiate itself. 
+
+However, we can distinguish between the two circumstances when we point to the electron energy states in an atom. No two electrons can exist in the same state of motion in the same atom, as otherwise n(n-1) would be finite and energy would be radiated continuously by the non-excited atom. Note that n as just used is not the quantum number n to be used in the onward discussion of the quantum states of electrons in atoms. 
+ CONCERNING THE LARMOR RADIATION FORMULA 
+
+The formula for Larmor radiation presented above presupposes that the electrons all share the same acceleration. Now, in an atom the electrons all have different accelerations and we need to consider how the formula is affected by the interaction of fields set up by two electrons having accelerations f 1 and f 2 . Well, you will not be surprised if I say that the formula becomes: 
+ dW/dt = 2e 2 (f 1 .f 2 )/3c 3 
+
+where the notation (f 1 .f 2 ) implies the scalar product of the two acceleration vectors, meaning a zero result if they represent acceleration in directions at right-angles to one another or their product times the cosine of the angle between those directions if they are not mutually orthogonal in that sense. 
+
+Next we need to consider the electron motion in an atom, this involving us in some of the standard dynamics of elliptical motion under a central inverse square law of force. 
+ A NOTE OF ELLIPTICAL MOTION 
+
+The motion of a particle attracted to a centre according to the inverse square law of force is elliptical in form and that 'centre' is a focus point S, as shown in the Figure below. Here there are two ellipses, each sharing the same focus, but we concentrate attention on the one illustrated by the darker orbit. 
+
+Standard principles of dynamics tell us that the motion of any particle around that orbit, if subject only to that central force, has rather special features in that it can be resolved into two velocity components p and q. The component p always acts in the same direction, in the plane of the orbit and at right angles to the major axis of the ellipse. It has a constant value regardless of the position of the particle in the orbit. It therefore involves no acceleration! The component q is also of constant value but it lies in the plane of the orbit and is always directed at right angles from the radius vector drawn between the focus and the particle. Since it changes direction as the particle goes round the orbit it does involve an acceleration vector and this can itself be resolved into two components, both lying the plane of the orbit, one along the major axis of the ellipse and the other along the semi-major axis of the ellipse. 
+
+If there are two particles, two electrons, moving in counterbalance, then they sit, each at a location, such as at the two positions marked by those velocities p and q, but the acceleration of one electron is exactly opposite to that of the other and they are moving anti-parallel. This means that remote from the atom the radiating electromagnetic field actions cancel and so, notwithstanding the fact that the scalar product of the two accelerations is finite, there is no energy radiation by the Larmor formula. 
+
+Now, if we complicate things a little, and imagine that another pair of electrons have orbital motion in that second coplanar ellipse shown in the Figure, we can see that there is one, an only one condition, where that scalar product of the two accelerations can be zero for the interactions between electrons in the two elliptical orbits. This applies if the semi-major axis of the second orbit lies parallel with the semi-minor axis of the first orbit and vice versa.
+The q velocities of the second orbit are at right-angles to those of the first orbit. 
+
+This means that we can have four electrons moving in orbits with the same cyclic period of motion and still not have any energy radiation according to the Larmor formula. Here, then, is a vital factor concerning the way in which electrons can occupy quantum states in an atom and not promote dissipation of their energy by radiation. We do not need to make hypotheses about quantum conditions. All we are saying is that Nature acts in its conservative way to keep the atom active as it preserves its energy. 
+
+Now, before proceeding to the formal interpretation of the several quantum levels of the electron states in atoms, just now add a third dimension to what is shown in the Figure above. Suppose that in the mutually orthogonal third dimension there is an additional linear oscillation, quantized by orbital motion, and so elliptical motion, as from the side or top, as it were. We have discussed two degrees of freedom in our coplanar account and this means a zero oscillation mode, or zero quantum number, in that third dimension. You will now see that if we allow motion in that third dimension, it will alter the cyclic period of the system and that will sever its phase relationship with the coplanar system shown. There will then be no radiation owing to the interactions between such added quantum states. Remember that the frequency of oscillation modes has to be the same to set up an energy radiation condition, as in that radio antenna we mentioned. 
+
+The way to think of this is to say that the quantum number assigned to that third axial dimension of the system shown in the figure is zero, whereas we could say that a three-axis quantization is, say, 3,2,0 and 2,3,0 and declare that there are two electrons in each of those quantum states, given that they are moving in dynamic juxtaposition. Remember that atomic theory contemplates the use of four quantum numbers to meet this requirement. 
+
+So what we shall be doing next is looking at the quantum states of the orbital electron patterns that are allowed in an atom, based on the above 'non-radiation' exclusion principle, as we attempt to present an overview of atomic structure. 
+
+ THE QUANTUM STATES 
+
+Now, going back to first principles and partially covering the same ground, one needs to build a picture of an electron charge having a linear component of oscillation through that atomic nucleus, knowing of course that this has to be complemented by a second such linear component of motion at the same frequency to preclude electron collision with the nucleus. Ask yourself what circumstance, seen from a distance, would allow two such electron charges to have similar (but not identical) motion, without setting up an oscillation in the remote field. You will be right if you conclude that anti-phase oscillation by the two charges along the same axis will mean a neutralization of their radiation capabilities. 
+
+Therefore, there can be two electrons in the same energy state if they move in opposition. Note that I do not use the word 'spin'. My picture is of two electrons in similar orbits about the atomic nucleus but each providing dynamic balance for the other. This is my m s quantization and I contrast this with the half-quantum spin unit assumed in standard theory. 
+
+Next we need to ask about a special feature of that orbital motion. In the physics of simple harmonic motion, where action is subject to a restoring force rate linearly proportional to distance of displacement from a centre, the motion in an ellipse has a period that in no way depends upon the shape of that ellipse or the quanta assigned to its components of motion. With the inverse-square of distances forces applicable between the electrons and the atomic nucleus, the period of the elliptical motion is definitely dependent upon the shape of the ellipse and so its specific levels of quantization. This means that if two electrons are in co-planar orbit about the nucleus and one describes a circle whereas the other describes an ellipse which has the same quantum of velocity moment about the nucleus but has also a linear (radial) oscillation component superimposed on that motion, then these will have different periods of motion. Considering the resulting field action in a remote region, having in mind the cross-product of the fields accounting for field energy developed from their interaction, the charge oscillations will be akin to the result of multiplying two electric signals of different frequency. Averaged over a short time interval, for every component of positive energy density there is an equal component of negative energy in the propagated field disturbance. There is then no net radiation of energy because the two electrons do not radiate their own energy and the interaction field energy is self-neutralizing. 
+
+The conclusion is that, provided the quantum numbers determining the form of the orbit are different, one electron can occupy each such state. 
+
+Next we must consider orientation. 
+
+It is appropriate for each electron shell, corresponding to a different n value, to specify three mutually-orthogonal axes, our aether and our atom belonging to what is the traditional but now historic world of 3-space. The modern theoretician in physics lives somewhere else, somewhere called 'four-space'. Therefore, we adopt axes x, y, z and take our primary n-quantum electron state as being that for which there are equal-amplitude modes of electron oscillation in the x and y axes with the timing of the oscillations being in phase-quadrature. In short, the main electron orbit is a circle of quantum number n. Note that I am regarding x and y as the two axes of the Figure above, with z as the third dimension, z being the only axis along which we can have a zero oscillation or zero quantum number. 
+
+We can only have two electrons in such an orbit, those moving in dynamic balance in the different 's' states. We cannot have electrons moving in such circular orbits also in the y,z planes or the x,z planes, because that would put more than one electron into a common state of component motion along one or more of those axes and we have just seen why that is impossible. 
+
+Now, I am not saying that we must preclude multiple-electron component motion in any given axis centred on the nucleus of the atom. What is precluded is a combination of those electrons having the identical periods of oscillation, unless, of course, there is reciprocal pairing in the sense that the electron oscillations along a given axis are in anti-phase or there is that phase-quadrature feature that I discussed by reference to the Figure. There can be four electrons sharing the same set of quantum numbers, provided the oscillation modes attributable to those quantum numbers are assigned to different x, y axes, given the anti-phase mode of oscillation. 
+
+This allows us to specify the governing rules, but we will not use the four terms 'principal', 'orbital', 'magnetic' and 'spin', as if they impart some non-physical coded meaning to the quantum numbers they signify. The word 'magnetic' does tell us why electron orbits can adopt orientations referenced on a common base direction normal to the x,y plane if the z axis represents the direction of an external magnetic field, but we need not use that expression in our system of definition. It is easier to specify n and the x, y, z quantizations and double the result to allow for the permissible dynamically-balanced combinations. An odd electron number in a given orbit implies dynamic balance involving the atomic nucleus, whereas an even number implies dynamic balance as between the electrons. 
+
+The general rule to apply is to declare that the electron having a quantum level of n has an x or y quantization equal to n, with x and y ranging in unit steps from 1 to n, and z quantization ranging from 0 to a quantum level one unit below the lower of x and y. The principle involved here is that the orbital component motion defined by the x,y quanta will turn to oppose the external magnetic field. 
+
+The number of electrons in the sequence of electron shells is then found by counting the numbers of x,y,z quantum states and doubling the result for each such shell. For example, taking n as 4, there are 32 states, based on the following 16 combinations: 
+
+(4,4,0) (4,4,1) (4,4,2) (4,4,3) 
+(4,3,0) (4,3,1) (4,3,2) (3,4,0) 
+(3,4,1) (3,4,2) (4,2,0) (4,2,1) 
+(2,4,0) (2,4,1) (4,1,0) (1,4,0) 
+
+The corresponding 9 combinations giving 18 states for n=3 are: 
+
+(3,3,0) (3,3,1) (3,3,2) 
+(3,2,0) (3,2,1) (2,3,0) 
+(2,3,1) (3,1,0) (1,3,0) 
+
+The corresponding 4 combinations giving 8 states for n=2 are: 
+
+(2,2,0) (2,2,1) (2,1,0) (1,2,0) 
+
+whereas the n=1 state comprises the single combination (1,1,0) and so there are two electrons in that state. 
+
+ OCCUPANCY OF ELECTRON SHELLS 
+
+The nucleus of an atom determines the total number of electrons in the shells, but those shells are not necessarily completely filled in the ascending n sequence. This theory offers some insight into this process. 
+
+The number of electrons in the n shell is 2n 2 , because we have doubled the number of combinations to allow for the dynamic balance corresponding to the 's' state, as discussed above. As just shown, this gives the sequence: 2, 8, 18, 32, 50 .. , but there is another factor which governs and, indeed, limits the range of these electron shells. 
+
+To supplement the x,y,z quantizations, we need to say here that the n shell cannot intrude into the n+1 shell. We cannot have x 2 +y 2 +z 2 for one n state exceeding that quantity for an n+1 state. 
+
+As can be verified, it is only when the number of electrons becomes 18 that electrons from the n=3 shell can begin to creep into the n=4 shell. 10 are needed to fill the K and L shells, the n=1 and n=2 shells, respectively. There are four combinations: (3,2,0), (2,3,0), (3,1,0), (1,3,0) for which the sum of the squares value is no greater than 13. It needs a value of 17 to match the lowest sum of the squares value for n=4. The question we then ask is whether the 19th electron in the atomic build-up will go into the (3,3,0) state or the (3,2,1) state or contrive to jump to the (4,1,0) or (1,4,0) state. 
+
+The (3,3,0) state offers 18 notional 'energy' units based on the sum of the squares argument. The (3,2,1) state requires 14 such units and 17 will take us to the n=4 level. Given that the empirical evidence tells us that potassium, which has 19 electrons, has that single n=4 electron, we are guided to think that the atom tries to fill that circular electron orbit once the energy factor goes above 13. 
+
+It now seems appropriate to develop our account in a rather different way. We list the electron sites in the n=5 shell in ascending order of notional 'energy units' as a measure of the sum of the squares of the three quantum numbers.: 
+
+2 states (5,1,0) each require 26 energy units 
+2 states (1,5,0) each require 26 energy units 
+2 states (5,2,0) each require 29 energy units 
+2 states (2,5,0) each require 29 energy units 
+2 states (5,2,1) each require 30 energy units 
+2 states (2,5,1) each require 30 energy units 
+2 states (5,3,0) each require 34 energy units 
+2 states (3,5,0) each require 34 energy units 
+
+The higher quantum states of the n=4 shell are now listed in a corresponding way: 
+
+2 states (4,4,3) each require 41 energy units 
+2 states (4,4,2) each require 36 energy units 
+2 states (4,4,1) each require 36 energy units 
+2 states (4,4,0) each require 32 energy units 
+2 states (4,3,2) each require 29 energy units 
+
+As can be seen there are only eight electron states in the n=4 shell that are capable of intruding into the n=5 shell before there is a progressive filling of the n=4 shell. 
+
+We then see that Xe with 54 electrons is the atom at which the n=5 shell has acquired 8 electrons, whilst the n=4 shell has remained at 18 electrons from Pd (46 electrons). 
+This seems to fit well with the theory. 
+
+At this point, it is of interest to look at the stage when an electron creeps from the n=4 shell to the n=5 shell. Empirically, this occurs at the atom Rb for which the atomic number A is 37, the n=4 shell having reached the 8 electron stage at A=36. Again we have that curious circumstance where it needs 26 energy units to feed the (5,1,0) state, but there are 20 electron states of the 32 in the n=4 shell that have the energy condition below that level. So, again, we see a need for a rogue electron to somehow transfer to the upper higher electron shell and, indeed, many more rogue situations come into play as A increases. 
+
+It may be that there are actions at work which try to avoid the highly eccentric electron orbits that seem possible at the higher n values. It seems more logical that an electron in orbit, responding to oppose a magnetic field, will prefer the near circular orbital form or, as suggested by Bohr-Sommerfeld theory, that there are screening effects at work which make the central nuclear charge less effective upon the electrons in highly elliptical orbits. 
+
+On such a speculative note, I will end this discussion of my interpretation of the Exclusion Principle, because I have reached my objective. That is to introduce a form of atomic theory which makes more sense from the viewpoint of ferromagnetism. 
+
+To summarize, however, notwithstanding such discrepancies which apply only at large n values, it is submitted that the physical basis for the Exclusion Principle presented here has at least some measure of a valid foundation. We no longer need to imagine that Pauli's authority holds sway in governing the electronic structure of atoms. More to the point, we can now say that those scientists who extend the rules of the Exclusion Principle beyond the bounds of the atom and take them into the realm of cosmology are merely gambling with misconceived notions. Also, as just indicated, we can come to terms with an aspect of ferromagnetism that is all-important when we explore the technological aspects of Energy Science. 
+ THE NATURE OF FERROMAGNETISM 
+
+I invite you now to answer a simple question. The ferromagnetic state is said to arise from the 3d electrons in the iron atom. What does this mean? The 3d electron state has a orbital quantum number of 2 and the n value of an electron in this state is n=3. A question I ask myself is whether I should interpret ferromagnetism as attributable to an n=2 electron state in which the electron describes a circular orbit, the (2,2,0) state of my theory, or whether I should comply with orthodox opinion and relate ferromagnetism with that mystical 'spin'. The answer is that I prefer to follow the route that gives results helpful to the advance of energy technology. As I see it ferromagnetism in iron stems from the n=2 state but where the orbital quantization of the two electrons per atom that contribute to the state of ferromagnetism is that associated with two Bohr magnetons. 
+
+In the iron atom, the dynamic balance of two electrons setting up the paired 's' states is precluded in the ferromagnetic condition. The two electrons still comply with the Exclusion rules developed in this Essay. However, where there is ferromagnetism, those x,y,z axes can be actively reorientated as the prevailing field direction in a magnetic domain flips between the preferred crystal axes. This means that the two electrons contributing to ferromagnetism operate in a time division sequence. 
+
+Using now a slightly different notation for the polarization directions based on the x,y,z axes, effectively one electron will spend 2/3rds of the time in the (+2,+2,0) state producing polarization in the direction at right angles to the x,y plane. That leaves 4/3rds of the effect of a single electron to be shared equally between the states (0,+2,+2), (0,-2,-2), (+2,0,+2), (-2,0,-2), meaning that the polarizing effects of the latter cancel each other. I am using the + and - signs here to express direction of polarization and the numbers signify the Bohr quantization. Note that in this ferromagnetic state, where there are strong interaction forces acting on the electrons owing to special structural features of the crystal, I have stepped away from the two-electron dynamic balance feature and am now regarding each of those electrons as independent in their orientations, the + and - signs signifying the opposite vector directions of the magnetic moments set up by the electrons in their orbits. 
+
+The case I put is that iron owes its state of ferromagnetism to 2/3 of the effect of a single electron in a standard n=2 circular orbit according to the Bohr atom model. I say that the polarizing effect of the field produced by that electron is really double the value we assign by standard theory but that there is an inductive reaction in the field medium, the aether, which half cancels the mean value of that polarizing effect, but always directs its reaction in opposition to the instantaneous combined action of the two electrons. 
+
+Now I have already mentioned, in connection with electron 'spin', the notion that the electron in orbit about an atomic nucleus really jumps from position to position in which it is locked together with something spinning that is the seat of the action we term the 'photon'. What this means is that the electron really moves at a very rapid speed as it jumps around that orbit. If it spends only a small fraction of the time in its orbital progression and most of the time in its photon association, it will travel much faster in its orbital jumps than applies if it were to progress around the atomic nucleus normally in a kind of planetary motion. 
+
+This alters the time-sharing of those quantized states of the electrons that contribute to ferromagnetism. At any instant it can be assumed that it is unlikely that both electrons will be in orbit at the same instant. In effect, therefore, the 2/3 polarization factor of one electron accounts for the primary magnetic field and the reaction effect, which is half of this 2/3 factor, or 1/3 is directed for only one third of the relevant time in opposition to that primary field. For two thirds of that time the reaction opposes those lateral orbital quantizations, namely those of the quantized states (0,+2,+2), (0,-2,-2), (+2,0,+2), (-2,0,-2). 
+
+Summing the overall effect it amounts to (2/3) less (1/9) times whatever is the contribution of the single electron in that n=2 ferromagnetic activity. This is (5/9) times the n=2 factor, doubled to allow for the inductive reaction. This amounts to 2.222 in terms of the unit of magnetic quantization associated with an atomic electron. In units familiar to the physicist this is 2.222 Bohr magnetons. In fact, the observed saturation magnetization of iron is very slightly less than this, its maximum measured value being 2.221 Bohr magnetons per atom at the lowest temperature. 
+
+That doubling factor as applied to the field produced by electric current in a normal air cored solenoid applies because the inductive reaction in that case is a halving effect, so the net field we measure has the normal value. However, when we switch off that current, the reaction effect at the unity value becomes primary in its action and collapses to return the induction energy that was stored in that field. 
+
+So, you see, what I have described about the Exclusion Principle in atomic theory has important links with ferromagnetism and the physical processes involved in the storage of energy in a magnetic field. 
+
+I shall next advance on this same theme to discuss an important issue in cosmology, namely the absurdity of the so-called 'Black Hole'. My reason is the reliance which misguided cosmologists have placed on the extension of the Exclusion Principle to the structural properties of very dense conglomerations of matter. 
+
+However, here I offer the reader a choice. The energy technology route I follow is founded on ferromagnetism and I begin that journey by an Essay on that subject. One link, the 'Continuation' link will progress to the cosmological topic. The other will take you to the ferromagnetism topic. 
+
+ To continue press: 
+ CONTINUATION 
+
+ To stay with ferromagnetism press: 
+ FERROMAGNETISM

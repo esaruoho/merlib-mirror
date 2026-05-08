@@ -1,0 +1,285 @@
+LECTURE NO. 3 
+
+ LECTURE NO. 3 
+
+ COSMOLOGY UNDER SCRUTINY 
+
+ Copyright Harold Aspden, 1997 
+ INTRODUCTION 
+ Much of cosmology is founded upon our understanding of
+gravitation and the interpretation of the radiation spectrum of
+the stars and the galaxies to which they belong. The physics
+applicable in our laboratories here on Earth is relied upon by
+cosmologists as they extrapolate well beyond the limits of the
+empirical data on which our knowledge of physics is really based.
+ This leads to ideas such as Black Holes, the Big Bang, the
+Expanding Universe, the Neutron Star and even Worm Holes in
+Space-Time through which it is supposed astronauts may travel to
+enter into other universes and other cosmological time zones. 
+ Seldom do we hear the voice of dissent on these matters from
+within the closed world of the astrophysicist. There are
+unanswered questions to be sure, but funding which supports the
+search for those answers is used for ever-onward extrapolation.
+ When, I wonder, will there be academic funding for someone
+who has the good sense to say "something is wrong" and is willing
+to track back to survey the faults in the path already followed? 
+
+ COSMOLOGICAL QUESTIONS 
+ We know that stars like the Sun are composed mainly of
+hydrogen and that they radiate heat and light because they are
+hot enough to be ionized. This means that the hydrogen is
+monatomic and that some of the atoms have shed an electron. It
+means that there are free electrons and free protons being
+jostled around at the Sun's surface, because the hydrogen atom
+is nothing other than a proton with a satellite electron and
+ionization means their separation.
+ Were it not for the effect of gravity, the deployment of
+charge in the resulting body of stellar plasma would find
+equilibrium with virtually zero electric potential appropriate
+to an electrically neutral charge distribution. However, we know
+that gravitation acts between two bodies with a force
+proportional to the product of their masses. Therefore the mutual
+gravitational acceleration between protons, which have 1836 times
+the mass of electrons, must distort this charge distribution. 
+ It means that the Sun must have a positive electric
+potential, just as it has a negative gravitational potential.
+Matter, when free to move under the influence of gravitational
+forces, seeks a state of lower potential, but in the stellar
+plasma that means a commensurate increase in electric potential.
+How does Nature cope with this dilemma?
+ The answer can be worked out as a simple mathematical
+exercise which any high school physics student should be able to
+perform. Nature allows gravity to bring just enough hydrogen
+atoms into close ionizing encounters to free enough protons to
+account for a positive electric charge density equal to the mass
+density of the hydrogen gas multiplied by the square root of G,
+the constant of gravitation. [The detailed analysis is in
+Appendix I of my book 'Physics Unified' ISBN 0 85056 009 8]. 
+ In other words, the maximum mass density of a hydrogen star
+can be little different from that calculable from compacting
+rigid spheres, each having the mass of the hydrogen atom and the
+radius of the electron's K-shell orbit around its proton nucleus.
+Furthermore, there will be a distributed uniform positive charge
+density throughout the body of the star, neutralized by an
+enclosing ionospheric surface sphere formed by an electron gas. 
+ The high school physics student who has been introduced to
+Bohr's theory of the hydrogen atom will know that the relevant
+radius is 5.29 billionths of centimetre. Standard physics data
+sources show that it takes 0.67x10 24 hydrogen atoms to sum to one gram.
+From these data, that physics student, if reasonably astute is estimating how small spheres
+pack together to fill a space cube, can work out the mass density of that star. 
+ The cosmological question this poses is "How does that
+theoretical mass density compare with the known mean mass
+density, 1.41 gm/cc of the Sun?"
+ When you work out the answer to this question you will see
+reason for asking why what has just been described is not
+mentioned in textbooks on astronomy. You may further wonder what
+governs the temperature of the Sun and you should be puzzled by
+the following questions. 
+ "If the Sun has a uniform mass density throughout its whole
+body, owing to the perfect balance of gravitational pressure and
+electrostatic repulsion, then its pressure is uniform throughout
+its whole body as contained within the bounding ionospherical
+electron shell. Is this statement true or false?" "If true,
+then is it not likely that the interior of the Sun has a
+temperature little different from that at its surface?" "In that
+case, how can we ever even begin to believe that the energy
+source which sustains the sun is of nuclear origin, unless we
+accept the possibility of cold fusion?" "If the statement is
+untrue then where is the flaw in the argument developed above?"
+"Ought we not to see this question discussed in textbooks on
+astrophysics?" 
+ Now, let us digress to mention the so-called Neutron Star.
+The neutron has no electric charge. Hypothetically, therefore,
+if one could capture enough neutrons within a confined space,
+with no other matter present, then gravity could act unrestrained
+by electric potential and the neutrons would cluster into a very
+compact form having a mass density enormously greater than the
+1.41 gm/cc of the sun.
+ However, we have used that word 'if' and quite glibly
+presumed that the neutrons will not behave as we know they do in
+our experiments. We know from those experiments that they are
+unstable and have a mean lifetime of a few minutes, decaying to
+become a proton and shedding an electron. Question: "Would not
+that return us to the scenario of the hydrogen star already
+discussed?" "Does not that mean that a neutron star is simply a
+figment of imagination?" 
+ Surely, there is something wrong with astrophysics if this
+kind of question is not properly addressed in the scientific
+literature. Now, I am not an astrophysicist but I found that my
+early writings, which concerned the electrodynamic nature of
+gravitation, were judged defective because they conflicted with
+certain cosmological assumptions. I was building my account of
+gravitation on the electromagnetic principles to which I had been
+led by my experimental research in magnetism on the laboratory
+test bench.
+ I found that the mere suggestion that gravitation can be
+explained without building the argument on the doctrinaire
+principles of Einstein's theory of relativity was a sufficient
+basis for rejection. Yet the theory which emerged from my
+research even allowed the derivation of the value of the constant
+of gravitation G in terms of the electron's charge/mass ratio.
+[You will find the formula for G on page 115 of my book 'Physics
+Unified' ]. 
+ It is really for this reason that I have, in these lectures,
+decided to attack the establishment position, rather than defend
+my own theory, though I would have been delighted if I had ever
+needed to defend what I have proposed. It has never been
+attacked. Astrophysicists and particle physicists have simply
+chosen to ignore my writings, even though I provide the bridging
+link between particle physics and cosmology by the unifying role
+played by the force of gravity. 
+ Before I advance too far from what I have said above I must
+mention that, as we proceed, I shall be explaining why Einstein's
+theory of relativity, whether in its special or general form, is
+wrong. It is wrong on every count, but in Part II of my Web page
+on that subject I will direct these particular comments at the
+cosmologists who have chosen to ignore the observations of two
+astronomers of Villanova University in Pennsylvania. Edward
+Guinan and Frank Maloney proved Einstein wrong by drawing
+attention to the measured the rate of perihelion motion of the
+two stars forming the double star system DI Herculis.
+ Einstein's theory required that their anomalous rate of
+advance of perihelion should be some 196 times faster than it is
+for planet Mercury. It was found to be only one seventh of the
+predicted amount for the classical and relativistic effects
+combined! Einstein's theory has, therefore, to be wrong!
+ A small additional component was also required from
+Newtonian gravitational theory, owing to the astrophysicist's
+assumption that the gaseous plasma constituting a star can be
+dragged by gravitational action of the other star in a binary
+pair. 
+ In the event, it was found that the observed rate of
+perihelion advance was so small as to rule out any prospect of
+Einstein's theory being of any relevance, but, surprisingly, the
+plasma drag was not in evidence either. Now, what might that
+prove? Well, if you have understood what I have described above
+concerning electric and gravitational potentials in stars being
+in balance, you will understand that the action between matter
+in two stars in a binary system will conform with the same
+principle. In other words, there can be no gravitational drag
+effect adding to the perihelion advance. You see, there can be
+no gravitational 'tide' effects if the star has a uniform mass
+density. In that context it reacts as if it were a homogeneous
+solid. 
+ The Guinan and Maloney observations, as reported on p. 23
+of the August 29, 1985 issue of New Scientist, therefore serve
+the dual purpose of proving Einstein's theory is wrong and also
+verifying my proposition that the mass density within a star is
+not concentrated into a non-uniform distribution by the force of
+gravitation.
+ The importance of this to cosmological science cannot be
+overestimated. It bears upon that question of how a nuclear
+fusion reaction can be initiated to feed the star's energy
+output. It obliges one to consider the prospect of a cold fusion
+process or to look for other explanations for the stellar energy
+source.
+ It should raise questions but where are those questions
+discussed in the science literature? Why do cosmologists waste
+time theorizing about Black Holes when they do not have the
+answers to the issues I am raising here? 
+
+ ENERGY RADIATION? 
+
+ As we proceed on this cosmological theme I shall explore
+three fundamental aspects of physics which need particular
+scrutiny. These are (i) the interpretation of the spectral red
+shift as a Doppler Effect, (ii) the validity of Maxwell's
+equations and (iii) the radiation of energy.
+ These three subjects are intermeshed in a way that has
+seemingly eluded the physicists of our modern age. There is so
+much wrong with what has come to be accepted and so much that I have to say on this matter, that I can but proceed a step at a time
+in the hope that the reader will bear with me, even though it may
+seem unbelievable that there is such scope for challenging
+physics that has come to be accepted. 
+ To most physicists Maxwell's equations stand supreme because
+they withstood the onslaught of the revolution introduced by
+Einstein's theory. They are compliant to Lorentz transformation.
+Yet they lack an essential symmetry, a failing which was
+deceptive, in that it caused scientists to think about the
+so-called 'magnetic monopole', something that is also an illusion
+with no real foundation. 
+ At this preliminary stage I will not use mathematics to show
+how the equations should be revised. It suffices to keep in mind
+what we can all witness as we watch waves ripple over the surface
+of water and the fact that electromagnetic waves are really no
+different so far as the energy factor is concerned.
+ In an electromagnetic wave there are two energy forms. One
+is the electric potential energy, which rises and falls as the
+wave ripples along through empty space. The other is the energy
+of lateral motion we associate with those waves, namely the
+magnetic energy, which is really the electrodynamic component
+associated with that rise and fall of electric potential energy.
+ Now, in the water analogy, the wave on the surface of water
+involves the rise and fall of water, which involves corresponding
+changes in the gravitational potential of that water. This is
+equivalent to the electric potential of the electromagnetic wave.
+The motion of the water, meaning the kinetic energy associated
+with that up and down movement, is equivalent to magnetic energy
+of the electromagnetic wave. 
+ The obvious conclusion to draw from this is that it is
+Nature's way to provide that the propagation of waves in a real
+medium involves the harmonious exchange of energy as between the
+static and dynamic potential states. Throw a stone into a pool
+of water and the water displaced will mean a slight rise of the
+equilibrium level of water in the pool, but it will also set up
+a propagating wave or ripple which does not transfer water in the
+propagation direction, save for an oscillation over the range of
+half a wavelength.
+ The way in which Maxwell's equations have been formulated
+implies, however, that the propagation of an electromagnetic wave
+requires, not the exchange of energy between the electric
+potential and electrodynamic states, but rather their increase
+and decrease together in time phase. This forces the energy to
+travel with the wave at its propagation velocity and leads to
+some rather bewildering problems when we consider wave
+interference. In short, Maxwell's equations do not represent a
+natural wave situation. 
+ You may then say that this merely indicates that the vacuum
+as a medium which transports electromagnetic waves is not a real
+medium and that we can only base our theories on empirical
+evidence. If that evidence indicates the radiation of energy by
+a radio antenna, then the radio wave has to convey energy,
+notwithstanding what one might expect from the ripple on water
+analogy.
+ However, bear with me as I pose a further question. How do
+we know that the electromagnetic waves we receive from remote
+galaxies really do transport the energy shed by the source stars
+and convey it towards us at the speed of light for thousands and,
+indeed, millions of years, without shedding any of that energy
+on route? 
+ Could it not be that, just as we see when we throw a bucket
+of water into a pool, the initial effect is the deployment of
+that water as it spreads from its point of entry, but that the
+onward ripple, as an up and down oscillation of water already
+there in the pool, merely spreads to remote parts of the pool as
+a natural wave? The wave zone near the source is, on this basis,
+a forced wave having the form analogous to that of Maxwell's
+equations. May it not be that the electromagnetic wave initiated
+as a forced wave sheds its energy over an initial range and then
+travels on as a natural wave conveying a virtually negligible
+amount of the energy shed by the source? 
+ Maxwell's equations need only slight revision, the mere
+inclusion of a mathematical operator j which signifies quadrature
+time phasing, and they would then comply with the natural wave
+mode as well as still satisfying the Lorentz transformations.
+ However, we would then have scope for understanding how a
+star can radiate energy to set up electromagnetic waves which
+propagate over distances measured in light years, whilst the bulk
+of the energy shed to set up those waves is dispersed to become
+matter whilst still within the grasp of the star's gravity field.
+It would thereby return to the star and sustain its mass-energy
+content. Such a possibility would surely ease the cosmologist's
+problems of understanding how a star's energy radiation is
+sustained. 
+ Of course, as ever, I expect the astrophysicist to view this
+as mere speculation and so reject what I propose, but for those
+interested in the prospect of regeneration of energy and the
+theory of radio communication I invite close scrutiny of the
+experimental research I shall be reporting in these Web pages.
+This concerns the findings of Dave Gieskieng of Arvada, Colorado
+using special antennae specially designed to transmit and receive
+natural electromagnetic waves.
+
+ To continue this lecture press: 
+ Continuation

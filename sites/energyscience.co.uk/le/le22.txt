@@ -1,0 +1,112 @@
+LECTURE NO. 22 
+
+ LECTURE NO. 22 
+ THE RABBIT AND SCHROEDINGER'S CAT 
+ Copyright &copy; Harold Aspden, 1998 
+
+ INTRODUCTION 
+Physicists enjoy debates concerning quantum theory, ever confident that in championing that theory they are always on the winning side in any contest. They do not enjoy being drawn into debates concerning the reality of the aether or suggestions that one can build operable machines that can generate electrical power by tapping energy from that aether. Their version of quantum theory does not incorporate equations consistent with such a possibility. 
+
+One of the most bizarre notions in science is the proposition that physical events depend upon an 'observer'. To be registered as occurring an event needs an observer. Can one then say that, without an observer being present and looking at a region of space, there can be no physical happening in that space region? 
+
+This introduces the subject I wish to discuss here, which is the outrageous state of affairs prevailing in physics, where practically-minded people are expected to believe in the nonsense which has been devised under the pretence that it is true science. 
+
+ THE RABBIT 
+Before I introduce the role of Schroedinger's cat, I will digress a little and talk about my 'rabbit'. I imagine a high stone wall with a rabbit sitting on one side of that wall. That is what I can see in my imagination, but it could equally be that I can see a real rabbit in such a real situation. A short period later I look again and the rabbit is missing. I look over the wall to see it now sitting on the other side. How did it get there? The wall was too high for it to have jumped from one side to the other. 
+
+Well, the simple answer is that it got there by burrowing underground. It tunneled its way from one side of that barrier to the other. 
+
+Now, in physics there is a similar situation which involves the electron. In theory, meaning a classical theory based on the teachings of real life situations, an electron cannot penetrate an electric potential barrier unless it has enough dynamic capability to surmount that barrier. Just as the rabbit could not surmount the high wall, because it could not muster enough energy in its hind legs to make such a high leap, so the electron cannot be expected to penetrate through a high potential barrier if it lacks the necessary energy. That, at least, is what the physics teachings of the pre-quantum era suggest. However, our modern textbooks tell us that electrons can, in fact, penetrate such barriers by 'tunneling' their way through. 
+
+They have, notionally, become rabbits, or perhaps it is more to the point to say that the authors of those ideas have adopted the 'rabbit mentality'. Electrons do not 'tunnel'. They are governed by energy criteria and only do what the available energy dictates as possible! 
+
+Let me now suggest another scenario. The wall I mentioned is on rock solid foundations which cannot be penetrated by that rabbit trying to tunnel underground. Instead of there being one rabbit on one side of that wall there are 10 rabbits and, indeed, there are also 10 rabbits on the other side of that wall as well. When I look a little while latter there are only 9 rabbits on one side of that wall and 11 on the other side. Now, how might this be explained in real life? 
+
+Well, one answer could be that a new rabbit has been born on one side of the wall and an old rabbit on the other side of the wall has been eaten by a fox. The idea of any 'tunneling ' by the rabbits is then in error. Applying this line of argument to the analogous situation involving the electron, well, we know that when we talk about electrons we normally mean millions, billions or indeed trillions of electrons as they are seldom seen in a free state in isolation. Then you may say that, unlike other fundamental particles in physics, apart from the proton, an electron has no finite lifetime. It does not exhibit a natural decay. So the analogy with rabbits dying and being born is not feasible. 
+
+In reply I say that physics has embraced the notion that electrons and their positive counterparts, positrons, can annihilate in pairs and be reborn in pairs close by. That is a feature of quantum electrodynamic theory. So I might need to say that the numbers of rabbits on one side of the wall became 8 whilst the 10 on the other side became 12, a pair having been 'born' and an older pair having been swallowed into oblivion, whether by that fox or by being absorbed into the aetherial background. Certainly, however, I can argue in this way my case that electrons do not penetrate a potential barrier, but rather they decay on one side of that barrier and their energy is reincarnated as a new electrons on the other side of that barrier. 
+
+To turn this into a meaningful account I need to declare that electrons do have a finite lifetime, even when standing alone in isolation, well removed from a positron, but that if they suffer decay, their energy is absorbed into our energy underworld and promptly repackaged as a newly created electron. The electron therefore never seems to decay, but it does. It is just that we cannot tell the difference between the new electron and the old electron! 
+
+It would, of course, help if one can estimate the lifetime of the electron using theory which gives reliable estimates of the lifetimes of other particles which do exhibit decay. That I have done and the answer is close to 10 -13 seconds. It then gives me satisfaction to see that there is a measurable time lag of just this value in observations of the phenomenon which physicists have chosen to term 'electron tunneling' as their explanation of how an electron can overcome a high potential barrier. 
+
+The message of all this is that matter in the form of electrons is being created throughout our environment by deploying energy from the aether's own sea of energy, but energy must first be shed to upset the prevailing equilibrium and trigger electron creation. There is a related message which applies also to protons. 
+
+In summary, therefore, whereas quantum theory offers you mathematical symbols and curious notions about what is observed and what is not observed, the alternative of probing how energy is deployed in the equilibrium of the quantum underworld will expose the truth in a more meaningful way. 
+
+There is every reason, therefore, to predict that, by using the right techniques, we should be able to intercept energy from the turmoil of upsets of that equilibrium, after it is shed by decay or spent as radiation and before it is reincarnated as matter in the form of protons and electrons. That is the quest I see as warranting attention and the entry point is the quantum connections manifested in interactions involving ferromagnetic materials. 
+
+However, let us now consider Schroedinger's cat. 
+
+ SCHROEDINGER'S CAT 
+Theoretical physicists interested in quantum theory do not relate their interpretation of how electrons can tunnel through potential barriers to the behaviour of rabbits. No, they talk instead about wave functions and probabilities of particles appearing somewhere by virtue of the 'reduction' of the wavefunction. However, they do, sometimes, refer to Schroedinger's cat. 
+
+Is it dead or is it alive? It depends on who is looking! 
+
+I shall quote here from a book by Euan Squires entitled 'The Mystery of the Quantum World' . It was published in 1986 by Adam Hilger Ltd of Bristol and Boston, the publishing house of the U.K. Institute of Physics. 
+
+Chapter 4, Part 3, had the heading: 'Does wavefunction reduction require conscious observers?' Squires introduces this section of his book by writing: 
+ "Here we shall examine more closely the possibility that external reality consists of a wavefunction and that this wave function only reduces when an observation is made by a conscious observer. It is the existence of consciousness that introduces the probabilistic aspects into 
+the quantum world." 
+
+Soon thereafter Squires notes that "wavefunction reduction is an inexplicable phenomenon associated with quantum theory." 
+
+Eventually, after further noting that quantum theory denies that the external world possesses the properties we observe, until we actually observe them, he comes to the 'cat'. 
+
+ "The paradox of 'Schroedinger's cat' is an example of the sort of problem we can get into here. We suppose, for example, that the right-hand detector in our potential barrier experiment is a trigger that fires a gun and kills a cat as soon as a particle reaches it. After one particle has passed through the apparatus the wavefunction thus contains a piece in which the cat is dead and a piece in which the cat is alive. Only if the cat is conscious can we say that one of these represents the truth. What however could we say if the cat was asleep? If, on the other hand, a cat is not conscious, or if we used instead a being or a thing that is not conscious, then it remains in a state of being part-dead/part-alive until some conscious observer forces the wavefunction to go to one state or the other. Like Schroedinger himself we probably consider this as an unlikely picture of reality." 
+
+So, there you are! Quantum theory never fails - it always gives the right answers! It depends upon wavefunctions and observers, but what is meant by such notions and how the universe ever got started before someone other than God was around to observe that event is open for imagination. Will those electrons really be able to tunnel through a potential barrier if the observer has fallen asleep? If you want to dream there are better things to dream about than the world of the quantum as portrayed by those who teach physics today. Whether your slumbers are aided by counting sheep, rabbits or cats that may be dead or alive according to your perception of their 'wavefunctions' I cannot say, but I can say that it is due time that physicists concentrated on the energy issue. Whether a particle is at A or B can only be ascertained by locating the seat of its energy and that is not a function of who happens to be around as a conscious observer! 
+
+ CAN PHOTONS THINK? 
+Quantum theory is the realm of the photon and the electron, it having emerged from the study of processes occurring in the atom. The photon is characterized by an event which occurs when an atom absorbs or radiates a quantum of energy and that concerns the changes of the energy state of an electron. 
+
+Science writer Anjana Ahuja, writing in the INTERFACE section of the British newspaper, THE TIMES, on July 30, 1997, chose as the title: ' Great photons think alike' , and explained how it had been discovered that pairs of photons travelling through optical fibre could communicate at a speed 10,000 times faster than the speed of light. 
+
+What, I wonder, is meant by that word 'communicate'? The discovery by Dr. Nicolas Gisin involved feeding pairs of photons down optical fibres, sending them in opposite directions. As each photon neared the end of its journey to a Swiss village, one north of Geneva and one south of Geneva in Switzerland, 'it was forced to decide between several alternative routes'. The experiment indicated that there had to be some communication between those photons when they made those decisions, because they made matching decisions instantaneously, even though they were then located seven miles apart. It was said that this is 'a distance record for this type of experiment. Dr. Gisin is at the University of Geneva. 
+
+So here was action-at-a-distance, something that runs contrary to Einstein's theory, and the article describing that discovery went on from there to tell us that this discovery heralded the technological prospect of a form of cryptography that could provide absolute security for data transmission. 
+
+So you are invited to believe that photons can 'think', but that they can communicate by a form of telepathy that is instantaneous action-at-a-distance. 
+
+In my opinion those who suggest such ideas have no real notion concerning the nature of the photon. The photon is not a particle. It is merely an event that happens when energy is exchanged between matter and aether in a certain way, a way which involves aether spin, which in turn sets up or is set up by electromagnetic waves that do travel at the finite speed of light. However, action-at-a-distance is physically possible so far as it concerns the Coulomb interaction as between electric charges. Indeed, I have build my whole account of the physical basis of gravitation and electromagnetism on a picture of the aether that has charges sharing a synchronous motion as if coupled by actions that are instantaneous. 
+
+The point to remember, however, is that, when two photon events are linked by their twin-creation, they each not only initiate propagating disturbances in the propagating medium, but they also impart momentum to the aether background. That momentum is imparted to a hidden structure that has a kind of rigidity owing to that synchrony and coupling provided by the Coulomb interactions in the charge structure of the aether. So, when physicists talk about the 'wavefunction' they are referring to the data encoded in the momentum pattern that has been generated by the events they are describing. They seem able to picture discrete 'wavefunctions' amongst the numerous trillions of overlapping 'wavefunctions' that exist everywhere in space. Yet, when it comes to experiments, they somehow create a concentration of 'wavefunctions' of the same form, so that they can avoid the confusion of deciphering how they interact. 
+
+Given that the aether absorbs momentum shed by photon creation and it works to recreate photons to rid itself of that momentum, there is a coordination between photon events thanks to the role played by that real aether. It all seems very complicated, but it makes far more sense than the notion that nothing happens in the universe unless someone is watching the spot where it happens. 
+
+No doubt, there will be some who read this and conclude that I do not know enough about quantum mechanics to form any valid judgement. Well, my answer to that is that there has to be something wrong when one is told that quantum theory always gives the right answers but yet informed physicists write books on the subject drawing attention to its uncertainties and its mysteries. 
+
+As to my modest contribution to the subject I will mention, by way of a conclusion to this Lecture, one final point that may be of some interest. 
+
+ QUANTUM UNCERTAINTIES 
+In 1986 I was invited, with all expenses paid, to participate in a NATO-sponsored Advanced Research Workshop on the subject of 'Quantum Uncertainties - Recent and Future Experiments and Interpretations'. It was held at the University of Bridgeport in Connecticut, USA from June 23-June 27, 1986. 
+
+The book recording those proceedings had that same title and was published by Plenum in the NATO ASI Series as Series B: Physics Vol. 162. My contribution was my paper 'The Theoretical Nature of the Photon in a Lattice Vacuum' and it appeared at pp. 345-359. 
+
+It was at that meeting that I heard a great deal about anomalous correlations between photons, but what occupied my thoughts during my return journey home to England was what I had heard about neutron diffraction. I was perplexed by the apparent wave-like behavior of neutrons - but not for long! Indeed, I had the answer before I arrived home and I promptly recorded my thoughts in a scientific paper and mailed it off to Physics Letters. 
+
+If you look up that paper, which was published in Physics Letters 119A, pp. 105-108 (1986), you will see that it was received by the Editor on July 7, 1986. It is entitled A Causal Theory for Neutron Diffraction . 
+
+A single neutron in finding a route for passage through a test apparatus can experience diffraction, as if it is capable of generating wave interference which somehow governs the route it takes. It seems therefore that a neutron, as a particle, rather than a wave or 'wavefunction', travels as if subject to some kind of constraint, seemingly governed by statistics, but yet that neutron is not one of many that is seen as a statistical mean position. 
+
+My paper approached the problem by analyzing first the corresponding circumstances governing electron diffraction. The electron is a particle, not a photon, but when in motion relative to the aether it develops energy associated with that motion and that energy involves interplay with the aether. It gives rise to a sequence of photon events and an associated ongoing statistical electron-positron pair creation and annihilation activity. I discussed then the way in which the aether acts as an energy sink preserving overall equilibrium. I stated, for example, that 'When a photon unit stops spinning at the photon source, its angular momentum is balanced by a transfer of energy E, (as determined by the equations specified), from the two-dimensional mode of oscillation to a linear oscillation.' The important step then was to regard this latter event as part of a collective action of all photons present. 
+
+This led to a showing that four photon units, all collaborating in an ongoing association, involving creation and annihilation in vacuum energy exchanges, served to hold the kinetic energy of the electron, whilst trapping what is, in effect, a standing wave oscillation as part of a system moving bodily with the electron. In summary, I was saying that an electron is a particle, a discrete unit of charge, moving with an entourage of four photons, but that the photons were aether spin states that were created and annihilated cyclically at progressive positions along the electron path. Travelling freely and without obstruction the package of energy and its standing wave system would shed no radiation. 
+
+In some respects it is as if each electron is part of a miniature Michelson-Morley apparatus in which mirrors trap radiation as standing waves so that the energy is carried along through space at the speed of the apparatus and not at some notional fixed speed relative to something called absolute space. I have explained elsewhere in these Web pages that the orthodox interpretation of the Michelson-Morley experiment takes no account of energy transport by standing waves, the reason being that the standing wave phenomenon had not been discovered in the 1881-87 era when Michelson and Morley devised their experiment. 
+
+As to why an electron is diffracted, I quote from my Physics Letters paper: 
+ When the electron is diffracted the waves produced by the photon units interfere and the units can regroup in a new configuration to contain the residual wave energy in a new standing wave system following the diffraction. Wave interference from the multiple-photon unit system therefore determines the redirection of the electron, because its kinetic energy is wholly that of the photon spin units. single electron diffraction is possible simply because the four spin units can each develop their own waves. 
+So, I was saying that there is wave interference where a single electron is concerned because there are four wave-generating sources associated with the electron and, unless disturbed, these interact to contain wave energy by their standing wave interference and collectively offset one another so far as external radiation is concerned. I was saying also that the energy we assign to an electron as kinetic energy flips in form as it is exchanged between those photon spin units and the aether. 
+
+Now, I do not seek to get too deeply into the processes involved, but I can say, as I have shown in that contribution of mine in those proceedings of that Bridgeport NATO workshop, that a photon spin that generates the Compton electron frequency has the unit angular momentum of h/2(pi) that we see as the quantum used in Bohr's theory of the atom. Those photon spins, in their interchanges with aether energy as part of their forward migration with the electron motion, are involved in electron-positron pair creation and annihilation as well. 
+
+In summary, therefore, I feel that whatever mysteries there are concerning quantum theory, these mysteries can only be resolved by a belief in a real aether having structure and electrical form. They can only be resolved by separating the actions which occur in the Coulomb gauge from those which occur in the electromagnetic gauge, this being a line of demarcation as between instantaneous action-at-a distance and actions propagated at the finite speed of light. 
+
+I will not go further here and describe how my paper extends to show the basis of the wave diffraction of the neutron, save to say that if you think the neutron, meaning the particle form one can test in experiments, is an electrically neutral particle you are indulging in fantasy. It is a cluster of component electric particles which move together for a while before experiencing decay. I referred to quarks in my Physics Letters paper in order disguise my true opinion and use terminology that would introduce my picture of the neutron in a way that would find referee acceptance. The neutron is nothing other than a fluctuating cluster of charged particles that comprise electrons and positrons along with a proton or antiproton. The electrons are essential as they bring with them those photon spin units which set up the waves that give the neutron its diffraction properties. 
+
+The Physics Letters paper advances the case by showing how the photon spins develop the deBroglie wavelength applicable to the neutron. The frequencies involved are much smaller than those applicable to the electron and the argument used is based on that momentum exchange as between matter and aether, the overall conservation of which accounts for the seemingly unretarded coordinated interplay of photons. 
+
+ Harold Aspden 
+ May 22 1998 
+ haspden@iee.org

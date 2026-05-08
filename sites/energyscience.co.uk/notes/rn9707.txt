@@ -1,0 +1,37 @@
+IONOSPHERIC RADIATION 
+
+ IONOSPHERIC RADIATION 
+
+ &copy; Harold Aspden, 1997 
+
+ Research Note: 07/97: MARCH 31, 1997 
+
+ It was in August, 1996 that I received a communication from A. G. Callegari of Dane Bridge Nursery, Much Hadham, Herts SG10 6JG, England. It was dated August 2nd and concerned his experimental findings on the measurement of 'Schumann Resonance'. What he had to say led me to look up the comments expressed by Tom Valone in his paper: 'Powerline EMF Radiation and Your Health' (Proceedings of United States Psychotronics Association Conference, 1990), my copy being a pamphlet version issued by Tom Valone from the Integrity
+Research Institute, 1377 K Street NW, Suite 204, Washington, DC 20005, USA.
+ I began to make sense of a figure (Fig. 2 on p. 15 of that pamphlet) which gave a radiation intensity spectrum of the frequency pattern for the observed Schumann resonance. My concern was
+that the fundamental frequency component peaking at roughly 8 Hz was about 10 per cent weaker in strength than the second harmonic component which peaked at about 15 Hz, whilst the third harmonic
+at 20 Hz was about 85% of the strength of the fundamental component. The fourth and fifth harmonics seemed to be at 26 Hz (55% strength) and 33 Hz (30% strength).
+ Now this simply should not be, unless there is some factor at work other than the action setting up the fundamental oscillation.
+ The Callegari communication indicated that he was using a frequency counter model WFC 308 made by Wisher in Taiwan. It specified that no antenna was used, by which I inferred that there was no local resonant circuit which could distort the frequency spectrum of the signal to be analyzed. It then stated:
+
+"Frequencies in the range 7.06 to 8.45 Hz have been measured continuously at this site since January 1993, except in February 1996, when values increased suddenly to a temporary range (13.4 to 14.25 Hz) which lasted for about half a minute before falling back to the saturating value. Relaxation from that value appears to be semi- asymptotic of the order of 15 minutes. Analysis of existing data shows strong correlations with Schumann resonance, atmospheric and Telluric temperature changes and discontinuities, brain-wave frequency band limits (theta to alpha and alpha to beta), .... " 
+ The letter then added the comments:
+
+"I've just acquired a second WISHER 308 counter in which frequencies have displayed mostly (90%) in the range 15.5 to 16 Hz, with occasional jumps (10%) up to about 17 to 19 Hz - rarely below 15.45 or above 19.5 Hz." 
+ This suggested to me that with the newer equipment he was getting a more reliable measure of the stronger signals in this low frequency range, possibly supporting the indication in Tom Valone's paper that the second harmonic of the Schumann resonance was stronger than the fundamental component. I wrote to him, expressing my thought that the oxygen and ozone in the ionosphere might be a radiating source supplementing the basic Schumann resonance, thinking also that variation in concentration of a different mix of O(18) and O(16) isotopes might account for the anomalous frequency shift. At the time, it was on my mind that the London newspaper, The Times, had in their August 8th issue just declared that life had been discovered on Mars, the evidence being a fossil-containing fragment which came from that planet and contained the heavier form of oxygen, O(18).
+ Then, by letter dated August 26th, Callegari reported his investigations on his new equipment used in a test run between 4.00 pm and 4.11 pm on that same day. He had a reading every 2.56 seconds
+and the measurements showed little variation about a mean of 15.79 Hz. 
+ Now, based on the Larmor precession formula, w = Hq/m, the angular frequency resulting from motion of an ion in a magnetic field H of strength 0.5 gauss (the Earth's magnetic field), would
+correspond to 768/N rev/s, where q is the unitary electromagnetic charge of an ion and m is the mass of the ion, which mass is also N atomic mass units. N is 16 for an isolated oxygen atom, and 48 for
+ionized ozone. Since 768/48 is 16, this tells us that ozone in the ionosphere could be a source of electromagnetic radiation at 16 Hz. Now this is virtually that second harmonic frequency, bearing
+in mind that the 0.5 gauss Earth's magnetic field strength is only a close approximation.
+ However, there is the very clear message here that this could explain why there is a dominant second harmonic in the radiation intensity spectrum associated with the Schumann resonance. Going
+even further, we can look at the oxygen molecule in its ionized condition in the ionosphere and expect that to produce radiation at the frequency 768/N Hz, where N is 32. This would indicate radiation
+at 24 Hz. This would be the third harmonic frequency associated with the Schumann resonance. A strong fourth harmonic could then arise as a second harmonic of the ozone radiation, but a fifth harmonic of the Schumann resonance is not so easy to explain.
+ I do, however, feel that I have made out a good case for asserting that the ionosphere, besides providing a cavity for setting up the Schumann resonance, has another way of generating ELF radiation. If tests were made in polar regions where the ozone layer is absent, then that second harmonic associated with the Schumann resonance should fall off in strength. That would confirm this theory.
+ In conclusion, identifying this new interpretation of the anomalous strength of that second harmonic by the name `Aspden resonance', I express the opinion that neither the Schumann resonance nor the `Aspden resonance' warrant concern from the hazard risk point of view. Unlike cyclotron resonance in our body cells attributable to overhead power lines and electric blankets, there is really nothing we can do in any event by way of a preventive measure. 
+
+ ******** 
+
+ The reason this Research Note is dated 31st March 1997, bearing in mind that what has been presented dates from August 1996, is the deferment of its preparation to the time when this Energy
+Science Report No. 10 entitled: 'Cyclotron Resonance in Human Body Cells' is ready for publication.

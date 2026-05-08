@@ -1,0 +1,110 @@
+FEEDBACK NOTE 8 
+
+ FEEDBACK NOTE NO. 8 
+
+ RESPONSE TO WILLIAM BUICK 
+
+ Copyright, Harold Aspden, 2001 
+
+On January 6 2001 William Buick sent me a letter which enclosed a CD and a floppy disk. He had compiled a Windows version of a calculating program for working out the Aether Lattice potential that features in Tutorial No. 7 on my web site. This was quite unexpected, as I had simply supplied him with some books that he had ordered and sent an accompanying book with my compliments. 
+
+I have in mind, with his permission, the intention of making this program available through these web pages, in which case it may be accessed from information I will add to that Tutorial No. 7. It is very much appreciated as it adds to the confidence of those interested in checking and understanding the analysis on which my aether theory is founded. 
+
+Now, as to 'feedback', besides pointing out a minor error in my [1999] paper 'The Contemporary Aether' LECTURE No. 26 where I noted that 7.5x10 -5 rad/s was one revolution every 17 hours, it being one revolution every 23 hours, the calculation of the Sun's spin rate at creation, his letter further included reference to what I have said in my writings about the calculation of 'vacuum spin' rates. He was interested in seeing how the sequence of calculation hung together, without tracking through several cross-referenced publications. 
+
+His specific questions were: 
+ In particular, I was hunting down reference to the formula relating spin charge density to spin angular frequency. Please could you point me to that formula, so that I might work out how to program it in software. I know there are comprehensive derivations of vacuum spin in your books and I am still reading and learning and have probably overlooked this in my hurry to find out things. Also, what is the decay time for vacuum spin, once it is established? Does this require a periodic application of electrical energy from an external source, at a frequency that matches the spin rate? Or does the spin continue for as long as the energy is applied? 
+
+Accordingly, the remainder of this FEEDBACK NOTE No. 8 is devoted to the task of replying to these questions. 
+
+It is easier to begin by dealing first with the 'decay time' questions. The simple answer here is that I have no theoretical way of calculating the decay time, short of venturing into the realm of hypothesis and having no guidance from observation data bearing upon the phenomenon. 
+
+At one typical extreme we have the Sun itself, created long ago in a state of spin owing to its coupling with the vacuum spin induced by its creation process. It is still spinning, after several billion years, but it does have an enormous angular momentum. 
+
+At the other extreme there is the plasma ball phenomenon seen from time to time as a 'thunderball'. Observers have watched these objects floating in the sky, hovering over metal objects, such as a gun barrel, dropping into an open container filled with water and there dispersing to cause the water temperature to increase, and even drifting along the seat aisle within an aircraft. Always they collapse and decay as if vanishing into thin air, but what is their decay time? The larger they are, the longer they survive. One could imagine that they are aether in spin, enveloped in surrounding aether but slowly decaying as they shed the energy wich promotes ionization of air that characterizes their glow. That seems a matter of minutes, with the decay time being set by criteria somewhat akin to those applicable to a spinning top which precesses owing to a torque action and then topples, its spin time being a function of the initial spin rate and that torque. 
+
+Intermediate these extremes is body Earth which also involves 'vacuum spin', or rather aether spin, in its own creation, a spin of something coextensive with, but internal to, body Earth, but yet which seemingly has a spin axis inclined somewhat to the Earth's spin axis. I say this because that aether spin is evidenced by the geomagnetic field and we know that the magnetic poles are offset relative to the geographic poles and move around the latter in a circle over a period measured in hundreds of years. That inclined relationship implies to me the presence of two magnetic moments, tilted with respect to each other, and so producing a torque which determines the rate of precession. As to decay time, that concerns how long the action survives before the spin topples. Note that the Earth's magnetism reverses periodically, every few hundred thousand years or so, whereas we see solar magnetic reversals at a much faster rate. Note further that, when I say 'two magnetic moments', I have in mind one owing to the main body in which it is induced by dislaced electric charge and one at the surface of that body where a compensating charge is seated owing to that displacement. They could share different spin axes. 
+
+So I think it will need the talents of future scientific minds, armed with some yet to be discovered experimental data to piece together the elements of a theory that explains the decay time of a vacuum spin state. Meanwhile, the impetus for justifying such research comes, not just from the cosmological objective of having a better understanding of Nature's creative properties, but more from the exploration of the way in which the vacuum spin phenomenon involves an inflow of the energy which powers the spinning objects thus created. Here, I can put together enough theory to point the way forward to building machines which involve vacuum spin and are fed by pulsating inflow of energy drawn from the aether itself. Indeed, as my writing indicate, as by that paper 'The Contemporary Aether', already mentioned, I suspect such machines or their equivalent in plasma discharge apparatus exist in embrionic form somewhere in the world's backyard roamed by 'free-energy' enthusiasts. That prospect should serve as justification for now paying detailed attention to the following derivation of the formulae which relate vacuum spin with electric charge and energy, as I here endeavour to clarify the situation for William Buick. 
+
+I trust it will justify me recording this response as a publication on my Web site, rather than mailing it to William Buick as a private communication. 
+
+William Buick had read the section on this subject at pp.18-25 of my 1996 book 'Aether Science Papers' but that account was a rather summary treatment and the argument in the latter part of those pages was not the route I had actually followed in developing the theory from its early origins. 
+
+What I will present below is a rigorous step-by-step analysis of the vacuum spin theory, building the theory from the aether analysis of the Tutorial No. 7 stage through to the fundamental theoretical derivation of the Sun's spin angular momentum at its creation, a result that can be compared with what we observe today as the angular momentum of the whole solar system. Implicit here is the assumption that shortly after the Sun was created, for reasons I will seek also explain elsewhere in these Web pages, it sheds the matter from which the planets were formed, a process which involved most of that initial angular momentum of the Sun being tranferred to the motion of the planets around the Sun. 
+
+You will surely agree that this is a quite formidable project to undertake and I hope the result will duly impress the reader. It could not have been contrived by simply making a few unwarranted assumptions to get the numbers to fit with observation and I assure you that what you see below emerged in its own way over a period of many years as pieces of the cosmic jigsaw came together. Happily the numerical basis of the dimensionless physical constants involved was rigorous and indeed precise in its foundation at least to the part-per-thousand level, dating back to the late 1959 period. By that I refer to the r/d parameter for which William Buick has now provided the above-mentioned Windows calculator program. 
+
+The aether is a subtle non-material medium having properties akin to those of a fluid crystal, in that it is sensitive to extraneous electrical field effects and responds by causing its component elements to form a kind of crystal structure. This is easily dissolved and recreated according to change of those field conditions. The parameter d is a distance representing the lattice cell dimension applicable to that crystal structure, this being of simple cubic form. The parameter r represents the radius of a circular path in the inertial frame about which the components of that lattice move at velocity v in unison, perfect synchrony, so that, in the language of quantum theory, an electron (of mass m) sharing that state of motion will have a position that is uncertain by 2r and a momentum that is uncertain by 2mv but the product of tthese two uncertainties, 4mvr, will be certain because it has the value h/2&pi;. We are considering here the root foundations of Heisenberg's Principle of Uncertainty. It is the pointer to the most basic feature of the aether, the circular motion of a frame of physical reference, shared by matter, about an underlying inertial reference frame. This motion has a cyclic frequency equal to the Compton electron frequency, namely mc 2 /h, some 1.2356x10 20 cycles per second. Here resides the key to gravitation because the inertial mass property of matter involves a dynamic state and something has to exist in the aether to provide the necessary dynamic balance, something which sits in a juxtaposed frame of reference moving at a speed 2v relative to that aether-cum-matter frame. Here we expose the secret of the Unified Field Theory, the route to the link between gravitation and electromagnetism, because that aether-cum-matter frame sharing the Heisenberg jitter motion is surely the local electromagnetic frame of reference. 
+
+You may verify from the above argument that: 
+ 4mvr = h/2&pi; 
+and this allows us to determine v, because: 
+ v/2&pi;r = mc 2 /h 
+
+Evidently v equals c/2 and from this I was able to argue that whatever that something was sitting and moving in that frame which was in inertial juxtaposition with the aether-cum-matter frame, it was moving at speed c relative to the latter frame. That was the trigger for connecting gravity with the electrodynamic interaction of the elements of that something, bearing in mind the dynamic balance and its involvement with the mass of matter. 
+
+With that in mind my next concern was the question of how I might determine the size of that radius r. Here I was, owing to my interest in ferromagnetism, quite captivated by the role played by the Bohr magneton, a fundamental unit of magnetic moment that applies to the motion of the electron around the nucleus of the hydrogen atom. It has a value which I knew from a school physics book was formulated as: 
+ he/4&pi;mc 
+
+Here e is the electron charge expressed in electrostatic units and h is, of course, Planck's constant. So I thought it conceivable that the electric charge sitting in a unit cell of aether and moving in orbit of radius r and speed c/2 about a centre might well be quantized as a Bohr magneton. 
+
+This then allowed me to deduce the value of the radius r, because that school physics book (in its seventh edition, dated 1941) stated that the Bohr magneton had the value 9.18x10 -21 . All I had to do was divide this quantity, or rather its value as updated by later measurements to 9.274x10 -21 , by e, 4.8032x10 -10 in cgs electrostatic units, and I knew that r had to be 1.93x10 -11 cm. 
+
+I had, therefore, a clear picture of the scale of the structured aether and it looked right, having regard to its scope for interacting with the electron shell structure of the atoms which form the material universe. 
+
+Now, underlying all this, was the analysis by which I had explored the zero-energy condition of the electrostatic interaction between a structured system of charges e sitting in the electrically-neutral aether and balancing its background continuum of electric charge density &sigma;. This had given the value of r/d, there being 1/d 3 charges e in unit volume of that continuum and so this latter quantity is, in fact, &sigma;. 
+
+So, knowing r/d (its value being 0.3029), and knowing r, I had a measure of d as 6.3..x10 -11 cm and, knowing e, it being presumed to equal the unitary charge of the electron, I knew the value of &sigma;. 
+
+The aether was, therefore, becoming, as it were, an open book, presenting itself in clear form and keeping no secrets. 
+
+Emboldened by this I ventured to ask myself what happened if a spherical expanse of this aether were to rotate rather slowly within surrounding aether at an angular frequency &omega;, this being very small in relationship to the angular frequency &Omega; of that quantum jitter motion, c/2r. The constraint I saw as governing was the need for the aether to keep its synchrony of motion, meaning that the superimposed rotation would not affect the need for each aether charge to keep in step, owing to powerful electrostyatic interaction forces asserted by the enveloping aether medium. 
+
+When formulated, back in the latter part of the 1950s when I researched all this, it meant that the effective positions of the aether charges in the rotating group would need to be displaced radially through a distance &delta;R about the spin axis of the group, R being the radius distance of a charge from that axis. The resulting equations were: 
+ &Omega;(r + &delta;R) = c/2 + &omega;R 
+and: 
+ &Omega;(r - &delta;R) = c/2 - &omega;R 
+
+I concluded from this that: 
+ &delta;R/R = &omega;/&Omega; = 2&omega;r/c 
+
+Considering then a circular slice (disc) of the aether in spin at that angular frequency &omega;, a slice in a plane perpendicular to the axis of spin, the change &delta;R expands (or, negative, contracts) the area of that disc by &delta;&pi;R 2 or 2&delta;R/R of the whole area. Since this is affects only the aether charges that constitute the lattice structure and not the neutralizung background continuum charge it means that there is a net charge density of &delta;&sigma; induced by the spin, its polarity depending upon the spin direction in relation to the underlying jitter spin direction at angular frequency &Omega;. This has the value: 
+ &delta;&sigma;/&sigma; = 2&delta;R/R = 4&omega;r/c 
+and, since: 
+ &sigma; = e/d 3 
+we find that: 
+ &delta;&sigma; = 4&omega;er/cd 3 
+
+We know the value of e, c and d, so here we have a formula which tells us the electrical charge density induced within aether if set spinning at angular frequency &omega;w. Conversely, the formula tells us how fast aether will spin if we can displace charge within it in a radial sense about the spin axis. 
+
+Having derived this from pure theory we must then look around for evidence that this phenomenon really does exist. That evidence comes from thunderball phenomena, geomagnetism, even the tornado and laboratory experiments aimed at simulating the tornado phenomenon by controlling the snaking action of an electrical discharge along the central vertical axis of an enclosing cylindrical Faraday cage turning slowly about that axis. However, the prime example, the one we are concerned with here, is our Sun and its creation. 
+
+I knew from my study of ferromagnetism during my early research education that the state of magnetic polarization (mutual attraction between iron atoms within an iron core) sets in only when iron cools through its Curie point temperature. So I speculated that gravitation (mutual attraction between elements of matter) sets in only when the chaos of an overheated aethereal medium dispersed over a region of space cools through a critical threshold state in which energy finds it more desirable to be deployed into a state of order, to become that we condsidered above as the structure fluid crystalline aether form. The analogy extends to space domains, regions confining the polarized state to interactions within the bounds of the local domain, just as we see in iron with the formation of magnetic domains. What this means is that a star could nucleate matter owing to its accretion by the sudden onset of gravity, with one star being created in each such space domain. 
+
+This scenario comes into life once we see that the protons and electrons that constitute primordial matter by combining to form hydrogen atoms, being however separated in the ionized chaos existing in the pre-gravitation phase, would react differently during an initial period when drawn together by gravitational force. The combination of electrostatic interaction and gravitational interaction would favour initial nucleation of charge that is predominantly positive in polarity. The reason is that two protons have a mutual acceleration of gravity that is 1836 times greater than that of two electrons. So we know that the initial positive charge density of the primordial Sun at creation must be given by: 
+ G&rho; 2 = (&sigma;) 2 
+&rho; being the mean mass density of the Sun. 
+
+To complete the picture we needs to see the action as involving two systems, the material body of the Sun and the coextensive spherical body of aether sitting inside the Sun. The matter comes together to form a sphere governed by the formula just presented. The protons predominate to keep the mass density uniform throughout the body of the Sun, owing to that perfect balance of force everywhere as between electrostatic repulsion and gravitational action. This sets up that state of spin at angular frequency &omega; w in the coextensive aether sphere. This spin is powered by the electrostatic forces exerted between aether charge within the sphere and outside the sphere as they keep the jitter motion in synchronism and import energy as necessary to sustain the angular momentum involved. Then, shortly thereafter those electrons that have been left behind in the nucleation process catch up with the protons and neutralize the solar body. However, that angular momentum associated with aether spin is not shed in this process. The energy inflow was a one-way phenomenon. So the aether in the solar body is left at that angular frequency &omega;. It will thereby set up its own radial electric field directed from the spin axis and this will be seen by the ionized material of the Sun as an electrical displacement which it will compensate by a corresponding neutralizing displacement of its elecron-proton population. The Sun will still remain electrically neutral overall. Its aether will still spin and have that high angular momentum acquired in the creation event. But it will now have a magnetic moment. 
+
+Of more importance, however, is the destiny of that angular momentum. Clearly, one can expect it to be shared with the body of the Sun itself so that the Sun spins and eventually sheds its planets. How it does that is a matter for separate discussion, and our task here is nearly complete. I set out to explain by pure theoretical argument using a few parameters of quantum theory how the Sun acquired its spin angular momentum at its creation and to show William Buick how the formula relating induced charge denmsity and spin rate was derived. 
+
+This I have done but to complete the account I will insert a few numbers into the above formula to compare the result with our estimate of the angular momentum of the solar system as it is today. 
+
+The induced charge density per radian/s has the value of approximately 4.781 cgs esu/cc as I presented in equation (30) of my first printed essay on this subject, The Theory of Gravitation which was published in 1960. This is the value of 4er/cd 3 , with e as 4.805x10 -10 esu, r as 1.93x10 -11 cm, c as 3x10 10 cm/s and d as 6.371x10 -11 cm. 
+
+Now, concerning the Sun, its mass density &rho; is known because cosmologists know its overall mass and its radius and find it has a mean mass density of 1.41 gm/cc. Taking G as 6.66x10 -8 in these cgs units, the relevant formula above gives a charge density of 3.64x10 -4 esu/cc. 
+
+Matching the two results just calculated we can find w, the angular velocity of the Sun at creation and before it shed its planets. It becomes 7.6x10 -5 radians per second, which is one revolution every 23 hours. 
+
+Now the Sun today rotates about its axis in a period of as many days and so it must have shed 96% or more of its angular momentum since its creation. How much of that angular momentum remains in the motion of the planets is therefore a matter of estimation based on astronomical data. My calculations, taking the Earth's angular momentum in its orbit as a unit of reference, estimate that the planets have 1,200 such units of angular momentum and the Sun has of the order of 20 such units. I cannot justify further speculation on that theme, save to say that, any angular momentum dissipated into outer space over a period of what is probably 4 billion years would be more likely to be shed by the Sun than by the planets and that is consistent with the above findings. 
+
+The real test of the charge induction formula comes from the analysis of the geomagnetic moment and some energy density measurements pertaining to thunderballs. Hopefully, however, we will see further supporting tests as machines come into being which harness the potential of vacuum spin energy. 
+
+I hope the above will serve as an adequate answer to William Buick's request. 
+
+ **************************** 
+
+Harold Aspden 
+March 18, 2001

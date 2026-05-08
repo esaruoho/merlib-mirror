@@ -1,0 +1,9 @@
+1986b 
+
+ 1986b 
+
+ The following is a paper by H. Aspden published in IEEE Transactions on Plasma Science, v. PS-14, pp. 282-285 (1986).
+
+ ANOMALOUS ELECTRODYNAMIC EXPLOSIONS IN LIQUIDS 
+
+ Abstract : The recently reported Graneau experiment on electrodynamic explosions in liquids, which reveal anomalous longitudinal electrodynamc forces of the order of 10 4 times greater than expected, verify the need for a term in the law of electrodynamics that corresponds to the ion/electron mass ratio. this confirms an earlier theoretical interpretation of the anomalous cathode reaction forces found in the vacuum arc.

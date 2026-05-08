@@ -1,0 +1,10 @@
+1995c 
+
+ 1995c 
+
+ The following is a U.K. Patent granted to Harold Aspden and Robert George Adams on November 6, 1996 with a first publication date of April 12, 1995.
+ U.K. PATENT NO. 2,282,708 
+
+ 'ELECTRICAL MOTOR-GENERATOR' 
+
+ Abstract : An electrodynamic motor-generator has a salient pole permanent magnet rotor interacting with salient stator poles to form a machine operating on the magnetic reluctance principle. The intrinsic ferromagnetic power of the magnets provides the drive torque by bringing the poles into register whilst current pulses demagnetize the stator poles as the poles separate. Inasmuch as less power is needed for stator demagnetization than is fed into the reluctance drive by the thermodynamic system powering the ferromagnetic state, the machine operates regeneratively by virtue of stator winding interconnection with unequal number of rotor and stator poles. A rotor construction is disclosed in (Fig. 6, 7). The current pulse may be such as to cause repulsion of the rotor poles.

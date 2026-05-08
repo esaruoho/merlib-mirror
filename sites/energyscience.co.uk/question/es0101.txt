@@ -1,0 +1,84 @@
+QUESTION NO. 1 
+
+ THE FIRST QUESTION 
+ Is Energy Quantized? 
+ Copyright &copy; 1998 Harold Aspden 
+
+Scientists will tell you that the energy shed by the sun is packaged in units which physicists call 'photons' and that the amount of energy in a photon is determined solely by the frequency associated with the electromagnetic wave which conveys the photon through space. Accordingly, they will say: 'Yes' to our question. Energy is quantized in those photon units. 
+
+Now, that answer is not correct if the intent of the question is to establish whether energy exists in discrete fundamental units which can be counted and so accounted for by whoever may be the God-figure who keeps track of the stock of energy in the universe. 
+
+We need to be very careful in forming mental pictures of what is happening as energy is deployed in the world around us. Energy is a vital commodity. Scientific wisdom assures us that energy is conserved in all processes, whether physical or chemical, and so we know that energy is indestructible. If it exists in natural units, however small, then the governing principle, the Principle of Conservation of Energy, says that the universe must contain a specific number of such energy quanta. It then becomes a fascinating question to try to determine that number and ponder on the factors in science which determine that number. Note here that we are not talking about elementary particles, such as protons and electrons, but rather about 'units' of energy, recognizing that there may be many billions of such energy units in such particles. 
+
+An intuitive reaction to this is to say that the question is unimportant and that if it has not already cropped up in some way in the development of science as we approach the end of the 20th century, it cannot be of any real significance. 
+
+My answer to that is that we should not be so complacent where our understanding of energy is in question. It is of vital importance that we understand as much about energy as we do about electricity and that we tolerate no unresolved mysteries. We know that Nature packages electric charge in units that are standard on a universal scale, so far as our scientific capabilities allow us to judge, and I see no reason why we should not be equally certain in our knowledge as to whether energy is also packaged in units that are standard on a universal scale. 
+
+I have in fact put effort into resolving this problem and I now intend, as we proceed in these pages, to show that Nature does provide a definitive answer to that question. 
+
+As to the photon, whatever it is, it is at least something that combines three measurable properties. These are (a) its capacity upon creation or absorption to absorb or shed a standard unit of angular momentum, (b) its characteristic frequency, which is that of electromagnetic waves present at its seat of creation or demise, and (c) its energy package, which is that of something which has that unit of angular momentum and spins at an angular frequency proportional to that wave frequency. 
+
+Note that I have not said that a photon is a unit of energy which travels from A to B at the speed of light to transfer its energy E from A to B at that speed. My reason for this omission is, simply, that we do not observe photons in flight carrying that energy E at that limiting speed. Indeed, I would not expect Nature to follow the doctrines of those physics teachers who say, on the one hand, that if an element of mass travels faster and faster until it reaches the speed of light then it will acquire infinite energy and so infinite mass and, on the other hand, that a photon travelling at the speed of light has a finite energy, because a photon at rest has no mass. To me, this idea of the massless photon, that can somehow use a relativistic scaling factor of infinity to produce a finite result from a zero base, is plain nonsense, especially so as we are told that the photon has angular momentum. Certainly, the physics of this subject of energy transfer by photons, quantum physics, as taught in universities today is lacking something until it faces up to this issue of its internal inconsistencies concerning the true nature of energy and its transfer by electromagnetic radiation. 
+
+One could say that physicists have gone too far in building their theories upon a symbol, h, which denotes Planck's constant, without really understanding how Nature gives physical embodiment to whatever that symbol represents. It is empirical. A package of energy E extracted from the electromagnetic spectrum of radiation will be shed from that component of the spectrum which has a frequency E/h. That we know from experiment. What we do not know is how the sun, if that is the source, sends that package of energy to Earth, keeping it intact, and does that with no loss, as if the 'photon' is a kind of massless ghost particle which travels through empty space, but somehow at a steady speed, kept constant by a mysterious influence that no one can understand. 
+
+Ask your physics teacher to explain this and, by the time he or she has finished explaining Clerk Maxwell's equations and the role played by the symbol c in Einstein's equations of space-time, see if you can then picture the 'photon' as something real as a conveyor of energy from A to B. 
+
+If you can, then try answering my question as to whether or not nature provides a fundamental unit of energy, a finite number of which will exist in that photon. 
+
+Now, in this section of this work, I do not intend to offer my own description of the photon. I will come to that later. It does have some connection with the physical symbols e, h and c, e being the standard unit of electric charge, h being Planck's constant and c being the speed of light. These three quantities are governing so far as concerns the quantum underworld of so-called 'empty space'. They combine to define a value of a fundamental constant in physics known as the 'fine-structure constant'. 
+
+Ask yourself where, in the books which teach physics, you can find a physical account showing how Nature determines the value of this constant. It is dimensionless, meaning that it is a pure number, as if Nature prefers to present 'empty space' as a geometric pattern in which numerical ratios associated with a structured lattice-like system. No, you will not find that in the standard books used to teach physics in universities. Such teaching is silent on the key question of what it is that determines the precise value of the fine-structure constant, a dimensionless number fixed by Nature, one that does not depend upon the quirks of units of physical measurement. 
+
+I say this because the speed of light c, is said to be constant, within a universe that is said to be expanding. So if you measure it by counting the number of wavelengths in a ray of light travelling between A and B, measure the light frequency and measure the distance from A to B, you can work out the speed of light which you believe you are measuring. 
+
+Rather than build fundamental theory on physics which requires c to be constant, is it not far better to build such theory on the physical interpretation of the dimensionless constants of physics? Most physicists will agree with this, but they have to admit failure when it comes to devising a theory which offers answers to such questions, particularly concerning the fine-structure constant, the proton-electron mass ratio and the dimensionless constant linking G with the charge to mass properties of the electron or proton and the electrical constants of that elusive intervening 'field medium'. 
+
+Let us now look more closely at the issue of the standard energy unit. Does such a unit exist or not? Here I am not referring to the erg or the joule, just as when I refer to the standard charge unit e I am not referring to the coulomb. No, my question concerns whether, if I look closely into the smallest particle of energy, I can see a finite number of units of energy, just as I can say that a particle of matter having a given overall electric charge comprises a specific number of electrons and protons. 
+
+Note that expression 'particle of energy'. Can it be said that energy is always wrapped up in a particle form? That poses another question. When two electric charges seated in separate particles act on one another across a distance of separation, where is the energy of their mutual interaction located? If it is spread over the intervening 'empty space', then what form does it adopt? Is it that of minute particles, as specks of energy in a gas-like sea of energy? 
+
+Physicists avoid such questions. They are embarrassed by them, because they must not be seen to build their notions of physics on speculations reminiscent of 19th century efforts, which Einstein disdained. No, they prefer to stay on safer ground, taking comfort from mathematics, its structures in various dimensions and its symmetries. Mathematics is reliable. It never fails. If one can formulate something in symbols and extract relationships which seem to link with what is observed, then that suggests one has discovered an underlying truth and the formulated equations become a substitute for what we otherwise picture as the real universe. 
+
+So, I will adopt the same tactics, just briefly, and refer to a mathematical formulation linking the physical size of an electric charge e with its energy E. This is a textbook formula often linked to the findings of J. J. Thomson: 
+ E = 2e 2 /3a ........ (1) 
+where a is the radius of a sphere containing the charge e. The factor 2/3 is not of importance at this stage in our discussion. It arises because, of that energy E, three-quarters can be said to be in the field outside that radius a with one-quarter trapped inside as part of a uniformly field energy distribution equal in density to that just outside that boundary radius a. 
+
+J.J. Thomson did not derive the formula in that way. He did not allow for the charge e being spread throughout the body of the charge and considered the effects of moving that charge as if it were all seated at the surface radius a, to find that electromagnetic energy was added to the field outside that radius. This he equated to kinetic energy, so coming to a relationship between mass, velocity v and c as the link between electrostatic and electromagnetic units. The above formula was really a formula for the mass of that charge if e is put in electromagnetic units. Indeed, had it not been for the mistake in regarding the electron as a hollow spherical shell of charge, J.J. Thomson would have discovered the formula E = mc 2 . 
+
+As it is, it could be said that he came close, because his model which assigned the electromagnetic field energy as being the kinetic energy of the electron gave E as three-quarters of the mc 2 value. He did show that, as the particle approached the speed of light, so its mass would approach infinity. Indeed, it was known, long before Einstein came onto the scene, that the mass of the electron increased in such a way as its speed increased. 
+
+So, I am going to take equation (1) as my starting point for an excursion into mathematics. 
+
+It suffices to accept that there is something special about a sphere as defining a volume of space containing something that is the seat of a source of energy, that something being the standard unit of charge e, which may be of positive or negative polarity. 
+
+As is the custom I will now declare the hypothesis which I intend to formulate mathematically. My hypothesis says that particles of electric charge occupy spheres in space and that physical processes involving transmutations of those charges are governed or at least favoured for preference by events in which the total volume of space occupied by those spheres is conserved. If you wish you can see this as saying that space is a sea of something that has a uniform distribution, apart from its exclusion from those spheres, and that something escapes involvement in the transmutations if that conservation condition is not met. 
+
+Now, looking at equation (1), it can be seen that the radius of a sphere having that standard charge e will be in inverse proportion to its energy. Therefore, its volume will be proportional to the inverse cube of its energy. If, therefore, we consider the transmutation of a particle-antiparticle pair into two separate particle-antiparticle pairs, with overall volume conserved, we can see that we are dealing with an equation of the form: 
+ 1/(E 1 ) 3 = 1/(E 2 ) 3 + 1/(E 3 ) 3 
+which, if we write: 
+ z = E 2 E 3 
+ x = E 1 E 3 
+ y = E 1 E 2 
+can be seen to be an equation of the form: 
+ x 3 + y 3 = z 3 ..... (2) 
+which will be recognized as of the type discussed in relation to Fermat's Last Theorem. 
+
+If those energies E 1 , E 2 , E 3 are quantified in integer multiples of some standard unit of energy, then x, y and z must also be integers in an equation which Fermat's Last Theorem denies has an integer solution. 
+
+So, we have established something in our quest to determine if energy can be quantized in standard units. The notion of particle-antiparticle pair creation and annihilation features so strongly in the theory of quantum-electrodynamics that one can but suspect that all physical embodiments of energy have such form. Even the energy of field interaction can be seen as being that of transitory pairs of charges, e - and e + induced in the space between the interacting elements. 
+
+Accordingly, we confront the situation where, if energy is quantized in standard units, our space conservation hypothesis is 
+wrong or we question Fermat's Last Theorem. 
+
+To proceed we will yield to the conclusion that there is in fact no ultimate unit of energy, because, our next task will be to support the hypothesis of space conservation as we give physical account of the nature of gravitation. So far as concerns challenging Fermat's Last Theorem, we cannot venture along that track, now that Andrew Wiles has established its validity. Even so, because I see it as important for the reader to be able to check the arguments on which I rely in building this account of the fundamentals governing energy science, I have tried myself to see how Fermat's Last Theorem can be proved in a quite straightforward manner. I have, however, run into the problems that so many earlier venturers in this quest have encountered. At this time I must rely on the facts as they are, namely that the Theorem is sound and that Andrew Wiles has provided the proof. 
+
+That task of proving Fermat's Last Theorem, though purely a mathematical diversion from our main topic, was something that warranted attention. The reason is that it has remained a mystery confronting science for hundreds of years, along with the great mysteries of gravitation and geomagnetism. Physicists have to realize that there is purpose in solving the ancient mysteries of science, preferably by techniques which retain traditional concepts and are supported by physics of the kind we can picture in the three-dimensional space of the real world. Andrew Wiles' solution to Fermat's Last Theorem involves what is known as 'modular theory', and this verges on relationships that apply to multi-dimensional systems. I have hoped to avoid complexities that Nature does not share but circumstances force me to comment on the misguided efforts of those mathematicians who are would-be physicists who think that a multidimensional universe provides all the answers. Fermat's Last Theorem assures me that there is no ultimate and fundamental unit of energy but I must now digress to comment on the multi-dimensional world that others see as underlying the space we inhabit. 
+
+Press the following link button to proceed to the next Essay in this 'Question' series: 
+ 'Question No. 2' 
+
+Dr. Harold Aspden 
+ haspden@iee.org 
+
+ My main scientific interest concerns electrical science and the aether and, amongst my writings is a book 'Aether Science Papers' , published in 1996, in which on pp. 5-9 I show how an adaptation of Fermat's Last Theorem may tell us something about the nature of electric charge and its particle forms.

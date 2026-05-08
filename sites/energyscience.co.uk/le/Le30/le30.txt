@@ -1,0 +1,55 @@
+LECTURE NO. 30 
+
+ LECTURE NO. 30 
+ The Aspden Effect 
+ Copyright &copy; Harold Aspden, 2002 
+
+ The basis of this Lecture is the text quoted below of an item published in February 1995 in New Energy News, which was followed by a commentary by the Editor who stressed its significance and assigned it the name ' ASPDEN EFFECT '. he followed his remarks by an item headed 'A CHALLENGE TO OUR READERS' in which he stated "Many of you have asked for something that you could replicate. Here is a good one. ....." He ended by saying: "We also ask any of you theorists .... to give us some help to begin to understand the Aspden Effect ." After the passage of more than seven years, I have decided here to return to this topic and see how far I can go in clarifying the issues raised. 
+
+ INTRODUCTION 
+
+I have seen the need for this after receiving an E-Mail enquiry in June 2002 from someone who had heard mention of the 'Aspden Effect' but was in search of the information source as he had in mind seeking to replicate the experiment involved. Also, it was on June 15th, 2002, after delivering my presentation at a conference in BERLIN in the presence of Dr. Hal Fox, the Editor of New Energy News, that during the question session he said I had not mentioned the Aspden Effect. The subject of my talk in Berlin did have a related underlying theme and I will explain that in what I have to say below. First, however, one needs to read what follows next as the item I wrote for that February 1995 issue of New Energy News. 
+
+ DISCOVERY OF 'VIRTUAL INERTIA' 
+
+I report an anomalous energy phenomenon found in my motor experiments. 
+
+Imagine an electric machine having no electrical input itself and which, when started on no load by a drive motor and brought up to speed (3250 rpm), thereafter runs steadily at that speed with the motor drawing a little extra input power with a time delay rate of about two minutes. The machine rotor has a mass of 800 gm and at that speed its kinetic energy together with that of the drive motor is no more than 15 joules, contrasting with the excess energy of 300 joules needed to satisfy the anomalous power surge [to spin up from rest]. 
+
+Imagine further that when the motor, after running five minutes or more, is switched off and the machine is stopped, you can restart it in the same or opposite direction and find that it now has a memory in the sense that it will not now ask for that 300 joules of excess input. 30 joules will suffice provided that the time lapse between starting and restarting is no more than a minute or so. 
+
+This is not a transient heating phenomenon. At all times the bearing housings feel cool and any heating in the drive motor would imply an increase of resistance and a build-up of power to a higher steady state condition. 
+
+The experimental evidence is that there is something spinning of an ethereal nature coextensive with the machine rotor . That 'something' has an effective mass density 20 times that of the rotor, but it is something that can spin independently and take several minutes to decay, whereas the motor comes to rest in a few seconds. 
+
+Two machines of different rotor size and composition reveal the phenomenon and tests indicate variations with time of day and compass orientation of the spin axis. One machine, the one incorporating weaker magnets, showed evidence of gaining strength magnetically, as the test were repeated over several days. 
+
+I will soon be reporting in detail on these findings, after further work and evaluation of the implications. The phenomenon was something I should have been prepared for, having regard to my years of theorizing, but this discovery was unexpected as it has crept in loud and clear in a project aimed at testing a motor principle totally unrelated to 'vacuum spin' . It has appeared obtrusively and I do not yet know whether, in adapting to its presence, it can serve in improving machine performance or become detrimental. 
+
+Readers who are curious about my more general research endeavors may find interest in the specification of U.S. Patent No. 5,376,184 granted to me on December 27th 1994. In connection with the subject of this particular communication I quote from lines 3 to 28 of column 21 of that patent: 
+ "Now, in a practical device, one can similarly set up electric fields in a metal rotor by displacing those charge carriers, either by inertial action or the action of a magnetic field directed along the spin axis. However, even here physicists have problems understanding the phenomena they observe, as one may see from the scientific paper by James F. Woodward: Electrogravitational Induction and Rotation, Foundations of Physics , 12 , pp. 467-478 (1982) . On page 472 one reads, after a statement that machine operation produced induced charge in evidence from a voltage: 
+
+ Plainly, an effect of some sort is present. Since a negative charge appears during spindown, we may infer either that (1) an initially present positive charge disappears during spindown, or (2) some process drives the sample case to negative potentials during spin-down. The genuine disappearance of charge from the sample/sample-case assembly would be, of course, prima facia evidence for the existence of electrogravitational reduction . 
+
+What this means is that electric charge can be held displaced within a metal to set up electric field gradients in that metal. Woodward did this by inertial spin action, possibly affected by the earth's field, but a similar result can be obtained by building a series-connected capacitor stack." 
+
+  
+
+ BACKGROUND OF THE PROJECT 
+
+The research giving the above spin-off was a project funded by the Department of Trade and Industry of the U.K. owing to my having competed successfully in 1994 for what was termed a 'SMART' award, a 'Small Firms Merit Award for Research and Technology'. It provided funding for one year to engage in preliminary research on the subject offered for the competition, which was, in my case, a motor project involving magnets mounted to spin about their axes of magnetization. I was fully retired (being already 66 years of age) and no longer had use of the laboratory facilities where I had spent 9 years as a Visiting Senior Research Fellow after retiring early from my career employment with IBM. 
+
+Since I was building the motors myself and was anxious to progress as rapidly as possible, I had to shelve, as it were, the fascinating side-line research avenue that opened up with the above discovery, owing to the time pressure and the limited period of funding for the objective that had been set. I may also say that I encountered another phenomenon that still baffles me concerning a later motor built as part of that effort. That motor was a d.c. motor able to run in either of its two directions, but, if set running in a clockwise sense, it would run for two or three minutes drawing its necessary drive power from the supply, but then it would start to slow down and come to rest just transiently as it switched itself over to anti-clockwise rotation, before rapidly gaining speed in that preferred sense. This did not make sense, given that it had started to run well in the clockwise direction and had received no impulse giving it an initial inertial motion in that direction. 
+
+The early background relevant to the topic here discussed is that, at the time when I left IBM, where I had for many years held a senior position as Director of IBM European Patent Operations, to revert to my academic scientific interests, and with IBM's generosity had secured university facilities for my research, I had then engaged in one experiment aimed at testing my ideas concerning 'vacuum spin'. The idea behind this is that if one can set up a radial electric field, meaning one emanating from a spin axis, and that axis happens to be in-line with an axis in the vacuum medium about which there is the quantum jitter of a very high speed circular motion of very small radius shared by all matter, then that radial electric field might induce spin by that vacuum medium itself. That quantum jitter, by the way, is the so-called 'Zitterbewegung' that underlies Heisenberg's Principle of Uncertainty in quantum theory, by which neither position nor momentum are certain, but multiply the two together and you get a definite quantum of angular momentum h/2&pi;, where h is Planck's constant of action. I have good reason to believe that matter acquires that jitter property by sharing it with a universal activity in the aether itself, or the 'vacuum medium' should the word 'aether' seem inappopriate terminology to a physicist who may read this. 
+
+Unfortunately, at the time (the 1985 period), I used a non-conductive rotor which I subjected to a voltage gradient of 12,000 V/cm between the spin axis and an copper cylinder, in my efforts to sense a possible inertial anomaly evident from spin-up and spin-down tests. This assumes a possible modest exchange of angular momentum between the vacuum medium and the rotor. Although some spurious effects were noticed that effort was somewhat futile. It was only some eight or so years later that I came to realize that I ought to have used an electrically conductive rotor subjected to an axially--directed magnetic field, the so-called homopolar construction or Faraday disk construction, looking, not for power output by drawing current through the disk, but rather the inertial anomaly I had sought earlier in my experiments. 
+
+Having by that time heard of certain 'over-unity' energy claims based on electric motors incorporating magnets spinning about their axes of magnetization, I could but then wonder if my interest in the 'vacuum spin' concept as aroused by my theoretical physics research could advance by engaging myself in motor experimentation. Hence, my application for that 'SMART' award. 
+
+However, in pursuing that research, my prime object was that goal of 'over-unity' performance and this may account for much of what I have reported on separately in my 'ENERGY SCIENCE REPORTS'. Now, however, I face the facts, the passage of time and the unfulfilled resolve, as stated in that New Energy News item above, that I would later be reporting in detail on the findings there outlined. The question at issue also is: "How does a reader of that account know what to build to replicate the findings, given that no details are provided?" 
+
+ Well, I intend here to remedy this as this preliminary draft of this Lecture develops. I can say that the main motor that revealed the anomaly mentioned in the New Energy News account is the one illustrated and described in my ENERGY SCIENCE REPORT No. 9, which I will soon be making available on this website. Meanwhile, I am putting this partial draft on record now, owing to having just included that New Energy News item in the bibliographic reference collection that appears now on my separate website www.aspden.org in the 'papers' section. 
+
+H. Aspden 
+21 July, 2002
