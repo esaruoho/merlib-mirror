@@ -1,0 +1,11 @@
+1985e 
+
+ 1985e 
+
+ The following is a paper by H. Aspden published in Physics Letters, v. 111A, pp. 22-24 (1985).
+
+ A NEW PERSPECTIVE ON THE LAW OF ELECTRODYNAMICS 
+
+ Abstract : Recent experiments have highlighted anomalous electrodynamic forces in arc discharges in liquids, making it necessary to re-evaluate the fundamental principles governing the electrodynamic interaction. This letter shows that a solution is to be found in a classical quantum-electrodynamic and relativistic proposal outlined by Maxwell in his famous treatise. 
+ Commentary : It is observed that Maxwell introduced the Fechner hypothesis by which electric current was seen as the flow of counter-moving charges of opposite polarity. Then, by adopting a mutual electromagnetic energy potential based on relative charge
+velocities, Maxwell deduced the Neumann potential.

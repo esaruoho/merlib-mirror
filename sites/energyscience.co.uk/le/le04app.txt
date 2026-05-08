@@ -1,0 +1,390 @@
+APPENDIX TO LECTURE NO. 4 
+
+ APPENDIX TO LECTURE NO. 4 
+
+ SCHUSTER-WILSON HYPOTHESIS: CONTINUATION 
+
+ [The quoted text from the 1966 book proceeds below.] 
+
+ It is, therefore, suggested that this reaction effect
+presented by Gunn may well reconcile the difficulties with the
+Runcorn experiment. The same effect could also account for the
+variable nature of the solar field and the anomalies arising from
+this. 
+ However, even if the Runcorn experiment can be overcome,
+there is still the negative result of Blackett's experiment and
+that of Wilson on the swinging iron bar. This might be dealt
+with if we consider the implication of the hypothesis that there
+exists in close association with any element of matter a negative
+electric charge proportional to its mass. This is really the
+basis of the statement expressed by the above formulation of the
+hypothesis. 
+ Augenheister [Augenheister, Phys. Zeit., v. 26, p. 307;
+1925] has shown that this assumption gives the correct ratio for
+the magnetic fields of the Sun and the Earth, but he also
+recognized the physical difficulties of assuming the existence
+of real charges of the necessary magnitude and the consequent
+very large electrical fields which must accompany them in an
+electrically conducting material such as the Earth's core. One
+way out of this difficulty is to argue that in an aggregation of
+matter as with the Earth the negative charges associated with
+mass are cancelled by migrating charge, but that the balance is
+made up by a repulsion of free migrating charge displaced to the
+outer boundaries of the body. For example, in order to establish
+charge balance with the negative-mass charge some electrons might
+be displaced from the atomic structure of the matter involved,
+and these electrons would spread around the Earth in the
+ionosphere. On this model, mass exhibits no charge in laboratory
+experiments and has no apparent magnetic effect detected by the
+Wilson or Blackett experiments. Furthermore, the Augenheister
+problem is overcome. Even the Runcorn experiment is no longer
+applicable because the distributed charge theory does not hold. 
+ This interpretation of the hypothesis puts the prime source
+of the geomagnetic field outside the Earth, in the ionosphere.
+This has been objected to by Bauer [L.A. Bauer, Terr. Magn., v.
+28, pp. 1-28; 1923] who has shown by spherical harmonic analysis
+that most of the Earth's field is of internal origin. For
+example, Bauer ascribes as much as 94 per cent of the Earth's
+field to internal causes. Since the Earth's ionosphere would
+need to cancel a substantial part of the field arising from the
+distributed charge for Runcorn's results to be reconciled with
+the Schuster-Wilson Hypothesis, this objection is of paramount
+importance. However, even here it is very important to remember
+that the most general assumption used in spherical harmonic
+analyses of the Earth's field is that the Earth's magnetic
+potential is composed of two portions, one due to magnetic matter
+within the Earth's sphere and the other due to magnetic matter
+outside the Earth's sphere. The operative words in this
+assumption are 'magnetic matter'. In this sense a current
+encircling the Earth and seated in the ionosphere does not
+constitute magnetic matter located wholly outside the Earth's
+surface. For example, a current around the equator at a height
+of 200 km gives rise to two elements of magnetic matter, one
+situated inside the Earth and the other outside the Earth, the
+latter being related to the former in the ratio of the areas
+2(pi)Rx200 and (pi)R 2 , where R is the Earth's radius in km. 
+Since r is 6,371 km, it is seen that, curiously enough, this
+gives 94 per cent of the magnetic matter ascribable to ionosphere
+currents as seated within the Earth.
+ The results of spherical harmonic analysis do not preclude
+magnetic reaction seated in the ionosphere, provided this
+involves charge migration around the whole Earth. For stellar
+bodies, no harmonic analysis data are available and, therefore,
+the closed spiral-type motion of gas ions may supplement the
+reaction effect of any charge migration. The result deduced by
+Bauer is certainly of no relevance to stellar bodies. 
+ From such consideration, the Schuster-Wilson hypothesis
+could well survive in a modified form. We have introduced a
+charge in the ionosphere which could well be objected to for
+other reasons. Perhaps we can even regard this as compensated
+by charge which does not rotate with or at the same speed as the
+Earth. Perhaps, though, this is stretching the hypothesis too
+far.
+ Nevertheless, this gives scope to understand reasons for
+substantial changes in magnetic fields in astronomical bodies
+over short periods of time, and there is now evidence that the
+magnetic poles of many stars even exchange positions in a few
+days. As Runcorn [S. K. Runcorn, The Times (London), April 26,
+1965, p. 11] stated very recently: "This is one of the most
+stimulating challenges of cosmic magnetism". 
+ The Schuster-Wilson Hypothesis stands rejected today.
+Instead, the theory of hydromagnetism is applied to account or
+the geomagnetic field. An excellent account of this subject has
+been presented by Elsasser [W.M. Elsasser, American Jour. Phys.,
+v. 23, pp. 590-609; 1955] and [W.M. Elsasser, American Jour.
+Phys., v. 24, pp. 85-110; 1956]. This theory will have great
+difficulty in accounting for the reversal of the magnetic poles,
+though it can be applied to account for the Earth's secular
+variation of magnetic field. Bullard and others [E.C. Bullard
+et al., Phil. Trans. Roy. Soc., v. 243A, pp. 67-92; 1950] have
+provided an account of he westward drift of the Earth's magnetic
+field in terms of theory which they state to be consistent with
+other theories of the origin of the main field, provided there
+is a differential rotation within the core. This statement
+recognizes that the prime source of the geomagnetic field might
+well stem from something other than a hydromagnetic effect. The
+great concern for the reversal of the magnetic field in stars
+stimulates a consideration of other possible accounts for cosmic
+magnetism. 
+ The above discussion of the Schuster-Wilson hypothesis does
+stress the possibility that there might well be some link between
+gravitation and cosmic magnetism. It is therefore of some
+interest that new ideas about gravitation already presented in
+this work are found to be capable of extension to geomagnetism.
+ The fact that, in developing equation (6.12) [the above
+formula for magnetic moment MM], the elemental magnetic moment
+is found proportional to X squared [X being a distance from the
+Earth's centre] shows that the character of the geomagnetic field
+matches that of a uniformly distributed charge over the Earth's
+volume. The distributed charge theory was found by Runcorn to
+give field gradients opposite to those observed in practice.
+Here, however, it must be remembered that, by the theory
+developed, the geomagnetic field is attributed to a radial
+displacement of charge. The charge is displaced, in effect, to
+the boundary of the rotating aether. Clearly, therefore, if the
+effect of the rotation is to generate an effective uniformly
+distributed charge within the aether, an exactly balancing charge
+of opposite polarity must be established at the boundary. The
+displaced charge is, by its nature, constrained to balance in the
+radial plane. Thus, in considering magnetic moment, it is found
+that the charge displaced to the boundary, in rotating with the
+Earth's aether, produces exactly double the magnetic moment given
+by (6.12) in the opposite direction. Quantitatively, therefore,
+(6.12) still applies. In considering magnetic field gradients,
+however, by Runcorn's mine experiments, the component of magnetic
+field attributed to distributed charge is oppositely directed
+with respect to the general magnetic field of the Earth. Thus,
+the result of the Runcorn Experiment actually supports the theory
+developed. 
+ In considering the dipole nature of the geomagnetic field
+as evidenced by the results of Runcorn's experiments, it is to
+be noted that a double strength shell containing an opposed
+single strength distributed charge would appear to present a
+field form more like a dipole than does a single strength shell. 
+ The rotation of Earth has been argued to produce the
+geomagnetic field by an induction effect in an electrical aether
+medium rotating with the Earth. The result of the Blackett
+Experiment imposes upon the analysis the need to regard the
+induced charge within the Earth as compensated locally or
+alternatively the need to regard the lattice as not concentrated
+by local matter. In Blackett's experiment the magnetic effect
+of a dense body rotating with the Earth was under investigation,
+in contrast with the Wilson experiment where the body under study
+moved in the Earth frame.
+ This strengthens the concept that the origin of the
+geomagnetic field is a uniform aether medium rotating with the
+Earth frame. We have to recognize that the aether has some
+uniformity, a lattice charge density, not affected by changes in
+mass density within the Earth. 
+ We now come to the real problem. The distributed charge and
+the balancing boundary charge of the rotating aether have to be
+cancelled by other charge to balance the electric field effects,
+but this other charge must not cancel the magnetic field effects,
+that is, it must not rotate with the Earth. The solution to this
+problem is amazingly simple.
+ As the Earth moves in its orbit, its aether lattice will
+come into collision with surrounding aether lattice. We have
+shown that one constituent of the aether has the form of fluid
+charge and the other constituent is the lattice system of
+particles of charge e of opposite polarity, the aether as a whole
+being electrically neutral. The fluid constituent cannot move
+through itself. A spherical volume of it can rotate about its
+own axis, but it cannot move laterally in the sense that an
+element of the fluid moves laterally. The sphere housing fluid
+which rotates can move laterally, however, provided the rotary
+motion is transferred from fluid left behind by the sphere to new
+fluid coming into the sphere. The particle constituent, on the
+other hand, can move through itself. 
+ Imagine now the well ordered particle lattice formed within
+the Earth's aether to move laterally and collide with surrounding
+particles. This lateral movement of the whole particle lattice
+in the Earth's aether causes a deficiency of particles behind the
+lattice and a surplus in front of it. Thus an electrical field
+is set up along the line of travel of the whole lattice system.
+this field is not strong enough to disrupt the lattice but is
+strong enough to cause some of the particles in front of the
+lattice to migrate through it to fill positions vacated in the
+fluid behind the lattice. In short, the particle lattice can move without undue disturbance through similar surrounding particle
+structure if surrounding particles in collision with it travel through it to fill vacant locations left behind. Thus, if we
+regard the Earth's aether to behave in this way, we see that
+there is, traveling through the Earth, an abundance of free
+lattice particles which are constrained to move in opposition to
+the Earth's motion in its orbit. The magnetic effect of these
+particles cancels exactly the magnetic effect of the matrix
+particles in their travel with the Earth in its orbit.
+Consideration shows that there is also balance of linear momentum
+in such a system. However, these free particles do not rotate
+with the Earth. They are free to a limited degree to cancel the
+electrostatic effects of the induced charge, but they do not
+share the Earth's rotation and therefore no cancellation of the
+geomagnetic field occurs. 
+ This albeit rather peculiar notion of particles moving in
+formation, with other particles moving at higher speed traveling
+freely in opposed directions and between the ranks of the ordered
+particles, gives a very simple and direct account which overcomes
+the Augenheister problem introduced above.
+ It introduces the requirement that the Earth must move
+laterally and not just rotate to obtain this electrostatic
+balance condition. The faster the Earth moves then the greater
+the number of free particles in it to cancel the electrostatic
+charge. Clearly, the particles are likely to fall out of harmony
+with the general system and deploy their velocity in their small
+orbits to travel at this velocity through the matrix. This
+velocity is seemingly constant for all particles. Therefore, the
+ratio of free particles to bound lattice particles in the Earth's
+aether lattice depends upon the ratio of the Earth's orbital
+velocity to the velocity of the particle in its small orbit.
+ It is suggested that if the Earth were to stop in its orbit,
+then, apart from being drawn into the Sun by gravitation, there
+would be nothing to balance the strong electric field induced by
+its rotation and, since these fields are of the order of many
+millions volts per cm, all matter in the Earth would become
+ionized. The Earth would then lose its magnetic field.
+ It is suggested that if the same argument is applied to the
+Sun there is cause, owing to the Sun's relatively slow motion,
+for understanding why its magnetic field is less constant than
+that of the Earth. 
+
+ MAGNETIC MOMENT OF THE SUN 
+
+ The expression (6.12) for the magnetic moment can not really
+by tested for other planets until we know their magnetic moments.
+the magnetic moment is proportional to the square of the speed
+of rotation. Thus, the Moon will hardly have any significant
+magnetic field. Using (6.12) it is to be expected that the
+magnetic moment of Mars will be about 3.2x10 24 emu.
+ We can, however, test (6.12) by applying it to the Sun. The
+Sun rotates once every 25 days and has a radius 108 times that
+of the Earth. Hence its magnetic moment should be
+(108) 5 /(25) 2 that of the Earth, or 1.9x10 33 emu. 
+ Estimates of the solar magnetic moment have to take into
+account the sporadic magnetic fields produced in sunspots. Some
+early estimates may therefore be unreliable. One recent analysis
+by which the dipole moment of the sun has been estimated is that
+of Sakurai [K. Sakurai, J. Geomagn. Geoelect., v. 11, pp. 21-33;
+1959] who observed a value of 5x10 32 emu.
+ This is somewhat less than that predicted by this theory but
+the data is of the right order and the result adequately supports
+this theory.
+ Furthermore, as has been stated, there is evidence that the
+solar magnetic field has been decreasing over the past few years.
+There is also evidence that in some stars the field reverses in
+direction very frequently, in some cases every few days. 
+ To account for this, let us regard the estimate of
+1.9x10 33 emu to be the solar magnetic moment in the absence
+of cancelling charge of the kind developed by ionization. Then,
+considering the Sun to be in motion so as to provide the
+constrained charge carriers able to prevent total magnetic field
+cancellation owing to ionization. The magnetic field will then
+be partially cancelled, perhaps in the ratio of the abundance of
+ions to the abundance of the constrained migrating charge
+carriers. Now, this relative abundance will be a function of the
+speed of the Sun. The faster the Sun moves, the more abundance
+in constrained carriers and the stronger the magnetic field.
+Also, and of great interest to this account, the abundance
+density of the constrained carriers will be uniform throughout
+the Sun but the abundance density of free ions may be greater in
+the outer regions of the Sun than in its core. It is seen,
+therefore, that what will happen as the Sun changes from fast to
+slow speed is that when moving rapidly it will have a fairly
+normal dipole moment induced by its rotation, the constrained
+aether constituent in its inner and outer regions being more
+dense than the ions. Then, at a lower speed the abundance of
+ions in the outer regions outweighs the effect of the unbound
+lattice particle charge, thereby substantially cancelling the
+magnetic action of the outer field-generating shell of displaced
+lattice. The inner core field generation will not be affected in
+such a significant way by the lower speed. As a result the double
+strength magnetic moment of the shell is cancelled and the
+opposed single strength magnetic moment of the core remains
+unchanged. The total effect is a complete reversal of the dipole
+magnetic moment of the Sun. This has not required any change in
+rotational speed of the Sun. It merely requires that the Sun
+should fluctuate in speed in its own orbit. The reversals of its
+magnetic moment should appear in phase with the variation in
+speed.
+ We predict, therefore, that the variation of the solar
+magnetic moment must depend upon the motions of Jupiter and
+Saturn. 
+ There is perhaps insufficient data available at present to
+check this account of the solar field reversals, though it does
+appear that over the past few years the solar field has decreased
+and indeed reversed, whilst the Sun has decreased in speed as
+Jupiter and Saturn have moved into opposition.
+ The fact that some stars can reverse magnetic field in only
+a few days indicates that their orbital speed changes at this
+frequency. This is possible if a star has a satellite close to
+it. [It may belong to a binary pair, with both stars orbiting
+around one another every few days, as for DI Herculis mentioned
+in the first of these lectures on cosmological questions.] 
+
+ CONSERVED ANGULAR MOMENTUM IN THE SOLAR SYSTEM 
+
+ We have seen how the motion of an astronomical body through
+space provides a constrained aether constituent which prevents
+ionization owing to the induced charge caused by aether rotation.
+If a body such as the Sun did not move through space, then, apart
+from any other source of ionization, its rotation alone would
+induce electrical fields and cause ionization.
+ Motion at varying speed through space arises from the need
+to be in balance with a satellite planet. Then ionization need
+not occur as a consequence of rotation. If it does occur its
+effects will moderate the induced magnetic field, but this
+moderating effect will be weaker, the faster the Sun moves
+through space. 
+ The rotation of an astronomical body is accompanied by the
+rotation of the aether it contains. For the planets the aether
+rotation momentum about the centre of the solar system is
+insignificant compared with their material orbital momentum.
+However, for the Sun the contribution of the aether angular
+momentum due to the Sun's rotation is very substantial in
+relation to the angular momentum of the solar system.
+ It has long been a difficult question to account for the
+formation of the solar system in terms of a solar explosion which
+somehow imparted substantial angular momentum to the planets but
+left the sun with a balancing angular momentum of the order of
+1% that imparted to the planets. 
+ This is no problem in the case of the formation of secondary
+satellite systems, where the satellites are assumed to form from
+a mother planet (see work of Alfven [H. Alfven, Astrophys. Jour.,
+v. 137, pp. 981-990; 1963]). Yet, while it is debatable whether
+the Moon, for example, came from the Earth, it is less debatable
+that the Earth came from the Sun and it is here that angular
+momentum balance presents a baffling problem.
+ This theory may help in resolving this anomaly because the
+value of aether lattice density m o /d 3 is of the order of 100
+times the Sun's density, showing that the aether angular momentum
+of the solar system might well be in balance with the material
+angular momentum. [Note that m o denotes the mass of an aether
+particle and that the value of m o and d, the cubic lattice
+spacing of the particles in the aether structure, were
+theoretically determined in the earlier pages of the book from
+which this text is quoted]. 
+ While this hypothesis will not be pursued here, it is of
+interest to mention, in passing, that in discussing the origin
+of the satellites and the planets, Alfven and Wilcox [H. Alfven
+& J. M. Wilcox, Astrophys. Jour., v. 136, pp. 1016-22; 1962] have
+proposed that this has come about from the interaction of a
+neutral gas and a plasma. In contrast, the present theory, which
+is concerned mainly with the magnetic and momentum properties of
+such bodies, regards them to consist in reality of a neutral
+material substance and an all-pervading plasma which we have
+termed the 'aether'. 
+ It is appropriate to observe that the aether lattice moving
+with the Earth through aether fluid not only gives us the account
+of terrestrial magnetism presented but explains the experiment
+of Michelson-Morley by confirming the words of Campbell [N.R.
+Campbell, 'Modern Electrical Theory' , 2nd. Ed., Cambridge
+University Press, pp. 387-388; 1913]:
+ "If we speak of 'aethers'
+and not 'the aether' all our experiments prove is that the
+particular aether with which we are concerned in any case is that
+which is at rest relative to the source and may be regarded as
+forming part of it. This is the simple way out of the
+difficulties raised by the Michelson-Morley Experiment. If from
+the beginning we had used a plural instead of a singular word to
+denote the (aether) system....those difficulties would never have
+appeared". 
+
+ Thus, the Earth and the Sun may each have their own
+individual aethers as envisaged here and we need have no
+inconsistency with the observations from the Michelson-Morley
+Experiment." 
+
+ [The above is quoted from a book I wrote in 1966, more
+ than 30 years ago. About 10 years on from that time
+ I was actually able to derive the quantitative basis
+ for a theory explaining how the planets formed from
+ the mother body, the Sun. Moreover, I then found that
+ the Moon did, in fact, come from body Earth by the
+ same process. Without aether theory there is no way of
+ deriving this result. That theory appears in my 1980 
+ book 'Physics Unified' . I hope, however, to provide a
+ section later in these Web pages based on a lecture I
+ was once invited to deliver to the students and staff
+ of the Physics Department at the University in Cardiff
+ in Wales, with diagrams to illustrate my case.] 
+
+ To go to that Cardiff lecture press: 
+
+ Space, Energy and Creation

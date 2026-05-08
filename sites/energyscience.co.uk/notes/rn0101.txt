@@ -1,0 +1,152 @@
+FINE-STRUCTURE CONSTANT 
+
+ THE THEORY OF THE FINE-STRUCTURE CONSTANT 
+
+ Copyright, Harold Aspden, 2001 
+
+ The author's theory of the aether has, as its very foundation, a fundamental structure,
+analysis of which in terms of the physics of electricity and electromagnetism, gives full account
+of the nature of the photon, as verified by a theoretical evaluation of the fine-structure
+constant in excellent accord with its measured value. The fine-structure constant is a
+dimensionless physical quantity which plays a dominant role in the theoretical interpretation of
+the radiation spectrum of atoms and so in the interpretation of cosmological data by the
+astrophysicist. 
+
+ The theory dates from the late 1950s and was first introduced in 1960 by the author's
+48 page publication 'The Theory of Gravitation' , which showed how to derive the following
+formula: 
+
+ hc/2&pi; e 2 = 144 &pi; (r/d) 
+
+ This is an expression for the inverse of the fine-structure constant, a physical quantity
+dependent upon the Planck constant h, the speed of light c and the unitary charge of the
+electron, all quantities which are characteristic properties of the aether. Note that h is the
+fundamental parameter of quantum theory in that it governs the jitter motion that is associated
+with Heisenberg's Principle of Uncertainty concerning the relationship between position and
+momentum of matter in its interaction with the vacuum medium, the aether. The electric
+charge e is the seat of the aether displacement currents we associate with electrical energy
+storage in the vacuum medium and with electromagnetic wave propagation through that medium at
+the speed of light c. The ratio r/d is a term that emerges from the author's theory as the radius
+r of a circular orbital motion, that jitter motion just mentioned, expressed in terms of the lattice
+spacing d of a cubic structure seen as defining the sites of electric charges of magnitude e
+permeating the whole of what we call space, namely the aether, which charge is neutralized
+electrically by being set in a background continuum of a uniformly dispersed system of charge
+of opposite polarity. 
+
+ The author's task in that late 1950 effort was that of deriving the theoretical value of
+r/d, based on those lattice charges taking up positions of minimum, but positive, energy
+potential and connecting the result to a disturbance of the aether lattice by causing a tiny 3x3x3 unit of that lattice to spin and so account for the setting up electromagnetic waves, the
+frequency of which is proportional to the angular speed of the spin and the energy involved,
+this being the phenomenon we term the 'photon'. Contrary to the physicist's orthodox
+opinion that photons transfer energy by travelling at the speed of light, the theory indicated
+that photons are standing events seated in the aether at points where energy is exchanged
+between matter and aether and vice versa, whereas the communication at light speed is by
+electromagnetic waves which signal the amount of energy by their frequency and control a
+one-to-one energy quantum transfer by virtue of conveying a quantum of momentum between
+the two events. 
+
+ That, in summary, is what the author's theoretical derivation of the fine-structure
+constant meant and, that quantity having no alternative explanation in physics, the result was
+clear evidence that we exist within a real omnipresent aether medium and that our future
+progress in understanding cosmology and many of the outstanding mysteries of science
+depends upon our accepting that the aether really does exist and not trying to evade reference to it, as one does
+in following the doctrines of Einstein's theory of relativity. 
+
+ As the title of that 1960 publication implies, one spin-off from the theory was an
+insight into how the force of gravity can be explained as an electromagnetic force set up in the presence of matter and acting between charges induced quantum-electrodynamically to provide a dynamically-balancing system in motion at that jitter frequency of the aether. More that this, however, even in that
+1960 work, there was an insight into the solution of another major mystery in science, that of
+what causes Earth and other astronomical bodies to spin and have an intrinsic state of
+magnetization. 
+
+ Not surprisingly, over the years since 1960, the author found that the theory developed
+with time and, in respect of the fine-structure constant, this development concerned the
+determination of the exact value of r/d. It was evident, as noted in that 1960 publication, that
+the aether could not have its lattice charges precisely at positions of zero energy potential,
+because that would preclude storage of what we call 'field energy' and deny scope for the
+aether to shed energy at a seat of wave interception by a photon event. Accordingly, as
+inspection of that 1960 publication will show, the author could but surmise as to the precise
+state of lattice charge displacement by increase of that radius parameter r, looking at the tiny
+difference, a very small fraction of one per cent, needed to bring the theoretical value of the
+fine-structure constant into exact agreement with its measured value. 
+
+ This problem persisted and, though the theory developed substantially, particularly
+with regard to the theory of gravitation and the theoretical derivation of G, the constant of
+gravitation, was still not fully resolved in 1969, when the author published his book 'Physics
+without Einstein' . 
+
+ It was in 1972 that the key breakthrough emerged and the result was published in
+ 'Physics Letters' , 43A p. 423 (1972) under the title: 'Aether Theory and the Fine Structure
+Constant' . This paper was co-authored with Dr. D. M. Eagles of the National Measurement
+Laboratory in Australia, it being his initiative in having Dr. Burton of that laboratory's
+computer unit recalculate the author's derivation of the fine-structure constant, to a higher
+degree of precision, that led to a cooperative effort in interpreting the result. The key to the
+exact evaluation of the free-space value of the fine structure constant was a kind of state of
+resonance as between the form of the aether lattice charge e and that of the electron, the latter
+having a much smaller charge volume. This 'resonance' was really a condition governed by
+the conservation of the volume of space occupied by a unitary charge e, according to its mass-energy, in transmutations of state as between the lattice charge form and the electron-positron
+form we associate with QED, quantum electrodynamics. QED is understood by theoretical
+physicists as accounting for 'vacuum energy fluctuations' by which they interpret the observed
+spin properties of the electron with very high accuracy. In electron charge volume terms, this
+author's theory implied a volume ratio of 1844.52 for the aether charges to be seated at
+absolute zero electric interaction energy potential energy, but this quantity has to be an odd
+integer and that brings into play the r-increase displacement needed to give the aether some
+small level of energy priming, that ratio then becoming 1843. 
+
+ The formula for the inverse of the fine-structure constant then becomes: 
+
+ hc/2 &pi; e 2 = 108 &pi; (8/1843) 1/6 = 137.0359 
+
+ which was in 1972, and still is in 2001, within 1 part in a million accord with the value as
+measured today. The way in which the above formula is derived from the early formula above
+is explained in that 'Physics Letters' paper. It is based on theory which applies the Thomson formula linking charge radius and mass to obtain a relationship between the radius of the electron charge and that of the aether lattice charge as the ratio
+8(r/d) 2 /9, which, if the related charge volume ratio, is 1/N, means that the above formula
+applies with N as 1843. 
+
+ This theoretical derivation of the fine-structure constant was mentioned by B. W.
+Petley of the National Physical Laboratory in U.K. in his 1985 book 'The Fundamental
+Constants and the Frontier of Measurement' , published by Adam Hilger Ltd. (pages 161 and
+163). Petley discusses in his book (pages 42 and 43) the possibility that the fine-structure
+constant might vary with time, by reference to observation of red shifts affecting the spectra of
+distant QSOs (quasar stellar objects) only to conclude that it would seem that, if there is any
+variation, it is no more that one part in 10 12 per year. 
+
+ Now, the reason for writing this, some 29 years after that 1972 paper presenting the
+above formula was published, is the fact that J. K. Webb et al, in 'Physical Review Letters' ,
+ 87 , p. 091301 (27 August 2001), present data to show that several distant QSOs exhibit a
+fine-structure constant that is of the order of nearly one part in 100,000 smaller than that
+applicable here on Earth. 
+
+ This causes the author to wonder how this affects the theory outlined above. The first
+point of importance is the fact that N has, on energy optimization criteria, a maximum value of
+1843. This means that, for a more highly energized state of the aether such as might apply in
+the locality of a QSO, the fine-structure constant, which decreases as N decreases, can only
+have a smaller value owing to N changing with that energy activity. The theory, unless well-founded, had a 50% chance of meeting this test, since one could imagine N increasing or
+decreasing. The evidence indicates a decrease of N and so the theory meets this test. The
+question then arises as to the amount of the reduction in value estimated from the observation
+data. The data, as shown in a diagram, included error bars, presented as a function of red
+shift. The data revealed two groups, one of which has its error bars overlapping, but with centres close to, the
+zero difference as compared with the Earth value and the other group of which includes four
+sets of data all of which have error bars ranging about positions which imply a difference of
+the order of 1 part in 100,000. 
+
+ As to the latter the authors gave one estimated measure as -(0.76 +/- 0.28)x10 -5 but they
+made the observation that 'The only potentially significant systematic errors push (this
+discrepancy) towards positive values', a statement which says that the 0.76 term should really
+be somewhat higher. 
+
+ Now, concerning the scope of this author's theory in adapting to this situation, it is
+conceivable that in a region of very high energy activity, such as might apply for the QSO,
+there could be an effective displacement which increases r to a level set by one lattice charge in
+two having the next lower odd N value of 1841. The simple-cubic lattice structure of the charge
+sites in the aether and, in particular, also in the 3x3x3 array of the photon structure, would
+retain the three-dimensional symmetry for such a state. Therefore, one could argue that an
+effective value of 1842 could apply instead of 1843 and so modify the value of the fine-structure constant as specified by the relevant expression above. One then finds that in such a
+case the fine-structure constant would be reduced in terms of its value here on Earth by the
+factor (0.904)x10 -5 , which could well explain the phenomenon evident from the QSO data. 
+
+ It is submitted that the new data strengthens, rather than weakens, the aether theory
+advocated by the author. Furthermore, and in conclusion, it is noted that the author has
+already discussed in his web site www.energyscience.co.uk/le/le06.htm the anomalous galactic
+red shift data reported earlier by the astrophysicist W. G. Tifft [ 'Discrete States of Redshift
+and Galaxy Dynamics II: Systems of Galaxies', Astronomical Journal, 211 , 31-46 (1977)] 
+which implied that even lower N values can exist in certain cosmological regions of very high energy.

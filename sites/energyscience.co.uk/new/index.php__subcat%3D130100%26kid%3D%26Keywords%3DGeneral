@@ -1,0 +1,217 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>energyscience</title><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<style type="text/css">
+<!--
+body {	background-color: #eeeeee; font-family: Arial, Helvetica, sans-serif;	font-size: 12px;	font-style: normal; line-height: 16px; }
+.header {	font-size: 14px;color: white;	line-height: normal;	font-weight: bold;	background-color: #7A9DBD; }
+.domainname {	font-size: 22px;color: white;	line-height: normal;	font-weight: bold;	background-color: #7A9DBD; text-decoration:none; }
+a.menu { 		line-height: normal;	font-weight: normal; color:blue; text-decoration:none; }
+a.menu:hover { text-decoration:underline; }
+
+#navbar { color:white;background-color:#7A9DBD }
+#navbar ul { 	margin:0px;	list-style-type: none; 	padding-left: 1em;	text-indent: 0em; }
+#navbar li { 	margin:0px; 	padding:0px; 	height: 18px; 	display:block; 	float: left; }
+
+.navbarlink a { font-size: 13px;	font-weight: bold; color:white; text-decoration:none;padding:0px 10px 0px 10px;	border-left:1px solid #FFF;
+ }
+.navbarlink a:hover { 	text-decoration:underline;  }
+
+a.listinglink { color:#7A9DBD;text-decoration:none; }
+a.listinglink:hover { text-decoration:underline; }
+
+a.footerlink { font-size: 10px;color:#7A9DBD;text-decoration:none; }
+a.footerlink:hover { text-decoration:underline; }
+-->
+</style>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-72217-2";
+urchinTracker();
+</script>
+<script language="javascript">
+function check_searcha() {
+  var error = 0;
+  var first_name = document.search.Keywords.value;
+  if (first_name == "" || first_name.length < 3) {
+    error_message = "* Please use more than 2 characters when searching the web.";
+    error = 1;
+  } if (error == 1) {
+    alert(error_message);
+    return false;
+  } else {
+    return true;
+  }
+}
+//--></script>
+
+
+</head>
+<body marginwidth="0" marginheight="0" topmargin="0" bottommargin="0" leftmargin="0" rightmargin="0">
+  
+<table width="970" border="0" align="center" cellpadding="0" cellspacing="0" style="border-color : #666666;  border-style: solid; border-width: 1px;background-color:white">
+  <tr>
+    <td><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr><td colspan=2><table width="100%" border="0"  cellpadding="5" cellspacing="0"><tr>
+    <td height=40px style="border-bottom: 1px solid #ffffff;" valign=bottom id="navbar"><b><a href="http://www.energyscience.co.uk" class="domainname">energyscience.co.uk</a></td>
+  <form name="search" action="http://www.zap.co.uk/index.php" method="POST"  onSubmit="return check_searcha();" target="_new"><td  style="border-bottom: 1px solid #ffffff;color:white;" align=right valign=bottom id="navbar"><b>Search the Web: <input type="text" value="" name="Keywords" id="Keywords" size=50><input type=hidden value=yes name=dirsearch>  <input type="submit" value="Search" style="font-family:Arial,Verdana;"></b></td></form>
+</tr></table></td></tr>
+  <tr>
+    <td width="150" class="header">&nbsp;&nbsp;Navigation</td>
+    <td id="navbar"><div id="navbar" nowrap>
+               <ul>
+                   
+      <li><span class="navbarlink">&nbsp;</span></li></ul></div></td>
+  
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="top" style="border-right: 1px dashed #7A9DBD;" width=150><table width=100% cellpadding=4 cellspacing=4>
+      
+</td></tr></table>
+<table width=100% cellpadding=4 cellspacing=0>
+<tr><td class="header">Categories</td></tr></table>
+  <table width=100% cellpadding=4 cellspacing=4>
+<tr><td><b><a href="category.php?subcat=130200&Keywords=Animals"  class="menu">Animals</a></tr></td><tr><td><b><a href="category.php?subcat=130100&Keywords=General"  class="menu">General</a></tr></td><tr><td><b><a href="category.php?subcat=130500&Keywords=Geography"  class="menu">Geography</a></tr></td><tr><td><b><a href="category.php?subcat=130600&Keywords=History"  class="menu">History</a></tr></td><tr><td><b><a href="category.php?subcat=130400&Keywords=Plants"  class="menu">Plants</a></tr></td><tr><td><b><a href="category.php?subcat=130300&Keywords=Scientific Research"  class="menu">Scientific Research</a></tr></td>      
+  </span></td></tr>
+  </table></td>
+  <td valign=top>
+<script language="JavaScript1.2">
+
+//Specify the marquee's width (in pixels)
+var marqueewidth="584px"
+//Specify the marquee's height
+var marqueeheight="20px"
+//Specify the marquee's marquee speed (larger is faster 1-10)
+var marqueespeed=2
+//configure background color:
+var marqueebgcolor="#000000"
+//Pause marquee onMousever (0=no. 1=yes)?
+var pauseit=1
+
+//Specify the marquee's content (don't delete <nobr> tag)
+//Keep all content on ONE line, and backslash any single quotations (ie: that\'s great):
+
+var marqueecontent='<nobr><a href="http://www.angelmakers.co.uk" style="color:white;" target="_new">* ** . . . 4 missing persons reported in small town in Hungary . . . female serial killer suspected . . . [READ MORE] ** *</a></font></nobr>'
+
+
+////NO NEED TO EDIT BELOW THIS LINE////////////
+marqueespeed=(document.all)? marqueespeed : Math.max(1, marqueespeed-1) //slow speed down by 1 for NS
+var copyspeed=marqueespeed
+var pausespeed=(pauseit==0)? copyspeed: 0
+var iedom=document.all||document.getElementById
+if (iedom)
+document.write('<span id="temp" style="visibility:hidden;position:absolute;top:-100px;left:-9000px">'+marqueecontent+'</span>')
+var actualwidth=''
+var cross_marquee, ns_marquee
+
+function populate(){
+if (iedom){
+cross_marquee=document.getElementById? document.getElementById("iemarquee") : document.all.iemarquee
+cross_marquee.style.left=parseInt(marqueewidth)+8+"px"
+cross_marquee.innerHTML=marqueecontent
+actualwidth=document.all? temp.offsetWidth : document.getElementById("temp").offsetWidth
+}
+else if (document.layers){
+ns_marquee=document.ns_marquee.document.ns_marquee2
+ns_marquee.left=parseInt(marqueewidth)+8
+ns_marquee.document.write(marqueecontent)
+ns_marquee.document.close()
+actualwidth=ns_marquee.document.width
+}
+lefttime=setInterval("scrollmarquee()",20)
+}
+window.onload=populate
+
+function scrollmarquee(){
+if (iedom){
+if (parseInt(cross_marquee.style.left)>(actualwidth*(-1)+8))
+cross_marquee.style.left=parseInt(cross_marquee.style.left)-copyspeed+"px"
+else
+cross_marquee.style.left=parseInt(marqueewidth)+8+"px"
+
+}
+else if (document.layers){
+if (ns_marquee.left>(actualwidth*(-1)+8))
+ns_marquee.left-=copyspeed
+else
+ns_marquee.left=parseInt(marqueewidth)+8
+}
+}
+
+if (iedom||document.layers){
+with (document){
+document.write('<table border="0" cellspacing="0" cellpadding="0" width=100% align=center><td valign=top bgcolor=black>&nbsp;&nbsp;<font face="Arial" size="2" color=red><b>Breaking News:</b></font></td><td valign=top>')
+if (iedom){
+write('<div style="position:relative;width:'+marqueewidth+';height:'+marqueeheight+';overflow:hidden">')
+write('<div style="position:absolute;width:'+marqueewidth+';height:'+marqueeheight+';background-color:'+marqueebgcolor+'" onMouseover="copyspeed=pausespeed" onMouseout="copyspeed=marqueespeed">')
+write('<div id="iemarquee" style="position:absolute;left:0px;top:0px"></div>')
+write('</div></div>')
+}
+else if (document.layers){
+write('<ilayer width='+marqueewidth+' height='+marqueeheight+' name="ns_marquee" bgColor='+marqueebgcolor+'>')
+write('<layer name="ns_marquee2" left=0 top=0 onMouseover="copyspeed=pausespeed" onMouseout="copyspeed=marqueespeed"></layer>')
+write('</ilayer>')
+}
+document.write('</td></table>')
+}
+}
+</script>
+<table align="center" border="0" width="100%" cellpadding="6" style="font-size:12px;font-family:Arial,Verdana;line-height: 16px;"><tr></tr>
+    <tr>
+    <td width=50% valign=top>
+    <a href="url2.php?Keywords=General&paid=1&destination=www.ebay.co.uk/militaria&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg145SkJamwr%252DtfL3MTuaDyl4axca588tmD5B5HNRIoS5gUOF7Z6PEksRxW7064w%255FQz%255FKU%252D64VL%255FTzmPmNFwqGRVOPD7Kh0YjAyYM6MBuXbo5KhbEvxu%255Fom4LmDU8cImOwftKoz6%255FBKdbvTCYI844BzhSc%255FvJtxM2y07ZPHeiHjBtuqg7ZJe0D5dFchcnKLJN4QrBVes%255FIwCuWIKxw4d10lOqgPVMRLSqr8jABol2eJjR3v6%255FMdZEIuLLny9uVPrajyZsPN1LCofkUMS%255FT0Rqt%252Dag1O3uU2ORUwwtaD%252DmtI2%252Dfzl5A4POD47eARp8273L8EZ6GXx7uIXJOahQ1X6v%255FbQ2aE1hm7x%252DRItZLcd%255F%255F9yKfMIE%252E%26yargs%3Dwww.ebay.co.uk%252Fmilitaria&pos=1" style="font-size:14px;color:#0000cc;text-decoration:underline" onmouseover="window.status='http://www.ebay.co.uk/militaria'; return true;" onmouseout="window.status='';return true;"  target="_new">General</a>
+    <br>
+     
+     
+     <a href="url2.php?Keywords=General&paid=1&destination=www.ebay.co.uk/militaria&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg145SkJamwr%252DtfL3MTuaDyl4axca588tmD5B5HNRIoS5gUOF7Z6PEksRxW7064w%255FQz%255FKU%252D64VL%255FTzmPmNFwqGRVOPD7Kh0YjAyYM6MBuXbo5KhbEvxu%255Fom4LmDU8cImOwftKoz6%255FBKdbvTCYI844BzhSc%255FvJtxM2y07ZPHeiHjBtuqg7ZJe0D5dFchcnKLJN4QrBVes%255FIwCuWIKxw4d10lOqgPVMRLSqr8jABol2eJjR3v6%255FMdZEIuLLny9uVPrajyZsPN1LCofkUMS%255FT0Rqt%252Dag1O3uU2ORUwwtaD%252DmtI2%252Dfzl5A4POD47eARp8273L8EZ6GXx7uIXJOahQ1X6v%255FbQ2aE1hm7x%252DRItZLcd%255F%255F9yKfMIE%252E%26yargs%3Dwww.ebay.co.uk%252Fmilitaria&pos=1" style="color:#000000;text-decoration:none" onmouseover="window.status='http://www.ebay.co.uk/militaria'; return true;" onmouseout="window.status=''; return true;"  target="_new">Fantastic low prices on militaria. Buy it. Sell it. Love it. eBay.</a><br>
+    <a href="url2.php?Keywords=General&paid=1&destination=www.ebay.co.uk/militaria&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg145SkJamwr%252DtfL3MTuaDyl4axca588tmD5B5HNRIoS5gUOF7Z6PEksRxW7064w%255FQz%255FKU%252D64VL%255FTzmPmNFwqGRVOPD7Kh0YjAyYM6MBuXbo5KhbEvxu%255Fom4LmDU8cImOwftKoz6%255FBKdbvTCYI844BzhSc%255FvJtxM2y07ZPHeiHjBtuqg7ZJe0D5dFchcnKLJN4QrBVes%255FIwCuWIKxw4d10lOqgPVMRLSqr8jABol2eJjR3v6%255FMdZEIuLLny9uVPrajyZsPN1LCofkUMS%255FT0Rqt%252Dag1O3uU2ORUwwtaD%252DmtI2%252Dfzl5A4POD47eARp8273L8EZ6GXx7uIXJOahQ1X6v%255FbQ2aE1hm7x%252DRItZLcd%255F%255F9yKfMIE%252E%26yargs%3Dwww.ebay.co.uk%252Fmilitaria" class="listinglink" onmouseover="window.status='http://www.ebay.co.uk/militaria';this.style.textDecoration='underline'; return true;" onmouseout="window.status='';this.style.textDecoration='none'; return true;"  target="_new">www.ebay.co.uk/militaria</a><br></td>
+    <td width=50% valign=top>
+    <a href="url2.php?Keywords=General&paid=1&destination=Amazon.co.uk/books&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg14pSn5amwr%252Dvc7vMSeeLwlcaxca58MJqCpJxGtZf5iMxXON8babFn8dxTOVxv1PdzPOc%255FaEQKfL4mviOEgqORFeMHuTpjdLJyYg8MaaiXm1xv%252DwhxevunYJINXwGO1bxGeSOrO7acZf0Pn5L6PxbjhCY%255FPZmws63ndkuL6yJiV8qpAidN8pW4KRfhsSyXJ4MQ7dcDtGbkyOAIc9Ny4xFoMelPyQVLCjR52oNo0zfKTh4v6zJdJEIuLzvm46ff7KpkY4LNRHRpah1uUubvqesjJIHBkqg375Yhg9TRvipPn6f2Uh66uiK47qGdbMm5V%255FsHJ2bRCmlPgoUZQVBYpX%255FbRHTLXdtuhOFZcQcfMi4q2CzAKfXACEGUmM%252E%26yargs%3DAmazon.co.uk%252Fbooks&pos=2" style="font-size:14px;color:#0000cc;text-decoration:underline" onmouseover="window.status='http://Amazon.co.uk/books'; return true;" onmouseout="window.status='';return true;"  target="_new">The Generals at Amazon.co.uk</a>
+    <br>
+     
+     
+     <a href="url2.php?Keywords=General&paid=1&destination=Amazon.co.uk/books&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg14pSn5amwr%252Dvc7vMSeeLwlcaxca58MJqCpJxGtZf5iMxXON8babFn8dxTOVxv1PdzPOc%255FaEQKfL4mviOEgqORFeMHuTpjdLJyYg8MaaiXm1xv%252DwhxevunYJINXwGO1bxGeSOrO7acZf0Pn5L6PxbjhCY%255FPZmws63ndkuL6yJiV8qpAidN8pW4KRfhsSyXJ4MQ7dcDtGbkyOAIc9Ny4xFoMelPyQVLCjR52oNo0zfKTh4v6zJdJEIuLzvm46ff7KpkY4LNRHRpah1uUubvqesjJIHBkqg375Yhg9TRvipPn6f2Uh66uiK47qGdbMm5V%255FsHJ2bRCmlPgoUZQVBYpX%255FbRHTLXdtuhOFZcQcfMi4q2CzAKfXACEGUmM%252E%26yargs%3DAmazon.co.uk%252Fbooks&pos=2" style="color:#000000;text-decoration:none" onmouseover="window.status='http://Amazon.co.uk/books'; return true;" onmouseout="window.status=''; return true;"  target="_new">Find thousands of Books and more at Amazon.co.uk. Read reviews, buy new and used titles. Qualified orders over 15 ship free.</a><br>
+    <a href="url2.php?Keywords=General&paid=1&destination=Amazon.co.uk/books&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg14pSn5amwr%252Dvc7vMSeeLwlcaxca58MJqCpJxGtZf5iMxXON8babFn8dxTOVxv1PdzPOc%255FaEQKfL4mviOEgqORFeMHuTpjdLJyYg8MaaiXm1xv%252DwhxevunYJINXwGO1bxGeSOrO7acZf0Pn5L6PxbjhCY%255FPZmws63ndkuL6yJiV8qpAidN8pW4KRfhsSyXJ4MQ7dcDtGbkyOAIc9Ny4xFoMelPyQVLCjR52oNo0zfKTh4v6zJdJEIuLzvm46ff7KpkY4LNRHRpah1uUubvqesjJIHBkqg375Yhg9TRvipPn6f2Uh66uiK47qGdbMm5V%255FsHJ2bRCmlPgoUZQVBYpX%255FbRHTLXdtuhOFZcQcfMi4q2CzAKfXACEGUmM%252E%26yargs%3DAmazon.co.uk%252Fbooks" class="listinglink" onmouseover="window.status='http://Amazon.co.uk/books';this.style.textDecoration='underline'; return true;" onmouseout="window.status='';this.style.textDecoration='none'; return true;"  target="_new">Amazon.co.uk/books</a><br></td></tr>
+    <tr>
+    <td width=50% valign=top>
+    <a href="url2.php?Keywords=General&paid=1&destination=www.remortgage-your-mome.co.uk/life-insurance&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg14pSnpamwr2vfLTASOqExl4axca588ttC5dxGtZf5iMxXOl9aabEksF5RPo2swPRzfWc%255F6UTJPf4kPyMEQmPRlWIG%255FWugoHFy4M%252DNK%252Do4ed%255F2L4twuPsmoRKNH9SWl6JOd%252D5nu7acZf0O3dL6PxbjhCY%255FPJoxsa%255FzONGJ4rliV8qpAidN8pW4KRfhsSyXJ4MQ7dcDtGbkyOAIc9Ny4xFoMelPyQVLCjR52oNo0zfKTh4v6zJdJEIuLzvm46ff7KpkY4LNRHRpah1uUubvqesjJIHBkqg375Yhg9TRvipPn6f2Uh66uiK47qGdbMm5V%255FsHJ2bRCmlPgoUZQVBYpT%255FbRHTLXdtuhOEZcQcfMi4q2CzBrWQXC0mQ2Mx%26yargs%3Dwww.remortgage-your-mome.co.uk%252Flife-insurance&pos=3" style="font-size:14px;color:#0000cc;text-decoration:underline" onmouseover="window.status='http://www.remortgage-your-mome.co.uk/life-insurance'; return true;" onmouseout="window.status='';return true;"  target="_new">&general</a>
+    <br>
+     
+     
+     <a href="url2.php?Keywords=General&paid=1&destination=www.remortgage-your-mome.co.uk/life-insurance&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg14pSnpamwr2vfLTASOqExl4axca588ttC5dxGtZf5iMxXOl9aabEksF5RPo2swPRzfWc%255F6UTJPf4kPyMEQmPRlWIG%255FWugoHFy4M%252DNK%252Do4ed%255F2L4twuPsmoRKNH9SWl6JOd%252D5nu7acZf0O3dL6PxbjhCY%255FPJoxsa%255FzONGJ4rliV8qpAidN8pW4KRfhsSyXJ4MQ7dcDtGbkyOAIc9Ny4xFoMelPyQVLCjR52oNo0zfKTh4v6zJdJEIuLzvm46ff7KpkY4LNRHRpah1uUubvqesjJIHBkqg375Yhg9TRvipPn6f2Uh66uiK47qGdbMm5V%255FsHJ2bRCmlPgoUZQVBYpT%255FbRHTLXdtuhOEZcQcfMi4q2CzBrWQXC0mQ2Mx%26yargs%3Dwww.remortgage-your-mome.co.uk%252Flife-insurance&pos=3" style="color:#000000;text-decoration:none" onmouseover="window.status='http://www.remortgage-your-mome.co.uk/life-insurance'; return true;" onmouseout="window.status=''; return true;"  target="_new">Get life insurance comparisons now from companies such as Royal and Sun Alliance, Prudential Legal and General, Liverpool Victoria, Zurich and many more.</a><br>
+    <a href="url2.php?Keywords=General&paid=1&destination=www.remortgage-your-mome.co.uk/life-insurance&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg14pSnpamwr2vfLTASOqExl4axca588ttC5dxGtZf5iMxXOl9aabEksF5RPo2swPRzfWc%255F6UTJPf4kPyMEQmPRlWIG%255FWugoHFy4M%252DNK%252Do4ed%255F2L4twuPsmoRKNH9SWl6JOd%252D5nu7acZf0O3dL6PxbjhCY%255FPJoxsa%255FzONGJ4rliV8qpAidN8pW4KRfhsSyXJ4MQ7dcDtGbkyOAIc9Ny4xFoMelPyQVLCjR52oNo0zfKTh4v6zJdJEIuLzvm46ff7KpkY4LNRHRpah1uUubvqesjJIHBkqg375Yhg9TRvipPn6f2Uh66uiK47qGdbMm5V%255FsHJ2bRCmlPgoUZQVBYpT%255FbRHTLXdtuhOEZcQcfMi4q2CzBrWQXC0mQ2Mx%26yargs%3Dwww.remortgage-your-mome.co.uk%252Flife-insurance" class="listinglink" onmouseover="window.status='http://www.remortgage-your-mome.co.uk/life-insurance';this.style.textDecoration='underline'; return true;" onmouseout="window.status='';this.style.textDecoration='none'; return true;"  target="_new">www.remortgage-your-mome.co.uk/life-insurance</a><br></td>
+    <td width=50% valign=top>
+    <a href="url2.php?Keywords=General&paid=1&destination=www.defaultremortgages.co.uk/compareinsurances&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg14hSnpamwr%252DqcbrBReKKxV4axca59MNtCJN8HNRIoS5gVuF%252DZ6LJksRxW7064w%255FWzvOV9KARL%255FH5mfmDFguGQ1CPD7Kh0Y3HyYg4MKuhAedw2L4tx%252DLomYVHPNc3UnTxdNe%252DnvidYdv8P2g4pswOzB%252DZ%252DvJuycq3w%252DIIQevVig0sskqFc5YAm6ch8LnHLJMMQ8NdfdmchXfFfZwQ%252D%252DxfkeygOSQRWyin5WYa9VeIIy59pabTfY4Ap7TwnZnJPe6qyYcLKRXP4qU25WlP%252DDuFrbpTFCyPiKUIx1NXHvW4Imue3Ulp%255FcGX0a60bIcM%255FWX%252DC5%252DBRS6%255FDls7THVGRPKtMV3IdDkx5gjWKZhHZ5jt9yW6FuCLDAEXUg%252E%252E%26yargs%3Dwww.defaultremortgages.co.uk%252Fcompareinsurances&pos=4" style="font-size:14px;color:#0000cc;text-decoration:underline" onmouseover="window.status='http://www.defaultremortgages.co.uk/compareinsurances'; return true;" onmouseout="window.status='';return true;"  target="_new">Compare UK Life & Critical Cover Rates</a>
+    <br>
+     
+     
+     <a href="url2.php?Keywords=General&paid=1&destination=www.defaultremortgages.co.uk/compareinsurances&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg14hSnpamwr%252DqcbrBReKKxV4axca59MNtCJN8HNRIoS5gVuF%252DZ6LJksRxW7064w%255FWzvOV9KARL%255FH5mfmDFguGQ1CPD7Kh0Y3HyYg4MKuhAedw2L4tx%252DLomYVHPNc3UnTxdNe%252DnvidYdv8P2g4pswOzB%252DZ%252DvJuycq3w%252DIIQevVig0sskqFc5YAm6ch8LnHLJMMQ8NdfdmchXfFfZwQ%252D%252DxfkeygOSQRWyin5WYa9VeIIy59pabTfY4Ap7TwnZnJPe6qyYcLKRXP4qU25WlP%252DDuFrbpTFCyPiKUIx1NXHvW4Imue3Ulp%255FcGX0a60bIcM%255FWX%252DC5%252DBRS6%255FDls7THVGRPKtMV3IdDkx5gjWKZhHZ5jt9yW6FuCLDAEXUg%252E%252E%26yargs%3Dwww.defaultremortgages.co.uk%252Fcompareinsurances&pos=4" style="color:#000000;text-decoration:none" onmouseover="window.status='http://www.defaultremortgages.co.uk/compareinsurances'; return true;" onmouseout="window.status=''; return true;"  target="_new">Trustworthy UK life insurance and critical cover quotes from a range of well-known insurers with just one easy form. A specialist broker, not a salesman, will call you with comparisons asap.</a><br>
+    <a href="url2.php?Keywords=General&paid=1&destination=www.defaultremortgages.co.uk/compareinsurances&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg14hSnpamwr%252DqcbrBReKKxV4axca59MNtCJN8HNRIoS5gVuF%252DZ6LJksRxW7064w%255FWzvOV9KARL%255FH5mfmDFguGQ1CPD7Kh0Y3HyYg4MKuhAedw2L4tx%252DLomYVHPNc3UnTxdNe%252DnvidYdv8P2g4pswOzB%252DZ%252DvJuycq3w%252DIIQevVig0sskqFc5YAm6ch8LnHLJMMQ8NdfdmchXfFfZwQ%252D%252DxfkeygOSQRWyin5WYa9VeIIy59pabTfY4Ap7TwnZnJPe6qyYcLKRXP4qU25WlP%252DDuFrbpTFCyPiKUIx1NXHvW4Imue3Ulp%255FcGX0a60bIcM%255FWX%252DC5%252DBRS6%255FDls7THVGRPKtMV3IdDkx5gjWKZhHZ5jt9yW6FuCLDAEXUg%252E%252E%26yargs%3Dwww.defaultremortgages.co.uk%252Fcompareinsurances" class="listinglink" onmouseover="window.status='http://www.defaultremortgages.co.uk/compareinsurances';this.style.textDecoration='underline'; return true;" onmouseout="window.status='';this.style.textDecoration='none'; return true;"  target="_new">www.defaultremortgages.co.uk/compareinsurances</a><br></td></tr>
+    <tr><td width=50%  valign=top style="border-color : #ffffff;  border-style : solid; border-width : 1px;"><span style="color:#aaaaaa"><b><a href="url2.php?Keywords=General&paid=0&destination=en.wikipedia.org&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1m1SqJauwuz1IPXeHbGPxigLnOzB9s5nCpgIF9de9WQ8Au1%255FPpPxscR5Setj7X3TyPOd6vgbJPTlmv%252DCDA%252DPTE2IGOTpjdjJmt5jY%252D3wBccW0r5bHtvZvNBDPWlXNWPiLIz63L%252DPdZS%255FahEDo9NsiEb2vqQ%255Fg5zul7hWf6OY6GJQ7Q2QLJMSvPgkhNqSc5cIXOBYJ53d0yyJb8ke1Zssy7Tka3RLeTX9pjgT7mu5O0cq%255F%255FuPLdMf6Ljwu7%252Do%26yargs%3Den.wikipedia.org&pos=5" style="color:#999999;text-decoration:underline">General Officer - Wikipedia, the free encyclopedia</a></b><br><a href="url2.php?Keywords=General&paid=0&destination=en.wikipedia.org&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1m1SqJauwuz1IPXeHbGPxigLnOzB9s5nCpgIF9de9WQ8Au1%255FPpPxscR5Setj7X3TyPOd6vgbJPTlmv%252DCDA%252DPTE2IGOTpjdjJmt5jY%252D3wBccW0r5bHtvZvNBDPWlXNWPiLIz63L%252DPdZS%255FahEDo9NsiEb2vqQ%255Fg5zul7hWf6OY6GJQ7Q2QLJMSvPgkhNqSc5cIXOBYJ53d0yyJb8ke1Zssy7Tka3RLeTX9pjgT7mu5O0cq%255F%255FuPLdMf6Ljwu7%252Do%26yargs%3Den.wikipedia.org&pos=5"  style="color:#000000;text-decoration:none;" target="_new">General of the Air Force (USA only) General of the Armies of the United ... Director General (a common admistrative term, but rare in military services) ...</a><br>
+    <a href="url2.php?Keywords=General&paid=0&destination=en.wikipedia.org&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1m1SqJauwuz1IPXeHbGPxigLnOzB9s5nCpgIF9de9WQ8Au1%255FPpPxscR5Setj7X3TyPOd6vgbJPTlmv%252DCDA%252DPTE2IGOTpjdjJmt5jY%252D3wBccW0r5bHtvZvNBDPWlXNWPiLIz63L%252DPdZS%255FahEDo9NsiEb2vqQ%255Fg5zul7hWf6OY6GJQ7Q2QLJMSvPgkhNqSc5cIXOBYJ53d0yyJb8ke1Zssy7Tka3RLeTX9pjgT7mu5O0cq%255F%255FuPLdMf6Ljwu7%252Do%26yargs%3Den.wikipedia.org&pos=5" style="font-size:11px;color:#666666;text-decoration:none;"  onmouseover="window.status='http://en.wikipedia.org'; return true;"  target="_new">en.wikipedia.org</a></td><td width=50%  valign=top style="border-color : #ffffff;  border-style : solid; border-width : 1px;"><span style="color:#aaaaaa"><b><a href="url2.php?Keywords=General&paid=0&destination=en.wikipedia.org&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1n1SqJauwuz1IPXeHbGPxigLnOzB9s5nCpgIF9de9WQ8Au1%255FPpPxscR5Setj7X3TyPOd6vgbJPTlmv%252DCDA%252DPTE2IGOTpjdjJmt5jY%252D3wBccW0r5bHtvZvNBDPWlXNWPiLIz63L%252DPdZS%255FahEDo9NsiEb2vqQ%255Fg5zul7hWf6OY6GJQ7Q2QLJMSvPgkh9qSc5cIXOBYJ53d0yyJb8ke1Zssy7Tka3RLeTX9pjgT72ufzAxPk8HVGdFQ%255FeCl9ezcOKeo38BIOkmS1cRT%26yargs%3Den.wikipedia.org&pos=6" style="color:#999999;text-decoration:underline">General (United States) - Wikipedia, the free encyclopedia</a></b><br><a href="url2.php?Keywords=General&paid=0&destination=en.wikipedia.org&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1n1SqJauwuz1IPXeHbGPxigLnOzB9s5nCpgIF9de9WQ8Au1%255FPpPxscR5Setj7X3TyPOd6vgbJPTlmv%252DCDA%252DPTE2IGOTpjdjJmt5jY%252D3wBccW0r5bHtvZvNBDPWlXNWPiLIz63L%252DPdZS%255FahEDo9NsiEb2vqQ%255Fg5zul7hWf6OY6GJQ7Q2QLJMSvPgkh9qSc5cIXOBYJ53d0yyJb8ke1Zssy7Tka3RLeTX9pjgT72ufzAxPk8HVGdFQ%255FeCl9ezcOKeo38BIOkmS1cRT%26yargs%3Den.wikipedia.org&pos=6"  style="color:#000000;text-decoration:none;" target="_new">General is the most senior rank currently used in the United States Army, Air ... the "five star" and "six star" general ranks are reserved for war time use ...</a><br>
+    <a href="url2.php?Keywords=General&paid=0&destination=en.wikipedia.org&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1n1SqJauwuz1IPXeHbGPxigLnOzB9s5nCpgIF9de9WQ8Au1%255FPpPxscR5Setj7X3TyPOd6vgbJPTlmv%252DCDA%252DPTE2IGOTpjdjJmt5jY%252D3wBccW0r5bHtvZvNBDPWlXNWPiLIz63L%252DPdZS%255FahEDo9NsiEb2vqQ%255Fg5zul7hWf6OY6GJQ7Q2QLJMSvPgkh9qSc5cIXOBYJ53d0yyJb8ke1Zssy7Tka3RLeTX9pjgT72ufzAxPk8HVGdFQ%255FeCl9ezcOKeo38BIOkmS1cRT%26yargs%3Den.wikipedia.org&pos=6" style="font-size:11px;color:#666666;text-decoration:none;"  onmouseover="window.status='http://en.wikipedia.org'; return true;"  target="_new">en.wikipedia.org</a></td></tr>
+    <tr><td width=50%  valign=top style="border-color : #ffffff;  border-style : solid; border-width : 1px;"><span style="color:#aaaaaa"><b><a href="url2.php?Keywords=General&paid=0&destination=www.general-hypnotherapy-register.com&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1n5SqJauwuz1IPXeHbGPxigLnOzB9s5nCpgIF9de9WQ8Au1%255FPpPxscR5Setj7X3TyPOd6vgbJPTlmv%252DCDA%252DPTE2IGOTpjdjJmt5jY%252D3wBccW0r5bHtvZvNBDPWlXNWPiLIz63L%252DPdZS%255FahEDo9NsiEb2vqQ%255Fg5zul7hWf6OY6GJD7Q2QLJMSvPgkhtqSc5cIXOBYJ53d0yyJb9sHjMKZq92BI3hbaHX9oDdZ6AvAbS099PmUP8tc%252D6uixdKHPqKl3McGLxmFpfliyS6m%26yargs%3Dwww.general-hypnotherapy-register.com&pos=7" style="color:#999999;text-decoration:underline">The General Qualification in Hypnotherapy Practice (GQHP)</a></b><br><a href="url2.php?Keywords=General&paid=0&destination=www.general-hypnotherapy-register.com&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1n5SqJauwuz1IPXeHbGPxigLnOzB9s5nCpgIF9de9WQ8Au1%255FPpPxscR5Setj7X3TyPOd6vgbJPTlmv%252DCDA%252DPTE2IGOTpjdjJmt5jY%252D3wBccW0r5bHtvZvNBDPWlXNWPiLIz63L%252DPdZS%255FahEDo9NsiEb2vqQ%255Fg5zul7hWf6OY6GJD7Q2QLJMSvPgkhtqSc5cIXOBYJ53d0yyJb9sHjMKZq92BI3hbaHX9oDdZ6AvAbS099PmUP8tc%252D6uixdKHPqKl3McGLxmFpfliyS6m%26yargs%3Dwww.general-hypnotherapy-register.com&pos=7"  style="color:#000000;text-decoration:none;" target="_new">The General Hypnotherapy Register (GHR) is the General Hypnotherapy Standards ... The General (and Senior) Qualification in Hypnotherapy Practice ...</a><br>
+    <a href="url2.php?Keywords=General&paid=0&destination=www.general-hypnotherapy-register.com&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1n5SqJauwuz1IPXeHbGPxigLnOzB9s5nCpgIF9de9WQ8Au1%255FPpPxscR5Setj7X3TyPOd6vgbJPTlmv%252DCDA%252DPTE2IGOTpjdjJmt5jY%252D3wBccW0r5bHtvZvNBDPWlXNWPiLIz63L%252DPdZS%255FahEDo9NsiEb2vqQ%255Fg5zul7hWf6OY6GJD7Q2QLJMSvPgkhtqSc5cIXOBYJ53d0yyJb9sHjMKZq92BI3hbaHX9oDdZ6AvAbS099PmUP8tc%252D6uixdKHPqKl3McGLxmFpfliyS6m%26yargs%3Dwww.general-hypnotherapy-register.com&pos=7" style="font-size:11px;color:#666666;text-decoration:none;"  onmouseover="window.status='http://www.general-hypnotherapy-register.com'; return true;"  target="_new">www.general-hypnotherapy-register.com</a></td><td width=50%  valign=top style="border-color : #ffffff;  border-style : solid; border-width : 1px;"><span style="color:#aaaaaa"><b><a href="url2.php?Keywords=General&paid=0&destination=www.general-hypnotherapy-register.com&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1mZSqJauwuz1IPXeHbGPxigLnOzB9s5nCpgIF9de9WQ8Au1%255FPpPxscR5Setj7X3TyPOd6vgbJPTlmv%252DCDA%252DPTE2IGOTpjdjJmt5jY%252D3wBccW0r5bHtvZvNBDPWlXNWPiLIz63L%252DPdZS%255FahEDo9NsiEb2vqQ%255Fg5zul7hWf6OY6GduqhjZKY1VteAZv5bOKIxbR%252DoRO5mTjDnRN9teJ%252DdFrfD8d2BMd2%255F6sS1d6hOdZmUo%252DO2JKc0X6uqshZnJZOLcrOk%252E%26yargs%3Dwww.general-hypnotherapy-register.com&pos=8" style="color:#999999;text-decoration:underline">General Hypnotherapy Register</a></b><br><a href="url2.php?Keywords=General&paid=0&destination=www.general-hypnotherapy-register.com&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1mZSqJauwuz1IPXeHbGPxigLnOzB9s5nCpgIF9de9WQ8Au1%255FPpPxscR5Setj7X3TyPOd6vgbJPTlmv%252DCDA%252DPTE2IGOTpjdjJmt5jY%252D3wBccW0r5bHtvZvNBDPWlXNWPiLIz63L%252DPdZS%255FahEDo9NsiEb2vqQ%255Fg5zul7hWf6OY6GduqhjZKY1VteAZv5bOKIxbR%252DoRO5mTjDnRN9teJ%252DdFrfD8d2BMd2%255F6sS1d6hOdZmUo%252DO2JKc0X6uqshZnJZOLcrOk%252E%26yargs%3Dwww.general-hypnotherapy-register.com&pos=8"  style="color:#000000;text-decoration:none;" target="_new">... ongoing Registration as determined by the General Hypnotherapy Standards Council ... General Hypnotherapy Register. GHR. The Administrating Agency for ...</a><br>
+    <a href="url2.php?Keywords=General&paid=0&destination=www.general-hypnotherapy-register.com&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1mZSqJauwuz1IPXeHbGPxigLnOzB9s5nCpgIF9de9WQ8Au1%255FPpPxscR5Setj7X3TyPOd6vgbJPTlmv%252DCDA%252DPTE2IGOTpjdjJmt5jY%252D3wBccW0r5bHtvZvNBDPWlXNWPiLIz63L%252DPdZS%255FahEDo9NsiEb2vqQ%255Fg5zul7hWf6OY6GduqhjZKY1VteAZv5bOKIxbR%252DoRO5mTjDnRN9teJ%252DdFrfD8d2BMd2%255F6sS1d6hOdZmUo%252DO2JKc0X6uqshZnJZOLcrOk%252E%26yargs%3Dwww.general-hypnotherapy-register.com&pos=8" style="font-size:11px;color:#666666;text-decoration:none;"  onmouseover="window.status='http://www.general-hypnotherapy-register.com'; return true;"  target="_new">www.general-hypnotherapy-register.com</a></td></tr>
+    <tr></tr>
+    <tr><td colspan=2 style="border-top: 1px dashed #7A9DBD;">&nbsp;</td></tr><tr><td width=50%  valign=top style="border-color : #ffffff;  border-style : solid; border-width : 1px;"><span style="color:#aaaaaa"><b><a href="url2.php?Keywords=General&paid=0&destination=sport.independent.co.uk&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1mhSqJauwuz1IPXeHbGPxigLnOzB9s5nCpgIF9de9WQ8Au1%255FPpPxscR5Setj7X3TyPOd6vgbJPTlmv%252DCDA%252DPTE2IGOTpjdjJmt5jY%252D3wBccW0r5bHtvZvNBDPWlXNWPiLIz63L%252DPdZS%255FahEDo9NsiEb2vqQ%255Fg5zul7hWf6OY6GJj7Q2QLJMSvPgkiNqSc5cIXOBYJ53d0yyJb98AlJ4xjrT6anVSfXX2sTFItAnfOnUkvvmYItpL6OnujN6VaMLNrA%252E%252E%26yargs%3Dsport.independent.co.uk&pos=9" style="color:#999999;text-decoration:underline">Independent Online Edition > General</a></b><br><a href="url2.php?Keywords=General&paid=0&destination=sport.independent.co.uk&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1mhSqJauwuz1IPXeHbGPxigLnOzB9s5nCpgIF9de9WQ8Au1%255FPpPxscR5Setj7X3TyPOd6vgbJPTlmv%252DCDA%252DPTE2IGOTpjdjJmt5jY%252D3wBccW0r5bHtvZvNBDPWlXNWPiLIz63L%252DPdZS%255FahEDo9NsiEb2vqQ%255Fg5zul7hWf6OY6GJj7Q2QLJMSvPgkiNqSc5cIXOBYJ53d0yyJb98AlJ4xjrT6anVSfXX2sTFItAnfOnUkvvmYItpL6OnujN6VaMLNrA%252E%252E%26yargs%3Dsport.independent.co.uk&pos=9"  style="color:#000000;text-decoration:none;" target="_new">General ... General. Golf. Motor Racing. Rugby League. Rugby Union. Tennis. Olympics. Comment. Leading Articles ... General. General ...</a><br>
+    <a href="url2.php?Keywords=General&paid=0&destination=sport.independent.co.uk&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1mhSqJauwuz1IPXeHbGPxigLnOzB9s5nCpgIF9de9WQ8Au1%255FPpPxscR5Setj7X3TyPOd6vgbJPTlmv%252DCDA%252DPTE2IGOTpjdjJmt5jY%252D3wBccW0r5bHtvZvNBDPWlXNWPiLIz63L%252DPdZS%255FahEDo9NsiEb2vqQ%255Fg5zul7hWf6OY6GJj7Q2QLJMSvPgkiNqSc5cIXOBYJ53d0yyJb98AlJ4xjrT6anVSfXX2sTFItAnfOnUkvvmYItpL6OnujN6VaMLNrA%252E%252E%26yargs%3Dsport.independent.co.uk&pos=9" style="font-size:11px;color:#666666;text-decoration:none;"  onmouseover="window.status='http://sport.independent.co.uk'; return true;"  target="_new">sport.independent.co.uk</a></td><td width=50%  valign=top style="border-color : #ffffff;  border-style : solid; border-width : 1px;"><span style="color:#aaaaaa"><b><a href="url2.php?Keywords=General&paid=0&destination=www.w3.org&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1n9SqJauwuz1IPXeHbGPxigLnOzB9s5nCpgIF9de9WQ8Au1%255FPpPxscR5Setj7X3TyPOd6vgbJPTlmv%252DCDA%252DPTE2IGOTpjdjJmt5jY%252D3wBccW0r5bHtvZvNBDPWlXNWPiLIz63L%252DPdZS%255FahEDo9NsiEb2vqQ%255Fg5zul7hWf6OY6GJy7Q2QLJMSvPgkgMzVeMAES6QHcoHd12acb4MHjJtr1%252D66YWJFN0%255FA%252D20Mql%252DfQ0Rixt28C40JpMKE5Pr6GJ%255FgntlebkSV9%255FR8%255Fk%252DbyF%252Dt%252DQ%252E%252E%26yargs%3Dwww.w3.org&pos=10" style="color:#999999;text-decoration:underline">General Techniques for WCAG 2.0</a></b><br><a href="url2.php?Keywords=General&paid=0&destination=www.w3.org&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1n9SqJauwuz1IPXeHbGPxigLnOzB9s5nCpgIF9de9WQ8Au1%255FPpPxscR5Setj7X3TyPOd6vgbJPTlmv%252DCDA%252DPTE2IGOTpjdjJmt5jY%252D3wBccW0r5bHtvZvNBDPWlXNWPiLIz63L%252DPdZS%255FahEDo9NsiEb2vqQ%255Fg5zul7hWf6OY6GJy7Q2QLJMSvPgkgMzVeMAES6QHcoHd12acb4MHjJtr1%252D66YWJFN0%255FA%252D20Mql%252DfQ0Rixt28C40JpMKE5Pr6GJ%255FgntlebkSV9%255FR8%255Fk%252DbyF%252Dt%252DQ%252E%252E%26yargs%3Dwww.w3.org&pos=10"  style="color:#000000;text-decoration:none;" target="_new">Please refer to "General Techniques Issues" for a list of open issues related to ... health and safety standards for general flash or red flash is marked ...</a><br>
+    <a href="url2.php?Keywords=General&paid=0&destination=www.w3.org&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1n9SqJauwuz1IPXeHbGPxigLnOzB9s5nCpgIF9de9WQ8Au1%255FPpPxscR5Setj7X3TyPOd6vgbJPTlmv%252DCDA%252DPTE2IGOTpjdjJmt5jY%252D3wBccW0r5bHtvZvNBDPWlXNWPiLIz63L%252DPdZS%255FahEDo9NsiEb2vqQ%255Fg5zul7hWf6OY6GJy7Q2QLJMSvPgkgMzVeMAES6QHcoHd12acb4MHjJtr1%252D66YWJFN0%255FA%252D20Mql%252DfQ0Rixt28C40JpMKE5Pr6GJ%255FgntlebkSV9%255FR8%255Fk%252DbyF%252Dt%252DQ%252E%252E%26yargs%3Dwww.w3.org&pos=10" style="font-size:11px;color:#666666;text-decoration:none;"  onmouseover="window.status='http://www.w3.org'; return true;"  target="_new">www.w3.org</a></td></tr><tr><td align="right" colspan=2><a href="index.php?subcat=130100&Keywords=General&xargs=12KPjg1iZSsIGmmvmnN%2DmZDrDaoAtP0cHwsd5sCpIIQYgc5XEZUPV9aNqfwIEnELXD3D2BnueXiKELTcO5WMmKNj82dmaODOH5nt2alscEB6%2D0W9dHL4Mfl7n8nfJKHU82&hData=12KPjg1o1gkrH4x8%5FfcLnBSerzylwMkZCwhMxmfuR9Gtxb%2DQNlU%2DB6T5Px" style="font-size:11;font-family:Arial,Verdana;color:#000000;text-decoration:none"><b>Next Page &gt;&gt;</b></a></td></tr></table></td><td width=126 style="border-left: 1px dashed #7A9DBD;" valign=top align=center>
+<table width=100% cellpadding=2 cellspacing=2></table>
+&nbsp;</td>
+  </tr>
+ 
+</table></td></tr></table>
+<table width="970" align=center border="0" cellpadding="0" cellspacing="0" style="color:#666666;font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 10px; line-height: 16px;"><tr><td align=center>Copyright  2007 All rights reserved - <a href="http://www.jdoqocy.com/click-574188-10457491" target="_new" class="footerlink">Advertise Here</a> <a href="../part.php"  class="footerlink">-</a> Terms & Conditions <a href="../bots/index.php" class="footerlink">-</a> This domain name may be for sale: <a href="http://contact.webpark.co.uk/index.php?domain=energyscience.co.uk"  class="footerlink">Contact Us</a></td></tr></table>
+<script language="JavaScript">
+<!--
+document.search.Keywords.focus();
+ document.getElementById( 'Keywords' ).focus();
+//-->
+</script>
+</body>
+</html>

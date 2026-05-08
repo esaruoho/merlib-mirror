@@ -1,0 +1,12 @@
+1986a 
+
+ 1986a 
+
+ The following is a paper by H. Aspden published in Speculations in Science and Technology, v. 9, pp. 315-323 (1986).
+
+ FUNDAMENTAL CONSTANTS DERIVED FROM TWO-DIMENSIONAL HARMONIC OSCILLATIONS IN AN ELECTRICALLY STRUCTURED VACUUM 
+
+ Abstract : Based on a 1972 analysis of two-dimensionless harmonic oscillations in an electrically structured vacuum, the fine-structure constant, magnetic moment of the proton and the g-factor of the electron are all derived theoretically and found to have values in perfect accord with measurement data. The analysis is based on newly discovered resonant interaction. 
+ Commentary : The author had been impressed by the fact that Von Klitzing had earned the Nobel physics prize in 1985 for work closely connected with quantum Hall phenomena as applied to the measurement of the fine-structure constant. This was research which, in effect, replicated the orderly orbital motion of the aether lattice charge in a two-dimensional electron gas. Bearing in mind that the author's theory of the vacuum medium has vacuum charge in a two-dimensional motion, which gives the fundamental foundation for the fine-structure constant, this work of Von Klitzing was clear
+vindication of the author's methods. The subject paper was essentially a review paper to which was added the new discovery of a resonant standing wave model for the proton magnetic moment. The
+theoretical value is the same as the measured value to the part per million precision of six significant digits.

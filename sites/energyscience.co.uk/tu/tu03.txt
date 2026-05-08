@@ -1,0 +1,40 @@
+TUTORIAL 03 
+
+ TUTORIAL NOTE 03 
+
+ These notes teach the mathematical basis of Aether Science theory 
+
+ ELECTRODYNAMIC FORCE FORMULA 
+
+ Copyright, Harold Aspden, 1997 
+
+After the Law of Conservation of Energy the next truly fundamental law is Coulomb's Law, by which the electrostatic potential energy of the interaction between two electric charges e, e' separated by a distance r is simply ee'/r. Note that here we are using a system of units in which the vacuum medium has a dielectric constant of unity as well as unit magnetic permeability and that when we come to use units for energy, space and time we shall use ergs, centimetres and seconds, meaning the Gaussian cgs system. Where space means a volume of space, the units used are cm 3 .
+
+Thus the electrostatic force acting between those two charges is ee'/r 2 directed along the line joining the charges and, as potential energy tends to reduce, that force is one of repulsion if e and e' have the same polarity. This is, of course, extremely elementary, but it ceases to be so the moment we ask what happens should e and e' be in motion. Motion is a word which cannot be given meaning just by writing a number of cm/s. One needs to specify a direction and indicate the frame of reference. If there is an aether then that can give such a reference, but otherwise one is left in a quandary. Motion relative to the 'inertial frame' has no meaning because uniform motion does not 'see' that frame. Motion relative to the other charge does, however, have meaning and so we shall see how far we can get on that basis. Also, if we introduce c, the speed of light, then again we complicate the picture, but that cannot be avoided, as we now will discover.
+
+We proceed by assuming that the Coulomb interaction is instantaneous, meaning that the electric influence asserted at a remote point by charge e is not affected by retardation should e be moving relative to that point. So, however e and e' are moving, the Coulomb potential is unaffected by that motion, as such, but it is affected as a function of changing separation distance. Should the two charges be separating to increase r, then that energy potential is reduced and each charge, or at least the system as a whole, must, somehow, shed energy to the aether. It does that by radiation as a collective act involving both charges, because, simultaneously, the charges each experience the reaction effect of an energy quantum dE shed in directions that are opposed so that the Coulomb force ee'/r 2 is offset by a radiation reaction force (1/c)dE/dt. Note that we are here accepting that energy radiation occurs at speed c. Note also that we are discussing what happens to the mutual energy of that two-charge interaction and not the self-interaction energy locked up in the individual charges. Energy shed to the aether has a way of regenerating itself as matter which adds mass to the system but it suffices here to consider those energy quanta dE.
+
+We see that 2dE is the net background energy component that accompanies the event under consideration. It is energy that has been borrowed from or added to the radiation field, disturbing the equilibrium from which it then seeks to recover. Somewhere in the electric field system that sets up the Coulomb force there is energy that has been shed to the background owing to the change of the separation distance r.
+
+Now, rigorous analysis of the energy deployment in the Coulomb field shows that, as viewed from either charge, there is no net energy within the sphere bounded by the range r from either charge. This is surprising but true but the proof is given elsewhere. It can be seen by referring to reference [1979a] abstracted in these Web pages. It follows that any energy transfer between that Coulomb field and the individual charge locations must involve transfer over a mean distance equal to r. Radiation in the electromagnetic background will traverse that distance in a time T of r/c. Thus we can formulate the energy 2dE in transit as being: 
+ 2dE = TdP/dt 
+where P is the Coulomb potential ee'/r.
+
+It is now very important to realize that E is never negative, so a reduction in P has to be treated as a positive rate of change in computing dE from the above equation. Similarly, all components of the rate of change of momentum of the energy dE have to be assigned a direction that amounts to a reaction opposing the Coulomb force. Indeed, the radiation reaction arising from transverse relative motion has to be separated from the radiation reaction resulting from relative radial velocity in setting these directions. This explains why the sign in the next equation is positive rather than negative.
+
+The offset force, or electrodynamic force, acting on e or e' is then determined as 1/2c times the time derivative of (r/c)dP/dt. Since P is a simple function of r, we then readily obtain:
+
+ F = (ee'/2c 2 )[(dr/dt) 2 /r 2 +(d 2 r/dt 2 )/r]. 
+
+This equation simplifies if we write the relative radial velocity dr/dt as u and the relative radial acceleration d 2 r/dt 2 as v 2 /r, where v is the relative transverse velocity. These two velocities u and v are at right angles and so the sum of their squares can be written as V 2 , where V is the relative velocity between the two charges e and e'. It then follows that:
+
+ F = (ee'/2r 2 )(V/c) 2 . 
+
+This is the formula which we set out to derive from first principle analysis. It will seem unfamiliar to physics teachers but it is in fact the electrokinetic potential assumed by classical physicists as a basis for deriving the Neumann potential. This derivation just presented appears in the author's Hadronic Journal paper, reference [1988a] in the abstracts included in these Web pages. In that paper it was noted that: " So far as this author is aware, this electrokinetic potential term has never before been deduced directly from the Coulomb potential. Hitherto it has been introduced by assumption, owing to its analogy with the kinetic energy of electromagnetic mass. It is believed, therefore, that the argument presented above is an important advance, especially in view of its intrinsic simplicity and its direct relevance and applicability to electromagnetic problems." 
+
+Our next tutorial task is to make progress towards the unifying connection between electrodynamic force law and the law of gravitation. You see, we are going to aim directly at that territory which Einstein could not conquer, but first we must digress a little to learn something about the way in which electrons move though space. 
+If you fear that the mathematics involved is going to get more complicated then rest assured, the analysis you have just confronted in this Tutorial is more demanding than anything which now follows.
+
+ To progress to the next Tutorial press: 
+ Tutorial No. 4 
+ *

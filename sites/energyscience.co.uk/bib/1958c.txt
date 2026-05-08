@@ -1,0 +1,12 @@
+1958c 
+
+ 1958c 
+
+ The following is a U.K. Patent Application filed on July 1, 1955 by The English Electric Company Limited, Harold Aspden being co-inventor with E. K. Sandeman. It was published on July 2, 1958.
+ U.K. PATENT NO. 797,397 
+
+ 'LOW PHASE SHIFT FREQUENCY SENSITIVE FILTERS' 
+
+ Commentary : This is a patent concerning electronic circuitry needed for use in conjunction with ballistic missile guidance control. 
+
+The patent discloses design details of a circuit including series and parallel inductive-capacitive tuned units which assure an extremely low phase-shift particularly suited to radar systems in which doppler frequency is to be multiplied.

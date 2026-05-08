@@ -1,0 +1,32 @@
+1987l 
+
+ 1987l 
+
+ The following is the abstract of a paper by H. Aspden as published by the Institute of Physics (U.K.) in the PROGRAMME and ABSTRACTS of a Conference on Nuclear Physics and Particle Physics held at the University of Birmingham on 6-8 April 1987. (Paper No. Q1 on p. 84).
+
+ A THEORETICAL DERIVATION OF NEUTRON LIFETIME 
+
+ Summary: The measured mean lifetime of the neutron of approximately 898 seconds is shown to be determined from a theory of the proton dating from 1975. The model requires the neutron to have a lifetime jointly determined by characteristic transition times which the theory assigns to both the electron and the proton.
+
+Abstract: Theory of prior record (Aspden &amp Eagles, 1972, 1975) gave: 
+ (fsc) -1 =A(2s) 1/2 
+ (4/3)(pi)(2)(mu)=A 3 s 4 
+ M=2(mu)[(3/2) 1/2 -1] -1 
+where A=108(pi) and (1/s) 3 =1843. Here (fsc) is the fine structure constant, (mu) is the muon-electron mass ratio and M is the proton-electron mass ratio.
+
+The number A is a measure of the cell spacing in a cubic lattice given in units of Thomson electron charge radius (two-thirds of the classical electron radius). The number s represents a calculable energy quantum in electron rest-mass energy units mc 2 deemed to occupy each lattice site in the calculation of record. A muon pair is supposed to be created cyclically and annihilated in successive periods h/mc.
+
+It is found that the chance of an encounter between a positive muon and an electron occurs at intervals of [3/4(pi)]A 3 (h/mc 2 ), approximately 10 -13 seconds. This matches the observed electron tunneling frequency.
+
+The chance of a simultaneous encounter between the negative muon and the proton, close enough to develop a proton-antiproton energy threshold offset by negative potential of the interaction, involves a combined time period of: 
+ [3/4(pi)] 2 A 3 (2A/3) 3 [M-(mu)] 3 (h/mc 2 ) 
+With M=1836, (mu)=207 and h/mc 2 =8.09x10 -21 , this gives a decay time of 900 seconds.
+
+This happens to be the lifetime of the neutron, which is of interest when taken in conjunction with the earlier results of the theory. taken together, the proton and electron have a mass approximating the neutron and are electrically neutral. This lifetime calculation may, therefore, help us in our further understanding of neutron composition. Hence it is relevant to draw attention to this new result which updates an earlier proposal on this subject (Aspden, 1981).
+
+ASPDEN H and EAGLES D M, Physics Letters, v. 41A, 423 (1972). 
+ASPDEN H and EAGLES D M, Il Nuovo Cimento, v. 30A, 235 (1975). 
+ASPDEN H, Lett. Nuovo Cimento, v. 31, 383 (1981). 
+ ***** 
+
+Note that these three references are items [1972a], [1975a] and [1981b], respectively, of this section of these Web pages.

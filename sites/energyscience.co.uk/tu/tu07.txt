@@ -1,0 +1,240 @@
+TUTORIAL 07 
+
+ TUTORIAL NOTE 07 
+
+ These notes teach the mathematical basis of Aether Science theory 
+
+ AETHER DYNAMICS 
+
+ Copyright, Harold Aspden, 1997 
+
+In this tutorial we shall calculate a feature of aether structure that is of vital importance in determining the fundamental constants of physics. The crucial factor is energy and the manner in which it is deployed amongst the charged particle forms that populate the aether medium.
+
+As we saw in Tutorial No. 6, the presence of matter moving in an orbital jitter about the inertial frame must be balanced dynamically by the graviton system. However, in regions of the aether devoid of matter we still need to preserve the harmony of that jitter motion because it is sufficiently universal in its influence as to span the range of action of gravitational force. That range is at least adequate to cover distances between adjacent stars, as otherwise the galaxies could not hold together and form their spiral configurations. It follows that the 'empty' space between stars must comprise aether which, intrinsically, has its own gravitational properties and that suggests that its mass density, which we designated d in Tutorial No. 5, must itself be in need of dynamic balance by a graviton population spreading throughout all space.
+
+Now there is much evidence that one can bring to bear to support this statement, particularly in relation to the cosmic background temperature in the near presence of stellar matter, and concerning the gravitational interaction between aether and matter, but we will defer that as a subject for a future Lecture topic on these Web pages. It is dealt with in chapter 9 of my book 'Physics Unified' . For the moment our attention must centre on the nature of that something having mass that we know exists in aether regions whether matter is present or absent. That something is the particle system which endows the aether with the mass density d that is effective in determining the light propagation property and in assuring the null result of the Michelson-Morley Experiment that we discussed in Tutorial No. 5.
+
+I regard this particle system as being the structured array which accounts for the 'crystal' form of the aether in the analogy with its 'fluid crystal' attributes. I regard the particles of this structured array as being those quons I mentioned in Tutorial No. 6. Quons all have the same electrical polarity in any local region of space and so they repel one another to form into a simple cubic array. Unlike the situation in solid matter, where atoms bond together as if attracted to one another and so form compact structures, such as body-centred cubic or face-centred cubic lattice-like systems, the aether adopts the simple cubic structure. This makes our calculation task easier.
+
+We are able to divide space into cubic cells and say that in each cell there is a single quon. Then, to assure that this cell of space is electrically neutral overall we can declare that there is that charge density o o of the uniform charge continuum we introduced in Tutorial No. 6, to write e as o o d 3 .
+
+I am here changing the meaning of the symbol d so that it becomes the side dimension of those cubic space cells. Not having the use of Greek symbols in these Web pages I could not use the Greek lower case rho for the aether mass density as I did in my books. I will, however, need to use a symbol for aether mass density again later in these tutorials and you will find that I adopt d o for that purpose.
+
+So far as electrical actions are concerned these two charge ingredients are all we need consider in our initial energy analysis, because all other particle forms present come in charge pairs in which positive and negative charges have a random presence and so cancel in their effects on other charge. There will be those taons and those gravitons present to provide the dynamic balance already mentioned, but now we need to make a major step forward in our analysis by explaining why there is need for such balance and why those quons are not at rest, each at the centre of its own space cell.
+
+Well, to proceed, let us assume initially that the quon has a negative charge of magnitude e and is attracted by that positive charge density that envelops it and fills the cubic cell of side d. We will calculate the electric potential of the quon as set up by its interaction with all other quons in the aether, but as offset by its interaction with the continuum charge in all of the other cells comprising the aether. This will be the finite difference between two extremely large quantities but we shall have no problem performing this calculation. It can be done unaided by electronic computing facilities but we will here resort to such computer calculation to speed things up.
+
+The plan of action is to perform that calculation for the quon at rest at the centre of its cubic space cell and so find what proves to be a negative energy potential. Then we will declare that the aether cannot possibly have a negative energy potential condition as its fundamental state, because we do not know what can be meant by 'negative energy' in that context. The whole secret of success in this aether theory is the realization that the charges forming the lattice structure of the aether must have positive but minimal energy potential.
+
+Accordingly we shall displace each quon from its cell centre sufficiently to increase its potential from its negative value to a value that is minimal but not less than zero. That will give us a distance, a radius term r, expressed as a ratio factor in terms of d. Then we shall have to consider how that quon can hold stable in that displaced position in spite of the attractive force pulling it back towards the centre of the cell. Note that we are driven here by the physics of the situation and are not making arbitrary assumptions. So you will see why the quons all have to move in circular orbits about the centres of the charge of a cell. The centrifugal force has to balance the restoring force. To keep their distance from one another as they describe their orbits they must all share a synchronous motion and I mean exactly that, in spite of whatever you might imagine about retardation effects! There are no retarded actions in this basic aether activity, because no energy is being transferred inasmuch as there is no relative motion between the quons. Furthermore, they define the electromagnetic reference frame and so they set up no electrodynamic action.
+
+All this makes our analysis straightforward and quite simple. Now note that I referred to displacement of the quon from the charge centre of a cubic cell and said that gave a radius. It does, but remember that the radius we need to evaluate centrifugal force is that of the radial displacement relative to the inertial frame, and the continuum charge need not be at rest in that inertial frame. Indeed, we need to form an opinion on the location of that continuum charge, bearing in mind that it plays a role in the gravitational action. It was the presence of gravitons that created a condition in that charge continuum for which the volume of the graviton charge times the continuum charge density set up an electrodynamic effect owing to the relative motion with respect to the E-frame or matter frame at speed c. Logically, the G-frame associated with the gravitons and that charge continuum provides the common frame in which both the charge continuum and the gravitons are at rest.
+
+Our task then is to determine how this G-frame is disposed relative to the inertial frame and the E-frame, meaning the question of the radii of their respective orbits of their motion around the inertial frame. I will here quote a section from pp. 41-42 of my 1975 book: 'Gravitation' :
+
+" Note that the separation between the G-frame and the E-frame is determined by the displacement between the quon charges and the continuum. Let x now be the E-frame orbit radius and y the G-frame orbit radius. Let M e denote the mass of the E-frame dynamically balancing a mass M g of the G-frame. Define r and s by the relations:
+
+ x = r(1-s) 
+ y = r(1+s) 
+so that:
+ x + y = 2r 
+Since x+y is a constant, it being the displacement needed to assure the zero interaction energy condition, only s can be deemed variable. For dynamic balance:
+ M e x = M g y 
+which is assured if:
+ M e = M o /(1-s) 
+ M g = M o /(1+s) 
+where M o is a constant. Combining these last two expressions:
+ M e + M g = M o /(1-s 2 ) 
+which, for minimum mass energy consistent with a state of balance, requires that s must be zero. Thus both the E-frame and the G-frame orbit at the same radius r relative to the inertial frame."
+
+The underlying proposition here is that the aether medium will shed energy from the muons constituting the inertial frame as required to create the gravitons needed for dynamic balance, but it will only shed the minimum necessary for this purpose.
+
+So this means that our displacement of the quon from the centre of its cubic cell of continuum charge will be through a distance 2r, but the centrifugal force asserted by the quon will be related to motion in an orbit of radius r. We are, therefore, now able to confront the calculation of the energy potential of the quon.
+
+For the quon interaction, the summation of the potential energy over a range extended to N lattice site positions in all three orthogonal directions will comprise three components, each a summation, as listed below:
+
+ 6 times the summation of a -1 
+ 12 times the summation of (a 2 + b 2 ) -1/2 
+ 8 times the summation of (a 2 + b 2 + c 2 ) -1/2 
+where a, b and c each range from 1 to N. This gives the interaction energy in units of e 2 /d.
+
+Now we need to calculate the corresponding negative potential energy for the interaction between the quon and the charge continuum of a cube ranging to (N+1/2)d in all three directions from that central quon, that is, for a cube of overall side dimension (2N+1)d. This is not an easy calculation but it is one that can be formulated and solved by applying standard undergraduate level mathematical skill. The formula is the integral from y=0 to y=1 of:
+
+ (12N 2 + 3N)[sinh -1 (1 + y 2 ) -1/2 dy] 
+and, upon integration, this becomes:
+ (12N 2 + 3N)[cosh -1 2 - (pi)/6] 
+which, as N increases in steps of unity, increments by:
+
+ 19.040619N 
+
+Now, this analysis is copied from my 1960 'The Theory of Gravitation' 1st Ed. and I present it here mainly for information. Note, by the way, that
+ cosh -1 2 
+is the natural logarithm of (2+3 1/2 ) and so can be evaluated on your pocket calculator, but I shall now show you a different way by which to compute this negative potential energy. I assume you will not wish to verify what I say by undertaking the formulation and integration that lead to the mathematical solution just presented.
+
+The alternative and convenient way to proceed is to write a simple computer program for evaluating that summation of the quon interaction terms and then generate that 19.040619N factor above as the difference between adjacent terms for N and N+1 with N reasonably high valued. The program can then incorporate the offset of the quon continuum interaction and give directly the value of the energy potential of the quon at its rest position in its continuum charge cubic cell.
+
+I have added, by way of an Appendix to this tutorial, the program listing which I wrote to include here in this tutorial and ran on my IBM personal computer using QBASIC. It only needs a value of N of 5 or so to get an answer with fairly good accuracy but there is a crucial factor concerning the precise value of that 19.040619N increment which is important to onward research and, as it only takes a matter or two or three minutes or so running time to the get the result by a personal computer, I let the machine run in its double precision mode to N=30.
+
+Note that the 'DELTA FUNCTION' mentioned is the incremental coefficient calculated from the N+1 and N potentials. The 'ONE EIGHTH DELTA FUNCTION' is the energy potential coefficient that applies to the first charge continuum cube as estimated from the progressive N level computations of the 'DELTA FUNCTION'. Its near equality of the 'DELTA FUNCTION' to the value 19.0406189101956 found by running the short second program listed in the Appendix to compute that 19.040619N derived by integration, is a measure of the precision of the task we are performing. Note that the energy potential of the quon interaction with the charge continuum cube is proportional to the amount of continuum charge in the cube as divided by its linear dimension, so it is proportional to the square of the linear dimension. That dimension extends from N-N/2 to N+N/2 for each increment. If the square of this is integrated over such a range, i.e. we compute the difference of the squares of these two quantities and divide by 2N, we get a function proportional to N. That function is the 'DELTA FUNCTION'. For the cube between 0 and N/2, this exercise gives one eighth of that function. The overall energy potential up to the N+N/2 dimension therefore becomes (12N 2 +3N)/24 times 19.040619, which increments in steps of 19.040619N, this being in units of e 2 /d. 
+
+The following data were obtained:
+
+N? 5
+AETHER LATTICE POTENTIAL
+CUBIC BOUNDARY RANGE -N TO +N
+N SUMMATION:- 285.6754503234328
+N+1 SUMMATION:- 399.9192240001104
+DELTA FUNCTION:-
+ 19.04062894611294
+ONE EIGHTH DELTA FUNCTION:-
+ 2.380078618264117
+CALCULATION OF r/d
+(r/d):- 0.3028976690023924
+FINE STRUCTURE CONSTANT: 137.0276772036159
+N? 10
+AETHER LATTICE POTENTIAL
+CUBIC BOUNDARY RANGE -N TO +N
+N SUMMATION:- 1047.30036062874
+N+1 SUMMATION:- 1256.747178337156
+DELTA FUNCTION:-
+ 19.04061979167419
+ONE EIGHTH DELTA FUNCTION:-
+ 2.380077473959274
+CALCULATION OF r/d
+(r/d):- 0.3028807822129387
+FINE STRUCTURE CONSTANT: 137.0200378000447
+N? 30
+AETHER LATTICE POTENTIAL
+CUBIC BOUNDARY RANGE -N TO +N
+N SUMMATION:- 8853.954165768031
+N+1 SUMMATION:- 9444.213352465826
+DELTA FUNCTION:-
+ 19.04061892573531
+ONE EIGHTH DELTA FUNCTION:-
+ 2.380077365716914
+CALCULATION OF r/d
+(r/d):- 0.3028746523594567
+FINE STRUCTURE CONSTANT:- 137.0172647196608
+
+As can be seen from a study of the program details there are three numbers that may need explanation. The number 25.13274123 is simply 8(pi). The number 452.3893421 is 144(pi). The number 0.00820893 is a small adjustment term that corrects for the quon point charge assumption, as is now explained.
+
+Note that to convert the numbers obtained for the potentials into physical units we multiply by e 2 /d. This puts the 'zero displacement' energy potential I q in true energy form and this applies to a quon at the charge centre of its cubic space cell, but only if the quon is a point charge. In fact the quon has physical form and is no different from other truly fundamental charge particles in that it complies with the J. J. Thomson formula relating its intrinsic energy E to a charge radius of 2e 2 /3E.
+
+We need therefore to adjust our computed value for I q to take this into account, because a small but significant component of potential resulted from the interaction with continuum charge deemed to be within that quon charge radius and we must confine our analysis to continuum interactions external to the quon. I q is, of course, a negative quantity because it applies to the quon-continuum interaction.
+
+To allow for the finite size of the quon a correction term which is the integral of 4(pi)o o ex.dx must be taken into account, dx here being the elemental increment of x and the integration must be performed over the range x=0 to x=b, where b is the charge radius of the quon. This is:
+
+ 2(pi)(b/d) 2 (e 2 /d) 
+and I am now going to ask your indulgence once again, just as I did in bringing forward the relationship d/a=108(pi), before deriving it in these tutorial notes. I will similarly now introduce the relationship:
+
+ d/b = 96(pi)(r/d) 2 
+where r is to be the radius of the quon orbit in the inertial frame or half the quon displacement from the charge centre of the cubic cell. I say 'is to be' because we are working out an energy potential not knowing the quon charge radius until we find its value as a function of its orbital radius and we will not know what this is until we compute the displacement to the zero potential position. It is a reiteration exercise involving a very small adjustment.
+
+Combining the two equations we obtain:
+
+ (d/r) 4 /4608(pi) 
+so that, in units of e 2 /d this amount of energy potential must be added as a positive term to the value of I q derived above.
+
+To obtain that correction term 0.00820893 used in the program below I worked from the estimated r/d value of 0.3028745 as part of the reiteration process, but you can verify that this is justified, bearing in mind that if we can calculate the fine structure constant to part per million precision then that should suffice as a valid theoretical result. 
+
+This is a small correction and it can be noted that any corresponding correction for the quon-continuum interaction to allow for this finite charge adjustment is negligible in comparison. Therefore the computed value of the quon-continuum interaction over the range of N is that based on the summation using the 19.040619N value derived above. As already shown, we need to multiply this by (12N 2 +3N)/24 to obtain I o , the negative energy potential of the quon-continuum interaction over the range N.
+
+All that now remains, before collecting the three energy potential terms together, is the calculation of the positive potential added by displacing the quon from its rest position in the space cell through a distance of 2r. Note that the restoring force rate is 4(pi)(e 2 /d 3 ) because if you work out the action of an electric field E on the charge e and work out the energy density involved in the resulting displacement using this restoring force rate you will get E 2 /8(pi), which is the established electric field energy density stored in the vacuum medium by such a field. You need, of course, to take into account that there is e charge in each cell of volume d 3 .
+
+There may then be some doubt concerning effect of that finite volume of the quon upon the restoring force rate just deduced, owing to the quons being immersed in aether continuum charge. Could this really affect the restoring force rate in some way? Well, it seems that e, as used in this restoring force rate expression, gives the right answer for the field energy density and so I shall assume that we can proceed on that basis. My thinking is that the continuum charge will not really be a true spread of charge dispersed as if it were not in the unitary charge electric particle form. In calculating the energy potential of the quon we are dealing with the small difference between two enormous quantities and the continuum could be a statistically uniform average state comprising numerous positive and negative charges of magnitude e all migrating at random, no doubt annihilating one another and being recreated in an ongoing scenario. Maybe there are positive quons in that sea of action, assuming that the negative quons are those that take up sites in an orderly cubic pattern to form that structure we are analyzing. Therefore, in the belief that these uncertainties do not affect the result, I can only proceed by seeing where the analysis leads. In calculating the added energy potential as the quon is displaced through that distance 2r against that restoring force rate, I obtain:
+
+ 4(pi)(e 2 /d)(2r/d) 2 /2 
+which is 8(pi)(r/d) 2 e 2 /d 
+
+We now have four terms to combine as our energy potential of the quon and we know the result must be at least positive. So we calculate r/d assuming that the result is, simply, zero. I have incorporated the calculation in the computer program and have further added the calculation of 144(pi)(r/d), because this will soon be seen to be a formula for calculating the value of the hc/2(pi)e 2 , the reciprocal of the fine structure constant. This latter constant is the most directly-evidenced property of the aether, because it incorporates the quantum of action h along with e and the speed of light c, all of these being intrinsic to the vacuum state.
+
+The fact that the computed data presented below indicate a value for hc/2(pi)e 2 that is slightly below the observed value, which is a little above 137.0359, tells us that the quons in the aether medium are not at their absolute zero minimum of energy potential, but are primed with just a little added energy by being displaced radially just a little further in their orbital motion. We shall show in Tutorial No. 8 how the electron gets into this act and then we shall be ready to come back to that question of deriving the value of G, the constant of gravitation.
+
+ APPENDIX: QBASIC PROGRAMS 
+PROGRAM I: COMPUTING THE AETHER LATTICE POTENTIAL 
+
+10 INPUT "N"; N
+20 PRINT "AETHER LATTICE POTENTIAL"
+30 PRINT "CUBIC BOUNDARY RANGE -N TO +N"
+40 FOR A = 1 TO N
+50 LET E# = 1 / A
+60 LET T# = T# + E#
+70 NEXT A
+75 LET X# = 6 * T#
+80 FOR A = 1 TO N
+82 FOR B = 1 TO N
+90 LET H = A * A + B * B
+100 LET M# = SQR(H)
+110 LET F# = 1 / M#
+120 LET G# = G# + F#
+130 NEXT B
+132 NEXT A
+135 LET Y# = 12 * G#
+140 FOR A = 1 TO N
+142 FOR B = 1 TO N
+145 FOR C = 1 TO N
+150 LET J = A * A + B * B + C * C
+160 LET K# = SQR(J)
+170 LET R# = 1 / K#
+180 LET V# = V# + R#
+182 NEXT C
+185 NEXT B
+190 NEXT A
+195 LET Z# = 8 * V#
+200 LET P# = X# + Y# + Z#
+210 PRINT "N SUMMATION:-"; P#
+220 LET N = N + 1
+240 FOR A = 1 TO N
+250 LET E# = 1 / A
+260 LET D# = D# + E#
+270 NEXT A
+275 LET I# = 6# * D#
+280 FOR A = 1 TO N
+282 FOR B = 1 TO N
+290 LET H = A * A + B * B
+300 LET M# = SQR(H)
+310 LET F# = 1 / M#
+320 LET L# = L# + F#
+330 NEXT B
+332 NEXT A
+335 LET O# = 12 * L#
+340 FOR A = 1 TO N
+342 FOR B = 1 TO N
+345 FOR C = 1 TO N
+350 LET J = A * A + B * B + C * C
+360 LET K# = SQR(J)
+370 LET R# = 1 / K#
+380 LET S# = S# + R#
+382 NEXT C
+385 NEXT B
+390 NEXT A
+395 LET U# = 8 * S#
+400 LET W# = I# + O# + U#
+410 PRINT "N+1 SUMMATION:-"; W#
+420 LET Q# = (W# - P#) / (N)
+425 PRINT "DELTA FUNCTION:-"
+430 PRINT Q#
+435 PRINT "ONE EIGHTH DELTA FUNCTION:-"
+440 PRINT (W# - P#) / (8 * N)
+450 PRINT "CALCULATION OF r/d"
+455 LET N = N - 1
+460 LET PP# = Q# * (N * N + N) / 2
+470 LET QQ# = P# - PP#
+480 LET RR# = Q# / 8
+490 LET SS# = RR# - QQ# - .00820893#
+500 LET TT# = SS# / (25.13274123#)
+510 LET UU# = SQR(TT#)
+520 PRINT "(r/d):-"; UU#
+530 PRINT "FINE STRUCTURE CONSTANT:-"; (452.3893421#) * UU#
+540 END
+
+PROGRAM II: COMPUTING THE AETHER CONTINUUM POTENTIAL 
+
+10 LET P# = LOG(2 + SQR(3))
+20 LET Q# = (3.141592654#) / 6
+30 PRINT (24) * (P# - Q#)
+40 END
+
+ To progress to the next Tutorial press: 
+ Tutorial No. 8 
+ *

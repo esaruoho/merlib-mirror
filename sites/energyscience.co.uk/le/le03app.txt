@@ -1,0 +1,212 @@
+LECTURE NO. 3: APPENDIX 
+
+ APPENDIX TO LECTURE NO. 3 
+
+ CONCERNING PULSARS 
+
+ Copyright Harold Aspden, 1997 
+
+ I know that cosmologists will argue that Neutron Stars exist because they can think
+of no other way by which to give account of the rapid pulsation of the radiation we receive
+from some stellar objects. They believe that the radiating source is rotating at a frequency
+which can be of the order of only one revolution per second. A star the size of the Sun would
+have a peripheral surface speed exceeding the speed of light, if rotating that fast. It would
+be subject to enormous centrifugal forces which would far exceed the gravitational action
+holding it together and so it would explode long before it could reach such a fast speed of
+rotation.
+ However, it is a bold leap to infer the existence of Neutron Stars based solely on the
+fast pulsation of some mystery sources. 
+ I suggest, therefore, that the true nature of a pulsar is still an open question. It could
+be a phenomenon involving the periodic discharge in a stellar plasma drawing on energy
+which accumulates in the capacitative system of the star. Just as a star must have an electric
+potential owing to that charge density already mentioned, so the storage of that energy
+means it has capacitance. There could then be radial oscillations at a frequency of the order
+of the speed of light divided by the radius of the star. Indeed, thinking along these lines I do
+wonder if the research reported on the Correa invention [Energy Science Report No. 8 listed
+in the Book and Report section in these Web pages] may have some bearing on this
+cosmological issue. 
+ To enlarge just a little on that theme, I am now going to delve into history. I will then
+ask a question and give you my answer. It will surprise you, but I defy you to find fault with
+what I say.
+ First, I wish it to be understood that, unlike most scientists of this modern age, I
+believe we need to revive belief in the aether as a real medium. 
+ Recently, I was asked by someone who had discovered my writings if I could
+recommend a textbook on aether theory. That person, Mike Dawson by name, said he was
+already familiar with Sir Edmund Whittaker's authoritative 'History of the Theories of Aether
+and Electricity' [1951 edition, published in U.K. by Thomas Nelson and Sons. My answer to
+that enquiry drew attention to Max Born's book 'Einstein's Theory of Relativity' , my copy
+being the revised edition published in 1965 by Dover Publications Inc.
+ I refer here to the section in this work dealing with Faraday's lines of force and quote
+below from pages 170-171 of volume 1.
+ "According to the theory of action at a distance, the effect of the dielectric is an
+indirect one. The field in the vacuum is only an abstraction. It signifies the geometrical
+distribution of the force that is exerted on an electric test body carrying a unit charge. But the
+field in the dielectric represents a real physical change of the substance consisting of the
+molecular displacement of the two kinds of electricity.
+ Faraday's theory of contiguous action knows no such difference between the field in
+the ether and in insulating matter. Both are dielectrics. For the ether the dielectric constant
+equals 1, for other insulators it differs from 1. If the graphical picture of electric displacement
+is correct for matter, it must also hold for the ether. This idea plays a great part in the theory
+of Maxwell, which is essentially the translation of Faraday's ideas of lines of force into the
+exact language of mathematics. Maxwell assumes that in the ether, too, the production of an
+electric or a magnetic field is accompanied by 'displacements' of the fluids. It is not
+necessary for this purpose to imagine the ether to have an atomic structure, yet Maxwell's
+idea comes out most clearly if we imagine ether molecules which become dipoles just like
+material molecules in the field. The field is not, however, the cause of the polarization, but it
+is the displacement which is the essence of the state of tension that we call an electric field.
+The chains of ether molecules are the lines of force, and the charges at the surface of the
+conductors are nothing but the end charges of these chains. If there are material molecules
+present besides the ether particles, the polarization becomes strengthened and the charges
+at the ends become greater." 
+ Now, with this historical background in mind, the question I now ask is how energy is
+stored in such an aether when subjected to an electric field. The statement that it is by some
+kind of tension is not sufficient. If our ultimate task is to unify the force of gravitation with
+electromagnetic theory, then we must be consistent. It seems improbable that one could
+ever explain gravitation in terms of the mechanical properties of matter. Our unification
+quest is more likely to succeed if we aim to explain everything in terms of electrical
+fundamentals. Therefore, if the aether can store electrical energy by 'tension', that 'tension'
+must itself arise solely from electrical force. 
+ It really suffices to note that if two planar layers of uniformly distributed electric
+charge, one of positive and one of negative polarity, are spaced apart slightly in a mutually
+parallel relationship then there is a mutual attraction between those charge layers. Energy is
+stored in the intervening space owing to their mutual electric potential. Now, if those layers
+are the two plates of a parallel plate capacitor separated by a vacuum, the aether in that
+vacuum can be regarded as the seat of a multiplicity of pairs of charge layers that are pulled
+apart when the capacitor is charged. Each such layer has the same distributed charge as
+that on one of those plates. The energy density in the intervening spaces is the same,
+however numerous those pairs of charge layers. 
+ So, one could adopt conventional practice and merely regard the vacuum as a void
+between the two electrically-charged plates and formulate the energy accordingly, or get the
+same result by imagining that a real aether medium exists between those plates and still get
+the same energy formulation. However, the charge displacement concept, as an aether
+property, serves another purpose. Owing to its analogy with the dielectric properties of a real
+solid medium, it gives a basis for understanding electromagnetic wave propagation at a finite
+speed that is a function of the properties of that medium. 
+ When I first considered the physical form that the aether might have I opted for it
+being a plenum, containing no voids and comprising a uniform continuum of charge of one
+polarity in which there is a distribution of identical aether particles having the polarity
+opposite to that of the background continuum. My reason for this was simple logic. If I had
+regarded the aether as being a void containing electric discrete charges of both polarities and
+assumed that there would be no mutual annihilation of charge pairs, then I would be unable
+to justify an equilibrium state in which the charges take up sites in a lattice having the
+structure needed to characterize a solid. You see, I knew that Maxwell's equations demand a
+solid-like structure to sustain the lateral oscillations associated with wave propagation. I also
+knew that I had to set up a model in which the aether particles could take up sites from which
+they could be displaced to become subject to a restoring force proportional to the
+displacement. I knew that the continuum model would meet that requirement and I
+suspected that I was the first to conceive an aether with an in-built asymmetry of this
+kind. 
+ I found that the structure of the aether would be simple cubic, meaning that those
+aether charges will be located at corner sites in a cubic array. This implies planar layers of
+charges and planar boundaries. The aether model was simple and easy to analyze in
+mathematical terms. I was well satisfied with the fruits of that analysis. Nature's aether is
+not the least bit complicated. It has structure, but its structure is not close-packed-hexagonal
+or body-centred cubic or face-centred cubic, as were the ferromagnetic substances I knew of
+from my main subject of research.
+ I pictured the aether as having the properties of a fluid crystal. Where present the
+local energy fields set up by matter affects the aether and promote its local crystallization
+nucleated on that matter. 
+ Reverting now to that cosmological theme, I saw a star as having a spherically-bound structured aether, capable of sustaining the propagation of waves at a finite speed
+determined by the structural properties of that aether model. I went further and studied how
+energy could be stored in that aether by displacing each of those aether particles from its
+neutral position. I saw each such particle as having a quantized orbital motion about that
+neutral position. That gave me the link I needed to relate the aether to quantum theory and
+Planck's constant. More than this, I imagined what would happen if the system I had just
+envisaged were to spin as a whole, sharing the rotation of a star. That led me to see how
+there was electric charge displacement relative to the spin axis, resulting in a distributed core
+charge and a compensating charge at the spherical boundary of the whole system. I saw the
+coextensive matter content of the star as being ionized and so compensating the aether
+charge electrically but not compensating it magnetically or gravitationally. My reason was
+that, if the aether lattice structure is the frame of reference for electromagnetic wave
+propagation, the frame's distortion or motion cannot set up gravitational or electromagnetic
+fields. 
+ For the purpose of this general introduction I can summarize the situation in the
+following way. Inside any astronomical body there is a kind of 'ghost' form, a crystal-like
+structure that is aetherial. It comprises electric charges set in an oppositely charged
+background continuum. This structure cannot withstand linear forces because it will yield as
+a fluid with a counterflow which compensates and nullifies its overall linear momentum. A
+spherical body of that structure can, however, rotate about an axis through the centre of the
+sphere and the aether in this mode can store angular momentum. Similarly such a spherical
+structure can exhibit some elasticity in resisting radial compression or expansion. In short
+the solid aspect of the aether within a star will serve to prevent the star from collapsing under
+gravity, even though its own distributed charge induced by rotation cancels the free proton
+charge that accompanies ionization. 
+ The star, as a gaseous plasma, would, if there were no aether, compact to a form in
+which its internal gravitational interactions just balance the charge interactions of the protons
+released by the ionizing contact of the hydrogen atoms. However, with the aether present
+and rotating to set up a charge displacement which neutralizes the proton charge in the star,
+the electrical repulsive forces within that stellar gas are no longer present but the
+gravitational compression is transferred to the lattice structure of the aether. This prevents
+the compaction of the star beyond the ionizing limit already determined before the aether in
+the star acquired its spin. 
+ The physical sequence of events by which this process can be formulated involves
+firstly the stellar material being a finely dispersed 'dust' comprising hydrogen in its fully
+ionized form. Then something on a grand cosmic scale occurred, such as the condensation
+of the aether to form its lattice-like structure. By analogy with the ferromagnetic state which
+requires crystal order and further cooling before magnetism appears, so eventually the
+phenomenon of gravitation appeared on the physical scene. This then caused the protons to
+accelerate rapidly to some focal point, together with the hydrogen atoms that had been
+formed by ion recombination, and the primordial stellar form then appears with its positive
+core charge. The size of this stellar object is limited by the contact of the K-electron shells of
+adjacent hydrogen atoms. There will be more ionization arrested, as already described, by
+the balance of the gravitational and electrical forces. But along with these events, that charge
+of the newly formed star will promote radial displacement in the coextensive body of aether
+and that is a recipe for that body of aether to begin to spin. Indeed, as the electric field
+cancels to shed the electric potential energy, which came from the release of gravitational
+potential, so the aether spin absorbs that energy as kinetic energy needed owing to its
+angular momentum property. 
+ It will be seen from this that we have a whole new scenario to explore, thanks to the
+aether being recognized as a real medium. The thought that the aether within a star can
+display elastic properties in response to radial compression and expansion means that it can
+oscillate radially. If it does that in a background of charge associated with the matter
+constituting the charge, where a distributed core charge of positive polarity exists balanced
+by a cancelling electron charge in the ionospheric boundaries of the star, then some
+fascinating possibilities emerge. 
+ The spherical boundary charge of the aether sphere could be subject to a rhythmic
+oscillation which penetrates sequentially outwards and inwards through the electron
+ionosphere at a frequency of the order of one cycle every second. Pulsating bursts of
+radiation must then occur. Hence we see scope for understanding the pulsar without
+assuming that it rotates at what, in stellar terms, is an inconceivably high rate. Stars rotate
+with periods measured in days, not seconds! 
+ The enigma of the pulsar warrants a review of the orthodox belief that is linked to the
+Neutron Star theme and the Black Hole. It may be difficult for some readers to accept the
+revival of an aetherial basis for physical reality, but this makes far more sense than
+imagining the existence of Black Holes and Neutron Stars. Note that I shall have much to
+say later on the subject of the apparently enormous concentrations of energy radiation
+detected in radio astronomical observations. What follows will prove to be so comprehensive
+that it will pay to read on rather than halting and assuming that these ideas stand in isolation.
+What has been said about the equilibrium of the core charge in a star held in position by
+gravitation can be put to the test, because its initial cancellation by charge induced by aether
+spin has some fascinating implications. When the star sheds some of its angular momentum
+and breaks up to create planets or form a binary system, the ultimate state of aether spin is
+at a much lower speed. There is then only partial cancellation of the gravitationally induced
+electric charge. 
+ For a star, the ionization prevails and if the star sheds, say 98% of its initial spin
+angular momentum in creating planets, as is the case for the Sun, then the resulting
+magnetic moment of the star will be 98% of the value we expect from the assumption that its
+charge density (in esu) is equal to its mass density times the square root of the constant of
+gravitation (in cgs units). 
+ For an astronomical body such as Earth, which no doubt formed as an ionized object
+before solidifying, the ultimate state is one where there is no residual core charge held in
+place by gravitation. The gravitational forces are then absorbed by the compaction of the
+atomic substance and its resistance to compression. In this case the only source of a
+geomagnetic field is the aether spin associated with body Earth as sustained by inertia, after
+it has shed the Moon. However, that spin condition induces charge displacement in the
+aether and the Earth's substance responds to set up a cancelling displacement of electrons.
+The result is a geomagnetic field having a magnetic moment determined, not by G, the
+constant of gravitation, but by the properties of the aether and the rate of spin which it shares
+with body Earth. 
+ It is then somewhat fortuitous that the formula involving G happens to be in
+reasonable accord with what is observed for body Earth, but there is an associated
+misfortune in the history of the subject, because scientists tried to confirm the validity of the
+formula from detailed tests on body Earth, not realizing that its true validity was restricted to
+the plasma systems of the stars. 
+ The next Lecture in these Web pages summarizes that history. I told the story in the
+1966 edition of my book entitled 'The Theory of Gravitation' and, some 31 years on from that
+time, I reproduce the text unamended, except for the use of the notation (x) 1/2 
+so signify the square root of x, so that the square root of G is written as G 1/2 .
+Also the Greek symbols used are replaced by words in brackets, such as (beta) and (pi).
+
+ To continue to the next Lecture press: 
+
+ Lecture No. 4

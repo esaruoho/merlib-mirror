@@ -1,0 +1,12 @@
+1990g 
+
+ 1990g 
+
+ The following is a U.K. Patent granted to Harold Aspden on August 26, 1992 with a first publication date of May 23 1990. Co-inventor John Scott Strachan.
+ U.K. PATENT NO. 2,225,161 
+
+ 'THERMOELECTRIC ENERGY CONVERSION' 
+
+ Abstract : A thermoelectric energy converter incorporates thermocouples in a circuit carrying A.C. current via capacitors which provide electrical coupling but obstruct heat transfer between hot nd cold junctions. The cyclic current oscillations through ther capacitors are diverted by special circuits so as to be rendered asymmetrical as current oscillations through the thermoelectric junctions. One such circuit includes the use of a diode configuration regulating flow through different thermoelectric junctions spaced apart in the thermal gradient. Another involves the action of a unidirectional magnetic field having a polarizing effect on a three-metal thermoelectric junction. 
+
+This patent is a counterpart of U.S. Patent No. 5,065,085 [1991d].

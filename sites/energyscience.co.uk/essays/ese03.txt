@@ -1,0 +1,168 @@
+ESSAY NO. 3 
+
+ ENERGY SCIENCE ESSAY NO. 3 
+
+ WHAT IS A "SUPERGRAVITON"? 
+
+ Copyright, Harold Aspden, 1997 
+
+Abstract: In 1989 the author's paper introducing the 'supergraviton' was published in Speculations in Science and Technology . Its 'discovery' as a product of the author's aether theory has technological implications which point the way to harnessing the regenerative power locked inside warm superconductors and permanent magnets and has biophysical implications as well. This Essay discusses the way in which Nature creates the 'supergraviton' and is a starting point in the onward exploration of the related technology. Bibliographic reference [1989a] in these Web pages 
+
+ Note that in 1988 when the paper was written the neutral Z boson of high energy particle physics had a measured mass-energy reported as 92.6+/-1.7 GeV. Since that time the precision of that measurement has improved and it is now reported to be very close to 91 GeV. Bear this in mind when you come to read the comments about the neutral Z boson in the paper below when reread in the light of the comments I shall add later. The text presented below is a fairly close rendering of the that 1989 account, with the omission of a section on the "Ghost" mass concept. 
+
+ ABSTRACT 
+
+This paper shows how the 2.587 GeV graviton discussed in the first issue of Speculations in Science and Technology accounts for a supergraviton state of 95.18 GeV. This suggests a pairing of the 2.587 GeV graviton with the 92.6+/-1.7 GeV Z o boson in a resonant response in certain molecular systems. Technological implications are discussed with emphasis on the 'warm' superconductor phenomenon found in perovskite compositions having molecular mass-energies that are integral multiples of 95.18 GeV. 
+
+ INTRODUCTION 
+
+It is not generally realized how close we may be to achieving a technological advance which depends upon the fundamental quantum features of the gravitational interaction. The 'warm' superconductors may well depend upon phonon effects which reveal a resonance with the graviton field.
+
+ THE GRAVITON 
+
+The notion of the 'graviton' as a fundamental quantum field condition which mediates in the gravitational interaction of matter is not, as yet, well developed. However, in 1978, I referred to a graviton resonance at 2.587 GeV. This arose from a theory of gravitation in which matter, sharing a jitter motion with other matter (Zitterbewegung) at the Compton electron frequency, was kept in dynamic balance by a graviton system. The graviton field has a kind of "ghost" mass matching that of local matter, but the graviton mass was seen as quantized in units of 2.587 GeV c -2 .
+
+The gravitational interaction is formulated in terms of the electric charge quanta displaced by the presence of the gravitons. It is an electrodynamic interaction effective owing to the concerted jitter motion of the gravitons relative to the frame in which matter, which we see as at rest, is seated. The crucial gravitational relationship is that based on equation (6) of reference [1]. This specifies a volume to energy ratio governed by the graviton quantum. The magnitude of this ratio is 6(pi) times (r 4 /e 2 ), where r is the characteristic radius of a sphere bounding the electric charge e, according to the formula:
+
+ gmc 2 = 2e 2 /3r ................. (1) 
+
+Here g is the energy of the graviton in units of electron rest mass energy mc 2 .
+
+Writing V/E as the constant of the basic gravitational state, determining G, this really amounts to 3 times the volume to mass-energy ratio of the 2.587 GeV graviton. The G formula in terms of the electron charge/mass ratio e/m is:
+
+ G 1/2 = 4(pi)(e/m)[108(pi)] 3 [g] 4 ............ (2) 
+
+where g is the ratio of 2.587 GeV to the electron rest mass energy 0.511 MeV. The 108(pi) term has physical meaning as the ratio, with respect to the charge radius of the Thomson or Abraham electron, of the cube dimension of a vacuum cell in which a leptonic muon pair represents the active equilibrium field. This 108(pi) is derived theoretically from the dynamical response of the disturbed vacuum in setting up Planck's quantum of action.
+
+ THE TAU LEPTON 
+
+The G formula (2) dates from 1966 [2] when the author first presented the evidence showing how the 2.587 GeV quantum could be explained from first principles and supported this with empirical evidence of meson decay. So many different meson states reveal a connection with the 2.587 GeV quantum, that the author had no doubt as to its fundamental significance.
+
+For example, in 1966 Krisch [3], several years before the psi particle era, announced the discovery of a particle resonance of 3.245 GeV that was surprisingly long-lived, bearing in mind that this was the largest fundamental particle discovered to that time. It was produced by proton collision in the presence of a pion background.
+
+The author later noted [4] that if a proton was really capturing the energy of a graviton and releasing a pion pair, the graviton energy would be 3.245 GeV less the proton mass energy 938 MeV plus the energy 279 MeV of the two pions. This gives approximately 2.586 GeV for the graviton mass energy.
+
+More recently, the author has realized that the tau lepton (mass t in electron units) is active in the gravitational interaction. By the principles of charge interaction stability discussed in reference [l], it requires a minimum of three charges to group in a cluster to assure quasi stability of a charged system with their total charge volumes conserved and their total energy conserved, given an ongoing fluctuation in their exchanges.
+
+This led the author to conceive that a pair of tau leptons might group with a graviton. The idea concerned quantum gravitation in the sense that the group as a whole would satisfy the gravitational demand set by the V/E ratio. As shown in reference [5], this idea was formulated as the equation:
+
+ (g/t) 3 - 3(t/g) - 1 = 0 .............. (3) 
+
+It may be verified that this has the solution:
+
+ g = 1.452627t .............. (4) 
+
+Then, with g as 2.587 GeV in energy terms, t becomes 1.781 GeV, which is in good accord with the measured 1.783+/-0.003 GeV.
+
+From this, I saw that the 2.587 GeV graviton was not alone in mediating in providing the gravitational interaction between matter. The tau leptons had a role in this same activity.
+
+ THE SUPERGRAVITON 
+
+The advance reported in this paper concerns the graviton dynamics in matter containing heavy atoms and their concentration in large molecular systems. If the graviton mass is of the order of 100 GeV c -2 , it is better able to serve in its dynamic balance role when in juxtaposition with jitter oscillations of atoms containing 100 or so nucleons. The question, however, is whether such a supergraviton state can occur naturally and whether there is any special evidence of its dynamic interaction effects, apart from the possible gravitational property.
+
+The tau lepton was imagined to decay by ejecting a pair of muons, it being noticed that this would leave just enough energy to create a pair of mesons of rest-mass energy 0.785 GeV. To conserve charge parity this would need to involve pairs of tau leptons of opposite polarity, meaning that if the muons are absorbed into the field background, four 785 MeV mesons would appear together. Omega(783) is identified as the relevant particle.
+
+Given that four such mesons have been created in the presence of the 2.587 GeV gravitons, there is then purpose in asking how the gravitational V/E ratio is conserved.
+
+First, regarding this ratio as a governing condition, regulating how energy is deployed in the "ghost" world of the quantum-gravitons, it was of interest to take the four 785 MeV omega meson group and imagine that one was compacted to store energy in just the amount that would combine with the residual group to assure the overall gravitational V/E ratio.
+
+This fourth compacted meson would need to accept so much energy that its volume, being inversely proportional to energy cubed, would be negligible compared with that of the three omega mesons. Thus, the total energy of the whole system of four charged particles, which collectively form a neutral group, has to be that of (g/w) 3 times 2.587 GeV or 92.59 GeV. Note that we use the symbol w to denote the omega meson just as we used t for the tau lepton mass and g for the graviton mass. This then means that there ought to be a natural neutral resonance state that can be excited at 92.59 GeV. It so happens that the neutral Z boson satisfies this requirement exactly. Its mean measured mass is listed as 92.6+/-1.7 GeV c -2 .
+
+Second, looking for some participation of the basic graviton action in this higher mass state, we now contemplate the effect of having the primary energy nucleated by a charge in close association with, but separated from, each w meson when the latter is neutralized by its coupled association with a 2.587 GeV graviton.
+
+The first consequence of this is that, according to the energy equation of equation (2) in reference [1], each w:g pair will have an energy given by:
+
+ w + g - 3wg/2(w+g) ............. (5) 
+
+which is 2.469 GeV but, if the (w:g) pair is at minimum energy owing to decay of w to a lower value with g held at 2.587 Gev, the energy becomes 2.456 GeV. Note then that Prentice [6], in reviewing particle resonance data for lifetimes matching those close to the tau lepton, comments on the exceptionally stable neutral resonance at 2.459 GeV in conjunction with charged resonances at 2.583+/-0.026 GeV.
+
+The second consequence of this is that the group then formed will have, according to the V/E condition, a total energy of 92.59 GeV plus 2.587 GeV or 95.18 GeV. This could be a candidate for the supergraviton state, because its net charge will assure its participation in the electrodynamic actions of its motion with the normal graviton group background. Note that the normal 'free space' graviton group discussed in reference [5] comprises a 2.587 GeV graviton and two tau leptons having charges opposite to that of the graviton. Hence the supergraviton group is presumably charged as well. Note that such groups will exist in either net polarity form, ensuring that overall the graviton system is electrically neutral.
+
+Such a graviton system should be in evidence via the dynamic resonance with heavy atoms or molecular groups in matter. This suggests a resonant interaction where mass concentrations in multiples of 102 atomic mass units are present. Now, this may seem to be pure speculation, but it shows promise once we address a technological issue, because it causes one to think in terms of phonons and their effects on the properties of superconductors.
+
+ SUPERCONDUCTIVITY 
+
+Imagine electrons colliding with atoms in their migration through a conductor. They will tend to collide most often with positive atoms moving in the opposite direction. The effect of this is that some of the kinetic energy of such atoms will tend to transfer into the back EMFs that accompany the arrest of the electron. These EMFs power the emission of electrons from other atoms so as to sustain the current flow via the inductive action. Such electrons are released in greater numbers by atoms moving in the electron direction. Therefore, again, some of the kinetic energy of the atom can find its way into the energy of the ordered electron motion.
+
+In short, there is reason to think that thermal energy associated with the disordered motion of atoms might find its way into the ordered electron motion. This would lead to superconductive conditions if the photon losses are less than the energy transferred in this way. Now, there is less chance of loss of energy if the collisions involve atoms that are dynamically balanced by a coupling with a "ghost" that moves about the same centre of jitter. The reason is that, otherwise, the couplings between adjacent atoms and molecular groups are strained. An atom is then less likely to conserve energy so as to help electrons on their way when released as carriers of the sustained current flow.
+With this in mind, it is of interest to note the following nucleon quantities, which apply to the molecular composition of 'warm' superconductors.
+
+ EuBa 2 Cu 3 0 6 ........number of nucleons 711 
+ La 2 Cu0 4 ........number of nucleons 405 
+ Sr 2 Cu0 4 ........number of nucleons 303 
+
+These show a common characteristic in being near multiples of 101 or 102 nucleons.
+
+A generic formula for a 'warm' superconductor has been suggested comprising a rare earth atom, two barium atoms, three copper atoms and just below a mean of seven oxygen atoms. Note that Ba at 137 and Cu at 63 or 65 nucleons combine to give 2(100) or 2(101). Also the six to seven oxygen atoms combine to add a unit of approximately 102 nucleons.
+It is not suggested that the proximity to the 102 nucleon mass state is a sufficient requirement for superconductivity. The structural properties of the molecule and the strength of the bond between adjacent molecules must also be governing factors. Also, the particular composition and stratification of the crystal form are undoubtedly factors as well. However, it is interesting to see that there is, for several of the so-called 'warm' superconductors, this curious numerical nucleon property.
+
+It may seem too remote a relationship to warrant connection with the phenomenon of gravitation, but there does, appear to be an underlying connection with fundamental particle states.
+
+ THE GRAVITATIONAL CONDITION 
+
+The theory developed above relies on a fixed particle volume to energy ratio of any "ghost" mass in order to ensure that G is universally constant. This implies a theory in which the space occupied by particles collectively is conserved. It suggests reactions in which this condition has to be satisfied, along with energy conservation. This has an interesting implication for a charged particle when accelerated to relativistic speeds.
+
+Imagine a proton and an antiproton brought into collision at such high speeds that their individual energies are sufficient to reach a threshold at which their initial rest volumes become divided amongst several identical-mass charge centres by pair creation. Thus, if E is the rest-mass energy of the proton and V its volume, a division in N identical particles, with N odd, will require that each particle occupies V/N at the relativistic threshold speed. Each such particle will have an energy that is E times V/N raised to the power of one-third, because energy is inversely proportional to the linear dimension involved. It follows that the proton-antiproton collision will have a combined energy W of:
+
+ W = 2(N) 4/3 E ............... (6) 
+
+It is then of interest to note that, with N having progressive odd integer values, a series of threshold energy levels can be calculated from equation (6). With E as 938.3, W in GeV becomes: 8.1, 16.04, 25.13, 35.15, 45.91, 57.36, 69.42, 82.03, 95.14...
+
+It is perhaps fortuitous that this range of values includes one that is very close to the 95.18 GeV state that was seen as the supergraviton. It is perhaps equally fortuitous that collisions between protons and antiprotons at the right energy level were productive of the W boson at a listed mean value of 81.8+/-1.5 GeV, which compares with the 82.03 value in the above calculated series. On the other hand, it would be interesting to know if the whole spectrum of particles just deduced is created in such collisions.
+
+There might well be a case for saying that space is 'rational' in Nature as between quantized charge and a non-quantized continuum, in that it cannot be created and must be shared by any concentrated energy form. Space occupied by energy in the form of the quantum units of electron charge e is, it would seem, a quantity that is conserved universally and locally in particle creation and decay processes. This is also a factor which bears upon the stability of charge.
+
+One might also ask whether the heavy bosons might break up into discrete quanta by a reversal of what has just been described. This may well occur. Indeed, the Japanese H-quantum study of cosmic ray 'fireballs' in the 1970s gave experimental evidence of H-quanta at around 2.5 or 2.6 GeV [9]. Had we used the 2.587 GeV graviton as a resonance determining this as a base quantum in equation (6), instead of the proton, note that the series for W would include .... 32.85, 44.23, 56.41, 69.28, 82.78, 96.86.. GeV. This is remarkably similar to that presented above. For the proton-antiproton collision N is one greater than 2N for the near-correspondence with the energy levels of the H-quantum fireball.
+
+In conclusion, one has reason to wonder whether the superconductive properties of certain materials will ultimately lead us to the 'supergraviton' as a particle in the "ghost" mass environment having a mass related to that of the neutral Z boson. The deliberate synthesis of superconductive substances satisfying the resonance discussed in this paper is the subject of a patent application filed by the author in 1987 [10].
+
+ APPENDIX 
+
+ [This note was added in July 1989 when the paper was in proof form] 
+
+Since the submission of this paper and the subsequent reports of the discovery of 'cold fusion' by Fleischmann of the University of Southampton and Pons of the University of Utah [11] it has become evident that the supergraviton theory of the above paper is very relevant to this new technological advance.
+
+Note that these fusion experiments involve the entry of light atoms (deuterium) into the body of an electrode composed of heavy atoms (palladium). The graviton inflow has to adjust to supergraviton form, because palladium has an atomic mass in excess of 102 amu (atomic mass units).
+
+As noted above, the normal 'free space' graviton group, which also applies to deuterium gas or heavy water, comprises a 2.587 GeV graviton plus two tau leptons, each of 1.781 GeV. The basic graviton cluster form has an energy of 6.149 GeV, a mass equivalent of 6.60 amu. The supergraviton form of energy 95.18 GeV has a mass equivalent of 102.18 amu. Imagine an atom of mass A amu, somewhat greater than the supergraviton mass. It will have dynamic balance with its own dedicated supergraviton and just enough of a transient association with a supergraviton shared with other atoms so as to assure perfect balance. For optimum resonance, which allows the state to survive longer in an independent mode, the atom should be in near perfect balance with its own graviton systems.
+
+Now suppose that a light atom of mass M amu can enter into molecular association with the heavy atom, bringing with it its graviton cluster. Indeed, for generality, suppose that n such light atoms form a union with the heavy atom. Then, the graviton resonance has to be such that:
+
+ A + nM = 102.18 + 6.60 ................ (7) 
+
+where nM is necessarily less than 6.60. If enough such resonant atoms can survive long enough to act in a concerted decay adjustment as the graviton clusters transform in supergraviton states, then conceivably there is sufficient transient energy involved in the background field fluctuation for fusion of the n light atoms to occur. Note that 31 graviton clusters will develop two supergravitons and shed more than I MeV per atomic mass unit of the light atoms involved. This energy is in transit to the equilibrium background state, but 4 MeV can suffice to trigger the fusion of two deuterons en route. For two atoms in the same molecular unit to undergo fusion n must be 2. Note also that the substance of atomic mass A must be inherently capable of absorbing and becoming densely populated by the light atoms. In applying equation (7) it should also be noted that A relates to the atomic mass of the isotope and this is about 0.1 mass units lower than the nominal isotope value.
+
+Ignoring fusion of hybrid combinations of light atoms, the only possible nuclear reactions involving catalyst A in the graviton-supergraviton transition are:
+
+ M = 1 (hydrogen) A = 106.78: only silver has the 107 isotope 
+ M = 2 (deuterium) A = 104.78: only palladium has the 105 isotope 
+ M = 3 (tritium) A = 102.78: only rhodium has the 103 isotope 
+
+The technological conclusion to be drawn from this simple analysis is that the supergraviton is involved in the Fleischmann and Pons discovery and that the fusion activity might well be enhanced if the palladium electrode used with deuterium electrolysis is enriched by the isotope 105. The 'cold fusion' catalytic stimulus of supergraviton resonance is further discussed in the author's UK Patent application [12].
+
+ REFERENCES 
+1. Aspden, H., Specul. Sci. Technol. , v. 1, p. 59 (1978). 
+2. Aspden, H., The Theory of Gravitation , p.80. Sabberton, P.O. Box 35, Southampton (1966). 
+3. Krisch, A.D., Phys. Rev. Lett. , v. 16, p. 709 (1966). 
+4. Aspden, H., Physics without Einstein , p. 120. Sabberton, P.O. Box 35. Southampton (1969). 
+5. Aspden, H., Hadronic Journal , v. 9, p. 153 (1986). 
+6. Prentice, J.D., Phys. Rep. , v. 83, p. 102 (1982). 
+7. Aspden, H., Toth-Maatian Review , p.3165 (1987) 
+8. Aspden, H., Electronics and Wireless World , v. 95, p. 29 (January 1989) 
+9. Taketani, M., Suppl. Progr. Theor. Phys. , v. 54. p. 1, (1973) 
+10. Aspden, H., Superconducting Substances . UK. Patent Application No.8,723,881 (12 October 1987) 
+11. Editorial on 'Solid State Fusion', Physics World , V. 2, No. 5. p. 15 (1989) 
+12. Aspden, H., Electrically Controlled Ion Fusion , UK Patent Application No. 8,908,571 (15 April, 1989)
+
+ End of paper 
+ ***** 
+
+ NOTE 
+
+Concerning the mass-energy of the neutral Z boson indicated by the theory in the above paper, the assumption there was that the neutral energy quantum of 92.59 GeV was that assumed by that very important heavy boson. However, this energy was that of a cluster of four particles, including three mesons each of 785 meV. Now it is possible for that cluster to remain intact as it absorbs that 2.587 GeV graviton to develop the supergraviton complex, which it does by pooling its energy to generate an antiparticle graviton pair, thereby forming the seven unit supergraviton cluster of energy 95.18 GeV comprising three 785 MeV virtual particles plus three 2.587 GeV virtual particles and one very heavy residual virtual particle. However, there is the chance of a decay of the antiparticle in the three meson cluster before the supergraviton can form by being joined by a graviton. In that case the neutral residue comprises only two particles having a combined energy of 92.59 GeV less twice 785 MeV, which is 91.02 Gev.
+
+I see this as being one way in which Nature reveals to us that neutral Z boson that is very important in the world of high energy particle physics. However, it is hardly likely that the particle physics community will pay attention to my findings, and, indeed, I can reveal to you some more evidence of the disdain shown towards my work by that community as I disclose more about the neutral Z boson in Essay No. 4. I have, therefore, been obliged to conclude my efforts as an intruder into the high energy domain of the particle world, by saying that onward confirmation of this theory will come more directly from the experimental support that points to the 'supergraviton' and I will aim to advance that theme more in my further contributions to these Web pages, beginning with Essay No. 5. 
+
+ To see Essay No. 4 or Essay No. 5, press: 
+ ESSAY NO. 4 
+ ESSAY NO. 5

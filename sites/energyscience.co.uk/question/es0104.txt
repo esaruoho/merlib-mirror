@@ -1,0 +1,35 @@
+QUESTION NO. 4 
+
+ THE FOURTH QUESTION 
+ Who thinks the Michelson-Morley Experiment proves there is no Aether? 
+ Copyright &copy; 1998 Harold Aspden 
+
+ Introduction 
+Are you one of those physicists who are naive enough to think that the Michelson-Morley experiment proved the non-existence of the aether? Are you perhaps a student who seeks to learn the truth as to whether or not there is an aether and are puzzled by what your professor teaches concerning Einstein's theory? 
+
+Yes, I too have a physics textbook which describes the Michelson-Morley experiment and says that: 
+ "the null result of the Michelson-Morley experiment could be explained by assuming that at the time of the experiment the earth was stationary with respect to the aether." 
+That book goes on to explain why this cannot be, because the experiment has been repeated at different times with the same result and body Earth has moved meanwhile through that aether, the aether being 'seen' as a stationary medium. 
+
+Does it not puzzle you that expressions such as 'could be' and 'assuming', not to mention how anyone knows that the aether is 'stationary' leave one wondering what it is that physicists do know about this subject? 
+
+Has your professor explained to you that Michelson, for many years, indeed decades, after performing the experiment continued to believe in the existence of the aether and eventually detected rotation relative to that aether using a modified version of his apparatus? Now why would Michelson himself not have been convinced as to the verdict on the non-existence of the aether pronounced by his own experiment? 
+
+So here is my main question. The Michelson-Morley experiment dates from the period (1881-1887), some few years before Wiener's discovery in 1890 that there are such things as stationary waves set up when light waves are reflected from a mirror surface. Michelson could not have known that his apparatus would 'drag' those stationary waves and so their energy content along with the apparatus and that that energy must necessarily share the motion of the apparatus through the aether. Had he known, would he still have performed the experiment, knowing that it would give a null result anyway? 
+
+Ask you professor what he or she thinks about that. To make the question a little more challenging ask your professor if there are mirrors which reflect light forward and backwards in a laser, again involving stationary waves, and why it is that lasers are relied upon as a modern means for verifying the Michelson-Morley null result to a very high degree of precision. Surely if one traps oscillatory waves in an enclosure and knows for certain that there are electric vector wave nodes locked to the mirror surface, as your physics professor should well know, then the energy of those waves is obliged to share that laser's motion through space. 
+
+Who has told you, first, that light moving through empty space travels at a constant and universal speed, c, relative to an absolute frame of reference and then, by a change of mind, said "No, that is impossible owing to Einstein's theory and the findings of the Michelson-Morley experiment, so you must believe that the speed of light you see is referenced on you, the observer?" 
+
+Why, Oh why, do you not see the 'light' everytime you look at the digital LED liquid crystal display of a pocket calculator? Imagine you were to be well and truly immersed in the fluid medium of that display and you were to travel along with it through space. Do you think the glowing digits of the display would not be able to keep pace and share your motion? They would move with the electric fields set up by the electrode structure of the display, just as those stationary waves mentioned above move with the mirror. So, who says that the aether cannot exist as a kind of fluid crystal medium, having structure that can adapt to electric fields of mobile material bodies and have its 'structure' share that motion whilst its own 'substance' as such does not share that translational motion? 
+
+Your professor may not have told you that when there was belief in the existence of a real aether, physicists had problems in determining whether it was a kind of subtle solid or a true fluid, because its wave propagation properties to satisfy Maxwell's equations demand some kind of rigidity in its form. Once the fluid crystal was discovered it should have been seen that this dilemma could be overcome. One is then left with scope for exploring that 'structure' and, as I then discovered, connecting that structure with the interpretation of the way in which Nature determines the fine-structure constant. That is the regulating vacuum quantity that underlies Planck's constant and quantum theory. 
+
+So Einstein avoided the aether by his notions about four-space and time distortion, but was lost when confronted with quantum theory and those who believe in the mathematical, as opposed to the physical, attributes of quantum theory think they can get by without worrying about the aether and the Michelson-Morley problem. 
+
+Such is your world. My world offers the vista of a sea of energy filling space as a real aether medium and all I can say to you, if you are a student, is to suggest you ask those awkward questions and do not be satisfied with platitudes in response. If your professor says there is other evidence, then what is that evidence? If the argument takes you into the world of electrodynamics then the jungle there is even more dense owing to misinterpretation of experimental findings. For example, physicists perform experiments using electron closed circuit currents and then make the mistake of assuming that the force laws they devise apply to currents not carried by electrons. Mathematicians involved with the Theory of Relativity are more devious. They transform equations and can make something move with a steady velocity without saying it is a flow in a 'closed circuit'. An electron can be at rest and can be said to move relative to a frame of reference if that frame of reference moves past it, but then every part of that frame extending to infinity is moving as well and, in my language, that 'closes' the circuit. Such discussion opens debate concerning the Neumann potential and the link between electromagnetism and gravitation, but that is something I have discussed elsewhere in the Tutorial section of these Web pages. 
+
+I conclude by stressing that one does not need to get into arguments about Einstein's theory, given that the foundations on which it has been built, or at least the platform from which it is taught, shifted and became insecure in view of those stationary waves set up in the Michelson-Morley experiment. For some reason, possibly connected with the way a believer in Relativity thinks, those who preach the gospel of Relativity do not seem to know that their platform collapsed once Wiener discovered the properties of stationary waves. 
+
+May 20, 1998 
+ h.aspden@physics.org

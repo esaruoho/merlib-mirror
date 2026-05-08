@@ -1,0 +1,186 @@
+[2026-05-08 09:06:19] ============================================================
+[2026-05-08 09:06:19] WAYBACK MIRROR: energyscience.co.uk
+[2026-05-08 09:06:19] Output: /Users/esaruoho/work/merlib-mirror/sites/energyscience.co.uk
+[2026-05-08 09:06:19] Delay: 1.0s
+[2026-05-08 09:06:19] ============================================================
+[2026-05-08 09:06:19] Resuming: phase=init, 0 already done
+[2026-05-08 09:06:19] 
+=== PHASE 1: URL Discovery ===
+[2026-05-08 09:06:19] Querying CDX for energyscience.co.uk/*...
+[2026-05-08 09:07:37]   CDX query failed for energyscience.co.uk/*
+[2026-05-08 09:07:37] Querying CDX for www.energyscience.co.uk/*...
+[2026-05-08 09:08:11]   Found 762 URLs for www.energyscience.co.uk/*
+[2026-05-08 09:09:14] Total unique valid URLs: 755
+[2026-05-08 09:09:14]   text/html: 526
+[2026-05-08 09:09:14]   im: 124
+[2026-05-08 09:09:14]   image/gif: 82
+[2026-05-08 09:09:14]   text/css: 7
+[2026-05-08 09:09:14]   application/javascript: 4
+[2026-05-08 09:09:14]   image/png: 3
+[2026-05-08 09:09:14]   application/pdf: 3
+[2026-05-08 09:09:14]   text/xml: 3
+[2026-05-08 09:09:14]   image/jpeg: 2
+[2026-05-08 09:09:14]   image/x-icon: 1
+[2026-05-08 09:09:14] 
+=== PHASE 2: Downloading ===
+[2026-05-08 09:10:07] [10/755] OK 2000/ES2006.html (14,259b) @20010221
+[2026-05-08 09:13:44] [20/755] OK as/00an.htm (3,902b) @19990505
+[2026-05-08 09:14:51] [30/755] OK as/4147.htm (23,122b) @19990506
+[2026-05-08 09:17:52] [40/755] OK as/epsilon.gif (843b) @20001002
+[2026-05-08 09:20:02] [50/755] OK as/tau.gif (827b) @20000929
+[2026-05-08 09:20:04] --- Progress: 50/755 (6%) | New: 50 | Rate: 5/min ---
+[2026-05-08 09:23:20] [60/755] OK bib/1957a.htm (2,239b) @19991008
+[2026-05-08 09:25:33] [68/755] FAIL http://www.energyscience.co.uk:80/bib/1965a.htm
+[2026-05-08 09:26:00] [71/755] OK bib/1966b.htm (2,393b) @19991009
+[2026-05-08 09:29:44] [77/755] FAIL http://www.energyscience.co.uk:80/bib/1971a.htm
+[2026-05-08 09:30:25] [82/755] OK bib/1975b.htm (562b) @19991009
+[2026-05-08 09:32:42] [92/755] OK bib/1978d.htm (828b) @19991010
+[2026-05-08 09:35:45] --- Progress: 100/755 (13%) | New: 98 | Rate: 4/min ---
+[2026-05-08 09:37:03] [102/755] OK bib/1981c.htm (1,886b) @19991012
+[2026-05-08 09:38:03] [112/755] OK bib/1982h.htm (674b) @19991012
+[2026-05-08 09:41:15] [122/755] OK bib/1983j.htm (1,456b) @19991013
+[2026-05-08 09:43:49] [127/755] FAIL http://www.energyscience.co.uk:80/bib/1984d.htm
+[2026-05-08 09:48:00] [129/755] FAIL http://www.energyscience.co.uk:80/bib/1984f.htm
+[2026-05-08 09:50:06] [130/755] FAIL http://www.energyscience.co.uk:80/bib/1985a.htm
+[2026-05-08 09:52:37] [135/755] OK bib/1985f.htm (2,228b) @19991022
+[2026-05-08 09:53:25] [145/755] OK bib/1986f.htm (1,878b) @19991023
+[2026-05-08 09:54:07] --- Progress: 150/755 (19%) | New: 145 | Rate: 3/min ---
+[2026-05-08 09:54:58] [155/755] OK bib/1987e.htm (610b) @19991023
+[2026-05-08 09:57:47] [165/755] OK bib/1988a.htm (1,770b) @19991001
+[2026-05-08 10:02:16] [172/755] FAIL http://www.energyscience.co.uk:80/bib/1989a.htm
+[2026-05-08 10:05:48] [173/755] FAIL http://www.energyscience.co.uk:80/bib/1989b.htm
+[2026-05-08 10:06:21] [177/755] OK bib/1989f.htm (3,029b) @19991002
+[2026-05-08 10:09:02] [187/755] OK bib/1991b.htm (1,112b) @19991002
+[2026-05-08 10:09:58] [197/755] OK bib/1993b.gif (15,856b) @20000427
+[2026-05-08 10:10:52] --- Progress: 200/755 (26%) | New: 193 | Rate: 3/min ---
+[2026-05-08 10:11:36] [207/755] OK bib/1994e.htm (1,760b) @20030818
+[2026-05-08 10:15:06] [217/755] OK bib/1996a.htm (894b) @20220428
+[2026-05-08 10:17:13] [227/755] OK bib/2002a.htm (2,123b) @20021224
+[2026-05-08 10:19:00] [237/755] OK category.php__subcat%3D130300%26Keywords%3DScientific%2520Research (22,382b) @20211028
+[2026-05-08 10:21:48] [242/755] FAIL https://www.energyscience.co.uk/energysciencecont/cache/wpfc-minified/
+[2026-05-08 10:23:27] [243/755] FAIL https://www.energyscience.co.uk/energysciencecont/cache/wpfc-minified/
+[2026-05-08 10:26:22] [244/755] FAIL https://www.energyscience.co.uk/energysciencesd/css/buttons.min.css
+[2026-05-08 10:27:05] [245/755] FAIL https://www.energyscience.co.uk/energysciencesd/css/dashicons.min.css
+[2026-05-08 10:29:41] [246/755] FAIL https://www.energyscience.co.uk/energysciencesd/js/jquery/jquery-migra
+[2026-05-08 10:30:30] [247/755] FAIL https://www.energyscience.co.uk/energysciencesd/js/jquery/jquery.js
+[2026-05-08 10:31:37] [248/755] FAIL https://www.energyscience.co.uk/energysciencesd/js/underscore.min.js
+[2026-05-08 10:32:06] --- Progress: 250/755 (33%) | New: 236 | Rate: 3/min ---
+[2026-05-08 10:32:30] [254/755] OK essays/0010.gif (3,879b) @20040304
+[2026-05-08 10:36:03] [264/755] OK essays/0045.gif (1,247b) @20000819
+[2026-05-08 10:37:30] [274/755] OK essays/0310.gif (6,870b) @20000509
+[2026-05-08 10:39:51] [284/755] OK essays/ese06a.htm (18,365b) @20010228
+[2026-05-08 10:43:42] [294/755] OK essays/ese08a5.htm (4,195b) @20010228
+[2026-05-08 10:45:13] --- Progress: 300/755 (39%) | New: 286 | Rate: 3/min ---
+[2026-05-08 10:45:48] [304/755] OK essays/essays.htm (4,092b) @19990221
+[2026-05-08 10:47:16] [314/755] OK feedback/fn08.html (22,580b) @20010414
+[2026-05-08 10:50:15] [324/755] OK g/g831.gif (3,104b) @20040113
+[2026-05-08 10:51:23] [334/755] OK g/g975.gif (2,048b) @20010604
+[2026-05-08 10:53:33] [344/755] OK g/g988.gif (903b) @20220428
+[2026-05-08 10:54:04] --- Progress: 350/755 (46%) | New: 336 | Rate: 3/min ---
+[2026-05-08 10:56:58] [354/755] OK gieskieng.htm (11,832b) @19991006
+[2026-05-08 10:57:53] [364/755] OK images/home9-compact-grey_06.gif (792b) @20070623
+[2026-05-08 11:01:10] [367/755] FAIL http://energyscience.co.uk:80/images/spacer.gif
+[2026-05-08 11:02:34] [375/755] FAIL http://energyscience.co.uk:80/includes/stylesheet.css
+[2026-05-08 11:02:38] [376/755] OK index.html (2,821b) @19990221
+[2026-05-08 11:05:02] [386/755] OK index.php__Keywords%3Dbroadband%26xargs%3D12KPjg1ppSoYGmmvmnAfSZH6eXwF (54,068b) @20060618
+[2026-05-08 11:07:22] [396/755] OK index.php__Keywords%3Dfinancial%2520services%26xargs%3D12KPjg1ppSoYGmm (54,512b) @20060718
+[2026-05-08 11:07:50] --- Progress: 400/755 (52%) | New: 384 | Rate: 3/min ---
+[2026-05-08 11:09:52] [406/755] OK index.php__Keywords%3Dgamble%2520online%26xargs%3D12KPjg1tdSroe9mvinAf (55,109b) @20060618
+[2026-05-08 11:13:08] [416/755] OK index.php__Keywords%3Dinvesting%26xargs%3D12KPjg1ppSoYGmmvmnAfSZH6eXwF (59,356b) @20061016
+[2026-05-08 11:14:29] [426/755] OK index.php__Keywords%3Dmortgage%26xargs%3D12KPjg1ppSoYGmmvmnAfSZH6eXwFs (55,266b) @20060819
+[2026-05-08 11:16:51] [436/755] OK keynote1.htm (20,529b) @19990221
+[2026-05-08 11:16:59]   Renamed conflicting file: /Users/esaruoho/work/merlib-mirror/sites/energyscience.co.uk/keynote1.htm -> /Users/esaruoho/work/merlib-mirror/sites/energyscience.co.uk/keynote1.htm.html
+[2026-05-08 11:19:22] [446/755] OK le/0057.gif (1,327b) @20000504
+[2026-05-08 11:19:46] --- Progress: 450/755 (59%) | New: 434 | Rate: 3/min ---
+[2026-05-08 11:20:39] [456/755] OK le/0166.gif (3,436b) @20000827
+[2026-05-08 11:22:49] [466/755] OK le/0182.gif (10,296b) @20000826
+[2026-05-08 11:26:13] [475/755] FAIL http://www.energyscience.co.uk:80/le/cfindex.htm
+[2026-05-08 11:26:28] [477/755] OK le/esc11.gif (3,071b) @20030329
+[2026-05-08 11:28:19] [478/755] FAIL http://www.energyscience.co.uk:80/le/esc12.gif
+[2026-05-08 11:30:09] [488/755] OK le/ether5.gif (1,274b) @20000428
+[2026-05-08 11:34:01] [498/755] OK le/le03.htm (16,621b) @19991006
+[2026-05-08 11:34:17] --- Progress: 500/755 (66%) | New: 482 | Rate: 3/min ---
+[2026-05-08 11:37:57] [508/755] OK le/le07add.htm (20,347b) @19991007
+[2026-05-08 11:38:10]   Renamed conflicting file: /Users/esaruoho/work/merlib-mirror/sites/energyscience.co.uk/le/le09.htm -> /Users/esaruoho/work/merlib-mirror/sites/energyscience.co.uk/le/le09.htm.html
+[2026-05-08 11:38:28]   Renamed conflicting file: /Users/esaruoho/work/merlib-mirror/sites/energyscience.co.uk/le/le10app.htm -> /Users/esaruoho/work/merlib-mirror/sites/energyscience.co.uk/le/le10app.htm.html
+[2026-05-08 11:39:18] [518/755] OK le/le14.htm (14,935b) @19991007
+[2026-05-08 11:42:00] [523/755] FAIL http://www.energyscience.co.uk:80/le/le19.htm
+[2026-05-08 11:42:41] [529/755] OK le/le25.htm (47,494b) @19990508
+[2026-05-08 11:43:56]   Renamed conflicting file: /Users/esaruoho/work/merlib-mirror/sites/energyscience.co.uk/le/le25.htm -> /Users/esaruoho/work/merlib-mirror/sites/energyscience.co.uk/le/le25.htm.html
+[2026-05-08 11:44:59] [539/755] OK le/Le29/le29.html (27,670b) @20020821
+[2026-05-08 11:47:02] [545/755] FAIL http://www.energyscience.co.uk:80/le/update.html
+[2026-05-08 11:48:20]   Renamed conflicting file: /Users/esaruoho/work/merlib-mirror/sites/energyscience.co.uk/lectures.htm -> /Users/esaruoho/work/merlib-mirror/sites/energyscience.co.uk/lectures.htm.html
+[2026-05-08 11:50:57] [549/755] FAIL http://www.energyscience.co.uk:80/log/jserr.php
+[2026-05-08 11:51:04] --- Progress: 550/755 (72%) | New: 529 | Rate: 3/min ---
+[2026-05-08 11:51:55] [551/755] FAIL http://www.energyscience.co.uk/log/jserr.php?msg=Uncaught+ReferenceErr
+[2026-05-08 11:53:29] [552/755] FAIL http://www.energyscience.co.uk/log/jserr.php?msg=Uncaught+ReferenceErr
+[2026-05-08 11:53:35] [553/755] OK mailnote.htm (393b) @20030822
+[2026-05-08 11:56:52] [563/755] OK new/index.php__Keywords%3Dorganic%26xargs%3D12KPjg1upStYGmmvmnN%252DmZ (33,867b) @20070821
+[2026-05-08 11:58:23] [573/755] OK new/index.php__subcat%3D130100%26kid%3D%26Keywords%3DGeneral (33,586b) @20070817
+[2026-05-08 12:00:38] [583/755] OK new/index.html__C%3DN%3BO%3DD (677b) @20080121
+[2026-05-08 12:01:00]   Renamed conflicting file: /Users/esaruoho/work/merlib-mirror/sites/energyscience.co.uk/notes/m9712.htm -> /Users/esaruoho/work/merlib-mirror/sites/energyscience.co.uk/notes/m9712.htm.html
+[2026-05-08 12:03:06] [593/755] OK notes/rn9705.htm (14,102b) @19991008
+[2026-05-08 12:03:57] --- Progress: 600/755 (79%) | New: 577 | Rate: 3/min ---
+[2026-05-08 12:04:09]   Renamed conflicting file: /Users/esaruoho/work/merlib-mirror/sites/energyscience.co.uk/notes/rn9712.htm -> /Users/esaruoho/work/merlib-mirror/sites/energyscience.co.uk/notes/rn9712.htm.html
+[2026-05-08 12:04:18] [603/755] OK notes/rn9714.htm (26,648b) @20010425
+[2026-05-08 12:04:31]   Renamed conflicting file: /Users/esaruoho/work/merlib-mirror/sites/energyscience.co.uk/notes/rn9715.htm -> /Users/esaruoho/work/merlib-mirror/sites/energyscience.co.uk/notes/rn9715.htm.html
+[2026-05-08 12:06:49] [613/755] OK notes/rn9808.htm (33,313b) @20010222
+[2026-05-08 12:07:36]   Renamed conflicting file: /Users/esaruoho/work/merlib-mirror/sites/energyscience.co.uk/ov/ov002.htm -> /Users/esaruoho/work/merlib-mirror/sites/energyscience.co.uk/ov/ov002.htm.html
+[2026-05-08 12:08:20] [623/755] OK ov/ov005A.htm (374b) @19991010
+[2026-05-08 12:12:24] [632/755] FAIL http://www.energyscience.co.uk:80/part.php
+[2026-05-08 12:12:39] [634/755] OK ph/0036.gif (8,384b) @20010604
+[2026-05-08 12:15:21] [644/755] OK ph/ES200103.html (43,454b) @20010425
+[2026-05-08 12:15:46]   Renamed conflicting file: /Users/esaruoho/work/merlib-mirror/sites/energyscience.co.uk/ph/p002.htm -> /Users/esaruoho/work/merlib-mirror/sites/energyscience.co.uk/ph/p002.htm.html
+[2026-05-08 12:16:07] --- Progress: 650/755 (86%) | New: 626 | Rate: 3/min ---
+[2026-05-08 12:18:55] [652/755] FAIL http://www.energyscience.co.uk:80/ph/p006.html
+[2026-05-08 12:19:16] [655/755] OK ph/p008.html (368b) @20010425
+[2026-05-08 12:20:10]   Renamed conflicting file: /Users/esaruoho/work/merlib-mirror/sites/energyscience.co.uk/ph/pindex.htm -> /Users/esaruoho/work/merlib-mirror/sites/energyscience.co.uk/ph/pindex.htm.html
+[2026-05-08 12:21:05] [665/755] OK question/es0101.htm (17,569b) @19991010
+[2026-05-08 12:23:40] [675/755] OK Reports/ES8/ES8fig4.gif (16,841b) @20030427
+[2026-05-08 12:27:05] [684/755] FAIL http://energyscience.co.uk/search/fb.php?ses=14572577826562c00a2659a63
+[2026-05-08 12:27:57] [686/755] FAIL http://www.energyscience.co.uk/search/tsc.php?&ses=147632842559ca38362
+[2026-05-08 12:28:07] [687/755] OK search/tsc.php__%26ses%3D14900113294cac4579e4547b3a28a9d87a06295032%26 (9,347b) @20180813
+[2026-05-08 12:30:23] [691/755] FAIL http://energyscience.co.uk/search/tsc.php?&ses=1457257782ad4bbab23d766
+[2026-05-08 12:32:41] [693/755] FAIL http://www.energyscience.co.uk/search/tsc.php?&ses=1469828163833a78115
+[2026-05-08 12:33:21] [695/755] FAIL http://www.energyscience.co.uk/search/tsc.php?&ses=14789433321c75ba0e5
+[2026-05-08 12:34:12] [700/755] OK teindex.htm (4,615b) @19990224
+[2026-05-08 12:34:15] --- Progress: 700/755 (92%) | New: 670 | Rate: 3/min ---
+[2026-05-08 12:37:43] [710/755] OK tg/pr3.htm (22,721b) @20020528
+[2026-05-08 12:39:08] [720/755] OK tu/mu.gif (842b) @20000814
+[2026-05-08 12:41:13] [730/755] OK tu/tu05.htm (11,615b) @20000531
+[2026-05-08 12:41:50]   Renamed conflicting file: /Users/esaruoho/work/merlib-mirror/sites/energyscience.co.uk/tu/tu05.htm -> /Users/esaruoho/work/merlib-mirror/sites/energyscience.co.uk/tu/tu05.htm.html
+[2026-05-08 12:43:17]   Renamed conflicting file: /Users/esaruoho/work/merlib-mirror/sites/energyscience.co.uk/tu/tu10.htm -> /Users/esaruoho/work/merlib-mirror/sites/energyscience.co.uk/tu/tu10.htm.html
+[2026-05-08 12:43:24] [740/755] OK tu/tu11.htm (19,272b) @19991011
+[2026-05-08 12:44:54] [750/755] OK update.htm (2,157b) @19990224
+[2026-05-08 12:44:56] --- Progress: 750/755 (99%) | New: 720 | Rate: 3/min ---
+[2026-05-08 12:46:20] [753/755] FAIL https://www.energyscience.co.uk/wp-admin/css/forms.min.css
+[2026-05-08 12:47:19] [754/755] FAIL https://www.energyscience.co.uk/wp-admin/css/login.min.css
+[2026-05-08 12:47:32] 
+=== PHASE 3: Generating Index ===
+[2026-05-08 12:47:32] Generating index...
+[2026-05-08 12:47:32] Index: 1120 files
+[2026-05-08 12:47:32]   .txt: 398
+[2026-05-08 12:47:32]   .htm: 341
+[2026-05-08 12:47:32]   .gif: 204
+[2026-05-08 12:47:32]   .html: 45
+[2026-05-08 12:47:32]   .html__gtnjs%3d1: 14
+[2026-05-08 12:47:32]   .php: 4
+[2026-05-08 12:47:32]   .png: 3
+[2026-05-08 12:47:32]   .pdf: 3
+[2026-05-08 12:47:32]   .xml: 3
+[2026-05-08 12:47:32]   .jpg: 2
+[2026-05-08 12:47:32]   .php__subcat%3d130300%26keywords%3dscientific%2520research: 1
+[2026-05-08 12:47:32]   .php__%26ses%3d133799016453c8fb1972de0c03567d3219ed08e6e5%26200%3doda1otcwody%3d%2621%3dmtc0ljeyos4ymzcumtu3%26681%3dmtmznzk5mde2nduzyzhmyje5nzjkztbjmdm1njdkmzixowvkmdhlnmu1%26682%3d%266_a880f2bb43: 1
+[2026-05-08 12:47:32]   .js: 1
+[2026-05-08 12:47:32]   .ico: 1
+[2026-05-08 12:47:32]   .html__%2f%3fgtnjs%3d13379901642d9a522cf1770e7b9c2018baa9e19d06: 1
+[2026-05-08 12:47:32] 
+============================================================
+[2026-05-08 12:47:32] MIRROR COMPLETE
+[2026-05-08 12:47:32] Total URLs: 755
+[2026-05-08 12:47:32] Downloaded: 723
+[2026-05-08 12:47:32] Failed: 32
+[2026-05-08 12:47:32] Files: 1120
+[2026-05-08 12:47:32] ============================================================
+[2026-05-08 12:47:32] 
+Next step: fe-ingest.sh /Users/esaruoho/work/merlib-mirror/sites/energyscience.co.uk

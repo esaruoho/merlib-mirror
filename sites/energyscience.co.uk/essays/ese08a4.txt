@@ -1,0 +1,374 @@
+ESSAY NO. 8A: APPENDIX IV 
+
+ COLD FUSION: MT STORY: PART II 
+
+ APPENDIX IV 
+
+ Copyright &copy; Harold Aspden, 1998 
+
+ The following is the text supplementing an AMENDMENT communication to the U.S. Patent Office as my response, as patent applicant, to the Office Action of December 7, 1995. 
+
+ REMARKS 
+
+ The drastic restriction of claims, now reduced to three which are worded to describe the invention precisely as it is presented in detail in Fig. 1 and in pages 19 to 21 of the specification should overcome the examiner's objections as set out on pages 17 and 18 of his Office Action. 
+
+ At the end of this response applicant has listed the non-patent references cited by number to facilitate identification in the text below. 
+
+ Concerning the examiner's objections presented on pages 19 and 20 of his Office Action, the comments below distinguish applicant's invention from the specific circuit structures shown in the cited patents. The examiner argues that those citations can be combined with Tryzna et al (U.S. Patent 3,844,922, not included in the list below) to argue a prima facie case of obviousness that those various circuits could be modified to devise connections through the cathode which obtain the advantages of Tryzna et al. 
+
+ As the applicant explained on pages 12, 13 and 14 of his response to the Office Action dated 4/3/95, there is a clear structural and functional distinction between applicant's invention and Tryzna. The latter applies a small a.c. voltage potential to the cathode with the intention to activate the etching process by having a small a.c. current through the electrolyte superimposed upon the d.c. current through the electrolyte. There is no reason for it to occur to anyone looking at Tryzna side by side with one or other of the other patents cited to see them combine as teaching the assembly of an apparatus having provision for current throughput confined to the cathode proper at current levels one hundred times that otherwise flowing through the electrolyte. Given any teaching anywhere that there is purpose in such an arrangement it would not take prior circuit diagrams shown in patent literature to teach an electrical engineer how to connect up the circuit. The applicant submits that in the absence of a suggestion somewhere in the prior art that there is purpose in setting up a circuit providing such high relative current flow as a circulating current in the cathode of a liquid electrolyte cell then the invention implicit in the structure recited in new claims 47 and 48 is novel and quite distinct as being non-obvious from the art cited. 
+
+ It is further submitted that the invention as claimed is supported by adequate description to allow its implementation by those same people who, without any special detailed design instructions, were able to rush to their laboratories to set up electrolytic cells aimed at replicating those used by Fleischmann and Pons. 
+
+ It is further submitted that the apparatus which can be assembled on the basis of the applicant's disclosure will work in promoting hydride formation in the cathode, given that the skills exercised in its construction would be those of technicians qualified in the electrochemical field. Also, it will work in assuring that the specified level of current flows through the cathode, that being a matter of choosing an appropriate power voltage source, according to the resistance of the cathode circuit and the turns ratio and core size and operational power frequency of the current transformer selected for use. This is a standard design task imposing nothing other than normal demands on the skills of a qualified technician. 
+
+ The applicant argues that the operability of the apparatus, the subject of claims 47, 48 and 49, does not depend upon there being a cold fusion process in the cathode, but that if such a process were occurring it would provide a monitoring control parameter not provided by apparatus of prior record. 
+
+ The applicant further contends that the operability of the apparatus, the subject of claims 47, 48 and 49, does not depend upon there being an 'excess heat' phenomenon in the cathode, but that if such a phenomenon were occurring it would provide a monitoring control parameter not provided by apparatus of prior record. 
+
+ The applicant argues that for utility purposes, the apparatus, the subject of claims 47, 48 and 49, will, to the extent that electrolysis will certainly develop hydride formation in the cathode, serve as a regulating means for promoting the release of hydrogen from that hydride composition under the monitoring control of the high current fed through the short-circuit path of the cathode, if only because this produces heat sufficient to overcome the endothermic action of that cathode dehydration, though that will be offset in the main by the heat of formation of hydrogen gas from the merger of two hydrogen atoms. The apparatus does therefore constitute a useful structure as a novel means for storing hydrogen derived by electrolysis from water and then releasing it by current passage confined almost wholly to a path through the cathode. Note that the cathode serves as the hydrogen producing interface, the hydrogen storage element and as the interfacing surface through which heat activity in the cathode releases the hydrogen when needed. 
+
+ Applicant believes that, on the basis of the amendment now submitted and the above comments, the claims 47, 48 and 49 should be allowed. This response to this point is deemed sufficient to meet the substantive objections raised, though the applicant is conscious that the body of the specification does contain matter which elaborates on theory having the cold fusion issue in mind. Applicant is willing to excise that material if it will appease the examiner and dispose him to allow the new claims. 
+
+ Applicant requests acceptance of the minor amendment to the specification presented above, on the basis that this is to correct a manifestly obvious typographical error. The recital on p. 20 lines 15 and 16 that the cathode 'can, as an all-metal circuit of low electrical conductivity, carry a high current with very little ohmic power loss' is evidently in error. Either 'conductivity' should be replaced by 'resistance' or the word 'low' should be replaced by 'high', as proposed by the amendment. 
+
+ ********* 
+ SUPPLEMENTARY REMARKS 
+
+ The following further remarks in support of the above amendment and this reply to the examiner's objections will need to be fairly lengthy, owing to the very extensive list of art cited and the need to be fully responsive to the examiner's 21 page argument. What follows should not be taken as essential argument which implies reliance of the invention on the cold fusion theme as such. It is just that the applicant cannot accept the full weight of rejection based on the cold fusion art cited, without rebutting much of what is applied. 
+
+ Applicant seeks first to make one initial comment about the source of the 'excess heat' actually observed by those repeating the Fleischmann and Pons experiment, that is, by some of those reputable sources quoted by the examiner. They ascribe the heat to 'recombination' of hydrogen and oxygen in the cell. 
+
+ Ohashi et al in particular discusses comprehensively the energy components in the heat balance demanded by conventional physics. However, the process involves input of electricity to dissociate the hydrogen and oxygen, balanced later by heat released by their recombination. The entry of the hydrogen into the palladium cathode involves an exothermic process which is a heating process feeding heat into the ambient state of the cell. Some researchers critical of the F & P findings discount the data applicable through prolonged initial periods of their tests. They (Williams et al and Lewis et al) say that there is evidence of endothermic activity during this period. Yet if there is hydrogen storage by adsorption during that period owing to build up of the hydride in the cathode that should be exothermic. It is difficult to understand how there can be an endothermic condition for both input and output of hydrogen into the body of the cathode. One presumably must assume that when one comes to run the already-preloaded cell in a test hydrogen is released from the cathode surface, an endothermic reaction, and can then recombine with oxygen to return as heat the electrical power originally supplied. There is energy balance in this overall process but we end up with heat output equal to the electrical energy input less the heat energy dissipated to the ambient environment during the loading period. This weighs the heat balance against the F & P claims if the initial heating effect is ignored. In addition there is some heat wasted by normal joule heating as electrical conduction loss. 
+
+ In practice, so far as concerns the references cited on this topic of recombination, the real issue we face on the question of practical utility is whether the hydrogen released during the test actually does recombine to produce heat within the cell or whether it is vented off as gas, because the evidence is clearly there in the cited verification test references to show that there is excess heat production if that recombination is not factored into the heat balance and especially if the initial heating due to hydride formation is ignored as well. 
+
+ It is submitted that Fleischmann & Pons were not so stupid as to overlook the recombination possibility if in fact it were taking place because they would, as would any reasonably intelligent person, have to know how the cell calls back the oxygen that has bubbled off during the preloading period. If, to get around this problem, the hydrogen is supposed to all escape from the tips of cathode connectors presumed to be exposed to air where it is all used immediately in combustion using oxygen in the air above the electrolyte that would indeed be a miracle and all the moreso if all that heat energy were to warm the electrolyte without most of it venting off into the atmosphere! 
+
+ If one can expect hydrogen ions once released at a cathode to all recombine with oxygen inside the aqueous electrolyte, rather than bubbling off as hydrogen gas, then someone needs to explain how it is that we can produce hydrogen gas by electrolysis of water! Why is there no such recombination in all the cells used commercially to produce hydrogen gas? 
+
+ As the Ohashi et al citation explains in its last few lines: "If it can be established that not all the hydrogen and oxygen combine, then there is reason to look for causes of the heat exceeeding the joule heat". Yes, indeed, there is good reason to look for the cause of that excess heat, be it fusion or something else. 
+
+ Applicant seeks next to dispose of the alleged 'anticipatory' prior art cited, meaning that published before the April 15, 1989 priority date which the applicant claims for this application.
+
+ This is exclusively that of record in patents having a priority date before April 15, 1989.
+
+ The invention, the subject of the applicant's claims, is in its basic essence the provision of electrolytic apparatus by which a strong short-circuit current can be circulated through the metal cathode (excluding the anode) whilst a separate relatively small anode to cathode current flows through the electrolyte. The purpose, if not the result, of this is to condition the cathode together with its adsorbed ions from that electrolyte so as to promote activity which will generate heat in that cathode at a rate exceeding the electrical power input. The structure of the apparatus is what matters inasmuch as process claims are not in issue, meaning that the applicant accepts that prior art, if otherwise relevant, which involves a liquid electrolyte but does not mention cathodic ion adsorption per se can be anticipatory. The electrical conductivity of the cathode, being of metal, is very much higher than that of any leakage path through the electrolyte so, to all intents and purposes, even that quite high short-circuit current will generate only a modest amount of heat in comparison with that expected to result from the activated phenomenon. However, the essential point is that a priming input power is fed to that cathode independently from the normal power fed between the electrodes of the electrolytic cell. This is a form of electrical apparatus which can be easily searched against the prior art to establish whether or not it is novel and it must be assumed that the examiner has presented prior art with that in mind. 
+
+ Now, as to the patent art cited: 
+
+1. DUHME shows two cathodes and one anode and two electrical power supplies. Both power supplies feed current through the electrolyte between anode and one or other of the cathodes. There is no flow path for electric current through a cathode that does not traverse the electrolyte in a series, as opposed to parallel (leakage) sense. Admittedly this art is close, but not close enough to constitute an anticipation. 
+
+2 SCHUTZE also shows one cathode, one anode and an intervening grid. There are two power supplies, as is normal for any grid controlled thermionic discharge tube. One feeds the anode-cathode circuit and the other applies the grid potential. Here there is a flow path for electric current from a further power supply through the cathode inasmuch as the cathode serves in this case as a thermionic emitter and needs heat input to promote that emission. It is therefore at a very high temperature, one which is not consistent with the use of an electrolyte as opposed to a rarified gas intermediate the electrodes. Indeed, the Schutze invention concerns the nuclear transmutations that can occur in the body of the gas between anode and cathode through which the current is discharged. This patent would be relevant save for the fact that applicant's claims as restricted from those originally filed are directed to embodiments utilizing an 'electrolyte', meaning a liquid, which necessarily is at lower temperature than sustains thermionic electron emission. 
+
+3. OVSHINSKY uses the charge storage of the electrolytic cell as a kind of capacitor coupled in a rectification circuit. There is a d.c. polarizing circuit feeding the anode to cathode path and an a.c. input is applied between two cathodes but all current flow to and from the cathode from either current source necessarily goes through the electrolyte. This is therefore not anticipatory of applicant's invention as now claimed. 
+
+4. VINCENT shows an etching bath which has an electric circuit feeding a.c. and d.c. along the same path through the etching solution in the bath. This has no relevance to the applicant's invention as now claimed. 
+
+5. BANKS shows a cell containing two electrolytes and an intervening porous liner with the containing housing serving as an electrode and two other electrodes positioned to assert electric potentials which control the porous liner to preclude intermixing of the electrolytes. One cannot see in this disclosure any circuit from the common power source providing a closed conductive path through an electrode without series passage through the electrolyte. It has no bearing on the applicant's invention as now claimed. 
+
+6. CHILDS shows a system for electrical charging of a battery of electrolytic cells. There is provision for feeding additional current to a selected cell in parallel with the main current but the current supplied to that selected cell all passes through the electrolyte between the anode and cathode. It has no relevance to what the applicant now claims. 
+
+7. DILLER shows various electrodes in fused baths subject to electrolysis but each electrode has a single connection to the power supply. This means that current cannot flow through the electrode without all passing through the electrolyte. Again, it is not relevant to the applicant's claims. 
+
+8. WEBER shows a parallel bank of anodes dipping into a water electrolyte used for producing hydrogen and oxygen by the normal electrolysis process. Each anode has a single connection to the power supply. This means that current cannot flow through an anode without all passing through the electrolyte. Again, it is not relevant to the applicant's claims. 
+
+9. MIZUNO et al shows a device which has an electrode at each end and is packed with a metal powder that can absorb hydrogen. There is no electrolyte and no electrolysis dissociating ions in a liquid. The hydrogen gas is supplied under pressure through an input port and stored by adsorption in that metal powder for later release through the same port by regulating the temperature of the powder. That temperature control involves passing a heating current through the powder which has electrical interface contact with the two electrodes at each end of the device. The powder is not an 'electrolyte' and the current that flows through it flows between the two electrodes and does not flow in a circuit shorted by connection through two terminals on a single electrode. This citation is relevant only insofar as it shows heat being generated in an resistive body containing hydrogen and providing a short circuit path between two separate electrodes. Applicant's claims are distinct from this Minzuno disclosure both in structure and in function. 
+
+10. FREEMONT et al shows circuitry for mixing and varying current inputs to an electrolysis cell, but (see Fig. 10) the output connections provide for flow between anode and cathode. There is no separate power supply feeding current between two connections to the same electrode so there is no question of setting up a strong current confined to passage through the cathode, without enforced traversal of the electrolyte. This is therefore not anticipatory of the applicant's claims. 
+
+11. PONS et al does not show a circuit providing for current passage through the cathode and separate from the anode to cathode path through the electrolyte. 
+
+12. RABINOWITZ et al is not prior art. It has a priority date later than April 15, 1989. It does not show a circuit providing for current passage through the cathode and separate from the anode to cathode path through the electrolyte. 
+
+13. DREXLER has a priority date later than April 15, 1989. It does not show a circuit providing for current passage through the cathode and separate from the anode to cathode path through the electrolyte.
+
+14. ZACHARIAH has a priority date later than April 15, 1989. It does not show a circuit providing for current passage through the cathode and separate from the anode to cathode path through the electrolyte.
+
+ As to the other art cited, only two, both Newspaper items are listed with publication dates before April 15, 1989, the Washington Times report by D. Braten and the New York Times report by M. W. Browne. Neither anticipate what this applicant claims, both being reports about the Fleischmann and Pons announcement.
+
+ It is not clear whether the examiner requires the applicant to comment on the remaining 35 of the 37 references cited from miscellaneous scientific publications and newspapers. Even if they were relevant to what applicant claims, which they are not, they cannot serve as valid anticipations owing to their dates being later than the applicant's priority date of record. 
+
+ Applicant will, however, comment at least on all points specifically raised by the examiner by reference to any such citation.
+
+ First, however, it is requested that the examiner should consider this applicant's argument as to the purpose of injecting electrical power directly into the cathode by a strong current separate from that transported to it by electrolytic action. The object is to generate an action leading to the generation of heat at a rate in excess of the electrical power input and the applicant is mindful that the trigger for that action will involve expenditure on a priming energy input which itself would produce some heat.
+
+ Second, the examiner is requested to look at a few words in the item 28 in the Appended List of the Examiner's Non-Patent Citations. In the second column of the Williams et al. reference, the article in Nature, one reads of evidence of 'endothermic' reactions which caused the investigators to "exclude the first 10,000 minutes of data from each cell when calculating the statistics". So, if there is a heat loss which betrays the possibility that the cell is adjusting to find its equilibrium as hydrogen is expelled from the cathode that is excluded it from the data reported. The same passage said 'Lewis et al' found the same effect. Looking then at the Lewis et al citation (item 6) also in Nature, one reads in the second column on p. 528, where reference is made to 'excess enthalphy measurements': "The measurements were performed using the isoperibolic calorimetry mode (a constant-temperature system with a well defined heat loss rate to a constant-tenmperature bath).." One sees therefore that in an effort to test whether anomalous heat could be generated the investigators went to great trouble to be sure that they kept the test apparatus at a constant temperature so far as that was possible. If the trigger for the action they were looking for were to be temperature gradients in the cathode as opposed to the level of temperature then they would certainly have suppressed any chance of success. Lewis et al explains how the evolved gases are vented off and that surely means that hydrogen is escaping and taking its combustion energy with it. Yet one is led to believe by various of the citations referenced that recombination of hydrogen and oxygen occurs and accounts for such excess heat as is produced by these cells. 
+
+ Third, the examiner is requested to look at a few words in the ONRL/FTR-3341 citation (item 12 in the appended list). On page 5 of the report by J. F. Cooke on his visit to Harwell in England, one reads: 
+ &qout;
+ Fleischmann did not help Harwell set up their experiments, but he did subsequently examine them and indicated that they were properly set up. During the initial phase of their work, Bullough also received a telephone call from Prime Minister Thatcher inquiring about the progress of the work. The following is a brief summary of what was done and what was found. 
+
+ A large number of cells were examined. Different electrode materials were used; these included palladium, platinum .... Calorimetric cells up to two liters in capacity, which took into account and eliminated temperature gradient problems, were also used. The heat balance surveys were capable of resolutions of better than 1%. ..... The final result ... was 'in none of these experiments was there any evidence of fusion taking place under electrochemical conditions'. It should also be added that there was no evidence of excess heat generated by any of their cells." 
+
+ The latter document was dated July 31, 1989. On the face of it one might assume that if a temperature gradient in the cathode was the trigger needed to generate excess heat, those Harwell tests would have missed their mark. One might further assume that if Fleischmann was at all involved in assessing what Harwell claimed then he too, at the time, was unaware of the importance of that temperature gradient and probably had not bothered about holding temperature well regulated in his own experiments. After all, he was interested in the ability of the cell to generate heat and that means a rise in temperature.
+
+ The applicant cannot, therefore, put any weight on citations which state that the temperature in the cell is held uniform throughout. Accepted physics in the thermoelectric art recognizes that a temperature gradient in a metal carrying currents which produce magnetic fields transverse to that gradient will of necessity result in electric potentials set up in the metal and even though the metal is a good electrical conductor. Those electric fields are absent if there is no temperature gradient. They will therefore be minimal in apparatus designed to keep the cathode temperature constant. However, by passing a high current through the cathode and confining it to a highly conductive path which excludes the poor conduction path of the electrolyte, one can accentuate the action even with a moderate temperature gradient.
+
+ Looking through most of the later citations from those scientific periodicals one sees that the tests applied depended upon whether or not there were neutrons or gamma radiation emitted by the electrochemical cells tested.
+
+ Now, this applicant filed his patent application on April 15, 1989 fully in the knowledge that, contrary to accepted scientific belief, there is no neutron inside a deuteron. The applicant had explained this in his writings:
+
+ 'Physics without Einstein', Sabberton, P.O. Box 35, Southampton, England (published in 1969). See pages 18-22 and 128-132, which show, firstly, that electrons and positrons (beta-particles are nuclear components in the deuteron along with the protons and, secondly, how the deuteron can be forced by high energy gamma rays to shed a proton and create the neutron, which is short-lived and decays into a proton and an electron.
+
+ 'Physics Unified', Sabberton, P.O. Box 35, Southampton, England (published 1980). See pages 123-130, where the same theme is presented and thereafter expanded to embrace other aspects of particle physics.
+
+ 'The Theoretical Nature of the Neutron and the Deuteron', Hadronic Journal, vol. 9, No. 4, pp. 129-136, 31 July 1986.
+
+ In these circumstances, and though the examiner does not regard 
+this applicant's theoretical background as something he can recognize alongside 'reputable' authority, the fact remains that the absence of neutron emission and gamma radiation from an electrolytic cell has no real bearing upon whether or not one can generate heat in the cathode of such a cell by an anomalous process. 
+
+ Applicant urges the examiner, therefore, to withdraw the objection that the invention lacks utility because popular opinion is that the Fleischmann and Pons cell cannot be replicated and does not generate excess heat. That issue is something which Fleischmann and Pons have to argue themselves, though one expects to see commercial outcome from the technology they are pioneering. This applicant's concern is with the particular apparatus, the subject of the invention involving the short-circuit current connection through the cathode.
+
+ The following comments track the examiner's remarks by page reference to his Office Action. 
+
+Page 5: Statement that claims to initial positive results were generally retracted or shown to be in error by subsequent experiments (see article by Stipp in Wall Street Journal). 
+
+ The Stipp article (ref. 8) said that the neutrons observed in the first experiment were based on false measurements and not confirmed in the second experiment but 'the researchers said their second experiment yielded more heat than the first one'. 
+
+Page 5: The same statement referred also to page A22 of M. W. Browne's article in New York Times.
+
+ The Browne article (ref. 2) said that Caltech failed to find any symptoms of fusion in that no emitted neutrons, gamma rays, tritium of helium were seen, contrary to claims of the Utah group. Then it reads 'The Caltech team intentionally reproduced experimental errors leading to the same erroneous conclusions reached by the Utah group, Dr. Lewis said. By failing to install a stirring device, temperature differentials in the cell led to false estimates of its overall heat, he said. This may have suggested to the Utah group that its cell was producing fusion energy.' 
+
+ The applicant's comments hold up. The Caltech work indicates that they discovered how not to generate excess heat energy but did not disprove the possibility, if that temperature gradient in the cathode is the key.
+
+Page 5: The examiner here asserts that those 'skilled in the art' say the assertions of Fleischmann and Pons were based on experimental errors and refers to the citations naming Browne, Kreysa et al, Lewis et al, Hilts, Hoanyi, Ohashi et al, Miskelly et al, Chapline, Wilson et al, and Williams et al.
+
+ Applicant has already commented on Browne (ref. 2), Williams et al (ref. 28) and Lewis et al (ref. 6). Kreysa et al (ref. 3) say they have "reproduced all the phenomena which Fleischmann and Pons reported" but go on to say that they can reason in quantitative terms why the heat measured was generated. Their argument is based on rate of heat flow assumptions attributed to 'catalytic recombination' for which they define a range of 0.12 up to 31.3 watts per cm. cube, saying that the F & P findings involved 9.26 watts per cm cube. This argument against the F & P findings is stated to assume that all hydrogen produced is reoxidized while still inside the cell and that is hardly a point which F & P could have overlooked. Hilts (ref. 9) is a Washington Post article that merely reports on the lack of neutrons in an MIT experiment. Horanyi (ref. 13) in what is merely a theoretical discussion argue against nuclear fusion as an alleged explanation for the F & P. findings. Ohashi et al (ref. 4) is based on theory and reiterates the 'possibility' that the heat in the F & P experiment 'might' be due to recombination of hydrogen and oxygen in the cell. It says that any 'replication' of the F & P experiment should determine by measurement how much recombination does in fact occur. Yet, above, where Kreysa et al did an experiment and reached the same conclusion after finding excess heat, they did not make that measurement but said it could be (in theory) between 0.12 and 31.3 watts per cm. cube. That is hardly a convincing denial of the F & P claim. MisKelly et al (5) restated the hydrogen recombination problem and went on to report experiments involving stirring to assure uniform temperature conditions. This article ended by saying that more definitive results could only be achieved by using closed-system calorimeters and assuring total recombination of the gases. This means that the issue is not settled by these various contributions. Chapline (ref. 7) is just a theoretical discourse in which the author concludes that F & P have produced 'no credible evidence' of excess heat 'produced by nuclear fusion reactions'. Wilson et al (34) has an abstract ending with the words 'we cannot prove that no excess heat has been generated in any experiments'. Again, the Wilson et al article merely shows that with careful calorimetry and temperature regulation the evidence of 'excess heat' can be be called into question.
+
+Page 5: The examiner here stresses that Lewis et al and Bosch et al found no evidence of nuclear fusion when pulsed currents were used.
+
+ Lewis et al (ref. 6) show no circuit diagram for the apparatus they tested and from their description of the electrodes used in the test cells one must assume that the pulsed d.c. current they used was through the normal current flow path from anode to cathode to the electrolyte. This, in the context of pulsations, may have been cited because the applicant has disclosed pulsating a.c. current input as the way to get current circulating around a closed metal conductor loop path through the cathode, relying on induction by making the cathode part of a secondary winding on a transformer. The Lewis et al article is not anticipatory of the applicant's structure. Nor can the applicant see much point in pulsing d.c. through the electrolyte. It certainly is not within the scope of the applicant's claims.
+
+ Bosch et al (ref. 25) on page 172 (second column) states "No evidence of catalytic recombination of deuterium at the surface of Pd was seen". This was at the end of a prolonged experiment with ran for 21 days when a check was made for 'possible catalytic scalding, due to the presumed recombination'. This contrasts with the assumptions made by other researchers as noted above, who assumed that the heat they were measuring had to arise mainly from such recombination. On page 167 in their comments on heat balance Bosch et al declare that if a portion of the palladium becomes catalytically activated above the liquid surface during the experiment, then considerable heat can be released from the recombination instead of being counted as a loss to the system, enough, they say, to explain the F & P 'excess heat' claim. However, when they looked for evidence of such recombination at the end of their tests they could find no such indication! This Bosch et al reference refers on page 172, not to pulses as one normally understands the term, but to tests involving 'rapid current increases from 1 A to 3 A and also rapid decreases down to 0.5 A', but these are seen as step changes in operational current. On page 168 (last few words) Bosch et al say they looked for a constant temperature water bath regulator, but did not find one to suit their needs and hence ended up with a temperature-monitored water bath cooled by a constant flow of room air. The object would be to hold temperature uniform in the cell so that the temperature measurement was reliable. In this there is, again, that possible suppression of the action which they sought to research, if, as this applicant suggests, the temperature gradient in the cathode can be the trigger for that action.
+
+Page 5: Here there is a reference to a T.V. show NOVA 'Confusion in a Jar' (ref. 31) by citing which the examiner implies his support for the view to the F & P had found it easy to get quick results which were erroneous.
+
+ This applicant cannot see the relevance of this T.V. program to the subject patent application. It was just media confrontation and the message that comes through is that Fleischmann said he had worked on the project for five years whereas he was being challenged by critics lacking the benefit of that experience.
+
+Page 6: The examiner points to the Dagani comments referred to in the Jan 14 1991 issue of C & EN (ref. 23) as claiming that none of the scientific community take cold fusion seriously.
+
+ As this applicant reads that article it is a news item explaining some of the background of the F & P situation from the view point of the University of Utah. The key point that emerges is the statement by Fleischmann that he had identified a parameter that is the key to the reproducible production of 'excess energy' but he could not disclose it for reasons of commercial condfidentiality. It would seem prudent to regard that statement with some respect, but evenso the citation has no direct bearing on this applicant's claims.
+
+Page 6: The examiner here refers to the book 'Too Hot to Handle' by Frank Close which refers to the artifacts that can be misinterpreted as neutrons.
+
+ Bearing in mind that the primary concern is the question of generating 'excess heat' this applicant can see nothing in that disclosure that adds to what has been commented upon above.
+
+Page 6: Here we have a generic recital of the lack of reputable evidence in support of cold fusion based on detection of neutrons, gamma rays, tritium or helium and a lack of reputable evidence indicating excess heat production. There are 18 cited references mustered together on 6 lines of the examiner's text.
+
+ As the applicant has pointed out above a high energy emission need not be a consequence of a cold fusion reaction because there are no neutrons in the deuteron and because neutrons are produced essentially only when other neutrons or high energy gamma radiation bombard a target nucleus. Nor does the applicant feel it necessary to comment on research findings by those relying on assumptions based on processes involving the temperatures that go with high energy.
+
+ The papers which rely on neutron emission or high energy emission (radiation or particles) as the signature for excess heat generation are therefore seen as irrelevant. These are Ziegler et al (ref. 16), Price et al (ref. 18), Schrieder et al (ref. 17), Cribier et al (ref. 19), Alber et al (ref. 11), Henderson et al (ref. 24), Hajdas et al (ref. 15), Faller et al (ref. 14), Ewing et al (ref. 29), Myers et al (ref. 33).
+
+ Fleming et al (ref. 21) reported on heat measurements but find no excess heat. Their experiment kept the 'sample' tested in 'thermal equilibrium with the surrounding chamber', which, for reasons already stated, make the findings non-conclusive.
+
+ Shani et al (ref. 20) is curious as selected citation in that it seems to suggest a 1,000 fold activity of neutron production in the metal-deuterium system compared with prediction based on observation of neutron production rates in the compressed deuterium gas.
+
+ Rogers et al (ref. 37) which is mentioned by the examiner on page 6 of his Office Action as indicating lack of evidence of nuclear fusion or excess heat is a theoretical assessment saying what should be but not reporting any independent experimental fact. It offers nothing but a theoretical debate on reported findings of F & P.
+
+ The Washington Post item (ref. 10) of July 13, 1989 says nothing other than that the Energy Department recommended no government support to verify the cold fusion claims. 
+
+ The Washington Post item of March 29, 1990 says that Salamon could not detect nuclear output from tests on apparatus in Stanley Pons' laboratory but in the sense that "there was not an iota, not a sniff, of conventional fusion occurring". Salamon was quoted as saying he could find no residual signs of a neutron burst. However, that presumes neutrons are necessarily produced by the cold fusion reaction!
+
+ Silvera et al (ref. 27) simply reiterates the observation that tests show no neutron or gamma ray emission such as would evidence nuclear fusion.
+
+ Balke et al (ref. 32) further reiterates the observation that no neutron emission has been found in their tests. 
+Page 7: Here the examiner refers to and quotes from the Cooke report (ref. 12) already discussed above.
+
+ The applicant can but point again to that statement in the Cooke report that says the temperature was controlled to "eliminate temperature gradient problems". Those 'problems' hold the secret of the anomalous generation of excess heat!
+
+ ******* 
+
+ The remainder of this response does not concern prior art issues.
+ The specification under examination has the exact form as originally filed in the April 15 1989 priority document being relied upon in this case. That was very early in the cycle of events which came to dominate the 'cold fusion' scene. The applicant was concerned only with new forms of apparatus which he felt would enhance what seemed to be a new and emerging technology in the energy field. The invention disclosed was apparatus structured to permit very substantial current flow through a cathode in an electrolytic cell, supplementary to the very much lower current flowing across from the anode to the cathode.
+
+ It was expected that the novelty and utility of such a non-obvious form of apparatus would be examined by the Patent Office as is any other form of electrical apparatus.
+
+ In the event, it became apparent upon receipt of the first Office Action that the Examiner did not intend to pursue this case in a normal way, as by simply searching the dual current feed to the cathode, the simple generic concept of the invention. Instead, he required an election of species in a four-tier cascade, which the applicant sees as an unwarranted requirement. Certainly, the counterpart examination of the case before the British Patent Office had not posed any search problem and, though that Office is quite ready to contend lack of unity of invention where appropriate, no objections remotely resembling those of the U.S. Examiner were raised. This may not be an argument that carries weight in U.S. practice, but for someone with this applicant's experience it was abundantly clear that the formal treatment of the subject application even for the U.S. Patent Office was destined to be unusual.
+
+ Now, of course, it will be understood that the applicant when writing the specification for the April 15 1989 priority filing had no reason to believe that the 'cold fusion' theme would become such a 'fiasco'. Otherwise, in drafting the specification the disclosure would have been confined to an electrolytic apparatus with that dual current feed to the cathode featured as the invention and no reference made to 'cold fusion'.
+
+ It is to be noted that in the initial prosecution of this subject case, in the stage prior to the petition for which its revival was secured, the Applicant sought to excise all reference to 'cold fusion' and all the theoretical portion of the disclosure. However, the examiner insisted on the reinstatement of that part of the disclosure, for reasons which the applicant cannot understand, unless it was the examiner's intention to target the 'cold fusion' aspect as the basis for rejection.
+
+ In applicant's patent professional experience he had, until this case, always found patent examiners willing to comply with an applicant's desire to delete material from a specification, given of course adequate remaining description confined to the structure shown in the drawings and duly claimed. Having, in the light of developments, said too much in the specification concerning certain theoretical interpretations of what could well be a genuine cold fusion phenomenon, the applicant was, and presumably still is, precluded from making that deletion.
+
+ Yet applicant hereby advises the examiner that he would be most willing to enter such an amendment again to delete all reference to such theory and to 'cold fusion' in order to assure acceptance of claims which are restricted to the dual current feed to the cathode in an electrolytic apparatus confined to adsorption of hydrogen-isotope ions from an acqueous solution.
+
+ For the record, although the examiner contends the need for 'reputable' evidence to support the cold fusion theme, as already indicated, applicant's scientific research as published long before the Fleischmann and Pons event did show why deuterons did not contain neutrons but did explain the energy needed to transmute a deuteron into a proton and a neutron, besides explaining neutron decay into a proton and an electron. Hopefully, the examiner will understand that new discoveries in science are hardly likely to have 'repute' until they are well-accepted but by then they can hardly be of relevance in supporting a new invention, because they can but contribute to making the invention seem obvious.
+
+ Nor, indeed, is the applicant familiar with the use of the term 'reputable' in judging whether scientific literature can be applied for or against the merits of an invention. If an invention is anticipated by a prior publication it surely makes no difference whether or not the author is of good 'repute'. If it is alleged that an invention does not work because that is proved by a scientific publication dated after the priority date of the invention, then that could bear upon its patent validity if authored by 'reputable' authority. However, such issues are normally only contested after grant when a judge can weigh the facts, including the 'reputation' of the expert witnesses called to testify. But even in such a case the judge would require evidence also to show that the precise structure claimed in the patent had been the subject of tests by that 'reputable' authority.
+
+ Therefore, in responding to the examiner's detailed remarks by reference to the numerous publications cited, the issues of importance are (a) whether or not they include art prior to April 15, 1989 disclosing the dual current feed to the cathode and (b) whether or not any of the later art cited discloses tests specific to the dual current feed to the cathode.
+
+ The examiner's very extensive survey of the negative reports pertaining to the research of Fleischmann and Pons and 'cold fusion' in general is, in this applicant's opinion, somewhat irrelevant, as not being specific to this applicant's invention.
+
+ Also, having regard to the intense interest in the 'cold fusion' theme on an international front, there is in that cited art nothing conclusive enough to suppress the anti-cold-fusion lobby. It is submitted that, in taking such a firm stance against 'cold fusion' technology, the examiner should weigh the consequences of that posture having regard to the status now, early in 1996, as the light-water, lithium electrolyte, nickel/palladium catalyst, Patterson Power Cell moves towards commercialization. What is the sense in refusing to grant patents on this subject on the basis of the examiner's selection of statements by 'reputable' scientists when the few patents in this field that have penetrated examiner scrutiny are attracting investment by technology-based corporations who also command advice from experts they judge to be sufficiently 'reputable'?
+
+ The Patterson Power Cell is the subject of U.S. Patent No. 5,318,675 issued on June 7, 1994. It refers to Patterson's prior related U.S. Patents 4,943,355 and 5,036,031 which concerned the adsorption of hydrogen into palladium. It further refers to the Fleischmann and Pons claims concerning 'excess heat' and the 'cold fusion' effect. It incorporates tables of experimental findings showing that the experiments reported are reproducible and that some of those experiments indicate 'an unexpected increase in heat output'. See column 9 line 58.
+
+ In the January 1996 issue of New Energy News there are three items which warrant mention in the above context:
+
+ (1) On p. 1 the statement that the Patterson Power Cell has attracted its first $1,000,000 license for commercialization by a U.S. Fortune 500 company.
+
+ (2) On p. 5 the statement that the European Patent Office is granting the Pons-Fleischmann patent for cold fusion, coupled with the remark that the corresponding U.S. application (and over 200 others) has been denied by the U.S. Patent Office.
+
+ (3) On p. 22 the notification that the Sixth International Conference on Cold Fusion will be held in 1996 in Hokkaido, Japan.
+
+ The Patterson technology was a feature in a documentary program shown on British television on December 17th 1996. Small pellets having Ni/Pd/Ni coatings are compacted in a tube filled with water and a pulsed current input through electrodes results in the generation of heat energy far in excess of the electrical energy supplied.
+
+ How can the U.S. Patent Office justify a posture of granting patents relevant to this technology to some applicants without citing copious 'cold fusion' literature as objection but confronting others, as in this subject application, with close on 40 such non-patent citations?
+
+ The applicant does not know how he can, at this stage in the proceedings, contest the examiner's position on the subject of 'reputable evidence', when he is the judge of what is and what is not 'reputable' and the subject of his attention is 'cold fusion' generally and not the specific apparatus claimed by the applicant.
+
+ Therefore, it is simply requested that the examiner should allow the deletion of all the references to 'cold fusion' and the theoretical sections from the specification, so as to further the onward examination by sole reference to the features claimed, namely the dual current feed to the cathode in an electrolytic cell.
+
+ Applicant has been obliged to respond to the objections based on the 37 non-patent items cited, even though he believes the 'cold fusion' debate is really not germane to the apparatus claims sought.
+
+ It has been stated that what is seen as a key point concerning the attempts to replicate the Fleischmann-Pons apparatus, is that, if a temperature gradient in the cathode is the trigger for heat generation (an adequate temperature gradient), then what occurred in a spurious way in the pioneer experiments may be precluded from occurring in those refined replication tests.
+
+ However, it is not for the applicant to defend the Fleischmann-Pons case, save to say that he does know with absolute certainty, backed by my Ph.D. research at a 'reputable' establishment (Cambridge University in England), that anomalous heat is generated by eddy current induction in laminar metal cores when pulsed magnetically by a.c. power. This is because the normal heat generated flows through that metal in the planes of the laminations and, owing to the magnetism, as in nickel or iron, that heat energy acts regeneratively to set up electric fields which effectively reduce the electrical conductivity of the metal and so allow eddy current heating to build up beyond normal theoretical expection.
+
+ By setting up a non-linear electric field gradient within an electrical conductor, such as nickel or palladium, there has to be an internal charge that is not neutralized locally. As one must see it that charge can play a role affecting protons and deuterons adsorbed into that conductor. A temperature gradient in the metal with a transverse magnetic field present means a mutually transverse electric field, by standard physics based on 'reputable' authority familiar with electrical conduction and thermoelectricity.
+
+ On page 13 the examiner questions what applicant says about heat gradients by saying that if heat is generated in the cathode there must be a temperature gradient between the cathode and the other components of the cell. In saying this he has not understood the essential point that the heat gradient has to be within the metallic body of the cathode to affect the distribution of ions inside the cathode and there has to be a substantial current flow through the cathode to set up enough magnetic field to interact with that necessarily small temperature gradient in order to build up the electric charge inside that cathode. Once the excess heat is generated its flow from the cathode will sustain the temperature gradient and escalate the effect but it has to be triggered somewhow and it will not be triggered if the cell is kept at a uniform temperature. The examiner says he cannot see how stirring removes the temperature differential. Stirring mixes the electrolyte and so makes its temperature more uniform besides keeping bubbles from forming poor heat conductive surface barriers on the cathode surface. That makes it more difficult for the cathode temperature gradient to occur in a spurious way. The applicant has drawn attention above to those citations which provide calorimeters deliberately structured to ensure uniform temperature. 
+
+ On p. 8 of his Office Action the examiner states: "Clearly, if something cannot be reproduced at will, there is also then no adequate nor enabling disclosure which would enable one of ordinary skill in the art, to make and use it as required by the statute." Since this statement seems more directed to the process aspect of the the Fleischmann-Pons activity I assume that the Examiner would deny patent grant to Fleischmann and Pons.
+
+ However, concerning the subject invention, which concerns apparatus having structure providing a dual current feed to the cathode of an electrolytic cell, then certainly here this apparatus can be reproduced at will by routine design and assembly. It will work reliably in feeding current through the cathode from the two separate circuits involved and it has utility for the reasons set out earlier.
+
+ However, insofar as the adsorption of hydrogen into the cathode is concerned the following points are made.
+
+ Firstly, the entry of a hydrogen atom into the cathode of an electrolytic cell is the entry of the H or D isotope into metal in which the satellite electron of the atom joins company with those electrons shed as conduction electrons by atoms constituting the metal. Any separation of an electron from its parent atom involves an energy transaction. Any changes in the relative proximity of ions and/or electrons within the body of a metal conductor must involve energy transactions.
+
+ Secondly, the passage of a current, particularly a substantial current, through a metal conductor involves motion of the free charge present in that metal. Whether these charges are electrons or the H or D ions makes no difference. They are affected and the stronger the current, the greater the effect.
+
+ Thirdly, an apparatus particularly designed to activate the H or D ions, in contrast with a normal electrolytic cell in which the relatively very small electrolysis current is a measure of ion migration in the electrolyte, but is relatively insignificant in the body of the metal cathode, must have utility in enhancing those energy transactions already mentioned.
+
+ Applicant's specification makes no assertions about the heat which may be generated by the apparatus defined by the claims.
+
+ As the examiner deems the disclosure to be insufficient in failing to set forth the underlying assumptions for Applicant's theories, including the applicant's appraisal of the degree of validity of said assumptions, and that confronts the applicant with a problem that can only be remedied by filing a very copious continuation application disclosing the theory in its fullness. The theory shows, for example, how the constant of gravitation G can be derived in terms of the electron charge/mass ratio or how the proton, neutron and deuteron masses are determined in relation to the mass of the electron. It shows, for example, how protons and deuterons can transmute by fusion and by fission to find an equilibrium abundance ratio corresponding to that measured. The validity of the underlying assumptions is assured by the way everything comes together in explaining the qualitative and quantitative properties of the fundamental particles involved. Why, for example, is it that the neutron has a negative magnetic moment? Here, the neutron is not something within an atomic nucleus, but rather the neutron as created when a deuteron is split by gamma radiation. Physicists of great 'repute' measure the magnetic moment of the neutron and their data tell us that, in nuclear magnetons, it is -1.91304308(54), a precision on 0.28 parts per million. Applicant's theory showed that the neutron, which is nothing other than an antiproton attached to a few beta particles, is ever changing between four alternative states in one of which it throws aside a positive betal particle transiently. It is in this latter state one period in 23 so, allowing for a g-factor of 2, its magnetic moment is -44/23 nuclear magnetons. Applicant does not believe those who generate the 'reputable evidence' in connection with nuclear theory have, as yet, come to realize the fact that this quantity -44/23 is -1.9130435, which, as the examiner can see, is within the 0.28 parts per million range of uncertainty in the measurement. This was published in the refereed scientific periodical dated 31 July 1986 already referenced and what is said here, though not said in the patent specification, is that the applicant understands how neutrons are created as well as the form and nature of deuterons, as evidenced by the ability to deduce such high precision results. Therefore the applicant knows that there is no neutron within a deuteron and why it takes high energy gamma radiation or the high energy equivalent to create the short-lived neutrons which are created in hot nuclear reactors. He knows from the underlying basis of the theory why the actions which account for the proton, neutron and deuteron masses occur at normal temperatures and that means that the eventual confrmation of 'cold fusion' and its eventual acceptance will endorse that theory.
+
+ Applicant is willing to send the examiner copies of the relevant published papers if that may help him to accept a more favorable posture on the 'cold fusion' issue, but as one well knows, the patent is not a vehicle for promulgating belief in a theory.
+
+ However, if disbelief in a theory can be the basis of rejection of a novel and meritorious apparatus claim, then perhaps the examiner will wish to know more about that theory.
+
+ If, on the other hand, the examiner insists that establishment opinion on 'cold fusion' is what is governing, then it is submitted that the U.S. Patent Office is being influenced in a way that is detrimental to the spirit of the patent system. In that case, those who have filed patent applications aiming to make a contribution in this field should be put out of their misery by the Patent Office edicting that 'cold fusion' applications are unpatentable subject matter. In the latter case, the patents on the Patterson Power Cell, which have got through the net, will seem incongruous and hard to justify.
+
+ The applicant apologizes for the length of this response but reminds the examiner that the applicant deems the first six pages of this text to be sufficient but has added extra comment for fear of being deemed non-responsive.
+
+ It is hoped that the three new claims will prove acceptable and applicant here affirms that if they are allowed no further attempt will be made to open up further issues arising from the species election.
+
+ Respectfully submitted
+
+ Harold Aspden 
+
+ ------------------ 
+
+ LIST OF ART CITED BY THE U.S. PATENT OFFICE 
+ U.S. PATENT DOCUMENTS 
+
+1,567,791 DUHME 1/25
+
+2,240,914 SCHUTZE 5/41
+
+3,052,830 OVSHINSKY 9/62
+
+3,193,485 VINCENT 7/65
+
+3,288,694 BANKS 11/66
+
+3,616,315 CHILDS 10/71
+
+4,324,624 DILLER 4/82
+
+4,344,831 WEBER 8/82
+
+4,490,348 MIZUNO et al 12/84
+
+4,755,305 FREMONT et al 7/88 
+
+FOREIGN PATENT DOCUMENTS
+
+90/10,935 WO PONS et al 9/90
+
+90/13,128 WO RABINOWITZ et al 11/90
+
+90/13,897 WO DREXLER 11/90
+
+91/06,103 WO ZACHARIAH 5/91
+
+OTHER REFERENCES 
+
+1 The Washington Times, 3/24/89, page A5, 'Ridiculously easy test yields claim of energy triumph' article by D. Braten.
+
+2 The New York Times, 5/3/89, pp. A1, A22, 'Fusion claim is greeted with scorn by physicists', article by M. W. Browne.
+
+3. J. Electroanalytical Chem., vol. 266, (1989), pp. 437-450, 'A critical analysis of electrochmical nuclear fusion experiments', G. Kreysa et al.
+
+4. J. of Nuclear Sci. and Tech., vol. 26, No. 7, (July 1989), pp. 729-732, 'Decoding of thermal data in Fleischmann & Pons paper', H. Ohashi et al.
+
+5. Science, vol. 246, No. 4931, 11/10/89, pp. 793-796, 'Analysis and published calorimetric evidence for electro-chemical cold fusion of deuterium and palladium', G. M. Miskelly et al.
+
+6. Nature, vol. 340, 8/17/89, pp. 525-530, 'Searches for low-temperature nuclear fusion of deuterium in palladium', N. S. Lewis et al.
+
+7. UCRL-101583, 7/89, pp. 1-9, 'Cold confusion', G. Chapline.
+
+8. The Wall Street Journal, 4/26/89, page B4, 'Georgia Group outlines errors that led to withdrawal of cold fusion claims', article by D. Stipp.
+
+9. The Washington Post, 5/2/89, pp. A1, A7, 'Significant errors reported in Utah fusion experiment', article by P. J. Hilts.
+
+10 The Washington Post, 7/13/89, p. A14, 'Panel opposes cold fusion efforts', Associated Press Report.
+
+11. Zeitschrift fur Phys. A - Atomic Nuclei, vol. 333, (1989), pp. 319-320, 'Search for neutrons from cold nuclear fusion', D. Alber et al.
+
+12. ORNL/FTR-3341, 7/31/89, pp. 2-15, Cooke.
+
+13. J. Radioanal. Nucl. Chem. Letters, vol. 137, no. 1 (8/21/89), pp. 23-28, 'Some basic electrochemistry and the cold nuclear fusion of deuterium', G. Horanyi.
+
+14. J. Radionanal. Nucl. Chem. Letters, vol.137, No. 1 (8/21/89), pp. 9-16, 'Investigation of cold fusion in heavy water', S. H. Faller et al.
+
+15. Solid State Communications, vol. 7, No. 4, (1989), pp. 309-313, 'Search for cold fusion events', W. Hajdas et al.
+
+16. Physical Review Letters, vol. 62, No. 25, 6/19/89, pp. 2929-2932, 'Electrochemical experiments in cold nuclear fusion', J. F. Ziegler et al.
+
+17. Zeitschrift fur Phys. B - Condensed Matter, vol. 76, No. 2, pp. 141-142, (1989), 'Search for cold nuclear fusion in palladium-deuteride', G. Schrieder et al.
+
+18. Physical Review Letters, vol. 63, No. 18, 10/30/89, pp. 1926-1929, 'Search for energetic particle emission from deuterated Ti and Pd foils', P. B. Price et al.
+
+19. Physics Letters B, vol. 228, No. 1, 9/7/89, pp. 163-166, 'Conventional sources of fast neutrons in 'cold fusion' experiments', M. Cribier et al.
+
+20. Solid State Communications, vol. 72, No. l, (1989) pp. 53-57, 'Evidence for a background neutron enhanced fusion in deuteron-absorbed palladium', Gad Shani et al.
+
+21. J. of Fusion Energy, vol. 9, No. 4, (12/90), pp. 517-524, 'Calorimetric studies of electrochemical incorporation of hydrogen isotopes in palladium', J. W. Fleming et al.
+
+22. The New York Times, (3/17/91), article by Broad on pages 1 and 30.
+
+23. C & EN (1/14/91), pp. 4-5, 'Cold fusion: Utah pressures Pons, Fleischmann', article by R. Dagani.
+
+24. J. of Fusion Energy, vol. 9, No. 4 (12/90), pp. 475-477, 'More searches for cold fusion', R. A. Henderson et al.
+
+25. J. of Fusion energy, vol. 9, No. 2 (6/90), pp. 165-186, 'Electrochemical cold fusion at IPP Garching', H. S. Bosch et al.
+
+26. J. of Fusion Energy, vol. 9, No. 2 (12/90), pp. 133-148, 'Measurement and analysis of neutron and gamma ray ...', D. Albagli et al.
+
+27. Physical Review B, vol. 43, No. 14, (11/15/90), pp. 9143-9146, 'Deuteratyed palladium at temperatures from 4.3 to 400K and pressures to 105 kbar: Search for cold fusion', I. F. Silvera et al, pp. 9143-9146.
+
+28. Nature, vol. 342 (11/23/89), pp. 375-384, 'Upper bounds on cold fusion in electrolytic cells', D. E. Williams et al.
+
+29. IEEE Transactions ion Nuclear Science, vol. 37, No. 3, (6/90), 'A sensitive multi-detector neutron counter ...', pp. 1165-1170, R. J. Ewing et al.
+
+30. 'Too Hot to Handle' (1990), W. H. Allen Pub., London W105AH by Frank Close, pp. 146-171, 200-215, 289-349, 351-353.
+
+31. NOVA Confusion in a Jar, Transcript of show No. 1802 of April 30, 1991, pp. 2-19.
+
+32. Physical Review C, vol. 42, No. 1 (7/90), pp. 30-37, 'Limits on neutron emission from cold fusion in metal hydrides', B. Balke et al.
+
+33. J. of Fusion Energy, vol. 9, No. 3 (1990), pp. 263-268, 'Search for cold fusion at D/Pd greater than 1 using ion implantation', S. M. Myers et al.
+
+34. J. of Electroanalytical Chemistry, vol. 332, Nos. 1 and 2, (14 August 1992), pp. 1-31, 'Analysis of experiments in the calorimetery of LiOD-D 2 O electrochemical cells', R. H. Wilson et al.
+
+35. Cold fusion: The Scientific Fiasco of the Century, University of Rochester Press, by Huizenga, (1992), pp. VII-IX, 22-41, 58-83, 86-91, 128-189, 200-223, 240-259.
+
+36. Science, (6/15/90), pp. 1299-1304, 'Cold fusion conundrum at Texas A & M', article by G. Taubes.
+
+37. J. of Fusion Energy, vol. 9, No. 4 (12/90), pp. 483-485, 'Cold fusion reaction products and their measurement', V. C. Rogers et al.

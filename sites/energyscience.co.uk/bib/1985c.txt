@@ -1,0 +1,9 @@
+1985c 
+
+ 1985c 
+
+ The following is a paper by H. Aspden published in Physics Letters, v. 107A, pp. 238-240 (1985).
+
+ THE EXPLODING WIRE PHENOMENON 
+
+ Abstract : Graneau's recent interpretation of the exploding wire phenomenon as an electrodynamic effect verifying Ampere's classical formulation is questioned. Instead it is shown that the rupturing force arising from the imbalance of the self-induced electromotive force and the ohmic potential during an explosive current surge will account for the wire breaking into several segments, as is observed.

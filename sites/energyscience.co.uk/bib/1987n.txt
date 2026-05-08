@@ -1,0 +1,22 @@
+1987n 
+
+ 1987n 
+
+ The following is an Abstract of a paper by H. Aspden and D. H. Gieskieng published in Speculations in Science and Technlogy , v. 10, p. 8 (1987).
+
+ AN ANTENNA WITH ANOMALOUS RADIATION PROPERTIES 
+
+ Abstract : Antennas designed to radiate electric and magnetic fields in quadrature timephase are found to have anomalous radiation properties relative to the in-phase propagation properties of the conventional dipole. It is shown that there is a marked advantage in wave survival efficiency over the dipole, increasingly evident beyond a mile range. This is attributed to the excitation of a natural wave propagation mode by the new antenna, rather than the dipole's forced wave propagation and the degeneration of the latter over the short range into a natural wave with some energy dissipation. 
+ These effects occur principally over the first few hundred metres of propagation and are distinguished from ground reflection factors by being performed at special canyon-type sites in Colorado. 
+
+ The phenomenon is discussed in relation to other anomalous evidence in conventional coaxial signal propagation at 5 MHz reported from the Center for Atmospheric and Space Sciences at Utah State University. Propagation between two atomic clocks along a 500-metre coaxial cable indicates that signal speed can fluctuate by up to 1% above or below the speed of light. It is suggested that this is really a fluctuating phase shift of up to a quarter wavelength attributable to the spurious excitation of the natural resonance of the field in relation to the forced wave propagation at the signal source. 
+
+Principal references: 
+
+Gieskieng, D.H., The Mines Magazine, p. 29 (January 1981). 
+Aspden, H., Wireless Wid, 88, 37 (October, 1982). 
+Aspden, H., Lett. Nuovo Cimento, 41, 252 (1984). 
+
+
+
+ The above Abstract was published with a notice which stated: 'For copies of the complete paper, which has 28 pages, 6 figures and 14 references, please contact Dr. Aspden.' this offer has now been withdrawn. The full paper is now published in these Web pages as: APPENDIX TO LECTURE No. 10 .

@@ -1,0 +1,11 @@
+1952c 
+
+ 1952c 
+
+ The following is a paper by H. Aspden published in The Journal of Scientific Instruments, vol. 29, pp. 371-374, (1952). 
+
+ A METHOD OF MEASURING THE MAGNETIC PERMEABILITY OF ROD SPECIMENS 
+
+ Abstract : A method is described by which the permeability of open-ended rod specimens is measured by detecting changes in flux density and field strength by search coil and fluxmeter means. A feature is introduced whereby a repeated reversal of magnetizing field results in the field-indicating fluxmeter adding all the field changes in the same sense so that the customary compromise between accuracy and sensitivity involved in direct measurements of field strength is avoided. The method is extended by connecting in opposition the field search coil and the flux search coil so that the above arrangement can be used as a sensitive flux-balance indicator and the accuracy of a permeability measurement rendered substantially independent of fluxmeter errors. 
+
+ Commentary : This paper was written during a period when the author was working for a Ph.D. degree which involved experimental research on the eddy-current anomaly. See the related paper: [1956a] . However, this method was not used in the eventual experiments which were the basis of that Ph.D. This paper was awarded a prize by the U.K. Institute of Physics.

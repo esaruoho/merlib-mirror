@@ -1,0 +1,12 @@
+1998a 
+
+ 1992c 
+ The following is a U.S. Patent granted to Harold Aspden with an issue date of April 7, 1992.
+
+ US PATENT NO 5,101,632 
+
+ 'THERMAL RADIATION ENERGY CONVERSION' 
+
+Abstract: Thermal energy radiation is converted into another energy form by setting up a temperature differential between two heat sinks forming part of a conventional converter or heat engine, but the warmer heat sink derives its input energy by collecting optically-foucesed thermal radiation from a primary heat sink within the converter structure. Heat rejected by the cooler heat sink is recycled to the primary heat sink to enhance the thermal efficiency above the Carnot level set by the base temperature conditions. The power rating of the converter is enhanced by combination with a reverse heat engine which elevates the temperature of a heat input to the primary heat sink and so the temperature of the radiating surface. 
+
+To inspect the full content of this patent specification refer to the following IBM Web site by pressing on the underlined address: http://www.patents.ibm.com/details?patent_number=5,101,632 .

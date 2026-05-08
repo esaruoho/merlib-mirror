@@ -1,0 +1,100 @@
+TUTORIAL 15 
+
+ TUTORIAL NOTE 15 
+
+ Welcome to the Second 'Semester' of Ten Tutorial Notes, which teach the mathematical basis of Aether Science theory. 
+
+ ABOUT TIME: HOW LONG IS A LIFETIME? 
+
+ Copyright, Harold Aspden, 1999 
+
+It is said that Einstein once asserted that "God does not play with dice." That remark implied his scepticism concerning the probability involved in Quantum Theory. In this I would submit that Einstein was wrong because, in some respects, life is a game of chance and, in particle physics, there is life and death, just as there is creation and birth. 
+
+It seems more appropriate to say that God would not have put actors on Nature's stage unless everyone of those actors had a part to play, even though the audience, we humans, might not as yet have developed the faculty of being able to see the performance in its full glory. 
+
+The principal actors, the stars of every performance, are those with the following names: 
+ 1. The protons 
+2. The electrons 
+and their antiparticles, backed by a supporting cast comprising: 
+ 1. The supergravitons 
+2. The gravitons 
+3. The virtual taons 
+4. The virtual muons 
+5. The quons 
+6. The background continuum 
+
+You will recognize that all matter in the universe is nothing other than those principal actors in their various guises, the neutron being nothing other than a composite form of electrons and positrons with a proton or antiproton. 
+
+However, that supporting cast may seem perplexing, simply because the members of that cast form, collectively, what one understands by the name 'aether'. The supergravitons, gravitons and the virtual taons are responsible for performing the act we call 'gravity'. The virtual muons are the 'hit men' responsible for the violence that is associated with particle decay but they have a creative influence as well. In contrast, the quons are responsible for the forces of law and order and communication, in that they feature in regulating photon events by which energy transactions involving the aether are quantized as they form electromagnetic waves or absorb those waves. Finally, the background continuum is, in a sense, the stage itself, a kind of revolving stage without which the performance would be impossible. 
+
+Such is the theatre of Aether Science, but the task of this Tutorial No. 15 will be to describe just one of the great events which occur in that theatre, namely "The Demise of the Muon." As to the myriad of other events performed on that stage of the Aether Science Theatre these web pages aim to give a fairly complete account, but here our task is restricted to a single theme, the story of the muon lifetime. 
+
+The muon or mu-meson, as it is otherwise called, has a mean lifetime of approximately 2.2 microseconds if it is moving quite slowly, but this lifetime will increase progressively as a function of speed for the reasons already explained in Tutorial No. 14. To complete that story we need to explain what determines that 2.2 microsecond lifetime in the rest state. 
+
+Now here I well know that theoretical physicists versed in the intricacies of what is known as 'Gauge Field Theory', with its Feynman diagrams and its prediction of the yet-to-be-discovered Higgs particle, claim to know the answer to this question. Here too, in their 'electroweak theory' they can bring to bear experimental data concerning the fine structure constant and the masses of the electron, the muon and the taon, plus the energies of the W and Z bosons, to argue a case for deriving the muon lifetime theoretically. On pages 232-236 of the book by D Bailin and A Love Introduction to Gauge Field Theory (1986), published by Adam-Hilger, the publishing house of the U.K. Institute of Physics, that calculation is shown to give a value of: 
+ 2.90 +/- 2.61 microseconds 
+which contrasts with the experimental value they mention as being: 
+ 2.197138 +/- 0.000065 microseconds 
+
+Such a result, having regard to the extreme complication of the mathematical preamble needed, is hardly reassuring. The uncertainty involved is greater than the quantity they are seeking to explain! So I will now show you how easy it is to get a very much better result using aether theory. 
+
+In Tutorial No. 14 I explained how the chance of a 'hit' causing muon decay depends upon the speed at which the muon travels. We must now calculate the chance of a 'hit' in the 'rest' state, but what do I mean by a 'hit'? The answer is those 'virtual muons' I mentioned above as being the 'hit men' of the aether. 
+
+All this means is that if you divide all space into cubic cells, there is a virtual muon pair in each cell, active in an ongoing scenario of mutual decay and recreation as a kind of random process as to the points at which the energy fluctuation converts back into muon form, the positive and negative virtual muons appearing as point charges in a spaced relationship commensurate with the cell dimension. This cycle of events recurs at the universal space frequency which is that of the Compton electron, namely 1.235x10 20 per second. It suffices to imagine that, in each cycle, the positive and negative muons appear as point charges, perhaps in alternate sequence, as one charge expands while the other contracts in form, decay meaning their degenerate intermediate state. For our purpose here it suffices to know that we can say, considering either polarity of virtual muon, the point charge appears somewhere in that cubic cell of space and at a new position in a rapid succession indicated by that Compton electron frequency. 
+
+All we then need to do is to calculate the chance of a 'hit', meaning the chance of that point charge appearing within the charge form of a real muon belonging to the matter state but sufficiently well inside to destroy that real muon, and we have calculated the lifetime of that real muon. 
+
+Note that the virtual muon is short-lived, but its very existence in the background aether in so prevalent a form means that the matter state can form quasi-stable charges which mimic the virtual muon. This arises because energy can be exchanged between charge forms that belong to the same family species in an energy conserving mode, at least for a period before onset of decay. The muon, as it appears in the matter form, is a misfit having a transient existence, but it acquires a little extra stability by pairing with a couple of electrons or positrons and this makes its mass-energy slightly different from that of the virtual muon. 
+
+This is all explained in my published scientific papers in which I show how aether theory allows the calculation of the precise mass of the muon. See [1983e] and [1983h] . 
+
+Here, however, to ease our calculation, we will assume that the virtual muon has the same mass-energy as the real muon, seen as a discrete charge, rather than a composite system. We will still get a lifetime value that is far superior to that afforded by electroweak theory. 
+
+A more elaborate calculation, giving a value closer, indeed close enough to the experimental value to amount to confirmation, is presented at page 146 in my book Physics Unified [1980e] . 
+
+The argument I use is to consider the real muon, say a positive muon, as sitting in its own cubic cell of space, each such cell of which is subject to a recurrent 'hit' by a positive virtual muon at the rate defined by the Compton electron frequency. If, in one of those 'hits', that virtual muon is born deep enough inside the real muon, then that muon will decay. There are only two questions to consider, namely how deep that penetration has to be and what is the physical size of that cubic cell of space measured in terms of the volume of the muon. 
+
+Well, I have shown elsewhere in these Tutorial Notes ( Tutorial No. 8 ) that the cubic cell of the aether, based on one quon per cell, has a side dimension that is 108 times the radius of the electron, this radius being that according to the J J Thomson formula, which is two-thirds of the textbook radius of the so-called 'classical electron'. See also my paper in Physics Letters, [1972a] . 
+
+The muon charge will have a radius that is smaller than this electron radius in the ratio of electron mass to muon mass. So if the muon has a mass that is assumed to be 206 times that of the electron, there will be (206) 3 muon volumes inside the volume taken up by an electron. So now, for this value of muon mass, you can calculate the chance of that virtual muon hit striking its target inside the muon charge. In every period at the Compton electron frequency there will be a one in N chance of a muon hit, where N has the value given by: 
+ (4 /3)N = (108 ) 3 (206) 3 
+
+Now we need to adjust this to cater for the 'hit' being deep enough inside the muon to assure its decay. This involves us in a little electrostatic theory to work out where that point charge virtual muon needs to strike to make muon survival impossible. The 'impossible' situation is one of negative energy. Our muon charge conforms with the J J Thomson formula relating its mass, its energy and its radius. I will begin by quoting from the analysis on page 145 of my book Physics Unified [1980e] : 
+ The line intensity within any charge sphere is uniform. This allows us to calculate the total energy. A charge e of radius x has a field line intensity at its surface of e/x 2 . This applies throughout its volume 4 x 3 /3. It corresponds to an energy term e 2 /6x, which, when added to the energy outside the radius x of e 2 /2x, gives 2e 2 /3x. 
+
+If a point charge e of opposite polarity appears within x at a radius y then the energy becomes: 
+ E + e 2 y/x 2 - 4e 2 /3x ... (1) 
+where E is the energy of the point charge. 
+
+That analysis then explained how this formula can be verified and went on to suggest that if this energy fell below a certain threshold corresponding to the particle form of the decay products then the muon would decay. Here, however, after verifying the above formula, we pursue an approximation by saying that if the net energy indicated by the above formula is zero or negative then the muon will decay. Our task is to find threshold value of y in terms of x for that condition to apply. 
+
+Note that the charge of the muon within a radius y is e(y/x) 2 and so the elemental charge de in a concentric spherical shell is given by: 
+ de = (2ey/x 2 )dy 
+Now if we put a point charge -e at the centre of the muon charge this will interact with de to set up a negative potential given by the integral of: 
+ - e(2ey/x 2 )/y 
+with respect to y over the range from 0 to x. 
+
+The result of this integration is -2e 2 /x. Now we know the energy of the muon on its own so we can add this to find an energy quantity equal to the last term in expression (1) above. Next, we must make an adjustment to cater for the point charge being displaced from that central position. In being displaced it is subject to that uniform field and so a restoring force proportional to y. This means that in taking up a position at radius y it involves additional energy of an amount given by the middle term in expression (1). Note that this energy is positive because work has been done in displacing the negative point charge within its positive host muon charge. Overall, therefore, if y falls below a value which makes the expression (1) negative, then the muon will decay. 
+
+With E put equal to the muon energy 2e 2 /3x, this condition arises when y is less than two-thirds of x. So now we can estimate that the chance of decay is reduced by the factor (2/3) 3 compared with the mere hit anywhere inside the muon charge. In other words, we must calculate the muon lifetime as being 3.375 times greater than the value suggested by our estimate of N above. 
+
+You can now work out the theoretical muon lifetime by assuming different values of the muon/electron mass ratio, given that the Compton electron frequency is 1.235x10 20 Hz. You will find that the data tabulated below applies, assuming that no finite energy threshold is demanded in order to preserve some residual decay product of electron or positron form. However, as I have intimated above I have shown in my book Physics Unified how you can allow even for that residual amount of energy to get a result better than you see in the Table below. 
+
+ Muon Decay Lifetime 
+ muon mass lifetime (s) 
+ 205 2.194x10 -6 
+ 206 2.226x10 -6 
+ 207 2.259x10 -6 
+ observed 2.197x10 -6 
+
+We have, by this extremely simple electrostatic analysis with its aether foundations, therefore obtained a lifetime for the muon which is a very good approximation to its measured lifetime. The simplicity of this result, bearing in mind that it is based on a theory of published record in Physics Letters [1972a]) that has already provided a theoretical value for the fine structure constant to part per million precision, has to command interest. The rival 'electroweak theory' is, indeed, weak in the extreme in comparison with this aether theory result. 
+
+Of course, you may say, that there are many particles and one needs to show that aether theory can explain more of their decay lifetimes than this one. That is true, and I have done that elsewhere [1981b] , [1982d] and [1984a] , but I point out that in 348 pages of 'Gauge Field Theory', Bailin and Love, in that book I referenced above, did not venture to derive any lifetime for any other particle using their 'electroweak theory'. I will, however, go further now in these Tutorial Notes to take you deeper into the realm of high energy particle physics in order to enhance the prowess of this aether theory. 
+
+I have dealt with its role in gravitation ( Tutorial No. 6 ) and have shown how protons are created ( Tutorial No. 9 ). Now I will move on to the story of how this aether theory developed in response to the challenges posed by the discovery of the fundamental particles which physicists create in their high energy accelerator experiments. 
+
+The aether is not a mere onlooker as particles take a pounding by being driven into one another with enormous energy. Not surprisingly the aether involves itself in the act, and has more to say on the subject than 'Gauge Field Theory', as you will see by referring now to Tutorial No. 16. 
+
+ To progress to the next Tutorial press: 
+ Tutorial No. 16 
+ *
