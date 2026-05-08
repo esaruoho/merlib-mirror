@@ -1,0 +1,22 @@
+{
+  "source": "live",
+  "domain": "punainen.org",
+  "mirror_date": "2026-05-08T12:49:24.988952",
+  "total_urls": 0,
+  "downloaded": 70,
+  "failed": 0,
+  "files": 70,
+  "file_types": {
+    ".gif": 3,
+    ".pde": 29,
+    ".html": 30,
+    ".html__c%3dd%3bo%3da": 1,
+    ".html__c%3dd%3bo%3dd": 1,
+    ".html__c%3dm%3bo%3da": 1,
+    ".html__c%3dm%3bo%3dd": 1,
+    ".html__c%3dn%3bo%3da": 1,
+    ".html__c%3dn%3bo%3dd": 1,
+    ".html__c%3ds%3bo%3da": 1,
+    ".html__c%3ds%3bo%3dd": 1
+  }
+}
