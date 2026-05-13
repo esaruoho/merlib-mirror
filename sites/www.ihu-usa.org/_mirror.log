@@ -1,0 +1,41 @@
+[2026-05-13 16:16:00] ============================================================
+[2026-05-13 16:16:00] WAYBACK MIRROR: www.ihu-usa.org
+[2026-05-13 16:16:00] Output: /Users/esaruoho/work/merlib-mirror/sites/www.ihu-usa.org
+[2026-05-13 16:16:00] Delay: 1.0s
+[2026-05-13 16:16:00] ============================================================
+[2026-05-13 16:16:00] Resuming: phase=init, 0 already done
+[2026-05-13 16:16:00] 
+=== PHASE 1: URL Discovery ===
+[2026-05-13 16:16:00] Querying CDX for www.ihu-usa.org/*...
+[2026-05-13 16:17:19]   Found 853 URLs for www.ihu-usa.org/*
+[2026-05-13 16:17:19] Querying CDX for www.www.ihu-usa.org/*...
+[2026-05-13 16:17:31]   No results for www.www.ihu-usa.org/*
+[2026-05-13 16:18:18] Total unique valid URLs: 481
+[2026-05-13 16:18:18]   image/jpeg: 147
+[2026-05-13 16:18:18]   image/png: 105
+[2026-05-13 16:18:18]   text/html: 104
+[2026-05-13 16:18:18]   application/javascript: 81
+[2026-05-13 16:18:18]   image/avif: 13
+[2026-05-13 16:18:18]   application/x-javascript: 8
+[2026-05-13 16:18:18]   text/css: 7
+[2026-05-13 16:18:18]   text/x-component: 5
+[2026-05-13 16:18:18]   font/woff2: 4
+[2026-05-13 16:18:18]   image/svg+xml: 3
+[2026-05-13 16:18:18]   image/webp: 1
+[2026-05-13 16:18:18]   application/json: 1
+[2026-05-13 16:18:18]   image/x-icon: 1
+[2026-05-13 16:18:18]   application/manifest+json: 1
+[2026-05-13 16:18:18] 
+=== PHASE 2: Downloading ===
+[2026-05-13 16:18:36] [1/481] FAIL https://www.ihu-usa.org/_next/image?url=%2FImages%2Fabout1.png&w=128&q
+[2026-05-13 16:19:27] [4/481] FAIL https://www.ihu-usa.org/_next/image?url=%2FImages%2Fabout2.png&w=640&q
+[2026-05-13 16:20:15] [5/481] FAIL https://www.ihu-usa.org/_next/image?url=%2FImages%2Fabout2.png&w=828&q
+[2026-05-13 16:21:33] [6/481] FAIL https://www.ihu-usa.org/_next/image?url=%2FImages%2Fanthem.png&w=1080&
+[2026-05-13 16:23:11] [9/481] FAIL https://www.ihu-usa.org/_next/image?q=75&url=%2FImages%2Fanthem.png&w=
+[2026-05-13 16:24:33] [12/481] FAIL https://www.ihu-usa.org/_next/image?url=%2FImages%2FBanners%2Fbanner1.
+[2026-05-13 16:25:23] [13/481] FAIL https://www.ihu-usa.org/_next/image?url=%2FImages%2FBanners%2Fbanner1.
+[2026-05-13 16:26:59] [14/481] FAIL https://www.ihu-usa.org/_next/image?w=1080&q=75&url=%2FImages%2Ffaq.jp
+[2026-05-13 16:27:55] [15/481] FAIL https://www.ihu-usa.org/_next/image?url=%2FImages%2Ffaq.jpg&w=640&q=75
+[2026-05-13 16:29:10] [18/481] FAIL https://www.ihu-usa.org/_next/image?w=640&q=75&url=%2FImages%2Fmission
+[2026-05-13 16:29:45] [19/481] FAIL https://www.ihu-usa.org/_next/image?q=75&url=%2FImages%2Fmission.png&w
+[2026-05-13 16:30:34] [20/481] FAIL https://www.ihu-usa.org/_next/image?url=%2FImages%2FPrograms%2Fimage1.
