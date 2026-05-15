@@ -1,0 +1,205 @@
+Electromagnetic Wind, part 1 - Levitating systems L-S.org
+
+ Electromagnetic wind ( EM wind ) part 1. 
+
+Calculation of the thrust produced by electromagnetic (EM) radiation 
+shows that it is very low, according to some scientists, thus, they say,
+we will never be able to use it for efficient thrust technology.
+What they are refering to, is light, radio, microwave radiation, basically,
+to any photons, whatever their wave length might be. Does it mean that will 
+never be able to achieve propelentless thrust production, and always have to
+carry working medium inside the space craft? If yes, we won't go far away 
+from Earth, and if yes, it will be with speed that is always tightly linked
+with speed of working medium, and that speed will never be high. But maybe
+those scientists are wrong, maybe their formulas and calculations of thrust
+produced by photons are wrong?
+
+No, the calculation for thrust by electromagnetic (EM) radiation for photons
+is correct, the momentum carried by electromagnetic radiation equals its
+energy divided by the speed of light, with formula p=E/c. But these 
+scientists made mistake when they apply it to all other forms of 
+EM vibrations/flow in space.
+
+It is like the problem with fur coat of white color, when people
+try to figure out what is the animal the coat was made, and some
+people think it is from bear because the fur looks like bears.
+Then, somebody comes forward and say that it can not be made from
+bears fur simply because all the bears that we know about are of 
+brown color. They say that all bears are of brown color, and period.
+No white fur from bears, because all of them are brown in color, they say.
+But then others will correctly note that white bears do exist and live 
+on North pole, so the fur was indeed made of white bear fur, even though
+we usually don't see white bears where we live.
+
+Similar to the above problem with EM vibrations thrust, if one
+of the forms of EM vibrations has extremly low momentum/thrust,
+it doesn't mean that all the forms of EM radiation are the same,
+with low momentum. Some of them have very high momentum, thus
+high thrust produced. Its just that we don't encounter them 
+very often, however they do exist.
+
+It is known that EM oscilations are very similar to the mechanical
+systems oscilations. And both of them are producing waves that
+carry away very low momentum. 
+EM oscilations produce light, mechanical oscilations produce sound.
+In case of mechanical systems vibrating in air, they produce "sound", 
+with various frequency, depending on vibrating frequency of the 
+mechanical system. Average human can detect (hear) sound with 
+frequency from around 15 herz to 15000 herz. 
+Sound with 15 herz frequency is low, deep sound, while 15000 herz
+is very high-toned sound. The average human is most sensitive to
+the middle between those two frequencies - around 3000-4000 herz.
+The frequency of light cariers - photons - that average human can 
+detect is much higher - red light has a frequency around 430 THz,
+(430 Terahertz, 4,3 x 10^14 Hz), blue near 650 THz (6,5 x 10^14 Hz).
+Similarly to the sound detection, the average human is most sensitive
+to the light frequency between those two end frequencies - to the 
+yellow-green light, whose photons with frequency near 520 THz is
+between red and blue light photons frequency.
+
+Sound is produced in medium such as air, by mechanical oscilators,
+while EM light cariers are produced in ether, by EM oscilators.
+Ether is gaseous body, as noted long time ago by Nikola Tesla,
+Serbian-American scientist, who wrote in article "Pioneer radio 
+engineer gives views on power", published in New York Herald Tribune,
+Sept. 11, 1932, [ 2, p.94 ]: 
+# "I showed that the universal medium is a gaseous body in which only
+longitudinal pulses can be propagated, involving alternating 
+compressions and expansions similar to those produced by sound waves 
+in the air. Thus, a wireless transmitter does not produce hertz waves,
+which are a myth, but sound waves in the ether, behaving in every 
+respect like those in the air, except that, owing to the great elastic
+force and extremely small density of the medium, their speed is that 
+of light." #
+
+Some examples of the simple mechanical oscilators are
+steel ball with mass M on end of spring with elasticity K.
+Simpliest EM oscilator is circuit with and inductor(L) with
+inductivity L and capacitor(C) with capacitance power C.
+
+Analogy between mechanical and electromagnetic oscilations
+is even more evident after comparing some values and formulas
+for both of them:
+
+Cinetic energy of mechanical oscilator with steel ball on spring
+which was mentioned above is: 
+MVx^2/2 
+while energy of magnetic field in EM oscilator is: 
+Li^2/2
+
+Potential energy of mechanical oscilator is: 
+Kx^2/2 
+while energy of electrical field in EM oscilator is: 
+q^2/2C
+
+Frequency of the oscilations of the ball on spring is: 
+Wo = (square root of) k/m 
+while frequency of the oscilation of the EM oscilator is: 
+Wo = (square root of) 1/LC
+
+For all three of the above formulas for mechanical and EM oscilations:
+
+Mechanical value ..... equal to - ..... Electromagnetic value 
+--------------------------------------------------------------- 
+M is mass of ball, equal to - inductivity L, 
+Vx is speed of the ball, equal to - current i, 
+K is elasticity of spring, equal to - capacitance 1/C, 
+x is coordinate of ball, equal to - charge q, 
+Ax (V'x) is acceleration of ball, equal to speed of current change: i'.
+
+Here is the graphic representation of mechanic and EM oscilations analogy,
+with spring and ball in the left column, EM oscilating circuit in the middle,
+and chart with speed and acceleration in the right column:
+
+Both of mechanical oscilators with spring and ball, and simple
+electromagnetic circuit with capacitor and inductor, make harmonic 
+oscilations, and produce sine waves. And both produce waves in
+surrounding medium, like air or ether, that have extremely low momentum,
+since acceleration of ball, or current change, is changing with time
+during one oscilating period, and even becoming negative for one half of 
+the time needed for one oscialation period.
+
+Thus, using of waves in air, sound, or EM waves in ether, light,
+is not appropriate method for thrust production. To make 1 ton craft
+levitate with sound will require such high level of energy that
+in area with circle of 1000 km (600 miles) all living beings will die
+due to huge air-presure changes, and in the whole planet Earth 
+everybody will be deaf after even short flight of such craft, closer
+to source of such sound, the more demage to the living beings.
+Similarly, the craft powered with light, so called "photon rocket"
+will have to produce such much photons that it will completly burn
+the huge area behind it, whole countries, or even continents, have it 
+been on surface of the Earth before flight, so some scientists made
+proposal to take such craft far away from Earth, as far as Moon
+and only then to start its engines. So, the "photon rocket" is wrong
+way of thrust production, as is with using air waves, sound, for
+thrust production of aircraft.
+
+The solution for using energy of air oscilations with mechanical systems
+is in the fact that their simple uniform harmonic motion is intimately 
+related to uniform circular motion. In other words, harmonic motion
+of spring with ball is related to rotating system like wheel with ball.
+The difference is that rotating system will have permanent speed and
+permanent acceleration, thus being able to produce high momentum motion
+in surrounding area like air or water. 
+
+Such circular, rotating mechanical systems are now widely used in
+thrust technology, starting few centuries ago with steam ships with wheel
+behind or on the side of the ship, then with propeler, then with first
+airplane with propeler, and now days with helicopters. The thrust produced
+with propeler is high, since there is high coefficient of power
+transfered from engine to the medium like air or water, with propeler
+converting it to the thrust. The fluctuations in medium are different then
+those produced by uniform harmonic motion systems. In circular motion
+mechanical systems, the fluctuations of medium are unidirectional, with
+permanent speed and presure, creating "wind" in air, or flow in water,
+while in uniform harmonic motion systems like spring with ball oscilation
+are with variable and even negative speed and presure, creating "sound"
+vibrations in surrounding medium. Circular mechanical motion systems can 
+and do produce sound vibrations, but those are just co-product and not 
+related to the thrust production. In other words, helicopters make a lot of
+noise, but their thrust comes from wind, not from that noise.
+
+The similar circular, or rotating systems, is used to simulate
+permanent speed of current change in EM systems. Rotating EM systems
+produce permanently, never ending accelerating EM field, thus creating
+flow in ether that can be named as "Electromagnetic wind" (EM wind).
+EM wind is not the same as EM oscilations known as photons, and one of
+the diferences is that EM wind carries high momentum, so the high thrust
+and speed of such craft is easy to achieve. To the surrounding medium -
+- ether, the rotating EM system looks like if its current is permanently
+accelerating, and that acceleration is being transfered to ether with
+high coefficient. Circular EM systems, as circular mechanical systems do,
+also produce oscilating vibrations in medium, in ether, known as "photons"
+or light, but it not related to the thrust production, as sound is not
+related to the thrust production in circular mechanical systems.
+Such light will change its original wave length depending on which side
+of rotating system it will go out of it. If it leaves from the bottom,
+where exit of EM wind is supposed to be located under normal circumstances,
+then EM wind will add some amount of energy to that light, thus shifting
+its frequency to the higher, because frequency of photon is proportional to
+its energy, and on opposite, if light leaves from the top of that system,
+where EM wind/flow is comming inside that rotating system then EM wind will
+decrease some amount of energy from those photons, thus shifting their 
+frequency to the lower. The higher energy of EM wind or higher frequency 
+of rotation, the bigger shifting it will make to both lower and top exiting
+light. The green light thus turns to red at the top, and to blue at the 
+bottom, when rotating frequency and power of EM wind is at the high level,
+and is going back to the original frequency - green, when rotating frequency
+is decreasing, like in case when craft stops. The higher difference in light
+on the bottom and on the top reflects higher assymetry in EM energy and
+pressure levels, and thus higher thrust production. The movement of such 
+craft is from bottom to the top, which is opposite to the movement of EM wind
+which flows from the top to the bottom of the craft. The flow of EM wind is
+directed through special canals/tubes, in order to better direct them and 
+also to prevent craft's personal from harmfull high energy radiation.
+In order to prevent build-up of electrical charges, the surface of that craft
+is as smooth as possible.
+
+Vencislav Bujic 
+27 May 2003 
+
+Copyright 2003 by Vencislav Bujic. All rights reserved. 
+This text and images can be reproduced in full only ifcredit
+is given to the author and location www.vacuum-energy.com
+( www.l-s.org ) where it was originally posted.
