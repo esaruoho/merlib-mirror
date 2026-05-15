@@ -1,0 +1,307 @@
+
+<html>
+<head>
+  <title>The Gyroscope - Everything you needed to know</title>
+  <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+  <meta http-equiv="pics-label" content='(pics-1.1 "http://www.icra.org/ratingsv02.html" comment "ICRAonline EN v2.0" l gen true for "no gen term" r (nz 0 vz 0 lz 0 oz 0 cz 0) "http://www.rsac.org/ratingsv01.html" l gen true for "no gen term" r (n 0 s 0 v 0 l 0))'>
+  <META NAME="Author" CONTENT="Glenn Turner">
+  <META NAME="keywords" CONTENT="gyroscope, gyroscopes , gyro, gyros, gyroscopic propulsion">
+  <META NAME="Description" CONTENT="The Gyroscope has many uses, this site explains how a gyroscope works and what it can be used for. The site also looks at the possible use of gyroscope based propulsion (gyroscopic propulsion). ">
+  <META NAME="Copyright" CONTENT="Copyright 2003 (All Web Pages) by Glenn Turner">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="expires" content="0">
+  <link rel="stylesheet" href="/iesite.css" type="text/css">
+</head>
+<body bgcolor="#000000">
+  <div style="position: absolute; top: 2; width=100%; z-index: 1"><center><img src="/header.jpg" alt="" hspace=0 vspace=0 width=700 height=111></center></div>
+
+  <table border=0 cellpadding=0 cellspacing=0 width="0" height="96">
+  <tr>
+    <td></td>
+  </tr>
+  </table>
+
+  <center>
+  <span class="menutitle">
+    <a href="/index.asp"><font color="#991111">Home</font></a> :
+    <a href="/gallery.asp"><font color="#991111">Gallery</font></a> :
+    <a href="/history.asp"><font color="#991111">History</font></a> :
+    <a href="/uses.asp"><font color="#991111">Uses</font></a> :
+    <a href="/behaviour.asp"><font color="#991111">Behaviour</font></a> :
+    <a href="/math.asp"><font color="#991111">Maths</font></a> :
+    <a href="/forum/qa.asp"><font color="#991111">Forum</font></a> :
+    <a href="/propulsion.asp"><font color="#991111">Propulsion</font></a> :
+    <a href="/links.asp"><font color="#991111">Links</font></a> :
+    <a href="/glossary.asp"><font color="#991111">Glossary</font></a>
+    <br>
+  </span>
+
+  <table border=0 cellpadding=0 cellspacing=0 width="0" height="11">
+  <tr>
+    <td></td>
+  </tr>
+  </table>
+
+
+
+
+
+  <table border=0 cellpadding=8 cellspacing=0 width="700" height="260" bgcolor="#FFFFFF" ID="Table1">
+  <tr>
+    <td valign="top" class="main">
+<table align="center" width="100%" border="0">
+  <tr>
+    <td align="left" width="30%" valign="top">
+      <a href="qa.asp">Main Forum Page</a>
+    </td>
+    <td align="center" valign="middle">
+      <h2 border="0">The Gyroscope Forum</h2></td>
+    <td align="right" width="30%" valign="top">
+      12 January 2004 13:56
+    </td>
+  </tr>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <p align=left>Welcome to the gyroscope forum. If you have a question about gyroscopes in general,
+      want to know how they work, or what they can be used for then you can leave your question here for others to answer.
+         You may also be able to help others by answering some of the questions on the site.
+      </p>
+      <p>
+      <form action="qa.asp" method="post">
+      Search the forum: <input type="text" value="" name="forumsearch">&nbsp;<input type="submit" value="Search" name="forumsearchsubmit">
+      </form>
+      </p>
+      <b>To ask a question <a href="askquestion.asp">click here</a></b><hr width=75%>
+    </td>
+  </tr>
+</table>
+<table align=center border=0 width=95% cellspacing=0 cellpadding=2 class=gallerytable>
+<tr>
+<td align=center width=100><a href="qa.asp?page=3">&lt;&lt; Prev</a></td><td align=center><b>Page 1 of 9</b><br><font size=-1>( 82 Questions found)</font></td><td align=center width=100><a href="qa.asp?page=5">Next &gt;&gt;</a></td></tr></table><p><table border="0" align="center" width="95%">
+
+<tr>
+<td colspan="2"  align="left">
+<a href="questions.asp?id=77"><b><font color="#000000">GYROS</font></b></a><br>
+DIRECTIONAL GYRO C.L.11. 
+PART No.19331-0M 
+SERIAL No.395/62 
+MADE IN ENGLAND BY SPERRY GYROSCOPE 
+BRACKNELL BERKS 
+ 
+DIRECTIONAL CONTROL TYPE J-4 
+GYRO MAGNETIC AIRCRAFT SPEC. MIL C 5412 
+MFR <b>...</b> <br>
+22 September 2003 by <i>GIULIANO  I4VGG</i> <br>
+<a href="questions.asp?id=77">Read Question in Full</a>
+
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="questions.asp?id=77">View Answers (1 answers)</a>
+  </td></tr><tr><td align="left" colspan="2">&nbsp;</td></tr>
+<tr>
+<td colspan="2" class=forumodd align="left">
+<a href="questions.asp?id=76"><b><font color="#000000">Can't make postings</font></b></a><br>
+I get 
+ error '8004020f' /forum/general.inc, line 46 	 
+when I try to post an answer. 
+It would be useful for me and others here to know why. 
+Maybe part of the system is down for backups? (it is  <b>...</b> <br>
+20 September 2003 by <i>Mike Hardman</i> <br>
+<a href="questions.asp?id=76">Read Question in Full</a>
+
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="questions.asp?id=76">View Answers (3 answers)</a>
+  </td></tr><tr><td align="left" colspan="2">&nbsp;</td></tr>
+<tr>
+<td colspan="2"  align="left">
+<a href="questions.asp?id=75"><b><font color="#000000">use of gyroscope in a missile</font></b></a><br>
+need information on these topics, require ur assistance.thanks 
+ 
+1. what type of a gyro do we use in a missile? 
+2. how does it calculate the position of the missile with respect to the target? 
+ <b>...</b> <br>
+18 September 2003 by <i>vishwas karma</i> <br>
+<a href="questions.asp?id=75">Read Question in Full</a>
+
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="questions.asp?id=75">View Answers (1 answers)</a>
+  </td></tr><tr><td align="left" colspan="2">&nbsp;</td></tr>
+<tr>
+<td colspan="2" class=forumodd align="left">
+<a href="questions.asp?id=74"><b><font color="#000000">regarding gyroscopic couple</font></b></a><br>
+How do you analyse the direction of the active and reactive gyroscopic couple. I would like to know the answer by starting from the exact basics of what is gyroscopic couple etc. <br>
+17 September 2003 by <i>Ameya Soparkar</i> <br>
+<a href="questions.asp?id=74">Read Question in Full</a>
+
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No answers as yet.
+  </td></tr><tr><td align="left" colspan="2">&nbsp;</td></tr>
+<tr>
+<td colspan="2"  align="left">
+<a href="questions.asp?id=73"><b><font color="#000000">how does a gyroscope work?</font></b></a><br>
+I need to know if a gyroscope could detect movement. Let say that I was holding a gyroscope and moving at the same time, would my moving forward, backwards, to the left or right change the motion of t <b>...</b> <br>
+12 September 2003 by <i>Eugene Agyili</i> <br>
+<a href="questions.asp?id=73">Read Question in Full</a>
+
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="questions.asp?id=73">View Answers (2 answers)</a>
+  </td></tr><tr><td align="left" colspan="2">&nbsp;</td></tr>
+<tr>
+<td colspan="2" class=forumodd align="left">
+<a href="questions.asp?id=72"><b><font color="#000000">Large Gyro Saftey</font></b></a><br>
+Hi, 
+I know some people building a very large gyro. It has two spinning rings, a 9 ft. diameter ring with an 8 ft. diameter ring inside it. They are made of 6 inch schedule 40 steel tubing, so very h <b>...</b> <br>
+8 September 2003 by <i>Pat Wickline</i> <br>
+<a href="questions.asp?id=72">Read Question in Full</a>
+
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="questions.asp?id=72">View Answers (1 answers)</a>
+  </td></tr><tr><td align="left" colspan="2">&nbsp;</td></tr>
+<tr>
+<td colspan="2"  align="left">
+<a href="questions.asp?id=71"><b><font color="#000000">gyro MK 12-1</font></b></a><br>
+I found an old wooden box in basement. It has a something in it called a MK 12-1 Gyro 
+Can you forward me any information? Is it worth anything? 
+It's pretty cool looking ..thanks! <br>
+6 September 2003 by <i>Guy Ruggiero</i> <br>
+<a href="questions.asp?id=71">Read Question in Full</a>
+
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="questions.asp?id=71">View Answers (2 answers)</a>
+  </td></tr><tr><td align="left" colspan="2">&nbsp;</td></tr>
+<tr>
+<td colspan="2" class=forumodd align="left">
+<a href="questions.asp?id=70"><b><font color="#000000">Applying gyroscopes</font></b></a><br>
+I have an idea that a bicycle, especially a training bicycle, could be fitted with a gyroscope of some sort to help stabilize both bike and rider while the biker would "get the hang" of balancing hims <b>...</b> <br>
+3 September 2003 by <i>Jim Sylvester</i> <br>
+<a href="questions.asp?id=70">Read Question in Full</a>
+
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="questions.asp?id=70">View Answers (1 answers)</a>
+  </td></tr><tr><td align="left" colspan="2">&nbsp;</td></tr>
+<tr>
+<td colspan="2"  align="left">
+<a href="questions.asp?id=69"><b><font color="#000000">GYROSCOPE</font></b></a><br>
+I HAVE TO MUCH GYROS AND I AM LOOKING FOR THE ELECTRIC SCHEMA FOR TO EXPERIMENT .I HAVE THE 3 PHASE 400 HZ GENERATOR.CAN YOU HELP ME? 
+I4VGG 
+GIULIANO <br>
+2 September 2003 by <i>GIULIANO</i> <br>
+<a href="questions.asp?id=69">Read Question in Full</a>
+
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No answers as yet.
+  </td></tr><tr><td align="left" colspan="2">&nbsp;</td></tr>
+<tr>
+<td colspan="2" class=forumodd align="left">
+<a href="questions.asp?id=68"><b><font color="#000000">German WW2 Torpedo Gyro</font></b></a><br>
+Hi, 
+ 
+Wondering if anyone can point me to where I can find information on German WW2 period (pre-WW2?) torpedo gyros. I'm specifically after the G7a T1 (21") torpedo gyro. Any pointers would be gre <b>...</b> <br>
+27 August 2003 by <i>Andrew Gee</i> <br>
+<a href="questions.asp?id=68">Read Question in Full</a>
+
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="questions.asp?id=68">View Answers (1 answers)</a>
+  </td></tr><tr><td align="left" colspan="2">&nbsp;</td></tr>
+<tr>
+<td colspan="2"  align="left">
+<a href="questions.asp?id=67"><b><font color="#000000">Monorail Trains and gyroscope</font></b></a><br>
+Hi, can everybody describe how does the stabilizer of Monorail Trains work? And how does the gyroscope install on the Monorail Trains? <br>
+25 August 2003 by <i>Sh.Yazdani</i> <br>
+<a href="questions.asp?id=67">Read Question in Full</a>
+
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="questions.asp?id=67">View Answers (6 answers)</a>
+  </td></tr><tr><td align="left" colspan="2">&nbsp;</td></tr>
+<tr>
+<td colspan="2" class=forumodd align="left">
+<a href="questions.asp?id=66"><b><font color="#000000">Gyroscope in radios</font></b></a><br>
+Hi, I am looking for a motion sensor that can fit in a radio and tell me the sensed rotation not necessary translation. Hopefully, the price could be cheaper. I am not quite sure about the price of a  <b>...</b> <br>
+22 August 2003 by <i>guow</i> <br>
+<a href="questions.asp?id=66">Read Question in Full</a>
+
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="questions.asp?id=66">View Answers (2 answers)</a>
+  </td></tr><tr><td align="left" colspan="2">&nbsp;</td></tr>
+<tr>
+<td colspan="2"  align="left">
+<a href="questions.asp?id=65"><b><font color="#000000">Adjusting a Tedco gyroscope</font></b></a><br>
+I have a Tedco gyroscope that's not functioning as it should. When started it vibrates, makes noises and when put on a table or so a lot of contact noise from the gyroscope is heard. I tried to make s <b>...</b> <br>
+19 August 2003 by <i>Andre</i> <br>
+<a href="questions.asp?id=65">Read Question in Full</a>
+
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="questions.asp?id=65">View Answers (1 answers)</a>
+  </td></tr><tr><td align="left" colspan="2">&nbsp;</td></tr>
+<tr>
+<td colspan="2" class=forumodd align="left">
+<a href="questions.asp?id=64"><b><font color="#000000">price of a vsg</font></b></a><br>
+Hello i wanted to know the price of a VSG , a vibrating gyroscope in all the 3 dimensions.Can u please help me on this? <br>
+15 August 2003 by <i>Swetha</i> <br>
+<a href="questions.asp?id=64">Read Question in Full</a>
+
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="questions.asp?id=64">View Answers (1 answers)</a>
+  </td></tr><tr><td align="left" colspan="2">&nbsp;</td></tr>
+<tr>
+<td colspan="2"  align="left">
+<a href="questions.asp?id=62"><b><font color="#000000">Home made demonstration gyro</font></b></a><br>
+I want to build a demonstration gyroscope. Can anyone recomend what kind of bearings to use and where they might be purchased ? <br>
+12 August 2003 by <i>Peter Perou</i> <br>
+<a href="questions.asp?id=62">Read Question in Full</a>
+
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="questions.asp?id=62">View Answers (2 answers)</a>
+  </td></tr><tr><td align="left" colspan="2">&nbsp;</td></tr>
+<tr>
+<td colspan="2" class=forumodd align="left">
+<a href="questions.asp?id=61"><b><font color="#000000">building a machine</font></b></a><br>
+Any private individuals out there with funding for the building of a gyroscopic propulsion device? <br>
+11 August 2003 by <i>dave</i> <br>
+<a href="questions.asp?id=61">Read Question in Full</a>
+
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="questions.asp?id=61">View Answers (11 answers)</a>
+  </td></tr><tr><td align="left" colspan="2">&nbsp;</td></tr>
+<tr>
+<td colspan="2"  align="left">
+<a href="questions.asp?id=60"><b><font color="#000000">how is a gyroscope made north seeking?</font></b></a><br>
+hi everyone, i'd like to know how a gyroscope is made north seeking for use in a gyro compass. now i know about the rigidity in space n precession... as in, what they are n what they mean with ref. to <b>...</b> <br>
+8 August 2003 by <i>suds</i> <br>
+<a href="questions.asp?id=60">Read Question in Full</a>
+
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="questions.asp?id=60">View Answers (2 answers)</a>
+  </td></tr><tr><td align="left" colspan="2">&nbsp;</td></tr>
+<tr>
+<td colspan="2" class=forumodd align="left">
+<a href="questions.asp?id=59"><b><font color="#000000">Electric power consumption...</font></b></a><br>
+Could someone tell me the electric power consumption(watt) of a gyroscope? I think of the gyroscopes in a robot, maybe someone knows a source where technical details are listed. 
+ 
+ 
+Thank you :) <br>
+4 August 2003 by <i>Coldmind</i> <br>
+<a href="questions.asp?id=59">Read Question in Full</a>
+
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="questions.asp?id=59">View Answers (1 answers)</a>
+  </td></tr><tr><td align="left" colspan="2">&nbsp;</td></tr>
+<tr>
+<td colspan="2"  align="left">
+<a href="questions.asp?id=58"><b><font color="#000000">what is a gyroscope?</font></b></a><br>
+what is a gyroscope and what do they have to do with bikes? 
+ <br>
+29 July 2003 by <i>bridget jones</i> <br>
+<a href="questions.asp?id=58">Read Question in Full</a>
+
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="questions.asp?id=58">View Answers (4 answers)</a>
+  </td></tr><tr><td align="left" colspan="2">&nbsp;</td></tr>
+<tr>
+<td colspan="2" class=forumodd align="left">
+<a href="questions.asp?id=57"><b><font color="#000000">www.gyroscope.com?!!</font></b></a><br>
+Hi - I'm trying to buy a gyroscope, a toy one. www.gryroscope.com & .co.uk seem to have dissapeared! Does anyone know where i can buy one...? 
+ 
+thanks in advance - 
+ 
+Andrew <br>
+24 July 2003 by <i>Andrew Woollatt</i> <br>
+<a href="questions.asp?id=57">Read Question in Full</a>
+
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="questions.asp?id=57">View Answers (1 answers)</a>
+  </td></tr></table><table align=center border=0 width=95% cellspacing=0 cellpadding=2 class=gallerytable>
+<tr>
+<td align=center width=100><a href="qa.asp?page=3">&lt;&lt; Prev</a></td><td align=center><b>Page 1 of 9</b><br><font size=-1>( 82 Questions found)</font></td><td align=center width=100><a href="qa.asp?page=5">Next &gt;&gt;</a></td></tr></table><p>    </td>
+  </tr>
+  </table>
+  
+  <font class="copyright">
+  Webpage. Copyright &copy; 2004 Glenn Turner. All rights reserved. <a href="/site.asp"><font color="#991111">more info</font></a><br>
+     All other images/content copyrighted to the designated owners,<br>
+      and must not be reproduced or distributed without prior permission. 
+  </font>
+</center>
+
+</body>
+</html>

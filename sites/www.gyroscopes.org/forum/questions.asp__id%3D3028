@@ -1,0 +1,846 @@
+
+<html>
+<head>
+  <title>Gyroscopes - Everything you needed to know</title>
+  <meta HTTP-EQUIV="Content-Type" content="text/html; charset=iso-8859-1">
+  <meta http-equiv="pics-label" content='(pics-1.1 "http://www.icra.org/ratingsv02.html" comment "ICRAonline EN v2.0" l gen true for "no gen term" r (nz 0 vz 0 lz 0 oz 0 cz 0) "http://www.rsac.org/ratingsv01.html" l gen true for "no gen term" r (n 0 s 0 v 0 l 0))'>
+  <meta name="Author" content="Glenn Turner">
+  <meta name="keywords" content="gyroscope, gyroscopes , gyro, gyros, gyroscopic propulsion">
+  <meta name="Description" content="Gyroscopes have many uses, this site explains how a gyroscope works and what they can be used for. The site also looks at the possible uses of gyroscope based propulsion (gyroscopic propulsion). ">
+  <meta name="Copyright" content="Copyright 2015 (All Web Pages) by Glenn Turner">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="expires" content="0">
+  <link rel="stylesheet" href="/iesite.css" type="text/css">
+  
+</head>
+<body bgcolor="#000000">
+  <div style="  float: center; margin: 0; border: none; padding: 0; " align=center><center><img src="/header.jpg" alt="" hspace=0 vspace=0 width=700 height=111></center></div>
+  <center>
+  <span class="menutitle">
+    <a href="/index.asp"><font color="#DDDDDD">Home</font></a> :
+    <a href="/gallery.asp"><font color="#DDDDDD">Gallery</font></a> :
+    <a href="/history.asp"><font color="#DDDDDD">History</font></a> :
+    <a href="/uses.asp"><font color="#DDDDDD">Uses</font></a> :
+    <a href="/behaviour.asp"><font color="#DDDDDD">Behaviour</font></a> :
+    <a href="/math.asp"><font color="#DDDDDD">Maths</font></a> :
+    <a href="/forum/forums.asp"><font color="#DDDDDD">Forum</font></a> :
+    <a href="/propulsion.asp"><font color="#DDDDDD">Propulsion</font></a> :
+    <a href="/links.asp"><font color="#DDDDDD">Links</font></a> :
+    <a href="/glossary.asp"><font color="#DDDDDD">Glossary</font></a>
+    <br>
+  </span>
+
+  <table border=0 cellpadding=0 cellspacing=0 width="0" height="11">
+  <tr>
+    <td></td>
+  </tr>
+  </table>
+
+
+
+
+
+  <table border=0 cellpadding=8 cellspacing=0 width="700" height="260" bgcolor="#FFFFFF" ID="Table1">
+  <tr>
+    <td valign="top" class="main">
+<table align="center" width="100%" border="0">
+  <tr>
+    <td align="left" width="20%" valign="top">
+      <a href="forums.asp">Main Forum Page</a>
+    </td>
+    <td align="center" valign="middle">
+      
+      <h2 border="0">       
+      The Gyroscope Forum</h2></td>
+    <td align="right" width="20%" valign="top">
+      20 January 2021 00:20
+    </td>
+  </tr>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <p align=left>Welcome to the gyroscope forum. If you have a question about gyroscopes in general,
+      want to know how they work, or what they can be used for then you can leave your question here for others to answer.
+         You may also be able to help others by answering some of the questions on the site.
+      </p>
+      
+      <table width="100%">
+      <tr><td>
+        <form action="qa.asp" method="get">
+        <b>Search the forum: </b><input type="text" value="" name="forumsearch" size=30>&nbsp;<input type="submit" value="Search" name="forumsearchsubmit">
+          <input type=hidden name="forum" value="">
+        </form>
+      </td><td>
+        
+        <form action="askquestion.asp" method="post">
+        <input type="submit" value="Ask new Question" name="forumsearchsubmit">&nbsp;
+        
+        <input type="submit" value="Login" name="Login"> 
+        
+        </form>
+      </td></tr>
+      </table>
+      <hr width=100%>
+    </td>
+  </tr>
+</table>
+
+<table align="center" border="0" width="95%">
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><h3>Question</h3></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Asked by:</b></td>
+    <td align="left" colspan="2" valign="top">Brian Morris</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Subject:</b></td>
+    <td align="left" colspan="2" valign="top">Dark Motion</td>
+  </tr>
+  <tr>
+    <td align=right class=medium valign="top" nowrap><b>Question:</b></td>
+    <td align=left class=medium valign="top" width="400" colspan="2">"https://www.thenakedscientists.com/forum/index.php?topic=80399.0"<br>
+<br>
+I have posted on my great and fantastic idea to change the world. Look here to see how that works out.<br>
+<br>
+Would have posted here but without a picture???<br>
+Momentus</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Date:</b></td>
+    <td align="left" colspan="2" valign="top">23 August 2020
+    </td>
+  </tr>
+  <tr>
+    <td align="right" colspan="3" valign="top"><a href="abuse.asp?q=3028">report abuse</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2><hr width="100%"></td>
+  </tr>
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><br><h3>Answers (Ordered by Date)</h3><br></td>
+  </tr>
+  <tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Sandy</b> - 23/08/2020 20:01:47
+</td></tr><tr><td>&nbsp;</td><td>Hello Brian,<br>
+How are you doing, I thought you may have escaped this mad quest, but seems that I was wrong.<br>
+Anyway I do not believe in Dark Matter, per se, but I am aware of the phenomenon which you have experienced and which I myself have witnessed many times in different kinds of experiments.<br>
+I suppose Dark Motion is as good a description as any at this moment in time.<br>
+It is a phenomenon quite unknown to our physicists as yet and will surely cause the <br>
+disciples of Newton considerable anguish.<br>
+.<br>
+Is there any good reason the gyroscopes are hemispherical  or does it just look that way?<br>
+Is there a friction drive belt in the centre line joint of each?<br>
+<br>
+I have some similar gyros lurking in my spare parts box, and with the aid of my (never seems to stop for long) 3D printer could knock up something similar to your drawing pretty quickly.<br>
+<br>
+At the moment I am racing to complete a project which is very nearly done and will give your experiment a crack as soon as I can.<br>
+Will keep you advised.<br>
+Regards,<br>
+Sandy.<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8296">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Brian Morris</b> - 24/08/2020 17:29:09
+</td></tr><tr><td>&nbsp;</td><td>Hi Sandy<br>
+You are right about Dark Matter, an unnecessary complication.<br>
+<br>
+I thought you might be interested in the model as it demonstrates what I believe you call saturation which I had great difficulty in getting my head around in the past. From your description of saturation, it seems to be the point when the spin axis and the precession axes switch overwhich is precisely the mechanism which enables my model to create momentum.<br>
+<br>
+The gyroscopes would ideally be hollow spheres, so that the polar moment is the same about any axis passing through the gyro. I seem to recall you did some work with hollow spheres? <br>
+<br>
+There is indeed a friction belt to counter-rotate the gyros.<br>
+<br>
+<br>
+It would be great if you could make a model. 3D printer!!! how times have changed. I wonder how it would have been if that technology had been available back in the day?<br>
+<br>
+Good luck with your current project.<br>
+Regards<br>
+Brian<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8298">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Harry K.</b> - 07/09/2020 11:09:22
+</td></tr><tr><td>&nbsp;</td><td>Hello Brian,<br>
+Ive read your thread on the Naked Science forum with interest. However, I have no idea how your idea should produce angular momentum because both gyros spinning in counter direction. I see this issue mainly same like halc. <br>
+<br>
+Maybe I have overseen something important. It seems that Sandy is convinced as well that your idea should work. Maybe he can assist in deeper explanation. <br>
+<br>
+Best regards,<br>
+Harald<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8305">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Brian Morris</b> - 08/09/2020 16:14:59
+</td></tr><tr><td>&nbsp;</td><td>Hello Harry K<br>
+<br>
+Having read your other contributions on the forum, showing that you have a clear understanding  of the orthodox view of gyroscopic behaviour, I am somewhat surprised that you can agree with Halc that there is no precession axis. His post on the Naked Science Forum.<br>
+<br>
+ If a gyroscope is rotating about any axis, other than the spin axis, then that is precession and Orthogonal to that axis is the couple.<br>
+<br>
+For clarity, let the red axis be along the red flywheel axis, The yellow axis is the gyro axis and the blue axis is orthogonal to these. In the model the red axis does not move, the yellow and the blue axes move but remain orthogonal to red.<br>
+<br>
+In the model we have forced precession along the red axis, with equal and opposite torque about the blue axis and spin about the yellow axis. This is the starting condition. <br>
+<br>
+Halcs analysis starts incorrectly and gets worse.<br>
+<br>
+A rotating gyroscope system is orthogonal. Any torque no matter how applied is reacted by precession at right angles. Halc does not accept this.<br>
+<br>
+He has not even heard of Nitros rule!!!!<br>
+<br>
+So yes net momentum is zero to start with. Spin has a vector, which in the model is equal and opposite when there is no precession, vector sum zero. With any gyroscope when it precesses, that precession has a spin vector. The vector sum of these two spins, the resultant, is now the gyroscope spin axis.<br>
+<br>
+I seem to remember that you have shown in your posts, some considerable mathematical skill, certainly better than mine.<br>
+<br>
+So you can see that adding a vector of increasing magnitude along the red axis, to a vector of decreasing magnitude along the yellow axis, moves the resultant spin vector away from the yellow axis toward the red axis.<br>
+<br>
+This gives a clockwise movement to one gyroscope vector, and an anticlockwise to the other. The ultimate result is that both vectors point in the same direction,  vector sum is positive.<br>
+<br>
+At all times forces are equal and opposite. Non of Newtons Laws are harmed in this process.<br>
+<br>
+Sandy (as I understand it) uses forced precession to flip the spin axis on his AG device.<br>
+<br>
+Basic to my twin gyroscope model is the fact that the spinning pair can be precessed by the red reaction motor, without a torque at the red axis. Any attempt to apply a torque along the red axis induces an immediate response of precession by the gyros, equal and opposite torque reacted through the frame, an instantaneous feedback loop. The reaction flywheel has no back torque from the motor to react against. It does not move.<br>
+That is enough to be going on with.<br>
+<br>
+I look forward to your response, to see if my explanation clarifies the working of the model.<br>
+<br>
+Momentus<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8306">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Harry K.</b> - 10/09/2020 18:57:07
+</td></tr><tr><td>&nbsp;</td><td>Hello Brian,<br>
+ <br>
+Thank you for your explanations. I only want to understand your way of thinking in this matter. I read in the past many interesting comments from yours, but Im struggle a bit with this idea from you. <br>
+ <br>
+ If a gyroscope is rotating about any axis, other than the spin axis, then that is precession and Orthogonal to that axis is the couple.<br>
+<br>
+I agree  But only then if the gyro has a degree of freedom to precess. <br>
+<br>
+<br>
+ For clarity, let the red axis be along the red flywheel axis, The yellow axis is the gyro axis and the blue axis is orthogonal to these. In the model the red axis does not move, the yellow and the blue axes move but remain orthogonal to red.<br>
+<br>
+<br>
+Its diffucult for me to recognize these colored axis in your picture because my ability to see is quite poor.<br>
+If I understand you correctly, the red axis is the hub rotation axis of the red reaction flywheel, the there are two yellow spin axis of the both gyros and their two blue precession axis with a parallel distance to each other. The both blue precession axis are orthogonal to the yellow spin axis and the red hub rotation axis. However, this assumption presumes that the complete apparatus shown in your picture has the freedom to rotate perpendicular to the red hub rotation axis, i.e. around an axis parallel to the (both) blue precession axis. This circumstance is not clearly indicated in your picture and thus it may mislead in understanding.<br>
+ <br>
+A rotating gyroscope system is orthogonal. Any torque no matter how applied is reacted by precession at right angles. Halc does not accept this.<br>
+<br>
+He has not even heard of Nitros rule!!!!"<br>
+ <br>
+No wonder that Halc does not understand what you mean because there is a lack of information from your side (refer to my last both sentences above).<br>
+ <br>
+So yes net momentum is zero to start with. Spin has a vector, which in the model is equal and opposite when there is no precession, vector sum zero. With any gyroscope when it precesses, that precession has a spin vector. The vector sum of these two spins, the resultant, is now the gyroscope spin axis." <br>
+ <br>
+There is no spin vector, there are numberless (infinite number of!) spin vectors acting at the same time. The (infinite number of) mass points aligned around a certain circumference Have each a single spin vector with same value but with different directions. The same issue applies to the mass points in precession movement. Thus there is no resultant vector existent.<br>
+ <br>
+Even so you reduce the definition of a flywheel to two diametral aligned masses, you will have speed vectors with different directions during one revolution.<br>
+Maybe you were misguided by the vector for angular velocity or angular momentum, which vectors are aligned the spin axis per definition for calculation reasons?<br>
+ <br>
+If I look at your model it remembers me at the Eighties, when I started to do experiments with two wheels from an old bicycle. I mounted both wheels with their axis outside on a rod and accelerated both in counter direction manually to almost the same speed. I was really amazed at that time, that the rod with the two mounted counter rotating wheels behave exactly in the same manner as if they were not rotated. The only difference to non-rotated wheels is the circumstance, that kinetic energy is stored in such a system.<br>
+ <br>
+Sandy`s design to indicate his saturation zone is quite different. He uses two opposed aligned gyros which spin in the SAME direction.<br>
+Anyway, Im very curious about Sandys results.<br>
+ <br>
+Best regards,<br>
+Harald<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8308">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Miklos Somos</b> - 10/09/2020 20:27:09
+</td></tr><tr><td>&nbsp;</td><td>Dear Momentus,<br>
+<br>
+I've tried to understand Your device, but I have almost the same issues about it as Harry and halc. Somehow the picture about the device and Your description about the possible motions of it are contradictory.<br>
+<br>
+My understanding of the kinematics of Your device:<br>
+<br>
+1) As I see, both of the yellow gyros are connected to the frame by revolute joints. They are alloved to rotate relative to the frame only about one axis (about their axis of spin).<br>
+<br>
+2) The frame can rotate about only one axis, namely about the spin axis of the red flywheel. <br>
+<br>
+It follows then, that the yellow gyros are not allowed to turn their spin axis towards the spin axis of the red flywheel. Until this is the case, You could rotate the frame with the two gyros as You want, the resulting torques will be absorbed by the frame, and from  the outside the frame will behave as it would with non-rotating gyros.<br>
+<br>
+As I have understood, You have not built this particular device yet, only similar ones. If yes, it would be helpful to see some photos of it.<br>
+<br>
+Regards,<br>
+Miklos<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8309">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Brian Morris</b> - 11/09/2020 11:19:32
+</td></tr><tr><td>&nbsp;</td><td>Hello Harry.<br>
+<br>
+Thank you for your considered reply. I will do my best to clear the points you have raised.<br>
+<br>
+@Harry I agree But only then if the gyro has a degree of freedom to precess. <br>
+We are in full agreement here, the three conditions must be met to turn a flywheel into a gyro.<br>
+<br>
+Regarding the three axes, Red, Yellow, Blue. As Miklos says<br>
+<br>
+1) As I see, both of the yellow gyros are connected to the frame by revolute joints. They are alloved to rotate relative to the frame only about one axis (about their axis of spin).<br>
+<br>
+2) The frame can rotate about only one axis, namely about the spin axis of the red flywheel.<br>
+<br>
+An accurate description, thank you Miklos.<br>
+<br>
+So Harry when you say  The both blue precession axis are orthogonal to the yellow spin axis and the red hub rotation axis. That just cannot be.<br>
+<br>
+The spinning gyroscope rotor is forced to precess about the red axis as that is the only axis that permits rotation orthogonal to the yellow, gyroscope spin axis. This simultaneously induces a torque about the other orthogonal axis, the Blue axis. <br>
+<br>
+When the frame containing the spinning gyroscopes is rotated by the red motor, That rotation induces an orthogonal couple at the blue axis. As the spin of the gyroscopes are equal and opposite, these torques, induced by the precession about the red axis are equal and opposite.<br>
+<br>
+This is the condition you describe in your early experiments with bicycle wheels. The two torques were still there in your manipulation of the counter rotating bicycle wheels, but as they were balanced, they had no external effect. The torque did not disappear. No external torque does not mean the same thing as a balanced internal torque. Because you could not longer feel the torque generated by the wheels does not mean it was not present.<br>
+<br>
+I will bang on about this some more. Take a bicycle, with the frame securely clamped to hold it off the ground. With the front wheel not spinning move the handle bars. There will be some slight resistance due to the inertia of the wheel about the vertical axis, but not very much.<br>
+<br>
+Now as you have already guessed, spin the wheel and do it again, move the handlebars. It feels much the same. However you know, from previous experience that is not the same, there is a torque being reacted by the forks supporting the front wheel. If your clamps are loose, the frame will move.<br>
+<br>
+My conclusion.<br>
+<br>
+The conditions for the flywheels to act as gyroscopes are fulfilled.<br>
+Yellow is the spin axis of the rotor.<br>
+Blue is the torque axis.<br>
+Red is the precession axis.<br>
+<br>
+Moving along -  Harry There is no spin vector, there are numberless (infinite number of!) spin vectors <br>
+<br>
+A flywheel rotates about an axle. I can tell you the speed at which it is spinning. I can tell you the direction in which it is spinning.  That is the spin I refer to. Given the polar moment of inertia, and the aforementioned spin, the angular momentum can be calculated. The kinetic energy stored by the flywheel can be calculated, and both are proportional to the spin speed. <br>
+<br>
+That is the spin which I am referring to. It has magnitude and direction, it is a vector quantity. <br>
+<br>
+I think this definition is in agreement with Harry(quote) the vector for angular velocity or angular momentum, which vectors are aligned the spin axis per definition for calculation reasons?<br>
+<br>
+There are two spins used in the standard formula to calculate the gyroscope couple.<br>
+<br>
+T =Omegaxx X omegayy X polar moment of inertia.<br>
+<br>
+Not being able to post mathematical symbols is a pain, but I trust you are familiar with the formula.<br>
+When considering my twin gyroscope model, where omega precession is constantly increased, It would seem at first sight that the torque induced would increase without an upper limit, to the point of destroying the model.<br>
+<br>
+This is why I have introduced the vector sum of these two rotations as significant. I think I should leave that for another post. If I cannot get a consensus on the models initial reaction to the rotation of the frame by the red motor, there can be no meaningful discourse.<br>
+<br>
+Rotating the frame changes the angular momentum of the twin gyroscope rotors. As they are rotating in opposite directions, the momentum change is equal and opposite. <br>
+<br>
+Momentum is a vector quantity. Newton, in the Principia establishes that changing the direction of momentum requires force just as changing the magnitude does. A gyroscope is an example of a change in direction of angular momentum. The force required to effect the change is expressed as a gyroscopic couple. <br>
+<br>
+If you wish to change the angular momentum of a spinning gyroscope you can do so with an orthogonal couple. This couple is present in the twin gyroscope model, it is the force, at right angles to the rotation of the frame about the red axis, which is internally reacted. Trying to bend the frame.<br>
+<br>
+I am beginning to repeat myself. I will post this and hope it makes sense when you read it.<br>
+<br>
+Momentus<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8310">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Brian Morris</b> - 11/09/2020 16:24:25
+</td></tr><tr><td>&nbsp;</td><td>Hello Miklos.<br>
+<br>
+Thank you for your contribution.<br>
+<br>
+I think you have fully grasped the way in which the model behaves on start up. It is what happens next that is interesting.<br>
+<br>
+ Miklos quote You could rotate the frame with the two gyros as You want, the resulting torques will be absorbed by the frame<br>
+<br>
+As the change in momentum of the gyroscopes is reacted internally by the couple, there is no external torque generated to accelerate the red flywheel. Only the frame rotates about the red axis.<br>
+<br>
+Consider one of the gyroscopes, it is now rotating about two separate axes. The yellow axis, and the red axis. The direction of the angular momentum is the vector sum of the two rotations. The magnitude has not been altered by the application of the torque at the blue axis, only the direction. <br>
+<br>
+I need to draw an angular momentum vector diagram to explain the way the resultant vector moves to flip the precession axis from red axis to yellow axis, at the same time as the spin axis moves from yellow to red. Blue remains the torque axis.<br>
+<br>
+That in turn means mastering the insertion of an image into a post on the naked science forum. So I will deal with that tomorrow<br>
+<br>
+Momentus<br>
+<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8311">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Harry K.</b> - 11/09/2020 18:30:30
+</td></tr><tr><td>&nbsp;</td><td>Hello Brian,<br>
+<br>
+I will wait for your drawing before answering in detail. <br>
+Regards,<br>
+Harald<br>
+<br>
+Hello Miklos,<br>
+I read some of your interesting older posts here in this forum. Ive noticed that you live nearby Munich. I wonder why I did not noticed this earlier!?<br>
+I live nearby Stuttgart. <br>
+It you like to exchange thoughts you may contact me by email:<br>
+fahkei@t-online.de<br>
+<br>
+Unfortunately this forum has no opportunity to write personal messages.... very old-fashioned...<br>
+Ich wnsche dir ein schnes Wochenende!<br>
+Gruesse<br>
+Harald<br>
+<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8312">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Miklos Somos</b> - 12/09/2020 11:26:53
+</td></tr><tr><td>&nbsp;</td><td>Dear Momentus,<br>
+<br>
+I`m looking forward to your next drawing.<br>
+<br>
+Hi Harry, <br>
+I have sent an email to you.<br>
+<br>
+Viele Gruesse aus Bayern,<br>
+Miklos<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8313">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Brian Morris</b> - 12/09/2020 14:20:47
+</td></tr><tr><td>&nbsp;</td><td>Drawing up on Nkaed Science site,with this commentary<br>
+<br>
+This is a machine. It is indisputable that by judicious manipulation of the two motors the gyroscopes can be spun up to speed about the yellow axis and set freewheeling and the frame can be rotated about the red axis.<br>
+<br>
+Now take one of the gyroscopes, it is rotating about two separate axes. The yellow axis, and the red axis at the same time. The angular velocity diagram shows these two simultaneous rotations.<br>
+A similar diagram is drawn for the other contra rotating gyroscope.<br>
+<br>
+Assuming a spherical gyroscope rotor the polar moment of inertia will be the same for spin about OxA, OxC, OxD and OxB as they all pass through the centre of the sphere.<br>
+<br>
+If &#937; is the spin speed of the gyroscope at the start, then the angular momentum is I &#937;<br>
+<br>
+Precessing a gyroscope does not change the magnitude of its angular momentum. The torque is reacted by the changing direction of the angular momentum.<br>
+<br>
+The direction of the angular momentum is the vector sum of the two rotations. The magnitude has not been altered by the application of the torque at the blue axis, only the direction. <br>
+<br>
+Thus in the diagram OxC shows the angular momentum as the frame precesses about the red axis at low speed.<br>
+<br>
+OxD is the point at which speed of precession is equal to spin sped and is the limit where increasing the precession speed will change the direction of the resultant angular momentum.<br>
+<br>
+OxE shows the angular momentum as the frame precesses about the yellow axis at low speed.<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+By manipulating the speed of the two motors, the direction of the angular momentum can be moved through 90 degrees.<br>
+<br>
+The vector sum of the initial angular momentum of the system is null.<br>
+<br>
+The vector sum of the final angular momentum of the system is positive.<br>
+<br>
+Further posting will follow. I am off now to watch a recording of the Northampton Saints Rugby match. Come on you Saints.<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8314">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Miklos Somos</b> - 13/09/2020 11:34:05
+</td></tr><tr><td>&nbsp;</td><td>Dear Momentus,<br>
+<br>
+thank you for the further informations about the workings of your device.<br>
+<br>
+From the viewpoint of classical mechanics and vector algebra the following observations can be made:<br>
+<br>
+1) "Precessing a gyroscope does not change the magnitude of its angular momentum." <br>
+<br>
+Yes, it changes the angular momentum. Precession is a rotation about an axis other than the axis of spin. It means an additional component to the angular momentum of the gyro.<br>
+<br>
+<br>
+2) "The direction of the angular momentum is the vector sum of the two rotations." <br>
+<br>
+Mainly correct. I would said instead, that the direction of the angular momentum, is the vector sum of the two angular momentums. As you have written, the agular momentum are angular velocities scaled by the corresponding moment of inertias, therefore the sum of the angular momentums could have a slightly different direction and length than the sum of the angular velocities.<br>
+ <br>
+<br>
+3) "The magnitude has not been altered by the application of the torque at the blue axis, only the direction." <br>
+<br>
+The magnitude will be changed by the torque, as the direction also. The resultant angular velocity or the resultant angular momentum will not rotate as you have depicted. The point A in your diagram will move vertically upwards in case of a continuously accelerated rotation of the frame. The original Ox-A component will be conserved, because no torque have been applied, that would change the direction of the spins as shown in the diagram. The constraints of the machine does not allow such a change either.<br>
+<br>
+<br>
+4) "The vector sum of the initial angular momentum of the system is null." <br>
+<br>
+Correct.<br>
+<br>
+<br>
+5) "The vector sum of the final angular momentum of the system is positive."<br>
+<br>
+In itself correct, but in my opinion, the angular momentum will have two components: the original Ox-A component will be reserved, and there will be an additional component Ox-B, caused by the applied torque about the red axis. And the end point of the vector of resultant angular velocity will move not on a circle, but on a vertical line, starts at point A and moves vertically, until it reaches the height of point B.<br>
+<br>
+If I have missed or misunderstood something, please let me know.<br>
+<br>
+Best regards,<br>
+Miklos<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8315">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Harry K.</b> - 13/09/2020 17:09:04
+</td></tr><tr><td>&nbsp;</td><td>Hello Brian and Miklos,<br>
+<br>
+I think I now understand what you mean. If somebody talks about velocity I first think about translation- or tangential velocity in this case. Okay, you meant angular velocity. <br>
+<br>
+In addition to Miklos answer I think you have to consider the resultant vector of both <br>
+single resultant vectors of the the 2 gyros as well. <br>
+In this case the resultant of resultants is the angular/velocity vector of the red axis. That means both single angular moments are however present but cancled out. <br>
+<br>
+Anyway, Im not sure about the real value of the resultant angular velocity. If both velocities (gyros and frane rotation) are equal, the resultant velocity should be equal as well. Its difficult for me  to imagine this. The direction in this case is clear (45 degrees to the yellow and red axis) but not the value. I have to think further about this issue. <br>
+<br>
+Best regards,<br>
+Harald<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8316">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Nitro</b> - 13/09/2020 18:10:54
+</td></tr><tr><td>&nbsp;</td><td>Far be it from me<br>
+<br>
+to moan about lack of credit for my prior disclosure of a means of demonstrating the use of a clamped bicycle frame to demonstrate how gyrodynamic effect disappears (it doesn't but, as the gyrodynamic effect is trying to shift the mass of the earth that the clamp is affixed to, this is, of course, virtually immeasurable).  I first did this test with a bike frame clamped thusly with a friend's bike (natch! I wouldn't want to risk damaging mine) in a woodwork vice at Summerhill school, my alma Mata.  Bless them for giving me freedom to try such things.  This was in about nineteen fifty something before the real world tried to beat me to death with a sock full of soggy rice pudding - (as far as my sense of humour goes, Spike Milligan has a lot to answer for e.g. :-  There are holes in the sky where the rain gets in, but theyre ever so small.  Thats why rain is thin.).<br>
+<br>
+However, I told of the bike fork test first  - So (Why does every political fool on television - and this non political fool here) need to start every sentence with; "So" nowadays?<br>
+<br>
+So, where is my credit?<br>
+<br>
+Here is an e-mail of mine to this very forum from 2004:-  <br>
+<br>
+Nitro Macmad - 10/07/2004 22:17:40  <br>
+  Dear Jesse Smith,<br>
+<br>
+Sorry but this is, of necessity, nastily complex.<br>
+<br>
+I think I understand what you are asking but to make sure can I describe what I think you ask in bike wheel example? Are you describing a bike with the main frame fixed so that the front wheel is off the ground with the rotating bike wheel (gyro) in a front fork that is able to have the handlebars continuously rotated to cause precession that would try to turn (precess) the forks at right angles to the rotation of the handlebars?<br>
+<br>
+If the answer to the above is yes then:-<br>
+<br>
+1. As the wheel is not free on more than one axis it will not display the precession of the force acting to turn the handlebars unless the whole bike frame is allowed to move. This is because the precessional effect of the applied force is itself * precessed by the resistance to free movement presented by the forks inability to move in the precessed plane. (Dear God! I hardly understand all that, now I read it, but it is right - honest) So, while placing a load on the bearings of the fork head, it (the energy required - force as you call it) is small, as any force is precessed all the way round until it effectively goes away (cancels itself out - like negative feedback). The only thing loading this arrangement is, therefore the normal bearing and air resistance.<br>
+<br>
+2. The energy is conserved in the normal way as, if the wheel (gyro) is unable to precess, it is as if the handlebars were turning a simple attached mass instead of a rotating wheel and the normal laws of torque at the handlebars therefore apply. As mentioned above the only thing affecting the speed of the gyro is thus friction whether in the wheels bearing or in skin resistance with the air.<br>
+<br>
+Unfortunately, I think that there are probably better means to dump load than by trying to use a gyro both because of the above tendency of a gyro to act like a normal, non precessing, mass (showing all the normal Newtonian tendencies) if it is not free to precess in a particular plane and because if it is free in other planes, it will only precess a theoretical maximum of 90 degrees before it ceases to precess further a torque applied to it because at that point it has aligned its axis with the torque applied to it. This is rather like rotating an eccentric weight to do load dumping - does the job if the device it is fixed to is free (to leap about a bit) but nail it down and it wont dump energy anymore - tends to bash its bearing to bits, though!<br>
+<br>
+Regards,<br>
+<br>
+NM<br>
+<br>
+PS Sorry if your head hurts now - you might take some comfort in the fact that mine does too.<br>
+<br>
+*Nitros 1st. Law says, A gyro will precess every damn force that acts on it not just the one that you first thought of.<br>
+  <br>
+<br>
+PPS  Nitros second law states that a gyro constrained from precessing in its normal direction will behave lke a Newtonian (ie non spinning mass) as far as action and reaction is concerned.  Thereby explaining the bike wheel phenomenon above and giving the clear path to producing *reactionless propulsion.<br>
+<br>
+<br>
+Kind regards<br>
+Nick<br>
+<br>
+*There is, of course, the normal amount of reaction but unlike Newtons belief, it is not opposite the action.<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8317">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Brian Morris</b> - 14/09/2020 10:49:26
+</td></tr><tr><td>&nbsp;</td><td>Hi Nitro,<br>
+Nice to hear from you.<br>
+<br>
+My Humble apologies for plagiarising your 2004 post. You get first Dibs on clamped bicycles.<br>
+In my defence I plead ignorance, (something in which I do well) and that I was actually referencing the bicycle examples (with diagrams) from my 1988 patent application. <br>
+<br>
+Goon humour is not appreciated today Ive fallen in the water what's funny about that?<br>
+<br>
+On a more serious note  *Nitros 1st. Law says, A gyro will precess every damn force that acts on it not just the one that you first thought of. Absolutely true, a very useful tool to have in the box. If it is moving there is a torque at right angles to that motion.<br>
+<br>
+That contradicts  Nitros second law states that a gyro constrained from precessing in its normal direction will behave like a Newtonian (i.e. non spinning mass) as far as action and reaction is concerned.<br>
+<br>
+There is quote, damned force  placing a load on the bearings of the fork head acting on the bicycle wheel and it is that force which is turning the wheel. <br>
+So you may well think that you are applying the force to rotate the handlebars, but Nitro, He says otherwise.<br>
+I call this forced precession, with a nod towards Sandy, who invented that phrase. It is causing me a great deal of difficulty with Halc, on the Naked Science Forum and I need to respond to his post there.<br>
+Regards Momentus.<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8318">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Brian Morris</b> - 14/09/2020 12:07:23
+</td></tr><tr><td>&nbsp;</td><td>Hi Miklos<br>
+<br>
+Your point 1)<br>
+Precession is an orthogonal rotation. That is its definition. It is defined as a change in the direction of the momentum vector. That is what the mathematical analysis in the reference books says. A force which changes the direction does not change the magnitude of the momentum. To change the magnitude of momentum the force must be applied in a right line to the direction of motion. Basic Newton law.<br>
+Gyro torque is defined as a force at right angles to the direction of trave.l It is impossible to change the magnitude of momentum by applying a force at right angles to the direction of travel.<br>
+<br>
+Your 2) Yes I agree. With the proviso that the polar moment of inertia is the same about both/all axis of a sphere.<br>
+<br>
+Your 3) Here I do not agree. See my answer to your point 1)<br>
+<br>
+<br>
+Your point 5) You kept me awake most of the night with this one. I had to go back to my most basic visualization to get to grips with it.<br>
+<br>
+Central to proving that the device cannot work is the idea that there needs to be a torque to be reacted by the red flywheel, in order for the apparatus to rotate about the red axis. That change in the momentum of the red flywheel is to be accompanied by an equal and opposite change of momentum in the gyroscopes.<br>
+<br>
+My contention is that as the red axis is the precession axis, all the force required to change the momentum of the spinning gyroscopes is provided by the torque at the blue axis. That there are opposing forces present at the blue axis is not in dispute. The gyroscope formula gives the exact relationship between the rotation (precession) and these forces. There is no need to postulate an additional torque along the red axis. <br>
+<br>
+ The reaction to a rotation about the red axis is a gyroscopic torque at the blue axis. That torque is orthogonal to the red axis. <br>
+The reaction to the rotation if a spinning wheel is turned through 90 degrees. That is what a gyroscope is, it is what a gyroscope does. There is no reaction to pass back down the red axis.<br>
+<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8319">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Brian Morris</b> - 14/09/2020 13:06:15
+</td></tr><tr><td>&nbsp;</td><td>Hi Harry<br>
+<br>
+I see that you are following the other posts. I think I am answering most of your queries, if not feel free to join in <br>
+<br>
+Momentus<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8320">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Harry K.</b> - 14/09/2020 14:27:04
+</td></tr><tr><td>&nbsp;</td><td>Hello Bri<br>
+<br>
+You are right. Most issues are already commented by Miklos. <br>
+I read the post from Halc. As Ive already mentioned he complains about a lack if information...<br>
+<br>
+I think the main problem with the claimed function of your machine is a cause and effect issue. <br>
+1. There are two spinning gyros assembled in a straight line which yellow axes are parallel aligned to each other and rectangular aligned to the red (forced) precession axis. <br>
+The spin velocity of both gyros is equal but in counter direction. <br>
+<br>
+2. The frame with both fixed gyros will be rotated by the red motor. This state is the cause. <br>
+<br>
+3. Each gyro tries to precess around its blue precession axis which will cause a torque around its blue precession axes. But these both torques are acting in counter direction and thus they are canceled out, null. <br>
+<br>
+That is the effect. There is no (forced precession) torque necessary to rotate the frame around the red axis, beside the initial torque to rotate the spinning masses of  the both gyros and the dead weight masses (frame, motors, etc.). <br>
+The effect is exactly the same as if the gyros would not spin at all. <br>
+<br>
+Thus, in my opinion, it does not make sense to do vector calculations because some of these vectors are not available or better said canceled out in this system. <br>
+<br>
+Kind regards<br>
+Harald<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8321">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Harry K.</b> - 14/09/2020 14:29:47
+</td></tr><tr><td>&nbsp;</td><td>Sorry it must be Hello Brian in my prior posting.<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8322">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 15/09/2020 03:18:58
+</td></tr><tr><td>&nbsp;</td><td>Dark matter has been confirmed by science. It is moved toward gravity in what is called hairs, and in undoubtedly large numbers that can travel into and through the earth unnoticed. The motion, the matter, the hairs could be called dark motion. Perhaps it too has a gravity influence. Who knows? The stuff is not understood, no one knows more than, that it has gravity and reacts to gravity.<br>
+Your expectations from the stuff I do not understand. How are you applying it to the gyroscope? Can you explain mechanically, as in action/reaction what your ideas are?<br>
+Keep Safe,<br>
+Glenn, <br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8323">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Brian Morris</b> - 15/09/2020 08:09:38
+</td></tr><tr><td>&nbsp;</td><td>Hello Glen<br>
+Dark Motion, love to discus that, but as you can see, bogged down with opposed gyroscopes and precession is not rotation!!.<br>
+Dark Matter, New Scientist Magazine listed 6 theories to explain the fact that distant galaxies are rotating too fast. Not all involved dark matter.<br>
+<br>
+Dark matter is calculated using conservation of angular momentum. If there is no such thing as C of M, then those calculations are invalid. Dark motion, starting from the simple twin rotor model offers an alternative explanation, without the necessity of undetectable matter.<br>
+<br>
+Maybe I will get to that point, but when faced with the argument that a rock in a frame that is rotating, does not have the same velocity vector as the frame it is attached to presents a unique challenge.<br>
+<br>
+Watch this space!!<br>
+<br>
+Momentus<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8324">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Brian Morris</b> - 15/09/2020 08:13:45
+</td></tr><tr><td>&nbsp;</td><td>Hi Harry<br>
+My brother uses the diminutive of my name Bri, so yes a bit too informal for a forum post, but in no way offensive. No apology needed. <br>
+<br>
+Momentus<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8325">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Brian Morris</b> - 15/09/2020 17:15:18
+</td></tr><tr><td>&nbsp;</td><td>Harry<br>
+<br>
+Quote That is the effect. There is no (forced precession) torque necessary to rotate the frame around the red axis, beside the initial torque to rotate the spinning masses of the both gyros and the dead weight masses (frame, motors, etc.).<br>
+The effect is exactly the same as if the gyros would not spin at al<br>
+<br>
+The torques are balanced, but still present. They have an effect, they rotate the model. If you remove the torque the gyroscope will cease to precess.<br>
+<br>
+The vectors I am interested in are those of the Gyroscope spin, about the yellow axis and the precession spin about the red axis.<br>
+If you change these angular velocities, now matter how you do it, then the vector sum will change.<br>
+If you gradually increase the spin about the red axis, at the same time reduce the spin about the yellow axis, the vector resultant will swing around. So argue cause effect as you will. If you observe the two spin speeds changing as described, the resultant vectors will change.<br>
+The vector diagrams are valid. I am happy to discus the interpretation, but changing the speeds will change the vector of the gyroscope spin through 90 degrees, from the yellow to the red axis.<br>
+<br>
+That the two vectors are present can be confirmed by observation, you can see the rotation. and as the are at right angles they do not cancel each other out.<br>
+ Given the construction of the model with only two axis of rotation, then vectoring the velocities is quite straightforward.<br>
+<br>
+Momentus<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8326">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Harry K.</b> - 16/09/2020 09:22:35
+</td></tr><tr><td>&nbsp;</td><td>Dear Brian,<br>
+Ive noticed that Halc in naked science forum already answered more or less the same issues. Thus I think it makes no sense to repeat his comments here again. <br>
+Anyway, your idea is very interesting  because the basics of complex gyro behavior are discussed from different points of view. <br>
+Thanks for that!<br>
+<br>
+Best regards<br>
+Harald<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8328">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 16/09/2020 17:15:43
+</td></tr><tr><td>&nbsp;</td><td>Nothing comes of this.  To consider the presented example, first the linear frame housing the two gyros must rotate to some degree. Then while one of the gyro (as in gimbal rings) seeks to precess in one direction, the other gyro seeks to precess in the opposite direction. The liner frame (if free to do so) would rotate (as in gimbal rings). Youd have both vertical and horizontal twisting about in unison. No force exits the boundaries of the connected parts and frame. Nothing comes of this.<br>
+<br>
+Sorry, Brian,<br>
+Glenn<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8329">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Brian Morris</b> - 26/09/2020 11:49:33
+</td></tr><tr><td>&nbsp;</td><td>Hi Harry.<br>
+<br>
+Halc has in no way answered anything. He has invented a new concept of precession which I do not begin to understand.<br>
+If you are following his train of thought please tell me what he is saying <br>
+<br>
+Quote Both are rads per second if you look at it like that, but adding them does not give a single vector that describes the motion of the thing. One is an angular velocity vector, and the other the angular velocity of the angular velocity vector, essentially the rate of direction change of the first vector. One is the derivative of the other. No, theyre not the same units.<br>
+<br>
+Multiply, yes. It was adding apples to oranges that doesnt work. Your formula at the top of this post multiplies them, yielding torque.<br>
+<br>
+ I will give a more detailed analysis on the Naked forum<br>
+<br>
+Momentus.<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8330">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Brian Morris</b> - 26/09/2020 14:09:28
+</td></tr><tr><td>&nbsp;</td><td>Hi Glen<br>
+<br>
+To follow up on your idea where the two gyroscope are free to rotate(Precess) about the blue axis.<br>
+When the red motor is turned on, there will be a torque at the red axis. The frame will not turn (you cannot turn a gyroscope about the torque axis) the gyroscopes precess about the blue axis until their axles line up with the red axis. As the spin of the gyroscopes are equal and opposite, they precess equal and opposite, bringing their spin vectors in line with the red axis<br>
+The torque at the red axis will rotate the red flywheel. Do the arithmetic and the momentum of the red flywheel will be equal and opposite to the sum of the two gyroscopes.<br>
+<br>
+With the fixed gyroscopes as in my model, turning on the red motor rotaes the frame and gyroscopes about the red axis (you cannot exert torque about the precession axis)<br>
+<br>
+Red flywheel does not rotate, the gyroscopes flip the spin and precession axis, as prviously described. <br>
+<br>
+                                             ANGULAR MOMENTUM IS CREATED.<br>
+<br>
+Sorry Glen<br>
+Momentus<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8331">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 02/10/2020 09:12:23
+</td></tr><tr><td>&nbsp;</td><td>Good morning Brian,<br>
+Thank you.<br>
+It is 3:40 AM here. I could not sleep. Looking down on the top of your drawing, there must be a new design wherein, each gyroscope must be separately housed so that they can precess at right angles to the turning red shaft. Then you would be correct in that they would then alien in the direction they are being turned. However, in the present design, the front gyroscope attempts to precess as in gimbal rings and therefore applies a small torque to the front. The rear gyro applies torque in the opposite direction. Therefore you get a tendency of the whole contraption tumbling and revolving though it cannot overcome the nailed-to-the-wall configuration. There is no momentum for I.P. Nothing really happens but a bunch of unusable torque.<br>
+<br>
+I wish I could otherwise encourage you, Brian. You work so tirelessly and I like that. 9: AM in London. Have a happy day.<br>
+Glenn<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8333">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Brian Morris</b> - 02/10/2020 12:05:21
+</td></tr><tr><td>&nbsp;</td><td>There is always the other way to operate the device.<br>
+In the OP the process started by contra-rotating the two gyroscopes about their yellow axis.<br>
+This time, do something different, start the motor attached to the red reaction flywheel which rotates the flywheel about the red axis and counter rotates the two gyroscopes, also about the red axis. The gyroscopes are both spinning in the same direction. The sum of their angular momentum is equal and opposite to that of the flywheel. This generates momentum in equal and opposite quantities. You could if you wanted to, detach the flywheel, take it away and use the momentum that has been generated to tighten a bolt.<br>
+Equal and opposite momentum does not mean no momentum. But to be clear do not do that yet. Leave it where it is.<br>
+<br>
+Now for the difficult to understand part. <br>
+Uncouple the red flywheel. The two heavy gyroscopes and the light frame will continue to spin about the red axis. The flywheel will continue to spin.<br>
+<br>
+Start the yellow gyroscope motor to counter rotate the rotors about the yellow axis.<br>
+<br>
+This movement, the physical rotation by the drive belt of the spherical rotors about the yellow axis is orthogonal to the spin of the gyroscopes which is about the red axis.<br>
+<br>
+Yes very difficult to visualise. But possible if you try.<br>
+<br>
+ The two gyroscope rotors are spinning about the red axis and therefore the orthogonal rotation about the yellow axis is, by definition precession. <br>
+<br>
+The dynamics of a gyroscope dictate that there is a torque present at the blue axis, again by definition. Each of the rotors will generate a torque. The torques will be equal and opposite.. <br>
+<br>
+When a rotor spinning about an axis(red) is subjected to a torque about an orthogonal axis (blue) there is precession about the other orthogonal axis (yellow)<br>
+<br>
+Remember, the red wheel is disconnected, it has no influence.<br>
+<br>
+The condition as described above is best represented by the angular velocity vectors in angular momentum diagram 2 <br>
+OB is the Spin axis<br>
+OA is the precession axis.<br>
+<br>
+OE is the vector sum of the actual physical rotation of the rotor about the yellow axis and the actual in the real world physical rotation of the rotors about the red axis.<br>
+<br>
+The original spin vector OB is displaced by the orthogonal force exerted by the torque at the blue axis This changes only the direction of the vector, it does not change the magnitude. The length of the line representing the vector does not change. Hence the dotted curved line which Halc queried.<br>
+<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8335">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 02/10/2020 14:54:42
+</td></tr><tr><td>&nbsp;</td><td>Dear Brian,<br>
+I would have to concentrate on your descriptions. I would seem easy enough but I choose not to invest the little time and brainpower to follow you as it is obvious to me at a glance the thing, the idea of it, is going nowhere.<br>
+<br>
+You might build the thing, it looks simple to do, and show yourself and the world how it moves through space with inertial produced force, and if you do not claim that it would, then there is no useful purpose to the idea of it.<br>
+<br>
+But of course, it wont move outside its internal parts. The positive here is that after you built it and see that it fails, you could then put it out of your mind. That is, if your mind works like minethat is, wanting to know the truth about things and being willing to test them. <br>
+<br>
+Build it and they will come.<br>
+Glenn,<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8336">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Brian Morris</b> - 02/10/2020 17:38:02
+</td></tr><tr><td>&nbsp;</td><td><br>
+Hi Glen<br>
+<br>
+Quote You might build the thing, it looks simple to do, and show yourself and the world how it moves through space with inertial produced force, and if you do not claim that it would, then there is no useful purpose to the idea of it.<br>
+<br>
+I do not claim that this device moves through space. It creates Angular momentum. <br>
+<br>
+Any device which produces IP must break the law of Conservation of Momentum.<br>
+<br>
+Until you can prove that Momentum is NOT conserved no IP idea will be accepted. <br>
+<br>
+The purpose behind my tandem balls experiment is to show that using the accepted laws of Newton dynamics, momentum can be created.<br>
+<br>
+Nothing new needs to be added to make the three laws work, only a few words need to be removed from the third law.<br>
+<br>
+Equal and opposite force OK<br>
+Equal and opposite momentum OK<br>
+Equal and opposite ACTION no. Wrong.<br>
+<br>
+So I would suggest that understanding how Angular Momentum can be created within Newtons Laws is a useful step towards understanding how Linear Momentum can be created, and hence how IP is possible.<br>
+<br>
+Build it and they will come.<br>
+Been there, did that, they came and walked away. <br>
+<br>
+I have built a device, I have created angular momentum. What is needed now is a large number of people to build the device to create Angular momentum, so that it becomes part of the scientific consensus. If only you alone were to make one Glen, then no one will believe you either<br>
+<br>
+I do not know how many voices it will take,  but this is important.<br>
+I try to link my thread on the Naked forum to Dark Matter and Dark energy. The tandem Balls device can be used to solve both of the really big science problems of the day.<br>
+<br>
+There is a useful purpose to the device<br>
+<br>
+Momentus<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8337">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 02/10/2020 17:59:35
+</td></tr><tr><td>&nbsp;</td><td>Build it and they will come.<br>
+Been there, did that, they came and walked away."<br>
+<br>
+That is funny, Brian. Good sense of humor that I like and you can write well. Have at it then. Continue your plan with my blessing and my hope for your best. Im not going to bump your parade anymore. Good luck to you.<br>
+Sincerely, Glenn<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8338">Report Abuse</a></td></tr>
+<tr>
+<td align="center" colspan="2"><a href="answerquestion.asp?id=3028">Add an Answer &#062;&#062;</a></td></tr>
+</table>
+    </td>
+  </tr>
+  </table>
+  
+  <font class="copyright">
+  Website. Copyright &copy; 2021 Glenn Turner. All rights reserved. <a href="/site.asp">site info</a><br>
+     Do not copy without prior permission. Click here for <a target="gyroscopeproducts" href="http://www.gyroscope.com/" alt="Gyroscope products">gyroscope products</a> 
+   
+  </font>
+</center>
+
+</body>
+</html>

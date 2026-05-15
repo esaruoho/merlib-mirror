@@ -1,0 +1,241 @@
+
+<html>
+<head>
+  <title>Gyroscopes - Everything you needed to know</title>
+  <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+  <meta http-equiv="pics-label" content='(pics-1.1 "http://www.icra.org/ratingsv02.html" comment "ICRAonline EN v2.0" l gen true for "no gen term" r (nz 0 vz 0 lz 0 oz 0 cz 0) "http://www.rsac.org/ratingsv01.html" l gen true for "no gen term" r (n 0 s 0 v 0 l 0))'>
+  <META NAME="Author" CONTENT="Glenn Turner">
+  <META NAME="keywords" CONTENT="gyroscope, gyroscopes , gyro, gyros, gyroscopic propulsion">
+  <META NAME="Description" CONTENT="Gyroscopes have many uses, this site explains how a gyroscope works and what they can be used for. The site also looks at the possible uses of gyroscope based propulsion (gyroscopic propulsion). ">
+  <META NAME="Copyright" CONTENT="Copyright 2003 (All Web Pages) by Glenn Turner">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="expires" content="0">
+  <link rel="stylesheet" href="/iesite.css" type="text/css">
+</head>
+<body bgcolor="#000000">
+  <div style="  float: center; margin: 0; border: none; padding: 0; " align=center><center><img src="/header.jpg" alt="" hspace=0 vspace=0 wgith=700 height=111></center></div>
+  <center>
+  <span class="menutitle">
+    <a href="/index.asp"><font color="#DDDDDD">Home</font></a> :
+    <a href="/gallery.asp"><font color="#DDDDDD">Gallery</font></a> :
+    <a href="/history.asp"><font color="#DDDDDD">History</font></a> :
+    <a href="/uses.asp"><font color="#DDDDDD">Uses</font></a> :
+    <a href="/behaviour.asp"><font color="#DDDDDD">Behaviour</font></a> :
+    <a href="/math.asp"><font color="#DDDDDD">Maths</font></a> :
+    <a href="/forum/qa.asp"><font color="#DDDDDD">Forum</font></a> :
+    <a href="/propulsion.asp"><font color="#DDDDDD">Propulsion</font></a> :
+    <a href="/links.asp"><font color="#DDDDDD">Links</font></a> :
+    <a href="/glossary.asp"><font color="#DDDDDD">Glossary</font></a>
+    <br>
+  </span>
+
+  <table border=0 cellpadding=0 cellspacing=0 width="0" height="11">
+  <tr>
+    <td></td>
+  </tr>
+  </table>
+
+
+
+
+
+  <table border=0 cellpadding=8 cellspacing=0 width="700" height="260" bgcolor="#FFFFFF" ID="Table1">
+  <tr>
+    <td valign="top" class="main">
+<table align="center" width="100%" border="0">
+  <tr>
+    <td align="left" width="20%" valign="top">
+      <a href="qa.asp">Main Forum Page</a>
+    </td>
+    <td align="center" valign="middle">
+      
+      <h2 border="0">       
+      The Gyroscope Forum</h2></td>
+    <td align="right" width="20%" valign="top">
+      27 April 2006 12:43
+    </td>
+  </tr>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <p align=left>Welcome to the gyroscope forum. If you have a question about gyroscopes in general,
+      want to know how they work, or what they can be used for then you can leave your question here for others to answer.
+         You may also be able to help others by answering some of the questions on the site.
+      </p>
+      
+      <table width="100%">
+      <tr><td>
+        <form action="qa.asp" method="get">
+        <b>Search the forum: </b><input type="text" value="" name="forumsearch" size=30>&nbsp;<input type="submit" value="Search" name="forumsearchsubmit">
+          <input type=hidden name="forum" value="">
+        </form>
+      </td><td>
+        
+        <form action="askquestion.asp" method="post">
+        <input type="submit" value="Ask a new Question" name="forumsearchsubmit">
+        </form>
+        
+      </td></tr>
+      </table>
+      <hr width=100%>
+    </td>
+  </tr>
+</table>
+
+<table align="center" border="0" width="95%">
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><h3>Question</h3></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Asked by:</b></td>
+    <td align="left" colspan="2" valign="top">Dale</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Subject:</b></td>
+    <td align="left" colspan="2" valign="top">Gyroscopic Propulsion</td>
+  </tr>
+  <tr>
+    <td align=right class=medium valign="top" nowrap><b>Question:</b></td>
+    <td align=left class=medium valign="top" width="400" colspan="2">I don't understand how a system made up of purely rotational forces, such as a gyroscope, can produce a resultant linear force without some linear force, such as friction being introduced into the system in the first place.  Do I have the concept of gyroscopic propulsion all wrong?  Isn't it about producing a resultant linear motion from a combiination of gyroscopic forces?  Please try not to go into too much mathematical detail if possible.<br>
+Thank you.<br>
+</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Date:</b></td>
+    <td align="left" colspan="2" valign="top">6 April 2001
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2><hr width=100%></td>
+  </tr>
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><br><h3>Answers (Ordered by Date)</h3><br></td>
+  </tr>
+  <tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Dr D.Fisher</b> - 23/09/2003 04:36:46
+</td></tr><tr><td>&nbsp;</td><td>Linear and angular momentum are separately conserved. There is no way in which an isolated rotating object can propel itself by conversion of one into the other. Propulsion may be possible within the gradient of an external field via, for instance, the Lense-Thirring or Wisdom effects. But these effects are vanishingly small. Alternatively, if one ran a rotor against a brake, the resultant heat radiation might produce some propulsion. But 'Laithwaite-style propulsion'? A delusion born of ignorance.<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Nitro MacMad</b> - 28/10/2003 18:03:12
+</td></tr><tr><td>&nbsp;</td><td>Dear Dale,<br>
+<br>
+I will put aside my curiosity caused by your ability to write here before this site existed (salting the mine is normal in a new forum) as penance you must suffer my "Bracketitis".<br>
+<br>
+Your concept of gyroscopic propulsion is quite correct although friction has not been the main difficulty in the conversion of torque into linear impulse (or indeed vice-a-versa) which is what the whole thing is about.  All mechanisms (save subatomic) have friction to contend with whether reciprocating or rotating (or indeed when having these "separately conserved" items linked by a simple gyro mechanism).  Friction, however, is easily overcome in any mechanism by the input of energy to carry out the mechanisms function with enough extra input to cope with its inherent friction.<br>
+<br>
+I think that, in common with many others, you perhaps confuse the production of "impulse drive" ("anti gravity" sounds lovely but would be wrong as a gyro impulse drive does nothing special to gravity - shame that!)<br>
+<br>
+The force that nutters in sheds (please read that as "innovating geniuses") like me sought turns out to produce a succesion of impulses (rather like the collection of individual explosions in a car engine).  These push an object mounted on the mechanism in one direction without needing something like a road to push against or needing to chuck stuff (like rocket exhaust) out the back.<br>
+<br>
+It should be realised that the production of "impulse drive" requires the input of energy (its conversion of that energy is not vanishingly small but better that I ever dreamed and can be produced without the need of a friendly neighbourhood black hole)  That input of energy is, thankfully, simple torque (or reciprocation - to choice) this can be provided by motors powered by solar energy in the voids of near space or nuclear (Hcht Ptooee! Thats supposed to be a spitting sound) beyond.<br>
+<br>
+NM<br>
+<br>
+P.S. If the good Dr. knew how close Eric Laithwaite came to the solution he would kick himself soundly and be more respectful to his memory on a public site.<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Dr D.Fisher</b> - 14/05/2004 16:03:10
+</td></tr><tr><td>&nbsp;</td><td>So how close did Laithwaite come? As I was in contact with him (via a mutual friend who was consulted about the Sussex U. experiments) almost up to his death, it seems strange that I did not hear about this.<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>DaveS</b> - 14/05/2004 16:39:42
+</td></tr><tr><td>&nbsp;</td><td>I don't believe he actually got that close.  (Not a shared opinion)<br>
+Prof. Laithwaite made the mistake of talking about gyroscopes as if they contravene the laws of physics. All this really showed was that he did not truly understand what was really happening. His interest in gyroscopes was kindled by anothers interest relating to not easily explained observations relating to their behaviour.<br>
+What we have to thank Prof Laithwaite for is that he had the gumption to challenge the scientific community and pose questions relating to gyroscopic function.<br>
+<br>
+It is a shame that he immersed himself so totaly in this research when he should have been remembered for the maglev train design. Although this was not an exclusive idea to Prof Laithwaite, he drove the concept forward with the government who in their wisdom decided to shelve it.  <br>
+Lets face it, it would have made thousands unemployed.<br>
+<br>
+Dale, in answer to your question, you could be right but until we see a gyroscopic engine working it is not possible to answer if by friction or changes in gravitational centre or both or even not at all. No one can realistically answer yes or No. At least not yet.  WATCH THIS SPACE<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Dr D.Fisher</b> - 18/05/2004 03:17:25
+</td></tr><tr><td>&nbsp;</td><td>Laithwaite was a mere showman, promoted beyond his ability because of his financially useful browbeating fund-raising tactics and publicity-seeking. He did not invent the linear induction motor: its invention can be attributed to Wheatstone, and it was used to 'throw' the shuttle in experimental looms long before Laithwaite was born. He also did not discover the concept of 'unwrapping' an induction motor so as to produce levitation: this 'trick' is described in a patent dating from the 1920s. Prototype maglev trains had already been built when Laithwaite was a baby. His idiotic views on gyroscopes were only the tip of the iceberg. He had idiotic views on everything, and always preferred the opinion of any crank or amateur that he met over that of experts.  For instance, he thought that moths communicated by radio even when the pheromone which they really use could be bought 'over-the-counter'.  (Incidentally, his main supporter in this was an American government scientist who claims to have detected tachyons - by using a potted plant - and has also patented a 'smell laser' ).  Absolutely everything that he touched turned to dust: he predicted that the Osprey would die out in the UK, but they flourished. He predicted (guided by an amateur) that the so-called '196 problem' sequence would soon peter out: it is currently testing the limits of computation because of its growing size.<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Nitro MacMad</b> - 21/05/2004 23:11:56
+</td></tr><tr><td>&nbsp;</td><td>Dear Dale,<br>
+<br>
+I missed the extensions to this string (is that the right word?). <br>
+<br>
+Now, please read this carefully everyone as I am fed up with repeating it:- Laithewaite and Strachan and Kidd and many others made machines that actually did produce unidirectional force/s (impulse drive, a way round Newtons third,  "anti gravity" as the tabloids will wrongly call it, or whatever you want to call it). They were just unfortunate enough to be two small steps from reaching a usable form of it.<br>
+<br>
+David J Fisher has posted some extraordinarily remarks like:-<br>
+<br>
+"Laithwaite was a mere showman".<br>
+<br>
+If having the rare, god given ability to excite others with their subject means being a showman, then he was one hell of a good showman not a "mere" one.  (Oh!  If only all University lecherers (intended) had such a gift.)  That his personality could attract the publicity needed to raise funds, I should have thought most universities (including yours) would kill for, so do I detect sour grapes.<br>
+<br>
+"He did not invent the linear motor".<br>
+<br>
+If Mr Fisher considers that Cryer and Bullens shuttle patent No 23037 of 1899 donated any learning to mag lev then he is probably daft enough to be a mathematician or even a statistician.  Laithwaite contributed greatly to the understanding, stability, efficiency and controllability of mag lev.<br>
+<br>
+(Laithwaite) "prefered the opinions of any crank or amateur over that of experts"<br>
+<br>
+If Mr Fisher classes himself as "an expert"  then, given his ability to vent his vitriolic spleen on a the defensless dead and given the "support" given by the Royal Society and his "collegues", who wouldn't prefer other opinions - indead any other opinions?<br>
+<br>
+Thank god for those (precious few) scientists who are prepared (or even able) to look beyond their learning for only they will progress their, and our, understanding.<br>
+<br>
+Kind regard to you Dale<br>
+<br>
+NM<br>
+<br>
+P S You may remember that Rutherford claimed to have "seen" sub atomic particles in clouds - madness.  Tachions (those "fast ones")  that go faster than light are impossible under Einsteinian "law" - still they exist - apparently. <br>
+<br>
+<br>
+<br>
+ <br>
+<br>
+<br>
+<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Dr D.J.Fisher</b> - 23/05/2004 15:39:35
+</td></tr><tr><td>&nbsp;</td><td>The cited inventors did not achieve anything more than to construct machines that were unbalanced and could perhaps give a nett displacement in one direction (when placed on a surface; including water or ice). This principle has been used in toys, in cable-laying, in slurry transportation and in accurate positioning during micro-engineering. The US government has apparently considered it for propulsion under arctic conditions.<br>
+There is even a class of conventional engineers who talk in terms of directed centrifugal force. They talk in this way as a sort of shorthand when discussing the problems of machinery-balancing by using eccentric spinning weights. They do not believe for a moment that centrifugal force is real, or can be 'directed'.<br>
+There is another group of engineers who speak of 'reactionless movement'. They construct devices (for use in space or in accurate positioning situations) which, although moving at one end, produce no displacement or torsion at their support point. Their use of 'reactionless' is therefore accurate, but does not apply to the device as a whole. <br>
+I get tired of explaining that Newton's third law is just a corollary of the law of conservation of energy. Therefore, anyone who believes in reactionless propulsion must also believe in perpetual motion. Indeed, my 15-year study of the subject reveals that many inventors have patented both. Moreover, many reactionless drives have exactly the same design as 18th-century perpetual motion machines. But there seem to be some inventors who laugh at perpetual motion (of the mechanical type) and yet still think that they can 'shake their way through space'.<br>
+I did hesitate to call Laithwaite a 'showman'. Perhaps 'spin-doctor' would have been more apt - and a good pun. A spin-doctor is, of course, a supposedly trustworthy/reputable person who misrepresents the truth about a given subject.  QED<br>
+Attracting money on the basis of lies is hardly likely to offer any benefit to society as a whole; only those directly involved are likely to profit (viz Enron, etc) and only then until reality catches up with them.<br>
+The linear induction motor and maglev are two separate issues. Wheatstone was the first to have the idea of attracting an object along a track by using electromagnets. He did not have access to AC unfortunately and so his magnets had to be mechanically switched. He also patented a rotary form of the same idea. When AC became available, many inventors proposed rotary induction motors, but Tesla (that other infamous spin-doctor) stole all of the credit by getting his publicity in first. <br>
+Maglev can be achieved in several different ways.  Laithwaite's method is basically the same as the old  'jumping-ring' experiment. Another way (which unfortunately will not work from a standing start) was first analyzed theoretically by James Clerk Maxwell.<br>
+The shuttle-patent of which I was thinking was the earlier one by the Jacquard company. I  did not suggest that it had anything to do with Maglev: only that it was an established use, for the LIM, which Laithwaite suggested was a novel one in the 1960s. Why? Another of Laithwaite's defects was that he did not check to see what had been done before. Indeed, he once took part in a debate in which he argued that engineering students should not be taught the history of their own subject! How's that for an exciting and inspiring lecturer?  <br>
+Incidentally, the tachyon is an interesting case. Its existence was proposed merely because it was not explicitly ruled out by the equations of special relativity. There was no real need for it, and there is still no evidence for it. On the other hand, one can argue that every other particle has been proposed in order to make a conservation law balance properly. Going right back to Dalton: the atom had to be proposed (forget the Greek idea of atoms; they were just a philosophers' knee-jerk reaction to the concept of continuous matter) in order to explain fixed-proportion chemical reactions. Other, more exotic, particles gradually had to be proposed in order to make 'atom-smashing' experiments balance. The required new particles were usually found (or are still being sought). The message obviously is: put your trust in conservation laws.  <br>
+<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Eric James -----</b> - 28/04/2005 06:14:08
+</td></tr><tr><td>&nbsp;</td><td>Dale,<br>
+<br>
+One of the things not taught by engineering universities is that rocket propulsion is not propulsion at all.  It is expansion.<br>
+<br>
+That is that the mass thrown back (exhaust) is erroneously discounted as being unimportant.  In actuality, the complete system (including the rocket body and all of the exhausted particles) does not move off of its center of gravity.  It just expands tremendously.<br>
+<br>
+Gyros can do this too.  Spin one up really fast and then break it apart.  Watch the system expand.<br>
+<br>
+You just need to decide which portion you want to have be important and throw that portion in the direction you want to go.  The rest you can just ignore (like rocket engineers do).<br>
+<br>
+Viola! Gyro propulsion!<br>
+<br>
+Eric<br><br></td></tr>
+<tr>
+<td align="center" colspan="2"><a href="answerquestion.asp?id=7">Add an Answer &#062;&#062;</a></td></tr>
+</table>
+    </td>
+  </tr>
+  </table>
+  
+  <font class="copyright">
+  Website. Copyright &copy; 2006 Glenn Turner. All rights reserved. <a href="/site.asp">site info</a><br>
+     Do not copy without prior permission. Click here for <a target="gyroscopeproducts" href="http://www.gyroscope.com/" alt="Gyroscope products">gyroscope products</a> 
+   
+  </font>
+</center>
+
+</body>
+</html>

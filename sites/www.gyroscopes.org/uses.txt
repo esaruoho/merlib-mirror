@@ -1,0 +1,141 @@
+Gyroscopes - Everything you needed to know 
+
+ Home :
+ Gallery :
+ History :
+ Uses :
+ Behaviour :
+ Maths :
+ Forum :
+ Propulsion :
+ Links :
+ Glossary 
+
+ Uses for gyroscopes 
+
+ Science demonstrations 
+
+ Demonstration 
+ gyroscopes are often found in a learning environments such as schools or 
+ colleges to teach the physics of gyroscopes. Traditional demonstration 
+ gyroscopes tend to be gimballed to allow the user to understand how a gyroscope 
+ can continually point in one direction. A gimballed gyroscope allows the user 
+ to place weights/forces to one axis to see how the gyroscope will react. The 
+ user can also put pressure on a side of the gyroscope (by touching the gimbal) 
+ and 'feel' the forces involved which often gives a little more excitement to 
+ the demonstrations. 
+
+ Computer Pointing Devices 
+
+ There 
+ are a number of computer pointing devices (in effect a mouse) on the market 
+ that have gyroscopes in side them allowing you to control the mouse cursor 
+ while the device is in the air! They are also wireless so are perfect for 
+ presentations when the speaker is moving around the room. The gyroscope inside 
+ tracks the movements of your hand and translates them to cursor 
+ movements. 
+
+ Racing Cars 
+ Gyroscopic behaviour is used in the racing car industry. This is because car 
+ engines act just like big gyroscopes. This has its uses, for example in 
+ the American Indy car racing some of the tracks are in a oval in shape. During 
+ the race the cars go round the circuit in one direction only (the car only ever 
+ turns in one direction e.g. left). Because of the of the gyroscopic forces from 
+ the engine depending on whether the engine is spinning closewise or 
+ anti-clockwise the cars nose will be forced up or down. Providing the engine 
+ spins in the right direction it can help the car to stay on the track. 
+
+ Motor Bikes 
+ Wheels on motorbikes act as gyroscopes and make the bike easier to balance 
+ (stay up right) when moving. For more details see: 
+ How gyroscopic forces effect motor bikes 
+
+ The bicycle wheel as a gyroscope 
+
+ Spinning tops 
+ Spinning tops are a simple form of gyroscope, as the spinning top is rotated 
+ it is able to stand up right without falling over due to its gyroscopic 
+ behaviour. However the mathematics are more complex because the friction with 
+ the floor changes as the gyroscope leans to the side. 
+
+ Gyrocompasses 
+
+ Gyrocompasses are 
+ basically navigation aids. Gyroscopes don't like to change 
+ direction, so if they are mounted into a device that allows them to 
+ move freely (low friction gimbal). Then when the device is moved 
+ in different directions the gyroscope will still point in the same direction. 
+ This can then be measured and the results can be used in similar ways to a 
+ normal compass. But unlike a standard magnetic compass is not magnetic 
+ environmental changes and readings are move accurate. Gyrocompasses are 
+ commonly used in ships and aircraft.
+
+ Virtual Reality 
+ Gyroscopes 
+ have been used in virtual reality headset and other VR products for a number of 
+ years. A number of miniature gyroscope sensors are placed in the headset. 
+ Wgenever the user moves their head the direction and speed is sent back to the 
+ computer. The computer can then change the display as required. 
+
+ Anti-roll devices/stabilisers 
+ Monorail Trains 
+
+ Again because of the behaviour, gyroscopes are used to stop things from 
+ falling over, some mono-trains use gyroscopes and boats/ships often use them so 
+ that in bad seas the boat is kept relatively up right and not thrown about. 
+
+ From the book: H.Crabtree (1914) "Spinning Tops and Gyroscopic 
+ Motion" 
+
+ Ship stabilisers 
+
+ From the book: H.Crabtree (1914) "Spinning Tops and Gyroscopic 
+ Motion"
+ Photo by: Underwood & Underwood. 
+
+ From the book: H.Crabtree (1914) "Spinning Tops and Gyroscopic 
+ Motion" Photo by: Underwood & Underwood.
+
+ Artificial horizons / autopilot 
+ This works the 
+ same way as a gyrocompass but on a different axis. The artificial horizon gauge 
+ shows the position of the aircraft relative to the horizon i.e. the pictch 
+ of the aircraft.
+
+ Segway Scooter 
+ For more details about how they work visit 
+ the segway site . 
+
+ Robotics 
+
+ Gyroscopes are now being use to keep complex robots up right, that would normally just fall
+ over. Here is an example:
+
+ Two legged robot 
+
+ Levitron (TM) 
+
+ Marketed as an executive toy the Levitron is a unique invention that shows 
+ the stabilizing affect of gyroscopes. 
+ Two powerful permanent magnets allow a gyroscope to 'float' in mid air. The 
+ first magnet is placed on a level surface contained in a plastic base, while 
+ the other is housed in a gyroscope. If the gyroscope is placed a couple of 
+ inches over the base with out the gyroscope rotating and then let go, it will 
+ simply turn over due to the attractions of the magnets and will fall (or is 
+ attracted) to the base. If the gyroscope could be held completely level then 
+ the forces of the magnets will keep them apart. And this is exactly what the 
+ gyroscope does when it is rotating at high speed.
+
+ The first picture shows the base magnet, with the clear plastic tray, to raise 
+ the gyroscope on top. The gyroscope has been placed on the tray and is about to 
+ be spun. 
+ In the second and third picture the gyroscope is now spinning and the clear plastic tray 
+ is being lifted to a position where the forces from the two magnets can keep 
+ the gyroscope floating in mid air. 
+ The last picture shows the gyroscope floating in mid air after the clear tray 
+ has being taken away. 
+
+ Click here to see a video of the Leviron in action 
+
+ Website. Copyright &copy; 2024 Glenn Turner. All rights reserved. site info 
+ Do not copy without prior permission. Click here for gyroscope products

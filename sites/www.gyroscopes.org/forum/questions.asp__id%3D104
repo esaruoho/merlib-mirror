@@ -1,0 +1,166 @@
+
+<html>
+<head>
+  <title>The Gyroscope - Everything you needed to know</title>
+  <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+  <meta http-equiv="pics-label" content='(pics-1.1 "http://www.icra.org/ratingsv02.html" comment "ICRAonline EN v2.0" l gen true for "no gen term" r (nz 0 vz 0 lz 0 oz 0 cz 0) "http://www.rsac.org/ratingsv01.html" l gen true for "no gen term" r (n 0 s 0 v 0 l 0))'>
+  <META NAME="Author" CONTENT="Glenn Turner">
+  <META NAME="keywords" CONTENT="gyroscope, gyroscopes , gyro, gyros, gyroscopic propulsion">
+  <META NAME="Description" CONTENT="The Gyroscope has many uses, this site explains how a gyroscope works and what it can be used for. The site also looks at the possible use of gyroscope based propulsion (gyroscopic propulsion). ">
+  <META NAME="Copyright" CONTENT="Copyright 2003 (All Web Pages) by Glenn Turner">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="expires" content="0">
+  <link rel="stylesheet" href="/iesite.css" type="text/css">
+</head>
+<body bgcolor="#000000">
+  <div style="position: absolute; top: 2; width=100%; z-index: 1"><center><img src="/header.jpg" alt="" hspace=0 vspace=0 width=700 height=111></center></div>
+
+  <table border=0 cellpadding=0 cellspacing=0 width="0" height="96">
+  <tr>
+    <td></td>
+  </tr>
+  </table>
+
+  <center>
+  <span class="menutitle">
+    <a href="/index.asp"><font color="#DDDDDD">Home</font></a> :
+    <a href="/gallery.asp"><font color="#DDDDDD">Gallery</font></a> :
+    <a href="/history.asp"><font color="#DDDDDD">History</font></a> :
+    <a href="/uses.asp"><font color="#DDDDDD">Uses</font></a> :
+    <a href="/behaviour.asp"><font color="#DDDDDD">Behaviour</font></a> :
+    <a href="/math.asp"><font color="#DDDDDD">Maths</font></a> :
+    <a href="/forum/qa.asp"><font color="#DDDDDD">Forum</font></a> :
+    <a href="/propulsion.asp"><font color="#DDDDDD">Propulsion</font></a> :
+    <a href="/links.asp"><font color="#DDDDDD">Links</font></a> :
+    <a href="/glossary.asp"><font color="#DDDDDD">Glossary</font></a>
+    <br>
+  </span>
+
+  <table border=0 cellpadding=0 cellspacing=0 width="0" height="11">
+  <tr>
+    <td></td>
+  </tr>
+  </table>
+
+
+
+
+
+  <table border=0 cellpadding=8 cellspacing=0 width="700" height="260" bgcolor="#FFFFFF" ID="Table1">
+  <tr>
+    <td valign="top" class="main">
+<table align="center" width="100%" border="0">
+  <tr>
+    <td align="left" width="30%" valign="top">
+      <a href="qa.asp">Main Forum Page</a>
+    </td>
+    <td align="center" valign="middle">
+      <h2 border="0">The Gyroscope Forum</h2></td>
+    <td align="right" width="30%" valign="top">
+      4 February 2004 00:31
+    </td>
+  </tr>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <p align=left>Welcome to the gyroscope forum. If you have a question about gyroscopes in general,
+      want to know how they work, or what they can be used for then you can leave your question here for others to answer.
+         You may also be able to help others by answering some of the questions on the site.
+      </p>
+      <p>
+      <form action="qa.asp" method="post">
+      Search the forum: <input type="text" value="" name="forumsearch">&nbsp;<input type="submit" value="Search" name="forumsearchsubmit">
+      </form>
+      </p>
+      <b>To ask a question <a href="askquestion.asp">click here</a></b><hr width=75%>
+    </td>
+  </tr>
+</table>
+
+<table align="center" border="0" width="95%">
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><h3>Question</h3></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Asked by:</b></td>
+    <td align="left" colspan="2" valign="top">NM</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Subject:</b></td>
+    <td align="left" colspan="2" valign="top">Happy New Year</td>
+  </tr>
+  <tr>
+    <td align=right class=medium valign="top" nowrap><b>Question:</b></td>
+    <td align=left class=medium valign="top" width="400" colspan="2">Dear All,<br>
+<br>
+Happy New Year to the Webmaster,  the experimenters,  the curious, and the nutters in sheds (inventive geniuses) like me who are working to show that the third law is very nearly right.  Oh! and Happy New Year to those who are sure I (we) are wrong to even try.<br>
+<br>
+Kind regards<br>
+<br>
+NM</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Date:</b></td>
+    <td align="left" colspan="2" valign="top">1 January 2004</td>
+  </tr>
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><br><h3>Answers</h3></td>
+  </tr>
+  <tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Brad H</b> - 19/01/2004 08:53:46
+</td></tr><tr><td>&nbsp;</td><td>This is an answer to the a question in the above answer.  The author asks why investors like to see the math behind the invention.  The answer is simple:  If the math is sound, the device will probably work.  The fact is with all devices that have been thoroughly examined have been discredited.  The inventor usually makes a slight oversight in the mechanics of the device which satisfies Newtons third law and prevents any net force on the system.  Most commonly, people don't understand frames of reference and how they apply to these types of systems.  A little mathematical analysis reduces the complexities of a trial and error experimentation process.<br>
+<br>
+A corollary:  Why do engineers design bridges and not the construction crew?  Because the construction crew would need to build the bridge many times before it stays up.<br>
+<br>
+The bright side:  The math behind this sort of motion is not beyond the reach of the average Joe.  With some initiative, pretty much anyone could understand the physics and math required to analyze this sort of system.<br>
+<br>
+ <br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>webmaster@gyroscopes.org</b> - 05/01/2004 21:58:52
+</td></tr><tr><td>&nbsp;</td><td>Happy New Year All,<br>
+<br>
+I wish you all good progress in 2004. Ive just updated the links page on this site. It now has over 100 links which I hope you will find interesting. I will be adding all my old experiments to the site soon with new photos and I maybe even able to add some new experiments later in the year. By the way keep an eye out for the Gravity Probe B tests in April 2004 (see http://einstein.stanford.edu/). At the very least it should create some interest around gyroscopes and should hopefully unravel some of the mysteries of gravity.<br>
+<br>
+One of the things I would like to do in 2004 is develop a comprehensive gyroscope simulation which can be download/viewed over the web. Like http://www.ph.biu.ac.il/~rapaport/java-apps/gyro.html but with more features. If anyone has any interesting links/ideas on this please let me know.<br>
+<br>
+Glenn Turner (webmaster for gyroscopes.org)<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>DaveS</b> - 05/01/2004 10:43:52
+</td></tr><tr><td>&nbsp;</td><td>Dear Nitro et al<br>
+<br>
+You are not alone, there are others including Glen who are also close.<br>
+One word of advice, the implication of having a working machine are world changing, share your vision with somebody you can trust as there will be some out there who will not wish to see something of this nature succeed.<br>
+My design is finalised and should be a direction controllable engine.  Could not get funding without sharing the design with the government or potential investors / thieves. Fortunately I know the owner of a local high tech. engineering firm who can work with steel, titanium, tungsten etc..  Pre Christmas they signed an NDA and have looked at taking on the commission for the building of the device (putting my own money where my mouth is).   After looking at the design in detail, the company have offered to make the machine for free (excluding any specialist parts needed to be bought in) in exchange for a stake in its future.  (If it performs).  Works starts 7th January.  As for pendulum tests, unnecessary, it either will drive a vehicle controllably or it won't. <br>
+Have spoken with BAE and NASA and they are not funding any gyroscopic propulsion research at present. All previous funding has drawn a blank when it comes to working gyroscopic devices so now all funding is going towards electromagnetic drives. To date they have no working devices though.<br>
+Interestingly enough, it is 100 years since the Wright brothers did their stuff.   <br>
+With my designs for WMD, the plans for world conquest moving along nicely.  "JOKE"<br>
+<br>
+As a general analogy, why do most inventors believe that it is necessary to know the mathematics and why/how the wheel works when it is far easier to build one and start using it?<br>
+<br>
+Happy New Year<br>
+<br>
+DaveS<br>
+<br><br></td></tr>
+<tr>
+<td align="center" colspan="2"><a href="answerquestion.asp?id=104">Add an Answer&#062;&#062;</a></td></tr>
+</table>
+    </td>
+  </tr>
+  </table>
+  
+  <font class="copyright">
+  Webpage. Copyright &copy; 2004 Glenn Turner. All rights reserved. <a href="/site.asp"><font color="#991111">more info</font></a><br>
+     All other images/content copyrighted to the designated owners,<br>
+      and must not be reproduced or distributed without prior permission. 
+  </font>
+</center>
+
+</body>
+</html>

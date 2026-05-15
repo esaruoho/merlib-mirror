@@ -1,0 +1,363 @@
+Gyroscopes - Everything you needed to know 
+
+ Home :
+ Gallery :
+ History :
+ Uses :
+ Behaviour :
+ Maths :
+ Forum :
+ Propulsion :
+ Links :
+ Glossary 
+
+ Maths 
+
+ More Maths 
+
+ Derivation Of The Equations Of Gyroscopic Motion 
+ by Robert M. Beal (May 2003) 
+
+ The equations appearing in this document were taken from
+various sections of the textbook Engineering Mechanics - Statics
+and Dynamics , Third Edition, by R. C. Hibbeler (ISBN 0-02-354140-7),
+primarily from chapters 20 and 21 of the Dynamics section; if the reader
+wishes to delve deeper into a topic or needs clarification on a part of 
+this document, I refer you to Hibbeler's textbook. 
+I have pieced together the equations, with occasional modifications and
+my own comments, to (hopefully) provide a smoothly
+flowing derivation of the equations of gyroscopic motion starting from
+the most basic equation of dynamics, F = ma, and proceeding uninterrupted
+to the stated goal.
+
+ We will start with Newton's well-known and accepted equation
+ relating force ( F ) to mass (m) and 
+ acceleration ( a ).
+ For a particle, this is (bold type indicates a vector quantity):
+
+ S F = m a 
+
+ This equation states that the sum of the external 
+forces acting on a particle equals the particle's mass times its acceleration.
+Actually, Newton's original formulation related the external forces to the 
+particle's linear momentum :
+
+ S F = m v ' 
+
+ Here, v is velocity, v ' is the time rate
+ of change of velocity
+(d v /dt) , and m v ' is the time rate of
+change of linear momentum. If we chose a reference point O and r 
+ is a position vector to the particle , we can take the cross product of both
+sides of this equation to get an expression that relates the moment of
+the forces ( M o ) acting on the particle to the
+ angular momentum ( H o ) of the particle with respect
+to the reference point O:
+
+ r x S F = r x m v ' 
+
+ Recognizing that r x S F 
+is the Sum of the Moments ( S M o )
+ of the forces acting on the particle about the
+reference point O, we can write:
+
+ S M o = r x m v ' 
+
+ Since the particle's angular momentum is
+ H o = r x m v ,
+if we take the time derivative of angular momentum, we have:
+
+ d( H o )/dt = d( r x m v )/dt
+ H ' o = r ' x m v + r x m v ' 
+
+ Recognizing that v = d r /dt = r ' , we have:
+
+ H ' o = r ' x m r ' + r x m v ' 
+
+ Since the cross product of two equivalent vectors is zero,
+ r ' x m r ' = m( r ' x r ') = 0 ,
+therefore:
+
+ H ' o = r x m v ' 
+
+ Substituting into the equation for the Sum of the Moments,
+we have:
+
+ S M o = H ' o 
+
+ That is, given a moving particle, the Sum of the Moments about a
+point O is equal to the time rate of change of the particle's angular momentum.
+
+ For a system of particles, we sum the moments of the forces
+of all the particles. In the following equation, S f 
+is the internal force acting on the i th particle due to all
+the other particles in the system:
+
+ S i [( r x S F ) i + ( r x S f ) i ] = S i [ H ' o ] i 
+
+ The internal forces cancel out because corresponding
+pairs of internal forces are equal in magnitude and opposite in direction,
+therefore, S i ( r x S f ) i = 0 ,
+and the resultant equation for a system of particles has the same form as
+the equation for a single particle:
+
+ S i [ r x S F ] i = S i [ H ' o ] i 
+
+ S M o = H ' o 
+
+ In words, this states that the Sum of the Moments about point O
+due to the external forces acting on a system of particles is equal to the
+time rate of change of the angular momentum of the system of particles about
+this same reference point O.
+
+ We recognize that any solid body is a system of particles, so
+this equation applies to the analysis of a gyroscope.
+
+ What we need now is an expression for the angular momentum 
+H o or its time derivative H ' o that has
+attributes that we can physically measure such as mass, radius, angular
+velocity, and angular acceleration. If we consider a particle in the body
+having an incremental mass D m and having an
+ angular velocity w with respect to
+reference point O, since v = w x
+r , we can write:
+
+ [ D H o ] i = r x D m i v i 
+ [ D H o ] i = [ r x ( w x r )] i D m i 
+
+ Summing all the incremental angular momenta for all the
+particles in the body, we have:
+
+ S i [ D H o ] i = S i [ r x ( w x r )] i D m i 
+
+ If we let D approach 0, then D [ H o ] i and
+ D m i become differentials, and
+we can replace S i with integration.
+I will use z instead of the usual integral sign
+simply because I don't have the usual integral sign available:
+
+ z H o d H o = z m r x ( w x r ) dm 
+ H o = z m r x ( w x r ) dm 
+
+ If we place xyz reference coordinate axes at point O, we can
+define H o , r , and w in terms of i , 
+ j , and k components as follows:
+
+ H o = H x i + H y j + H z k 
+ r = x i + y j + z k 
+ w = w x i + w y j + w z k 
+
+ Substituting into the above integral expression for
+ H o , we have:
+
+H x i + H y j + H z k =
+ z m (x i + y j + z k ) x [( w x i + w y j + w z k ) x (x i + y j + z k )]dm 
+
+ Computing the cross products and combining terms gives:
+
+H x i + H y j + H z k =
+ [ w x z m (y 2 +z 2 )dm - w y z m xy dm - w z z m xz dm] i 
+ + [- w x z m xy dm + w y z m (x 2 +z 2 )dm - w z z m yz dm] j 
+ + [- w x z m zx dm - w y z m yz dm + w z z m (x 2 +y 2 )dm] k 
+
+ Recognizing that the above integrals are moments of inertia 
+and products of inertia , we can write the above as the following
+ scalar equations :
+
+H x = + I xx w x - I xy w y - I xz w z 
+ H y = - I yx w x + I yy w y - I yz w z 
+ H z = - I zx w x - I zy w y + I zz w z 
+
+ If we choose a coordinate system such that at least two of the
+three orthogonal planes defined by the coordinate system are axes of symmetry
+for the body, then all the products of inertia become zero, and our equations
+reduce to:
+
+ H x = I xx w x 
+ H y = I yy w y 
+ H z = I zz w z 
+
+ If the axes are chosen as described above, they are called
+ principal axes of inertia . We now have the angular momentum
+ H o in a useful form since the angular velocity can be
+measured and the moments of inertia (I), which depend only upon the
+mass and physical dimensions of the body, can be looked up in a table or
+calculated by hand.
+
+ Our analysis of the gyroscope will be greatly simplified if we
+choose a coordinate system such that at least two of the three orthogonal
+planes defined by the coordinate system are axes of symmetry for the
+gyroscope. If the coordinate system is chosen to met this criteria, then all
+the products of inertia will become zero, and we only have to include moments
+of inertia in our calculations. To accomplish this, we will use a rotating
+coordinate system with origin at the pivot point of the gyro. The
+rotating coordinate system will follow the gyro's nutation and precession but
+not its spin. We will call the angular velocity of the rotating reference
+ W = nutation + precession =
+ q ' + f '
+and label the rotating axes as the xyz axes. We will also have a fixed
+reference coordinate system which will also have its origin at the pivot
+point of the gyro and we will call this the ABC axes. The angular velocity of
+the gyro with respect to the fixed ABC axes will be 
+ w = nutation + precession + spin =
+ q ' + f '
+ + y '(refer to Fig. 1 and Fig. 2). The angles 
+ q , f , 
+and y are called Euler angles after
+the Swiss mathematician Leonhard Euler . 
+
+ Since the xyz axes are rotating with respect to the fixed ABC axes, it is
+necessary to evaluate H ' o taking into account that the unit
+vectors i, j, and k are not constants since they are changing
+direction. We then have:
+
+ ( H ' o ) ABC = 
+ H' x i + H' y j + H' z k + 
+ H x (d i /dt) + H y (d j /dt) + H z (d k /dt) 
+
+ where ( H ' o ) ABC is the time
+derivative of the angular momentum with respect to the fixed ABC axes.
+ The time derivatives of the unit vectors can be expressed as:
+
+ d i /dt = W x i 
+ d j /dt = W x j 
+ d k /dt = W x k 
+
+ The Sum of the Moments equation can then be written as:
+
+ S M o = H' x i + H' y j + H' z k + W x H o 
+ S M x i + S M y j + S M z k = H' x i + H' y j + H' z k + W x H o 
+
+ The tables one finds for moments of inertia for bodies of
+various geometrical shapes are for the principal axes of inertia and
+are typically listed as I xx , I yy , and I zz .
+Since the center of gravity of the flywheel of our gyro lies at a distance R
+from the origin O of our coordinate axes, the x and y axes are not principal
+axes of inertia, but they are parallel to the principal axes of inertia of
+the flywheel. We can therefore use the Parallel Axis Theorem to
+relate the x and y components of the moments of inertia to the
+I xx and I yy moments of inertia as
+shown below. The I z component does not present a problem since the
+z-axis passes thru the flywheel's center of gravity so it is a principal axis
+of inertia:
+
+ I x = I xx + mR 2 
+ I y = I yy + mR 2 
+ I z = I zz 
+
+ Keeping in mind the relationships between I x , 
+I y , I z and I xx ,I yy ,
+I zz , we can now express the angular momentum of the gyro as: 
+
+ H x = I x w x 
+ H y = I y w y 
+ H z = I z w z 
+
+ Substituting the above into the Sum of the Moments equation
+and taking the indicated time derivatives yields:
+
+ S M x i + S M y j + S M z k =
+
+(I x w ' x i + I y w ' y j + I z w ' z k ) + 
+[( W x i + W y j + W z k ) x (I x w x i + 
+I y w y j + I z w z k )]
+
+ Computing the cross products and combining terms, we get the following scalar 
+equations for the Sum of the Moments:
+
+ S M x = I x w ' x - I y W z w y + I z W y w z 
+ S M y = I y w ' y - I z W x w z + I x W z w x 
+ S M z = I z w ' z - I x W y w x + I y W x w y 
+
+ Referring to Fig. 2, we can express the xyz components of
+the angular velocity W of the rotating axes
+and the xyz components of the angular velocity 
+ w of the gyroscope as follows:
+
+ W = q ' + f '
+ W = W x i + W y j + W z k 
+ W = q ' i + ( f 'sin q ) j + ( f 'cos q ) k 
+
+ w = q ' + f ' + y '
+ w = w x i + w y j + w z k 
+ w = q ' i + ( f 'sin q ) j + ( f 'cos q + y ' ) k 
+
+ Substituting the components of W 
+and w into the above scalar Sum of the Moments
+equations and computing the indicated time derivatives yields:
+
+ S M x = I x q " - I y ( f ') 2 cos q sin q + I z f 'sin q ( f 'cos q + y ')
+ S M y = I y ( f ' q 'cos q + f "sin q ) - I z q '( f 'cos q + y ') + I x f ' q 'cos q 
+ S M z = I z (- f ' q 'sin q + f "cos q + y ") - I x f ' q 'sin q + I y f ' q 'sin q 
+
+ In general, it would be very hard to arrive at a solution that
+satisfies these equations, however, in the specific case where the precession
+ f ' is constant, the spin
+ y ' is constant, and the nutation angle 
+ q = 90 0 is a constant
+90 degrees as shown in Fig. 3 below, the solution becomes quite easy:
+
+ In this case, we have:
+
+ q ' = 0
+ f " = 0
+ y " = 0
+ cos(90 0 ) = 0
+ sin(90 0 ) = 1
+
+ and the Sum of the Moments equations reduce to:
+
+ S M x = I z f ' y '
+ S M y = 0
+ S M z = 0
+
+ so the only moment in this case is the moment
+about the x-axis. There are no negative signs in this equation and
+we consistently used the right-hand-rule in expressing all vector quantities,
+therefore, all of the vectors - the sum of the moments about the x-axis
+ ( S M x ), the precession of the gyro about the y-axis
+( f '), and the spin of the flywheel about the z-axis
+( y ') all act along their respective positive axes as
+ indicated in Fig. 3. Our analysis of the the gyroscope lying at
+90 0 has boiled down to the following important result:
+
+ S M x = I z f ' y '
+
+ If the only moment about the x-axis is the moment resulting
+from the weight of the flywheel (we are assuming the weight of the shaft is
+negligible), and if the flywheel is at a distance R from the pivot point
+(origin O), and recalling that I z = I zz , we have:
+
+ mgR = I zz f ' y '
+
+ where m is the mass of the flywheel and g is the
+acceleration due to gravity. 
+This equation tells us that if the flywheel is lying at 
+90 0 at a distance R from the pivot point
+and the flywheel is spinning at a constant angular velocity
+ y ', then the gyro will not topple over as might be
+expected, but instead, it will precess about the positive y-axis at a constant
+angular velocity of f '.
+
+ For a solid circular disc, I zz = 1/2mr 2 
+where r is the radius of the disc. If we instead concentrate most of the mass
+around the outer edge, then for a thin circular ring,
+I zz = mr 2 :
+
+ solid circular disk: mgR = 1/2mr 2 f ' y '
+ thin circular ring: mgR = mr 2 f ' y '
+
+ To counter the moment mgR, a gyro that uses a solid circular disk as the flywheel
+will precess twice as fast as a gyro that uses a thin circular ring (assuming both flywheels
+have the same mass m and radius r). 
+
+ References: 
+
+ Engineering Mechanics - Statics and Dynamics , Third Edition, by R. C. Hibbeler (ISBN 0-02-354140-7) 
+
+ Engineering Mechanics - Dynamics by Anthony Bedford and Wallace Fowler (ISBN 0-201-58197-3)
+
+ Many thanks to Robert M. Beal (email: psisquared@Earthlink.net) for providing this document.
+
+ Website. Copyright &copy; 2024 Glenn Turner. All rights reserved. site info 
+ Do not copy without prior permission. Click here for gyroscope products

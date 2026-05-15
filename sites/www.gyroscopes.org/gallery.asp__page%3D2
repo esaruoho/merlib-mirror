@@ -1,0 +1,295 @@
+
+<html>
+<head>
+  <title>The Gyroscope - Everything you needed to know</title>
+  <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+  <meta http-equiv="pics-label" content='(pics-1.1 "http://www.icra.org/ratingsv02.html" comment "ICRAonline EN v2.0" l gen true for "no gen term" r (nz 0 vz 0 lz 0 oz 0 cz 0) "http://www.rsac.org/ratingsv01.html" l gen true for "no gen term" r (n 0 s 0 v 0 l 0))'>
+  <META NAME="Author" CONTENT="Glenn Turner">
+  <META NAME="keywords" CONTENT="gyroscope, gyroscopes , gyro, gyros, gyroscopic propulsion">
+  <META NAME="Description" CONTENT="The Gyroscope has many uses, this site explains how a gyroscope works and what it can be used for. The site also looks at the possible use of gyroscope based propulsion (gyroscopic propulsion). ">
+  <META NAME="Copyright" CONTENT="Copyright 2003 (All Web Pages) by Glenn Turner">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="expires" content="0">
+  <link rel="stylesheet" href="/iesite.css" type="text/css">
+</head>
+<body bgcolor="#000000">
+  <div style="position: absolute; top: 2; width=100%; z-index: 1"><center><img src="/header.jpg" alt="" hspace=0 vspace=0 width=700 height=111></center></div>
+
+  <table border=0 cellpadding=0 cellspacing=0 width="0" height="96">
+  <tr>
+    <td></td>
+  </tr>
+  </table>
+
+  <center>
+  <span class="menutitle">
+    <a href="/index.asp"><font color="#DDDDDD">Home</font></a> :
+    <a href="/gallery.asp"><font color="#DDDDDD">Gallery</font></a> :
+    <a href="/history.asp"><font color="#DDDDDD">History</font></a> :
+    <a href="/uses.asp"><font color="#DDDDDD">Uses</font></a> :
+    <a href="/behaviour.asp"><font color="#DDDDDD">Behaviour</font></a> :
+    <a href="/math.asp"><font color="#DDDDDD">Maths</font></a> :
+    <a href="/forum/qa.asp"><font color="#DDDDDD">Forum</font></a> :
+    <a href="/propulsion.asp"><font color="#DDDDDD">Propulsion</font></a> :
+    <a href="/links.asp"><font color="#DDDDDD">Links</font></a> :
+    <a href="/glossary.asp"><font color="#DDDDDD">Glossary</font></a>
+    <br>
+  </span>
+
+  <table border=0 cellpadding=0 cellspacing=0 width="0" height="11">
+  <tr>
+    <td></td>
+  </tr>
+  </table>
+
+
+<table class=tabholder cellspacing="0" cellpadding="0" border="0" width=700>
+<tr>
+<td height="4"></td>
+</tr>
+<tr>
+<td width="100">
+
+<table class=tabmenu cellspacing="0" cellpadding="0" border="0" width="100">
+  <tr>
+    <td colspan="3" class=tabtop height="1"><img src="trans.gif" width="1" height="1" border="0"></td>
+  </tr>
+  <tr>
+    <td colspan="3" class=tableft height="1"><img src="trans.gif" width="1" height="1" border="0"></td>
+    <td colspan="1" class=tabright height="1" width="1"><img src="trans.gif" width="1" height="1" border="0"></td>
+  </tr>
+  <tr>
+    <td class=tableft width="2" height="19"><img src="trans.gif" width="1" height="1" border="0"></td>
+    <td class=tabcenter width="96" height="19" align="center"><a href='gallery.asp'>Images</a></td>
+    <td class=tabright width="1" height="19"><img src="trans.gif" width="1" height="1" border="0"></td>
+    <td class=tabright class=tabbg width="1" height="19"><img src="trans.gif" width="1" height="1" border="0"></td>
+  </tr>
+  <tr>
+    <td class=tabcenter colspan="4" height="1"><img src="trans.gif" width="1" height="1" border="0"></td>
+  </tr>
+</table>
+
+</td>
+<td width="5">
+</td>
+<td>
+
+<table class=tabmenuback cellspacing="0" cellpadding="0" border="0" width="100">
+  <tr>
+    <td colspan="3" class=tabtop height="1"><img src="trans.gif" width="1" height="1" border="0"></td>
+  </tr>
+  <tr>
+    <td colspan="3" class=tableft height="1"><img src="trans.gif" width="1" height="1" border="0"></td>
+    <td colspan="1" class=tabright height="1" width="1"><img src="trans.gif" width="1" height="1" border="0"></td>
+  </tr>
+  <tr>
+    <td class=tableft width="2" height="16"><img src="trans.gif" width="1" height="1" border="0"></td>
+    <td class=tabcenter width="96" height="16" align="center"><a href='movies.asp'>Movies</a></td>
+    <td class=tabright width="1" height="16"><img src="trans.gif" width="1" height="1" border="0"></td>
+    <td class=tabright class=tabbg width="1" height="16"><img src="trans.gif" width="1" height="1" border="0"></td>
+  </tr>
+  <tr>
+    <td class=tabcenter colspan="4" height="1"><img src="trans.gif" width="1" height="1" border="0"></td>
+  </tr>
+</table>
+
+</td>
+<td width="5">
+</td>
+</tr>
+</table>
+
+
+
+
+  <table border=0 cellpadding=8 cellspacing=0 width="700" height="260" bgcolor="#FFFFFF" ID="Table1">
+  <tr>
+    <td valign="top" class="main">
+      <h1>The gyroscope gallery - Images</h1>
+      (Over a 150 years years of gyroscope history)<br>
+         
+      <br>
+      <table border=1 cellpadding=5 cellspacing=0 align=center><tr><td><A href="gallery.asp?page=1"><B>&lt; Back</B></A> Showing 25 - 48 of 87 <A href="gallery.asp?page=3"><B>Next &gt;</B></A></td></tr></table><br>
+      <table border=0 cellpadding=8 cellspacing=0 class="gallerytable" width="684">
+      <tr>
+      
+        <td class=odd valign=bottom align=left width="150">
+          
+          <a target="gyrofullview" href="showfull.asp?imagename=25.jpg"><img border=0 src="gallery/25s.jpg" alt="gyroscope exhibit">
+          
+        </td>
+        
+        
+        <td class=odd valign=bottom align=left width="150">
+          
+          <a target="gyrofullview" href="showfull.asp?imagename=26.jpg"><img border=0 src="gallery/26s.jpg" alt="a morton gyroscope">
+          
+        </td>
+        
+        
+        <td class=odd valign=bottom align=left width="150">
+          
+          <a target="gyrofullview" href="showfull.asp?imagename=27.jpg"><img border=0 src="gallery/27s.jpg" alt="'deluxe' toy gyroscope">
+          
+        </td>
+        
+        
+        <td class=odd valign=bottom align=left width="150">
+          
+          <a target="gyrofullview" href="showfull.asp?imagename=28.jpg"><img border=0 src="gallery/28s.jpg" alt="antique brass gyroscope">
+          
+        </td>
+        
+        
+          </tr>
+          <tr>
+          <td class=textodd width='150'>gyroscope exhibit</td><td class=textodd width='150'>a morton gyroscope</td><td class=textodd width='150'>'deluxe' toy gyroscope</td><td class=textodd width='150'>antique brass gyroscope</td>
+          </tr>
+          
+        <td  valign=bottom align=left width="150">
+          
+          <a target="gyrofullview" href="showfull.asp?imagename=30.jpg"><img border=0 src="gallery/30s.jpg" alt="demonstration gyroscope">
+          
+        </td>
+        
+        
+        <td  valign=bottom align=left width="150">
+          
+          <a target="gyrofullview" href="showfull.asp?imagename=31.jpg"><img border=0 src="gallery/31s.jpg" alt="solid brass lecture gyroscope">
+          
+        </td>
+        
+        
+        <td  valign=bottom align=left width="150">
+          
+          <a target="gyrofullview" href="showfull.asp?imagename=29.jpg"><img border=0 src="gallery/29s.jpg" alt="gyroscope in a tube">
+          
+        </td>
+        
+        
+        <td  valign=bottom align=left width="150">
+          
+          <a target="gyrofullview" href="showfull.asp?imagename=32.jpg"><img border=0 src="gallery/32s.jpg" alt="lecture gyroscope (close up)">
+          
+        </td>
+        
+        
+          </tr>
+          <tr>
+          <td class=text width='150'>demonstration gyroscope</td><td class=text width='150'>solid brass lecture gyroscope</td><td class=text width='150'>gyroscope in a tube</td><td class=text width='150'>lecture gyroscope (close up)</td>
+          </tr>
+          
+        <td class=odd valign=bottom align=left width="150">
+          
+          <a target="gyrofullview" href="showfull.asp?imagename=33.jpg"><img border=0 src="gallery/33s.jpg" alt="hydrogyroscope">
+          
+        </td>
+        
+        
+        <td class=odd valign=bottom align=left width="150">
+          
+          <a target="gyrofullview" href="showfull.asp?imagename=34.jpg"><img border=0 src="gallery/34s.jpg" alt="student built gyroscope">
+          
+        </td>
+        
+        
+        <td class=odd valign=bottom align=left width="150">
+          
+          <a target="gyrofullview" href="showfull.asp?imagename=35.jpg"><img border=0 src="gallery/35s.jpg" alt=""tedco" gyroscope">
+          
+        </td>
+        
+        
+        <td class=odd valign=bottom align=left width="150">
+          
+          <a target="gyrofullview" href="showfull.asp?imagename=36.jpg"><img border=0 src="gallery/36s.jpg" alt="gyroscope exhibit">
+          
+        </td>
+        
+        
+          </tr>
+          <tr>
+          <td class=textodd width='150'>hydrogyroscope</td><td class=textodd width='150'>student built gyroscope</td><td class=textodd width='150'>"tedco" gyroscope</td><td class=textodd width='150'>gyroscope exhibit</td>
+          </tr>
+          
+        <td  valign=bottom align=left width="150">
+          
+          <a target="gyrofullview" href="showfull.asp?imagename=37.jpg"><img border=0 src="gallery/37s.jpg" alt="toy gyroscope">
+          
+        </td>
+        
+        
+        <td  valign=bottom align=left width="150">
+          
+          <a target="gyrofullview" href="showfull.asp?imagename=38.jpg"><img border=0 src="gallery/38s.jpg" alt="meccano gyroscope">
+          
+        </td>
+        
+        
+        <td  valign=bottom align=left width="150">
+          
+          <a target="gyrofullview" href="showfull.asp?imagename=39.jpg"><img border=0 src="gallery/39s.jpg" alt="a lecture gyroscope">
+          
+        </td>
+        
+        
+        <td  valign=bottom align=left width="150">
+          
+          <a target="gyrofullview" href="showfull.asp?imagename=40.jpg"><img border=0 src="gallery/40s.jpg" alt="selection of gyroscopes">
+          
+        </td>
+        
+        
+          </tr>
+          <tr>
+          <td class=text width='150'>toy gyroscope</td><td class=text width='150'>meccano gyroscope</td><td class=text width='150'>a lecture gyroscope</td><td class=text width='150'>selection of gyroscopes</td>
+          </tr>
+          
+        <td class=odd valign=bottom align=left width="150">
+          
+          <a target="gyrofullview" href="showfull.asp?imagename=41.jpg"><img border=0 src="gallery/41s.jpg" alt="3 mixed gyroscopes">
+          
+        </td>
+        
+        
+        <td class=odd valign=bottom align=left width="150">
+          
+          <a target="gyrofullview" href="showfull.asp?imagename=42.jpg"><img border=0 src="gallery/42s.jpg" alt="2 mixed gyroscopes">
+          
+        </td>
+        
+        
+        <td class=odd valign=bottom align=left width="150">
+          
+          <a target="gyrofullview" href="showfull.asp?imagename=43.jpg"><img border=0 src="gallery/43s.jpg" alt="3 axis electric driven gyroscope">
+          
+        </td>
+        
+        
+        <td class=odd valign=bottom align=left width="150">
+          
+          <a target="gyrofullview" href="showfull.asp?imagename=44.jpg"><img border=0 src="gallery/44s.jpg" alt=""steadicam" gyro camera stabilization">
+          
+        </td>
+        
+        
+          </tr>
+          <tr>
+          <td class=textodd width='150'>3 mixed gyroscopes</td><td class=textodd width='150'>2 mixed gyroscopes</td><td class=textodd width='150'>3 axis electric driven gyroscope</td><td class=textodd width='150'>"steadicam" gyro camera stabilization</td>
+          </tr>
+          
+      </table>
+      
+      <br><table border=1 cellpadding=5 cellspacing=0 align=center><tr><td><A href="gallery.asp?page=1"><B>&lt; Back</B></A> Showing 25 - 48 of 87 <A href="gallery.asp?page=3"><B>Next &gt;</B></A></td></tr></table>    </td>
+  </tr>
+  </table>
+  
+  <font class="copyright">
+  Webpage. Copyright &copy; 2004 Glenn Turner. All rights reserved. <a href="/site.asp"><font color="#991111">more info</font></a><br>
+     All other images/content copyrighted to the designated owners,<br>
+      and must not be reproduced or distributed without prior permission. 
+  </font>
+</center>
+
+</body>
+</html>

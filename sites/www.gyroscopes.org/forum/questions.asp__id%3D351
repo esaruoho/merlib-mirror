@@ -1,0 +1,227 @@
+
+<html>
+<head>
+  <title>Gyroscopes - Everything you needed to know</title>
+  <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+  <meta http-equiv="pics-label" content='(pics-1.1 "http://www.icra.org/ratingsv02.html" comment "ICRAonline EN v2.0" l gen true for "no gen term" r (nz 0 vz 0 lz 0 oz 0 cz 0) "http://www.rsac.org/ratingsv01.html" l gen true for "no gen term" r (n 0 s 0 v 0 l 0))'>
+  <META NAME="Author" CONTENT="Glenn Turner">
+  <META NAME="keywords" CONTENT="gyroscope, gyroscopes , gyro, gyros, gyroscopic propulsion">
+  <META NAME="Description" CONTENT="Gyroscopes have many uses, this site explains how a gyroscope works and what they can be used for. The site also looks at the possible uses of gyroscope based propulsion (gyroscopic propulsion). ">
+  <META NAME="Copyright" CONTENT="Copyright 2003 (All Web Pages) by Glenn Turner">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="expires" content="0">
+  <link rel="stylesheet" href="/iesite.css" type="text/css">
+</head>
+<body bgcolor="#000000">
+  <div style="  float: center; margin: 0; border: none; padding: 0; " align=center><center><img src="/header.jpg" alt="" hspace=0 vspace=0 wgith=700 height=111></center></div>
+  <center>
+  <span class="menutitle">
+    <a href="/index.asp"><font color="#DDDDDD">Home</font></a> :
+    <a href="/gallery.asp"><font color="#DDDDDD">Gallery</font></a> :
+    <a href="/history.asp"><font color="#DDDDDD">History</font></a> :
+    <a href="/uses.asp"><font color="#DDDDDD">Uses</font></a> :
+    <a href="/behaviour.asp"><font color="#DDDDDD">Behaviour</font></a> :
+    <a href="/math.asp"><font color="#DDDDDD">Maths</font></a> :
+    <a href="/forum/forums.asp"><font color="#DDDDDD">Forum</font></a> :
+    <a href="/propulsion.asp"><font color="#DDDDDD">Propulsion</font></a> :
+    <a href="/links.asp"><font color="#DDDDDD">Links</font></a> :
+    <a href="/glossary.asp"><font color="#DDDDDD">Glossary</font></a>
+    <br>
+  </span>
+
+  <table border=0 cellpadding=0 cellspacing=0 width="0" height="11">
+  <tr>
+    <td></td>
+  </tr>
+  </table>
+
+
+
+
+
+  <table border=0 cellpadding=8 cellspacing=0 width="700" height="260" bgcolor="#FFFFFF" ID="Table1">
+  <tr>
+    <td valign="top" class="main">
+<table align="center" width="100%" border="0">
+  <tr>
+    <td align="left" width="20%" valign="top">
+      <a href="forums.asp">Main Forum Page</a>
+    </td>
+    <td align="center" valign="middle">
+      
+      <h2 border="0">       
+      The Gyroscope Forum</h2></td>
+    <td align="right" width="20%" valign="top">
+      19 January 2012 23:21
+    </td>
+  </tr>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <p align=left>Welcome to the gyroscope forum. If you have a question about gyroscopes in general,
+      want to know how they work, or what they can be used for then you can leave your question here for others to answer.
+         You may also be able to help others by answering some of the questions on the site.
+      </p>
+      
+      <table width="100%">
+      <tr><td>
+        <form action="qa.asp" method="get">
+        <b>Search the forum: </b><input type="text" value="" name="forumsearch" size=30>&nbsp;<input type="submit" value="Search" name="forumsearchsubmit">
+          <input type=hidden name="forum" value="">
+        </form>
+      </td><td>
+        
+        <form action="askquestion.asp" method="post">
+        <input type="submit" value="Ask a new Question" name="forumsearchsubmit">
+        </form>
+        
+      </td></tr>
+      </table>
+      <hr width=100%>
+    </td>
+  </tr>
+</table>
+
+<table align="center" border="0" width="95%">
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><h3>Question</h3></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Asked by:</b></td>
+    <td align="left" colspan="2" valign="top">mel pullen</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Subject:</b></td>
+    <td align="left" colspan="2" valign="top">magnetic field around a spinning mass</td>
+  </tr>
+  <tr>
+    <td align=right class=medium valign="top" nowrap><b>Question:</b></td>
+    <td align=left class=medium valign="top" width="400" colspan="2">I did some experiments at university and in one I had a surprising result. <br>
+<br>
+A spinning, non-magnetic, mass exhibits a magnetic field.<br>
+<br>
+I used a plastic gyroscope and a simple compass so the experiment was nether rigorous nor controlled. <br>
+<br>
+I have repeated this several times, usually as a party trick. I demonstrate the effect with a wooden spinning top. The field appears to run through the axis of rotation.<br>
+<br>
+Has anyone else tried this, or found this effect?<br>
+<br>
+p.s. I'm not expecting an explanation. I have my own opinions about this effect and studied Nuclear Physics to M.Sc. level just to get a better understanding. Yet the majority of the theory came from a short course on circular calculus I was given by a bored teacher after our A levels in 6th. form.<br>
+</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Date:</b></td>
+    <td align="left" colspan="2" valign="top">11 February 2005
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2><hr width=100%></td>
+  </tr>
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><br><h3>Answers (Ordered by Date)</h3><br></td>
+  </tr>
+  <tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Victor Geere</b> - 19/04/2005 08:59:53
+</td></tr><tr><td>&nbsp;</td><td>Can you share your opinions about this phenomena with us?  I find it very interesting.<br>
+<br>
+Regards<br>
+Victor<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>arthur dent</b> - 19/04/2005 14:10:25
+</td></tr><tr><td>&nbsp;</td><td>How exactly do you use the compass to demonstrate the field? Do you hold it near the top, or do you place it on the table on which the top is operating. Is there a steady deviation of the compass needle, or an oscillation? It is well known that spinning non-ferromagnetic tops can easily affect a compass needle, but wood/plastic effects would be surprising under everday conditions. As wood can be levitated by very powerful magnetic fields, some form of interaction is not entirely out of the question.<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>mel pullen</b> - 20/04/2005 00:08:38
+</td></tr><tr><td>&nbsp;</td><td>Sorry, the original post was a bit confusing. I should have asked a more specific question. <br>
+Has anyone noticed a similar effect? <br>
+The experiment is really simple, it would be good if someone else could do it and report. I held a normal compass near the top axis of the spinning top and moved around; the needle moved to point to the axis. That's it really.<br>
+<br>
+If there are references to wood being levitated in magnetic fields I'd be interested in following them up.<br>
+<br>
+My explanation is simple. In my terms. The magnetic field is the curl in time of the gravitational tensor. That means that any rotating body with mass should create a magnetic field.<br>
+<br>
+So, is anyone going to try my experiment?<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>micheal sunanda</b> - 31/07/2005 23:45:46
+</td></tr><tr><td>&nbsp;</td><td>i been researching earth magnetic field effects for 7 years with Magnaprobe 3-D compass, that points north up or down depending on local field effects.  The curving of magnetic waves are called "Birkland waves or current found by Swedish Krisian Birkland about century ago, explains how magnetic fields create the aurora northern lights. <br>
+         So the pulling of magnetic waves toward pole are Birkland currents into axis of rotation where low energy, null zone or neutral space, center of most spinning fields, axis & axels. <br>
+How it works with non-magnetic (wood) spinning top is mystery?  The industry of weapons. magnetism, rocketry, electronics knows & uses the magnetic field effects in secret designs.<br>
+So we can test gyroscopes with compass, vibratoins of tuning forks, lights, lens, fire, etc.<br>
+please report any results.  See my results on Magnaprobe in earth magnetosphere in So. & No hemisphere & at vortexes: Oregon, Hawaii, SW Oregon, Hood River, Crater lake & Machu Pichu Peru.   Micheal sunanda       Oness press        www.efn.org/~ecozma/sunergy<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>d brown</b> - 14/08/2005 11:16:58
+</td></tr><tr><td>&nbsp;</td><td>Well, you do have some supporting proof of sorts:<br>
+The moon has Zero spin, Zero magnetic field.<br>
+<br>
+Neat test. :)<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>mel pullen</b> - 15/08/2005 23:58:27
+</td></tr><tr><td>&nbsp;</td><td>yes, indeed. An interesting corollary. <br>
+<br>
+In my opinion, what it means is that when we measure magnetic fields, we're just measuring another aspect of mass (which is an equivalent measure of energy). The magnetic aspect contains a rotation element in it. <br>
+<br>
+I expect that electric field will be found to be a measure of mass with a translation element to it. Think of all them electrons rushing up and down an aerial, or a waveguide.<br>
+<br>
+Note that both rotation and translation assume time is part of the measure.<br>
+<br>
+Isn't it nice to unify all the fields?<br>
+<br>
+I'm not sure this is the right forum to discuss equations.<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Jim Warchol</b> - 07/09/2005 20:39:27
+</td></tr><tr><td>&nbsp;</td><td>Fist of all, I hate to burst your bubble but, the Moon is spinning and does have a magnetic field.  Spin roatation period is 27.32 days and the Moon has a magnetic dipole moment of <1.3 x 10^15J/T.  The Earth's magnetic field has dropped about 16 times since the beginning of its formation, even though the rotational spin has not changed (significantly).  Because the molten iron core is cooling the magnetic properties weaken.  The Moon's core is frozen that is why it's field has deteriorated to almost nothing.  Spinning a planet does not create a magnetic field,  it is the composition of the planet.<br>
+<br>
+To calculate mass from measuring the magnetic field would be too difficult if not impossible.  I could have several different types of magnets, all with the same field strength, but composed of different materials.<br>
+<br>
+I work with gyro's as part of my job.  I have access to precise measurement equipment.  We will give it a trying with several different types of gyros.<br>
+<br>
+I let you know.<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Olas Photonics</b> - 02/11/2007 18:24:15
+</td></tr><tr><td>&nbsp;</td><td>Hi,<br>
+<br>
+I suspect you are a James Blish fan.<br>
+<br>
+If the plastic had a surface charge......<br>
+<br>
+Regards,<br>
+<br>
+Olas Photonics<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Olas Photonic</b> - 02/11/2007 18:41:06
+</td></tr><tr><td>&nbsp;</td><td>Hi again,<br>
+Re: EM fields caused by mass.<br>
+There are (for me) elegant theories suggesting that inertia is a consequence of curvature in spacetime due to a gravitational mass and the zero point energy of the EM field.<br>
+Regards,<br>
+Olas Photonic<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>olas photonic</b> - 03/11/2007 18:52:22
+</td></tr><tr><td>&nbsp;</td><td>Please ignore the surface charge suggestion... I was tipsy at the time.  Although it would seem to give a magnetic effect of the correct shape it is appears to be of the order of a fraction of a nT compared to the 50uT terrestial field.  I really should have done the simple calculation before opening my big mouth.<br>
+I have another idea... but this time will check its magnitude first.  I will talk about it next time I see you.<br><br></td></tr>
+<tr>
+<td align="center" colspan="2"><a href="answerquestion.asp?id=351">Add an Answer &#062;&#062;</a></td></tr>
+</table>
+    </td>
+  </tr>
+  </table>
+  
+  <font class="copyright">
+  Website. Copyright &copy; 2012 Glenn Turner. All rights reserved. <a href="/site.asp">site info</a><br>
+     Do not copy without prior permission. Click here for <a target="gyroscopeproducts" href="http://www.gyroscope.com/" alt="Gyroscope products">gyroscope products</a> 
+   
+  </font>
+</center>
+
+</body>
+</html>

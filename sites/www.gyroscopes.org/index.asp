@@ -1,0 +1,181 @@
+
+<html>
+<head>
+  <title>Gyroscopes - Everything you needed to know</title>
+  <meta HTTP-EQUIV="Content-Type" content="text/html; charset=iso-8859-1">
+  <meta http-equiv="pics-label" content='(pics-1.1 "http://www.icra.org/ratingsv02.html" comment "ICRAonline EN v2.0" l gen true for "no gen term" r (nz 0 vz 0 lz 0 oz 0 cz 0) "http://www.rsac.org/ratingsv01.html" l gen true for "no gen term" r (n 0 s 0 v 0 l 0))'>
+  <meta name="Author" content="Glenn Turner">
+  <meta name="keywords" content="gyroscope, gyroscopes , gyro, gyros, gyroscopic propulsion">
+  <meta name="Description" content="Gyroscopes have many uses, this site explains how a gyroscope works and what they can be used for. The site also looks at the possible uses of gyroscope based propulsion (gyroscopic propulsion). ">
+  <meta name="Copyright" content="Copyright 2015 (All Web Pages) by Glenn Turner">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="expires" content="0">
+  <link rel="stylesheet" href="/iesite.css" type="text/css">
+  
+</head>
+<body bgcolor="#000000">
+  <div style="  float: center; margin: 0; border: none; padding: 0; " align=center><center><img src="/header.jpg" alt="" hspace=0 vspace=0 width=700 height=111></center></div>
+  <center>
+  <span class="menutitle">
+    <a href="/index.asp"><font color="#DDDDDD">Home</font></a> :
+    <a href="/gallery.asp"><font color="#DDDDDD">Gallery</font></a> :
+    <a href="/history.asp"><font color="#DDDDDD">History</font></a> :
+    <a href="/uses.asp"><font color="#DDDDDD">Uses</font></a> :
+    <a href="/behaviour.asp"><font color="#DDDDDD">Behaviour</font></a> :
+    <a href="/math.asp"><font color="#DDDDDD">Maths</font></a> :
+    <a href="/forum/forums.asp"><font color="#DDDDDD">Forum</font></a> :
+    <a href="/propulsion.asp"><font color="#DDDDDD">Propulsion</font></a> :
+    <a href="/links.asp"><font color="#DDDDDD">Links</font></a> :
+    <a href="/glossary.asp"><font color="#DDDDDD">Glossary</font></a>
+    <br>
+  </span>
+
+  <table border=0 cellpadding=0 cellspacing=0 width="0" height="11">
+  <tr>
+    <td></td>
+  </tr>
+  </table>
+
+
+
+
+
+  <table border=0 cellpadding=8 cellspacing=0 width="700" height="260" bgcolor="#FFFFFF" ID="Table1">
+  <tr>
+    <td valign="top" class="main">
+
+<TABLE WIDTH="684" BORDER=0 CELLPADDING=7 cellspacing=0>
+  <TR>
+    <TD WIDTH="375">
+      <H1>Welcome to gyroscopes.org</H1>
+      <BR>
+      
+      
+       
+      <H3>NEW! 22/11/2015</H3>
+      Forum maintenance underway
+      <br>
+      <br>
+      <table cellspacing=0 border=0 cellpadding=0>
+      <tr>
+        <td><b>30/9/2006</b></td>
+        <td>&nbsp;</td>
+        <td>The <a href="forum\forums.asp" alt="Gyroscope forums">forums</a> now have an sort feature which makes things easier to find.
+        </td>
+      </tr>  
+      <tr>
+        <td><b>8/5/2005</b></td>
+        <td>&nbsp;</td>
+        <td>The propulsion documents have been updated. <a href="papers.asp">click here to view</a>
+        </td>
+      </tr>  
+      <tr>
+        <td><b>25/10/04</b></td>
+        <td>&nbsp;</td>
+        <td>Heretic programme about Eric Laithewaite added to the gallery section. click <a href="heretic.asp" alt="Heretic programme about Eric Laithewaite">here</a> to see it
+        </td>
+      </tr>  
+      <tr>
+        <td><b>23/10/04</b></td>
+        <td>&nbsp;</td>
+        <td>The Royal Institutions 1974-75 Christmas Lecture has been add to the gallery section. <a href="1974lecture.asp" alt="The Royal Institutions 1974-75 Christmas Lecture">Click here</a> to download the videos.
+      A new forum just for this will be added soon.
+        </td>
+      </tr>  
+      <tr>
+        <td><b>18/3/04</b></td>
+        <td>&nbsp;</td>
+        <td>The <a href="forum/forums.asp" alt="Gyroscope forum">forum</a> has been updated and 22 new <a href="movies.asp" alt="gyroscopes video">video clips</a> have been added to the <a href="movies.asp" alt="Gallery of gyroscopes">gallery</a>.<br>
+      </td>
+      </tr>
+      <tr>
+        <td><b>03/2/04</b></td>
+        <td>&nbsp;</td>
+        <td>My <a href="mywork.asp" alt="gyroscope propulsion">propulsion</a> page has been updated.</td>
+      </tr>
+      <tr>
+        <td><b>18/1/04</b></td>
+        <td>&nbsp;</td>
+        <td>6 New images added to the <a href="gallery.asp" alt="Gallery of gyroscopes">gallery</a> of gyroscopes. </td>
+      </tr>
+      <tr>
+        <td><b>05/1/04</b></td>
+        <td>&nbsp;</td>
+        <td>Just updated the <a href="link.asp" alt="website link">website links</a> which now has over 100 links.</td>
+      </tr>
+      <tr>
+        <td><b>01/6/03</b></td>
+        <td>&nbsp;</td>
+        <td>Site had its first major update in 3 years, now  includes <a href="gallery.asp" alt="Gallery of gyroscopes">gallery</a> section
+           and <a href="forum\forums.asp" alt="Gyroscope forum">forum</a>.
+        </td>
+      </tr>  
+      </table>  
+      <br>
+      <b>Updates</b><br>
+      If you want to know when any major updates take place on the site just enter your e-mail address below
+      and press submit. We promise that the details won't be passed on to third parties.
+      <br>
+      <br>
+      <form action="subscribe.asp" method="post">
+        <input type=hidden name=errorfile value="index.asp">
+        <input type=hidden name=successfile value="subscribesuccess.asp">
+        <input type=hidden name=how value="updates" ID="Hidden1">
+        e-mail : <input type=text size=27 name="subscribe" value=""> &nbsp;<input type=submit value="let me know">
+      </form>
+      <font color="#990000"></font>
+      <BR>
+
+
+    </TD>
+    <TD BGCOLOR="#AAAAAA" CLASS="lightgreytd" ALIGN="center">
+      <B>Super Precision Gyroscope</B><BR>
+      <table>
+      <tr>
+        <td CLASS="lightgreytd">
+          <A TARGET="gyroscope.com" HREF="http://www.gyroscope.com/"><IMG BORDER=0 VSPACE=3 ALT="The Super Precision Gyroscope" SRC="products\gimbals.jpg"></A>
+        </td>
+        <td CLASS="lightgreytd">
+          <DIV ALIGN=justify>
+            Designed and built to the highest quality.It comes with an electric motor
+            to get it upto 12,000rpm. It's made from solid brass and aluminium with
+            carefully chosen miniature high-grade bearings.
+            <A TARGET="gyroscope.com" HREF="http://www.gyroscope.com/">info</A>
+          </DIV>
+        </td>
+      </tr>
+      </table>
+
+      <BR>
+      <B>The 'Original' Toy Gyroscope</B><BR>
+      <table ID="Table1">
+      <tr>
+        <td CLASS="lightgreytd">
+          <A TARGET="gyroscope.com" HREF="http://www.gyroscope.com/"><IMG BORDER=0 VSPACE=3 ALT="The Original Toy Gyroscope" SRC="products\tedcoorg.jpg"></A>
+        </td>
+        <td CLASS="lightgreytd">
+          <DIV ALIGN=justify>
+             Produced since 1917, The Original Gyroscope has been a classic educational toy for generations.
+             Includes starting string, tower and instructions. <br>
+             <A TARGET="gyroscope.com" HREF="http://www.gyroscope.com/">more info</A>
+          </DIV>
+        </td>
+      </tr>
+      </table>
+
+    </TD>
+  </TR>
+</TABLE>
+    </td>
+  </tr>
+  </table>
+  
+  <font class="copyright">
+  Website. Copyright &copy; 2023 Glenn Turner. All rights reserved. <a href="/site.asp">site info</a><br>
+     Do not copy without prior permission. Click here for <a target="gyroscopeproducts" href="http://www.gyroscope.com/" alt="Gyroscope products">gyroscope products</a> 
+   
+  </font>
+</center>
+
+</body>
+</html>

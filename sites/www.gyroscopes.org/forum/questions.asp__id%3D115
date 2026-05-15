@@ -1,0 +1,163 @@
+
+<html>
+<head>
+  <title>The Gyroscope - Everything you needed to know</title>
+  <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+  <meta http-equiv="pics-label" content='(pics-1.1 "http://www.icra.org/ratingsv02.html" comment "ICRAonline EN v2.0" l gen true for "no gen term" r (nz 0 vz 0 lz 0 oz 0 cz 0) "http://www.rsac.org/ratingsv01.html" l gen true for "no gen term" r (n 0 s 0 v 0 l 0))'>
+  <META NAME="Author" CONTENT="Glenn Turner">
+  <META NAME="keywords" CONTENT="gyroscope, gyroscopes , gyro, gyros, gyroscopic propulsion">
+  <META NAME="Description" CONTENT="The Gyroscope has many uses, this site explains how a gyroscope works and what it can be used for. The site also looks at the possible use of gyroscope based propulsion (gyroscopic propulsion). ">
+  <META NAME="Copyright" CONTENT="Copyright 2003 (All Web Pages) by Glenn Turner">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="expires" content="0">
+  <link rel="stylesheet" href="/iesite.css" type="text/css">
+</head>
+<body bgcolor="#000000">
+  <div style="position: absolute; top: 2; width=100%; z-index: 1"><center><img src="/header.jpg" alt="" hspace=0 vspace=0 width=700 height=111></center></div>
+
+  <table border=0 cellpadding=0 cellspacing=0 width="0" height="96">
+  <tr>
+    <td></td>
+  </tr>
+  </table>
+
+  <center>
+  <span class="menutitle">
+    <a href="/index.asp"><font color="#DDDDDD">Home</font></a> :
+    <a href="/gallery.asp"><font color="#DDDDDD">Gallery</font></a> :
+    <a href="/history.asp"><font color="#DDDDDD">History</font></a> :
+    <a href="/uses.asp"><font color="#DDDDDD">Uses</font></a> :
+    <a href="/behaviour.asp"><font color="#DDDDDD">Behaviour</font></a> :
+    <a href="/math.asp"><font color="#DDDDDD">Maths</font></a> :
+    <a href="/forum/qa.asp"><font color="#DDDDDD">Forum</font></a> :
+    <a href="/propulsion.asp"><font color="#DDDDDD">Propulsion</font></a> :
+    <a href="/links.asp"><font color="#DDDDDD">Links</font></a> :
+    <a href="/glossary.asp"><font color="#DDDDDD">Glossary</font></a>
+    <br>
+  </span>
+
+  <table border=0 cellpadding=0 cellspacing=0 width="0" height="11">
+  <tr>
+    <td></td>
+  </tr>
+  </table>
+
+
+
+
+
+  <table border=0 cellpadding=8 cellspacing=0 width="700" height="260" bgcolor="#FFFFFF" ID="Table1">
+  <tr>
+    <td valign="top" class="main">
+<table align="center" width="100%" border="0">
+  <tr>
+    <td align="left" width="30%" valign="top">
+      <a href="qa.asp">Main Forum Page</a>
+    </td>
+    <td align="center" valign="middle">
+      <h2 border="0">The Gyroscope Forum</h2></td>
+    <td align="right" width="30%" valign="top">
+      5 February 2004 09:17
+    </td>
+  </tr>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <p align=left>Welcome to the gyroscope forum. If you have a question about gyroscopes in general,
+      want to know how they work, or what they can be used for then you can leave your question here for others to answer.
+         You may also be able to help others by answering some of the questions on the site.
+      </p>
+      <p>
+      <form action="qa.asp" method="post">
+      Search the forum: <input type="text" value="" name="forumsearch">&nbsp;<input type="submit" value="Search" name="forumsearchsubmit">
+      </form>
+      </p>
+      <b>To ask a question <a href="askquestion.asp">click here</a></b><hr width=75%>
+    </td>
+  </tr>
+</table>
+
+<table align="center" border="0" width="95%">
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><h3>Question</h3></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Asked by:</b></td>
+    <td align="left" colspan="2" valign="top">James</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Subject:</b></td>
+    <td align="left" colspan="2" valign="top">Anyone know how to build a propulsion device?</td>
+  </tr>
+  <tr>
+    <td align=right class=medium valign="top" nowrap><b>Question:</b></td>
+    <td align=left class=medium valign="top" width="400" colspan="2">Does anyone really know how to build a propulsion device which can hover in air? I've heard people said that it can be done by spinning the solenoids in certain way. Any comments?</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Date:</b></td>
+    <td align="left" colspan="2" valign="top">20 January 2004</td>
+  </tr>
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><br><h3>Answers</h3></td>
+  </tr>
+  <tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Nitro MacMad</b> - 24/01/2004 09:39:55
+</td></tr><tr><td>&nbsp;</td><td>Dear James,<br>
+<br>
+Your question needs answering on two parts.  Yes, I really know how to build a propulsion device.  No, it cannot hover in the air. Could you explain what you mean by spinning the solenoids as I am not sure on that.<br>
+<br>
+The reason that hovering in the air is not possible (at least at the moment) is that the device is gyro based and *reactionlessly converts torque into a linear displacement of its c of g.  To maximise the amount of precession, which is what is used to carry out the "impossible conversion",  you have to maximise the giros mass, maximise the gyros diameter, and maximise the gyros spin speed (sorry, Dr. Fisher, angular momemtum).  All of this conspires to make the machine very heavy in relation to its "thrust" (I am tempted to call it "Impulse" as that really is a better discription of what it does but it would sound like science imitating space opera) and thus make hovering in the air rather unlikely.<br>
+<br>
+However one should never say never (so I am told).  You can exchange mass for spin speed in gyros and some years ago carbon fibre brushes (rather like sweeps brushes) were spun at increadible speeds in vacuum housing to remove air drag.  They were intended as energy stores but they would make wonderfully light precessing gyros so....<br>
+<br>
+Kind regards<br>
+<br>
+nm<br>
+<br>
+*(that horrible word "reactionlessly" is actually wrong as the machine produces plenty of reactions and actions but importantly it ends up with "shed loads" of equal but only a "Gnats" of opposite)<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Brad H</b> - 20/01/2004 20:36:54
+</td></tr><tr><td>&nbsp;</td><td>No one has produced any solid evidence that rotational motion can be converted to linear motion without expelling matter (newton's third law).  As a matter of fact, any purely mechanical system that claims to achieve this feat is either violating physics principals, using some unknown physics laws, or is simply not working.  The reason that little real scientific research is being done in this area is because most people in the the field believe it is not possible.<br>
+<br>
+A reasonable alternative to gyroscopic thrust for space travel is producing super-efficient electrical rockets.  Sometimes called 'ionic propulsion' these rockets use electricity and magnetic principals to accelerate particles to fantastic speeds (like the Ionic Breeze air filter, only more powerful).  The faster the particles are expelled, the more thrust is achieved.  In theory, these particles could be accelerated closer and closer to the speed of light, thus providing more and more thrust per unit of matter.  Eventually the process could be so efficient that fuel tanks for extreemly long trips could be very small indeed.  Imagine getting 1,000,000,000 km per litre of fuel or more.  Though that's a radical number, current physics does NOT exclude this, it supports it.<br>
+<br>
+That's not to say that research in gyroscopic/inertial thrust is wasted.  It could very well be that we will discover a method for creating an unbalanced force in a system without outside interaction, but I believe such a breakthrough will be the result of theoretical advancements, and not experimentational research.  If you recall, the Atom Bomb was a direct result from discovered physics principals, not from chance experimentation.  Only time will show who's correct!<br>
+<br>
+Keep on inventing, and good luck!<br>
+<br>
+Brad H<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>fred groth</b> - 20/01/2004 06:43:45
+</td></tr><tr><td>&nbsp;</td><td>hello there!<br>
+i built a rather crude prototype based on a trapped sphere<br>
+traveling in an elliptical orbit. i took an aluminum block and cut an egg shaped<br>
+channel in it. Then i placed a 1" diameter ball in the channel and covered it with a plexiglass sheet. i then put two holes in the side of the block connected to the channel,<br>
+one for air input,one for exhaust. i then applied 130 psi (all i had) to the input port.<br>
+the results were interesting. it kind of wiggled from point A to point B, but it did traverse<br>
+as expected. like i said it was crude but there are many ways i can <br>
+think of to stabilize and increase power. next time i will turn it skyward<br>
+and take out some lights in my shop!<br>
+<br>
+if only i can find the time.....<br>
+<br><br></td></tr>
+<tr>
+<td align="center" colspan="2"><a href="answerquestion.asp?id=115">Add an Answer&#062;&#062;</a></td></tr>
+</table>
+    </td>
+  </tr>
+  </table>
+  
+  <font class="copyright">
+  Webpage. Copyright &copy; 2004 Glenn Turner. All rights reserved. <a href="/site.asp"><font color="#991111">more info</font></a><br>
+     All other images/content copyrighted to the designated owners,<br>
+      and must not be reproduced or distributed without prior permission. 
+  </font>
+</center>
+
+</body>
+</html>

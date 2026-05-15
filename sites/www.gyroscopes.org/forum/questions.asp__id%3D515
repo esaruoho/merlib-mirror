@@ -1,0 +1,350 @@
+
+<html>
+<head>
+  <title>Gyroscopes - Everything you needed to know</title>
+  <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+  <meta http-equiv="pics-label" content='(pics-1.1 "http://www.icra.org/ratingsv02.html" comment "ICRAonline EN v2.0" l gen true for "no gen term" r (nz 0 vz 0 lz 0 oz 0 cz 0) "http://www.rsac.org/ratingsv01.html" l gen true for "no gen term" r (n 0 s 0 v 0 l 0))'>
+  <META NAME="Author" CONTENT="Glenn Turner">
+  <META NAME="keywords" CONTENT="gyroscope, gyroscopes , gyro, gyros, gyroscopic propulsion">
+  <META NAME="Description" CONTENT="Gyroscopes have many uses, this site explains how a gyroscope works and what they can be used for. The site also looks at the possible uses of gyroscope based propulsion (gyroscopic propulsion). ">
+  <META NAME="Copyright" CONTENT="Copyright 2003 (All Web Pages) by Glenn Turner">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="expires" content="0">
+  <link rel="stylesheet" href="/iesite.css" type="text/css">
+</head>
+<body bgcolor="#000000">
+  <div style="  float: center; margin: 0; border: none; padding: 0; " align=center><center><img src="/header.jpg" alt="" hspace=0 vspace=0 wgith=700 height=111></center></div>
+  <center>
+  <span class="menutitle">
+    <a href="/index.asp"><font color="#DDDDDD">Home</font></a> :
+    <a href="/gallery.asp"><font color="#DDDDDD">Gallery</font></a> :
+    <a href="/history.asp"><font color="#DDDDDD">History</font></a> :
+    <a href="/uses.asp"><font color="#DDDDDD">Uses</font></a> :
+    <a href="/behaviour.asp"><font color="#DDDDDD">Behaviour</font></a> :
+    <a href="/math.asp"><font color="#DDDDDD">Maths</font></a> :
+    <a href="/forum/qa.asp"><font color="#DDDDDD">Forum</font></a> :
+    <a href="/propulsion.asp"><font color="#DDDDDD">Propulsion</font></a> :
+    <a href="/links.asp"><font color="#DDDDDD">Links</font></a> :
+    <a href="/glossary.asp"><font color="#DDDDDD">Glossary</font></a>
+    <br>
+  </span>
+
+  <table border=0 cellpadding=0 cellspacing=0 width="0" height="11">
+  <tr>
+    <td></td>
+  </tr>
+  </table>
+
+
+
+
+
+  <table border=0 cellpadding=8 cellspacing=0 width="700" height="260" bgcolor="#FFFFFF" ID="Table1">
+  <tr>
+    <td valign="top" class="main">
+<table align="center" width="100%" border="0">
+  <tr>
+    <td align="left" width="20%" valign="top">
+      <a href="qa.asp">Main Forum Page</a>
+    </td>
+    <td align="center" valign="middle">
+      
+      <h2 border="0">       
+      The Gyroscope Forum</h2></td>
+    <td align="right" width="20%" valign="top">
+      3 May 2006 11:54
+    </td>
+  </tr>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <p align=left>Welcome to the gyroscope forum. If you have a question about gyroscopes in general,
+      want to know how they work, or what they can be used for then you can leave your question here for others to answer.
+         You may also be able to help others by answering some of the questions on the site.
+      </p>
+      
+      <table width="100%">
+      <tr><td>
+        <form action="qa.asp" method="get">
+        <b>Search the forum: </b><input type="text" value="" name="forumsearch" size=30>&nbsp;<input type="submit" value="Search" name="forumsearchsubmit">
+          <input type=hidden name="forum" value="">
+        </form>
+      </td><td>
+        
+        <form action="askquestion.asp" method="post">
+        <input type="submit" value="Ask a new Question" name="forumsearchsubmit">
+        </form>
+        
+      </td></tr>
+      </table>
+      <hr width=100%>
+    </td>
+  </tr>
+</table>
+
+<table align="center" border="0" width="95%">
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><h3>Question</h3></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Asked by:</b></td>
+    <td align="left" colspan="2" valign="top">Shawn Ostermann</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Subject:</b></td>
+    <td align="left" colspan="2" valign="top">Gyroscopic Propulsion, Good or Bad?</td>
+  </tr>
+  <tr>
+    <td align=right class=medium valign="top" nowrap><b>Question:</b></td>
+    <td align=left class=medium valign="top" width="400" colspan="2">I'm trying to wrap my mind around just how true gyroscopic propulsion would change our world. The obvious benifits that come to mind are: possible end to fuel crisis, faster and further travel postential, cleaner envirenment.<br>
+<br>
+Are there any negative effects such a discovery could have on our world? For some reason it almost seems like such an invention does seem right -- but I don't know why. Could it just be because it seems to be breaking the rules of physics? <br>
+<br>
+Curious to know what you guys think about this beyond the wanting to do it/see it/understand it stage.<br>
+<br>
+<br>
+Thanks,<br>
+<br>
+Shawn<br>
+</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Date:</b></td>
+    <td align="left" colspan="2" valign="top">18 February 2006
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2><hr width=100%></td>
+  </tr>
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><br><h3>Answers (Ordered by Date)</h3><br></td>
+  </tr>
+  <tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Nitro MacMad</b> - 18/02/2006 09:16:45
+</td></tr><tr><td>&nbsp;</td><td>Dear Shaun Otterman<br>
+<br>
+Nicely written question.  However I think you are confusing the struggles of us gyro wizzy wirly machine makers with the efforts of the over unity gang.  <br>
+<br>
+While we are intelligently trying to make a device that will produce thrust without pushing against anything (or throwing stuff in the opposite direction-which is also a form of pushing against something) - the over unity gang are, unlike us, completely bonkers as they are trying to make a device that will produce more energy out than is put into the device to drive it.<br>
+<br>
+In truth both chalice searches have some justification (at least in the minds of those who trudge the paths) in my case the path started when I realised that a gyro pendulum will describe a curved path despite the total absence of an external sideways force to cause such a sideways acceleration.  While some of the over unity gang say that the big bang theory of all creation is the greatest example of an over unity machine.<br>
+<br>
+To get back (at last?) to your question  good or bad?  Any increase in human understanding has to be good.   Though greater understanding, I believe, carries with it a greater duty of care in the use of that understanding  something sadly lacking in the scientific community in the recent past as they have tended to sell out to mammon.<br>
+<br>
+If the gyro search is successful then it will open up some improvement in the long term satellite orbit adjustment without the extra payload of fuel needed for such adjustment.  Other applications (such as space thrust, using electric motors powered by solar panels again saving launch payload, propeller-less boat propulsion and steering, etc.) will depend on how efficient the production of any thrust can be - specifically in its energy consumption in relation to thrust.<br>
+<br>
+Success with gyro propulsion, sadly, will not contribute to ending the fuel crisis.  This can only be achieved by all of us reducing our dependence on (addiction to?) fuel.  This means not having vegetables flown half way round the world instead of using local (in season) crops, not flying across the Atlantic to a theme park full of papermache imitations of poorer views than you could have enjoyed on a country walk.  (And not driving a V8 cos you love its sound  must listen to my own advice some day.)<br>
+<br>
+Either that or we can only hope that the complete loonies in the over unity gang are right and can save us. <br>
+<br>
+Kind regards<br>
+NM   <br>
+<br>
+  <br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Shawn Ostermann</b> - 18/02/2006 18:12:59
+</td></tr><tr><td>&nbsp;</td><td>Nitro MacMad,<br>
+<br>
+Thank you for your detailed reply. I must admit that when I was first introdced to the gyroscopic-propulsion concept, I did confuse it for an 'over unitity' device.<br>
+<br>
+My late Grandfather had been obsessed with an advention called a 'gal-gal'. It started many decades ago with his co-worker who had a vision (dream) one night in which he believes an angel showed him a device (the gal-gal). My grandfather's co-worker understood emediately how it worked and that it could/would be used for space travel. It was a gyroscopic motor. Although he inherintley knew how the device worked, he never pursued developing it. He did however tell my grandfather about it, who in turn spent the rest of his life trying to understand gyroscopic propulsion. <br>
+<br>
+Anybody who knew my grandfather knew about the gal-gal. Most people, including myself, didn't pay his discisions much thought. Until I was much older, after years of hearing about his device, I finally listened with an open mind. After many real discusions about the device, I started to understand the concept -- but at first I did misunderstand it as an ettempt to build an anti-gravity or an over-unity machine.<br>
+<br>
+My grandfather had a way of helping me understand how and why this device would probably work. Unfourtanately, it was really only while he was describing it to me -- now I have a hard time wraping my mind around the concept.<br>
+<br>
+Anyway, I helped him build a semi-crude concept model (which I have now), but it was never weighted and balanced evenly enough to test.  While reading this website and forum, what really strikes me is that all of these concepts, and even some of the prototype gyro-propulsion devices I've seen here are very similar to what my grandfather believed. But he was very removed from information. No cable tv, NEVER saw or used a computer, basically un-educated.<br>
+<br>
+I don't think this is a coincidence.  I have some information from his life-long passioniate pursute of the gal-gal. I just don't know what, if anything to do with it. If this device was ever developed, of put into the wrong hands, could it cause harm?<br>
+<br>
+I hope this message doesn't come off as a rambling. And I don't claim that I know the 'gal-gal' holds any answers to the pursute of gyro-propulsion, but I feel it may.<br>
+<br>
+I am hoping to hear some input from knowledgable person in this matter.<br>
+<br>
+<br>
+Many thanks,<br>
+<br>
+Shawn~<br>
+<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 18/02/2006 19:05:28
+</td></tr><tr><td>&nbsp;</td><td>Hi Shawn,<br>
+<br>
+Nitro, agreed, excellent and well written. Shawn, what a good human story and also well written. Too bad we cant see a picture of it. Likely itd be understood and maybe quickly and easily?<br>
+<br>
+If you want to divulge it, then explain whatever you remember of it as theory. Then describe what you see, the parts and how they are connected and as much as you can tell, what their motions are like.<br>
+<br>
+I will try to relate it for you to what I understand. There are others here that who would equally be able to explain it and I expect they might.<br>
+<br>
+ It was a really good story.<br>
+<br>
+Glenn H.,<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Shawn Ostermann</b> - 20/02/2006 00:21:18
+</td></tr><tr><td>&nbsp;</td><td>At the risk of sounding like a nut, I want to know if anybody in this forum has ever related the biblical description of the flying craft Ezekiel saw in Ezekiel 1 to gyroscopic propulsion.<br>
+<br>
+ I believe the Bible is the inspired word of God, but that aside,  the book of Ezekiel is undisputed to be a very old(around 2600 year old)  manuscript documenting what the prophet believes he saw -- a flying craft. And part of the description of this craft is that it's power (to move without turning) was in its wheels. The wheels are described as a "wheel within a wheel". <br>
+<br>
+I just discovered last night that one translation of the Bible actually translates the wheel to gyroscope. I find this very interesting, especially since there are numerous accounts of flying craft throughout the Bible.<br>
+<br>
+I would love to hear if anyone has known about or been intrigued by Ezekiel's description of this flying craft and it's wheel within a wheel. <br>
+<br>
+If you want to research it you can go to www.biblegateway.com to read Ezekiel 1 in different translations. Also, a google search on any combonation of "ezekiel wheel gyro craft" will result in some interesting readings.<br>
+<br>
+<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Sandy Kidd</b> - 20/02/2006 07:03:02
+</td></tr><tr><td>&nbsp;</td><td>Shawn,<br>
+I remember reading a book many, many, years ago called the Spaceships of Ezekiel by one Josef Blumrich, a NASA scientist I believe.<br>
+Not much in it about gyroscopes as far as I could see.<br>
+Im getting on a bit, so correct me if I am wrong, but I think the line was wheels within wheels that turned not as they went, which Blumrich did his best to explain away.<br>
+Another thing, was Ezekiel not regarded as being a few pennies short of the full shilling?<br>
+Sandy Kidd<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>DaveS</b> - 21/02/2006 12:07:10
+</td></tr><tr><td>&nbsp;</td><td>As has already been said, these devices still need an energy input to function so no end to the fuel crises. Being potentially electrically powered does mean that energy provision other than from fossil fuels could be used.<br>
+<br>
+With regard to the negative effects:- Depends on your point of view. I intend to use mine to take control of all the satellites in orbit.  From there you can control the media. i.e. SKY etc.<br>
+There are numerous weapons also floating about in space that can be commandeered.<br>
+The use of valuable metals such as platinum, gold etc is intrinsic to the design of many satellites which also makes them a valuable resaleable quantity.<br>
+If anyone tries to stop you, it would be possible to take control of space rocks and drop them on specific targets.<br>
+Well actually, it would be possible to take control of space rocks and drop them on specific targets anyway. The world needs some sort of control in place to remove some of the lunacy we are currently experiencing. <br>
+The world will be made to change if my machine ever gets into space. Some people or even countries should be afraid, very afraid.<br>
+<br>
+Guess what, i'm not a namby pamby Liberal. The Church of id will become the new world religion. Balance will be regained. All politicians and Lawyers are doomed. Scumbags too.<br>
+<br>
+<br>
+You're not a lawyer or a scumbag are you.  :)<br>
+<br>
+<br>
+HAHAhahahaha...<br>
+<br>
+<br>
+So..<br>
+...in answer to your question, there are negative effects but it really does depend on your point of view.<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Nitro MacMad</b> - 21/02/2006 19:46:35
+</td></tr><tr><td>&nbsp;</td><td>Dear Dave S,<br>
+<br>
+Nice to see theyve let you out for a while as well!  Your latest reminded me of how fortunate I was to reside at the Happishrink Rest Home for Tormented Gyro Engineers.  <br>
+<br>
+Only the other day I was peering over the twenty foot high boundary wall that has been, rather unfairly I think, been constructed to exclude those unfortunate enough to have failed the entrance examination. <br>
+<br>
+I guess I must be better than those unfortunates outside at making up sufficiently lurid stories about the Rorschach images in the exam.   (the images were obviously intimate biological images but dont expect the staff to agree with you as they are scared they might have to hand over their magazines with the original, and prettier, images).<br>
+<br>
+I deviate, (though not as much as those Rorschach images) - as I looked over the boundary wall I saw a fellow scooping up the horse droppings left behind by one of the trekking ponies from the nearby Mrs Ponsington-Smythes Pony riding school for the children of Gentlefolk.  <br>
+<br>
+Being somewhat curious (or so I have been told by more than one of the kind but firm white coats employed for our entertainment here) I, rather presumptuously, called out to ask; What are you doing my good fellow?  He looked around with a start and, for a while, I think he believed God was speaking to him until he looked up and saw me.  Oh! He said. Im collecting this to put on my Rhubarb.<br>
+<br>
+Cor! I said. You ought to come in here. We get custard on ours! <br>
+<br>
+Kind regards<br>
+NM<br>
+<br>
+P.S. They want the word processor back in the office, I will have to go back to the crayons. <br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Shawn Ostermann</b> - 22/02/2006 02:47:46
+</td></tr><tr><td>&nbsp;</td><td>Sandy Kidd,<br>
+<br>
+I think I may have read that book also. However, that is simply one mans interperation of Ezekiel's interperation of what he saw. I was hoping someone here might have read Ezekiel's account with an gyroscopic mindset. I find it very interesting and relavent to the topic of this forum.<br>
+<br>
+Here is a clipping of part of the passage where Ezekiel is trying to describe what he is seeing. Remember that he saw this craft come down from the sky carrying a visitor and Ezekiel is describing this with only the references to the things he knew is his time-frame (circ.2600BC). This is only a part of the passage, if anyone is interested they should read at least the entire chapter (www.biblegateway.com). Let me know what you think.<br>
+<br>
+Ezekiel 1:15-21<br>
+<br>
+ 15Now as I beheld the living creatures, behold one wheel upon the earth by the living creatures, with his four faces.<br>
+<br>
+ 16The appearance of the wheels and their work was like unto the colour of a beryl: and they four had one likeness: and their appearance and their work was as it were a wheel in the middle of a wheel.<br>
+<br>
+ 17When they went, they went upon their four sides: and they turned not when they went.<br>
+<br>
+ 18As for their rings, they were so high that they were dreadful; and their rings were full of eyes round about them four.<br>
+<br>
+ 19And when the living creatures went, the wheels went by them: and when the living creatures were lifted up from the earth, the wheels were lifted up.<br>
+<br>
+ 20Whithersoever the spirit was to go, they went, thither was their spirit to go; and the wheels were lifted up over against them: for the spirit of the living creature was in the wheels.<br>
+<br>
+ 21When those went, these went; and when those stood, these stood; and when those were lifted up from the earth, the wheels were lifted up over against them: for the spirit of the living creature was in the wheels.<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Jerry Volland</b> - 22/02/2006 13:30:34
+</td></tr><tr><td>&nbsp;</td><td>I've studied Ezekial and the concept of a "wheel within a wheel", and done some basic experiments.  First of all, I notice that all of the online versions are basically similar, but are slightly different than that contained in my hard copy King James Version.  It says that Ezekial saw a wheel come down out of the sky and that the wheel was like a wheel within a wheel and there were four wheels, one on each side, and there was a living being sitting in front of each wheel, and when their spirits went this way or that way, the wheels went this way or that way, and when their spirits went up, the wheels went back up into the sky.  And Ezekial saw the workings within the wheels.  The hard copy of the Gideons' Bible says the wheels turned not as they went. But that's about all it says, only repeating that the wheels turned not as they went.  (Itallicizing the second "not".)<br>
+<br>
+I think some of the online scripture has been added to confuse people.  Other parts, such as the fire infolding upon itself may have been a vision to reveal the power source.  (Some kind of fusion containment?)  As for their spirits going this way and that way, I think this is what Neil Armstrong was refering to when, on the aniversary of the first Moon Landing, he said - with Clinton standing behind him - "Breakthroughs are available to those who strip off Truth's protective layer".  IOW, the wheel system alone was producing the thrust, without any spirits within them.  An example of the confusion factor may be the version which describes the wheels as a wheel intersecting a wheel.  This sounds like a gyroscope, but Laithwaite discovered that all reactive forces vanish when a gyroscope precesses normal to its axis.  So the wheels had to be in the same plane.<br>
+<br>
+I did a simple experiment with a motorized bicycle wheel attatched to a pendulum which itself could be attatched to some point on a larger wheel, to allow directional control.  I discovered that as long as the bicycle wheel is speeding up, the pendulum will act as a torque arm, moving out in the direction the wheel is turning between its shaft and the torque arm's pivot point.  (This disproves the Pendulum Test, because anything which constantly produces torque will constantly deflect the pendulum, without producing any thrust.)  I then added a lower pivot mechanism, attatched the wheel/motor to it, and fastened this to the pendulum/torque arm.  This way, when the torque was reversed by suddenly stopping or slowing the wheel, the wheel moved in the direction of torque relative to the lower pivot point.  This caused a considerable jerk against the pendulum, in the same direction the pendulum was already deflected.  So stopping the wheel, in this configuration, produces thrust.  Hence, it turns not as it goes.<br>
+<br>
+I then did a more complex experiment, using a device referred to as Thor's Hammer.  This uses a motor with a flywheel, with this motor fastened to the end of a spoke (which could be a larger wheel), with this spoke fastened to the shaft of a second motor.  I then suspended this device from an A-frame with a screen door hinge, with the flywheel hanging at the lowest point.  As soon as I turned the power on, the flywheel starting spinning, the spoke started moving up from its straight down position, and the spring completely relaxed, with the top end of the spring impacting its tie off point with a force which slightly lifted the entire A-frame.  Finding it momentarilly remarkable that the upwards movement occurred as soon as the spoke started upwards from the bottom, I repeated the experiment, with the long spring being replaced with a tether.  This time, as soon as I turned the power on, the flywheel started spinning (i.e., speeding up), the spoke started moving up from its straight down position, and the thether swung out in a forwards direction, like a pendulum.  This reconfirmed my prior discovery that a spring shifts the output reaction's phase direction by 90 degrees.  (As will a lever which has a moving fulcrum.)  <br>
+<br>
+These three experiments point to a Principle of Physics I call Torque Acceleration.<br>
+<br>
+Pictures and diagrams are posted at my website:<br>
+http://www.spaceoffice.us/ipm.htm<br>
+<br>
+Jerry<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>DaveS</b> - 23/02/2006 09:23:34
+</td></tr><tr><td>&nbsp;</td><td>very good Nitro. <br>
+:)<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Nico Vermeer</b> - 27/03/2006 15:01:01
+</td></tr><tr><td>&nbsp;</td><td>In advance i appologize for my crude englisch, its not my native language.<br>
+<br>
+I'read the preveous comments. but i was wondering the wheel inside a wheel.<br>
+is it possible to create a field by use a gyro?<br>
+For example:<br>
+lets say a take a wheel with a radius of 1meter, now im putting on the edge of the cirkle 6 gyros tilted the way that the axis wil cross the wheelaxe in a corner of 18,938 degrees, so like a cone.Tthe gyros with a weight of 10 KG centered in a ring with a diameter of 20 cm wil rotate clockwise with a speed of 3600 rpm, and the wheel with a<br>
+counterclockwise speed of 1800 rpm.   The idea that whirl in my mind is that the gyros wil create a field like the blade of a propellorblade or a lens that wil float on the em-field of a planet.<br>
+ So when you could create a devive like this with instead the of gyros, a heavy material ring in a em-field like the japanese floating trains, you would create a wheel in a wheel.<br>
+And lets say you create an eaven number of these constructions and place them in a circular frame, each time countering the rotation of its neighbour , is it than possible to create a system that counteracts al momentum around the wheel axe, leaving an upward force.<br>
+<br>
+Its only a mindboggel, but its keeps me literaly from sleeping<br>
+<br>
+gr nico<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Jerry Volland</b> - 29/03/2006 12:43:51
+</td></tr><tr><td>&nbsp;</td><td>Here's how they make a gravitomagnetic field with a superconducting gyro:<br>
+<br>
+http://www.esa.int/esaCP/SEM0L6OVGJE_index_0.html<br><br></td></tr>
+<tr>
+<td align="center" colspan="2"><a href="answerquestion.asp?id=515">Add an Answer &#062;&#062;</a></td></tr>
+</table>
+    </td>
+  </tr>
+  </table>
+  
+  <font class="copyright">
+  Website. Copyright &copy; 2006 Glenn Turner. All rights reserved. <a href="/site.asp">site info</a><br>
+     Do not copy without prior permission. Click here for <a target="gyroscopeproducts" href="http://www.gyroscope.com/" alt="Gyroscope products">gyroscope products</a> 
+   
+  </font>
+</center>
+
+</body>
+</html>

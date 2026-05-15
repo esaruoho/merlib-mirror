@@ -1,0 +1,3 @@
+http://www.gyroscopes.org:80/iesite.css
+http://www.gyroscopes.org:80/linkthrough.asp
+http://www.gyroscopes.org/mccabe/mccabe/13.gif

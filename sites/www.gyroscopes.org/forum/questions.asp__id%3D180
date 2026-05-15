@@ -1,0 +1,292 @@
+
+<html>
+<head>
+  <title>Gyroscopes - Everything you needed to know</title>
+  <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+  <meta http-equiv="pics-label" content='(pics-1.1 "http://www.icra.org/ratingsv02.html" comment "ICRAonline EN v2.0" l gen true for "no gen term" r (nz 0 vz 0 lz 0 oz 0 cz 0) "http://www.rsac.org/ratingsv01.html" l gen true for "no gen term" r (n 0 s 0 v 0 l 0))'>
+  <META NAME="Author" CONTENT="Glenn Turner">
+  <META NAME="keywords" CONTENT="gyroscope, gyroscopes , gyro, gyros, gyroscopic propulsion">
+  <META NAME="Description" CONTENT="Gyroscopes have many uses, this site explains how a gyroscope works and what they can be used for. The site also looks at the possible uses of gyroscope based propulsion (gyroscopic propulsion). ">
+  <META NAME="Copyright" CONTENT="Copyright 2003 (All Web Pages) by Glenn Turner">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="expires" content="0">
+  <link rel="stylesheet" href="/iesite.css" type="text/css">
+</head>
+<body bgcolor="#000000">
+  <div style="  float: center; margin: 0; border: none; padding: 0; " align=center><center><img src="/header.jpg" alt="" hspace=0 vspace=0 wgith=700 height=111></center></div>
+  <center>
+  <span class="menutitle">
+    <a href="/index.asp"><font color="#DDDDDD">Home</font></a> :
+    <a href="/gallery.asp"><font color="#DDDDDD">Gallery</font></a> :
+    <a href="/history.asp"><font color="#DDDDDD">History</font></a> :
+    <a href="/uses.asp"><font color="#DDDDDD">Uses</font></a> :
+    <a href="/behaviour.asp"><font color="#DDDDDD">Behaviour</font></a> :
+    <a href="/math.asp"><font color="#DDDDDD">Maths</font></a> :
+    <a href="/forum/qa.asp"><font color="#DDDDDD">Forum</font></a> :
+    <a href="/propulsion.asp"><font color="#DDDDDD">Propulsion</font></a> :
+    <a href="/links.asp"><font color="#DDDDDD">Links</font></a> :
+    <a href="/glossary.asp"><font color="#DDDDDD">Glossary</font></a>
+    <br>
+  </span>
+
+  <table border=0 cellpadding=0 cellspacing=0 width="0" height="11">
+  <tr>
+    <td></td>
+  </tr>
+  </table>
+
+
+
+
+
+  <table border=0 cellpadding=8 cellspacing=0 width="700" height="260" bgcolor="#FFFFFF" ID="Table1">
+  <tr>
+    <td valign="top" class="main">
+<table align="center" width="100%" border="0">
+  <tr>
+    <td align="left" width="20%" valign="top">
+      <a href="qa.asp">Main Forum Page</a>
+    </td>
+    <td align="center" valign="middle">
+      
+      <h2 border="0">       
+      The Gyroscope Forum</h2></td>
+    <td align="right" width="20%" valign="top">
+      3 May 2006 11:51
+    </td>
+  </tr>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <p align=left>Welcome to the gyroscope forum. If you have a question about gyroscopes in general,
+      want to know how they work, or what they can be used for then you can leave your question here for others to answer.
+         You may also be able to help others by answering some of the questions on the site.
+      </p>
+      
+      <table width="100%">
+      <tr><td>
+        <form action="qa.asp" method="get">
+        <b>Search the forum: </b><input type="text" value="" name="forumsearch" size=30>&nbsp;<input type="submit" value="Search" name="forumsearchsubmit">
+          <input type=hidden name="forum" value="">
+        </form>
+      </td><td>
+        
+        <form action="askquestion.asp" method="post">
+        <input type="submit" value="Ask a new Question" name="forumsearchsubmit">
+        </form>
+        
+      </td></tr>
+      </table>
+      <hr width=100%>
+    </td>
+  </tr>
+</table>
+
+<table align="center" border="0" width="95%">
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><h3>Question</h3></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Asked by:</b></td>
+    <td align="left" colspan="2" valign="top">Sandy Kidd</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Subject:</b></td>
+    <td align="left" colspan="2" valign="top">Excerpt from the Heresy of the Inertial Drive, You cannot accelerate no mass</td>
+  </tr>
+  <tr>
+    <td align=right class=medium valign="top" nowrap><b>Question:</b></td>
+    <td align=left class=medium valign="top" width="400" colspan="2">Here is a Excerpt from a book that Sandy has started writting called Heresy of the Inertial Drive<br>
+<br>
+You cannot accelerate no mass<br>
+<br>
+Physicists, mathematicians, and once upon a time myself, believe that during precession rotation, the mass (gyroscope) maintains angular momentum, centrifugal, centripetal force etc in accordance with the Laws of Motion.<br>
+This is just not true.<br>
+<br>
+If the Laws of Motion had been correct I would have got my seven kilograms of thrust, but alas, we now know where it all went wrong. This was basically because in these days all the laws were made to suit Newtons Laws and they obviously didnt know any better. Let me elaborate.<br>
+<br>
+Because I managed to get my first device to produce a sizeable amount of thrust I though I knew enough to make a really good one. I spent a lot of money building a new device, it was beautifully made, with a special gearbox (no belts), custom made gyroscopes etc. This device had it all, and I thought it was going to work really well, maybe even balancing out all its weight. When I ran it, nothing at all happened, except for the fact the gyroscopes had a tremendous affinity for each other. I just could not stop the gyroscopes flashing inwards towards the centre of the device.<br>
+As the gyroscopes went through this motion the machine rotation speeded up and the machine apparently unloaded itself.  Gyroscopes often appear to have minds of their own, but this was something completely different. It seemed sensible to me to accelerate the gyroscopes in precession to increase the rotation speed. That would drive them out again as the centrifugal force increased.<br>
+Seemed reasonable to me at the time.<br>
+<br>
+The next month was spent building a twin cylinder hydraulic pump to fit on to the main drive of the device. This pump was set such that as soon as the pump detected any inward movement of a gyroscope the pump would no longer allow oil to pass and so create a hydraulic lock. The pump was designed and set, to slip under normal circumstances, at 250rpm. When gyroscopic movement was detected, a very precise rotary valve was designed to close rapidly, increasing the rotation speed instantly to 500rpm. Doubling the speed squares the centrifugal force generated.<br>
+The expected result was that the gyroscopes would accelerate inwards until the pump stopped the flow. The immediate increase in speed to 500 rpm would drive the gyroscopes out again, and so on. When the machine was run up the system worked very well, apart from the fact that I just did not believe the speed at which these gyroscopes could move. Instead of slowing the gyroscopes down, the opposite had happened. I sat in front of that machine for hours watching that motion in total disbelief.<br>
+The moment of truth had arrived.<br>
+<br>
+The outcome is that any rotating mass if radially accelerated will shed mass, angular momentum, centrifugal force, whatever, depending on the rotation speeds of both elements. Even when precession is forced to elevated speeds, if the rotation speed of both elements is sufficient the gyroscopes mass will be transferred to act down through the centre line of the device.  The accelerated mass, angular momentum, centrifugal force etc will be reduced to zero, that being at the very point of precession and zero mass cannot be accelerated.<br>
+<br>
+The precession can only be halted if there is a reduction in precession speed, gyroscope rotation speed, or both.<br>
+Instead of mocking these statements it could be in many peoples interests to attempt to either prove or disprove them. That is the reason the First device could not deliver the thrust I thought it should have, but it is also the reason it did deliver thrust, albeit from a different direction. I was fortunate that I had built the device the way I did.<br>
+<br>
+It can therefore easily be proved that if:<br>
+	a mass mounted on a shaft is radially accelerated.  <br>
+	and the mass itself is rotated that<br>
+	There is a loss of centrifugal force immediately the rotation of the mass commences.<br>
+	At the point of precession (mass floating) the centrifugal force and angular momentum are neutralised.<br>
+	The mass of the gyroscope has been transferred to act directly down through the axis of precession rotation.<br>
+<br>
+Sandy Kidd<br>
+15th June 2004<br>
+</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Date:</b></td>
+    <td align="left" colspan="2" valign="top">24 June 2004
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2><hr width=100%></td>
+  </tr>
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><br><h3>Answers (Ordered by Date)</h3><br></td>
+  </tr>
+  <tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Nitro Macmad</b> - 03/07/2004 11:08:15
+</td></tr><tr><td>&nbsp;</td><td>Dear Sandy,<br>
+<br>
+The effects you describe are all conforming to Nitros first law.  I am sure that (if you saw the PS after my last reply to your earlier posting) you probably thought Nitros law was a pompous joke.  Pompous, probably but absolutely no joke as you will see if you look carefully how it applies to your devices.  It explains where the centrifugal effect on the gyros mass went, why the motors initially load and then act as though they have no load and why your devices produced a wacking great impulse that disappeared when you tried to repeat it.  It also happens to lead to a solution to the problem.<br>
+<br>
+Kind regards<br>
+<br>
+NM <br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>SandyKidd@gyroscopes.org</b> - 08/07/2004 22:40:32
+</td></tr><tr><td>&nbsp;</td><td>Nitro <br>
+Yes, you are correct. I was also suggesting that a major part of the solution to the inertial drive problem is in there.<br>
+What I am saying is, that slinging gyroscopes up and down, or in and out, is a total waste of time, unless a bit of cunning is invoked in the system. Some kind of usable differential must be created and the only differentials we need here are changes in rotationally accelerated mass.<br>
+ <br>
+I wont even mention centrifugal force, because you all tell me it does not exist Wait a minute what do you call the inward acceleration force of a gyroscope, as a result of its own torque couple, against its accelerated mass, that overcomes this non existent centrifugal force. Dont suppose that exists either.<br>
+We could call this the Gyroscopic anti-non-existent centrifugal force inertial mass neutralising force<br>
+<br>
+If you are able change the gyros rotation speed fast enough you are getting close to creating an effective inertial drive.<br>
+Nobody said it was easy.<br>
+At extreme ends of the operating scale we have copious amounts of accelerated mass or quite literally nothing.<br>
+Somewhere inside this extended envelope there is scope to produce devices which will deliver limited or massive outputs depending on ones ability to produce differential.<br>
+There are a couple of ways that I myself have proved can be used to provide a measurable thrust, and there will be many more that I have not found.<br>
+The first was provided by mother nature herself in the operation of my first machine, and due largely to the cheap and nasty way in which it was put together. It did however eventually point me in the right general direction.<br>
+<br>
+Never saw Scotts machine, though I believe that it was genuine. I assumed that the oscillating motion, created by his cams, was creating a differential.<br>
+Thought that this might be the way to go, so I built a cam operated system into a machine that was eventually successfully lab tested in Australia.<br>
+Trouble was that whilst several ounces of thrust were consistently confirmed, the device was running critically close to the zero effect that prompted your answer, on the one hand, and a very slow machine rotation speed on the other.<br>
+The way it was built meant it was going to be no big power producer.<br>
+It was much easier to figure out why this one produced measurable thrust as there was very visible changes in movement taking place during the machines relatively slow rotation.<br>
+Would not suggest that the output could not be made a great deal better, but in the final analysis it was not what I wanted.<br>
+(Will describe this in detail if there is any interest)<br>
+However there are other ways of skinning a cat, which I can get into later.<br>
+<br>
+Sandy Kidd<br>
+5th July 2004<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Rod Selbie</b> - 14/07/2004 01:06:00
+</td></tr><tr><td>&nbsp;</td><td>i want to know why i am not the most prominent name mentioned in his book and his discovery this being due to the fact that it was my bet that he could not make this machine and i spent a whole two years in his garage helping and encouraging him through every failure and was there on the day that it actually succeded! then immediately packed my bags and travelled dowm to the imperial college in london at 2am in the morning to visit professor laithwaite helped him set the machine up for the professor to inspectand stood by him when the machine broke into small peices during the demo!!Then helped him build the machine again while the professfor went for lunch! 2 months on separated from his daughter wendyand recieved no recognition whatsoever on my help at getting him where he is today!! please note although i believe he is a genius i will be classed as more of a genius because when i tell the papers the true story of the man who wanted to change the world i will make more money as the un named son in law cheers rod<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Rod Selbie</b> - 14/07/2004 01:10:16
+</td></tr><tr><td>&nbsp;</td><td>dear sandy i would like to know why i am not the most prominent name mentioned in your book. this being due to the fact that it was my bet that you could not make this machine and i spent a whole two years in his garage helping and encouraging him through every failure and was there on the day that it actually succeded! then immediately packed my bags and travelled dowm to the imperial college in london at 2am in the morning to visit professor laithwaite helped him set the machine up for the professor to inspect and stood by him when the machine broke into small peices during the demo!!Then helped him build the machine again while the professfor went for lunch! then the machine succeded! 2 months on separated from his daughter wendy and recieved no recognition whatsoever on my help at getting him where he is today!! please note although i believe he is a genius i will be classed as more of a genius because when i tell the papers the true story of the man who wanted to change the world i will make more money as the un named son in law cheers rod<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>DaveS</b> - 21/07/2004 13:18:00
+</td></tr><tr><td>&nbsp;</td><td>Dear Rod<br>
+<br>
+What recognition are you looking for?<br>
+Recognition for encouraging an individual to put ideas into action?<br>
+Recognition for seeing the machine being built and having an understanding of the mechanical workings to allow you to repair it?<br>
+The question has to be asked in relation to your post;  <br>
+Whos idea was it that gyroscopes could be utilised in a propulsion device?  Whos idea was the gyroscopic device? Whos design was used?  Who wrote the book/s?  <br>
+If i had an axe to grind, I personally would have waited until there was evidence of a working device.<br>
+I thought it was mainly large corporations that us inventors had to worry about. It's no wonder we are all paranoid. Scary.<br>
+<br>
+DaveS<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 11/04/2006 04:09:15
+</td></tr><tr><td>&nbsp;</td><td>This is so good it should be brought forward from time to time. I am interested in the very first post, not the thread.<br>
+<br>
+While Im resurfacing it I want to ask some questions. Sandy, Im an American and suspect we dont always use the same languish and understandings the same way, which is why Im asking questions.<br>
+<br>
+You said: I just could not stop the gyroscopes flashing inwards towards the center of the device.<br>
+<br>
+Flashing I dont understand. Did the front of the gyro attempt to turn inward more than normal? Was there at anytime force pressed directly from the axel into the center of the device that you could tell? Could it be, in your estimation, that the top, or bottom of the gyro pressed inward, actually attempting to tilted unusually?<br>
+<br>
+You said: As the gyroscopes went through this motion the machine rotation speeded up and the machine apparently unloaded itself.<br>
+<br>
+Would you please explain for me, this motion and explain unloaded?<br>
+<br>
+Thank you,<br>
+Glenn<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Sandy Kidd</b> - 11/04/2006 11:34:30
+</td></tr><tr><td>&nbsp;</td><td>Dear Glenn,<br>
+Notice you have resurrected this old posting, you must really be struggling for something to do. <br>
+<br>
+The gyroscopes were mounted such that they could move freely upwards/inwards when subjected to enough urge.<br>
+On that particular machine the offset gyros were mounted on arms/links at an angle of 60 degrees inclination to the horizontal.<br>
+The gyros themselves were set parallel to the axis of system rotation.<br>
+<br>
+At that time, I was still labouring under the belief that there would be no loss of mass if the gyros could be made to precess at that elevated angle.<br>
+Ill be completely honest about it, I never gave it a thought.<br>
+The gyros were about 6 inches in diameter if I remember correctly, so to achieve precession would be relatively easy.<br>
+Anyway the gyroscopes when run up in anger, just shot in (flashed in) towards the centre of machine rotation. At 60 degrees it was going to be more in than up.<br>
+During this motion, (inward acceleration), the machine unloaded itself and speeded up. <br>
+The rotational load diminished considerably or disappeared causing the machine to rotate much very much faster.<br>
+<br>
+A good bit later on I figured out what was happening.<br>
+This machine produce absolutely no thrust, but it really straightened me out in a big way as to what was going on in there.<br>
+Probably the most valuable device I ever made, and thats out of 200 plus.<br>
+That is when I became aware that gyroscopic action was a state of mind.<br>
+<br>
+A small fortune could be made in the future supplying devices like this one to the universities and schools when they eventually realise how badly they need them.<br>
+Sandy<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 11/04/2006 16:34:02
+</td></tr><tr><td>&nbsp;</td><td>Sandy,<br>
+<br>
+Wonderful information. It gives you a different way of thinking. Thank you for explaning.<br>
+<br>
+Would you like to know what Ive been trying to determine for a while as to why the gyro becomes less resistant to horizontal acceleration? Would you like to know why I think this can reveal a totally new revelation, and is probable the most important two-part thing we could understand? Probably not.<br>
+<br>
+Glenn,<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Sandy Kidd</b> - 12/04/2006 13:06:48
+</td></tr><tr><td>&nbsp;</td><td>Fire away Glenn, fire away.<br>
+I'm all eyes<br>
+Sandy.<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 12/04/2006 22:30:38
+</td></tr><tr><td>&nbsp;</td><td>Too tough for me right now, Sandy. I could do part of it, but I opened my trap too soon. You got me. Believe it or not Ive been working on something similar for a long time. I only have theories, which are worthless to me and would be more worthless to you if that were possible. The means of testing Ive beaten to death. The problem is a real bitch. I need delicate, expensively engineered unique machinery with which to do my testing before I start running off my mouth again. Keep the faith. <br>
+Glenn,<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 12/04/2006 22:40:27
+</td></tr><tr><td>&nbsp;</td><td>This doesnt alter the value of repost you. Old, or new its good information.<br><br></td></tr>
+<tr>
+<td align="center" colspan="2"><a href="answerquestion.asp?id=180">Add an Answer &#062;&#062;</a></td></tr>
+</table>
+    </td>
+  </tr>
+  </table>
+  
+  <font class="copyright">
+  Website. Copyright &copy; 2006 Glenn Turner. All rights reserved. <a href="/site.asp">site info</a><br>
+     Do not copy without prior permission. Click here for <a target="gyroscopeproducts" href="http://www.gyroscope.com/" alt="Gyroscope products">gyroscope products</a> 
+   
+  </font>
+</center>
+
+</body>
+</html>

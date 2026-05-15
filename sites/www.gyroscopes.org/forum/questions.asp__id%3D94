@@ -1,0 +1,185 @@
+
+<html>
+<head>
+  <title>The Gyroscope - Everything you needed to know</title>
+  <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+  <meta http-equiv="pics-label" content='(pics-1.1 "http://www.icra.org/ratingsv02.html" comment "ICRAonline EN v2.0" l gen true for "no gen term" r (nz 0 vz 0 lz 0 oz 0 cz 0) "http://www.rsac.org/ratingsv01.html" l gen true for "no gen term" r (n 0 s 0 v 0 l 0))'>
+  <META NAME="Author" CONTENT="Glenn Turner">
+  <META NAME="keywords" CONTENT="gyroscope, gyroscopes , gyro, gyros, gyroscopic propulsion">
+  <META NAME="Description" CONTENT="The Gyroscope has many uses, this site explains how a gyroscope works and what it can be used for. The site also looks at the possible use of gyroscope based propulsion (gyroscopic propulsion). ">
+  <META NAME="Copyright" CONTENT="Copyright 2003 (All Web Pages) by Glenn Turner">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="expires" content="0">
+  <link rel="stylesheet" href="/iesite.css" type="text/css">
+</head>
+<body bgcolor="#000000">
+  <div style="position: absolute; top: 2; width=100%; z-index: 1"><center><img src="/header.jpg" alt="" hspace=0 vspace=0 width=700 height=111></center></div>
+
+  <table border=0 cellpadding=0 cellspacing=0 width="0" height="96">
+  <tr>
+    <td></td>
+  </tr>
+  </table>
+
+  <center>
+  <span class="menutitle">
+    <a href="/index.asp"><font color="#991111">Home</font></a> :
+    <a href="/gallery.asp"><font color="#991111">Gallery</font></a> :
+    <a href="/history.asp"><font color="#991111">History</font></a> :
+    <a href="/uses.asp"><font color="#991111">Uses</font></a> :
+    <a href="/behaviour.asp"><font color="#991111">Behaviour</font></a> :
+    <a href="/math.asp"><font color="#991111">Maths</font></a> :
+    <a href="/forum/qa.asp"><font color="#991111">Forum</font></a> :
+    <a href="/propulsion.asp"><font color="#991111">Propulsion</font></a> :
+    <a href="/links.asp"><font color="#991111">Links</font></a> :
+    <a href="/glossary.asp"><font color="#991111">Glossary</font></a>
+    <br>
+  </span>
+
+  <table border=0 cellpadding=0 cellspacing=0 width="0" height="11">
+  <tr>
+    <td></td>
+  </tr>
+  </table>
+
+
+
+
+
+  <table border=0 cellpadding=8 cellspacing=0 width="700" height="260" bgcolor="#FFFFFF" ID="Table1">
+  <tr>
+    <td valign="top" class="main">
+<table align="center" width="100%" border="0">
+  <tr>
+    <td align="left" width="30%" valign="top">
+      <a href="qa.asp">Main Forum Page</a>
+    </td>
+    <td align="center" valign="middle">
+      <h2 border="0">The Gyroscope Forum</h2></td>
+    <td align="right" width="30%" valign="top">
+      28 December 2003 18:23
+    </td>
+  </tr>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <p align=left>Welcome to the gyroscope forum. If you have a question about gyroscopes in general,
+      want to know how they work, or what they can be used for then you can leave your question here for others to answer.
+         You may also be able to help others by answering some of the questions on the site.
+      </p>
+      <p>
+      <form action="qa.asp" method="post">
+      Search the forum: <input type="text" value="" name="forumsearch">&nbsp;<input type="submit" value="Search" name="forumsearchsubmit">
+      </form>
+      </p>
+      <b>To ask a question <a href="askquestion.asp">click here</a></b><hr width=75%>
+    </td>
+  </tr>
+</table>
+
+<table align="center" border="0" width="95%">
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><h3>Question</h3></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Asked by:</b></td>
+    <td align="left" colspan="2" valign="top">DaveS</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Subject:</b></td>
+    <td align="left" colspan="2" valign="top">Patents</td>
+  </tr>
+  <tr>
+    <td align=right class=medium valign="top" nowrap><b>Question:</b></td>
+    <td align=left class=medium valign="top" width="400" colspan="2">Apart from the millions of parasitic web sites trying to get would be inventors to share their insights and hence their intellectual rights, where do you file new inventions to give you peace and security of mind?<br>
+<br>
+Question Prompted because somebody is claiming they have a working device that has been "filed".<br>
+i have just done a complete search at the patent office for newly registered gyroscopic propulsion devices and there is nothing new from the UK and only one from the US and that has been refused as unworkable.  In addition, once you have spent your 200, it takes anything up to 18 months to clear an application and have it researched properly. The basic tenet of the review panel for any new design is that it must follow the accepted rules of physics or it will not get through as a design. The only way to bypass this is by having a working demonstratable device.</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Date:</b></td>
+    <td align="left" colspan="2" valign="top">7 November 2003</td>
+  </tr>
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><br><h3>Answers</h3></td>
+  </tr>
+  <tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Nitro MacMad</b> - 25/11/2003 19:50:04
+</td></tr><tr><td>&nbsp;</td><td>Dear Dave<br>
+<br>
+Having reread my last response I realise it could be taken as a pompus put down and nothing could be further from my intention.  <br>
+<br>
+I know only too well how hard it is to work in a field that the majority say is only full of B.S. (there go those American terms again) and although I have, as a result of working there,  tried on some unusually fragrant flat caps in my time such a field has proved a fertile place for new ideas and understanding for me.  (sorry about crap humour.  This is not more American stuff but actually English.  John Thomas Crapper was English and the perfecter of the modern W.C. and thereby unwittingly responsible for loads of toilet humour and English and American slang - one dares not try and imagine though,what on earth the American game of "Craps" is about!  Hopefully its not about a gyrodynamic motion - sorry!). <br>
+<br>
+ Although it may turn out that one or other of us will suffer, if it turns out we have come up with the same answer to the same problem, there is some chance that there is more than one way to produce a "reactionless force"  so, please protect your device before telling ANYONE,  even a well meaning nutter in a shed (yes, yes, inventive genius) like me.  You may not want to deal with the big companies but if you don't try to protect the idea how will you start to stop ANYONE from using it?<br>
+<br>
+It costs nothing except effort to file an initial application at the UK patent office.  See their site at www. patent.gov.uk for details and to download form 1/77 to start with.   Though be aware that professional advice may be better (and more costly) for you than D.I.Y.  <br>
+<br>
+This initial filing affords a year of breathing space before you have to make decisions about how much you are prepared to gamble on how much you may be able to earn from your idea (crooks and vagabonds need to be accounted for at this point). <br>
+<br>
+As that first year can fly past,  especially as,  if you happen to be a crap engineer like me,  it won't be just the year that will fly past your ears (you may not know how much damage a loose gyro can do before it looses its kinetic - so take care), you will need to get a move on to make prototypes.  These prototypes need not just to satisfy yourself (only too easy as you have travelled the whole path) but other people for financial support or,  god help you, scientific support  (almost impossible as they have a lifetime of other paths to realign).  <br>
+<br>
+GET IT OFF PAPER and INTO THE WORKSHOP.  Its hard, but its the only way to start.<br>
+<br>
+Kind Regards<br>
+<br>
+  NM<br>
+<br>
+PS Please excuse if spelling/grammer is off.  My spellchecker/Wife is offline/shopping <br>
+<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Nitro MacMad</b> - 07/11/2003 21:44:20
+</td></tr><tr><td>&nbsp;</td><td>Dear Dave,<br>
+<br>
+"Somebody" here!   I can speak (write) from personal experience about the hardships of a poor nutter in a shed  (read that as inventive genius) getting a marketable invention protected and then launched.  I would place anyones chances of doing so as about the same as acheiving success by entering Pop Idle (intended spelling) at my age (mind your own business!), though I have done it, (succeeded) twice.<br>
+<br>
+The Patent process (and history) is very much against the inventor and in favour of the infringer.  Assuming that you have a new and original device that doesn't contravene "known laws" (more on that later) and  that you have benefitted (?) from a granted patent.........        <br>
+<br>
+1. The first person you will be put in contact with in any company to discuss your invention with (if you are bloody lucky -sorry America- dashed lucky), will be the research and development director.  <br>
+<br>
+Oh!  Goody!  So you are going to discuss the possibility of a company buying in your idea with a guy (American expression) whose very Raison D'etre (kind of dried grape) is to pruduce such ideas!  Oh! that'll work well!..............<br>
+<br>
+2.  Rather that discuss the possibility of paying you a small soupcon for being so clever. Most (well all that I've met) companies will spend a larger amount than you were looking for to have a patent attorney (like the one that you spent your retirement money on "protecting" the very same device) accuse you, with impunity, of copying from someone elses earlier idea and/or tell you it was bloody well (sorry again US) obvious anyway. <br>
+<br>
+3. Should you be balmy enough to say to an infringing so and so (b******** ,in Us). "Excuse me but I think that if you examine the facts I think you will find that to be totally honourable you should be paying me some kind of licence fee for producing/selling/getting rich from what I have been granted a patent for".  You may be suprised to find that the B*******  (Sorry!  So and so.  Amazing how quickly talking about the patent process makes one speak American!) can actually sue you for issuing an implied threat!!!<br>
+<br>
+Why do we do it?  Because sometimes it works and what can beat saying to yourself "that didn't exist before me"?  (well, yes, being paid is nice when that happens too.)<br>
+<br>
+It IS out there Dave though, as I've seen a water pipe described as "a fluid conveying conduit" by a patent agent, I don't suppose you'll find it under anything simple like "Space drive"  or "nutter in shed"!   Speaking of me, please forgive my strange web name  (handle, is it still?) of Nitro MacMad.   I got it when I used to sprint (drag race-US) my  Mini Cooper "S" on nitro/meth (beat a Dino too!).<br>
+<br>
+Hope the levity (and excessive brackets) don't offend but I feel I have earned the right for some fun and if Glenn our webmaster and life will allow I will show all to justify your patience soon. (though probably early next year for the pendulum - I didn't know of that test).<br>
+<br>
+NM<br>
+<br>
+PS  Ram, are you aware that the achievevments the Wright Bros. (of Kill Devil Hills fame) were denied by the american press of the day.  In 1905 more than a year after their first flight the scientific american (they don't deserve capitals) wrote "is it possible to believe (the American reporter) would not have ascertained all about them and published them broadcast long ago?"   Shame we seem to be doomed to repeat the past.  Plus sa change, eh?<br>
+<br>
+PPS Dave,  although America used to grant almost anything ( a pain as its bloody hard to prove why something doesn't work without wasting hours on it),  my letter from our patent office in response to "that question" says - "An opportunity would then be afforded to provided evidence (eg. a practical demonstration) of the working of the device for the examiner to consider in the examination process".  (Basically if it really does set new boundaries to the "known laws" maybe.  If not get a life - my words).<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Ram Firestone</b> - 07/11/2003 17:36:29
+</td></tr><tr><td>&nbsp;</td><td>I can't speak for GB but here in the US you file at the US patent and trademark office of course (http://www.uspto.gov/). There are several books on the subject so it shouldn't be too hard to find out about the details. There are those who claim you should have a lawyer to help you but I'm not sure it's necessary. Personally I wouldn't bother unless I had something earth-shattering. If I remember correctly, in the US it doesn't even have to work and I think it can even break the rules of physics. Either that, or the rules arent strictly enforced (i.e. they are happy to take your money). Just look at the numbers of non-working patents that have been granted in the past. There is also some sort of provisional patent that supposedly protects you but lets you continue to develop your invention. I'm not sure the details and I'm not an expert so don't take my word on any of this. <br>
+<br>
+I wouldn't get too excited about gyroscopic propulsion patents.  I've never seen a working model of any of them and obviously if any of them had ever worked, the inventor would be a millionaire by now and we all would have heard it. Here's another one http://www.inertialdrivesystems.com/pages/895921/index.htm . I sent this guy email and he claims to have a working inertial drive and a provisional patent. He also claims to be working with NASA and will put details on his web site after he works a few things out with NASA. Who knows, maybe it's all true. But I can't help noticing how these inventions are always coming soon but never here now.<br>
+<br><br></td></tr>
+<tr>
+<td align="center" colspan="2"><a href="answerquestion.asp?id=94">Add an Answer&#062;&#062;</a></td></tr>
+</table>
+    </td>
+  </tr>
+  </table>
+  
+  <font class="copyright">
+  Webpage. Copyright &copy; 2003 Glenn Turner. All rights reserved. <a href="/site.asp"><font color="#991111">more info</font></a><br>
+     All other images/content copyrighted to the designated owners,<br>
+      and must not be reproduced or distributed without prior permission. 
+  </font>
+</center>
+
+</body>
+</html>

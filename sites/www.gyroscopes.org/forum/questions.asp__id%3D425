@@ -1,0 +1,149 @@
+
+<html>
+<head>
+  <title>Gyroscopes - Everything you needed to know</title>
+  <meta HTTP-EQUIV="Content-Type" content="text/html; charset=iso-8859-1">
+  <meta http-equiv="pics-label" content='(pics-1.1 "http://www.icra.org/ratingsv02.html" comment "ICRAonline EN v2.0" l gen true for "no gen term" r (nz 0 vz 0 lz 0 oz 0 cz 0) "http://www.rsac.org/ratingsv01.html" l gen true for "no gen term" r (n 0 s 0 v 0 l 0))'>
+  <meta name="Author" content="Glenn Turner">
+  <meta name="keywords" content="gyroscope, gyroscopes , gyro, gyros, gyroscopic propulsion">
+  <meta name="Description" content="Gyroscopes have many uses, this site explains how a gyroscope works and what they can be used for. The site also looks at the possible uses of gyroscope based propulsion (gyroscopic propulsion). ">
+  <meta name="Copyright" content="Copyright 2015 (All Web Pages) by Glenn Turner">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="expires" content="0">
+  <link rel="stylesheet" href="/iesite.css" type="text/css">
+  
+</head>
+<body bgcolor="#000000">
+  <div style="  float: center; margin: 0; border: none; padding: 0; " align=center><center><img src="/header.jpg" alt="" hspace=0 vspace=0 width=700 height=111></center></div>
+  <center>
+  <span class="menutitle">
+    <a href="/index.asp"><font color="#DDDDDD">Home</font></a> :
+    <a href="/gallery.asp"><font color="#DDDDDD">Gallery</font></a> :
+    <a href="/history.asp"><font color="#DDDDDD">History</font></a> :
+    <a href="/uses.asp"><font color="#DDDDDD">Uses</font></a> :
+    <a href="/behaviour.asp"><font color="#DDDDDD">Behaviour</font></a> :
+    <a href="/math.asp"><font color="#DDDDDD">Maths</font></a> :
+    <a href="/forum/forums.asp"><font color="#DDDDDD">Forum</font></a> :
+    <a href="/propulsion.asp"><font color="#DDDDDD">Propulsion</font></a> :
+    <a href="/links.asp"><font color="#DDDDDD">Links</font></a> :
+    <a href="/glossary.asp"><font color="#DDDDDD">Glossary</font></a>
+    <br>
+  </span>
+
+  <table border=0 cellpadding=0 cellspacing=0 width="0" height="11">
+  <tr>
+    <td></td>
+  </tr>
+  </table>
+
+
+
+
+
+  <table border=0 cellpadding=8 cellspacing=0 width="700" height="260" bgcolor="#FFFFFF" ID="Table1">
+  <tr>
+    <td valign="top" class="main">
+<table align="center" width="100%" border="0">
+  <tr>
+    <td align="left" width="20%" valign="top">
+      <a href="forums.asp">Main Forum Page</a>
+    </td>
+    <td align="center" valign="middle">
+      
+      <h2 border="0">       
+      The Gyroscope Forum</h2></td>
+    <td align="right" width="20%" valign="top">
+      27 February 2019 20:05
+    </td>
+  </tr>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <p align=left>Welcome to the gyroscope forum. If you have a question about gyroscopes in general,
+      want to know how they work, or what they can be used for then you can leave your question here for others to answer.
+         You may also be able to help others by answering some of the questions on the site.
+      </p>
+      
+      <table width="100%">
+      <tr><td>
+        <form action="qa.asp" method="get">
+        <b>Search the forum: </b><input type="text" value="" name="forumsearch" size=30>&nbsp;<input type="submit" value="Search" name="forumsearchsubmit">
+          <input type=hidden name="forum" value="">
+        </form>
+      </td><td>
+        
+        <form action="askquestion.asp" method="post">
+        <input type="submit" value="Ask new Question" name="forumsearchsubmit">&nbsp;
+        
+        <input type="submit" value="Login" name="Login"> 
+        
+        </form>
+      </td></tr>
+      </table>
+      <hr width=100%>
+    </td>
+  </tr>
+</table>
+
+<table align="center" border="0" width="95%">
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><h3>Question</h3></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Asked by:</b></td>
+    <td align="left" colspan="2" valign="top">Bob Brewer</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Subject:</b></td>
+    <td align="left" colspan="2" valign="top">stabilize ladder with gyroscope</td>
+  </tr>
+  <tr>
+    <td align=right class=medium valign="top" nowrap><b>Question:</b></td>
+    <td align=left class=medium valign="top" width="400" colspan="2">In the painting business we use a contraption known as a "merry-go-round" for painting the insides of large water-tanks (~250,000 gals. and larger). It is basically a 40' extension ladder which is attached at the bottom end to a 1/4" steel cable which runs perpendicular to the tank floor from the floor center to a plate hookes in the middle of the ceiling. Another cable stretches from this plate to the other end of the ladder where there is a hand-crank. By means of this crank, one can raise and lower the ladder, and by moving the end of the ladder, one can circle the perimeter of the tank wall (hence the name, "merry-go-round"). A painter sitting on the end of the ladder can, in this fashion, sand-blast and paint the ceiling and walls of the tank without the necessity of using costly scaffolding. The main problem with this method is the need, when working (esp. sand-blasting), to tie off the ladder in position by means of two ropes, which usually extend from the ladder-end to some attachment point on the tank perimeter (either on the ceiling or floor). One needs at least three ropes to anchor and pull oneself around the tank, and sometimes more. To eliminate the ropes, I was wondering if it would be possible to attach some kind of electrically controlled gyroscope to the end of the ladder to stabilize the ladder in place while working (when blasting, the ladder has a tendency to go towards the right when shooting left, and vice-versa).</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Date:</b></td>
+    <td align="left" colspan="2" valign="top">13 July 2005
+    </td>
+  </tr>
+  <tr>
+    <td align="right" colspan="3" valign="top"><a href="abuse.asp?q=425">report abuse</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2><hr width="100%"></td>
+  </tr>
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><br><h3>Answers (Ordered by Date)</h3><br></td>
+  </tr>
+  <tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Luis Gonzalez</b> - 06/08/2005 20:25:56
+</td></tr><tr><td>&nbsp;</td><td>Bob,<br>
+Yes, you could use a flywheel to act as a gyroscope and this would help to stabilize the ladder.  The main problem is that the flywheel would have to be of significant size (my guess is about 12 diameter weighing about 5lb or more) and it would need to be kept rotating at a rate that I am not sure right now.  So you would need to have the device plugged in and figure out how to attach it to the ladder in the right attitude.  Then to allow the ladder to turn when you need to, you may need to stop the spinning or figure how to manipulate the gyro to cause the required movement.  It is an interesting thought, but there is a need to consider the cost too.  I think you may be able to make it work. <br>
+Luis <br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=1010">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>DOUGLAS SHIELDS</b> - 15/11/2011 14:04:10
+</td></tr><tr><td>&nbsp;</td><td>i am a veteran of the merry go round, in fact my late great uncle john shieldsfrom the 60's invented the rig for the use in elevated tanks.  i have seen it used many different ways in the past but i have never came up with a way to keep from swaying left and right when blasting, actually i used the motion to my benefit just by placing my foot and leg against the shell of the tank and "going with the flow" slowly letting some room go by, blasting some more and so on.  the problem we have now is to make the rig safer.  i think this rig is the safer than scaffolding but i am stuck with the dilema of getting safety lines to the man that are not at an large angle.  sometimes we drill holes and place couplings. this is a growing issue with OSHA and safety departments around the country<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=5160">Report Abuse</a></td></tr>
+<tr>
+<td align="center" colspan="2"><a href="answerquestion.asp?id=425">Add an Answer &#062;&#062;</a></td></tr>
+</table>
+    </td>
+  </tr>
+  </table>
+  
+  <font class="copyright">
+  Website. Copyright &copy; 2019 Glenn Turner. All rights reserved. <a href="/site.asp">site info</a><br>
+     Do not copy without prior permission. Click here for <a target="gyroscopeproducts" href="http://www.gyroscope.com/" alt="Gyroscope products">gyroscope products</a> 
+   
+  </font>
+</center>
+
+</body>
+</html>

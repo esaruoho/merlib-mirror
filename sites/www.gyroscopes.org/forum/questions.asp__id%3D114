@@ -1,0 +1,204 @@
+
+<html>
+<head>
+  <title>Gyroscopes - Everything you needed to know</title>
+  <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+  <meta http-equiv="pics-label" content='(pics-1.1 "http://www.icra.org/ratingsv02.html" comment "ICRAonline EN v2.0" l gen true for "no gen term" r (nz 0 vz 0 lz 0 oz 0 cz 0) "http://www.rsac.org/ratingsv01.html" l gen true for "no gen term" r (n 0 s 0 v 0 l 0))'>
+  <META NAME="Author" CONTENT="Glenn Turner">
+  <META NAME="keywords" CONTENT="gyroscope, gyroscopes , gyro, gyros, gyroscopic propulsion">
+  <META NAME="Description" CONTENT="Gyroscopes have many uses, this site explains how a gyroscope works and what they can be used for. The site also looks at the possible uses of gyroscope based propulsion (gyroscopic propulsion). ">
+  <META NAME="Copyright" CONTENT="Copyright 2003 (All Web Pages) by Glenn Turner">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="expires" content="0">
+  <link rel="stylesheet" href="/iesite.css" type="text/css">
+</head>
+<body bgcolor="#000000">
+  <div style="  float: center; margin: 0; border: none; padding: 0; " align=center><center><img src="/header.jpg" alt="" hspace=0 vspace=0 wgith=700 height=111></center></div>
+  <center>
+  <span class="menutitle">
+    <a href="/index.asp"><font color="#DDDDDD">Home</font></a> :
+    <a href="/gallery.asp"><font color="#DDDDDD">Gallery</font></a> :
+    <a href="/history.asp"><font color="#DDDDDD">History</font></a> :
+    <a href="/uses.asp"><font color="#DDDDDD">Uses</font></a> :
+    <a href="/behaviour.asp"><font color="#DDDDDD">Behaviour</font></a> :
+    <a href="/math.asp"><font color="#DDDDDD">Maths</font></a> :
+    <a href="/forum/qa.asp"><font color="#DDDDDD">Forum</font></a> :
+    <a href="/propulsion.asp"><font color="#DDDDDD">Propulsion</font></a> :
+    <a href="/links.asp"><font color="#DDDDDD">Links</font></a> :
+    <a href="/glossary.asp"><font color="#DDDDDD">Glossary</font></a>
+    <br>
+  </span>
+
+  <table border=0 cellpadding=0 cellspacing=0 width="0" height="11">
+  <tr>
+    <td></td>
+  </tr>
+  </table>
+
+
+
+
+
+  <table border=0 cellpadding=8 cellspacing=0 width="700" height="260" bgcolor="#FFFFFF" ID="Table1">
+  <tr>
+    <td valign="top" class="main">
+<table align="center" width="100%" border="0">
+  <tr>
+    <td align="left" width="20%" valign="top">
+      <a href="qa.asp">Main Forum Page</a>
+    </td>
+    <td align="center" valign="middle">
+      
+      <h2 border="0">       
+      The Gyroscope Forum</h2></td>
+    <td align="right" width="20%" valign="top">
+      3 May 2006 11:51
+    </td>
+  </tr>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <p align=left>Welcome to the gyroscope forum. If you have a question about gyroscopes in general,
+      want to know how they work, or what they can be used for then you can leave your question here for others to answer.
+         You may also be able to help others by answering some of the questions on the site.
+      </p>
+      
+      <table width="100%">
+      <tr><td>
+        <form action="qa.asp" method="get">
+        <b>Search the forum: </b><input type="text" value="" name="forumsearch" size=30>&nbsp;<input type="submit" value="Search" name="forumsearchsubmit">
+          <input type=hidden name="forum" value="">
+        </form>
+      </td><td>
+        
+        <form action="askquestion.asp" method="post">
+        <input type="submit" value="Ask a new Question" name="forumsearchsubmit">
+        </form>
+        
+      </td></tr>
+      </table>
+      <hr width=100%>
+    </td>
+  </tr>
+</table>
+
+<table align="center" border="0" width="95%">
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><h3>Question</h3></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Asked by:</b></td>
+    <td align="left" colspan="2" valign="top">DaveS</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Subject:</b></td>
+    <td align="left" colspan="2" valign="top">friction or something else?</td>
+  </tr>
+  <tr>
+    <td align=right class=medium valign="top" nowrap><b>Question:</b></td>
+    <td align=left class=medium valign="top" width="400" colspan="2">Do gyroscopic propulsion devices work by interaction (friction) with the environment or by changing their centre of gravity in relation to the surroundings?  <br>
+If the devices work by friction (movement of said devices is not an issue on Terra Firma)  gyroscopic propulsion should therefore not work in space.<br>
+Ideas, theories, opinions, facts welcomed.<br>
+  <br>
+</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Date:</b></td>
+    <td align="left" colspan="2" valign="top">19 January 2004
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2><hr width=100%></td>
+  </tr>
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><br><h3>Answers (Ordered by Date)</h3><br></td>
+  </tr>
+  <tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>J S Strachan</b> - 19/01/2004 22:29:18
+</td></tr><tr><td>&nbsp;</td><td>many do indeed work due to friction this is the "ratchet effect" Bu there are some experiments that show anomalous results that can not be explained this way<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Ram Firestone</b> - 19/01/2004 22:34:22
+</td></tr><tr><td>&nbsp;</td><td>As far as anyone has yet proven, gyroscopic propulsion devices don't work at all, or at least not as claimed. Of course you could build one that works by friction. For instance you could build a car that travels along a curved path using precession, but what would be the point other then as a novelty.<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>webmaster@gyroscopes.org</b> - 19/01/2004 23:33:02
+</td></tr><tr><td>&nbsp;</td><td>I guess this comes down to a definition of propulsion. Its relatively easy to create a gyroscopic propulsion device that interacts with a solid surface like a concrete floor to produce a perceived propulsion. Once you remove the solid surface and place it in air or in a pendulum test (string based not mechanical arm) it wont work because it has nothing to interact with. This is the most common error made and leads people to thinking they have a working device.  <br>
+<br>
+In order to have a true gyroscopic propulsion device it will have to change its centre of gravity in relation to the surroundings. Such a device is not known to exist to date.<br>
+A magnet changes its centre of gravity when it gets close to iron, but its naturally using magnetics to do that. If a gyroscopic device one day really provides propulsion what force would it used to do this? Gravomagnetics maybe?<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Dr D.J.Fisher</b> - 20/01/2004 21:35:05
+</td></tr><tr><td>&nbsp;</td><td>Dear Webmaster, what is so special about magnets? You seem to imply that they do not obey Newton's laws. From a pure physics point-of-view, magnetism does not exist as a separate entity; it is merely a way of explaining electrostatic interactions between moving charges in such a way that the results are consistent for all observers. There is, of course, that old fallacy (which one even finds in standard student physics textbooks) that electric charges do not obey Newton's laws. Some people have tried to base reactionless drives and perpetual motion machines on that fallacy.<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>webmaster@gyroscopes.org</b> - 20/01/2004 23:32:31
+</td></tr><tr><td>&nbsp;</td><td>Sorry you miss understand me. I didnt mean to imply anything special about magnetism. <br>
+<br>
+Imagine for a minute you dont understand magnetism. A magnet would seem to break Newtons laws. As soon as magnetism is brought in it all becomes clear.<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Ram Firestone</b> - 21/01/2004 01:42:28
+</td></tr><tr><td>&nbsp;</td><td>Ok so here's a strange idea (probably not new). What about mass change due to relativistic speeds? For instance electrons gain relativistic mass in a cyclotron don't they? What if you were to charge up the cyclotron then mechanically move it perpendicular to it's plane. Then turn off the cyclotron and move it back. Wouldn't you have a net change in center of gravity?  Or am I missing something?<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Brad H</b> - 21/01/2004 07:57:37
+</td></tr><tr><td>&nbsp;</td><td>Dr D.J.Fisher<br>
+<br>
+I have some questions about your magnetics claims.  You are saying that magnetism is simply a way of describing the behavior of charged particles in motion?  What about the magnetic field itself?  Is it merely an illusion created by the presence of an electrical field or by electrically charged particles?  If so does the magnetic field somehow disappear in the absence of any charged particles? <br>
+<br>
+Consider light, for example.  Does light not exist as an self-sustaining pulse of electrical and magnetic waves?  Are these things not real, distinct and separate?  <br>
+<br>
+Also you say that electrical charges obey Newtons laws, which is entirely correct.  What about some other exotic materials that we find in nature like photons (wave/particles, that is)?  For example, how could one measure the thrust created by shining a flashlight outside of a spaceship. If it does produce thrust, one would think it should be very efficient because of the rapid velocity of the particles (the speed of light).  If it does not produce thrust, then one could conceivably shine this light onto a black surface and create an unbalanced force caused by light pressure (Cant remember the proper term for this effect, sorry). I understand that the amount of thrust would be very, very small (unless we had a solar flashlight. Hehe..), but wouldnt this be a more realistic form of propulsion than say, gyroscopic thrusters? <br>
+<br>
+Thanks in advance,<br>
+<br>
+<br>
+Brad H<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>DaveS</b> - 04/02/2004 09:42:16
+</td></tr><tr><td>&nbsp;</td><td>Answers seem to have moved away from original subject matter of the question, which relates to gyroscopic propulsion.  (Light/ionic propulsion.  Relevance? TILT)<br>
+What are these anomalous effects that every so often get mentioned?<br>
+Ratcheting or something else?  Space drive or not?<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Ram Firestone</b> - 04/02/2004 16:29:12
+</td></tr><tr><td>&nbsp;</td><td>Ratcheting is hardly worth taking about. It's nothing than applying a slow pulse in one direction that does not overcome friction and a fast pulse in the other that does overcome friction. It's like sitting on a chair and scooting it forward or backward by throwing your weight around without touching the ground. This isn't even a gyroscopic effect. You can also use precession, which means you can basically make something go in a circular path. So you could also go in a wavy line by reversing the arc you are traveling every few degrees. Again you need friction to make this work. There are probably some other tricks but nothing that will work in space and therefore they aren't really worth putting any effort into. One thing that might be worth researching is a gyroscopic transmission. If you keep a gyroscope from precessing it is much easier to turn it off it's axis. However the more you allow it precess the harder and harder it gets to turn it. In theory you might be able to use this effect to make an infinitely variable transmission. No gears, no hydraulic fluid, nada. The input turns the gyro and the output captures the precession. <br>
+<br>
+Ram<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Eric James -----</b> - 29/04/2005 06:34:10
+</td></tr><tr><td>&nbsp;</td><td>Dave,<br>
+<br>
+Gyroscopic propulsion can work in either way, depending on what your definitions are.<br>
+<br>
+A gyro CAN propel mass in space simply by fracturing parts off of the spinning gyro.  Of course this is essentially the same as rocket propulsion, but technically it'd work.<br>
+<br>
+Most of the "space propulsion" (using that term loosely) gyroscopic systems I've seen would qualify as form of stick-slip drive that would function on the ground but they wouldn't work in space, as you suggested.<br>
+<br>
+Eric<br><br></td></tr>
+<tr>
+<td align="center" colspan="2"><a href="answerquestion.asp?id=114">Add an Answer &#062;&#062;</a></td></tr>
+</table>
+    </td>
+  </tr>
+  </table>
+  
+  <font class="copyright">
+  Website. Copyright &copy; 2006 Glenn Turner. All rights reserved. <a href="/site.asp">site info</a><br>
+     Do not copy without prior permission. Click here for <a target="gyroscopeproducts" href="http://www.gyroscope.com/" alt="Gyroscope products">gyroscope products</a> 
+   
+  </font>
+</center>
+
+</body>
+</html>

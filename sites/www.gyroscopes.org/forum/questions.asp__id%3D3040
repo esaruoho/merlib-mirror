@@ -1,0 +1,217 @@
+
+<html>
+<head>
+  <title>Gyroscopes - Everything you needed to know</title>
+  <meta HTTP-EQUIV="Content-Type" content="text/html; charset=iso-8859-1">
+  <meta http-equiv="pics-label" content='(pics-1.1 "http://www.icra.org/ratingsv02.html" comment "ICRAonline EN v2.0" l gen true for "no gen term" r (nz 0 vz 0 lz 0 oz 0 cz 0) "http://www.rsac.org/ratingsv01.html" l gen true for "no gen term" r (n 0 s 0 v 0 l 0))'>
+  <meta name="Author" content="Glenn Turner">
+  <meta name="keywords" content="gyroscope, gyroscopes , gyro, gyros, gyroscopic propulsion">
+  <meta name="Description" content="Gyroscopes have many uses, this site explains how a gyroscope works and what they can be used for. The site also looks at the possible uses of gyroscope based propulsion (gyroscopic propulsion). ">
+  <meta name="Copyright" content="Copyright 2015 (All Web Pages) by Glenn Turner">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="expires" content="0">
+  <link rel="stylesheet" href="/iesite.css" type="text/css">
+  
+</head>
+<body bgcolor="#000000">
+  <div style="  float: center; margin: 0; border: none; padding: 0; " align=center><center><img src="/header.jpg" alt="" hspace=0 vspace=0 width=700 height=111></center></div>
+  <center>
+  <span class="menutitle">
+    <a href="/index.asp"><font color="#DDDDDD">Home</font></a> :
+    <a href="/gallery.asp"><font color="#DDDDDD">Gallery</font></a> :
+    <a href="/history.asp"><font color="#DDDDDD">History</font></a> :
+    <a href="/uses.asp"><font color="#DDDDDD">Uses</font></a> :
+    <a href="/behaviour.asp"><font color="#DDDDDD">Behaviour</font></a> :
+    <a href="/math.asp"><font color="#DDDDDD">Maths</font></a> :
+    <a href="/forum/forums.asp"><font color="#DDDDDD">Forum</font></a> :
+    <a href="/propulsion.asp"><font color="#DDDDDD">Propulsion</font></a> :
+    <a href="/links.asp"><font color="#DDDDDD">Links</font></a> :
+    <a href="/glossary.asp"><font color="#DDDDDD">Glossary</font></a>
+    <br>
+  </span>
+
+  <table border=0 cellpadding=0 cellspacing=0 width="0" height="11">
+  <tr>
+    <td></td>
+  </tr>
+  </table>
+
+
+
+
+
+  <table border=0 cellpadding=8 cellspacing=0 width="700" height="260" bgcolor="#FFFFFF" ID="Table1">
+  <tr>
+    <td valign="top" class="main">
+<table align="center" width="100%" border="0">
+  <tr>
+    <td align="left" width="20%" valign="top">
+      <a href="forums.asp">Main Forum Page</a>
+    </td>
+    <td align="center" valign="middle">
+      
+      <h2 border="0">       
+      The Gyroscope Forum</h2></td>
+    <td align="right" width="20%" valign="top">
+      4 July 2022 01:18
+    </td>
+  </tr>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <p align=left>Welcome to the gyroscope forum. If you have a question about gyroscopes in general,
+      want to know how they work, or what they can be used for then you can leave your question here for others to answer.
+         You may also be able to help others by answering some of the questions on the site.
+      </p>
+      
+      <table width="100%">
+      <tr><td>
+        <form action="qa.asp" method="get">
+        <b>Search the forum: </b><input type="text" value="" name="forumsearch" size=30>&nbsp;<input type="submit" value="Search" name="forumsearchsubmit">
+          <input type=hidden name="forum" value="">
+        </form>
+      </td><td>
+        
+        <form action="askquestion.asp" method="post">
+        <input type="submit" value="Ask new Question" name="forumsearchsubmit">&nbsp;
+        
+        <input type="submit" value="Login" name="Login"> 
+        
+        </form>
+      </td></tr>
+      </table>
+      <hr width=100%>
+    </td>
+  </tr>
+</table>
+
+<table align="center" border="0" width="95%">
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><h3>Question</h3></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Asked by:</b></td>
+    <td align="left" colspan="2" valign="top">Nitro</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Subject:</b></td>
+    <td align="left" colspan="2" valign="top">getting the blind to see</td>
+  </tr>
+  <tr>
+    <td align=right class=medium valign="top" nowrap><b>Question:</b></td>
+    <td align=left class=medium valign="top" width="400" colspan="2">Dear all,<br>
+<br>
+Nice to see that not every post is from trolls and angry, rude nutters.  Nutters on a site like this is an inevitability but angry, rude, nutters should be discouraged.<br>
+<br>
+Sandy, your post of 9/2/21 highlights the problem of getting clever people to honestly appraise anyone's gyro machine.  By clever people it can be assumed that you mean the established scientific community.  As most such scientific people tend to rely on maths based proofs and closely follow precedent and peer group opinion such appraisal aint  likely goin to appen.  <br>
+<br>
+Added to this clever people problem is the fundamental problem that Newton's third law is simply wrong when it is attempted to apply it to the axial change of a fast rotating mass (gyro).  For, in its application to such gyro machines, the word  opposite needs must be omitted.  This is because, although reaction is present in all gyro machines, such reaction is rarely opposite its driving force.  Thus any attempt to analyze gyro induced inertial thrust using the math of classical Newtonian mechanics is bound to fail.<br>
+<br>
+It is this very fact (that the reaction is not opposite the action) that is the key to mass displacement unopposed by an equal and opposite mass displacement force (impulse drive - inertial thrust - whatever).  Conservation laws are not attacked they are just not necessarily conserved in the expected direction, confusing the average scientist.<br>
+<br>
+Sandy, you said that from personal experience no single gyro on its own ....... is capable of delivering inertial thrust.  I hope that isnt so as I am about to embark on a machine that uses only one rather large gyro. the reason for going with a rather large gyro is as an attempt to overcome the clever people problem you mention.  I believe that the dogma of the Newton church is so ingrained in most people, scientific or not, that a huge, repeating and undeniably non Newtonian movement is needed to enable the blind to see.<br>
+<br>
+We will see.....<br>
+<br>
+Kindest <br>
+NM    <br>
+</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Date:</b></td>
+    <td align="left" colspan="2" valign="top">13 February 2021
+    </td>
+  </tr>
+  <tr>
+    <td align="right" colspan="3" valign="top"><a href="abuse.asp?q=3040">report abuse</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2><hr width="100%"></td>
+  </tr>
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><br><h3>Answers (Ordered by Date)</h3><br></td>
+  </tr>
+  <tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Sandy</b> - 14/02/2021 08:57:47
+</td></tr><tr><td>&nbsp;</td><td>Morning Nitro,<br>
+I agree with all of your comments except perhaps the continued acceptance of the prevailing conservation laws.<br>
+I have maybe missed something in my thousands of gyroscope tests and experiments relating to useful output from a single gyroscope, I shall be quite happy to be proved wrong, although I have considerable doubts pertaining to that possibility.<br>
+You are very correct that visual demonstration of the errors in Newtons law is going to be the only way to get the clever people to even think about it.<br>
+I have taken this view for some time now.<br>
+Too late for me now Nitro, it will be up to you to encourage any serious experimenters in the quest to follow that line of thought.<br>
+Regards,<br>
+Sandy.<br>
+PS <br>
+FYI <br>
+Just short of 40 years ago I demonstrated conclusively, control of centrifugal force in a gyroscopic system of fixed rotation speed.<br>
+This was achieved by altering slightly the set-up of a machine of mine, which was at the time under scrutiny in one of the bastions of credibility.<br>
+The attendant academics made no comment after the demonstration although they were as close as I was to the display.<br>
+Argument I can handle that kind of silence I cannot.<br>
+Be warned Nitro if the blind do not wish to see then they will not.<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8379">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 18/02/2021 19:33:01
+</td></tr><tr><td>&nbsp;</td><td>Good morning Good Nitro,<br>
+<br>
+Forgive me but I have noticed this over the years. Why dont you name your antagonist outright instead of penning a poorly disguised reference to him or them? It has less weight that way and it can be confusing. You mean Dave Brown but it is unclear if you also mean me. Anyhow, how does the marshmallow way you say it compensates for the horror to our little girl sensibilities? Neville Chamberlain hiding under his bed would approve but Churchill would tell you to stand up and name your man. So-- say it.<br>
+<br>
+Remember Dave of the cakehole law, the mad psychopath bastard locked in a dungeon in Canada for God knows what torturous things he did against the most innocent of humanity? It was a fight with a stated target, not a generalized inference and he is removed. Anyway, there is nothing wrong with a good fair fight.<br>
+<br>
+As to Dave Brown, he is an O K kid but a dammed upset one, because his work was not embraced and exalted. He is not hurting anybody and a little taunting from time to time for we none-gentlemen-lots is kind of fun.<br>
+<br>
+It snowed last night so I think I will go outside and piss my name. Isnt that sad? There is just nothing much to do during this pandemic.<br>
+<br>
+Good fortunes to you,<br>
+Glenn,<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8383">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>dave brown</b> - 18/02/2021 22:32:48
+</td></tr><tr><td>&nbsp;</td><td><br>
+SLANDER<br>
+DEFAMATION OF CHARACTER<br>
+<br>
+WATCH YOUR STEP OLD MAN HAWKINS<br>
+<br>
+YOU ARE NOT AS SMART AS YOU THINK YOU ARE<br>
+<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8384">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 21/02/2021 01:22:56
+</td></tr><tr><td>&nbsp;</td><td>Nitro, I didnt mean to offend you. If I did I apologize. I like your penmanship. I am bored and just running off at the mouth. My main work is difficult at times and I get blocked and I scratch for relief or outlet.  So, you keep on keeping on. Good show.<br>
+<br>
+Glenn,<br>
+<br>
+ Nice to see you here, Dave.<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8385">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Gardner Martin</b> - 23/04/2021 22:44:27
+</td></tr><tr><td>&nbsp;</td><td>Nitro, <br>
+has it occurred to you that you simply do not understand Newton's third law? There is more to understanding a law of physics than simply reciting it. The third law is just a corollary of the first law of thermodynamics and so, if you deny Newton's third law, you might as well be a perpetual motion crank. Conservation laws are also backed up by the ultra-profound Noether's Theorem and, if you question that, you are denying the very symmetries of space and time. I can understand that 'hands-on' people are liable to misinterpret the movements which they feel: after all, laymen on a fairground ride think that they are being acted upon by a radial force. They are not. It is even more tempting to associate every unexpected spinning-top movement with a force ... in true medieval style LOL. Physics is counter-intuitive. Please learn to accept that your intuition is not very good.<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8408">Report Abuse</a></td></tr>
+<tr>
+<td align="center" colspan="2"><a href="answerquestion.asp?id=3040">Add an Answer &#062;&#062;</a></td></tr>
+</table>
+    </td>
+  </tr>
+  </table>
+  
+  <font class="copyright">
+  Website. Copyright &copy; 2022 Glenn Turner. All rights reserved. <a href="/site.asp">site info</a><br>
+     Do not copy without prior permission. Click here for <a target="gyroscopeproducts" href="http://www.gyroscope.com/" alt="Gyroscope products">gyroscope products</a> 
+   
+  </font>
+</center>
+
+</body>
+</html>

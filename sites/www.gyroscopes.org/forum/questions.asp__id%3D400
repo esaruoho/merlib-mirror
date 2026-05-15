@@ -1,0 +1,254 @@
+
+<html>
+<head>
+  <title>Gyroscopes - Everything you needed to know</title>
+  <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+  <meta http-equiv="pics-label" content='(pics-1.1 "http://www.icra.org/ratingsv02.html" comment "ICRAonline EN v2.0" l gen true for "no gen term" r (nz 0 vz 0 lz 0 oz 0 cz 0) "http://www.rsac.org/ratingsv01.html" l gen true for "no gen term" r (n 0 s 0 v 0 l 0))'>
+  <META NAME="Author" CONTENT="Glenn Turner">
+  <META NAME="keywords" CONTENT="gyroscope, gyroscopes , gyro, gyros, gyroscopic propulsion">
+  <META NAME="Description" CONTENT="Gyroscopes have many uses, this site explains how a gyroscope works and what they can be used for. The site also looks at the possible uses of gyroscope based propulsion (gyroscopic propulsion). ">
+  <META NAME="Copyright" CONTENT="Copyright 2003 (All Web Pages) by Glenn Turner">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="expires" content="0">
+  <link rel="stylesheet" href="/iesite.css" type="text/css">
+</head>
+<body bgcolor="#000000">
+  <div style="  float: center; margin: 0; border: none; padding: 0; " align=center><center><img src="/header.jpg" alt="" hspace=0 vspace=0 wgith=700 height=111></center></div>
+  <center>
+  <span class="menutitle">
+    <a href="/index.asp"><font color="#DDDDDD">Home</font></a> :
+    <a href="/gallery.asp"><font color="#DDDDDD">Gallery</font></a> :
+    <a href="/history.asp"><font color="#DDDDDD">History</font></a> :
+    <a href="/uses.asp"><font color="#DDDDDD">Uses</font></a> :
+    <a href="/behaviour.asp"><font color="#DDDDDD">Behaviour</font></a> :
+    <a href="/math.asp"><font color="#DDDDDD">Maths</font></a> :
+    <a href="/forum/qa.asp"><font color="#DDDDDD">Forum</font></a> :
+    <a href="/propulsion.asp"><font color="#DDDDDD">Propulsion</font></a> :
+    <a href="/links.asp"><font color="#DDDDDD">Links</font></a> :
+    <a href="/glossary.asp"><font color="#DDDDDD">Glossary</font></a>
+    <br>
+  </span>
+
+  <table border=0 cellpadding=0 cellspacing=0 width="0" height="11">
+  <tr>
+    <td></td>
+  </tr>
+  </table>
+
+
+
+
+
+  <table border=0 cellpadding=8 cellspacing=0 width="700" height="260" bgcolor="#FFFFFF" ID="Table1">
+  <tr>
+    <td valign="top" class="main">
+<table align="center" width="100%" border="0">
+  <tr>
+    <td align="left" width="20%" valign="top">
+      <a href="qa.asp">Main Forum Page</a>
+    </td>
+    <td align="center" valign="middle">
+      
+      <h2 border="0">       
+      The Gyroscope Forum</h2></td>
+    <td align="right" width="20%" valign="top">
+      3 May 2006 11:48
+    </td>
+  </tr>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <p align=left>Welcome to the gyroscope forum. If you have a question about gyroscopes in general,
+      want to know how they work, or what they can be used for then you can leave your question here for others to answer.
+         You may also be able to help others by answering some of the questions on the site.
+      </p>
+      
+      <table width="100%">
+      <tr><td>
+        <form action="qa.asp" method="get">
+        <b>Search the forum: </b><input type="text" value="" name="forumsearch" size=30>&nbsp;<input type="submit" value="Search" name="forumsearchsubmit">
+          <input type=hidden name="forum" value="">
+        </form>
+      </td><td>
+        
+        <form action="askquestion.asp" method="post">
+        <input type="submit" value="Ask a new Question" name="forumsearchsubmit">
+        </form>
+        
+      </td></tr>
+      </table>
+      <hr width=100%>
+    </td>
+  </tr>
+</table>
+
+<table align="center" border="0" width="95%">
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><h3>Question</h3></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Asked by:</b></td>
+    <td align="left" colspan="2" valign="top">Luis Gonzalez</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Subject:</b></td>
+    <td align="left" colspan="2" valign="top">Testing our smarts.</td>
+  </tr>
+  <tr>
+    <td align=right class=medium valign="top" nowrap><b>Question:</b></td>
+    <td align=left class=medium valign="top" width="400" colspan="2">A smart group like ours should have no problem solving this riddle.  I have to admit I had to think a bit before realizing how easy the answer is.<br>
+<br>
+Riddle of the smart.<br>
+<br>
+The 3 smartest people were brought together to see who was the smartest of all with a prize of 1 million dollars.<br>
+The testing organization told the 3 contestants that each of the three people would get a hat with a mark on top so that they could not see their own mark but they would see the other 2 contestants mark.<br>
+The testers told the contestants that 2 of the markers would be WHITE and 1 of the makers would be BLACK.  <br>
+The object of the game was to look at the color marker in the other contestants hats and figure out what the color of their own marker is without looking at their own or communicating in any manner.  The first one to know the color of their marker would win the 1 million dollar prize and be recognized as the smartest in the group.  (Wrong answer carried a heavy cost.)    <br>
+<br>
+The contestants were blind folded and the hats were placed on their heads but they were tricked.  The testing organization changed the markers to be all of the same color.  <br>
+<br>
+Then the blindfold was removed and the contestants looked at each others markers.  There was a lull of about 3 seconds and suddenly the smartest one said I know my color, told them, received 1 million dollars, and was named the smartest.<br>
+<br>
+Questions:<br>
+1 - What was the color of the marker?<br>
+2 - How did the smartest know 100% that it was the correct color?  (They had no way to know that all the markers were the same color)<br>
+</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Date:</b></td>
+    <td align="left" colspan="2" valign="top">8 May 2005
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2><hr width=100%></td>
+  </tr>
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><br><h3>Answers (Ordered by Date)</h3><br></td>
+  </tr>
+  <tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn</b> - 08/05/2005 19:57:24
+</td></tr><tr><td>&nbsp;</td><td>I got a couple of ideas on this.<br>
+<br>
+I think they were all white. If he/she had spotted two markers that were black he/she would have cried foul (being told that only one would be black). Seeing two white they assumed their own was the black one. But this does not quite make sense because they would have been wrong.<br>
+<br>
+However if I was in this position I would just say white as soon I as could because white<br>
+had better odds. So maybe the answer is : white but he/she was NOT 100% sure and just took a gamble.<br>
+<br>
+Am I correct?<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn H.</b> - 09/05/2005 14:38:27
+</td></tr><tr><td>&nbsp;</td><td>I see no way to know an answer, because the contestants had limited information and because they were lied to. I must consider then that between you and I, whove had more time than the contestants, apparently the dumbest of the five involved is either you, or I. I suspect it will be I. But it might be you.<br>
+<br>
+I like the riddle. Whats the answer?<br>
+Glenn H.<br>
+<br>
+Wait! OK, I see. The winner saw that the other two contestants had black markers and so knew he had been lided to once and then assumed he had been lied to again. Like the other Glenn said thats not 100%. Of the now six involved,   Im afraid you lose badly. It was fun.<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Victor Geere</b> - 09/05/2005 15:00:35
+</td></tr><tr><td>&nbsp;</td><td>1. Black<br>
+<br>
+2. If they opened their eyes and all of them saw white markers on the other contestants heads, they would not realise that they were tricked and they would all think that they carried the remaining black marker and be wrong.  The smartest guy (A) had to realise that he was tricked when he saw two black markers (B and C) and because no one else had answered "white" by three seconds, he had to know that he didn't carry a white marker.  If he did carry a white marker the two other guys (B and C), on seeing a black (C or B) and a white (A) marker would not realise the trick and each think eroneously that they carried the second white marker very quickly.<br>
+<br>
+Cute exercise.<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 09/05/2005 22:37:20
+</td></tr><tr><td>&nbsp;</td><td>Good fun Luis. In a contest of now seven, I would be the one forced to pay the million as I appear to be last on the intuitive list and therefore least capable of intelligent argument against Victor and the other guy taking money away from mehowever much, or little I have and that is. Help!<br>
+Glenn H.<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Eric James -----</b> - 10/05/2005 08:31:19
+</td></tr><tr><td>&nbsp;</td><td>Luis et al,<br>
+<br>
+1.  Uh... black.<br>
+<br>
+2.  Uh... 'cause they gave him the million dollars instead of chopping off his head! <br>
+<br>
+Honestly, the only way to be !00% sure would be to look at it himself.  The other really smart guys might have just been really slow in comparison to him, or blind, or looking at the wrong spot, or distracted by the bosom of the princess or...<br>
+<br>
+I obviously spotted this too late to really give it a good thinking.<br>
+<br>
+I've heard this one somewhere before though.  Maybe part of a Mensa test or something.  As I recall it was about a king looking for the smartest man in the kingdom (hence my references to head chopping and a princess).<br>
+<br>
+I'd give 50% to Glenn H. for thinking along the right lines, and 50% to Victor for completing it.<br>
+<br>
+Eric<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 10/05/2005 14:05:31
+</td></tr><tr><td>&nbsp;</td><td>This is a very old riddle. A man has a fox, chicken and basket of corn. He wants to boat the three across a river, but can carry only one at a time. How dose he get them all across without his fox eating his chicken, or his chicken eating his corn?<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Victor Geere</b> - 10/05/2005 14:10:10
+</td></tr><tr><td>&nbsp;</td><td>Yes Eric, it went something like this:  Two white markers one black.  Three guys sit in a row facing forward with each a marker on their back.  The guy in front can see no markers, the middle guy can see the guy in front of him.  The guy at the back can see the two guys in front of him.  There is a time limit of 5 minutes.  At 4:59 the guy in front answers correctly.  What did he answer and how did he know 100%?  <br>
+<br>
+I get the million and everybody else's heads gets chopped off.  hehehehehehehe :}<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Victor Geere</b> - 10/05/2005 14:27:26
+</td></tr><tr><td>&nbsp;</td><td>Kill the chicken and the fox.<br>
+<br>
+alternatively<br>
+<br>
+Take the chicken across.  Take the corn across, bring back the chicken, take the fox across.<br>
+Take the chicken across.<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 10/05/2005 14:45:45
+</td></tr><tr><td>&nbsp;</td><td>THE OLD RIDDLE<br>
+WATE! Those who reason the answer just say so (Got it!), but dont explain for a week. This way everyone who wishes has a puzzlement to toy with. I might add that the man can only make three trips across the river.<br>
+<br>
+By the way, Luis Gonzalez said:  each of the three people would get a hat with a mark on top so that they could not see their own mark but they would see the other 2 contestants mark. Now Vector! Eric has explained that Im supposed to get some money too. So just stop this right now. Smooth talkers have taken advantage of me for the last time. I WANT this money. Im keeping it!<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Eric James -----</b> - 11/05/2005 07:19:03
+</td></tr><tr><td>&nbsp;</td><td>Glenn H.<br>
+<br>
+I thin I have it, using only the information you've provided.  Although my solutions tend to be "out there," so you might not like it.<br>
+<br>
+Eric<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 14/05/2005 03:04:13
+</td></tr><tr><td>&nbsp;</td><td>This is the answer Eric James sent me early on. Bring the chicken, get the corn, dump the corn out of the basket and place it over the chicken, get the fox.  Is that correct? Yes Eric.<br>
+<br>
+Victors second answer is the only one Id ever heard. His first answer and Erics answer are both brand new. Of course, all three are correct. Im impressed.<br>
+<br>
+Glenn H.<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Eric James -----</b> - 14/05/2005 06:24:00
+</td></tr><tr><td>&nbsp;</td><td>Glenn,<br>
+<br>
+But victors first scenario destroys the basis of the riddle (things eat each other), and his second takes four trips.<br>
+<br>
+They are good answers, but they don't properly and completely fit the riddle as you presented it (after your "three trips" correction).<br>
+<br>
+Therefore, I want the million dollars for myself!<br>
+<br>
+Eric<br><br></td></tr>
+<tr>
+<td align="center" colspan="2"><a href="answerquestion.asp?id=400">Add an Answer &#062;&#062;</a></td></tr>
+</table>
+    </td>
+  </tr>
+  </table>
+  
+  <font class="copyright">
+  Website. Copyright &copy; 2006 Glenn Turner. All rights reserved. <a href="/site.asp">site info</a><br>
+     Do not copy without prior permission. Click here for <a target="gyroscopeproducts" href="http://www.gyroscope.com/" alt="Gyroscope products">gyroscope products</a> 
+   
+  </font>
+</center>
+
+</body>
+</html>

@@ -1,0 +1,711 @@
+
+<html>
+<head>
+  <title>The Gyroscope - Everything you needed to know</title>
+  <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+  <meta http-equiv="pics-label" content='(pics-1.1 "http://www.icra.org/ratingsv02.html" comment "ICRAonline EN v2.0" l gen true for "no gen term" r (nz 0 vz 0 lz 0 oz 0 cz 0) "http://www.rsac.org/ratingsv01.html" l gen true for "no gen term" r (n 0 s 0 v 0 l 0))'>
+  <META NAME="Author" CONTENT="Glenn Turner">
+  <META NAME="keywords" CONTENT="gyroscope, gyroscopes , gyro, gyros, gyroscopic propulsion">
+  <META NAME="Description" CONTENT="The Gyroscope has many uses, this site explains how a gyroscope works and what it can be used for. The site also looks at the possible use of gyroscope based propulsion (gyroscopic propulsion). ">
+  <META NAME="Copyright" CONTENT="Copyright 2003 (All Web Pages) by Glenn Turner">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="expires" content="0">
+  <link rel="stylesheet" href="/iesite.css" type="text/css">
+</head>
+<body bgcolor="#000000">
+  <div style="position: absolute; top: 2; width=100%; z-index: 1"><center><img src="/header.jpg" alt="" hspace=0 vspace=0 width=700 height=111></center></div>
+
+  <table border=0 cellpadding=0 cellspacing=0 width="0" height="96">
+  <tr>
+    <td></td>
+  </tr>
+  </table>
+
+  <center>
+  <span class="menutitle">
+    <a href="/index.asp"><font color="#991111">Home</font></a> :
+    <a href="/gallery.asp"><font color="#991111">Gallery</font></a> :
+    <a href="/history.asp"><font color="#991111">History</font></a> :
+    <a href="/uses.asp"><font color="#991111">Uses</font></a> :
+    <a href="/behaviour.asp"><font color="#991111">Behaviour</font></a> :
+    <a href="/math.asp"><font color="#991111">Maths</font></a> :
+    <a href="/forum/qa.asp"><font color="#991111">Forum</font></a> :
+    <a href="/propulsion.asp"><font color="#991111">Propulsion</font></a> :
+    <a href="/links.asp"><font color="#991111">Links</font></a> :
+    <a href="/glossary.asp"><font color="#991111">Glossary</font></a>
+    <br>
+  </span>
+
+  <table border=0 cellpadding=0 cellspacing=0 width="0" height="11">
+  <tr>
+    <td></td>
+  </tr>
+  </table>
+
+
+<table class=tabholder cellspacing="0" cellpadding="0" border="0" width=700 ID="Table3">
+<tr>
+<td height="4"></td>
+</tr>
+<tr>
+<td width="100">
+
+<table class=tabmenuback cellspacing="0" cellpadding="0" border="0" width="110">
+  <tr>
+    <td colspan="3" class=tabtop height="1"><img src="trans.gif" width="1" height="1" border="0"></td>
+  </tr>
+  <tr>
+    <td colspan="3" class=tableft height="1"><img src="trans.gif" width="1" height="1" border="0"></td>
+    <td colspan="1" class=tabright height="1" width="1"><img src="trans.gif" width="1" height="1" border="0"></td>
+  </tr>
+  <tr>
+    <td class=tableft width="2" height="16"><img src="trans.gif" width="1" height="1" border="0"></td>
+    <td class=tabcenter width="106" height="16" align="center"><a href='propulsion.asp'>Propulsion</a></td>
+    <td class=tabright width="1" height="16"><img src="trans.gif" width="1" height="1" border="0"></td>
+    <td class=tabright class=tabbg width="1" height="16"><img src="trans.gif" width="1" height="1" border="0"></td>
+  </tr>
+  <tr>
+    <td class=tabcenter colspan="4" height="1"><img src="trans.gif" width="1" height="1" border="0"></td>
+  </tr>
+</table>
+
+</td>
+<td width="5">
+</td>
+<td width="100">
+
+<table class=tabmenu cellspacing="0" cellpadding="0" border="0" width="110">
+  <tr>
+    <td colspan="3" class=tabtop height="1"><img src="trans.gif" width="1" height="1" border="0"></td>
+  </tr>
+  <tr>
+    <td colspan="3" class=tableft height="1"><img src="trans.gif" width="1" height="1" border="0"></td>
+    <td colspan="1" class=tabright height="1" width="1"><img src="trans.gif" width="1" height="1" border="0"></td>
+  </tr>
+  <tr>
+    <td class=tableft width="2" height="19"><img src="trans.gif" width="1" height="1" border="0"></td>
+    <td class=tabcenter width="106" height="19" align="center"><a href='patents.asp'>Patents </a></td>
+    <td class=tabright width="1" height="19"><img src="trans.gif" width="1" height="1" border="0"></td>
+    <td class=tabright class=tabbg width="1" height="19"><img src="trans.gif" width="1" height="1" border="0"></td>
+  </tr>
+  <tr>
+    <td class=tabcenter colspan="4" height="1"><img src="trans.gif" width="1" height="1" border="0"></td>
+  </tr>
+</table>
+
+</td>
+<td width="5">
+</td>
+<td width="100">
+
+<table class=tabmenuback cellspacing="0" cellpadding="0" border="0" width="110">
+  <tr>
+    <td colspan="3" class=tabtop height="1"><img src="trans.gif" width="1" height="1" border="0"></td>
+  </tr>
+  <tr>
+    <td colspan="3" class=tableft height="1"><img src="trans.gif" width="1" height="1" border="0"></td>
+    <td colspan="1" class=tabright height="1" width="1"><img src="trans.gif" width="1" height="1" border="0"></td>
+  </tr>
+  <tr>
+    <td class=tableft width="2" height="16"><img src="trans.gif" width="1" height="1" border="0"></td>
+    <td class=tabcenter width="106" height="16" align="center"><a href='patentsthumbs.asp'>Patent images</a></td>
+    <td class=tabright width="1" height="16"><img src="trans.gif" width="1" height="1" border="0"></td>
+    <td class=tabright class=tabbg width="1" height="16"><img src="trans.gif" width="1" height="1" border="0"></td>
+  </tr>
+  <tr>
+    <td class=tabcenter colspan="4" height="1"><img src="trans.gif" width="1" height="1" border="0"></td>
+  </tr>
+</table>
+
+</td>
+<td width="5">
+</td>
+<td width="100">
+
+<table class=tabmenuback cellspacing="0" cellpadding="0" border="0" width="110">
+  <tr>
+    <td colspan="3" class=tabtop height="1"><img src="trans.gif" width="1" height="1" border="0"></td>
+  </tr>
+  <tr>
+    <td colspan="3" class=tableft height="1"><img src="trans.gif" width="1" height="1" border="0"></td>
+    <td colspan="1" class=tabright height="1" width="1"><img src="trans.gif" width="1" height="1" border="0"></td>
+  </tr>
+  <tr>
+    <td class=tableft width="2" height="16"><img src="trans.gif" width="1" height="1" border="0"></td>
+    <td class=tabcenter width="106" height="16" align="center"><a href='papers.asp'>Papers</a></td>
+    <td class=tabright width="1" height="16"><img src="trans.gif" width="1" height="1" border="0"></td>
+    <td class=tabright class=tabbg width="1" height="16"><img src="trans.gif" width="1" height="1" border="0"></td>
+  </tr>
+  <tr>
+    <td class=tabcenter colspan="4" height="1"><img src="trans.gif" width="1" height="1" border="0"></td>
+  </tr>
+</table>
+
+</td>
+<td width="5">
+</td>
+<td width="100">
+
+<table class=tabmenuback cellspacing="0" cellpadding="0" border="0" width="110">
+  <tr>
+    <td colspan="3" class=tabtop height="1"><img src="trans.gif" width="1" height="1" border="0"></td>
+  </tr>
+  <tr>
+    <td colspan="3" class=tableft height="1"><img src="trans.gif" width="1" height="1" border="0"></td>
+    <td colspan="1" class=tabright height="1" width="1"><img src="trans.gif" width="1" height="1" border="0"></td>
+  </tr>
+  <tr>
+    <td class=tableft width="2" height="16"><img src="trans.gif" width="1" height="1" border="0"></td>
+    <td class=tabcenter width="106" height="16" align="center"><a href='mywork.asp'>My Work</a></td>
+    <td class=tabright width="1" height="16"><img src="trans.gif" width="1" height="1" border="0"></td>
+    <td class=tabright class=tabbg width="1" height="16"><img src="trans.gif" width="1" height="1" border="0"></td>
+  </tr>
+  <tr>
+    <td class=tabcenter colspan="4" height="1"><img src="trans.gif" width="1" height="1" border="0"></td>
+  </tr>
+</table>
+
+</td>
+<td width="5">
+</td>
+<td width="100">
+
+<table class=tabmenuback cellspacing="0" cellpadding="0" border="0" width="110">
+  <tr>
+    <td colspan="3" class=tabtop height="1"><img src="trans.gif" width="1" height="1" border="0"></td>
+  </tr>
+  <tr>
+    <td colspan="3" class=tableft height="1"><img src="trans.gif" width="1" height="1" border="0"></td>
+    <td colspan="1" class=tabright height="1" width="1"><img src="trans.gif" width="1" height="1" border="0"></td>
+  </tr>
+  <tr>
+    <td class=tableft width="2" height="16"><img src="trans.gif" width="1" height="1" border="0"></td>
+    <td class=tabcenter width="106" height="16" align="center"><a href='myworknext.asp'>Whats next?</a></td>
+    <td class=tabright width="1" height="16"><img src="trans.gif" width="1" height="1" border="0"></td>
+    <td class=tabright class=tabbg width="1" height="16"><img src="trans.gif" width="1" height="1" border="0"></td>
+  </tr>
+  <tr>
+    <td class=tabcenter colspan="4" height="1"><img src="trans.gif" width="1" height="1" border="0"></td>
+  </tr>
+</table>
+
+</td>
+<td>
+&nbsp;
+</td>
+</tr>
+</table>
+
+
+
+
+  <table border=0 cellpadding=8 cellspacing=0 width="700" height="260" bgcolor="#FFFFFF" ID="Table1">
+  <tr>
+    <td valign="top" class="main">[ Total of 69 ]<br><br>
+
+<table class="patenttable" cellspacing="1" ID="Table1">
+  <TR>
+    <Th width=70><a href="/patents.asp?patentsSortUp=Patentno"><img border="0" src="buttons/gridsortup.gif"></a><b>Pat No</b><a href="/patents.asp?patentsSortDown=Patentno"><img border="0" src="buttons/gridsortdn.gif"></a></Th>
+    <Th><a href="/patents.asp?patentsSortUp=Name"><img border="0" src="buttons/gridsortup.gif"></a><b>Owner</b><a href="/patents.asp?patentsSortDown=Name"><img border="0" src="buttons/gridsortdn.gif"></a></Th>
+    <Th width=80><a href="/patents.asp?patentsSortUp=PatentDate"><img border="0" src="buttons/gridsortup.gif"></a><b>Pat&nbsp;Date</b><a href="/patents.asp?patentsSortDown=PatentDate"><img border="0" src="buttons/gridsortdn.gif"></a></Th>
+    <Th><a href="/patents.asp?patentsSortUp=Description"><img border="0" src="buttons/gridsortup.gif"></a><b>Description</b><a href="/patents.asp?patentsSortDown=Description"><img border="0" src="buttons/gridsortdn.gif"></a></Th>
+  </TR>
+
+  <TR>
+    <TD><a target="3807244Estrade.pdf" href="patents/3807244Estrade.pdf">3807244</a></TD>
+    <TD>Estrade</TD>
+    <TD>30/04/1974</TD>
+    <TD>Device For Transforming Kinetic Energy</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="3810394Novak.pdf" href="patents/3810394Novak.pdf">3810394</a></TD>
+    <TD>Novak</TD>
+    <TD>14/05/1974</TD>
+    <TD>Centrifugal Mechanical Device</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="3863510Benson.pdf" href="patents/3863510Benson.pdf">3863510</a></TD>
+    <TD>Benson</TD>
+    <TD>04/02/1975</TD>
+    <TD>Inertia Engine</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="3889543Mast.pdf" href="patents/3889543Mast.pdf">3889543</a></TD>
+    <TD>Mast</TD>
+    <TD>17/06/1975</TD>
+    <TD>Propulsion System</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="3897692Lehberger.pdf" href="patents/3897692Lehberger.pdf">3897692</a></TD>
+    <TD>Lehberger</TD>
+    <TD>05/08/1975</TD>
+    <TD>Centrifugal Propulsion Drive And Steering Mechanism</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="3916704Gaberson.pdf" href="patents/3916704Gaberson.pdf">3916704</a></TD>
+    <TD>Gaberson</TD>
+    <TD>04/11/1975</TD>
+    <TD>Vibratory Motion</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="3968700Cuff.pdf" href="patents/3968700Cuff.pdf">3968700</a></TD>
+    <TD>Cuff</TD>
+    <TD>13/07/1976</TD>
+    <TD>Device For Converting Rotary Motion Into A Unidirectional Linear Motion</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="3979961Schur.pdf" href="patents/3979961Schur.pdf">3979961</a></TD>
+    <TD>Schur</TD>
+    <TD>14/09/1976</TD>
+    <TD>Method And Apparatus For Propelling An Object By An Unbalanced Centrifugal Force With Continous Motion</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="4398431Melnick.pdf" href="patents/4398431Melnick.pdf">398431</a></TD>
+    <TD>Melnick</TD>
+    <TD>16/08/1983</TD>
+    <TD>Mechanical Power Transmitting System</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="3998107Cuff.pdf" href="patents/3998107Cuff.pdf">3998107</a></TD>
+    <TD>Cuff</TD>
+    <TD>21/12/1976</TD>
+    <TD>Device For Converting Rotary Motion Into A Unidirectional Linear Motion</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="4087064Knap.pdf" href="patents/4087064Knap.pdf">4087064</a></TD>
+    <TD>Knap</TD>
+    <TD>05/02/1978</TD>
+    <TD>Orbital Propulsion Apparatus</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="4095460Cuff.pdf" href="patents/4095460Cuff.pdf">4095460</a></TD>
+    <TD>Cuff</TD>
+    <TD>20/06/1978</TD>
+    <TD>Device For Converting Rotary Motion Into Unidirectional Motion</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="4238968Cook.pdf" href="patents/4238968Cook.pdf">4238968</a></TD>
+    <TD>Cook</TD>
+    <TD>16/12/1980</TD>
+    <TD>Device For Conversion Of Centrifugal Force To Linear Force And Motion</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="4242918Srogi.pdf" href="patents/4242918Srogi.pdf">4242918</a></TD>
+    <TD>Srogi</TD>
+    <TD>06/01/1981</TD>
+    <TD>Mechanical Propulsion System</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="4261212Melnick.pdf" href="patents/4261212Melnick.pdf">4261212</a></TD>
+    <TD>Melnick</TD>
+    <TD>14/04/1981</TD>
+    <TD>Unidirectional Force Generator</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="4347752Dehen.pdf" href="patents/4347752Dehen.pdf">4347752</a></TD>
+    <TD>Dehen</TD>
+    <TD>07/09/1982</TD>
+    <TD>Apparatus For Converting Rotary Motion To A Rectilinear Force</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="4408740Kleber.pdf" href="patents/4408740Kleber.pdf">4408740</a></TD>
+    <TD>Kleber</TD>
+    <TD>11/10/1983</TD>
+    <TD>Apparatus For Acceleration-Free Mounting Of A Body In A Spacecraft</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="4409856DeWeaver.pdf" href="patents/4409856DeWeaver.pdf">4409856</a></TD>
+    <TD>De Weaver</TD>
+    <TD>18/10/1983</TD>
+    <TD>Propulsion System</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="4450141Linde.pdf" href="patents/4450141Linde.pdf">4450141</a></TD>
+    <TD>Linde</TD>
+    <TD>22/05/1984</TD>
+    <TD>Centrifugal Reaction Chamber</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="4479396DeWeaver.pdf" href="patents/4479396DeWeaver.pdf">4479396</a></TD>
+    <TD>De Weaver</TD>
+    <TD>30/10/1984</TD>
+    <TD>Propulsion System</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="4577520Colla.pdf" href="patents/4577520Colla.pdf">4577520</a></TD>
+    <TD>Colla</TD>
+    <TD>05/03/1986</TD>
+    <TD>Mechanical Propulsion System</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="4579011Dobos.pdf" href="patents/4579011Dobos.pdf">4579011</a></TD>
+    <TD>Dobos</TD>
+    <TD>01/03/1986</TD>
+    <TD>Propulsion Apparatus</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="4631971Thornson.pdf" href="patents/4631971Thornson.pdf">4631971</a></TD>
+    <TD>Thornson</TD>
+    <TD>30/12/1986</TD>
+    <TD>Apparatus For Developing A Propulsive Force</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="4663932Cox.pdf" href="patents/4663932Cox.pdf">4663932</a></TD>
+    <TD>Cox</TD>
+    <TD>12/05/1987</TD>
+    <TD>Dipolar Force Field Propulsion</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="4674583Peppiatt.pdf" href="patents/4674583Peppiatt.pdf">4674583</a></TD>
+    <TD>Peppiatt</TD>
+    <TD>23/06/1987</TD>
+    <TD>Impulse Drive</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="4712439North.pdf" href="patents/4712439North.pdf">4712439</a></TD>
+    <TD>North</TD>
+    <TD>15/12/1987</TD>
+    <TD>Apparatus For Producing A Force</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="4726241Melnick.pdf" href="patents/4726241Melnick.pdf">4726241</a></TD>
+    <TD>Melnick</TD>
+    <TD>23/02/1988</TD>
+    <TD>Continuous Force And Impact Generator</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="4744259Peterson.pdf" href="patents/4744259Peterson.pdf">4744259</a></TD>
+    <TD>Peterson</TD>
+    <TD>17/05/1988</TD>
+    <TD>Apparatus For Producing A Directional Unit Force</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="4770063Mundo.pdf" href="patents/4770063Mundo.pdf">4770063</a></TD>
+    <TD>Mundo</TD>
+    <TD>13/09/1988</TD>
+    <TD>Universal Propulsion Powerplant And Impulse Drive Unit For Self-Propelled Vehicles</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="4784006Kethley.pdf" href="patents/4784006Kethley.pdf">4784006</a></TD>
+    <TD>Kethley</TD>
+    <TD>15/11/1988</TD>
+    <TD>Gyroscopic Propulsion Device</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="4788882Fulop.pdf" href="patents/4788882Fulop.pdf">4788882</a></TD>
+    <TD>Fulop</TD>
+    <TD>06/12/1988</TD>
+    <TD>Flywheel</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="4801111Rogers.pdf" href="patents/4801111Rogers.pdf">4801111</a></TD>
+    <TD>Rogers et al</TD>
+    <TD>31/01/1989</TD>
+    <TD>System For Propulsion And Positioning Of A Transitory Object</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="4856358Montalbano.pdf" href="patents/4856358Montalbano.pdf">4856358</a></TD>
+    <TD>Montalbano</TD>
+    <TD>15/08/1989</TD>
+    <TD>Conversion Of Rotational Output To Linear Force</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="4884465Zachystal.pdf" href="patents/4884465Zachystal.pdf">4884465</a></TD>
+    <TD>Zachystal</TD>
+    <TD>05/12/1989</TD>
+    <TD>Centripedal Device for Concentrating Centrifugal Force</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="4891600Cox.pdf" href="patents/4891600Cox.pdf">4891600</a></TD>
+    <TD>Cox</TD>
+    <TD>02/01/1990</TD>
+    <TD>Dipole accelerating means and method</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="4967983Motts.pdf" href="patents/4967983Motts.pdf">4967983</a></TD>
+    <TD>Motts</TD>
+    <TD>06/11/1990</TD>
+    <TD>Airship</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="4991453Mason.pdf" href="patents/4991453Mason.pdf">4991453</a></TD>
+    <TD>Mason</TD>
+    <TD>12/02/1991</TD>
+    <TD>Centripedal Device For Concentrating Centrifugal Force</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="5024112Kidd.pdf" href="patents/5024112Kidd.pdf">5024112</a></TD>
+    <TD>Kidd</TD>
+    <TD>18/06/1991</TD>
+    <TD>Gyroscopic Apparatus</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="5042313Montalbano.pdf" href="patents/5042313Montalbano.pdf">5042313</a></TD>
+    <TD>Montalbano</TD>
+    <TD>27/08/1991</TD>
+    <TD>Conversion of Rotational Output to Linear Force - a Transmission</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="5054331Rodgers.pdf" href="patents/5054331Rodgers.pdf">5054331</a></TD>
+    <TD>Rodgers</TD>
+    <TD>08/10/1991</TD>
+    <TD>Controllable Gyroscopic Propulsion Apparatus</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="5090260Delroy.pdf" href="patents/5090260Delroy.pdf">5090260</a></TD>
+    <TD>Delroy et al</TD>
+    <TD>25/02/1991</TD>
+    <TD>Gyrostat Propulsion System</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="5111087Butka.pdf" href="patents/5111087Butka.pdf">5111087</a></TD>
+    <TD>Butka</TD>
+    <TD>05/05/1992</TD>
+    <TD>Propulsion System</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="5142861Schlicher.pdf" href="patents/5142861Schlicher.pdf">5142861</a></TD>
+    <TD>Schlicher et al</TD>
+    <TD>01/09/1992</TD>
+    <TD>Nonlinear Electromagnetic Propulsion System And Method</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="5150626Isaacson.pdf" href="patents/5150626Isaacson.pdf">5150626</a></TD>
+    <TD>Isaacson  et al</TD>
+    <TD>29/09/1992</TD>
+    <TD>Translational Force Generator</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="5156058Bristow.pdf" href="patents/5156058Bristow.pdf">5156058</a></TD>
+    <TD>ristow</TD>
+    <TD>20/10/1992</TD>
+    <TD>Method and apparatus for converting rotary motion to lineal motion</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="5167163McMahon.pdf" href="patents/5167163McMahon.pdf">5167163</a></TD>
+    <TD>McMahon</TD>
+    <TD>01/12/1992</TD>
+    <TD>Energy transfer device</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="5182958Black.pdf" href="patents/5182958Black.pdf">5182958</a></TD>
+    <TD>Black</TD>
+    <TD>02/02/1993</TD>
+    <TD>Non-linear propulsion and energy conversion system</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="5197279Taylor.pdf" href="patents/5197279Taylor.pdf">5197279</a></TD>
+    <TD>Taylor</TD>
+    <TD>30/03/1993</TD>
+    <TD>Electromagnetic energy propulsion engine</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="5211006Sohnly.pdf" href="patents/5211006Sohnly.pdf">5211006</a></TD>
+    <TD>Sohnly</TD>
+    <TD>18/05/1993</TD>
+    <TD>Magetohydrodynamic Propulsion System</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="5256942Wood.pdf" href="patents/5256942Wood.pdf">5256942</a></TD>
+    <TD>Wood</TD>
+    <TD>26/10/1993</TD>
+    <TD>Stabilization System For A Freely Rotatable Platform</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="5280864Woodward.pdf" href="patents/5280864Woodward.pdf">5280864</a></TD>
+    <TD>Woodward</TD>
+    <TD>25/01/1994</TD>
+    <TD>Method For Transiently Altering The Mass Of Objects To Facilitate Their Tansport Or Change Their Stationary Apparent Weights</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="5305974Willis.pdf" href="patents/5305974Willis.pdf">5305974</a></TD>
+    <TD>Willis</TD>
+    <TD>26/04/1994</TD>
+    <TD>Spaceship Propulsion By Momentum Transfer</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="5313851Hull.pdf" href="patents/5313851Hull.pdf">5313851</a></TD>
+    <TD>Hull et al</TD>
+    <TD>24/05/1994</TD>
+    <TD>Reusable Mass Propulsion System</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="5334060Butka.pdf" href="patents/5334060Butka.pdf">5334060</a></TD>
+    <TD>Butka</TD>
+    <TD>02/08/1994</TD>
+    <TD>Propulsion System</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="5335561Harvey.pdf" href="patents/5335561Harvey.pdf">5335561</a></TD>
+    <TD>Harvey</TD>
+    <TD>09/08/1994</TD>
+    <TD>Impulse converter</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="5377936Mitchell.pdf" href="patents/5377936Mitchell.pdf">5377936</a></TD>
+    <TD>Mitchell</TD>
+    <TD>03/01/1995</TD>
+    <TD>Net Kinetic Energy Differential Guidance And Propulsion System For Satellites And Space Vehicles</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="5388469Woltering.pdf" href="patents/5388469Woltering.pdf">5388469</a></TD>
+    <TD>Woltering</TD>
+    <TD>14/02/1995</TD>
+    <TD>Rotating eccentric weights vibrator system</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="5388470Marsh.pdf" href="patents/5388470Marsh.pdf">5388470</a></TD>
+    <TD>Marsh</TD>
+    <TD>14/02/1995</TD>
+    <TD>Centrifugal force drive machine</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="5410198Butka.pdf" href="patents/5410198Butka.pdf">5410198</a></TD>
+    <TD>Butka</TD>
+    <TD>25/04/1995</TD>
+    <TD>Propulsion System</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="5427330Shimshi.pdf" href="patents/5427330Shimshi.pdf">5427330</a></TD>
+    <TD>Shimshi</TD>
+    <TD>27/06/1995</TD>
+    <TD>Sphereroll</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="5473957Navarro.pdf" href="patents/5473957Navarro.pdf">5473957</a></TD>
+    <TD>Navarro</TD>
+    <TD>12/12/1995</TD>
+    <TD>System for generating controllable reference enviroment and steerable translational force, etc.</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="5488877Lieurance.pdf" href="patents/5488877Lieurance.pdf">5488877</a></TD>
+    <TD>Lieurance</TD>
+    <TD>06/02/1996</TD>
+    <TD>Centrifugal Inertia Drive</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="5557988Claxton.pdf" href="patents/5557988Claxton.pdf">5557988</a></TD>
+    <TD>Claxton</TD>
+    <TD>24/09/1996</TD>
+    <TD>Centrifugal Impelled Vehicle</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="5673872Shimshi.pdf" href="patents/5673872Shimshi.pdf">5673872</a></TD>
+    <TD>Shimshi</TD>
+    <TD>07/10/1997</TD>
+    <TD>Apparatus For Energy Transformation And Conservation</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="5685196Foster.pdf" href="patents/5685196Foster.pdf">5685196</a></TD>
+    <TD>Foster</TD>
+    <TD>11/11/1997</TD>
+    <TD>Inertial propulsion Plus/Device And Engine</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="5782134Bouden.pdf" href="patents/5782134Bouden.pdf">5782134</a></TD>
+    <TD>Bouden</TD>
+    <TD>21/07/1998</TD>
+    <TD>Electromagnetically Actuated Thrust Generator</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="5831354Stopplecamp.pdf" href="patents/5831354Stopplecamp.pdf">5831354</a></TD>
+    <TD>Stopplecamp</TD>
+    <TD>11/03/1998</TD>
+    <TD>Boot Strap Propulsion System</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="5860317LaithwaiteDawson.pdf" href="patents/5860317LaithwaiteDawson.pdf">5860317</a></TD>
+    <TD>Laithwaite/Dawson</TD>
+    <TD>19/01/1999</TD>
+    <TD>Propulsion System</TD>
+  </TR>
+
+  <TR>
+    <TD><a target="5791188Howard.pdf" href="patents/5791188Howard.pdf">791188</a></TD>
+    <TD>Howard</TD>
+    <TD>11/08/1998</TD>
+    <TD>Propulsion System</TD>
+  </TR>
+
+</table>
+<br>
+    </td>
+  </tr>
+  </table>
+  
+  <font class="copyright">
+  Webpage. Copyright &copy; 2003 Glenn Turner. All rights reserved. <a href="/site.asp"><font color="#991111">more info</font></a><br>
+     All other images/content copyrighted to the designated owners,<br>
+      and must not be reproduced or distributed without prior permission. 
+  </font>
+</center>
+
+</body>
+</html>

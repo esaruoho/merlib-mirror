@@ -1,0 +1,233 @@
+
+<html>
+<head>
+  <title>Gyroscopes - Everything you needed to know</title>
+  <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+  <meta http-equiv="pics-label" content='(pics-1.1 "http://www.icra.org/ratingsv02.html" comment "ICRAonline EN v2.0" l gen true for "no gen term" r (nz 0 vz 0 lz 0 oz 0 cz 0) "http://www.rsac.org/ratingsv01.html" l gen true for "no gen term" r (n 0 s 0 v 0 l 0))'>
+  <META NAME="Author" CONTENT="Glenn Turner">
+  <META NAME="keywords" CONTENT="gyroscope, gyroscopes , gyro, gyros, gyroscopic propulsion">
+  <META NAME="Description" CONTENT="Gyroscopes have many uses, this site explains how a gyroscope works and what they can be used for. The site also looks at the possible uses of gyroscope based propulsion (gyroscopic propulsion). ">
+  <META NAME="Copyright" CONTENT="Copyright 2003 (All Web Pages) by Glenn Turner">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="expires" content="0">
+  <link rel="stylesheet" href="/iesite.css" type="text/css">
+</head>
+<body bgcolor="#000000">
+  <div style="  float: center; margin: 0; border: none; padding: 0; " align=center><center><img src="/header.jpg" alt="" hspace=0 vspace=0 wgith=700 height=111></center></div>
+  <center>
+  <span class="menutitle">
+    <a href="/index.asp"><font color="#DDDDDD">Home</font></a> :
+    <a href="/gallery.asp"><font color="#DDDDDD">Gallery</font></a> :
+    <a href="/history.asp"><font color="#DDDDDD">History</font></a> :
+    <a href="/uses.asp"><font color="#DDDDDD">Uses</font></a> :
+    <a href="/behaviour.asp"><font color="#DDDDDD">Behaviour</font></a> :
+    <a href="/math.asp"><font color="#DDDDDD">Maths</font></a> :
+    <a href="/forum/forums.asp"><font color="#DDDDDD">Forum</font></a> :
+    <a href="/propulsion.asp"><font color="#DDDDDD">Propulsion</font></a> :
+    <a href="/links.asp"><font color="#DDDDDD">Links</font></a> :
+    <a href="/glossary.asp"><font color="#DDDDDD">Glossary</font></a>
+    <br>
+  </span>
+
+  <table border=0 cellpadding=0 cellspacing=0 width="0" height="11">
+  <tr>
+    <td></td>
+  </tr>
+  </table>
+
+
+
+
+
+  <table border=0 cellpadding=8 cellspacing=0 width="700" height="260" bgcolor="#FFFFFF" ID="Table1">
+  <tr>
+    <td valign="top" class="main">
+<table align="center" width="100%" border="0">
+  <tr>
+    <td align="left" width="20%" valign="top">
+      <a href="forums.asp">Main Forum Page</a>
+    </td>
+    <td align="center" valign="middle">
+      
+      <h2 border="0">       
+      The Gyroscope Forum</h2></td>
+    <td align="right" width="20%" valign="top">
+      6 March 2007 10:48
+    </td>
+  </tr>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <p align=left>Welcome to the gyroscope forum. If you have a question about gyroscopes in general,
+      want to know how they work, or what they can be used for then you can leave your question here for others to answer.
+         You may also be able to help others by answering some of the questions on the site.
+      </p>
+      
+      <table width="100%">
+      <tr><td>
+        <form action="qa.asp" method="get">
+        <b>Search the forum: </b><input type="text" value="" name="forumsearch" size=30>&nbsp;<input type="submit" value="Search" name="forumsearchsubmit">
+          <input type=hidden name="forum" value="">
+        </form>
+      </td><td>
+        
+        <form action="askquestion.asp" method="post">
+        <input type="submit" value="Ask a new Question" name="forumsearchsubmit">
+        </form>
+        
+      </td></tr>
+      </table>
+      <hr width=100%>
+    </td>
+  </tr>
+</table>
+
+<table align="center" border="0" width="95%">
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><h3>Question</h3></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Asked by:</b></td>
+    <td align="left" colspan="2" valign="top">Peter Burton</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Subject:</b></td>
+    <td align="left" colspan="2" valign="top">Sandy Kidd</td>
+  </tr>
+  <tr>
+    <td align=right class=medium valign="top" nowrap><b>Question:</b></td>
+    <td align=left class=medium valign="top" width="400" colspan="2">Does anyone know what happened to the gryo propulsion system which Sandy Kidd developed?<br>
+<br>
+I have just finished reading his excellent book "BEYOND 2001" and I enjoyed it very much.  Although Sandy doesn't delve too deeply into the technical details of his devices (and he made several 'Marks' of them but offers no photographs or diagrams - probably due to patent reasons) the accounts of his trials and tribulations - from his garden shed to full-blown testing in Australia - amount to a very captivating read.<br>
+<br>
+The book finishes just prior to the ultimate 'suspension' test of his Mark V device, so I suspect that this device did not pass this final hurdle (although he hints at some very interesting - and a little disconcerting results).  I have written to him in Barnham, Dundee, Scotland (although I don't know of his exact address) but have, as yet, not received a reply.<br>
+<br>
+I would love to know of Sandy's continued development program: how he progresed with his Australian backers and his involvement with Dundee University and if he intends to write a sequal to his book.  I have Googled but can find no reference to his exploits on the www.  I would recommend this book to anyone in this field of study as it really is very well written from an 'engineering' perspective.  I bought the book from Amazon so it is still available.<br>
+<br>
+If anyone can contribute to this I would be very greatful.<br>
+<br>
+Best Regards,<br>
+Peter Burton,<br>
+Worcester, UK.<br>
+<br>
+</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Date:</b></td>
+    <td align="left" colspan="2" valign="top">1 March 2007
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2><hr width=100%></td>
+  </tr>
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><br><h3>Answers (Ordered by Date)</h3><br></td>
+  </tr>
+  <tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Sandy Kidd</b> - 01/03/2007 14:48:46
+</td></tr><tr><td>&nbsp;</td><td>Dear Peter,<br>
+Thank you for your enquiry into the progress of the device.<br>
+I know before I start this that it is going to be lengthy so bear with me whilst I attempt to answer.<br>
+I am intending to write a follow up if I live long enough to do it. Most of the chapters are already written <br>
+Best if we start at the beginning. I am going to have to skip a lot of the story to get to the main features.<br>
+The book was really about the first machine I built. I built it in an attempt to produce inertial thrust. The machine was a failure but after much hard running, general wear and tear etc. it consistently produced 1lb. of thrust, whenever, and wherever it was demonstrated. It weighed 6.5lbs. To be honest nobody who ever saw it had a clue as to why it could do it. It was seen, tested and scrutinised on many occasions by the late Dr Bill Ferrier of Dundee University who was convinced it was genuine, and manage to have it taken into the university, for appraisal. Bill tragically died just prior to the machine going into the university, the rest is history. It was got rid of because of what it was. I must add that it was demonstrated in Edinburgh University at the request of several senior academics who were suitably impressed by it. It was also demonstrated to a world famous professor from Aberdeen University who was curious to know why the powers at Dundee had let it go. <br>
+At this time I got enquiries from an Australian company which was interested in development of the device so I went to work for them. They, unknown to me, were in the middle of some financial dealing which ended up with the company selling off its interests. That ended my time with them but not before a different device was successfully lab tested doing 20 consecutive runs out of 20 displaying inertial thrust.<br>
+Thats the lab test you have seen in the book.<br>
+I returned to Britain and showed the lab test results to one of the professors in Edinburgh University who had witnessed the demonstration of my first device.<br>
+His words were Sandy I would like to help you, but I would also like to return to work on Monday That said it all.  The power of the high priests!<br>
+About the same time I had struck up a friendship with Dr Ron Evans of BAE Military Weapons Division, Wharton, who with his team tested 3 other machines I built over a period of months. 2 of them showed something, 1 was useless.<br>
+Ron was director of Project Greenglow, if that means any thing to anybody.<br>
+That is about as far as my involvement has gone with third parties.<br>
+Over the years I continued my research, basically trying to establish why the first device worked. Not so strangely I had to do a lengthy apprenticeship with gyro experiments before I even started to get anywhere, although from the results of another machine I built I had discerned that there was something seriously wrong with physics. It took the best part of 12 years to nail down the reasons why my first machine worked (and I had the machine) It was a somewhat convoluted process the machine was going through to produce thrust, and quite frankly very hard to reproduce, by simple mechanical procedures.<br>
+It is really only in this last year that I have managed to pull all the actions that are important into one device (although it has a pair of contra rotating rotors to counteract torque reaction)<br>
+I have been busy setting this one up for a TV demonstration as I have found out from experience that I will never be taken seriously otherwise.<br>
+It has not been easy but at long last the end is in sight. Sorry it is a bit brief Peter and maybe a bit disjointed. Ill talk about the book you read, in a following posting.<br>
+Regards,<br>
+Sandy Kidd<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Harry K.</b> - 01/03/2007 22:57:21
+</td></tr><tr><td>&nbsp;</td><td>Dear Sandy,<br>
+<br>
+Can you post a link with detailed information (sketch) about your working machine? Is it the machine described under "Propulsion" on this site? However the provided information there are not too detailed.<br>
+<br>
+Thank you and best regards,<br>
+Harry<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Sandy Kidd</b> - 02/03/2007 07:21:20
+</td></tr><tr><td>&nbsp;</td><td>Dear Harry K,<br>
+The book was written about the rather tatty but functional and extremely reliable machine, shown under Propulsion, which I think helped to kick-start our webmaster Glenns website.<br>
+The description relating to its operation was something put together mostly by others for the TV program and had absolutely nothing to do with any reason the machine did work. In fairness, no one at that time had the slightest idea why it worked. <br>
+As some great scientist said:<br>
+ Mother Nature is never complicated in what she does, but she hides her secrets well<br>
+Harry I must have built around a couple of hundred machines over the piece, some very simple, some quite complex. <br>
+My biggest bonus was that I was a toolmaker for much of my life, so building simple things like gyroscopic machines, has been, although time consuming, childs-play.<br>
+I have for the benefit of the enthusiasts, over the period been posting to Glenns excellent website, various articles relating to most of the functions required to make a device like this work, although I must again add, that I doubt very much if this is the only way it can be done. Yes, many of them are controversial but what the hell, it is not going to be done following an orthodox approach.<br>
+Whilst I have posted enough information to get anyone within about 10% of constructing a successful device I must admit not everyone is going to believe my findings. You can take a horse to water etc, etc.<br>
+I am prepared to divulge all I think could be useful to anyone without ultimately jeopardising my own position.<br>
+Regards,<br>
+Sandy.<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Sandy Kidd</b> - 02/03/2007 09:16:16
+</td></tr><tr><td>&nbsp;</td><td>Dear Peter,<br>
+The book?<br>
+The book was virtually a gift to the late Ron Thomson for the tremendous enthusiasm he had in promoting the device, and the great help he gave me with introductions to senior academics etc, etc. It was Ron who was responsible for the 30 minute TV program which was specifically aimed at presenting the uniqueness of such a device to the world at large.<br>
+The book, on the instructions (directions) of the publisher was to be a human interest tale and was not to be bogged down with technicalities which would supposedly bore Joe Public and put him off.<br>
+I had collected many photographs of many of the persons mentioned in the book, and drawn sketches of various testing methods for such devices. I also wanted to include (with the relevant permissions) some other interesting devices by other inventors. I will add at this point that the word inventor I positively hate as it stinks of pretension. <br>
+Being a relatively technically minded person myself, I was very disappointed in the publishers decision, but that is I suppose life.<br>
+While I did supply all the information for the book, control of it was really in the domain of others.<br>
+The only stipulation I could make, was that the book would not be published unless my machine was able to pass the strict laboratory test arranged for it at the VIPAC Laboratories in Port Melbourne, Australia.<br>
+By the way, near the end of the book, there is a part in which I allegedly stated that I thought it was my destiny to do this thing. This was added, to my dismay, after I had proof read the completed book. I was asked about this statement on a live radio interview, and as I was not aware of this late addition to the book, I was placed in a position of considerable embarrassment.<br>
+The rest you have read.<br>
+Regards,<br>
+Sandy.<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Harry K.</b> - 03/03/2007 11:41:23
+</td></tr><tr><td>&nbsp;</td><td>Dear Sandy,<br>
+<br>
+Thank you Sandy for your quick reply. Of course I understand your motives not to reveal all functions of your invention. Sorry for that silly request! ;-)<br>
+Anyway I thought a more detailed description would be available how this machine is in general intended to work. The stated 8 diagrams under "Precession" which show how to achieve thrust are of course nonsense and I'm sure you know that as well. Thank you anyway.<br>
+<br>
+Best regards,<br>
+Harry<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Peter Burton</b> - 06/03/2007 07:38:25
+</td></tr><tr><td>&nbsp;</td><td>Dear Sandy,<br>
+<br>
+Many thanks for your prompt, interesting and in-depth replies. I didn't think you would reply so quickly. I, and I'm sure many others too, would love to see your next book whenever it becomes published. I just hope that you are able to include everything in it that you would like. It is such a great pity that you were prevented from including photographs, sketches and engineering diagrams from your work and other's work as I think that would have been a great boon to all who bought your book and, I'm sure, would have increased sales accordingly. The publisher was very much in error when he stipulated that the public would be put off by the inclusion of photos and diagrams as these themselves speak a thousand words and help to clarify a lot of the textual explanations.<br>
+<br>
+Although I have not experimented with gyros myself (no workshop facilities), I'm very much interested in their application when applied to the conversion of rotary to linear motion. I don't think this violates Newton's 3rd law for the following reasoning (ala Prof. Laithwaite): Picture a flywheel mounted in an inner gimbal which itself is mounted in an outer gimbal - the classical gyro setup. When the gyro's outer gimbal is forced, the inner gimbal and flywheel will instantly begin to rotate and will instantly come to rest as soon as the forcing is removed, ie. the professor proved that there is seemingly no inertia at the beginning of the inner gimbal's rotation and no momentum when it stops - inertialess and momentumless motion. This is the clue that Prof. Laithwaite latched onto and is the reason why I think that reactionless linear motion is (somehow) possible - if you imagine that the gyro is attached to a vehicle to be propelled linearly and, by some means, the momentumless movement of the inner gimbal is transformed into the vehicle's translational motion then you have a true reactionless drive.<br>
+<br>
+To summarise: the starting and stopping of the inner gimbal shows NO inertia or momentum! (see the profs. Christmas lectures where he proved this on the bench, or his book by the same name "Engineer Through The Looking Glass, ch4). If only this effect could be converted to translational motion then we would have a winner! If you can start without inertia, translate some distance, then stop without momentum (as the gyro's inner gimbal does - albeit rotationally) then you are not violating the 3rd law. If only.<br>
+<br>
+On a different note, do tell us what you think of Prof. Laithwait's Pat.5860317, figs. 10 & 11 where linear reaction to the vehicle is obtained by translating the massive flywheel longitudinally in the first half of the cycle, then allowing the flywheel to freely return to its starting position in the second half of the cycle by free precession (NOT forced precession - free precession imparts no force into the pivot at the remote end of the flywheel's axle) thereby not 'undoing' the reaction previously imparted to the vehicle in the first half of the cycle.<br>
+<br>
+Best Regards,<br>
+Peter Burton.<br>
+<br><br></td></tr>
+<tr>
+<td align="center" colspan="2"><a href="answerquestion.asp?id=701">Add an Answer &#062;&#062;</a></td></tr>
+</table>
+    </td>
+  </tr>
+  </table>
+  
+  <font class="copyright">
+  Website. Copyright &copy; 2007 Glenn Turner. All rights reserved. <a href="/site.asp">site info</a><br>
+     Do not copy without prior permission. Click here for <a target="gyroscopeproducts" href="http://www.gyroscope.com/" alt="Gyroscope products">gyroscope products</a> 
+   
+  </font>
+</center>
+
+</body>
+</html>
