@@ -1,0 +1,175 @@
+
+<html>
+<head>
+  <title>Gyroscopes - Everything you needed to know</title>
+  <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+  <meta http-equiv="pics-label" content='(pics-1.1 "http://www.icra.org/ratingsv02.html" comment "ICRAonline EN v2.0" l gen true for "no gen term" r (nz 0 vz 0 lz 0 oz 0 cz 0) "http://www.rsac.org/ratingsv01.html" l gen true for "no gen term" r (n 0 s 0 v 0 l 0))'>
+  <META NAME="Author" CONTENT="Glenn Turner">
+  <META NAME="keywords" CONTENT="gyroscope, gyroscopes , gyro, gyros, gyroscopic propulsion">
+  <META NAME="Description" CONTENT="Gyroscopes have many uses, this site explains how a gyroscope works and what they can be used for. The site also looks at the possible uses of gyroscope based propulsion (gyroscopic propulsion). ">
+  <META NAME="Copyright" CONTENT="Copyright 2003 (All Web Pages) by Glenn Turner">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="expires" content="0">
+  <link rel="stylesheet" href="/iesite.css" type="text/css">
+</head>
+<body bgcolor="#000000">
+  <div style="  float: center; margin: 0; border: none; padding: 0; " align=center><center><img src="/header.jpg" alt="" hspace=0 vspace=0 wgith=700 height=111></center></div>
+  <center>
+  <span class="menutitle">
+    <a href="/index.asp"><font color="#DDDDDD">Home</font></a> :
+    <a href="/gallery.asp"><font color="#DDDDDD">Gallery</font></a> :
+    <a href="/history.asp"><font color="#DDDDDD">History</font></a> :
+    <a href="/uses.asp"><font color="#DDDDDD">Uses</font></a> :
+    <a href="/behaviour.asp"><font color="#DDDDDD">Behaviour</font></a> :
+    <a href="/math.asp"><font color="#DDDDDD">Maths</font></a> :
+    <a href="/forum/forums.asp"><font color="#DDDDDD">Forum</font></a> :
+    <a href="/propulsion.asp"><font color="#DDDDDD">Propulsion</font></a> :
+    <a href="/links.asp"><font color="#DDDDDD">Links</font></a> :
+    <a href="/glossary.asp"><font color="#DDDDDD">Glossary</font></a>
+    <br>
+  </span>
+
+  <table border=0 cellpadding=0 cellspacing=0 width="0" height="11">
+  <tr>
+    <td></td>
+  </tr>
+  </table>
+
+
+
+
+
+  <table border=0 cellpadding=8 cellspacing=0 width="700" height="260" bgcolor="#FFFFFF" ID="Table1">
+  <tr>
+    <td valign="top" class="main">
+<table align="center" width="100%" border="0">
+  <tr>
+    <td align="left" width="20%" valign="top">
+      <a href="forums.asp">Main Forum Page</a>
+    </td>
+    <td align="center" valign="middle">
+      
+      <h2 border="0">       
+      The Gyroscope Forum</h2></td>
+    <td align="right" width="20%" valign="top">
+      23 May 2012 09:50
+    </td>
+  </tr>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <p align=left>Welcome to the gyroscope forum. If you have a question about gyroscopes in general,
+      want to know how they work, or what they can be used for then you can leave your question here for others to answer.
+         You may also be able to help others by answering some of the questions on the site.
+      </p>
+      
+      <table width="100%">
+      <tr><td>
+        <form action="qa.asp" method="get">
+        <b>Search the forum: </b><input type="text" value="" name="forumsearch" size=30>&nbsp;<input type="submit" value="Search" name="forumsearchsubmit">
+          <input type=hidden name="forum" value="">
+        </form>
+      </td><td>
+        
+        <form action="askquestion.asp" method="post">
+        <input type="submit" value="Ask a new Question" name="forumsearchsubmit">
+        </form>
+        
+      </td></tr>
+      </table>
+      <hr width=100%>
+    </td>
+  </tr>
+</table>
+
+<table align="center" border="0" width="95%">
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><h3>Question</h3></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Asked by:</b></td>
+    <td align="left" colspan="2" valign="top">Ian Rumsey</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Subject:</b></td>
+    <td align="left" colspan="2" valign="top">bees and gyroscopes</td>
+  </tr>
+  <tr>
+    <td align=right class=medium valign="top" nowrap><b>Question:</b></td>
+    <td align=left class=medium valign="top" width="400" colspan="2">I have found that feral colonies of bees build natural comb to align due east - west.<br>
+Magnetic fields and gravity variation does not appear to influence the direction.<br>
+Rotating mass seems to be a possible answer.<br>
+Any help please?<br>
+<br>
+Ian</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Date:</b></td>
+    <td align="left" colspan="2" valign="top">6 July 2004
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2><hr width=100%></td>
+  </tr>
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><br><h3>Answers (Ordered by Date)</h3><br></td>
+  </tr>
+  <tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>webmaster@gyroscopes.org</b> - 06/07/2004 16:42:06
+</td></tr><tr><td>&nbsp;</td><td>I would suggest a link with gyroscopes is one of the least likely answers. I know nothing about bees but have you considered the sun? That often crops up in nature. It maybe the bees need to warm up before being fully active. Hence a east - west alignment.<br>
+<br>
+If you have already ruled it out get back to me.<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Alexander J. Powell</b> - 09/07/2004 06:49:46
+</td></tr><tr><td>&nbsp;</td><td>I don't know much about this, but after reading the question I'm reminded of pigeons and their ability to find home from wherever they are released.<br>
+ Bees though have that amazing communicative dance in which they explain to other bees where nectar is to be found- they have to have some kind of internal reference  to be able to communicate precise locations of flowers to others- the dance has nothing to do with bee pheromones- Its a real explanation of location based on a mathematic language... It stands to reason that the way to test where this referencing in bees comes from is to create an artificial sunfree environment... my bet is that they'd still be able to navigate without the sun, based on some innate sense linked to magnetic fields.<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>betsi mckay</b> - 09/07/2004 17:13:46
+</td></tr><tr><td>&nbsp;</td><td>I'm interested to know why you, Ian Rumsey, discounted magnetic fields. Since our whole solar system is moving north and since  our whole planet stays focused on Polaris through all our wobbles,rotations, and cycles, it seems possible that north could be affecting small life forns also.<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Kirk McLoren</b> - 16/07/2004 23:49:48
+</td></tr><tr><td>&nbsp;</td><td>Bees navigate via polarized light. Saw it on the Nature channel.<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Ian Rumsey</b> - 20/07/2004 14:36:48
+</td></tr><tr><td>&nbsp;</td><td>Yes,- upon reflection, my original question may have been more clearly stated.<br>
+Natural comb produced by bees aligns itself East - West.<br>
+Thinking this to be a magnetic alignment I experimented with the application of a permanent magnet to change the horizontal direction of the Earth's magnetic field.<br>
+This had no effect.<br>
+The force of gravity was then considered and this was manipulated by rocking the hive, back and forth, through 1 point 2 degrees every 3 hours.<br>
+This caused no change either.<br>
+Reading about gravity and mass, rotating mass and gyroscopes seemed a natural progression, hence the original question.<br>
+The side view of the comb is not symmetrical in shape and looks like a fin aerodynamically formed to pass through some medium, which is neither air or water, in a streamlined fashion.<br>
+This medium or force I named 'Gravitational Wind' and it blows from East to West.<br>
+A photo of this comb appears at http://www.bee-l.com/biobeefiles/ian/hp.htm<br>
+With the spinning of a gyroscope into an oncoming gravitational wind one might well be forgiven for imagining reasons for precession and quadrantal error.<br>
+I believe that if you have a steady magnetic field North - South and a conductor is placed in this field East - West, movement of this conductor will not induce a voltage when moved in a North - South or East - West direction, however when moved vertically at right angles to the North - South field an induced voltage will occur.<br>
+This third dimensional movement produces an electric response in the conductor in only this one direction.<br>
+The gravitational wind remains unaffected by horizontal North - South magnetic fields whether presented in the North - South or East - West direction.<br>
+Nevertheless it would now appear that a vertical North - South magnetic field, the third dimension, may affect the gravitational wind.<br>
+It is possible therefore that this may be another case where there is only one dimension, of the three dimensional movements available, where one medium will work upon another.<br>
+This provokes the question whether subjecting a spinning gyroscope, with its axle pointing North - South, to a vertical magnetic field, it would change its alignment.<br>
+Obviously this experiment has been tried many times before and I wondered if anybody could say whether the application of a vertical magnetic field would cause the axle of the gyroscope to point say East - West?<br>
+<br><br></td></tr>
+<tr>
+<td align="center" colspan="2"><a href="answerquestion.asp?id=188">Add an Answer &#062;&#062;</a></td></tr>
+</table>
+    </td>
+  </tr>
+  </table>
+  
+  <font class="copyright">
+  Website. Copyright &copy; 2012 Glenn Turner. All rights reserved. <a href="/site.asp">site info</a><br>
+     Do not copy without prior permission. Click here for <a target="gyroscopeproducts" href="http://www.gyroscope.com/" alt="Gyroscope products">gyroscope products</a> 
+   
+  </font>
+</center>
+
+</body>
+</html>

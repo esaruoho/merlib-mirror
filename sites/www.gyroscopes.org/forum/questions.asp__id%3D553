@@ -1,0 +1,602 @@
+
+<html>
+<head>
+  <title>Gyroscopes - Everything you needed to know</title>
+  <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+  <meta http-equiv="pics-label" content='(pics-1.1 "http://www.icra.org/ratingsv02.html" comment "ICRAonline EN v2.0" l gen true for "no gen term" r (nz 0 vz 0 lz 0 oz 0 cz 0) "http://www.rsac.org/ratingsv01.html" l gen true for "no gen term" r (n 0 s 0 v 0 l 0))'>
+  <META NAME="Author" CONTENT="Glenn Turner">
+  <META NAME="keywords" CONTENT="gyroscope, gyroscopes , gyro, gyros, gyroscopic propulsion">
+  <META NAME="Description" CONTENT="Gyroscopes have many uses, this site explains how a gyroscope works and what they can be used for. The site also looks at the possible uses of gyroscope based propulsion (gyroscopic propulsion). ">
+  <META NAME="Copyright" CONTENT="Copyright 2003 (All Web Pages) by Glenn Turner">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="expires" content="0">
+  <link rel="stylesheet" href="/iesite.css" type="text/css">
+</head>
+<body bgcolor="#000000">
+  <div style="  float: center; margin: 0; border: none; padding: 0; " align=center><center><img src="/header.jpg" alt="" hspace=0 vspace=0 wgith=700 height=111></center></div>
+  <center>
+  <span class="menutitle">
+    <a href="/index.asp"><font color="#DDDDDD">Home</font></a> :
+    <a href="/gallery.asp"><font color="#DDDDDD">Gallery</font></a> :
+    <a href="/history.asp"><font color="#DDDDDD">History</font></a> :
+    <a href="/uses.asp"><font color="#DDDDDD">Uses</font></a> :
+    <a href="/behaviour.asp"><font color="#DDDDDD">Behaviour</font></a> :
+    <a href="/math.asp"><font color="#DDDDDD">Maths</font></a> :
+    <a href="/forum/qa.asp"><font color="#DDDDDD">Forum</font></a> :
+    <a href="/propulsion.asp"><font color="#DDDDDD">Propulsion</font></a> :
+    <a href="/links.asp"><font color="#DDDDDD">Links</font></a> :
+    <a href="/glossary.asp"><font color="#DDDDDD">Glossary</font></a>
+    <br>
+  </span>
+
+  <table border=0 cellpadding=0 cellspacing=0 width="0" height="11">
+  <tr>
+    <td></td>
+  </tr>
+  </table>
+
+
+
+
+
+  <table border=0 cellpadding=8 cellspacing=0 width="700" height="260" bgcolor="#FFFFFF" ID="Table1">
+  <tr>
+    <td valign="top" class="main">
+<table align="center" width="100%" border="0">
+  <tr>
+    <td align="left" width="20%" valign="top">
+      <a href="qa.asp">Main Forum Page</a>
+    </td>
+    <td align="center" valign="middle">
+      
+      <h2 border="0">       
+      The Gyroscope Forum</h2></td>
+    <td align="right" width="20%" valign="top">
+      3 May 2006 11:50
+    </td>
+  </tr>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <p align=left>Welcome to the gyroscope forum. If you have a question about gyroscopes in general,
+      want to know how they work, or what they can be used for then you can leave your question here for others to answer.
+         You may also be able to help others by answering some of the questions on the site.
+      </p>
+      
+      <table width="100%">
+      <tr><td>
+        <form action="qa.asp" method="get">
+        <b>Search the forum: </b><input type="text" value="" name="forumsearch" size=30>&nbsp;<input type="submit" value="Search" name="forumsearchsubmit">
+          <input type=hidden name="forum" value="">
+        </form>
+      </td><td>
+        
+        <form action="askquestion.asp" method="post">
+        <input type="submit" value="Ask a new Question" name="forumsearchsubmit">
+        </form>
+        
+      </td></tr>
+      </table>
+      <hr width=100%>
+    </td>
+  </tr>
+</table>
+
+<table align="center" border="0" width="95%">
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><h3>Question</h3></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Asked by:</b></td>
+    <td align="left" colspan="2" valign="top">Luis Gonzalez</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Subject:</b></td>
+    <td align="left" colspan="2" valign="top">Lets stick to one subject at a time until we get it sorted out</td>
+  </tr>
+  <tr>
+    <td align=right class=medium valign="top" nowrap><b>Question:</b></td>
+    <td align=left class=medium valign="top" width="400" colspan="2">Sandy,<br>
+It is nave to expect upward thrust to result from any angle of inclination caused by precession (as a result of a radial torque)! <br>
+(We would not expect a non spinning weight mounted at 45 degrees to create lift when rotated in a similar system, either).<br>
+I am glad that occurred 24 years ago and you now fully understand why the results were as they occurred. <br>
+I am however perplexed why you continue to use the 2 words Momentum and Force together, and only separated by a slash (/) or by the words and & or as if they were synonymous?   <br>
+I am sure you know that these 2 concepts have different meanings, so its just a little trick to catch us off guard (Im sure)  <br>
+Whether or not you know the answer, you have failed to communicate your explanation, while I am about to reiterate mine.  <br>
+Its clear to anyone, who has a physics book, that Momentum MV and Force MA are not the same (no matter how much their book cost). <br>
+Its also clear that Momentum MV can exist without need to coexist with Force MA (during prolonged spans of time).<br>
+<br>
+For above average individuals, these facts should be sufficient to deduce the answer to your first question (with some amount of mental effort).  For the rest of us (average folks), here is a clarification (the same one from a previous thread).  <br>
+<br>
+Assuming that we agree on the following:<br>
+1) MV is not equal to MA, and<br>
+2) MV can exist without a continuous need for MA<br>
+Any one disagrees?  If not, lets move forward:  <br>
+3) Force produces an equal and opposite reaction, but momentum does NOT produce any such, that is unless Momentum encounters another object, at which time (of collision) MV converts into a force with a magnitude derived through the equation for kinetic energy [(V^2)/2]. <br>
+The encounter lasts for a short period and the force completes its transaction leaving modified momentums MVs on both objects.<br>
+The temporary Force causes Object1 to push into Object2 with a Force(X), and Object2 pushes back with a REACTION upon Object1, with the same Force(X).  <br>
+<br>
+Here is the part thats easy to miss: <br>
+Precession fails to cause a wobble (imbalance) because NO Force exists in precession and therefore NO REACTION is created by PRECESSION!  This does NOT mean that there is no momentum in precession (remember MV does not have REACTION).<br>
+<br>
+It seems unnecessary to hold anyones hand beyond this point.  Can you see why the facts I have stated explain the question you asked in Example1?  Are you ready to let common sense prevail?  <br>
+<br>
+Sandy, please excuse me for saying so but your Example2 again rests entirely on your basic assumption that BOTH Momentum / Force must exist together in precession.  (Should I repeat that Momentum does exist but Force does NOT exist in precession?)<br>
+Without force the nave expectation of upward thrust (because of any angle) is unveiled for what it is, a misinterpretation of what the laws of motion are supposed to do! <br>
+<br>
+Regarding Example3, adding more MOMENTUM (MV) will not work differently; you need to add the right amount of FORCE (MA), and remember precession does not have MA!  Get it?  If you make this little correction many of your mysteries will simply fade away. <br>
+I will pretend that you did not say that the change in speed from 250 rpm to 500 rpm occurred instantaneously (nothing happens instantaneously even if it looks that way due to the limits of our senses).  <br>
+<br>
+However, your Example3 is really begging for yet another answer, one that you think no one knows the answer to (maybe you still dont know the answer yourself).   The burning question is why does the gyro keep going inwards and up, instead of responding as a lump of deadweight would and succumbing to the results of momentum and Centripetal Force (Centrifugal to you)? <br>
+I will start my response with a couple of rhetorical questions:  What happens when you apply a force (torque) to the axis of a gyro?  <br>
+Easy!  It responds at 90 degrees       <br>
+What does the Centripetal Force (Centrifugal to you) do to the gyro as it stars rising above horizontal?   <br>
+The centripetal Force attempts to modify the axis of the gyro more and more as the gyro rises!!!  Right!?  <br>
+Remember, its going to respond at 90 degrees.  In which direction will this 90-degree (response to centripetal force) move the gyro, boys and girls? <br>
+You can work it out your selves, but I will tell you that the direction is congruent with the inward and upward motion that actually takes place and Sandy has observed.  (Hint - you will have to take into account Nitros law.)<br>
+<br>
+Please understand that I dont enjoy being cruel.  You and I understand the frustration of trying to convey the concepts that we know are clear and correct but that no one else seems to understand.  Maybe because no one really reads our stuff or they are too stubborn or just too far gone.  I suspect that everyone with some level of physics understanding will eventually come round to understanding this minor explanation to a small factor, but what a factor.  With more of this type of knowledge inventors should become able to develop propulsion mechanisms by design and on purpose, and not just by accident.  (A flawed understanding of rules will cause erroneous explanations of the events that result when those rules are applied.)          <br>
+<br>
+You have said that propulsion requires interaction with something external to the gyro.  Whether you know why or not, I can give you the reason and here it is:<br>
+1) Precession does not have a Force.<br>
+2) Precession has momentum which yields kinetic energy when it encounters (collides with) another object. <br>
+3) Once a force is created, propulsion can occur. <br>
+These three items together, used with the right configuration and design can produce propulsion.  <br>
+<br>
+Sandy, you are aware of the facts I have just explained (from a different perspective) but you are still unable to harness propulsion of sufficient magnitude (though you know there is plenty of propulsion to be had).   I also know the reason for that shortcoming.   In fact I presented an equation that represents my solution to that problem in a couple of previous threads.  These threads have been overrun by tangential chatter that makes the thread lengthy to read and confusing. <br>
+If you cut and paste what I have written (without the confusing chatter) you may see strong hints to my solution as it evolved.  <br>
+When you sort all this out you may decide to add these concepts to your book.  Please let me know if you decide to do that.    <br>
+<br>
+Thank you, Luis</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Date:</b></td>
+    <td align="left" colspan="2" valign="top">15 April 2006
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2><hr width=100%></td>
+  </tr>
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><br><h3>Answers (Ordered by Date)</h3><br></td>
+  </tr>
+  <tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Luis Gonzalez</b> - 15/04/2006 04:45:46
+</td></tr><tr><td>&nbsp;</td><td>P.S.<br>
+My posted answers are in response to the following questions from Sandy:<br>
+Example 1<br>
+Irrespective of whatever anyone thinks, or whatever mathematics tells you about gyroscopic systems, how the hell can a gyroscope in precession (a la Laithwaite) possibly continuously rotate around a fixed point on a ceramic tile without increasing its radius of rotation, if there was any angular momentum and or centrifugal force present.<br>
+Gentlemen, do we really have to plumb these depths again?<br>
+For goodness sake let common sense prevail.<br>
+<br>
+Example 2<br>
+Or if we have an accelerated system which is able to raise its gyros above the horizontal (and that is in any accelerated system) due to the fact we are accelerating mass above the horizontal means we would be generating vertical lift, the higher the angle above the horizontal the greater the lift. <br>
+At 45 degrees, vertical lift would be equal to centrifugal force.<br>
+Thats how easy it is to build a 3 or 4G, vertically accelerating inertial drive machine.<br>
+Simple mechanics and not advanced dynamics. <br>
+Or so it would seem.<br>
+However, when we try to do this with an accelerated system, we will discover that there is no vertical lift. Theres about 65 lbs of vertical thrust missing.<br>
+Why?<br>
+Because there is no angular momentum / centrifugal force left to create it.<br>
+THIS IS WHERE I CAME IN, AND THAT WAS 24 YEARS AGO.<br>
+Look at the shape of my machine. What does it tell you?<br>
+FYI the angle is 51 degrees and a bit, or the tan of 1.25<br>
+That machine had the ability to put its gyros in what you would call precession (I would call saturation)<br>
+Not 1 milligram of thrust. Nothing<br>
+Im inviting Luis to explain this one away.<br>
+<br>
+Example 3<br>
+We have an accelerated system rotating at 250 rpm and just going into (precession some would call it) saturation.<br>
+We instantaneously increase the rotation speed to 500 rpm.<br>
+Does the gyroscope move outwards due to an increase in angular momentum / centrifugal force?<br>
+No it accelerates inwards even faster.<br>
+Why is this Luis?<br>
+Id be obliged if you would also explain this one away.<br>
+If you can answer any one of them satisfactorily I will settle for that.<br>
+By the way I can keep going on like this all day, with questions you will find almost impossible to answer.<br>
+<br>
+My very first posting to this forum, a long time ago now, was to inform everyone of this loss of momentum / centrifugal force phenomenon, because I thought it was important enough to report. <br>
+It seems to me, that nobody else is prepared to venture down this path, and would rather base their calculations on erroneous assumptions.<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Sandy Kidd</b> - 15/04/2006 23:16:40
+</td></tr><tr><td>&nbsp;</td><td>Luis,<br>
+I honestly thought you would quit while you were behind.<br>
+<br>
+You have failed to answer any of the points I put to you. Good old assumption got dragged into the first one.<br>
+Firstly if the non spinning weight was hinged at its centre of rotation as I described and could (somehow) support itself at that angle, massive amounts of lift could be generated.<br>
+Under normal circumstances and at any rotation speed the weight would not reach the horizontal. Is this not significant?<br>
+This time answer the question.<br>
+ <br>
+This is similar to your comment relating to beating yourself up with a gyroscope in precession. <br>
+Luis please stop trying to be smart and stop being silly.<br>
+<br>
+I would be very much obliged if you could give me an example where angular momentum can be produced without the generation of centrifugal force?<br>
+Elimination of one means elimination of the other, or is this a new concept?<br>
+Hence the /, besides many people are happier with the concept of centrifugal force, rather than that of angular momentum.<br>
+<br>
+The rest of what you posted does not mean much to me I am afraid.<br>
+You have probably guessed by now that mathematical clap trap cuts no ice with me.<br>
+You are just the last one in a very long line of mathematically orientated people I have had to deal with, and most probably like all the others, is going to get nowhere. <br>
+In fairness most mathematicians know Newton cannot be breached by any manipulation of existing formulae.<br>
+Do you honestly think that you are the first person who has tried to solve the puzzle using accepted mathematics and physics?<br>
+I dont think so.<br>
+Besides the answers are not contained within the mathematics you use.<br>
+Surely you would not expect them to be?<br>
+You have the unfortunate fault Luis, and that is that you appear to be prone to assumption and wishful thinking.<br>
+For instance lets turn one of your statements around a bit.<br>
+If you thought that you had the answers you repeatedly propose you do, you would not be continuing to post to this forum, and as I have stated on many occasions Luis I can back up any claims I have made, which unfortunately means that you cant.<br>
+Words are cheap, and they dont mean too much. How serious are you?<br>
+I am challenging you to build the experiment and prove me wrong.<br>
+Have you ever built a machine Luis?<br>
+Otherwise, there is absolutely nothing to gain by continuing with any of this, until you have.<br>
+Somehow, I do not think you will ever have much to contribute to my book.<br>
+Sandy <br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Jerry Volland</b> - 16/04/2006 06:24:15
+</td></tr><tr><td>&nbsp;</td><td>Sandy,<br>
+<br>
+You said:<br>
+>Example 3<br>
+We have an accelerated system rotating at 250 rpm and just going into (precession some would call it) saturation.<br>
+We instantaneously increase the rotation speed to 500 rpm.<br>
+Does the gyroscope move outwards due to an increase in angular momentum / centrifugal force?<br>
+No it accelerates inwards even faster.<br>
+<br>
+This seems easy enough to explain.  The tilt of a gyro's axis is related to its speed.  As the gyro's spin rate decreases, the tilt becomes more pronounced.  It would be logical that if the spin rate were increased, the tilt angle would become more vertical.<br>
+Jerry<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Jerry Volland</b> - 16/04/2006 06:49:16
+</td></tr><tr><td>&nbsp;</td><td>Sandy,<br>
+<br>
+You said to Luis:<br>
+>If you thought that you had the answers you repeatedly propose you do, you would not be continuing to post to this forum<br>
+<br>
+This is something I'm going to think about.<br>
+<br>
+I've finally developed an accurate understanding of what causes precession.  And I've also developed quite a bit of Skill in the Art through the years, as I've tested and tested, trying to find the *best* mechanical thruster.  My feeling had been that it can't hurt to help the competition, as long as I have something better.  It might even help me if someone else comes up with something workable, since that would focus Investor interest.<br>
+<br>
+However, now that I have almost all of the answears, I'm going to rethink my position.  If I post here, I'd probably get arguments anyway, rather than a "thank you".<br>
+Jerry<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Jerry Volland</b> - 17/04/2006 12:20:16
+</td></tr><tr><td>&nbsp;</td><td>Here's a great new motor for Inertial Propulsion:<br>
+http://www.angellabsllc.com<br>
+<br>
+The inventor, Raphiel Morgado, has over 100 inventions.  From the look of his intermittently moving cranks, he may also have some kind of Inertial Propulsion.  (He does say his motor will power the next Industrial Revolution, and I've hear that the Third Industrial Revolution will be Space Industry.)  On the other hand, if he tried and failed, should I post information which will enable him to succeed?  He'd leave the rest of us in his dust.<br>
+<br>
+That's all for now.<br>
+Jerry<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Luis Gonzalez</b> - 21/04/2006 02:39:44
+</td></tr><tr><td>&nbsp;</td><td>Good strong response Sandy,<br>
+ <br>
+I am relieved that you will not include any of my concepts in your book; it wouldnt look good for you after you have opposed them publicly.  I guess we have achieved a sort of agreement (not unlike other agreements that I have noticed). <br>
+<br>
+To be fair to Sandy the issue we have regarding momentum is that we are talking about 2 similar but different things.   <br>
+In my previous thread I brought attention to the fact that precession does have MOMENTUM, that is Mass times Velocity (MV).  Sandy responded, basically saying that precession does NOT have ANGULAR MOMENTUM, (MVR) which is NOT THE SAME AS MV.  Momentum and angular momentum are slightly different concepts.  <br>
+Momentum is velocity multiplied by mass that exists without the influence of any acceleration.   <br>
+Angular momentum is Velocity X Mass X Radius, under the continuous influence of centripetal Force, which modifies the direction of the velocity into the arc of a circle.   <br>
+Precession does not have the centripetal Force that influences angular momentum (MVR) but it does have Momentum (MV) which is the result of velocity times mass (and can smack you if you get in its way).  <br>
+The Momentum (MV) in precession carries kinetic energy that is convertible into force (if you know how) and thats what this is all about.  <br>
+I hope to bring a little more clarity to this subject in the dialog and explanations that follow.<br>
+<br>
+SANDY SAID  <br>
+<Firstly if the non spinning weight was hinged at its centre of rotation as I described and could (somehow) support itself at that angle, massive amounts of lift could be generated.><br>
+<br>
+LUIS RESPONSE  <br>
+The key to the faulty thinking in this statement is hidden in Sandys (somehow) clause because it fails to define the device fully. <br>
+Any statement made about, how an undefined mechanism will respond to an action, is nonsense because we dont know how the undefined portion will behave!  <br>
+This statement is the result of sloppy thinking and reflects badly on the person making it.  <br>
+Talk about wishful thinking and incomplete analysis; without understanding we can only rely on luck and wishful thinking. <br>
+To be fair, I will expand my explanation regarding your Example2 in which you stated.<br>
+<br>
+SANDY SAID -<br>
+< Example 2<br>
+Or if we have an accelerated system which is able to raise its gyros above the horizontal (and that is in any accelerated system) due to the fact we are accelerating mass above the horizontal means we would be generating vertical lift, the higher the angle above the horizontal the greater the lift. <br>
+At 45 degrees, vertical lift would be equal to centrifugal force.  Thats how easy it is to build a 3 or 4G, vertically accelerating inertial drive machine.  Simple mechanics and not advanced dynamics.  Or so it would seem.<br>
+However, when we try to do this with an accelerated system, we will discover that there is no vertical lift. Theres about 65 lbs of vertical thrust missing.  Why?<br>
+Because there is no angular momentum / centrifugal force left to create it etc. etc.<br>
+Im inviting Luis to explain this one away.><br>
+ <br>
+LUIS RESPONSE  <br>
+To obtain vertical lift we need a Force AM (Acceleration X Mass).  We both agree that precession does not have Force or Acceleration, so precession by itself cant possibly provide lift to a device (lift requires Force).  Yet you state that the gyros are <above the horizontal due to the fact that we are accelerating the mass above the horizontal>  That statement creates a premise that is OUTSIDE what we both know to be true and agree upon (that precession does not have acceleration, nothing more and nothing less).  What does that wrong premise say about the rest of the argument?  <br>
+And you want me to explain that away???  <br>
+You also say that At 45 degrees, vertical lift would be equal to centrifugal force.  Wrong again; that is an assumption pregnant with wishful thinking.  Again you would need precession to exert a force and we both agree it does not. <br>
+The answer is so simple that it makes me wonder why you keep pressing it.  Is your insistent question because I say precession has Momentum MV?  (Not MVR.)  MV can only turn its kinetic energy into force when it collides with another object.  Get it?  <br>
+Or are you thinking; why doesnt centripetal force make the gyros extend back to the horizontal?  <br>
+I answer this a bit below but I will start you on it here.  <br>
+A) The centripetal force creates a new direction of precession because centripetal force acts from the perimeter toward the center of rotating system, so this resulting precession is moving in which direction (remember 90 degrees)?  You figure that one out; is not that hard.  (Note - from a centrifugal point of view the results look backward.) <br>
+B) The centripetal force occurs at 90 degrees (again) to the initial force of the systems torque.  I will let you figure out why the two resulting precessions are congruent and explain the rising of the gyro above the horizontal (without a force in that direction).  <br>
+C)  Increasing the rate of rotation of the system will increase the strength of the centripetal force which in turn increases the rate of Centripetal-Motivated-Precession.  You can then apply A and B above to explain why increasing the centripetal force only makes the gyros continue to go up/inward (this should also answer your Example3, all within Newtonian logic).   <br>
+<br>
+Experiments alone do not reveal all the facts; it requires the correct perspective and some amount of good quality thinking that does not wash things away by invoking mysterious forces.   <br>
+<br>
+SANDY SAID  <br>
+<Under normal circumstances and at any rotation speed the weight would not reach the horizontal. Is this not significant?  This time answer the question.><br>
+<br>
+LUIS RESPONSE  <br>
+A silly question based on a fantasy does not have a response except to wonder why an intelligent man would ask it.  <br>
+ <br>
+SANDY SAID  <br>
+<I would be very much obliged if you could give me an example where angular momentum can be produced without the generation of centrifugal force?><br>
+<br>
+LUIS RESPONSE  <br>
+Momentum MV (Mass X Velocity) exists without an accompanying force and there is no rule stating that these two concepts must always exist simultaneously.  The fact that they occur together in a SIMPLE rotating object does not mean that they are joined at the hip (in the way that action and reaction are).      <br>
+Precession itself is the one example that we know of, where Momentum MV (not sure about MVR) can be produced without generating centripetal force.<br>
+Precession occurs in complex system that have multiple rotations and forces (not in simple rotating objects).  A complex system capable of causing precession still requires that all the forces and motions remain accounted for and in balance.<br>
+NOTE - IMPORTANT - The missing actions and reactions that do not exist in precession (due to its lack of centripetal force) is balanced by the existence of actions and reactions that occur in the gyro-flywheel itself.  Note that the gyro-flywheel itself has a centripetal force that is constantly changing (being modified) at 90 degrees to the applied force of the torque (can you visualize it?).  It is within the gyro-flywheel that the missing (centripetal) force of the systems precession exists when the complexity of precession is introduced. (Visualizing this may require re-reading and some pictorial thinking.  Please let me know if someone needs an expanded explanation.)  <br>
+Centripetal Force can NOT exist in both the gyro-flywheel and on the precession of the system because that would leave us with an additional (mysterious) force that people would find a need to explain outside the realm of known physics and mathematics.   <br>
+<br>
+SANDY SAID  <br>
+<Elimination of one means elimination of the other, or is this a new concept?><br>
+<br>
+LUIS RESPONSE  <br>
+This question hangs on ambiguous misunderstanding of the concepts.  The centripetal force is caused by the cohesiveness of the material that makes up the gyro-flywheel, keeping it attached to the rotation-axle at the center.  To eliminate the centripetal acceleration we would dissolve the glue (cohesiveness) that holds the gyro-wheel together, allowing the pieces to fly outward in a straight line, still with plenty of MOMENTUM (though from that point on, without Acceleration)!  I have removed the centripetal force and the momentum (MV) continues to exist!   <br>
+In a SIMPLE rotating object, force and momentum occur together because of the mix of configuration and dynamics. <br>
+You assume that centripetal force is caused by applying momentum but ignore the fact that the momentum would not cause rotation if the material were not cohesive and rigid.  Which one is the cause and which the effect?  The wheel will not continue turning if the centripetal force does not exist.  At best, momentum and centripetal force have a mutual cause and effect relationship because of the constraints of the configuration.  It is similar to how electric and magnetic forces leapfrog each other at 90 degrees to maintain the motion of light.  The momentum and centripetal acceleration coexist to yield rotation.  The momentum maintains a linear motion, and the cohesiveness provides the centripetal force that maintains the curvature of the motion.   <br>
+On the other hand, the configuration of precession is completely different.  The persistence of precessions velocity/momentum (MV) is not dependent on its own centripetal force (which does not exist), but is dependent on the interactions of the centripetal force within the gyro-flywheel with the applied torque.  <br>
+Take Note that the MAGNITUDE of momentum in the gyro-flywheel IS NOT modified in precession; but the DIRECTION of the centripetal force of the gyro-flywheel IS modified (more on this in subsequent papers).   <br>
+By applying the facts known to science we know that spinning objects can create results at 90 degrees when the complexity of precession is involved.  The results are at 90 degrees but may appear to occur backwards if we do not take all the forces, and motions into careful account.<br>
+<br>
+Its OK with me if you dont understand or if you have no use for what I have explained here or previously.  The important thing is that it is intelligible and some will understand it (though it may require some effort).  Those who understand it have a chance of obtaining results by design rather than by accident or luck. <br>
+<br>
+SANDY SAID  <br>
+<You have probably guessed by now that mathematical clap trap cuts no ice with me.<br>
+You are just the last one in a very long line of mathematically orientated people I have had to deal with, and most probably like all the others, is going to get nowhere. <br>
+In fairness most mathematicians know Newton cannot be breached by any manipulation of existing formulae.<br>
+Do you honestly think that you are the first person who has tried to solve the puzzle using accepted mathematics and physics?<br>
+I dont think so.<br>
+Besides the answers are not contained within the mathematics you use.<br>
+Surely you would not expect them to be?><br>
+<br>
+LUIS RESPONSE  <br>
+Would you trust a bridge or airplane built by engineers that places no value on mathematics or physics? <br>
+If you take the time to study my answers you will see that I have answered your proposed mysteries.  I dont really expect you to understand them.  What we write here is not for you or for me, (we would not be doing it in a public forum) it is for others who are interested in how to make this effort happen. <br>
+Also, Newton does not need to be breached!  That is just your assumption, and it is wrong.<br>
+The Mathematics I use take into account variables such as radii, cycles per time-unit, and mass; it applies the rates of change involved in the interactions of these variables.  What other variables or relationships do you suggest?  Are you inventing a new mathematics?      <br>
+<br>
+SANDY SAID  <br>
+<You have the unfortunate fault Luis, and that is that you appear to be prone to assumption and wishful thinking.> <br>
+<br>
+LUIS RESPONSE  <br>
+Appearances are opinions that are not based in facts but on perceptions.  Maybe you are the one who should reevaluate your perception.  <br>
+Though based on empirical observation, assumption are not based or supported by established facts.  Induction and deduction supported by and based on facts are called theories.   <br>
+On the other hand, if someone said that there is a mysterious force that can not be explained by current mathematic or physics, and that this force occurs when a gyro moves in precession, would that be a theory or a wishful assumption?  <br>
+<br>
+SANDY SAID  <br>
+<Words are cheap, and they dont mean too much. How serious are you?> <br>
+<br>
+LUIS RESPONSE  <br>
+Words can be cheap or can hold great value (to those who understand them).   <br>
+I find that our perception of the world is often a reflection of ourselves.   <br>
+Besides words and mathematics, what else dont you trust? <br>
+<br>
+SANDY SAID  <br>
+<I am challenging you to build the experiment and prove me wrong.><br>
+<br>
+LUIS RESPONSE  <br>
+Thank you for your challenge but I will complete my working model when I am good and ready; planned success is much more pleasant than rushed failure (almost doesnt count, except with horseshoes and grenades an American saying). <br>
+<br>
+SANDY SAID  <br>
+<Have you ever built a machine Luis?><br>
+<br>
+LUIS RESPONSE  <br>
+Gyro experiments are plentiful (I confess to a few myself). <br>
+All experimental results verify your results, but they DO NOT VERIFY YOUR INTERPRETATION of the results.<br>
+---------------------------------------------------------------------------------------------<br>
+  <br>
+Its clear to me that there is no Acceleration/Force in precession.   <br>
+Thats my interpretation of all the different experimental results (including mine and the ones you have shared).   <br>
+However, interpreting that there is no Momentum (MV) in precession is an error (your error, not mine). <br>
+<br>
+I will try to continue to hold a concise, intelligent discussion on the behavior of Momentum as gyros spin faster.<br>
+An object in motion has a tendency to exchange its Momentum with objects it encounters (collides with) in its path, via the kinetic energy equation (sorry but some math is needed).   <br>
+As the gyro-spin-velocity increases, Nitros second law becomes stronger; Momentum (MV) still exists but the tendency to respond at 90 degrees (when encountering other objects) becomes dominant over the tendency to exchange kinetic energy.  At low gyro-spin-velocity, the kinetic conversion is still dominant; the scales begin to turn as the gyro-spin-velocity increases, making Nitros second law dominant at some point.  (I will eventually develop an equation for this.)          <br>
+   <br>
+I agree that strong theory requires experimental proof to become accepted in scientific communities.  Mechanical propulsion will require a fully working model because all previously presented models have not delivered what was claimed and have discredited the concept. <br>
+<br>
+Still, sharing results from some of your experiments has brought great value to this forum, and I for one thank you for it.  Unfortunately your curt interpretation of the results is not well developed and is misguided.  <br>
+I must apologize for my poor response to your authoritative responses; the result is less than flattering (for both of us and others who have had a similar response). <br>
+It would be a disservice to this forum if subtle errors were allowed to misguide the effort of others.  There fore we must correct such errors when we find them in the analysis of experimental results (you would do the same for us).  <br>
+<br>
+<br>
+The information provided in this forum by all participants offers a choice to either jump on the first nave conclusion, or analyze the processes and find scientific explanations for the experimental results.      <br>
+  <br>
+I am pleased to find you are among those looking forward to the completion of my device.  It is within the realm of possibility that you may find out when it is completed. <br>
+<br>
+Thank you, Luis<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Luis Gonzalez</b> - 21/04/2006 02:47:08
+</td></tr><tr><td>&nbsp;</td><td>(Looks like I lost all the SANDY SAID material.  I will repeat it) <br>
+Good strong response Sandy,<br>
+ <br>
+I am relieved that you will not include any of my concepts in your book; it wouldnt look good for you after you have opposed them publicly.  I guess we have achieved a sort of agreement (not unlike other agreements that I have noticed). <br>
+<br>
+To be fair to Sandy the issue we have regarding momentum is that we are talking about 2 similar but different things.   <br>
+In my previous thread I brought attention to the fact that precession does have MOMENTUM, that is Mass times Velocity (MV).  Sandy responded, basically saying that precession does NOT have ANGULAR MOMENTUM, (MVR) which is NOT THE SAME AS MV.  Momentum and angular momentum are slightly different concepts.  <br>
+Momentum is velocity multiplied by mass that exists without the influence of any acceleration.   <br>
+Angular momentum is Velocity X Mass X Radius, under the continuous influence of centripetal Force, which modifies the direction of the velocity into the arc of a circle.   <br>
+Precession does not have the centripetal Force that influences angular momentum (MVR) but it does have Momentum (MV) which is the result of velocity times mass (and can smack you if you get in its way).  <br>
+The Momentum (MV) in precession carries kinetic energy that is convertible into force (if you know how) and thats what this is all about.  <br>
+I hope to bring a little more clarity to this subject in the dialog and explanations that follow.<br>
+<br>
+SANDY SAID  <br>
+Firstly if the non spinning weight was hinged at its centre of rotation as I described and could (somehow) support itself at that angle, massive amounts of lift could be generated.<br>
+<br>
+LUIS RESPONSE  <br>
+The key to the faulty thinking in this statement is hidden in Sandys (somehow) clause because it fails to define the device fully. <br>
+Any statement made about, how an undefined mechanism will respond to an action, is nonsense because we dont know how the undefined portion will behave!  <br>
+This statement is the result of sloppy thinking and reflects badly on the person making it.  <br>
+Talk about wishful thinking and incomplete analysis; without understanding we can only rely on luck and wishful thinking. <br>
+To be fair, I will expand my explanation regarding your Example2 in which you stated.<br>
+<br>
+SANDY SAID -<br>
+ Example 2<br>
+Or if we have an accelerated system which is able to raise its gyros above the horizontal (and that is in any accelerated system) due to the fact we are accelerating mass above the horizontal means we would be generating vertical lift, the higher the angle above the horizontal the greater the lift. <br>
+At 45 degrees, vertical lift would be equal to centrifugal force.  Thats how easy it is to build a 3 or 4G, vertically accelerating inertial drive machine.  Simple mechanics and not advanced dynamics.  Or so it would seem.<br>
+However, when we try to do this with an accelerated system, we will discover that there is no vertical lift. Theres about 65 lbs of vertical thrust missing.  Why?<br>
+Because there is no angular momentum / centrifugal force left to create it etc. etc.<br>
+Im inviting Luis to explain this one away.<br>
+ <br>
+LUIS RESPONSE  <br>
+To obtain vertical lift we need a Force AM (Acceleration X Mass).  We both agree that precession does not have Force or Acceleration, so precession by itself cant possibly provide lift to a device (lift requires Force).  Yet you state that the gyros are  above the horizontal due to the fact that we are accelerating the mass above the horizontal  That statement creates a premise that is OUTSIDE what we both know to be true and agree upon (that precession does not have acceleration, nothing more and nothing less).  What does that wrong premise say about the rest of the argument?  <br>
+And you want me to explain that away???  <br>
+You also say that At 45 degrees, vertical lift would be equal to centrifugal force.  Wrong again; that is an assumption pregnant with wishful thinking.  Again you would need precession to exert a force and we both agree it does not. <br>
+The answer is so simple that it makes me wonder why you keep pressing it.  Is your insistent question because I say precession has Momentum MV?  (Not MVR.)  MV can only turn its kinetic energy into force when it collides with another object.  Get it?  <br>
+Or are you thinking; why doesnt centripetal force make the gyros extend back to the horizontal?  <br>
+I answer this a bit below but I will start you on it here.  <br>
+A) The centripetal force creates a new direction of precession because centripetal force acts from the perimeter toward the center of rotating system, so this resulting precession is moving in which direction (remember 90 degrees)?  You figure that one out; is not that hard.  (Note - from a centrifugal point of view the results look backward.) <br>
+B) The centripetal force occurs at 90 degrees (again) to the initial force of the systems torque.  I will let you figure out why the two resulting precessions are congruent and explain the rising of the gyro above the horizontal (without a force in that direction).  <br>
+C)  Increasing the rate of rotation of the system will increase the strength of the centripetal force which in turn increases the rate of Centripetal-Motivated-Precession.  You can then apply A and B above to explain why increasing the centripetal force only makes the gyros continue to go up/inward (this should also answer your Example3, all within Newtonian logic).   <br>
+<br>
+Experiments alone do not reveal all the facts; it requires the correct perspective and some amount of good quality thinking that does not wash things away by invoking mysterious forces.   <br>
+<br>
+SANDY SAID  <br>
+Under normal circumstances and at any rotation speed the weight would not reach the horizontal. Is this not significant?  This time answer the question.<br>
+<br>
+LUIS RESPONSE  <br>
+A silly question based on a fantasy does not have a response except to wonder why an intelligent man would ask it.  <br>
+ <br>
+SANDY SAID  <br>
+I would be very much obliged if you could give me an example where angular momentum can be produced without the generation of centrifugal force?<br>
+<br>
+LUIS RESPONSE  <br>
+Momentum MV (Mass X Velocity) exists without an accompanying force and there is no rule stating that these two concepts must always exist simultaneously.  The fact that they occur together in a SIMPLE rotating object does not mean that they are joined at the hip (in the way that action and reaction are).      <br>
+Precession itself is the one example that we know of, where Momentum MV (not sure about MVR) can be produced without generating centripetal force.<br>
+Precession occurs in complex system that have multiple rotations and forces (not in simple rotating objects).  A complex system capable of causing precession still requires that all the forces and motions remain accounted for and in balance.<br>
+NOTE - IMPORTANT - The missing actions and reactions that do not exist in precession (due to its lack of centripetal force) is balanced by the existence of actions and reactions that occur in the gyro-flywheel itself.  Note that the gyro-flywheel itself has a centripetal force that is constantly changing (being modified) at 90 degrees to the applied force of the torque (can you visualize it?).  It is within the gyro-flywheel that the missing (centripetal) force of the systems precession exists when the complexity of precession is introduced. (Visualizing this may require re-reading and some pictorial thinking.  Please let me know if someone needs an expanded explanation.)  <br>
+Centripetal Force can NOT exist in both the gyro-flywheel and on the precession of the system because that would leave us with an additional (mysterious) force that people would find a need to explain outside the realm of known physics and mathematics.   <br>
+<br>
+SANDY SAID  <br>
+Elimination of one means elimination of the other, or is this a new concept?<br>
+<br>
+LUIS RESPONSE  <br>
+This question hangs on ambiguous misunderstanding of the concepts.  The centripetal force is caused by the cohesiveness of the material that makes up the gyro-flywheel, keeping it attached to the rotation-axle at the center.  To eliminate the centripetal acceleration we would dissolve the glue (cohesiveness) that holds the gyro-wheel together, allowing the pieces to fly outward in a straight line, still with plenty of MOMENTUM (though from that point on, without Acceleration)!  I have removed the centripetal force and the momentum (MV) continues to exist!   <br>
+In a SIMPLE rotating object, force and momentum occur together because of the mix of configuration and dynamics. <br>
+You assume that centripetal force is caused by applying momentum but ignore the fact that the momentum would not cause rotation if the material were not cohesive and rigid.  Which one is the cause and which the effect?  The wheel will not continue turning if the centripetal force does not exist.  At best, momentum and centripetal force have a mutual cause and effect relationship because of the constraints of the configuration.  It is similar to how electric and magnetic forces leapfrog each other at 90 degrees to maintain the motion of light.  The momentum and centripetal acceleration coexist to yield rotation.  The momentum maintains a linear motion, and the cohesiveness provides the centripetal force that maintains the curvature of the motion.   <br>
+On the other hand, the configuration of precession is completely different.  The persistence of precessions velocity/momentum (MV) is not dependent on its own centripetal force (which does not exist), but is dependent on the interactions of the centripetal force within the gyro-flywheel with the applied torque.  <br>
+Take Note that the MAGNITUDE of momentum in the gyro-flywheel IS NOT modified in precession; but the DIRECTION of the centripetal force of the gyro-flywheel IS modified (more on this in subsequent papers).   <br>
+By applying the facts known to science we know that spinning objects can create results at 90 degrees when the complexity of precession is involved.  The results are at 90 degrees but may appear to occur backwards if we do not take all the forces, and motions into careful account.<br>
+<br>
+Its OK with me if you dont understand or if you have no use for what I have explained here or previously.  The important thing is that it is intelligible and some will understand it (though it may require some effort).  Those who understand it have a chance of obtaining results by design rather than by accident or luck. <br>
+<br>
+SANDY SAID  <br>
+You have probably guessed by now that mathematical clap trap cuts no ice with me.<br>
+You are just the last one in a very long line of mathematically orientated people I have had to deal with, and most probably like all the others, is going to get nowhere. <br>
+In fairness most mathematicians know Newton cannot be breached by any manipulation of existing formulae.<br>
+Do you honestly think that you are the first person who has tried to solve the puzzle using accepted mathematics and physics?<br>
+I dont think so.<br>
+Besides the answers are not contained within the mathematics you use.<br>
+Surely you would not expect them to be?<br>
+<br>
+LUIS RESPONSE  <br>
+Would you trust a bridge or airplane built by engineers that places no value on mathematics or physics? <br>
+If you take the time to study my answers you will see that I have answered your proposed mysteries.  I dont really expect you to understand them.  What we write here is not for you or for me, (we would not be doing it in a public forum) it is for others who are interested in how to make this effort happen. <br>
+Also, Newton does not need to be breached!  That is just your assumption, and it is wrong.<br>
+The Mathematics I use take into account variables such as radii, cycles per time-unit, and mass; it applies the rates of change involved in the interactions of these variables.  What other variables or relationships do you suggest?  Are you inventing a new mathematics?      <br>
+<br>
+SANDY SAID  <br>
+You have the unfortunate fault Luis, and that is that you appear to be prone to assumption and wishful thinking. <br>
+<br>
+LUIS RESPONSE  <br>
+Appearances are opinions that are not based in facts but on perceptions.  Maybe you are the one who should reevaluate your perception.  <br>
+Though based on empirical observation, assumption are not based or supported by established facts.  Induction and deduction supported by and based on facts are called theories.   <br>
+On the other hand, if someone said that there is a mysterious force that can not be explained by current mathematic or physics, and that this force occurs when a gyro moves in precession, would that be a theory or a wishful assumption?  <br>
+<br>
+SANDY SAID  <br>
+Words are cheap, and they dont mean too much. How serious are you? <br>
+<br>
+LUIS RESPONSE  <br>
+Words can be cheap or can hold great value (to those who understand them).   <br>
+I find that our perception of the world is often a reflection of ourselves.   <br>
+Besides words and mathematics, what else dont you trust? <br>
+<br>
+SANDY SAID  <br>
+I am challenging you to build the experiment and prove me wrong.<br>
+<br>
+LUIS RESPONSE  <br>
+Thank you for your challenge but I will complete my working model when I am good and ready; planned success is much more pleasant than rushed failure (almost doesnt count, except with horseshoes and grenades an American saying). <br>
+<br>
+SANDY SAID  <br>
+Have you ever built a machine Luis?<br>
+<br>
+LUIS RESPONSE  <br>
+Gyro experiments are plentiful (I confess to a few myself). <br>
+All experimental results verify your results, but they DO NOT VERIFY YOUR INTERPRETATION of the results.<br>
+---------------------------------------------------------------------------------------------<br>
+  <br>
+Its clear to me that there is no Acceleration/Force in precession.   <br>
+Thats my interpretation of all the different experimental results (including mine and the ones you have shared).   <br>
+However, interpreting that there is no Momentum (MV) in precession is an error (your error, not mine). <br>
+<br>
+I will try to continue to hold a concise, intelligent discussion on the behavior of Momentum as gyros spin faster.<br>
+An object in motion has a tendency to exchange its Momentum with objects it encounters (collides with) in its path, via the kinetic energy equation (sorry but some math is needed).   <br>
+As the gyro-spin-velocity increases, Nitros second law becomes stronger; Momentum (MV) still exists but the tendency to respond at 90 degrees (when encountering other objects) becomes dominant over the tendency to exchange kinetic energy.  At low gyro-spin-velocity, the kinetic conversion is still dominant; the scales begin to turn as the gyro-spin-velocity increases, making Nitros second law dominant at some point.  (I will eventually develop an equation for this.)          <br>
+   <br>
+I agree that strong theory requires experimental proof to become accepted in scientific communities.  Mechanical propulsion will require a fully working model because all previously presented models have not delivered what was claimed and have discredited the concept. <br>
+<br>
+Still, sharing results from some of your experiments has brought great value to this forum, and I for one thank you for it.  Unfortunately your curt interpretation of the results is not well developed and is misguided.  <br>
+I must apologize for my poor response to your authoritative responses; the result is less than flattering (for both of us and others who have had a similar response). <br>
+It would be a disservice to this forum if subtle errors were allowed to misguide the effort of others.  There fore we must correct such errors when we find them in the analysis of experimental results (you would do the same for us).  <br>
+<br>
+<br>
+The information provided in this forum by all participants offers a choice to either jump on the first nave conclusion, or analyze the processes and find scientific explanations for the experimental results.      <br>
+  <br>
+I am pleased to find you are among those looking forward to the completion of my device.  It is within the realm of possibility that you may find out when it is completed.<br>
+<br>
+Thank you, Luis<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Sandy Kidd</b> - 21/04/2006 08:39:52
+</td></tr><tr><td>&nbsp;</td><td>Luis<br>
+I am dreadfully sorry but this has all become very tedious, very time consuming, and at best counter productive<br>
+Sandy <br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Jerry Volland</b> - 22/04/2006 14:01:01
+</td></tr><tr><td>&nbsp;</td><td>Sandy,<br>
+<br>
+I think I can explain the effects you obtained in Example 2.  As I understand your system from the picture in the Enquirer, you have a couple of gyros which are connected to a central shaft, with hinges at the bottom of the gyros.  You say that the central shaft is turned at 250 RPM and when the speed is suddenly increased to 500 RPM, the gyros quickly move to a more vertical angle, but no vertical thrust results.<br>
+<br>
+The rotation of the gyros around the central shaft applies a force which produces a different effect on the top rim of the gyro than on the bottom rim, since one rim is turning towards the direction of shaft rotation, while the other is turning away from the direction of rotation.  If the bottom rim is spinning towards the rotation (?), the added velocity of the rotation will increase the angular velocity of the mass on the gyro's bottom rim.  The Law of Conservation of Momentum holds that increasing this angular velocity will shorten the spin radius, so the bottom rim will move towards the center of rotation (up).  At the same time, if the top rim is spinning away from the central rotation (?), the added velocity of the rotation will decrease the angular velocity of the mass on the gyro's top rim.  Conservation of Momentum will then lengthen the spin radius and the top rim will move away from the center of rotation (up).<br>
+<br>
+Both of these reaction movements are up.  However, the bottoms of the gyros are hinged, so the effect which results will be torque.  The reason no lift is produced is related to the mechanics of the hinge, which constitutes a Moving Fulcrum Lever (the Fourth Basic Lever).  When the leaves of a vertical hinge are opened, the fulcrum is lifted.  Likewise, when the hinge is closed, the fulcrum moves downwards.  So any vertical thrust which is produced - through Conservation of Momentum - is exactly ballanced by the downwards thrust of the hinge fulcrum.  However, I've learned, experimentally, that when the downwards force is prevented from producing movement, the full amount of vertical thrust will appear the instant the hinge stops closing.  (With the hinge hitting a frame stop.)  So the vertical thrust is there, it's just counteracted by the hinge.<br>
+<br>
+I have a theory that the hinge effect might be defeated if the hinge were made of flexible material.  The flexible material would not conduct torque, but centrifugal force produced by the curving mass of the gyros would still be applied to the fulcrum.<br>
+<br>
+Jerry<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Luis Gonzalez</b> - 22/04/2006 16:04:54
+</td></tr><tr><td>&nbsp;</td><td>Thank you Sandy, I understand.<br>
+Regards, Luis<br>
+<br><br></td></tr>
+<tr>
+<td align="center" colspan="2"><a href="answerquestion.asp?id=553">Add an Answer &#062;&#062;</a></td></tr>
+</table>
+    </td>
+  </tr>
+  </table>
+  
+  <font class="copyright">
+  Website. Copyright &copy; 2006 Glenn Turner. All rights reserved. <a href="/site.asp">site info</a><br>
+     Do not copy without prior permission. Click here for <a target="gyroscopeproducts" href="http://www.gyroscope.com/" alt="Gyroscope products">gyroscope products</a> 
+   
+  </font>
+</center>
+
+</body>
+</html>

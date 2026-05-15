@@ -1,0 +1,303 @@
+
+<html>
+<head>
+  <title>Gyroscopes - Everything you needed to know</title>
+  <meta HTTP-EQUIV="Content-Type" content="text/html; charset=iso-8859-1">
+  <meta http-equiv="pics-label" content='(pics-1.1 "http://www.icra.org/ratingsv02.html" comment "ICRAonline EN v2.0" l gen true for "no gen term" r (nz 0 vz 0 lz 0 oz 0 cz 0) "http://www.rsac.org/ratingsv01.html" l gen true for "no gen term" r (n 0 s 0 v 0 l 0))'>
+  <meta name="Author" content="Glenn Turner">
+  <meta name="keywords" content="gyroscope, gyroscopes , gyro, gyros, gyroscopic propulsion">
+  <meta name="Description" content="Gyroscopes have many uses, this site explains how a gyroscope works and what they can be used for. The site also looks at the possible uses of gyroscope based propulsion (gyroscopic propulsion). ">
+  <meta name="Copyright" content="Copyright 2015 (All Web Pages) by Glenn Turner">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="expires" content="0">
+  <link rel="stylesheet" href="/iesite.css" type="text/css">
+  
+</head>
+<body bgcolor="#000000">
+  <div style="  float: center; margin: 0; border: none; padding: 0; " align=center><center><img src="/header.jpg" alt="" hspace=0 vspace=0 width=700 height=111></center></div>
+  <center>
+  <span class="menutitle">
+    <a href="/index.asp"><font color="#DDDDDD">Home</font></a> :
+    <a href="/gallery.asp"><font color="#DDDDDD">Gallery</font></a> :
+    <a href="/history.asp"><font color="#DDDDDD">History</font></a> :
+    <a href="/uses.asp"><font color="#DDDDDD">Uses</font></a> :
+    <a href="/behaviour.asp"><font color="#DDDDDD">Behaviour</font></a> :
+    <a href="/math.asp"><font color="#DDDDDD">Maths</font></a> :
+    <a href="/forum/forums.asp"><font color="#DDDDDD">Forum</font></a> :
+    <a href="/propulsion.asp"><font color="#DDDDDD">Propulsion</font></a> :
+    <a href="/links.asp"><font color="#DDDDDD">Links</font></a> :
+    <a href="/glossary.asp"><font color="#DDDDDD">Glossary</font></a>
+    <br>
+  </span>
+
+  <table border=0 cellpadding=0 cellspacing=0 width="0" height="11">
+  <tr>
+    <td></td>
+  </tr>
+  </table>
+
+
+
+
+
+  <table border=0 cellpadding=8 cellspacing=0 width="700" height="260" bgcolor="#FFFFFF" ID="Table1">
+  <tr>
+    <td valign="top" class="main">
+<table align="center" width="100%" border="0">
+  <tr>
+    <td align="left" width="20%" valign="top">
+      <a href="forums.asp">Main Forum Page</a>
+    </td>
+    <td align="center" valign="middle">
+      
+      <h2 border="0">       
+      The Gyroscope Forum</h2></td>
+    <td align="right" width="20%" valign="top">
+      9 March 2021 15:34
+    </td>
+  </tr>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <p align=left>Welcome to the gyroscope forum. If you have a question about gyroscopes in general,
+      want to know how they work, or what they can be used for then you can leave your question here for others to answer.
+         You may also be able to help others by answering some of the questions on the site.
+      </p>
+      
+      <table width="100%">
+      <tr><td>
+        <form action="qa.asp" method="get">
+        <b>Search the forum: </b><input type="text" value="" name="forumsearch" size=30>&nbsp;<input type="submit" value="Search" name="forumsearchsubmit">
+          <input type=hidden name="forum" value="">
+        </form>
+      </td><td>
+        
+        <form action="askquestion.asp" method="post">
+        <input type="submit" value="Ask new Question" name="forumsearchsubmit">&nbsp;
+        
+        <input type="submit" value="Login" name="Login"> 
+        
+        </form>
+      </td></tr>
+      </table>
+      <hr width=100%>
+    </td>
+  </tr>
+</table>
+
+<table align="center" border="0" width="95%">
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><h3>Question</h3></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Asked by:</b></td>
+    <td align="left" colspan="2" valign="top">dcman2006</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Subject:</b></td>
+    <td align="left" colspan="2" valign="top">SEG/Gyroscopic propulsion unit</td>
+  </tr>
+  <tr>
+    <td align=right class=medium valign="top" nowrap><b>Question:</b></td>
+    <td align=left class=medium valign="top" width="400" colspan="2">I have been doing some research into electromagnetic/gravetic type propulsion systems. Here's one for you. <br>
+Can you make something like this? Look at this page...it is a design for a SEG device. Notice the inner and outer rings and the center of these rings and notice the positioning of the magnets. <br>
+http://tech.groups.yahoo.com/group/aggroup/<br>
+<br>
+Using this design for a SEG device, can you produce a magnetic flywheel gyroscope to fit in the center of the SEG. Something that can be spun to around 35,000 rpm's. The Idea is to test this thing...but it needs a propulsion unit to spin the magnets in the SEG rings, which is what I want the magnetic gyroscope to do. I really think these people are onto something here. Worth investigating anyway. Let me know.</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Date:</b></td>
+    <td align="left" colspan="2" valign="top">15 November 2006
+    </td>
+  </tr>
+  <tr>
+    <td align="right" colspan="3" valign="top"><a href="abuse.asp?q=643">report abuse</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2><hr width="100%"></td>
+  </tr>
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><br><h3>Answers (Ordered by Date)</h3><br></td>
+  </tr>
+  <tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 15/11/2006 22:05:46
+</td></tr><tr><td>&nbsp;</td><td>Dear Dcman,<br>
+<br>
+Save your money. Go to Disney Land. First let somebody produce a working model that at least hovers above the ground a couple of inches for a couple of minutes before hurrying off to buy a ticket to the moon. Clams are easy, especially when explanations displaying a hint of general knowledge and dialogs arent felt to be necessary. Good of you to join us. Post again and thanks, Dcman. What do you think of the two tests going on by members of this site?<br>
+<br>
+Glenn, <br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=2644">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>dcman2006</b> - 15/11/2006 23:35:55
+</td></tr><tr><td>&nbsp;</td><td>The idea is to test a working theory, not work on something that has already been proven to fly, that is way they call it research. Whether it will work or not remains another story. Quantum electromagnetic flux, and electromagnetic vortex...ever heard of it? Thanks for your reply, I'll look at your experiments. <br>
+<br>
+About the levitron you have posted on your site:<br>
+Oscillating Fields: an oscillating magnetic field will induce an<br>
+alternating current in a conductor and thus generate a levitating<br>
+force. A similar effect can be achieved with a suitably cut rotating<br>
+disc. The Oscillating field is a way of making a diamagnetic of a<br>
+conducting body. Due to a finite resistance, the induced changes in<br>
+electron trajectories disappear after a short time but you can create<br>
+a permanent screening current at the surface by applying an<br>
+oscillating field and conducting bodies behave just like<br>
+superconducting bodies.<br>
+ref: B.V. Jayawant, "Electromagnetic Levitation and Suspension<br>
+Systems", Publishers: Edward Arnold, London, 1981<br>
+<br>
+Rotation: Surprisingly, it is possible to levitate a rotating object<br>
+with fixed magnets. The levitron is a commercial toy that exploits<br>
+the effect, invented by Roy Harrison in 1983. The spinning top can<br>
+levitate delicately above a base with a careful arrangement of<br>
+magnets so long as its rotation speed and height remains within<br>
+certain limits. This solution is particularly clever because it only<br>
+uses permanent magnets. Ceramic materials are used to prevent<br>
+induced currents which would dissipate the rotational energy.<br>
+<br>
+Actually, the levitron can also be considered as a sort of<br>
+diamagnetic. By rotation, you stabilise the direction of the<br>
+magnetic moment in space (magnetic gyroscope). Then you place this<br>
+magnet with the fixed magnetisation (in contrast to the "fixed<br>
+magnet") in an anti-parallel magnetic field and it levitates.<br>
+refs: Berry, Proc Roy Soc London 452, 1207-1220 (1996).<br>
+S. Gov and S. Shtrikman, "On the Dynamic Stability of the Hovering<br>
+Magnetic Top" (1998) physics/9803020<br>
+<br>
+Best guess...that's all science is.<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=2645">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 16/11/2006 00:09:05
+</td></tr><tr><td>&nbsp;</td><td>I looked at the site you posted before I replied to you.<br>
+Have fun, Dcman. Thats all that counts. Nothing else really matters.<br>
+<br>
+Glenn,<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=2646">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>dcman2006</b> - 16/11/2006 15:34:38
+</td></tr><tr><td>&nbsp;</td><td>Hi, Yeah I found that site while looking into a device by invented by John Searl. Myself I am an engineer by education and prime consultant for a large firm by profession. Now this group of people are not the inventors of the device, but are some people, some of them are well educated, that are trying to recreate the Searl affect. Well, the idea of colonizing the moon may be hoakey at best, the idea that ordinary people are coming together to research something is very commendable...and who knows, they actually succeed. I do not know if you have heard about the Searl Effect Generator (SEG) or not but here is a little back ground for you. <br>
+<br>
+TECHNICAL DESCRIPTION<br>
+<br>
+Physically the Searl Effect Generator (SEG) consists of three concentric rings each made of a composite of four different materials which are also concentrically attached to each other. The three rings are fixed to a base. Surrounding each of the rings, and free to rotate around them, are rollers - typically 10 on the first ring, 25 on the next and 35 on the outer ring. Surrounding the rollers on the outer ring are coils which are connected in various configurations to supply either AC or DC current at a variety of voltages. <br>
+<br>
+Multiple magnetic poles are imprinted on the rings and rollers to form frictionless magnetic bearings. These also arrange the static charge into opposing charge clusters which cause the rollers to rotate around the circumference of the ring (as shown here).<br>
+<br>
+Some expressions currently in use to describe the source of the energy for the SEG are The Space Fabric, Quantum Energy field of Space or Zero Point Energy.  This is an unlimited and constant source of energy which can be made to flow when the correctly proportioned masses concerned are stimulated by the correct  frequencies creating an  'open system'. <br>
+<br>
+The idea of utilising this source of energy is currently the subject of various devices and experiments such as the 'Lamb shift', 'Casimir Effect' and the work of the Russian Nobel Prize winner Ilya Prigogine. However these devices and experiments  tend to only prove the existence of the energy and not a method to  create a coherent, ordered  flow  to produce useful power.<br>
+<br>
+15 KW Searl Effect Generator (SEG) <br>
+<br>
+In contrast, John Searl has discovered that, in order to create a steady and stable  flow, all the masses of the device (and the stimulating frequencies) must conform to precise values determined mathematically by the 'Law of the Squares'.  A machine constructed to these principles produces a stable and useful power output.<br>
+<br>
+DEFINITION OF A SURFACE OPERATING S.E.G. (J. Searl) 15.09.00<br>
+<br>
+A Linear motor operating on a magnetic bearing with the characteristics of an auto-transformer. The S.E.G. is defined as a device, which is constructed from 2,124 component parts, which make up 3 plates and 66 roller sets. 12 of the 2,124 components create the 3 plates, which act as reaction components. 2,112 components are employed to create 66 roller sets, which act as active components. Each roller set consists of  8 segments constructed from 32 components. Each segment cannot be less than 34 grams in weight, as the law of the squares defines that value as the lowest value suitable for the reasonable generation of electricity. Therefore the smallest roller set must weigh 272 grams, making a grand total of 2,244 grams per roller set for the smallest surface bound SEG.<br>
+<br>
+ Tolerance <> 0.05 gram per roller set. The larger the error the greater is the loss of power within the unit. Therefore the total tolerance for the smallest SEG roller set must not be greater than 3.30 grams - above this factor the SEG will not function.<br>
+<br>
+For the best results, the tolerance across the total 66 roller sets should not exceed 0.05 grams.<br>
+<br>
+ The S.E.G. is a step up rotary transformer. In fact its a 'three rotary transformers' operational system, within a unit. The inner transformer output is fed in to the input of the second plate which increases the output of the second unit, which output feeds as an input to the final unit, thereby increasing its final output to a very high voltage. Therefore the S.E.G. is just a prime mover for the production of clean electrical energy. The output windings must be designed to step down this output to 240 volts at 15Kws.<br>
+<br>
+From 1946 up to 1968 the SEARL EFFECT was always referred to as magnetic bubbles in motion. Even in my early newsletters it was explained as magnetic bubbles in motion and even today members of the teams have been heard stating the effects as magnetic bubbles.<br>
+<br>
+ During 1968 it became clear that these magnetic bubbles contained particles in a set manner and that there was a set pattern to how many bubbles were present in the material. Because of this finding I dropped the term magnetic bubbles, and replace it with the term magnetic quantum material and released these details in a newsletter which has since been reproduced in one of my books released a few years ago. A laboratory also agrees that somehow the material changes its state when produced in this manner.<br>
+  Research is proceeding upon this issue, as development progress both here and in the USA, new findings are being created, and updates will be added to this page, as they are certified.<br>
+<br>
+When the SEG rollers are brought into close proximity to the SEG Ring, the Searl Effect resonant magnetic field causes negative ions and electrons to be drawn into and accelerated through the machine. This process is assisted by the highly electron-attracting rare earth metal Neodymium. The unique mechanical and material arrangement of the SEG pulses the neodymium to continually release and replace the surplus electrons to provide electrical or mechanical power, or both.<br>
+<br>
+If the Searl Effect is real, then it is caused by a complex rotational-magnetic effect that has ancillary effects on both electricity and gravity. John Searl has published several books on the subject, and any attempt at a brief summary of the effect falls short of his detailed explanation. <br>
+<br>
+http://www.searleffect.com/free/allaccess/allaccess.html<br>
+<br>
+<br>
+My idea, is to take the Searl device and experiment with it, using a highly magnetically charged gyroscope creating an electromagnetic vortex tp spin the Searl device. The faster the Gyroscope is spun the more current is produced...an electric motor if you will.<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=2649">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 16/11/2006 20:40:33
+</td></tr><tr><td>&nbsp;</td><td><br>
+IIll pass, but I very much admire your enthusiasm and high energy. Go for it! Defiantly!<br>
+Glenn,<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=2650">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Jerry Volland</b> - 17/11/2006 19:57:17
+</td></tr><tr><td>&nbsp;</td><td>Hi, DcMan.<br>
+<br>
+A cieling fan motor may be what you're looking for.  This is a rim drive motor and is differently wound than most motors.  The coils remain stationary, projecting their field outwards, while the rim - without coils - rotates.  If you power the motor - without the rim - through a commutator, its field will rotate.  This rotation can be enhanced by an additional, normal motor, using a belt and pulleys which spin the fan motor's shaft.  (The shaft normally doesn't turn.)  A suitable commutator is available as part of an extention cord reel which plugs in and provides power as the cord is pulled out from the reel.  Or do you need a rotating vertical field? -JV<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=2653">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 21/11/2006 21:47:36
+</td></tr><tr><td>&nbsp;</td><td>Videos and news! In keeping to the subject begun this should be of interest.  Better hurry. It shouldn't last more than a couple of days.  http://www.telegraph.co.uk/news/main.jhtml?xml=/news/2006/11/21/uiter121.xml<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=2660">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>dcman2006</b> - 24/11/2006 16:27:53
+</td></tr><tr><td>&nbsp;</td><td>Fascinating, the research into free enrgy that is going on.<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=2673">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>arthur dent</b> - 23/01/2007 20:06:59
+</td></tr><tr><td>&nbsp;</td><td>Searl is a deluded fraudster. As he lives on the dole, in a council house, some people might wonder where he gets the money for all of the expensive toys (microscope, plasma-screen TV, etc.) which are freely mentioned on his website. He has convictions for theft and malicious damage, ran a company while banned from being a director, and even once claimed that he was the UK's official delegate to an international space-research organisation. <br>
+I do feel a little sorry for him because he has - in turn - been ripped-off by some people who 'acquired' the rights to the supposed perpetual motion aspects of the SEG. According to records at Companies House, some fool has backed their company to the tune of 250000.  <br>
+His 'invention' is a version of the little-known 'Gore Railway Effect' (GRE).  This yields a very poor motor (it burns out within minutes under any reasonable load) and is certainly not a generator.  It (obviously) cannot levitate or produce energy from nowhere. On the other hand, it is quite shameful that nobody is quite sure what causes the GRE: 2 completely different explanations can be found in the literature.<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=2789">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>GoldenEgg</b> - 26/01/2007 21:52:51
+</td></tr><tr><td>&nbsp;</td><td>Hi guys, I been investigating John Searl for at least 10 years, and I have say, you Author have almost all your facts twisted about John,  you taken matters out of context, better get clarifications before trash the man's character, I know because I have personally met him.  Yet I am not too much in the personalities about the whole matter, its really about the invention that interests me from a technical view point. So with an interested open mind, neither for it nor against it, just learn as much as possible, I have now gathered enough technical information to make a conclusion about subject and that is the SEG concept does make sense and it should be farther investigated. It is a composite of innovations and effects, so you better forget about finding a simple explanation like that of a lever.  Yes I have to say, in all honesty, his is the real deal because the more I research, the more complete the puzzle gets. By the way, I have designed a DC magnetizer and with it I have managed to get a magnetic wave impressed on magnet rings, just like the man said there would be, as it is a vital part of the SEG design.  I am trying to form a team, dcman2006 if you interested let me know.  Thanks all.<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=2802">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>GoldenEgg</b> - 26/01/2007 22:21:28
+</td></tr><tr><td>&nbsp;</td><td>Aurthor, can you give us some references about the GRE, thanks.<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=2803">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>GoldenEgg</b> - 26/01/2007 22:26:05
+</td></tr><tr><td>&nbsp;</td><td>Arthur dent, sorry about misspelling your name for the above two replies respectfully.<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=2804">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Vahe Pichikian</b> - 05/02/2007 16:59:38
+</td></tr><tr><td>&nbsp;</td><td><br>
+     Hello friends<br>
+<br>
+     It is a coincidence that I have been working on a spherical method to evolve Searl Effect into three dimensions, you can read me at <br>
+      http://cydonia-armageddon.blogspot.com/<br>
+And started my discussion group at<br>
+      http://groups.google.com/group/geometry-of-legend<br>
+<br>
+Sincerely;<br>
+ Vahe Pichikian<br>
+pichikian@gmail.com<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=2830">Report Abuse</a></td></tr>
+<tr>
+<td align="center" colspan="2"><a href="answerquestion.asp?id=643">Add an Answer &#062;&#062;</a></td></tr>
+</table>
+    </td>
+  </tr>
+  </table>
+  
+  <font class="copyright">
+  Website. Copyright &copy; 2021 Glenn Turner. All rights reserved. <a href="/site.asp">site info</a><br>
+     Do not copy without prior permission. Click here for <a target="gyroscopeproducts" href="http://www.gyroscope.com/" alt="Gyroscope products">gyroscope products</a> 
+   
+  </font>
+</center>
+
+</body>
+</html>

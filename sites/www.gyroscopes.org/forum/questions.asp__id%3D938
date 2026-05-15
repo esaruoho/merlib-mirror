@@ -1,0 +1,188 @@
+
+<html>
+<head>
+  <title>Gyroscopes - Everything you needed to know</title>
+  <meta HTTP-EQUIV="Content-Type" content="text/html; charset=iso-8859-1">
+  <meta http-equiv="pics-label" content='(pics-1.1 "http://www.icra.org/ratingsv02.html" comment "ICRAonline EN v2.0" l gen true for "no gen term" r (nz 0 vz 0 lz 0 oz 0 cz 0) "http://www.rsac.org/ratingsv01.html" l gen true for "no gen term" r (n 0 s 0 v 0 l 0))'>
+  <meta name="Author" content="Glenn Turner">
+  <meta name="keywords" content="gyroscope, gyroscopes , gyro, gyros, gyroscopic propulsion">
+  <meta name="Description" content="Gyroscopes have many uses, this site explains how a gyroscope works and what they can be used for. The site also looks at the possible uses of gyroscope based propulsion (gyroscopic propulsion). ">
+  <meta name="Copyright" content="Copyright 2015 (All Web Pages) by Glenn Turner">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="expires" content="0">
+  <link rel="stylesheet" href="/iesite.css" type="text/css">
+  
+</head>
+<body bgcolor="#000000">
+  <div style="  float: center; margin: 0; border: none; padding: 0; " align=center><center><img src="/header.jpg" alt="" hspace=0 vspace=0 width=700 height=111></center></div>
+  <center>
+  <span class="menutitle">
+    <a href="/index.asp"><font color="#DDDDDD">Home</font></a> :
+    <a href="/gallery.asp"><font color="#DDDDDD">Gallery</font></a> :
+    <a href="/history.asp"><font color="#DDDDDD">History</font></a> :
+    <a href="/uses.asp"><font color="#DDDDDD">Uses</font></a> :
+    <a href="/behaviour.asp"><font color="#DDDDDD">Behaviour</font></a> :
+    <a href="/math.asp"><font color="#DDDDDD">Maths</font></a> :
+    <a href="/forum/forums.asp"><font color="#DDDDDD">Forum</font></a> :
+    <a href="/propulsion.asp"><font color="#DDDDDD">Propulsion</font></a> :
+    <a href="/links.asp"><font color="#DDDDDD">Links</font></a> :
+    <a href="/glossary.asp"><font color="#DDDDDD">Glossary</font></a>
+    <br>
+  </span>
+
+  <table border=0 cellpadding=0 cellspacing=0 width="0" height="11">
+  <tr>
+    <td></td>
+  </tr>
+  </table>
+
+
+
+
+
+  <table border=0 cellpadding=8 cellspacing=0 width="700" height="260" bgcolor="#FFFFFF" ID="Table1">
+  <tr>
+    <td valign="top" class="main">
+<table align="center" width="100%" border="0">
+  <tr>
+    <td align="left" width="20%" valign="top">
+      <a href="forums.asp">Main Forum Page</a>
+    </td>
+    <td align="center" valign="middle">
+      
+      <h2 border="0">       
+      The Gyroscope Forum</h2></td>
+    <td align="right" width="20%" valign="top">
+      11 February 2021 00:24
+    </td>
+  </tr>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <p align=left>Welcome to the gyroscope forum. If you have a question about gyroscopes in general,
+      want to know how they work, or what they can be used for then you can leave your question here for others to answer.
+         You may also be able to help others by answering some of the questions on the site.
+      </p>
+      
+      <table width="100%">
+      <tr><td>
+        <form action="qa.asp" method="get">
+        <b>Search the forum: </b><input type="text" value="" name="forumsearch" size=30>&nbsp;<input type="submit" value="Search" name="forumsearchsubmit">
+          <input type=hidden name="forum" value="">
+        </form>
+      </td><td>
+        
+        <form action="askquestion.asp" method="post">
+        <input type="submit" value="Ask new Question" name="forumsearchsubmit">&nbsp;
+        
+        <input type="submit" value="Login" name="Login"> 
+        
+        </form>
+      </td></tr>
+      </table>
+      <hr width=100%>
+    </td>
+  </tr>
+</table>
+
+<table align="center" border="0" width="95%">
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><h3>Question</h3></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Asked by:</b></td>
+    <td align="left" colspan="2" valign="top">reg campbell</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Subject:</b></td>
+    <td align="left" colspan="2" valign="top">gyro</td>
+  </tr>
+  <tr>
+    <td align=right class=medium valign="top" nowrap><b>Question:</b></td>
+    <td align=left class=medium valign="top" width="400" colspan="2">Dear forum <br>
+Can you explain in laymens terms why in  Laithewaites experiment he was unable to lift the static gyro but when revolving he was this to the laymen makes the gyro appear lighter.</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Date:</b></td>
+    <td align="left" colspan="2" valign="top">29 June 2008
+    </td>
+  </tr>
+  <tr>
+    <td align="right" colspan="3" valign="top"><a href="abuse.asp?q=938">report abuse</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2><hr width="100%"></td>
+  </tr>
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><br><h3>Answers (Ordered by Date)</h3><br></td>
+  </tr>
+  <tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>.</b> - 02/07/2008 16:10:12
+</td></tr><tr><td>&nbsp;</td><td>This is difficult stuff to understand, but I will try. Spinning things resist being tilted from their plane of spin. When a gyroscope would otherwise be tilted, the spin resistance twists (Torques) against tilting therefore applies force directly down on the hands of the professor (Fulcrum). When the gyro isnt spinning this doesnt happen ( No torque resistance) and so the long leverage distance from the gyro to his hands is a strong twist and his wrist are no where near strong enough to hold against such a strong leveraged force.<br>
+Glenn<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=3812">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>mark</b> - 06/07/2008 16:51:57
+</td></tr><tr><td>&nbsp;</td><td>Would this mean that the same force would be needed to lift the gyro but applied over a longer time "gearing" .  No free energy. Or am I missing the point.<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=3817">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 07/07/2008 13:14:45
+</td></tr><tr><td>&nbsp;</td><td>You must take the time and trouble to make your question understandable.<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=3819">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Krishna Davinci</b> - 15/07/2008 22:06:19
+</td></tr><tr><td>&nbsp;</td><td>I think you've got it, Mark.<br>
+<br>
+Interesting how the torque is rotated 90 degrees in the direction the wheel is revolving.  Anybody unerstand why it's 1/4 of the circle?<br>
+<br>
+I'm new here ~ just found this site ... but I've suspected for many years that gyroscopes held some special keys to the working of our universe   :)<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=3829">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 16/07/2008 04:27:34
+</td></tr><tr><td>&nbsp;</td><td>Hi Mark & Krishna.<br>
+<br>
+Hot weather isnt it fellows? Lets see if I can help a bit.<br>
+<br>
+Mark, would what mean what same force applied how in gearing? Energy is never free. Youve got this right, Mark.<br>
+<br>
+Krishna, what and which do you think Mark has right? The observer may only assume the direction the wheel revolves. The direction is therefore relative. For instance if the rotating wheel is viewed sideways and the ninety degrees applied force is downward, the flywheel will precess opposite to its top direction of rotation, but precess in the same direction as the bottom spin. If thats not confusing enough, if you stand on your head and view the same spinning flywheel the opposite is true. Perhaps the only way to get a good grasp of this is to play with gyroscopes, while you keep re-reading this description of relative assumptions. Youll get it.<br>
+<br>
+Now then, what is its and what and how do you mean  of a circle? What is happening there? Otherwise congratulations. Im sure the universe wouldnt operate the way it does, would not move the way it does, or be the way it is without gyroscopic deflections and precessions. I think even baseball would not be the same. The picture couldnt make the ball do so many funny things.<br>
+<br>
+If you fellows should decide to ask exacting questions a little more fully I think I can help you. In any case have a nice day. Gyroscopes are strange and interesting things and they attract intelligent people like you two. Post more often fellows. It was fun talking to you.<br>
+<br>
+Glenn,<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=3831">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>R logic</b> - 19/08/2008 18:25:12
+</td></tr><tr><td>&nbsp;</td><td>Hi guys,<br>
+<br>
+I'm also new to this forum.  I do believe that gyroscope is the key to this universe understanding.  I can contribute a new way of thinking about gyroscope.  It is similar to electric and magnetism, except the scaling is unknown to us.  Electron circle the atom at a huge percentage of light speed.  Must we get the gyroscope to that speed?  There is hope, gravitational pull is not that strong compare to electromagnetic.  It is possible that we haven't reach its limit to delect something major.  If the earth is really neutral, why does it generate a magnetic field.  If water is neutral, why does it attract to static electric city.  Why static electricity always attract insulator and why magnet always attract conductor and repel insulator.  We levitate a frog using a strong magnetic field.  This is a stable field thus it does not comes from a dipole.  In relation to gyroscopic phenomena, a rotating mass is free from torque.  That means they support their own weight in some maner perpendicular to the rotating axis.  This is a field phenomena.  Think about when you push a water ballon with 9.8 m/s..  Its shape start to deform.  If you let gravity accelerate, it won't get any deformation.  Why?  This is where point force and field force different.  Physics use point force, engineer specify better by Force over area, or pressure.  Gravity just use a more advance form of Force per volume, that's why you get different effect.  In conclusion, gyrosopic phenomena is somehow related to a field force.  Hope we can crack this soon.<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=3880">Report Abuse</a></td></tr>
+<tr>
+<td align="center" colspan="2"><a href="answerquestion.asp?id=938">Add an Answer &#062;&#062;</a></td></tr>
+</table>
+    </td>
+  </tr>
+  </table>
+  
+  <font class="copyright">
+  Website. Copyright &copy; 2021 Glenn Turner. All rights reserved. <a href="/site.asp">site info</a><br>
+     Do not copy without prior permission. Click here for <a target="gyroscopeproducts" href="http://www.gyroscope.com/" alt="Gyroscope products">gyroscope products</a> 
+   
+  </font>
+</center>
+
+</body>
+</html>

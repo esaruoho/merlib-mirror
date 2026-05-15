@@ -1,0 +1,213 @@
+
+<html>
+<head>
+  <title>Gyroscopes - Everything you needed to know</title>
+  <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+  <meta http-equiv="pics-label" content='(pics-1.1 "http://www.icra.org/ratingsv02.html" comment "ICRAonline EN v2.0" l gen true for "no gen term" r (nz 0 vz 0 lz 0 oz 0 cz 0) "http://www.rsac.org/ratingsv01.html" l gen true for "no gen term" r (n 0 s 0 v 0 l 0))'>
+  <META NAME="Author" CONTENT="Glenn Turner">
+  <META NAME="keywords" CONTENT="gyroscope, gyroscopes , gyro, gyros, gyroscopic propulsion">
+  <META NAME="Description" CONTENT="Gyroscopes have many uses, this site explains how a gyroscope works and what they can be used for. The site also looks at the possible uses of gyroscope based propulsion (gyroscopic propulsion). ">
+  <META NAME="Copyright" CONTENT="Copyright 2003 (All Web Pages) by Glenn Turner">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="expires" content="0">
+  <link rel="stylesheet" href="/iesite.css" type="text/css">
+</head>
+<body bgcolor="#000000">
+  <div style="  float: center; margin: 0; border: none; padding: 0; " align=center><center><img src="/header.jpg" alt="" hspace=0 vspace=0 wgith=700 height=111></center></div>
+  <center>
+  <span class="menutitle">
+    <a href="/index.asp"><font color="#DDDDDD">Home</font></a> :
+    <a href="/gallery.asp"><font color="#DDDDDD">Gallery</font></a> :
+    <a href="/history.asp"><font color="#DDDDDD">History</font></a> :
+    <a href="/uses.asp"><font color="#DDDDDD">Uses</font></a> :
+    <a href="/behaviour.asp"><font color="#DDDDDD">Behaviour</font></a> :
+    <a href="/math.asp"><font color="#DDDDDD">Maths</font></a> :
+    <a href="/forum/qa.asp"><font color="#DDDDDD">Forum</font></a> :
+    <a href="/propulsion.asp"><font color="#DDDDDD">Propulsion</font></a> :
+    <a href="/links.asp"><font color="#DDDDDD">Links</font></a> :
+    <a href="/glossary.asp"><font color="#DDDDDD">Glossary</font></a>
+    <br>
+  </span>
+
+  <table border=0 cellpadding=0 cellspacing=0 width="0" height="11">
+  <tr>
+    <td></td>
+  </tr>
+  </table>
+
+
+
+
+
+  <table border=0 cellpadding=8 cellspacing=0 width="700" height="260" bgcolor="#FFFFFF" ID="Table1">
+  <tr>
+    <td valign="top" class="main">
+<table align="center" width="100%" border="0">
+  <tr>
+    <td align="left" width="20%" valign="top">
+      <a href="qa.asp">Main Forum Page</a>
+    </td>
+    <td align="center" valign="middle">
+      
+      <h2 border="0">       
+      The Gyroscope Forum</h2></td>
+    <td align="right" width="20%" valign="top">
+      3 May 2006 11:52
+    </td>
+  </tr>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <p align=left>Welcome to the gyroscope forum. If you have a question about gyroscopes in general,
+      want to know how they work, or what they can be used for then you can leave your question here for others to answer.
+         You may also be able to help others by answering some of the questions on the site.
+      </p>
+      
+      <table width="100%">
+      <tr><td>
+        <form action="qa.asp" method="get">
+        <b>Search the forum: </b><input type="text" value="" name="forumsearch" size=30>&nbsp;<input type="submit" value="Search" name="forumsearchsubmit">
+          <input type=hidden name="forum" value="">
+        </form>
+      </td><td>
+        
+        <form action="askquestion.asp" method="post">
+        <input type="submit" value="Ask a new Question" name="forumsearchsubmit">
+        </form>
+        
+      </td></tr>
+      </table>
+      <hr width=100%>
+    </td>
+  </tr>
+</table>
+
+<table align="center" border="0" width="95%">
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><h3>Question</h3></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Asked by:</b></td>
+    <td align="left" colspan="2" valign="top">Paul King</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Subject:</b></td>
+    <td align="left" colspan="2" valign="top">Eric's 50lb lift</td>
+  </tr>
+  <tr>
+    <td align=right class=medium valign="top" nowrap><b>Question:</b></td>
+    <td align=left class=medium valign="top" width="400" colspan="2">Hello, I've judt seen  the Heritic video (and non-screened xmas lecture) and would like to ask a a couple of questions. I'm not an experimenter and my maths is rather basic, but are there simple answers to these questions?<br>
+<br>
+1. Why did the 50lb spinning wheel become lighter and easier to lift for Eric?<br>
+2. Would Eric's patented device, if it were throwen out of the space shuttle, accelerate away?<br>
+3. What did Eric means when he mentioned radiation in relation to flywheels?<br>
+<br>
+Thanks<br>
+<br>
+<br>
+</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Date:</b></td>
+    <td align="left" colspan="2" valign="top">10 April 2005
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2><hr width=100%></td>
+  </tr>
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><br><h3>Answers (Ordered by Date)</h3><br></td>
+  </tr>
+  <tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Arthur Dent</b> - 15/04/2005 15:55:44
+</td></tr><tr><td>&nbsp;</td><td>1. Its weight did not change - obviously. When the wheel was not spinning, he had to contend with the huge moment which acted on his wrists: the world's strongest man would be unable to lift even a bag of sugar - if it was hung at the end of a long-enough rod.   When the wheel was spinning, the entire weight of wheel and axle acted directly on his hands; not a problem for the heavily-built Laithwaite, or even for a supported child.  All that he had to contend with then was the precession. Overall, it is a cheap trick. I am surprised that Derren Brown has not resurrected it.  2. It might, but that would certainly not be due to any force originating in the device itself. 3. Laithwaite got this idea from a speculation by Oliver Heaviside (that gravity was analogous - in all respects - to electromagnetism). This idea is supported by general relativity theory. But, in practice, the phenomenon is far beyond any hope of exploitation.  Also, there is published evidence that Laithwaite did not really understand what Heaviside was saying.<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Paul King</b> - 15/04/2005 16:28:18
+</td></tr><tr><td>&nbsp;</td><td>Thanks for your answers. Interesting, but it  takes a little of the magic out of seeing the footage on this site. I read Eric's paper (also on this site) and relating to point two I believe I can answer my own question now: The device would not provide constant acceleration reaching some high and usefull velocity for, say, interplanetary probe travel. Instead it would provide movement only while the device (two precessing gyros forward stroke - with a linear (no-movement) return) were in operation.<br>
+<br>
+ I suppose this is like saying it would provide no momentum to the device. I also believe the movement forward of the device would be 'slow' (linked to the speed of precesion) making it useful for positioning only, which Eric  seemed to suggest in the paper. All in all not a great breakthrough for interplanetary travel.<br>
+<br>
+I do think he was treated a little hashly for his over enthusiam though. The respose he receive is maybe typically 'British establishment'. Many Americans, for instance Dr. Bruce de Palma (research on unipole generators tapping theoretical  zero-point energy) don't get the establishment cold shoulder / rank closing for what appear even more bizzare pronouncements and suggestions.<br>
+<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>arthur dent</b> - 15/04/2005 22:51:55
+</td></tr><tr><td>&nbsp;</td><td>If Laithwaite's, or any similar device, were released in space it would simply 'flounder' about; just as would a human being (unless he could throw parts of his equipment away as reaction mass). Gyroscopes are regularly used to reorient satellites, etc., but this does not involve any displacement of their centre-of-mass. There remains a very slight possibility that overheating gyroscope bearings, say, might produce photons and these - if emitted anisotropically - could produce a small propulsive force. But, then, so could an electric torch. As far as I know, De Palma (who is dead BTW) did not have a doctorate. It is true that he once worked at MIT, but not as a scientist: he taught photography. There is nothing odd about the Faraday generator/motor. The converse idea has arisen because it does not obey the simplistic flux-cutting or flux-linking rules which are taught to electrical engineers. More careful analysis, by physicists, reveals that nothing anomalous is happening. Note that it was an electrical engineer who backed the N-machine, and that Laithwaite and Aspden (the UK's most notorious anti-gravity gurus) were/are electrical engineers.  I know that all of this is disappointing. But it is even more disappointing that many engineers in UK companies do not understand physics, and make their companies waste time and energy on pursuing these fallacies.<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Paul King</b> - 16/04/2005 00:13:13
+</td></tr><tr><td>&nbsp;</td><td>Most of the anti-gravity and free energy (or energy not coming from a known source) I would dismiss. But it would be a mistake to stick only with the physics we know and which pushes forward slowly and logically.<br>
+<br>
+There must be a place for the experimenter or intuitive leaper (or should that be leper?), highly qualified in a traditional sense or not, who peruses research generating anomalous effects from the current explanatory power of science. <br>
+<br>
+I think a good example of this would be the so called 'cold-fusion' effect (over-unity energy experiment) pretty much discovered by Ponds and Fleischmann in the 80s. Again, there pair was ridiculed by the establishment because the experimental results were difficult to reproduce and did not fit into current science. Over unity energy production in 'cold-fusion' type experiments has been replicated by many different parties since then but with no commercial benefit of scientific explanation of how the excess energy is generated.<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>arthur dent</b> - 16/04/2005 02:48:41
+</td></tr><tr><td>&nbsp;</td><td>I would agree completely: anyone (qualified or not) who acquaints themselves with all of the most reliable information on a given topic is well placed for discovering something new. It is often said that the Wright brothers were the first to fly 'in spite of being mere bicycle makers'. The important point is that they did not remain bicycle-makers; they mastered everything that was already known about flight. One of them (I forget which) was already a keen glider pilot, so that was a head-start. The problem is that too many people do not properly evaluate what is definitely known, and instead use second-rate sources (especially the internet).  By coincidence, I was re-reading the original Pons-Fleischmann paper only yesterday. It is a most peculiar document, if one is familiar with the usual tone of scientific papers. It starts, for instance, by referring to the strange behaviour of H in palladium. However, it does not explain what is so strange, and does not give any supporting references. It then describes an experiment which had been performed thousands of times by metallurgists (for other reasons). The metallurgists had never noticed anything odd, but the P&F paper has warnings in capital letters, and exclamation marks. One suspects that they would have published the paper  in green ink if possible. It seems that their vats were in danger of exploding. It is true that there has been a steady series of CF papers ever since then. However, the effect has become smaller rather than larger - and is now at the limit of detectability. This is the opposite behaviour to that expected when a genuine phenomenon is involved. For instance, electric motors grew out of a slight observed rotation of a compass needle next to a conducting wire. If the history of electromagnetic induction had gone in the same direction as that of cold fusion, we would have no electric motors. The most obvious explanation is that P&F, in spite of their qualifications and experience, had simply deluded themselves.<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>webmaster@gyroscopes.org</b> - 16/04/2005 10:48:27
+</td></tr><tr><td>&nbsp;</td><td>I wouldn't describe Eric's patented device as something that 'flounders' about. It would actually move a object through space.  I spoke to William Dawson about this few years ago (co-inventor). When I read the patent I assumed that the 'stroke' would be repeated giving a pulsed propulsion. However, Dawson was very firm and said it was simply a mass-transfer device, moving something from two fixed points and the whole structure keeped its centre of gravity. I found this a little odd when going back to the patent. The patent contains more than one device and I sure someone at some point intend to have continuous propulsion or atleast cover this in the patent.<br>
+<br>
+If you take Dawson's definition then it does work and can easily be proven. If you think it<br>
+produces propulsion then It hasn't been proven.<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Arthur Dent</b> - 16/04/2005 16:29:45
+</td></tr><tr><td>&nbsp;</td><td>The strange thing about Dawson is that he is being paid by NASA to produce a spacecraft launching  device (of a type first proposed by Tsilokovski nearly 100 years ago), using a linear induction motor (invented by Wheatstone over 100 years ago). It is strange that he should waste his time in this way ... if he really thinks that his own patented invention is any good. Why not sell it to NASA? After all, they wasted millions on the Podkletnov nonsense. They would probably buy the Brooklyn bridge if someone told them it could fly.<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Nitro MacMad</b> - 16/04/2005 19:19:51
+</td></tr><tr><td>&nbsp;</td><td>Dear all,<br>
+<br>
+While the, mostly, factual negativity and undeniably wide scientific knowledge (and good spelling) of Arthur Dent (your secrets safe with me David  till youre nasty again) is a much needed leveller in our vanguard searchings, it must also be remembered that the scientific community are just as susceptible to error as nutters in sheds (like me).  Even our educators (well, mine anyway) got it wrong in their teachings  witness Arthurs comments on the reasons for airfoil lift.  And it is bloody hard to see past what you have been taught!<br>
+<br>
+The production of emf in a wire that cuts the lines of force of a magnetic field is another example of pure B.S. that is still taught.  Arthur is right again to criticise NASA as they must have spent even more than the wifes hat budget (only joking, darling!) on a project to produce power from an orbiting plumb line dragged through the earths magnetic field.<br>
+<br>
+With all that speed and all that magnet you would have thought we would have orbiting power stations by now!  We wont, because their experiment was based on a nonsense that is still taught today.  <br>
+<br>
+I was taught that lines of force were stationary in relation to the world (universe) with a unipolar (or half of a rod) magnet, a wire and a fairly sensitive galvanometer.  If the wire rotates around the magnate, you get something.  If the magnet rotates, with the wire stationary, you dont.  Therefore the lines of force dont move if you rotate the magnate!  Pure B.S.!  Let me know if you need to know why and I will bore more on this.<br>
+<br>
+So while a rein must be kept on some of our wildest imaginings, whether emanating from our desire to show more knowledge than others, or believing that the wondrous things seen while under the influence of psychotropic drugs, schizophrenia, or (my case) a nice single malt; it must be remembered too, that just occasionally such wild imaginings are right.  Goodness knows though, how you shall tell when the ramblings of a nutter in a shed (like me) are right.  <br>
+<br>
+Ill close with a question for Arthur though anyone elses input is welcome.  There used to be a simpler test as to whether a machine that claimed to get round the third law could be tested.  It questioned if the machine  on the obligatory frictionless base  could move outside its original starting dimension.   This can be achieved with an assembly with a gyro (or two).   Is there any other mechanism that can do this without chucking stuff away?  My quest started here.<br>
+<br>
+Kind regards<br>
+NM     <br>
+<br>
+PS  Sad to hear that I can no longer look forward to a flight on the Brooklyn Bridge.<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>webmaster@gyroscopes.org</b> - 17/04/2005 21:36:32
+</td></tr><tr><td>&nbsp;</td><td>Arthur,<br>
+<br>
+Where did you here that Dawson was working for NASA?  <br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>arthur dent</b> - 17/04/2005 22:48:52
+</td></tr><tr><td>&nbsp;</td><td>WM: There were several articles (in the Sunday Times) concerning the NASA-funded LIM space-launch project at Sussex university.  I spotted 'Dawson' in the text, and checked with the Sussex U. website and with another worker on the project. It was indeed he. Of course (as a 'consultant engineer'), NASA is not his only source of income. I am reliably informed that he also rents out PA equipment.<br><br></td></tr>
+<tr>
+<td align="center" colspan="2"><a href="answerquestion.asp?id=378">Add an Answer &#062;&#062;</a></td></tr>
+</table>
+    </td>
+  </tr>
+  </table>
+  
+  <font class="copyright">
+  Website. Copyright &copy; 2006 Glenn Turner. All rights reserved. <a href="/site.asp">site info</a><br>
+     Do not copy without prior permission. Click here for <a target="gyroscopeproducts" href="http://www.gyroscope.com/" alt="Gyroscope products">gyroscope products</a> 
+   
+  </font>
+</center>
+
+</body>
+</html>

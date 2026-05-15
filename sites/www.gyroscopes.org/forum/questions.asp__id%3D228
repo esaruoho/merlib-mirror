@@ -1,0 +1,164 @@
+
+<html>
+<head>
+  <title>Gyroscopes - Everything you needed to know</title>
+  <meta HTTP-EQUIV="Content-Type" content="text/html; charset=iso-8859-1">
+  <meta http-equiv="pics-label" content='(pics-1.1 "http://www.icra.org/ratingsv02.html" comment "ICRAonline EN v2.0" l gen true for "no gen term" r (nz 0 vz 0 lz 0 oz 0 cz 0) "http://www.rsac.org/ratingsv01.html" l gen true for "no gen term" r (n 0 s 0 v 0 l 0))'>
+  <meta name="Author" content="Glenn Turner">
+  <meta name="keywords" content="gyroscope, gyroscopes , gyro, gyros, gyroscopic propulsion">
+  <meta name="Description" content="Gyroscopes have many uses, this site explains how a gyroscope works and what they can be used for. The site also looks at the possible uses of gyroscope based propulsion (gyroscopic propulsion). ">
+  <meta name="Copyright" content="Copyright 2015 (All Web Pages) by Glenn Turner">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="expires" content="0">
+  <link rel="stylesheet" href="/iesite.css" type="text/css">
+  
+</head>
+<body bgcolor="#000000">
+  <div style="  float: center; margin: 0; border: none; padding: 0; " align=center><center><img src="/header.jpg" alt="" hspace=0 vspace=0 width=700 height=111></center></div>
+  <center>
+  <span class="menutitle">
+    <a href="/index.asp"><font color="#DDDDDD">Home</font></a> :
+    <a href="/gallery.asp"><font color="#DDDDDD">Gallery</font></a> :
+    <a href="/history.asp"><font color="#DDDDDD">History</font></a> :
+    <a href="/uses.asp"><font color="#DDDDDD">Uses</font></a> :
+    <a href="/behaviour.asp"><font color="#DDDDDD">Behaviour</font></a> :
+    <a href="/math.asp"><font color="#DDDDDD">Maths</font></a> :
+    <a href="/forum/forums.asp"><font color="#DDDDDD">Forum</font></a> :
+    <a href="/propulsion.asp"><font color="#DDDDDD">Propulsion</font></a> :
+    <a href="/links.asp"><font color="#DDDDDD">Links</font></a> :
+    <a href="/glossary.asp"><font color="#DDDDDD">Glossary</font></a>
+    <br>
+  </span>
+
+  <table border=0 cellpadding=0 cellspacing=0 width="0" height="11">
+  <tr>
+    <td></td>
+  </tr>
+  </table>
+
+
+
+
+
+  <table border=0 cellpadding=8 cellspacing=0 width="700" height="260" bgcolor="#FFFFFF" ID="Table1">
+  <tr>
+    <td valign="top" class="main">
+<table align="center" width="100%" border="0">
+  <tr>
+    <td align="left" width="20%" valign="top">
+      <a href="forums.asp">Main Forum Page</a>
+    </td>
+    <td align="center" valign="middle">
+      
+      <h2 border="0">       
+      The Gyroscope Forum</h2></td>
+    <td align="right" width="20%" valign="top">
+      14 June 2016 08:43
+    </td>
+  </tr>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <p align=left>Welcome to the gyroscope forum. If you have a question about gyroscopes in general,
+      want to know how they work, or what they can be used for then you can leave your question here for others to answer.
+         You may also be able to help others by answering some of the questions on the site.
+      </p>
+      
+      <table width="100%">
+      <tr><td>
+        <form action="qa.asp" method="get">
+        <b>Search the forum: </b><input type="text" value="" name="forumsearch" size=30>&nbsp;<input type="submit" value="Search" name="forumsearchsubmit">
+          <input type=hidden name="forum" value="">
+        </form>
+      </td><td>
+        
+        <form action="askquestion.asp" method="post">
+        <input type="submit" value="Ask new Question" name="forumsearchsubmit">&nbsp;
+        
+        <input type="submit" value="Login" name="Login"> 
+        
+        </form>
+      </td></tr>
+      </table>
+      <hr width=100%>
+    </td>
+  </tr>
+</table>
+
+<table align="center" border="0" width="95%">
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><h3>Question</h3></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Asked by:</b></td>
+    <td align="left" colspan="2" valign="top">Harvey Fiala</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Subject:</b></td>
+    <td align="left" colspan="2" valign="top">Sandy Kidd's Device</td>
+  </tr>
+  <tr>
+    <td align=right class=medium valign="top" nowrap><b>Question:</b></td>
+    <td align=left class=medium valign="top" width="400" colspan="2">I have studied the picture of your device in the Propulsion section of this web site. From the appearance of it, it is not clear how you intended for it to move.<br>
+For example, it appears that each gyro is constrained so that it cannot precess upward at an angle. It seem as though they are locked in a horizontal plane<br>
+It seems as though the whole device was intended to be able to slide up or down on the central column. Is that correct? ___________<br>
+It appears that the whole device could rotate in the horizontal plane.<br>
+How are the rotors powered? _____________<br>
+It appears as though the rotors are powered by pulleys and v-belts driven from below? ______<br>
+Bruce dePalmas theory was that if a rotor wanted to precess, but was constrained to not be able to, it would still lose its inertia. Is that your basic idea also? __________<br>
+The structure appears to be built with strap iron and bolts or rivets. At what places on the V shaped structure are things supposed to be hinged and be able to flex? ______<br>
+</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Date:</b></td>
+    <td align="left" colspan="2" valign="top">13 September 2004
+    </td>
+  </tr>
+  <tr>
+    <td align="right" colspan="3" valign="top"><a href="abuse.asp?q=228">report abuse</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2><hr width="100%"></td>
+  </tr>
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><br><h3>Answers (Ordered by Date)</h3><br></td>
+  </tr>
+  <tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Sandy Kidd</b> - 21/09/2004 12:49:07
+</td></tr><tr><td>&nbsp;</td><td>Dear Harvey Fiala,<br>
+Once upon a time when I believed everything I had previously been taught at technical college, I came up with an idea that required the use of a gyroscope <br>
+The machine was designed such that the gyros would start to operate at an angle of around 51 degrees above the horizontal. The vertical component of any action would therefore be greater than the horizontal component by around 25%<br>
+With about 30 lbs of centrifugal force being generated at each gyro, and the gyros running fast enough to go into what is known as precession a healthy 70 plus lbs of vertical thrust was expected.<br>
+The gyro restraining links were slotted to allow for inward travel (and not fixed as they appear in the photo.)<br>
+The input power for the gyros was from a model 2 stroke glow plug engine of about 1  hp. This engine was coupled via a centrifugal clutch into a bevel gearbox with pulley output drive. This gearbox was fitted around the base (fulcrum area) of the device. The pulley drive from the gearbox in turn drove the gyros through a pulley and belt system that finally drove the gyros through shafts and universal couplings.<br>
+The device was built as cheaply as possible, and support arms were made from thin aluminium sheet. <br>
+The gyro fulcrum is at the intersection of the aluminium straps at the bottom of the Vee  <br>
+The whole device was designed to slide up and down inside plain bearings<br>
+The cranked/weird pop riveted shape of the links was part of the step by step stages in matching up gyro and machine dimensions. <br>
+Initially this machine did absolutely nothing. Eventually after many months of intensive running and general abuse (obvious from the photo) the device had become very sloppy and loose. Then for reasons best known to itself it began to produce 1 lb. of vertical thrust on a consistent basis.  This thrust was produced for all the wrong reasons and in spite of anything I had designed into the machine. Any faith I had left in the popular interpretation of the laws of motion was now gone.<br>
+The device was made this shape for a purpose although it probably looks more like a happening than a design.<br>
+The design was misguided and unnecessary, but by a fluke produced a fair amount of non Newtonian thrust. It took me many years to find out why.<br>
+The thrust was created by a series of associated actions that would be very hard to reproduce.<br>
+Sandy Kidd <br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=405">Report Abuse</a></td></tr>
+<tr>
+<td align="center" colspan="2"><a href="answerquestion.asp?id=228">Add an Answer &#062;&#062;</a></td></tr>
+</table>
+    </td>
+  </tr>
+  </table>
+  
+  <font class="copyright">
+  Website. Copyright &copy; 2016 Glenn Turner. All rights reserved. <a href="/site.asp">site info</a><br>
+     Do not copy without prior permission. Click here for <a target="gyroscopeproducts" href="http://www.gyroscope.com/" alt="Gyroscope products">gyroscope products</a> 
+   
+  </font>
+</center>
+
+</body>
+</html>

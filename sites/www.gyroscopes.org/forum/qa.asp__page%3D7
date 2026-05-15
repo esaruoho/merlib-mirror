@@ -1,0 +1,288 @@
+
+<html>
+<head>
+  <title>The Gyroscope - Everything you needed to know</title>
+  <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+  <meta http-equiv="pics-label" content='(pics-1.1 "http://www.icra.org/ratingsv02.html" comment "ICRAonline EN v2.0" l gen true for "no gen term" r (nz 0 vz 0 lz 0 oz 0 cz 0) "http://www.rsac.org/ratingsv01.html" l gen true for "no gen term" r (n 0 s 0 v 0 l 0))'>
+  <META NAME="Author" CONTENT="Glenn Turner">
+  <META NAME="keywords" CONTENT="gyroscope, gyroscopes , gyro, gyros, gyroscopic propulsion">
+  <META NAME="Description" CONTENT="The Gyroscope has many uses, this site explains how a gyroscope works and what it can be used for. The site also looks at the possible use of gyroscope based propulsion (gyroscopic propulsion). ">
+  <META NAME="Copyright" CONTENT="Copyright 2003 (All Web Pages) by Glenn Turner">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="expires" content="0">
+  <link rel="stylesheet" href="/iesite.css" type="text/css">
+</head>
+<body bgcolor="#000000">
+  <div style="position: absolute; top: 2; width=100%; z-index: 1"><center><img src="/header.jpg" alt="" hspace=0 vspace=0 width=700 height=111></center></div>
+
+  <table border=0 cellpadding=0 cellspacing=0 width="0" height="96">
+  <tr>
+    <td></td>
+  </tr>
+  </table>
+
+  <center>
+  <span class="menutitle">
+    <a href="/index.asp"><font color="#991111">Home</font></a> :
+    <a href="/gallery.asp"><font color="#991111">Gallery</font></a> :
+    <a href="/history.asp"><font color="#991111">History</font></a> :
+    <a href="/uses.asp"><font color="#991111">Uses</font></a> :
+    <a href="/behaviour.asp"><font color="#991111">Behaviour</font></a> :
+    <a href="/math.asp"><font color="#991111">Maths</font></a> :
+    <a href="/forum/qa.asp"><font color="#991111">Forum</font></a> :
+    <a href="/propulsion.asp"><font color="#991111">Propulsion</font></a> :
+    <a href="/links.asp"><font color="#991111">Links</font></a> :
+    <a href="/glossary.asp"><font color="#991111">Glossary</font></a>
+    <br>
+  </span>
+
+  <table border=0 cellpadding=0 cellspacing=0 width="0" height="11">
+  <tr>
+    <td></td>
+  </tr>
+  </table>
+
+
+
+
+
+  <table border=0 cellpadding=8 cellspacing=0 width="700" height="260" bgcolor="#FFFFFF" ID="Table1">
+  <tr>
+    <td valign="top" class="main">
+<table align="center" width="100%" border="0">
+  <tr>
+    <td align="left" width="30%" valign="top">
+      <a href="qa.asp">Main Forum Page</a>
+    </td>
+    <td align="center" valign="middle">
+      <h2 border="0">The Gyroscope Forum</h2></td>
+    <td align="right" width="30%" valign="top">
+      21 January 2004 00:29
+    </td>
+  </tr>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <p align=left>Welcome to the gyroscope forum. If you have a question about gyroscopes in general,
+      want to know how they work, or what they can be used for then you can leave your question here for others to answer.
+         You may also be able to help others by answering some of the questions on the site.
+      </p>
+      <p>
+      <form action="qa.asp" method="post">
+      Search the forum: <input type="text" value="" name="forumsearch">&nbsp;<input type="submit" value="Search" name="forumsearchsubmit">
+      </form>
+      </p>
+      <b>To ask a question <a href="askquestion.asp">click here</a></b><hr width=75%>
+    </td>
+  </tr>
+</table>
+<table align=center border=0 width=95% cellspacing=0 cellpadding=2 class=gallerytable>
+<tr>
+<td align=center width=100><a href="qa.asp?page=6">&lt;&lt; Prev</a></td><td align=center><b>Page 1 of 9</b><br><font size=-1>( 87 Questions found)</font></td><td align=center width=100><a href="qa.asp?page=8">Next &gt;&gt;</a></td></tr></table><p><table border="0" align="center" width="95%">
+
+<tr>
+<td colspan="2"  align="left">
+<a href="questions.asp?id=41"><b><font color="#000000">gyrosat or gyroscope</font></b></a><br>
+WHAT IS THE DIFFERENCE BETWEEN A GYROSCOPE & GYROSTAT <br>
+24 June 2003 by <i>Richard Coombes</i> <br>
+<a href="questions.asp?id=41">Read Question in Full</a>
+
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="questions.asp?id=41">View Answers (1 answers)</a>
+  </td></tr><tr><td align="left" colspan="2">&nbsp;</td></tr>
+<tr>
+<td colspan="2" class=forumodd align="left">
+<a href="questions.asp?id=36"><b><font color="#000000">Any light weight, battery powered gyros around?</font></b></a><br>
+I am looking for light weigth, (one to three pounds or so) battery powered gyroscopes. If anyone has info or could direct me to a source, it would be appreciated. Thanks. <br>
+10 May 2003 by <i>Scott Michaels</i> <br>
+<a href="questions.asp?id=36">Read Question in Full</a>
+
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="questions.asp?id=36">View Answers (1 answers)</a>
+  </td></tr><tr><td align="left" colspan="2">&nbsp;</td></tr>
+<tr>
+<td colspan="2"  align="left">
+<a href="questions.asp?id=35"><b><font color="#000000">What is meant by Gyro drift rate?</font></b></a><br>
+What is meant by drift rate in gyro? <br>
+24 April 2003 by <i>Seeniammal</i> <br>
+<a href="questions.asp?id=35">Read Question in Full</a>
+
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No answers as yet.
+  </td></tr><tr><td align="left" colspan="2">&nbsp;</td></tr>
+<tr>
+<td colspan="2" class=forumodd align="left">
+<a href="questions.asp?id=34"><b><font color="#000000">Have you heard of a human gyroscope?</font></b></a><br>
+Have you heard of a human gyroscope? <br>
+16 April 2003 by <i>john smith</i> <br>
+<a href="questions.asp?id=34">Read Question in Full</a>
+
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="questions.asp?id=34">View Answers (3 answers)</a>
+  </td></tr><tr><td align="left" colspan="2">&nbsp;</td></tr>
+<tr>
+<td colspan="2"  align="left">
+<a href="questions.asp?id=33"><b><font color="#000000">Gyroscopes</font></b></a><br>
+Please, can you tell me how a gyroscope works. I have seen tilting motion being mentioned but don't understand. Tilting in relation to what. Also, why doesn't one fall of a bicycle and why is stabilit <b>...</b> <br>
+8 April 2003 by <i>jose l. tovar</i> <br>
+<a href="questions.asp?id=33">Read Question in Full</a>
+
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="questions.asp?id=33">View Answers (1 answers)</a>
+  </td></tr><tr><td align="left" colspan="2">&nbsp;</td></tr>
+<tr>
+<td colspan="2" class=forumodd align="left">
+<a href="questions.asp?id=31"><b><font color="#000000">How does a gyroscope work?</font></b></a><br>
+What is a gyroscope? <br>
+1 April 2003 by <i>jo</i> <br>
+<a href="questions.asp?id=31">Read Question in Full</a>
+
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="questions.asp?id=31">View Answers (2 answers)</a>
+  </td></tr><tr><td align="left" colspan="2">&nbsp;</td></tr>
+<tr>
+<td colspan="2"  align="left">
+<a href="questions.asp?id=30"><b><font color="#000000">How do gyroscopes work?</font></b></a><br>
+How do gyroscopes work? Please explain in great detail so i can understand. 
+ 
+Thank You <br>
+7 March 2003 by <i>Charles Krol</i> <br>
+<a href="questions.asp?id=30">Read Question in Full</a>
+
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="questions.asp?id=30">View Answers (1 answers)</a>
+  </td></tr><tr><td align="left" colspan="2">&nbsp;</td></tr>
+<tr>
+<td colspan="2" class=forumodd align="left">
+<a href="questions.asp?id=29"><b><font color="#000000">A lighter gyroscope</font></b></a><br>
+Why does a spinning gyroscope weigh less <br>
+9 February 2003 by <i>MaSSmeDiA</i> <br>
+<a href="questions.asp?id=29">Read Question in Full</a>
+
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="questions.asp?id=29">View Answers (2 answers)</a>
+  </td></tr><tr><td align="left" colspan="2">&nbsp;</td></tr>
+<tr>
+<td colspan="2"  align="left">
+<a href="questions.asp?id=28"><b><font color="#000000">I need your help</font></b></a><br>
+Please discribe how gyroscope basically works? 
+please give me a map of inside structure of gyroscope? 
+i have searched in internet very much but because of the secret of armic gyroscope i dont lear <b>...</b> <br>
+1 February 2003 by <i>Amir Rezaei Farrokh</i> <br>
+<a href="questions.asp?id=28">Read Question in Full</a>
+
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="questions.asp?id=28">View Answers (1 answers)</a>
+  </td></tr><tr><td align="left" colspan="2">&nbsp;</td></tr>
+<tr>
+<td colspan="2" class=forumodd align="left">
+<a href="questions.asp?id=27"><b><font color="#000000">References</font></b></a><br>
+For a science fair project I am looking for a good reference for general imformation. 
+Any ideas? <br>
+22 January 2003 by <i>Brandy Coveyou</i> <br>
+<a href="questions.asp?id=27">Read Question in Full</a>
+
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="questions.asp?id=27">View Answers (1 answers)</a>
+  </td></tr><tr><td align="left" colspan="2">&nbsp;</td></tr>
+<tr>
+<td colspan="2"  align="left">
+<a href="questions.asp?id=26"><b><font color="#000000">How to model Errors of RLG</font></b></a><br>
+How to model Errors of RLG <br>
+17 January 2003 by <i>D penchalaiah</i> <br>
+<a href="questions.asp?id=26">Read Question in Full</a>
+
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="questions.asp?id=26">View Answers (1 answers)</a>
+  </td></tr><tr><td align="left" colspan="2">&nbsp;</td></tr>
+<tr>
+<td colspan="2" class=forumodd align="left">
+<a href="questions.asp?id=24"><b><font color="#000000">GYROSKOPE</font></b></a><br>
+WHAT IS GYROSCOPE PRICE FOR VERSUS TYPE? <br>
+16 January 2003 by <i>DARUOOSH</i> <br>
+<a href="questions.asp?id=24">Read Question in Full</a>
+
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No answers as yet.
+  </td></tr><tr><td align="left" colspan="2">&nbsp;</td></tr>
+<tr>
+<td colspan="2"  align="left">
+<a href="questions.asp?id=21"><b><font color="#000000">Using gyroscopes in a robot</font></b></a><br>
+Hi everybody 
+ 
+I need a device to determine my robot's position in all three dimensions and need to know is it parallel to ground.please help me. 
+tnx 
+Puya <br>
+13 October 2002 by <i>Puya Maleky</i> <br>
+<a href="questions.asp?id=21">Read Question in Full</a>
+
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="questions.asp?id=21">View Answers (1 answers)</a>
+  </td></tr><tr><td align="left" colspan="2">&nbsp;</td></tr>
+<tr>
+<td colspan="2" class=forumodd align="left">
+<a href="questions.asp?id=20"><b><font color="#000000">How does a mechanical gyroscope work?</font></b></a><br>
+I want to know that what is a gyroscope and how does it work? and also want to know about its usages. 
+Thanks for your information. <br>
+10 October 2002 by <i>Yaser Farzanmehr</i> <br>
+<a href="questions.asp?id=20">Read Question in Full</a>
+
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No answers as yet.
+  </td></tr><tr><td align="left" colspan="2">&nbsp;</td></tr>
+<tr>
+<td colspan="2"  align="left">
+<a href="questions.asp?id=17"><b><font color="#000000">Gyroscope used as a generator</font></b></a><br>
+I have read in several places that gyos can be used as electric generators, what i dont see are output estimates. Just how much net power can be produced? Any links to related research would be apprec <b>...</b> <br>
+29 October 2001 by <i>Curtis Sumner</i> <br>
+<a href="questions.asp?id=17">Read Question in Full</a>
+
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="questions.asp?id=17">View Answers (5 answers)</a>
+  </td></tr><tr><td align="left" colspan="2">&nbsp;</td></tr>
+<tr>
+<td colspan="2" class=forumodd align="left">
+<a href="questions.asp?id=16"><b><font color="#000000">Power-balls</font></b></a><br>
+how long has the longest power-ball spin been ? <br>
+4 October 2001 by <i>Giresh</i> <br>
+<a href="questions.asp?id=16">Read Question in Full</a>
+
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No answers as yet.
+  </td></tr><tr><td align="left" colspan="2">&nbsp;</td></tr>
+<tr>
+<td colspan="2"  align="left">
+<a href="questions.asp?id=15"><b><font color="#000000">FOC Gyros</font></b></a><br>
+Anyone have a list of companies / designers for optical gyros? <br>
+26 June 2001 by <i>Ken Edmonds</i> <br>
+<a href="questions.asp?id=15">Read Question in Full</a>
+
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No answers as yet.
+  </td></tr><tr><td align="left" colspan="2">&nbsp;</td></tr>
+<tr>
+<td colspan="2" class=forumodd align="left">
+<a href="questions.asp?id=13"><b><font color="#000000">Large Gyroscope or Gyrocage</font></b></a><br>
+Hi there, 
+ 
+I am sure that most of you have seen the large gyroscopes that they strap people into at fairs and amusement parks. I am interested in buying one. Where can they be found and do they ha <b>...</b> <br>
+25 April 2001 by <i>John Greaves</i> <br>
+<a href="questions.asp?id=13">Read Question in Full</a>
+
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="questions.asp?id=13">View Answers (2 answers)</a>
+  </td></tr><tr><td align="left" colspan="2">&nbsp;</td></tr>
+<tr>
+<td colspan="2"  align="left">
+<a href="questions.asp?id=12"><b><font color="#000000">Scooters</font></b></a><br>
+What is that new scotter thing they have been talking about that runs on gyros?  <br>
+23 April 2001 by <i>tim</i> <br>
+<a href="questions.asp?id=12">Read Question in Full</a>
+
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="questions.asp?id=12">View Answers (2 answers)</a>
+  </td></tr><tr><td align="left" colspan="2">&nbsp;</td></tr>
+<tr>
+<td colspan="2" class=forumodd align="left">
+<a href="questions.asp?id=11"><b><font color="#000000">Gyroscope tuning</font></b></a><br>
+How do can I tune the gyro exactly? <br>
+11 April 2001 by <i>reza poosti</i> <br>
+<a href="questions.asp?id=11">Read Question in Full</a>
+
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="questions.asp?id=11">View Answers (1 answers)</a>
+  </td></tr></table><table align=center border=0 width=95% cellspacing=0 cellpadding=2 class=gallerytable>
+<tr>
+<td align=center width=100><a href="qa.asp?page=6">&lt;&lt; Prev</a></td><td align=center><b>Page 1 of 9</b><br><font size=-1>( 87 Questions found)</font></td><td align=center width=100><a href="qa.asp?page=8">Next &gt;&gt;</a></td></tr></table><p>    </td>
+  </tr>
+  </table>
+  
+  <font class="copyright">
+  Webpage. Copyright &copy; 2004 Glenn Turner. All rights reserved. <a href="/site.asp"><font color="#991111">more info</font></a><br>
+     All other images/content copyrighted to the designated owners,<br>
+      and must not be reproduced or distributed without prior permission. 
+  </font>
+</center>
+
+</body>
+</html>

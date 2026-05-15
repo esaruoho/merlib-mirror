@@ -1,0 +1,638 @@
+
+<html>
+<head>
+  <title>Gyroscopes - Everything you needed to know</title>
+  <meta HTTP-EQUIV="Content-Type" content="text/html; charset=iso-8859-1">
+  <meta http-equiv="pics-label" content='(pics-1.1 "http://www.icra.org/ratingsv02.html" comment "ICRAonline EN v2.0" l gen true for "no gen term" r (nz 0 vz 0 lz 0 oz 0 cz 0) "http://www.rsac.org/ratingsv01.html" l gen true for "no gen term" r (n 0 s 0 v 0 l 0))'>
+  <meta name="Author" content="Glenn Turner">
+  <meta name="keywords" content="gyroscope, gyroscopes , gyro, gyros, gyroscopic propulsion">
+  <meta name="Description" content="Gyroscopes have many uses, this site explains how a gyroscope works and what they can be used for. The site also looks at the possible uses of gyroscope based propulsion (gyroscopic propulsion). ">
+  <meta name="Copyright" content="Copyright 2015 (All Web Pages) by Glenn Turner">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="expires" content="0">
+  <link rel="stylesheet" href="/iesite.css" type="text/css">
+  
+</head>
+<body bgcolor="#000000">
+  <div style="  float: center; margin: 0; border: none; padding: 0; " align=center><center><img src="/header.jpg" alt="" hspace=0 vspace=0 width=700 height=111></center></div>
+  <center>
+  <span class="menutitle">
+    <a href="/index.asp"><font color="#DDDDDD">Home</font></a> :
+    <a href="/gallery.asp"><font color="#DDDDDD">Gallery</font></a> :
+    <a href="/history.asp"><font color="#DDDDDD">History</font></a> :
+    <a href="/uses.asp"><font color="#DDDDDD">Uses</font></a> :
+    <a href="/behaviour.asp"><font color="#DDDDDD">Behaviour</font></a> :
+    <a href="/math.asp"><font color="#DDDDDD">Maths</font></a> :
+    <a href="/forum/forums.asp"><font color="#DDDDDD">Forum</font></a> :
+    <a href="/propulsion.asp"><font color="#DDDDDD">Propulsion</font></a> :
+    <a href="/links.asp"><font color="#DDDDDD">Links</font></a> :
+    <a href="/glossary.asp"><font color="#DDDDDD">Glossary</font></a>
+    <br>
+  </span>
+
+  <table border=0 cellpadding=0 cellspacing=0 width="0" height="11">
+  <tr>
+    <td></td>
+  </tr>
+  </table>
+
+
+
+
+
+  <table border=0 cellpadding=8 cellspacing=0 width="700" height="260" bgcolor="#FFFFFF" ID="Table1">
+  <tr>
+    <td valign="top" class="main">
+<table align="center" width="100%" border="0">
+  <tr>
+    <td align="left" width="20%" valign="top">
+      <a href="forums.asp">Main Forum Page</a>
+    </td>
+    <td align="center" valign="middle">
+      
+      <h2 border="0">       
+      The Gyroscope Forum</h2></td>
+    <td align="right" width="20%" valign="top">
+      16 July 2019 07:58
+    </td>
+  </tr>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <p align=left>Welcome to the gyroscope forum. If you have a question about gyroscopes in general,
+      want to know how they work, or what they can be used for then you can leave your question here for others to answer.
+         You may also be able to help others by answering some of the questions on the site.
+      </p>
+      
+      <table width="100%">
+      <tr><td>
+        <form action="qa.asp" method="get">
+        <b>Search the forum: </b><input type="text" value="" name="forumsearch" size=30>&nbsp;<input type="submit" value="Search" name="forumsearchsubmit">
+          <input type=hidden name="forum" value="">
+        </form>
+      </td><td>
+        
+        <form action="askquestion.asp" method="post">
+        <input type="submit" value="Ask new Question" name="forumsearchsubmit">&nbsp;
+        
+        <input type="submit" value="Login" name="Login"> 
+        
+        </form>
+      </td></tr>
+      </table>
+      <hr width=100%>
+    </td>
+  </tr>
+</table>
+
+<table align="center" border="0" width="95%">
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><h3>Question</h3></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Asked by:</b></td>
+    <td align="left" colspan="2" valign="top">Glenn Hawkins</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Subject:</b></td>
+    <td align="left" colspan="2" valign="top">Sandy Kidds Propulsion</td>
+  </tr>
+  <tr>
+    <td align=right class=medium valign="top" nowrap><b>Question:</b></td>
+    <td align=left class=medium valign="top" width="400" colspan="2"><br>
+Begin watching this video at 2:<br>
+https://search.yahoo.com/yhs/search?p=sandy+kidd+device&ei=UTF-8&hspart=mozilla&hsimp=yhs-003<br>
+<br>
+I find this right and necessary to say.<br>
+Sandy Kidd has already produced inertial propulsion. I did not know about this video until a few moments ago. I knew he had produced incremental propulsion but not very useful until I watched this demonstration. The thrust is weak, but it is there and so this man has produced substantial, useful propulsion. I wish I had found this video before. Somehow I missed it. I saw that other video where he lifted the entire device but only an inch and no more.<br>
+<br>
+I retract my native words and give the apology due; but more than that, from now on I can champion his work. I have looked at so many patents and about all the video demonstrations and read the claims about I.P. device successes. In all that I studied I could not find one device that worked; except Sandys. Until, if and when I see proof otherwise, sandy Kidd is the first and only man to produce inertial propulsion. I am sure, because I understand from my own work the mechanics of what is happening in this video.<br>
+<br>
+It is beyond me to know why a preeminent engineering firm somewhere on the planet did not bring him into their fold and given him every assistance in further developing his prototype to be launched into space.<br>
+<br>
+I am Sorry Mr. Kidd. Live long and prosper Scotty.<br>
+<br>
+Glenn,<br>
+</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Date:</b></td>
+    <td align="left" colspan="2" valign="top">19 July 2015
+    </td>
+  </tr>
+  <tr>
+    <td align="right" colspan="3" valign="top"><a href="abuse.asp?q=2860">report abuse</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2><hr width="100%"></td>
+  </tr>
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><br><h3>Answers (Ordered by Date)</h3><br></td>
+  </tr>
+  <tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Sandy</b> - 20/07/2015 23:45:01
+</td></tr><tr><td>&nbsp;</td><td>Good evening everyone,<br>
+In answer to Glenns latest posting there are a few points I would wish to make.<br>
+I do agree that until somebody manages to get a device into a floating mode there is always going to be a doubt as to the verity of any demonstration.<br>
+I once made a comment relating to YouTube and the truthfulness of a fair old percentage of the offerings inserted there. <br>
+This was my primary reason for never having previously inserted anything.<br>
+Our good friend Dr Fisher did make a valid comment to the effect that all sort of wonders can be achieved with a piece of fishing line, so even a video, especially a video, can be doctored.<br>
+<br>
+That said, the Australian company who had an interest in my first device were in no doubt of the devices ability to deliver 20% of its weight repeatedly.<br>
+However even though they were convinced the device was genuine they wanted conclusive proof before they launched an expensive development program.<br>
+To that end the VIPAC Laboratories in Port Melbourne were contracted to design a procedure to test the device, carry out the analysis, and deliver a report to the company.<br>
+The 23 sheet lab report stated conclusively that inertial thrust was repeatedly developed during testing.<br>
+Although the results had been proved genuine the operation of the device was not compatible with Sir Isaac so that is as far as it went.<br>
+Or to be fair no one had a clue why it could do what it did.<br>
+<br>
+However we are discussing events of 25 or so, years ago.<br>
+Any of my devices subject to popular press, television, or YouTube were all carried out around the mid- eighties.<br>
+<br>
+I have subsequently carried out hundreds of successful tests usually on a counterbalance as I know the things are genuine, and there is no doubt in my mind that they all operate for the reasons, which I have designed into them.<br>
+Otherwise I have released nothing since the1980s.<br>
+Sorry for the extended rabbiting on, but I am trying to make the point that one successful laboratory test, with accompanying report, is worth a thousand visual demonstrations.<br>
+Regards <br>
+Sandy<br>
+PS <br>
+To celebrate the 30 years that has passed since my first device was introduced to the world, I have just completed a much better made version of the device, the one seen on YouTube (not the Discovery rubbish), to prove the principle.<br>
+At the same time I thought I had better build a radio controlled version of the lab test device which operated somewhat differently from the other machine. <br>
+The lab test device had twin gyro rotation and hub rotation all run off one gearbox with fixed speeds and only a manual throttle on the engine to control it all.<br>
+That was living dangerously, but I got away with it.<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=7567">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Dave Parsons</b> - 26/07/2015 20:57:25
+</td></tr><tr><td>&nbsp;</td><td>To Glenn, and all (interested?) others:<br>
+<br>
+Your abysmal ignorance of the facts of Newton's history seems to be matched only by your abysmal ignorance of those you have been attacking in these forums. Your statement " I did not know about this video until a few moments ago" displays your ignorance. The facts reported in that video were made many decades ago and any one purporting to be an expert in these forums would have taken the trouble to obtain all relevant facts before spewing any character attacks in these forums.<br>
+<br>
+Your character attacks and gibberish in these forums are the hallmark traits of a resident troll. The only statement I support from you is that you will take your ?secret? knowledge of gyroscopic propulsion to the grave with you. I don't think we could withstand the humour of seeing you embarrassing yourself with ?exposure? of your secret knowledge.<br>
+<br>
+You have taken refuge under your Sandy's kilt.<br>
+<br>
+Sandy;  be careful what he plays with under there.<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=7572">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 27/07/2015 03:06:38
+</td></tr><tr><td>&nbsp;</td><td>David, for peat's sake!   Stop it child! <br>
+<br>
+I don't give a sh-#$&^ about Newton. The only wheels that were available to him were on wagons and wind and water mills.<br>
+<br>
+Goodbye now and good luck to you.<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=7574">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 09/10/2015 11:06:43
+</td></tr><tr><td>&nbsp;</td><td>I am force to retract my statement that the Kidd effort produces a weak thrust, or any thrust of any kind at all. It cannot be confirmed by the evidence alone on the video and it couldn't work in any case. Mechanically there was no chance it ever could have.<br>
+<br>
+Moreover you may see experimental apparatus' by Glenn Tuner long ago to use the same hub rotation as explained on this site. Go to Propulsion. Click on my work. Scroll down to number (3) 4-2-1995 to Tuesday 9-8-1996 (Testing) and read.<br>
+<br>
+Scroll down to (6). This is the best design I have seen in attempting to use a hub motor to rotate spinning flywheels. Read the findings.<br>
+<br>
+Ravi, once a poster on this site, offered many videos of his hub/gyro rotation device running to no success whatsoever.<br>
+<br>
+This idea could never work.<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=7635">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Sandy</b> - 10/10/2015 21:36:01
+</td></tr><tr><td>&nbsp;</td><td>Shed dwellers,<br>
+I am not at all hopeful that Glenn will ever discover any method of producing inertial thrust, and he will know best himself why he is denying me.<br>
+However I am used to this sort of thing, after suffering many years of it.<br>
+<br>
+I managed to produce 16 ounces of thrust about 20% of the machines weight, with that machine which I think is more than a little significant.<br>
+<br>
+Several months later I received an endorsement from a high profile laboratory that another device I had built, and operating in different manner had completed a series of successful runs, which should have been good enough for anybody with any sense.<br>
+Inertial thrust was achievable.<br>
+<br>
+However in light of the fact that you cannot see why the device can work does not mean that it cannot.<br>
+It was for the reason that the thrusting action was obscure, that I eventually relented and allowed it to be inserted into YouTube. <br>
+Fortunately or unfortunately opinions are like the proverbial and everyone has one.<br>
+<br>
+That device was successfully demonstrated by invitation to Edinburgh University for a team of several physicists and professors of engineering. <br>
+After a successful demonstration the leading professor (name withheld) told me (in other words) to get it covered up as quickly as possible and get it back to Dundee right away.<br>
+That was an example of only one occasion in which it was demonstrated.<br>
+There were many more, but in not one case could anyone figure out why it worked.<br>
+ <br>
+In a court of law I can easily demonstrate why that device works, and I do have a 30 year down the line edition of the same device, which can demonstrate the function much more easily.<br>
+By that I mean that I can demonstrate the function, but you will probably still never understand it..<br>
+I did mention in my book that I was not too happy at the thought of a certain mechanical function of the machine being responsible, which was up to a point true, but on its own I stress was not.<br>
+That device functioned in the past, 30 plus years ago to be exact and during this extended period the convoluted action which created the thrust has been simplified<br>
+Glenn has obviously been over it with a microscope and I will give you this it does not appear to do anything untoward, so he is not alone.<br>
+<br>
+However the lab test device still operates today as it did in 1987 but built into a much improved device.<br>
+There is a Laboratory Report, (on PDF) an American Patent Application with sketches of course and good photographs of that device. <br>
+I take it that this one cannot work either?<br>
+Since 2004 I have systematically loaded information into this forum by frequent posting.<br>
+Everything required to follow my thinking, and where I am coming from is in those postings.<br>
+Please do not tell me you do not understand, as it is all there?<br>
+You may not agree with me, thats tough<br>
+If you wish to produce inertial thrust, have a read.<br>
+Everything I posted whether it agreed with accepted principles or not was the result of bench testing which is the only way.<br>
+No mythamatics.<br>
+I tried to help, not be a smartass, but nobody seems to have taken any notice and went on their own particular ways, which inventors tend to do and that I can understand.    <br>
+All that is left to say is Hell mend you<br>
+Sandy Kidd<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=7637">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Sandy</b> - 11/10/2015 21:49:08
+</td></tr><tr><td>&nbsp;</td><td>Shed dwellers<br>
+For your interest the device designed and built by Webmaster Glenn and referred to by the other Glenn is similar to my devices in as much as the machine and gyros rotate.<br>
+I think you will also discover that it was designed and built long after my device, and it was obviously not meant to be a copy.<br>
+I will not attempt to list the differences as they are endless.<br>
+Attempting to compare the devices I find pointless and timewasting.<br>
+I do however agree on one thing and that is the fact that Glenns device could never work.<br>
+<br>
+The magic must be found elsewhere, and even whilst owning such a device the task was not an easy one, although it has still got to be possible.<br>
+The important issue is that I have proved, that it can be done, which must be at least half the battle.<br>
+Initially, it was like looking for the needle in the haystack, without any guarantee that there was ever a needle in there.<br>
+Sandy<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=7638">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 11/10/2015 23:25:36
+</td></tr><tr><td>&nbsp;</td><td>Sandy, I am sorry that your machine does not work and I know you feel persecuted by thirty years of disregard and disbelief. If I have learned your personality correctly over the years, my sympathy is tasteful to you. How does one apologize for that, for another man's distaste? Anyhow, I am sorry about your machine.<br>
+<br>
+When the flywheels lift they apply an upward torque equal to the horizontally applied force by the hub motor, and a tiny amount of extra energy used to accelerate the mass upwards. During this action, the combined forces pressed down on the hub motor/platform. The force reaction is equal and opposite. The greater the horizontally applied force to rotate the spinning disk; the greater the force they apply downward onto the hub.<br>
+<br>
+This is how it happens:<br>
+<br>
+(1)	The wheels will rise, with the rise weakling as the wheels approach vertical, which is the point wherein they can rise no further and that is the end of that.<br>
+<br>
+(2)	If the wheels are kept from rising while more horizontally force (hub) is applied, the shaft will began to buckle and the apparatus tries to fold in upon its self.<br>
+<br>
+Your machine is in a fight with itself and all the fight is conserved within itself, and there is just no energy escaping to cause the apparatuses to lift off. That is the conservation of angular momentum fighting you, not me.<br>
+<br>
+(3)	You can see the shaft bending force down on the pivot in this video 'Super Precision Gyroscope 8' at.18 seconds. Use stop action to view this action several times at this position where the gyro touches down and begins rolling. As it rolls it is becoming functionally the same as your hub rotation. The bending is not pronounced, but faint and difficult at times to discern, but it is definite. If you need it, if your really want to know, try to make a hard rubber shaft, and the bending action will be readily recognized.<br>
+<br>
+******************************************************************************************<br>
+<br>
+I recommend everyone here obtain at least one Super Precision Gyroscope. They are fabulous testing devices and enjoyable. They are  to  price if you buy them directly from Glenn. http://www.gyroscope.com/d.asp?product=SUPER2<br>
+<br>
+((((FOR SOMEONE ELSE. HELLO MY FRIEND, I wrote from bad memory that the professor used a 30 lb. wheel and that I weighed eleven times more than that. lol. Both, the experiment and calculations and additionally my vanity require that I correct that to about an 18 LB. wheel, which means I do not weigh 330 pounds. Lol ))))<br>
+<br>
+Glenn,<br>
+<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=7639">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Sandy</b> - 12/10/2015 23:37:24
+</td></tr><tr><td>&nbsp;</td><td>Evening Shed dwellers,<br>
+I really appreciate Glenn going out of his way to explain why my machine does not work.<br>
+However I do not recognise the machine under discussion, it could be a figment of his imagination.<br>
+There is whole lot of guessing going on.<br>
+It is certainly not mine.<br>
+If my device was capable of creating what Glenn is describing there would be no lift at all if the gyros were put into what the uninitiated would call precession.<br>
+Yes a load of torque but nothing else.<br>
+Is my machine in precession I do not think so <br>
+Do the gyros rise any higher than the 51degrees they are set at<br>
+No <br>
+So no precession<br>
+Does my machine appear to be bending? <br>
+No I do not think so.<br>
+Does it rotate without any visible stress or damage?<br>
+Yes I do think so.<br>
+Glenn will have to try a bit harder, a lot harder, a hell of a lot harder to get anywhere near the reasons why my various machines work.<br>
+Remember I have four specifically different types of device.<br>
+After 30 plus years it has become more of a hobby to me now than anything else, so I really do not care too much what anyone thinks.<br>
+I have been around the world with my devices in the early years but as I was short of many of the answers required to develop them.<br>
+So they were not developed.<br>
+Nobody ever denied that they worked except Dundee University as a political gesture, and of course our Glenn, who wanted badly to be first, but is 30 years too late.<br>
+When I discovered that Sir Isaacs work would have to be severely modified (as if that made any bleeding difference to anything) to explain away the production of inertial thrust an awful lot of heads disappeared into sand.<br>
+So I have freewheeled for a long time now and will probably have been freewheeling in my wooden jacket for a whole lot longer before common sense prevails.<br>
+I had really hoped that someone would pick up the pieces and develop them into a full blown space travelling vessel.<br>
+That is obviously not going to happen now so I really do not give a toss if my findings go to the grave with me.<br>
+I can however make one prediction and that is I will be a long time dead before Glenn produces any inertial thrust, with his latest theory.<br>
+I shall make another prediction, that being that if any theory relating to the production of inertial thrust is drawn up, written down, or dreamed up it will not work,<br>
+as there are too many unknown factors missing from available information.<br>
+Glenn may get awfully lucky and produce thrust but he will spend the next 10 years trying to find out why, and what makes what tick.<br>
+So I really do not care about his super theory, words are cheap, and I doubt very much if it will do anything. <br>
+If he was going to do anything, it would have happened years ago and not at this late date.<br>
+Regards,<br>
+Sandy <br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=7641">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 13/10/2015 21:42:32
+</td></tr><tr><td>&nbsp;</td><td>Sandy Hello!<br>
+<br>
+Oh, I understand now that you'll 'plained it good.<br>
+<br>
+You old beef eating pirate at the edge of a cold sea, bless you darling and good fortune to you. May the winds always fill your sails.<br>
+<br>
+Cordially yours and sincerely with my best wishes, May you blow a hole in the universe with your 12 master sailing ships disguised as a gyroscope.<br>
+Glenn<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=7642">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Harry K.</b> - 14/10/2015 09:07:19
+</td></tr><tr><td>&nbsp;</td><td>Glenn,<br>
+<br>
+I don't know why you have to insult Sandy and his work. Contrary to you he has proved his ideas with his machines. Till now you have proved nothing beside bloomy words.<br>
+<br>
+Harald<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=7643">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Harry K.</b> - 14/10/2015 09:07:21
+</td></tr><tr><td>&nbsp;</td><td>Glenn,<br>
+<br>
+I don't know why you have to insult Sandy and his work. Contrary to you he has proved his ideas with his machines. Till now you have proved nothing beside bloomy words.<br>
+<br>
+Harald<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=7644">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 14/10/2015 14:47:21
+</td></tr><tr><td>&nbsp;</td><td>Harry,<br>
+This is not a personal indictment against you at all, but a simple observation of a good and kind man. Perhaps it is your culture, perhaps it is a translation of languish conferences, but you have no understanding of humor whatsoever that I am aware of. I have insulted no one and I have been as gentile as I know how to be.<br>
+<br>
+The very foundation scientific instruction is a requirement that it be correct. I have had no pleasure in doing this correction. I avoided it for years because of my regard for Sandy, who surely hates me buy now. <br>
+<br>
+For so many years Sandy stated his machine worked, but it cannot work and never could. The professor along with an engineer furnished was so lacking of understanding that they tried for two years to measure precessions ability to lift. He ended up with mumbo-jumbo ramblings that meant it could not be done in a university lavatory with the best sensing devices money could buy. Sandy says otherwise, so when you say Sandy has proven his ideas, do you mean to say that the idea that his machine can work is correct, that it is proven? How in the world can you believe that?<br>
+<br>
+Sandy said that there was no inertia, centrifuge, or angular momentum during precession and he said he had proved that with gages. But, there is all those forces in normal amounts during precession. His gauges set me to thinking that precession pushes inward toward the pivot stronger than angular momentum pulls outward and so I began to investigate. In deed, the precessing gyroscope does push inward.  I am grateful to Sandy for using gages and mentioning them.<br>
+<br>
+Another thing, Nitro is correct in his observation/law in saying a gyroscope will precesses in all directions, even directions you havent thought of. That is to say, precession is a second reaction that is always at a right angle. Gravity pushes it downward-- it precesses sideways. A motor pushes it sideways-- it precesses upwards or downwards. Anytime you tilt a spinning wheel by any means the reaction will be at a right angel.<br>
+  <br>
+When one says the uninitiated and so call 'forced precession I suspect there must be confusion evident. Forced precession works fine in my vernacular. There is nothing wrong with it.  I however use a term  applied force, because applied force is the first reaction which sets all in motion. Precession is the second reaction. It seems more precise to me this way.<br>
+<br>
+Harold, you good guy you, we should try correct science. I do not like being contrary to anybody, but in this case there is no other way to correct wrong teaching. I suspect there are many young minds over time that come on here. Ask your friend Blaze what he thinks about this. I think you already know.<br>
+<br>
+I stopped a tests to write this. What am I doing? This will be the last I have to say on this for a long while.<br>
+<br>
+Take care and God protect you all,<br>
+Glenn,<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=7645">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Sandy</b> - 15/10/2015 22:21:26
+</td></tr><tr><td>&nbsp;</td><td>Glenn said,<br>
+Harry,<br>
+This is not a personal indictment against you at all, but a simple observation of a good and kind man. Perhaps it is your culture, perhaps it is a translation of languish conferences, but you have no understanding of humor whatsoever that I am aware of. I have insulted no one and I have been as gentile as I know how to be.<br>
+<br>
+Reply<br>
+I find nothing at all humorous about your statements, and will accept them in the manner in which they were offered, as insults<br>
+<br>
+The very foundation scientific instruction is a requirement that it be correct. I have had no pleasure in doing this correction. I avoided it for years because of my regard for Sandy, who surely hates me buy now.<br>
+ <br>
+Reply<br>
+Be assured that you are making no correction, that being simply because of the limited nature of your knowledge and experience. <br>
+<br>
+For so many years Sandy stated his machine worked, but it cannot work and never could. The professor along with an engineer furnished was so lacking of understanding that they tried for two years to measure precessions ability to lift. He ended up with mumbo-jumbo ramblings that meant it could not be done in a university lavatory with the best sensing devices money could buy<br>
+.<br>
+Reply<br>
+I do not know which toilet in which university you are referring to or which professor and which engineer you are referring to. <br>
+Precessions ability to lift what?<br>
+Sounds like more rubbish to me.<br>
+<br>
+ Sandy says otherwise, so when you say Sandy has proven his ideas, do you mean to say that the idea that his machine can work is correct, that it is proven? How in the world can you believe that?<br>
+<br>
+Reply<br>
+Have you studied the VIPAC Laboratory test and report? <br>
+That is deemed to be correct and was done by professionals.  <br>
+Surely in light of that you will give me the benefit of the doubt with my first one? <br>
+Funnily you have never ever mentioned my lab test.<br>
+Convenient I should have thought.<br>
+<br>
+Sandy said that there was no inertia, centrifuge, or angular momentum during precession and he said he had proved that with gages. But, there is all those forces in normal amounts during precession.<br>
+<br>
+Reply<br>
+I beg your pardon there is no acceleration at all in what you are calling precession so no inertia, centrifugal force, or angular momentum can be present<br>
+If you really want to be useful mount a system i.e. either a gravity accelerated system or a forcibly rotated system with a sensitive weight sensor mounted under the axis of system rotation.<br>
+If the system gets lighter, then, I am in error.  <br>
+<br>
+<br>
+ His gauges set me to thinking that precession pushes inward toward the pivot stronger than angular momentum pulls outward and so I began to investigate. In deed, the precessing gyroscope does push inward. I am grateful to Sandy for using gages and mentioning them.<br>
+<br>
+Reply<br>
+In effect you are prepared to accept what suits you, i.e. the easy parts.<br>
+You do not appear to know what is going on here either.<br>
+<br>
+Another thing, Nitro is correct in his observation/law in saying a gyroscope will precesses in all directions, even directions you havent thought of. That is to say, precession is a second reaction that is always at a right angle. Gravity pushes it downward-- it precesses sideways. A motor pushes it sideways-- it precesses upwards or downwards. Anytime you tilt a spinning wheel by any means the reaction will be at a right angel.<br>
+<br>
+Reply<br>
+Maybe I am wrong but I do not think that is exactly what Nitro meant.<br>
+<br>
+When one says the uninitiated and so call 'forced precession I suspect there must be confusion evident. Forced precession works fine in my vernacular. There is nothing wrong with it. I however use a term applied force, because applied force is the first reaction which sets all in motion. Precession is the second reaction. It seems more precise to me this way<br>
+<br>
+Reply<br>
+A gravity accelerated system is always in precession, however that is not true of a mechanically rotated system.<br>
+Unfortunately many call the rotation of a flywheel or gyroscope in forcibly rotated system precession irrespective of the rotation speed of the system or the disposition of the disc. When and why, does what you call precession start?<br>
+<br>
+Harold, you good guy you, we should try correct science. I do not like being contrary to anybody, but in this case there is no other way to correct wrong teaching. I suspect there are many young minds over time that come on here. Ask your friend Blaze what he thinks about this. I think you already know.<br>
+<br>
+Reply<br>
+If I had been forced to stop and listen to everyone who disagreed with me I would have got nowhere. Fortunately it is invariably all talk with no experimentation done to back the criticism up. <br>
+It is only wrong because you want it to be wrong.<br>
+<br>
+I stopped a tests to write this. What am I doing? This will be the last I have to say on this for a long while.<br>
+<br>
+Reply<br>
+Damned good question, and an even better answer.<br>
+<br>
+Take care and God protect you all,<br>
+Glenn,<br>
+<br>
+Sandy <br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=7648">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Dave Parsons</b> - 15/10/2015 22:25:59
+</td></tr><tr><td>&nbsp;</td><td>Sandy and others;<br>
+<br>
+Sandy ,in my email I tried to warn you about glenny and his schizophrenic nonsense. Whether from age or congenital, he lives in a different world, where the mere thought generated in his psyche becomes indisputable fact. He also suffers from a lack of recognition between the efforts of others and his own ?indisputable facts?. Harry? or whoever coaches glenny, you're getting him in over his head.<br>
+<br>
+His references to Turner's device, displays his abysmal ignorance of the non-newtonian properties of gyros and his confusion about the operation of  that device. What Turner  was attempting with his device went completely over glenny's head, which ain't saying much.<br>
+<br>
+Sandy, demand that glenn produce something to this forum. He has been getting away with his fraud for a long time now; time to pay the piper<br>
+<br>
+There have been videos posted on utube by astronauts, of gyro experiments in zero-g that demonstrate the non-newtonian responses of gyros to applied forces. Some of those responses illustrate what nitro has been saying about, ?equal and ?opposite??. It is quite obvious from those zero-g demonstrations that for gyros the ?right angle? precession is entirely dependant on rotational velocity. At low RPM's  in zero-g, gyros exhibit wobbles in their rotation when they experience a force applied to their spinning rims (i.e. a force trying to increase the velocity of the device ). Because the force is applied off-center of the axis of rotation, some of the force is translated into angular momentum as well as the increase of velocity. that ratio is entirely dependent  on the RPM's. At very high RPM's there is very little wobble and virtually all of the force is translated into increased velocity irregardless of where the force is applied.<br>
+<br>
+I hope I haven't said too much!<br>
+<br>
+The race is on;<br>
+<br>
+Leading the pack is Sandy Kidd followed closely by Nitro with numerous others straggling along after them and far in the distance, glenny, fumbling along, grimacing and caroling to all bystanders.<br>
+<br>
+And in advance of the pack; yours truly. To be fair, I have left clues and am under some disadvantages. I live on a small remote island off the west coast of Canada. To obtain materials and any off-the-shelf parts for my device I need to take a ferry to a larger island and then drive several hundred miles. There is a scrap yard on that larger island just 20 miles from the ferry, where I have salvaged some materials for my device, but things like gears and other parts that I can't turn out with my lathe, I have to rely on ebay, and the ones that are cheap enough for my budget are usually from China or Asia. I have to wait over a month for some parcels to arrive at my local Post Office before I can determine if they are good enough for my purpose. What would normally be a matter of weeks in the city turn into months here in the boonies. I am presently waiting for a shipment of plastic gears from Tunisia.<br>
+<br>
+I apologize for my tardiness; I should have had a utube video of my device for your amazement, "or amusement", before now. It appears that it will be at least another two months; that should give you  sufficient time to beat me to it.<br>
+<br>
+<br>
+<br>
+dave<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=7649">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Harry K.</b> - 16/10/2015 13:33:49
+</td></tr><tr><td>&nbsp;</td><td>Dave,<br>
+<br>
+I do not "coach" anyone here. If someone ask me for help I will help if I'm able to.<br>
+Your insult against Glenn H. are in my opinion not helpful, although understandable. I wished the casual conversation here in this forum would be more factual...<br>
+<br>
+Anyway, good luck with your trials.<br>
+<br>
+Harald<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=7650">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Dave Parsons</b> - 16/10/2015 18:05:26
+</td></tr><tr><td>&nbsp;</td><td>Harald;<br>
+<br>
+  You should demand, with Sandy and others, that glenny produce something substantive to this forum. He has been coasting along like any other resident troll on insults, innuendo, and outright character attacks. <br>
+<br>
+As far as I have been able to establish, he has never produced or displayed any devices or propounded any theories or experiments that have anything to do with IP.<br>
+<br>
+Those in these forums exist in that 2-dimensional world between scientist and crackpot and can become desperate to find some validation for their deviations from Newton's gang. That desperation can lead to Marsden frauds and others. I find it ridiculous that glenny has been able to pull the wool over all your peepers with so little effort.<br>
+<br>
+Make him prove it!!!  Then we'll see whether he is just a resident troll or in need of medication.<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=7651">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 18/10/2015 14:50:05
+</td></tr><tr><td>&nbsp;</td><td>Guten Morgen Harold,<br>
+<br>
+You are the one I do not understand. Please stop for a moment, as I just did-- and look over my correspondence. I could not find an insult-- not one. What I did was to correct wrong teaching and to do that I had to name the source. To stand up and say a person is preaching untruths perhaps unintentionally and then expose the truth for others is not an insult. It is the correct thing to do. You Herold, know what I wrote is true. Would you rather let the truth go unexposed? I said what the man spreading was wrong and I why it was no more than that. Look what I am getting in return, Harold; explosive anger from one with literary ability, and hate from an literate dim wit.<br>
+<br>
+John 8:32 Then you shall know the truth and the truth shall set you free.<br>
+<br>
+I wish you and yours happiness as I always, whether I have made myself understood or added confusion,<br>
+Glenn,<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=7653">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Thomas Welch</b> - 27/10/2015 17:43:43
+</td></tr><tr><td>&nbsp;</td><td>Mr Kidd has been working on his gyro propulsion device for over  30 years and I admire his perseverance but the devices he has built would not give propulsion and in their present form not a great deal of anything. Not to say he is not close but propulsion is somewhat different.to what he is close too.<br>
+You will no doubt all think  I do not now what I'm talking about , but from experiments and observations from hundreds of gyro videos and patents the answer has been there for decades. <br>
+<br>
+!<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=7701">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Thomas Welch</b> - 27/10/2015 17:43:58
+</td></tr><tr><td>&nbsp;</td><td>Mr Kidd has been working on his gyro propulsion device for over  30 years and I admire his perseverance but the devices he has built would not give propulsion and in their present form not a great deal of anything. Not to say he is not close but propulsion is somewhat different.to what he is close too.<br>
+You will no doubt all think  I do not now what I'm talking about , but from experiments and observations from hundreds of gyro videos and patents the answer has been there for decades. <br>
+<br>
+!<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=7702">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Thomas Welch</b> - 27/10/2015 17:43:59
+</td></tr><tr><td>&nbsp;</td><td>Mr Kidd has been working on his gyro propulsion device for over  30 years and I admire his perseverance but the devices he has built would not give propulsion and in their present form not a great deal of anything. Not to say he is not close but propulsion is somewhat different.to what he is close too.<br>
+You will no doubt all think  I do not now what I'm talking about , but from experiments and observations from hundreds of gyro videos and patents the answer has been there for decades. <br>
+<br>
+!<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=7703">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 27/10/2015 22:36:17
+</td></tr><tr><td>&nbsp;</td><td>Good Evening Thomas,<br>
+<br>
+I hope your weather is better than mine. Here it has been cool and drizzle, drizzle for three days and the forest is wet and unattractive.<br>
+<br>
+Your saying it has been before our eyes for so long, is like saying I.P. is possible but no one could never see how to do it. Is your meaning in saying that, that you that you know how?<br>
+<br>
+Sincerely,<br>
+Glenn<br>
+<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=7704">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Sandy</b> - 27/10/2015 22:53:56
+</td></tr><tr><td>&nbsp;</td><td>Thomas Welch,<br>
+I am really pleased that you are about to enlighten me as to the shortcomings of my devices, even although you have only seen one of them, and cannot possibly have a clue why it generated thrust.<br>
+In light of the fact I think you cannot possibly know anything of any use to me, I shall treat your post with the contempt it deserves.<br>
+Of course if you can submit anything useful, I have been known to change my mind.<br>
+Sandy Kidd<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=7705">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Thomas Welch</b> - 29/10/2015 20:39:19
+</td></tr><tr><td>&nbsp;</td><td>Good Evening Glenn<br>
+I retired last year from engineering and to occupy my time decided to spend that time looking into what gyro propulsion was all about. Is it real or a lost cause. <br>
+I built numerous rigs to see what gyros could or couldn't do and researched hundreds of previously patented gyro propulsion devices.There are so many.<br>
+One of my ideas for a rig turned out to have already been invente in 1965 by H J kellogg <br>
+US pat 3203644. Take a look it you may see where this is going .<br>
+So whats your story, Whats your backgound in science? <br>
+<br>
+Tom<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=7715">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 30/10/2015 00:30:13
+</td></tr><tr><td>&nbsp;</td><td>Good Evening Tom,<br>
+<br>
+It will be good to have a pleasant conversation with someone after what Ive been through here. I do not have a background in engineering and so it goes that I need to talk to a mechanical, or electrical engineer. If you would be willing to help me I would l be happy to pay you for your help. Harold, who tunes in here whenever he wishes is good to help at times. He is an engineer<br>
+<br>
+I will add some trivia to begin:<br>
+Oddly enough, my two best friends were named Tom. Tom Swafford was older and taught me many things. He was fond of saying that when his family was talking about him in a general way he was Thomas, when they were angry at him it was  Old Tom and when they wanted something it was Tommy  so sweet. So goes life. <br>
+<br>
+Forty years ago I drew plans for an inertial engine that did not employ gyroscopic functions. I corresponded with the engineer in charge of new ideas at NASA and eventually went to Red Stone Arsenal to see him. My ideas were ridicules I know now, but still he was very nice to me and showed me around the high security army post. Guards went crazy. He did not give a flip. He did not like that the military took everything the engineers did and tried to turn it into a way of killing people. (funny stories, he and I and guards and the FBI and him driving his Volkswagen 90 miles an hour around the post. He was too important for them to confront) His name Was George Von Tisenhousen (sp) and he was From Germany. <br>
+<br>
+Next, I designed two gyroscopic devices using my kids out dated Tonka toys. In one I forced two seperated but side-by-side gyros to precess forward into a collision with the frame of the Tonka truck. As you know without me saying it, the truck did not coast forward. That astounded me as I tried it several times, each time failing. I coined the after-effect as the gyros fell without any useful effect, as chaotic tumbling. You have experienced it too.<br>
+<br>
+I did actually produce inertial propulsion with a shoe box and a Tadco gyroscope forty years ago. I called it the inch-worm. As Nitro just explained his device although hands off and automatic and far more elaborate does the same. The gyro devices move in stop and go increments and cannot be induced to coast into continuous thrust. MD and Momentus have devices that do much the same. MDs actually coast, but it is my belief that sideways friction on his rail system is what allows resistance that causes that.<br>
+<br>
+So Tom, to answer a belief I have, while I pray I do not hurt any feelings a second time, my opinion is that no useful inertial propulsion has ever been achieved.<br>
+<br>
+I spent an average of a week a year on IP and now this whole summer. <br>
+<br>
+This is important to me:<br>
+I developed a theory in understanding the tilting rotating wheel. It seems so incredible that that a simple thing like that appears to be, could actually be so complicated that no one ever understood. It is tricky to learn. The theory is true with proof all around us, and it led me to develop a mechanical design. Thought the theory is true, the a mechanical design is hypothetical, as all things are until they are built and tested. I would be relieved if I knew it would not work. I could chunk it all and go happily about my life. I cant because I believe it will work---- because the theory explains why it does work, or rather should work.<br>
+<br>
+I looked at the Patten you sent. In my mind, it is an elaborate gimbals rings. We both fully know the disk will react at a right angle. A difference here is that if applied force is great, as soon as the disk twist to quickly align its spin in the horizontal plane, no torques apply further and the disk and upper frame is free to rotate around its spindle for a long time at high speed. There would be no propulsion.<br>
+<br>
+So, can you help me find some special motors and help design an electromagnetic repulsive platform I am calling a stack?<br>
+<br>
+I am not even finished deciding on the design. It is so involved. I may or may not have to alter something difficult to dobut I can do that after it is built if necessary.<br>
+<br>
+I would like to give you my email address, but there is a character on here I do not want to have it.<br>
+<br>
+Glenn<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=7716">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Parvez</b> - 04/03/2018 18:24:18
+</td></tr><tr><td>&nbsp;</td><td>Hello Sandy Sir,<br>
+<br>
+I want to contact you on your email id. Can you share you email to me or send me a reply on ba.prvz@gmail.com.<br>
+<br>
+I have some thing to share with you.<br>
+<br>
+regards <br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=7997">Report Abuse</a></td></tr>
+<tr>
+<td align="center" colspan="2"><a href="answerquestion.asp?id=2860">Add an Answer &#062;&#062;</a></td></tr>
+</table>
+    </td>
+  </tr>
+  </table>
+  
+  <font class="copyright">
+  Website. Copyright &copy; 2019 Glenn Turner. All rights reserved. <a href="/site.asp">site info</a><br>
+     Do not copy without prior permission. Click here for <a target="gyroscopeproducts" href="http://www.gyroscope.com/" alt="Gyroscope products">gyroscope products</a> 
+   
+  </font>
+</center>
+
+</body>
+</html>

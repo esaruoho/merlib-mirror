@@ -1,0 +1,226 @@
+
+<html>
+<head>
+  <title>The Gyroscope - Everything you needed to know</title>
+  <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+  <meta http-equiv="pics-label" content='(pics-1.1 "http://www.icra.org/ratingsv02.html" comment "ICRAonline EN v2.0" l gen true for "no gen term" r (nz 0 vz 0 lz 0 oz 0 cz 0) "http://www.rsac.org/ratingsv01.html" l gen true for "no gen term" r (n 0 s 0 v 0 l 0))'>
+  <META NAME="Author" CONTENT="Glenn Turner">
+  <META NAME="keywords" CONTENT="gyroscope, gyroscopes , gyro, gyros, gyroscopic propulsion">
+  <META NAME="Description" CONTENT="The Gyroscope has many uses, this site explains how a gyroscope works and what it can be used for. The site also looks at the possible use of gyroscope based propulsion (gyroscopic propulsion). ">
+  <META NAME="Copyright" CONTENT="Copyright 2003 (All Web Pages) by Glenn Turner">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="expires" content="0">
+  <link rel="stylesheet" href="/iesite.css" type="text/css">
+</head>
+<body bgcolor="#000000">
+  <div style="position: absolute; top: 2; width=100%; z-index: 1"><center><img src="/header.jpg" alt="" hspace=0 vspace=0 width=700 height=111></center></div>
+
+  <table border=0 cellpadding=0 cellspacing=0 width="0" height="96">
+  <tr>
+    <td></td>
+  </tr>
+  </table>
+
+  <center>
+  <span class="menutitle">
+    <a href="/index.asp"><font color="#991111">Home</font></a> :
+    <a href="/gallery.asp"><font color="#991111">Gallery</font></a> :
+    <a href="/history.asp"><font color="#991111">History</font></a> :
+    <a href="/uses.asp"><font color="#991111">Uses</font></a> :
+    <a href="/behaviour.asp"><font color="#991111">Behaviour</font></a> :
+    <a href="/math.asp"><font color="#991111">Maths</font></a> :
+    <a href="/forum/qa.asp"><font color="#991111">Forum</font></a> :
+    <a href="/propulsion.asp"><font color="#991111">Propulsion</font></a> :
+    <a href="/links.asp"><font color="#991111">Links</font></a> :
+    <a href="/glossary.asp"><font color="#991111">Glossary</font></a>
+    <br>
+  </span>
+
+  <table border=0 cellpadding=0 cellspacing=0 width="0" height="11">
+  <tr>
+    <td></td>
+  </tr>
+  </table>
+
+
+
+
+
+  <table border=0 cellpadding=8 cellspacing=0 width="700" height="260" bgcolor="#FFFFFF" ID="Table1">
+  <tr>
+    <td valign="top" class="main">
+<table align="center" width="100%" border="0">
+  <tr>
+    <td align="left" width="30%" valign="top">
+      <a href="qa.asp">Main Forum Page</a>
+    </td>
+    <td align="center" valign="middle">
+      <h2 border="0">The Gyroscope Forum</h2></td>
+    <td align="right" width="30%" valign="top">
+      28 December 2003 18:10
+    </td>
+  </tr>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <p align=left>Welcome to the gyroscope forum. If you have a question about gyroscopes in general,
+      want to know how they work, or what they can be used for then you can leave your question here for others to answer.
+         You may also be able to help others by answering some of the questions on the site.
+      </p>
+      <p>
+      <form action="qa.asp" method="post">
+      Search the forum: <input type="text" value="" name="forumsearch">&nbsp;<input type="submit" value="Search" name="forumsearchsubmit">
+      </form>
+      </p>
+      <b>To ask a question <a href="askquestion.asp">click here</a></b><hr width=75%>
+    </td>
+  </tr>
+</table>
+
+<table align="center" border="0" width="95%">
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><h3>Question</h3></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Asked by:</b></td>
+    <td align="left" colspan="2" valign="top">Jeremy O'Connor</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Subject:</b></td>
+    <td align="left" colspan="2" valign="top">Physics behind gyro-based propulsion.</td>
+  </tr>
+  <tr>
+    <td align=right class=medium valign="top" nowrap><b>Question:</b></td>
+    <td align=left class=medium valign="top" width="400" colspan="2">Despite the many claims made by developers of gyro-based (linear thrust) propulsion, that one or more of Newton's laws of motion are seemingly broken, I can definitively say that *NONE* of the three laws would be broken, in any successful design of a gro-thrust device. In fact, they would all be obeyed in such a device (even in an unsuccessful design).  The rationale behind the point I am trying to make is that the theory needs to be developed along with any physical design, and such a theory a priori honours all accepted laws of physics. So any claims to the contrary need to be re-evaluated using sound physics. I welcome any comments on my position.</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Date:</b></td>
+    <td align="left" colspan="2" valign="top">13 October 2003</td>
+  </tr>
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><br><h3>Answers</h3></td>
+  </tr>
+  <tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>James Bean</b> - 02/12/2003 02:30:23
+</td></tr><tr><td>&nbsp;</td><td>Late post but...<br>
+<br>
+One: I would have to say, if it doesn't pass the pendulum test, pitch it and rethink the concept or the engineering.  One of them let you down.<br>
+<br>
+Two:  Newton's third law?  You've gotta be kidding.  While forces may be seperately conserved vis a vis rotation and linear motion, how, for the sake of argument, does one tell the difference in any meaningfull way, between linear motion and a circular motion of near infinite radius?<br>
+<br>
+I agree forces must balance, and energy must be conserved, if not lost to friction, heat and a myriad of other parasites, and all new ideas must obey classical mechanics at least in a gross sense.  That's not the point, the point is that engineering a new and interesting solution requires applying laws in an obedient yet fundamentally unanticipated manner.<br>
+<br>
+The question one should ask when presented by a thing that meets these criteria should not be, "where's the trick?" but "why didn't I think of that?"<br>
+<br>
+That said, if the inventor won't let you kick the tires, don't by the spaceship.<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Ram Firestone</b> - 07/11/2003 02:45:31
+</td></tr><tr><td>&nbsp;</td><td>Yes Nitro, I would love to know about one that works. But does it pass a pendulum test? And I'm not talking about those bumpy pendulum tests where someone tries to eyeball the center of mass of the device on a wildly swinging pendulum. I'm talking about a test in which the device can hold the pendulum off center at some measurable distance. If it can pass this test I will be reasonable convinced that it works. At minimum I think this would convince many scientists that such a device warrants further investigation. Do you have something to demonstrate?<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Nitro MacMad</b> - 06/11/2003 19:09:28
+</td></tr><tr><td>&nbsp;</td><td>Dear Jeremy, Glenn, Dave, Dr. Fisher, Ram, mw et al,<br>
+<br>
+Would you like to know about one that works?<br>
+<br>
+NM<br>
+<br>
+PS  I am sorry Dave,  if I've filed before you  and a little sorry  Dr Fisher as you will kick yourself when you realise that your despised Laithwaite was so-o-o-o-o close.<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Jeremy O'Connor</b> - 28/10/2003 12:46:38
+</td></tr><tr><td>&nbsp;</td><td>I agree with you that a working incarnation of a "gyroscopic based propulsion device" needs to be developed. All I am saying is that it needs (eventually) to be described theoretically, by a physical model.<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Ram Firestone</b> - 28/10/2003 01:32:22
+</td></tr><tr><td>&nbsp;</td><td>Even an open-minded person should have a hard time believing in gyroscopic/inertial propulsion. Let's not even consider the physics for now. With dozens of patents, numerous web sites and hundreds of claims, I have never seen any remotely convincing evidence that any of these devices actually work. I would like to see one, just one demonstration of any device pass a simple pendulum test. If an inertial drive actually worked, it would be earth-shattering news. The inventor would be a millionaire (if not billionaire). Instead proponents of these devices often align themselves with weird science, UFOs and what not. In any case I would like to retain an open mind, but I find it hard given the state of research in this area. The original poster wrote, "The theory needs to be developed along with any physical design". I respectfully disagree. What needs to happen is for someone to prove their device works, regardless of if they have a theory or not.<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>webmaster@gyroscopes.org (Glenn)</b> - 23/10/2003 01:09:28
+</td></tr><tr><td>&nbsp;</td><td>Im sorry to disappoint but Im going to have to continue to be open minded on the whole subject of gyroscopic propulsion. Ive done quite a large number of experiments over a good few years now. I started with quite complex devices/experiments that made it difficult to interpret the results. Ive since moved to simpler experiments that seem (at the moment at least) to be heading in a logical direction. I will published the findings regardless how long it takes. Sorry for the wait so far.<br>
+<br>
+I think that science indicates that gyroscopic propulsion is improbable. However it is not unknown for science to be wrong. I see science as just a representation of our current knowledge and understanding of the world around us, by its very nature it just shows the human races understanding. Science should and is always being updated. I think before we even start to debate whether something breaks classic mechanics / Newtons laws, we need to truly understand what we are looking at. We may find that it is as yet, an unknown new force. Then again it could be just our misunderstandings.<br>
+<br>
+Nitro MacMad spoke about the removal of the older experiments from this site. I did that for two reasons. One, The new site design means they need to be reformatted to keep the same style and secondly because some text needs to be rewritten because its partly incorrect. Ill try and put them up again as soon as I have time.<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Dr D.Fisher</b> - 22/10/2003 00:28:59
+</td></tr><tr><td>&nbsp;</td><td>It is the very simplicity of the physics which means that one cannot convert rotational motion into nett linear motion; they are &#8216;separately conserved&#8217;. I know that such conversion appears to happen in numerous everyday situations, but that is because of the hidden role played, ultimately, by the Earth. There is no way, in isotropic and otherwise-empty space, in which any assembly of rotating wheels or oscillating masses can produce nett rectilinear motion. This is ruled out by Newton&#8217;s third law. But this law is, in effect, only a corollary of the energy conservation law. And behind that law lies Noether&#8217;s theorem, which associates a conservation law with each fundamental symmetry of space and time. How can one explain the import of Noether&#8217;s theorem without understanding all of its complicated associated mathematics? There is a simple way in which one can get at the import of the theorem, and it is this: imagine that you have constructed a model automobile, a model aircraft, a model rocket and a prototype reaction-less propulsion device. Now, ask yourself in what direction each model will move when set in motion. From elementary reasoning and the very design of the device, you can be sure of the direction of motion of the first 3 devices; that is, you can imagine the road, air-stream or exhaust moving in a given direction and the model going the other way. But what about the reaction-less device? With nothing to react against, there is no obvious direction in which your device should move. If it is wheel-like, what makes it choose any particular angle of departure? If it is oscillatory, why should it move more in one direction than the other? Now, if it is your own design, you may have some good reason why you think it should move in a given direction, but could you convince someone else of that? Alternatively, if it was somebody else&#8217;s design, do you think that you could guess in what direction he thought it should move? For instance, many reaction-less drive inventors try to exploit &#8216;centrifugal&#8217; force, in the mistaken belief that a) it is a real force and b) acts radially. If you also hold these misconceptions, the direction of motion of his device will be obvious to you. If you do not, you will laugh at what he is trying to achieve. As I do, at all such devices.<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Dave</b> - 21/10/2003 11:15:57
+</td></tr><tr><td>&nbsp;</td><td>Dr Fisher, You seem to have filled your head with excessive trivia relating to this subject and are totally ignoring the simplicity of the physics, i believe this is because you have not managed to translate the basics into a workable application.  Translating rotational energy into linear propulsion is not new but finding a device that actually can do this in a workable way, is. Again, i agree with the question and say that there are no laws of physics broken in such a device.<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Dr D.Fisher</b> - 19/10/2003 18:15:57
+</td></tr><tr><td>&nbsp;</td><td>Thankyou for the support, Macmad, but before scientists rush into replicating experiments they (unlike NASA engineers  re Podkletnov)  look to see what might be wrong with the original evidence. In the case of Laithwaite, everything is wrong. His 'theoretical' writings shows that he did not understand the relevant physics, his demonstrations do not prove anything (in particular, his swinging of a heavy gyroscope around his head should be classed with the 'finger levitation' party-trick as a means of fooling gullible audiences) and, except in his last few years, he did not even make proper measurements.  The Japanese gyroscopic weighing experiments should have never been published. They were based upon unpublished work by a Russian crackpot and were incompetent. Only an idiot uses a chemical balance to weigh a 'dynamic' object. It was shown years ago, by a skeptic, that weighing an ordinary electric door-bell can reveal an apparent loss in weight when it is ringing. Experiment by all means, but test each prototype by hanging it from the ceiling. If it does not hang permanently to one side of vertical, it is not working and should be abandoned.<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Nitro MacMad</b> - 19/10/2003 00:45:01
+</td></tr><tr><td>&nbsp;</td><td>Dear Jeremy,<br>
+                      The well meaning, path blocking Dr Fisher is quite right.<br>
+<br>
+You cannot have a device that moves in one direction without lobbing something in the opposite direction and having to re-examine Newtons third.<br>
+<br>
+However you and he and Dave need to learn that the only way to be sure of others claims is to do confirming (or otherwise) experiments yourselves.  Einsteinian thought experiments are not enough and not needed when fairly simple (though I admit that there are some nasty twists in the thought paths) engineering is all that is required .... together with the ability to shut out all the people telling you that there is nothing down that path despite not having trod it themselves.<br>
+<br>
+Glenn (of this site) trod the path but seems ashamed of his early attempts (as they are no longer shown). <br>
+<br>
+I would be proud!  Few have any idea how hard it is to carry out the needed engineering work with your fingers in you ears to block out all those (sometimes well meaning souls) telling you it can't be done.<br>
+<br>
+NM<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Dr D.Fisher</b> - 19/10/2003 00:43:42
+</td></tr><tr><td>&nbsp;</td><td>Assuming that the latter cheap shot is directed at me, I would suggest that the writer is the sort of person who believes that David Blaine can levitate (without trickery) because he 'used his eyes' or thinks that the Sun obviously orbits a stationary Earth (just use your eyes). Don't rely on your eyes; use your brain as well.<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>mw</b> - 18/10/2003 21:04:44
+</td></tr><tr><td>&nbsp;</td><td>use your eyes<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Dr D.Fisher</b> - 18/10/2003 00:36:07
+</td></tr><tr><td>&nbsp;</td><td>We agree then. All 'physical' devices obey Newton's laws. A gyroscopic propulsion device would not obey Newton's laws. Therefore it is not a physical device, and cannot exist. As indeed they don't.<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Jeremy O'Connor</b> - 17/10/2003 10:10:45
+</td></tr><tr><td>&nbsp;</td><td>My position is as follows. When I say that "the device will obey Newton's laws", what I am saying is that *all* physical devices obey Newton's laws. I am not saying that one or other device does or does not obey them. I have no intention of tinkering with classical mechanics. Again, any device that could be constructed will obey classical mechanics - but this is what I have already stated in previous postings.<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Dr D.Fisher</b> - 17/10/2003 02:29:19
+</td></tr><tr><td>&nbsp;</td><td>I still do not understand your position. How can you say that the device will obey Newton's laws, when Newton's laws rule out, by definition, the very existence of such a device? Or are you saying that some, as yet unknown force, will be found which makes the device work and this force will, again by definition, obey Newton's laws? No amount of tinkering with classical mechanics will make gyroscopic propulsion viable. Introducing general relativity can make propulsion viable but, because of the appearance of 'powers of c' in the equations, the effects are far beyond experimental testing.<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Jeremy O'Connor</b> - 16/10/2003 13:01:14
+</td></tr><tr><td>&nbsp;</td><td>I did not say that (some) propulsion would occur in the absence of reaction. And I never took a position that would violate any conservation law. In fact, if you read my question again, you would notice that I said quite the opposite, i.e. all laws of physics would be obeyed in any working or non-working incarnation of a gyroscopic based linear thrust engine.<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Dr D.Fisher</b> - 16/10/2003 01:06:22
+</td></tr><tr><td>&nbsp;</td><td>How precisely do you imagine that propulsion could occur in the absence of reaction? Are you sure that you really understand Newton's laws? If so, how can you reconcile your position with the conservation laws and Noether's theorem? The only way in which such propulsion could occur would be by exploiting an existing gradient (which would supply the required energy and obviate reaction). For instance, one could exploit the Lense-Thirring or Wisdom effects; but these are truly minute and unexploitable using any foreseeable technology.<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Dave</b> - 14/10/2003 10:03:48
+</td></tr><tr><td>&nbsp;</td><td>Absolutely agree.  See Q. "building a machine"<br>
+No laws of physics are broken. The theory is sound (and simple) but the mechanics are awkward due to the stresses involved.<br><br></td></tr>
+<tr>
+<td align="center" colspan="2"><a href="answerquestion.asp?id=85">Add an Answer&#062;&#062;</a></td></tr>
+</table>
+    </td>
+  </tr>
+  </table>
+  
+  <font class="copyright">
+  Webpage. Copyright &copy; 2003 Glenn Turner. All rights reserved. <a href="/site.asp"><font color="#991111">more info</font></a><br>
+     All other images/content copyrighted to the designated owners,<br>
+      and must not be reproduced or distributed without prior permission. 
+  </font>
+</center>
+
+</body>
+</html>

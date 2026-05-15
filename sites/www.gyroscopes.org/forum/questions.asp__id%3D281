@@ -1,0 +1,236 @@
+
+<html>
+<head>
+  <title>Gyroscopes - Everything you needed to know</title>
+  <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+  <meta http-equiv="pics-label" content='(pics-1.1 "http://www.icra.org/ratingsv02.html" comment "ICRAonline EN v2.0" l gen true for "no gen term" r (nz 0 vz 0 lz 0 oz 0 cz 0) "http://www.rsac.org/ratingsv01.html" l gen true for "no gen term" r (n 0 s 0 v 0 l 0))'>
+  <META NAME="Author" CONTENT="Glenn Turner">
+  <META NAME="keywords" CONTENT="gyroscope, gyroscopes , gyro, gyros, gyroscopic propulsion">
+  <META NAME="Description" CONTENT="Gyroscopes have many uses, this site explains how a gyroscope works and what they can be used for. The site also looks at the possible uses of gyroscope based propulsion (gyroscopic propulsion). ">
+  <META NAME="Copyright" CONTENT="Copyright 2003 (All Web Pages) by Glenn Turner">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="expires" content="0">
+  <link rel="stylesheet" href="/iesite.css" type="text/css">
+</head>
+<body bgcolor="#000000">
+  <div style="  float: center; margin: 0; border: none; padding: 0; " align=center><center><img src="/header.jpg" alt="" hspace=0 vspace=0 wgith=700 height=111></center></div>
+  <center>
+  <span class="menutitle">
+    <a href="/index.asp"><font color="#DDDDDD">Home</font></a> :
+    <a href="/gallery.asp"><font color="#DDDDDD">Gallery</font></a> :
+    <a href="/history.asp"><font color="#DDDDDD">History</font></a> :
+    <a href="/uses.asp"><font color="#DDDDDD">Uses</font></a> :
+    <a href="/behaviour.asp"><font color="#DDDDDD">Behaviour</font></a> :
+    <a href="/math.asp"><font color="#DDDDDD">Maths</font></a> :
+    <a href="/forum/forums.asp"><font color="#DDDDDD">Forum</font></a> :
+    <a href="/propulsion.asp"><font color="#DDDDDD">Propulsion</font></a> :
+    <a href="/links.asp"><font color="#DDDDDD">Links</font></a> :
+    <a href="/glossary.asp"><font color="#DDDDDD">Glossary</font></a>
+    <br>
+  </span>
+
+  <table border=0 cellpadding=0 cellspacing=0 width="0" height="11">
+  <tr>
+    <td></td>
+  </tr>
+  </table>
+
+
+
+
+
+  <table border=0 cellpadding=8 cellspacing=0 width="700" height="260" bgcolor="#FFFFFF" ID="Table1">
+  <tr>
+    <td valign="top" class="main">
+<table align="center" width="100%" border="0">
+  <tr>
+    <td align="left" width="20%" valign="top">
+      <a href="forums.asp">Main Forum Page</a>
+    </td>
+    <td align="center" valign="middle">
+      
+      <h2 border="0">       
+      The Gyroscope Forum</h2></td>
+    <td align="right" width="20%" valign="top">
+      12 August 2014 17:10
+    </td>
+  </tr>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <p align=left>Welcome to the gyroscope forum. If you have a question about gyroscopes in general,
+      want to know how they work, or what they can be used for then you can leave your question here for others to answer.
+         You may also be able to help others by answering some of the questions on the site.
+      </p>
+      
+      <table width="100%">
+      <tr><td>
+        <form action="qa.asp" method="get">
+        <b>Search the forum: </b><input type="text" value="" name="forumsearch" size=30>&nbsp;<input type="submit" value="Search" name="forumsearchsubmit">
+          <input type=hidden name="forum" value="">
+        </form>
+      </td><td>
+        
+        <form action="askquestion.asp" method="post">
+        <input type="submit" value="Ask a new Question" name="forumsearchsubmit">
+        </form>
+        
+      </td></tr>
+      </table>
+      <hr width=100%>
+    </td>
+  </tr>
+</table>
+
+<table align="center" border="0" width="95%">
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><h3>Question</h3></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Asked by:</b></td>
+    <td align="left" colspan="2" valign="top">Alan Cresswell</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Subject:</b></td>
+    <td align="left" colspan="2" valign="top">How much more is EVERYTHING about gyros</td>
+  </tr>
+  <tr>
+    <td align=right class=medium valign="top" nowrap><b>Question:</b></td>
+    <td align=left class=medium valign="top" width="400" colspan="2">There are 4 sections at http://www.unifiedtheory.org.uk and 2 of those sections deal with resonance and the PERPETUALLY MOTIVE power of the Gyroscopic Torque.<br>
+<br>
+It is a 400 year old horror story of Quack science but it is all true and for the taking or leaving of.</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Date:</b></td>
+    <td align="left" colspan="2" valign="top">17 November 2004
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2><hr width=100%></td>
+  </tr>
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><br><h3>Answers (Ordered by Date)</h3><br></td>
+  </tr>
+  <tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>SANDY KIDD</b> - 17/11/2004 14:54:57
+</td></tr><tr><td>&nbsp;</td><td>Alan,<br>
+Had a look.<br>
+Example:<br>
+Gyroscopic Torque Engines of Perpetual Motion and in particular diagram 5<br>
+All good fun but I am afraid to say that none of this is true.<br>
+The last of the comments beneath diagram 5:<br>
+Torque force tries to crash through Y-Y axis.<br>
+Only the rest mass of the gyroscope will appear at the Y-Y axis.<br>
+Under these conditions there will be no angular momentum or centrifugal force present in the system.<br>
+The device will also become uncontrollable due to the fact the gyro will continue to accelerate inwards in attempt to align its axis of rotation with the axis of system rotation.<br>
+Therefore there will not be any power available.<br>
+As I said good fun but worthless.<br>
+Sandy Kidd<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Alan Cresswell</b> - 17/11/2004 22:42:50
+</td></tr><tr><td>&nbsp;</td><td>You have been at the game long enough to know better. An 8 year old could make the Diagram 6 test and leave you back in the Stone age.<br>
+<br>
+You should buy some steel that behaves properly. Then get yourself some serious Aye-Omega-omega education.<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Sandy Kidd</b> - 18/11/2004 12:18:18
+</td></tr><tr><td>&nbsp;</td><td>Alan,<br>
+I only took time to look at, and comment, on one example, i.e. Diagram 5<br>
+I never had time to look at, nor am I particularly interested in the contents of Diagram 6, nor the mental abilities of young boys you know.<br>
+Would you kindly confine your remarks to the area in question.<br>
+You have made no specific comments in relation to my statements.<br>
+I interpret your insults as a form of evasion, somewhat similar to the reactions of a cornered rat.<br>
+I also suspect that your knowledge of gyroscopic systems subjected to radial acceleration (which Diagram 5 depicts) is zero.<br>
+Sandy Kidd<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Alan Cresswell</b> - 19/11/2004 16:58:20
+</td></tr><tr><td>&nbsp;</td><td>Sandy,<br>
+<br>
+You have spent a lifetime and achieved precisely Zero.<br>
+<br>
+You do not have the experience to think big and straight. I have smashed the laws of physics and all you can do is wail pathetically and throw your toys out of the pram.<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Nitro MacMad</b> - 21/11/2004 23:04:14
+</td></tr><tr><td>&nbsp;</td><td>Dear Alan Cresswell,<br>
+<br>
+I understand that you are a very very experienced thermodynamics engineer and that you found the perfect engine (you thought was impossible) in 1982.  <br>
+<br>
+Snap!  It was about then that I found the Buick engined SD1 3.5.  However, I have to say that I still prefer my Turner engined SP250 V8.  You would perhaps say that that preference was just a stupidly old-fashioned patriotic preference these days.  Maybe falling off a Carnot cycle when I was young caused my biased judgement.<br>
+<br>
+Alan, you say elsewhere that you have truths that are self evident even to a marginal moron and that you are going to drop the sky on the whole system.  What whole system and when and why would the sky want to drop? Moreover, what practical tests to gain experimental proof have you made to confirm your opinions since your discovery way back in 1982?  <br>
+<br>
+The mechanisms you describe seem simple compared to the nightmare Im constructing and pedestrian to the stuff Ive heard that Sandy has made as we have separately trod the boring but essential paths to proof.  You must therefore, have actually created a working model of at least one of your mechanisms (not just a mountain of maths) to establish experimental proof.  A working model could confirm what you claim and show to us marginal morons (I prefer nutter in a shed or inventive genius for myself) what we may see and understand.  <br>
+<br>
+You surely cannot be just another angry, self-opinionated, steam actuated crank relying solely upon his own mind exercises on which to hang a website chock full of his own untested opinions.     <br>
+<br>
+Can you therefore, please tell about the working devices you have made (or are making)?  <br>
+<br>
+Otherwise, you risk having everyone except Alan Cresswell suspecting that the big straight thing that your experience has enabled you to achieve for your own lifetime, may almost rhyme with utter clock.<br>
+<br>
+<br>
+NM<br>
+<br>
+PS Come back David Fisher, all (well some anyway) is forgiven!<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Alan Cresswell</b> - 22/11/2004 02:30:17
+</td></tr><tr><td>&nbsp;</td><td>Hello David,<br>
+<br>
+I am dead chuffed for you and your Buick but........... far too long ago I was institutionalised into the DEAD END of think called the CARNOT EFFICIENCY.<br>
+<br>
+I fought it. I seem to be the only person in the world that has fought it.<br>
+<br>
+I busted the world-wide head fuck with the ionised Argon engine.<br>
+<br>
+Kidd the Sandy one calls me a cornered rat. HE MUST BE THE ONE AND ONLY PERSON IN THE WORLD TO PUBLISH A BOOK ON HIS FAILURES.<br>
+<br>
+I have the budget model working. I made it this way to save money. It is not the best way to do it. It is not controllable. This is  NOT about gyros. <br>
+<br>
+It is about the dead in war since 1700 and the head fuck called 'OIL'<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>DaveS</b> - 22/11/2004 10:08:08
+</td></tr><tr><td>&nbsp;</td><td>pffft<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Sandy Kidd</b> - 22/11/2004 10:58:31
+</td></tr><tr><td>&nbsp;</td><td>Kidd the Sandy one said you were acting like a cornered rat and Kidd the Sandy one, still reckons that was a fair observation. <br>
+Convince me otherwise.<br>
+Pure 100% unadulterated evasion.<br>
+You have waffled on about every thing else but gyros.<br>
+Ive had dozens of working models and controllable ones at that. So what?<br>
+Convince me you know something (anything) about gyroscopic systems similar in configuration to Figure 5 and accompanying operational description.<br>
+No more red herrings please.<br>
+Why do you find it so hard to meet my request ?<br>
+Do you agree with the diagram and accompanying text or not ?<br>
+Sandy Kidd<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Kirk Harper</b> - 29/11/2004 20:04:12
+</td></tr><tr><td>&nbsp;</td><td>Now now children, play nice. Alan go wash your mouth out with soap and Sandy, put down that shotgun!<br><br></td></tr>
+<tr>
+<td align="center" colspan="2"><a href="answerquestion.asp?id=281">Add an Answer &#062;&#062;</a></td></tr>
+</table>
+    </td>
+  </tr>
+  </table>
+  
+  <font class="copyright">
+  Website. Copyright &copy; 2014 Glenn Turner. All rights reserved. <a href="/site.asp">site info</a><br>
+     Do not copy without prior permission. Click here for <a target="gyroscopeproducts" href="http://www.gyroscope.com/" alt="Gyroscope products">gyroscope products</a> 
+   
+  </font>
+</center>
+
+</body>
+</html>

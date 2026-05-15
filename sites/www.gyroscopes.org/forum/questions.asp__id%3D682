@@ -1,0 +1,449 @@
+
+<html>
+<head>
+  <title>Gyroscopes - Everything you needed to know</title>
+  <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+  <meta http-equiv="pics-label" content='(pics-1.1 "http://www.icra.org/ratingsv02.html" comment "ICRAonline EN v2.0" l gen true for "no gen term" r (nz 0 vz 0 lz 0 oz 0 cz 0) "http://www.rsac.org/ratingsv01.html" l gen true for "no gen term" r (n 0 s 0 v 0 l 0))'>
+  <META NAME="Author" CONTENT="Glenn Turner">
+  <META NAME="keywords" CONTENT="gyroscope, gyroscopes , gyro, gyros, gyroscopic propulsion">
+  <META NAME="Description" CONTENT="Gyroscopes have many uses, this site explains how a gyroscope works and what they can be used for. The site also looks at the possible uses of gyroscope based propulsion (gyroscopic propulsion). ">
+  <META NAME="Copyright" CONTENT="Copyright 2003 (All Web Pages) by Glenn Turner">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="expires" content="0">
+  <link rel="stylesheet" href="/iesite.css" type="text/css">
+</head>
+<body bgcolor="#000000">
+  <div style="  float: center; margin: 0; border: none; padding: 0; " align=center><center><img src="/header.jpg" alt="" hspace=0 vspace=0 wgith=700 height=111></center></div>
+  <center>
+  <span class="menutitle">
+    <a href="/index.asp"><font color="#DDDDDD">Home</font></a> :
+    <a href="/gallery.asp"><font color="#DDDDDD">Gallery</font></a> :
+    <a href="/history.asp"><font color="#DDDDDD">History</font></a> :
+    <a href="/uses.asp"><font color="#DDDDDD">Uses</font></a> :
+    <a href="/behaviour.asp"><font color="#DDDDDD">Behaviour</font></a> :
+    <a href="/math.asp"><font color="#DDDDDD">Maths</font></a> :
+    <a href="/forum/forums.asp"><font color="#DDDDDD">Forum</font></a> :
+    <a href="/propulsion.asp"><font color="#DDDDDD">Propulsion</font></a> :
+    <a href="/links.asp"><font color="#DDDDDD">Links</font></a> :
+    <a href="/glossary.asp"><font color="#DDDDDD">Glossary</font></a>
+    <br>
+  </span>
+
+  <table border=0 cellpadding=0 cellspacing=0 width="0" height="11">
+  <tr>
+    <td></td>
+  </tr>
+  </table>
+
+
+
+
+
+  <table border=0 cellpadding=8 cellspacing=0 width="700" height="260" bgcolor="#FFFFFF" ID="Table1">
+  <tr>
+    <td valign="top" class="main">
+<table align="center" width="100%" border="0">
+  <tr>
+    <td align="left" width="20%" valign="top">
+      <a href="forums.asp">Main Forum Page</a>
+    </td>
+    <td align="center" valign="middle">
+      
+      <h2 border="0">       
+      The Gyroscope Forum</h2></td>
+    <td align="right" width="20%" valign="top">
+      5 March 2007 17:29
+    </td>
+  </tr>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <p align=left>Welcome to the gyroscope forum. If you have a question about gyroscopes in general,
+      want to know how they work, or what they can be used for then you can leave your question here for others to answer.
+         You may also be able to help others by answering some of the questions on the site.
+      </p>
+      
+      <table width="100%">
+      <tr><td>
+        <form action="qa.asp" method="get">
+        <b>Search the forum: </b><input type="text" value="" name="forumsearch" size=30>&nbsp;<input type="submit" value="Search" name="forumsearchsubmit">
+          <input type=hidden name="forum" value="">
+        </form>
+      </td><td>
+        
+        <form action="askquestion.asp" method="post">
+        <input type="submit" value="Ask a new Question" name="forumsearchsubmit">
+        </form>
+        
+      </td></tr>
+      </table>
+      <hr width=100%>
+    </td>
+  </tr>
+</table>
+
+<table align="center" border="0" width="95%">
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><h3>Question</h3></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Asked by:</b></td>
+    <td align="left" colspan="2" valign="top">Araman Yran</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Subject:</b></td>
+    <td align="left" colspan="2" valign="top">Linear Gyroscopic Propulsion?</td>
+  </tr>
+  <tr>
+    <td align=right class=medium valign="top" nowrap><b>Question:</b></td>
+    <td align=left class=medium valign="top" width="400" colspan="2">Hello,<br>
+<br>
+After reading many of the posts on this website I feel as though I were Alice in Wonderland...having just dropped down the hole, following the white rabbit (who apparently is muttering "I precess! I precess!")  Forgive my naivete in these matters...but Professor Laithwaite seems the most learned of this strange world...or at least the most articulate. (Not to mention the most forthwright and scientifically generous with his curiosity and sharing).  Does his invention work?  Is he still alive to converse with and ask these questions?  Does anyone else speak Mathematics?  Is NASA hot on the trail of this Mother of All Devices?  Are these devices already in use?<br>
+<br>
+The gyroscope seems an exciting chimera...has anyone passed through the tain of the mirror?<br>
+<br>
+Best,<br>
+Araman<br>
+<br>
+</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Date:</b></td>
+    <td align="left" colspan="2" valign="top">28 January 2007
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2><hr width=100%></td>
+  </tr>
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><br><h3>Answers (Ordered by Date)</h3><br></td>
+  </tr>
+  <tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Freeman</b> - 28/01/2007 13:10:31
+</td></tr><tr><td>&nbsp;</td><td>Eric Laithwaite died the 27th of november of 1997. You can his biography in brief in the Wiki:<br>
+<br>
+http://en.wikipedia.org/wiki/Eric_Laithwaite<br>
+<br>
+Laithwaite claimed that his invention was in the frame of the Newton's Laws (I mean, his invention does not brak the stablished classical "rules" of Mechanics) and that it should work, but I remember that anyone carried out the idea. In his final years, NASA called him to help them to a new propulsion system to his space trips, but unfortunately to Mr. Laithwaite, NASA wanted him because of his understanding on linear electric motors (that he invented) and not in his research on gyro propulsion. <br>
+<br>
+I have spent quite a lot of time and effort to explain some gyro propulsion showed in this forum (specially in the Jone's device, if anyone remember me and my threat called "About Herethic video and the amazzing 8th minute") and I am not able to find any, because Newton is very clear and concise about it: any isolated system without recieving any external force will conserve its momentum. But when one applies the 3rd law to this machine, and specially the Kynethic Momentum Theorem, it can be founded that a forced precession in the system (the falling of the arm of Jone's device) induces an extra momentum in the arm which causes it to lift, and thus, a change of the center of mass of the system that goes forwards and makes the device to move forwards too; but for sure, in the next 180 of falling, the gyro causes a momentum that forces the arm to go backwards and then, to propel the device backwards, but this movement is not showed in the video and it is the other 50% of movement which closes the loop and makes the center of mass to remain constant, as it is stated by Newton in his laws.<br>
+<br>
+If have done many calculations on these facts and when I had the dynamics of "gyroscopic propulsion" very clear, I tried to simulate Jones device by a CAE software which uses a Lagrangian method of the Newton's laws, and I did not find any net force. <br>
+<br>
+With all of this knowledge in my hands I should give up any further research about gyroscopic propulsion, but I have 2 personal probleems yet to solve.<br>
+<br>
+The first of all is to understand precession in a qualitative way. I mean, now I understand precession by means of the Newton's equations, and why and when it appears when an object is spinning, but Newton does not explain what causes this precession physically. At this time, I am trying to understand precession inside the frame which offers the Special Relativity, having conversations with physicists very skilled on this subject. Einstein did not give in his work on Relativity a law based in observations of the nature: he tried to understand the foundamentals of mechanics only by his thoughts and then, wrote down the mathematical model wich explains this behavior of nature. That's why I have the hope of having a good physical interpretation of precession with  a space-time explanation of it.<br>
+<br>
+The second one will be my personal gyro-device and it will be my "end-of-career" task in this subject (adventure) on "gyroscopic propulsion". With this device I want to demonstrate to myself that linear and angular momentum are different and independent worlds (or not !) or if any propulsion is achieved, it is because of a stick-slip friction phenomena (the most probably explanation) or because of real means of gyroscopic propulsion.<br>
+<br>
+Regards, Freeman<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Peter Burton</b> - 31/01/2007 08:04:22
+</td></tr><tr><td>&nbsp;</td><td>A comment on Freeman's answer - Look at Eric Laithwait's pat 5860317 Figs 21-28.  You force rotate the big table and let the gyro sub-assys rotate freely within their holes (no forced precession) for the first 180deg of the big table, then clamp the gyro sub-assys under forced precession for the return 180deg of the big table.  You also have 2 counter-rotating gyros in each sub-assy so you don't have a total torque at 90deg through the big table and you need 2 big tables side by side to even out the linear push (see Laithwait's diagrams). The first 180deg of the big table gets the gryros from one side of the circle to the other so pushing the big table due to Newton's 3rd law (action-reaction). The second 180deg puts the gryo sub assys back to the start (as they go around the big table they naturally precess) without imparting reaction to the big pivot.  So the "undooing" of the first half of the reaction (for each gyro) is zero.  Try it on your simulation, or even better try building one!<br>
+Regards, Peter Burton.<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 03/02/2007 16:10:53
+</td></tr><tr><td>&nbsp;</td><td>ALL HOLES ARE AS CLEAR AS MUD TO ME<br>
+<br>
+Hi Aramin,<br>
+<br>
+Good post. Funny you should select a childs book written by the mathematician, Charles Dodgson, who used the pin name Lewis Carroll. Dodgson speaks your languish? <br>
+<br>
+The conscientious reached between myself and I conclude that Professor Liftwates figure eight patent, if you can find it, doesnt work. I keep mentioning an intricate and clever devise the Webmaster here built. Its a shame its not shown any more for it is perhaps the most revealing of all the devises built. I would have been proud of it. Like Professor Liftwates gyros, when his gyros would lift, arcing upwards, they instantly meet resistance and torque downwards, attempting to arc with equal and opposite force. There would be one directional upward movement and force, unless it is restrained for usage, whereupon it instantly disappears and becomes an equal twisting action. How strange is the gyro? Force is there unless you use it. The professor was a brilliant engineer and a brilliant lecture, but he made several mistaken assumptions and this is only one of the several. Incidentally when you say he was the most articulate of you, I see you have reason to include yourself. You may now say correctly he was more articulate than we. Anyway, that is our conclusion reached while we were looking at one another in a mirror during a distant shaving episodesome time ago. <br>
+<br>
+The great question always comes back to the same thing. During precession mass is move from point a. to point b. without a rearward reaction occurring. Why is that?<br>
+<br>
+I will tell you of one experiment and conclusion the Professor did that I agree with entirely. He over-hung a gyro to a toy train on a curving track and the train traveled. He said this worked even if the track were only ever so slightly curved. This follows one of my own experiments and with a certainty that Ive never bothered to explain.<br>
+<br>
+When you look at the mud puddles in the distance they reflect clearly like mirrors, but when you approach them they do not. It is your approach that causes them to react defensibly. Looking down into them you know there is a hole inside, but the instant you try to enter the hole to see what is on the other side, the sides of the hole move to the center to form a bottom so that you cannot enter and see beyond. I know what is on the other side. If you were allowed to see beyond the hole as I, you would see a large room with two angry figures facing one another. The Queen stands in her place with an ax that has a head shaped like a gyroscope. Sir Isaac Newton faces her with his abacus honed into a razor sharp weapon. The heads of mathematicians lay in piles all about the floor the result of their inability to give a mechanical explanation. The two fugues are shouting at one another.<br>
+<br>
+Sir Isaac is shouting, For ever action there is an equal and opposite reaction and I will defend myself woman!<br>
+<br>
+The Queen is shouting, My gyro ax proves you wrong and I will have your head!<br>
+<br>
+Theyve been at this for one hundred years ever since the development of the gyroscope. If I could see more clearly through the mud to evaluated the strength of the two I could guess at an eventual winner for you. As it is everything is too muddy.<br>
+<br>
+I hope this cleans and clarifies your mind entirely on the complete subject, Alice and that in the future you cease these confounding, personal observations about what is in the holes that you cannot see into. Just kidding you, Aramin. Hows life treating you these days? <br>
+<br>
+Glenn,<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Freeman</b> - 03/02/2007 17:17:31
+</td></tr><tr><td>&nbsp;</td><td>I enjoyed your last post Glenn, it is pleasant and it has some very interesting points I have never read. <br>
+<br>
+1. First of all, you said that the Webmaster built a device that was really revealing. What was so revealing for you. Can you describe it a little or do you have some photos about it? Why it is no more shown in the website?<br>
+<br>
+2. And there's still another very interesting issue you commented: the one of the toy train and the over-hung gyro. Where have you find this information? I have never read about it !  Can you enlighten us a bit about it, explain a little more the experiment or give us some directions to the www in order to find more info about this?<br>
+<br>
+Thanks Glenn. Regards, Freeman.<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Luis AE Gonzalez</b> - 03/02/2007 17:57:11
+</td></tr><tr><td>&nbsp;</td><td>BRABO!! Glen, <br>
+This is your best writing in this forum (though you still cant spell to save your life).<br>
+I enjoyed the little story very much.<br>
+You are missing your calling as a writer of fantasy that illustrates how the trivial arguments often overshadow the real thrust of scientific effort.<br>
+Thanks, Luis<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 04/02/2007 14:18:08
+</td></tr><tr><td>&nbsp;</td><td>Hi Freeman,<br>
+<br>
+A complement always pleased me. Thank you.<br>
+<br>
+Many people have seen the Webmasters device, but he has pulled it from ever location on the web. Essentially it does what I described, which is prove that existing one directional force is instantly redistributed in two directions whenever an attempt is made to harness that force to move the gyro outside its circular area of revolutions. I see this as torque and as the reason precessing gyros stay aloft. As gravity would force the gyro downward, the gyro resist and twists downward on the pedestal, hence no anti gravity, or weighs loss occurs, only the placement of downward force is converted to torque and then moved from the location of the gyro to another place, which is the pedestal, which receives an equal amount of force as that supplied by gravity, which is actually all a great phenomena to me. Back to the point. The Webmasters device would prove that extracting linear force from rotating forces would seem impossible, except I dont believe it is impossible, except that it is imposable the way the Webmaster attempted to do it. That is good proof that allows us to eliminate curtain ways of attempting to do things.  <br>
+<br>
+I recall clearly Professor Liftwates very brief description of his toy train with an over-hung gyro. Surely there are others here whove read it, but I cannot find it. It was in the middle of a text I believe. He apparently did not think much of it. I recall an equally brief discussion of his description where people dismissed it, because the train travels in a circle rather than a straight line. I dont see this as a reason to dismiss it. After gyro precession forward and downward, it is in perfect alignment to lift and then move sideways to the other side of a train. Without ever having tilted the gyro it could then be released to curve forward in the opposite direction. With a tract curving back and forth, theoretically such a train powered this way could travel from Philadelphia to New York on a railroad track shaped like the tracks left in the sand by crawling snakes. Sorry for not giving you much of what you ask for, but it was good talking to you again.<br>
+<br>
+Best of luck and thank you,<br>
+Glenn<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 04/02/2007 14:20:32
+</td></tr><tr><td>&nbsp;</td><td><br>
+<br>
+Luis,<br>
+<br>
+Thank you very much, I think. No, Im sure. Thank you. I am aware of the spelling curse. Oddly I can see the misspellings and errors from re-reading after the mouse has been clicked, but not before. Weird huh? Right, I couldnt save my life if it depended on spelling. Going under for the third time I guess I would just have to drown if I had to spell out heilp, heilp, resque me. <br>
+<br>
+You made good distinctions between what is important and what is trivial. Ill join you latter on another post.<br>
+<br>
+Please continue writing and thank you,<br>
+Glenn<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Araman Yran</b> - 05/02/2007 05:56:24
+</td></tr><tr><td>&nbsp;</td><td>To All---One at a Time.<br>
+<br>
+Peter:  Thank You for the description of how Professor Laithwaite's device could work...I think I might just try to build it.  (Get back to you on this one.)<br>
+<br>
+Glenn:  Muddy indeed!  But mud puddles hide interesting treasures if you don't mind getting dirty and wet.  Never-the-less, the train diagram that you seek is here:  http://gyroscopes.org/masstran.asp   ----at the bottom of the page.  MIND YOUR LANGUAGE AND SPELLING ERRORS, GLENN...not because they are a problem but because they reveal a part of your "self" trying desperately to redirect the path...meaning that the mistakes you make in your "blindspot"  will reveal/contain the most "truth"...this applies experimentally as well.<br>
+<br>
+Laithwaite used Lewis Carroll's text, I was just following "suit"...<br>
+<br>
+Luis:  Like a mosquito! But, necessary!(?)!<br>
+<br>
+Freeman:  Thank you for the exposition!<br>
+<br>
+To None:  The gyroscopic motion of Laithwaite's original drawing for a mass transfer device, the drawing found here: http://gyroscopes.org/masstran.asp----in figure 7 reminds me of a boat's oars...and the train drawing at the bottom of the same page---along with Glenn's comment about a sidewinder motion makes me think of my snake skin cowboy boots and the tacking maneuvers used in sailing...or an alternating pattern of sine waves.<br>
+<br>
+Notes (or "How to Gather"):---poetics, chance and sciencific repeatability are not separated by clear boundaries and will reflect across these boundaries (Laithwaite knew this was the fruitfield where new ideas burst the seams...watch video)...look for signs "outside" that reflect inner thoughts and desires---manifesting space/time/reality into new possibilites.  The computer screen is a semipermeable membrane...not unlike the murky water of the pools at Delphi.  Instructions for Use---sit at computer with search engine ready to accept typed input (cursor in box), completely relax...draw your concerns close to your center of feeling...let your fingers begin to type..stop after first word or short phrase...GO!  There will be no real way to explain why the results pertain to some "lost" or buried concern, without seeming "insane"...Michel Foucault pondered the relation between "knowledge" and "power" as did many Quantum Mechanical physicists...the relation of precession to a "lack" of power has some similarities...How to navigate blindly or by feel...intellectual intuition?  Remember..."others" may be fragments of a larger self and not as individual as might seem...connected unconscious...collective epistemic knowledge core. Why the gyro?  OVER ALL---ABANDON HOPE ONLY WHEN NEEDED TO TRAVEL TO THE BOTTOM/TOP (at all cost!)<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Freeman</b> - 05/02/2007 18:39:48
+</td></tr><tr><td>&nbsp;</td><td>Hi all !<br>
+<br>
+To Araman Yran: it's great to know you could build your own device based on a modification of Laithwaite's hypotheses! Mine will not follow his assumptions, as I am not really convinced about them. I will use my own vision of gyro-"propulsion": I am still designing it but Jones' device and some experiments shown in the Herethic video have inspired me a lot. <br>
+<br>
+When I say I am not really convinced about Laithwaite's hypotheses about "mass transfer" I mean that his experiments, and specially the one he says it was the "Eureka" one, are very influenced by air friction. I wish he could have done them in the vacuum, in order to let them to be independent to the surrounding air... and let me say that I know what I am saying because I have a wide knoledge on Fluid Dynamics. For example, A. Cogotti made a wide research (1983) on rotating wheels in order to see the influence of this rotation in the drag coefficient (drag force) of cars. His research concluded demonstrating that a rotating wheel has LESS drag force than the static one. Thus, Laithwaite could be wrong in his experiments in which a rotating and precessing gyro displaced "more mass" than a non-rotating gyro, because the rotating gyro has less aerodynamic drag when it goes forward than the static one. Many other authors made aerodynamic researches about this fact, before and after Cogotti: Stapleford & Carr (1970), Fackrell & Harvey (1973-75), Mercker & Berneburg (1992), Fabijanic (1996), Skea, Bullen & Quiao (1998-2000)... so it is nowadays a well known effect in the automotive world (but perhaps not so well when Laithwaite lived).<br>
+<br>
+I don't want to let down anybody who wants to buid a device based on Laithwaite's assumptions, but anyone who wanted to carry out such a device like that, he/she would have to think about this effect and get it independent from the air. Other devices such as Jones' one does not have this problem, because the "propelling force" (if any!) is got by other means. <br>
+<br>
+At the end it is nice to see the hole picture: we will walk throughout different paths, but with a same objective: find out at the end of any of them if there is any gyro-propulsion. I want to remember that I am totally skeptical about it... but we don't have nothing to lose ! <br>
+<br>
+Regards, Freeman<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Nitro MacMad</b> - 05/02/2007 19:31:06
+</td></tr><tr><td>&nbsp;</td><td>Dear Freeman<br>
+<br>
+The effects of air (or any other fluid) friction on a rotating body were known long before Eric Laithwaites time and I am sure he would not have been unaware of this Magnus effect.  You may safely ignore its effect on the gyro devices discussed here as the effect is only tiny compared to the forces, mass and precessional speeds involved.  Eric Laithwaite did produce the important mass transfer (this is an abbreviation as he, and anyone schooled in classic physics, is scared witless of the full sentence that dares challenge the god Newton:-  Mass transfer without opposite mass transfer.) but its effect was buried in the return stroke of his earliest and (to him) disastrous demonstration machine.  Peter Burton observes that one of his later devices actually had the potential to sort this problem but by them the establishment had destroyed his self image so much that he couldnt see straight any more.<br>
+<br>
+Kind regards<br>
+NM<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 05/02/2007 23:32:40
+</td></tr><tr><td>&nbsp;</td><td>Hello Araman,<br>
+<br>
+' Wonderful of you, Alice to look up the train for Freeman, all and I. Thank you. You got mad at me? Dont say you didnt. Now come on Araman dont be that way. You did sort of enter here to rib us a bit.<br>
+<br>
+~~the precessing rabbit ~~you all are less learned than another ~~your strange world ~~is anyone there mathematically literate? ~~Is NASA hot on the trail ~~is this the Mother of All Devices ~~has anyone passed through the mirror? ~~ it seems an exciting chimera ~~<br>
+Chimera: A mythological, fire-breathing monster. A grotesque monster having disparate parts. A horrible or unreal creature of the imagination; a vain or idle fancy.<br>
+<br>
+I thought it was fun, but what did you expect in return, Alice, kisses? I just finished writing a critique based on your reply, because it was fun to do and funny. Ill not send it, because youre a little bit sensitiveunless you ask for it. So come on in. Abandon all hope yea who enter here. Enjoy the mad fun herein, Chimera and all. More fun almost came your way.<br>
+<br>
+Glenn,<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Freeman</b> - 08/02/2007 22:10:52
+</td></tr><tr><td>&nbsp;</td><td>Hi Nitro,<br>
+<br>
+I sincerely wish you are right! But if one wants to at least have a "mass transfer propelling force" equal to the weight of the device, the precession velocity must be high enough and thus, the drag force could be also high.<br>
+<br>
+By the way I believe you have read and studied the hypotheses of Laithwaite's mass transfer and his patents and perhaps you can help me with one question I have: I remeber when I saw 'Herethic' video that when Laithwaite went to the Patent's Lawyer with his device and explained to him how it worked, he said that in 180 the gyro precessed, but in the other 180 the gyro slided. Due to he believed that a precessing rotating gyro had less centrifugal force than a non rotating one, this umbalance could made the mass transfer. But the problem I see in his device is the "sliding operation" and when I read his patent I do not see a very important force that will appear in this kind of movement and that probably compensate a part (or fully) the centrifugal "propulsion" generated in the first 180. Can you explain me in brief his device? If you could enlighten me a bit in this, I will tell you what this force is if I did not misunderstand the mechanism.<br>
+<br>
+Regards, Freeman<br>
+<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 11/02/2007 16:28:16
+</td></tr><tr><td>&nbsp;</td><td>Hi Freeman,<br>
+<br>
+Sorry, but Im not Nitro. Can I join in? I dont think this is it: Due to he believed that a precessing rotating gyro had less centrifugal force than a non rotating one.  We cant see the action in the video so I dont know if it would work, but I believe the professors last design almost had to work this way. The gyro precess from rear to front 180 degrees. Then it is lifted the distance it has dropped and sled straight backward without ever tilting it. Now the rearward pointing axel, that was initially the front pointing axel before it precessed forward, is sat upon the same fulcrum and released. The gyro will precess in an opposite curve again 180 degrees and this action is repeated back and forth. It is the straight slide rearward from which the Professor expected to gain accelerationif I have the design generally right. One fellow said that is one step forward and one step backwards, but he is wrong. How and why this backward slide causes at least mass movement, if not acceleration can become a very lengthy discussion to prove that Im not up to even if anyone was interested, which I dont believe they are. Good. Good for me any way.<br>
+<br>
+I will leave fluid mechanics to you and Nitro. The books on that subject look like hundreds of pounds of Chinese checkers to me. I wouldnt dare. I stay confused enough as it is.<br>
+<br>
+Best Regards,<br>
+Glenn<br>
+<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Nitro MacMad</b> - 11/02/2007 23:07:07
+</td></tr><tr><td>&nbsp;</td><td>Dear All (Freeman please see the sixth paragraph),<br>
+<br>
+It was Leonardo that exclaimed in exasperation Fools it is all laid out plain to see.  While not claiming to be Leonardo or wishing to infer that anyone other than myself is a fool - what else would you call someone who experimented and observed a new fundamental of science so many years ago then spent most of his adult life avoiding further research, justifying an almost criminal waste of time on other matters with the pathetic excuse that life and family and work and inventing to earn an income were more important  the answer is indeed laid out plain to see but, to be of use, practical experimentation and somewhat complex engineering have to be carried out first. <br>
+<br>
+I came up with my version years before Laithwaite and Jones had even met.  I then criminally did virtually sod all about it except gnash my teeth when I heard about Erics early published machines thinking that, as he had made only a small error, he was bound to see what it was and, convinced of this, compounded my criminality by continuing to do nothing.<br>
+<br>
+I am not going to describe my machine here  it is in the public domain  but will reiterate one of the fundamentals of Newtonian physics (I am sure someone will correct my paraphrasing):-  A body will continue at rest or in motion until and unless a force acts upon it.  Further:-  Single straight line forces will create a straight line motion in a body.  <br>
+<br>
+If you apply these two fundamentals to a simple gyro pendulum (that is a pendulum with a gyro at its extremity having its axis aligned with the pendulums shaft) the gyro pendulum to conform to the above fundamentals must do what a non gyro pendulum does, namely simply swing to and fro in a perfect straight line..Trouble is the gyro pendulum refuses to simply swing to and fro in a straight line.<br>
+<br>
+Even if the gyro is enclosed in a chamber to eliminate friction from its passage through the air being able to produce some unheard of massive magnitude of Magnus effect, it still does not simply swing to and fro.  Do the practical and see! <br>
+<br>
+The non linear path of the gyro pendulum is not caused by any external force acting at the side of the pendulums mass, required by the above stated fundamentals, as the only force acting upon the pendulum is the remarkably linear straight line (on this scale) force of gravity.  <br>
+<br>
+Start here<br>
+<br>
+Kind regards<br>
+NM<br>
+<br>
+<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Harry K.</b> - 12/02/2007 09:23:01
+</td></tr><tr><td>&nbsp;</td><td>Dear Nitro MacMad,<br>
+<br>
+"The non linear path of the gyro pendulum is not caused by any external force acting at the side of the pendulums mass, required by the above stated fundamentals, as the only force acting upon the pendulum is the remarkably linear straight line (on this scale) force of gravity."<br>
+<br>
+Are you really sure? Is there no centripedal force working which forces the gyro to swing on a path around the pendulum joint and forces the gyro again to respond in some way (precession/nutation)?<br>
+<br>
+Please excuse my intervention.<br>
+<br>
+Regards,<br>
+Harry K.<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Nitro MacMad</b> - 12/02/2007 10:56:43
+</td></tr><tr><td>&nbsp;</td><td>Dear Harry K<br>
+ Exactly!  The gyro has displaced from precesion of the (straight line) gravitational force acting to change its axial angle.  Here is the important bit:-  it has not just displaced the gyro's mass but that of its cage as well!  In fact with a little experimentation you will discover that it can displace much more than its own mass.  With a little effort you will find that you can make a "one shot" displacement machine from here and then.......<br>
+<br>
+Kind regards<br>
+NM<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Harry K.</b> - 12/02/2007 12:00:21
+</td></tr><tr><td>&nbsp;</td><td>Dear Nitro,<br>
+<br>
+Unfortunately I'm afraid I do not understand you correct (my fault). I have seen the video number 9 from Eric Laithwaite's lecture. Is your described gyro-pendulum experiment the same as shown in the video or are there any differences? Can you provide a sketch?<br>
+<br>
+Thanks and kind regards,<br>
+Harry<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Nitro MacMad</b> - 12/02/2007 19:09:38
+</td></tr><tr><td>&nbsp;</td><td>Dear Araman Yran,<br>
+<br>
+My apologies for having cut you out of my earlier responses on this string, it was very rude of me and, Im afraid to say, the impatience of age causes me to carelessly do things like this more and more often  sorry.<br>
+<br>
+Our illustrious webmaster (Hello Glen) has already answered your main points and it must be sad to discover that Eric Laithwaite is no longer around to seek answers from the horses mouth  so to speak.  I believe that the reason that Eric Laithwaite got so close to the answer is that he was very much an experimenter and hands on.  To succeed in any new area it is useless to blindly follow what has gone before (by all means be guided, but dont blindly follow).  <br>
+<br>
+Contrary to the impression held by many people the great Newton was not all cerebral and maths in his approach to uncovering the mysteries of natural philosophy.  He could not push the odd planet to see how it reacted, but he did not just work things out mathematically before his (after years and years and years) instant discoveries about gravity, reactions, etc., as many believe, but observed first and then carried out many, many experiments. He even invented his own form of mathematics (you may have heard of calculus), to help explain to others what he was banging on about, as what had gone before was lacking.  While investigating the spectrum he even distorted his eye ball with a probe just to see the visible reaction.  A genius undoubtedly - but undoubtedly pretty dam stupid too!<br>
+<br>
+You will find few well versed in higher mathematics and fewer still trained in classic physics here, except those who will tend to spend time to protect their earlier learning by the exclusion of what might challenge the things they have for so long believed to be facts.  Even here in your string you will find those clinging to the efforts of Laithwaite, and so risk being unable to see that they must start their own paths.  Even if you start with a humble toy gyroscope you will have a far greater chance of progressing along this path than if you refer only to the maths of the past that predicts impossible what a few experiments with a simple toy show can be done.<br>
+<br>
+Harry K.  Please do the practical and note that the axis should, for preference, align with (even be fixed to) the pendulums shaft.<br>
+<br>
+Kind regards<br>
+NM   <br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Sandy Kidd</b> - 14/02/2007 10:37:33
+</td></tr><tr><td>&nbsp;</td><td>Nitro, Araman Yran and all shed dwellers.<br>
+Excellent advice Nitro,<br>
+I have been following this interesting thread without getting involved so far.<br>
+Blessed is he who has nothing to say and cannot be persuaded to say it and all that. Pity some others on this site do not take heed of this.<br>
+<br>
+Eric Laithwaite has been responsible for many enthusiasts getting involved in this madness if I may call it that, and he was partly responsible for me actively, as opposed to passively, getting involved, even although I had formulated my plan many years previously.<br>
+However it must be remembered that Eric Laithwaite, himself, never ever managed to produce inertial thrust.<br>
+<br>
+If a lot of his ideas had been developed to fruition it may well have been a different story, but who knows what the eventual outcome of any line of pursuit will be.<br>
+I have in mind Laithwaites famous something for nothing or better known as The Free Lunch Scenario which Glenn Hawkins has touched upon, without being specific about it, as part of a mass transfer discussion going on earlier in this thread.<br>
+I do not know if Eric Laithwaite gave up on this, in light of his failure to produce the goods when he tried, as it was not going to be produced the way that he hoped.<br>
+However he would have been delighted to know, that whilst maybe not by the method he envisaged, the free lunch was eventually delivered. <br>
+The point I wish to make is that it was discovered whilst pursuing something else, as was just about everything else we now know about spinning discs.<br>
+As Laithwaite proved with his approach, and as Nitro very correctly confirms, in pursuit of gyroscopically inspired inertial drive, there is just no substitute for hands on experimentation.<br>
+<br>
+Maybe some of the other ideas originally put forward by Eric Laithwaite, can be developed. <br>
+You pays your money. <br>
+However, your own choice of direction would maybe suit you better.<br>
+Some of us know that there is a large expanse of uncharted territory out there, in the realm of spinning discs, and a lot of new and exciting stuff is just waiting to be discovered.<br>
+Araman, I would tend to agree with Nitro and do as he suggests, choose you own path, and develop it. Pursue all the available options. That is all you can do.<br>
+For your interest I have never run out of options in 25 years.<br>
+Who knows whats at the end of your path, or what is much more likely, what will you discover on the way along the path?<br>
+Sandy Kidd.<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Luis Gonzalez</b> - 19/02/2007 04:18:21
+</td></tr><tr><td>&nbsp;</td><td>Dear Nitro,<br>
+Your application of Newtons fundamentals to a gyro pendulum show that Newton did not think of all possible linear/angular interactions (a full grasp is rare).   <br>
+Interestingly, when the gyro (at the end of the pendulum) is placed in full gimbals of minimal friction, then the pendulum adheres closely to Newtons fundamentals (the test is simple but the equipment is not cheep). <br>
+The gyro is able to maintain its orientation constant during the course of each swing because the gimbals remove all angular components of the force.  <br>
+Simply hanging the gyro from an axle-end will not work the same because each swing attempts to slightly change the orientation of the gyro; this causes deviation from Newtons classical linear path and the slight angular component causes precession (hence the non linear result).   <br>
+<br>
+I think this supports the notion that the portion of the force that affects the orientation of the gyro-flywheel is the only portion of the force that creates precession.<br>
+Some may consider this to be too obvious to be worth considering, but I feel that the key to understanding gyro phenomena is in isolating the bare and true cause from the rest of the not so relevant dynamics. <br>
+If the change in orientation of the gyro-flywheel is in fact the sole cause for displacing mass (which includes deadweight frame) then it may provide a slightly changed and interesting perspective.  <br>
+<br>
+Best Regards,<br>
+Luis <br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 24/02/2007 19:37:23
+</td></tr><tr><td>&nbsp;</td><td>Hi Luis,<br>
+<br>
+Luis: when the gyro (at the end of the pendulum) is placed in full gimbals of minimal friction, then the pendulum adheres closely to Newtons fundamentals (the test is simple but the equipment is not cheep).<br>
+<br>
+How are you hanging the gimbals? Is the string attached to the center of mass, or to the side of the gimbals rings as would be the case in a gyro without gimbals rings that is attached by one axel only? If I understand you the results are as different as the causes. I dont actually see a relationship to discuss.<br>
+<br>
+Oh, pay no attention to me. You had me going for a moment is all until I guessed at how you were hanging the gimbals. If you can find something there worth thinking about well good for you. <br>
+<br>
+Luis: think this supports the notion that the portion of the force that affects the orientation of the gyro-flywheel is the only portion of the force that creates precession.<br>
+<br>
+Dont forget to add to maintain exactness (You know this as well as you know your name) is the only potion of the force,  (but in addition towhat?come on what?angular momentum.) You dont need to answer. I know you know. <br>
+<br>
+Best Regards,<br>
+Glenn<br>
+<br><br></td></tr>
+<tr>
+<td align="center" colspan="2"><a href="answerquestion.asp?id=682">Add an Answer &#062;&#062;</a></td></tr>
+</table>
+    </td>
+  </tr>
+  </table>
+  
+  <font class="copyright">
+  Website. Copyright &copy; 2007 Glenn Turner. All rights reserved. <a href="/site.asp">site info</a><br>
+     Do not copy without prior permission. Click here for <a target="gyroscopeproducts" href="http://www.gyroscope.com/" alt="Gyroscope products">gyroscope products</a> 
+   
+  </font>
+</center>
+
+</body>
+</html>

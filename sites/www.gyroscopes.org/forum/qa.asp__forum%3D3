@@ -1,0 +1,195 @@
+
+<html>
+<head>
+  <title>Gyroscopes - Everything you needed to know</title>
+  <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+  <meta http-equiv="pics-label" content='(pics-1.1 "http://www.icra.org/ratingsv02.html" comment "ICRAonline EN v2.0" l gen true for "no gen term" r (nz 0 vz 0 lz 0 oz 0 cz 0) "http://www.rsac.org/ratingsv01.html" l gen true for "no gen term" r (n 0 s 0 v 0 l 0))'>
+  <META NAME="Author" CONTENT="Glenn Turner">
+  <META NAME="keywords" CONTENT="gyroscope, gyroscopes , gyro, gyros, gyroscopic propulsion">
+  <META NAME="Description" CONTENT="Gyroscopes have many uses, this site explains how a gyroscope works and what they can be used for. The site also looks at the possible uses of gyroscope based propulsion (gyroscopic propulsion). ">
+  <META NAME="Copyright" CONTENT="Copyright 2003 (All Web Pages) by Glenn Turner">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="expires" content="0">
+  <link rel="stylesheet" href="/iesite.css" type="text/css">
+</head>
+<body bgcolor="#000000">
+  <div style="  float: center; margin: 0; border: none; padding: 0; " align=center><center><img src="/header.jpg" alt="" hspace=0 vspace=0 wgith=700 height=111></center></div>
+  <center>
+  <span class="menutitle">
+    <a href="/index.asp"><font color="#DDDDDD">Home</font></a> :
+    <a href="/gallery.asp"><font color="#DDDDDD">Gallery</font></a> :
+    <a href="/history.asp"><font color="#DDDDDD">History</font></a> :
+    <a href="/uses.asp"><font color="#DDDDDD">Uses</font></a> :
+    <a href="/behaviour.asp"><font color="#DDDDDD">Behaviour</font></a> :
+    <a href="/math.asp"><font color="#DDDDDD">Maths</font></a> :
+    <a href="/forum/forums.asp"><font color="#DDDDDD">Forum</font></a> :
+    <a href="/propulsion.asp"><font color="#DDDDDD">Propulsion</font></a> :
+    <a href="/links.asp"><font color="#DDDDDD">Links</font></a> :
+    <a href="/glossary.asp"><font color="#DDDDDD">Glossary</font></a>
+    <br>
+  </span>
+
+  <table border=0 cellpadding=0 cellspacing=0 width="0" height="11">
+  <tr>
+    <td></td>
+  </tr>
+  </table>
+
+
+
+
+
+  <table border=0 cellpadding=8 cellspacing=0 width="700" height="260" bgcolor="#FFFFFF" ID="Table1">
+  <tr>
+    <td valign="top" class="main">
+<table align="center" width="100%" border="0">
+  <tr>
+    <td align="left" width="20%" valign="top">
+      <a href="forums.asp">Main Forum Page</a>
+    </td>
+    <td align="center" valign="middle">
+      
+      <h2 border="0">       
+      </h2></td>
+    <td align="right" width="20%" valign="top">
+      12 January 2007 06:44
+    </td>
+  </tr>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <p align=left>Welcome to the gyroscope forum. If you have a question about gyroscopes in general,
+      want to know how they work, or what they can be used for then you can leave your question here for others to answer.
+         You may also be able to help others by answering some of the questions on the site.
+      </p>
+      
+      <table width="100%">
+      <tr><td>
+        <form action="qa.asp" method="get">
+        <b>Search the forum: </b><input type="text" value="" name="forumsearch" size=30>&nbsp;<input type="submit" value="Search" name="forumsearchsubmit">
+          <input type=hidden name="forum" value="3">
+        </form>
+      </td><td>
+        
+        <form action="askquestion.asp" method="post">
+        <input type="submit" value="Ask a new Question" name="forumsearchsubmit">
+        </form>
+        
+      </td></tr>
+      </table>
+      <hr width=100%>
+    </td>
+  </tr>
+</table>
+<table align=center border=0 width=95% cellspacing=0 cellpadding=2 class=gallerytable>
+<tr>
+<td align=center width=100>&nbsp;</td><td align=center><b>Page 1 of 3</b><br><font size=-1>( 17 Questions found)<br> Sorting by: <select onchange="Javascript: location.href='?forum=3&orderby=' + options[selectedIndex].value; " name=sortby><option value="recentquestions">Most recent Questions<option value="recentanswers">Most recent Answers<option value="mostreplies">Questions with most replies<option value="noreplies">Questions with no replies</select><br> Go to Page: <a href="?page=1&forum=3">[1]</a><a href="?page=2&forum=3">[2]</a><a href="?page=3&forum=3">[3]</a></font></td><td align=center width=100><a href="?page=2&forum=3">Next &gt;&gt;</a></td></tr></table><p><table border="0" align="center" width="95%">
+
+    <tr>
+    <td colspan="2"  align="left">
+    <a href="questions.asp?id=666"><b><font color="#000000">new    patents</font></b></a><br>
+    Italian engineer 
+Alfio di Bella 
+Alfio di Bella 
+Alfio di Bella 
+Alfio di Bella 
+patented a device to convert circular movement into one-direction movement. 
+Go to european patent database ep.e <b>...</b> <br>
+    Asked on 15 December 2006 by <i>aaaaaaaaaaa</i> <br>
+    <a href="questions.asp?id=666">Read Question in Full</a>
+    
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No answers as yet.
+      </td></tr><tr><td align="left" colspan="2">&nbsp;</td></tr>
+    <tr>
+    <td colspan="2" class=forumodd align="left">
+    <a href="questions.asp?id=651"><b><font color="#000000">"recently answered questions"</font></b></a><br>
+    Webmaster. 
+ 
+Can you find a way to re-implement "recently answered questions" without them being attacked by ringtones? I never realized how useful and needed this category was until it was gone.  <b>...</b> <br>
+    Asked on 28 November 2006 by <i>Glenn Hawkins</i> <br>
+    <a href="questions.asp?id=651">Read Question in Full</a>
+    
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="questions.asp?id=651">View Answers (1 answers)</a>
+      </td></tr><tr><td align="left" colspan="2">&nbsp;</td></tr>
+    <tr>
+    <td colspan="2"  align="left">
+    <a href="questions.asp?id=647"><b><font color="#000000">interesting informations for you</font></b></a><br>
+    Italian engineer 
+Alfio di Bella 
+Alfio di Bella 
+Alfio di Bella 
+Alfio di Bella 
+patented a device to convert circular movement into one-direction movement. 
+Go to european patent database ep.e <b>...</b> <br>
+    Asked on 24 November 2006 by <i>aaaaaaaaa    fffffffff</i> <br>
+    <a href="questions.asp?id=647">Read Question in Full</a>
+    
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No answers as yet.
+      </td></tr><tr><td align="left" colspan="2">&nbsp;</td></tr>
+    <tr>
+    <td colspan="2" class=forumodd align="left">
+    <a href="questions.asp?id=646"><b><font color="#000000">interesting informations for you</font></b></a><br>
+    Italian engineer 
+Alfio di Bella 
+Alfio di Bella 
+Alfio di Bella 
+Alfio di Bella 
+patented a device to convert circular movement into one-direction movement. 
+Go to european patent database ep.e <b>...</b> <br>
+    Asked on 24 November 2006 by <i>aaaaaaaaa    fffffffff</i> <br>
+    <a href="questions.asp?id=646">Read Question in Full</a>
+    
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No answers as yet.
+      </td></tr><tr><td align="left" colspan="2">&nbsp;</td></tr>
+    <tr>
+    <td colspan="2"  align="left">
+    <a href="questions.asp?id=583"><b><font color="#000000">MIDDLETON MASS DRIVER</font></b></a><br>
+    USE THE FORCE ...ie CENTIFUGAL../..CENTRIPITAL OFFSET ABOVE OR BELOW THE GYRO ,DEPENDING ON YOUR DEVICE, TO PROVIDE A STEADY APPLIED FORCE, SEEMS BETTER THAN PUSH PULL / SLIP STICK. WORKS OK ON THE MI <b>...</b> <br>
+    Asked on 16 June 2006 by <i>MIDDLETON</i> <br>
+    <a href="questions.asp?id=583">Read Question in Full</a>
+    
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No answers as yet.
+      </td></tr><tr><td align="left" colspan="2">&nbsp;</td></tr>
+    <tr>
+    <td colspan="2" class=forumodd align="left">
+    <a href="questions.asp?id=574"><b><font color="#000000">Inertial Navigation</font></b></a><br>
+    How can the gyroscope technology be implemented in strapdown inertial navigation, for instance, in pipeline inspection pigging tools? <br>
+    Asked on 25 May 2006 by <i>Ali Nabi</i> <br>
+    <a href="questions.asp?id=574">Read Question in Full</a>
+    
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No answers as yet.
+      </td></tr><tr><td align="left" colspan="2">&nbsp;</td></tr>
+    <tr>
+    <td colspan="2"  align="left">
+    <a href="questions.asp?id=458"><b><font color="#000000">A way to find people to collaborate with on Gyro-propulsion</font></b></a><br>
+    Can you squeeze into your website anl area where interested parties can look over each others experience in the effort to build a gyro propulsion machine? Hopefully we can identify what different ind <b>...</b> <br>
+    Asked on 28 August 2005 by <i>Luis Gonzalez</i> <br>
+    <a href="questions.asp?id=458">Read Question in Full</a>
+    
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No answers as yet.
+      </td></tr><tr><td align="left" colspan="2">&nbsp;</td></tr>
+    <tr>
+    <td colspan="2" class=forumodd align="left">
+    <a href="questions.asp?id=445"><b><font color="#000000">html just a test</font></b></a><br>
+    1 
+2 
+:) <br>
+    Asked on 14 August 2005 by <i>d brown</i> <br>
+    <a href="questions.asp?id=445">Read Question in Full</a>
+    
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="questions.asp?id=445">View Answers (2 answers)</a>
+      </td></tr></table><table align=center border=0 width=95% cellspacing=0 cellpadding=2 class=gallerytable>
+<tr>
+<td align=center width=100>&nbsp;</td><td align=center><b>Page 1 of 3</b><br><font size=-1>( 17 Questions found)<br> Sorting by: <select onchange="Javascript: location.href='?forum=3&orderby=' + options[selectedIndex].value; " name=sortby><option value="recentquestions">Most recent Questions<option value="recentanswers">Most recent Answers<option value="mostreplies">Questions with most replies<option value="noreplies">Questions with no replies</select><br> Go to Page: <a href="?page=1&forum=3">[1]</a><a href="?page=2&forum=3">[2]</a><a href="?page=3&forum=3">[3]</a></font></td><td align=center width=100><a href="?page=2&forum=3">Next &gt;&gt;</a></td></tr></table><p>    </td>
+  </tr>
+  </table>
+  
+  <font class="copyright">
+  Website. Copyright &copy; 2007 Glenn Turner. All rights reserved. <a href="/site.asp">site info</a><br>
+     Do not copy without prior permission. Click here for <a target="gyroscopeproducts" href="http://www.gyroscope.com/" alt="Gyroscope products">gyroscope products</a> 
+   
+  </font>
+</center>
+
+</body>
+</html>

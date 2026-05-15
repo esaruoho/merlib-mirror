@@ -1,0 +1,207 @@
+
+<html>
+<head>
+  <title>Gyroscopes - Everything you needed to know</title>
+  <meta HTTP-EQUIV="Content-Type" content="text/html; charset=iso-8859-1">
+  <meta http-equiv="pics-label" content='(pics-1.1 "http://www.icra.org/ratingsv02.html" comment "ICRAonline EN v2.0" l gen true for "no gen term" r (nz 0 vz 0 lz 0 oz 0 cz 0) "http://www.rsac.org/ratingsv01.html" l gen true for "no gen term" r (n 0 s 0 v 0 l 0))'>
+  <meta name="Author" content="Glenn Turner">
+  <meta name="keywords" content="gyroscope, gyroscopes , gyro, gyros, gyroscopic propulsion">
+  <meta name="Description" content="Gyroscopes have many uses, this site explains how a gyroscope works and what they can be used for. The site also looks at the possible uses of gyroscope based propulsion (gyroscopic propulsion). ">
+  <meta name="Copyright" content="Copyright 2015 (All Web Pages) by Glenn Turner">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="expires" content="0">
+  <link rel="stylesheet" href="/iesite.css" type="text/css">
+  
+</head>
+<body bgcolor="#000000">
+  <div style="  float: center; margin: 0; border: none; padding: 0; " align=center><center><img src="/header.jpg" alt="" hspace=0 vspace=0 width=700 height=111></center></div>
+  <center>
+  <span class="menutitle">
+    <a href="/index.asp"><font color="#DDDDDD">Home</font></a> :
+    <a href="/gallery.asp"><font color="#DDDDDD">Gallery</font></a> :
+    <a href="/history.asp"><font color="#DDDDDD">History</font></a> :
+    <a href="/uses.asp"><font color="#DDDDDD">Uses</font></a> :
+    <a href="/behaviour.asp"><font color="#DDDDDD">Behaviour</font></a> :
+    <a href="/math.asp"><font color="#DDDDDD">Maths</font></a> :
+    <a href="/forum/forums.asp"><font color="#DDDDDD">Forum</font></a> :
+    <a href="/propulsion.asp"><font color="#DDDDDD">Propulsion</font></a> :
+    <a href="/links.asp"><font color="#DDDDDD">Links</font></a> :
+    <a href="/glossary.asp"><font color="#DDDDDD">Glossary</font></a>
+    <br>
+  </span>
+
+  <table border=0 cellpadding=0 cellspacing=0 width="0" height="11">
+  <tr>
+    <td></td>
+  </tr>
+  </table>
+
+
+
+
+
+  <table border=0 cellpadding=8 cellspacing=0 width="700" height="260" bgcolor="#FFFFFF" ID="Table1">
+  <tr>
+    <td valign="top" class="main">
+<table align="center" width="100%" border="0">
+  <tr>
+    <td align="left" width="20%" valign="top">
+      <a href="forums.asp">Main Forum Page</a>
+    </td>
+    <td align="center" valign="middle">
+      
+      <h2 border="0">       
+      The Gyroscope Forum</h2></td>
+    <td align="right" width="20%" valign="top">
+      17 January 2021 11:57
+    </td>
+  </tr>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <p align=left>Welcome to the gyroscope forum. If you have a question about gyroscopes in general,
+      want to know how they work, or what they can be used for then you can leave your question here for others to answer.
+         You may also be able to help others by answering some of the questions on the site.
+      </p>
+      
+      <table width="100%">
+      <tr><td>
+        <form action="qa.asp" method="get">
+        <b>Search the forum: </b><input type="text" value="" name="forumsearch" size=30>&nbsp;<input type="submit" value="Search" name="forumsearchsubmit">
+          <input type=hidden name="forum" value="">
+        </form>
+      </td><td>
+        
+        <form action="askquestion.asp" method="post">
+        <input type="submit" value="Ask new Question" name="forumsearchsubmit">&nbsp;
+        
+        <input type="submit" value="Login" name="Login"> 
+        
+        </form>
+      </td></tr>
+      </table>
+      <hr width=100%>
+    </td>
+  </tr>
+</table>
+
+<table align="center" border="0" width="95%">
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><h3>Question</h3></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Asked by:</b></td>
+    <td align="left" colspan="2" valign="top">Nitro</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Subject:</b></td>
+    <td align="left" colspan="2" valign="top">an academic book on quackery?</td>
+  </tr>
+  <tr>
+    <td align=right class=medium valign="top" nowrap><b>Question:</b></td>
+    <td align=left class=medium valign="top" width="400" colspan="2">Dear Nate,<br>
+<br>
+Re yours of 17th Aug 2020 <br>
+<br>
+I got the Kindle version cos its cheap (you can take the Scot out of Scotland but you cannot .....  Ask Sandy!) and unless the hard back copy has original drawings by Leonardo I think I made a good choice.  Dennis Allen Jr seems to be more adept at spreading religious nuttery than scientific truth and confirmed the late great debunker of flim flamers James Randis belief that if you want to fool anyone easily with quackery go for an academic.  The dam book is not worthy of use as toilet paper  especially so as I got the kindle edition.  Oh! My poor asteroids.<br>
+<br>
+Seriously!  Anyone on this site has better understanding of the subject of inertial propulsion  even the persistent nutters like me  dont waste your money.<br>
+<br>
+Love and laughter guys (and gals  Ha! As if youd find a Gal here)<br>
+NM<br>
+<br>
+PS Nate, why are we to Wake up!</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Date:</b></td>
+    <td align="left" colspan="2" valign="top">25 August 2020
+    </td>
+  </tr>
+  <tr>
+    <td align="right" colspan="3" valign="top"><a href="abuse.asp?q=3030">report abuse</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2><hr width="100%"></td>
+  </tr>
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><br><h3>Answers (Ordered by Date)</h3><br></td>
+  </tr>
+  <tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Harry K.</b> - 26/08/2020 10:47:47
+</td></tr><tr><td>&nbsp;</td><td>Hi Nitro,<br>
+Glad to see that the forum seems still to be alive. :-)<br>
+I read some other pblications from Nr. Allen on the researchgate page. After reading this:<br>
+<br>
+https://www.researchgate.net/publication/292976877_An_Elementary_Explanation_of_the_Famous_Eric_Laithwaite_Royal_Society_42_lb_Gyroscope_Over_the_Head_With_One_Hand_Demonstration_that_Led_to_His_Being_Ostracized_by_the_United_Kingdom_Physics_Elite<br>
+<br>
+I have serious doubts if he really understand gyro behaviour... I have no idea what he is talking about in this publication!? Maybe Im too dumb for this academic matter...<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8299">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Nitro</b> - 29/08/2020 16:44:19
+</td></tr><tr><td>&nbsp;</td><td>Hi yourself Harry<br>
+<br>
+The forum is gasping a bit but still alive.  I dont think there is much development in the public domain  Woopy has been diverted to other areas it seems.<br>
+<br>
+Im glad to hear from you and, indeed, anyone who has survived/avoided/recovered from this dammed Chinese warfare virus.  It killed my brother Ag recently and like all us mad inventors and searchers for truth he was in the middle of his next development of Jade Warrior.  Ag was helping me with some of the more troubling engineering aspects of my next machine so his death is a sad loss for my family, combustion technology and gyrodynamics all at once.<br>
+<br>
+I am sure Dennis Allen Junior hasnt a clue about gyro behaviour  he has avoided the subject and waffles on along the dead end street of angle, pivoted, tilted pendulums - and if anyone is dumb, Harry, you can relax as it wont be you.<br>
+<br>
+Keep safe<br>
+kind regards<br>
+NM<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8300">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 30/08/2020 08:51:21
+</td></tr><tr><td>&nbsp;</td><td>Right on men. I got a free read and skimmed over it. I found nothing of consequence related to gyroscopes. It is a little book filled with name-dropping of impressive people without any connection or conclusion of any apparent purpose.<br>
+It takes a lot of energy to write a book. I would have sympathy for the mans effort and failure but for his promise that deviates from the billing and claims. <br>
+It is a sad joke on first him, and next on any poor guys wasted two-dollar buy.<br>
+<br>
+I am sorry Nitro about your brother. The Prince of Pease will give you healing beyond all understanding. <br>
+<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8301">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Nate</b> - 01/09/2020 00:28:39
+</td></tr><tr><td>&nbsp;</td><td>Guys,<br>
+I hadn't read it when I posted.<br>
+<br>
+It IS garbage.<br>
+<br>
+MY APOLOGIES.<br>
+<br>
+Nate<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8302">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Harry K.</b> - 03/09/2020 08:18:44
+</td></tr><tr><td>&nbsp;</td><td>DearNitro,<br>
+Im very sorry about your brother. Its a terrible time with this damned virus. <br>
+I wish you and your family all the best and stay at good health!<br>
+<br>
+Best regards<br>
+Harald<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8304">Report Abuse</a></td></tr>
+<tr>
+<td align="center" colspan="2"><a href="answerquestion.asp?id=3030">Add an Answer &#062;&#062;</a></td></tr>
+</table>
+    </td>
+  </tr>
+  </table>
+  
+  <font class="copyright">
+  Website. Copyright &copy; 2021 Glenn Turner. All rights reserved. <a href="/site.asp">site info</a><br>
+     Do not copy without prior permission. Click here for <a target="gyroscopeproducts" href="http://www.gyroscope.com/" alt="Gyroscope products">gyroscope products</a> 
+   
+  </font>
+</center>
+
+</body>
+</html>

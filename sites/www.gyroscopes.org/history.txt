@@ -1,0 +1,69 @@
+The Gyroscope - Everything you needed to know 
+
+ Home :
+ Gallery :
+ History :
+ Uses :
+ Behaviour :
+ Maths :
+ Forum :
+ Propulsion :
+ Links :
+ Glossary 
+
+ History of gyroscopes 
+
+ 12th Sept 1743 
+ "Serson's Speculum" sextant was first tested. Basically this is a spinning to top that has a flat mirror like
+ surface on the top. It was designed to be used at sea in foggy or misty conditions. By looking through the
+ line of sight through a quadrant at the reflected image of the sun in the
+ mirror (Seron's speculum) and aligning this with the direct light of the
+ sun, a angle can be taken. Halving this angle gives the true horizon (even if the
+ horizon cannot be seen). The idea is that the Seron's speculum (spinning top) can be aligned with the horizon. 
+
+ 1754 
+ Details of "Serson's Speculum" are published in "The Gentleman's Magazine" 1754 Vol 24 p. 446-448. 
+
+ 1831 
+ Professor Walter R. Johnson of the University of Pennsylvania exhibited a "Rotascope". 
+
+ 1836 
+ Scotsman Mr. Edward Sang suggested an experiment using a device like a gyroscope to the Royal Scottish Society of Arts. 
+
+ 1852 
+ The French scientist Jean Bernard Leon Foucault (1826-64) first used the name gyroscope. Conducted many experiments with gyroscopes and was credited with the invention of the gyroscope. 
+
+ 1852-1968 
+ A new style of demonstration gyroscope is created that uses gravitational torque to get a gyroscope to rotate around a centre base.
+ The design was created by Julius Plcker 1801-1868 and Friedrich Fessel 1821- ca. 1860. 
+
+ 1898 
+ Original patent of an Austrian engineer M. Obry was finialized after being sold to Whitehead Torpedo Works Fiume. 
+
+ 17th July 1906 
+ Gyrostabilizer experiments carried out by Herr Otto Schlick on the "Sea-bar" torpedo-boat. 
+
+ 1908 
+ First working gyrocompass developed by H. Ansch&#252;tz-Kaempfe 
+
+ 1908 
+ First apparatus for steadying a ship in England was installed in October, 1908 to R.M.S Lochiel. Construction was carried out at the Neptune Works of Swan, Hunter And Wigham Richardson (Newcastle). 
+
+ 1909 
+ Elmer A. Sperry built the first automatic pilot for aircraft using gyroscopes. 
+
+ 1911 
+ Elmer A. Sperry started selling gyrocompasses in US and later in Britain. 
+
+ 1915 
+ Sperry Company (Elmer A. Sperry) installed the first Sperry gyrostabilizer to stop roll on ships. 
+
+ 1916 
+ The Ansch&#252;tz Company completed and installed the first automatic pilot for a ship. 
+
+ 1916 
+ First artificial horizon in aircraft used. 
+
+ Webpage. Copyright &copy; 2003 Glenn Turner. All rights reserved. more info 
+ All other images/content copyrighted to the designated owners, 
+ and must not be reproduced or distributed without prior permission.

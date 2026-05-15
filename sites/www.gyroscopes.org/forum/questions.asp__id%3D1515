@@ -1,0 +1,259 @@
+
+<html>
+<head>
+  <title>Gyroscopes - Everything you needed to know</title>
+  <meta HTTP-EQUIV="Content-Type" content="text/html; charset=iso-8859-1">
+  <meta http-equiv="pics-label" content='(pics-1.1 "http://www.icra.org/ratingsv02.html" comment "ICRAonline EN v2.0" l gen true for "no gen term" r (nz 0 vz 0 lz 0 oz 0 cz 0) "http://www.rsac.org/ratingsv01.html" l gen true for "no gen term" r (n 0 s 0 v 0 l 0))'>
+  <meta name="Author" content="Glenn Turner">
+  <meta name="keywords" content="gyroscope, gyroscopes , gyro, gyros, gyroscopic propulsion">
+  <meta name="Description" content="Gyroscopes have many uses, this site explains how a gyroscope works and what they can be used for. The site also looks at the possible uses of gyroscope based propulsion (gyroscopic propulsion). ">
+  <meta name="Copyright" content="Copyright 2015 (All Web Pages) by Glenn Turner">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="expires" content="0">
+  <link rel="stylesheet" href="/iesite.css" type="text/css">
+  
+</head>
+<body bgcolor="#000000">
+  <div style="  float: center; margin: 0; border: none; padding: 0; " align=center><center><img src="/header.jpg" alt="" hspace=0 vspace=0 width=700 height=111></center></div>
+  <center>
+  <span class="menutitle">
+    <a href="/index.asp"><font color="#DDDDDD">Home</font></a> :
+    <a href="/gallery.asp"><font color="#DDDDDD">Gallery</font></a> :
+    <a href="/history.asp"><font color="#DDDDDD">History</font></a> :
+    <a href="/uses.asp"><font color="#DDDDDD">Uses</font></a> :
+    <a href="/behaviour.asp"><font color="#DDDDDD">Behaviour</font></a> :
+    <a href="/math.asp"><font color="#DDDDDD">Maths</font></a> :
+    <a href="/forum/forums.asp"><font color="#DDDDDD">Forum</font></a> :
+    <a href="/propulsion.asp"><font color="#DDDDDD">Propulsion</font></a> :
+    <a href="/links.asp"><font color="#DDDDDD">Links</font></a> :
+    <a href="/glossary.asp"><font color="#DDDDDD">Glossary</font></a>
+    <br>
+  </span>
+
+  <table border=0 cellpadding=0 cellspacing=0 width="0" height="11">
+  <tr>
+    <td></td>
+  </tr>
+  </table>
+
+
+
+
+
+  <table border=0 cellpadding=8 cellspacing=0 width="700" height="260" bgcolor="#FFFFFF" ID="Table1">
+  <tr>
+    <td valign="top" class="main">
+<table align="center" width="100%" border="0">
+  <tr>
+    <td align="left" width="20%" valign="top">
+      <a href="forums.asp">Main Forum Page</a>
+    </td>
+    <td align="center" valign="middle">
+      
+      <h2 border="0">       
+      The Gyroscope Forum</h2></td>
+    <td align="right" width="20%" valign="top">
+      11 August 2020 22:00
+    </td>
+  </tr>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <p align=left>Welcome to the gyroscope forum. If you have a question about gyroscopes in general,
+      want to know how they work, or what they can be used for then you can leave your question here for others to answer.
+         You may also be able to help others by answering some of the questions on the site.
+      </p>
+      
+      <table width="100%">
+      <tr><td>
+        <form action="qa.asp" method="get">
+        <b>Search the forum: </b><input type="text" value="" name="forumsearch" size=30>&nbsp;<input type="submit" value="Search" name="forumsearchsubmit">
+          <input type=hidden name="forum" value="">
+        </form>
+      </td><td>
+        
+        <form action="askquestion.asp" method="post">
+        <input type="submit" value="Ask new Question" name="forumsearchsubmit">&nbsp;
+        
+        <input type="submit" value="Login" name="Login"> 
+        
+        </form>
+      </td></tr>
+      </table>
+      <hr width=100%>
+    </td>
+  </tr>
+</table>
+
+<table align="center" border="0" width="95%">
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><h3>Question</h3></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Asked by:</b></td>
+    <td align="left" colspan="2" valign="top">Blaze</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Subject:</b></td>
+    <td align="left" colspan="2" valign="top">Newtons Laws and Closed Systems</td>
+  </tr>
+  <tr>
+    <td align=right class=medium valign="top" nowrap><b>Question:</b></td>
+    <td align=left class=medium valign="top" width="400" colspan="2">Premise: <br>
+Any open system becomes a closed system if the borders of the system are sufficiently expanded.<br>
+<br>
+Discussion:<br>
+Let us start with a few definitions. <br>
+<br>
+A system is a part of the physical universe that is chosen for study or analysis. Everything that is outside of the system is the environment. The environment is ignored in analysis of the system except for its effects on the system. The borders between system and the environment are arbitrarily defined by the person doing the analysis. The borders are generally set to make the analysis as simple as possible.<br>
+<br>
+An open system is one which interacts with its environment in a continuous manor. This interaction can be in the form of energy, information, or mass transferred across (into or out of) the system borders.<br>
+<br>
+A closed system is a system which doesn't exchange any matter with its surroundings, and isn't subject to any force that is external to the system. The mass within a closed system can move about within the system but the movement of that mass does not provide a change in the net momentum of the system (in other words, the system cant go anywhere just because mass is moving about inside the system borders).<br>
+<br>
+Some examples of open systems would be an automobile, a chemical rocket, and a gravity powered overhung gyroscope. <br>
+<br>
+An automobile, when running or moving, interacts with its environment, which is the earth and the atmosphere of the earth. The engine of the automobile draws in air (interacts with its environment by moving mass into the system from the earths atmosphere) and combines it with fuel to produce energy which it uses to push against a really heavy object in its environment (the earth). The burning of the fuel also produces exhaust gases which are expelled from the automobile which is interacting with the environment (moving mass out of the system into its environment, the earths atmosphere).<br>
+<br>
+So clearly an automobile is an open system unless you expand the boundaries of the system enough to also include the earth. Then it is no longer an open system. It is now a closed system. The mass (the automobile) can move around inside the expanded system borders but the system as a whole (the earth and everything on it) has no net momentum change. All forces are now internal to the expanded system.<br>
+<br>
+Lets look at another example, the chemical rocket. The rocket works by throwing mass out of the back at high velocity. It is expelling mass past the system boundaries (the rocket) into its environment (space). By Newtons third law, for every action there is an equal and opposite reaction, so the rocket moves forward.<br>
+<br>
+So the chemical rocket is clearly an open system.. unless you expand the system borders to include the entire universe. Then the rocket becomes a closed system because it can move about within the expanded system but that movement does not provide a net momentum change to the system (the entire universe and everything in it). All forces are now internal to the expanded system.<br>
+<br>
+Lets look at one more example, the gravity powered overhung gyroscope sitting on earth merrily precessing at a steady state. It is interacting with its environment, the earths gravity, which provides a constant force that drives the precession of the gyroscope. Remember, an open system is one that interacts with its environment in any way. So, again, this is clearly an open system.. unless you expand the borders of the system to include the earth. Then it becomes a closed system because all the forces are within the expanded system borders. <br>
+<br>
+Conclusions:<br>
+So, if you expand the borders of an open system enough, then the system becomes a closed system. <br>
+<br>
+Newton's first law states that every object will remain at rest or in uniform motion in a straight line unless compelled to change its state by the action of an external force. <br>
+<br>
+Arbitrarily assigning system borders that are too large would make all forces internal and would render any system a closed system and therefore system propulsion would be impossible.<br>
+<br>
+Any thoughts or comments?<br>
+<br>
+Blaze<br>
+</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Date:</b></td>
+    <td align="left" colspan="2" valign="top">21 November 2012
+    </td>
+  </tr>
+  <tr>
+    <td align="right" colspan="3" valign="top"><a href="abuse.asp?q=1515">report abuse</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2><hr width="100%"></td>
+  </tr>
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><br><h3>Answers (Ordered by Date)</h3><br></td>
+  </tr>
+  <tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Ram Firestone</b> - 21/11/2012 04:42:59
+</td></tr><tr><td>&nbsp;</td><td>Ok sounds reasonable. However unless I'm missing something this precludes gyroscopic propulsion.<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=5985">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 21/11/2012 17:24:31
+</td></tr><tr><td>&nbsp;</td><td>Of course you are correct. Considering your experiment, if you had powered it in deep space, using electromagnetic attraction instead of gravity, the right angle reaction slingshot would have carried the wheel toward the end of the universe, except that it would be eventually captured by the gravity of a distant galaxy. Some believe the universe circles back-in upon itself and therefore has no end that a thing can move toward. A thing so small as a quirk, or even an atom if not corralled, is an open system and theoretically might travel the unknowable distance of infinity. The Greek philosopher ask the question, If a man in a chariot travels to the end of the universe and hurled a spear outward, where will the spear go? Professor Eric Laithwaite said that sometimes be believed that everything in the universe, that is all matter, was nothing more than spin. If he had lived longer he would have found that some theorist have come to believe the same. Lastly we all have learned the accepted idea that the Big Bang and all the entire matter that came from it to create the universe, was first a size smaller than a pin head. What do I believe? I cannot fathom a thing so imposable to imagine, but coming full circle, you are correct within the parameters you wrote so clearly about. It dose not seem to me I have said anything of value, but maybe there is some interest in the wonderings allowed, of such a limited person as myself.<br>
+Hewitt Casper,   <br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=5986">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Nitro</b> - 21/11/2012 20:06:52
+</td></tr><tr><td>&nbsp;</td><td>Nice one Blaze.  You always give food for thought.   However, saying that precession is caused by gravity will leave wriggle room for wrigglers though as you and wrigglers know any force applied to change its axial angle will do. <br>
+<br>
+It has long been known that any extreme rescaling of an area of examination makes a mockery of Newtonian laws.  That is why astro and atomic physics had to make up a new set of laws to fit the new facts.   If you are a scientist you can now get away with nonsense like:- bits of string, multiverses, cats in boxes, dark energy, worm holes, the impossibility of exceeding the speed of light (from the observer already!), despite tachyons and neutrinos and the like.  If you are a scientist you can pontificate about any old crap and get away with it.  If you are not a scientist, dont you dare to point up any flaws, no mater how glaring they may be, made by any of the gods of science or a host of imps gnomes and goblins will rise from the depths of hell to bite you  welcome back Ram, by the way.<br>
+<br>
+It has been said that if you extend anything ad absurdum most of the established understanding defeats understanding.  Thus those who believe in the current big bang theory (love that program) and those who believe in the old steady state theory turn out to believe in the creation of something from nothing and/or perpetual motion.  Hey! welcome to the nutters in sheds club all you scientists.<br>
+<br>
+Kind regards<br>
+NM<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=5987">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Blaze</b> - 22/11/2012 00:55:19
+</td></tr><tr><td>&nbsp;</td><td>Gentlemen, thank you for your responses.<br>
+<br>
+Ram, this relates to everything including gyros, cars, widgets, etc. The point that I am trying to make here is that since borders are arbitrarily assigned, it is easy to incorrectly assign borders that are not meaningful which makes anything you are trying to study or prove meaningless. This problem occurs when expanding the borders too much or if you start by looking at a system where the borders are expanded too much to begin with.<br>
+<br>
+The reverse of the premise can also work, although it may not always work. <br>
+<br>
+The reverse premise is this:<br>
+If you take a closed system and shrink the borders enough you may find one or more open systems working in tandem, series or in a feedback loop. <br>
+<br>
+Start with the car and the earth where the system borders include both. You have a closed system. Now shrink the borders to the point where you only include the car. Now you have a open system. <br>
+<br>
+Blaze<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=5988">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Ram Firestone</b> - 22/11/2012 15:34:32
+</td></tr><tr><td>&nbsp;</td><td>Blaze I understand that it applies to everything. It's just another way of thinking of Newton's 3rd law. All I'm saying is, in order for any kind reactionless propulsion to work, your analysis has to be proven false.<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=5989">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Harry K.</b> - 22/11/2012 17:32:45
+</td></tr><tr><td>&nbsp;</td><td>Hi Blaze,<br>
+<br>
+ Start with the car and the earth where the system borders include both. You have a closed system. Now shrink the borders to the point where you only include the car. Now you have a open system.<br>
+<br>
+Yes you will have an open system. Howwever, the car cannot move away from its actual position anymore because the counter force from Earth, better the Earth  itself is missing. <br>
+So what sense.should this have?<br>
+Or did I miss something?<br>
+<br>
+Hatry<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=5991">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Blaze</b> - 22/11/2012 23:46:06
+</td></tr><tr><td>&nbsp;</td><td>Hi Ram and Harry. <br>
+<br>
+Ram, my design doesn't use "reactionless" propulsion. <br>
+<br>
+Harry, if you shrink the borders down to the car, the car's environment is still there, which is the earth.<br>
+<br>
+regards,<br>
+Blaze<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=5993">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Hewitt Casper</b> - 30/11/2012 17:29:10
+</td></tr><tr><td>&nbsp;</td><td>B. Traven's 1927 novel The Treasure of the Sierra Madre:<br>
+<br>
+Gold Hat: Jhola Ereyone, We are the federales. The mounted police, you know. Give us your guns and we will go away.<br>
+<br>
+Dobbs: "All right, If you are the police where are your badges? Let's see them."<br>
+Gold Hat: "Badges, to xxx-damned hell with badges! We have no badges. In fact, we don't need badges. I don't have to show you any stinking badges, you xxx-damned xabron and xxinga tu madre!<br>
+<br>
+http://www.youtube.com/watch?v=VqomZQMZQCQ<br>
+<br>
+Sudden vertical force resulting in horizontal precession action, then coasting circling 90 degrees, to a forward collision reaction. Then resetting. If it should be so, and necessary in a design then it would be that action and reaction are equal and occurring on the same plain. . . but at 90 degrees separated.<br>
+<br>
+Ive thought this over for too many years and I am back on the drawing board.<br>
+If it is not needed, nothing is lost, because the two designs are virtually the same regardless<br>
+Hewitt,<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=5997">Report Abuse</a></td></tr>
+<tr>
+<td align="center" colspan="2"><a href="answerquestion.asp?id=1515">Add an Answer &#062;&#062;</a></td></tr>
+</table>
+    </td>
+  </tr>
+  </table>
+  
+  <font class="copyright">
+  Website. Copyright &copy; 2020 Glenn Turner. All rights reserved. <a href="/site.asp">site info</a><br>
+     Do not copy without prior permission. Click here for <a target="gyroscopeproducts" href="http://www.gyroscope.com/" alt="Gyroscope products">gyroscope products</a> 
+   
+  </font>
+</center>
+
+</body>
+</html>
