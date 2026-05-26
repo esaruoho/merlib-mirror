@@ -242,6 +242,16 @@ submitted: $(date -u +%Y-%m-%dT%H:%M:%SZ)
 submitted_from: $(hostname -s)
 JOBEOF
 
+  # ALSO drop a copy into comms/queue/mirror-inbox/ so the Mini worker can
+  # pick up submissions from any peer (laptop, future contributors) without
+  # requiring a clone of merlib-mirror with push access. Mirrors the OCR /
+  # whisp / voicebox inbox pattern. Syncthing carries it.
+  local comms_inbox="$HOME/work/comms/queue/mirror-inbox"
+  if [[ -d "$HOME/work/comms/queue" ]]; then
+    mkdir -p "$comms_inbox" 2>/dev/null || true
+    cp "$filepath" "$comms_inbox/$filename" 2>/dev/null || true
+  fi
+
   if [[ "$offline" == "true" ]]; then
     echo "  Queued: $domain ($mode mode, OFFLINE) -> $filename"
   else

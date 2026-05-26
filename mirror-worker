@@ -76,6 +76,56 @@ EOF
 # left a stale snapshot. mirror.py rewrites it as soon as a crawl starts.
 PROGRESS_FILE="$HOME/work/comms/queue/merlib-mirror-progress.json"
 
+# Results dir lives in comms/queue so Syncthing carries every completion
+# (success and failure) to the laptop, matching ocr-results / whisp-results /
+# voicebox-results pattern. The laptop status pane reads from here. The
+# spine.py ingest-mirror-results command (Phase 2) will also read from here.
+MIRROR_RESULTS_DIR="$HOME/work/comms/queue/mirror-results"
+mkdir -p "$MIRROR_RESULTS_DIR" 2>/dev/null || true
+
+# Write a result.json for one completed (success or failure) job. Atomic via
+# tmp+rename. Includes everything needed for: (a) laptop status pane to list
+# recent finishes; (b) spine to create / update the mirror's asset.json.
+write_result() {
+  local status="$1"          # success | failed
+  local domain="$2" mode="$3" target="$4" path_filter="$5" label="$6"
+  local exit_code="$7" file_count="$8" size_bytes="$9" size_human="${10}"
+  local started_at="${11}" completed_at="${12}" branch="${13}" pr_url="${14}"
+  local site_dir="$SITES_DIR/$domain"
+
+  # File-types breakdown straight from _meta.json if it exists
+  local file_types_json="{}"
+  if [[ -f "$site_dir/_meta.json" ]]; then
+    file_types_json="$(python3 -c "import json,sys; d=json.load(open(sys.argv[1])); print(json.dumps(d.get('file_types', {})))" "$site_dir/_meta.json" 2>/dev/null || echo '{}')"
+  fi
+
+  local dest="$MIRROR_RESULTS_DIR/$domain"
+  mkdir -p "$dest" 2>/dev/null || true
+  local tmp="$dest/result.json.tmp"
+  cat > "$tmp" <<EOF
+{
+  "schema_version": 1,
+  "status": "$status",
+  "exit_code": $exit_code,
+  "domain": "$domain",
+  "mode": "$mode",
+  "target": "$target",
+  "path_filter": "$path_filter",
+  "label": "$label",
+  "started_at": "$started_at",
+  "completed_at": "$completed_at",
+  "file_count": $file_count,
+  "size_bytes": $size_bytes,
+  "size_human": "$size_human",
+  "file_types": $file_types_json,
+  "branch": "$branch",
+  "pr_url": "$pr_url",
+  "site_dir": "$site_dir"
+}
+EOF
+  mv "$tmp" "$dest/result.json"
+}
+
 cleanup() {
   rm -f "$PIDFILE"
   # On clean exit, write a final "stopped" heartbeat so the laptop status
@@ -269,9 +319,13 @@ process_job_file() {
   # Move to processing
   mv "$job_file" "$PROCESSING_DIR/$filename"
 
+  # Capture start time for the result.json we write on completion.
+  local started_at
+  started_at="$(date -u +%Y-%m-%dT%H:%M:%SZ)"
+
   # Tell the status pane on the laptop what we're working on now. Atomic
   # write so a reader never sees a half-built file.
-  write_heartbeat "processing" "$target" "$mode" "$path_filter" "$domain" "$(date -u +%Y-%m-%dT%H:%M:%SZ)"
+  write_heartbeat "processing" "$target" "$mode" "$path_filter" "$domain" "$started_at"
 
   # Clear any stale error.log from a prior failed run on this same domain.
   # Otherwise: a job fails (writes error.log), gets resubmitted later, runs
@@ -342,16 +396,30 @@ process_job_file() {
   # heartbeat envelope below will reflect between_jobs/failed/done state.
   rm -f "$PROGRESS_FILE" 2>/dev/null || true
 
+  # Compute file count + size now (used by both paths' result.json)
+  local file_count=0 size_bytes=0 size_human="0"
+  if [[ -d "$site_dir" ]]; then
+    file_count="$(find "$site_dir" -type f ! -name '_*' ! -name 'ALLFILES.txt' ! -name 'SOURCE.txt' ! -name 'error.log' 2>/dev/null | wc -l | tr -d ' ')"
+    size_bytes="$(du -sk "$site_dir" 2>/dev/null | awk '{print $1*1024}')"
+    size_human="$(du -sh "$site_dir" 2>/dev/null | cut -f1)"
+  fi
+  local completed_at
+  completed_at="$(date -u +%Y-%m-%dT%H:%M:%SZ)"
+  local branch="mirror/$domain"
+
   if [[ "$exit_code" -ne 0 ]]; then
     log "FAILED: mirror.py exited with code $exit_code for $domain (137 = SIGKILL, likely OOM or external kill)"
     mkdir -p "$site_dir" 2>/dev/null || true
-    echo "$(date -u +%Y-%m-%dT%H:%M:%SZ) mirror.py exit code $exit_code" >> "$site_dir/error.log"
+    echo "$completed_at mirror.py exit code $exit_code" >> "$site_dir/error.log"
     # Move job to failed/, NOT done/. Crashed jobs aren't successes; calling
     # them done loses the signal that we should retry or look at them.
     mkdir -p "$FAILED_DIR"
     mv "$PROCESSING_DIR/$filename" "$FAILED_DIR/$filename"
     log "Moved $filename to failed/ (exit $exit_code)"
-    # No commit on failure — don't push partial garbage to the repo.
+    # Emit result.json to comms so the laptop sees the failure too.
+    write_result "failed" "$domain" "$mode" "$target" "$path_filter" "$label" \
+                 "$exit_code" "$file_count" "$size_bytes" "$size_human" \
+                 "$started_at" "$completed_at" "" ""
     log "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
     echo ""
     return 0
@@ -360,12 +428,24 @@ process_job_file() {
   # Success path — move to done and commit
   mv "$PROCESSING_DIR/$filename" "$DONE_DIR/$filename"
 
-  # Commit and push — unless offline mode
+  # Commit and push — unless offline mode. commit_and_push echoes the PR URL
+  # to its own log; we re-derive it from the branch for the result.json.
+  local pr_url=""
   if [[ "$offline" == "true" ]]; then
     log "Offline mode — files saved locally, skipping commit and push"
   else
     commit_and_push "mirror: $domain" "$domain" "$site_dir"
+    # Best-effort PR URL lookup — works once the PR exists.
+    if command -v gh &>/dev/null; then
+      pr_url="$(gh pr view "$branch" --repo "$(git -C "$REPO_DIR" remote get-url origin | sed -E 's#.*[:/]([^/]+/[^.]+)(\.git)?$#\1#')" --json url --jq .url 2>/dev/null || true)"
+    fi
   fi
+
+  # Emit result.json to comms so the laptop status pane (and spine) sees
+  # every completed mirror.
+  write_result "success" "$domain" "$mode" "$target" "$path_filter" "$label" \
+               "0" "$file_count" "$size_bytes" "$size_human" \
+               "$started_at" "$completed_at" "$branch" "$pr_url"
 
   log "Done: $domain"
   log "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
@@ -386,6 +466,30 @@ recover_processing() {
   fi
 }
 
+# Pull any new .job files from the comms inbox (Syncthing-mirrored from any
+# peer) into our local PENDING_DIR. mv-then-remove so the same job can't be
+# double-claimed if a second peer also drops it. Idempotent: if the same
+# filename already exists in any of pending/processing/done/failed/, the
+# inbox copy is discarded silently.
+COMMS_INBOX="$HOME/work/comms/queue/mirror-inbox"
+pull_comms_inbox() {
+  [[ -d "$COMMS_INBOX" ]] || return 0
+  local f base
+  for f in "$COMMS_INBOX"/*.job; do
+    [[ -f "$f" ]] || continue
+    base="$(basename "$f")"
+    # Skip if we've already seen this job
+    if [[ -f "$PENDING_DIR/$base" || -f "$PROCESSING_DIR/$base" || -f "$DONE_DIR/$base" || -f "$FAILED_DIR/$base" ]]; then
+      rm -f "$f"
+      continue
+    fi
+    cp "$f" "$PENDING_DIR/$base.staging"
+    mv "$PENDING_DIR/$base.staging" "$PENDING_DIR/$base"
+    rm -f "$f"
+    log "Pulled from comms inbox: $base"
+  done
+}
+
 # --- Main loop ---
 
 log "MERLib Mirror worker starting"
@@ -396,9 +500,14 @@ log "Output: $SITES_DIR"
 
 recover_processing
 sync_repo
+pull_comms_inbox
 write_heartbeat "starting"
 
 while true; do
+  # Check the comms inbox each loop so peer submissions (laptop, etc.) get
+  # picked up promptly.
+  pull_comms_inbox
+
   # Pick the oldest pending .job file (FIFO by filename = unix timestamp)
   next_file=""
   for f in "$PENDING_DIR"/*.job; do
