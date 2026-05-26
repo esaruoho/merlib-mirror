@@ -742,6 +742,51 @@ def download_live_url(url, domain, output_dir):
 
 # ── 14. Index & metadata generation ─────────────────────────────────────────
 
+def write_source_info(output_dir, target_url, mode, path_filter=None, label=None, page_title=None):
+    """Write SOURCE.txt — human-readable provenance file alongside ALLFILES.txt.
+    Answers 'what URL was this directory mirrored from, in what mode, when'.
+    Idempotent overwrite — last run wins, which matches mirror semantics.
+    """
+    import datetime
+    lines = []
+    lines.append(f"target: {target_url}")
+    lines.append(f"mode: {mode}")
+    if path_filter:
+        lines.append(f"path_filter: {path_filter}")
+    if label:
+        lines.append(f"label: {label}")
+    if page_title:
+        lines.append(f"title: {page_title}")
+    lines.append(f"mirror_date: {datetime.datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%SZ')}")
+    try:
+        os.makedirs(output_dir, exist_ok=True)
+        with open(os.path.join(output_dir, 'SOURCE.txt'), 'w') as f:
+            f.write('\n'.join(lines) + '\n')
+    except Exception as e:
+        log(f"WARNING: could not write SOURCE.txt: {e}")
+
+
+def extract_html_title(html_bytes):
+    """Best-effort <title> extraction from raw HTML bytes. Returns None if no
+    title or unparseable. Doesn't import a full HTML parser — uses a small
+    regex against the bytes decoded as utf-8 (with fallback to latin-1)."""
+    import re
+    try:
+        text = html_bytes.decode('utf-8', errors='replace')
+    except Exception:
+        try:
+            text = html_bytes.decode('latin-1', errors='replace')
+        except Exception:
+            return None
+    m = re.search(r'<title[^>]*>(.*?)</title>', text, re.IGNORECASE | re.DOTALL)
+    if not m:
+        return None
+    title = m.group(1).strip()
+    # Collapse whitespace
+    title = ' '.join(title.split())
+    return title[:300] if title else None
+
+
 def generate_index(output_dir, domain, source='web.archive.org', progress=None):
     """Generate ALLFILES.txt and _meta.json."""
     log("Generating index...")
@@ -749,7 +794,7 @@ def generate_index(output_dir, domain, source='web.archive.org', progress=None):
     all_files = []
     for root, _dirs, files in os.walk(output_dir):
         for fname in files:
-            if not fname.startswith('_') and fname != 'ALLFILES.txt':
+            if not fname.startswith('_') and fname not in ('ALLFILES.txt', 'SOURCE.txt', 'error.log'):
                 rel = os.path.relpath(os.path.join(root, fname), output_dir)
                 all_files.append(rel)
 
@@ -1008,6 +1053,9 @@ def run_wayback(domain, resume=False, ts_from=None, ts_to=None, delay=None, outp
     extract_wordpress_pdfs(output_dir, domain)
 
     progress = load_progress(progress_file)
+    # Wayback's "target URL" is the wayback CDX query for the domain.
+    write_source_info(output_dir, f"https://web.archive.org/web/*/{domain}/*",
+                      'wayback', path_filter=path_filter)
     meta = generate_index(output_dir, domain, progress=progress)
 
     log("\n" + "=" * 60)
@@ -1194,6 +1242,20 @@ def run_live(url, seeds_file=None, delay=None, max_pages=None, output_base=None,
 
     # Post-crawl
     extract_wordpress_pdfs(output_dir, domain)
+
+    # Try to extract a page title from the seed URL's downloaded HTML so the
+    # PR description (and SOURCE.txt) can show something more human than the
+    # URL. Best-effort — silent on failure.
+    seed_title = None
+    try:
+        seed_local = os.path.join(output_dir, sanitize_path(url))
+        if os.path.exists(seed_local) and os.path.getsize(seed_local) > 0:
+            with open(seed_local, 'rb') as f:
+                seed_title = extract_html_title(f.read(200_000))
+    except Exception:
+        pass
+
+    write_source_info(output_dir, url, 'live', path_filter=path_filter, page_title=seed_title)
     generate_index(output_dir, domain, source='live')
 
     log("\n" + "=" * 60)
@@ -1351,6 +1413,7 @@ def run_dropbox(url, output_base=None, label=None):
                 log(f"Saved as: _dropbox_download.zip (could not determine filename)")
 
     # Generate index
+    write_source_info(output_dir, url, 'dropbox', label=label)
     generate_index(output_dir, domain, source='dropbox.com')
 
     log(f"Done: {domain}")
@@ -1599,6 +1662,7 @@ def run_gdrive(url, output_base=None, label=None):
             all_files = _gdrive_api_list_recursive(gdrive_id, api_key)
             log(f"Total files found: {len(all_files)}")
             _gdrive_api_download_all(all_files, output_dir)
+            write_source_info(output_dir, url, 'gdrive', label=label)
             generate_index(output_dir, domain, source='drive.google.com')
             log(f"Done: {domain}")
             return
