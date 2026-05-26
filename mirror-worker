@@ -132,6 +132,35 @@ cleanup() {
   # pane shows accurate state instead of a stale "processing" snapshot.
   write_heartbeat "stopped" 2>/dev/null || true
 }
+
+# Drop a notify-inbox JSON so AppleToolbox renders a native banner on the
+# receiving Mac. Schema per ~/work/apple/wiki/concepts/cloudcity-notify-inbox.md.
+# Atomic .partial → .json rename so the watcher never sees a half-written file.
+notify_drop() {
+  local title="$1"
+  local body="$2"
+  local open_path="$3"
+  local reveal_path="$4"
+  local inbox="$HOME/work/comms/queue/notify-inbox"
+  [[ -d "$inbox" ]] || return 0   # if syncthing-shared comms isn't here, skip silently
+  local ts host id partial final
+  ts="$(date +%s)"
+  host="$(hostname -s 2>/dev/null || echo unknown)"
+  id="${ts}-${host}-mirror-$$"
+  partial="$inbox/${id}.partial"
+  final="$inbox/${id}.json"
+  # Use python for JSON escaping so titles/bodies with quotes don't break the file.
+  python3 - "$title" "$body" "$open_path" "$reveal_path" "$host" >"$partial" <<'PYEOF'
+import json, sys
+title, body, open_path, reveal_path, host = sys.argv[1:6]
+payload = {"title": title, "sender": f"mirror-worker@{host}"}
+if body:         payload["body"] = body
+if open_path:    payload["open_path"] = open_path
+if reveal_path:  payload["reveal_path"] = reveal_path
+print(json.dumps(payload, ensure_ascii=False))
+PYEOF
+  mv "$partial" "$final" 2>/dev/null || rm -f "$partial"
+}
 trap cleanup EXIT
 trap 'log "Woken by signal"' USR1
 
@@ -293,7 +322,7 @@ process_job_file() {
   filename="$(basename "$job_file")"
 
   # Extract fields from the .job file
-  local target domain mode path_filter ts_to label offline
+  local target domain mode path_filter ts_to label offline to_syncthing
   target="$(grep '^target:' "$job_file" | head -1 | sed 's/^target: *//')"
   domain="$(grep '^domain:' "$job_file" | head -1 | sed 's/^domain: *//')"
   mode="$(grep '^mode:' "$job_file" | head -1 | sed 's/^mode: *//')"
@@ -301,6 +330,9 @@ process_job_file() {
   ts_to="$(grep '^ts_to:' "$job_file" | head -1 | sed 's/^ts_to: *//' || true)"
   label="$(grep '^label:' "$job_file" | head -1 | sed 's/^label: *//' || true)"
   offline="$(grep '^offline:' "$job_file" | head -1 | sed 's/^offline: *//' || true)"
+  to_syncthing="$(grep '^to_syncthing:' "$job_file" | head -1 | sed 's/^to_syncthing: *//' || true)"
+  # to_syncthing implies offline (no git push)
+  [[ "$to_syncthing" == "true" ]] && offline="true"
 
   if [[ -z "$domain" || -z "$mode" ]]; then
     log "ERROR: Missing domain or mode in $filename"
@@ -314,6 +346,7 @@ process_job_file() {
   log "Domain: $domain"
   log "Mode:   $mode"
   [[ "$offline" == "true" ]] && log "Offline: YES (download only, no commit/push)"
+  [[ "$to_syncthing" == "true" ]] && log "→ Syncthing: YES (output to comms/queue/gdrive-results/)"
   log "Target: $target"
 
   # Move to processing
@@ -335,9 +368,16 @@ process_job_file() {
   # that way.
   rm -f "$SITES_DIR/$domain/error.log" 2>/dev/null || true
 
-  # Choose output directory: offline/ for offline jobs, sites/ for normal
+  # Choose output directory:
+  #   to_syncthing=true  → comms/queue/gdrive-results/ (Syncthing-mirrored, small/medium content
+  #                        that should come back to the laptop)
+  #   offline=true       → repo/offline/ (4TB local archive, never pushed)
+  #   otherwise          → sites/ (normal mirror, committed + pushed)
   local output_dir="$SITES_DIR"
-  if [[ "$offline" == "true" ]]; then
+  if [[ "$to_syncthing" == "true" ]]; then
+    output_dir="$HOME/work/comms/queue/gdrive-results"
+    mkdir -p "$output_dir"
+  elif [[ "$offline" == "true" ]]; then
     output_dir="$REPO_DIR/offline"
     mkdir -p "$output_dir"
   fi
@@ -420,6 +460,14 @@ process_job_file() {
     write_result "failed" "$domain" "$mode" "$target" "$path_filter" "$label" \
                  "$exit_code" "$file_count" "$size_bytes" "$size_human" \
                  "$started_at" "$completed_at" "" ""
+    # For syncthing-bound jobs, also ping the laptop's notification center.
+    if [[ "$to_syncthing" == "true" ]]; then
+      notify_drop \
+        "❌ gdrive failed: $domain" \
+        "exit $exit_code — see error.log" \
+        "$site_dir/error.log" \
+        "$site_dir"
+    fi
     log "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
     echo ""
     return 0
@@ -446,6 +494,17 @@ process_job_file() {
   write_result "success" "$domain" "$mode" "$target" "$path_filter" "$label" \
                "0" "$file_count" "$size_bytes" "$size_human" \
                "$started_at" "$completed_at" "$branch" "$pr_url"
+
+  # For syncthing-bound jobs, ping the laptop's notification center.
+  # Click the banner → Finder reveals the folder on the laptop (same path,
+  # Syncthing-mirrored).
+  if [[ "$to_syncthing" == "true" ]]; then
+    notify_drop \
+      "📥 gdrive done: $domain" \
+      "$file_count files, $size_human" \
+      "$site_dir" \
+      "$site_dir"
+  fi
 
   log "Done: $domain"
   log "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"

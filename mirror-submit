@@ -20,6 +20,9 @@ Usage:
 Options:
   --no-push         Skip git commit+push (for bot use)
   --offline         Download files but do NOT commit or push to GitHub
+  --to-syncthing    Route output to ~/work/comms/queue/gdrive-results/<label>/
+                    instead of the 4TB offline archive. Implies --offline.
+                    Use for content you want back on your laptop via Syncthing.
   --label NAME      Custom directory name (for gdrive/dropbox, replaces ID-based name)
   -h, --help        Show this help
 
@@ -31,6 +34,7 @@ Examples:
   mirror-submit --label don-smith-papers https://drive.google.com/drive/folders/FOLDER_ID
   mirror-submit --offline https://drive.google.com/drive/folders/FOLDER_ID
   mirror-submit --offline --label GEET https://drive.google.com/drive/folders/FOLDER_ID
+  mirror-submit --to-syncthing --label small-papers https://drive.google.com/drive/folders/FOLDER_ID
   mirror-submit https://www.dropbox.com/scl/fo/FOLDER_ID/...
   mirror-submit --label my-papers https://www.dropbox.com/scl/fo/FOLDER_ID/...
 EOF
@@ -230,6 +234,8 @@ queue_job() {
 
   local offline="$7"
 
+  local to_syncthing="$8"
+
   cat > "$filepath" <<JOBEOF
 target: $target
 domain: $domain
@@ -238,6 +244,7 @@ path_filter: $path_filter
 ts_to: $ts_to
 label: $label
 offline: $offline
+to_syncthing: $to_syncthing
 submitted: $(date -u +%Y-%m-%dT%H:%M:%SZ)
 submitted_from: $(hostname -s)
 JOBEOF
@@ -252,7 +259,9 @@ JOBEOF
     cp "$filepath" "$comms_inbox/$filename" 2>/dev/null || true
   fi
 
-  if [[ "$offline" == "true" ]]; then
+  if [[ "$to_syncthing" == "true" ]]; then
+    echo "  Queued: $domain ($mode mode, → SYNCTHING) -> $filename"
+  elif [[ "$offline" == "true" ]]; then
     echo "  Queued: $domain ($mode mode, OFFLINE) -> $filename"
   else
     echo "  Queued: $domain ($mode mode) -> $filename"
@@ -302,6 +311,7 @@ show_status() {
 
 DO_PUSH=true
 OFFLINE=false
+TO_SYNCTHING=false
 LABEL=""
 TARGETS=()
 
@@ -313,6 +323,12 @@ while [[ $# -gt 0 ]]; do
       ;;
     --offline)
       OFFLINE=true
+      shift
+      ;;
+    --to-syncthing)
+      TO_SYNCTHING=true
+      OFFLINE=true   # implies offline (no git push)
+      DO_PUSH=false  # never push gdrive-bound jobs
       shift
       ;;
     --label)
@@ -364,7 +380,7 @@ for target in "${TARGETS[@]}"; do
   path_filter="$(extract_path_filter "$target" "$domain")"
   ts_to="$(extract_wayback_timestamp "$target")"
 
-  if queue_job "$target" "$domain" "$mode" "$path_filter" "$ts_to" "$LABEL" "$OFFLINE"; then
+  if queue_job "$target" "$domain" "$mode" "$path_filter" "$ts_to" "$LABEL" "$OFFLINE" "$TO_SYNCTHING"; then
     ((queued++)) || true
   fi
 done
