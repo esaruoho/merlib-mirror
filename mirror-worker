@@ -199,6 +199,13 @@ process_job_file() {
     fi
   elif [[ "$mode" == "live" ]]; then
     mirror_args=(live "$target" --output-dir "$output_dir")
+    # Pass path_filter through in live mode too (mirror.py >= path-filter-in-live).
+    # Without this, live-mode BFS spiders across the whole domain via outbound
+    # links — the samlib.ru 327k-URL incident from May 2026.
+    if [[ -n "$path_filter" ]]; then
+      mirror_args+=(--path "$path_filter")
+      log "Path filter: $path_filter"
+    fi
   elif [[ "$mode" == "gdrive" ]]; then
     mirror_args=(gdrive "$target" --output-dir "$output_dir")
     if [[ -n "$label" ]]; then

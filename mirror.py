@@ -989,11 +989,18 @@ def run_wayback(domain, resume=False, ts_from=None, ts_to=None, delay=None, outp
 
 # ── 16. Main loop — live mode ───────────────────────────────────────────────
 
-def run_live(url, seeds_file=None, delay=None, max_pages=None, output_base=None):
+def run_live(url, seeds_file=None, delay=None, max_pages=None, output_base=None, path_filter=None):
     """Live crawl: download-as-you-go BFS from seed URL(s).
 
     Priority: download everything under the seed path first, then
     follow outbound links up to MAX_LINK_DEPTH hops away.
+
+    If `path_filter` is set (e.g. `/u/utkin_w_m`), links whose URL path
+    does NOT contain that substring are dropped at queueing time. This
+    is the difference between "download utkin_w_m's pages" and "spider
+    across the whole site from utkin_w_m's outbound links" (the latter
+    is what happens without the filter — on samlib.ru that means 300k+
+    queued URLs for a single user).
     """
     global _current_delay
 
@@ -1013,6 +1020,8 @@ def run_live(url, seeds_file=None, delay=None, max_pages=None, output_base=None)
     log(f"Seed: {url}")
     log(f"Seed path: {seed_path}")
     log(f"Max link depth: {max_depth}")
+    if path_filter:
+        log(f"Path filter: '{path_filter}' (links not containing this are dropped)")
     log(f"Output: {output_dir}")
     log("=" * 60)
 
@@ -1118,6 +1127,16 @@ def run_live(url, seeds_file=None, delay=None, max_pages=None, output_base=None)
                         continue
                     if should_skip_url(link, domain):
                         continue
+                    # Path filter: drop links whose path doesn't contain
+                    # the filter substring. Marks them as seen too so we
+                    # don't re-evaluate them on every page that links to
+                    # them. Without this, the BFS spiders across the
+                    # whole site (this is the samlib.ru 327k-URL bug).
+                    if path_filter:
+                        link_path = urllib.parse.urlparse(link).path
+                        if path_filter not in link_path:
+                            seen.add(link)
+                            continue
                     seen.add(link)
 
                     # Links under seed path stay at same depth (priority)
@@ -1715,6 +1734,7 @@ Smart mode (auto-detects):
     lv.add_argument('--delay', type=float, help=f'Delay between requests (default: {DEFAULT_LIVE_DELAY}s)')
     lv.add_argument('--max-pages', type=int, help=f'Max pages to crawl for link discovery (default: {MAX_DISCOVER_PAGES})')
     lv.add_argument('--output-dir', dest='output_dir', help='Override output base directory')
+    lv.add_argument('--path', dest='path_filter', help='Only follow links containing this path substring (e.g. /u/utkin_w_m). Without it, BFS spiders across the whole domain via outbound links — on community sites that means 100k+ URLs from one seed.')
 
     # gdrive
     gd = sub.add_parser('gdrive', help='Download from Google Drive')
@@ -1744,7 +1764,8 @@ Smart mode (auto-detects):
                     path_filter=getattr(args, 'path_filter', None))
     elif args.mode == 'live':
         run_live(args.url, seeds_file=args.seeds, delay=args.delay,
-                 max_pages=args.max_pages, output_base=output_base)
+                 max_pages=args.max_pages, output_base=output_base,
+                 path_filter=getattr(args, 'path_filter', None))
     elif args.mode == 'gdrive':
         run_gdrive(args.url, output_base=output_base, label=getattr(args, 'label', None))
     elif args.mode == 'dropbox':
