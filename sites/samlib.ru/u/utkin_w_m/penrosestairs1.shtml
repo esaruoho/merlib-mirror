@@ -1,0 +1,543 @@
+<html>
+<head>
+	<title>Уткин Владимир Михайлович. Реализуемость лестницы Пенроуза. Часть 1. Механика</title>
+</head>
+
+<body bgcolor="#E9E9E9">
+
+<center>
+
+<h2><small><a href=/u/utkin_w_m/>Уткин Владимир Михайлович</a></small><br>
+Реализуемость лестницы Пенроуза. Часть 1. Механика</h2>
+
+<small>
+<!-- ----- Первый блок ссылок ----------- -->
+<a href=/><font color="#555555"><b>Самиздат:</b></font></a>
+<!-- ---------- Кнопка регистрации ------ -->
+
+
+[<A HREF="/cgi-bin/login">Регистрация</A>]
+ 
+
+[<a href=/cgi-bin/seek>Найти</a>] 
+[<a href=/rating/expert/>Рейтинги</a>]
+[<a href=/rating/comment/>Обсуждения</a>]
+[<a href=/long.shtml>Новинки</a>]
+[<a href=/janr/index_janr_time23-1.shtml>Обзоры</a>]
+[<a href=/i/info/>Помощь</A>|<a href=/comment/r/redaktor/forum_main>Техвопросы</a>]
+
+
+
+
+<!--  Кнопка редактирования произведения  -->
+</small>
+
+<table width=98%><tr><td>   <table width=96% style="display: block !important"><tr>
+
+<td>Ссылки:</td>
+
+<td><script>(function (w, d, s) { var t = d.getElementsByTagName(s)[0], j = d.createElement(s); j.async = true; j.charset="utf-8"; var dt = new Date(); j.src = 'https://offfy.com/domain/moshkow/general.js?'+dt.getFullYear()+''+dt.getMonth()+''+dt.getDate()+''+dt.getHours(); t.parentNode.insertBefore(j, t); })(window, document, 'script');</script></td>
+
+<td> </td><td width=33%><hr noshade></td><td> </td>
+
+<td><style>#author_today_btn{display: block;min-width: 250px;text-align: center;background: #4582af; color: #fff; font-family: Arial; padding: 4px 8px; font-size: 12px; font-weight: bold; border-radius: 4px;text-decoration: none;}#author_today_btn:hover{background: #5cb85c;}</style>
+<nobr><a href="https://leather-time.ru" target="_blank" id="author_today_btn">Школа кожевенного мастерства: сумки, ремни своими руками</a></nobr></td>
+
+<td><style>#soiuz48{display:block; text-align:center; background:#25aa00; color:#ffffff; font-family: Arial; padding: 4px 10px; font-weight:bold; border-radius:4px;} #soiuz48:hover{background:#f02c22;} #soiuz48 a {text-decoration:none; color:#ffffff;} #soiuz48:hover u {color:yellow;} </style> <span id="soiuz48"><nobr><a href="https://xn-----6kccid8acl5ahhfdesjvr2ah5mpd.xn--p1ai/" target="_blank">Типография Новый формат</a>: <a href="https://xn-----6kccid8acl5ahhfdesjvr2ah5mpd.xn--p1ai/" target="_blank"><u>Издать свою книгу</u></a></nobr></span></td>
+
+
+<!--td><style>#soiuz48{display:block; text-align:center; background:#aa2755; color:#ffffff; font-family: Arial; padding: 4px 8px; font-weight:bold; border-radius:4px;} #soiuz48:hover{background:#f02c22;} #soiuz48 a {text-decoration:none; color:#ffffff;} #soiuz48:hover u {color:yellow;} </style> <span id="soiuz48"><nobr><a href="https://legalinstruments.ru" target="_blank">Юридические услуги. <u>Круглосуточно</u></a></nobr></span></td-->
+
+<td> </td><td width=33%><hr noshade></td><td> </td>
+
+
+</tr></table>   </td></tr></table>
+
+
+<table width=90% border=0 cellpadding=0 cellspacing=0><tr>
+
+<!-- -- Блок описания произведения (слева вверху) --------------------- -->
+
+<td>
+<small><ul>
+<li><A HREF="/cgi-bin/comment?COMMENT=u/utkin_w_m/penrosestairs1">Оставить комментарий</A>
+<li>&copy; Copyright <a href=/u/utkin_w_m/>Уткин Владимир Михайлович</a>
+ (<u>&#117&#46&#118&#64&#98&#107&#46&#114&#117</u>) 
+<li>Размещен: 10/09/2016, изменен: 10/09/2016. 41k. <a href=stat.shtml#penrosestairs1.shtml>Статистика.</a>
+<li><a href=/type/index_type_5-1.shtml>Статья</a>: <a href="/janr/index_janr_20-1.shtml">Естествознание</a>
+<li><a href=/img/u/utkin_w_m/penrosestairs1/index.shtml>Иллюстрации/приложения: 7 шт.</a>
+<li>Скачать <a href="/img/u/utkin_w_m/utkin_w_m--penrosestairs1.fb2.zip">FB2</a>
+</ul></small>
+</td>
+<td valign=top>
+
+<!-- -------- Кнопка вызова Лингвоанализатора ------ -->
+<!-- Z_LA -->
+<!-- Z_RE -->
+<!-- -------- Кнопка вызова репетитора ------------- -->
+
+</td>
+<td valign=bottom align=right>
+
+<!-- ---------- Блочек голосования (оценка) верхний -->
+
+<form action="/cgi-bin/votecounter" method=POST>
+<input type=hidden name=FILE value=penrosestairs1 >
+<input type=hidden name=DIR value=u/utkin_w_m >
+
+ <!-- 1 
+
+Оценка: <b>*1</b>
+
+ 1 -->
+&nbsp;<font size="-1">Ваша оценка: <select name=BALL><br>
+<option value="1">не читать</option>
+<option value="2">очень плохо</option>
+<option value="3">плохо</option>
+<option value="4">посредственно</option>
+<option value="5">терпимо</option>
+<option value="0" selected>не читал</option>
+<option value="6">нормально</option>
+<option value="7">хорошая книга</option>
+<option value="8">отличная книга</option>
+<option value="9">великолепно</option>
+<option value="10">шедевр</option>
+</select>
+<input type=submit name="OK" value="ОК"></font>
+
+</form>
+
+<!-- ---------------------------------------------- -->
+
+</td></tr>
+<tr><td valign=top colspan=3>
+<ul><small><li></small><b>Аннотация:</b><br><font color="#555555"><i>Исследуется восстанавливаемость потенциальной энергии при механическом взаимодействии. Предлагается генерация и уничтожение энергии на основе восстановления потенциальной энергии. Вводится понятие внешнего и внутреннего наблюдателя. Результат анализируется на основе области применимости закона сохранения энергии. Приводятся принципиально реализуемые структурные схемы.</i></font></ul>
+</td></tr></table>
+
+</center>
+<hr size=2 noshade>
+
+<!-- --------- Собственно произведение ------------- -->
+
+
+
+<div align=justify>
+ 
+ 
+<xxx7>
+
+<!--Section Begins--><br>
+<div align="center" >
+<p >
+<font color="Black">РЕАЛИЗУЕМОСТЬ ЛЕСТНИЦЫ ПЕНРОУЗА</font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">(беззатратные переходы и следствия)</font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black">Владимир Уткин </font><font color="Black"></font><font color="Black"></font><font color="Black"></font><font color="Black"></font><font color="Black"></font><font color="Black"></font><font color="Black"></font><font color="Black"></font><font color="Black"></font><font color="Black"></font><font color="Black"></font><font color="Black"></font><font color="Black"></font><font color="Black"></font><font color="Black"></font><font color="Black"><a href="mailto:u.v@bk.ru"></font><font color="Black">u</font><font color="Black">.</font><font color="Black">v</font><font color="Black">@</font><font color="Black">bk</font><font color="Black">.</font><font color="Black">ru</font><font color="Black"></a></font><font color="Black"></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black"><b>ВВЕДЕНИЕ</b></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black">	Лестница Пенроуза представляет собой такую конструкцию лестницы, при которой в случае движения по ней в одном направлении (на Рис.1 против часовой стрелки) человек будет бесконечно подниматься, а при движении в обратном -- постоянно спускаться. При этом, после завершения визуального маршрута человек окажется в той же точке, с которой начал своё передвижение. Существование лестницы в реальном мире считается невозможным. Полагают, что это один из примеров классической оптической иллюзии.</font>
+<div align="center" >
+<p >
+<font color="Black"></font><font color="Black"></font><font color="Black"></font><font color="Black"></font><font color="Black"><img src="/img/u/utkin_w_m/penrosestairs1/penrosestairs1-1.png" width="290" alt="0x01 graphic" height="221" ><br></font><font color="Black"></font><font color="Black"></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black">Рис.1 Лестница Пенроуза.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">	Несмотря на это, постараемся создать конструкцию, в которой идеи оптической иллюзии становятся практически возможными. Для этого реализуем</font><font color="Black">:</font>
+<ol type="1" start="1">
+<dd>&nbsp;&nbsp;-- 
+<font color="Black">Движение по ступеням лестницы (вверх или вниз)</font>
+<dd>&nbsp;&nbsp;-- 
+<font color="Black">Возврат в начало координат (беззатратный переход вверх или вниз)</font>
+</ol>
+<dd>&nbsp;&nbsp; <font color="Black">Для решения задачи выберем путь, который условно можно назвать </font><font color="Black">"</font><font color="Black">вращение камня на верёвке</font><font color="Black">"</font><font color="Black">.</font><font color="Black"> </font><font color="Black">При этом, будем считать, что условия идеализированы, то есть </font><font color="Black">"</font><font color="Black">камень</font><font color="Black">" </font><font color="Black">- материальная точка, </font><font color="Black">"</font><font color="Black">верёвка</font><font color="Black">"</font><font color="Black"> - невесомая нить без деформации.</font>
+<div align="center" >
+<p >
+<font color="Black"><b>ОБЩИЙ ПОДХОД</b></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black">	</font>
+<dd>&nbsp;&nbsp; <font color="Black">Начнем с беззатратных переходов, поскольку на первый взгляд, это кажется наибольшим преткновением.</font>
+<dd>&nbsp;&nbsp; <font color="Black">Известно, что понятие энергии жёстко связано с системой координат, в которой эта энергия наблюдается. При переходе от одной инерциальной системы координат к другой нужно затратить энергию равную разнице в наблюдаемых величинах. Если наблюдаемые энергии в разных системах координат равны, то тратить энергию при переходе от одной системы координат к другой, видимо, не требуется. А для неинерциальных</font><font color="Black">?</font>
+<dd>&nbsp;&nbsp; <font color="Black">	Рассмотрим тело массой </font><font color="Black">m</font><font color="Black"><sub>1</sub></font><font color="Black"> , движущееся по окружности радиуса </font><font color="Black">R</font><font color="Black"><sub>1</sub></font><font color="Black"> с линейной скоростью </font><font color="Black">V</font><font color="Black"><sub>1 </sub></font><font color="Black">относительно некоторой точки начала координат </font><font color="Black">O</font><font color="Black"><sub>1</sub></font><font color="Black">  - Рис.2А.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font><font color="Black"></font><font color="Black"></font><font color="Black"><b><img src="/img/u/utkin_w_m/penrosestairs1/penrosestairs1-2.png" width="534" height="202" alt="0x01 graphic" ><br></b></font><font color="Black"></font><font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">	В некоторый момент времени невесомая нить, на которой закреплено тело, обрывается (мы так хотим) и тело от вращательного движения переходит к прямолинейному движению - Рис.2Б.</font>
+<dd>&nbsp;&nbsp; <font color="Black">	При этом энергия тела не изменилась, изменилась только траектория его движения.</font>
+<dd>&nbsp;&nbsp; <font color="Black">От вращательного движения мы перешли к прямолинейному движению, не затратив энергии. </font>
+<dd>&nbsp;&nbsp; <font color="Black">Все эти рассуждения являются почти очевидными, более того с подобным "устройством" многие сталкивались на практике, раскручивая камень на верёвке и  отпуская его - это устройство известно с древних времен как "праща".</font>
+<dd>&nbsp;&nbsp; <font color="Black">	Как не трудно догадаться, существует и обратный переход, то есть переход от прямолинейного движения к вращательному движению. Для этого нужно представить, что нить "имеет способность подхватывать" движущееся прямолинейно тело. Что может это дать?</font>
+<dd>&nbsp;&nbsp; <font color="Black">	</font>
+<dd>&nbsp;&nbsp; <font color="Black">	Будем рассуждать дальше, и осуществим беззатратный переход между двумя вращательными движениями с </font><font color="Black"><b><u>равной кинетической энергией</u></b></font><font color="Black">, но разной центробежной силой - Рис.3. Одно - относительно точки </font><font color="Black">O</font><font color="Black"><sub>1</sub></font><font color="Black">, второе - относительно точки </font><font color="Black">O</font><font color="Black"><sub>2</sub></font><font color="Black">. Линейная скорость </font><font color="Black">V</font><font color="Black"><sub>1</sub></font><font color="Black"> при этом будет совпадать, а радиус вращения </font><font color="Black">R</font><font color="Black"><sub>2</sub></font><font color="Black"> будет отличаться от радиуса вращения </font><font color="Black">R</font><font color="Black"><sub>1</sub></font><font color="Black"> в большую сторону - Рис.3(А), или меньшую сторону - Рис.3(Б). </font>
+<dd>&nbsp;&nbsp; <font color="Black"></font><font color="Black"></font><font color="Black"></font><font color="Black"></font><font color="Black"><b><img src="/img/u/utkin_w_m/penrosestairs1/penrosestairs1-3.png" width="439" height="408" alt="0x01 graphic" ><br></b></font><font color="Black"></font><font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">		Однако, центробежная сила наблюдается только во вращающейся неинерциальной системе координат. Таким образом, пытаясь говорить о величине центробежной силы, мы вынуждены оценивать её в разных неинерциальных системах координат. В инерциальной системе координат центробежная сила отсутствует.</font>
+<dd>&nbsp;&nbsp; <font color="Black">	Иными словами, мы осуществляем беззатратный переход (скачок) от одной неинерциальной системы координат к другой неинерциальной системе координат с изменением величины центробежной силы (в ту или иную сторону) при сохранении кинетической энергии вращения. </font>
+<dd>&nbsp;&nbsp; <font color="Black">	Считаем, что переход от меньшей к большей центробежной силе соответствует скачку </font><font color="Black">"</font><font color="Black">вверх</font><font color="Black">"</font><font color="Black"> на лестнице Пенроуза</font><font color="Black"> - </font><font color="Black">Рис.3(Б), а переход от большей к меньшей центробежной силе- скачку </font><font color="Black">"</font><font color="Black">вниз</font><font color="Black">"</font><font color="Black"> - Рис.3(А).	</font>
+<dd>&nbsp;&nbsp; <font color="Black">	То есть, величина центробежной силы выступает аналогом потенциальной энергии в лестнице Пенроуза, большая центробежная сила - большая потенциальная энергия, меньшая центробежная сила - меньшая потенциальная энергия.</font>
+<dd>&nbsp;&nbsp; <font color="Black">Далее перейдем к формированию движения по ступеням лестницы Пенроуза </font><font color="Black">"</font><font color="Black">вверх</font><font color="Black">"</font><font color="Black"> или </font><font color="Black">"</font><font color="Black">вниз</font><font color="Black">"</font><font color="Black">, то есть в сторону большей или меньшей центробежной силы (потенциальной энергии).  </font>
+<dd>&nbsp;&nbsp; <font color="Black">Для этого "камень на верёвке" будем </font><font color="Black"><b><u>постепенно</u></b></font><font color="Black"> подтягивать или отпускать. В результате траектория движения тела примет следующий вид - Рис.4.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font><font color="Black"></font><font color="Black"></font><font color="Black"><b><img src="/img/u/utkin_w_m/penrosestairs1/penrosestairs1-4.png" width="511" alt="0x01 graphic" height="201" ><br></b></font><font color="Black"></font><font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">	При этом скорость кругового перемещения тела </font><font color="Black">V</font><font color="Black"><sub>1</sub></font><font color="Black"> </font><font color="Black">вдоль траектории будет оставаться неизменной, что соответствует неизменности кинетической энергии.  И известно из классической физики, хотя угловая скорость будет меняться в меньшую - Рис.4(А), или большую сторону - Рис.4(Б).</font>
+<dd>&nbsp;&nbsp; <font color="Black">	Если скорость кругового перемещения (кинетическая энергия), действительно будет оставаться неизменной то все последующие рассуждения верны, если нет - то нет.</font>
+<dd>&nbsp;&nbsp; <font color="Black">	Вот и все предварительные рассуждения, которые хотелось бы сделать, перед тем как нарисовать "потенциально реализуемый" вариант лестницы Пенроуза.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black"><b>ПОТЕНЦИАЛЬНО РЕАЛИЗУЕМЫЙ ВАРИАНТ</b></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><b>ЛЕСТНИЦЫ ПЕНРОУЗА</b></font><font color="Black"></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">	Наша лестница Пенроуза будет несколько отличаться от оригинала тем, что будет содержать два </font><font color="Black">"</font><font color="Black">круга ступеней</font><font color="Black">" </font><font color="Black">вместо одного (как в оригинале), и соответственно две точки скачков (беззатратных переходов) - Рис.5.  Траектория  для движения тела "вверх по лестнице Пенроуза" - Рис.5(А), и траектория для движения тела "вниз по лестнице Пенроуза" - Рис.5(Б).</font>
+<dd>&nbsp;&nbsp; <font color="Black">	В первом случае используется подтягивание нити для увеличения центробежной силы (движение </font><font color="Black">"</font><font color="Black">вверх</font><font color="Black">")</font><font color="Black">, </font><font color="Black">c </font><font color="Black">последующим скачком </font><font color="Black">"</font><font color="Black">вниз</font><font color="Black">" </font><font color="Black">- Рис.5(А).</font>
+<dd>&nbsp;&nbsp; <font color="Black">	Во втором случае используется отпускание нити для уменьшения центробежной силы (движение </font><font color="Black">"</font><font color="Black">вниз</font><font color="Black">")</font><font color="Black">, с последующим скачком </font><font color="Black">"</font><font color="Black">вверх</font><font color="Black">"</font><font color="Black"> - Рис.5(Б). </font>
+<dd>&nbsp;&nbsp; <font color="Black">	В первом и втором случае перемещение происходит по замкнутой траектории, после прохода по всей траектории тело возвращается в первоначальное положение.</font>
+<dd>&nbsp;&nbsp; <font color="Black">	Иными словами, варианты отличаются направлением обхода траектории. При обходе в одном направлении происходит бесконечный подъём по лестнице Пенроуза, при обходе в обратном направлении происходит бесконечный спуск по лестнице Пенроуза.</font>
+<dd>&nbsp;&nbsp; <font color="Black">	Знаки заземления означают фиксацию начала координат </font><font color="Black">O</font><font color="Black"><sub>1</sub></font><font color="Black"> и </font><font color="Black">O</font><font color="Black"><sub>2</sub></font><font color="Black">.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font><font color="Black"></font><font color="Black"></font><font color="Black"><b><img src="/img/u/utkin_w_m/penrosestairs1/penrosestairs1-5.png" height="422" alt="0x01 graphic" width="448" ><br></b></font><font color="Black"></font><font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">Для практической реализации придётся решить технические вопросы, связанные с методами осуществления подтягивания и отпускания нитей, а также методами реализации беззатратных переходов ("разрыв" и "склеивание" нитей). Кроме того, придётся решить проблему поддержания скорости движения тела на траектории, которая будет стремиться уменьшаться из-за потерь различного рода. Однако, это совершенно другая тема, касаться которой на данный момент мы не будем, а перейдём к следствиям реализуемости лестницы Пенроуза.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">Но перед тем как перейти к следствиям лестницы Пенроуза, хотелось бы заметить "мистическое сходство" траекторий движения тела и знака бесконечности принятого в математике, особенно когда траектории состоят из одного витка в каждой системе координат. Однако, перейдём к следствиям.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black"><b>ГЕНЕРАЦИЯ ЭНЕРГИИ</b></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">	Бесконечный спуск по лестнице Пенроуза должен приводить к бесконечному процессу генерации энергии. </font>
+<dd>&nbsp;&nbsp; <font color="Black">Мячик, брошенный на ступени, будет бесконечно катиться вниз, преобразуя потенциальную энергию высоты ступеней в кинетическую энергию движения.</font>
+<dd>&nbsp;&nbsp; <font color="Black">То же самое должно происходить и в нашей потенциально реализуемой лестнице Пенроуза. Отпускание нитей должно приводить к генерации энергии, поскольку центробежная сила (сила связи) будет сама стремиться растянуть эти нити. Для этого не нужно прикладывать внешнего усилия.</font>
+<dd>&nbsp;&nbsp; <font color="Black">Если конец нити намотать на шкив электрогенератора, то, разматываясь под действием центробежной силы (силы связи), нить будет крутить электрогенератор - Рис.6.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font><font color="Black"></font><font color="Black"></font><font color="Black"><img src="/img/u/utkin_w_m/penrosestairs1/penrosestairs1-6.png" width="448" alt="0x01 graphic" height="205" ><br></font><font color="Black"></font><font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">На Рис.6 две вращающиеся системы координат О</font><font color="Black"><sub>1</sub></font><font color="Black"> и О</font><font color="Black"><sub>2</sub></font><font color="Black"> </font><font color="Black"><b><u>условно</u></b></font><font color="Black"> отображены на разной высоте, поэтому стрелки скачков </font><font color="Black">"</font><font color="Black">вверх</font><font color="Black">" </font><font color="Black">оказались направленными в разные стороны - это </font><font color="Black">"</font><font color="Black">плата</font><font color="Black">"</font><font color="Black"> за наглядность иллюстрации.</font><font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">	</font><font color="Black">Пояснить бесконечную генерацию энергии можно следующим образом.</font>
+<dd>&nbsp;&nbsp; <font color="Black">После того как в системе </font><font color="Black">O</font><font color="Black"><sub>1</sub></font><font color="Black"> будет выработана некоторая энергия, нить в О</font><font color="Black"><sub>1</sub></font><font color="Black">  обрывается (точка N1) и рабочее тело переходит в систему О</font><font color="Black"><sub>2</sub></font><font color="Black"> , где процедура генерации энергии повторяется. </font>
+<dd>&nbsp;&nbsp; <font color="Black">После выработки энергии в О</font><font color="Black"><sub>2</sub></font><font color="Black"> обрывается нить в О</font><font color="Black"><sub>2</sub></font><font color="Black"> и тело возвращается в систему О</font><font color="Black"><sub>1</sub></font><font color="Black"> (точка N2). Далее процедура развивается по циклу, то есть по замкнутой траектории.</font>
+<dd>&nbsp;&nbsp; <font color="Black">Такое описание является чисто иллюстративным, поскольку для бесконечной работы устройства на шкивах каждого генератора должно быть запасено бесконечное число нитей (если считать, что каждый раз берётся новая нить).</font>
+<dd>&nbsp;&nbsp; <font color="Black">При этом иллюстрация Рис.6 соответствует неинерциальным вращающимся системам координат. В инерциальной системе координат - Рис.5(Б) </font><font color="Black"><b><u>линейная</u></b></font><font color="Black"> скорость перемещения тела в начале и конце траектории не изменится, и соответственно ни какой генерации энергии не происходит. То есть, для стороннего наблюдателя тело будет двигаться по замкнутой траектории (как шарик, катающийся без потерь в желобе соответствующей формы) и сторонний наблюдатель не сможет сказать, что в устройстве генерируется энергия.</font>
+<dd>&nbsp;&nbsp; <font color="Black"> </font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black"><b>УНИЧТОЖЕНИЕ ЭНЕРГИИ</b></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">	Бесконечный подъем по лестнице Пенроуза должен приводить к бесконечным затратам энергии. Человек идущий вверх по лестнице поднимает своё тело всё выше и выше, затрачивая свою кинетическую энергию и переводя её в потенциальную энергию высоты ступеней.</font>
+<dd>&nbsp;&nbsp; <font color="Black">	То же самое должно происходить и в нашей потенциально реализуемой лестнице Пенроуза. Подтягивание нитей должно приводить к затратам энергии, поскольку будет совершаться работа связанная с преодолением центробежной силы (силы связи).</font>
+<dd>&nbsp;&nbsp; <font color="Black">	Если конец нити прикрепить к шкиву электродвигателя, то при наматывании нити на шкив двигателя он будет потреблять реальную энергию, преодолевая центробежную силу (силу связи) - Рис.7.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font><font color="Black"></font><font color="Black"></font><font color="Black"><b><img src="/img/u/utkin_w_m/penrosestairs1/penrosestairs1-7.png" height="175" alt="0x01 graphic" width="480" ><br></b></font><font color="Black"></font><font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">На Рис.7 две вращающиеся системы координат О</font><font color="Black"><sub>1</sub></font><font color="Black"> и О</font><font color="Black"><sub>2</sub></font><font color="Black"> </font><font color="Black"><b><u>условно</u></b></font><font color="Black"> отображены на разной высоте, поэтому стрелки скачков </font><font color="Black">"</font><font color="Black">вниз</font><font color="Black">" </font><font color="Black">оказались направленными в разные стороны - это </font><font color="Black">"</font><font color="Black">плата</font><font color="Black">"</font><font color="Black"> за наглядность иллюстрации.</font>
+<dd>&nbsp;&nbsp; <font color="Black">Пояснить бесконечное потребление энергии можно следующим образом.</font>
+<dd>&nbsp;&nbsp; <font color="Black">После того как в системе </font><font color="Black">O</font><font color="Black"><sub>2</sub></font><font color="Black"> будет проведена работа против центробежной силы (силы связи), нить в О</font><font color="Black"><sub>2</sub></font><font color="Black">  обрывается (точка N1) и рабочее тело переходит в систему О</font><font color="Black"><sub>1</sub></font><font color="Black"> , где процедура работы против центробежной силы (силы связи) повторяется. </font>
+<dd>&nbsp;&nbsp; <font color="Black">После проведения работы против центробежной силы (силы связи) в О</font><font color="Black"><sub>1</sub></font><font color="Black"> обрывается нить в О</font><font color="Black"><sub>1</sub></font><font color="Black"> и тело возвращается в систему О</font><font color="Black"><sub>2</sub></font><font color="Black"> (точка N2). Далее процедура развивается по циклу.</font>
+<dd>&nbsp;&nbsp; <font color="Black">Такое описание является чисто иллюстративным, поскольку для бесконечной работы устройства на шкивах каждого электромотора должно быть запасено бесконечное число нитей (если считать, что каждый раз берётся новая нить).</font>
+<dd>&nbsp;&nbsp; <font color="Black">При этом иллюстрация Рис.7 соответствует неинерциальной вращающейся системе координат (как и Рис.6). В инерциальной системе координат - Рис.5(А) </font><font color="Black"><b><u>линейная</u></b></font><font color="Black"> скорость перемещения тела в начале и конце траектории не изменится, и соответственно ни какого потребления внешней энергии обнаружить не удастся. То есть, для стороннего наблюдателя тело будет двигаться равномерно по замкнутой траектории (как шарик, катающийся без потерь в желобе соответствующей формы) и сторонний наблюдатель не сможет сказать, что затрачивается энергия.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">При этом термин "уничтожение энергии" выбран именно потому, что затрачиваемая энергия не будет преобразовываться в какой-то иной вид энергии</font><font color="Black"> c </font><font color="Black">точки зрения стороннего наблюдателя. Для стороннего наблюдателя она будет исчезать.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">	Таким образом, генерация и уничтожение энергии зависит от направления движения по лестнице Пенроуза. При движении в одну сторону энергия генерируется, при движении в обратную сторону уничтожается.</font>
+<dd>&nbsp;&nbsp; <font color="Black">	Следует заметить, что практическая ценность уничтожения энергии не менее важна, чем практическая ценность генерации энергии.</font>
+<dd>&nbsp;&nbsp; <font color="Black">	Например, когда требуется охладить некий объект, а сбрасывать тепло некуда. В этом случае может помочь уничтожение энергии. Тепло объекта преобразуем в электричество, которое крутит электродвигатели в уничтожителе энергии. Нагретое тело как бы остывает само собой, без нагревания окружающей среды.</font>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black"><b>ЗАКОН СОХРАНЕНИЯ ЭНЕРГИИ</b></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">	Мы показали, что в потенциально реализуемой лестнице Пенроуза тело движется с постоянной скоростью в начале и конце замкнутой траектории и сторонний наблюдатель не сможет сказать, генерируется энергия или уничтожается. Для него генерация или уничтожение энергии не наблюдается.</font>
+<dd>&nbsp;&nbsp; <font color="Black">	В тоже время в неинерциальных системах координат (с периодической их сменой) будет наблюдаться генерирование или уничтожение энергии в зависимости от направления движения по траектории. Причем, эта энергия будет реальной.</font>
+<dd>&nbsp;&nbsp; <font color="Black">	Хотелось бы понять, как это согласуется с законом сохранения энергии.</font>
+<dd>&nbsp;&nbsp; <font color="Black">	Прежде всего, следует отметить, что у закона сохранения энергии, как и у любого физического закона, существует область применимости. Эту область применимости определяет теорема Эммы Нётер.</font>
+<dd>&nbsp;&nbsp; <font color="Black">Теорема от 1918 года математика Эммы Нётер утверждает, что каждой непрерывной симметрии физической системы соответствует некоторый закон сохранения:<br>            Симметрии времени соответствует закон сохранения энергии,<br>            Симметрии пространства соответствует закон сохранения импульса,<br>            Изотропии пространства соответствует закон сохранения момента импульса,<br>            Калибровочной симметрии соответствует закон сохранения электрического заряда и&nbsp;т.&nbsp;д.</font>
+<dd>&nbsp;&nbsp; <font color="Black">            То есть, первоначальна симметрия, а затем соответствующий закон сохранения. Если симметрии нет, то Вы находитесь за рамками применимости соответствующего закона сохранения. Таким образом, закон сохранения энергии нарушить принципиально нельзя, поскольку он является следствием, а не причиной. Однако, можно выйти за область его применимости, нарушив соответствующую симметрию.</font>
+<dd>&nbsp;&nbsp; <font color="Black">	Нас будет интересовать симметрия времени.</font>
+<dd>&nbsp;&nbsp; <font color="Black">	Симметрия времени означает инвариантность в выборе начала координат на оси времени. То есть, вы можете выбирать начало координат на оси времени произвольно, результат проведения эксперимента от этого не должен меняться, если не изменились другие условия.</font>
+<dd>&nbsp;&nbsp; <font color="Black">	А вот с неизменностью условий в потенциально реализуемой лестнице Пенроуза "не всё в порядке". На оси времени существуют точки "беззатратного перехода", когда слева от них тело обладает одной потенциальной энергией, а справа другой потенциальной энергией. То есть, слева и справа условия отличаются. Таким образом, говорить о том, что потенциально реализуемая лестница Пенроуза будет находиться в области применимости закона сохранения энергии нельзя.</font>
+<dd>&nbsp;&nbsp; <font color="Black">	В тоже время она подтверждает утверждение о том, что движение по замкнутой траектории в потенциальном поле не совершает работы. Это действительно так, поскольку сторонний наблюдатель не сможет определить генерируется или уничтожается энергия в этом устройстве (как если бы шарик, катался без потерь в желобе соответствующей формы).</font>
+<dd>&nbsp;&nbsp; <font color="Black">	Однако, для начала движения по замкнутой траектории телу придётся придать начальную кинетическую энергию. Только эту энергию и сможет наблюдать сторонний наблюдатель.</font>
+<div align="center" >
+<p >
+<font color="Black"><b>ЗАКЛЮЧЕНИЕ</b></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">	Показана принципиальная реализуемость лестницы Пенроуза в неинерциальных вращающихся системах координат, где </font><font color="Black"><b><u>аналогом потенциальной энергии выступает сила связи</u></b></font><font color="Black">. Работа против силы связи становится эквивалентом подъёма по лестнице Пенроуза. Работа самой силы связи становится эквивалентом спуска по лестнице Пенроуза.</font>
+<dd>&nbsp;&nbsp; <font color="Black">	Показано, что после </font><font color="Black">"</font><font color="Black">подъёма</font><font color="Black">" </font><font color="Black">или </font><font color="Black">"</font><font color="Black">спуска</font><font color="Black">" </font><font color="Black">по лестнице Пенроуза возможен беззатратный возврат в начало пути. То есть, возврат к первоначальному значению потенциальной энергии. После чего, движение по лестнице Пенроуза можно повторять по циклу.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">	Следствием реализуемости лестницы Пенроуза является возможность генерации и уничтожения энергии. Под генерацией и уничтожением энергии понимается именно возникновение "ниоткуда" и исчезновение в "никуда", а не преобразование одних видов энергии в другую энергию. Что соответствует бесконечному спуску  и бесконечному подъему по лестнице Пенроуза, соответственно.</font>
+<dd>&nbsp;&nbsp; <font color="Black">Генерация или уничтожение энергии проявляется только для внутреннего наблюдателя, находящегося в неинерциальной системе координат. Для него это будет выглядеть, например, как падение сверху камня, после чего этот камень исчезает и вновь появляется сверху. Либо на подбрасывание камня с земли вверх, после чего камень исчезает и вновь появляется опять на земле. В первом случае энергия бесконечно генерируется, во втором случае бесконечно тратится.</font>
+<dd>&nbsp;&nbsp; <font color="Black">	В тоже время подтверждена ещё раз справедливость утверждения о том, что работа, совершаемая телом при движении по замкнутой траектории в потенциальном поле равна нулю. Внешний наблюдатель в инерциальной системе координат не сможет определить наличие генерации или уничтожения энергии в описываемом устройстве.</font>
+<dd>&nbsp;&nbsp; <font color="Black">	</font>
+<dd>&nbsp;&nbsp; <font color="Black">Полученные результаты не противоречат закону сохранения энергии, поскольку находятся за областью его применимости, которую теорема Эмми Нётер определяет как инвариантность в выборе начала координат на оси времени (симметрия времени). Для рассмотренного потенциально реализуемого устройства это условие не выполняется, поскольку в нём используются беззатратные скачки, приводящие к восстановлению потенциальной энергии тела. Слева и справа от скачков условия различны.</font>
+<dd>&nbsp;&nbsp; <font color="Black">В описанном устройстве для начала движения по замкнутой траектории телу придётся придать начальную кинетическую энергию. Только эти затраты энергии и сможет наблюдать сторонний наблюдатель.</font>
+<dd>&nbsp;&nbsp; <font color="Black">При этом следуем заметить.</font>
+<dd>&nbsp;&nbsp; <font color="Black">Если скорость линейного перемещения тела (а не угловая) в начале и конце траектории потенциально реализуемого устройства действительно будет оставаться неизменной, то все рассуждения верны, если нет - то нет. </font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black"><b>ЛИТЕРАТУРА</b></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">1.</font>
+<dd>&nbsp;&nbsp; <font color="Black">2.</font>
+<dd>&nbsp;&nbsp; <font color="Black">3.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black"><b>ВОПРОСЫ И ОТВЕТЫ</b></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">(появлявшиеся в процессе написания статьи)</font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b>Вопрос 1. </b></font><font color="Black">Какая разница между центробежной силой и силой связи.</font>
+<dd>&nbsp;&nbsp; <font color="Black"><b>Ответ</b></font><font color="Black"><b>: </b></font><font color="Black">Разница в определении.</font>
+<dd>&nbsp;&nbsp; <font color="Black"><b>Под центробежной силой</b></font><font color="Black"> понимают силу нормальную вектору скорости...</font><font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b>Под силой связи</b></font><font color="Black"> понимают силу, проходящую через центр вращения...</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">Откуда следует, что при вращении </font><font color="Black">"</font><font color="Black">камня на верёвке</font><font color="Black">"</font><font color="Black"> по </font><font color="Black"><b><u>окружности постоянного радиуса</u></b></font><font color="Black"> сила связи и центробежная сила совпадают по направлению и величине.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">Однако, в общем случае, при движении по более сложным траекториям, появляется разница в направлении векторов силы связи и центробежной силы. Таким примером может служить движение по спирали </font><font color="Black">"</font><font color="Black">вращающегося на верёвке камня</font><font color="Black">"</font><font color="Black">.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">То есть, постепенное подтягивание или отпускание </font><font color="Black">"</font><font color="Black">вращающегося камня на верёвке</font><font color="Black">"</font><font color="Black"> приводит к взаимодействию с силой связи, а не центробежной силой.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">Сила связи считается реальной силой, а центробежная сила считается фиктивной силой.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b>Вопрос 2.</b></font><font color="Black"> Почему при подтягивании </font><font color="Black">"</font><font color="Black">камня вращающегося на верёвке</font><font color="Black">" </font><font color="Black">не изменяется его кинетическая энергия, ведь затрачиваются реальные усилия, и совершается реальная работа</font><font color="Black">?</font>
+<dd>&nbsp;&nbsp; <font color="Black"><b>Ответ</b></font><font color="Black"><b>:</b></font><font color="Black"><b> </b></font><font color="Black">Потому, что работа совершается против силы связи во вращающейся системе координат и </font><font color="Black"><b><u>приводит к увеличению потенциальной энергии</u></b></font><font color="Black"> в этой системе координат, а результат наблюдается в виде кинетической энергии в инерциальной системе координат. </font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">Наглядно это можно объяснить следующим образом.</font>
+<dd>&nbsp;&nbsp; <font color="Black">Вы едите в поезде на верхней полке вагона, движущегося по инерции, и пытаетесь поднять на верёвке свой чемодан, а за вами с перрона наблюдает другой человек.</font>
+<dd>&nbsp;&nbsp; <font color="Black">Для него поезд и ваш чемодан в начальный момент времени движутся с одинаковой скоростью. В момент, когда Вы поднимаете чемодан, человек видит, что к направлению первоначального движения чемодана прибавляется вертикальная компонента подъема чемодана. Но после того как чемодан поднят, для наблюдателя он опять движется с той же скоростью, что и до его подъема, то есть со скоростью поезда. Иными словами, проделана реальная работа, а кинетическая энергия чемодана с точки зрения человека стоящего на перроне не изменилась.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b>Вопрос 3.</b></font><font color="Black"> Почему говорят, что центробежная сила мнимая и не может совершать работу</font><font color="Black">?</font>
+<dd>&nbsp;&nbsp; <font color="Black"><b>Ответ</b></font><font color="Black"><b>:</b></font><font color="Black"><b> </b></font><font color="Black">В некоторых случаях это действительно так и вполне очевидно как, например, когда шар катается без сопротивления по жёлобу определенной формы.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">В случае </font><font color="Black">"</font><font color="Black"> камня вращающегося на верёвке</font><font color="Black">" </font><font color="Black">центробежная сила также не совершает работу, но это делает сила связи при постепенном отпускании верёвки, что приводит к уменьшению потенциальной энергии, но не отражается на кинетической энергии </font><font color="Black">"</font><font color="Black">камня</font><font color="Black">"</font><font color="Black"> для стороннего наблюдателя.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">Если брать наш пример с чемоданом, то это означает, что чемодан упадёт с верхней полки и совершит при падении реальную работу, но человек на перроне не заметит разницы в его кинетической энергии до и после падения на пол.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b>Вопрос 4. </b></font><font color="Black">Означают ли ответы на 1,2 и 3 вопросы, что центробежная сила во вращающейся системе координат (для случая </font><font color="Black">"</font><font color="Black">камня вращающегося на верёвке</font><font color="Black">"</font><font color="Black">) является аналогом потенциальной энергии.</font>
+<dd>&nbsp;&nbsp; <font color="Black"><b>Ответ</b></font><font color="Black"><b>:</b></font><font color="Black"> Да означает, только более точно будет сказать, что таким аналогом является сила связи. Чем больше сила связи, тем больше потенциальная энергия </font><font color="Black">"</font><font color="Black">камня</font><font color="Black">" </font><font color="Black">во вращающейся системе координат.</font>
+<dd>&nbsp;&nbsp; <font color="Black">В нашем примере с чемоданом поднятие чемодана на верхнюю полку означает увеличение силы связи.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b>Вопрос 5. </b></font><font color="Black">Если </font><font color="Black">"</font><font color="Black">камень</font><font color="Black">" </font><font color="Black">не будет материальной точкой, то при переходе из одной системы координат в другую изменяется его угловая скорость вращения вокруг относительно собственного центра масс, это потребует затрат энергии</font><font color="Black">?</font><font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b>Ответ</b></font><font color="Black"><b>:</b></font><font color="Black"> Не потребует, так как можно цеплять </font><font color="Black">"</font><font color="Black">камень</font><font color="Black">" </font><font color="Black">за центр масс с обеспечением свободного вращения и таким образом решить проблему. Однако, переход от вращательного движения к прямолинейному движению не требует дополнительных затрат энергии, хотя и происходит скачок в значении угловой скорости вращения. Возможно, та же ситуация будет и здесь, поскольку оба центра вращения и </font><font color="Black">"</font><font color="Black">камень</font><font color="Black">"</font><font color="Black"> находятся на одной линии (при переходе от одной к другой системе координат).</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<!--Section Ends-->
+
+
+
+
+
+
+
+
+<xxx7>
+
+</div>
+<!-- ----------------------------------------------- -->
+
+</dd><hr size=2 noshade>
+
+<table border=0 cellpadding=0 cellspacing=0><tr>
+
+<!-- -- Блок описания произведения (слева внизу) ----------- -->
+
+<td><small><ul>
+<li><A HREF="/cgi-bin/comment?COMMENT=u/utkin_w_m/penrosestairs1">Оставить комментарий</A>
+<li>&copy; Copyright <a href=/u/utkin_w_m/>Уткин Владимир Михайлович</a>
+ (<u>&#117&#46&#118&#64&#98&#107&#46&#114&#117</u>) 
+<li>Размещен: 10/09/2016, изменен: 10/09/2016. 41k. <a href=stat.shtml#penrosestairs1.shtml>Статистика.</a>
+<li><a href=/type/index_type_5-1.shtml>Статья</a>: <a href="/janr/index_janr_20-1.shtml">Естествознание</a>
+</ul></small>
+</td>
+<td valign=bottom align=right>
+
+<!-- ------------ Блочек голосования (оценка) нижний ------ -->
+
+<form action="/cgi-bin/votecounter" method=POST>
+<input type=hidden name=FILE value=penrosestairs1 >
+<input type=hidden name=DIR value=u/utkin_w_m >
+
+ <!-- 1 
+
+Оценка: <b>*1</b>
+
+ 1 -->
+&nbsp;<font size="-1">Ваша оценка: <select name=BALL><br>
+<option value="1">не читать</option>
+<option value="2">очень плохо</option>
+<option value="3">плохо</option>
+<option value="4">посредственно</option>
+<option value="5">терпимо</option>
+<option value="0" selected>не читал</option>
+<option value="6">нормально</option>
+<option value="7">хорошая книга</option>
+<option value="8">отличная книга</option>
+<option value="9">великолепно</option>
+<option value="10">шедевр</option>
+</select>
+<input type=submit name="OK" value="ОК"></font>
+
+</form>
+
+<!-- ----------------------------------------------- -->
+
+</td></tr></table>
+
+<hr size=2 noshade>
+<!-- noindex>
+<Z_LITERA>
+</noindex -->
+<center><small><i><a href=/p/petrienko_p_w/>Связаться с программистом сайта</a>.</i></small></center>
+
+<noindex><b>
+
+<!-- 
+2019: 28.05 x , 01.09 x, 04.12 x
+2020: 28.02 4 , 04.06 3, 07.09 3
+2021: 07.02 3 , 31.07 1, 26.11 3
+2024: 19.03 2
+-->
+
+<p><font size="2">Новые книги авторов СИ, вышедшие из печати:<br>
+
+<!-- 10.03.2024 -->
+О.Болдырева&nbsp;<a href=/b/boldyrewa_o_m/kradysh.shtml>"Крадуш. Чужие души"</a>
+М.Николаев&nbsp;<a href=/n/nikolaew_m_p/invasion.shtml>"Вторжение на Землю"</a>
+
+<center><i><small><a href=/d/denisowa_e/1.shtml>Как попасть в этoт список</a></small></i></center>
+
+</font>
+</b></noindex>
+<p>
+<div align=center>
+<a href=https://leather-time.ru>Кожевенное мастерство</a> |
+Сайт <a href=http://www.artlib.ru>"Художники"</a> |
+<a href=http://www.recself.ru/?id=2025&idr=0>Доска об'явлений "Книги"</a></div>
+<p align="right"></p>
+<noindex><!--TopList COUNTER--><img height=1 width=1src="https://top.list.ru/counter?id=77427"alt=""><!--TopList COUNTER--></noindex>
+</body>
+</html>

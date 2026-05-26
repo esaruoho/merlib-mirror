@@ -1,0 +1,684 @@
+<html>
+<head>
+	<title>Уткин Владимир Михайлович. Реализуемость лестницы Пенроуза. Часть 2. Электромагнетизм</title>
+</head>
+
+<body bgcolor="#E9E9E9">
+
+<center>
+
+<h2><small><a href=/u/utkin_w_m/>Уткин Владимир Михайлович</a></small><br>
+Реализуемость лестницы Пенроуза. Часть 2. Электромагнетизм</h2>
+
+<small>
+<!-- ----- Первый блок ссылок ----------- -->
+<a href=/><font color="#555555"><b>Самиздат:</b></font></a>
+<!-- ---------- Кнопка регистрации ------ -->
+
+
+[<A HREF="/cgi-bin/login">Регистрация</A>]
+ 
+
+[<a href=/cgi-bin/seek>Найти</a>] 
+[<a href=/rating/expert/>Рейтинги</a>]
+[<a href=/rating/comment/>Обсуждения</a>]
+[<a href=/long.shtml>Новинки</a>]
+[<a href=/janr/index_janr_time23-1.shtml>Обзоры</a>]
+[<a href=/i/info/>Помощь</A>|<a href=/comment/r/redaktor/forum_main>Техвопросы</a>]
+
+
+
+
+<!--  Кнопка редактирования произведения  -->
+</small>
+
+<table width=98%><tr><td>   <table width=96% style="display: block !important"><tr>
+
+<td>Ссылки:</td>
+
+<td><script>(function (w, d, s) { var t = d.getElementsByTagName(s)[0], j = d.createElement(s); j.async = true; j.charset="utf-8"; var dt = new Date(); j.src = 'https://offfy.com/domain/moshkow/general.js?'+dt.getFullYear()+''+dt.getMonth()+''+dt.getDate()+''+dt.getHours(); t.parentNode.insertBefore(j, t); })(window, document, 'script');</script></td>
+
+<td> </td><td width=33%><hr noshade></td><td> </td>
+
+<td><style>#author_today_btn{display: block;min-width: 250px;text-align: center;background: #4582af; color: #fff; font-family: Arial; padding: 4px 8px; font-size: 12px; font-weight: bold; border-radius: 4px;text-decoration: none;}#author_today_btn:hover{background: #5cb85c;}</style>
+<nobr><a href="https://leather-time.ru" target="_blank" id="author_today_btn">Школа кожевенного мастерства: сумки, ремни своими руками</a></nobr></td>
+
+<td><style>#soiuz48{display:block; text-align:center; background:#25aa00; color:#ffffff; font-family: Arial; padding: 4px 10px; font-weight:bold; border-radius:4px;} #soiuz48:hover{background:#f02c22;} #soiuz48 a {text-decoration:none; color:#ffffff;} #soiuz48:hover u {color:yellow;} </style> <span id="soiuz48"><nobr><a href="https://xn-----6kccid8acl5ahhfdesjvr2ah5mpd.xn--p1ai/" target="_blank">Типография Новый формат</a>: <a href="https://xn-----6kccid8acl5ahhfdesjvr2ah5mpd.xn--p1ai/" target="_blank"><u>Издать свою книгу</u></a></nobr></span></td>
+
+
+<!--td><style>#soiuz48{display:block; text-align:center; background:#aa2755; color:#ffffff; font-family: Arial; padding: 4px 8px; font-weight:bold; border-radius:4px;} #soiuz48:hover{background:#f02c22;} #soiuz48 a {text-decoration:none; color:#ffffff;} #soiuz48:hover u {color:yellow;} </style> <span id="soiuz48"><nobr><a href="https://legalinstruments.ru" target="_blank">Юридические услуги. <u>Круглосуточно</u></a></nobr></span></td-->
+
+<td> </td><td width=33%><hr noshade></td><td> </td>
+
+
+</tr></table>   </td></tr></table>
+
+
+<table width=90% border=0 cellpadding=0 cellspacing=0><tr>
+
+<!-- -- Блок описания произведения (слева вверху) --------------------- -->
+
+<td>
+<small><ul>
+<li><A HREF="/cgi-bin/comment?COMMENT=u/utkin_w_m/penrosestairs2-1">Оставить комментарий</A>
+<li>&copy; Copyright <a href=/u/utkin_w_m/>Уткин Владимир Михайлович</a>
+ (<u>&#117&#46&#118&#64&#98&#107&#46&#114&#117</u>) 
+<li>Размещен: 10/09/2016, изменен: 10/09/2016. 49k. <a href=stat.shtml#penrosestairs2-1.shtml>Статистика.</a>
+<li><a href=/type/index_type_5-1.shtml>Статья</a>: <a href="/janr/index_janr_20-1.shtml">Естествознание</a>
+<li><a href=/img/u/utkin_w_m/penrosestairs2-1/index.shtml>Иллюстрации/приложения: 17 шт.</a>
+<li>Скачать <a href="/img/u/utkin_w_m/utkin_w_m--penrosestairs2-1.fb2.zip">FB2</a>
+</ul></small>
+</td>
+<td valign=top>
+
+<!-- -------- Кнопка вызова Лингвоанализатора ------ -->
+<!-- Z_LA -->
+<!-- Z_RE -->
+<!-- -------- Кнопка вызова репетитора ------------- -->
+
+</td>
+<td valign=bottom align=right>
+
+<!-- ---------- Блочек голосования (оценка) верхний -->
+
+<form action="/cgi-bin/votecounter" method=POST>
+<input type=hidden name=FILE value=penrosestairs2-1 >
+<input type=hidden name=DIR value=u/utkin_w_m >
+
+ <!-- 1 
+
+Оценка: <b>*1</b>
+
+ 1 -->
+&nbsp;<font size="-1">Ваша оценка: <select name=BALL><br>
+<option value="1">не читать</option>
+<option value="2">очень плохо</option>
+<option value="3">плохо</option>
+<option value="4">посредственно</option>
+<option value="5">терпимо</option>
+<option value="0" selected>не читал</option>
+<option value="6">нормально</option>
+<option value="7">хорошая книга</option>
+<option value="8">отличная книга</option>
+<option value="9">великолепно</option>
+<option value="10">шедевр</option>
+</select>
+<input type=submit name="OK" value="ОК"></font>
+
+</form>
+
+<!-- ---------------------------------------------- -->
+
+</td></tr>
+<tr><td valign=top colspan=3>
+<ul><small><li></small><b>Аннотация:</b><br><font color="#555555"><i>Исследуется восстанавливаемость потенциальной энергии при электромагнитном взаимодействии. Предлагается генерация и уничтожение энергии на основе восстановления потенциальной энергии. Вводится понятие внешнего и внутреннего наблюдателя. Результат анализируется на основе области применимости закона сохранения энергии. Приводятся поддающиеся практической реализуации структурные схемы, а также известные устройства.</i></font></ul>
+</td></tr></table>
+
+</center>
+<hr size=2 noshade>
+
+<!-- --------- Собственно произведение ------------- -->
+
+
+
+
+
+<div align=justify>
+ 
+ 
+<xxx7>
+
+<!--Section Begins--><br>
+<div align="center" >
+<p >
+<font color="Black">РЕАЛИЗУЕМОСТЬ ЛЕСТНИЦЫ ПЕНРОУЗА. </font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">ЧАСТЬ 2.</font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">(ЭЛЕКТРОМАГНЕТИЗМ)</font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black">Владимир Уткин </font><font color="Black"></font><font color="Black"></font><font color="Black"></font><font color="Black"></font><font color="Black"></font><font color="Black"></font><font color="Black"></font><font color="Black"></font><font color="Black"></font><font color="Black"></font><font color="Black"></font><font color="Black"></font><font color="Black"></font><font color="Black"></font><font color="Black"></font><font color="Black"><a href="mailto:u.v@bk.ru"></font><font color="Black">u</font><font color="Black">.</font><font color="Black">v</font><font color="Black">@</font><font color="Black">bk</font><font color="Black">.</font><font color="Black">ru</font><font color="Black"></a></font><font color="Black"></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black"><b>ВВЕДЕНИЕ</b></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black">	</font>
+<dd>&nbsp;&nbsp; <font color="Black">Лестница Пенроуза представляет собой такую конструкцию лестницы, при которой в случае движения по ней в одном направлении (на Рис.1 против часовой стрелки) человек будет бесконечно подниматься, а при движении в обратном направлении - постоянно спускаться. При этом, после завершения визуального маршрута человек окажется в той же точке, с которой начал своё передвижение. Существование лестницы в реальном мире считается невозможным. Полагают, что это один из примеров классической оптической иллюзии.</font>
+<div align="center" >
+<p >
+<font color="Black"></font><font color="Black"></font><font color="Black"></font><font color="Black"></font><font color="Black"><img src="/img/u/utkin_w_m/penrosestairs2-1/penrosestairs2-1-1.png" height="221" alt="0x01 graphic" width="290" ><br></font><font color="Black"></font><font color="Black"></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black">Рис.1 Лестница Пенроуза.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">	Несмотря на это, постараемся создать конструкцию, в которой идеи оптической иллюзии становятся практически возможными. Для этого реализуем</font><font color="Black">:</font>
+<ol type="1" start="1">
+<dd>&nbsp;&nbsp;-- 
+<font color="Black">Движение по ступеням лестницы (вверх или вниз)</font>
+<dd>&nbsp;&nbsp;-- 
+<font color="Black">Возврат в начало координат (беззатратный переход вверх или вниз)</font>
+</ol>
+<dd>&nbsp;&nbsp; <font color="Black">Для решения задачи выберем путь, основанный на идеи совершения механической работы при электромагнитном взаимодействии.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black"><b>ОБЩИЙ ПОДХОД</b></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black">	</font>
+<dd>&nbsp;&nbsp; <font color="Black">Известно, что тела, взаимодействующие в окружающем пространстве с магнитным полем, могут совершать механическую работу, перемещаясь, относительно друг друга. В простейшем случае это могут быть, например, два постоянных магнита. Сближаясь, друг с другом (при соответствующей ориентации полюсов) они произведут положительную механическую работу.</font>
+<dd>&nbsp;&nbsp; <font color="Black">Кроме того, это могут быть один магнит и один ферромагнетик, или две катушки с током, или катушка и магнит, или катушка и ферромагнетик и т.д. Однако, для простоты изложения ограничимся только</font><font color="Black">:</font><font color="Black"> магнитом, ферромагнетиком и катушкой с током (не рассматривая другие тела обладающие магнитными свойствами - парамагнетики, диамагнетики и прочее.)</font>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u>Нас будет интересовать</u></b></font><font color="Black"><b><u>:</u></b></font><font color="Black"><b><u> как изменяется энергия магнитного поля при совершении механической работы</u></b></font><font color="Black"><b><u>?</u></b></font><font color="Black"><b><u></u></b></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">Рассмотрим различные варианты.</font>
+<ol type="1" start="1">
+<dd>&nbsp;&nbsp;-- 
+<font color="Black">Взаимодействие двух катушек с током</font><font color="Black"> I</font><font color="Black"><sub>1</sub></font><font color="Black">, создающих магнитное поле напряженностью </font><font color="Black">H</font><font color="Black"><sub>1</sub></font><font color="Black">  - Рис.2.</font>
+</ol>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <b><img src="/img/u/utkin_w_m/penrosestairs2-1/penrosestairs2-1-2.png" alt="0x01 graphic" height="128" width="546" ><br></b><font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">Результирующая энергия общего магнитного поля убыла в два раза. Оно и понятно</font><font color="Black">: </font><font color="Black">была совершена механическая работа, энергия магнитного поля перешла в механическую работу. Ток в каждой из катушек уменьшился в два раза (за счет явления противо - ЭДС). Результирующая энергия магнитного поля объединенной катушки уменьшилась вдвое от исходной энергии магнитных полей двух катушек. Магнитное поле расходуется на совершение механической работы! Или, нет</font><font color="Black">??? </font><font color="Black">Рассмотрим следующий вариант.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<ol type="1" start="2">
+<dd>&nbsp;&nbsp;-- 
+<font color="Black">Взаимодействие катушки с током</font><font color="Black"> I</font><font color="Black"><sub>1</sub></font><font color="Black">, создающей магнитное поле напряженностью </font><font color="Black">H</font><font color="Black"><sub>1</sub></font><font color="Black">  и постоянного магнита напряженностью </font><font color="Black">H</font><font color="Black"><sub>1</sub></font><font color="Black">  </font><font color="Black">- Рис.3.</font>
+</ol>
+<dd>&nbsp;&nbsp; <b><img src="/img/u/utkin_w_m/penrosestairs2-1/penrosestairs2-1-3.png" height="167" alt="0x01 graphic" width="600" ><br></b><font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">Результирующая энергия общего магнитного поля убыла в два раза. Опять понятно</font><font color="Black">: </font><font color="Black">была совершена механическая работа, энергия магнитного поля перешла в механическую работу. Ток в катушке уменьшился до нуля  (за счет явления противо - ЭДС). Результирующая энергия магнитного поля уменьшилась вдвое от исходной энергии за счет нулевого тока в катушке. Магнитное поле катушки израсходовалось на совершение механической работы! Или, нет</font><font color="Black">??? </font><font color="Black">Рассмотрим следующий вариант.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<ol type="1" start="3">
+<dd>&nbsp;&nbsp;-- 
+<font color="Black">Взаимодействие катушки с током</font><font color="Black"> I</font><font color="Black"><sub>1</sub></font><font color="Black">, создающей магнитное поле          </font>
+</ol>
+<dd>&nbsp;&nbsp; <font color="Black">      напряженностью </font><font color="Black">H</font><font color="Black"><sub>1</sub></font><font color="Black">  и ферромагнетика</font><font color="Black">  </font><font color="Black">- Рис.4.</font>
+<dd>&nbsp;&nbsp; <b><img src="/img/u/utkin_w_m/penrosestairs2-1/penrosestairs2-1-4.png" alt="0x01 graphic" height="148" width="547" ><br></b><font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">Результирующая энергия общего магнитного поля после совершения механической работы не изменилась, вот это сюрприз!!! Катушка намагнитила ферромагнетик, в результате изменился (уменьшился) ток в катушке (за счет явления противо - ЭДС), а</font>
+<dd>&nbsp;&nbsp; <font color="Black">напряженность магнитного поля не изменилась.</font>
+<dd>&nbsp;&nbsp; <font color="Black">Если энергия результирующего магнитного поля не изменилась, то какая энергия совершала механическую работу</font><font color="Black">??? </font><font color="Black">Рассмотрим следующий вариант.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<ol type="1" start="4">
+<dd>&nbsp;&nbsp;-- 
+<font color="Black">Взаимодействие двух постоянных магнитов обладающих магнитным полем        </font>
+</ol>
+<dd>&nbsp;&nbsp; <font color="Black">      напряженностью </font><font color="Black">H</font><font color="Black"><sub>1</sub></font><font color="Black"> </font><font color="Black">  </font><font color="Black">- Рис.5.</font>
+<dd>&nbsp;&nbsp; <b><img src="/img/u/utkin_w_m/penrosestairs2-1/penrosestairs2-1-5.png" width="553" height="135" alt="0x01 graphic" ><br></b><font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">Результирующая энергия общего магнитного </font><font color="Black">H</font><font color="Black"><sub>2</sub></font><font color="Black"> </font><font color="Black">поля после совершения механической работы, по крайней мере, не уменьшилась, поскольку магниты почти не могут намагнитить друг друга более, чем есть. Если энергия результирующего магнитного поля не изменилась, то какая энергия совершала механическую работу</font><font color="Black">??? </font><font color="Black">Рассмотрим следующий вариант.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<ol type="1" start="5">
+<dd>&nbsp;&nbsp;-- 
+<font color="Black">Взаимодействие постоянного магнита создающего магнитное поле          </font>
+</ol>
+<dd>&nbsp;&nbsp; <font color="Black">      напряженностью </font><font color="Black">H</font><font color="Black"><sub>1</sub></font><font color="Black"> и ферромагнетика </font><font color="Black">  </font><font color="Black">- Рис.6.</font>
+<dd>&nbsp;&nbsp; <b><img src="/img/u/utkin_w_m/penrosestairs2-1/penrosestairs2-1-6.png" alt="0x01 graphic" height="153" width="541" ><br></b><font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">Результирующая энергия общего магнитного поля</font><font color="Black"> H</font><font color="Black"><sub>2</sub></font><font color="Black"> </font><font color="Black">после совершения механической работы увеличилась, поскольку постоянный магнит смог намагнитить ферромагнетик на величину </font><font color="Black">dH </font><font color="Black">в процессе сближения. Получается, что механическая работа совершается, а энергия магнитного поля только возрастает! Опять сюрприз!!! Если энергия результирующего магнитного поля только возросла, то какая энергия совершала механическую работу</font><font color="Black">??? </font><font color="Black"> Пора ответить на этот вопрос.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">Поскольку энергия магнитного поля в процессе совершения механической работы может, как уменьшаться, так и увеличиваться, или оставаться неизменной, то считать, что именно энергия магнитного поля совершает механическую работу, оказывается не логичным. Поставленные ранее тройные знаки вопроса оказались вполне обоснованными.</font>
+<dd>&nbsp;&nbsp; <font color="Black">Так что же за таинственная </font><font color="Black">"</font><font color="Black">свободная энергия</font><font color="Black">"</font><font color="Black"> совершает механическую работу</font><font color="Black">?</font><font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">Нужно вводить новые понятия, или можно ограничиться старыми понятиями</font><font color="Black">?</font><font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black"><b>ПОТЕНЦИАЛЬНАЯ ЭНЕРГИЯ</b></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">	В процессе проведения указанных выше мысленных экспериментов по совершению механической работы, была не учтена какая-то энергия, поскольку общий баланс энергий в нескольких экспериментах не выполнялся.</font>
+<dd>&nbsp;&nbsp; <font color="Black">	Тем не менее, вводить какое - либо новое понятие </font><font color="Black">"</font><font color="Black">свободной энергии</font><font color="Black">"</font><font color="Black"> не требуется. Таким </font><font color="Black">"</font><font color="Black">упущенным</font><font color="Black">"</font><font color="Black"> видом энергии можно считать потенциальную энергию, именно за счёт её совершалась механическая работа, а не за счет энергии магнитного поля. Наблюдаемые </font><font color="Black">"</font><font color="Black">закономерности</font><font color="Black">"</font><font color="Black"> в изменении энергии магнитного поля являются только проявлением </font><font color="Black">"</font><font color="Black">побочных эффектов</font><font color="Black">"</font><font color="Black">. Именно </font><font color="Black">"</font><font color="Black">побочные эффекты</font><font color="Black">"</font><font color="Black"> отвечают за уменьшение, увеличение или неизменность напряженности результирующего магнитного поля.</font><font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">	Попробуем пояснить.</font>
+<dd>&nbsp;&nbsp; <font color="Black">Наиболее просто, как не покажется странным, пояснить понятие потенциальной энергии можно на основе гравитационного взаимодействия, откуда собственно это понятие и пришло. </font>
+<dd>&nbsp;&nbsp; <font color="Black">	Для этого следует привлечь понятие </font><font color="Black">"</font><font color="Black">кривизны пространства</font><font color="Black">"</font><font color="Black">, проиллюстрировать которое можно путём размещения некоего груза на гибкой и тонкой горизонтально расположенной мембране. В результате чего мембрана деформируется и провисает.	</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/penrosestairs2-1/penrosestairs2-1-7.jpg" width="536" height="311" alt="0x01 graphic" ><br></font><font color="Black"></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">Рис.7 Иллюстрация кривизны пространства</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">Такое образное представление позволяет пояснить возникновение двух видов энергии</font><font color="Black">:</font><font color="Black"> энергии гравитационного поля и потенциальной энергии. </font>
+<dd>&nbsp;&nbsp; <font color="Black">Если деформированную мембрану представить как сжатую пружину, то энергию запасённую сжатой пружиной можно трактовать как энергию гравитационного поля.</font>
+<dd>&nbsp;&nbsp; <font color="Black">Если деформированную мембрану рассматривать как </font><font color="Black">"</font><font color="Black">вырытую яму</font><font color="Black">"</font><font color="Black">, то глубину этой ямы</font><font color="Black"> </font><font color="Black">можно трактовать как потенциальную энергию для тела находящегося на её краю.</font>
+<dd>&nbsp;&nbsp; <font color="Black">Следовательно, при гравитационном взаимодействии двух тел (при их сближении) и совершении работы, энергия гравитационного поля не меняется (оставаясь равной сумме энергий двух взаимодействующих тел), хотя локально </font><font color="Black">"</font><font color="Black">пружина</font><font color="Black">"</font><font color="Black"> сжимается сильнее. Что приводит к увеличению глубины </font><font color="Black">"</font><font color="Black">вырытой ямы</font><font color="Black">"</font><font color="Black"> для третьего тела и т.д. При этом, потенциальная энергия взаимодействующих тел уменьшается (становится равной нулю при их слиянии).</font>
+<dd>&nbsp;&nbsp; <font color="Black">Такое объяснение является </font><font color="Black"><b><u>очень грубым</u></b></font><font color="Black">, но позволяет почувствовать суть происходящих процессов.</font>
+<dd>&nbsp;&nbsp; <font color="Black">Аналогичное искривление пространства можно представить и для магнитного поля при механическом взаимодействии двух постоянных магнитов- Рис.8.</font>
+<dd>&nbsp;&nbsp; <font color="Black">То есть, при сближении двух магнитов будет совершена положительная работа, но энергия магнитного поля не изменится. Результирующее магнитное поле будет иметь ту же энергию, равную сумме энергий взаимодействующих магнитов. Работу произведёт потенциальная энергия.</font>
+<dd>&nbsp;&nbsp; <font color="Black">Следовательно, наблюдаемое уменьшение энергии магнитного поля, в ранее приводимых мысленных экспериментах, не связано с процессом совершения механической работы телами в магнитном поле.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/penrosestairs2-1/penrosestairs2-1-8.jpg" width="239" alt="0x01 graphic" height="179" ><br></font><font color="Black"></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black">Рис.8 Иллюстрация искривления пространства для магнитного поля.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">То есть, за наблюдаемые в мысленных экспериментах </font><font color="Black">"</font><font color="Black">побочные эффекты</font><font color="Black">"</font><font color="Black">, приводящие к уменьшению энергии результирующего магнитного поля, </font><font color="Black">"</font><font color="Black">отвечают</font><font color="Black">"</font><font color="Black"> другие физические процессы.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">Следовательно, перспективными взаимодействиями, с точки зрения реализации лестницы Пенроуза, можно считать такие взаимодействия, которые приводят только к изменению потенциальной энергии (при движении по ступеням лестницы), сохраняя исходное значение энергии магнитного поля неизменным. Как было показано, таковым является взаимодействие двух постоянных магнитов.</font>
+<dd>&nbsp;&nbsp; <font color="Black">Однако, мы выберем не описанное взаимодействие двух постоянных магнитов, а взаимодействие катушки с током и ферромагнетика, поскольку в этом случае достаточно просто реализовать беззатратные переходы, или </font><font color="Black">"</font><font color="Black">скачки</font><font color="Black">"</font><font color="Black">, в результате которых мы будем оказываться в исходной точке движения (с исходным значением потенциальной энергии).</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black"><b>ПОТЕНЦИАЛЬНО РЕАЛИЗУЕМАЯ ЛЕСТНИЦА ПЕНРОУЗА</b></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">При внимательном прочтении предыдущих разделов можно было обратить внимание на то, что на создание потенциальной энергии не затрачиваются какие-либо другие виды энергии. Она определяется исключительно исходным положением тел на начало взаимодействия, то есть на момент появления магнитного поля в окружающем пространстве (для магнитного взаимодействия).</font>
+<dd>&nbsp;&nbsp; <font color="Black">Следовательно, изменяя начальное положение взаимодействующих тел при появлении магнитного поля, можно изменять исходное значение потенциальной энергии, не затрачивая на это какую - либо другую энергию.</font>
+<dd>&nbsp;&nbsp; <font color="Black">Потенциально реализуемая лестница Пенроуза, основанная на описанных выше принципах, представлена на Рис.9. Где цифрами (1) и (2) обозначены две идентичные катушки, а серым бруском обозначен ферромагнетик. Сам брусок движется по направлению то к одной, то к другой катушке в зависимости от положения магнитного поля, совершая при этом механическую работу. Потенциальная энергия при этом убывает, а энергия магнитного поля не изменяется.</font>
+<dd>&nbsp;&nbsp; <font color="Black">Возврат к </font><font color="Black">"</font><font color="Black">исходной точке</font><font color="Black">"</font><font color="Black"> движения на лестнице Пенроуза происходит путём </font><font color="Black">"</font><font color="Black">перекачивания</font><font color="Black">"</font><font color="Black"> магнитного поля из одной катушки в другую, через промежуточный заряд конденсатора - С. </font>
+<dd>&nbsp;&nbsp; <font color="Black">Таким образом, на Рис.9 представлена лестница Пенроуза при движении</font><font color="Black"> "</font><font color="Black">вниз</font><font color="Black">"</font><font color="Black">. Движение </font><font color="Black">"</font><font color="Black">вверх</font><font color="Black">"</font><font color="Black"> по лестнице Пенроуза представлено на Рис.10</font>
+<dd>&nbsp;&nbsp; <font color="Black">При этом, считается, что катушки не обладают омическими потерями (сверхпроводник), как не обладают потерями и все элементы схем. Запуск в рабочее состояние осуществляется, например, путем первоначального заряда конденсатора - </font><font color="Black">C</font><font color="Black">, энергия которого затем преобразуется в энергию магнитного поля.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <b><img src="/img/u/utkin_w_m/penrosestairs2-1/penrosestairs2-1-9.png" height="319" alt="0x01 graphic" width="593" ><br></b><font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">	Движение </font><font color="Black">"</font><font color="Black">вверх</font><font color="Black">"</font><font color="Black"> по лестнице Пенроуза означает преобразование механической энергии в потенциальную энергию. Чем выше мы хотим </font><font color="Black">"</font><font color="Black">подняться</font><font color="Black">"</font><font color="Black"> по ступеням лестницы Пенроуза, тем большая механическая энергия будет истрачена - Рис.10.</font>
+<dd>&nbsp;&nbsp; <font color="Black">	Иными словами, если при </font><font color="Black">"</font><font color="Black">спуске</font><font color="Black">"</font><font color="Black"> по лестнице ферромагнетик сам втягивался в катушку с током, то при </font><font color="Black">"</font><font color="Black">подъёме</font><font color="Black">"</font><font color="Black"> ферромагнетик надо вытаскивать из катушки с током за счёт приложения внешних сил. </font>
+<dd>&nbsp;&nbsp; <font color="Black">При этом энергия магнитного поля не изменится (как было отмечено ранее), что позволит в конце движения </font><font color="Black">"</font><font color="Black">перебросить</font><font color="Black">"</font><font color="Black"> энергию магнитного поля на другую катушку (осуществить беззатратный переход) и повторить вытаскивание снова.</font>
+<dd>&nbsp;&nbsp; <font color="Black">	Для осуществления процедуры </font><font color="Black">"</font><font color="Black">вытаскивания</font><font color="Black">"</font><font color="Black"> на Рис.10 показаны некие электродвигатели, на шкив которых наматывается нить, соединенная с ферромагнетиком.</font>
+<dd>&nbsp;&nbsp; <font color="Black">Энергия в электродвигатели поступает из внешнего источника (он не показан).</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black"><b>ВЕНТИЛЬНЫЙ РЕАКТИВНЫЙ ДВИГАТЕЛЬ</b></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">	Специалисты знакомые с электротехникой, и в частности с электрическими машинами, могли догадаться, что процессы, описанные для потенциально реализуемой лестницы Пенроуза, имеют много общего с процессами происходящими в вентильном реактивном двигателе (шаговом двигателе) - Рис.11</font>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/penrosestairs2-1/penrosestairs2-1-10.png" width="171" alt="0x01 graphic" height="174" ><br></font><font color="Black"></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black">Рис. 11 Схема вентильного реактивного электродвигателя (шагового двигателя).</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">Отличие, от описанных выше лестниц Пенроуза, для вентильного реактивного двигателя (шагового двигателя) заключается только в том, что вместо поступательного движения ферромагнетик совершает вращательное движение, стараясь занять положение с наименьшей потенциальной энергии, которому соответствует ориентация вдоль оси пары катушек. Таких пар катушек может быть до четырех (в типичном случае). В целом описанные процессы совпадают.</font>
+<dd>&nbsp;&nbsp; <font color="Black">Но в вентильных двигателях отсутствуют </font><font color="Black">"</font><font color="Black">беззатратные переходы</font><font color="Black">"</font><font color="Black">, то есть </font><font color="Black">"</font><font color="Black">перебрасывание энергии</font><font color="Black">"</font><font color="Black"> между парами катушек, что не позволяет считать данную конструкцию </font><font color="Black">"</font><font color="Black">готовой лестницей Пенроуза</font><font color="Black">"</font><font color="Black">. Для доведения вентильного двигателя до уровня лестницы Пенроуза, необходимо модифицировать его блок управления (контроллер) в соответствии с описанными выше принципами,  а также позаботиться о пополнении убытков энергии магнитного поля, связанных с различными потерями. Однако, эти вопросы выходят за рамки данной работы.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black"><b>ГЕНЕРАЦИЯ ЭНЕРГИИ</b></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">Бесконечный спуск по лестнице Пенроуза должен приводить к бесконечному процессу генерации энергии. </font>
+<dd>&nbsp;&nbsp; <font color="Black">Мячик, брошенный на ступени, будет бесконечно катиться вниз, преобразуя потенциальную энергию высоты ступеней в кинетическую энергию движения.</font>
+<dd>&nbsp;&nbsp; <font color="Black">То же самое должно происходить и в нашей потенциально реализуемой лестнице Пенроуза. </font>
+<dd>&nbsp;&nbsp; <font color="Black">Для утилизации кинетической энергии, например, в виде электроэнергии,  ферромагнетик можно соединить с электрогенераторами через гибкую нить - Рис.1</font><font color="Black">2.</font>
+<dd>&nbsp;&nbsp; <b><img src="/img/u/utkin_w_m/penrosestairs2-1/penrosestairs2-1-11.png" height="167" alt="0x01 graphic" width="523" ><br></b><font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">Запуск схемы можно осуществлять, например, путем первоначального заряда конденсатора </font><font color="Black">- C</font><font color="Black">, энергия которого затем преобразуется в энергию магнитного поля.</font>
+<dd>&nbsp;&nbsp; <font color="Black">	С учетом сделанных ранее замечаний (для вентильного реактивного двигателя), схема Рис.12 может принять следующий вид - Рис.13.</font>
+<dd>&nbsp;&nbsp; <b><img src="/img/u/utkin_w_m/penrosestairs2-1/penrosestairs2-1-12.png" height="160" alt="0x01 graphic" width="538" ><br></b><font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">	При этом если ввести понятие </font><font color="Black">"</font><font color="Black">стороннего наблюдателя</font><font color="Black">"</font><font color="Black"> - оценивающего изменение энергии первоначально заряженного конденсатора -</font><font color="Black"> C</font><font color="Black">, то в процессе наблюдения он не сможет определить генерируется энергия или нет, так как средняя величина энергии на конденсаторе будет оставаться неизменной. При этом петля компенсации потерь для идеализированного случая (без потерь) не является обязательной.</font>
+<dd>&nbsp;&nbsp; <font color="Black">	Если ввести понятие </font><font color="Black">"</font><font color="Black">внутреннего наблюдателя</font><font color="Black">"</font><font color="Black"> - оценивающего энергию на выходе устройства, то он будет констатировать процесс бесконечной генерации энергии.</font>
+<dd>&nbsp;&nbsp; <font color="Black">	При этом следует отметить, для работы подобной лестницы Пенроуза в неё должна быть закачана первоначальная энергия (заряд конденсатора), именно эту первоначальную энергию только и сможет наблюдать </font><font color="Black">"</font><font color="Black">сторонний наблюдатель</font><font color="Black">"</font><font color="Black">.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black"><b>УНИЧТОЖЕНИЕ ЭНЕРГИИ</b></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">Бесконечный подъем по лестнице Пенроуза должен приводить к бесконечным затратам энергии. Человек идущий вверх по лестнице поднимает своё тело всё выше и выше, затрачивая свою кинетическую энергию и переводя её в потенциальную энергию высоты ступеней.</font>
+<dd>&nbsp;&nbsp; <font color="Black">	То же самое должно происходить и в нашей потенциально реализуемой лестнице Пенроуза - Рис.14</font>
+<dd>&nbsp;&nbsp; <b><img src="/img/u/utkin_w_m/penrosestairs2-1/penrosestairs2-1-13.png" width="509" height="176" alt="0x01 graphic" ><br></b><font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">Запуск схемы можно осуществлять, например, путем первоначального заряда конденсатора </font><font color="Black">- C</font><font color="Black">, энергия которого затем преобразуется в энергию магнитного поля.</font>
+<dd>&nbsp;&nbsp; <font color="Black">С учетом сделанных ранее замечаний (для вентильного реактивного двигателя), схема Рис.14 может принять следующий вид - Рис.15.</font>
+<dd>&nbsp;&nbsp; <font color="Black">При этом, направление вращения двигателя постоянного или переменного напряжения на Рис.15 должно быть противоположным направлению вращения вентильного реактивного двигателя. Таким образом, ферромагнетик </font><font color="Black">"</font><font color="Black">вытаскивается</font><font color="Black">"</font><font color="Black"> на более высокий уровень потенциальной энергии, а подводимая энергия уничтожается. Сама энергия магнитного поля внутри вентильного реактивного двигателя остаётся неизменной.</font>
+<dd>&nbsp;&nbsp; <b><img src="/img/u/utkin_w_m/penrosestairs2-1/penrosestairs2-1-14.png" height="167" alt="0x01 graphic" width="528" ><br></b><font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">Никакого увеличения энергии первоначально заряженного конденсатора обнаружить </font><font color="Black">"</font><font color="Black">стороннему наблюдателю</font><font color="Black">"</font><font color="Black"> не удастся. То есть, он не сможет определить поступает энергия в систему или нет, так как средняя энергия на конденсаторе будет оставаться неизменной.</font>
+<dd>&nbsp;&nbsp; <font color="Black">При этом термин "уничтожение энергии" выбран именно потому, что затрачиваемая энергия не будет преобразовываться в какой-то иной вид энергии</font><font color="Black"> c </font><font color="Black">точки зрения </font><font color="Black">"</font><font color="Black">стороннего наблюдателя</font><font color="Black">"</font><font color="Black">. Для </font><font color="Black">"</font><font color="Black">стороннего наблюдателя</font><font color="Black">"</font><font color="Black"> она будет исчезать бесследно. В тоже время </font><font color="Black">"</font><font color="Black">внутренний наблюдатель</font><font color="Black">"</font><font color="Black"> будет констатировать, что в систему постоянно прибывает энергия.</font>
+<dd>&nbsp;&nbsp; <font color="Black">	Таким образом, генерация и уничтожение энергии зависит от направления движения по лестнице Пенроуза. При движении в одну сторону энергия генерируется, при движении в обратную сторону уничтожается.</font>
+<dd>&nbsp;&nbsp; <font color="Black">	Следует заметить, что практическая ценность уничтожения энергии не менее важна, чем практическая ценность генерации энергии.</font>
+<dd>&nbsp;&nbsp; <font color="Black">	Например, когда требуется охладить некий объект, а сбрасывать тепло некуда. В этом случае может помочь уничтожение энергии. Тепло объекта преобразуем в электричество, которое крутит электродвигатели в уничтожителе энергии. Нагретое тело как бы остывает само собой, без нагревания окружающей среды.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black"><b>ЗАКОН СОХРАНЕНИЯ ЭНЕРГИИ</b></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">	Мы показали, что в потенциально реализуемой лестнице Пенроуза сторонний наблюдатель не сможет сказать, генерируется энергия или уничтожается. Для него генерация или уничтожение энергии не наблюдается.</font>
+<dd>&nbsp;&nbsp; <font color="Black">	В тоже время для внутреннего наблюдателя будет проявляться генерирование или уничтожение энергии в зависимости от направления движения по лестнице. Причем, эта энергия будет реальной.</font>
+<dd>&nbsp;&nbsp; <font color="Black">	Хотелось бы понять, как это согласуется с законом сохранения энергии.</font>
+<dd>&nbsp;&nbsp; <font color="Black">	Прежде всего, следует отметить, что у закона сохранения энергии, как и у любого физического закона, существует область применимости. Эту область применимости определяет теорема Эммы Нётер.</font>
+<dd>&nbsp;&nbsp; <font color="Black">Теорема от 1918 года математика Эммы Нётер утверждает, что каждой непрерывной симметрии физической системы соответствует некоторый закон сохранения:<br>            Симметрии времени соответствует закон сохранения энергии,<br>            Симметрии пространства соответствует закон сохранения импульса,<br>            Изотропии пространства соответствует закон сохранения момента импульса,<br>            Калибровочной симметрии соответствует закон сохранения электрического заряда и&nbsp;т.&nbsp;д.</font>
+<dd>&nbsp;&nbsp; <font color="Black">            То есть, первоначальна симметрия, а затем соответствующий закон сохранения. Если симметрии нет, то Вы находитесь за рамками применимости соответствующего закона сохранения. Таким образом, закон сохранения энергии нарушить принципиально нельзя, поскольку он является следствием, а не причиной. Однако, можно выйти за область его применимости, нарушив соответствующую симметрию.</font>
+<dd>&nbsp;&nbsp; <font color="Black">	Нас будет интересовать симметрия времени.</font>
+<dd>&nbsp;&nbsp; <font color="Black">	Симметрия времени означает инвариантность в выборе начала координат на оси времени. То есть, вы можете выбирать начало координат на оси времени произвольно, результат проведения эксперимента от этого не должен меняться, если не изменились другие условия.</font>
+<dd>&nbsp;&nbsp; <font color="Black">	А вот с неизменностью условий в потенциально реализуемой лестнице Пенроуза "не всё в порядке". На оси времени существуют точки "беззатратного перехода", когда слева от них тело обладает одной потенциальной энергией, а справа другой потенциальной энергией. То есть, слева и справа условия отличаются. Таким образом, говорить о том, что потенциально реализуемая лестница Пенроуза будет находиться в области применимости закона сохранения энергии нельзя. В тоже время </font><font color="Black">"</font><font color="Black">сторонний наблюдатель</font><font color="Black">"</font><font color="Black"> не сможет определить генерируется или уничтожается энергия в этом устройстве.</font>
+<dd>&nbsp;&nbsp; <font color="Black">	Однако, для начала работы устройства в него придётся закачать некую начальную энергию (зарядить конденсатор). Только эту энергию и сможет наблюдать сторонний наблюдатель.</font>
+<dd>&nbsp;&nbsp; <font color="Black">Полученные результаты не противоречат закону сохранения энергии, поскольку находятся за областью его применимости, которую теорема Эмми Нётер определяет как инвариантность в выборе начала координат на оси времени (симметрия времени). Для рассмотренного потенциально реализуемого устройства это условие не выполняется, поскольку в нём используются беззатратные скачки, приводящие к восстановлению потенциальной энергии тела. Слева и справа от скачков условия различны.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black"><b>ЗАКЛЮЧЕНИЕ</b></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">Показана принципиальная реализуемость лестницы Пенроуза на основе механического перемещения тел в магнитном поле. В результате чего энергия магнитного поля не изменяется, а изменяется потенциальная энергия взаимного расположения взаимодействующих тел.</font>
+<dd>&nbsp;&nbsp; <font color="Black">Само формирование потенциальной энергии магнитного поля наглядно проиллюстрировано на основе искривления окружающего пространства. Показано, что формирование потенциальной энергии не требует дополнительных затрат энергии самого магнитного поля.</font>
+<dd>&nbsp;&nbsp; <font color="Black">Работа против магнитного поля (увеличение потенциальной энергии) становится эквивалентом подъёма по лестнице Пенроуза. Работа самого магнитного поля (уменьшение потенциальной энергии) становится эквивалентом спуска по лестнице Пенроуза.</font>
+<dd>&nbsp;&nbsp; <font color="Black">	Показано, что после </font><font color="Black">"</font><font color="Black">подъёма</font><font color="Black">" </font><font color="Black">или </font><font color="Black">"</font><font color="Black">спуска</font><font color="Black">" </font><font color="Black">по лестнице Пенроуза возможен беззатратный возврат в начало пути. То есть, возврат к первоначальному значению потенциальной энергии. После чего, движение по лестнице Пенроуза можно повторять по циклу.</font>
+<dd>&nbsp;&nbsp; <font color="Black">	В качестве взаимодействующих тел выбраны</font><font color="Black">:</font><font color="Black"> катушка с током и ферромагнетик, перемещающийся в поле катушки, поскольку в результате такого взаимодействия не изменяется энергия результирующего магнитного поля.</font>
+<dd>&nbsp;&nbsp; <font color="Black">	Показано, что в качестве беззатратного возврата (скачка) в начало пути можно использовать перемещение положения магнитного поля относительно ферромагнетика, путём </font><font color="Black">"</font><font color="Black">перекачивания</font><font color="Black">"</font><font color="Black"> тока из одной катушки в другую (через промежуточный заряд конденсатора).</font>
+<dd>&nbsp;&nbsp; <font color="Black">	Следствием реализуемости лестницы Пенроуза является возможность генерации и уничтожения энергии. Под генерацией и уничтожением энергии понимается именно возникновение "ниоткуда" и исчезновение в "никуда", а не преобразование одних видов энергии в другую энергию. Что соответствует бесконечному спуску  и бесконечному подъему по лестнице Пенроуза, соответственно.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">Генерация или уничтожение энергии проявляется только для </font><font color="Black">"</font><font color="Black">внутреннего наблюдателя</font><font color="Black">"</font><font color="Black">. </font>
+<dd>&nbsp;&nbsp; <font color="Black">	В тоже время подтверждена ещё раз справедливость утверждения о том, что работа, совершаемая телом при движении по замкнутой траектории в потенциальном поле равна нулю. То есть, </font><font color="Black">"</font><font color="Black">внешний наблюдатель не сможет определить наличие генерации или уничтожения энергии в описываемом устройстве.</font>
+<dd>&nbsp;&nbsp; <font color="Black">	Полученные результаты не противоречат закону сохранения энергии, поскольку находятся за областью его применимости, которую теорема Эмми Нётер определяет как инвариантность в выборе начала координат на оси времени (симметрия времени). Для рассмотренного потенциально реализуемого устройства это условие не выполняется, поскольку в нём используются беззатратные скачки, приводящие к восстановлению потенциальной энергии тела. Слева и справа от скачков условия различны.</font>
+<dd>&nbsp;&nbsp; <font color="Black">В описанном устройстве для начала его работы необходимо закачать некую начальную энергию (зарядить конденсатор). Только эти затраты энергии и сможет наблюдать сторонний наблюдатель.</font>
+<dd>&nbsp;&nbsp; <font color="Black">Все рассуждения основаны на том, что при введении ферромагнетика в катушку с током энергия магнитного поля не изменяется. Если энергия будет меняться, то все рассуждения не верны.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black"><b>ЛИТЕРАТУРА</b></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">1.</font>
+<dd>&nbsp;&nbsp; <font color="Black">2.</font>
+<dd>&nbsp;&nbsp; <font color="Black">3.</font>
+<div align="center" >
+<p >
+<font color="Black"><b>ИЗВЕСТНЫЕ УСТРОЙСТВА</b></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black">	</font>
+<dd>&nbsp;&nbsp; <font color="Black">Устройством, основанным на изложенной выше теории, является вращательно -притягательный двигатель Линдемана - Рис.16.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/penrosestairs2-1/penrosestairs2-1-15.png" width="403" height="267" alt="0x01 graphic" ><br></font><font color="Black"></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black">Рис.16 Вращательно Притягательный - двигатель Линдемана.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">Или его модификация для одной батареи - Рис.17.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/penrosestairs2-1/penrosestairs2-1-16.png" width="403" height="267" alt="0x01 graphic" ><br></font><font color="Black"></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black">Рис.17 Модификация двигателя Линдемана для одной батареи</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">	Ещё одним устройством, основанным на изложенном подходе, следует считать электрическую моторную лодку Альфреда Хаббарда - Рис.18.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/penrosestairs2-1/penrosestairs2-1-17.jpg" height="417" alt="0x01 graphic" width="278" ><br></font><font color="Black"></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black">Рис.18 Электрическая моторная лодка Альфреда Хаббарда</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">	Сохранилось очень мало информации о данном устройстве с 1924 года. Использовать современные транзисторы и элементную базу Хаббард тогда не мог, поэтому всё было организовано на основе </font><font color="Black">"</font><font color="Black">автомобильного</font><font color="Black">"</font><font color="Black"> трамблёра, искры и  кучи проводов, которые можно виде на копии фотографии из старой газеты.</font>
+<dd>&nbsp;&nbsp; <font color="Black">	Исходная энергия поступала от аккумулятора, и после взаимодействия с ротором двигателя опять возвращалась в аккумулятор.</font>
+<dd>&nbsp;&nbsp; <font color="Black">	Какая схема использовалась, то есть с одним или двумя аккумуляторами, сейчас сказать достаточно сложно.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font><font color="Black"></font><font color="Black"></font><font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font><font color="Black"></font><font color="Black"></font><font color="Black">5</font><font color="Black"></font><font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<!--Section Ends-->
+
+
+
+
+
+
+
+
+<xxx7>
+
+</div>
+<!-- ----------------------------------------------- -->
+
+</dd><hr size=2 noshade>
+
+<table border=0 cellpadding=0 cellspacing=0><tr>
+
+<!-- -- Блок описания произведения (слева внизу) ----------- -->
+
+<td><small><ul>
+<li><A HREF="/cgi-bin/comment?COMMENT=u/utkin_w_m/penrosestairs2-1">Оставить комментарий</A>
+<li>&copy; Copyright <a href=/u/utkin_w_m/>Уткин Владимир Михайлович</a>
+ (<u>&#117&#46&#118&#64&#98&#107&#46&#114&#117</u>) 
+<li>Размещен: 10/09/2016, изменен: 10/09/2016. 49k. <a href=stat.shtml#penrosestairs2-1.shtml>Статистика.</a>
+<li><a href=/type/index_type_5-1.shtml>Статья</a>: <a href="/janr/index_janr_20-1.shtml">Естествознание</a>
+</ul></small>
+</td>
+<td valign=bottom align=right>
+
+<!-- ------------ Блочек голосования (оценка) нижний ------ -->
+
+<form action="/cgi-bin/votecounter" method=POST>
+<input type=hidden name=FILE value=penrosestairs2-1 >
+<input type=hidden name=DIR value=u/utkin_w_m >
+
+ <!-- 1 
+
+Оценка: <b>*1</b>
+
+ 1 -->
+&nbsp;<font size="-1">Ваша оценка: <select name=BALL><br>
+<option value="1">не читать</option>
+<option value="2">очень плохо</option>
+<option value="3">плохо</option>
+<option value="4">посредственно</option>
+<option value="5">терпимо</option>
+<option value="0" selected>не читал</option>
+<option value="6">нормально</option>
+<option value="7">хорошая книга</option>
+<option value="8">отличная книга</option>
+<option value="9">великолепно</option>
+<option value="10">шедевр</option>
+</select>
+<input type=submit name="OK" value="ОК"></font>
+
+</form>
+
+<!-- ----------------------------------------------- -->
+
+</td></tr></table>
+
+<hr size=2 noshade>
+<!-- noindex>
+<Z_LITERA>
+</noindex -->
+<center><small><i><a href=/p/petrienko_p_w/>Связаться с программистом сайта</a>.</i></small></center>
+
+<noindex><b>
+
+<!-- 
+2019: 28.05 x , 01.09 x, 04.12 x
+2020: 28.02 4 , 04.06 3, 07.09 3
+2021: 07.02 3 , 31.07 1, 26.11 3
+2024: 19.03 2
+-->
+
+<p><font size="2">Новые книги авторов СИ, вышедшие из печати:<br>
+
+<!-- 10.03.2024 -->
+О.Болдырева&nbsp;<a href=/b/boldyrewa_o_m/kradysh.shtml>"Крадуш. Чужие души"</a>
+М.Николаев&nbsp;<a href=/n/nikolaew_m_p/invasion.shtml>"Вторжение на Землю"</a>
+
+<center><i><small><a href=/d/denisowa_e/1.shtml>Как попасть в этoт список</a></small></i></center>
+
+</font>
+</b></noindex>
+<p>
+<div align=center>
+<a href=https://leather-time.ru>Кожевенное мастерство</a> |
+Сайт <a href=http://www.artlib.ru>"Художники"</a> |
+<a href=http://www.recself.ru/?id=2025&idr=0>Доска об'явлений "Книги"</a></div>
+<p align="right"></p>
+<noindex><!--TopList COUNTER--><img height=1 width=1src="https://top.list.ru/counter?id=77427"alt=""><!--TopList COUNTER--></noindex>
+</body>
+</html>

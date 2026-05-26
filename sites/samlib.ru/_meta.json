@@ -1,0 +1,16 @@
+{
+  "source": "live",
+  "domain": "samlib.ru",
+  "mirror_date": "2026-05-26T15:00:00.072129",
+  "total_urls": 0,
+  "downloaded": 550,
+  "failed": 0,
+  "files": 550,
+  "file_types": {
+    ".log": 1,
+    ".shtml": 52,
+    ".jpg": 208,
+    ".png": 288,
+    ".html": 1
+  }
+}
