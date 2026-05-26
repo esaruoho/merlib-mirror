@@ -225,17 +225,30 @@ process_job_file() {
 
   log "Running: python3 $MIRROR_PY ${mirror_args[*]}"
 
-  # Run mirror.py — log errors but still mark as done
+  # Run mirror.py. Pipe through tee but capture mirror.py's exit code
+  # (not tee's) so a crash/SIGKILL of the crawler is detected.
   local site_dir="$output_dir/$domain"
   local exit_code=0
+  set -o pipefail
   python3 "$MIRROR_PY" "${mirror_args[@]}" 2>&1 | tee "$site_dir/_mirror_worker.log" 2>/dev/null || exit_code=$?
+  set +o pipefail
 
   if [[ "$exit_code" -ne 0 ]]; then
-    log "WARNING: mirror.py exited with code $exit_code for $domain (logged to error.log)"
+    log "FAILED: mirror.py exited with code $exit_code for $domain (137 = SIGKILL, likely OOM or external kill)"
+    mkdir -p "$site_dir" 2>/dev/null || true
     echo "$(date -u +%Y-%m-%dT%H:%M:%SZ) mirror.py exit code $exit_code" >> "$site_dir/error.log"
+    # Move job to failed/, NOT done/. Crashed jobs aren't successes; calling
+    # them done loses the signal that we should retry or look at them.
+    mkdir -p "$FAILED_DIR"
+    mv "$PROCESSING_DIR/$filename" "$FAILED_DIR/$filename"
+    log "Moved $filename to failed/ (exit $exit_code)"
+    # No commit on failure — don't push partial garbage to the repo.
+    log "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+    echo ""
+    return 0
   fi
 
-  # Always move to done — partial mirrors are still valuable
+  # Success path — move to done and commit
   mv "$PROCESSING_DIR/$filename" "$DONE_DIR/$filename"
 
   # Commit and push — unless offline mode
