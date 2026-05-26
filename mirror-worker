@@ -40,7 +40,48 @@ idle() { [[ "${VERBOSE:-}" == "1" ]] && log "$*" || true; }
 PIDFILE="$REPO_DIR/.worker.pid"
 echo $$ > "$PIDFILE"
 
-cleanup() { rm -f "$PIDFILE"; }
+# Heartbeat path — Syncthing carries this to the laptop, where
+# merlib-mirror-status.sh reads it without SSH. Mirrors the pattern of
+# ocr-heartbeat / whisp-heartbeat / voicebox-heartbeat.
+HEARTBEAT_FILE="$HOME/work/comms/queue/merlib-mirror-heartbeat.json"
+mkdir -p "$(dirname "$HEARTBEAT_FILE")" 2>/dev/null || true
+
+# Counts each queue dir's .job files (excludes .gitkeep) and writes a
+# fresh heartbeat JSON. Atomic via tmp+rename so the laptop never reads
+# a half-written file. Pass current-job fields when processing; pass
+# empty strings when idle/between.
+write_heartbeat() {
+  local status="$1"
+  local target="${2:-}" mode="${3:-}" path_filter="${4:-}" domain="${5:-}" started="${6:-}"
+  local pending processing done_ failed_
+  pending=$(find "$PENDING_DIR" -maxdepth 1 -name '*.job' 2>/dev/null | wc -l | tr -d ' ')
+  processing=$(find "$PROCESSING_DIR" -maxdepth 1 -name '*.job' 2>/dev/null | wc -l | tr -d ' ')
+  done_=$(find "$DONE_DIR" -maxdepth 1 -name '*.job' 2>/dev/null | wc -l | tr -d ' ')
+  failed_=$(find "$FAILED_DIR" -maxdepth 1 -name '*.job' 2>/dev/null | wc -l | tr -d ' ')
+  local tmp="${HEARTBEAT_FILE}.tmp"
+  cat > "$tmp" <<EOF
+{
+  "ts": $(date +%s),
+  "ts_iso": "$(date -u +%Y-%m-%dT%H:%M:%SZ)",
+  "status": "$status",
+  "worker_pid": $$,
+  "queue": {"pending": $pending, "processing": $processing, "done": $done_, "failed": $failed_},
+  "current": {"target": "$target", "domain": "$domain", "mode": "$mode", "path_filter": "$path_filter", "started_at": "$started"}
+}
+EOF
+  mv "$tmp" "$HEARTBEAT_FILE"
+}
+
+# Wipe progress file too, in case the previous worker died mid-crawl and
+# left a stale snapshot. mirror.py rewrites it as soon as a crawl starts.
+PROGRESS_FILE="$HOME/work/comms/queue/merlib-mirror-progress.json"
+
+cleanup() {
+  rm -f "$PIDFILE"
+  # On clean exit, write a final "stopped" heartbeat so the laptop status
+  # pane shows accurate state instead of a stale "processing" snapshot.
+  write_heartbeat "stopped" 2>/dev/null || true
+}
 trap cleanup EXIT
 trap 'log "Woken by signal"' USR1
 
@@ -177,6 +218,10 @@ process_job_file() {
   # Move to processing
   mv "$job_file" "$PROCESSING_DIR/$filename"
 
+  # Tell the status pane on the laptop what we're working on now. Atomic
+  # write so a reader never sees a half-built file.
+  write_heartbeat "processing" "$target" "$mode" "$path_filter" "$domain" "$(date -u +%Y-%m-%dT%H:%M:%SZ)"
+
   # Choose output directory: offline/ for offline jobs, sites/ for normal
   local output_dir="$SITES_DIR"
   if [[ "$offline" == "true" ]]; then
@@ -233,6 +278,11 @@ process_job_file() {
   python3 "$MIRROR_PY" "${mirror_args[@]}" 2>&1 | tee "$site_dir/_mirror_worker.log" 2>/dev/null || exit_code=$?
   set +o pipefail
 
+  # Job is over (success or failure) — wipe the per-job progress snapshot
+  # so the status pane doesn't show a stuck "in-flight" forever. The
+  # heartbeat envelope below will reflect between_jobs/failed/done state.
+  rm -f "$PROGRESS_FILE" 2>/dev/null || true
+
   if [[ "$exit_code" -ne 0 ]]; then
     log "FAILED: mirror.py exited with code $exit_code for $domain (137 = SIGKILL, likely OOM or external kill)"
     mkdir -p "$site_dir" 2>/dev/null || true
@@ -287,6 +337,7 @@ log "Output: $SITES_DIR"
 
 recover_processing
 sync_repo
+write_heartbeat "starting"
 
 while true; do
   # Pick the oldest pending .job file (FIFO by filename = unix timestamp)
@@ -302,6 +353,7 @@ while true; do
       log "Waiting for mirror requests..."
       SHOWED_IDLE=1
     fi
+    write_heartbeat "idle"
     sleep "$POLL_IDLE"
     sync_repo
     continue
@@ -311,6 +363,7 @@ while true; do
   SHOWED_IDLE=""
 
   process_job_file "$next_file" || true
+  write_heartbeat "between_jobs"
 
   if [[ "$RUN_ONCE" == true ]]; then
     log "Single job mode (--once). Exiting."

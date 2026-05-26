@@ -62,6 +62,39 @@ VERSION = "1.0.0"
 
 USER_AGENT = f"mirror.py/{VERSION} (https://github.com/esaruoho/merlib-dump)"
 
+# Progress snapshot path — mirror-worker reads / clears this. Syncthing
+# carries it to the laptop for merlib-mirror-status.sh. Same shape as
+# ocr-heartbeat / whisp-heartbeat: ts + ts_iso + counters + current URL.
+PROGRESS_FILE = os.path.expanduser("~/work/comms/queue/merlib-mirror-progress.json")
+PROGRESS_INTERVAL = 20  # write every N URLs visited (cheap, ~one disk write per ~20s)
+
+
+def write_progress_snapshot(domain, target, mode, visited, ok, queued, last_url, path_filter=None):
+    """Atomic write of a small JSON status file for the laptop's status pane.
+    Failure (disk full, permission, etc.) must never crash the crawler — we
+    swallow exceptions silently."""
+    import datetime
+    try:
+        payload = {
+            "ts": int(time.time()),
+            "ts_iso": datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),
+            "domain": domain,
+            "target": target,
+            "mode": mode,
+            "path_filter": path_filter or "",
+            "urls_visited": visited,
+            "urls_ok": ok,
+            "urls_queued": queued,
+            "last_url": last_url or "",
+        }
+        os.makedirs(os.path.dirname(PROGRESS_FILE), exist_ok=True)
+        tmp = PROGRESS_FILE + ".tmp"
+        with open(tmp, "w") as f:
+            json.dump(payload, f)
+        os.replace(tmp, PROGRESS_FILE)
+    except Exception:
+        pass
+
 # Wayback toolbar stripping patterns (from mirror_tesla_hu.py)
 WAYBACK_STRIP_PATTERNS = [
     (r'<!-- BEGIN WAYBACK TOOLBAR INSERT -->.*?<!-- END WAYBACK TOOLBAR INSERT -->', re.DOTALL),
@@ -1113,6 +1146,13 @@ def run_live(url, seeds_file=None, delay=None, max_pages=None, output_base=None,
         label = f"d{depth}" if not under_seed else f"d{depth}*"
         if downloaded_count % 5 == 0 or downloaded_count <= 10:
             log(f"  [{downloaded_count} {label}] {page_url}  ({ok_count} OK, {len(queue)} queued)")
+
+        # Update the laptop-side status snapshot on a slightly slower cadence
+        # than the log (one write per ~PROGRESS_INTERVAL URLs).
+        if downloaded_count % PROGRESS_INTERVAL == 0:
+            write_progress_snapshot(domain, url, "live",
+                                    downloaded_count, ok_count, len(queue),
+                                    page_url, path_filter=path_filter)
 
         # Extract links from HTML pages
         is_html = (ct and 'html' in ct.lower()) or (not ct and not os.path.splitext(
