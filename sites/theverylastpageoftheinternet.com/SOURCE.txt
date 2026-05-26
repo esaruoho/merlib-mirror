@@ -1,0 +1,4 @@
+target: https://web.archive.org/web/20080220175136fw_/http://www.theverylastpageoftheinternet.com/menu/mainold.htm
+mode: wayback
+path_filter: /menu/mainold.htm
+mirror_date: 2026-04-20T07:31:14Z
