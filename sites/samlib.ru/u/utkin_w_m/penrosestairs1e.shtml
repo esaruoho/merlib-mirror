@@ -1,0 +1,538 @@
+<html>
+<head>
+	<title>Уткин Владимир Михайлович. Realizability of the Penrose stairs. Part 1. Mechanics</title>
+</head>
+
+<body bgcolor="#E9E9E9">
+
+<center>
+
+<h2><small><a href=/u/utkin_w_m/>Уткин Владимир Михайлович</a></small><br>
+Realizability of the Penrose stairs. Part 1. Mechanics</h2>
+
+<small>
+<!-- ----- Первый блок ссылок ----------- -->
+<a href=/><font color="#555555"><b>Самиздат:</b></font></a>
+<!-- ---------- Кнопка регистрации ------ -->
+
+
+[<A HREF="/cgi-bin/login">Регистрация</A>]
+ 
+
+[<a href=/cgi-bin/seek>Найти</a>] 
+[<a href=/rating/expert/>Рейтинги</a>]
+[<a href=/rating/comment/>Обсуждения</a>]
+[<a href=/long.shtml>Новинки</a>]
+[<a href=/janr/index_janr_time23-1.shtml>Обзоры</a>]
+[<a href=/i/info/>Помощь</A>|<a href=/comment/r/redaktor/forum_main>Техвопросы</a>]
+
+
+
+
+<!--  Кнопка редактирования произведения  -->
+</small>
+
+<table width=98%><tr><td>   <table width=96% style="display: block !important"><tr>
+
+<td>Ссылки:</td>
+
+<td><script>(function (w, d, s) { var t = d.getElementsByTagName(s)[0], j = d.createElement(s); j.async = true; j.charset="utf-8"; var dt = new Date(); j.src = 'https://offfy.com/domain/moshkow/general.js?'+dt.getFullYear()+''+dt.getMonth()+''+dt.getDate()+''+dt.getHours(); t.parentNode.insertBefore(j, t); })(window, document, 'script');</script></td>
+
+<td> </td><td width=33%><hr noshade></td><td> </td>
+
+<td><style>#author_today_btn{display: block;min-width: 250px;text-align: center;background: #4582af; color: #fff; font-family: Arial; padding: 4px 8px; font-size: 12px; font-weight: bold; border-radius: 4px;text-decoration: none;}#author_today_btn:hover{background: #5cb85c;}</style>
+<nobr><a href="https://leather-time.ru" target="_blank" id="author_today_btn">Школа кожевенного мастерства: сумки, ремни своими руками</a></nobr></td>
+
+<td><style>#soiuz48{display:block; text-align:center; background:#25aa00; color:#ffffff; font-family: Arial; padding: 4px 10px; font-weight:bold; border-radius:4px;} #soiuz48:hover{background:#f02c22;} #soiuz48 a {text-decoration:none; color:#ffffff;} #soiuz48:hover u {color:yellow;} </style> <span id="soiuz48"><nobr><a href="https://xn-----6kccid8acl5ahhfdesjvr2ah5mpd.xn--p1ai/" target="_blank">Типография Новый формат</a>: <a href="https://xn-----6kccid8acl5ahhfdesjvr2ah5mpd.xn--p1ai/" target="_blank"><u>Издать свою книгу</u></a></nobr></span></td>
+
+
+<!--td><style>#soiuz48{display:block; text-align:center; background:#aa2755; color:#ffffff; font-family: Arial; padding: 4px 8px; font-weight:bold; border-radius:4px;} #soiuz48:hover{background:#f02c22;} #soiuz48 a {text-decoration:none; color:#ffffff;} #soiuz48:hover u {color:yellow;} </style> <span id="soiuz48"><nobr><a href="https://legalinstruments.ru" target="_blank">Юридические услуги. <u>Круглосуточно</u></a></nobr></span></td-->
+
+<td> </td><td width=33%><hr noshade></td><td> </td>
+
+
+</tr></table>   </td></tr></table>
+
+
+<table width=90% border=0 cellpadding=0 cellspacing=0><tr>
+
+<!-- -- Блок описания произведения (слева вверху) --------------------- -->
+
+<td>
+<small><ul>
+<li><A HREF="/cgi-bin/comment?COMMENT=u/utkin_w_m/penrosestairs1e">Оставить комментарий</A>
+<li>&copy; Copyright <a href=/u/utkin_w_m/>Уткин Владимир Михайлович</a>
+ (<u>&#117&#46&#118&#64&#98&#107&#46&#114&#117</u>) 
+<li>Размещен: 10/09/2016, изменен: 10/09/2016. 27k. <a href=stat.shtml#penrosestairs1e.shtml>Статистика.</a>
+<li><a href=/type/index_type_5-1.shtml>Статья</a>: <a href="/janr/index_janr_20-1.shtml">Естествознание</a>
+<li><a href=/img/u/utkin_w_m/penrosestairs1e/index.shtml>Иллюстрации/приложения: 7 шт.</a>
+<li>Скачать <a href="/img/u/utkin_w_m/utkin_w_m--penrosestairs1e.fb2.zip">FB2</a>
+</ul></small>
+</td>
+<td valign=top>
+
+<!-- -------- Кнопка вызова Лингвоанализатора ------ -->
+<!-- Z_LA -->
+<!-- Z_RE -->
+<!-- -------- Кнопка вызова репетитора ------------- -->
+
+</td>
+<td valign=bottom align=right>
+
+<!-- ---------- Блочек голосования (оценка) верхний -->
+
+<form action="/cgi-bin/votecounter" method=POST>
+<input type=hidden name=FILE value=penrosestairs1e >
+<input type=hidden name=DIR value=u/utkin_w_m >
+
+ <!-- 1 
+
+Оценка: <b>*1</b>
+
+ 1 -->
+&nbsp;<font size="-1">Ваша оценка: <select name=BALL><br>
+<option value="1">не читать</option>
+<option value="2">очень плохо</option>
+<option value="3">плохо</option>
+<option value="4">посредственно</option>
+<option value="5">терпимо</option>
+<option value="0" selected>не читал</option>
+<option value="6">нормально</option>
+<option value="7">хорошая книга</option>
+<option value="8">отличная книга</option>
+<option value="9">великолепно</option>
+<option value="10">шедевр</option>
+</select>
+<input type=submit name="OK" value="ОК"></font>
+
+</form>
+
+<!-- ---------------------------------------------- -->
+
+</td></tr>
+<tr><td valign=top colspan=3>
+<ul><small><li></small><b>Аннотация:</b><br><font color="#555555"><i>Researching of the renewable potential energy. Energy generation and destruction based on it. The law of the energy consevation and the renewable potential energy application.</i></font></ul>
+</td></tr></table>
+
+</center>
+<hr size=2 noshade>
+
+<!-- --------- Собственно произведение ------------- -->
+
+
+<div align=justify>
+ 
+ 
+<xxx7>
+
+<!--Section Begins--><br>
+<div align="center" >
+<p >
+<b>THE REALIZABILITY OF THE PENROSE STAIRS</b>
+</p>
+</div>
+<div align="center" >
+<p >
+(losses less transitions and results) 
+</p>
+</div>
+<div align="center" >
+<p >
+Vladimir Utkin <a href="mailto:u.v@bk.ru">u.v@bk.ru</a>
+</p>
+</div>
+<div align="center" >
+<p >
+PART 1
+</p>
+</div>
+<div align="center" >
+<p >
+(MECHANICS)
+</p>
+</div>
+<div align="center" >
+<p >
+<b>INTRODUCTION</b>
+</p>
+</div>
+<dd>&nbsp;&nbsp;  	The Penrose Stairs is a design of stairs, for which, in the case of moving on it in one direction (for Fig. 1   anti - clockwise), person would unlimited rise, and while moving backwards, would continuously descend. After completing visual route, a person shall be at the same point from which his movement started. The existence of the stairs in the real world is considered impossible to believe. That is an example of the classic optical illusion. 
+<div align="center" >
+<p >
+<img src="/img/u/utkin_w_m/penrosestairs1e/penrosestairs1e-1.png" width="290" alt="0x01 graphic" height="221" ><br>
+</p>
+</div>
+<dd>&nbsp;&nbsp; Fig. 1 The Penrose Stairs
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; In spite of that, we shell try to create a structure, in which ideas of optical illusion become practically possible. To this end, we shall do: 
+<dd>&nbsp;&nbsp; 1. Movement on stairs ("up" or "down") 
+<dd>&nbsp;&nbsp; 2. Return to the origin position ("without energy losses transition") 
+<dd>&nbsp;&nbsp; To solve the problem, choose the way that can be called as "rotating a stone on a rope". In this case, we assume that the conditions a little bit idealized, meaning that "a 'stone" is a material point, and "a rope" - a weightless thread without deformation. 
+<dd>&nbsp;&nbsp;   
+<div align="center" >
+<p >
+<b>GENERAL</b><b> APPROACH</b>
+</p>
+</div>
+<dd>&nbsp;&nbsp; We start with "without energy losses transition", because at first glance, this seems the most difficalt. It is known that the concept of energy strictly refers to the coordinate system in which this energy can be observed. When moving from one inertial coordinate system to another, you need to expend energy equal to the difference in observable terms. If the observed energy in different coordinate systems are equal, then the waste energy when passing from one coordinate system to another, apparently, is not required. But, for non - inertial? 
+<dd>&nbsp;&nbsp;  	Consider a body with mass m1, moving in a circle of radius R1 with linear velocity V1 relative to some origin point O1 - Fig. 2a.
+<dd>&nbsp;&nbsp; <img src="/img/u/utkin_w_m/penrosestairs1e/penrosestairs1e-2.png" width="480" height="252" alt="0x01 graphic" ><br>
+<dd>&nbsp;&nbsp; Fig. 2 Losses less transition from rotary (a) to rectilinear motion (b).
+<dd>&nbsp;&nbsp; At some point in time on which weightless thread enshrined body is ripped (we want so), and a body from rotational movement moves to the rectilinear motion - Fig. 2b. 
+<dd>&nbsp;&nbsp;  	The energy of the body hasn't changed, changed the trajectory of his movement. 
+<dd>&nbsp;&nbsp;  From rotary motion, we moved to the rectilinear motion, without spending energy. 
+<dd>&nbsp;&nbsp;  All these arguments are almost obvious, indeed with such a "device" many experienced in practice, promoting stone on a rope and releasing him, a device is known since ancient times as the "Sling".
+<dd>&nbsp;&nbsp; It is not difficult to guess, there is a back option, there is a transition from rectilinear motion to rotational motion. For this purpose it is necessary to provide an ability for  thread "to embrace" the moving in a straight line body. What can it give? 
+<dd>&nbsp;&nbsp;  
+<dd>&nbsp;&nbsp;  	We'll talk further, and realize losses less transition between two rotary movements with equal kinetic energies, but with different centrifugal forces - Fig 3. The first - around point - O1, the second - around point O2. Linear speed V1 will match, but rotational radius R2 will differ from the rotational radius R1 to the bigger side - Fig. 3 (a), or to the smaller side - Fig. 3 (b). 
+<dd>&nbsp;&nbsp; <img src="/img/u/utkin_w_m/penrosestairs1e/penrosestairs1e-3.png" width="452" height="448" alt="0x01 graphic" ><br>
+<dd>&nbsp;&nbsp; Fig. 3 Losses less transitions (jumps) between rotational movements with reducing centrifugal force - figure (a), and with the increasing centrifugal force - figure (b). Jumps "up" and "down", respectively.
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; However, the centrifugal force is observed only in rotational non - inertial coordinate system. Thus, trying to talk about the magnitude of the centrifugal force, we have to assess it in different non-inertial coordinate systems. In the inertial system coordinates the centrifugal force is absent. 
+<dd>&nbsp;&nbsp;  	In other words, we made losses less transition (jump) from one non - inertial coordinate system to another non - inertial coordinate system with the change of the magnitude of the centrifugal force (in either direction), while maintaining the kinetic energy of rotation. 
+<dd>&nbsp;&nbsp; We believe, the transition from low to high centrifugal force corresponds to jump "up" on the Penrose stairs - Fig. 3 (b), and the transition from more to less centrifugal force to jump "down" - Fig. 3 (a). 
+<dd>&nbsp;&nbsp; The magnitude of the centrifugal force acts as the counterpart of the potential energy in the Penrose stairs, a large centrifugal force is a big potential energy, a less centrifugal force - less potential energy. 
+<dd>&nbsp;&nbsp;  Next proceed to launch the movement for Penrose stairs "up" or "down", i.e. in the direction of greater or lesser centrifugal force (potential energy).  
+<dd>&nbsp;&nbsp;  	For this, "a stone on a rope" will gradually pull or release. As a result of it, the trajectory of motion of the body will look like - Fig. 4. 
+<dd>&nbsp;&nbsp; <img src="/img/u/utkin_w_m/penrosestairs1e/penrosestairs1e-4.png" width="517" height="176" alt="0x01 graphic" ><br>
+<dd>&nbsp;&nbsp; Fig. 4 Body's trajectory (without regard to O1 or O2) with a gradual release the thread - figure(a), and a gradual tightening the thread - figure(b). 
+<dd>&nbsp;&nbsp;  
+<dd>&nbsp;&nbsp;  	The speed V1of the circular movement of the body along a path will remain unchanged, which corresponds to the immutability of the kinetic energy.  And we know, from the classical physics, that the angular velocity will change in less - Fig. 4 (a), or in great side - Fig. 4 (b). 
+<dd>&nbsp;&nbsp;  If the velocity of circular motion (kinetic energy), will indeed remain unchanged all subsequent reasoning is correct, if not, then not. 
+<dd>&nbsp;&nbsp;  	That's all the preliminary discourse, which I would like to do, before to draw you a "potentially realizable" version of the Penrose stairs. 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<div align="center" >
+<p >
+<b>THE POTENTIALLY REALIZABLE VERSION OF THE PENROSE STAIRS</b>
+</p>
+</div>
+<dd>&nbsp;&nbsp;  
+<dd>&nbsp;&nbsp;  	 Our Penrose stairs will differ slightly from the original that will include two "range steps" instead of one (as in the original), and respectively two points of jumps (losses less transition) - Fig. 5.  The path for body's movement "up the Penrose stairs" - Fig. 5 (a), and the path for the body's movement "down the Penrose stairs" - Fig. 5 (b). The first method uses 
+<dd>&nbsp;&nbsp;  pulling threads for increasing centrifugal force (moving "up"), with the subsequent jump "down" - Fig. 5 (a). 
+<dd>&nbsp;&nbsp; In the second case, you release thread to reduce the centrifugal force (moving "down"), followed by jump "up" - Fig. 5 (b). 
+<dd>&nbsp;&nbsp;  	In the first and the second cases, moving is on closed path, the body returns to its original position after passing across the trajectory. 
+<dd>&nbsp;&nbsp;  	In other words, the options are different in direction of going along path. When crawling in one direction is happening the endless rise on the Penrose stairs, crawling in the opposite direction occurs an infinite descent on Penrose stairs. 
+<dd>&nbsp;&nbsp;  	
+<dd>&nbsp;&nbsp; Grounding signs mean fixing the origin of O1 and O2. 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; <img src="/img/u/utkin_w_m/penrosestairs1e/penrosestairs1e-5.png" height="490" alt="0x01 graphic" width="531" ><br>
+<dd>&nbsp;&nbsp; Fig. 5 Potentially realizable version of the Penrose stairs, when moving "upstairs on Penrose stairs" - figure (A), and when moving "downstairs on Penrose stairs" - figure (B). Both figures in inertial coordinate system. 
+<dd>&nbsp;&nbsp;  
+<dd>&nbsp;&nbsp;  	For the practical realization one needs to resolve technical problems related to the methods of implementation of pull-ups and releasing threads, as well as methods of realization losses less jumps ("rip" and "gluing" the thread). In addition, the need to solve the problem of maintaining the speed of motion of a body on a trajectory that would seek to diminish due to losses of all kinds. However, this is a completely different subject, deal with that at the moment we won't, but let's go to the Penrose stairs feasibility investigations. 
+<dd>&nbsp;&nbsp; But before you go to the Penrose stairs effects, would have noticed "mystical similarity" trajectories of body's movement and infinity sign taken in mathematics, especially when the trajectory is made up of one circle in each coordinate system. However, let's turn to the consequences. 
+<dd>&nbsp;&nbsp;   
+<dd>&nbsp;&nbsp;  
+<div align="center" >
+<p >
+<b>ENERGY GENERATION</b>
+</p>
+</div>
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; Infinite descent on Penrose stairs should lead to an infinite process of generating energy. 
+<dd>&nbsp;&nbsp;  	A ball, thrown on a stage, will endlessly roll down, converting the potential energy height of steps into the kinetic energy of motion. 
+<dd>&nbsp;&nbsp; The same should happen in our potentially realizable Penrose stairs. Release the thread should lead to the generation of the energy, because centrifugal force (boding force) will try to stretch these threads, you do not need to apply external efforts. 
+<dd>&nbsp;&nbsp; If the end of the thread to around the pulley of generator, unwinding the thread will spin power generator - Fig. 6, under the action of centrifugal force (bonding force). 
+<dd>&nbsp;&nbsp; <img src="/img/u/utkin_w_m/penrosestairs1e/penrosestairs1e-6.png" width="345" height="164" alt="0x01 graphic" ><br>
+<dd>&nbsp;&nbsp; Fig. 6 Infinite descent is the work of the centrifugal force (bonding force). 
+<dd>&nbsp;&nbsp;  
+<dd>&nbsp;&nbsp;  	In Fig. 6 two rotating coordinate system O1 and O2 are <b><u>conditionally</u></b> displayed at different heights, so arrows for jumps "up" were aimed in different directions, as a "fee" for this illustration visibility 
+<dd>&nbsp;&nbsp; To explain the infinite energy generation can be as follows. 
+<dd>&nbsp;&nbsp; After some energy will generate in the system O1, O1 thread breaks (point # 1) and a working body goes into the system O2, where energy generation procedure is repeating. 
+<dd>&nbsp;&nbsp;  After energy generation in O2, the thread breaks and the body returns to the O1 system (point # 2). Further procedure develops on a cycle, i.e. on the closed path. 
+<dd>&nbsp;&nbsp;  	This description is purely illustrative, because for infinite work of devices each generator must be stocked an infinite number of threads on pulleys (if we assume that every time a new thread is taken). 
+<dd>&nbsp;&nbsp; When this illustration Fig. 6 corresponds to rotating the non-inertial coordinate systems. In the inertial coordinate system - Fig. 5 (b), the <b><u>linear</u></b> velocity of the moving body at the beginning and the end of the trajectory does not change, and therefore any energy generation does not occur. That is, to an outside observer, body will move along a closed trajectory (the ball rolling around in the gutter without loss of relevant forms) and a third - party observer will not be able to say that the device generates energy. 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<div align="center" >
+<p >
+<b>ENERGY DESTRUCTION </b>
+</p>
+</div>
+<dd>&nbsp;&nbsp;             
+<dd>&nbsp;&nbsp; Endless climbing on the Penrose stairs should lead to infinite energy fee, a person going up the staircase raises his body higher and higher, spending its kinetic energy and translating it into potential energy height of steps. 
+<dd>&nbsp;&nbsp;  	The same should happen in our potentially realizable Penrose stairs. Pulling threads should lead to the costs of energy, because it will be performed a work connected with overcoming the centrifugal force (bonding force). 
+<dd>&nbsp;&nbsp;  If the thread end to attach to the motor pulley, then the elastic thread on the motor pulley will consume the real energy, overcoming the centrifugal force (bonding force) - Fig. 7. 
+<dd>&nbsp;&nbsp; <img src="/img/u/utkin_w_m/penrosestairs1e/penrosestairs1e-7.png" height="159" alt="0x01 graphic" width="300" ><br>
+<dd>&nbsp;&nbsp; Fig. 7 Endless rising - work against centrifugal force (bonding force). 
+<dd>&nbsp;&nbsp;  
+<dd>&nbsp;&nbsp;  	On Fig. 7 two rotating coordinate system O1 and O2 are <b><u>conditionally</u></b> displayed at different heights, so the arrows for jumps "down" were aimed in different directions, as a "fee" for this illustration visibility. 
+<dd>&nbsp;&nbsp; To explain the infinite energy consumption can be as follows. 
+<dd>&nbsp;&nbsp; After the O2 system will work against centrifugal force (bonding force), thread breaks in O2 system (point # 1) and a working body goes into system O1, where the procedure working against centrifugal force (bonding force) is repeating. 
+<dd>&nbsp;&nbsp;  	After carrying out a work against centrifugal force (bonding force) in O1, thread breaks in O1 and the body returns in O2 system (point # 2). Further procedure develops along the cycle. 
+<dd>&nbsp;&nbsp; Such a description is purely illustrative, because an infinite work such devices needs an infinite number of threads on pulleys each motor must be stocked (if we assume that every time a new thread is taken). 
+<dd>&nbsp;&nbsp;  	When this illustration - Fig. 7 corresponds    to non - inertial rotating system coordinate (like Fig. 6),  inertial system coordinates - Fig. 5 (a), the linear velocity of the moving body at the beginning and end of the trajectory does not change, and therefore no external energy consumption will not be able to detect. That is, for outside observer body will move evenly across the closed path (like a ball rolling around in the gutter without loss of relevant forms) and a third-party observer will not be able to tell that takes energy. 
+<dd>&nbsp;&nbsp;  
+<dd>&nbsp;&nbsp; The term "destruction" of energy selected precisely because the spent energy will not be convertible into any other type of energy in terms of external observer. For an external observer it will fade. 
+<dd>&nbsp;&nbsp; Thus, the generation and destruction of energy depends on the direction of movement on the Penrose stairs. When driving in one way energy is generated, when driving in the opposite direction is destroyed. 
+<dd>&nbsp;&nbsp; It should be noted, that the practical value of the destruction of energy is no less important than the practical value of energy generation. 
+<dd>&nbsp;&nbsp; For example, when you want to cool an object and reset the heat. In this case one can help destroying energy. Heat of the object transforms into electricity that turns the electric motors energy annihilator. Heated body cools itself, without heating the environment. 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<div align="center" >
+<p >
+<b>THE LAW OF THE CONSERVATION OF THE ENERGY</b>
+</p>
+</div>
+<dd>&nbsp;&nbsp;  
+<dd>&nbsp;&nbsp;   	It was shown for potentially realizable Penrose stairs, that any outside observer cannot say generated energy or destroyed. For him, some  generation or some destruction of energy is not discoverable. 
+<dd>&nbsp;&nbsp;  	At the same time, the internal observer will manifest generation or destruction of energy depending on the direction of the movement on the stairs. Moreover, this energy will be real in both cases. 
+<dd>&nbsp;&nbsp; One would like to understand how this is consistent with the law of the conservation of the energy. 
+<dd>&nbsp;&nbsp; First of all, it should be noted that for the law of the conservation of the energy, as well as for any other physical laws, there is an area of applicability determined by the Emma Noether's theorem. 
+<dd>&nbsp;&nbsp;  	Theorem from 1918 year mathematics Emma Noether asserts that every continuous symmetry of a physical system corresponds to the some conservation law: 
+<dd>&nbsp;&nbsp; Symmetry of the time corresponds to the law of the conservation of the energy, 
+<dd>&nbsp;&nbsp; Symmetry of space meets the law of the conservation of the momentum, 
+<dd>&nbsp;&nbsp;  Isotropy of space corresponds to the conservation of the angular momentum, 
+<dd>&nbsp;&nbsp;  Gauge symmetry corresponds to the conservation of the electric charge etc.
+<dd>&nbsp;&nbsp;  
+<dd>&nbsp;&nbsp;  That is, the first is a symmetry, and then a corresponding conservation law. If there is no symmetry, then you are beyond the area of applicability of the conservation law. Thus, the law of the conservation of the energy is impossible to break fundamentally, because it is the effect, not the cause. However, it is possible to go beyond the area of  its applicability violating the relevant symmetry. 
+<dd>&nbsp;&nbsp; We will have interesting symmetry in time. 
+<dd>&nbsp;&nbsp;  Symmetry of time means an invariance in choosing the origin on the axis of time. That is, you can choose the origin on the time axis arbitrary, the result of the experiment on this should not be changed unless other conditions have changed. 
+<dd>&nbsp;&nbsp; But, for constant conditions in potentially realizable Penrose stairs "not everything is all right." There are points on the time axis "without losses transition" when on the left from them the body has one potential energy, and on the right the different potential energy. That is, left and right conditions are differ. Thus, to say that potentially realizable Penrose stairs will be located in the area of applicability of the law of the conservation of the energy is not possible. At the same time, the "outside observer" cannot determine any generated or destroyed energy in this device. 
+<dd>&nbsp;&nbsp;  However, for starting the device it will need to download some kind of primary energy (to kick a body). An "outside observer' will be able to watch only that energy. 
+<dd>&nbsp;&nbsp;  	The results do not contradict the law of the conservation of the energy, since it's outside an area of applicability of the Emmy Noether's theorem, which defines as invariance in choosing the origin on the time axis (time symmetry). For the considered potentially realizable device this condition fails because it uses  "without losses jumps", leading to the restoration of the potential energy of the body. On the left and on the right from the jumps conditions are  different. 
+<dd>&nbsp;&nbsp;  
+<div align="center" >
+<p >
+<b>CONCLUSION</b>
+</p>
+</div>
+<dd>&nbsp;&nbsp;  
+<dd>&nbsp;&nbsp; Shown the concept of realizability of the Penrose stairs in a rotating non - inertial coordinate systems, where analogous potential energy acts bonding force. Work against the force becomes the equivalent of lifting on the Penrose stairs. The work of force becomes the equivalent of the descent on the Penrose stairs. 
+<dd>&nbsp;&nbsp;  	Shows that after "lifting" or "descent" on the Penrose stairs, there are available losses less returns to the beginning of the journey, that is returns to the initial value of the potential energy. After that, the movement on the Penrose stairs can be repeated on a cycle. 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; Consequence of the Penrose stairs realizability is the ability to generate and destroy energy. Under the generation and destruction of energy is understood energy emergence of "Nowhere" and vanish into "Nowhere", rather than the conversion of some types of energy in different energy. That corresponds to an infinite descent and the endless rise on the Penrose stairs, respectively. 
+<dd>&nbsp;&nbsp;  	Generation or destruction of energy only for an internal observer in the non - inertial coordinate system being situated. For him, it looks like, for example, as a stone falling on the ground from top, after that the stone disappears and reappears up again. Either the tossing of a stone from the ground up, after which the stone disappears and reappears again on the ground. In the first case, the energy is infinitely generated, in the second case, endlessly is spent. 
+<dd>&nbsp;&nbsp; At the same time reaffirmed once again justice allegations that the work performed by the body when driving on a closed path in a potential field is zero. An external observer in inertial coordinate system is unable to determine whether the generation or destruction of energy is in the described device. 
+<dd>&nbsp;&nbsp;  
+<dd>&nbsp;&nbsp;  	The results do not contradict the law of the conservation of the energy, since outside its area of applicability of Emmy Noether's theorem, which defines as invariance in choosing the origin on the time axis (time symmetry). For the considered potentially realizable device this condition fails, because it uses losses less transitions, leading to the restoration of the potential energy of the body, left and right from the different conditions. 
+<dd>&nbsp;&nbsp; In the device to start moving on the closed path, body will have to give initial kinetic energy. Only those energy costs and be able to watch a third party observer. 
+<dd>&nbsp;&nbsp; When this follow the notice. 
+<dd>&nbsp;&nbsp; If the speed of the linear motion of the body (rather than circular) at the beginning and the end of the trajectory of potentially realizable device will indeed remain unchanged, all reasoning is correct, if not, then not. 
+<dd>&nbsp;&nbsp; 
+<div align="center" >
+<p >
+<b>LITERATURE</b>
+</p>
+</div>
+<dd>&nbsp;&nbsp;  
+<dd>&nbsp;&nbsp;   
+<dd>&nbsp;&nbsp;  1. 
+<dd>&nbsp;&nbsp;  2. 
+<dd>&nbsp;&nbsp;  3. 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<div align="center" >
+<p >
+<b>QUESTIONS AND ANSWERS</b>
+</p>
+</div>
+<div align="center" >
+<p >
+(appeared in the process of writing this articles)
+</p>
+</div>
+<dd>&nbsp;&nbsp;  
+<dd>&nbsp;&nbsp;  <b>Question 1.</b> What is the difference between the centrifugal force and the bonding force?
+<dd>&nbsp;&nbsp; <b> Answer:</b> The difference is in definition. 
+<dd>&nbsp;&nbsp;  Under centrifugal force one understand the force normal to vector of velocity...
+<dd>&nbsp;&nbsp;  Under the bonding force one understand the force passes through the center of rotation... 
+<dd>&nbsp;&nbsp;  
+<dd>&nbsp;&nbsp; Whence follow, that at rotation "a stone on a rope" around the circumference of the permanent radius, the bonding force and the centrifugal force are the same in direction and amount. 
+<dd>&nbsp;&nbsp; However, in the General case, for more complicated trajectories, the difference appears in the vectors directions for the bonding force and the centrifugal force. This example is a spiral motion "on a rope rotating a stone". 
+<dd>&nbsp;&nbsp; That is, a gradual pulling or releasing the "rotating a stone on a rope" leads to interaction with the bonding force, rather than centrifugal force. 
+<dd>&nbsp;&nbsp;  
+<dd>&nbsp;&nbsp; The bonding force is considered to be a real force and the centrifugal force is considered a fictitious force. 
+<dd>&nbsp;&nbsp;  
+<dd>&nbsp;&nbsp;  <b>Question 2.</b> Why gradual pulling  "a stone rotating on a rope" does not change its kinetic energy, while consuming real effort and real work takes place? 
+<dd>&nbsp;&nbsp; <b> Answer:</b> Because this work is committed against a force in rotating coordinate system and leads to increasing the potential energy in this coordinate system, and the result is seen in the form of the kinetic energy in the inertial coordinate system. 
+<dd>&nbsp;&nbsp;  
+<dd>&nbsp;&nbsp; This can be explained intuitively as follows: 
+<dd>&nbsp;&nbsp; You are traveling on the top shelf of the train, moving by inertia, and trying to pick up your suitcase on the rope  , and another person is observing  your efforts from the platform. 
+<dd>&nbsp;&nbsp; For him (for initial time), the train and your suitcase move with same speed at the same direction. After the moment you started to lift your suitcase, man sees that the vertical component of speed is added to the suitcase moving. But, after the suitcase is raised, the observer can see that it moves at the same speed as before - with speed of train. In other words, the real work has been done, but the kinetic energy of the suitcase from the point of view of the person standing on the platform has not changed. 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; <b>Question 3.</b> Why say that centrifugal force is imaginary and not can do the job? 
+<dd>&nbsp;&nbsp; <b>Answer:</b> This is true in some cases and it is quite obvious, such as a ball rolling around a chute of the particular form without resistance. 
+<dd>&nbsp;&nbsp;  
+<dd>&nbsp;&nbsp; In the case of "a stone rotating on a rope" centrifugal force also does not work, but it makes its bonding force, the gradual releasing of the rope leads to decreasing in potential energy, but does not affect the kinetic energy of the "stone" for the external observer. 
+<dd>&nbsp;&nbsp;  
+<dd>&nbsp;&nbsp; If you take our example with a suitcase, it means that the suitcase will fall from the top shelf and while falling make real work, but a person on the platform will not notice a difference in its kinetic energy before and after falling to the floor. 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; <b>Question 4.</b> Whether replies (to questions 1, 2 and 3) mean that centrifugal force in a rotating coordinate system (for the case of  "a stone rotating on a rope ") is an analogue of the potential energy?
+<dd>&nbsp;&nbsp; <b>Answer:</b> Yes, it means, but only more exactly to say that analogue is the bonding force, the more bonding force - the more potential energy of  the "stone" in the rotating coordinate system. 
+<dd>&nbsp;&nbsp; In our example, with a suitcase lifting on the top shelf, it means increasing in bonding force. 
+<dd>&nbsp;&nbsp;  
+<dd>&nbsp;&nbsp; <b>Question 5.</b> If "a stone" will not be a material point, when going from one coordinate system to another, changing its angular velocity around center of mass, will it require extra energy? 
+<dd>&nbsp;&nbsp; <b>Answer:</b> No, it would not require, because you can hook this "stone" at the center of mass, with delivering free spinning and to solve the problem thus. However, the transition from the rotary motion to the straight-line moving requires no additional energy to add, although the leap in value of the angular velocity of the rotation occurs. Possibly, the same situation will be here, since both the pivot and the "stone' are on the same line (when passing from one coordinate system to another).
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<dd>&nbsp;&nbsp; 
+<!--Section Ends-->
+
+
+
+
+
+
+
+
+<xxx7>
+
+</div>
+<!-- ----------------------------------------------- -->
+
+</dd><hr size=2 noshade>
+
+<table border=0 cellpadding=0 cellspacing=0><tr>
+
+<!-- -- Блок описания произведения (слева внизу) ----------- -->
+
+<td><small><ul>
+<li><A HREF="/cgi-bin/comment?COMMENT=u/utkin_w_m/penrosestairs1e">Оставить комментарий</A>
+<li>&copy; Copyright <a href=/u/utkin_w_m/>Уткин Владимир Михайлович</a>
+ (<u>&#117&#46&#118&#64&#98&#107&#46&#114&#117</u>) 
+<li>Размещен: 10/09/2016, изменен: 10/09/2016. 27k. <a href=stat.shtml#penrosestairs1e.shtml>Статистика.</a>
+<li><a href=/type/index_type_5-1.shtml>Статья</a>: <a href="/janr/index_janr_20-1.shtml">Естествознание</a>
+</ul></small>
+</td>
+<td valign=bottom align=right>
+
+<!-- ------------ Блочек голосования (оценка) нижний ------ -->
+
+<form action="/cgi-bin/votecounter" method=POST>
+<input type=hidden name=FILE value=penrosestairs1e >
+<input type=hidden name=DIR value=u/utkin_w_m >
+
+ <!-- 1 
+
+Оценка: <b>*1</b>
+
+ 1 -->
+&nbsp;<font size="-1">Ваша оценка: <select name=BALL><br>
+<option value="1">не читать</option>
+<option value="2">очень плохо</option>
+<option value="3">плохо</option>
+<option value="4">посредственно</option>
+<option value="5">терпимо</option>
+<option value="0" selected>не читал</option>
+<option value="6">нормально</option>
+<option value="7">хорошая книга</option>
+<option value="8">отличная книга</option>
+<option value="9">великолепно</option>
+<option value="10">шедевр</option>
+</select>
+<input type=submit name="OK" value="ОК"></font>
+
+</form>
+
+<!-- ----------------------------------------------- -->
+
+</td></tr></table>
+
+<hr size=2 noshade>
+<!-- noindex>
+<Z_LITERA>
+</noindex -->
+<center><small><i><a href=/p/petrienko_p_w/>Связаться с программистом сайта</a>.</i></small></center>
+
+<noindex><b>
+
+<!-- 
+2019: 28.05 x , 01.09 x, 04.12 x
+2020: 28.02 4 , 04.06 3, 07.09 3
+2021: 07.02 3 , 31.07 1, 26.11 3
+2024: 19.03 2
+-->
+
+<p><font size="2">Новые книги авторов СИ, вышедшие из печати:<br>
+
+<!-- 10.03.2024 -->
+О.Болдырева&nbsp;<a href=/b/boldyrewa_o_m/kradysh.shtml>"Крадуш. Чужие души"</a>
+М.Николаев&nbsp;<a href=/n/nikolaew_m_p/invasion.shtml>"Вторжение на Землю"</a>
+
+<center><i><small><a href=/d/denisowa_e/1.shtml>Как попасть в этoт список</a></small></i></center>
+
+</font>
+</b></noindex>
+<p>
+<div align=center>
+<a href=https://leather-time.ru>Кожевенное мастерство</a> |
+Сайт <a href=http://www.artlib.ru>"Художники"</a> |
+<a href=http://www.recself.ru/?id=2025&idr=0>Доска об'явлений "Книги"</a></div>
+<p align="right"></p>
+<noindex><!--TopList COUNTER--><img height=1 width=1src="https://top.list.ru/counter?id=77427"alt=""><!--TopList COUNTER--></noindex>
+</body>
+</html>

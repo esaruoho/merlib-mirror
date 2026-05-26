@@ -1,0 +1,2160 @@
+<html>
+<head>
+	<title>Уткин Владимир. Мои эксперименты Часть 2 Импульсы, Резонанс, Бифиляр</title>
+</head>
+
+<body bgcolor="#E9E9E9">
+
+<center>
+
+<h2><small><a href=/u/utkin_w_m/>Уткин Владимир</a></small><br>
+Мои эксперименты Часть 2 Импульсы, Резонанс, Бифиляр</h2>
+
+<small>
+<!-- ----- Первый блок ссылок ----------- -->
+<a href=/><font color="#555555"><b>Самиздат:</b></font></a>
+<!-- ---------- Кнопка регистрации ------ -->
+
+
+[<A HREF="/cgi-bin/login">Регистрация</A>]
+ 
+
+[<a href=/cgi-bin/seek>Найти</a>] 
+[<a href=/rating/expert/>Рейтинги</a>]
+[<a href=/rating/comment/>Обсуждения</a>]
+[<a href=/long.shtml>Новинки</a>]
+[<a href=/janr/index_janr_time23-1.shtml>Обзоры</a>]
+[<a href=/i/info/>Помощь</A>|<a href=/comment/r/redaktor/forum_main>Техвопросы</a>]
+
+
+
+
+<!--  Кнопка редактирования произведения  -->
+</small>
+
+<table width=98%><tr><td>   <table width=96% style="display: block !important"><tr>
+
+<td>Ссылки:</td>
+
+<td><script>(function (w, d, s) { var t = d.getElementsByTagName(s)[0], j = d.createElement(s); j.async = true; j.charset="utf-8"; var dt = new Date(); j.src = 'https://offfy.com/domain/moshkow/general.js?'+dt.getFullYear()+''+dt.getMonth()+''+dt.getDate()+''+dt.getHours(); t.parentNode.insertBefore(j, t); })(window, document, 'script');</script></td>
+
+<td> </td><td width=33%><hr noshade></td><td> </td>
+
+<td><style>#author_today_btn{display: block;min-width: 250px;text-align: center;background: #4582af; color: #fff; font-family: Arial; padding: 4px 8px; font-size: 12px; font-weight: bold; border-radius: 4px;text-decoration: none;}#author_today_btn:hover{background: #5cb85c;}</style>
+<nobr><a href="https://leather-time.ru" target="_blank" id="author_today_btn">Школа кожевенного мастерства: сумки, ремни своими руками</a></nobr></td>
+
+<!-- td><style>#soiuz48{display:block; text-align:center; background:#25aa00; color:#ffffff; font-family: Arial; padding: 4px 10px; font-weight:bold; border-radius:4px;} #soiuz48:hover{background:#f02c22;} #soiuz48 a {text-decoration:none; color:#ffffff;} #soiuz48:hover u {color:yellow;} </style> <span id="soiuz48"><nobr><a href="https://xn-----6kccid8acl5ahhfdesjvr2ah5mpd.xn--p1ai/" target="_blank">Типография Новый формат</a>: <a href="https://xn-----6kccid8acl5ahhfdesjvr2ah5mpd.xn--p1ai/" target="_blank"><u>Издать свою книгу</u></a></nobr></span></td -->
+
+<td><style>#soiuz48{display:block; text-align:center; background:#aa2755; color:#ffffff; font-family: Arial; padding: 4px 8px; font-weight:bold; border-radius:4px;} #soiuz48:hover{background:#f02c22;} #soiuz48 a {text-decoration:none; color:#ffffff;} #soiuz48:hover u {color:yellow;} </style> <span id="soiuz48"><nobr><a href="https://legalinstruments.ru" target="_blank">Юридические услуги. <u>Круглосуточно</u></a></nobr></span></td>
+
+
+<td> </td><td width=33%><hr noshade></td><td> </td>
+
+
+</tr></table>   </td></tr></table>
+
+
+<table width=90% border=0 cellpadding=0 cellspacing=0><tr>
+
+<!-- -- Блок описания произведения (слева вверху) --------------------- -->
+
+<td>
+<small><ul>
+<li><A HREF="/comment/u/utkin_w_m/exper-2">Комментарии: 8, последний от 01/01/2026.</A>
+<li>&copy; Copyright <a href=/u/utkin_w_m/>Уткин Владимир</a>
+ (<u>&#117&#46&#118&#64&#98&#107&#46&#114&#117</u>) 
+<li>Размещен: 27/09/2022, изменен: 08/01/2023. 102k. <a href=stat.shtml#exper-2.shtml>Статистика.</a>
+<li><a href=/type/index_type_5-1.shtml>Статья</a>: <a href="/janr/index_janr_20-1.shtml">Естествознание</a>
+<li><a href=/img/u/utkin_w_m/exper-2/index.shtml>Иллюстрации/приложения: 143 шт.</a>
+<li>Скачать <a href="/img/u/utkin_w_m/utkin_w_m--exper-2.fb2.zip">FB2</a>
+</ul></small>
+</td>
+<td valign=top>
+
+<!-- -------- Кнопка вызова Лингвоанализатора ------ -->
+<!-- Z_LA -->
+<!-- Z_RE -->
+<!-- -------- Кнопка вызова репетитора ------------- -->
+
+</td>
+<td valign=bottom align=right>
+
+<!-- ---------- Блочек голосования (оценка) верхний -->
+
+<form action="/cgi-bin/votecounter" method=POST>
+<input type=hidden name=FILE value=exper-2 >
+<input type=hidden name=DIR value=u/utkin_w_m >
+
+
+
+Оценка: <b>7.57*29</b>
+
+
+&nbsp;<font size="-1">Ваша оценка: <select name=BALL><br>
+<option value="1">не читать</option>
+<option value="2">очень плохо</option>
+<option value="3">плохо</option>
+<option value="4">посредственно</option>
+<option value="5">терпимо</option>
+<option value="0" selected>не читал</option>
+<option value="6">нормально</option>
+<option value="7">хорошая книга</option>
+<option value="8">отличная книга</option>
+<option value="9">великолепно</option>
+<option value="10">шедевр</option>
+</select>
+<input type=submit name="OK" value="ОК"></font>
+
+</form>
+
+<!-- ---------------------------------------------- -->
+
+</td></tr>
+<tr><td valign=top colspan=3>
+<ul><small><li></small><b>Аннотация:</b><br><font color="#555555"><i>Часть моих экспериментов по поиску "Свободной энергии". Статья содержит много иллюстраций и пояснений. Будет интересна для читателей интересующихся данной тематикой.</i></font></ul>
+</td></tr></table>
+
+</center>
+<hr size=2 noshade>
+
+<!-- --------- Собственно произведение ------------- -->
+
+<div align=justify>
+ 
+ 
+<xxx7>
+
+<!--Section Begins--><br>
+<div align="center" >
+<p >
+<font color="Black"><b>МОИ ЭКСПЕРИМЕНТЫ. ЧАСТЬ 2.</b></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><b>Импульсы, Резонанс, Бифиляр</b></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><b>Владимир Уткин      </b></font><font color="Black"></font><font color="Black"></font><font color="Black"></font><font color="Black"></font><font color="Black"></font><font color="Black"></font><font color="Black"></font><font color="Black"></font><font color="Black"></font><font color="Black"></font><font color="Black"></font><font color="Black"></font><font color="Black"></font><font color="Black"></font><font color="Black"></font><font color="Black"><b><a href="mailto:u.v@bk.ru"></b></font><font color="Black"><b>u</b></font><font color="Black"><b>.</b></font><font color="Black"><b>v</b></font><font color="Black"><b>@</b></font><font color="Black"><b>bk</b></font><font color="Black"><b>.</b></font><font color="Black"><b>ru</b></font><font color="Black"><b></a></b></font><font color="Black"></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black"><b>ВВЕДЕНИЕ</b></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">В предыдущих работах "Снятие энергии с катушки Тесла" </font><font color="Black">и "Секреты</font><font color="Black"> Николы Тесла" </font><font color="Black"></font><font color="Black"></font><font color="Black"></font><font color="Black"></font><font color="Black"><a href="/editors/u/utkin_w_m/nikola_secrets.shtml%20"></font><font color="Black">http://samlib.ru/editors/u/utkin_w_m/nikola_secrets.shtml</font><font color="Black"></a></font><font color="Black"> </font><font color="Black">была показана необходимость использования коротких импульсов для построения приборов "свободной энергии". Эта тема будет продолжена и в этих моих экспериментах. Однако подход будет изменён. </font><font color="Black"><b><u>Будет использоваться противо ЭДС, возникающая при возбуждении резонансного контура короткими импульсами.</u></b></font>
+<dd>&nbsp;&nbsp; <font color="Black">	</font><font color="Black"><b><u>Без использования коротких импульсов и резонанса результаты, полученные в ходе экспериментов, достигнуть нельзя</u></b></font>
+<dd>&nbsp;&nbsp; <font color="Black">	Кроме того, будут исследованы свойства бифилярной намотки экспериментально, как одного из вариантов рассматриваемого подхода.</font>
+<dd>&nbsp;&nbsp; <font color="Black">	В статье также будет приведено множество схем, реализующих рассматриваемый подход, а также множество сопутствующих схем и экспериментов проводимых в ходе исследования.</font>
+<dd>&nbsp;&nbsp; <font color="Black">	Также будет обсуждаться вопрос получения частоты 50 -60 Гц на выходе, и организация самозапитки, например, по приведённому варианту.</font>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-1.png" height="150" width="357" alt="0x01 graphic" ><br></font><font color="Black"></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black">	Где "Схема" обеспечивает возврат энергии импульсов возбуждения в источник писания, не зависимо от нагрузки резонансного контура (даже если контур закорочен).</font>
+<dd>&nbsp;&nbsp; <font color="Black">Если же закорочен</font><font color="Black"> и</font><font color="Black">мпульсный выход (не обеспечивается</font><font color="Black"> возврат энергии), то резонанс в схеме не нарушается. Она остаётся работать как обычный резонатор. Вот такими "странными" свойствами должна обладать эта схема. А обеспечивать "странные" свойства схемы должна противо ЭДС в резонансном контуре</font><font color="Black">, возникающая</font><font color="Black"> </font><font color="Black">при коротких импульсах возбуждения</font><font color="Black">. Словосочетание "одна из" означает, что таких с</font><font color="Black">хем будет рассмотрено множество, в том числе с использованием бифилярной намотки.</font><font color="Black"> </font>
+<dd>&nbsp;&nbsp; <font color="Black">Экспериментальному исследованию данных схем и будет посвящена данная работа. Пока без организации всего цикла самозапитки.</font>
+<dd>&nbsp;&nbsp; <font color="Black">В начале будет рассмотрено на чём основываются данные схемы, затем будут проводиться эксперименты с различными схемами. </font>
+<dd>&nbsp;&nbsp; <font color="Black">		</font>
+<dd>&nbsp;&nbsp; <font color="Black">	</font><font color="Black"><b><u></u></b></font>
+<div align="center" >
+<p >
+<font color="Black"><b>ИМПУЛЬСНОЕ ВОЗБУЖДЕНИЕ РЕЗОНАНСА</b></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><b>(РЕЗОНАНСНО - ШУНТИРУЮЩИЙ КОНДЕНСАТОР)</b></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black">	</font>
+<dd>&nbsp;&nbsp; <font color="Black">Сопротивление конденсатора обратно - пропорционально частоте. Чем выше частота, тем меньше его сопротивление. Для высоких частот около 10 - 100 МГц сопротивление конденсатора, например, 1000 пф падает почти до нуля. Тоже можно сказать о коротких импульсах - для них сопротивление конденсатора пренебрежимо мало.</font>
+<dd>&nbsp;&nbsp; <font color="Black">	Таким образом, если взять одну катушку как источник электромагнитных импульсов, и поднести к ней вторую катушку с подключенным к ней параллельно конденсатором, то в момент прохождения импульса вторую катушку будет "замыкать". Как следствие, в ней возникнет поле противо ЭДС, которое не позволит полю первой катушки полностью проникнуть во вторую катушку. Следовательно, вдоль второй катушки появится специфическое распределение напряжения, показанное ниже.</font>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-2.png" width="533" height="112" alt="0x01 graphic" ><br></font><font color="Black"></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"> </font>
+<dd>&nbsp;&nbsp; <font color="Black">При совпадении частоты импульсов от входной катушки с резонансной частотой второй катушки, во второй катушке появится резонанс и поле от него. Но, как известно, поле резонанса совпадает по направлению с возбуждающим полем. Следовательно, вдоль второй катушки появится специфическое распределение напряжение характерное для резонанса.</font>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-3.png" width="558" height="115" alt="0x01 graphic" ><br></font><font color="Black"></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">	Рассуждаем далее.	</font>
+<dd>&nbsp;&nbsp; <font color="Black">Если на второй катушке сделать отвод (например, в середине), а конденсатор разделить на два, то между отводом и местом соединения конденсаторов можно включить нагрузку.</font>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-4.png" alt="0x01 graphic" width="540" height="143" ><br></font><font color="Black"></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">	</font>
+<dd>&nbsp;&nbsp; <font color="Black">Тогда на нагрузке появится напряжение, соответствующее импульсам, так как от резонанса разность потенциалов между точками включения нагрузки равна нулю.</font>
+<dd>&nbsp;&nbsp; <font color="Black">Более того, если нагрузку замкнуть, то на резонанс это не должно повлиять по указанной выше причине.</font>
+<dd>&nbsp;&nbsp; <font color="Black">Если же замкнуть конденсаторы, то резонанс естественно исчезнет, но на катушке останется распределение напряжения от импульсного воздействия. То есть, на нагрузке останется напряжение, характерное для импульсного воздействия -  импульсы.</font>
+<dd>&nbsp;&nbsp; <font color="Black">Рассуждаем далее.</font>
+<dd>&nbsp;&nbsp; <font color="Black">Если добавить третью катушку, намотанную поверх второй и состоящую из двух половин со встречной намоткой, то импульсное напряжение можно будет снимать с этой катушки, не разрушая резонанс. Напряжение резонанса в этой катушке наводиться не будет.</font>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-5.png" alt="0x01 graphic" width="544" height="150" ><br></font><font color="Black"></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">При этом, при подаче импульсов на всё более высоких частотах, в нагрузке от импульсов должно выделяться всё больше и больше энергии (как в импульсном источнике питания). Это должно быть справедливо для обоих указанных вариантов подключения нагрузки.</font>
+<dd>&nbsp;&nbsp; <font color="Black">Традиционное же возбуждение резонанса гармоническими колебаниями не будет приводить к появлению напряжения на нагрузке. Так как противо ЭДС в этом случае будет отсутствовать. Напряжение на нагрузке в виде импульсов будет только при возбуждении импульсами и появлении противо ЭДС.</font>
+<dd>&nbsp;&nbsp; <font color="Black">Если же возникающие импульсы выпрямить и подать вместо нагрузки на блок питания (или аккумулятор), от которого питается генератор импульсов, то образуется петля самозапитки, о которой говорилось во введении. Энергию же в нагрузку можно снимать с самого резонансного контура.</font>
+<dd>&nbsp;&nbsp; <font color="Black">	Вот такие идеи, для проверки которых и будут ставиться эксперименты. Проверяться пока будут только сами схемы, без полного цикла самозапитки. Так как схем этих будет много.</font>
+<dd>&nbsp;&nbsp; <font color="Black">Заодно будут исследованы свойства бифилярной катушки, как варианта реализации указанных подходов.</font>
+<dd>&nbsp;&nbsp; <font color="Black">	А также получение в нагрузке частоты 50 - 60 гц, путём смены полярности возбуждающих импульсов с данной частотой.</font>
+<dd>&nbsp;&nbsp; <font color="Black">	Будут проведены и сопутствующие эксперименты и приведены их схемы.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black"><b>ОРГАНИЗАЦИЯ САМОЗАПИТКИ</b></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">	Процесс возврата энергии импульсов в источник питания не будет обладать 100% КПД. Будут омические потери. Поэтому приведённая первоначально схема является упрощенной. Она позволяет только снизить потребление энергии от источника. Чтобы организовать полную самозапитку надо компенсировать эти потери и часть энергии (но далеко не всю) подать с выхода на вход.</font>
+<dd>&nbsp;&nbsp; <font color="Black">	Это начальное упрощение было сделано сознательно чтобы "не очень сильно" запутывать читателя перед началом чтения.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black"><b>ЭКСПЕРИМЕНТЫ</b></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">При проведении всех экспериментов использовались прямоугольные импульсы с длительностью фронта 50 нс. Короткие импульсы получались из них путём дифференцирования (ВЧ фильтрации). </font>
+<dd>&nbsp;&nbsp; <font color="Black">При увеличении длительности фронта до 100 нс результат существенно ухудшался. При 250 нс проведение эксперимента становилось невозможным. То есть, чем короче, тем лучше.</font>
+<dd>&nbsp;&nbsp; <font color="Black">Конденсаторы использовались с малой внутренней индуктивностью.</font>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><b>ВИЗУАЛИЗАЦИЯ ЭНЕРГИИ</b></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black">	</font>
+<dd>&nbsp;&nbsp; <font color="Black">При проведении экспериментов хотелось визуализировать количество энергии, выделяемой в нагрузке. Самый простой способ визуализации энергии - это подключение лампочки или светодиодов в виде нагрузки. Чем ярче светят светодиоды (лампочка) - тем больше энергии в нагрузке.</font>
+<dd>&nbsp;&nbsp; <font color="Black"> 	При этом известно, что подключение нагрузки к гармоническому источнику энергии приводит к одинаковому количеству энергии в нагрузке не зависимо от частоты. То есть, для 10 Кгц, 100 Кгц и 1 Мгц светодиоды (лампочка) будут светиться с одинаковой яркостью.</font>
+<dd>&nbsp;&nbsp; <font color="Black">	В этом легко убедиться, собрав простейшую установку.</font>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-6.png" width="326" height="92" alt="0x01 graphic" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black">	Если же нагрузка подключается к импульсному источнику энергии, то яркость свечения светодиодов (лампочки) будет зависеть от частоты импульсов. Чем выше частота импульсов, тем ярче будут светиться светодиоды. То есть, для частот 10 Кгц, 100 Кгц и 1Мгц светодиоды будут светиться по-разному, так как в них будет выделяться разное количество энергии.</font>
+<dd>&nbsp;&nbsp; <font color="Black">	В этом легко убедиться, собрав простейшую установку по нижеприведенной схеме, в которой короткие импульсы образуются при дифференцировании (ВЧ фильтрации) </font><font color="Black">меандра,</font><font color="Black"> поступающего от генератора.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-7.png" alt="0x01 graphic" height="93" width="350" ><br></font><font color="Black"></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">Если же светодиоды совсем не светятся, то энергии в нагрузке не выделяется. Такой результат мы ожидаем при возбуждении второй катушки гармоническими колебаниями.</font>
+<dd>&nbsp;&nbsp; <font color="Black">Вот такие предварительные замечания хотелось бы сделать перед началом проведения экспериментов. Конечной целью экспериментов является организация самозапитки. Но, пока будут исследоваться только схемы.</font>
+<dd>&nbsp;&nbsp; <font color="Black">Начнём со схемы наиболее схожей со схемой, приведённой ранее при описании принципа резонансно - шунтирующего конденсатора.</font>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><b>СХЕМА С ОДНОЙ КАТУШКОЙ, ОДНИМ ОТВОДОМ</b></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><b>И ДВУМЯ КОНДЕНСАТОРАМИ</b></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">	</font><font color="Black">Катушка намотана на замкнутом магнитопроводе, состоит из двух равных половин. К одной из половин и среднему отводу подаются импульсные сигналы. Между концами катушки включены последовательно два конденсатора. Между точкой соединения конденсаторов и средней точкой катушки включена нагрузка (светодиоды).</font>
+<dd>&nbsp;&nbsp; <font color="Black">	Принцип работы следующий. При прохождении импульса два последовательных конденсатора "замыкаются" и нагрузка подключается к двум встречно включенным катушкам. На резонанс это не должно влиять.</font><font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-8.png" alt="0x01 graphic" height="164" width="457" ><br></font><font color="Black"></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black">	При реализации было использовано ферритовое кольцо М1000НН 40х25х8 мм и намотано две обмотки по 20 витков. Результаты представлены ниже.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-9.jpg" height="300" width="533" alt="0x01 graphic" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Частота 1 МГц</font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-10.jpg" alt="0x01 graphic" height="300" width="533" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Частота 100 Кгц</font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-11.jpg" width="533" height="300" alt="0x01 graphic" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Частота 10 Кгц</font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u>Яркость свечения зависит от частоты импульсов.</u></b></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u>При возбуждении гармоническими колебаниями диоды не светятся.</u></b></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">Далее введём систему в резонанс. Он оказывается на частоте 360 кГц. Подключаем светодиоды параллельно конденсаторам (</font><font color="Black">визуализируем</font><font color="Black"> энергию резонанса) и как нагрузку </font><font color="Black">R</font><font color="Black"><sub>L</sub></font><font color="Black"> (</font><font color="Black">визуализируем</font><font color="Black"> энергию импульсов). Кроме того, забегая вперёд, подключаем светодиоды к дополнительной катушке, намотанной поперёк кольца (тоже </font><font color="Black">визуализируем</font><font color="Black"> энергию импульсов)</font><font color="Black">. Сигнал берём от генератора </font><font color="Black">прямоугольных импульсов </font><font color="Black">на микросхеме </font><font color="Black">NE</font><font color="Black">555</font><font color="Black">, настроенного на частоту резонанса. Потребление микросхемы при питании 12В около 10 мА. Смотрим результат.</font><font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-12.jpg" alt="0x01 graphic" width="406" height="228" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black">РЕЗУЛЬТАТ</font>
+<dd>&nbsp;&nbsp; <font color="Black">Светятся все 10 светодиодов (5 пар по два</font><font color="Black"> встречно- параллельных</font><font color="Black"> </font><font color="Black">светодиода</font><font color="Black">)</font><font color="Black">, подключенных параллельно конденсаторам. </font><font color="Black"> Светятся 2 светодиода, включенные как нагрузка</font><font color="Black">, и светятся 2 светодиода, подключенных к дополнительной катушке (извините, забегаем вперёд).</font><font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">Нарушаем резонанс. Замыкаем концы катушки с конденсаторами, смотрим результат.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-13.jpg" alt="0x01 graphic" height="228" width="406" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black">РЕЗУЛЬТАТ</font>
+<dd>&nbsp;&nbsp; <font color="Black">Светодиоды, визуализирующие энергию резонанса погасли. Светодиоды, визуализирующие энергию импульсов, продолжают светиться.</font><font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u>Концы катушки с </u></b></font><font color="Black"><b><u>резонансными </u></b></font><font color="Black"><b><u>конденсаторами можно замыкать, яркость свечения диодов</u></b></font><font color="Black"><b><u>, визуализирующих энергию импульсов,</u></b></font><font color="Black"><b><u> не меняется.</u></b></font><font color="Black"> Зависи</font><font color="Black">мость яркости свечения этих светодиодов только от частоты (как в первоначальном опыте).</font><font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u></u></b></font>
+<dd>&nbsp;&nbsp; <font color="Black">Размыкаем резонанс и замыкаем импульсные выходы. Смотрим результат.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-14.jpg" alt="0x01 graphic" height="228" width="406" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black">РЕЗУЛЬТАТ</font>
+<dd>&nbsp;&nbsp; <font color="Black">Светодиоды, визуализирующие энергию импульсов погасли. Однако, резонанс не разрушился, светодиоды, визуализирующие энергию резонанса продолжают светиться.</font><font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u>Импульсный выход</u></b></font><font color="Black"><b><u> можно замыкать, резонанс от этого не нарушается.</u></b></font><font color="Black"> </font><font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">Для всех опытов с замыканиями </font><font color="Black">ЗАМЕТИМ</font><font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u>Энергопотребление микросхемы для всех манипуляций с замыканиями практически не менялось.</u></b></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b>ВЫВОД</b></font>
+<dd>&nbsp;&nbsp; <font color="Black">Все сделанные ранее предположения относительно резонансно - шунтирующего конденсатора подтвердились.</font>
+<dd>&nbsp;&nbsp; <font color="Black">При этом, в силу того, что половинки катушки создают то встречные (при импульсе), то однонаправленные поля (при резонансе). Можно сделать вывод, что</font>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u>Импульсные и резонансные поля ортогональны.</u></b></font>
+<dd>&nbsp;&nbsp; <font color="Black">То есть, резонансное поле находится полностью внутри сердечника, а импульсное поле выходит наружу. И проходит по диаметру между катушками.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">При этом, при резонансе и импульсном возбуждении на входной катушке можно наблюдать сигналы, показанные ниже. Их вид зависит от того, каким образом производить дифференцирование: с помощью конденсатора или резистора.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-15.jpg" alt="0x01 graphic" height="300" width="533" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Сигнал на входной катушке, дифференцирование через конденсатор 1000 пф</font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-16.jpg" alt="0x01 graphic" width="533" height="300" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Сигнал на входной катушке, дифференцирование через резистор 100 Ом</font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">При проведении дальнейших экспериментов было выбрано дифференцирование через конденсатор, так как давало лучшие результаты.</font>
+<dd>&nbsp;&nbsp; <font color="Black">Здесь же следует добавить, что при замыкании нагрузки короткие импульсы исчезают. Сигнал от резонанса на входной катушке остаётся неизменным.	</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b>ОБЩИЙ ВЫВОД</b></font>
+<dd>&nbsp;&nbsp; <font color="Black">Схема потенциально пригодна для снижения потребления энергии от источника, или организации самозапитки.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u>ТАКИХ ПОДРОБНЫХ РЕЗУЛЬТАТОВ ОПЫТОВ С РЕЗОНАНСОМ ПР</u></b></font><font color="Black"><b><u>И</u></b></font><font color="Black"><b><u>ВОДИТЬ БОЛЬШЕ НЕ БУДЕМ В СИЛУ ОГРАНИЧЕННОГО РАЗМЕРА СТАТЬИ. БУДУТ ТОЛЬКО КРАТКИЕ РЕЗУЛЬТАТЫ.</u></b></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black"><b>СХЕМА С ДОПОЛНИТЕЛЬНОЙ КАТУШКОЙ</b></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">	Как отмечалось в предыдущем варианте схемы, импульсное поле выходит наружу и проходит по диаметру между катушками. Поэтому для снятия энергии импульсов можно реализовать вариант с дополнительной катушкой, состоящей из двух половин, намотанных в противоположных направлениях. Это было описано в разделе о резонансно - шунтирующем конденсаторе.</font>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-17.png" alt="0x01 graphic" width="507" height="210" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"><b>	Однако, реально две встречные катушки мотать не будем, а намотаем одну "на воздухе" (10 витков) и наденем её на кольцо снаружи (по направлению ориентации импульсного поля). Что эквивалентно намотке двух встречных катушек.</b></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b>Результаты показаны ниже.</b></font>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-18.jpg" height="300" width="533" alt="0x01 graphic" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Частота 1 МГц</font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-19.jpg" height="300" width="533" alt="0x01 graphic" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Частота 100 Кгц</font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-20.jpg" alt="0x01 graphic" height="300" width="533" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Частота 10 Кгц</font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black">РЕЗУЛЬТАТ</font>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u>Конденсатор можно замыкать, яркость свечения диодов не меняется.</u></b></font><font color="Black"> Зависимость яркости только от частоты.</font>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u>Дополнительную катушку можно замыкать, резонанс от этого не нарушается.</u></b></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u>При возбуждении гармоническими колебаниями диоды не светятся.</u></b></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b>Импульсные и резонансные поля ортогональны. </b></font><font color="Black">По указанной в предыдущем эксперименте причине.</font><font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b>ВЫВОД</b></font>
+<dd>&nbsp;&nbsp; <font color="Black">Все, как и ранее, только реализация другая. Предположение, сделанное о дополнительной катушке в разделе о резонансно - шунтирующем конденсаторе подтвердилось.</font>
+<dd>&nbsp;&nbsp; <font color="Black"><b>ОБЩИЙ ВЫВОД</b></font>
+<dd>&nbsp;&nbsp; <font color="Black">Схема потенциально пригодна для снижения потребления энергии от источника, или организации самозапитки.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black"><b>ЦИЛИНДРИЧЕСКАЯ КАТУШКА СО СРЕДНИМ ОТВОДОМ</b></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">В первом эксперименте сигнал можно было подавать через катушку возбуждения, намотав её поверх "левой" половинки, аналогично тому, как это описывалось в резонансно - шунтирующем конденсаторе. Это и будет сделано в этом эксперименте. Длина намотки катушки возбуждения должна соответствовать геометрической длине намотки половинки (число витков может отличаться).</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">Будет использована цилиндрическая катушка со средним отводом и без сердечника. Всё остальное аналогично первому варианту, только сигнал подаётся через катушку возбуждения.</font>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-21.png" alt="0x01 graphic" height="142" width="415" ><br></font><font color="Black"></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black">	При реализации была использована полиэтиленовая труба (без сердечника) диаметром 50 мм, на трубу было намотано 29 + 29 витков. Сверху надет обрезок полиэтиленовой бутылки диаметром 60 мм с намотанными на нём 12 витками. Длина намотки равна длине намотки одной половинки катушки.</font>
+<dd>&nbsp;&nbsp; <font color="Black">	Принцип работы, как и у предыдущего варианта. Импульс "замыкает" конденсаторы. Результаты приведены ниже.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-22.jpg" height="300" width="533" alt="0x01 graphic" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Частота 1 МГц</font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-23.jpg" alt="0x01 graphic" height="300" width="533" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Частота 100 Кгц</font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-24.jpg" width="533" height="300" alt="0x01 graphic" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Частота 10 Кгц</font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u></u></b></font>
+<dd>&nbsp;&nbsp; <font color="Black">РЕЗУЛЬТАТ</font>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u>Концы катушки с конденсаторами можно замыкать, яркость свечения диодов не меняется.</u></b></font><font color="Black"> Зависимость яркости только от частоты.</font>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u>Нагрузку можно замыкать, резонанс от этого не нарушается.</u></b></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u>При возбуждении гармоническими колебаниями диоды не светятся.</u></b></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b>Импульсные и резонансные поля ортогональны. </b></font><font color="Black">По указанной в предыдущем эксперименте причине.</font><font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b>ВЫВОД</b></font>
+<dd>&nbsp;&nbsp; <font color="Black">Все, как и ранее, только реализация другая.</font>
+<dd>&nbsp;&nbsp; <font color="Black"><b>ЗАМЕЧАНИЕ</b></font>
+<dd>&nbsp;&nbsp; <font color="Black">Можно домотать ещё две встречные катушки и довести схему до уровня описанного в разделе о резонансно - шунтирующем конденсаторе. Но, мы этого делать не будем, так как предыдущий эксперимент показал, что всё будет работать.</font>
+<dd>&nbsp;&nbsp; <font color="Black"><b>ОБЩИЙ ВЫВОД</b></font>
+<dd>&nbsp;&nbsp; <font color="Black">Схема потенциально пригодна для снижения потребления энергии от источника, или организации самозапитки.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b>ДОПОЛНЕНИЕ</b></font>
+<dd>&nbsp;&nbsp; <font color="Black">Этот вариант можно реализовать с использованием сердечника, например, от магнитной антенны. Принцип остаётся неизменным.</font>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><b>СХЕМА С ТРЕМЯ КАТУШКАМИ</b></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">Установка состоит из трех катушек, расположенных на замкнутом магнитопроводе: катушки возбуждения (подключена к генератору через дифференцирующий элемент), резонансной катушки (с конденсатором), и импульсной выходной катушки (с нагрузкой). </font>
+<dd>&nbsp;&nbsp; <font color="Black">Катушка возбуждения и резонансная катушка намотаны обычным образом, и расположены точно друг напротив друга. Импульсная выходная катушка намотана поверх резонансной катушки и имеет ту же геометрическую длину. Однако, после намотки </font><font color="Black">N</font><font color="Black"> витков направление намотки в ней меняется и наматывается 2</font><font color="Black">N</font><font color="Black"> витков, затем направление меняется опять и наматывается ещё </font><font color="Black">N</font><font color="Black"> витков. </font>
+<dd>&nbsp;&nbsp; <font color="Black">То есть, при такой намотке в общей сложности 2</font><font color="Black">N</font><font color="Black"> витков намотаны в одну сторону, и 2</font><font color="Black">N</font><font color="Black"> витков в противоположную сторону. Следовательно, при подаче гармонического сигнала на катушку возбуждения на выходной катушке будет нулевое напряжение...</font>
+<dd>&nbsp;&nbsp; <font color="Black">Но, ситуация меняется, если на катушку возбуждения подать импульсы.</font>
+<dd>&nbsp;&nbsp; <font color="Black">Импульс от входной катушки "замыкает" конденсатор в резонансной катушке и вызывает противо ЭДС. Далее всё должно происходить по описанному ранее подходу.</font>
+<dd>&nbsp;&nbsp; <font color="Black">Подключение нагрузки к выходной катушке, не будет влиять на резонанс, так как резонансная и выходная катушки не могут взаимодействовать из-за способа намотки выходной катушки. В нагрузке будет энергия, не влияющая на резонанс. </font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-25.png" alt="0x01 graphic" width="653" height="150" ><br></font><font color="Black"></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black">Элементы, использованные при проведении эксперимента, показаны ниже. В качестве нагрузки использовано два параллельных разнонаправленных светодиода. Их яркость свечения будет характеризовать величину энергии в нагрузке. В качестве сигнала использован меандр от генератора Г 6 - 27, пропущенный через дифференцирующую цепочку для получения коротких импульсов.</font>
+<dd>&nbsp;&nbsp; <font color="Black">На фотографиях маленькая катушка снизу - входная, напротив входной катушки -  резонансная катушка с конденсатором 1500 пф, поверх резонансной намотана катушка получения импульсов. Ферритовое кольцо примерно М1000НН 80х50х8 мм. Во входной катушке 6 витков, в резонансной катушке 26 витков, в импульсной катушке 6 + 12 + 6 витков (всего 24 витка). Общее число витков импульсной катушки несколько сокращено, чтобы получить равную геометрическую длину с резонансной (она лежит сверху и имеет больший радиус намотки). Число витков в катушках не критично, важно соблюсти схему намотки.</font>
+<dd>&nbsp;&nbsp; <font color="Black">При проведении эксперимента было выбрано дифференцирование через конденсатор (оно давало больше энергии в нагрузке).</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"> </font>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-26.jpg" alt="0x01 graphic" height="300" width="533" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Частота 1 МГц</font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-27.jpg" height="300" width="533" alt="0x01 graphic" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Частота 100 Кгц</font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-28.jpg" alt="0x01 graphic" height="300" width="533" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Частота 10 Кгц</font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black">	</font>
+<dd>&nbsp;&nbsp; <font color="Black"><b>РЕЗУЛЬТАТ</b></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u>Яркость свечения диодов зависит только от частоты поданного на вход импульсного сигнала. </u></b></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u>Резонанс не влияет на яркость свечения.</u></b></font><font color="Black"> Чем выше частота, тем выше яркость свечения.</font>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u>Резонансную катушку можно замыкать, яркость свечения диодов не меняется.</u></b></font><font color="Black"> Зависимость яркости только от частоты.</font>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u>Выходную импульсную катушку можно замыкать, резонанс от этого не нарушается.</u></b></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u>Импульсные и резонансные поля ортогональны. </u></b></font><font color="Black">По указанным ранее причинам.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b>ВЫВОД</b></font>
+<dd>&nbsp;&nbsp; <font color="Black">	Получен ожидаемый результат, но является ли он проявлением сверх единичных эффектов, или это разновидность "расфильтровки" сигналов? Если частоту резонанса повышать и повышать, то в нагрузке будет всё больше и больше энергии? При этом, сам резонанс будет снижать потребление энергии от источника. Так ли это, или нет? </font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b>ОБЩИЙ ВЫВОД</b></font>
+<dd>&nbsp;&nbsp; <font color="Black">Схема потенциально пригодна для снижения потребления энергии от источника, или организации самозапитки.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b>ДОПОЛНЕНИЕ</b></font>
+<dd>&nbsp;&nbsp; <font color="Black">	Выходную катушку также можно ввести в резонанс. Она не будет влиять на резонанс первой катушки? То есть, двойной резонанс на одной частоте. При импульсном возбуждении это возможно! Но, что это даст с точки зрения энергии, и как снимать энергию на выходе, импульсами или постоянным подключением нагрузки?</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">	Рассмотрим другие варианты.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black"><b>СХЕМА С ДВУМЯ КАТУШКАМИ И ДВУМЯ ОТВОДАМИ</b></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black">	</font>
+<dd>&nbsp;&nbsp; <font color="Black">Схема использует, как и предыдущая, замкнутый магнитопровод. Схема имеет только одну входную и одну выходную катушку, намотанную точно против входной катушки, по принципу </font><font color="Black">N</font><font color="Black">+2</font><font color="Black">N</font><font color="Black">+</font><font color="Black">N</font><font color="Black">. При смене направления намотки сделаны два отвода, к которым подключен резонансный конденсатор. В качестве нагрузки использованы два светодиода. Ферритовое кольцо примерно М1000НН 80х50х8 мм. Во входной катушке 6 витков, в выходной катушке 16+32+16 витков. Конденсатор 1500 пф.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-29.png" alt="0x01 graphic" height="157" width="628" ><br></font><font color="Black"></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black">	Результаты приведены на рисунках ниже.</font>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-30.jpg" alt="0x01 graphic" height="300" width="533" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Частота 1 МГц</font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-31.jpg" width="533" height="300" alt="0x01 graphic" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Частота 100 Кгц</font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-32.jpg" alt="0x01 graphic" height="300" width="533" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Частота 10 Кгц</font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black">РЕЗУЛЬТАТ</font>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u>Резонансную часть катушки можно замыкать, яркость свечения диодов не меняется.</u></b></font><font color="Black"> Зависимость яркости только от частоты.</font>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u>Диоды можно замыкать, резонанс от этого не нарушается.</u></b></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u></u></b></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b>ВЫВОД</b></font>
+<dd>&nbsp;&nbsp; <font color="Black">Все, как и ранее, только реализация другая.</font>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u>Импульсные и резонансные</u></b></font><font color="Black"><u> </u></font><font color="Black"><b><u>поля ортогональны.</u></b></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b>ОБЩИЙ ВЫВОД</b></font>
+<dd>&nbsp;&nbsp; <font color="Black">Схема потенциально пригодна для снижения потребления энергии от источника, или организации самозапитки.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black"><b>СХЕМА С ДВУМЯ КАТУШКАМИ И ОДНИМ ОТВОДОМ</b></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">	Схема основана на замкнутом магнитопроводе и имеет одну входную катушку и одну выходную катушку. Выходная катушка состоит из двух равных половин намотанных в противоположные стороны. К одной из половин выходной катушки подключен резонансный конденсатор.</font>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-33.png" alt="0x01 graphic" height="148" width="633" ><br></font><font color="Black"></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">Принцип работы сходен с предыдущим вариантам. В момент прохождения импульса конденсатор "замыкает" одну половину выходной катушки.</font>
+<dd>&nbsp;&nbsp; <font color="Black">Ферритовое кольцо примерно М1500НМ 66х40х6 мм. Входная катушка состоит из 5 витков, выходная из 30 + 30 витков, резонансный конденсатор 1500 пф.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">Результаты приведены на рисунках ниже.</font>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-34.jpg" alt="0x01 graphic" width="533" height="300" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Частота 1 МГц</font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-35.jpg" alt="0x01 graphic" width="533" height="300" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Частота 100 Кгц</font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-36.jpg" alt="0x01 graphic" height="300" width="533" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Частота 10 Кгц</font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">РЕЗУЛЬТАТ</font>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u>Резонансную часть катушки можно замыкать, яркость свечения диодов не меняется.</u></b></font><font color="Black"> Зависимость яркости только от частоты.</font>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u>Выходную катушку можно замыкать, резонанс от этого не нарушается.</u></b></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u></u></b></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b>ВЫВОД</b></font>
+<dd>&nbsp;&nbsp; <font color="Black">Все, как и ранее, только реализация другая.</font>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u>Импульсные и резонансные поля ортогональны.</u></b></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b>ОБЩИЙ ВЫВОД</b></font>
+<dd>&nbsp;&nbsp; <font color="Black">Схема потенциально пригодна для снижения потребления энергии от источника, или организации самозапитки.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black"><b>СХЕМА С ОДНОЙ КАТУШКОЙ, ОДНИМ ОТВОДОМ</b></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><b>И ОДНИМ КОНДЕНСАТОРОМ</b></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black">	</font>
+<dd>&nbsp;&nbsp; <font color="Black">Использован замкнутый магнитопровод М1000 НН 40х25х8 мм. Катушка состоит из двух равных половин, намотанных в </font><font color="Black"><b><u>противоположных</u></b></font><font color="Black"> направлениях. В каждой половине по 20 витков. На одну из половин подаётся сигнал, к другой половине подключен резонансный конденсатор. Нагрузка подключена ко всей катушке. В силу того, что намотка половин катушки сделана в разных направлениях, сигнал на нагрузке при гармоническом воздействии отсутствует.</font>
+<dd>&nbsp;&nbsp; <font color="Black">	Принцип работы, как и ранее: импульс замыкает конденсатор.</font>
+<dd>&nbsp;&nbsp; <font color="Black">	Результаты приведены ниже.</font>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-37.png" width="418" height="108" alt="0x01 graphic" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-38.jpg" alt="0x01 graphic" width="533" height="300" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Частота 1 МГц</font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-39.jpg" width="533" height="300" alt="0x01 graphic" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Частота 100 Кгц</font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-40.jpg" height="300" width="533" alt="0x01 graphic" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Частота 10 Кгц</font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"><b>РЕЗУЛЬТАТ</b></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u>Резонансную часть катушки можно замыкать, яркость свечения диодов не меняется.</u></b></font><font color="Black"> Зависимость яркости только от частоты.</font>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u>Нагрузку можно замыкать, резонанс от этого не нарушается.</u></b></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u></u></b></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b>ВЫВОД</b></font>
+<dd>&nbsp;&nbsp; <font color="Black">Все, как и ранее, только реализация другая.</font>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u>Импульсные и резонансные поля ортогональны.</u></b></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b>ОБЩИЙ ВЫВОД</b></font>
+<dd>&nbsp;&nbsp; <font color="Black">Схема потенциально пригодна для снижения потребления энергии от источника, или организации самозапитки.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b>ДОПОЛНЕНИЕ</b></font>
+<dd>&nbsp;&nbsp; <font color="Black">	Далее будет рассмотрена эта схема на основе бифилярной катушки. Но, не сразу, а после исследования свойств бифилярной намотки.</font>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black"><b>СХЕМА С БИФИЛЯРОМ</b></font><font color="Black"></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">	</font><font color="Black">Приведённые ранее варианты схем можно было бы расширять, придумывая всё новые варианты. Однако, делать это особого смысла нет</font><font color="Black">:</font><font color="Black"> все они будут работать по одному и тому же принципу.</font><font color="Black"> Более интересно рассмотреть </font><font color="Black">что-то</font><font color="Black"> новое, например, бифилярную намотку</font><font color="Black"> (или другую намотку),</font><font color="Black"> </font><font color="Black">о</font><font color="Black">ставляя сам принцип без изменения.</font><font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">Легко заметить, что первоначальную схему со средним отводом можно повторить для бифиляра. То сеть, схема неизменна, только вместо обычных катушек используется бифиляр - вариант А.</font>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-41.png" alt="0x01 graphic" width="437" height="124" ><br></font><font color="Black"> вариант  </font><font color="Black">А</font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">	Либо слегка изменить, не меняя сущности схемы - вариант В.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-42.png" width="437" height="132" alt="0x01 graphic" ><br></font><font color="Black">   вариант </font><font color="Black">В</font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black">Принцип работы, как и ранее. Но, есть</font><font color="Black"> одно, НО! Импульс "замыкает" конденсаторы и нагрузка оказывается подключенной к короткозамкнутому бифиляру!!! Будет ли это работать? Ведь это короткое замыкание! </font>
+<dd>&nbsp;&nbsp; <font color="Black">Вначале проверим сам вариант "В" при реализации на ферритовом кольце, так как вариант "А" на кольце уже проверялся ранее. Результаты варианта "В" на кольце приведены ниже.</font>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><b>СХЕМА "В" АНАЛОГИЧНАЯ БИФИЛЯРУ</b></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-43.png" alt="0x01 graphic" width="457" height="152" ><br></font><font color="Black"></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">При реализации было использовано ферритовое кольцо М1000НН 40х25х8 мм и намотано две обмотки по 20 витков. Результаты представлены ниже.</font>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-44.jpg" alt="0x01 graphic" height="300" width="533" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Частота 1 МГц</font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-45.jpg" width="533" height="300" alt="0x01 graphic" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Частота 100 Кгц</font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-46.jpg" width="533" height="300" alt="0x01 graphic" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Частота 10 Кгц</font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"><b>РЕЗУЛЬТАТ</b></font>
+<dd>&nbsp;&nbsp; <font color="Black">Всё работает. </font>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u>Конденсаторы можно замыкать, яркость свечения диодов не меняется.</u></b></font><font color="Black"> Зависимость яркости только от частоты.</font>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u>Нагрузку можно замыкать, резонанс от этого не нарушается.</u></b></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u>Импульсные и резонансные поля ортогональны.</u></b></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u></u></b></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b>ОБЩИЙ ВЫВОД</b></font>
+<dd>&nbsp;&nbsp; <font color="Black">Схема потенциально пригодна для снижения потребления энергии от источника, или организации самозапитки.</font>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u></u></b></font>
+<dd>&nbsp;&nbsp; <font color="Black">	Теперь переходим к бифиляру, по приведённой изначально схеме - </font><font color="Black"><b><u>вариант "В".</u></b></font><font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">В качестве бифиляра была использована полиэтиленовая труба диаметром 50 мм с намотанными на ней 73 витками двойного провода (число витков не принципиально).</font>
+<dd>&nbsp;&nbsp; <font color="Black">Результаты приведены ниже.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-47.jpg" width="533" height="300" alt="0x01 graphic" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Частота 1 МГц</font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-48.jpg" width="533" height="300" alt="0x01 graphic" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Частота 100 Кгц</font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-49.jpg" width="533" height="300" alt="0x01 graphic" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Частота 10 Кгц</font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"><b>РЕЗУЛЬТАТ</b></font>
+<dd>&nbsp;&nbsp; <font color="Black">Всё работает. </font>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u>Конденсаторы можно замыкать, яркость свечения диодов не меняется.</u></b></font><font color="Black"> Зависимость яркости только от частоты.</font>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u>Нагрузку можно замыкать, резонанс от этого не нарушается.</u></b></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b>ВЫВОД</b></font>
+<dd>&nbsp;&nbsp; <font color="Black">Такой результат возможен, только если индуктивность короткозамкнутого бифиляра не равна нулю. Она маленькая, но не нулевая! Но, как такое может быть, ведь это короткое замыкание!</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b>ОБЩИЙ ВЫВОД</b></font>
+<dd>&nbsp;&nbsp; <font color="Black">Схема потенциально пригодна для снижения потребления энергии от источника, или организации самозапитки.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">	Попробуем сделать бифиляр из витой пары, воспользовавшись готовым кабелем. Витая пара должна "убить" индуктивность при коротком замыкании?</font>
+<dd>&nbsp;&nbsp; <font color="Black">Посмотрим. Результаты приведены ниже.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black"><b>БИФИЛЯР ИЗ КАБЕЛЯ - СХЕМА ВАРИАНТ "В"</b></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black">	Использован кабель от Интернета с четырьмя витыми парами в общей пластиковой оболочке. Длина намотки примерно 75 мм, внутренний диаметр катушки примерно 25 мм, внешний диаметр примерно 63 мм. Уложено 4 слоя кабеля (и 3 витка 5-го слоя, чтобы не резать кабель). Два конденсатора по 1500 пф.</font>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-50.jpg" alt="0x01 graphic" width="533" height="300" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Частота 1 Мгц</font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-51.jpg" alt="0x01 graphic" width="533" height="300" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Частота 100 Кгц</font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-52.jpg" width="533" height="300" alt="0x01 graphic" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Частота 10 Кгц</font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"><b>РЕЗУЛЬТАТ</b></font>
+<dd>&nbsp;&nbsp; <font color="Black">Опять всё работает!!! </font>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u>Конденсаторы можно замыкать, яркость свечения диодов не меняется.</u></b></font><font color="Black"> Зависимость яркости только от частоты.</font>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u>Нагрузку можно замыкать, резонанс от этого не нарушается.</u></b></font><font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b>ВЫВОД</b></font>
+<dd>&nbsp;&nbsp; <font color="Black">Даже витой парой не удаётся убить полностью индуктивность короткозамкнутого бифиляра. Индуктивность остаётся отличной от нуля!!</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b>ОБЩИЙ ВЫВОД</b></font>
+<dd>&nbsp;&nbsp; <font color="Black">Схема потенциально пригодна для снижения потребления энергии от источника, или организации самозапитки.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b>БОЛЕЕ ТОГО</b></font>
+<dd>&nbsp;&nbsp; <font color="Black">Если одну жилу бифиляра замкнуть, а к другой подключить генератор гармонических колебаний, то с повышением частоты падение напряжения на этой незамкнутой жиле будет возрастать. То есть, она ведёт себя как индуктивность! Таким образом, даже короткое замыкание одной жилы не "убивает" индуктивность полностью. Индуктивность маленькая, но не нулевая...</font>
+<dd>&nbsp;&nbsp; <font color="Black">Исходя из этого, рассмотрим ещё одну схему.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black"><b>БИФИЛЯР ИЗ КАБЕЛЯ С ОДНИМ КОНДЕНСАТОРОМ</b></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">	Ещё одна схема (обещанная ранее), подтверждающая, что индуктивность не исчезает полностью. Бифиляр также будет из витой пары. Параллельно одной жиле подключен конденсатор 1500 пф. </font>
+<dd>&nbsp;&nbsp; <font color="Black">Принцип аналогичен предыдущему: импульс замыкает конденсатор. При гармоническом колебании напряжение на нагрузке равно нулю.</font>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-53.png" height="110" width="425" alt="0x01 graphic" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-54.jpg" alt="0x01 graphic" width="533" height="300" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Частота 1Мгц</font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-55.jpg" height="300" width="533" alt="0x01 graphic" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Частота 100 Кгц</font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-56.jpg" height="300" width="533" alt="0x01 graphic" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Частота 10 Кгц</font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"><b>РЕЗУЛЬТАТ</b></font>
+<dd>&nbsp;&nbsp; <font color="Black">Опять всё работает!!!</font>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u>Конденсатор можно замыкать, яркость свечения диодов не меняется.</u></b></font><font color="Black"> Зависимость яркости только от частоты.</font>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u>Нагрузку можно замыкать, резонанс от этого не нарушается.</u></b></font><font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b>ОБЩИЙ ВЫВОД</b></font>
+<dd>&nbsp;&nbsp; <font color="Black">Схема потенциально пригодна для снижения потребления энергии от источника, или организации самозапитки.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">Почему индуктивность даже короткозамкнутого бифиляра не становится равной нулю? Попробуем ответить на этот вопрос.</font>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><b>БИФИЛЯР КОРОТКОЗАМКНУТЫЙ</b></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black">	Схемы с бифиляром показали, что при его замыкании в момент прохождения импульса, </font><font color="Black"><b><u>индуктивность не исчезает полностью</u></b></font><font color="Black">. </font><font color="Black"><b><u>Это определяется тем, что провода в бифиляре занимают не одно и тоже пространство, а несколько смещены друг относительно друга. </u></b></font>
+<dd>&nbsp;&nbsp; <font color="Black">	То есть, фактически это две катушки с полюсами, направленными на встречу друг друга, но расположенные очень близко. Следовательно, при возбуждении короткозамкнутого бифиляра, один из его полюсов должен располагаться в его середине, а два противоположных по краям (как у встречных катушек). </font>
+<dd>&nbsp;&nbsp; <font color="Black">	При этом, жилы бифиляра можно коммутировать по- разному.</font>
+<ol type="1" start="1">
+<dd>&nbsp;&nbsp;-- 
+<font color="Black"><b><u>Параллельный короткозамкнутый бифиляр</u></b></font><font color="Black"> - жилы создающие встречные поля включены параллельно.</font>
+<dd>&nbsp;&nbsp;-- 
+<font color="Black"><b><u>Последовательный короткозамкнутый бифиляр</u></b></font><font color="Black"> - жилы создающие встречные поля включены последовательно.</font>
+<dd>&nbsp;&nbsp;-- 
+<font color="Black"><b><u>Шунтированный последовательный короткозамкнутый бифиляр</u></b></font><font color="Black"> - всё как у предыдущего, но одна жила шунтирована коротким проводом.</font>
+</ol>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-57.png" alt="0x01 graphic" height="108" width="254" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black">Самым "безумным" кажется третий вариант. Но, он вполне реален! Встречное поле будет создавать шунтированная жила за счёт возникающей противо ЭДС. А схема бифиляра из кабеля с одним конденсатором, приведённая ранее, это подтверждает!</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u>По идее, все варианты коммутации должны создавать одинаковое поле.</u></b></font>
+<dd>&nbsp;&nbsp; <font color="Black">То есть, поле аналогичное полю двух встречных катушек.</font>
+<dd>&nbsp;&nbsp; <font color="Black">Однако, проведём эксперимент, для наиболее известного случая. </font>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><b>ПРАЛЛЕЛЬНЫЙ КОРОТКОЗАМКНУТЫЙ БИФИЛЯР НА ЧАСТИ КОЛЬЦА</b></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">Намотаем бифиляр на кольцевом сердечнике и замкнём окончание каждой жилы с началом другой - это и будет </font><font color="Black"><b><u>параллельный короткозамкнутый бифиляр. </u></b></font>
+<dd>&nbsp;&nbsp; <font color="Black">Ферритовое кольцо примерно М1000НН 80х50х8 мм, число витков двойным проводом равно 17. Получим параллельный короткозамкнутый бифиляр. Если предположение, сделанное ранее верно, то при возбуждении бифиляра поле должно "выйти" в середине бифиляра. Для его обнаружения наденем на кольцевой сердечник снаружи детектирующую катушку - 6 витков, диаметром примерно 85 мм, с возможностью изменения её положения относительно бифиляра. Получим то, что показано ниже.</font>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-58.jpg" height="300" width="533" alt="0x01 graphic" ><br></font><font color="Black">  </font><font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-59.jpg" alt="0x01 graphic" height="300" width="533" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Красный - сигнал на короткозамкнутом бифиляре, жёлтый - сигнал</font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">на детектирующей катушке</font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-60.jpg" width="533" height="300" alt="0x01 graphic" ><br></font><font color="Black">  </font><font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-61.jpg" height="300" width="533" alt="0x01 graphic" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Красный - сигнал на короткозамкнутом бифиляре, жёлтый - сигнал</font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">на детектирующей катушке</font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><b>ПАРАЛЛЕЛЬНЫЙ КОРОТКОЗАМКНУТЫЙ БИФИЛЯР НА ВСЕМ КОЛЬЦЕ</b></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">Ферритовое кольцо примерно М1000НН 80х50х8 мм, число витков до заполнения кольца. Примерно 45 витков двойным проводом. Детектирующая катушка та же, что и ранее.</font>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-62.jpg" height="300" width="533" alt="0x01 graphic" ><br></font><font color="Black">  </font><font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-63.jpg" height="300" width="533" alt="0x01 graphic" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Красный - сигнал на короткозамкнутом бифиляре, жёлтый - сигнал</font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">на детектирующей катушке</font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-64.jpg" height="300" width="533" alt="0x01 graphic" ><br></font><font color="Black"> </font><font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-65.jpg" width="533" height="300" alt="0x01 graphic" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Красный - сигнал на короткозамкнутом бифиляре, жёлтый - сигнал</font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">на детектирующей катушке</font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black">На параллельный короткозамкнутый бифиляр подадим короткие импульсы (продифференцированный меандр) и посмотрим сигнал на выходе детектирующей катушки при различном положении бифиляра.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b>РЕЗУЛЬТАТ</b></font>
+<dd>&nbsp;&nbsp; <font color="Black">	При определенном положении короткозамкнутого бифиляра относительно детектирующей катушки на ней наблюдается сигнал. Поле выходит за пределы кольцевого сердечника именно по середине бифиляра.</font>
+<dd>&nbsp;&nbsp; <font color="Black"><b>ВЫВОД</b></font>
+<dd>&nbsp;&nbsp; <font color="Black">	Индуктивность не исчезает полностью, хотя и становится очень маленькой. </font><font color="Black"><b><u>Результирующее поле параллельного короткозамкнутого бифиляра как от двух катушек, направленных на встречу друг друга.</u></b></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">То есть, предположение для данного варианта коммутации и данных конструкций подтвердилось. А сейчас проверим другие варианты коммутации на другой конструкции.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black"><b>ПРОВЕРКА ВСЕХ ВАРИАНТОВ КОММУТАЦИИ</b></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black">	</font>
+<dd>&nbsp;&nbsp; <font color="Black">В экспериментах будем использовать бифиляр, намотанный на катушке из-под сантехнической ленты. Внутренний диаметр, катушки 25 мм, а внешний 85 мм. Ширина катушки 22 мм. Бифиляр намотаем до заполнения катушки двойным высоковольтным проводом в изоляции.</font>
+<dd>&nbsp;&nbsp; <font color="Black">Для проверки коммутации бифиляров будем использовать дополнительную катушку, состоящую из двух половин, намотанных встречно. Для этого по бокам бифиляра прикрепим две спиральные плоские катушки, соединенные встречно. Если в этой катушке (состоящей из двух встречных) будет наводиться ЭДС и светодиоды, подключенные к ней, будут светиться - значит, бифиляр создаёт поле аналогичное полю двух встречных катушек.</font>
+<dd>&nbsp;&nbsp; <font color="Black">При этом, коммутированный определённым образом бифиляр, будем подключать непосредственно к генератору прямоугольных импульсов через дифференцирующий конденсатор. </font><font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">Результаты приведены ниже.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-66.jpg" alt="0x01 graphic" height="203" width="683" ><br></font><font color="Black"></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">РЕЗУЛЬТАТ</font>
+<dd>&nbsp;&nbsp; <font color="Black">Светодиоды светятся при всех вариантах коммутации. То есть, для всех вариантов коммутации короткозамкнутого бифиляра создаётся поле аналогичное полю двух встречных катушек.</font>
+<dd>&nbsp;&nbsp; <font color="Black">ПРИМЕЧАНИЕ</font>
+<dd>&nbsp;&nbsp; <font color="Black">Вместо спиральных катушек по бокам можно было использовать обычные катушки по бокам.</font>
+<dd>&nbsp;&nbsp; <font color="Black">ПРИМЕЧАНИЕ</font>
+<dd>&nbsp;&nbsp; <font color="Black">Вариант (3) создаёт не полностью симметричное поле, так как поле противо ЭДС несколько меньше основного поля. В результате основное поле "давится" несколько меньше. Возникает перекос.</font>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-67.png" alt="0x01 graphic" height="91" width="374" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black">Как следствие, в одной боковой катушке ЭДС увеличивается, а в другой уменьшается. Но, сумма остаётся неизменной - яркость свечения светодиодов не меняется.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">СЛЕДСТВИЕ</font>
+<dd>&nbsp;&nbsp; <font color="Black">Индуктивность последовательных короткозамкнутых бифиляров по варианту (2) и (3) одинакова.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">ПРИМЕЧАНИЕ</font>
+<dd>&nbsp;&nbsp; <font color="Black">Подобные исследования можно провести на плоском бифиляре, показанном ниже</font>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-68.jpg" height="300" width="533" alt="0x01 graphic" ><br></font><font color="Black"></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black">Результаты будут аналогичными.</font>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black"><b>СХЕМА БИФИЛЯРА "В" С ДОПОЛНИТЕЛЬНОЙ КАТУШКОЙ</b></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black">Вот и пришло время провести эксперимент с дополнительной катушкой, о которой говорилось в начале работы, где описывался принцип резонансно - шунтирующего конденсатора.</font>
+<dd>&nbsp;&nbsp; <font color="Black">Выяснив, какое поле возникает при возбуждении короткозамкнутых бифиляров, можно воспользоваться той же катушкой, и провести эксперимент на её основе, усложнив схему бифиляра "В". Схема эксперимента показана ниже.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-69.png" alt="0x01 graphic" width="556" height="110" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black">В этом эксперименте в качестве выходной катушки используются две катушки, прикреплённые по бокам и включенные встречно (спиральные или обычные). То есть все составные части, которые использовались при анализе характера поля. Добавлены только резонансные конденсаторы.</font>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-70.jpg" alt="0x01 graphic" height="300" width="533" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">По бокам две спиральных или обычных катушки</font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">Результаты при использовании спиральных катушек приведены ниже. При использовании обычных катушек результаты аналогичны.</font>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-71.jpg" alt="0x01 graphic" width="533" height="300" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Частота 1 МГц</font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-72.jpg" alt="0x01 graphic" width="533" height="300" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Частота 100 Кгц</font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-73.jpg" width="533" height="300" alt="0x01 graphic" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Частота 10 Кгц</font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"><b>РЕЗУЛЬТАТ</b></font>
+<dd>&nbsp;&nbsp; <font color="Black">Всё работает, что было вполне ожидаемо. </font>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u>Конденсаторы можно замыкать, яркость свечения диодов не меняется.</u></b></font><font color="Black"> Зависимость яркости только от частоты.</font>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u>Выходную катушку можно замыкать, резонанс от этого не нарушается.</u></b></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u>При гармоническом возбуждении светодиоды не горят.</u></b></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b>ВЫВОД</b></font>
+<dd>&nbsp;&nbsp; <font color="Black">Утверждение о характере поля короткозамкнутого бифиляра ещё раз полностью подтвердилось.</font>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u>Импульсные и резонансные поля ортогональны.</u></b></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b>ОБЩИЙ ВЫВОД</b></font>
+<dd>&nbsp;&nbsp; <font color="Black">Схема потенциально пригодна для снижения потребления энергии от источника, или организации самозапитки.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b>ДОПОЛНЕНИЕ</b></font>
+<dd>&nbsp;&nbsp; <font color="Black">Аналогичный эксперимент можно провести с обычным цилиндрическим бифиляром, намотав сверху две встречные катушки.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black"><b>СХЕМА С ТОРОИДАЛЬНОЙ ЗАМКНУТОЙ КАТУШКОЙ</b></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">	Схема очень схожа со схемой для бифиляра (вариант "В"). Однако, вместо бифиляра используется однослойная короткозамкнутая катушка, намотанная вдоль всего кольцевого сердечника, с отводами через 90 градусов.</font>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-74.png" alt="0x01 graphic" width="582" height="178" ><br></font><font color="Black"></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black">То есть, при намотке должен быть соблюдён принцип: общее число витков равно 4</font><font color="Black">N</font><font color="Black">, где </font><font color="Black">N</font><font color="Black"> число витков в одной четверти. Намотка обычная, после чего соединяют начало с концом.	</font>
+<dd>&nbsp;&nbsp; <font color="Black">Принцип работы прежний. В момент импульса конденсаторы "замыкают" катушку.</font>
+<dd>&nbsp;&nbsp; <font color="Black">Результаты приведены ниже. Использовалось кольцо примерно М1500 НМ 87х55х13 мм, в каждую четверть поместилось 19 витков изолированного провода.</font>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-75.jpg" alt="0x01 graphic" height="300" width="533" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Частота 1 МГц</font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-76.jpg" height="300" width="533" alt="0x01 graphic" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Частота 100 Кгц</font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-77.jpg" alt="0x01 graphic" width="533" height="300" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Частота 10 Кгц</font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"><b>РЕЗУЛЬТАТ</b></font>
+<dd>&nbsp;&nbsp; <font color="Black">Всё работает. </font>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u>Конденсаторы можно замыкать, яркость свечения диодов не меняется.</u></b></font><font color="Black"> Зависимость яркости только от частоты.</font>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u>Нагрузку можно замыкать, резонанс от этого не нарушается.</u></b></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u>При гармоническом возбуждении светодиоды не горят.</u></b></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u>Импульсные и резонансные поля ортогональны.</u></b></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u></u></b></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b>ОБЩИЙ ВЫВОД</b></font>
+<dd>&nbsp;&nbsp; <font color="Black">Схема потенциально пригодна для снижения потребления энергии от источника, или организации самозапитки.</font>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u></u></b></font>
+<div align="center" >
+<p >
+<font color="Black"><b>ЕЩЁ РАЗ ЦИЛИНДРИЧЕСКИЙ БИФИЛЯР</b></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black">	</font>
+<dd>&nbsp;&nbsp; <font color="Black">Соберем первоначальную схему с бифиляром (вариант "В") и посмотрим при импульсном возбуждении, какое поле выходит из середины бифиляра и какое поле выходит сбоку (или с торца). Для этого воспользуемся дополнительной детектирующей катушкой (прежней), помещая её в различные места бифиляра при наличии резонанса.</font>
+<dd>&nbsp;&nbsp; <font color="Black">Результаты приведены ниже.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-78.jpg" alt="0x01 graphic" width="533" height="300" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-79.jpg" alt="0x01 graphic" width="533" height="300" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Сигнал сбоку бифиляра при резонансе</font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-80.jpg" height="300" width="533" alt="0x01 graphic" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-81.jpg" height="300" width="533" alt="0x01 graphic" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Сигнал из центра бифиляра при резонансе</font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black">РЕЗУЛЬТАТ</font>
+<dd>&nbsp;&nbsp; <font color="Black">	Из середины цилиндрического бифиляра выходит сигнал соответствующий короткому замыканию бифиляра, то есть только импульсы возбуждения.</font>
+<dd>&nbsp;&nbsp; <font color="Black">	Сбоку сигнал, как от импульсов возбуждения, так и от резонанса.</font>
+<dd>&nbsp;&nbsp; <font color="Black">ВЫВОД</font>
+<dd>&nbsp;&nbsp; <font color="Black">	Всё подтвердилось на реальной схеме. Результат полностью ожидаемый:</font>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u>ИМПУЛЬСНОЕ ПОЛЕ ОРТОГОНАЛЬНО РЕЗОНАНСНОМУ ПОЛЮ.</u></b></font>
+<dd>&nbsp;&nbsp; <font color="Black">	То есть, импульсное поле выходит из середины катушки (перпендикулярно оси катушки), а резонансное поле идёт вдоль оси катушки. Следовательно, для простейшего цилиндрического бифиляра предположение о характере поля тоже подтвердилось.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black"><b>ЗАКЛЮЧЕНИЕ</b></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black">	Проведённые исследования по импульсному возбуждению резонанса говорят о большом разнообразии возможных схем с резонансно - шунтирующим конденсатором. Но, не отвечают на вопрос: "Резонанс защищает от потребления энергии от источника при импульсном возбуждении, или это просто разновидность расфильтровки?"</font>
+<dd>&nbsp;&nbsp; <font color="Black">	Если резонанс не защищает от потребления энергии, то будет интересен подход, показанный на рисунке во введении.</font>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-82.png" width="357" height="150" alt="0x01 graphic" ><br></font><font color="Black"></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">	Здесь энергия импульсов почти полностью (с учетом КПД) возвращается в источник питания, а энергия резонанса сбрасывается в нагрузку.</font>
+<dd>&nbsp;&nbsp; <font color="Black">	Такой подход аналогичен подходу Эдвина Грея в его приборах. Но, сами схемы совершенно другие.</font>
+<dd>&nbsp;&nbsp; <font color="Black">	Чтобы обеспечить здесь полную самозапитку, часть энергии (но далеко не всю) из нагрузки придётся также вернуть в источник питания, чтобы компенсировать потери на КПД.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black"><b>ПОЛУЧЕНИЕ ЧАСТОТЫ 50 - 60 ГЦ НА ВЫХОДЕ</b></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black">	Проведённые исследования позволяют говорить о том, что на выходе подобных устройств можно получать частоту 50 - 60 Гц. Для этого достаточно чередовать полярность возбуждающих импульсов с частотой 50  - 60 Гц. А на выходе поставить низкочастотный фильтр.</font>
+<dd>&nbsp;&nbsp; <font color="Black">Для этого можно сделать генераторы пачек импульсов по двум каналам. Когда в одном канале импульсы есть, то в другом отсутствуют, и наоборот. Выходы каналов подключить к первичной катушке повышающего трансформатора, имеющей средний отвод. Это даст инвертирование полярности импульсов в высоковольтной катушке, что приведёт к появлению частоты 55 Гц на выходе устройства "свободной энергии". </font>
+<dd>&nbsp;&nbsp; <font color="Black">Такие генераторы были собраны. Их вид представлен на фотографиях ниже. В выходных каскадах стоят полевые транзисторы </font><font color="Black">IRF</font><font color="Black">3205.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-83.jpg" width="533" height="300" alt="0x01 graphic" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Генераторы, собранные по разным схемам</font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-84.jpg" alt="0x01 graphic" width="533" height="300" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Генератор на дискретных элементах</font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-85.jpg" alt="0x01 graphic" width="533" height="300" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Генератор с использованием микросхемы,</font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">выходной трансформатор не установлен</font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">	Частота в пачке 75 Кгц, частота пачек 55 Гц. Осциллограммы получены для генератора на дискретных элементах, с выхода драйверов для полевых транзисторов. Драйвер на КТ972А и КТ973А (Дарлингтон).</font>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-86.jpg" width="533" height="300" alt="0x01 graphic" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Частота пачек 55 Гц</font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Импульсы 75 Кгц внутри пачек</font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">(конец одной пачки и начало другой)</font><font color="Black"><br></font><font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-87.jpg" alt="0x01 graphic" height="300" width="533" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Устройство на дискретных элементах оказалось слишком мощным и вышло из строя. Эксперимент остановлен. Устройство с использованием микросхемы давало пачки со скважностью 45 процентов вместо требуемой скважности 50, что связано с самой микросхемой. В раздумьях, что дальше делать. Видимо, надо отремонтировать вышедший из строя генератор.</font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black">То, что на выходе будет частота 50 - 60 Гц сомнений нет. Есть сомнения относительно сверх единичных эффектов.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black"><b>РАЗДЕЛЕНИЕ ПОЛЕЙ В "НОЛЬ - ТРАНСФОРМАТОРЕ"</b></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">	О ноль трансформаторах в "Секретах Теслы", здесь используем вариант с короткозамкнутой катушкой по приведенной  схеме. </font>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-88.png" alt="0x01 graphic" height="262" width="630" ><br></font><font color="Black"></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black">Ниже приведена установка, собранная по приведенной схеме, и сигналы с детектирующих катушек. Все катушки из приведённых ранее экспериментов.</font>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-89.jpg" height="300" width="533" alt="0x01 graphic" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-90.jpg" alt="0x01 graphic" height="300" width="533" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Красный - импульсное поле, жёлтый - резонансное поле</font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">РЕЗУЛЬТАТ</font>
+<dd>&nbsp;&nbsp; <font color="Black">На выходах детектирующих катушек различные сигналы.</font>
+<dd>&nbsp;&nbsp; <font color="Black">ВЫВОД</font>
+<dd>&nbsp;&nbsp; <font color="Black">"Ноль - трансформатор" позволяет разделять импульсное и резонансное поле.</font>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u>Импульсные и резонансные поля ортогональны.</u></b></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black"><b><u>СХЕМЫ НАОБОРОТ</u></b></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black">	Для большинства приведённых ранее схем можно поменять вход с выходом, получив резонансные схемы, где разрушение резонанса практически не влияет на входные параметры. Схемы "слепы" к разрушению резонанса и подключению нагрузки.</font>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><b>СХЕМА "НАОБОРОТ" ДЛЯ БИФИЛЯРА С ОДНИМ КОНДЕНСАТОРОМ </b></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black">	Схема похожа на предыдущую схему, только убраны встречные катушки (то есть, импульсы мы не собираемся смотреть). А в качестве бифиляра использован кабель от Интернета. Фактически это упрощение предыдущей схемы, только бифилярная катушка другая.</font>
+<dd>&nbsp;&nbsp; <font color="Black">Ранее эта схема бифиляра с одним конденсатором уже приводилась. Здесь поменялся вход с выходом. Катушка и конденсатор как в экспериментах ранее.</font>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-91.png" width="366" height="142" alt="0x01 graphic" ><br></font><font color="Black"></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">Введём схему в резонанс. Светодиоды, играющие роль нагрузки, загорятся.</font>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-92.jpg" alt="0x01 graphic" width="533" height="300" ><br></font><font color="Black"></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">Далее подключим двух - канальный осциллограф к дифференцирующему конденсатору и к нагрузке и посмотрим сигналы при замыкании нагрузки.</font>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-93.jpg" alt="0x01 graphic" height="300" width="533" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Нагрузка не замкнута</font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Красный - сигнал с входа, жёлтый сигнал на нагрузке</font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-94.jpg" alt="0x01 graphic" height="300" width="533" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Нагрузка замкнута</font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Красный - сигнал с входа, жёлтый сигнал на нагрузке</font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"><b>РЕЗУЛЬТАТ</b></font>
+<dd>&nbsp;&nbsp; <font color="Black">При замыкании нагрузки сигнал по входу не изменился. </font><font color="Black"><b><u>Схема практически не замечает замыкание нагрузки.</u></b></font>
+<dd>&nbsp;&nbsp; <font color="Black">Объясняется это тем, что из варианта (2) последовательного короткозамкнутого бифиляра, она переходит в вариант (3). А по входу они аналогичны.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b>ДОПОЛНЕНИЕ</b></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u>Схема работает и при гармоническом входном сигнале, но сильно "просаживает" входное напряжение.</u></b></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u></u></b></font>
+<dd>&nbsp;&nbsp; <font color="Black">Далее можно посмотреть, как влияет замыкание нагрузки на создаваемое бифиляром поле.</font>
+<dd>&nbsp;&nbsp; <font color="Black">Для этого воспользуемся следующей схемой.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black"><b>СХЕМА НА ОСНОВЕ ПОСЛЕДОВАТЕЛЬНОГО КОРОТКОЗАМКНУТОГО БИФИЛЯРА</b></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black">	</font>
+<dd>&nbsp;&nbsp; <font color="Black">Схема аналогична схеме для проверки поля последовательного короткозамкнутого бифиляра, только добавлен резонансный конденсатор. </font>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-95.png" alt="0x01 graphic" height="170" width="433" ><br></font><font color="Black"></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">	В эксперименте была использована та же бифилярная катушка с двумя спиральными катушками по бокам, что и при проверке поля.</font>
+<dd>&nbsp;&nbsp; <font color="Black">	В качестве нагрузок использованы светодиоды.</font>
+<dd>&nbsp;&nbsp; <font color="Black">В начале подключаем двух - канальный осциллограф к входу и резонансному конденсатору. Далее вводим схему в резонанс: светодиоды на резонансном конденсаторе и на катушке из встречных половин (спиральные катушки) загорятся.</font>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-96.jpg" alt="0x01 graphic" width="533" height="300" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Схема в резонансе</font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black">Смотрим осциллограммы.</font>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-97.jpg" alt="0x01 graphic" width="533" height="300" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Красный - сигнал на входе, жёлтый - на резонансном конденсаторе</font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">	Далее замыкаем резонансный конденсатор, светодиоды на нём гаснут.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-98.jpg" height="300" width="533" alt="0x01 graphic" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Выход замкнут</font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">Однако светодиоды на спиральных катушках продолжают светиться. То есть, замыкание выхода на поле создаваемое бифиляром не повлияло.</font>
+<dd>&nbsp;&nbsp; <font color="Black">Смотрим осциллограммы.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-99.jpg" height="300" width="533" alt="0x01 graphic" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Красный - сигнал на входе, жёлтый - на резонансном конденсаторе</font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">Как видим, сигнал на входе тоже практически не изменился, хотя выход замкнут.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">ПРИМЕЧАНИЕ</font>
+<dd>&nbsp;&nbsp; <font color="Black">При использовании резонансного конденсатора ёмкостью около 150 пф, светодиод, подключенный к нему, светит много ярче. То есть, </font><font color="Black"><b><u>с повышением резонансной частоты напряжение на резонансном контуре возрастает.</u></b></font><font color="Black"> Он начинает светиться даже раньше светодиода, подключенного к боковым катушкам. Реакция на замыкание не меняется.</font>
+<dd>&nbsp;&nbsp; <font color="Black">ПРИМЕЧАНИЕ</font>
+<dd>&nbsp;&nbsp; <font color="Black">В качестве резонансного контура можно использовать отдельную катушку, прикладывая её сбоку бифиляра. Бифиляр был использован аналогичный, только меньшего размера, что не принципиально. При расположении катушки по середине бифиляра, ЭДС не наводится, чего и следовало ожидать.</font>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-100.jpg" alt="0x01 graphic" height="170" width="586" ><br></font><font color="Black"></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">Аналогичным "нечувствительным" образом ведут себя и другие схемы.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black">СХЕМА С ДВУМЯ КАТУШКАМИ И ДВУМЯ ОТВОДАМИ</font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-101.jpg" alt="0x01 graphic" height="300" width="533" ><br></font><font color="Black"></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black">Схема слегка изменена: выходная катушка намотана посередине катушки с отводами, которая стала входной. Сигнал подавался через резистор 100 Ом. При замыкании диодов они погаснут, а сигнал </font><font color="Black"><b><u>на входе</u></b></font><font color="Black"> почти не изменится. </font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black">СХЕМА С ДВУМЯ КАТУШКАМИ И ОДНИМ ОТВОДОМ</font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black">	Схема не изменена. Состоит из двух катушек. Одна обычная. Другая катушка из двух равных половин, намотанных встречно. К одной из половин подключён конденсатор. Но, теперь выходная катушка стала входной.</font>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-102.jpg" height="300" width="533" alt="0x01 graphic" ><br></font><font color="Black"></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black">При замыкании диодов они погаснут, а сигнал </font><font color="Black"><b><u>на входе</u></b></font><font color="Black"> почти не изменится. Сигнал подавался через резистор 100 Ом.</font>
+<dd>&nbsp;&nbsp; <font color="Black"><b>ДОПОЛНЕНИЕ</b></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u>Схема работает и при гармоническом входном сигнале, но сильно "просаживает" входное напряжение.</u></b></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black">СХЕМА РАЗДЕЛЕНИЯ ПОЛЕЙ В "НОЛЬ - ТРАНСФОРМАТОРЕ"</font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black">Схема полностью без изменений (</font><font color="Black"><b><u>выход с входом не менялся</u></b></font><font color="Black">), только подключены нагрузочные диоды параллельно резонансному конденсатору. Здесь конденсатор 0.01 мкф. Сигнал подавался через резистор 100 Ом. Резонанс около 360 Кгц.</font>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-103.jpg" alt="0x01 graphic" height="300" width="533" ><br></font><font color="Black"></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black">При замыкании диодов они погаснут, а сигнал </font><font color="Black"><b><u>на входе</u></b></font><font color="Black"> почти не изменится.</font>
+<dd>&nbsp;&nbsp; <font color="Black"><b>ДОПОЛНЕНИЕ</b></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u>Схема работает и при гармоническом входном сигнале, но сильно "просаживает" входное напряжение.</u></b></font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black">СХЕМА НОЛЬ - ТРАНСФОРМАТОРА НА КОЛЬЦЕ </font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">С КОМПЕНСИРУЮЩЕЙ ИНДУКТИВНОСТЬЮ</font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black">	О данном ноль - трансформаторе можно прочитать в "Секретах Теслы" в разделе "Как у Дональда Смита". Здесь же использовано тоже кольцо, как и в эксперименте ранее. Компенсирующая индуктивность намотана на М1000НН 40х25х8 мм, и содержит 16 витков.</font>
+<dd>&nbsp;&nbsp; <font color="Black">ЗАМЕЧАНИЕ</font>
+<dd>&nbsp;&nbsp; <font color="Black">При использовании низкочастотных ферритов для компенсирующей индуктивности хорошей компенсации добиться не удастся. Хотя, на чём мотать принципиального значения не имеет.</font>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-104.jpg" width="533" height="300" alt="0x01 graphic" ><br></font><font color="Black"></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black">	Сигнал подавался через резистор 100 Ом, резонансный конденсатор 1500 пф. Резонансная частота около 480 Кгц.</font>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">ВЫХОД НЕ ЗАМКНУТ</font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-105.jpg" alt="0x01 graphic" width="533" height="300" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Красный - сигнал на входе, жёлтый - сигнал на всей катушке,</font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">зелёный - сигнал на выходе (резонансном конденсаторе).</font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">ВЫХОД ЗАМКНУТ</font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-106.jpg" alt="0x01 graphic" height="300" width="533" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Красный - сигнал на входе, жёлтый - сигнал на всей катушке,</font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">зелёный - сигнал на выходе (резонансном конденсаторе).</font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">	Как видно из осциллограмм, замыкание выхода (замыкание резонансного конденсатора) практически </font><font color="Black"><b><u>не влияет на сигнал на входе</u></b></font><font color="Black">.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">СХЕМА НОЛЬ - ТРАНСФОРМАТОРА НА ЦИЛИНДРЕ </font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">С КОМПЕНСИРУЮЩЕЙ ИНДУКТИВНОСТЬЮ</font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black">О данном ноль - трансформаторе можно прочитать в "Секретах Теслы". Здесь использована катушка с отводом от середины. Намотано 76 витков на каркасе 50мм, длина намотки 145 мм. Внутрь вставлен ферритовый сердечник из колец М1000 НН 40х25х8 мм длиной 160 мм, со смещением в одну сторону.</font>
+<dd>&nbsp;&nbsp; <font color="Black">Компенсирующая индуктивность намотана на М1000НН 40х25х8 мм, и содержит 21 виток.</font>
+<dd>&nbsp;&nbsp; <font color="Black">ЗАМЕЧАНИЕ</font>
+<dd>&nbsp;&nbsp; <font color="Black">При использовании низкочастотных ферритов для компенсирующей индуктивности хорошей компенсации добиться не удастся. Хотя, на чём мотать принципиального значения не имеет.</font>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-107.jpg" height="300" width="533" alt="0x01 graphic" ><br></font><font color="Black"></font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black">Сигнал подавался через резистор 100 Ом, резонансный конденсатор 0.04 Мкф. Резонансная частота около 100 Кгц.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<div align="center" >
+<p >
+<font color="Black">ВЫХОД НЕ ЗАМКНУТ</font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-108.jpg" alt="0x01 graphic" height="300" width="533" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Красный - сигнал на входе, жёлтый - сигнал на всей катушке,</font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">зелёный - сигнал на выходе (резонансном конденсаторе).</font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">ВЫХОД ЗАМКНУТ</font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black"><img src="/img/u/utkin_w_m/exper-2/exper-2-109.jpg" alt="0x01 graphic" height="300" width="533" ><br></font><font color="Black"></font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">Красный - сигнал на входе, жёлтый - сигнал на всей катушке,</font>
+</p>
+</div>
+<div align="center" >
+<p >
+<font color="Black">зелёный - сигнал на выходе (резонансном конденсаторе).</font>
+</p>
+</div>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">Как видно из осциллограмм, замыкание выхода (замыкание резонансного конденсатора) практически </font><font color="Black"><b><u>не влияет на сигнал на входе</u></b></font><font color="Black">.</font>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u></u></b></font>
+<dd>&nbsp;&nbsp; <font color="Black"><b><u>ВОЗМОЖНЫ И ДРУГИЕ ВАРИАНТЫ СХЕМ "НАОБОРОТ"</u></b></font>
+<dd>&nbsp;&nbsp; <font color="Black">Но везде поведение схем будет аналогично. То есть, подключение нагрузки или замыкание выхода практически не сказывается на входе.</font>
+<dd>&nbsp;&nbsp; <font color="Black"></font>
+<dd>&nbsp;&nbsp; <font color="Black">P</font><font color="Black">.</font><font color="Black">S</font><font color="Black">. </font><font color="Black">Наиболее общие взгляды и подходы по данной тематике изложены в работе </font><font color="Black">"</font><font color="Black">Теоретические основы теслатехники</font><font color="Black">"</font><font color="Black"> </font><font color="Black"></font><font color="Black"></font><font color="Black"></font><font color="Black"><a href="/editors/u/utkin_w_m/teslatech.shtml"></font><font color="Black">http://samlib.ru/editors/u/utkin_w_m/teslatech.shtml</font><font color="Black"></a></font><font color="Black"></font>
+<!--Section Ends-->
+
+
+
+
+
+
+
+
+<xxx7>
+
+</div>
+<!-- ----------------------------------------------- -->
+
+</dd><hr size=2 noshade>
+
+<table border=0 cellpadding=0 cellspacing=0><tr>
+
+<!-- -- Блок описания произведения (слева внизу) ----------- -->
+
+<td><small><ul>
+<li><A HREF="/comment/u/utkin_w_m/exper-2">Комментарии: 8, последний от 01/01/2026.</A>
+<li>&copy; Copyright <a href=/u/utkin_w_m/>Уткин Владимир</a>
+ (<u>&#117&#46&#118&#64&#98&#107&#46&#114&#117</u>) 
+<li>Размещен: 27/09/2022, изменен: 08/01/2023. 102k. <a href=stat.shtml#exper-2.shtml>Статистика.</a>
+<li><a href=/type/index_type_5-1.shtml>Статья</a>: <a href="/janr/index_janr_20-1.shtml">Естествознание</a>
+</ul></small>
+</td>
+<td valign=bottom align=right>
+
+<!-- ------------ Блочек голосования (оценка) нижний ------ -->
+
+<form action="/cgi-bin/votecounter" method=POST>
+<input type=hidden name=FILE value=exper-2 >
+<input type=hidden name=DIR value=u/utkin_w_m >
+
+
+
+Оценка: <b>7.57*29</b>
+
+
+&nbsp;<font size="-1">Ваша оценка: <select name=BALL><br>
+<option value="1">не читать</option>
+<option value="2">очень плохо</option>
+<option value="3">плохо</option>
+<option value="4">посредственно</option>
+<option value="5">терпимо</option>
+<option value="0" selected>не читал</option>
+<option value="6">нормально</option>
+<option value="7">хорошая книга</option>
+<option value="8">отличная книга</option>
+<option value="9">великолепно</option>
+<option value="10">шедевр</option>
+</select>
+<input type=submit name="OK" value="ОК"></font>
+
+</form>
+
+<!-- ----------------------------------------------- -->
+
+</td></tr></table>
+
+<hr size=2 noshade>
+<!-- noindex>
+<Z_LITERA>
+ra 217.140.201.112
+</noindex -->
+<center><small><i><a href=/p/petrienko_p_w/>Связаться с программистом сайта</a>.</i></small></center>
+
+<noindex><b>
+
+<!-- 
+2019: 28.05 x , 01.09 x, 04.12 x
+2020: 28.02 4 , 04.06 3, 07.09 3
+2021: 07.02 3 , 31.07 1, 26.11 3
+2024: 19.03 2
+-->
+
+<p><font size="2">Новые книги авторов СИ, вышедшие из печати:<br>
+
+<!-- 10.03.2024 -->
+О.Болдырева&nbsp;<a href=/b/boldyrewa_o_m/kradysh.shtml>"Крадуш. Чужие души"</a>
+М.Николаев&nbsp;<a href=/n/nikolaew_m_p/invasion.shtml>"Вторжение на Землю"</a>
+
+<center><i><small><a href=/d/denisowa_e/1.shtml>Как попасть в этoт список</a></small></i></center>
+
+</font>
+</b></noindex>
+<p>
+<div align=center>
+<a href=https://leather-time.ru>Кожевенное мастерство</a> |
+Сайт <a href=http://www.artlib.ru>"Художники"</a> |
+<a href=http://www.recself.ru/?id=2025&idr=0>Доска об'явлений "Книги"</a></div>
+<p align="right"></p>
+<noindex><!--TopList COUNTER--><img height=1 width=1src="https://top.list.ru/counter?id=77427"alt=""><!--TopList COUNTER--></noindex>
+</body>
+</html>

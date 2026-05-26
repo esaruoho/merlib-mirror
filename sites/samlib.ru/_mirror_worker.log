@@ -1,0 +1,46 @@
+[2026-05-26 14:59:21] ============================================================
+[2026-05-26 14:59:21] LIVE MIRROR: samlib.ru
+[2026-05-26 14:59:21] Seed: https://samlib.ru/u/utkin_w_m/
+[2026-05-26 14:59:21] Seed path: /u/utkin_w_m
+[2026-05-26 14:59:21] Max link depth: 5
+[2026-05-26 14:59:21] Path filter: '/u/utkin_w_m' (links not containing this are dropped)
+[2026-05-26 14:59:21] Output: /Users/esaruoho/work/merlib-mirror/sites/samlib.ru
+[2026-05-26 14:59:21] ============================================================
+[2026-05-26 14:59:21] Crawling /u/utkin_w_m (download-as-you-go)...
+[2026-05-26 14:59:21]   [1 d0*] https://samlib.ru/u/utkin_w_m/  (1 OK, 0 queued)
+[2026-05-26 14:59:21]     +64 links (205 total known)
+[2026-05-26 14:59:21]   [2 d0*] https://samlib.ru/u/utkin_w_m/indextitle.shtml  (2 OK, 63 queued)
+[2026-05-26 14:59:22]   [3 d0*] https://samlib.ru/u/utkin_w_m/asecretofthemotor.shtml  (3 OK, 62 queued)
+[2026-05-26 14:59:22]   [4 d0*] https://samlib.ru/u/utkin_w_m/sinhro-trans.shtml  (4 OK, 61 queued)
+[2026-05-26 14:59:23]   [5 d0*] https://samlib.ru/u/utkin_w_m/effect.shtml  (5 OK, 60 queued)
+[2026-05-26 14:59:23]   [6 d0*] https://samlib.ru/u/utkin_w_m/nikola_secrets.shtml  (6 OK, 59 queued)
+[2026-05-26 14:59:24]   [7 d0*] https://samlib.ru/u/utkin_w_m/tesla-coil-en.shtml  (7 OK, 58 queued)
+[2026-05-26 14:59:24]   [8 d0*] https://samlib.ru/u/utkin_w_m/teslatech.shtml  (8 OK, 57 queued)
+[2026-05-26 14:59:25]   [9 d0*] https://samlib.ru/u/utkin_w_m/exper-2.shtml  (9 OK, 56 queued)
+[2026-05-26 14:59:25]   [10 d0*] https://samlib.ru/u/utkin_w_m/nikola_secrets_res_2.shtml  (10 OK, 55 queued)
+[2026-05-26 14:59:28]   [15 d0*] https://samlib.ru/u/utkin_w_m/voda.shtml  (15 OK, 50 queued)
+[2026-05-26 14:59:30]   [20 d0*] https://samlib.ru/u/utkin_w_m/nikola_secrets_res.shtml  (20 OK, 45 queued)
+/Users/esaruoho/work/merlib-mirror/mirror.py:80: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  "ts_iso": datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),
+[2026-05-26 14:59:33]   [25 d0*] https://samlib.ru/u/utkin_w_m/indexvote.shtml  (25 OK, 40 queued)
+[2026-05-26 14:59:38]   [35 d1] https://samlib.ru/img/u/utkin_w_m/tesla-coil/index.shtml  (34 OK, 30 queued)
+[2026-05-26 14:59:43]   [40 d1] https://samlib.ru/img/u/utkin_w_m/tesla-coil-en/index.shtml  (36 OK, 25 queued)
+[2026-05-26 14:59:46]   [45 d1] https://samlib.ru/img/u/utkin_w_m/nikola_secrets/index.shtml  (40 OK, 20 queued)
+[2026-05-26 14:59:56]   [60] 50 OK, 10 failed, 5 queued
+[2026-05-26 14:59:56]     last fail: https://samlib.ru/comment/u/utkin_w_m/sinhro-trans
+[2026-05-26 14:59:59]   [65 d1] https://samlib.ru/img/u/utkin_w_m/secrets_of_nikola/index.shtml  (53 OK, 0 queued)
+[2026-05-26 15:00:00] Generating index...
+[2026-05-26 15:00:00] Index: 550 files
+[2026-05-26 15:00:00]   .png: 288
+[2026-05-26 15:00:00]   .jpg: 208
+[2026-05-26 15:00:00]   .shtml: 52
+[2026-05-26 15:00:00]   .log: 1
+[2026-05-26 15:00:00]   .html: 1
+[2026-05-26 15:00:00] 
+============================================================
+[2026-05-26 15:00:00] LIVE MIRROR COMPLETE
+[2026-05-26 15:00:00] Downloaded: 65, OK: 53, Failed: 12
+[2026-05-26 15:00:00] Total URLs seen: 205
+[2026-05-26 15:00:00] ============================================================
+[2026-05-26 15:00:00] 
+Next step: fe-ingest.sh /Users/esaruoho/work/merlib-mirror/sites/samlib.ru
