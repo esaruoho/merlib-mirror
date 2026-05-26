@@ -222,6 +222,14 @@ process_job_file() {
   # write so a reader never sees a half-built file.
   write_heartbeat "processing" "$target" "$mode" "$path_filter" "$domain" "$(date -u +%Y-%m-%dT%H:%M:%SZ)"
 
+  # Clear any stale error.log from a prior failed run on this same domain.
+  # Otherwise: a job fails (writes error.log), gets resubmitted later, runs
+  # to completion, and commit_and_push includes the OLD error.log in the
+  # successful PR — the PR bot then warns "error.log present, exit non-zero"
+  # even though THIS run succeeded. error.log is a per-run signal; treat it
+  # that way.
+  rm -f "$SITES_DIR/$domain/error.log" 2>/dev/null || true
+
   # Choose output directory: offline/ for offline jobs, sites/ for normal
   local output_dir="$SITES_DIR"
   if [[ "$offline" == "true" ]]; then
