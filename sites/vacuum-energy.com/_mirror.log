@@ -1,0 +1,40 @@
+[2026-04-30 11:50:53] ============================================================
+[2026-04-30 11:50:53] WAYBACK MIRROR: vacuum-energy.com
+[2026-04-30 11:50:53] Output: /Users/esaruoho/work/merlib-mirror/sites/vacuum-energy.com
+[2026-04-30 11:50:53] Delay: 1.0s
+[2026-04-30 11:50:53] ============================================================
+[2026-04-30 11:50:53] Resuming: phase=init, 0 already done
+[2026-04-30 11:50:53] 
+=== PHASE 1: URL Discovery ===
+[2026-04-30 11:50:53] Querying CDX for vacuum-energy.com/*...
+[2026-04-30 11:50:55]   Found 29 URLs for vacuum-energy.com/*
+[2026-04-30 11:50:55] Querying CDX for www.vacuum-energy.com/*...
+[2026-04-30 11:51:04]   Found 29 URLs for www.vacuum-energy.com/*
+[2026-04-30 11:51:40] Total unique valid URLs: 30
+[2026-04-30 11:51:40]   text/html: 21
+[2026-04-30 11:51:40]   image/jpeg: 5
+[2026-04-30 11:51:40]   text/plain: 4
+[2026-04-30 11:51:40] 
+=== PHASE 2: Downloading ===
+[2026-04-30 11:52:14] [10/30] OK Hutchison.html (1,164b) @20031003
+[2026-04-30 11:54:44] [19/30] FAIL http://www.vacuum-energy.com:80/lssim.html
+[2026-04-30 11:56:08] [20/30] FAIL http://www.vacuum-energy.com:80/magvid.html
+[2026-04-30 11:56:38] [22/30] OK nacm.html (4,327b) @20011129
+[2026-04-30 11:57:40] 
+=== PHASE 3: Generating Index ===
+[2026-04-30 11:57:40] Generating index...
+[2026-04-30 11:57:40] Index: 45 files
+[2026-04-30 11:57:40]   .txt: 20
+[2026-04-30 11:57:40]   .html: 18
+[2026-04-30 11:57:40]   .jpg: 5
+[2026-04-30 11:57:40]   .wmv: 2
+[2026-04-30 11:57:40] 
+============================================================
+[2026-04-30 11:57:40] MIRROR COMPLETE
+[2026-04-30 11:57:40] Total URLs: 30
+[2026-04-30 11:57:40] Downloaded: 28
+[2026-04-30 11:57:40] Failed: 2
+[2026-04-30 11:57:40] Files: 45
+[2026-04-30 11:57:40] ============================================================
+[2026-04-30 11:57:40] 
+Next step: fe-ingest.sh /Users/esaruoho/work/merlib-mirror/sites/vacuum-energy.com

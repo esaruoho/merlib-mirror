@@ -1,0 +1,217 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>energyscience</title><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<style type="text/css">
+<!--
+body {	background-color: #eeeeee; font-family: Arial, Helvetica, sans-serif;	font-size: 12px;	font-style: normal; line-height: 16px; }
+.header {	font-size: 14px;color: white;	line-height: normal;	font-weight: bold;	background-color: #7A9DBD; }
+.domainname {	font-size: 22px;color: white;	line-height: normal;	font-weight: bold;	background-color: #7A9DBD; text-decoration:none; }
+a.menu { 		line-height: normal;	font-weight: normal; color:blue; text-decoration:none; }
+a.menu:hover { text-decoration:underline; }
+
+#navbar { color:white;background-color:#7A9DBD }
+#navbar ul { 	margin:0px;	list-style-type: none; 	padding-left: 1em;	text-indent: 0em; }
+#navbar li { 	margin:0px; 	padding:0px; 	height: 18px; 	display:block; 	float: left; }
+
+.navbarlink a { font-size: 13px;	font-weight: bold; color:white; text-decoration:none;padding:0px 10px 0px 10px;	border-left:1px solid #FFF;
+ }
+.navbarlink a:hover { 	text-decoration:underline;  }
+
+a.listinglink { color:#7A9DBD;text-decoration:none; }
+a.listinglink:hover { text-decoration:underline; }
+
+a.footerlink { font-size: 10px;color:#7A9DBD;text-decoration:none; }
+a.footerlink:hover { text-decoration:underline; }
+-->
+</style>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-72217-2";
+urchinTracker();
+</script>
+<script language="javascript">
+function check_searcha() {
+  var error = 0;
+  var first_name = document.search.Keywords.value;
+  if (first_name == "" || first_name.length < 3) {
+    error_message = "* Please use more than 2 characters when searching the web.";
+    error = 1;
+  } if (error == 1) {
+    alert(error_message);
+    return false;
+  } else {
+    return true;
+  }
+}
+//--></script>
+
+
+</head>
+<body marginwidth="0" marginheight="0" topmargin="0" bottommargin="0" leftmargin="0" rightmargin="0">
+  
+<table width="970" border="0" align="center" cellpadding="0" cellspacing="0" style="border-color : #666666;  border-style: solid; border-width: 1px;background-color:white">
+  <tr>
+    <td><table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr><td colspan=2><table width="100%" border="0"  cellpadding="5" cellspacing="0"><tr>
+    <td height=40px style="border-bottom: 1px solid #ffffff;" valign=bottom id="navbar"><b><a href="http://www.energyscience.co.uk" class="domainname">energyscience.co.uk</a></td>
+  <form name="search" action="http://www.zap.co.uk/index.php" method="POST"  onSubmit="return check_searcha();" target="_new"><td  style="border-bottom: 1px solid #ffffff;color:white;" align=right valign=bottom id="navbar"><b>Search the Web: <input type="text" value="" name="Keywords" id="Keywords" size=50><input type=hidden value=yes name=dirsearch>  <input type="submit" value="Search" style="font-family:Arial,Verdana;"></b></td></form>
+</tr></table></td></tr>
+  <tr>
+    <td width="150" class="header">&nbsp;&nbsp;Navigation</td>
+    <td id="navbar"><div id="navbar" nowrap>
+               <ul>
+                   
+      <li><span  class="navbarlink"><a href="category.php?subcat=130400&kid=120404&Keywords=Flowers">Flowers</a></span></li> <li><span  class="navbarlink"><a href="category.php?subcat=130400&kid=120405&Keywords=Plants">Plants</a></span></li> <li><span  class="navbarlink"><a href="category.php?subcat=130400&kid=120406&Keywords=Gardening Tools">Gardening Tools</a></span></li> <li><span  class="navbarlink"><a href="category.php?subcat=130400&kid=120407&Keywords=Herbs">Herbs</a></span></li> <li><span class="navbarlink">&nbsp;</span></li></ul></div></td>
+  
+  </tr>
+</table>
+<table width="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="left" valign="top" style="border-right: 1px dashed #7A9DBD;" width=150><table width=100% cellpadding=4 cellspacing=4>
+      
+<tr><td><b><a href="category.php?subcat=130400&kid=120404&Keywords=Flowers"  class="menu">Flowers</a></tr></td><tr><td><b><a href="category.php?subcat=130400&kid=120406&Keywords=Gardening Tools"  class="menu">Gardening Tools</a></tr></td><tr><td><b><a href="category.php?subcat=130400&kid=120407&Keywords=Herbs"  class="menu">Herbs</a></tr></td><tr><td><b><a href="category.php?subcat=130400&kid=120405&Keywords=Plants"  class="menu">Plants</a></tr></td></td></tr></table>
+<table width=100% cellpadding=4 cellspacing=0>
+<tr><td class="header">Categories</td></tr></table>
+  <table width=100% cellpadding=4 cellspacing=4>
+<tr><td><b><a href="category.php?subcat=130200&Keywords=Animals"  class="menu">Animals</a></tr></td><tr><td><b><a href="category.php?subcat=130100&Keywords=General"  class="menu">General</a></tr></td><tr><td><b><a href="category.php?subcat=130500&Keywords=Geography"  class="menu">Geography</a></tr></td><tr><td><b><a href="category.php?subcat=130600&Keywords=History"  class="menu">History</a></tr></td><tr><td><b><a href="category.php?subcat=130400&Keywords=Plants"  class="menu">Plants</a></tr></td><tr><td><b><a href="category.php?subcat=130300&Keywords=Scientific Research"  class="menu">Scientific Research</a></tr></td>      
+  </span></td></tr>
+  </table></td>
+  <td valign=top>
+<script language="JavaScript1.2">
+
+//Specify the marquee's width (in pixels)
+var marqueewidth="584px"
+//Specify the marquee's height
+var marqueeheight="20px"
+//Specify the marquee's marquee speed (larger is faster 1-10)
+var marqueespeed=2
+//configure background color:
+var marqueebgcolor="#000000"
+//Pause marquee onMousever (0=no. 1=yes)?
+var pauseit=1
+
+//Specify the marquee's content (don't delete <nobr> tag)
+//Keep all content on ONE line, and backslash any single quotations (ie: that\'s great):
+
+var marqueecontent='<nobr><a href="http://www.angelmakers.co.uk" style="color:white;" target="_new">* ** . . . 4 missing persons reported in small town in Hungary . . . female serial killer suspected . . . [READ MORE] ** *</a></font></nobr>'
+
+
+////NO NEED TO EDIT BELOW THIS LINE////////////
+marqueespeed=(document.all)? marqueespeed : Math.max(1, marqueespeed-1) //slow speed down by 1 for NS
+var copyspeed=marqueespeed
+var pausespeed=(pauseit==0)? copyspeed: 0
+var iedom=document.all||document.getElementById
+if (iedom)
+document.write('<span id="temp" style="visibility:hidden;position:absolute;top:-100px;left:-9000px">'+marqueecontent+'</span>')
+var actualwidth=''
+var cross_marquee, ns_marquee
+
+function populate(){
+if (iedom){
+cross_marquee=document.getElementById? document.getElementById("iemarquee") : document.all.iemarquee
+cross_marquee.style.left=parseInt(marqueewidth)+8+"px"
+cross_marquee.innerHTML=marqueecontent
+actualwidth=document.all? temp.offsetWidth : document.getElementById("temp").offsetWidth
+}
+else if (document.layers){
+ns_marquee=document.ns_marquee.document.ns_marquee2
+ns_marquee.left=parseInt(marqueewidth)+8
+ns_marquee.document.write(marqueecontent)
+ns_marquee.document.close()
+actualwidth=ns_marquee.document.width
+}
+lefttime=setInterval("scrollmarquee()",20)
+}
+window.onload=populate
+
+function scrollmarquee(){
+if (iedom){
+if (parseInt(cross_marquee.style.left)>(actualwidth*(-1)+8))
+cross_marquee.style.left=parseInt(cross_marquee.style.left)-copyspeed+"px"
+else
+cross_marquee.style.left=parseInt(marqueewidth)+8+"px"
+
+}
+else if (document.layers){
+if (ns_marquee.left>(actualwidth*(-1)+8))
+ns_marquee.left-=copyspeed
+else
+ns_marquee.left=parseInt(marqueewidth)+8
+}
+}
+
+if (iedom||document.layers){
+with (document){
+document.write('<table border="0" cellspacing="0" cellpadding="0" width=100% align=center><td valign=top bgcolor=black>&nbsp;&nbsp;<font face="Arial" size="2" color=red><b>Breaking News:</b></font></td><td valign=top>')
+if (iedom){
+write('<div style="position:relative;width:'+marqueewidth+';height:'+marqueeheight+';overflow:hidden">')
+write('<div style="position:absolute;width:'+marqueewidth+';height:'+marqueeheight+';background-color:'+marqueebgcolor+'" onMouseover="copyspeed=pausespeed" onMouseout="copyspeed=marqueespeed">')
+write('<div id="iemarquee" style="position:absolute;left:0px;top:0px"></div>')
+write('</div></div>')
+}
+else if (document.layers){
+write('<ilayer width='+marqueewidth+' height='+marqueeheight+' name="ns_marquee" bgColor='+marqueebgcolor+'>')
+write('<layer name="ns_marquee2" left=0 top=0 onMouseover="copyspeed=pausespeed" onMouseout="copyspeed=marqueespeed"></layer>')
+write('</ilayer>')
+}
+document.write('</td></table>')
+}
+}
+</script>
+<table align="center" border="0" width="100%" cellpadding="6" style="font-size:12px;font-family:Arial,Verdana;line-height: 16px;"><tr></tr>
+    <tr>
+    <td width=50% valign=top>
+    <a href="url2.php?Keywords=organic&paid=1&destination=www.chadwicksbutchers.co.uk&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg14FSkZamwr%252Dtd7nIT%252DWKx1kaxca59MhtB5R5HNRIoS5gVOl7aKbHksRxW7064w%255FUy%255Fqd%255FKEWKPL4kPKMGwiKRlKID7Kh0Y3Fy409NKgZb%252DUYirolzu7s0r92PWlXImOwedKoz69kEO2KZz1G%255F40AzxqR%255FvJpxaeE9dpPHeiHjBtuqg7ZJZkG7NUribnFWpgMQ8ZUC8%255FIwCuWIKxw4910lOXVPyNhXV7T8jABol2eJjR3v6%255FMdZEIvrDny9uVNqGqzYcHOFLCoex62FtO%252DE602dw8aS6U2OVUkUhVHKavNWSZylps%255FeyZ2Z2TdIAM%252D2vACpmIVSKvMx0zE1wxYpb%255FbRHTLXdtunWtZcQcLf6WuS68BLSBCzZ2b1Ig3%252DM%252E%26yargs%3Dwww.chadwicksbutchers.co.uk&pos=1" style="font-size:14px;color:#0000cc;text-decoration:underline" onmouseover="window.status='http://www.chadwicksbutchers.co.uk'; return true;" onmouseout="window.status='';return true;"  target="_new">Chadwicks Butchers - Organic Food</a>
+    <br>
+     
+     
+     <a href="url2.php?Keywords=organic&paid=1&destination=www.chadwicksbutchers.co.uk&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg14FSkZamwr%252Dtd7nIT%252DWKx1kaxca59MhtB5R5HNRIoS5gVOl7aKbHksRxW7064w%255FUy%255Fqd%255FKEWKPL4kPKMGwiKRlKID7Kh0Y3Fy409NKgZb%252DUYirolzu7s0r92PWlXImOwedKoz69kEO2KZz1G%255F40AzxqR%255FvJpxaeE9dpPHeiHjBtuqg7ZJZkG7NUribnFWpgMQ8ZUC8%255FIwCuWIKxw4910lOXVPyNhXV7T8jABol2eJjR3v6%255FMdZEIvrDny9uVNqGqzYcHOFLCoex62FtO%252DE602dw8aS6U2OVUkUhVHKavNWSZylps%255FeyZ2Z2TdIAM%252D2vACpmIVSKvMx0zE1wxYpb%255FbRHTLXdtunWtZcQcLf6WuS68BLSBCzZ2b1Ig3%252DM%252E%26yargs%3Dwww.chadwicksbutchers.co.uk&pos=1" style="color:#000000;text-decoration:none" onmouseover="window.status='http://www.chadwicksbutchers.co.uk'; return true;" onmouseout="window.status=''; return true;"  target="_new">Chadwicks Butchers offer an exceptional variety of free-range and organic meat, poultry and farm produce. Chadwicks - famous for our quality of product and excellent service.</a><br>
+    <a href="url2.php?Keywords=organic&paid=1&destination=www.chadwicksbutchers.co.uk&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg14FSkZamwr%252Dtd7nIT%252DWKx1kaxca59MhtB5R5HNRIoS5gVOl7aKbHksRxW7064w%255FUy%255Fqd%255FKEWKPL4kPKMGwiKRlKID7Kh0Y3Fy409NKgZb%252DUYirolzu7s0r92PWlXImOwedKoz69kEO2KZz1G%255F40AzxqR%255FvJpxaeE9dpPHeiHjBtuqg7ZJZkG7NUribnFWpgMQ8ZUC8%255FIwCuWIKxw4910lOXVPyNhXV7T8jABol2eJjR3v6%255FMdZEIvrDny9uVNqGqzYcHOFLCoex62FtO%252DE602dw8aS6U2OVUkUhVHKavNWSZylps%255FeyZ2Z2TdIAM%252D2vACpmIVSKvMx0zE1wxYpb%255FbRHTLXdtunWtZcQcLf6WuS68BLSBCzZ2b1Ig3%252DM%252E%26yargs%3Dwww.chadwicksbutchers.co.uk" class="listinglink" onmouseover="window.status='http://www.chadwicksbutchers.co.uk';this.style.textDecoration='underline'; return true;" onmouseout="window.status='';this.style.textDecoration='none'; return true;"  target="_new">www.chadwicksbutchers.co.uk</a><br></td>
+    <td width=50% valign=top>
+    <a href="url2.php?Keywords=organic&paid=1&destination=www.SHOP.com&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg14FSkZamwr%252Dsdb%255FBReSCxVkaxca588tmDpR5HNRIoS5gUOh2aaDFksRxW7064w%255FWxPaV%252D6YWL%255FL%255Fkf2NGgeMRlOAD7Kh0YvCyok1Mar1b%252DYYirAuz%252DrtmYNJjUdGAleAecTv30b8G6WhfHNK%255F4YDzBWe%252DvBmqf2G%252DLYTQuWMkUQpqVHQI5kFmKIh9MqwK58APrMhaYjKnibGQKxoyt1xmJylPVNnXVq0u2IErUSCIDhhoK%255FEYo4OvKOgzoLHK7SswoANfRXG7O1Trcan%252DVeNn9U8YmzT375Yhg9TRvipPn6f2Uh66uiK47qGdbMm5V%255FsHJ2bRCmlPgoUZQVBabW4eFjWMzBk7x%252DFZcQcLf6WuS68BLSBCzZ2b1Ig3%252DM%252E%26yargs%3Dwww.SHOP.com&pos=2" style="font-size:14px;color:#0000cc;text-decoration:underline" onmouseover="window.status='http://www.SHOP.com'; return true;" onmouseout="window.status='';return true;"  target="_new">Save on Organic Foods</a>
+    <br>
+     
+     
+     <a href="url2.php?Keywords=organic&paid=1&destination=www.SHOP.com&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg14FSkZamwr%252Dsdb%255FBReSCxVkaxca588tmDpR5HNRIoS5gUOh2aaDFksRxW7064w%255FWxPaV%252D6YWL%255FL%255Fkf2NGgeMRlOAD7Kh0YvCyok1Mar1b%252DYYirAuz%252DrtmYNJjUdGAleAecTv30b8G6WhfHNK%255F4YDzBWe%252DvBmqf2G%252DLYTQuWMkUQpqVHQI5kFmKIh9MqwK58APrMhaYjKnibGQKxoyt1xmJylPVNnXVq0u2IErUSCIDhhoK%255FEYo4OvKOgzoLHK7SswoANfRXG7O1Trcan%252DVeNn9U8YmzT375Yhg9TRvipPn6f2Uh66uiK47qGdbMm5V%255FsHJ2bRCmlPgoUZQVBabW4eFjWMzBk7x%252DFZcQcLf6WuS68BLSBCzZ2b1Ig3%252DM%252E%26yargs%3Dwww.SHOP.com&pos=2" style="color:#000000;text-decoration:none" onmouseover="window.status='http://www.SHOP.com'; return true;" onmouseout="window.status=''; return true;"  target="_new">Great deals on Organic Foods. Online shopping made easy at SHOP.COM.</a><br>
+    <a href="url2.php?Keywords=organic&paid=1&destination=www.SHOP.com&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg14FSkZamwr%252Dsdb%255FBReSCxVkaxca588tmDpR5HNRIoS5gUOh2aaDFksRxW7064w%255FWxPaV%252D6YWL%255FL%255Fkf2NGgeMRlOAD7Kh0YvCyok1Mar1b%252DYYirAuz%252DrtmYNJjUdGAleAecTv30b8G6WhfHNK%255F4YDzBWe%252DvBmqf2G%252DLYTQuWMkUQpqVHQI5kFmKIh9MqwK58APrMhaYjKnibGQKxoyt1xmJylPVNnXVq0u2IErUSCIDhhoK%255FEYo4OvKOgzoLHK7SswoANfRXG7O1Trcan%252DVeNn9U8YmzT375Yhg9TRvipPn6f2Uh66uiK47qGdbMm5V%255FsHJ2bRCmlPgoUZQVBabW4eFjWMzBk7x%252DFZcQcLf6WuS68BLSBCzZ2b1Ig3%252DM%252E%26yargs%3Dwww.SHOP.com" class="listinglink" onmouseover="window.status='http://www.SHOP.com';this.style.textDecoration='underline'; return true;" onmouseout="window.status='';this.style.textDecoration='none'; return true;"  target="_new">www.SHOP.com</a><br></td></tr>
+    <tr>
+    <td width=50% valign=top>
+    <a href="url2.php?Keywords=organic&paid=1&destination=www.HQhair.com/aromatherapy&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg15hSnpamwryud7zMTeKGy14axca59MtuB5V8HNRIoS5gVOV8bqrCn8RxW7064w%255FQxfuR%252DKAfKPD%252DkfKKFQaIQlGOD7Kh0Y3FzI45Mq6hAedx2L4lwO3vnYRGmU5GHliBb9Koz6%255FBJ9bvTCYI844AzhSd%255FvFpxM2w07ZPHeiHjBtuqg7ZJZkG7NUribnFWpgMQ8ZUC8%255FIwCuWIKxw4910lOXVPyNhXV7T8jABol2eJjR3v6%255FMdZEIvrDny9uVNqGqzYcHOFLCoex62FtO%252DE6M2dshaSfTzesM0g9EAr2tNjfcnlp4pf2K0raZeJ82%255FHb6JoSESx6yOi04KRQzAfu7Yx2xPCEM2QjWN5hOZ5j29yK9FuDcURcfIV4D69WwONBX7gzp%255Fgo%252E%26yargs%3Dwww.HQhair.com%252Faromatherapy&pos=3" style="font-size:14px;color:#0000cc;text-decoration:underline" onmouseover="window.status='http://www.HQhair.com/aromatherapy'; return true;" onmouseout="window.status='';return true;"  target="_new">Organic Aromatherapy</a>
+    <br>
+     
+     
+     <a href="url2.php?Keywords=organic&paid=1&destination=www.HQhair.com/aromatherapy&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg15hSnpamwryud7zMTeKGy14axca59MtuB5V8HNRIoS5gVOV8bqrCn8RxW7064w%255FQxfuR%252DKAfKPD%252DkfKKFQaIQlGOD7Kh0Y3FzI45Mq6hAedx2L4lwO3vnYRGmU5GHliBb9Koz6%255FBJ9bvTCYI844AzhSd%255FvFpxM2w07ZPHeiHjBtuqg7ZJZkG7NUribnFWpgMQ8ZUC8%255FIwCuWIKxw4910lOXVPyNhXV7T8jABol2eJjR3v6%255FMdZEIvrDny9uVNqGqzYcHOFLCoex62FtO%252DE6M2dshaSfTzesM0g9EAr2tNjfcnlp4pf2K0raZeJ82%255FHb6JoSESx6yOi04KRQzAfu7Yx2xPCEM2QjWN5hOZ5j29yK9FuDcURcfIV4D69WwONBX7gzp%255Fgo%252E%26yargs%3Dwww.HQhair.com%252Faromatherapy&pos=3" style="color:#000000;text-decoration:none" onmouseover="window.status='http://www.HQhair.com/aromatherapy'; return true;" onmouseout="window.status=''; return true;"  target="_new">Aromatherapy Associates Use Only The Finest Quality Essential Oils.</a><br>
+    <a href="url2.php?Keywords=organic&paid=1&destination=www.HQhair.com/aromatherapy&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg15hSnpamwryud7zMTeKGy14axca59MtuB5V8HNRIoS5gVOV8bqrCn8RxW7064w%255FQxfuR%252DKAfKPD%252DkfKKFQaIQlGOD7Kh0Y3FzI45Mq6hAedx2L4lwO3vnYRGmU5GHliBb9Koz6%255FBJ9bvTCYI844AzhSd%255FvFpxM2w07ZPHeiHjBtuqg7ZJZkG7NUribnFWpgMQ8ZUC8%255FIwCuWIKxw4910lOXVPyNhXV7T8jABol2eJjR3v6%255FMdZEIvrDny9uVNqGqzYcHOFLCoex62FtO%252DE6M2dshaSfTzesM0g9EAr2tNjfcnlp4pf2K0raZeJ82%255FHb6JoSESx6yOi04KRQzAfu7Yx2xPCEM2QjWN5hOZ5j29yK9FuDcURcfIV4D69WwONBX7gzp%255Fgo%252E%26yargs%3Dwww.HQhair.com%252Faromatherapy" class="listinglink" onmouseover="window.status='http://www.HQhair.com/aromatherapy';this.style.textDecoration='underline'; return true;" onmouseout="window.status='';this.style.textDecoration='none'; return true;"  target="_new">www.HQhair.com/aromatherapy</a><br></td>
+    <td width=50% valign=top>
+    <a href="url2.php?Keywords=organic&paid=1&destination=www.ukprizedraw.co.uk&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg14pSjpamwr%252DicbrNSOSFxV4axca58MptDpN6H9Zf5iMxXOJ4bqDAm81xTOVxv1PdzvWc%255FK4WL%255FvznP6PEAbKcWmJD7Kh0Y%255FBxI87MK%252DkAedw2L4uwensnIdJOdc3Vy68eNK%252DiL%252DNiObATCYI844Bzxmd%255FvlqufmG%252DvFPQbeKhwYx7Q2GLJ8G76Fcg8S2L%252DkLT7shfq2PwnWbcMxw%252D%255FR0kemsTyERW17XlXlTp1KHOjJ7qbDMfYYXuLL0jN7MZLy%255Fy4gAMheFpaF78S7T0Wat%252Dag1O3uU2ORUwwtaD%252DmtI2%252Dfzl5A4POD47eARp8273L8EZ6GXx7uIXJLS1MgFq7hKgSGKGA49E%255FdfpRQIIqj%252DjXvDbCnPRA%252E%26yargs%3Dwww.ukprizedraw.co.uk&pos=4" style="font-size:14px;color:#0000cc;text-decoration:underline" onmouseover="window.status='http://www.ukprizedraw.co.uk'; return true;" onmouseout="window.status='';return true;"  target="_new">Win a 250 Supermarket Voucher</a>
+    <br>
+     
+     
+     <a href="url2.php?Keywords=organic&paid=1&destination=www.ukprizedraw.co.uk&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg14pSjpamwr%252DicbrNSOSFxV4axca58MptDpN6H9Zf5iMxXOJ4bqDAm81xTOVxv1PdzvWc%255FK4WL%255FvznP6PEAbKcWmJD7Kh0Y%255FBxI87MK%252DkAedw2L4uwensnIdJOdc3Vy68eNK%252DiL%252DNiObATCYI844Bzxmd%255FvlqufmG%252DvFPQbeKhwYx7Q2GLJ8G76Fcg8S2L%252DkLT7shfq2PwnWbcMxw%252D%255FR0kemsTyERW17XlXlTp1KHOjJ7qbDMfYYXuLL0jN7MZLy%255Fy4gAMheFpaF78S7T0Wat%252Dag1O3uU2ORUwwtaD%252DmtI2%252Dfzl5A4POD47eARp8273L8EZ6GXx7uIXJLS1MgFq7hKgSGKGA49E%255FdfpRQIIqj%252DjXvDbCnPRA%252E%26yargs%3Dwww.ukprizedraw.co.uk&pos=4" style="color:#000000;text-decoration:none" onmouseover="window.status='http://www.ukprizedraw.co.uk'; return true;" onmouseout="window.status=''; return true;"  target="_new">Free prize draw. Register online now to win 250 vouchers to spend at any supermarket of your choice.</a><br>
+    <a href="url2.php?Keywords=organic&paid=1&destination=www.ukprizedraw.co.uk&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg14pSjpamwr%252DicbrNSOSFxV4axca58MptDpN6H9Zf5iMxXOJ4bqDAm81xTOVxv1PdzvWc%255FK4WL%255FvznP6PEAbKcWmJD7Kh0Y%255FBxI87MK%252DkAedw2L4uwensnIdJOdc3Vy68eNK%252DiL%252DNiObATCYI844Bzxmd%255FvlqufmG%252DvFPQbeKhwYx7Q2GLJ8G76Fcg8S2L%252DkLT7shfq2PwnWbcMxw%252D%255FR0kemsTyERW17XlXlTp1KHOjJ7qbDMfYYXuLL0jN7MZLy%255Fy4gAMheFpaF78S7T0Wat%252Dag1O3uU2ORUwwtaD%252DmtI2%252Dfzl5A4POD47eARp8273L8EZ6GXx7uIXJLS1MgFq7hKgSGKGA49E%255FdfpRQIIqj%252DjXvDbCnPRA%252E%26yargs%3Dwww.ukprizedraw.co.uk" class="listinglink" onmouseover="window.status='http://www.ukprizedraw.co.uk';this.style.textDecoration='underline'; return true;" onmouseout="window.status='';this.style.textDecoration='none'; return true;"  target="_new">www.ukprizedraw.co.uk</a><br></td></tr>
+    <tr><td width=50%  valign=top style="border-color : #ffffff;  border-style : solid; border-width : 1px;"><span style="color:#aaaaaa"><b><a href="url2.php?Keywords=organic&paid=0&destination=www.whyorganic.org&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1hRSqJauwuz1IPXeHbGPxlwOlei2%252Dr5ofJN8FqFfhGQ8Au1%255FPpPxs8R5SeQW7w2juIfl6vgbJPTlmv%252DCDA%252DPTE2IHubpjdjJkslqZ%255FH4CscW0qs09trLyItPKi5Rbz3kJ5b8z62ZYpCsUDYWouBGlnLaqKAskpfkmq9xCfro6G1uqhjZKY1Vta0ohNqSc5cIXOBYJ53d0yyJb9sHjMIyyKRYAhYMd2n1%252D3ldp1uhFAA%252E%26yargs%3Dwww.whyorganic.org&pos=5" style="color:#999999;text-decoration:underline">whyorganic.org - providing info on organic issues, organic offers, get involved</a></b><br><a href="url2.php?Keywords=organic&paid=0&destination=www.whyorganic.org&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1hRSqJauwuz1IPXeHbGPxlwOlei2%252Dr5ofJN8FqFfhGQ8Au1%255FPpPxs8R5SeQW7w2juIfl6vgbJPTlmv%252DCDA%252DPTE2IHubpjdjJkslqZ%255FH4CscW0qs09trLyItPKi5Rbz3kJ5b8z62ZYpCsUDYWouBGlnLaqKAskpfkmq9xCfro6G1uqhjZKY1Vta0ohNqSc5cIXOBYJ53d0yyJb9sHjMIyyKRYAhYMd2n1%252D3ldp1uhFAA%252E%26yargs%3Dwww.whyorganic.org&pos=5"  style="color:#000000;text-decoration:none;" target="_new">Contains a directory listing to locate organic organisations. ... Have you joined the organic revolution yet? ... a fabulous box of organic foods for one lucky ...</a><br>
+    <a href="url2.php?Keywords=organic&paid=0&destination=www.whyorganic.org&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1hRSqJauwuz1IPXeHbGPxlwOlei2%252Dr5ofJN8FqFfhGQ8Au1%255FPpPxs8R5SeQW7w2juIfl6vgbJPTlmv%252DCDA%252DPTE2IHubpjdjJkslqZ%255FH4CscW0qs09trLyItPKi5Rbz3kJ5b8z62ZYpCsUDYWouBGlnLaqKAskpfkmq9xCfro6G1uqhjZKY1Vta0ohNqSc5cIXOBYJ53d0yyJb9sHjMIyyKRYAhYMd2n1%252D3ldp1uhFAA%252E%26yargs%3Dwww.whyorganic.org&pos=5" style="font-size:11px;color:#666666;text-decoration:none;"  onmouseover="window.status='http://www.whyorganic.org'; return true;"  target="_new">www.whyorganic.org</a></td><td width=50%  valign=top style="border-color : #ffffff;  border-style : solid; border-width : 1px;"><span style="color:#aaaaaa"><b><a href="url2.php?Keywords=organic&paid=0&destination=en.wikipedia.org&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1nxSqJauwuz1IPXeHbGPxlwOlei2%252Dr5ofJN8FqFfhGQ8Au1%255FPpPxs8R5SeQW7w2juIfl6vgbJPTlmv%252DCDA%252DPTE2IHubpjdjJkslqZ%255FH4CscW0qs09trLyItPKi5Rbz3kJ5b8z62ZYpCsUDYWouBGlnLaqKAskpfkmq9xCfro6HtuqhjZKY1Vta0oh9qSc5cIXOBYJ53d0yyJb8ke1Zssy7Tka3RLeTX9pjgT7GufW6hBnsGeKc1N4OOoyd7cMLyjiohTamWjxA%252E%252E%26yargs%3Den.wikipedia.org&pos=6" style="color:#999999;text-decoration:underline">Organic certification - Wikipedia, the free encyclopedia</a></b><br><a href="url2.php?Keywords=organic&paid=0&destination=en.wikipedia.org&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1nxSqJauwuz1IPXeHbGPxlwOlei2%252Dr5ofJN8FqFfhGQ8Au1%255FPpPxs8R5SeQW7w2juIfl6vgbJPTlmv%252DCDA%252DPTE2IHubpjdjJkslqZ%255FH4CscW0qs09trLyItPKi5Rbz3kJ5b8z62ZYpCsUDYWouBGlnLaqKAskpfkmq9xCfro6HtuqhjZKY1Vta0oh9qSc5cIXOBYJ53d0yyJb8ke1Zssy7Tka3RLeTX9pjgT7GufW6hBnsGeKc1N4OOoyd7cMLyjiohTamWjxA%252E%252E%26yargs%3Den.wikipedia.org&pos=6"  style="color:#000000;text-decoration:none;" target="_new">Mixed organic bean sprouts ... organic certification is handled by a number of organizations, of which the largest are the Soil Association and Organic ...</a><br>
+    <a href="url2.php?Keywords=organic&paid=0&destination=en.wikipedia.org&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1nxSqJauwuz1IPXeHbGPxlwOlei2%252Dr5ofJN8FqFfhGQ8Au1%255FPpPxs8R5SeQW7w2juIfl6vgbJPTlmv%252DCDA%252DPTE2IHubpjdjJkslqZ%255FH4CscW0qs09trLyItPKi5Rbz3kJ5b8z62ZYpCsUDYWouBGlnLaqKAskpfkmq9xCfro6HtuqhjZKY1Vta0oh9qSc5cIXOBYJ53d0yyJb8ke1Zssy7Tka3RLeTX9pjgT7GufW6hBnsGeKc1N4OOoyd7cMLyjiohTamWjxA%252E%252E%26yargs%3Den.wikipedia.org&pos=6" style="font-size:11px;color:#666666;text-decoration:none;"  onmouseover="window.status='http://en.wikipedia.org'; return true;"  target="_new">en.wikipedia.org</a></td></tr>
+    <tr><td width=50%  valign=top style="border-color : #ffffff;  border-style : solid; border-width : 1px;"><span style="color:#aaaaaa"><b><a href="url2.php?Keywords=organic&paid=0&destination=www.organic-gmfree.co.uk&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1mZSqJauwuz1IPXeHbGPxlwOlei2%252Dr5ofJN8FqFfhGQ8Au1%255FPpPxs8R5SeQW7w2juIfl6vgbJPTlmv%252DCDA%252DPTE2IHubpjdjJkslqZ%255FH4CscW0qs09trLyItPKi5Rbz3kJ5b8z62ZYpCsUDYWouBGlnLaqKAskpfkmq9xCfro6G5uqhjZKY1Vta0ohtqSc5cIXOBYJ53d0yyJb9sHjMKFrNa5aX1Ean73%252DjxTtB%255FbO9BNl7CVONJVr%252DT8m66oWQ%252E%252E%26yargs%3Dwww.organic-gmfree.co.uk&pos=7" style="color:#999999;text-decoration:underline">Body and Soul - What is Organic? Body and Soul - Healthy Eating, Body and Soul - Online Organics</a></b><br><a href="url2.php?Keywords=organic&paid=0&destination=www.organic-gmfree.co.uk&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1mZSqJauwuz1IPXeHbGPxlwOlei2%252Dr5ofJN8FqFfhGQ8Au1%255FPpPxs8R5SeQW7w2juIfl6vgbJPTlmv%252DCDA%252DPTE2IHubpjdjJkslqZ%255FH4CscW0qs09trLyItPKi5Rbz3kJ5b8z62ZYpCsUDYWouBGlnLaqKAskpfkmq9xCfro6G5uqhjZKY1Vta0ohtqSc5cIXOBYJ53d0yyJb9sHjMKFrNa5aX1Ean73%252DjxTtB%255FbO9BNl7CVONJVr%252DT8m66oWQ%252E%252E%26yargs%3Dwww.organic-gmfree.co.uk&pos=7"  style="color:#000000;text-decoration:none;" target="_new">Body and Soul - What is Organic Body and Soul - Healthy Eating Body and Soul - Online Organics. ... "Organic" can be said of a product when it is the result of ...</a><br>
+    <a href="url2.php?Keywords=organic&paid=0&destination=www.organic-gmfree.co.uk&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1mZSqJauwuz1IPXeHbGPxlwOlei2%252Dr5ofJN8FqFfhGQ8Au1%255FPpPxs8R5SeQW7w2juIfl6vgbJPTlmv%252DCDA%252DPTE2IHubpjdjJkslqZ%255FH4CscW0qs09trLyItPKi5Rbz3kJ5b8z62ZYpCsUDYWouBGlnLaqKAskpfkmq9xCfro6G5uqhjZKY1Vta0ohtqSc5cIXOBYJ53d0yyJb9sHjMKFrNa5aX1Ean73%252DjxTtB%255FbO9BNl7CVONJVr%252DT8m66oWQ%252E%252E%26yargs%3Dwww.organic-gmfree.co.uk&pos=7" style="font-size:11px;color:#666666;text-decoration:none;"  onmouseover="window.status='http://www.organic-gmfree.co.uk'; return true;"  target="_new">www.organic-gmfree.co.uk</a></td><td width=50%  valign=top style="border-color : #ffffff;  border-style : solid; border-width : 1px;"><span style="color:#aaaaaa"><b><a href="url2.php?Keywords=organic&paid=0&destination=en.wikipedia.org&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1mdSqJauwuz1IPXeHbGPxlwOlei2%252Dr5ofJN8FqFfhGQ8Au1%255FPpPxs8R5SeQW7w2juIfl6vgbJPTlmv%252DCDA%252DPTE2IHubpjdjJkslqZ%255FH4CscW0qs09trLyItPKi5Rbz3kJ5b8z62ZYpCsUDYWouBGlnLaqKAskpfkmq9xCfro6HtuqhjZKY1Vta0oidqSc5cIXOBYJ53d0yyJb8ke1Zssy7Tka3RLeTX9pjgT7GufW6hBm8GeI9JJ5vCvzpnJZOLcrOk%252E%26yargs%3Den.wikipedia.org&pos=8" style="color:#999999;text-decoration:underline">Organic compound - Wikipedia, the free encyclopedia</a></b><br><a href="url2.php?Keywords=organic&paid=0&destination=en.wikipedia.org&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1mdSqJauwuz1IPXeHbGPxlwOlei2%252Dr5ofJN8FqFfhGQ8Au1%255FPpPxs8R5SeQW7w2juIfl6vgbJPTlmv%252DCDA%252DPTE2IHubpjdjJkslqZ%255FH4CscW0qs09trLyItPKi5Rbz3kJ5b8z62ZYpCsUDYWouBGlnLaqKAskpfkmq9xCfro6HtuqhjZKY1Vta0oidqSc5cIXOBYJ53d0yyJb8ke1Zssy7Tka3RLeTX9pjgT7GufW6hBm8GeI9JJ5vCvzpnJZOLcrOk%252E%26yargs%3Den.wikipedia.org&pos=8"  style="color:#000000;text-decoration:none;" target="_new">An organic compound is any member of a large class of chemical compounds whose ... Publications, Spectroscopy, Stereochemistry, List of organic compounds ...</a><br>
+    <a href="url2.php?Keywords=organic&paid=0&destination=en.wikipedia.org&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1mdSqJauwuz1IPXeHbGPxlwOlei2%252Dr5ofJN8FqFfhGQ8Au1%255FPpPxs8R5SeQW7w2juIfl6vgbJPTlmv%252DCDA%252DPTE2IHubpjdjJkslqZ%255FH4CscW0qs09trLyItPKi5Rbz3kJ5b8z62ZYpCsUDYWouBGlnLaqKAskpfkmq9xCfro6HtuqhjZKY1Vta0oidqSc5cIXOBYJ53d0yyJb8ke1Zssy7Tka3RLeTX9pjgT7GufW6hBm8GeI9JJ5vCvzpnJZOLcrOk%252E%26yargs%3Den.wikipedia.org&pos=8" style="font-size:11px;color:#666666;text-decoration:none;"  onmouseover="window.status='http://en.wikipedia.org'; return true;"  target="_new">en.wikipedia.org</a></td></tr>
+    <tr></tr>
+    <tr><td colspan=2 style="border-top: 1px dashed #7A9DBD;">&nbsp;</td></tr><tr><td width=50%  valign=top style="border-color : #ffffff;  border-style : solid; border-width : 1px;"><span style="color:#aaaaaa"><b><a href="url2.php?Keywords=organic&paid=0&destination=www.organic.aber.ac.uk&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1mtSqJauwuz1IPXeHbGPxlwOlei2%252Dr5ofJN8FqFfhGQ8Au1%255FPpPxs8R5SeQW7w2juIfl6vgbJPTlmv%252DCDA%252DPTE2IHubpjdjJkslqZ%255FH4CscW0qs09trLyItPKi5Rbz3kJ5b8z62ZYpCsUDYWouBGlnLaqKAskpfkmq9xCfro6G5uqhjZKY1Vta0oiNqSc5cIXOBYJ53d0yyJb9sHjMKFrN2dIHFAfWm8tTwS7wGffW4r9ObTP9dN5Onny4KZSNPN%26yargs%3Dwww.organic.aber.ac.uk&pos=9" style="color:#999999;text-decoration:underline">U.W.A. - Organic Centre Wales</a></b><br><a href="url2.php?Keywords=organic&paid=0&destination=www.organic.aber.ac.uk&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1mtSqJauwuz1IPXeHbGPxlwOlei2%252Dr5ofJN8FqFfhGQ8Au1%255FPpPxs8R5SeQW7w2juIfl6vgbJPTlmv%252DCDA%252DPTE2IHubpjdjJkslqZ%255FH4CscW0qs09trLyItPKi5Rbz3kJ5b8z62ZYpCsUDYWouBGlnLaqKAskpfkmq9xCfro6G5uqhjZKY1Vta0oiNqSc5cIXOBYJ53d0yyJb9sHjMKFrN2dIHFAfWm8tTwS7wGffW4r9ObTP9dN5Onny4KZSNPN%26yargs%3Dwww.organic.aber.ac.uk&pos=9"  style="color:#000000;text-decoration:none;" target="_new">Organic Centre Wales at the University of Wales, Aberystwyth ... Your first stop for information. on organic food and farming. in Wales: New on this site...</a><br>
+    <a href="url2.php?Keywords=organic&paid=0&destination=www.organic.aber.ac.uk&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1mtSqJauwuz1IPXeHbGPxlwOlei2%252Dr5ofJN8FqFfhGQ8Au1%255FPpPxs8R5SeQW7w2juIfl6vgbJPTlmv%252DCDA%252DPTE2IHubpjdjJkslqZ%255FH4CscW0qs09trLyItPKi5Rbz3kJ5b8z62ZYpCsUDYWouBGlnLaqKAskpfkmq9xCfro6G5uqhjZKY1Vta0oiNqSc5cIXOBYJ53d0yyJb9sHjMKFrN2dIHFAfWm8tTwS7wGffW4r9ObTP9dN5Onny4KZSNPN%26yargs%3Dwww.organic.aber.ac.uk&pos=9" style="font-size:11px;color:#666666;text-decoration:none;"  onmouseover="window.status='http://www.organic.aber.ac.uk'; return true;"  target="_new">www.organic.aber.ac.uk</a></td><td width=50%  valign=top style="border-color : #ffffff;  border-style : solid; border-width : 1px;"><span style="color:#aaaaaa"><b><a href="url2.php?Keywords=organic&paid=0&destination=www.organic.aber.ac.uk&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1n1SqJauwuz1IPXeHbGPxlwOlei2%252Dr5ofJN8FqFfhGQ8Au1%255FPpPxs8R5SeQW7w2juIfl6vgbJPTlmv%252DCDA%252DPTE2IHubpjdjJkslqZ%255FH4CscW0qs09trLyItPKi5Rbz3kJ5b8z62ZYpCsUDYWouBGlnLaqKAskpfkmq9xCfro6G5uqhjZKY1Vta0rgdqSc5cIXOBYJ53d0yyJb9sHjMKFrNS6b3JHajXzt3FJ8UV4Fg88vvqYKtZX7KuywsvFNfWskdh%255FW3Q%252E%26yargs%3Dwww.organic.aber.ac.uk&pos=10" style="color:#999999;text-decoration:underline">About organics</a></b><br><a href="url2.php?Keywords=organic&paid=0&destination=www.organic.aber.ac.uk&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1n1SqJauwuz1IPXeHbGPxlwOlei2%252Dr5ofJN8FqFfhGQ8Au1%255FPpPxs8R5SeQW7w2juIfl6vgbJPTlmv%252DCDA%252DPTE2IHubpjdjJkslqZ%255FH4CscW0qs09trLyItPKi5Rbz3kJ5b8z62ZYpCsUDYWouBGlnLaqKAskpfkmq9xCfro6G5uqhjZKY1Vta0rgdqSc5cIXOBYJ53d0yyJb9sHjMKFrNS6b3JHajXzt3FJ8UV4Fg88vvqYKtZX7KuywsvFNfWskdh%255FW3Q%252E%26yargs%3Dwww.organic.aber.ac.uk&pos=10"  style="color:#000000;text-decoration:none;" target="_new">Organic farming can be defined as an approach to agriculture where the aim is to ... external inputs, whether chemical or organic, is reduced as far as ...</a><br>
+    <a href="url2.php?Keywords=organic&paid=0&destination=www.organic.aber.ac.uk&value=http%3A%2F%2Frc23.overture.com%2Fd%2Fsr%2F%3Fxargs%3D15KPjg1n1SqJauwuz1IPXeHbGPxlwOlei2%252Dr5ofJN8FqFfhGQ8Au1%255FPpPxs8R5SeQW7w2juIfl6vgbJPTlmv%252DCDA%252DPTE2IHubpjdjJkslqZ%255FH4CscW0qs09trLyItPKi5Rbz3kJ5b8z62ZYpCsUDYWouBGlnLaqKAskpfkmq9xCfro6G5uqhjZKY1Vta0rgdqSc5cIXOBYJ53d0yyJb9sHjMKFrNS6b3JHajXzt3FJ8UV4Fg88vvqYKtZX7KuywsvFNfWskdh%255FW3Q%252E%26yargs%3Dwww.organic.aber.ac.uk&pos=10" style="font-size:11px;color:#666666;text-decoration:none;"  onmouseover="window.status='http://www.organic.aber.ac.uk'; return true;"  target="_new">www.organic.aber.ac.uk</a></td></tr><tr><td align="right" colspan=2><a href="index.php?Keywords=organic&hData=12KPjg1o1gksX9zsuofMnOP%2DGHyyoN4JCw8MlvepNxatMt8ndkJeELT5Px" style="font-size:11;font-family:Arial,Verdana;color:#000000;text-decoration:none"><b>&lt;&lt; Last Page</b></a> | <a href="index.php?Keywords=organic&xargs=12KPjg1k1Stoe9mvinN%2DmZDrDaoAtP0cHwsd5sCpN8HKQco2dvVOMLb6GNqvd%2DD705tYPhzV6l%5FlImfQfNq%5FucVFfbAkzpKNPO3%5F2akMkoNdugTNNB%5Fu13grW0x9J0CA5XMXuyDdSj%5F96O4OTnr0%5F73bwAuR%2DZ6PPu4zOHxUsuJOuLzVEM%2Dlj1Eas%2E&hData=12KPjg1o1gksX9zsuofMnOP%2DGHyyoN4JCw8MlvepNxatMt8ndkJeELT5Px" style="font-size:11;font-family:Arial,Verdana;color:#000000;text-decoration:none"><b>Next Page &gt;&gt;</b></a></td></tr></table></td><td width=126 style="border-left: 1px dashed #7A9DBD;" valign=top align=center>
+<table width=100% cellpadding=2 cellspacing=2></table>
+&nbsp;</td>
+  </tr>
+ 
+</table></td></tr></table>
+<table width="970" align=center border="0" cellpadding="0" cellspacing="0" style="color:#666666;font-family: Verdana, Arial, Helvetica, sans-serif;font-size: 10px; line-height: 16px;"><tr><td align=center>Copyright  2007 All rights reserved - <a href="http://www.jdoqocy.com/click-574188-10457491" target="_new" class="footerlink">Advertise Here</a> <a href="../part.php"  class="footerlink">-</a> Terms & Conditions <a href="../bots/index.php" class="footerlink">-</a> This domain name may be for sale: <a href="http://contact.webpark.co.uk/index.php?domain=energyscience.co.uk"  class="footerlink">Contact Us</a></td></tr></table>
+<script language="JavaScript">
+<!--
+document.search.Keywords.focus();
+ document.getElementById( 'Keywords' ).focus();
+//-->
+</script>
+</body>
+</html>

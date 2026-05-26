@@ -1,0 +1,40 @@
+1958a 
+
+ 1958a 
+
+ The following is a paper by H. Aspden published in Proceedings of I.E.E., C, p. 359 (1958).
+
+ 'Discussion on Electromagnetic Energy Transfer' 
+
+ Commentary : This was the author's first published utterance on the subject of E = Mc 2 and its derivation as a consequence of the non-radiation of energy by an accelerated electron.
+
+It was many years later when the author eventually read a book by Cornelius Lanczos published in 1974. The title of this book is 'The Einstein Decade (1905-1915)' and on page 96 one reads, under the heading E = Mc 2 :
+ "In 1906 Einstein proved that radiating energy must have a mass value of the magnitude E/c 2 , otherwise the centre of mass of a body, on which no external forces are acting, could come into motion all by itself." 
+This does, indeed, show the parlous state of physics, when we read that Einstein commands respect for saying that it needs a certain amount of energy radiation, the amount prescribed by his E = Mc 2 formula to stop an electron from accelerating when no external forces are applied.
+
+This author will no doubt be deemed to be somewhat naive for thinking in a Newtonian sense that an action must have a cause and that an electron will not accelerate unless a suitable field acting on the electron charge is present. All the author then asks the reader to accept is that one just cannot rely on the derivation of the Larmor radiation formula: 
+ dW/dt = 2e 2 f 2 /3c 2 
+
+based only on the mathematical proposition: 'Let there be acceleration!"
+
+In the subject item of correspondence, the author pointed out that, if an electric field of intensity E is the cause of that acceleration f, the Larmor radiation formula requires modification to read: 
+ (dW/dt) x = 2e 2 f 2 /3c 2 - 4Efex/3c 
+where (dW/dt) x is the rate at which energy crosses a boundary at radius x from the electron charge e. It was then noted that if M is the mass of the electron effective at that radius x, the radiation expression becomes: 
+ (dW/dt) x = (4E 2 e 2 x/3M 2 c 2 )(e 2 /2x-Mc 2 ) 
+because Mf = eE.
+
+The author then remarked that: "If the equation holds at a radius x equal to e 2 /2Mc 2 there is no radiation of energy" and that, as we well know, the electric field energy of a charge outside a sphere of radius x is e 2 /2x. Accordingly, if M represents the component of electron field mass that is to be accelerated with the electron, that acceleration occurs only in accord with the normal inertial mass property if there is no radiation of energy by the accelerated electron.
+
+Here, in 1958, the author was pointing to the very causal basis of the inertial property of matter. Matter comprises discrete particles of electric charge and every single one of those charges will only experience acceleration determined according to the accelerating field condition, but in every case the inertial mass will ensure that no energy is radiated by any discrete charge. If there is electromagnetic energy radiation when charges are oscillated that is solely attributable to the collective mutual actions and is not sourced in the individual response of any charge component.
+
+It is a question of accepting that if n identical charges e share the same acceleration in the same electric field, the Larmor radiation formula will not involve a factor n 2 but rather a factor n(n-l), because n electrons are not radiating on their own account.
+
+How Einstein could develop a theory based on the contrary proposition is quite astounding, especially as one knew from the electron activity in atoms that electrons were subject to acceleration but had an energy conservative property which later was seen as its quantized state.
+
+Over the years, every time the author pointed to this non-radiation property of the electron as being the basis for E = Mc 2 he was told that he should not challenge Einstein's theory and that the radiation formula stood proved and verified.
+
+Accordingly, we still find that physics teachers continue to show how to derive the Larmor formula for the energy radiation of an accelerated electron, without describing what it is that is accelerated, where the accelerated mass of the electron is seated and how accelerating field does its work in the close proximity of the electron charge. Their teaching expands into the 'wave zone' where they are developing theory that approximates the physics of collective charge actions and no longer the physics of the individual electron.
+
+If only they would pause to heed what this author said in 1958, they would understand the causal basis of inertia and of the formula E = Mc 2 and see that they can do better by turning away from the Einstein doctrine.
+
+Amongst the many items of published correspondence listed in this bibliographical collection of the author's contributions there is one entitled "Signals from the Future" [1971a] . It refers to Paul Dirac's difficulty with the electron energy radiation theme, and includes the following words: 'the equations showed that electron acceleration was possible when there was no incident field, and, as Dirac put it, "the electron seems to know about the pulse before it arrives".'

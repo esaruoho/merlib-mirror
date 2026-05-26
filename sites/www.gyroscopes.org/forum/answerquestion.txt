@@ -1,0 +1,73 @@
+The Gyroscope - Everything you needed to know 
+
+ Home :
+ Gallery :
+ History :
+ Uses :
+ Behaviour :
+ Maths :
+ Forum :
+ Propulsion :
+ Links :
+ Glossary 
+
+ Main Forum Page 
+
+ The Gyroscope Forum 
+
+ 21 November 2003 11:09
+
+ Welcome to the gyroscope forum. If you have a question about gyroscopes in general,
+ want to know how they work, or what they can be used for then you can leave your question here for others to answer.
+ You may also be able to help others by answering some of the questions on the site.
+
+ Search the forum: 
+
+ To ask a question click here 
+
+ Answer a question by simply filling in the form below 
+
+ Question 
+
+ Asked by: 
+ Nitro MacMad 
+
+ Subject: 
+ Testing for deviation from Newton 
+
+ Question: 
+ Dear Glen et al, 
+ (The question is right at the end) 
+
+It used to be regarded as a reasonable test of a mechanisms ability to circumvent the "third law" for it to move (without stick/slip or other external influence) right outside its starting dimension. 
+
+The mechanism shown to Eric Laithwaite by Alex Jones did indeed move outside its own dimension (hence the excitement caused). It is now apparent to me that it was not the production of a large, clear, measurable impulse of unidirectional force that defeated that poor man, Kidde and so many others, but something so small as to be easily overlooked in all the spurious motions (and by golly there are plenty of them). 
+
+The current vogue of expecting as proof a pendulum, suspending the mechanism, being measurably pushed to one side is asking, not just for proof of impulse drive but also, for a steerable device if it is not to end up describing circles. This requirement for a steerable device seems rather like asking Gotlieb Daimler if he will include air con. before he has realised the need for a flywheel, or the Wright Bros for air miles while they test the glider in the sands of the Kill Devil Hills. 
+
+As it will be some time before I will see a version smooth enough to slap on a pendulum (though I long ago passed getting one that moves loads outside its dimension on wheels - yes! yes! I know that is scientifically unacceptable) let alone make it steerable,........... 
+......................................................................................................................................... 
+........would a pendulum suspended by four strings to give stability be accepable to the scientific community? 
+
+NM 
+
+ Date: 
+ 16 November 2003 
+
+ Your Answer 
+
+ Name: 
+
+ Your full name i.e. John Smith 
+
+ Email: 
+
+ Your email address i.e. John@Smith.net 
+
+ The answer to the question 
+
+ Answer: 
+
+ Webpage. Copyright &copy; 2003 Glenn Turner. All rights reserved. more info 
+ All other images/content copyrighted to the designated owners, 
+ and must not be reproduced or distributed without prior permission.

@@ -1,0 +1,19 @@
+{
+  "source": "live",
+  "domain": "elmer.unibas.ch",
+  "mirror_date": "2026-04-20T22:16:58.485022",
+  "total_urls": 0,
+  "downloaded": 165,
+  "failed": 0,
+  "files": 165,
+  "file_types": {
+    ".gif": 107,
+    ".html": 16,
+    ".htm": 30,
+    ".jpg": 5,
+    ".pdf": 3,
+    ".js": 1,
+    ".mpg": 1,
+    ".tex": 2
+  }
+}

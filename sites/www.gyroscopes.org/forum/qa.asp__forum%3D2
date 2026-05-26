@@ -1,0 +1,183 @@
+
+<html>
+<head>
+  <title>Gyroscopes - Everything you needed to know</title>
+  <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+  <meta http-equiv="pics-label" content='(pics-1.1 "http://www.icra.org/ratingsv02.html" comment "ICRAonline EN v2.0" l gen true for "no gen term" r (nz 0 vz 0 lz 0 oz 0 cz 0) "http://www.rsac.org/ratingsv01.html" l gen true for "no gen term" r (n 0 s 0 v 0 l 0))'>
+  <META NAME="Author" CONTENT="Glenn Turner">
+  <META NAME="keywords" CONTENT="gyroscope, gyroscopes , gyro, gyros, gyroscopic propulsion">
+  <META NAME="Description" CONTENT="Gyroscopes have many uses, this site explains how a gyroscope works and what they can be used for. The site also looks at the possible uses of gyroscope based propulsion (gyroscopic propulsion). ">
+  <META NAME="Copyright" CONTENT="Copyright 2003 (All Web Pages) by Glenn Turner">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="expires" content="0">
+  <link rel="stylesheet" href="/iesite.css" type="text/css">
+</head>
+<body bgcolor="#000000">
+  <div style="  float: center; margin: 0; border: none; padding: 0; " align=center><center><img src="/header.jpg" alt="" hspace=0 vspace=0 wgith=700 height=111></center></div>
+  <center>
+  <span class="menutitle">
+    <a href="/index.asp"><font color="#DDDDDD">Home</font></a> :
+    <a href="/gallery.asp"><font color="#DDDDDD">Gallery</font></a> :
+    <a href="/history.asp"><font color="#DDDDDD">History</font></a> :
+    <a href="/uses.asp"><font color="#DDDDDD">Uses</font></a> :
+    <a href="/behaviour.asp"><font color="#DDDDDD">Behaviour</font></a> :
+    <a href="/math.asp"><font color="#DDDDDD">Maths</font></a> :
+    <a href="/forum/forums.asp"><font color="#DDDDDD">Forum</font></a> :
+    <a href="/propulsion.asp"><font color="#DDDDDD">Propulsion</font></a> :
+    <a href="/links.asp"><font color="#DDDDDD">Links</font></a> :
+    <a href="/glossary.asp"><font color="#DDDDDD">Glossary</font></a>
+    <br>
+  </span>
+
+  <table border=0 cellpadding=0 cellspacing=0 width="0" height="11">
+  <tr>
+    <td></td>
+  </tr>
+  </table>
+
+
+
+
+
+  <table border=0 cellpadding=8 cellspacing=0 width="700" height="260" bgcolor="#FFFFFF" ID="Table1">
+  <tr>
+    <td valign="top" class="main">
+<table align="center" width="100%" border="0">
+  <tr>
+    <td align="left" width="20%" valign="top">
+      <a href="forums.asp">Main Forum Page</a>
+    </td>
+    <td align="center" valign="middle">
+      
+      <h2 border="0">       
+      </h2></td>
+    <td align="right" width="20%" valign="top">
+      12 January 2007 06:42
+    </td>
+  </tr>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <p align=left>Welcome to the gyroscope forum. If you have a question about gyroscopes in general,
+      want to know how they work, or what they can be used for then you can leave your question here for others to answer.
+         You may also be able to help others by answering some of the questions on the site.
+      </p>
+      
+      <table width="100%">
+      <tr><td>
+        <form action="qa.asp" method="get">
+        <b>Search the forum: </b><input type="text" value="" name="forumsearch" size=30>&nbsp;<input type="submit" value="Search" name="forumsearchsubmit">
+          <input type=hidden name="forum" value="2">
+        </form>
+      </td><td>
+        
+        <form action="askquestion.asp" method="post">
+        <input type="submit" value="Ask a new Question" name="forumsearchsubmit">
+        </form>
+        
+      </td></tr>
+      </table>
+      <hr width=100%>
+    </td>
+  </tr>
+</table>
+<table align=center border=0 width=95% cellspacing=0 cellpadding=2 class=gallerytable>
+<tr>
+<td align=center width=100>&nbsp;</td><td align=center><b>Page 1 of 41</b><br><font size=-1>( 326 Questions found)<br> Sorting by: <select onchange="Javascript: location.href='?forum=2&orderby=' + options[selectedIndex].value; " name=sortby><option value="recentquestions">Most recent Questions<option value="recentanswers">Most recent Answers<option value="mostreplies">Questions with most replies<option value="noreplies">Questions with no replies</select><br> Go to Page: <a href="?page=1&forum=2">[1]</a><a href="?page=2&forum=2">[2]</a><a href="?page=3&forum=2">[3]</a><a href="?page=4&forum=2">[4]</a><a href="?page=5&forum=2">[5]</a>...</font></td><td align=center width=100><a href="?page=2&forum=2">Next &gt;&gt;</a></td></tr></table><p><table border="0" align="center" width="95%">
+
+    <tr>
+    <td colspan="2"  align="left">
+    <a href="questions.asp?id=673"><b><font color="#000000">a moon's trajectory changed...</font></b></a><br>
+    Hi, 
+ I have been pondering gyros (for a long time...my family makes gyro stabilizers for hand held optics so I've been around them since I was a baby...which doesn't mean I understand them any bette <b>...</b> <br>
+    Asked on 5 January 2007 by <i>Paul Kenyon</i> <br>
+    <a href="questions.asp?id=673">Read Question in Full</a>
+    
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No answers as yet.
+      </td></tr><tr><td align="left" colspan="2">&nbsp;</td></tr>
+    <tr>
+    <td colspan="2" class=forumodd align="left">
+    <a href="questions.asp?id=672"><b><font color="#000000">Human Gyroscope</font></b></a><br>
+    I Would Like To Buy A Good Used Human Gyroscope For Exercise However I Am 6 3 And I Weight 265 Lbs, Am I Out Of Luck ? <br>
+    Asked on 5 January 2007 by <i>kirk milton</i> <br>
+    <a href="questions.asp?id=672">Read Question in Full</a>
+    
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No answers as yet.
+      </td></tr><tr><td align="left" colspan="2">&nbsp;</td></tr>
+    <tr>
+    <td colspan="2"  align="left">
+    <a href="questions.asp?id=671"><b><font color="#000000">Gyroscope Experiment/Weight Change Anomoly</font></b></a><br>
+    Testing for weight change anomoly. 
+The experiment I would like to do involves using 23 or more gyroscopes set in a circular pattern with the gyros set on the outside edge of a duralumin disc/saucer. <b>...</b> <br>
+    Asked on 3 January 2007 by <i>dcman2007</i> <br>
+    <a href="questions.asp?id=671">Read Question in Full</a>
+    
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No answers as yet.
+      </td></tr><tr><td align="left" colspan="2">&nbsp;</td></tr>
+    <tr>
+    <td colspan="2" class=forumodd align="left">
+    <a href="questions.asp?id=668"><b><font color="#000000">gyroscopes composses</font></b></a><br>
+    I'am a student at faculty of mechanical engineering in my fourth year. I am asked to define the gyroscope compess, to tell its function and to write up its uses, so could i please get an answer <br>
+    Asked on 19 December 2006 by <i>osama nagmeldin</i> <br>
+    <a href="questions.asp?id=668">Read Question in Full</a>
+    
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="questions.asp?id=668">View Answers (1 answers)</a>
+      </td></tr><tr><td align="left" colspan="2">&nbsp;</td></tr>
+    <tr>
+    <td colspan="2"  align="left">
+    <a href="questions.asp?id=667"><b><font color="#000000">Displacement Gyroscopes</font></b></a><br>
+    Hello there, 
+ 
+I'm a student doing my project on "Displacement Gyroscopes" and I was wondering if you could please provide any information that I could put on my project on "Displacement gyroscopes <b>...</b> <br>
+    Asked on 18 December 2006 by <i>Deepa Jag</i> <br>
+    <a href="questions.asp?id=667">Read Question in Full</a>
+    
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No answers as yet.
+      </td></tr><tr><td align="left" colspan="2">&nbsp;</td></tr>
+    <tr>
+    <td colspan="2" class=forumodd align="left">
+    <a href="questions.asp?id=662"><b><font color="#000000">new patents</font></b></a><br>
+    Italian engineer 
+Alfio di Bella 
+Alfio di Bella 
+Alfio di Bella 
+Alfio di Bella 
+patented a device to convert circular movement into one-direction movement. 
+Go to european patent database ep.e <b>...</b> <br>
+    Asked on 15 December 2006 by <i>aaaaaaaa</i> <br>
+    <a href="questions.asp?id=662">Read Question in Full</a>
+    
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No answers as yet.
+      </td></tr><tr><td align="left" colspan="2">&nbsp;</td></tr>
+    <tr>
+    <td colspan="2"  align="left">
+    <a href="questions.asp?id=656"><b><font color="#000000">Information about Coriolis vibratory gyroscope (CVG)???</font></b></a><br>
+    Hi! I need your HELP!!!! I need to get information about Coriolis vibratory gyroscope: descriptions, principles of work, photoes, diifferent kinds of CVG. It's for my science project into my universit <b>...</b> <br>
+    Asked on 10 December 2006 by <i>Alexandr Leniv</i> <br>
+    <a href="questions.asp?id=656">Read Question in Full</a>
+    
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No answers as yet.
+      </td></tr><tr><td align="left" colspan="2">&nbsp;</td></tr>
+    <tr>
+    <td colspan="2" class=forumodd align="left">
+    <a href="questions.asp?id=655"><b><font color="#000000">Information about Coriolis vibratory gyroscope (CVG)???</font></b></a><br>
+    Hi! I need your HELP!!!! I need to get information about Coriolis vibratory gyroscope: descriptions, principles of work, photoes, diifferent kinds of CVG. It's for my science project into my universit <b>...</b> <br>
+    Asked on 10 December 2006 by <i>Alexandr Leniv</i> <br>
+    <a href="questions.asp?id=655">Read Question in Full</a>
+    
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="questions.asp?id=655">View Answers (1 answers)</a>
+      </td></tr></table><table align=center border=0 width=95% cellspacing=0 cellpadding=2 class=gallerytable>
+<tr>
+<td align=center width=100>&nbsp;</td><td align=center><b>Page 1 of 41</b><br><font size=-1>( 326 Questions found)<br> Sorting by: <select onchange="Javascript: location.href='?forum=2&orderby=' + options[selectedIndex].value; " name=sortby><option value="recentquestions">Most recent Questions<option value="recentanswers">Most recent Answers<option value="mostreplies">Questions with most replies<option value="noreplies">Questions with no replies</select><br> Go to Page: <a href="?page=1&forum=2">[1]</a><a href="?page=2&forum=2">[2]</a><a href="?page=3&forum=2">[3]</a><a href="?page=4&forum=2">[4]</a><a href="?page=5&forum=2">[5]</a>...</font></td><td align=center width=100><a href="?page=2&forum=2">Next &gt;&gt;</a></td></tr></table><p>    </td>
+  </tr>
+  </table>
+  
+  <font class="copyright">
+  Website. Copyright &copy; 2007 Glenn Turner. All rights reserved. <a href="/site.asp">site info</a><br>
+     Do not copy without prior permission. Click here for <a target="gyroscopeproducts" href="http://www.gyroscope.com/" alt="Gyroscope products">gyroscope products</a> 
+   
+  </font>
+</center>
+
+</body>
+</html>

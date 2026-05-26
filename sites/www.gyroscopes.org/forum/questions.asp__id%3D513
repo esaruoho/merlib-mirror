@@ -1,0 +1,314 @@
+
+<html>
+<head>
+  <title>Gyroscopes - Everything you needed to know</title>
+  <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+  <meta http-equiv="pics-label" content='(pics-1.1 "http://www.icra.org/ratingsv02.html" comment "ICRAonline EN v2.0" l gen true for "no gen term" r (nz 0 vz 0 lz 0 oz 0 cz 0) "http://www.rsac.org/ratingsv01.html" l gen true for "no gen term" r (n 0 s 0 v 0 l 0))'>
+  <META NAME="Author" CONTENT="Glenn Turner">
+  <META NAME="keywords" CONTENT="gyroscope, gyroscopes , gyro, gyros, gyroscopic propulsion">
+  <META NAME="Description" CONTENT="Gyroscopes have many uses, this site explains how a gyroscope works and what they can be used for. The site also looks at the possible uses of gyroscope based propulsion (gyroscopic propulsion). ">
+  <META NAME="Copyright" CONTENT="Copyright 2003 (All Web Pages) by Glenn Turner">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="expires" content="0">
+  <link rel="stylesheet" href="/iesite.css" type="text/css">
+</head>
+<body bgcolor="#000000">
+  <div style="  float: center; margin: 0; border: none; padding: 0; " align=center><center><img src="/header.jpg" alt="" hspace=0 vspace=0 wgith=700 height=111></center></div>
+  <center>
+  <span class="menutitle">
+    <a href="/index.asp"><font color="#DDDDDD">Home</font></a> :
+    <a href="/gallery.asp"><font color="#DDDDDD">Gallery</font></a> :
+    <a href="/history.asp"><font color="#DDDDDD">History</font></a> :
+    <a href="/uses.asp"><font color="#DDDDDD">Uses</font></a> :
+    <a href="/behaviour.asp"><font color="#DDDDDD">Behaviour</font></a> :
+    <a href="/math.asp"><font color="#DDDDDD">Maths</font></a> :
+    <a href="/forum/qa.asp"><font color="#DDDDDD">Forum</font></a> :
+    <a href="/propulsion.asp"><font color="#DDDDDD">Propulsion</font></a> :
+    <a href="/links.asp"><font color="#DDDDDD">Links</font></a> :
+    <a href="/glossary.asp"><font color="#DDDDDD">Glossary</font></a>
+    <br>
+  </span>
+
+  <table border=0 cellpadding=0 cellspacing=0 width="0" height="11">
+  <tr>
+    <td></td>
+  </tr>
+  </table>
+
+
+
+
+
+  <table border=0 cellpadding=8 cellspacing=0 width="700" height="260" bgcolor="#FFFFFF" ID="Table1">
+  <tr>
+    <td valign="top" class="main">
+<table align="center" width="100%" border="0">
+  <tr>
+    <td align="left" width="20%" valign="top">
+      <a href="qa.asp">Main Forum Page</a>
+    </td>
+    <td align="center" valign="middle">
+      
+      <h2 border="0">       
+      The Gyroscope Forum</h2></td>
+    <td align="right" width="20%" valign="top">
+      3 May 2006 11:54
+    </td>
+  </tr>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <p align=left>Welcome to the gyroscope forum. If you have a question about gyroscopes in general,
+      want to know how they work, or what they can be used for then you can leave your question here for others to answer.
+         You may also be able to help others by answering some of the questions on the site.
+      </p>
+      
+      <table width="100%">
+      <tr><td>
+        <form action="qa.asp" method="get">
+        <b>Search the forum: </b><input type="text" value="" name="forumsearch" size=30>&nbsp;<input type="submit" value="Search" name="forumsearchsubmit">
+          <input type=hidden name="forum" value="">
+        </form>
+      </td><td>
+        
+        <form action="askquestion.asp" method="post">
+        <input type="submit" value="Ask a new Question" name="forumsearchsubmit">
+        </form>
+        
+      </td></tr>
+      </table>
+      <hr width=100%>
+    </td>
+  </tr>
+</table>
+
+<table align="center" border="0" width="95%">
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><h3>Question</h3></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Asked by:</b></td>
+    <td align="left" colspan="2" valign="top">Glenn Hawkins</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Subject:</b></td>
+    <td align="left" colspan="2" valign="top">Why</td>
+  </tr>
+  <tr>
+    <td align=right class=medium valign="top" nowrap><b>Question:</b></td>
+    <td align=left class=medium valign="top" width="400" colspan="2">Why does a gyroscope precess?</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Date:</b></td>
+    <td align="left" colspan="2" valign="top">11 February 2006
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2><hr width=100%></td>
+  </tr>
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><br><h3>Answers (Ordered by Date)</h3><br></td>
+  </tr>
+  <tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Luis</b> - 11/02/2006 23:32:23
+</td></tr><tr><td>&nbsp;</td><td>Because that is the direction dictated by the sum of all forces involved?<br>
+(Math can show magnitude, calculus shows dynamic rates, geometry shows direction, but dynamic changing direction is difficult to peg down.)   <br>
+Luis<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 12/02/2006 01:19:23
+</td></tr><tr><td>&nbsp;</td><td>Thank you Lous,<br>
+<br>
+You bet it's dificult to peg down, but it is surely the most important question ever ask here. I don't think anyone knows, or has anyone ever known, but I ask anyway just in case. I've been working on the why and how of it a long, long  time. I'll keep trying. Let me know if you have any thoughts on it.<br>
+<br>
+Glenn H.,<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 12/02/2006 11:34:39
+</td></tr><tr><td>&nbsp;</td><td>Im sorry I got your name wrong, Luis. It was just a mistake nothing more.<br>
+<br>
+Glenn,<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Nitro MacMad</b> - 12/02/2006 17:26:19
+</td></tr><tr><td>&nbsp;</td><td>Dear Glenn,<br>
+<br>
+As I have explained in earlier postings the direction and process of precession, and indeed precession itself can be most clearly understood if the gyro is sliced down to its more understandable fractional form:- the pendulum. <br>
+<br>
+Try this: - slowly swing your arm and halfway through its swing turn yourself (to represent an axial change) through 90 deg. while allowing your arm to continue its original direction of swing - as would be caused by a pendulums inertia - (this works best if you use your right arm and turn left, or you can do yourself an nasty injury).  Mentally rebuild a whole wheel around this pendulum and you have a gyro precessing.<br>
+<br>
+Kind regards<br>
+NM<br>
+<br>
+ <br>
+<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Luis Gonzalez</b> - 12/02/2006 19:13:14
+</td></tr><tr><td>&nbsp;</td><td>Glenn,<br>
+Many good explanations for precession have been given outside and inside this forum (there have also been some bad ones).<br>
+There are intuitive reasons such as the one Nitro has just presented.<br>
+There are rational-succinct ones, as the one I presented in the first line of my first response as a question (before getting philosophical in parentheses).<br>
+There are mathematical ones that allow you to perceive it in symbols and provide quantitative expectations that can be experimentally verified.<br>
+There are in-depth particle and/or vector analysis explanations that let us catch a glimpse of something that is not 100% intuitive or common to our way of thinking.<br>
+<br>
+They are all good answers but also require the EFFORT and a well exercised mind.  That is the nature of the answer.  <br>
+If all the correct answers are not satisfactory, it may be because the symbols, measurements or pictures may get in the way.  <br>
+<br>
+I suggest using the mathematical equations and playing with them until you can eliminate all arbitrary units of measure and end up with purely relativistic comparisons between (or among all) the rotating objects/systems.  In my personal attempt, I ended up with nothing but relative radii proportions (could have picked diameters etc) and relative periods of rotation (I think these are the bare minimum to fully describe a system).<br>
+Thank you, L...s<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 12/02/2006 23:15:11
+</td></tr><tr><td>&nbsp;</td><td><br>
+Dear Gentlemen,<br>
+<br>
+It is good and kind of you to give me answers. I believe you know what you are talking about. These explanations however, arent exactly what I was looking for. Remarkably, once I ask the question in print instead entertaining it only in my mind, the answer came to me. This has happened at least a couple of times before, maybe more. Asking questions publicly is a very good tool. I dont understand why. The mind is a wonder isnt it? Anyway I think you.<br>
+<br>
+Nitro, where do you live, what are your interests, what are the people and places around you like and what is life like for you? You might build of your description. When the gyro isnt spinning it swings in a vertical line downward. When it is spinning why dose it elect to twist in one direction and not the other? Why does it not cause the axel to rotate about the pedestal, but rather circles the pedestal while producing no reward reaction against the pivot point?<br>
+<br>
+One other point of interest is that if you were to consider your arms as a vertical spinning mass then we must contend with this condition: As one swings down the other swings up with a kind of forced equal momentum. Ill try to explain. I once suspected that gravity may play a part in causing the direction of precession, but it doesnt. We can reason that as the downward spinning side of rotation falls into gravity it gains a tendency to speed rotation, while the other upward spinning half would be slowed by gravity. This is true, but everything remains balanced at the center of rotation by the leverage of one half against the other and there is no advantage to cause precession here. <br>
+<br>
+Luis, the same, where do you live, what are your interest, what are the people and places around you like and what is life like for you?<br>
+<br>
+I see you have been doing your do-diligence and learning well. Yes, I agree to the very simple torque explanation mechanically given to explain gimbals gyroscopic movements. Yes, these have been around everywhere. I have never found a mechanical explanation for orbital precession given as a road map as to why and how things happen the way they do. I think none exist. Rather, Im sure. Intuitive, rational-succinct, in-depth particle and/or vector analysis and certainly mathematical explanations are not mechanical even when they try to be. No matter how they begin and no mater what they promise they will only be partially mechanical. Ultimately they must revert only to statements that can be proven, but which dont explain how and why mater and energy is behaving this way. The author doesnt know. If you study those explanations again with this in mind you will see.<br>
+<br>
+Then let us look at mechanical for a moment. What is it and what isnt it. This is where were failing to communicate.<br>
+<br>
+Think of the three Laws of motion. They are not mechanical. They make no attempt in any way to explain why and how things happen the way they do. They are stated Laws of conditions that exist. They have been proven. Ask yourself why they are destined to behave so. Ask yourself how it is done. You will see there is no information provided as to how you can recreate them. You know that matter and energy can neither be created, nor destroyed. Ask yourself why not and you will not find answers anywhere. Ultimately many of us, Newton too, decided that the Great Creator set these two things and their behavior into existence and he didnt give us a mechanical explanation on how to do it. Otherwise we could know. Though the pillows of these three Laws are not mechanical, everything else in the universe is mechanical and with enough knowledge and invention of thought anything can be explained and therefore manipulated in every future way that might be possible.<br>
+<br>
+Lets try again. The true point you make that the combination of all involved forces cause precession cant be questioned. My point however, is to question precisely how these combinations interact to cause precession. When this is understood the gyro will be understood. Excuse me, mechanically understood. When we are able to understand this everything that might be possible will open up to our eyes.<br>
+<br>
+Understanding a mechanical blueprint of cause and effect in the area of dynamics is important. We would not have had to struggle so. Its sad when you look at all who have had to struggle these uncounted years and still dont have it all. One well done mechanical blueprint of interacting motion relating to causes and effect would have given us everything weve struggled for,  all of it in mater of a few hours of study. Think how much time you and I have invested all because its not explained in simplified mechanics.<br>
+<br>
+Lastly classical mechanics in physics, the search to understand how and why, was abandoned during the 1920 after the event of the Theory of Relativity and quantum mechanics. I have a book about it dated in 1949? and approved by Albert Einstein. The effort is partially flake. It will always be imposable to divorce mechanics from mathematics. The numbers must relate to something. Otherwise youd just have a series of meaningless numbers. I think this practice, this wish, this attempt to avoid mechanics as much as possible is the reason that today few realize exactly what I mean when I say mechanical.<br>
+<br>
+I consider this my fault and not others. I work outside of the box of most current methods. I am mechanical.<br>
+<br>
+Ok, I said Id suddenly understood the answer to my question. The answer now seems simple. Ill post it below, but it will be in the poorest form without drawings.<br>
+<br>
+Keep swinging Nitro and Luis.<br>
+<br>
+Glenn H.<br>
+<br>
+<br>
+<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 12/02/2006 23:19:02
+</td></tr><tr><td>&nbsp;</td><td>I think I have it. All these years Ive been devising a mechanical explanation of exactly what are these forces, how they work and how each interact with the others to produce the condition of precession.<br>
+<br>
+I think Im finally finished with mechanical theory. It has been a marathon. My intentions are to some day to produce many three-dimensional drawings explaining the mechanics in the theory Ive named archulation many years ago. It will be a lot of work, though I doubt more than a couple of dozen people will be interested. <br>
+<br>
+For now Ill try to generalize the question above in an incomplete way. Ive already explained how precessing gyros stays aloft. How and why they circle a pivotal area at the end of an axel is as follows.<br>
+<br>
+You can find a very good explanation of rotation that I will relate to in most any physics book. Remember the large round platform rotating as a merry-go-round. When a person standing on the rim walks toward the center rotation speeds up. In order to maintain this condition of inertia he must maintain the same rotating speed though the closer he walks toward the center each of his rotations will become a shorter distance traveled. Dynamics compensates by causing him and therefore the platform to rotate faster. His momentum then remains the same.<br>
+<br>
+Your vertical positioned gyro as it spins obeys all the elements of the three Laws of motion just as the person on the rotating platform, thought they are working in different rotational plains, horizontal and vertical. As the very bottom of your gyro begins to tilt, or tends to tilt it will always be moving closer to the pedestal area. As it moves closer in the degrees of plains it will attempt to maintain the same plain speed from where it began related to the pivot. To do that it must attempt to speed up its spin at the bottom, again as related to the pivot, but which it cannot do. This is because the top of the gyro is equally attempted to slow down as it moves outward in its plane from the pivot and so the spin speed remains the same during tilt. The plain speed during tilt relating only to the pivot area does however exhibit a force to speed up, while the top of the gyro in moving away from the pivot exerts a decreasing tendency of force.<br>
+<br>
+Note that precession always happens in the direction of bottom gyroscopic spin and not the top, which spins in the opposite direction to precession. Again it is the bottom that attempts to maintain the same speed, though traveling a shorter rotational distance in relation to the changing plain alignments to the pivot. Note too, the faster the tilt the, faster the bottom attempts to move, the greater the force generated, the faster the precession.<br>
+<br>
+Without pictures and other related explanations for all the many functions I dont know if this is clear, but these are the reasons tilt and tendency to tilt causes the gyro to circle the pivot, or tower? in a matter we call precession.<br>
+<br>
+I can get back to my machine now. Oh yeah, the end results of all these conditions taken together is that the Third law isnt obeyed, but important is a distinctionall the elements that cause gyroscopic phenomena do of course obey precisely the Laws of dynamics. Strange however how you can use the Laws as gospel truth to build, or manipulate a condition that will become different from what the Laws you used say will happen.<br>
+<br>
+I know the Scotsman Sandy agrees with an unveiled vehemence toward the poor old British born Sr. Newton. I can hear the squalling bagpipes and war drums, see the bulging blood vessels pop out in the neck and the red face and hear the grinding teeth in opposition to the validity of the Third Law, but the poor Englishman just isnt fighting back very well just right now. Just teasing you. I too suspect a flaw the Law. Keep up the good struggle.<br>
+<br>
+Its been good to talk to intelligent people and especially so those who have so much knowledge of the subject, Nitro and Luis and I must add Sandy. I will close now, unless my explanation hasnt been done well enough to give an understanding of the original question.<br>
+<br>
+Best Wishes for all of us,<br>
+Glenn H. <br>
+<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 13/02/2006 12:28:12
+</td></tr><tr><td>&nbsp;</td><td>Hello Again Nitro,<br>
+<br>
+The last sentence in the second paragraph I wrote to you suggested you would be able to build onto your explanation by first asking a question. I find this last sentence and thought was unclear. Excuse me. Let me change it to the following.<br>
+<br>
+One may ask why does the axel and tower not rotate about the heaver gyro? Why does the gyro not attempt to stay in place, itself pivoting? Why, as the gyro circles there are no reward reactions against the pivot point? Professor Liftwate demonstrated this but he couldnt explain why. As we continue to build our explanations it might be good to continually revisit this primary question. We should know there is more commotion in this question than has been explained.<br>
+<br>
+By the way, your Law is excellent and complete. Its even a kind of generalized warning that there will be more to know than one first thinks. In a way Im only repeating this. There will be more to the explanations needed than one first thinks.<br>
+<br>
+Good Luck with your machine,<br>
+<br>
+Glenn H. <br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 13/02/2006 16:27:06
+</td></tr><tr><td>&nbsp;</td><td>I see my explanation can be made more complete. Ive got to finish what I started. Im almost finished.<br>
+<br>
+Concerning the forces of rotation, as a gyro would tilt downward: We may wonder why the forces of rotation become more dominant in the bottom area of rotation. Consider simple leverage. An Aborigine in the Outback need not know mathematics, but only rely on reason and memory to understand how to shove a pole under a rock weighing much more than he and then place a smaller rock underneath the pole closest to the large rock. He has a fulcrum now. He has a lever to help him move the big rock in order to get at the juicy grubs underneath. As he pries on the long end of the pole it descends a greater distance and much faster than does the short end. The short end moves more slowly upward and not very far and so it is a many times stronger force. It is able to dominated and control the rock, though as we know the rock is heaver than the hungry man.<br>
+<br>
+This same leverage happens in a more complicated way in the tilt, or tendency to tilt of a spinning gyro. At the bottom of the gyro the forces of rotation would move closer in, continually shortening its distance to the base of the supporting pivotal area. The bottom rotational forces then are continually increased, more that those rotational forces at the top of the gyro as it falls, always moving outward from the base of the pedestal. The conditions in this way act like leverage. The bottom is dominant, more powerful and controls the direction of precession as well as speed, again because the distance between bottom gyro and base of pedestal support continuously shortens.<br>
+<br>
+In a poorly relatable way the similar is true as a person walks from the rim of a rotating merry-go-round toward the center of rotation.<br>
+<br>
+I think Im finished?<br>
+<br>
+Perhaps you may be willing to accept this?<br>
+<br>
+Glenn H.,<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Sandy Kidd</b> - 15/02/2006 06:22:53
+</td></tr><tr><td>&nbsp;</td><td>Dear Glenn H.<br>
+Enjoyed your posting.<br>
+OK Im rising to your bait, but my claymore is still in its scabbard.<br>
+If you noticed in previous postings I am the guy that praised Sir Isaacs achievements. I am a great believer in Newton, but there is a flaw surrounding gyroscopic action that he could never have known about. <br>
+As I have previously stated, and more than once, that in any gyroscopic system, whether, active or passive, Newton will be satisfied.<br>
+That said, let us return to precession.<br>
+We can forget accelerated systems as there is no precession in an accelerated system, so onwards to passive systems.<br>
+The only force external to a passive system which we have available to act upon it is gravity itself. <br>
+You are totally correct Glenn in the fact that the fastest moving sector (by this I mean as the result of an external acceleration, which in this case is gravity) of the gyroscope dictates the direction of gyroscopic torque, and consequently the direction of gyroscopic movement.<br>
+However the gyroscope system cannot just descend and maintain steady state precession at right angles to the force of gravity. There is obviously a bit missing in the middle here. The descending gyroscope is still subjected to gravity whilst in its horizontal path and can only balance this out by attempting (reacting again at right angles to the now applied horizontal force) to return vertically from whence it came. The gyroscope will then run out of steam, and descend once more, and so on.<br>
+If you search the web for articles relating to gyroscopic nutation and nutation frequency you will find all the answers you require to explain precession. <br>
+Nutation is a complex balancing act, which depending on the energy contained in the gyroscope, and its direction of rotation, ultimately determines the speed and direction of precession rotation. Precession and nutation are but parts of the same thing.<br>
+For some reason or another, many dismiss nutation, and see it as some kind of unwanted interference, which is only transient and which eventually goes away.<br>
+It has been described as bumping and bouncing which personally I have never witnessed.<br>
+Like it or not all passive gyroscopes must nutate in order to impart what we call precession on the gyroscopic system.<br>
+However, if the popular choice, is in the invocation of some kind of black magic thats OK.<br>
+It really does not matter too much anyway.<br>
+Sandy.<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 15/02/2006 13:16:50
+</td></tr><tr><td>&nbsp;</td><td>Breaveheart Sandy,<br>
+<br>
+Though youve made peace with Sir Newton whom were sure can be trusted, keep diligent and thy claymore well oiled against the treachery of the cruel English King Long Tooth.<br>
+<br>
+Youve done an interesting post. I like it. We see mostly the same things, but express them so differently that I have to be careful to know the difference between agreement and disagreement. We are in agreement. Almost entirely. Except for simple to understand nutations and the limit to what can be learned from them.<br>
+<br>
+I want to start a new post to ask you several questions.<br>
+<br>
+For now I think I will leave this post as it is and not divert from it. Even though I hope to make these explanations better and better before attempting to publish them, I think they are critically important now to any research even as they are. Why they are, has been explained. They matter a lot.<br>
+<br>
+Be careful, Old Warrior. Stay on the watch-out.<br>
+Glenn H.<br>
+<br><br></td></tr>
+<tr>
+<td align="center" colspan="2"><a href="answerquestion.asp?id=513">Add an Answer &#062;&#062;</a></td></tr>
+</table>
+    </td>
+  </tr>
+  </table>
+  
+  <font class="copyright">
+  Website. Copyright &copy; 2006 Glenn Turner. All rights reserved. <a href="/site.asp">site info</a><br>
+     Do not copy without prior permission. Click here for <a target="gyroscopeproducts" href="http://www.gyroscope.com/" alt="Gyroscope products">gyroscope products</a> 
+   
+  </font>
+</center>
+
+</body>
+</html>

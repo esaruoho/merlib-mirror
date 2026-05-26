@@ -1,0 +1,61 @@
+Már PIN-kóddal is zárható a Tesla Model 3 kesztyűtartója 
+
+ 2 weeks ago 
+
+ Már PIN-kóddal is zárható a Tesla Model 3 kesztyűtartója 
+
+ Megérkezett a legújabb szoftverfrissítés két apró, de fontos újítással. 
+
+ A Tesla elkezdte közzétenni legújabb, 2020.40-es verziószámú szoftverfrissítési csomagját, melyben két kisebb újdonság is megtalálható: a Priority Bluetooth Device és a Glovebox PIN, vagyis a PIN-kóddal zárható kesztyűtartó. 
+
+ Apró, de annál hasznosabb újdonságok. De mit is kell tudni róluk? 
+
+ Korábban több Tesla tulajdonos is panaszkodott arra, hogy amikor beszállt az autójába, nem a saját, hanem a barátnője/felesége lejátszási listájának egyik száma csendült fel a hangrendszerből. A kaliforniai cég most orvosolta ezt a problémát. 
+
+ A Tesla 2020.40-es verziószámú szoftverfrissítésében egy Priority Bluetooth Device névre hallgató új funkciót találunk, melynek köszönhetően hozzárendelhetjük az elsődlegesen preferált eszközt a vezetői profilunkhoz. 
+
+ „Annak érdekében, hogy elkerüljük a nem megfelelő telefonhoz való csatlakozást, most beállíthatjuk az elsődleges Bluetooth-eszközt. Így első körben az autó automatikusan a kiválasztott profilhoz társított eszközhöz próbál meg csatlakozni, mielőtt megpróbálna csatlakozni más párosított telefonokhoz” – áll az elektromosautó-gyártó hivatalos közleményében. 
+
+ Ha aktiválni szeretnénk az új funkciót és az elsődleges Bluetooth-eszközt szeretnénk a profilunkhoz rendelni, „meg kell nyomni a Bluetooth ikont az érintőképernyő felső részén, kiválasztani a megfelelő telefont és rányomni a Priority Device opcióra”. 
+
+ A másik újdonság a „Glovebox PIN” szolgáltatás , melynek segítségével beállíthatunk egy kódot, így csak annak beütését követően lehet kinyitni a kesztyűtartót és hozzáférni annak tartalmához. 
+
+ Annak érdekében, hogy még nagyobb biztonságban tudhasd a kesztyűtartóban lévő értékeidet, akkor a Controls > Safety and Security > Glovebox PIN menüpontban állíthatjuk be a négyjegyű biztonsági kódot. 
+
+ A Tesla már korábban elérhetővé tette a „PIN to Drive” funkciót, hogy abban az esetben is garantálja az autó biztonságát, ha ellopnák a kulcsait, és mivel a Model 3-as és Model Y kesztyűtartója csak az érintőképernyőn keresztül érhető el, a Tesla most ehhez is egy PIN-kódos védelmet rendelt. 
+
+ A szoftverfrissítés emellett olyan „kisebb fejlesztéseket és hibajavításokat” is tartalmaz, amelyekről a gyártó hivatalos közleménye nem tesz említést. 
+
+ Forrás: 
+
+ Electrek 
+
+ 20 hours 11 min 
+ A Tesla közzétette a teljes önvezető funkció béta verzióját 
+ Elon Musk szerint a rendszer egyelőre „rendkívül lassú és óvatos lesz”. 
+
+ 1 day 14 hours 
+ 3,5 millió kilométert is bírhat a Tesla 4680-as akkucellája 
+ Jeff Dahn és kutatócsapata szerint óriási potenciál rejlik az újtípusú akkumulátorokban. 
+
+ 2 days 15 hours 
+ Extrém megbízhatósági teszt: 1,2 millió kilométer egy Teslában 
+ Megállíthatatlanul száguld a német Model S P85 az 1 millió mérföld felé. 
+
+ Model 3 Model S Model X Model Y 
+
+ © 2019-2020 MAHZRT 
+
+ Modellek 
+
+ Model 3 Model S Model X Model Y 
+ Szolgáltatásaink 
+ Tesla hírek 
+ Tesla márkatörténet 
+ Gy.i.k. 
+ TAO támogatás 
+ Nagycsaládos támogatás 
+ Tesla Model S élményvezetés 
+ Kapcsolat 
+
+ Model 3 Model S Model X Model Y

@@ -1,0 +1,984 @@
+
+<html>
+<head>
+  <title>Gyroscopes - Everything you needed to know</title>
+  <meta HTTP-EQUIV="Content-Type" content="text/html; charset=iso-8859-1">
+  <meta http-equiv="pics-label" content='(pics-1.1 "http://www.icra.org/ratingsv02.html" comment "ICRAonline EN v2.0" l gen true for "no gen term" r (nz 0 vz 0 lz 0 oz 0 cz 0) "http://www.rsac.org/ratingsv01.html" l gen true for "no gen term" r (n 0 s 0 v 0 l 0))'>
+  <meta name="Author" content="Glenn Turner">
+  <meta name="keywords" content="gyroscope, gyroscopes , gyro, gyros, gyroscopic propulsion">
+  <meta name="Description" content="Gyroscopes have many uses, this site explains how a gyroscope works and what they can be used for. The site also looks at the possible uses of gyroscope based propulsion (gyroscopic propulsion). ">
+  <meta name="Copyright" content="Copyright 2015 (All Web Pages) by Glenn Turner">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="expires" content="0">
+  <link rel="stylesheet" href="/iesite.css" type="text/css">
+  
+</head>
+<body bgcolor="#000000">
+  <div style="  float: center; margin: 0; border: none; padding: 0; " align=center><center><img src="/header.jpg" alt="" hspace=0 vspace=0 width=700 height=111></center></div>
+  <center>
+  <span class="menutitle">
+    <a href="/index.asp"><font color="#DDDDDD">Home</font></a> :
+    <a href="/gallery.asp"><font color="#DDDDDD">Gallery</font></a> :
+    <a href="/history.asp"><font color="#DDDDDD">History</font></a> :
+    <a href="/uses.asp"><font color="#DDDDDD">Uses</font></a> :
+    <a href="/behaviour.asp"><font color="#DDDDDD">Behaviour</font></a> :
+    <a href="/math.asp"><font color="#DDDDDD">Maths</font></a> :
+    <a href="/forum/forums.asp"><font color="#DDDDDD">Forum</font></a> :
+    <a href="/propulsion.asp"><font color="#DDDDDD">Propulsion</font></a> :
+    <a href="/links.asp"><font color="#DDDDDD">Links</font></a> :
+    <a href="/glossary.asp"><font color="#DDDDDD">Glossary</font></a>
+    <br>
+  </span>
+
+  <table border=0 cellpadding=0 cellspacing=0 width="0" height="11">
+  <tr>
+    <td></td>
+  </tr>
+  </table>
+
+
+
+
+
+  <table border=0 cellpadding=8 cellspacing=0 width="700" height="260" bgcolor="#FFFFFF" ID="Table1">
+  <tr>
+    <td valign="top" class="main">
+<table align="center" width="100%" border="0">
+  <tr>
+    <td align="left" width="20%" valign="top">
+      <a href="forums.asp">Main Forum Page</a>
+    </td>
+    <td align="center" valign="middle">
+      
+      <h2 border="0">       
+      The Gyroscope Forum</h2></td>
+    <td align="right" width="20%" valign="top">
+      18 April 2021 08:58
+    </td>
+  </tr>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <p align=left>Welcome to the gyroscope forum. If you have a question about gyroscopes in general,
+      want to know how they work, or what they can be used for then you can leave your question here for others to answer.
+         You may also be able to help others by answering some of the questions on the site.
+      </p>
+      
+      <table width="100%">
+      <tr><td>
+        <form action="qa.asp" method="get">
+        <b>Search the forum: </b><input type="text" value="" name="forumsearch" size=30>&nbsp;<input type="submit" value="Search" name="forumsearchsubmit">
+          <input type=hidden name="forum" value="">
+        </form>
+      </td><td>
+        
+        <form action="askquestion.asp" method="post">
+        <input type="submit" value="Ask new Question" name="forumsearchsubmit">&nbsp;
+        
+        <input type="submit" value="Login" name="Login"> 
+        
+        </form>
+      </td></tr>
+      </table>
+      <hr width=100%>
+    </td>
+  </tr>
+</table>
+
+<table align="center" border="0" width="95%">
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><h3>Question</h3></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Asked by:</b></td>
+    <td align="left" colspan="2" valign="top">Sandy Kidd</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Subject:</b></td>
+    <td align="left" colspan="2" valign="top">So much for conservation</td>
+  </tr>
+  <tr>
+    <td align=right class=medium valign="top" nowrap><b>Question:</b></td>
+    <td align=left class=medium valign="top" width="400" colspan="2">After speaking to Sandy today he sent me the following in an e-mail which he has ask me to put on the forums.<br>
+<br>
+Here it is:<br>
+<br>
+Glenn it has been a few years now, since we last spoke. On reviewing some of the comments on your excellent website, made by people who are obviously much more intelligent and academically qualified than I am, it must just be that there is a difference in gyroscope physics that is local to my back garden.<br>
+Was wondering, if one of the learned gentlemen can inform me, as to why a gyroscope under forced precession, producing in the order of 30lbs of centrifugal force, in a system that weighs just 5lbs, does not go through the roof of my shed with several Gs of acceleration, when the gyroscope is rotated fast enough to carry itself 45, 50 or even 60 degrees above the horizontal. The vertical component at 45 degrees should be at least as great as the centrifugal force.<br>
+<br>
+I was assured by a team of university mathematicians, in the mid 80s that my reasoning was correct.<br>
+If the radius of gyration is constant the vertical component according to physics should be 30lbs, or in a balanced twin gyroscope system 60lbs. In other words accepted principles says inertial drives are possible!<br>
+We all know where the mass of the gyroscope has gone.<br>
+<br>
+But tell me, if your sacred conservation laws are correct where has the centrifugal force and angular momentum gone. An inertial zero point. When this fact was made known to the team of mathematicians they disappeared rapidly without comment. I have now been trying to make this fact known for about 20 years.<br>
+A Catch 22. <br>
+<br>
+You just cannot have your conservation cake and eat it.<br>
+<br>
+Sandy Kidd.<br>
+9th June 2004<br>
+</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Date:</b></td>
+    <td align="left" colspan="2" valign="top">9 June 2004
+    </td>
+  </tr>
+  <tr>
+    <td align="right" colspan="3" valign="top"><a href="abuse.asp?q=173">report abuse</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2><hr width="100%"></td>
+  </tr>
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><br><h3>Answers (Ordered by Date)</h3><br></td>
+  </tr>
+  <tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Ram Firestone</b> - 10/06/2004 01:55:48
+</td></tr><tr><td>&nbsp;</td><td><br>
+Precession is a rotational force not a linear force. If you apply a tilting force to a gyroscope the resulting precessional force will be on both sides of the gyroscope in equal and opposite directions.  Therefore it just rotates, except at 90 degrees from the tilting force. If you constrain a gyroscope such that it cannot rotate around its center of mass it will still try to rotate any way it can. This is how all the tricks are done like making a gyroscope power a toy train car. Notice it only works on a reasonably curved track not in a straight line because it needs to rotate. This is the same idea as putting a gyroscope at the end of a horizontal arm that is hinged to a vertical axis such that it can raise and lower as the axis is turned. If you twist the axis, the gyroscope will seem to rise in the air and defy gravity. But it is really just trying to rotate and you are forcing it to raise the arm to do so. Take the arm away and it falls to the ground. What may be needed is alternating precession. I had an idea for this which I want to try, but truthfully its a long shot. I dont have a real good reason why it wont work but all this stuff breaks Newtons third law so the whole thing seems unlikely. <br>
+<br>
+As far as mathematicians and scientists go. I find I shouldnt put too much credence into what they say unless they are specialized in a particular field in which I am investigating.  I work in a company surrounded by PhDs. Some are physics PhDs. But they are more specialized in the area of electrical engineering. I once asked a bunch of them at the lunch table why a rocket accelerates at a constant rate (actually it gets faster because it looses weight as its fuel burns but this is a secondary effect) for a given fuel if K=1/2MV^2. This is the standard equation for kinetic energy. K is energy, V is velocity and M is mass. It says to reach twice the speed you need four times the energy.  Therefore it would seem a rocket would accelerate at a slower and slower rate, unless its thrust is constantly increased. But as we know this doesnt happen. In any case I got all sorts of crazy answers. One person said the thrust must increase! Another guy said something about the area under a curve but couldnt explain what that meant. Several of them changed positions a few times as they argued about it.  I found a web site that said K=1/2MV^2 is wrong.  The guy claims K=MV (http://nov55.com/ener.html). I have even looked this question up a few times on Usenet. I found physics majors killing each other over the answer. <br>
+<br>
+It turns out the answer is very simple and I finally managed to figure it out myself. When the rocket fires its engine from a standstill, most of its energy goes into accelerating the fuel and in some sense is wasted. As the rocket accelerates more and more of the kinetic energy goes to the rocket and less and less goes to the fuel.   For instance if the rocket is going at 5000mph and the thrust is going at 5000mph out the back of the rocket then the thrust (fuel) is essentially at a standstill and has no Kinetic energy in our chosen frame of reference.  We also have to remember the faster we go the less percentage increase in speed we have over a give time frame. For instance if we are accelerating 10 meters per second per second, after the first second we are going 10 meters per second. After the next second we are going 20 meters per second, so we have doubled our speed. After the third second we are going 30 meters per second so now we are only gong 50% faster, and after the fourth second we are going 40 meters per second, 33.3% faster.  My point is any Physics major much less a PhD should know this, but often they dont.<br>
+<br>
+There is another reason I brought this up. If by some miracle you could get inertial/gyroscopic propulsion to work it might be very efficient. Why? There is no energy being used in accelerating fuel. It could all be going to the object you are trying to move, and as we can see a rocket only receives a fraction of the kinetic energy generated when it first lifts off.  Unfortunately the whole thing is most likely a pipe dream since again we are up against Newton and his conservation of momentum, and Newton is no slouch :-)<br>
+<br>
+Ram<br>
+<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=297">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>webmaster@gyroscopes.org</b> - 10/06/2004 19:54:38
+</td></tr><tr><td>&nbsp;</td><td>I think Sandy's point is valid.  If precession does change any centrifugal or Inertia forces then this is probably the prerequisite for building a propulsion system.<br>
+<br>
+Its something that I beleave is critical and I've been looking at closely but I'm unable to prove.<br>
+<br>
+The text book precession examples show nothing unusual. Question is... are the text books missing something.<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=299">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Ram Firestone</b> - 10/06/2004 21:45:13
+</td></tr><tr><td>&nbsp;</td><td>I dont really know the specifics of Sandys device. I was just attempting to answer his question to the best of my knowledge. I freely admit I may completely wrong. However as far as I know, centrifugal force does not really exist. At least according to standard physics. The term is used only used in the reference frame of a spinning object. <br>
+http://scienceworld.wolfram.com/physics/CentrifugalForce.html. I would think that it is impossible to propel anything with it. Inertia on the other hand is a different matter. Whether you believe in gyroscopic propulsion or not, everyone agrees inertia exists. To my understanding precession itself is caused by inertia roughly parallel to the axis of a gyroscope on all points along its rim. But I think thats the problem. Its all points along its rim. If you tilt one side up the other side tilts down. And so you get precessive force generated on both sides in opposite directions causing a rotation instead of a translation. At least this is my current thought. Maybe we need a new kind of gyroscope; one that allows precessive force to be generated in only one direction. I have an idea for this but unfortunately its easier to think of ideas than to build prototypes and in any case the whole thing is still a long shot.  However I hope to try it at some point.<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=301">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>webmaster@gyroscopes.org</b> - 10/06/2004 23:24:52
+</td></tr><tr><td>&nbsp;</td><td>Forgive me for saying Centrifugal. Its one of the those pseudo forces that is redundant but still a widely used term none the less. Maybe I should have used Centripetal.<br>
+<br>
+Ram. I understand how a gyroscope works. At least in the conventional sense. Don't forget I complied/wrote this website. The page at /how.asp ( written by Cef Pearson ) is quite a good 'low level' description like you provided in your last comment.  I haven't got problem any of this.<br>
+<br>
+However, you need to know where I coming from. I've also been looking at gyroscopic propulsion for a good few years. Most of the devices/ideas that I've seen are flawed in some way but there are a few things that keep being mentioned. <br>
+<br>
+There is one concept that still remains interesting and which I'm trying to prove one way or the other. Its basically the concept that the properties of the gyroscope change when being precessed. The mass, speeds etc all come out normal. But does the inertia force and hence centripetal force change? (I can prove it yet either way)<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=303">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Ram Firestone</b> - 11/06/2004 02:01:08
+</td></tr><tr><td>&nbsp;</td><td>Sorry, I didnt mean to imply you didn't understand gyroscopes. I just like to make myself clear mainly because other people may read my post. Actually I'm not sure I understand everything completely myself now that I have thought about it further. One thing that has always confused me is that in order for a gyroscope to precess under gravity, it has to drop some do develop inertia to drive the precession. Perhaps this is nutation however a gyroscope will still precess even when nutation is not present or at least not visible. I am wondering if this can be thought of  as a delay between force and reaction to force.<br>
+<br>
+In any case which centripetal force are you referring to? The spinning gyroscopic mass itself or whole gyroscope turning as it precesses? I have actually seen my stand slide around on a table as my gyroscope precesses, which means there is centripetal force in the second case. However a gyroscope is also made of non-spinning parts and those must be accelerated around as the gyroscope precesses. <br>
+<br>
+Ram<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=304">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>webmaster@gyroscopes.org</b> - 11/06/2004 10:01:29
+</td></tr><tr><td>&nbsp;</td><td>Sorry I clearly misinterpreted who it was directed act. I'll see if I can make up for it by explaining notation (as I understand it).Notation is missed by some books and poorly explained by quite a few others. Its quite rare to find a book explaining notation well. I'll wont even try to explain the maths because its too complex for me.<br>
+<br>
+This is my understanding of Notation:<br>
+Iif you had the impossible in the form of a perfect gyroscope (all mass on rim, no centre) that was connected to the 'tower' by a weightless arm, then there would be no notation.<br>
+At the very moment you let go of the gyroscope it 'direct' all its force and start precessing with out a 'bounce'. <br>
+<br>
+In the real world its the extra wieght the gyroscope has to be carried/interact with that causes the nototion. So the mass in the centre of the gyroscope will contribute to nototion. The gyroscopes shaft(s), connections and arms all would add to the notation.<br>
+<br>
+Notation is a form of damping. Its starts with a big bounce and then gets smaller each time. If you consider the gyroscope to be a spring and the excess mass to be a weight<br>
+on the end of the spring the results are similar.<br>
+<br>
+A couple of months ago I put a very large counter balance on an arm of a precessing gyroscope. The nototion was about a 120 degrees. There was about three 'bounces' per rotation of the gyroscope round the 'tower'. I had never seen notation that big before.<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=305">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Ram Firestone</b> - 11/06/2004 11:31:08
+</td></tr><tr><td>&nbsp;</td><td>Ok good. Let's say for a second we have no bounce. Then what drives the precesssion? If we look at /how.asp we can see that we should need the gyroscope to drop slightly in order to precesss.  It might bounce up and down or it might just slowly drop. With a non-motorized gyroscope we see it slowly drops as it spins down. But does this happen with a motorized gyroscope if we leave it running for a long time? If it still drops then we have an explanation but want if it can remain precessing at the same angle or even center itself? Now we have a mystery because we are getting precession directly from gravity somehow without the need for that gravity to translate the rim of the gyroscope into tilting motion. This is what I meant by time delay. Its like of the movement caused by the force of gravity where to happen 90 degrees later along the rim as it spins. One explanation could be that a gyroscope is always bouncing some tiny amount even if you cant see it. But is it?<br>
+<br>
+Ram<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=306">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Sandy Kidd</b> - 11/06/2004 14:50:30
+</td></tr><tr><td>&nbsp;</td><td>As Glenn suggests it is impossible to see the changes in an operating system until the gyro goes into total precession (misuse of the word here). Many years ago I did, on request, draw up an experiment for a university incorporating strategically placed strain gauges and a dual beam oscilloscope. Don't know if they ever got round to it, as I have never heard, but I was optimistic about their findings.<br>
+This is not "an all or nothing at all" phenomenon The gyro will start to shed angular momentum and centrifugal force as soon as it starts to rotate<br>
+Let us be just a little bit silly here.<br>
+<br>
+If I build a balanced twin horizontally opposed gyroscopic system and rotate<br>
+the system<br>
+1 With neither gyroscope rotating   No problem<br>
+2 With both gyroscopes rotating     No problem<br>
+3 With one gyro stopped.<br>
+Your workshop will be full of shrapnel.<br>
+If you try this with even a small differential in gyro rotation speed things get out of hand very rapidly and can be very dangerous.<br>
+Did this in a university laboratory in the 80s to prove my point.<br>
+The machine was enclosed in a strong protective cage.<br>
+As predicted the machine ended itself quite spectacularly.<br>
+Sandy Kidd<br>
+11th June 2004<br>
+<br>
+ <<As Glenn suggests it is impossible to see the changes in an operating<br>
+system until the gyro goes into total precession.doc>> <br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=307">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Ram Firestone</b> - 11/06/2004 17:18:21
+</td></tr><tr><td>&nbsp;</td><td>Mr Kidd.<br>
+<br>
+Im curious about your exploding gyroscope experiment :-) How was it set up? Where the gyroscopes counter rotating? Where they on opposite sides of a see-saw such that the center of the see-saw was a vertically rotating shaft? How easy was it to spin the vertical shaft in each case? Also if they were on a sea-saw, did it self destruct after the see-saw reached its limits in the case where one was stopped? If I got your experiment right I may know why it exploded.<br>
+<br>
+Ram<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=310">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>DaveS</b> - 11/06/2004 17:28:24
+</td></tr><tr><td>&nbsp;</td><td>Dear Sandy<br>
+<br>
+What speeds where you operating this test to destruction device and what materials was it constructed from?<br>
+Are there any pictures or movies of the design that i could see?<br>
+Knowing you have been involved with this research for quite some time, are you still working on any devices and where is your research leading you now?<br>
+<br>
+DaveS<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=311">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>nitro macmad</b> - 12/06/2004 10:30:38
+</td></tr><tr><td>&nbsp;</td><td>Dear Webmaster,<br>
+<br>
+It is good to know that some of the pioneers are out there.  <br>
+<br>
+Please know, Sandy, that intelligence manifests itself in different ways in different people (thank goodness).  I dont think academic qualification necessarily denotes intelligence, though there is nothing to say that they cannot get together (but see how many PhDs - is that pronounced Fudds as in Elmer? - cant programme (program - for US of A) the video that their six year old son can), everyones intelligence peaks in different areas and at different times.  The ability shown in the machine on the front of Sandys book displays a level of intelligence he should be proud of.  Anyone with a calculator can do the quadratics of genius these days but try and find a class engineer- and a self effacing one at that!<br>
+<br>
+I came late to the web and was delighted (tempered with the inventers fear of being second, or worse) to discover that I was metaphorically surrounded by others who were treading or who had trod similar paths and had striven to grasp the brain twister.  Alas, I have not seen Sandys book (except in web pictures) but I dont think that his shed or mine is in a physics warp.  I do think though, that words like force, reaction, precession, inertia, acceleration, angular momentum, and others need revisiting in second stage gyro-dynamics (involving rotating rotation, or forced precession if you prefer).  Its also nice that he prefers centrifugal force too.  Anything that gets up the noses of blind faith Mantra chanters is O. K. with me and if calling an effect centrifugal force or degrees Fahrenheit helps your understanding, good luck ).<br>
+<br>
+The torsional, forced precession of gyros will cause them to attempt to produce an arced (90 degree offset) displacement of the mass of the gyros (which, young Ram Firestone, can be simply configured to produce an effective net overall linear displacement - remember that although Newton was no slouch he was no deity either).  This displacement requires the input of energy to rotate the main shaft and the consequent (in my machine - at least) overall linear acceleration of mass displacement is proportional (less the usual mechanical frictional losses) to the input load placed on the main shaft.  <br>
+<br>
+In my mechanism, I have not observed anything that argues with the conservation of energy law, (angular momentum may be a different matter but does the matter of the angular momentum of matter matter if it works?  I hope you lot are taking notes!).   I have, however observed my mechanism shift its entire mass in one direction with no opposing mass movement (impossible! Er - no!) and I have even watched it (slowly - till my fast repeater is finished) travel across my work bench (and back again when turned round - and it will do this on an air table) (lies and damn lies and impossible. Er - no again!)  <br>
+<br>
+Is there something seriously wrong with the physics laws then?  Not much really. Just that the application of the third law (Newtons) needs revisiting  because the opposite part is wrong when it is applied to the rotation of the axis of rotation.  That revisiting may help better our understanding of other areas of  physics that are presently fudged. Meanwhile back to the shed for this nutter (inventive genius).<br>
+<br>
+Kind regards<br>
+<br>
+NM<br>
+<br>
+PS Please excuse lack of gravity (not intended as a pun but what the heck) which must be caused by the my first progress in the shed for months.<br>
+<br>
+PPS Glad to read of your progress Dave.  Looks like we are both heading to the wire on this.  I hope to goodness that we have found different means, or my patent would prior art you, and I dont want that.<br>
+<br>
+ <br>
+<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=312">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Ram Firestone</b> - 12/06/2004 15:04:00
+</td></tr><tr><td>&nbsp;</td><td>I half agree with you nitro, and I will fully agree if someone can ever definitively demonstrate a working gyroscopic propulsion device.  As you said I dont think conservation of energy is a problem. But the opposite part of conservation of momentum is definitely a problem. I hope you are right and we can someday discard this part but since it has worked so well for a few hundred years, we need good evidence to do this.  I dont think floor based tests are that good. I can sit in my office chair and move myself across the floor without touching the ground. As you know this is because of friction.  On the other hand I think it is partially a judgment call. For instance a device that could smartly accelerate itself across the floor without a lot of jerkiness would be more convincing. At least it would be worth further testing. Your air table tests sounds fairly good.  Anyway good luck.<br>
+<br>
+Ram<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=313">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>nitro macmad</b> - 12/06/2004 17:18:54
+</td></tr><tr><td>&nbsp;</td><td>Dear Webmaster<br>
+<br>
+Forgive me using your string to reply to Ram.  <br>
+<br>
+Ram please read this carefully (again) : the device has nothing to do with stick/slip. It produces no opposite - full stop (period -  in US langue.  Not used by Brits for reasons that we don' t talk of over here.). If I wasn' t so paranoid as to think that someone from near Stanford U might be a sleeper I would offer to give you a simple test to show the discrepancy.  You will just have to wait a little.  I like the hair in '95 - and I thought I was the last of the flower generation.  What a curse and a blessing the web is.<br>
+<br>
+Kind regards <br>
+<br>
+NM<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=314">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Ram Firestone</b> - 12/06/2004 18:02:14
+</td></tr><tr><td>&nbsp;</td><td>I doubt our webmaster minds us using this forum.  A forum isnt much good if you cant discuss things in it. It also helps decimate information and ideas to others who may not be directly involved in the discussion. <br>
+<br>
+I think I did not explain my point very well. Allow me to reiterate.  Im not saying that your device uses slip/stick or anything else. Maybe your device actually works in a frictionless environment. I hope it does! My only point was that tests that can be easily fooled are not good tests for two reasons. First you dont know if you device is actually working.  Second you will have a hard time convincing other people of its functionality.  I dont expect you to demonstrate anything until you feel you are legally protected.  I completely understand this.  However once you have a patent I would be interested in seeing what you have come up with. Again, good luck!<br>
+<br>
+Ram<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=315">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>DaveS</b> - 13/06/2004 13:03:09
+</td></tr><tr><td>&nbsp;</td><td>It seems that there are two main areas of contention in relation to gyroscopic propulsion. "Slip/stick" effect or controlled "precession"<br>
++ there is this believed/perceived area "do strange things"<br>
+Does it really matter? If it works with either/or/both it will be a novel device.<br>
+<br>
+I like the mention about intelligence levels and how they exhibit themselves. we all know of people who given a mental problem can instantly come up with a solution, yet give these people a simple manual task involving dexterety and large doses of  common sense and they havn't got a clue. There is also those who exhibit the exact opposite charactoristics. Again, does it matter. <br>
+The company i work for will not employ anyone based on academic qualifications as often the most capable people are those that don't have any. I from personal experience find that the most rebellious with a spark of intelligence are the most capable. Throw an iota of wisdom into the pot and you get someone pretty special.<br>
+I read with interest how most on this forum agree on certain aspects and then disagree on others. Seeing the much bigger picture for some, seems difficult. (not aimed at you Nitro).<br>
+I know (in my head) how gyros work and believe i have a way to harness one or more of their facets. Trying to explain what is happening is possible but is difficult resulting often in heated debates with those who believe they know better.<br>
+One of the things that really concerns me is the desparate clinging to mathematical models to explain what is happening. Imagine what would have happened If the first people who discovered the wheel had stopped to try and work out Pi and the mathematics of what is happening.<br>
+<br>
+As a child i was given a toy gyroscope and was fascinated with it. No one during my early years had any idea how to explain what was happening and how they seemed to defy accepted logic. Even so i came up with an idea on how they could be harnessed to provide controlled propulsion.<br>
+This resulted in me doing extensive research on the subject (pre internet and home computers)and in addition to a number of physics books normally related to flywheels rather than gyros i came across Sandy Kidds' book. In my local library this was filed in the UFO/Occult section.  I read with interest how he had tried to harness gyro related forces by making models in his garden shed and the efforts to obtain funding and credibility within the accepted scientific community. I don't envy Sandys' efforts but at the same time it showed me what to expect. The community has not changed much.<br>
+<br>
+I must point out that my design and belief on how i am harnessing the "gyroscopic" forces in no way mirrors Sandys'. <br>
+Nitro: I also would be amazed if anyone else has the same design as after extensive patent researching, i have not seen similar.<br>
+<br>
+As for breaking any excepted physics laws, i don't believe any of the devices do. I believe that once a device is demonstrated that the "physics boyz" will fairly rapidly fit it into existing models.<br>
+<br>
+DaveS<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=317">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Sandy Kidd</b> - 15/06/2004 10:21:19
+</td></tr><tr><td>&nbsp;</td><td>Dave S, Nitro, Ram, and other interested parties.<br>
+<br>
+Appreciate your interest guys. You will find diagrams and a photograph of a machine that fits the bill, in Glenn's "Propulsion" section. I am not trying to promote myself, honestly. Just easier this way. A simple twin horizontally opposed gyroscope system.<br>
+Precession speed around 300 rpm. Gyro speed around 9,000 rpm at top speed.<br>
+Reckon about 2,000rpm at the gyro at point of destruction.  Machine approx. 15 inches in diameter. Gyros 3 inch diameter aluminium, approx. half - pound in weight.<br>
+(Originals were brass same dimensions weighing approx.1 pound)<br>
+Angle of the arms is unimportant in this context as long as they are mounted on a single point (fulcrum), on the precession axis of rotation.<br>
+<br>
+Dave S.<br>
+Yes Dave I have tried just about everything there is to try, and worked away at it steadily all the time. Older, wiser, and not nearly so impetuous. My philosophy has always been to keep going till I ran out of options. It is easy to produce non Newtonian lift, the problem is producing enough of it. I know what has to be done to make a system work well, and there is enough information available for anybody else to complete the job. This is the reason I made my comments with respect to forced precession.  The answer lies in there, and we can all sing from the same hymn sheet. People will have to get used to this fact, strange as it may seem. We must create a system where (and this is the tall order) a circular lump of metal becomes a gyroscope or a dead weight on demand. A centrifugal switch?<br>
+You can see where I am coming from.  There is an enormous amount of thrust available if we get it right. Did something akin to this mid 80s using a pair of aluminium hemispheres<br>
+with a one way bearing in the centre for each unit. One half of a revolution it was a gyro and the other half a dead weight. It operated exactly as predicted but it not quite what we need for this. I have spent the last few months designing all relevant factors into a device that is simple in design, manufacture and operation<br>
+I hate complication. Complication spells trouble.<br>
+<br>
+Sandy Kidd<br>
+15th June 2004<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=319">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Nitro Macmad</b> - 15/06/2004 12:29:56
+</td></tr><tr><td>&nbsp;</td><td>Dear Sandy,<br>
+<br>
+You are so nearly spot with what is needed that I am near to laying the process open for you. As mentioned the patent process is fearfully expensive so I need the finance that a supprise diclosure will raise.  Please hang on a little longer and I will, if glen has your contact details, let you be amongst the first to see it work.<br>
+<br>
+Kind Regards<br>
+<br>
+NM<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=320">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Ram Firestone</b> - 15/06/2004 23:14:59
+</td></tr><tr><td>&nbsp;</td><td>Hi Sandy,<br>
+<br>
+Thanks for your description. I think you gyro-explosion makes some sort of sense. It might be due to precessive feedback. This isnt a real term. I made it up because I couldnt find a good word in any books. However I did find a description.  In any case what I should have said is lack of precessive freedback. With the two gyroscopes going they are actually fighting each other on the balance. So the precession created by turning them causes each gyro to create a tilting force on the other and therefore cause feedback precession on the both of them which lets the whole thing turn freely in the original direction you were turning it in the first place. I would imagine its fairly easy to turn because of this. However with only one gyro turning there is much less tilting force created by the first order precession so it just pushes the balance either all the way up or down, and when it hits the end of its travel the first order precession eventually rips the gyro out of its axis. Kaboom! Anyway this is just a guess. <br>
+<br>
+I have read you dont really need two gyroscopes for this feedback. You actually get it all the time during precession unless there is no friction constraining the precession. This is why its much easy turn a gyroscope that is constrained then one that is allowed to precess. <br>
+<br>
+Even though I am probably more of a skeptic than most here, I do agree that forced precession may be the answer if there is one. I have a design myself I would like to try which incorporates several ideas I have not seen anywhere else. This brings me to my next point. We are all paranoid about our designs. I understand this since; if we ever did get one to work it would be huge. However its kind of a bummer that none of us can talk openly about things because of this.  I think it be good if we could somehow talk amongst ourselves without fear of being ripped off.  Maybe some sort of registered forum with a non-disclosure agreement would be good. Or maybe we need to pool our minds and resources. Im not sure how any of this would work. Im just kind of throwing out ideas.  If anyone thinks they are real close to the answer I suppose there isnt much incentive in this. However given the difficulty of the problem and all the false alarms in the past I think its something to consider. Opinions? <br>
+<br>
+Ram<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=322">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>James Fisher</b> - 21/06/2004 18:15:37
+</td></tr><tr><td>&nbsp;</td><td>Hi Sandy,<br>
+You said "a circular lump of metal becomes a gyroscope or a dead weight on demand. A centrifugal switch?" This pretty much describes what I have been working on.  I think about it fairly often, but do not activly work on the project.  Too busy trying to become independently wealthy so I can finance these experiments hahaha...  I have gotten bitten by the bug again and decided to do a looksee on the internet to find out if there was anything like what I had envisioned or if it was still a 'unique' idea, so far it seems to be unique.  I am sure sooner or later someone will think of it and prove/disprove it, but for now I'll keep working at my own glacial pace and try to be the one to do the proving, I started in the early 80's and don't actively work on the project, but occasionally make notes.<br>
+It would be a great thing if there was a database of failed experiments relating to the use of gyroscopes for propulsion, including explanations for failure.  Forums like this one does somewhat serve that purpose, but a 'One stop shop' for that information would be great.<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=327">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Nitro MacMad</b> - 21/06/2004 19:55:27
+</td></tr><tr><td>&nbsp;</td><td>Dear Sandy,<br>
+<br>
+I am astonished at your precession speed (presume = main shaft speed) of 300 rpm.  The strain on things must have been considerable and drop out (that point where a force precessed gyro starts to act more like a dead weight than a gyro - same as what happens to a top when it slows) surely would have been happening .  I am sure that if I wound mine up to that kind of speed I would be digging parts out of the plaster, even with the gyros spin speed fairly well matched.  My engineering is carp and my gyros are faster and heavier that yours though that makes little difference (to the gyro effect, that is - my engineering is another thing.  It follows the style of the late, great Colin Chapman of Lotus fame If it doesnt break lighten it until it does, then remake it and stick a bit more metal back on it).  Trouble is that I never seem to stick enough back.<br>
+<br>
+I agree with your comments about complication.  I gave up - Oh! So many times - because of the complications.  Then I looked at what Gottlieb Daimler and others had to sort out, with such simple materials and machines, and thought - if they could stick to it then so can I.<br>
+<br>
+Dear Dave S,<br>
+<br>
+Cheers.<br>
+<br>
+If yours does not argue with any of the laws (or more specifically with the opposite part of the third) then we are into different things - I am glad to say. Good luck with your version - hope yours does not involve as many rebuilds as mine has.<br>
+<br>
+Dear Ram,<br>
+<br>
+Yours of 10/6 is spot on.  Precession has the same root cause as the inertia of a body in motion -  remember Newton on inertia is, so far, right:- the tendency of a body (mass) to remain stationary or in motion until and unless a force acts upon that body.   Therefore, just as a force applied at right angles to a body moving in a straight line has to contend with the bodys inertia trying to maintain that path, a spinning wheel tries to do the same  on both the top and bottom and all points round it. This is so counter intuitive that help visualising this may be needed.  As I have said in an earlier posting,  I found the best way to understand what a gyro does and why, was by mentally slicing the wheel smaller and smaller until all that needs to be considered is the slimmest of slices - a simple pendulum.  <br>
+<br>
+Consider a rigid pendulum swinging on  a nice long rod at the top as its pivot and regard that  pivot as equivalent to the axis of a bike wheel.  Release the pendulum (spin the bike wheel) and half way through its swing (spin) turn the pivot rod (turn the bike wheel axis) and an apparent force -inertia- causes a 90 degree change in angle of the pivot rod (wheel axis) can be observed and therefore better understood. Try it!<br>
+<br>
+You are also right in your assumption that the propulsion has a high efficiency - though your reason is a bit adrift.  It may find more commercial application in shipping (a propulsion system that can be steered, can shove sideways, fore and aft as well as steering and with nothing sticking through the hull to get smacked on rocks) it would surely find use by our clumsy navies, than the more obvious space applications.  <br>
+<br>
+Your idea for a sub forum (or should that read Hyper forum?) sounds great as most of us I am sure would love to discuss our ideas even at the risk of having them shot down. Unfortunately, I think, human nature and the worlds attitude to intellectual property (might is right) is against it.  If someone suggested a winning path that was taken up by someone else and exploited by another company who gets the dosh?  (Sorry! Money/Kudos/Nobel prize/Cracking crumpet ((Sorry again! Rather attractive young nubile woman))/Big house, etc.).  Not that I really lust after most of those things now. Though Kudos would be nice - especially for a winter break, what with its sun, Retsina wine and metzes, I have always longed for the Greek islands..<br>
+<br>
+Have a good week everyone.<br>
+<br>
+Kind Regards<br>
+<br>
+NM<br>
+<br>
+PS A few of Nitros laws:- <br>
+<br>
+1. A gyro precesses every damn force acting upon it - not just the force you first thought of.    <br>
+2. A gyro can precess more than its own mass but only its own mass will seem short of centrifugal force.  <br>
+3. The conservation of momentum does not require any opposite neither does the conservation of energy.  That opposite is normally present must not be taken as a prerequisite of all systems.<br>
+4. and 5. (later)  <br>
+<br>
+Nutation (wobble and drop out) is caused by precessing too much mass or conversely the gyro having too little spin speed/mass/diameter for an applied precessing force. This is analogous to the bounce on the shoulder of a square wave fed through an operational amplifier with insufficient negative feedback for a given switch speed.  Precession has nothing to do with and does not need a bounce to make it work.  Bounce or nutation is effectively hysteresis or overshoot.<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=328">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>dave</b> - 16/10/2004 16:34:32
+</td></tr><tr><td>&nbsp;</td><td>test adding a question doesn't seem to work<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=425">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 25/12/2004 14:18:21
+</td></tr><tr><td>&nbsp;</td><td>Delighted to discover you all.<br>
+<br>
+Hi Ram, you ask:  Ram Firestone 11/6/ 04 With a non-motorized gyroscope we see it slowly drops as it spins down. But does this happen with a motorized gyroscope if we leave it running for a long time? <br>
+<br>
+From reading your post I suspect you actually know the answer to your question, but wonder about it anyway. In any case..<br>
+<br>
+Answer: Whether motorized, or non-motorized a gyroscope cannot precess, unless it also descends. The two conditions decent and precession relate back and forth from one to the other as actions and reactions. Consequently a rotating gyro under right angle torque cannot stay aloft and still either vertically, or stay aloft and still horizontally no matter how great might be the angular momentum. Interestingly, it is still incorrectly believed that if a gyroscope were energized enough and were also free from friction it would precess indefinitely into the future. This isnt so. It would have a definite end and the end could be calculated, because it will have a rate of descend, though the decent could be very, very slow. (To calculate the end might require a math whiz kid and a computer, because the angles of the descending curve are in constant, flowing change, and also because of a complex condition I call time-delays that would most likely have to be included) Oddly it may seem then, in order for any kind of gyro to stay aloft it must fall. There are a number of easy test I can suggest if you would like to know them.<br>
+<br>
+(Im not the Glenn who is webmaster here), but Id be very pleased if I could claim credit for creating such a first-rate site.<br>
+<br>
+Merry Christmas to everyone,<br>
+Glenn Hawkins <br>
+<br>
+<br>
+<br>
+<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=502">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 25/12/2004 19:08:05
+</td></tr><tr><td>&nbsp;</td><td>Allow me to correct my previous post. This statement is incorrect: For any kind of gyro to stay aloft it must also descend. Im quite sure that everyone here knows that if a horizontal force is applied to increase the orbital speed of a gyro, the gyro will rise. In this example as an exception, a built-in mechanism to do such work could keep a gyro aloft and processing, without descending. Otherwise the earlier statement, For ever kind.. should be true.<br>
+<br>
+Glenn Hawkins<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=508">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Nitro MacMad</b> - 27/12/2004 18:32:10
+</td></tr><tr><td>&nbsp;</td><td>Merry Christmas to you too Glenn Hawkins <br>
+(And to anyone else who wanders this far down this chain),<br>
+<br>
+Im sorry to have to say that you are wrong in saying in your answer that a gyro cannot precess unless it descends.  The answer should read that a gyro cannot precess unless it is free to descend. <br>
+<br>
+ It is a common misconception to think a gyro, motorised or not, draws energy from a  drop of the centre of mass from its starting angle to power its precession, it does not.  <br>
+<br>
+The reason it will inevitably droop its angle is simply because it is inevitable that all mechanical devices suffer from the curse of friction. <br>
+<br>
+Having a motorized gyro, the slowing of the gyro wheel by air and wheel bearing friction is easily overcome. This leaves the view clearer to observe what really causes the slow droop of the axial angle during precession.<br>
+<br>
+The slow axial droop of a freely precessing gyro is caused by its pivot friction.  <br>
+<br>
+This small force resisting the precessing motion of the gyro is itself precessed through ninety degrees (Nitros First law -) to cause a gradual droop in axial angle. The droop rate is slow because the pivot bearing friction is small.  Increase the pivot bearing friction and the droop rate will increase proportionally. <br>
+<br>
+Welcome to the infuriating/wonderful world of gyro-dynamics. Its rather like plunging your hands into a tank of eels - to start with you will probably come up empty handed but at the very least you will have learnt that your subject may appear simple but is more interesting and more difficult to grasp than you ever dreamed.<br>
+<br>
+Kind regards<br>
+NM  <br>
+<br>
+(I have banged on about Nitros first law, see above and forum passim, many times. Because it is counter intuitive and thus so easy to miss:-  A gyro will precess any force acting to change its axial angle, not just the force you first thought of!) . <br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=509">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 28/12/2004 02:05:12
+</td></tr><tr><td>&nbsp;</td><td>Hi Nitro, I only know how to answer all your objections this way, one at a time.<br>
+<br>
+NITROS POST: Im sorry to have to say that you are wrong in saying in your answer that a gyro cannot precess unless it descends. The answer should read that a gyro cannot precess unless it is free to descend.<br>
+<br>
+HAWKINS ANSWER: Your distinction confuses me. If both axel hubs of a rotating gyro are supported, nothing happens. If you remove one support, while maintaining the other support, the freed hub will descend or rather tilt if one wishes to be precise. It is this decent that powers precession. Without decent a gyro will not precess. Freed to descend is not a cause. It is an allowance for a cause to occur. Decent is a cause. Decent is action.<br>
+<br>
+NITROS POST: It is a common misconception to think a gyro, motorised or not, draws energy from a drop of the centre of mass from its starting angle to power its precession, it does not.<br>
+<br>
+HAWKINS ANSWER: Oh yes it dose. It certainly dose.<br>
+<br>
+NITROS POST: The reason it will inevitably droop its angle is simply because it is inevitable that all mechanical devices suffer from the curse of friction.<br>
+<br>
+HAWKINS ANSWER: Yes, yes.<br>
+<br>
+NITROS POST: Having a motorized gyro, the slowing of the gyro wheel by air and wheel bearing friction is easily overcome. This leaves the view clearer to observe what really causes the slow droop of the axial angle during precession.<br>
+<br>
+HAWKINS ANSWER: The point is that it drops! All understands friction and gravity generally. Gravity is the source of power. Friction is what slows angular momentum, which weakens the reluctance of a gyro to withstand the speed rates of tilted. I dont understand the conflict here. The cause of the drop is gravity. <br>
+<br>
+NITROS POST: The slow axial droop of a freely precessing gyro is caused by its pivot friction.<br>
+<br>
+HAWKINS ANSWER: No. The cause is gravity. Everyone here understands the relationship between angular momentum and the corresponding rate of drop, and understands friction slows rotation which lessens angular momentum, which allows for an increase in the rate of drop. By the way, nothing in mechanics is free. Freely precessing has to be paid for. In this case it is paid for by the action caused by gravity. Also, for every action there will be a reaction. If the gyro doesnt fall there is no action. If there is no action there is no reaction, such as precession.<br>
+<br>
+NITROS POST: This small force resisting the precessing motion of the gyro is itself precessed through ninety degrees (Nitros First law -) to cause a gradual droop in axial angle. The droop rate is slow because the pivot bearing friction is small. Increase the pivot bearing friction and the droop rate will increase proportionally.<br>
+<br>
+HAWKINS ANSWER: I really am sorry, but this is wrong. Again, friction slows rotation, which weakens the power of reluctance to slow tilt, and so the speed of the drop increases. No matter how much bearing friction is present, if a motorized gyro is powerful enough to overcome the effects of friction, the gyro will still tilt at the same rate. The beginning of friction dose not cause much of an immediate drop, but the same amount of friction after time causes a very fast rate of decent, because rotation is eventually slowed. Were it otherwise, the rate of drop due to an assumed cause of friction would be constant and not accelerated.<br>
+<br>
+NITROS POST: Welcome to the infuriating/wonderful world of gyro-dynamics. Its rather like plunging your hands into a tank of eels - to start with you will probably come up empty handed but at the very least you will have learnt that your subject may appear simple but is more interesting and more difficult to grasp than you ever dreamed.<br>
+<br>
+HAWKINS ANSWER: Thank you NM. Thank you very much for the greeting and welcoming. By the way, Im new to the site. Im not new to the investigation. Why ever would you have assumed that? Oh never mind. Like most of you I have been at this for a dozen years or more. It is a nightmare subject. And like most of you I should be able to write a book about it. I dont think I should start claiming what I done, what I know and how certain I am of what Im doing.<br>
+<br>
+NITROS POST: Kind regards<br>
+NM (I have banged on about Nitros first law, see above and forum passim, many times. Because it is counter intuitive and thus so easy to miss:- A gyro will precess any force acting to change its axial angle, not just the force you first thought of!) .<br>
+<br>
+HAWKINS ANSWER: Great! I can fully agree. But, to all the other I will not change my mind without inarguable evidence, nor will you I suspect. Thats ok. Disagreements are ok. We will find some good common ground upon which to agree. Good. I look forward to that. I understand you have a devise. Wonderful for you. Some day when you are free to do so you said you would explain. Im interested already. <br>
+<br>
+HAWKINS STATEMENT: Im going to repeat my reasoning in my first post. Consider a perfect gyro in a vacuum and with a magnetic bearing and also lightweight and having a tremendous amount of angular momentum. Such a perfect gyro might precess for a hundred years before the amount of decent could be measured. Never the less there would be a decent measure, otherwise the corresponding, exceedingly slow precession could not have occurred. Decent and precession relate back and forth as actions and reactions. And by the way, the exception I mention is really not an exception. Its just force at a180 degree difference on the axel, and happens just as Nitros last statement proclaims.<br>
+<br>
+Well, lets just see how simply I can explain. And then I am finished with this subject. Potential energy, kinetic energy, pressure, momentum and force of any kind cause no reaction. This is true in everything in every way. But once any form of force acts to cause something to move, to yield then a chain reaction occurs. The mere fact that gravity is pulling something downward and tension exist dose not cause anything to happen, but when the table legs splinter and break you have action and the contents of the table splatter about in reaction. The pull of gravity on a gyro causes tension and tension restrained doesnt cause anything to happen. When the gyro responds by moving toward gravity you only then have action and from that reactions. If the gyro doesnt acquire the action of descend, then the reaction of precession is impossible. <br>
+<br>
+Friction can cause action. But, in the context we are using it here friction is a result of actions. Not a cause of action, but a cause of a cessation of action. Neither the presence of friction, or the lack of it powers precession. Then what causes precession? Again, the action of the gyro tilting toward gravity.<br>
+<br>
+Thank you very much for engaging with me, Nitro.<br>
+Glenn Hawkins<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=510">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 28/12/2004 04:41:39
+</td></tr><tr><td>&nbsp;</td><td>First: This is a far better site even than I thought at first. It has about everything you could want toward its purpose. In that single respect it could be the best site of any kind on the Internet. Everyone is lucky.<br>
+<br>
+You guys are on top of it. You deserve the prize, because of the special senses that told you it was there and for your effort and stick-to-it-ness. The prize is there. It really exists. You've been right all along.<br>
+<br>
+Sandy I admire that youve built and have published a book. I have never built and my books were never published. In my case thank God. They were from my youth when I knew even less then than the little I know now. Curtsy and bow and curtsy. I dont think we either have to be so modest, do you? You are accomplished.<br>
+<br>
+Suppose after your axels have risen from the floor to the horizontal plain and then the axels break. Your gyros will go through the roof. I view the significance this way: The boy rotates a ball on a string and the string breaks. The boy is pulling in alignment against the position of the ball at the instant the string breaks. The boy suddenly recoils in opposite alignment to the ball, while the ball flies away not at an opposite direction, but at a right angle to the boys line of recoil. (I know you know.) If we could say the same thing happens to a field gun aimed and fired straight up. We would say the projectile would go straight up, but the recoil of the field gun would not be straight down into the earth, but recoil sideways at a right angle to the earth. (Of course this cant happen.) Continuing this, if you had put your twin gyros on a platform with measuring scales and then you your gyros were launched in the breaking of the axels, there should have been no measurable record of a rearward recoil, not only at the instant of release, but at any time leading up to the release. Field guns work by equal and opposite force, but the condition I explained dose not. The scales should have register the weight of the gyros at all times, until they were released, but no force of recoil should have register because there wasnt one. There was no opposite reaction. Professor Eric Liftwate spent the first blood for making the wrong statement about weight reduction, but the right conclusion, which is, as mentioned above, there was no recoil from the uplift of the gyros, his or yours.<br>
+<br>
+The conservation of angular momentum is not always true any more than is equal and opposite always true. The boy with a ball tied to a string built up angular momentum as his feet pivoted against the earth. As he pivoted his feet pulled backwards into the pivotal point so that he pulled the ball inward from start to finish from all directions of the compass, as he rotated the ball faster and faster. It could be calculated how much force he applied against the earth at each degree of his pivot. With these numbers you could prove that although when the string breaks and the ball flies off at ninety degreed from the pivot area, angular momentum still holds true.<br>
+<br>
+But, if when your axels supporting rotating gyros break this law doesnt hold true, because the rising gyros are in partial upward rotation from right angle forces and when the gyros are released there is no consequences such as reward reaction.  <br>
+<br>
+I call this break a release. You are mechanically cleaver enough to imagine a way to release from angular momentum to linear momentum and then recapture the linear and repeat the process. Bump, bump, bump this imaginary apparatus would go in space. I predict it would be a nightmare to design and build with so many problems and also many unforeseeable problems. A nightmare. Anyway this is not a path toward creating inertial propulsion that I would suggestnot at all. There is a near perfect way for any to find.<br>
+<br>
+If you were willing to test my reasoning, you should then be free from the uncertainty and constants of the Third Law, and the Law of The Conservation of Angular Momentum as they do not apply the condition of such manipulations to rotations, as suggested above.<br>
+<br>
+It would be interesting to hear any information relating to these postulations. Im sure Im not certainly sure, but Im almost entirely certain.<br>
+<br>
+Best Regards,<br>
+Glenn Hawkins<br>
+<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=511">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Sandy Kidd</b> - 05/01/2005 08:48:41
+</td></tr><tr><td>&nbsp;</td><td>Good morning folks,<br>
+As my old body prefers a bit more warmth than that provided by this god forsaken country with its cold damp climate I have just returned from spending Christmas in a warmer place.<br>
+All the best for 2005 all you Shed Dwellers, and best wishes for the success of your ventures.<br>
+Welcome to the Forum Glenn Hawkins.<br>
+Trying to pick up the threads of your discussion with Nitro, which hinged initially round the fact that, you Glenn suggested that gravity is ultimately responsible for the decay in a free/passive gyroscopic system.<br>
+I will agree that a gyroscope must be free to drop under gravitational acceleration to initiate the first nutation loop, which consequently kicks off precession and the direction of precession.<br>
+After that, the decay effects of gravity on a perfect non-friction passive system will be zero.<br>
+However in saying that, a gyroscopic system still cannot run forever. This is due, not to gravity, nor to fulcrum friction, but due to the rotating torque generated stresses in the gyroscope itself, and its supporting arm or shaft. This itself will create decay in the level of energy in the system, this is of course assuming that the gyroscope does not suffer terminal cyclic fatigue failure first.<br>
+Glenn H, please correct me, if I am not understanding your statement correctly.<br>
+You believe that there would be no recoil / reaction if a pair of force precessed? / radially accelerated gyroscopes are released from a system, when at the point of saturation.<br>
+We know that there is no angular momentum (or centrifugal force) present at the saturation point.<br>
+Eric Laithwaite claimed loss of mass, which was wrong, and this claim did him no favours.<br>
+(He did also claimed loss of centrifugal force, which was correct) <br>
+In effect it was a case of transfer of mass. There is no loss of rest mass, it is transferred by gyroscopic torque to act at the axis of system rotation.<br>
+So Glenn H. if you release the gyroscopes as you suggest there will be a reaction as the rest mass of a pair of gyroscopes has just been removed from the system.<br>
+Angular momentum and centrifugal force can be manipulated any way you like but thanks to the presence of dear old gravity, overall mass of the system cannot be altered, by any kind of gyroscopic action.<br>
+Sandy Kidd.<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=515">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 05/01/2005 21:28:19
+</td></tr><tr><td>&nbsp;</td><td>Thank you for letting me post. The material and set-up in site is as good as I said it was. The forum itself however, has only a chance to be helpful. I am leaving now in an attempt to give all my time in the attempt to create a device. I will leave you with the best help I can give.<br>
+<br>
+If you fellows dont learn to do mechanical sequences in some detail you are never going to be able to learn enough, nor more especially will you be able to transmit your understanding from one to another. Statements are worthless. A few homemade, complicated sounding names strung together into a phrase that is suppose to represent a complex condition in mechanics, but is unexplained is less than worthless. When you have written something there should be left in your mind the belief that what you said will be fully understood with as much economy and clarity and as easy and quick to grasp fully, as you can make it. Explain how and why.<br>
+<br>
+And you must keep it simple, for one thing youve learned absolutely is that sometimes in this business conditions can become almost to complicated to understand. If you think not then why havent you succeeded when I know you can succeed? You can because it can be done. Ill repeat, statements are worthless and phrases unexplained fully are worthless and half-done explanations are almost worthless. Just because you state something doesnt mean anything!<br>
+<br>
+I wrote a response to Sandys response, but it was a bit unflattering to Sandys mechanics so I am omitting it. It would serve no purpose as it seems that so far as I know only one person actually reads my posts anywhere, with the same care and attention as I read his. (I resign.)<br>
+<br>
+How to think and do mechanical sequences: There are extraordinary wonderful examples I have that I use for myself. Here are two miner ones to study and learn how if any should care. The above post in a reply to Nitro, though quite limited is generally a mechanical sequence of though of conditions, causes and effects. A much better example though not-in-my-field-at-all can be found at <br>
+http://www.inter-corporate.com/forums/inertialpropulsion.engineering.html. When you get there lick on the above map. It will take you to a selection. Select physics. Read Conclusion to a Mystery. If you care to study it carefully you should be able to learn how to think mechanically in sequences. If you then transmit what you know in this way, you have a chance to offer one another the workings of your minds.<br>
+<br>
+More: If you should want to better understand the process save Conclusions to a Mystery to last and start instead with the series beginning with, What do you think?. You can see how humbling in can be in searching for answers when you only have good and normal intelligence, but not more than that, which describes my limitation. The idea again, is to learn a process of thought and how to do transmit mechanical thought to be understood.<br>
+<br>
+Go a head and be mad at me if you like. I hope you wont. I hope some of you recognize and accept this gift I give to you as a gift. I love all non-harmful human beings. I really do. I really, really do. And I love truth. My hope for each one of you is all the best.<br>
+<br>
+Who is smart is ridicules. It idea is to teach and learn what each of you teaches. You are all smart. If you use mechanical sequences correctly there shouldnt be much disagreement, but a continuation of intelligent communal reasoning toward a good grasp of more knowledge than is available now. <br>
+<br>
+Goodbye with warmness,<br>
+Glenn Hawkins<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=516">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Sandy Kidd</b> - 06/01/2005 06:47:57
+</td></tr><tr><td>&nbsp;</td><td>I must be getting old (I am old) Glenn H. because I really am at a loss as to what you are trying to tell us.<br>
+With many years of experience under my belt as a toolmaker (most of them as a foreman) and a similar number of years in R & D departments, I think I am reasonably experienced in the manufacture and utilisation of mechanical sequences and mechanisms.<br>
+Yes Glenn H. a successful unit does require a bit of complicated mechanical involvement, but boom, boom, boom is certainly not the way to go.<br>
+Sandy Kidd.<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=525">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 06/01/2005 12:48:31
+</td></tr><tr><td>&nbsp;</td><td>Hi Sandy, there was nothing personal in my communication. I chose not to reply to your post. The most important thing is to enjoy whatever we can. Hope youre weather gets better. It was nice to hear from you.<br>
+<br>
+To all of you good guys as a group, the post I made is very, very important to your success. I urge you to read it several times. It is about a way to think and communicate.<br>
+<br>
+It is about thought, not tools your hands work with, mental images, not building, reasoning in ones mind, not physical exercises, mental mechanics, mental exercises, mental sequences, explaining to other minds what happens first, second, third, etc. and why it happens that way, what are the series of causes, why & how things happen the way they do from beginning to end, the example-site I gave.<br>
+<br>
+Good luck and happiness,<br>
+Glenn H.<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=526">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 06/01/2005 15:37:53
+</td></tr><tr><td>&nbsp;</td><td>Sandy,<br>
+<br>
+I find I cant work until I get this off my mind. My family consists of three generation of toolmakers. My grand father was a blacksmith, who taught my uncle all he knew. My uncle went to school to become a machinist. In time he became a master machinist. He taught his three sons all he knew. Then they each went to school to become modern machines. We are very close and our word is always true. Ive always been told that anything I could draw they would build.<br>
+<br>
+What am I saying? I admire them so much. They can create anything you want. I am neither a machinist, nor an engineer and neither am I an inventor. I admire that you are an inventor. Now I find that also you are a machinist. You have been struggling with inertial propulsion for a long time and so you have learned a lot about it. Your opinions are important to me, and your being able to cut and build, and the ability to reason of course, is exactly two of the things that are necessary. Being a machinist, which in my case is a family tradition, is something I can admire without being envious.<br>
+<br>
+What am I saying? Just because we do not agree on all things dose not mean I do not hold you in good esteem and recognize your opinions are valuable. I do. So if it seemed I was ignoring you, I wasnt. I just dont see the need of conflict, because I am exiting and we couldnt finish.<br>
+<br>
+To the group: I offer a way of thinking so that the thinker benefits, and a way of communicating in details so that everyone benefits. I thought if you build your directions this way there would be disagreements at first, but that logic examined and explained, first by one and then the another would eventually win out, and the group would have an agreed upon and well understood cause of this and cause of that in the workings of gyroscopes. There would be a direction with new knowledge and mental images to build more knowledge upon, with which to build more knowledge, I thought. It is my belief that the cause of the stagnation of IP groups is that when one discovered something, he doesnt not know how offer a full and absolute mechanical explanation with mental images. The way to do it is to think in mechanical sequences and to offer examples and observation that we all have seen somewhere, somehow, sometime.<br>
+<br>
+Lastly and incidentally, Nitro has already demonstrated this method well, really well actually, he has this talent for it though we didnt agree to all conclusions. The nest step is to conceder doing it better. You can find an explanation of how you might do that in an earlier post if you decide to try it.<br>
+<br>
+Sandy, keep cutting. If you find time to post, good for me. Nitro keep posting and eventually we, and I particularly, will get the good of it. Im sure. You are already ahead in some ways. Keep it up men.<br>
+<br>
+Now that Ive gotten two truths to two men off my mind I hope to be able to work.<br>
+Glenn H.<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=527">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Sandy Kidd</b> - 07/01/2005 11:04:34
+</td></tr><tr><td>&nbsp;</td><td>Glenn H.<br>
+I am pretty sure that we Shed Dwellers all have our own unique ideas on how to accomplish the task, and being a secretive, possessive bunch, for this reason alone any collusion of ideas will be at best limited.<br>
+Nitro and myself have only divulged basic information with respect to gyroscopic propulsion, therefore I know there is going to be a load of associated information withheld, and not without good reason. I can only assume many others are also withholding information or are maybe just a bit shy at getting involved in it all.<br>
+I got myself involved in the Forum Gyroscopic Propulsion bit, in the hope that eventually, some enterprising person would endorse my claims which would make the whole thing much more palatable to, as an acquaintance once called them, the red bricked bastions of credibility<br>
+This could take some time, although I really do think that there are physicists and mathematicians out there who are well aware of the truth pertaining to the physics of gyroscopes.<br>
+Returning now to previous comments, I think you were maybe referring to my use of the word saturation.<br>
+There is good reason for this, and that is fact that precession is caused by nutation and it is only present in passive or gravitationally accelerated gyroscopic systems.<br>
+There is no nutation present in a gyroscopic system subjected to radial acceleration.<br>
+Therefore as I have said many times before, to use of the word precession or forced precession in this context is incorrect. There is no precession.<br>
+Precession to most people implies the magical floating of the gyroscope due to gravity, nutation and the gyroscopes own torque reaction,<br>
+In any gyroscopic system subjected to radial acceleration, any particular system rotation speed, when matched with sufficient gyroscope rotation speed will produce an inward acceleration of the gyroscope.. <br>
+Any farther increase in gyroscope rotation speed (increase in gyroscopic torque reaction) will only increase the inward acceleration rate of the gyroscope.<br>
+At this point all accelerated mass, angular momentum, centrifugal force, whatever is neutralised. <br>
+To describe gyroscopic precession, as a result of forced precession is meaningless and confusing.<br>
+This is why, for want of something better, I call this the saturation point.<br>
+Now returning to one of your previous questions, at this saturation point, the rest mass of the gyroscopes can be found transferred in total, and acting vertically downwards through the axis of system rotation.<br>
+No rest mass may leave the system.<br>
+Sandy Kidd<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=529">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 11/01/2005 02:40:47
+</td></tr><tr><td>&nbsp;</td><td><br>
+To all:<br>
+Im trying to tie-up some lose ends. I would like to make a correction to the post Glenn Hawkins - 28/12/2004 04:41:39. When this gyro rises from the floor to a vertical spin, it has gained upward momentum. While doing so an opposite force equal to the momentum built, will have registered downward upon the post. The downward force would have exerted itself in the directions of a curving pivot. I have called this curving reaction upon the post a recoil. There is a way to compensate for and thereby eliminate this recoil, or reaction. I did not explain how, nor will I now. I merely stated that there would be a lot of work to do, and by a clever person in order to reason out how to get inertial propulsion from the release of the two gyros at the time the axels raised to horizontal.<br>
+<br>
+My error was that I failed to explain clearly enough that unexplained things had to be done to make this work. I made a mistake. With this correction the post is ok now. It is really an unfinished puzzle about what can happen if you can reason it out.<br>
+Glenn Hawkins <br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=535">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 11/01/2005 02:43:37
+</td></tr><tr><td>&nbsp;</td><td>Sandy,<br>
+Incidentally, rest mass is real and it exist of course and we all know that and I mentioned it as weight, but it really has nothing to do with the points of my post. You see if you lift the gyros off their poles, the poles will not then be forced downward as in recoil, or reaction. In fact if the polls were rubber they would flex upwards, not downwards. The post was not about rest mass, a condition well known. The post was about downward reaction, not upward, downward recoil.<br>
+<br>
+Sandy, You said, Now returning to one of your previous questions, at this saturation point, the rest mass of the gyroscopes can be found transferred in total, and acting vertically downwards through the axis of system rotation.<br>
+<br>
+I never suggested otherwise. And, I never ask this question. I dont recall that I ask anyone any questions. You might like to try some re-reading.<br>
+<br>
+I know you are a good guy and have lots of good and admirable qualities. And I appreciate them. But now Sandy, would you like to stop trying to lecture me? Can you do this for me? This will please me. OK? Thank you. Glenn Hawkins,<br>
+<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=536">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 11/01/2005 02:46:52
+</td></tr><tr><td>&nbsp;</td><td>For this forum:<br>
+<br>
+A SCIENTIFIC STUDY OF GYROSCOPIC BEHAVEIOR PARTICULARILY TO DO WITH NUTATION  <br>
+<br>
+<br>
+Amazingly, there are arguments on this site as to what causes precession. You wouldnt believe that was possible. More amazingly, the arguments consist of only blanket statements, which we are expected to believe, only because someone says they are so. No explanations, no examples, no logic, no test, or sound reasoning are offered in these statements. This amazes me. They are just made up statements. Thats all they are. Some of these statements are accompanied by suggestions that they cant be explained because they are secrets. That may be so, but then how would anyone argue to substantiate them and why would they even try? Amazing.<br>
+<br>
+Lets start with some test. We may be able to remember our observations of how a gyro behaves by having spent time with them. But we can also just do these tests.<br>
+<br>
+Test 1. Drop one side of a spinning gyro and precession begins.<br>
+<br>
+CONCLUSION: Precession is a reaction to tilt.<br>
+<br>
+Test 2. Place a book on a table. Cover the book with a smooth sheet of aluminum foil from your wifes kitchen. Smear the sheet with vegetable oil. Place a spinning gyro on a pedestal beside the book. Make all the adjustments necessary to have the hub of your precessing gyro land on the edge of the book. Note there is little friction to stop precession. Precession would continue, but because the book will not allow the gyro to tilt downward, precession ends.<br>
+<br>
+CONCLUSION: If the action of tilt cannot occur, the reaction of precession cannot occur.<br>
+<br>
+Test 3. Tie a five or six inch string to the hub of a spinning gyro. Move the gyro quite close a wall so that as the gyro orbits in precession around the string, the gyro eventually collides into the wall. If the string is close enough to the wall, the gyro immediately falls into a tumbling spiral.<br>
+<br>
+CONCLUSION: If the action of a gyro cannot precess, the reaction of staying aloft immediately ends. Precession governs the rate of tilt.<br>
+<br>
+Test 4. Stack several books on the desk. Move your pedestal near the stack of books so that as precession orbits around the pedestal the gyro collides into the books. Note that the opposite hub supported by the pedestal suddenly precess' in the opposite direction, and then falls off the pedestal. The gyro plunges down onto the table.<br>
+<br>
+CONCLUSION: When precession is stopped, a gyro will attempt to precess in the opposite direction. This coupling effect of precession torque forward, and torque rearward does not exist during normal precession. But, when precession is stopped, an equal coupling torque occurs. <br>
+<br>
+(Youve seen pictures of failed designs built, because the builder didnt understand this.)<br>
+<br>
+TEST 5. If you place a spinning gyroscope on a pedestal inside an orbiting spacecraft where a balance of zero gravity exists----- nothing happens.<br>
+<br>
+Strange that NASA thought it necessary to actually do this test to demonstrate the fact that gravity is responsible for the action of tilting and powering a gyroscope. You would thing that everyone already knew and so the only explanation as to why they did it, that I can think of ismaybe they had read some of the fascinating post on these sites.<br>
+<br>
+FINAL CONCLUSION TO FIVE TEST: Tilt and precession are a back and forth condition of actions and reactions. They are expressions of equal forces. Neither can operate without the other. Each causes the other to behave the way it does.<br>
+<br>
+NUTATION:<br>
+<br>
+The noun, nutation is the big buzz word on this site. It isnt an exotic new discovery. A friend told me NASA has been dealing with it for years by using mutation dampers. Someone on this site said nutation is a bounce. Thats right. Thats all it is, a bounce. To me, nutation doesnt matter a hill of beans to our work. But, perhaps understanding it settles a curiosity.<br>
+<br>
+STATEMENT: Nutation is the process of seeking a balance between the rate of tilt, and the rate of precession, two conditions that play upon one another as actions and reactions. As quickly as the balance is reached, nutation (bouncing) stops.<br>
+<br>
+To watch nutations occur we would have to have a special gyroscope that very few people have. Since we dont have one, I want to keep our tests related to one of the gyro you do have and may yourself test. We can do that. Spinning gyroscopes are reluctant to be tilted from their plain of spin. Gyroscopic reluctance is used in the guidance systems in airplanes, missiles and ships, so it works pretty well. There is a great difference between reluctance and resistance. We however, are going to use the wrong term resist in place of the correct term, reluctance, because our minds have a more immediate grasp of the idea of resistance.<br>
+<br>
+TEST 6. We will use a precessing gyro on a pedestal. Borrow a butter knife, or a case knife from your wifes kitchen. Keeping your knife level apply extra force downward for an instant upon the rotating hub of your gyro. Note that as you do the precession of the gyro seems to lunge forward faster.<br>
+<br>
+CONCLUSION: A quick bit of extra force downward will cause the gyro to bounce downward. In response precession will bounce equally quickly forward.<br>
+<br>
+TEST 7. Tap the orbiting hub upward with your knife. Note that precession slows. You may have to try this several times.<br>
+<br>
+CONCLUSION: When a gyro is bounced upward, precession slows. Precession speed would seem to bounce rearward from its present speed to a slower speed.<br>
+<br>
+Test 8. As your gyro is precessing hold your knife vertically and push the precession faster. Note that the gyro rises.<br>
+<br>
+CONCLUSION: When precession is increased beyond the correct balancing speeds of precession to tilt, till will try to adjust by moving upward. In nutation, precession would seem to bounce forward causing tilt to respond by bouncing upward.<br>
+<br>
+Test 9. Use the knife vertically to slow precession. Note that the gyro tilts (falls) faster.<br>
+<br>
+CONCLUSION: When precession is slowed beyond the balancing speed, tilt is freed from extra loft support and so falls faster. Considering nutation, precession in this test can be though of as bouncing rearward form one speed into a slower speed. In consequence tilt can be thought of as bouncing downward from a slow speed into a faster speed due to less resistance to gravity.<br>
+<br>
+THE CONCLUSION TO TESTS 6. THROUGH 9: A gyroscope always attempts to find, and then maintain a perfect balance between opposing forces, these forces being gravity and angular momentum. An imbalance is caused when the first drop from zero resistance begins. The drop accelerates toward a speed, which will be the balance between gravity and angular momentum. Because the drop is accelerating, the speed increases beyond this balance speed. When this happens there begins a series of compensating movements between the speed of precession and this rate of drop. Eventually, as is the nature of all things that seek a balance, the balance will be found. Until that balance is found tilt moves up, or down and precession moves faster, or slower gradually coming into balance. Once the balance is found, precession as well as tilt begins to operate in a perfect flowing smoothness between dual motions in balance to one another.<br>
+<br>
+Because it is the practices of mechanical physics and mathematics to reduce things to their simplest form for ease of use and teaching, it is perfectly right to think of nutations as bounces and nothing more. Generally, exotic ideas that complicate a simple understanding should be discouraged. Sometimes, but very rarely, it is necessary to complicate an understanding.  If and when this becomes necessary, one should try to use the simplest methods of scientific reasoning that he can. The simpler the better. Then your idea can be scrutinized, accepted or repudiated, because each mechanical tool of though in your explanation is open to the world for understanding and examination. That is why blanket-statements are not helpful.<br>
+<br>
+Again, you cannot see nutations happening without a special gyroscope, but you can apply these manipulations to the gyro you do have and thereby perform hands-on test to understand what is happening. <br>
+ <br>
+I will attempt to explain something more precisely. All accelerations in the universe happen as the results of chain reactions. I will give an example we understand from our own observations. A rubber ball is driven head-on into a wall. During impact it expands outward something like a pancake. It reaches a certain point of expansion, and then it stops expanding, and then begins contracting back into the shape of a rounded ball. As it contracts it then push against the wall and bounces away. Each of these actions takes milliseconds of time to begin, to happen, to stop then to cause something else to happen. Reactions in a gyro take time too, time for one action to cause another action. During accelerations, gyroscopic actions do not immediately cause a reaction. There is a millisecond of lost time between each exchange. This is part of the reason the first drop of the gyro is allowed to accelerate to a speed beyond the perfect balance, which therefore begins all the commotion of bouncing.<br>
+<br>
+The second reason is easy. Because the first drop starts so slowly there is less beginning resistance to keep it from accelerating toward a speed that is greater than the balance speed permitted.<br>
+<br>
+This is a scientific paper. It has all the qualities that make it so. All the mechanical series of thought are spelled out. Each is open to scientific scrutiny, argument and debate. In response to this paper I suggest you will not receive a review of any kind, but instead only rejections with blanket statements that mean, Believe me, because I say it is so. Unlike this paper such statements cannot be investigated. They have no substance. It is up to you to know the difference.<br>
+G.H.<br>
+<br>
+<br>
+<br>
+One important thing I leave you with: Please do not be shy, or fearful in posting. If some thoughtless person attacks you, so be it. You might learn something. I doubt it. You can get better at mechanical reasoning by expressing mechanical reasoning. One way to do that is to keep posting. Thinking and positing are exercises. You might begin by introducing yourself and saying you are involved. It is my hope, I dont know why, that you get involve and not just work and think all the time by yourself. In this field you are so all alone. We are so few. No one around you really understands what you are doing, or cares. If you shout out to the few who understand, I AM HERE. I AM WORKING. It should help.<br>
+<br>
+Glenn Hawkins<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=537">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 11/01/2005 04:13:52
+</td></tr><tr><td>&nbsp;</td><td>Blast it! Sandy I see what you mean. Why didnt I see it twenty minutes ago before posting? When a gyro is forced beyond its balance point, a right angle lunge occurs. It is a perfect way of thinking about it. The right angle lunge, or sling can be thought of as caused by nutation, or bounce as you indicated. Bounce vertically and the reaction is to bounce horizontally and vice verse. Either way of thinking causes the lunge. But I didnt think the bounce was important. I am sorry. That is beautiful thinking. HAY EVERYBODY. SANDY KID IS CORRECT. HE HAS DONE OUTSTANDING REASONING!<br>
+<br>
+Because I did not understand quickly enough, chomp, chomp. Im eating crow. Chomp, chomp, chomp. I like it. Chomp, chomp, chomp. We all understood how and why it happens. This does not interfere with my Scientific Study, except you have found the reason I spoke of to alter a simple understanding into another kind of simple understanding. Either will get the job done. Im not entirely sure we need another way to think about it, but maybe. I probably wont change. Anyway. Well done. Very well done.<br>
+My apologies. <br>
+<br>
+And my complements<br>
+Glenn H.<br>
+<br>
+Now we must work on our devises. If I post one more time before I finish my project, Im canceling the Internet service. Time. Time. Time.<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=538">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Sandy Kidd</b> - 11/01/2005 07:06:30
+</td></tr><tr><td>&nbsp;</td><td>Glenn H.<br>
+Who is lecturing who?<br>
+What is all stuff you have just posted?<br>
+I did not do any reasoning.<br>
+I bought a good ( and not cheap ) book on physics many years ago specifically to find out why gyroscopes do what they do.<br>
+You will find the explanation for nutation, precession etc in any good physics book that has a decent section on gyroscopes.<br>
+All passive gyroscopes nutate otherwise they would not precess.<br>
+Still trying to figure out what some of you are calling bounce<br>
+Never seen this.<br>
+Everything relating to gyroscopes is due to one factor only, and that is the fact that any gyroscope reacts at right angles to an applied force.<br>
+How much more complicated do you want it to be?<br>
+Sandy Kidd<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=539">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 12/01/2005 04:36:51
+</td></tr><tr><td>&nbsp;</td><td><br>
+http://phys23p.sl.psu.edu/phys_anim/mech/gyro_s1_nu_avi.html<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=542">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>DaveS</b> - 13/01/2005 13:44:57
+</td></tr><tr><td>&nbsp;</td><td>Seems that your post has been hijacked Sandy.<br>
+I'm still here.  Happy New Year to all the regulars.<br>
+<br>
+Glenn H:<br>
+Are you making a device or just wanting to tell us your theories?<br>
+Why don't you try posting all your hypothesis as one post and why don't you think about what you are posting first. <br>
+There are a large number of people who read this forum and the essays and the contradictory essays you have posted makes it a trial to read and disseminate  the worthwhile parts. All your statements have been explorered before on this forum and are also available in the main site pages.  Try reading it.<br>
+If i had wanted your dictated opinion on how to proceed, i would have asked for it. There are those on here that have been endeavouring to make a breakthrough with gyropropulsion for months and even years and we have seen your arrogance without substance before . You said you were leaving to make a device. Please do and come back when you have something of interest to demonstrate to us. <br>
+<br>
+Sorry Guys, but this repeatedly posted rubbish has got under my skin.<br>
+<br>
+DaveS<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=546">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 14/01/2005 01:03:47
+</td></tr><tr><td>&nbsp;</td><td>DaveS,<br>
+Dave I am disappointed. Not because you have brought ridicule into a scientific discussion. I only disapprove of that. But son I really am disappointed. You have not heard a word I said. You did not attack my mechanics. There are nine little test and a dozen conclusions and there are other mechanical reasoning in other post. I opened myself to the bone in laid-out detail. You can scrutinize everything there and search and invent mechanical ways to refute anything you wish, or can. You did not attract my mechanics. You attract me. Even this you did not do in the effective way Ive been trying to tell you. If there is to be any communicable progress in this business, you must explain why, what, where and how. So far Im only a blanket statement S.O.B<br>
+<br>
+ None of this matters. The mechanics are everything. I dont count. Im nothing. None of it is about personality. It is about how to help one another achive inertial propulsion. You say some have worked for months and some have worked for years. Thats understated. I reason (theres that word again isnt it.) I reason that during the last seventy years good and intelligent men have devoted large parts of their lives without sucess. I reason because there are now five billion humans in the world there have been hundreds of thousands of attempts. Almost nothing has been learned, only a few bits of knowledge here and there learned and then broadcast. My friend says, We are so few around this fire. He is speaking of our IP forums, not the great-uncounted number of attempts. I believe that one problem is that we havent collectively reasoned and sheared well enough. Im guilty too. When we learn something it would be good to able to speak the mechanical languish well enough that we might transmit what we think we know to one another. I will try to explain again.<br>
+<br>
+Oh heck. Im not going on with this. What matters DaveS is that you do some of your own work. Show us what you have in ways we can investigate. I know youve got something in there you can shear. You just got a pull it out so we can see it.<br>
+ <br>
+Fellows, considering my test. It is obvious there are basic disagreements on this site. Each person who wishes may realize, or perform these little tests with his own hands and mind, read the conclusions, and as I clearly said, agree, or disagree. In this way if a man were unsure, he may form, or reform his own thoughts rather than perhaps be confused by the conflicting suggestions that have in fact been posted. He is to chouse what to think for himself. It is up to the individual to except, reject, invent or, whatever. If this little scientific study I did for you is useful, bless you. If it is not bless you anyway.<br>
+<br>
+I go to work and wish you all success and happiness,<br>
+Glenn Hawkins<br>
+<br>
+<br>
+<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=549">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 14/01/2005 21:16:52
+</td></tr><tr><td>&nbsp;</td><td>I just watched the RIGB Christmas Lecture from the Gallery pull down. Actually I first found it here on the net, /1974lecture.asp Extraordinarily.<br>
+<br>
+DaveS I have to agree with you. But I had never found anything like this site before. All that Ive learned, Ive learned on my own and thought to share some. Anyway, you were right and I wrong about me. I see that. Good. I can change and I need to.<br>
+<br>
+Glenn, thank you for RIGB. I was a bit overwhelmed by the excellence of it.<br>
+<br>
+Sandy, if you look through my post concerning you, you must accept that I was complementary, respectful and always bragged on you. That was not just made up stuff. Its how I saw you then and its how I see you now. You know a lot.<br>
+<br>
+Nitro, you truly do a good job of explaining yourself. I have thought about what made you express some things differently. Then I related these differences to the actions of the gyro, and have a good guess as to what you are doing. If I see it correctly, as I believe I do, you may certainly have created a bit of propulsion just as you say. If so, no wonder you talk of your buckets of ells and I of my nightmare. Getting from proof, to next getting a mechanical way of building a full working module is for me the most complicated and difficult thing I have ever tried to understand and do. I assume it is the same for you. Mine is a long story.<br>
+<br>
+Eight and a half years ago I produce weak inertial propulsion. Four and a half years ago I found the evidence and means of producing powerful acceleration. But applying it to a machine with all the mechanical difficulties is what Im failing in. Most of my work has been in trying to understand absolutely everything mechanically. Few could believe how much there is to it.  (ten years or more of this) and work in trying to design the machine. Speaking for myself, there is no simple way. Others may find something simple. Who can say no?<br>
+<br>
+Now I think my mind is at ease with the world and I may work. Please remove any of my post that you think arent good enough, whatever you think best. Im having a lot of trouble with my work. Thats why I posted a lot. Ive now ordered that my Internet be canceled, so that I cant escape from my work. Soon I hope to be nailed to it.<br>
+<br>
+Glenn,<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=550">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Victor Geere</b> - 29/04/2005 13:41:42
+</td></tr><tr><td>&nbsp;</td><td>>>[But tell me, if your sacred conservation laws are correct where has the centrifugal force and angular momentum gone.]<br>
+<br>
+"It was acted upon by an equal but opposite force."  Forced precession gives the gyroscope a vertical and inward (towards the system axis) vector.  Centrifugal force gives the gyroscope a outward (away from the system axis) and downward vector.  This downward vector is turned by the gyroscope in the oposite direction of the system rotation, but still oposes precession because it oposes system rotation, which caused precession.   The two cancelled each other out.<br>
+<br>
+Increasing the unbalanced force (system rotation) will increase precession and the gyroscope's axis will aproach 90 degrees because centrifugal force is directly proportional to the radius of the system and this decreases as precession continues towards the centre of the system.  <br>
+<br>
+As precession turns the gyroscope's axis in a vertical direction, system rotation has a lesser effect on the precession of the gyroscope as the axis of the gyroscope and the axis of system rotation aligns.  If the gyroscope spun 100 rpm when it's axis was at a horisontal position and the system spun at 100 rpm, the gyroscope will spin at 200 rpm relative to the rest of the world, when it's axis is at a vertical postion.<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=814">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 29/04/2005 23:11:12
+</td></tr><tr><td>&nbsp;</td><td>Victor?<br>
+<br>
+Are you the angry one with the bee in the bonnet? Im building now. Ask me later.<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=816">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Victor Geere</b> - 30/04/2005 13:07:58
+</td></tr><tr><td>&nbsp;</td><td>I wasn't talking to you Glenn, I quoted a phrase from the original question and answered it.  Good luck with the building.<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=827">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 30/04/2005 13:32:21
+</td></tr><tr><td>&nbsp;</td><td>Victor,<br>
+<br>
+I am so sorry. Sometimes I enjoy posting and the subjects you brought up fascinate me. Right now Im trying to work and distractions are pouring in. I dont mean you. I can quickly read and reply. This has happened every single time I have determined to build.  Dont know how or why that is. Its spooky and Id just bet it somehow happens to every single one of you. I hope to engage sometime later. Thank you for replying to my stupid remarks.<br>
+<br>
+Glenn, <br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=828">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Victor Geere</b> - 30/04/2005 22:14:12
+</td></tr><tr><td>&nbsp;</td><td>;)<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=834">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 07/05/2005 17:40:10
+</td></tr><tr><td>&nbsp;</td><td>I am in support of Victors findings:<br>
+<br>
+Yes Victor. You have it I believe. I had come to the same conclusions a time ago. After reading your post I carefully re-thought what youve said. Let me express the same thing by adding my words. Im imagining viewing the apparatus motion from a rear view: As the gyro descends, the top of the rotating disk pulls outward from the pivot, while the bottom of the disk pushes endward into the pivot. If this condition existed in zero gravity it would result in a torque, which would leverage the pivot area and tower in an upward curving path. But, here on earth this doesnt happen, because gravity counters that leverage tendency. Come back to considering only these two forces, which act outward and inward into the pivot area. They appear to be equal and opposite and so each councils the other. This occurs whether the disk is descending into gravity, or whether the disk is rising due to an applied force from the tower to cause precession, only that the conditions then work in reverse, but continues to produce the same results. One more thing and still viewing from the rear and with the axel perfectly square and level to my view: Centrifuge from precession, as in orbiting fast around the tower, doesnt pull the tower forward and neither does and opposite torque upon the pivot push the tower rearward. This too I believe is because of equal and opposite forces. The front of the spinning disk pulls in a forward circular path inward to the pivot, while the rear of the disk resist being pushed in an outward circular path away from the pivot. Both front and rear areas of the spinning disk seem reluctant to move against one another and so the pivotal area is unaffected. So again you have equal and opposite.<br>
+<br>
+If I can make sure we are on the same page then each of us may have more confidence in our findings from the support of the other findings and this theory will be stronger. <br>
+<br>
+NOTE: These two supporting post explain where centrifugal force has gone and perhaps serve as good enough answers to part of a very good question posed at the beginning of this thread.<br>
+<br>
+NOTE: Im considering giving an answer to the final question posed, as time permits I hope to explain by giving mechanical proof where angular momentum goes. Thats going to be a shock. Boy! It seems most everybody has had that one wrong for thirty years.<br>
+<br>
+Glenn,<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=866">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 11/05/2005 02:23:57
+</td></tr><tr><td>&nbsp;</td><td>I did not explain where is centrifuge! Gezzzs. This is hard stuff, that is simplifying explanations of the why and how of gyroscopic behavior is difficult. Excuse me. Maybe later.<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=903">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>James</b> - 12/12/2005 03:44:24
+</td></tr><tr><td>&nbsp;</td><td>The Answer is 42, after years of pondering this is the answer to the ultimate question.<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=1235">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 11/04/2006 04:57:06
+</td></tr><tr><td>&nbsp;</td><td>James, my IQ is far grater than your 42. The last time the hospital tested mine it was hovering around 100, fully almost ten points ahead of that of an absolute imbecile. Oh, you mean 42 degrees? No I have 98.8 degrees. They test me every day before pill time. You dont mean machine efficiency? Well my front machine in here starts leaking if they dont give my rear machine a rectal examination once a week. You know its good, but its bad. They have to hold me down. Anyway I figure its (1:1) and I wont tell them what that means and thats why theyre keeping me in here. Where they keppin you now days?<br>
+<br>
+Actually, how are you  these days, James?<br>
+Glenn,<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=1412">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>free ringtones</b> - 23/09/2006 05:04:24
+</td></tr><tr><td>&nbsp;</td><td><a href='http://www.yahoo.com'></a> http://www.ringtones-dir.com/download/ <a href='http://www.ringtones-dir.com'>download ringtones</a>. <a href="http://www.ringtones-dir.com ">nokia ringtones</a>: ringtones site free, ringtones site, Free nokia ringtones here. [url]http://www.ringtones-dir.com/free/[/url] [link=http://www.ringtones-dir.com]ring tones[/link] From site .<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=2128">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>ringtones free</b> - 23/09/2006 05:04:27
+</td></tr><tr><td>&nbsp;</td><td>http://www.ringtones-dir.com/get/ ringtones site. [URL=http://www.ringtones-dir.com]ringtones download[/URL]: ringtones site free, ringtones site, Free nokia ringtones here. [url=http://www.ringtones-dir.com]samsung ringtones[/url] From website .<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=2129">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>ringtones free</b> - 23/09/2006 05:04:30
+</td></tr><tr><td>&nbsp;</td><td>http://www.ringtones-dir.com/get/ ringtones site. ringtones site free, ringtones site, Free nokia ringtones here. From website .<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=2130">Report Abuse</a></td></tr>
+<tr>
+<td align="center" colspan="2"><a href="answerquestion.asp?id=173">Add an Answer &#062;&#062;</a></td></tr>
+</table>
+    </td>
+  </tr>
+  </table>
+  
+  <font class="copyright">
+  Website. Copyright &copy; 2021 Glenn Turner. All rights reserved. <a href="/site.asp">site info</a><br>
+     Do not copy without prior permission. Click here for <a target="gyroscopeproducts" href="http://www.gyroscope.com/" alt="Gyroscope products">gyroscope products</a> 
+   
+  </font>
+</center>
+
+</body>
+</html>

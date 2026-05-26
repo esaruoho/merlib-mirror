@@ -1,0 +1,59 @@
+LECTURE NO. 16 
+
+ LECTURE NO. 16 
+ 50 YEARS AND ON WE GO! 
+ Copyright &copy; Harold Aspden, 1998 
+
+ INTRODUCTION 
+I am, in this Lecture, going to go back more than 50 years to the time when I was a university student and tell you of something that happened in one of our lectures. 
+
+In those days, at least in the British academic system, the title of professor was only bestowed upon someone who was head of a department, so we only had one Professor of Electrical Engineering. By today's standards, the Senior Lecturer who was addressing us back in that 1947-1948 period would have been a 'professor', so I will refer to him by that title. 
+
+The professor was presenting his lecture by writing a very lengthy sequence of mathematical equations on the black board. It was all about electrons and current emission from hot electrodes in vacuum tubes. There were perhaps fifty or so of us students, all trying to make notes, rather frantically, as the professor was rushing through his task. He was either bored with the mundane chore of that effort, perhaps wanting to get back to his research, or he had other personal reasons for his haste, but to be sure I began to feel that none of us were following or understanding what he was scribing on that blackboard. 
+
+Eventually he turned around, looked at us, and I had the impression he was about to pick up his notes and close the lecture early. It was then that I had time to take a longer look at the last equation on that blackboard, the result he set out to prove. 
+
+I then reacted, rather abruptly, to my own surprise, and openly declared that the result could not be correct. The professor was astounded and, consistent with his Germanic background, he reacted. In a rather abrupt and blunt way he began to go through what he had written on that blackboard, line by line, turning around after each recital and, looking directly at me, asked if I agreed with that step. 
+
+I said: "Yes." Indeed, I said "Yes" time and again until at one point, when the professor, with his back to us, was reading aloud through the next line and for my benefit, he suddenly hesitated. He did not turn around. After a few moments he began altering and correcting the subsequent lines on that blackboard. As he did that, I became conscious of the rising crescendo of stamping feet. My student colleagues were applauding in the time-honoured way. I had, it seems, scored some kind of goal in the great academic game. The professor, after correcting the final formula on that blackboard, did not look up. He said nothing and, with bowed head, picked up his papers and fled, quite evidently in a rare temper. 
+
+I would have expected a professor, faced with such a situation, to contrive to smile, admit the oversight, and then jump on the rest of the students for not staying awake and spotting the flaw earlier, but that was not to be in this instance. 
+
+I did, as did one other colleague in that student assembly, find that, when I graduated a few months later, I was awarded a first class honours degree, but the whole event was a lesson in itself. The lesson, though unintended by the professor, was to be sure that a derived physical formula has a proper balance of its physical dimensions. If you are counting oranges, you cannot mix them up with apples, and count both as equal. They are both items of fruit, but, as I say, 'if you are counting oranges...'. 
+
+So often there is, by those who try to crack the secrets of Nature, as hidden in the coded messages we receive as numbers, the physical quantities that we measure numerically, a tendency to forget the need to keep a true physical balance. There are certain 'dimensionless' physical constants, fundamental constants, such as the fine-structure constant, that are pure numbers, that one being approximately 1/137, but ... well, all I can say is "Beware and be sure to avoid being faulted by not keeping a proper dimensional balance." 
+
+That, as you will see, introduces the subject of this Lecture. 
+
+ An Example - 50 years on! 
+Well, in later life, I did find, once I started developing my own theory of gravitation, that there were those who expressed interest and then duly gave voice to their own brainchild - their theory of gravitation. I was sent so many and all of these theories suffered from a fundamental flaw that should have made them 'still-born'. 
+
+Indeed, there was one called 'The Pushing Theory of Gravitation', which had many variants. In essence it amounted to saying that there is a neutrino sea, or some such activity, in which all matter is immersed as if in a gas and these 'neutrinos' push matter together. When you draw attention to how matter might screen other matter and so destroy the picture that represents in the inverse-square law of force, the response is that the absorption is rather subtle. The neutrinos are only very slightly obstructed in their passage through matter. That, however, is inventing an 'assumption' to explain something that is not assumption. 
+
+There was the case, I well recall, where one kind individual sought to convince me that gravity was attributable to the ongoing expansion of things. He was not talking about the post-Big-Bang scenario, but rather the prospect that we are held to body Earth by gravitation because the Earth expands so that its surface accelerates outwards at the rate we call g, some 32 feet per second per second or 981 cm per second per second. That really does pose a curious picture of things, especially if you then wonder how the Moon will appear to grow or shrink in size, as seen from Earth, because there is different g applicable to the Moon. 
+
+Then there are those who see the numbers game as the way forward. Now, let me say here that those numbers, such as the 6.67 that precedes an order of magnitude as a representation of G, the Constant of Gravitation, are clues which point the way forward. If your own pet theory of gravitation tells you that G is some other number, then you know you are wrong, but, conversely, if your theory gives this very number, it does not mean you are right. 
+
+So much depends upon the method being inherently self-consistent and consistent with other physical processes as well. 
+
+Now, what causes me to be writing this at this time? Well, I am writing this on March 26, 1998, when I should be busy on other important matters, but it was late yesterday, March 25th, that I received a fax message from M. Zaman Akil of 49-50 Prince Albert Road in London. It was accompanied by a copy of a paper that he had had published in Apeiron , No. 12, Winter 1992. Its title was 'On the Constant of Gravitation' . 
+
+Akil was obviously concerned that his theory had been ignored. The preamble to the paper, a Note by Jean-Claude Pecker of the College de France in Paris, seemed to support Akil's case, whilst observing that members of the Academy of Sciences were unwilling to accept Akil's efforts to 'equate a dimensionless quantity to a physical quantity'. On scrutiny the paper presents an equation connecting G with the inverse of a product of two expressions, one involving the proton-electron mass ratio, the other involving the muon-electron mass ratio, and both involving the factor 2(pi), G being in cgs units. 
+
+The value of G provided by this arbitrary formula was, indeed, remarkably close to the measured value of G, but the physical dimensions did not balance. Therefore, there is no way that the formula can have any meaning whatsoever. Yet I can understand that, having discovered such an appealing numerical relationship, it is very hard to let go. Akil argues in favour of a new system of 'natural units' which would aim at a force-fit of the result in a proper dimensional balance, but that is a futile pursuit. 
+
+I have my own way of explaining G and deriving a value for G that does involve certain mass ratios and, indeed, involves the muon and the proton in developing those ratios, notably for the ratio of the mass of something I call the 'graviton' relative to the mass of the electron. To me, the electron, the muon, the tau (or taon) and the graviton are all leptons on a rising mass scale and it was interesting to read Akil's last sentence in his article: 
+ A number of investigators had already expected the proton to play such a part (meaning a role in a formula for G): but why the muon and not, say, a taon? This intriguing question certainly merits further investigation. 
+
+ Conclusion 
+The point I make here is that I am not alone in the quest to present a theory of gravitation which allows G to be formulated and derived as a numerical quantity. Because I am not alone, but one of many, all claiming to have the right answer, and because 'par for the course', if this were a game of golf, would involve everyone normally falling into a hole, owing to a false assumption, then the assumption is that we are all trying to achieve the impossible. 
+
+However, what can one do, other than seek to convince that one does have the right answer? At this time, March 26th, I am about to wave a flag to get the world to pay attention. My 'flag' is really a 'spoof', a ruse to get people to look at my Web pages, because on April 1, for one day, I will assert that I have discovered the long-sought proof of Fermat's Last Theorem, achieved virtually by a few notes on the back-of-an envelope. Fermat, the great French mathematician, has been suspected of leading us astray by saying a simple proof did exist. Hopefully one day a simple proof will be discovered. However, Fermat's Last Theorem is a problem that is purely numerical and devoid of physical dimensions, so one cannot go wrong on that score. However, though I cannot claim a solution to theorem that the great minds of science could not solve in 360 years; but yet I do claim what is, I believe, a greater achievement, the solution of the problem of gravity. I promise you that it is not just a numbers game, the rules of physics are involved in the play! 
+
+The derivation of my formula for G is to be found in these Web pages at: 
+ The G Formula 
+and my 'spoof' of Fermat's Last Theorem, which I shall keep on these Web pages for a little while, is accessed by pressing: 
+ Fermat's Last Theorem 
+
+ Harold Aspden 
+ haspden@iee.org

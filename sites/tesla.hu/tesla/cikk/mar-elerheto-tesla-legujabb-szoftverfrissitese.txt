@@ -1,0 +1,59 @@
+Már elérhető a Tesla legújabb szoftverfrissítése 
+
+ 1 month ago 
+
+ Már elérhető a Tesla legújabb szoftverfrissítése 
+
+ Az új funkciók a töltést, a Powerwall használatát és a futóművet is érintik. 
+
+ A Tesla elkezdte közzétenni a legújabb, 2020.32.1-es szoftverfrissítési csomagját az elektromos autói számára. Az új pakkban több érdekes új funkciót találunk a töltéssel, a Powerwall használatával, vagy éppen a futóművel kapcsolatban. 
+
+ Ezek közül az egyik legfontosabb, amelyet a Palo Altó-i vállalat is külön kihangsúlyozott, a „Tesla Powerwall Coordination” névre hallgató újítás. 
+
+ „ Autója folyamatosan kommunikál a Powerwall-lal és még áramkimaradás esetén is folyamatos töltést biztosít, amíg a ház szükséges áramellátását nem befolyásolja a rendszer. A Powerwall folyamatosan reagál az otthoni változó energiaszükségletre, lelassítja vagy leállítja az autó töltését, miközben folyamatosan biztosítja otthona áramszükségletét ” – olvasható a cég közleményében. 
+
+ „ Áramkimaradás esetén az autó a Powerwall küszöbérték feletti energiájával tölti fel magát. Ezt az értéket a Tesla mobilapplikációban lehet beállítani és bármikor megváltoztatni, hogy tökéletes egyensúlyban tartsa a közlekedéshez szükséges, és az otthona számára fenntartott energiamennyiséget. Ezáltal teljesen irányítása alatt tarthatja a saját energia ökoszisztémáját. A Powerwall a többlet napenergia felhasználásával is képes feltölteni az autóját áramszünet esetén, ha napos időben csatlakoztatja az autóját a hálózathoz .” 
+
+ Ezt a funkciót a Tesla Powerwall szoftverfrissítést követően tették elérhetővé az EV-k számára is, így a tulajdonosok áramkimaradás esetén is tölteni tudják az autóikat a Powerwall segítségével. 
+
+ Az új szoftvercsomagban a Tesla felfüggesztésének beállítási lehetőségeit is továbbfejlesztették. Egyszerűsítették a Tesla futóművezérlőjét annak érdekében, hogy még automatizáltabban lehessen állítani az autó hasmagasságát az útviszonyok függvényében. Ráadásul elmenthetünk fix helyeket, ahol az autó automatikusan az előre beállított értékre változtatja a futómű beállításait a még komfortosabb utazás érdekében. 
+
+ Ám ez az újítás egyelőre csak a továbbfejlesztett, intelligens futóművel szerelt Model S és Model X „Raven” típusainál elérhetőek. 
+
+ Emellett a frissítésbe bekerült egy új, „Car Left Open Notification” névre keresztelt szolgáltatás is. Ennek köszönhetően a tulajdonos automatikus értesítést kap a mobiltelefonjára, ha valamelyik ajtó, esetleg az első vagy a hátsó csomagtartó 10 percnél hosszabb ideig nyitva marad. Ugyancsak 10 perc elteltével figyelmeztet az autó, ha valamelyik ablak nem lett felhúzva. 
+
+ Ahogy az már megszokott, a Tesla fokozatosan tölti fel a frissítéseket, így eltarthat egy darabig, míg a flotta minden autójára megérkeznek az új funkciók. 
+
+ Forrás: 
+
+ Electrek 
+
+ 7 hours 5 min 
+ Komoly áttörést ígér a Tesla a 4680-as akkucella révén 
+ Olcsább és gyorsabb gyártás, nagyobb hatótáv és olcsóbb elektromos autók. 
+
+ 1 day 11 hours 
+ 3 éven belül elindul a Tesla elektromos „népautójának” gyártása 
+ Musk azt ígéri 25 ezer dollár, átszámítva kevesebb mint 10 millió forintba kerül majd Amerikában. 
+
+ 3 days 8 hours 
+ Elon Musk szerint a Tesla rekord negyedévet zárhat 
+ „Sosem adtunk még át ennyi autót egy nap alatt.” 
+
+ Model 3 Model S Model X Model Y 
+
+ © 2019-2020 MAHZRT 
+
+ Modellek 
+
+ Model 3 Model S Model X Model Y 
+ Szolgáltatásaink 
+ Tesla hírek 
+ Tesla márkatörténet 
+ Gy.i.k. 
+ TAO támogatás 
+ Nagycsaládos támogatás 
+ Tesla Model S élményvezetés 
+ Kapcsolat 
+
+ Model 3 Model S Model X Model Y

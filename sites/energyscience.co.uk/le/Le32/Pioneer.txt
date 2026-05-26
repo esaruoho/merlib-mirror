@@ -1,0 +1,206 @@
+LECTURE NO. 32 
+
+ LECTURE NO. 32 
+ PIONEER 10/11 GRAVITATIONAL ANOMALY 
+ Copyright &copy; Harold Aspden, 2002 
+
+ INTRODUCTION 
+
+Towards the end of the previous Lecture No. 31 reference was made to the anomalous gravitational acceleration of the space craft Pioneer 10 and Pioneer 11. Having written about the theory of gravitation in several of my published works and claimed for many years to have an insight into the true nature of the force of gravity in terms of electrodynamic theory, I was inevitably interested in that discovery. Within days of first reading about it at pp. 28-32 of the 20 July 2002 issue of the U.K. weekly periodical New Scientist , (article by Marcus Brown entitled 'Strange Attraction'), I could see how this discovery gave support to my theory of published record and, on 15 August 2002, I duly sent a brief paper on the subject to the Editor of Physics Letters B who deals with cosmological topics, hoping that it might be accepted for peer review publication. His answer, dated 27 August, was simple and gave no substantive reason for rejection. The only words were: 
+ "I'm afraid I cannot accept your manuscript for publication in Physics Letters B." This is an example of the attitude of those who judge the earnest efforts of an individual, efforts aimed solely at helping the scientific establishment to make sense of Nature's mysteries and so improve our knowledge and, indirectly, lead to enhancement of our technological resources. Such is my introduction to this Lecture which I will now begin by presenting the full text of the paper I submitted. 
+
+ ************* 
+ A NEW INSIGHT INTO THE PIONEER 10/11 GRAVITATION ANOMALY 
+
+ Harold Aspden 
+
+ Energy Science Ltd 
+P.O. Box 35, Southampton SO16 7RB, England 
+h.aspden@physics.org 
+
+ Keywords: Pioneer 10/11, gravitation, anomalous acceleration, general relativity 
+
+ ABSTRACT 
+ The mysterious component of gravitational acceleration of 8.7 x 10 -8 cm/s 2 towards the sun experienced by Pioneer 10 and Pioneer 11 is here explained as an effect attributable to retarded energy deployment in the gravitational field. The physical principles involved are well documented with regard to the gravitational interaction of Sun and planet but an essential modification seems to have been overlooked for the case of a space craft moving steadily away from the Sun. 
+
+R. Foot and R.R. Volkas [1] have drawn attention to the anomalous acceleration of Pioneer 10 and 11 experienced in their outward travel away from the Sun. They have suggested that this may be due to the presence of 'mirror matter' in the solar system which would need of have a density of about 4x10 -19 g/cm 3 . Such a suggestion seems rather speculative and is not mentioned in the detailed report of the anomaly recently presented by J.D. Anderson et al [2], where the conclusion is that: "The effect is clearly significant and remains to be explained". 
+
+It is noted that the latter report affirms that Pioneer 11 was at a distance of some 22 AU from the Sun on 1st January 1987 and the data relied upon was that from 5 January 1987 to 1st October 1990, but that the last communication from Pioneer 11 was received in November 1995 when it was approximately 40 AU from the Sun. It is said now to be moving off into outer space towards the constellation Sagittarius at a velocity of 11.6 km/s. However, the key factor of interest is the anomalous acceleration directed towards the Sun of (8.74 +/- 1.33)x10 -8 cm/s 2 that was measured and that poses the problem. 
+
+This anomaly is quite small, being referenced on the expected gravitational pull of the Sun, which is presumably based on the GM/R 2 factor as measured at a distance R of 1 AU from our knowledge of the Earth's angular speed in orbit and our knowledge of that distance. Here G is the constant of gravitation and M is the mass of the Sun. Indeed, at 22 AU, this would mean an expected retardation acting on the space craft of 1.225x10 -3 cm/s 2 . Though only discrepant by one part in 14,000, one does here face a mystery that has to be resolved, owing to its potential significance to our understanding of the nature of gravitation. 
+
+The explanation may be found by heeding an assertion by Heaviside which dates from 1893: "To form any notion at all of the flux of gravitational energy, we must first localise the energy. Whether the notion will turn out to be a useful one is a matter for subsequent discovery". This opinion was further endorsed by Brillouin [3] in his book 'Relativity Reexamined' , which included this quotation as an intial preface to the work. The point is that, if it takes time for gravitational field energy to adjust to change of relative position of two interacting bodies, then, as a function of their motion, one might find that G, in effect, has a slightly different value in governing that motion. Note here that there is, indeed, a difference between the motion of our Earth in near circular orbit around the Sun and the motion of a spacecraft moving radially away from the Sun. 
+
+The mention in the above abstract that the background to this is 'well documented' is a reference, for example, to a paper entitled 'The inverse-square law of force and its spatial energy distribution' [4], where it is shown that G as it applies between two masses M and m has a higher value given by GMm/R 2 times the increment of R if there were no gravity force for the retardation period involved. 
+
+For a planet in orbit around the Sun this is found to modify Newton's law of gravitation and bring it into conformity with Einstein's law of gravitation by which the anomalous perihelion motion of planet Mercury is explained, provided the effective speed at which energy traverses the distance R is 0.707 times the speed of light. The retardation time T is such that: 
+ T 2 = 2(R/c) 2 .......... (1) 
+
+It was the subject of that paper to show how, in acting on Heaviside's suggestion, this equation (1) is derived, it being self-evident that any energy transfer at the speed of light can hardly be confined to a narrow pathway drawn between the Sun and the planet. The analysis had regard to the deployment of gravitational potential energy in the whole of the field affected by the interaction and indicated that the mean route for energy travel between Sun and planet via the field had to be longer by the factor (2) 1/2 than their separation distance. The implicit assumption was that adjustment of gravitational energy occurs by energy quanta moving at the same speed as the photon, the speed c of light. 
+
+Thus one finds that the relevant increment of R is fT 2 /2, f being the acceleration v 2 /R, and this gives a change of gravitational energy potential by the factor (v/c) 2 in the case of Sun and planet interaction, v being the speed of the planet in its orbit. 
+
+For the case under consideration, a spacecraft moving away from the Sun at a relative speed v, this energy retardation factor has the effect of increasing the gravitational potential by the factor vT/R or (2) 1/2 (v/c). Being a linear term instead of one of second order, this is far more significant than the term in (v/c) 2 that applies to the planetary case. 
+
+Note that a speed of Pioneer 11 of 15 km/s would then be needed to imply an enhanced pull of gravity amounting to 7.07x10 -5 times 1.225x10 -3 at 22 AU, which is 8.7x10 -8 gm/s 2 , the median value measured. Although the relevant speed may have then been a little lower than 15 km/s, the loss of energy in escaping from the Sun's gravitational field is in reasonable accord with that reduction to onward travel through space at 11.6 km/s and the argument here does point to the fact that observed anomaly is in some substantial measure explained by the energy retardation effect under discussion. 
+
+It is submitted that in considering anomalies such as that posed by the Pioneer 10/11 observations, cosmologists, in applying the theory of gravity, should put more emphasis on the analysis of energy deployment and not just concentrate attention on the gravitation as a law of force defined by the standard formulation. The Appendix below, which summarizes in a reversed order the analysis of record in reference [4], warrants attention in this regard. 
+
+APPENDIX 
+
+Given Einstein's law of gravitation: 
+ d 2 u/d&phi; 2 + u = GM/h 2 + 3GM(u/c) 2 ...... (2) 
+which is an equation expressed in polar co-ordinates (u,&phi;), where u is 1/R and h is vR, we will deduce how the latter term, which is the addition to the corresponding formulation of Newton's law of gravitation, relates to an energy factor. 
+
+Note that h is constant, since angular momentum of unit mass acted upon in accordance with this law is conserved. It becomes a force equation if we multiply throughout by v 2 , the force being on unit mass. 
+
+Writing u as 1/R that latter term is seen to be: 
+ 3(GM/h 2 )(v/c) 2 ............... (3) 
+which implies that the force acting on unit mass is greater than Newton's instantaneous action-at-a-distance law by the small factor 3(v/c) 2 . 
+
+Now we are interested in the significance of this in energy terms and so we must integrate force with respect to R. This means multiplying by v 2 and then replacing v by h/R before integrating 3(GM/h 2 )(1/R) 4 (h/c) 2 to obtain an energy quantity per unit mass of magnitude GM/R times (v/c) 2 . Thus (v/c) 2 is the factor by which the magnitude of the effective gravitational energy potential is increased owing to the retardation associated with the flow of gravitational field energy associated with the motion of a planet around the Sun. 
+
+REFERENCES 
+
+[1] R. Foot & R.R. Volkes, Physics Letters B, 517, 13-17 (2001). 
+[2] J.D. Anderson, P.A. Laing, E.L. Lau, A.S.Liu, M.M. Nieto & S.G.Turyshev, Physical Review D, 65, 082004-39 (2002). 
+[3] L. Brillouin, Relativity Reexamined (New York: Academic Press) 1970. 
+[4] H. Aspden, J. Phys. A:Math. Gen, 13, 3649-3655 (1980).
+
+ ******** 
+ DISCUSSION 
+Now, of course, one cannot argue with an Editor under these circumstances. One might, however, wonder why one's submission is rejected in such an off-hand way and think that it could not be owing to the paper being too long or lacking in professional style and content. Nor can one really believe it was sent to the wrong periodical, bearing in mind that its first reference dated 2001 was a speculative contribution on the same subject that appeared in Physics Letters B . Accordingly, one inevitably tends to the view that the paper does not convey confidence owing to the author not declaring an appropriate affiliation as implied by a university address or an address of a laboratory of repute primarily concerning with space projects. 
+
+Therefore, it is natural to suspect that the system which now governs progress on matters scientific is less democratic than those in government who fund scientific research on space probes and the like and research projects in the realm of cosmology might assume. Hopefully, however, the truths that underlie our scientific principles will surface in due course and, meanwhile, in spite of vast wastage of our resources, those of us who try to enhance the state of knowledge will just have to soldier on and accept the facts of life as they really are on the frontiers of science. 
+
+I intend in this Lecture to delve rather deeply into the physics which governs the phenomenon of gravitation and its link with electromagnetism but I will argue from a new starting point on the basis that unification of 'field' theory can evolve from any part of the spectrum covered by that theory. 
+
+Whereas, in my previous writings, I have sought to build my case without reliance on any of Einstein's doctrinaire teaching but have begun from a standpoint that accepts the existence of the aether, I will instead begin here from the standpoint of an astronomical observation of recognized significance. This is the anomalous component of the perihelion precession of the planet Mercury, which is known to be 43 seconds of arc per century and cannot be explained by strict adherence to Newton's basic law of gravitation. 
+
+This gravitational anomaly was recognized in the latter part of the 19th century long before Einstein emerged on the scene and was attributed to a retardation of gravitational action by a German school teacher, Paul Gerber, who formulated the orbital motion of planet Mercury and showed how that 43 second of arc per century measured emerged from that formulation. [P. Gerber, Zeitschrift f. Math. u. Phys. , 43 , 93 (1898)]. 
+
+Now, calculation of field retardation effects, however rigorous the mathematics and however impressive the analysis might appear, seldom seem to give answers that fit what is actually observed and so, by 1916 when Einstein's general theory of relativity did confront that perihelion anomaly, it is not surprising that fault was found with Gerber's theory. Gerber was no longer alive to defend his work. However, both Gerber and Einstein relied on the facts of observation, that 43 second of arc per century anomaly, and, rather than beginning by taking sides as between the Gerber or Einstein methods, I will begin here by accepting as an empirical starting point the equation of planetary motion that matches that anomalous advance of perihelion. 
+
+The relevant equation is equation (2) above. Note that it is a simple equation expressed in two space dimensions defined by the orbital plane of the planet about the Sun. It is not a four-space formulation, but one that portrays what can be seen through an astronomical telescope and by plotting the motion of the planet. It is, as noted above, an equation that merely relates to position and motion, albeit becoming a force equation once multiplied by velocity squared, the action of gravity usually being considered as a force rather than an action that concerns deployment of energy. 
+
+Now, at this stage one cannot say much about the nature and origin of that force without looking into the question of how energy gets into the act. As seen above, it needs a mathematical step of integration to assess the energy factors involved. The conclusion is simple. The anomaly evidenced by the planet Mercury, noticed owing to its extremely elliptical orbit, is simply attributable to its gravitational potential being affected by a factor (v/c) 2 , where v is its velocity and c is the speed of light. That, therefore, is a fact of observation in no way affected by the choice of one's underlying theoretical assumptions. So far we need not chose between the Gerber or Einstein hypotheses, namely 'retardation' versus 'curvature of space by four-dimensional criteria'. 
+
+The factor c comes into play in both of these hypothetical situations. For Gerber there is his assumption that energy needed to cater for the change of speed of the planet travels between Sun and planet at the speed of light along a path drawn directly between the two bodies. For Einstein the factor c creeps into the analysis by invoking a fourth space dimension where distance is expressed as ct, t being 'time'. 
+
+The way forward then is for those who accept Einstein's theory of gravitation to see how best they can explain the new gravitational anomaly problem posed by Pioneer 10/11, which is quite a formidable task, and, for those who favour the retardation theme, to see where that leads. Alternatively, short of imagining the existence of gravitating matter dispersed in what we deem to be empty space, one cannot see much scope for solving the mystery, though that factor c might seem to apply if radiation pressure is involved. That radiation would, however, have to act towards the Sun, rather than be directed away from the Sun. Accordingly, I favour the retardation theme. 
+
+In discussing the effect of retardation I am going to assume that one must focus on the amount of energy that is in transit as part of the gravitational interaction. I am guided in this by insight into the processes at work that account for the electromagnetic interaction between moving electric charges, a subject I shall discuss later in this Lecture. In a sense, I see the force of gravity as depending upon energy transfer akin to that involved in electromagnetic radiation with its attendant reaction forces, a process which brings into play that speed factor c. 
+
+The transit energy involved in the gravitational energy flows either from an interacting body or to an interacting body and the amount of transit energy is a governing quantity. Being a depletion of gravitational energy potential, itself a negative quantity, its presence must be accompanied by a corresponding increase in the magnitude of that potential. This enhances the value of G, the constant of gravitation, in corresponding proportion. 
+
+One may then reason that, if the action of gravity were to become instantaneous, that transit energy would become zero and G would have a slightly smaller value. This would allow the interacting bodies, if Sun and planet, to separate as the planet moves to an orbit of larger radius. The work done in so separating will, therefore, be equal to the transit energy released. 
+
+With R now being the radius of the planet's orbit and so approximating the separation distance between Sun and planet, the standard basic equation of planetary motion tells us that GR is constant, given that the planet's velocity moment is conserved as is its angular momentum in orbit. If GR is constant a proportional increase of G by a small factor &delta; will be matched by a corresponding decrease of R and vice versa. The energy change for G so increased is then given by: 
+ -2&delta;GMm/R + 2&delta;(mv 2 /2) ..... (4) 
+because v 2 is inversely proportional to R 2 owing to that conservation of velocity moment. So a decrease in R by the factor &delta; will become a two-fold increase in v 2 , by the factor 2&delta;, whereas G/R will also increase by the factor 2&delta;. 
+
+Since GMm/R 2 is equal to mv 2 /R, the change of energy is, therefore, a reduction by the amount (GMm/R)&delta;. Accordingly, this is the amount of energy that is shed and transferred into transit energy upon G increasing by that factor &delta;. Conversely, the decrease of G, if retardation action ceased and instantaneous gravitational action resumed, implies an increment of R by that same factor, which would absorb that amount of energy by transferring it from its transit state to expand the planet's orbit against the opposition of the gravity force. 
+
+In effect, retardation causes the planet to fall into a lower orbit. In so falling it is in free fall for a period T under the gravitational force GMm/R 2 which we write as mf. Accordingly, it will fall through a distance fT 2 /2, which is &delta;R, f being GM/R 2 or v 2 /R. One therefore can write the equation: 
+ &delta; = (vT/R) 2 /2 ...... (5) 
+
+Now, as was shown above from empirical evidence of planetary motion, the factor &delta; is simply (v/c) 2 and so one finds from equation (5) that T has a value given by: 
+ T 2 = 2(R/c) 2 ...... (6) 
+
+The paper above concerning Pioneer 10/11 applied this same retardation time factor to the gravitational anomaly observed, the &delta; factor applicable there being related to the distance of the space craft from the Sun, according to distance travelled at the speed of the space craft in the retardation time T indicated by equation (6). The result does confirm the retardation theory here presented. However, the point of interest now to be addressed concerns the physics which determines that time factor T, as this tells us a great deal about the nature of the force of gravity and particularly about its connection with electromagnetism. 
+
+Here I stress the point that in justifying the formulation of equation (6) by physics not dependent upon the empirical evidence of the anomalous advancing motion of the planet's perihelion, I offer an explanation for that phenomenon which in no way depends upon Einstein's theory of general relativity. Of itself that may not impress a scientific community content to rely on the Einstein interpretation. However, unless Einstein's theory can somehow embrace the problem of the Pioneer 10/11 anomaly, in a way which matches the success of the above method, that scientific community is left wandering in the wilderness on this gravitational issue. Furthermore, such wanderers still await the coming of Unified Field Theory and enlightenment on how electromagnetism can account for the force of gravity. 
+
+With that objective in mind I will now address the problem of retardation in the context of the electromagnetic interaction. 
+
+ ANOMALY IN ELECTRODYNAMICS 
+
+The most incredible anomaly of all in physics is one which persists in the field of electrodynamics. It is ignored by the theoretical physicist simply because everyone seems to think that the basics of electrical science are so well established that there is nothing that can now be questioned. It is no wonder, therefore, that the unifying link between gravitation and electromagnetism remains a mystery. 
+
+Every physicist well knows that the key law of electrodynamic action is that bearing the name of Lorentz. It simply has to be correct because it conforms with Einstein's theory! Yet all it tells you is that the magnetic force acting on a moving electric charge is directed at right angles to that motion. We calculate the strength of the magnetic field and know that it acts on moving charge, electric current in a conductor for example, and merely pushes it in a direction lateral to that motion. 
+
+Every physicist also knows that there is another law bearing the name of Lenz. This states that when a conductor moves with respect to a magnetic field, the currents induced in the conductor are in such a direction that the reaction between them and the magnetic field opposes the motion. So somehow, the secret being hidden in the meaning of that word 'induced', that magnetic field can push on the current in such a way that it causes the current to increase or decrease, meaning that forces act on it in its direction of motion, hardly something one might expect, given the unquestioned validity of the Lorentz force law. 
+
+However, laws are laws and facts are facts and physics is based on emprical evidence, so we find a way of choosing which laws we apply, according to the nature of the problem at hand, and we get by, in testimony of which one can point to the remarkable success of our technology concerning matters electrical. 
+
+Still, the problem of understanding the force of gravity remains and so I will now be more specific in pointing to the anomaly in question. 
+
+It concerns the seat of magnetic field energy and the deployment of that energy given relative motion between two interacting electric charges that move in what we refer to as the electromagnetic reference frame. 
+
+I am aiming to account for gravitation in terms of electromagnetic action and, guided by that empirical retardation equation (6) above, I intend to see how magnetic field energy distributes itself in the space enveloping two interacting electric charges in motion. We know the formula for the strength and direction of a magnetic field set up by charge in motion and so can work out how two superimposed fields will combine and from that, looking solely at the interaction components, we can determine the magnetic field energy density at all points in space. That is a logical thing to do and no new physics is involved. It is an extremely easy undertaking for the very simple case of two such charges moving along a common straight line, spaced apart, one behind the other. It could be a student task, a mere mathematical exercise, and surely one that many a physicist has already undertaken. But one really must wonder, given the result which emerges, and the fact that no one has screamed at those who teach electrical science, pointing to the result which refutes what is taught. 
+
+Based on Fig. 1, which depicts two charges separated by a distance z and deemed to move in the same direction and so in a mutually parallel sense along a straight line drawn between them, we will now calculate the magnetic energy of their mutual interaction. 
+
+At the point P the combined magnetic fields of both charges is: 
+ qvsin&theta;/x 2 + q'v'sin&phi;/y 2 ..... (7) 
+and, if we square this and divide by 8&pi;, considering only the interacting components, we obtain an field energy density at P for the interaction of: 
+ (qq'vv'/4&pi;)sin&theta;sin&phi;/x 2 y 2 ....... (8) 
+
+To integrate this over a region of space we need to define an elemental volume. This we take as the volume bounded by rotating the area defined by the sectors d&theta; and d&phi; around the axis of z, which is: 
+ (2&pi;xsin&theta;)(xd&theta;)(yd&phi;)/sin(&theta;+&phi;) .... (9) 
+This simplifies by using the trigonometrical relationship: 
+ ysin(&theta;+&phi;) = zsin&theta; ....... (10) 
+to become:
+ 2&pi;(xy) 2 d&theta;d&phi;/z ........ (11) 
+Upon multiplying (8) and (11) one finds the elemental energy term to be integrated. It is:
+ (qq'vv'/2z)sin&theta;sin&phi;d&theta;d&phi; ....... (12) 
+
+Integrating over all space, first with respect to &phi; from 0 to &pi;-&theta;, and then with respect to &theta; from 0 to &pi;, one obtains: 
+ qq'vv'/z ........ (13) 
+
+This is the total magnetic field energy associated with the interaction of the two electric charges moving, one behind the other, along a straight line, given their spacing z. The magnetic field of one acts on the moving charge of the other and vice versa but, by the Lorentz force law, there is no electromagnetic force component acting on either along that common line. So one should be able to have a change of z without there being any force resisting that change, other than that of their electrostatic interaction, which for flow of electron charge as current along a wire is cancelled out by the presence of positive charge which does not move inside the wire. 
+
+Keep in mind that standard theory tells you that there is no magnetic field at any point along the z axis and so a rate of change of magnetic field cannot be said to induce an EMF which applies a force on the charges. 
+
+So, our hypothetical student, has then every right to ask his teacher how equation (13) can avoid implying the existence of forces acting on the charges in their line of motion, given that the associated energy must change with change of z. Clearly, there is conflict in what we have been taught at school and university concerning electromagnetic action. This is a serious anomaly and one which is surely bewildering in its magnitude, surviving as it has for many generations of those seeking to find that Holy Grail of physics, the Unified Field Theory. 
+
+ THE WAY FORWARD 
+Let us now ask how that interaction component of magnetic field energy in the example just considered is deployed in space. How much of it exists, for example, within a range z of either moving charge? In this case the range of integration for &phi; is from 0 to &pi;/2-&theta;/2. The first integration stage gives the expression:
+ - (qq'vv'/2z)sin&theta;[sin(&theta;/2) - 1]d&theta; 
+which can be written in the form: 
+ - (qq'vv'/2z)[2sin(&theta;/2)cos(&theta;/2)][sin(&theta;/2) - 1]d&theta; 
+or: 
+ (qq'vv'/2z)[4][sin 2 (&theta;/2) - sin(&theta;/2)]dsin(&theta;/2] 
+whereupon the second integration stage gives: 
+ (qq'vv'/2z)[4][1/3 - 1/2] 
+which is a final result for the magnetic interaction energy within the range z of either charge of: 
+ qq'vv'/3z ........... (14) 
+
+I have presented this analysis to show the reader that, at least for one specific type of interaction between two electric charges in motion, the magnetic field energy is deployed in such a way as to involve forces between the two charges that are contrary to what is specified by the Lorentz force law. Furthermore, of the total magnetic energy involved in that interaction, one third exists within a range of either charge equal to their separation distance. One has therefore to wonder how this energy deployment in space affects forces as a function of retardation effects attributable to energy taking time to distribute itself in the field when the charges change position. 
+
+Our empirical analysis of the gravity problems, Pioneer 10/11 and the anomalous perihelion motion of planet Mercury, suggest a retardation by a mean time factor formulated in equation (6). The question we now face is whether what we have just investigated concerning deployment of magnetic field energy has anything in common with that gravitational problem. 
+
+To proceed within the framework of standard physics one can seek to plot the distribution of that field energy in terms of distance from either charge, assuming different component actions which can be combined for any situation. The components are (i) the case where v, v' and z are all mutually parallel, the case just considered, (ii) the case where v and z are mutually parallel but v' is orthogonal to both and (iii) the case where v and v' are mutually parallel but z is orthogonal to both. This involves tedious calculation which will not be pursued here. The interested reader can refer to the published paper on the subject. It was entitled: 
+ 'The Spatial Distribution of the interaction Contribution to the Magnetic-Field Energy associated with Two Moving Charges' 
+and appeared in Acta Physica Polonica Vol. A 57 pp. 473-482 (1980). Although I am a co-author, the main effort involved in performing the necessary calculations was that of Dr. D. M. Eagles of the National Measurement Laboratory, CSIRO, Sydney, Australia, as assisted on computer programming by P. Lalousis of that laboratory. The analysis reported is formal and rooted in accepted physics and so is beyond debate as to its validity. 
+
+For the three component situations, each indicated that beyond a radius z drawn from either interacting charge, the interaction component of magnetic energy diminished as a function of distance in inverse square proportion but the relationship was linear within the range to z. For the specific case of our above example the energy distribution was as shown in Fig. 2. However, for the other two cases, the linear section was negative, meaning that there was a discontinuity at radius z, a very curious circumstance indeed. 
+
+ Fig. 2 
+
+For my part, I was led to conclude that the energy distribution of Fig. 2, for which one can verify that one third of the total energy lies within the range z, has a ring of truth about it, whereas the other two cases seem illogical, in spite of being rigorously founded in our standard teaching concerning magnetic field theory. One must suspect that all is not well with our understanding of electromagnetic theory and that glaring example posed by the anomaly discussed above tells us just that! 
+
+Nevertheless, looking solely at that Fig. 2 energy distribution, I invite the reader to examine what it implies concerning the retardation theme. 
+
+Keep in mind that inertial, as opposed to frictional, retardation involves actions that tend to be governed by the square of the time involved. This means that, in working out a mean retardation time for the action by which energy change occurs in that range up to the separation distance z, we must evaluate the root mean square of the elemental time components. So, given that all the action occurs over that limited range z, if the energy distribution within that range is linear, being proportional to x at radius x, with x as the distance to travel from charge to field, the root mean square of the integral of x 3 dx divided by the square root of the integral of xdx over the range 0 to x gives the effective distance of travel. Upon evaluation, this is r/(2) 1/2 . The retardation time then could be the time taken to travel this distance from one charge to the field at speed c plus the time to make a similar return journey between the field and the other charge. This gives a retardation time T for which:
+ T 2 = 2 (r/c) 2 
+exactly, as we found empirically for the gravitational action in derving equation (6). 
+
+An alternative giving the same result is for the action to involve one-way energy transit as between the field and either of the interacting elements, in which case the transit energy speed would be c/2. This could well be possible, for two reasons which I shall discuss in the next Lecture. 
+
+We can therefore conclude from this that we have here a link connecting gravitation and electromagnetism, one that has experimental foundation, if we can classify the Pioneer 10/11 measurements and the Mercury perihelion observations as experimental. 
+
+The way forward, in delving into the problem of gravitation and its unification with electromagnetic theory, now depends on our coming to terms with the problems inherent in our standard teaching concerning electrodynamics. Physicists do not have a clear insight into the way in which two electric charges in motion interact electrodynamically. All their experiments giving empricial foundation for their physical laws on the subject concern actions based on situations where at least one component of the interaction is an electric current carried around a closed circuit. 
+
+Accordingly, in the next Lecture No. 33, I shall deal with the question of how energy is actually fed into a magnetic field, something that is not discussed in our textbooks on physics. Yes, I do know that if one has a coil of wire linked by an alternating magnetic field and forming a closed circuit through a resistor, then energy will transfer into the activation of current flow in that coil of wire and that resistor, the circuit controlling that alternating field supplying that energy. The question, however, is not: "What happens?" but: "How does it happen?" How can a magnetic force which always acts at right angles to the motion of electric charge impart momentum that drives that charge at a higher speed? How can our concept of rate of magnetic flux change linking a closed loop circuit, as a means for inducing an EMF in that circuit, be relevant to action on an isolated moving electric charge? 
+
+I submit that until we know enough about electrodynamic action to answer such questions we have no hope of discovering how to embrace the gravitational action and electromagnetic action within one unified field theory. We must probe deeper into the basic foundations of electrical science. Indeed, having shown elsewhere how one can derive the constant of gravitation G in terms of the charge-mass ratio of the electron, it may seem that I have lost confidence in my methods, but that is not so. It is just that, in retracing my steps, I can occasionally see in retrospect a better way in which to clarify what is involved, whilst pointing the finger at the cracks in standard theory that physicists have glossed over or ignored. Rather than saying: "Eureka, I have discovered something", I am now saying: "See where you have gone wrong and listen to a voice which can help you out of your dilemma." 
+
+This Lecture should make you wonder about the notion that space is curved and cause you to accept instead the effects of retardation, not of so-called vector potentials but of energy flow, given that energy is moving and that it cannot move faster than the speed of light. Yet, to be sure, there is a feature of the fabric of space that does imply instantaneous action at a distance in electric field theory, but that does not mean action involving energy transfer at infinite speed. It means instead that Nature has a way of keeping in step, holding to a strict (universal) time schedule, even where the separation distance is enormous, because it would need a too great a change of energy to alter the state of things. 
+
+ ****************** 
+
+H. Aspden 
+August 30, 2002
+
+ h.aspden@physics.org

@@ -1,0 +1,322 @@
+Adatkezelési tájékoztató 
+
+ Adatkezelési tájékoztató 
+
+ Adatkezelési tájékoztató - 
+adatvédelmi irányelvek 
+
+ 1 Az adatkezelési tájékoztató célja 
+
+ A Magyar Autókereskedőház Zrt. (1112 Bp., Repülőtéri út 6.., a továbbiakban Szolgáltató, Adatkezelő) mint adatkezelő, magára nézve kötelezőnek ismeri el jelen jogi közlemény tartalmát. Kötelezettséget vállal arra, hogy tevékenységével kapcsolatos minden adatkezelés megfelel a jelen szabályzatban és a hatályos nemzeti jogszabályokban, valamint az Európai Unió jogi aktusaiban meghatározott elvárásoknak. 
+
+ A Szolgáltató adatkezeléseivel kapcsolatosan felmerülő adatvédelmi irányelvek folyamatosan elérhetők a / címen. 
+
+ A Szolgáltató fenntartja magának a jogot jelen tájékoztató bármikori megváltoztatására. Természetesen az esetleges változásokról kellő időben értesíti közönségét. 
+
+ Amennyiben kérdése lenne jelen közleményünkhöz kapcsolódóan, kérjük, írja meg nekünk, és kollégánk megválaszolja kérdését: info@tesla.hu , info@mahzrt.hu . 
+
+ A Szolgáltató elkötelezett ügyfelei és partnerei személyes adatainak védelmében, kiemelten fontosnak tartja ügyfelei információs önrendelkezési jogának tiszteletben tartását. A Szolgáltató a személyes adatokat bizalmasan kezeli, és megtesz minden olyan biztonsági, technikai és szervezési intézkedést, mely az adatok biztonságát garantálja. 
+
+ A Szolgáltató az alábbiakban ismerteti adatkezelési gyakorlatát. 
+
+ 2 Az Adatkezelő/Szolgáltató adatai 
+
+ Amennyiben megkeresné a Szolgáltatót, a +36 (20) 257 8998-as telefonszámon és az info@ecdh.hu elérhetőségeken teheti ezt meg. 
+
+ A Szolgáltató minden hozzá beérkezett e-mailt a vezetéknév és keresztnév személyes adatokkal együtt az adatközléstől számított legfeljebb 5 év elteltével töröl. 
+
+ Név: Magyar Autókereskedőház Zrt. 
+
+ Székhely: 1112 Bp., Repülőtéri út 6 
+
+ Cégjegyzékszám: 01-10-048433 
+
+ A bejegyző bíróság megnevezése: Fővárosi Törvényszék Cégbírósága 
+
+ Adószám: 25196276-2-43 
+
+ Telefonszám: +36 (20) 257 8998 
+
+ E-mail: info@mahzrt.hu 
+
+ 2.1 Adatvédelmi tisztviselő 
+
+ Név: Borka J. Balázs 
+
+ Telefonszám: +36 (20) 257 8998 
+
+ 3 A kezelt személyes adatok köre 
+
+ 3.1 Megrendelés során megadandó személyes adatok 
+
+ email-cím 
+
+ név 
+
+ cím 
+
+ telefonszám 
+
+ 3.3 Technikai adatok 
+
+ Az Adatkezelő a személyes adatok kezeléséhez a szolgáltatás nyújtása során alkalmazott informatikai eszközöket úgy választja meg és üzemelteti, hogy a kezelt adat: 
+
+ az arra feljogosítottak számára hozzáférhető (rendelkezésre állás); 
+
+ hitelessége és hitelesítése biztosított (adatkezelés hitelessége); 
+
+ változatlansága igazolható (adatintegritás); 
+
+ a jogosulatlan hozzáférés ellen védett (adat bizalmassága) legyen. 
+
+ Az Adatkezelő az adatokat megfelelő intézkedésekkel védi a jogosulatlan hozzáférés, megváltoztatás, továbbítás, nyilvánosságra hozatal, törlés vagy megsemmisítés, valamint a véletlen megsemmisülés ellen. 
+
+ Az Adatkezelő olyan műszaki, szervezési és szervezeti intézkedésekkel gondoskodik az adatkezelés biztonságának védelméről, amely az adatkezeléssel kapcsolatban jelentkező kockázatoknak megfelelő védelmi szintet nyújt. 
+
+ Az Adatkezelő az adatkezelés során megőrzi 
+
+ a titkosságot: megvédi az információt, hogy csak az férhessen hozzá, aki erre jogosult; 
+
+ a sértetlenséget: megvédi az információnak és a feldolgozás módszerének a pontosságá és teljességét; 
+
+ a rendelkezésre állást: gondoskodik arról, hogy amikor a jogosult használónak szüksége van rá, valóban hozzá tudjon férni a kívánt információhoz, és rendelkezésre álljanak az ezzel kapcsolatos eszközök. 
+
+ 3.4 Cookie-k (Sütik) 
+
+ 3.4.1 A sütik feladata 
+
+ A testre szabott kiszolgálás érdekében a felhasználó számítógépén kis adatcsomagot, ún. sütit (cookie) helyez el és a későbbi látogatás során olvas vissza. Ha a böngésző visszaküld egy korábban elmentett sütit, a sütit kezelő szolgáltatónak lehetősége van összekapcsolni a felhasználó aktuális látogatását a korábbiakkal, de kizárólag a saját tartalma tekintetében. 
+
+ Az Adatkezelő által használt süti típusok: 
+
+ oldal működéséhez szükséges cookie-k 
+
+ Biztonságos bejelentkezés, bejelentkezési adatok megjegyzése 
+
+ Feladatok, tranzakciók folyamatának megjegyzése 
+
+ Statisztikai célú webanalitikai mérések 
+
+ a felhasználó érdeklődési körének megfelelő hirdetések megjelenítését lehetővé tevő cookie-k 
+
+ Hirdetések megjelenítése érdeklődési köre alapján a weboldalon 
+
+ Érdeklődési körének megfelelő hirdetések (remarketing) megjelenítése a weboldalon kívül (pl. közösségi oldalak) 
+
+ kényelmi szolgáltatásokat lehetővé tévő cookie-k 
+
+ Emlékeztető küldése a kosárba helyezett termékekről 
+
+ Oldal-használat elemzését lehetővé tevő sütik annak érdekében, hogy testreszabott tartalmat jeleníthessünk meg a weboldalon 
+
+ az Adatkezelő weboldalain mért oldal-használat elemzések, aktivitások felhasználása annak érdekében, hogy személyre szóló ajánlatokkal kereshessük meg a megadott elérhetőségein (amennyiben Ön megadott ilyen elérhetőséget pl. regisztráció során). 
+
+ A cookie beállításokat bármikor megváltoztathatja a böngészőjében (pl. Firefox , Chrome , Safari , Internet Explorer , Microsoft Edge ). 
+
+ 3.5 Online rendeléshez kapcsolódó adatok 
+
+ Vezetéknév* 
+
+ Keresztnév* 
+
+ Telefonszám* 
+
+ E-mail cím* 
+
+ Számlázási cím* 
+
+ * Kötelezően kitöltendő mező 
+
+ 5 Az adatkezelés célja, módja és jogalapja 
+
+ 5.1 Általános adatkezelési irányelvek 
+
+ A Szolgáltató tevékenységének adatkezelései önkéntes hozzájáruláson, illetve törvényi felhatalmazáson alapulnak. Az önkéntes hozzájáruláson alapuló adatkezelések esetében az érintettek e hozzájárulásukat az adatkezelés bármely szakában visszavonhatják. Bizonyos esetekben a megadott adatok egy körének kezelését, tárolását, továbbítását jogszabályok teszik kötelezővé, melyről külön értesítjük ügyfeleinket. 
+
+ Felhívjuk az Adatkezelő számára adatokat közlők figyelmét, hogy amennyiben nem saját személyes adataikat adják meg, az adatközlő kötelessége az érintett hozzájárulásának beszerzése. Az Adatkezelő adatkezelési alapelvei összhangban vannak az adatvédelemmel kapcsolatos hatályos jogszabályokkal, így különösen az alábbiakkal: 
+
+ 2011. évi CXII. törvény - az információs önrendelkezési jogról és az információ-szabadságról (Infotv.); 
+
+ Az Európai Parlament és a Tanács (EU) 2016/679 rendelete (2016. április 27.) – a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK rendelet hatályon kívül helyezéséről (általános adatvédelmi rendelet, GDPR); 
+
+ 2013. évi V. törvény – a Polgári Törvénykönyvről (Ptk.); 
+
+ 2000. évi C. törvény – a számvitelről (Számv. tv.); 
+
+ 2017. évi LIII. törvény – a pénzmosás és terrorizmus finanszírozása megelőzéséről és megakadályozásáról (Pmt.); 
+
+ 2013. évi CCXXXVII. törvény – a hitelintézetekről és a pénzügyi vállalkozások-ról (Hpt.). 
+
+ 6 Az adatfeldolgozó 
+
+ 6.1. Tárhely-szolgáltató 
+
+ Név: Roico NET Kft. 
+
+ Székhely: 1065 Budapest Révai utca 6. fsz. 7. 
+
+ Telefonszám: +36 20 484-43-93 
+
+ E-mail cím: mark@roico.net 
+
+ Weboldal: https://www.roico.net/ 
+
+ Adószám: 25099423-2-42 
+
+ Cégjegyzékszám: 01-09-199662 
+
+ Képviseli: Uszov Márk 
+
+ 6.2. Adatkezelővel szerződéses viszonyban álló, rendszerüzemeltetést végző cég 
+
+ Név: Total Studio Kft. 
+
+ Székhely: 1043 Budapest, Kassai utca 11. 4/ 24. 
+
+ Telefonszám: +36 20 313 9004 
+
+ E-mail cím: info@totalstudio.hu 
+
+ Weboldal: https://www.totalstudio.hu/ 
+
+ Adószám: 14410615-2-41 
+
+ Cégjegyzék szám: 01-09-902605 
+
+ Képviseli: Tamás Gergely 
+
+ 6.3. Az adatfeldolgozó az Adatkezelő tevékenysége során rendelkezésére bocsátott személyes adatok tárolását végzi Adatkezelő részére. Az Adatkezelő a Roico NET Kft. szolgáltató adatkezelése és adatbiztonsága kapcsán sem közvetlenül, sem közvetve nem tartozik felelősséggel, arra kizárólag a Roico NET Kft. adatvédelmi irányelvei és szabályzatai irányadóak. 
+
+ 7 Az adatkezelés során az adatokhoz hozzáférők köre 
+
+ 7.1 Az Adatkezelő alkalmazásában álló, vagy megbízásos szerződésben lévő munkatársak: 
+
+ Borka J. Balázs (gépjármű megrendelés) 
+
+ Bigda Zsuzsanna (gépjármű megrendelés) 
+
+ Mudri Dániel (gépjármű megrendelés) 
+
+ Békési Dorina (gépjármű megrendelés) 
+
+ Szabó Dániel (gépjármű megrendelés) 
+
+ 7.2 Webhely adminisztrációs joggal rendelkező adatfeldolgozók alkalmazásában álló, vagy megbízásos szerződésben lévő munkatársak: 
+
+ 7.2.1. Total Studió 
+
+ Tamás Gergley (webhely adminisztrátor) 
+
+ Kőváry Richárd (webhely adminisztrátor) 
+
+ Barták Iván (webhely adminisztrátor) 
+
+ Ökrös Balázs (webhely adminisztrátor) 
+
+ 8 Érintett jogai és jogérvényesítési lehetőségei 
+
+ Az érintett tájékoztatást kérhet személyes adatai kezeléséről, valamint kérheti személyes adatainak helyesbítését, illetve – a kötelező adatkezelések kivételével – törlését, visszavonását, élhet adathordozási-, és tiltakozási jogával az adat felvételénél jelzett módon, illetve az adatkezelő fenti elérhetőségein. 
+
+ 8.1 Tájékoztatáshoz való jog 
+
+ A Magyar Autókereskedőház Zrt. megfelelő intézkedéseket hoz annak érdekében, hogy az érintettek részére a személyes adatok kezelésére vonatkozó, a GDPR 13. és a 14. cikkben említett valamennyi információt és a 15–22. és 34. cikk szerinti minden egyes tájékoztatást tömör, átlátható, érthető és könnyen hozzáférhető formában, világosan és közérthetően megfogalmazva nyújtsa. 
+
+ 8.2 Az érintett hozzáféréshez való joga 
+
+ Az érintett jogosult arra, hogy az adatkezelőtől visszajelzést kapjon arra vonatkozóan, hogy személyes adatainak kezelése folyamatban van-e, és ha ilyen adatkezelés folyamatban van, jogosult arra, hogy a személyes adatokhoz és a következő információkhoz hozzáférést kapjon: az adatkezelés céljai; az érintett személyes adatok kategóriái; azon címzettek vagy címzettek kategóriái, akikkel, illetve amelyekkel a személyes adatokat közölték vagy közölni fogják, ideértve különösen a harmadik országbeli címzetteket, illetve a nemzetközi szervezeteket; a személyes adatok tárolásának tervezett időtartama; a helyesbítés, törlés vagy adatkezelés korlátozásának és a tiltakozás joga; a felügyeleti hatósághoz címzett panasz benyújtásának joga; az adatforrásokra vonatkozó információ; az automatizált döntéshozatal ténye, ideértve a profilalkotást is, valamint az alkalmazott logikára és arra vonatkozó érthető információk, hogy az ilyen adatkezelés milyen jelentőséggel bír, és az érintettre nézve milyen várható következményekkel jár. Az adatkezelő a kérelem benyújtásától számított legfeljebb egy hónapon belül adja meg a tájékoztatást. 
+
+ 8.3 Helyesbítés joga 
+
+ Az érintett kérheti a Magyar Autókereskedőház Zrt. által kezelt, rá vonatkozó pontatlan személyes adatok helyesbítését és a hiányos adatok kiegészítését. 
+
+ 8.4 Törléshez való jog 
+
+ Az érintett az alábbi indokok valamelyikének fennállása esetén jogosult arra, hogy kérésére a Magyar Autókereskedőház Zrt. indokolatlan késedelem nélkül törölje a rá vonatkozó személyes adatokat: 
+
+ személyes adatokra már nincs szükség abból a célból, amelyből azokat gyűjtötték vagy más módon kezelték; 
+
+ az érintett visszavonja az adatkezelés alapját képező hozzájárulását, és az adatkezelésnek nincs más jogalapja; 
+
+ az érintett tiltakozik az adatkezelés ellen, és nincs elsőbbséget élvező jogszerű ok az adatkezelésre; 
+
+ a személyes adatokat jogellenesen kezelték; 
+
+ a személyes adatokat az adatkezelőre alkalmazandó uniós vagy tagállami jogban előírt jogi kötelezettség teljesítéséhez törölni kell; 
+
+ a személyes adatok gyűjtésére információs társadalommal összefüggő szolgáltatások kínálásával kapcsolatosan került sor. 
+
+ Az adatok törlése nem kezdeményezhető, ha az adatkezelés szükséges: a véleménynyilvánítás szabadságához és a tájékozódáshoz való jog gyakorlása céljából; a személyes adatok kezelését előíró, az adatkezelőre alkalmazandó uniós vagy tagállami jog szerinti kötelezettség teljesítése, illetve közérdekből vagy az adatkezelőre ruházott közhatalmi jogosítvány gyakorlása keretében végzett feladat végrehajtása céljából; a népegészség-ügy területét érintő, vagy archiválási, tudományos és történelmi kutatási célból vagy statisztikai célból, közérdek alapján; vagy jogi igények előterjesztéséhez, érvényesítéséhez, illetve védelméhez. 
+
+ 8.5 Az adatkezelés korlátozásához való jog 
+
+ Az érintett kérésére az Adatkezelő korlátozza az adatkezelést, ha az alábbi feltételek valamelyike teljesül: 
+
+ az érintett vitatja a személyes adatok pontosságát, ez esetben a korlátozás arra az időtartamra vonatkozik, amely lehetővé teszi, a személyes adatok pontosságának ellenőrzését; 
+
+ az adatkezelés jogellenes, és az érintett ellenzi az adatok törlését, és ehelyett kéri azok felhasználásának korlátozását; 
+
+ az adatkezelőnek már nincs szüksége a személyes adatokra adatkezelés céljából, de az érintett igényli azokat jogi igények előterjesztéséhez, érvényesítéséhez vagy védelméhez; vagy 
+
+ az érintett tiltakozott az adatkezelés ellen; ez esetben a korlátozás arra az időtartamra vonatkozik, amíg megállapításra nem kerül, hogy az adatkezelő jogos indokai elsőbbséget élveznek-e az érintett jogos indokaival szemben. Ha az adatkezelés korlátozás alá esik, a személyes adatokat a tárolás kivételével csak az érintett hozzájárulásával, vagy jogi igények előterjesztéséhez, érvényesítéséhez vagy védelméhez, vagy más természetes vagy jogi személy jogainak védelme érdekében, vagy az Unió, illetve valamely tagállam fontos közérdekéből lehet kezelni. 
+
+ 8.6 Adathordozáshoz való jog 
+
+ Az érintett jogosult arra, hogy a rá vonatkozó, általa az adatkezelő rendelkezésére bocsátott személyes adatokat tagolt, széles körben használt, géppel olvasható formátumban megkapja, és ezeket az adatokat egy másik adatkezelőnek továbbítsa. 
+
+ 8.7 Tiltakozás joga 
+
+ Az érintett jogosult arra, hogy a saját helyzetével kapcsolatos okokból bármikor tiltakozzon személyes adatainak közérdekű vagy az adatkezelőre ruházott közhatalmi jogosítvány gyakorlásának keretében végzett feladat végrehajtásához szükséges adatkezelés, vagy az adatkezelő vagy egy harmadik fél jogos érdekeinek érvényesítéséhez szükséges kezelése ellen, ideértve az említett rendelkezéseken alapuló profilalkotást is. Tiltakozás esetén az adatkezelő a személyes adatokat nem kezelheti tovább, kivéve, ha azt olyan kényszerítő erejű jogos okok indokolják, amelyek elsőbbséget élveznek az érintett érdekeivel, jogaival és szabadságaival szemben, vagy amelyek jogi igények előterjesztéséhez, érvényesítéséhez vagy védelméhez kapcsolódnak. 
+
+ 8.8 Automatizált döntéshozatal egyedi ügyekben, beleértve a profilalkotást 
+
+ Az érintett jogosult arra, hogy ne terjedjen ki rá az olyan, kizárólag automatizált adatkezelésen – ideértve a profilalkotást is – alapuló döntés hatálya, amely rá nézve joghatással járna vagy őt hasonlóképpen jelentős mértékben érintené. 
+
+ 8.9 Visszavonás joga 
+
+ Az érintett jogosult arra, hogy hozzájárulását bármikor visszavonja. 
+
+ 8.10 Bírósághoz fordulás joga 
+
+ Az érintett a jogainak megsértése esetén az adatkezelő ellen bírósághoz fordulhat. A bíróság az ügyben soron kívül jár el. 
+
+ 8.11 Adatvédelmi hatósági eljárás 
+
+ Panasszal a Nemzeti Adatvédelmi és Információszabadság Hatóságnál lehet élni: 
+
+ Név: Nemzeti Adatvédelmi és Információszabadság Hatóság 
+
+ Székhely: 1125 Budapest, Szilágyi Erzsébet fasor 22/C. 
+
+ Levelezési cím: 1530 Budapest, Pf.: 5. 
+
+ Telefon: 0613911400 
+
+ Fax: 0613911410 
+
+ E-mail: ugyfelszolgalat@naih.hu Honlap: http://www.naih.hu 
+
+ 9 Egyéb rendelkezések 
+
+ E tájékoztatóban fel nem sorolt adatkezelésekről az adat felvételekor adunk tájékoztatást. 
+
+ Tájékoztatjuk ügyfeleinket, hogy a bíróság, az ügyész, a nyomozó hatóság, a szabálysértési hatóság, a közigazgatási hatóság, a Nemzeti Adatvédelmi és Információszabadság Hatóság, a Magyar Nemzeti Bank, illetőleg jogszabály felhatalmazása alapján más szervek tájékoztatás adása, adatok közlése, átadása, illetőleg iratok rendelkezésre bocsátása végett megkereshetik az adatkezelőt. 
+
+ Az Adatkezelő a hatóságok részére – amennyiben a hatóság a pontos célt és az adatok körét megjelölte – személyes adatot csak annyit és olyan mértékben ad ki, amely a megkeresés céljának megvalósításához elengedhetetlenül szükséges. 
+
+ Model 3 Model S Model X Model Y 
+
+ © 2019-2020 MAHZRT 
+
+ Modellek 
+
+ Model 3 Model S Model X Model Y 
+ Szolgáltatásaink 
+ Tesla hírek 
+ Tesla márkatörténet 
+ Gy.i.k. 
+ TAO támogatás 
+ Nagycsaládos támogatás 
+ Tesla Model S élményvezetés 
+ Kapcsolat 
+
+ Model 3 Model S Model X Model Y

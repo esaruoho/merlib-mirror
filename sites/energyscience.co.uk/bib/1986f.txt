@@ -1,0 +1,12 @@
+1986f 
+
+ 1986f 
+
+ The following text by H. Aspden is an item of Correspondence published in Nature, v. 319, 2nd January 1986 at p. 8.
+
+ EARNSHAW'S THEOREM 
+
+ This theorem is not often mentioned in scientific journals. It denies the possibility that an electric charge can be held stable solely under the electrostatic influence of other electric charge. It was used in a recent letter [Nature v. 317, p. 208; 1985] to refute a case put earlier by Berezin [Nature, v. 315, p.104; 1985]. It is as well to keep in mind that the Reverend Samuel Earnshaw developed his theorem with an eye to the constitution of the aether as a medium comprising a structured system of electric charges, separated by what, presumably, would be regarded as a truly void state of the vacuum.
+ The theorem fails if the charges permeate a charge plenum or continuum having a charge density, because displacement can then be subject to a linear restoring force rate, owing to interaction with this continuum.
+ We have now come to accept that the vacuum medium
+does have some rather special characteristics and a possible structure, so it is not unlikely that it comprises electric charges permeating a charge plenum, notwithstanding the Earnshaw theorem. If this is the case, then the theorem cannot even be applied without some reservation when considering the mutual stability of charge in matter. The support for the structured vacuum is enhanced by the theoretical derivation of the fine-structure constant in terms of the geometrical features of an electrical charge system neutralized by a charge continuum. A value of the fine-structure constant in matching accord with its measurement at the level of one part in ten million has recently been reported from such analysis [Phys. Lett., 110A, 113; 1985].

@@ -1,0 +1,323 @@
+
+<html>
+<head>
+  <title>Gyroscopes - Everything you needed to know</title>
+  <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+  <meta http-equiv="pics-label" content='(pics-1.1 "http://www.icra.org/ratingsv02.html" comment "ICRAonline EN v2.0" l gen true for "no gen term" r (nz 0 vz 0 lz 0 oz 0 cz 0) "http://www.rsac.org/ratingsv01.html" l gen true for "no gen term" r (n 0 s 0 v 0 l 0))'>
+  <META NAME="Author" CONTENT="Glenn Turner">
+  <META NAME="keywords" CONTENT="gyroscope, gyroscopes , gyro, gyros, gyroscopic propulsion">
+  <META NAME="Description" CONTENT="Gyroscopes have many uses, this site explains how a gyroscope works and what they can be used for. The site also looks at the possible uses of gyroscope based propulsion (gyroscopic propulsion). ">
+  <META NAME="Copyright" CONTENT="Copyright 2003 (All Web Pages) by Glenn Turner">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="expires" content="0">
+  <link rel="stylesheet" href="/iesite.css" type="text/css">
+</head>
+<body bgcolor="#000000">
+  <div style="  float: center; margin: 0; border: none; padding: 0; " align=center><center><img src="/header.jpg" alt="" hspace=0 vspace=0 wgith=700 height=111></center></div>
+  <center>
+  <span class="menutitle">
+    <a href="/index.asp"><font color="#DDDDDD">Home</font></a> :
+    <a href="/gallery.asp"><font color="#DDDDDD">Gallery</font></a> :
+    <a href="/history.asp"><font color="#DDDDDD">History</font></a> :
+    <a href="/uses.asp"><font color="#DDDDDD">Uses</font></a> :
+    <a href="/behaviour.asp"><font color="#DDDDDD">Behaviour</font></a> :
+    <a href="/math.asp"><font color="#DDDDDD">Maths</font></a> :
+    <a href="/forum/qa.asp"><font color="#DDDDDD">Forum</font></a> :
+    <a href="/propulsion.asp"><font color="#DDDDDD">Propulsion</font></a> :
+    <a href="/links.asp"><font color="#DDDDDD">Links</font></a> :
+    <a href="/glossary.asp"><font color="#DDDDDD">Glossary</font></a>
+    <br>
+  </span>
+
+  <table border=0 cellpadding=0 cellspacing=0 width="0" height="11">
+  <tr>
+    <td></td>
+  </tr>
+  </table>
+
+
+
+
+
+  <table border=0 cellpadding=8 cellspacing=0 width="700" height="260" bgcolor="#FFFFFF" ID="Table1">
+  <tr>
+    <td valign="top" class="main">
+<table align="center" width="100%" border="0">
+  <tr>
+    <td align="left" width="20%" valign="top">
+      <a href="qa.asp">Main Forum Page</a>
+    </td>
+    <td align="center" valign="middle">
+      
+      <h2 border="0">       
+      The Gyroscope Forum</h2></td>
+    <td align="right" width="20%" valign="top">
+      3 May 2006 11:53
+    </td>
+  </tr>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <p align=left>Welcome to the gyroscope forum. If you have a question about gyroscopes in general,
+      want to know how they work, or what they can be used for then you can leave your question here for others to answer.
+         You may also be able to help others by answering some of the questions on the site.
+      </p>
+      
+      <table width="100%">
+      <tr><td>
+        <form action="qa.asp" method="get">
+        <b>Search the forum: </b><input type="text" value="" name="forumsearch" size=30>&nbsp;<input type="submit" value="Search" name="forumsearchsubmit">
+          <input type=hidden name="forum" value="">
+        </form>
+      </td><td>
+        
+        <form action="askquestion.asp" method="post">
+        <input type="submit" value="Ask a new Question" name="forumsearchsubmit">
+        </form>
+        
+      </td></tr>
+      </table>
+      <hr width=100%>
+    </td>
+  </tr>
+</table>
+
+<table align="center" border="0" width="95%">
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><h3>Question</h3></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Asked by:</b></td>
+    <td align="left" colspan="2" valign="top">A Breaks</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Subject:</b></td>
+    <td align="left" colspan="2" valign="top">Forced precession and conservation of energy</td>
+  </tr>
+  <tr>
+    <td align=right class=medium valign="top" nowrap><b>Question:</b></td>
+    <td align=left class=medium valign="top" width="400" colspan="2">My thought experiment involves a pair of gyroscopes (flywheels) sharing the same axis of rotation but spinning in opposite directions and locked into a frame forcing the gyros to have the same axis.  If one tried to change the common axis of rotation within this system would there be any apparent opposing force or would it "feel" like the gyro's were not even spinning at all since the precessional torque counter each other?  If one feels an opposing force and does work continually to shift the axis of rotation, where does that energy go?  Does it inductively spin up the gyro's?<br>
+<br>
+The apparatus proposed could be made by wiring two toy gyroscopes into a metal frame with the axis parallel.  If I spun the gyro's up in opposite directions and started rotating the frame around, would I feel any resistance besides the static intertia (mass) of the object?</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Date:</b></td>
+    <td align="left" colspan="2" valign="top">1 September 2005
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2><hr width=100%></td>
+  </tr>
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><br><h3>Answers (Ordered by Date)</h3><br></td>
+  </tr>
+  <tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 01/09/2005 23:21:44
+</td></tr><tr><td>&nbsp;</td><td>Hi Breaks,<br>
+ <br>
+Good idea. Its what everyone here seems to want to do, but in more complicated and sometimes terribly complicated and clever ways to deal the many problems such as the one below.<br>
+<br>
+Suppose your gyros share a common pedestal, or vertical shaft. Both gyros would rise until they meet resistance. The resistance can come from the frame or box, or it can come from the gyros rising into each other. As soon as any resistance is encountered an equal opposite force, also curving, is exerted in the area of the pivot. Youd then have an equal couple (twisting gyros) and if all the forces involved, rotation too, were exceedingly powerful enough your gyros would bend and crumble or break little bolts lose, but in any case no propulsion of any kind would be realized.<br>
+<br>
+Where dose the energy go? Walk into a medal door casing and with both hands try to push it apart like Samson. The molecular bonding of the frame holds it together and construe and equal resistance to equal force. Your strength is wasted, though the energy will be conserved in some way or another. Force and energy upon your gyro will do the same thingthat is be countered by an equal force, yet the energy is conserved, but finding how it is done can waste a lot of your time and this I can attest to having traced forces into corners many times to find the method of conservation. It can be very trying work. It can sometimes be so hard and take a long time and may sometimes, but not usually be worth the effort you put into it. It depends on how much you need to know and why. Energy is conserved. This you knew. Is that enough?<br>
+<br>
+Would you feel any resistance? Yeah! Force must be constantly supplied to your twisting shaft. The motor used will twist in the opposite direction no mater how you place it and with equal force. Youd have to grip the box tight. Otherwise (vertically and horizontally) you shouldnt feel a thing though mass is moved upward till it is resisted and that is a strange phenomena of a gyroscope.<br>
+<br>
+' Dont know if I helped enough. Maybe. <br>
+I thought I could do this in five or six short sentences. Humph!<br>
+Hawkins<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>A Breaks</b> - 02/09/2005 14:44:52
+</td></tr><tr><td>&nbsp;</td><td>Hmmm....  that is really a third scenario (compared to my two above) which I need to understand - internalize.  The gyros don't spin up and it takes work to alter the gyros axis but the work is dissipated as structural deformation/friction/etc?<br>
+<br>
+That doesn't seem right to me.  If I try to push against opposite sides of a doorframe and they do not move then the effort is indeed wasted.  But if my gyros are mounted in a thick frame, are not spinning especially fast, and on strong bearings both in the gyro and on the gimbols then it simply can't go into structural deformation.<br>
+<br>
+In the doorframe example the acting force does not express itself across a distance.  There isn't a force x distance = work type of classical expression of energy.  If my gyro frame resists twisting and I twist it anyhow then I have done classical physics work.  Where did it go?  Don't tell me that the device will simply fall because I can choose ANY gyro speed to begin with.  If the gyros are only spining slowly then the force can be made to be well within the physical limits of the structure.<br>
+<br>
+The answer it this question can only be that there is no force because the precession cancels (the moments of interia of each gyro are vectors in opposite directions and cancel) or the gyros speed up.  I am suggesting the former case is probably true.<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 02/09/2005 15:51:49
+</td></tr><tr><td>&nbsp;</td><td>Hi Beraks,<br>
+<br>
+Have at it. When your finished let me know what happened.<br>
+<br>
+Honestly, I wish you good luck,<br>
+Hawkins<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>A Breaks</b> - 02/09/2005 16:22:04
+</td></tr><tr><td>&nbsp;</td><td>I appeciate it.  I have looked through lots of site on gyroscopes and the answer really seems to be a mystery, which is rally shocking, honestly.  The system I am proposing is pretty simple.<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Nitro MacMad</b> - 02/09/2005 21:25:47
+</td></tr><tr><td>&nbsp;</td><td>Dear A Breaks,<br>
+<br>
+This is not much of a mystery or anything particularly shocking, its just somewhere that most have not bothered to go.<br>
+<br>
+If I understand you correctly, two contra rotating gyros are to be mounted on the ends of a cross shaft of a T arrangement with the vertical shaft of the T then being rotated.  <br>
+<br>
+If the cross shaft is solid, the arrangement will act as though the gyros were simple weights due to Nitros 1st law (a gyro will precess every damn force acting to change its axial angle, not just the force you happen to have thought of).  The precession of the gyros is resisted by the solid cross shaft not being able to rise.  That resistance is in turn precessed into resistance to the rotation of the vertical shaft of the T and so on and so on  The net result of all this, as you will see if you follow it through, is that the gyros in such an arrangement will seem to be behaving like non rotating masses and therefore the input energy (or resistance to rotation that you would feel) is the same as that of non rotating masses.<br>
+<br>
+If the T arrangement were to have the cross shaft hinged to the vertical shaft to allow the gyros axes to rise, then the amount of energy input required (or resistance you would feel) turning the vertical (as well as that needed to overcome inertia) shaft would be equal to that needed to lift the gyros through the same distance.  <br>
+<br>
+Bloody conservation stuff, gets (almost) everywhere and bloody Nitros 1st law seems to be ubiquitous.<br>
+<br>
+Kind regards<br>
+NM<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 02/09/2005 23:04:02
+</td></tr><tr><td>&nbsp;</td><td>Dear Nitro,<br>
+<br>
+I think I misunderstand you, but youve sure captured my attention a lot.<br>
+<br>
+Did you mean that no constantly applied force is unnecessary to keep your active gyros T-shaft rotating, except that amount necessary to compensate for air and bearing resistance?<br>
+<br>
+Would you say that if you stuck the T-shaft inside a vertical, linear sleeve bearing bolted to a table and then shoved the structure into rotation it would keep rotating till mire friction slowed it down?<br>
+<br>
+I havent tried it, but I keep thinking of a ships stabilizers. If this is your finding tell us more.<br>
+<br>
+Hi Breaks,<br>
+<br>
+Your top of the T is two shafts hinge to the bottom shaft so they can move upwards, right?<br>
+<br>
+By the way. You wont find anything in physics that says force is not exerted on the doorframe. The sweat on your brow will tell you that calories are burned and energy created and applied. Work energy is a measurement of reaction, movement. Kinetic energy is potential energy contained, capable of producing work energy. Sweat is sweat. Energy is used against the frame no mater that we dont measure it that way. Some of us think, at least I think that the energy is perhaps transported and conserved in the atomic structure of body and frame in some mysterious way as kinetic energy. Weve done some work on it, not a great deal. We sure dont know.<br>
+<br>
+Best Regards to you both,<br>
+Hawkins<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Momentus</b> - 04/09/2005 21:41:42
+</td></tr><tr><td>&nbsp;</td><td>Hi Breaks,<br>
+<br>
+I have given a lot of thought to an arrangement of paired gyroscopes which may be the same, or similar to your thought experiment. Even started to build one, but got distracted, so never got to test my ideas.<br>
+<br>
+The model had two flywheels fixed in a rectangular frame, axles parallel, wheels in line, like a bicycle. There was a central pivot at each end of the frame. (at the headlamp and tail light) ----OO---- Something like that. Call it the long axis.<br>
+<br>
+The wheels contra rotated (touched at the rim) so that spinning them up caused no overall change in momentum, and then the frame was rotated to create a couple to be absorbed by the frame.<br>
+<br>
+Once the flywheels were up to speed, the model was to rotate about he long axis. This was the precessional axis. Therefore rotation about this axis meets no resistance from the opposed gyroscopes. The parallel axels exert equal and opposite couples, reacted by the frame. Or if you wish the same motion can be described as the precession is induced by the reacted couples in the frame.<br>
+<br>
+As there is no resistance to the rotation about the precession axis, no energy exchange occurs into or from the system. Therefore, increasing the precession speed increases the reacted couple, but reduces the spin speed of the flywheels, conserving energy, and also limiting the maximum value of the couple.<br>
+<br>
+There comes a change over point in this change of speed from the spin axis of the flywheel to the spin axis of precession, and the axis switch over. In the ultimate, the flywheels cease to spin about their axles, and revolve about what was originally the precession axis.<br>
+<br>
+This final spin speed is determined by the moment of inertia about the long axis, such that energy is conserved.<br>
+<br>
+Angular momentum is however not conserved, as the flywheels no longer contra-rotate.!!!!!!!<br>
+<br>
+The experiment can be run backwards. The initial condition being both flywheels stationary about there axles and spinning about the long axis.<br>
+<br>
+If the flywheels are now induced to spin about their own axles, the axles become the precession axis, which sets up a couple in the frame, which in turn precesses the flywheels. There is no energy required to spin the flywheels as it is transferred from the rotation about the long axis.<br>
+<br>
+The change over point is as before but the final condition is a pair of equal and opposite rotating flywheels.  More bad news for the conservationists!!<br>
+<br>
+If you are contemplating the construction of this device, I will be fascinated to hear of the outcome.<br>
+<br>
+Momentus. <br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Luis Gonzalez</b> - 05/09/2005 16:31:38
+</td></tr><tr><td>&nbsp;</td><td>I have a question for Nitro,<br>
+On your 02/09/2005 21:25:47 response you made the statement <the amount of energy input required (or resistance you would feel) turning the vertical (as well as that needed to overcome inertia) shaft would be equal to that needed to lift the gyros through the same distance.>   <br>
+I am curious if this was just a generic statement or if it always applies regardless of the speed at which the gyro is rotating.   <br>
+I believe the sum of the moments of inertia is higher for a faster spinning gyro than for one that is spinning at a lower speed.  On the other hand, the same gyro will always weigh the same despite the speed at which it is spinning. <br>
+Am I wrong, or was your answer delivered with just sufficient accuracy required for his question?<br>
+The discrepancy (if it exists) could be significant for the internal-propulsion effort.<br>
+Regards,<br>
+Luis<br>
+P.S. did not mean to interrupt this most interesting thread of discussion. Thank you.<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>A Breaks</b> - 07/09/2005 13:23:20
+</td></tr><tr><td>&nbsp;</td><td>My arrangement is essentially the same as Momentus.  It would not have any hinged joints.<br>
+<br>
+The results of Momentus' experiments bascially confirm the scenario that the stiff frame simply allows the two gyros to counteract each other's forces with no net force or resistance.  I don't totally understand the contra conservation arguement.  I was just looking for ways to inductively spin up a gyroscope and I guess I'm still looking.<br>
+<br>
+My intuition was that the strong resistance to changing the axis of rotation might mean that forcing that change would create energy that had to go somewhere.  The only place I could see storing that energy was the spinning mass by accelerating it.<br>
+<br>
+PS I love Nitro's law.  It really does capture the bizarre behavior of spinning gyros.  That must be why they inspire such imagination and experimentation.<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Momentus</b> - 07/09/2005 19:35:33
+</td></tr><tr><td>&nbsp;</td><td>Hi Breaks<br>
+<br>
+http://www.gadgetstuff.com/product.asp?id=10118&ms=adwords_powerball<br>
+<br>
+Take look at this toy, I think it is what you are looking for- changing torque to spin.<br>
+<br>
+The lack of angular conservationis a result of the wheels having no net momentum at the start, but a shed load at the finish, both wheels rotationg about the long axis.<br>
+<br>
+Momentus<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>A Breaks</b> - 08/09/2005 21:19:09
+</td></tr><tr><td>&nbsp;</td><td>I have seen that toy.  Unfortunately, the explanation I have heard for how it works doesn't have anything to do with forced precession.  It has to do with how the precession forces the axis of rotation to press into a special groove.  I can't explain it very well but I read the same type of explanation a few times.  Maybe they are all getting it wrong?<br>
+<br>
+Maybe it is worth buying one and taking it apart - but yea.... that is the idea I am trying to systematize.<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Nitro MacMad</b> - 11/09/2005 23:58:01
+</td></tr><tr><td>&nbsp;</td><td>Dear Glenn Hawkins,<br>
+<br>
+Yes, I believe that mere friction would be the only thing to slow the assembly down.<br>
+<br>
+<br>
+Dear Momentus,<br>
+<br>
+<Therefore, increasing the precession speed increases the reaction couple, but reduces the spin speed of the flywheels,><br>
+<br>
+Have you seen anything to make you think that the spin speed of the flywheels would reduce under such circumstances?<br>
+<br>
+Dear Luis,<br>
+<br>
+My apologies for throwing in only vaguely thought out responses based on the results of very old experiments perhaps, worse, based on false memories.  However, I am pretty sure that the amount of energy (not force  note!) statement is right. The bracketed comment, about the resistance felt, is incomplete as it has no reference to the amount of energy input or resultant speed or amount of mass displacement but then this was only intended to give a feel for what happens.  <br>
+<br>
+A gyro transits from being a dead lump of Newtonian reactive mass to being a gyrodynamic reactive mass when it is rotating fast enough to be able to precess a given force (probably the one you first think of).  That transition point depends on the spin, mass and diameter of the gyro and (this I keep forgetting!) the force applied to change its axial angle.  <br>
+<br>
+Because of this transition from Newton to Gyro you can (or at least I can - often) convert a machine that makes nice but small amounts of unidirectional impulses into a useless but interestingly complicated demonstration of Newtonian physics.  <br>
+<br>
+Often it will not be until after you have destroyed the machine, your self-confidence, your shed and your marriage (luckily for me my wife is either very understanding or too thick to realise that shes married a nutter in a shed  I prefer inventive genius ) that you will realise that you have been too keen to increase output and have shoved so much precessing force into the machine that it has dropped out of the gyro zone back into the Newton zone. <br>
+<br>
+Dear A Breaks (again),<br>
+<br>
+I do not believe that an arrangement of gyros with their precession constrained will allow the mass displacement needed for impulse drive and will not create energy. <br>
+<br>
+Kind regards<br>
+NM<br>
+<br>
+  <br>
+<br><br></td></tr>
+<tr>
+<td align="center" colspan="2"><a href="answerquestion.asp?id=460">Add an Answer &#062;&#062;</a></td></tr>
+</table>
+    </td>
+  </tr>
+  </table>
+  
+  <font class="copyright">
+  Website. Copyright &copy; 2006 Glenn Turner. All rights reserved. <a href="/site.asp">site info</a><br>
+     Do not copy without prior permission. Click here for <a target="gyroscopeproducts" href="http://www.gyroscope.com/" alt="Gyroscope products">gyroscope products</a> 
+   
+  </font>
+</center>
+
+</body>
+</html>

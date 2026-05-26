@@ -1,0 +1,127 @@
+
+<html>
+<head>
+  <title>The Gyroscope - Everything you needed to know</title>
+  <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+  <meta http-equiv="pics-label" content='(pics-1.1 "http://www.icra.org/ratingsv02.html" comment "ICRAonline EN v2.0" l gen true for "no gen term" r (nz 0 vz 0 lz 0 oz 0 cz 0) "http://www.rsac.org/ratingsv01.html" l gen true for "no gen term" r (n 0 s 0 v 0 l 0))'>
+  <META NAME="Author" CONTENT="Glenn Turner">
+  <META NAME="keywords" CONTENT="gyroscope, gyroscopes , gyro, gyros, gyroscopic propulsion">
+  <META NAME="Description" CONTENT="The Gyroscope has many uses, this site explains how a gyroscope works and what it can be used for. The site also looks at the possible use of gyroscope based propulsion (gyroscopic propulsion). ">
+  <META NAME="Copyright" CONTENT="Copyright 2003 (All Web Pages) by Glenn Turner">
+  <link rel="stylesheet" href="/iesite.css" type="text/css">
+</head>
+<body bgcolor="#000000">
+  <div style="position: absolute; top: 2; width=100%; z-index: 1"><center><img src="/header.jpg" alt="" hspace=0 vspace=0 width=700 height=111></center></div>
+
+  <table border=0 cellpadding=0 cellspacing=0 width="0" height="96">
+  <tr>
+    <td></td>
+  </tr>
+  </table>
+
+  <center>
+  <span class="menutitle">
+    <a href="/index.asp"><font color="#991111">Home</font></a> :
+    <a href="/gallery.asp"><font color="#991111">Gallery</font></a> :
+    <a href="/history.asp"><font color="#991111">History</font></a> :
+    <a href="/uses.asp"><font color="#991111">Uses</font></a> :
+    <a href="/behaviour.asp"><font color="#991111">Behaviour</font></a> :
+    <a href="/math.asp"><font color="#991111">Maths</font></a> :
+    <a href="/forum/qa.asp"><font color="#991111">Forum</font></a> :
+    <a href="/propulsion.asp"><font color="#991111">Propulsion</font></a> :
+    <a href="/links.asp"><font color="#991111">Links</font></a> :
+    <a href="/glossary.asp"><font color="#991111">Glossary</font></a>
+    <br>
+  </span>
+
+  <table border=0 cellpadding=0 cellspacing=0 width="0" height="11">
+  <tr>
+    <td></td>
+  </tr>
+  </table>
+
+
+
+
+
+  <table border=0 cellpadding=8 cellspacing=0 width="700" height="260" bgcolor="#FFFFFF" ID="Table1">
+  <tr>
+    <td valign="top" class="main">
+<table align="center" width="100%" border="0">
+  <tr>
+    <td align="left" width="30%" valign="top">
+      <a href="qa.asp">Main Forum Page</a>
+    </td>
+    <td align="center" valign="middle">
+      <h2 border="0">The Gyroscope Forum</h2></td>
+    <td align="right" width="30%" valign="top">
+      15 August 2003 18:08
+    </td>
+  </tr>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <p align=left>Welcome to the gyroscope forum. If you have a question about gyroscopes in general,
+      want to know how they work, or what they can be used for then you can leave your question here for others to answer.
+         You may also be able to help others by answering some of the questions on the site.
+      </p>
+      <p>
+      To buy a gyroscope visit <a href="http://www.gyroscope.com/">www.gyroscope.com</a><br>
+
+      </p>
+      <b>To ask a question <a href="askquestion.asp">click here</a></b><hr width=75%>
+    </td>
+  </tr>
+</table>
+
+<table align="center" border="0" width="95%">
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><h3>Question</h3></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Asked by:</b></td>
+    <td align="left" colspan="2" valign="top">jo</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Subject:</b></td>
+    <td align="left" colspan="2" valign="top">How does a gyroscope work?</td>
+  </tr>
+  <tr>
+    <td align=right class=medium valign="top" nowrap><b>Question:</b></td>
+    <td align=left class=medium valign="top" width="400" colspan="2">What is a gyroscope?</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Date:</b></td>
+    <td align="left" colspan="2" valign="top">1 April 2003</td>
+  </tr>
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><br><h3>Answers</h3></td>
+  </tr>
+  <tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Dan Lane</b> - 01/07/2003 13:18:19
+</td></tr><tr><td>&nbsp;</td><td>Like the other chap said it works by precession, although a little more could be said. To help with the understanding of a gyroscope it is useful to consider a "spinning top" whereby, to set the top in motion a force is applied to the axis. However, instead of a horizontal rotational (torque) force being applied, there is also downward pressure by your fingers introducing a vertical torque force giving the top nutation (wobbling). Gravity then accentuates this vertical torque until eventually the top stops due to friction! OK so all well and good, the point to consider here with a top is, that its axis isn't fixed like a gyroscopes, the plane of the top (looking at it sideways) changes angles up and down due to the force already explained. With a gyroscope there is no torque as the axis is held firm - no nutation in the "top" component of the gyroscope. However, when we place the gyroscope on a stand with it spinning, its axis is no longer fixed, and we let go, we would assume gravity to pull the gyroscope down. In fact gravity is doing its job, but it has a further force to contend with! When we let go of the gyroscope there is an instant downward torque just like the example we looked at in the "spinning top" whereby in that case, the force was contributed by our fingers, in this case gravity is responsible for the instant torque. So, the gyroscope does begin to fall with gravity, but it also starts to rotate (the whole gyroscope) about a centre of gravity i.e the stand. This movement is analogous to the precessional movement actually seen in the gyroscope "top" although hard to see as it is fixed in the bearings. This gives the gyroscope a component of motion around the vertical axis, as it would have in steady precession. This component of motion actually "overshoots" the precessional velocity, and the axis actually rises again to the level at which it started. So the gyroscope moves in a strange cycloid path (the path taken by a pebble stuck in the tread of a tyre). The slower the top spins the more obvious the nutation is, just as we would see in the "spinning top" example but about the vertical axis on the floor. In this case, as the wheel spins slowly the nutation is increased and demonstrated in the mechanism by this cycloid path. It is helpful to imagine the nutation in the "spinning top" example creating perfect "circles" about the floor it is spinning on. In the case of the gyroscope the "floor" can be imagined as the fixed vertical stand upon which the gyroscope sits with its axle. We have a vertical "floor" strange as it may seem for an analogy! Well instead of nice perfect circles about a centre; gravity constricts our perfect circles in the gyroscope example to a cycloid path shown in the free end of the gyroscope axle (the end not connected to the stand).<br>
+At this point we need to ask ourselves a question. If there is no change in the angular momentum how is it able to precess (there is no change because the axis of the gyroscope is fixed in the bearings so there is no additional torque). The answer to this lies in the gyroscope yielding to gravity and dropping the angle of its axis. Where we looked at the cycloidal motion of the free end of the axle of a gyroscope, its movement initially is great but given time will level out a bit until the movement cannot be discerned (it is still there!). At this stage the angle is low i.e not in the vertical which gives the angular momentum the extra force needed for precession the vertical component. It has to go down a bit to go around. <br>
+As much as I would like to give myself credit for this write up, alas I cannot. The information is loosely translated from Richard Feynman's Lectures in Physics vol.1 pg 20-7. I have interpreted what I think is presented on these pages but interpretation is open to error. If you wish to understand in absolute detail with confidence in the information please read his  excellent lectures series.<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>chris</b> - 21/05/2003 15:16:00
+</td></tr><tr><td>&nbsp;</td><td>A gyroscope works by precesion. Its movements and what it can do my seem weird but it all it is doing is following Newtons law of movement.<br><br></td></tr>
+<tr>
+<td align="center" colspan="2"><a href="answerquestion.asp?id=31">Add an Answer&#062;&#062;</a></td></tr>
+</table>
+    </td>
+  </tr>
+  </table>
+  
+  <font class="copyright">
+  Webpage. Copyright &copy; 2003 Glenn Turner. All rights reserved. <a href="/site.asp"><font color="#991111">more info</font></a><br>
+     All other images/content copyrighted to the designated owners,<br>
+      and must not be reproduced or distributed without prior permission. 
+  </font>
+</center>
+
+</body>
+</html>

@@ -1,0 +1,42 @@
+Gravitation (Contents) 
+
+Page 40/41/42 of the book: 
+
+ GRAVITATION 
+
+..... for a third constituent in this vacuum system. We need something, something which will develop minimal electric disturbance. This is our clue to unravel the mysteries of the nature of gravitation. All we can look to are electric charges of some kind. They must have mass and if they are to have little electrical effect they must be rather massive particles so that they offer maximum dynamic balance for least electrical interference. Our hypothesis is that there is another particle system defining what we will call the G frame. This G frame moves in dynamic balance with the E frame and comprises particles which we will term gravitons. There will be relatively few gravitons compared with the q charge population. Since the force interaction on q acts from the continuum charge a the gravitons are deemed to be locked into the continuum system. In other words, they have a common motion. Also, it seems likely that the charge of the graviton will be of the same polarity as the continuum and that its value will be the usual quantum found in particle physics, that of the electron or positron. Indeed, we will find that the q charge is identical to that of the electron when we come to quantitative explanations. 
+
+It is emphasized that although this argument may seem to be highly speculative it is in fact the direct result of 
+(a) denying the possibility of negative interaction energy on an absolute basis so as to avoid the problems of continuously collapsing electrical space, 
+(b) recognizing that a non-negative interaction energy implies displacement and so cyclic motion of charge in a space permeated by negative potential regions, and 
+(c) finding a dynamically-balanced system consistent with a structured space in which energy conditions have optimized. 
+
+On such assumptions we can explain gravitation and many other phenomena, particularly the formation of elementary particles. Results flow logically from analysis based upon an amplification of the following style of reasoning. 
+
+Since the vacuum medium has a uniformity of property it is likely to have some features of the fiuid. Given a system of electric charges populating this fluid we can expect the charges to have a quasi-stability of their own and be of varied sizes plus one basic kind determined by the equilibrium condition or pressure of the fluid. Hence the q particles can be of this latter variety, as we further discuss in Appendix 1. All other particles will lack the natural stability of the q particles and will need to be created and re-created as they undergo decay. Hence we expect there to be few particles in the vacuum other than the q particles. We expect the vacuum state to order itself into a state of balance which is as near uniform as possible since this is consistent with optimum energy criteria. In finding a particle system to constitute the G frame it is to be expected that, as minimum disorder comes from fewer particles, so the G frame particles will be the most massive which can be created and have good stability. In this we are, of course, speaking of particles created from single charges and not composite systems or atoms. 
+
+This discussion indicates that energy can be exchanged between the various constituents of the vacuum state as the system finds its balance and its equilibrium. This helps us develop a better understanding of the vacuum medium. It is easy to show that if mass energy can be exchanged between the two dynamically-balanced systems, the E frame and the G frame, orbiting about a common inertial frame and there is energy equilibrium with surrounding space then they will apportion their masses equally and be equidistant from the centre of inertia. 
+
+Note that the separation between the G frame and the E frame is determined by the displacement between the charges q and the continuum. Let x now be the E frame orbit radius and y the G frame orbit radius. Let M e denote the mass of the E frame and M g a balancing mass of the G frame. Define r and s by the relations: 
+
+ x = r(1 - s) 
+ y = r(1 + s) 
+so that: 
+ x + y = 2r 
+
+Since x + y is a constant, it being the displacement to assure the zero interaction energy condition, r is fixed and only s can be deemed variable. For dynamic balance: 
+ M e x = M g y 
+which is assured if: 
+ M e = M o /(1 - s) 
+ M g = M o /(1 + s) 
+where M o is a constant. Combining these last two expressions: 
+ M e + M g = 2M o /(1 - s 2 ) 
+which, for minimum mass energy consistent with a state of balance, requires that s must be zero. Thus both the E frame and the G frame orbit at the same radius r relative to the inertial frame. 
+
+From what has been said above the G frame will generate but a minor disturbance of the electrical system of the structured E frame. Hence if particles of matter are present we may ask whether these interact with and disturb in some way either of these frames. Consideration then shows that the actual structure of atomic nuclei is intimately dependent upon the tendency of matter to move with the E frame. For the present purposes, however, we will merely assume that matter will tend to move with the E frame. Conversely, bulk matter will share the motion of the E frame and can determine the lateral motion of the E frame lattice relative to the continuum. This helps us to understand why, as we have seen from the analysis of the Michelson-Morley result in chapter 1, light travels at a fixed speed relative to the lattice and so relative to the earth frame for measurements here on earth. 
+
+The cyclic motion of elements of matter with the E frame develops out-of-balance and, by the mechanism just discussed, the G frame has to adjust to provide local mass balance. It is the presence of this balancing mass and the storage of the related energy by the gravitons of the G frame that account for the action of gravitation. The balancing energy stored on the gravitons modifies the electrical properties of the vacuum medium in the vicinity of these gravitons. Electrodynamic effects are developed and we find that the force of gravitation is an electrodynamic interaction force seated in the graviton system. The calculation of G, the constant of gravitation, is not an easy task, but it is possible if we can determine the dimensions of the vacuum lattice structure and the mass of the graviton. 
+
+End of page 42.
+
+

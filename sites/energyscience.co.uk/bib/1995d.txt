@@ -1,0 +1,12 @@
+1995d 
+
+ 1995d 
+
+ The following is a U.K. Patent granted to Harold Aspden on May 8, 1996 with a first publication date of December 6, 1995.
+ U.K. PATENT NO. 2,289,994 
+
+ 'MAGNETIC RELUCTANCE MOTOR' 
+
+ Abstract : A magnetic reluctance motor has a salient pole rotor 3 interacting with stator poles 1, 2 to form a machine operating on the magnetic reluctance principle. The machine incorporates a shaded-pole feature by introducing an angle of inclination between laminar structures forming the rotor and stator cores. This performs eddy-current screening restricting magnetic flux transit between poles as they separate. It allows the magnetic attraction between poles during the approach phase to drive the motor.
+
+This patent is based on the same disclosure as that of U.K. Patent No. 2,287,134. The tilted stator poles provide the shaded-pole feature, whereas the other patent concerns the feature of the single solenoidal winding 5 which is powered to drive the machine.

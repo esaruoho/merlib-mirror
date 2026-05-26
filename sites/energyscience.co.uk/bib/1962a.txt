@@ -1,0 +1,12 @@
+1962a 
+
+ 1962a 
+
+ The following is a U.K. Patent Application filed on February 14, 1958 by The English Electric Company Limited, Harold Aspden being one of the three co-inventors. It was published on February 28, 1962.
+ U.K. PATENT NO. 890,308 
+
+ 'ELECTRICAL PHASE ANGLE COMPARATORS' 
+
+ Commentary : This is a patent having quite broad claim coverage relating to electrical control systems which respond according to the phase angle between two alternating signals. 
+
+Claim 1 reads: A phase angle comparator comprising reactive circuit means for shifting the phase angle between two alternating electrical signals by a predetermined amount and polarity sensitive electrical circuit means for determining the sense of the polarity change of one of the signals whilst the other signal has a chosen polarity.

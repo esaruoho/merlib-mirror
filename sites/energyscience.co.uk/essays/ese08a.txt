@@ -1,0 +1,305 @@
+ESSAY NO. 8A 
+
+ ENERGY SCIENCE ESSAY NO. 8A 
+
+ Cold Fusion: My Story: Part II 
+
+ Copyright &copy; Harold Aspden, 1998 
+
+ This is a chronological account of my experience to date in seeking the grant of a patent on the subject of 'cold fusion', by application to the United States Patent Office. The invention in its primary form is that disclosed in the British Patent Application discussed in Cold Fusion: My Story: Part I as illustrated there by the Fig. 1 illustration of the granted British Patent No. 2,231,195. 
+
+ February 16, 1990 
+The application as filed on this date was assigned its U.S. Serial No. 07/480,816. It was based on a claim to the priority date of the above-referenced British Patent Application by virtue of the International Convention applicable to patent rights.
+
+ March 2, 1990 
+The United States Patent Office (USPTO) advised that the subject matter of the application appeared to be useful in the production or utilization of nuclear material or atomic energy. To head off a 'Formal Requirement' being issued within 45 days, requesting the filing of an oath or declaration describing the circumstances giving rise to the invention, I duly confirmed that "I had made and conceived the invention on my own time using my own facilities, funds, information etc." I added that was a retired scientist with a Visiting Senior Research Fellow connection with Southampton University in England, but had no contractual ties with the university.
+
+ February 19, 1992 
+The USPTO issued the first Office Action. All 17 claims were rejected. It was said that claims 1-9 were drawn to 'apparatus', and claims 10-17 to a 'method'. These were deemed to be two inventions. The Examiner said that the inventions were 'distinct' and would need different classification for search purposes, which meant I must choose by restricting to one of these two categories. 
+
+The Action further declared that a choice had to be made of one of three species, so proceeding either with the embodiment shown in Fig. 1 or that shown in Fig. 2 or that shown in Fig. 3. 
+
+The Action went on to say that if the first specie choice was made I must restrict the claims to either the embodiment where the hydrogen isotope-containing fluid is a liquid or the embodiment where the hydrogen isotope containing fluid is a gas. Subject to that choice I was required further to elect one of the following disclosed species for prosecution on merit, namely the embodiment where the conductor is hollow or the one where the conductor is solid. 
+
+Examiner Harvey Behrend had been assigned and the above were his requirements. A shortened statutory period for reply was allocated, this being 30 days from the date the Examiner's Office Action was issued. Note that I live in England and was handling this application myself and postal communication both ways across the Atlantic does eat into that thirty day period. 
+ February 24, 1992 
+Acting like lightning I made my response and mailed it to the USPTO on this date. 
+I made the appropriate elections, based on Claims 1-9, Fig. 1, the hydrogen isotope containing fluid being a liquid and the conductor being of solid form. I also submitted some minor corrections with a modest revision of claim, substituting new Claims 18-21 for Claim 6. 
+
+ June 15, 1992 
+Examiner Behrend issued his second Office Action. Although I had air-mailed my reply to the first Action on February 24 it was stated by the USPTO that it was not received until March 6. This second Action gave me 3 months for response. It declared that Claims 1, 2, 5, 18-21 were all allowed, seemingly an error, because the Examiner's commentary appended to the communication was a very substantial document that attacked my application. I counted 36 items in the package of 'prior art' cited. Of these, only 10 items were patent specifications which were 'prior art', as understood by that term in the patent profession. The rest, mainly journalistic comment about cold fusion, were items published after the priority date on which I was basing my claim. 
+
+Some of the key features of the Examiner's remarks, spread over 14 pages, were as follows. 
+1. 'There is no reputable evidence of record to support any allegations that the invention involves nuclear fusion nor that any of the allegations or claims of "excess heat" due to nuclear and/or chemical reactions are valid and reproducible, nor that the invention as disclosed is capable of operating as indicated and capable of providing useful output.' In short, I was told that my invention had not been tested and proved operative by what was of record in the 'prior art'. Had it been, then the Examiner would have been in his rights to reject my patent application by citing that specific prior art. 
+
+2. 'The invention is based on the "cold fusion" concept set forth by Fleischmann and Pons (F & P) (see March 24, 1989 article by D. Braaten). This "cold fusion" concept is still no more than just an unproven concept'. This statement was backed up by references to laboratories that had performed tests to confirm the F & P claims, but 'It was also the general consensus of those working at these various laboratories that there is no reputable evidence of neutron, gamma ray, tritium or helium production to support the allegation or claim that nuclear fusion is taking place, nor is there any reputable evidence to support the allegation or claim made to excess heat production.' 
+
+3. 'Claims 1, 2, 5, 18-21 are rejected under 35 U.S.C. 101 because the invention as disclosed is inoperative and therefore lacks utility.' 
+
+4. 'Applicant at best has set forth a what may be considered a concept or an object of scientific research. However, it has been held that such does not present a utility within the meaning of 35 U.S.C. 101. See Brenner v. Manson, 148 U.S.P.Q. 639.' 
+
+5. 'Claims 1, 2, 5, 18-21 are rejected under 35 U.S.C. 103 as being unpatentable over any of Pons et al, Brumlik et al, Lewis et al, Zachariah or Rabinowitz et al, in view of any of Diller, Vincent or Childs.' 
+
+Now, there is no point in reciting further from the Examiner's Office Action, but readers who are interested in more detail can scan parts of my response, sections of which are included as Appendix I as an attachment to this Essay. 
+
+ August 14, 1992 
+I decided to argue my case, but run the contest by the tactic of trying to escape from the 'stigma' of the 'cold fusion' topic and concentrating my fight to secure grant based only on four new claims, Claims 22-25. My response was mailed on this date to the USPTO. See that Appendix I . 
+
+Now, at about this time I had visited USA and had had occasion to meet with a representative of an organization in UTAH, originally named FEAT, but later named ENECO. Interest was being shown in my patent efforts on the cold fusion front and overtures were made to bring my patent applications under the licensing umbrella of that organization. In the event, during the months ahead, my British rights based on the two patents I had pursued on cold fusion inventions were assigned to ENECO. A similar transfer of my pending U.S. rights had also been agreed, but then came the first 'shock' in this fiasco. 
+
+ August 8, 1993 
+I understood that there were problems in processing the numerous 'cold fusion' applications in the U.S. Patent Office and was still awaiting the USPTO Office Action in reply to my submission of the last Amendment, when I received a communication entitled 'Notice of Abandonment' on the basis that I had failed to respond to the 'Office Action mailed on December 16, 1992'. 
+
+In fact, no such Office Action had been received by me in U.K. I was quite bewildered, especially so as I had been arranging for the transfer of the case to ENECO's in-house Patent Agent in UTAH. I surmised that the communication had got itself lost in the pre-Christmas mailing activity, though I did wonder if its absence was contrived in some way, because nothing had gone amiss in my communications with the USPTO before, apart from my concern that their mailing practice to overseas locations could be surface mail. However, I could but advise ENECO's Agent, who, as a matter of urgency, was able to procure a copy of the missing Office Action from the USPTO. The Notice of Abandonment had been dated August 3, 1993 and I was able to mail my Response to them on August 16 coupled with a notification that I intended to petition to have the application revived. 
+
+Concerning the substance of the December 16, 1992 Office Action, this advised me that one of my claims fell foul of the election of specie requirement and that the other three were rejected. The Examiner cited several items of new 'prior art' and took another 15 pages plus 4 attachment sheets to summarize his rejection. 
+
+He said I had 'added' new matter, by deleting from the 'Background of Invention' section some ten pages of introductory material which he had found objectionable by his earlier comnments. I was required to cancel the 'new matter' as part of my response, meaning I had to put the 'old matter' back into the specification! 
+
+He then went to great lengths to explain that I could not have 'a single point of connection to a metal conductor by which its output current returns to the d.c. power source'. I had, in fact, disclosed two separate current circuits, but the cathode potential was common to both circuits and so it only needed one common connection to assure that. Then he argued that I had not supported by my disclosure the structure by which 'a.c. circulates in an all-metal closed path which, within the housing, is exclusively that of the cathode'. He said that some current of that circuit would leak through the electrolyte. Here, knowing that the electrical conductivity of metal versus electrolyte can be of the order of 10,000, indeed 100,000, times greater, I was bewildered at such an objection. 
+
+Although I had done everything I could to purge my disclosure of all dependence upon 'cold fusion' as an essential phenomenon, the Examiner persisted in declaring that: 
+ "The invention is to the generation of heat by the interaction of deuterium in a palladium material wherein the deuterium has been electrochemically charged into the palladium so as to undergo nuclear fusion. This particular concept or expedient has become known in the art as 'cold fusion'". 
+
+The Examiner then persisted in denying the possibility of excess heat or nuclear fusion and so concluded that my invention could serve no useful purpose. His onward remarks included comments such as: 
+ "The Broad article in the March 17, 1991 issue of the New York Times indicates some of the data relied upon by F & P as showing evidence of fusion was faulty." 
+Since my priority date on which I was basing my claim was April 15, 1989 and since the comments in the New York Times did not refer to tests based on what was disclosed in my patent application, such remarks were not, in my opinion, relevant. The essential comments in my response are presented in Appendix II as part of this Essay, but I was here facing not only the fact that the Examiner declared his rejection as being 'FINAL' but the fact that I was about to seek revival of the application by lodging a Petition at the USPTO. 
+
+I did, shortly thereafter, compose a text which I headed 'A Commentary on the Physics of Cold Fusion'. It was dated 12 October 1993 and I sent it to ENECO suggesting that it could be used in the onward struggle with the USPTO to help in the quest to procure patent grant in this field. ENECO did not use it for that purpose, but I included it as an Appendix in a U.S. Patent Application that I did contrive to negotiate to the grant stage, namely U.S. Patent No. 5,734,122 and the full text of that patent, including the Appendix as there published is of record in these Web pages. 
+
+However, the saga of all this was only just beginning! 
+
+ February 3, 1994 
+On this date ENECO mailed to me a copy of the Petition to revive Application Serial No. 07/480,816 coupled with the statement that 'The filing of these documents will permit the filing of the continuation-in-part application that we discussed'. 
+
+So, noting that it is important in U.S. patent practice to preserve the earliest claim one can to the priority date to which one is entitled, we now move on to the next platform of this somewhat 'theatrical' performance. 
+
+ February 15, 1994 
+I was notified by the ENECO Patent Agent that the Continuation filed to revive the abandoned application had been granted Application Serial No. 08/191,381, implying that the petition had been approved. The USPTO filing date was February 3, 1994. 
+
+ This was followed by another USPTO (Department of Energy) request for confirmation that what appeared to be something "useful in the production or utilization of atomic energy" had or had nor emerged from activity involving U.S. government sponsored resources. Here was an Examiner saying that such inventions that relate to 'cold fusion' are not of any practical use and yet the official Department of Energy posture that vets the U.S. applications as filed requires an oath or declaration based on the contrary assumption! 
+
+ April 3, 1995 
+Examiner Behrend issued his first Office Action on the revived application. He went through the same election of species tactics as before, and this resulted once again in an election to proceed with the species drawn to apparatus, the Fig. 1 embodiment, a new election restricted to palladium as a cathode material, an election of the liquid species and a further election of a hollow conductor as a cathode. 
+
+The opportunity was taken to revise all the claims in the application and the response substituted new claims 36 to 46 for those that were put on record by the continuation application. This response was sent to the USPTO by Express Courier on August 22, 1995 as part of a 30 page document. This explained the basis of the claims and, in the hope that this would head off another Examiner diatribe on the impossibility of generating excess heat by electrolytic methods deemed to involve 'cold fusion', the remarks submitted included substantial supporting explanation which could not be added to the text of the specification. 
+
+Owing to the possible interest of readers in the technical content of that document, sections of it are to be found in Appendix III. Note particularly the emphasis placed on the 'stifling action' of the caloriments used by those who purported to test cold fusion cells based on the F & P model. My argument essentially is that it is the setting up of temperature gradients in the cathode, as aided by injecting a strong circulating current through the cathode, that is the catalyst for the 'fusion' reaction. Those calorimeters, in seeking to measure heat generated by ensuring a uniform temperature through the test cell, were, in effect, 'killing the goose that lays the golden eggs'. 
+
+ December 7, 1995 
+Examiner Behrend now issues his Office Action presenting the prior art once again! This time, however, there were 53 citations, 10 of which were 'prior art' in the legal sense and the rest of which were mainly journalistic and research periodical comments about cold fusion, all published after the priority date claimed. The 10 items of 'prior art' were mainly old patents which illustrated the structure of electrolytic cells. In normal patent prosecution, only these items would be involved in the contest and the technical issues can be argued on their merits, without the saga of cold fusion being a dominant factor. However, processing the application by reference to the clear structural issues of the inventive features of the apparatus were not a dominant consideration for Examiner Behrend. 
+
+He rejected all claims. Again he argued that cold fusion was a non-viable pursuit, relying on articles in the New York Times, a television show "Cold Fusion in a Jar" and a book by John Huizenga &quotCold Fusion: The Scientific Fiasco of the Century" plus other similar reports. On the more substantive issues he persisted in his argument that: 
+ The claims were vague, indefinite, incomplete and misdescriptive in referring to the d.c. power source as being connected to a single terminal on the cathode. They were vague, indefinite, incomplete, inaccurate and misdescriptive in referring to the a.c. as circulating in an all-metal circuit, because it would appear that the a.c. would also pass from the cathode through the electrolyte to the anode. 
+
+Indeed, after reading that I wondered how I had survived in the patent profession for my whole working life, personally prosecuting countless patent applications concerned with electrical engineering and never, ever, encountering such criticism of my circuit descriptions from any patent examiner in the world until Harvey Behrend drew his sword! 
+
+However, here was my patent application and I had to fight to keep it alive, given that the rejection I confronted was not based on 'prior art' but on trivial issues. 
+
+ February 17, 1996 
+On this date I mailed my response to the USPTO Office Action of December 7, 1995. This was a text some 40 pages in length, sections of which can be seen as Appendix IV . It was long because I had to respond fully to all the art cited by the Examiner. I could not dismiss it as 'frivolous' even though that was clearly the case. Two points drawn from my response that I present here, instead of deferring them to that Appendix, are evident from the following quotation from the document I mailed to the USPTO: 
+ The following comments track the Examiner's remarks by page reference to his Office Action. 
+
+Page 5: He stated that claims to initial positive results were generally retracted or shown to be in error by subsequent experiments (see article by Stipp in Wall Street Journal). I replied that: the Stipp article (ref. 8) said that the neutrons observed in the first experiment were based on false measurements and not confirmed in the second experiment but 'the researchers said their second experiment yielded more heat than the first one'. 
+
+Page 5: He further applied the same statement to page A22 of M. W. Browne's article in New York Times. I noted in my reply that: the Browne article (ref. 2) said that Caltech failed to find any symptoms of fusion in that no emitted neutrons, gamma rays, tritium of helium were seen, contrary to claims of the Utah group. Then it reads 'The Caltech team intentionally reproduced experimental errors leading to the same erroneous conclusions reached by the Utah group, Dr. Lewis said. By failing to install a stirring device, temperature differentials in the cell led to false estimates of its overall heat, he said. This may have suggested to the Utah group that its cell was producing fusion energy.' 
+
+ The applicant's comments hold up. The Caltech work indicates that they discovered how not to generate excess heat energy but did not disprove the possibility, if that temperature gradient in the cathode is the key. 
+
+ June 6, 1996 
+Examiner Behrend now issues a statement saying that I have been non responsive in my above communicaton, which was received at the USPTO on February 20, three days after it was mailed. His communication to me arrived nearly three weeks after it was mailed from USA and gave me one month in which to reply. His objection was that the claims were not readable on the elected species because they are not directed to a "thermally activated electrolytic apparatus" having a heat transfer means for heat generated within the cell. 
+ June 28, 1996 
+Acting promptly I submitted an Amendment to the USPTO in which I submitted new Claims 50 - 52, meaning that the application was now in contest with only three claims, contracted to cover the specifics of the structure clearly disclosed in Fig. 1. I declared that my object was to 'salvage from the disclosure and claims of the specification as originally filed a minimal cover for the invention' as then presented. I then added the following comments: 
+ The new claims define a novel, non-obvious structure that can be fabricated and which has utility in a technological field that is commanding extensive interest in spite of competitive pressures. The remarks made on pages 4 and 5 of the 2/20/96 response were aimed at directing attention to the structural aspect of apparatus according to the invention, in an effort to avoid the ongoing debate on the 'cold fusion' issue. Those researching this field are now finding that the metal composition of the cathodes can change by producing metal isotopes as well as excess heat and that signifies nuclear transmutation. (See 'Anomalous Isotopic Distribution in Palladium Cathode after Electrolysis' (authors T. Mizuno, T. Ohmori and M. Enyo) March/April 1996 issue of 'Infinite Energy'). I further note that cathodes which are plated as laminar structures including nickel as well as palladium are reported as producing substantial excess heat. As will be appreciated, temperature gradients set up in layered bimetallic films on a cathode can promote closed circuit current flow by thermoelectric effects. My subject invention is wholly concerned with that closed circuit flow, though my invention provides a different structural implementation. 
+ February 13, 1997 
+It was on this day that I received from the USPTO a communication dated February 3, 1997, that is 10 days after mailing, which was headed 'NOTICE OF ABANDONMENT' for the stated reason of 'Applicant's failure to respond to the Official Letter, mailed on June 6, 1996'. 
+
+I had responded, but here was the USPTO declaring that I had not responded and, sadly, I had no 'proof' of mailing from the U.K. I then wrote to the USPTO to explain my bewilderment and asked that they check their files and records pertaining to the application to trace the missing document, saying I had mailed it personally and enclosing a copy for their reference. I pointed out that my letter was really no more that an amendment submitted as a specific claim restriction worded as required by the Examiner. The circumstances were such that I would not abandon my application faced with such a request from the Examiner. 
+
+ Circa March/April 1997 
+I received an undated communication from Charles T. Jordan, Supervisory Patent Examiner, Group 2200, which DENIED my request to withdraw the holding of abandonment. It stated that I may request reconsideration of withdrawal of the holding of abandonment by petitioning to revive the application on the grounds that the failure to respond was unintentional. To proceed I would incur more fees and, frankly, my patience was wearing a little thin, and, bearing in mind that I was fighting a similar battle on another front, a separate continuation on the same base patent application, also involving Examiner Behrend, I accepted that my struggle concerning U.S. Patent Application Serial No. 08/191,381 had ended in defeat. 
+
+I note that ENECO in Utah had been experiencing their own problems in their efforts to secure a U.S. Patent on the initial Fleischmann-Pons inventions and there came the time when they relinquished their interest in my patent rights and reassigned them to me, which is why I have continued the struggle with the USPTO on my own account. 
+
+ An Equally-Shameful USPTO Treatment! 
+ Here I shall refer quite briefly a separate pursuit of trying to secure a U.S. Patent corresponding to a U.K. Patent Application which I filed at the British Patent Office on January 12, 1991. It was entitled: 
+ "Heat Generation by Ion-Accelerated Energy Transfer" 
+This was a development of the structural features of the invention which were the subject of the above primary U.S. Patent Application on the so-called 'cold fusion' topic. As one can see from the specification of that GB Patent 2,251,775 the third paragraph of the description of the 'FIELD OF INVENTION' reads: 
+"Although some reference to the nature of the atomic nucleus of a hydrogen isotope will be made in describing this invention, it is stressed at the outset that the energy processes exploited in this invention are non-nuclear and are not related to what is termed 'cold fusion'. The energy technology is that of electrodynamics and ion acceleration." 
+
+Here the cathode conductor comprised alternate segments of two different metals. This had the attribute, given a choice of metals, and especially if one metal is nickel, of setting up thermoelectric effects as well as phenomena related to the Nernst Effect. The latter involves the setting up of temperature gradients in metal, given a magnetic field which is inevitably present owing to current flow through the conductor. That generates electric charge in the cathode. There are also anomalous electrodynamic effects when the flow of ions (deuterons) carry, in some small measure, some of the current through the cathode. Accordingly, the invention was of potential value in the quest to generate heat in a manner deemed anomalous by orthodox physicist. 
+
+Reference was also made in the specification to a paper of mine published in 1986 in Hadronic Journal and entitled 'The Theoretical Nature of the Neutron and the Deuteron'. There I had explained how, in order to give a precise theoretical account for the magnetic moment and mass properties of the deuteron, the deuteron must constantly flip between quark-like states, undergoing transitions involving, in effect, protons, antiprotons, electrons and, positrons. For 2 parts in 7 of the time it comprises two negatively-charged concentrations of mass energy of proton size. All this, activity in a host metal, seemed to militate in favour of the 'cold fusion' scenario, but my object in the patent application was to cover just the structure that could be conducive to the exploitation of whichever phenomenon was giving the anomalous generation of heat. 
+
+In any event the U.K. Patent was duly granted on April 20, 1994 as GB Patent No. 2,251,775 but the fate of the U.S. Patent Application was very different, as we now see. 
+
+We proceed chronologically, as before: 
+
+ January 17, 1991 
+This was the date of filing of the U.S. Patent Application Serial No. 07/645,192 as a Continuation-in-Part of the primary application Serial No. 07/480,816. 
+
+ February 19, 1992 
+The first Office Action was mailed by USPTO. The Examiner was Harvey Behrend. This, as before, was a request for election of species, a more elaborate sequence of species selection than applied to the parent application. 
+
+The embodiment choice was between Figs. 1 and 2. The fluid serving as the hadronic source had to be selected from the species 'gas', 'molten salt' and 'water', even though the structure of the apparatus claimed and its electrical excitation were the features of the invention that mattered from a claim point of view. Then further restriction as between 'tubular' cathode or a 'cathode formed as a surface coating on an insulating rod or core' was demanded, even though in both cases the cathode is 'tubular' in its fabrication! 
+
+Examiner Behrend added in his Action the comment that the background reference to GB Patent No. 2,002,953 in my specification, as filed, was effective as relevant prior art anticipatory of my application. That GB patent was one of which I was inventor. It dated from 1978. In my response to the Examiner I explained why this could not be anticipatory. Interested readers can inspect the relevant section of that as Appendix V . 
+
+ June 8, 1992 
+Examiner Behrend mails his second Office Action. All claims are rejected. This was another diatribe attacking cold fusion. There were 39 citations, seemingly almost all comprising a standard set of journalist accounts on the theme of cold fusion, that Harvey Behrend had assembled and was citing against anything that hinted at the potential of such a technology. 
+
+I had been given three months in which to reply, dating from June 8, 1992. 
+
+ August 14, 1992 
+On this date I mailed the following Letter to the USPTO: 
+
+ RESPONSE TO OFFICE ACTION DATED 06/08/92 
+ The subject application (07/645,192) was filed as a continuation-in-part in respect of earlier-filed application 07/480,816. 
+
+The first substantive examination report, which rejects all the claims, has been issued one week ahead of the corresponding report on the parent application. The Applicant had expected that most issues concerning the first application would have been resolved before having to determine action on the continuation-in-part application. 
+
+In these circumstances, the Applicant seeks the indulgence of the Examiner in the following respect. 
+
+The full response to the action on the parent application, with a new set of claims and severe restriction of the specification, is being lodged together with this communication. 
+
+Since the claim cover sought in the parent application, if allowed, would now, in present circumstances, suffice for the Applicant's onjectives, it is requested that the processing of the subject application should be deferred pending the outcome of the Examiner's evaluation of the response now submitted on the parent case. 
+
+It is the Applicant's intention to abandon the subject application if the new claim 22 of the parent application is found allowable. 
+
+Please advise whether or not this request is acceptable 
+
+Yours truly, 
+H. Aspden 
+
+I thought this was a reasonable posture to adopt. It was an appeal to the Examiner for direction and it was aimed at easing his task considerably whilst appeasing my situation. I awaited advice. 
+
+ January 25, 1993 
+This was the date of mailing by USPTO of the next communication I was to receive in connection with Application No. 07/645,192. It was a 'Notice of Abandonment' owing to 'failure to respond to the Office Letter mailed on June 8, 1992. 
+
+My reply of August 14, 1992 had been ignored! 
+
+Upon petition to have this holding of abandonment withdrawn I was advised that the USPTO had been unable to locate my August 14, 1992 letter and that upon scrutiny of the copy of that letter sent with my petition, that, as a response, would not in any event 'entitle the petitioner to reconsideration for further examination'. This advice was signed by Robert E. Garret, Director, Group 220/290 at the USPTO. 
+
+So it was that my second attempt to secure the grant of a U.S. patent that came under processing by Examiner Harvey Behrend died an unnatural death! In both cases my letters sent to USPTO as responses to Office Actions in the later stages of examination had somehow gone astray! 
+
+That plus the fact that the parent U.S. application of both of these continuation applications, 'killed' owing to mail 'loss', also died an unnatural death. It was also killed by a 'loss' of mail in the transmission of an Office Action in the latter stage of prosecution and that is, indeed, quite remarkable. Three patent applications in this 'cold fusion' category all deemed abandoned owing to mail loss! Yet, apart from these 'cold fusion' applications in USA, I have never experienced any such mail loss in all my years in patent professional work. 
+
+ The Struggle Continues 
+
+Here I shall come now to the worst part of this whole saga, the third attempt to secure a U.S. Patent based on a third U.K. Patent Application which I filed at the British Patent Office on May 25, 1993.
+It was entitled: 
+ Hydrogen Activated Heat Generation Apparatus 
+and its subject matter can be understood from the following abstract of record in the published UK Patent No. GB 2,278,491, which was later granted on March 26, 1997. 
+ In order to research the generation of heat by promoting the fusion of protons or deuterons adsorbed by a host metal, the apparatus provides a structural configuration by which the direction of heat flow through the metal is transverse to the direction of an applied magnetic field. Thermal priming means, which may include pre-cooling on the heat output side or electrical heating of the host metal, provide the initial temperature gradient triggering fusion. Alternating current activation of the magnetic field, the intensity of which may be enhanced by using nickel as the host metal, combined with a non-uniformity of the magnetic field and/or heat flow through the metal, assure the abnormal presence of a residual negative electron pooulation in the metal. Such charge nucleates the merger of positive charge and enhances the fusion process. 
+
+The relevant figure of the patent is Fig. 7 reproduced below. It merely shows the functional detail of a segment of the main tubular structure shown in Fig. 6 of the patent, which includes a metal conductor along its central axis. The flow of a very strong current I in that conductor, which is a closed circuit and involves small power input for very large current, sets up the circumferential field acting on the deuterated metal mesh inside the thermally insulating sleeve 25. By virtue of the heat insulation 24 metal flanges 20 provide cooling surfaces for heat developed within the sleeve or within the liquid electrolyte in the inner tubular section of the structure. Heat flow through that deuterated metal mesh is directed parallel with the central axis. The design aims to exploit the Nernst Effect by which a transverse magnetic field and a heat flow in metal produce, within that metal, an electrical field, in this case a non-linear radial field which implies space charge within that deuterated metal mesh. 
+
+By setting up a negative space charge within metal containing deuterons, those deuterons are more likely to come together in a cold fusion reaction, this being the basis of the invention described in the specification. 
+
+Now I shall continue my account in the same chronological manner as I did for my primary U.S. Patent Application on this subject of 'cold fusion'. The story I tell is based on my initial British patent filing which developed into the parallel filing by ENECO of an International Patent Application via the USPTO under the provisions of the Patent Cooperation Treaty, with the result that both applications ran together in parallel. I allowed this to occur deliberately, even though customary practice is to process only one International Application and let that develop into national patents. I knew I could not secure a patent in U.K. by both applications, but I was playing safe and could back-off on one after seeing how things developed. 
+
+ May 25, 1993 
+The U.K. Patent Application was filed at the British Patent Office. This served as a priority record. One then has one year in which to determine the filing of onward national and foreign patent applications. 
+
+ May 3, 1994 
+The U.K. formality was completed by which the U.K. Patent Application was assigned its effective national application date, namely May 3, 1994. This resulted in an Examiner's search for prior art, the only two items cited being my own earlier cold fusion cases GB 2,251,775 and GB 2,231,195. 
+
+ May 23, 1994 
+This was the date assigned to the patent filing by the Receiving Office handling Patent Coperation Treaty applications under the auspices of the administration of the World Intellectual Property Organization in Geneva (WIPO). Since in this case the Applicant was ENECO in Utah, this patent application was processed by the arm of the United States Patent Office that assists in the processing of such applications. Had the application been filed through the British Patent Office as a Receuving Office, the search examination would have been assigned to an international body in Holland, the IIB, and then the later substantive examination phase would have transferred to the European Patent Office in Munich, Germany. As it was, the application was duly committed top processing by US Patent Examiner Harvey Behrend. 
+
+Now, it should be understood that there are certain standards to be complied with in processing such International Applications, particularly concerning timing of the various steps involved. The intentions of the Treaty are that a search of relevant prior art will be conducted and a Search Report issued in due time so that it can feature as part of the publication of the patent specification, which should occur little more than 18 months after the initial priority filing. That priority date in this case was May 25, 1993. You can understand then why it was that WIPO in Geneva published the International Application, WO 94/28197, on December 8, 1994. 
+
+ November 30, 1994 
+The U.K. Patent Application was published as GB 2,278,491A. It had 18 claims, the above prior art only being cited with respect to claims 1 and 6. The prospect of securing grant was good. 
+
+ December 8, 1994 
+The International Application, WO 94/28197, as published on that date, was a 40 page specification plus three sheets of drawings having 10 figures, carried the legend: 
+ 'Published without international search report and to be republished upon receipt of that report.' 
+What this meant was that Harvey Behrend had not provided the necessary Search Report in due time. 
+
+ December 28, 1994 
+However, there was a swift follow-up, presumably owing to an official interjection from the WIPO in Geneva, because the U.S. Commissioner of Patents and Trademarks, being responsible for the ISA/US (International Search Authority/US) now issued that Search Report. 
+
+Examiner Behrend, true to style, had gone to town, as it were. There were 13 citations of prior art, but, in this case, no Washington Post or New York Times articles. Now, there are eight separate catgories under which prior art is cited in PCT proceedings. These range from items categorized as A, meaning 'of general interest to the state of the art but not of particular relevance to the invention' to X, meaning 'document of particular relevance; the claimed invention cannot be considered novel or cannot be considered to involve an inventive step when the document is taken alone'. 
+
+Harvey Behrend did not categorize any of those 13 citations with that X symbol. He could not have contended that, given the facts he confronted. My claimed invention was certainly something new. In the event, however, Harvey Behrend applied the category Y to 11 of the 12 of the 13 citations. Y means 'document of particular relevance; the claimed invention cannot be considered to involve an inventive step when the document is combined with one or more other such documents, such combination being obvious to a person skilled in the art'. 
+
+Moreover, for 11 of those 12 uses of the category Y, he specifically declared that it applied to every single one of the 18 claims of record in the application. 
+
+Now, there would be little point in ever filing a patent application on an invention on something so simple and mundane that it is anticipated in every respect by numerous items of prior art applied to so many separately claimed features in the manner suggested here by Examiner Behrend. On this basis one can, in effect, take a standard textbook on electrical power generation technology and apply it to every patent application purporting to concern such technology. One cannot patent what is obvious, but there are criteria in patent work which temper how one judges what is or is not obvious. To Harvey Behrend, this PCT application disclosed an invention that was so obvious that the legal hurdles could not be overcome. Yet I knew I was destined to secure the grant of a British Patent on precisely this invention, based on the identical patent specification and a review of all that prior art, taking 'obviousness' factor into consideration. I knew that British Patent Examiners work to the same standards as the European Patent Office and indeed the standards expected by WIPO in the handling of International Patent Applications. So, apart from protesting about the unity of invention issue which the Search Report said was lacking, I decided to await the outcome of the formal examination stage. 
+
+Behrend's objections were following the standard pattern of his earlier comments in the other US cases already mentioned. The fluids for removing heat could have different forms and the invention could not be common to all. The thermal priming means could involve 'pre-cooling' or 'direct electrical heating' and he deemed that these had no common significance and so there was no unity of invention. All this was manifestly unreasonable and was surely calculated to block progress and any prospect of securing patent grant in the designated countries in which national patents emerging from the PCT process could be procured. 
+
+ November 30, 1995 
+On this date, another year gone, I was sent by the U.S. Commisioner of Patents, acting as IPEA/US (International Patent Examining Authority/US), a 'Notification of Transmittal of International Preliminary Examination Report'. This bore the name 'Harvey Behrend: Authorized Officer'. It stated that the application lacked 'unity of invention'. It stated that 'in response to the invitation to restrict or pay additional fees the applicant had paid additional fees under protest. It further stated that there was a lack of inventive step based on the disclosure in my own British patents GB 2,251,775 and GB 2,231,195. 
+
+Now, here, I must explain that the whole idea underlying the International Patent Cooperation Treaty is to expedite the grant of patents on an international scale and so save the applicant and officialdom excess duplication of work. However, the price paid for these treaty obligations is the acceptance by those responsible for the examination activity that they keep to time and meet deadlines. When Harvey Behrend issued that Preliminary Examination Report some 30 months plus 5 days had lapsed from the 'Priority Date' of record. The Notification of Transmittal to which that Report was attached said: 
+ "The applicant must enter the national phase before each elected Office by performing certain acts (filing translations and paying national fees) within 30 months from the priority date." 
+
+In short, although the U.S. Patent Office did allow this PCT application to enter the national phase in their country, I had, thanks to the dilatory processing by the IPEA/US, for which the U.S. Commissioner of Patents carries responsibility, been denied the entitlement of having sufficient time in which to act in proper manner to secure the related patents elsewhere. Note that full translations into languages such as French, German, Japanese etc as well as transmittal by mail cannot be accomplished in 'negative time'. The Report was not issued until the 'negative time' count had reached minus 5 days, and adding time for mailing from U.S. to my U.K. address that made things far worse. 
+
+Accordingly, the chance to extend the filing to several National Patent Offices was lost. It was prudent of me to retain the British application active and separate from this fiasco. 
+
+The substantive arguments presented by the Examiner in the Report do not warrant comment. They are much the same as those used by Harvey Behrend in the three U.S. applications already discussed. There was one concession which he made. I had protested about the assertion of lack of unity of invention which said that there was no common technical feature in the setting up of a temperature gradient in a metal core by cooling or heating. This was an absurd proposition. If you seek to get heat to flow through metal, you can either cool one side or heat the other side; what is seen in the metal is a flow of heat and a temperature gradient and that is what the invention is all about! So, in the event, the Report declared that my 'protest had been found justified to the extent that partial reimbursement in the amount of $280 will be made in due course'. That was advice dated November 30, 1995. 
+
+In spite of three reminders addressed to the U.S. Commissioner of Patents and Trademarks over the period since that time I have not received any intimation of when that repayment will be made!!!! 
+
+Take note that such is the manner in which the USPTO in their International role as an agency administering under the Patent Cooperation Treaty do their business. I interject at this point that years ago I visited WIPO in Geneva many times to participate in international meetings on topics concerning patents etc. Though this was normally as a representative of the International Chamber of Commerce there was one occasion when, owing to a crisis situation affecting U.S. representation, being with IBM, I was called upon at two days notice, without a briefing, to represent the interests of NAM, the U.S. National Association of Manufacturers, at a meeting where we discussed the chapter-by-chapter details of a draft of the Patent Cooperation Treaty. In retrospect, I can but say that, being aware of the good intentions on which that Treay was founded, I am very saddened by my experience with the subject PCT/US94/05797 application. 
+
+ October 27, 1995 
+On this date the above PCT application entered the U.S. National phase. This was the date of filing accorded to Application Serial No. 08/256,872. 
+
+ March 26, 1997 
+The U.K. Patent Application was granted as GB 2,278,491B. All 18 claims had been allowed and the British Patent Examiner had not disputed the technical description or the 'cold fusion' issue, though he had become aware of the fact that an International Patent Application was in process for the same invention and had alerted me to the consequences should a separate U.K. patent be sought upon conclusion of the international proceedings. 
+
+ October 16, 1997 
+The first Office Action is mailed from the USPTO on Application Serial No. 08/256,872. Harvey Behrend is the Examiner once again. There is again the requirement to elect species. Notwithstanding his concession on the unreasonable nature of the species election in the parent PCT application, already examined by Harvey Behrend, he still requires election as between species Ia, where the thermal priming involves pre-cooling and species Ib where it involves heating. Indeed, the tactics are the same on all counts. It is almost like a re-run of a computer program! 
+
+ October 28, 1997 
+Again I responded promptly and fully to the Office Action. I mailed it to the USPTO on this date. 
+
+ January 21, 1997 
+On this date the USPTO mailed to me, under the reference 08/256,872 of the above pending application, a message reading: 
+ NOTIFICATION OF CHANGE DUE TO PTO MOVE AND CONSOLIDATION 
+which declared in block capital letters: 
+ THE EXAMINER OF RECORD HAS RECENTLY MOVED AS PART OF THE PTO CONSOLIDATION INTO TECHNOLOGY CENTERS. PLEASE USE THE FOLLOWING INFORMATION IN FUTURE RESPONSES AND INQUIRIES TO THE PTO. 
+EXAMINER: BEHREND, HARVEY --- NEW GAU: 3641
+
+ June 1, 1998 
+On this date I received from the USPTO, under the reference 08/256,872, an undated communication signed by examiner Harvey Behrend. It was headed 'NOTICE OF ABANDONMENT' and stated that no response had been received in reply to the Office Letter of October 16, 1997. 
+
+As stated above I had in fact mailed such a response on October 28, 1997! 
+
+So, here again, we see the same tactics at work. Harvey Behrend had adopted the posture that no reply had been filed. 
+
+Now, in this particular case I had paid the British Postal Authorities to provide a Recorded Delivery service and send to me a confirmation of delivery of my letter. That confirmation record came back duly stamped by the USPTO and bearing the stamp legend: 
+ RECEIVED 
+ Nov 03 1997 
+ PTO MAIL CENTER 
+The USPTO had received my response but Harvey Behrend declared that it had not been received. 
+
+ June 1, 1998 
+On this day I wrote to the U.S. Commissioner of Patents drawing the above situation to his attention, including a copy of the response I had mailed on October 28, 1997 together with a photocopy of the Official Advice of Delivery, bearing the USPTO date stamp, and requesting reinstatement of the application. I sent the message by fax and mailed its confirmation on this same day. 
+
+I now await any USPTO action in this matter, well realizing what is implied by this development. 
+
+ January 29, 1999 
+On this day the U.S. Patent Office sent me a letter entitled: 
+ DECISION ON REQUEST FOR CORRECTION . 
+It said that my letter received by the USPTO on June 8, 1998 would be treated as a petition to withdraw the holding of abandonment. It went on to say: 
+ Since a timely response to the Office letter was filed, the holding of abandonment is withdrawn and the application is restored to pending status. The application is being forwarded to the Examiner via the Sepervisory Legal Instruments Examiner for prompt action on the merits of the application. 
+
+ I will update this Web page as the situation develops. 
+
+ To choose another cold fusion topic, see: 
+ Cold Fusion Index . 
+ If not seen already, do not miss: 
+ Cold Fusion appears in a U.S. Patent 
+ A Breakthrough: U.S. Patent No. 5,734,122 
+ To return to the Essay index page, press: 
+ Energy Science Essays
+
+ To return to the main index page, press: 
+ Energy Science Index 
+
+ The author's E-Mail address is: haspden@iee.org

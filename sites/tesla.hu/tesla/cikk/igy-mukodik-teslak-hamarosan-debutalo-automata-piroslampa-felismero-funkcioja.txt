@@ -1,0 +1,51 @@
+Így működik a Teslák hamarosan debütáló automata piroslámpa-felismerő funkciója 
+
+ 4 months ago 
+
+ Így működik a Teslák hamarosan debütáló automata piroslámpa-felismerő funkciója 
+
+ A Tesla autói időről időre egyre okosabbak, hamarosan képesek lesznek érzékelni a továbbhaladás tiltását jelző piroslámpákat és maguktól meg is állni. 
+
+ Ugyan a vezető nélküli teljes önvezetés még jogilag nem engedélyezett sehol a világon, de a Tesla mégis úttörő szerepet vállalt a technológia kifejlesztésében és autóik egyre közelebb kerülnek ahhoz, hogy valóban képesek legyenek önállóan, a sofőr felügyelete és beavatkozása nélkül közlekedni. Sokszor állították már a vállalatnál, hogy a szükséges hardver minden Teslában benne van, csupán a szoftver finomhangolására van még szükség. 
+
+ Akár így van akár nem, az újonnan megjelenő funkciók mindig bizakodásra adnak okot, a cég jó úton halad afelé, hogy az elsők között legyen a világon, akiknek az autói egyszer majd – ha a jogi környezet megengedőbb lesz- teljes önvezetésre képesek legyenek. De addig is marad a részleges önvezetés, amit a Teslák az alapáras Autopilotnak köszönhetően részben mind tudnak. A komolyabb szintű önvezetéshez a vásárlóknak egyelőre meg kell rendelniük a Full Self-Driving nevű opciót. 
+
+ A stoptáblákat és a forgalomirányító fényjelzőberendezéseket az autók elsősorban a GPS- és térképadatok alapján ismerik fel, de természetesen a frontkamerák képét is használják. A rendszer akkor éles, ha aktiválva/engedélyezve van az automata kormányzás és az adaptív tempomat is. Amikor az autó olyan kereszteződéshez közelít, ahol lámpa irányítja a forgalmat, vagy elsőbbséget kell adnia más járművek részére, akkor a központi kijelzőn megjelenik egy figyelmeztetés a vezető számára, hogy ő is felkészülhessen a forgalmi helyzet megváltozására. 
+
+ A kereszteződésben az autó mindenképpen megáll akkor is, ha a forgalomirányító lámpa éppen zöld jelzést mutat. Ha a vezető mégsem szándékozik megállni a lámpánál (mert zöld), akkor a gyorsítópedál lenyomásával vagy az üzemmódválasztó megnyomásával adhatja az autó tudtára, hogy továbbhaladhat. Piros lámpa esetén azonban az autó a vezető „parancsára” sem halad át a kereszteződésen, ilyenkor mindenképpen megáll, majd a zöld jelzésnél az előbb említett módon (gyorsítópedál vagy üzemmódválasztó) lehet újra mozgásra bírni az autót. 
+
+ A piroslámpa-felismerő funkció egyelőre nem része az autók felszereltségének és a Tesla konfigurátora szerint csak azokban a járművekben fog megjelenni nemsokára, amelyekhez megrendelték az átszámítva 2,3 millió forintba kerülő Full Self-Driving extrát. Az alapáras Autopilot képes a sávtartásra, magától fékez és gyorsít, illetve megáll, ha veszélyt érzékel a sávjában. A Full Self-Driving csomaggal rendelt autók tudnak maguktól sávot váltani, másokat megelőzni, autópályára fel- és onnan lehajtani továbbá maguktól parkolni. 
+Források: 
+
+ autoblog 
+ TESLA 
+
+ 4 hours 37 min 
+ Már Tesla erőforrás hajtja Johnny Cash régi Rolls-Royce modelljét 
+ Egy klasszikus luxuscirkáló, 100 százalék Tesla meghajtással. 
+
+ 1 day 7 hours 
+ Ötösre vizsgázott egy Tesla Model S éles törésteszten 
+ Egy kamion szinte darabokra tépte az autót, az utasok apróbb sérülésekkel megúszták. 
+
+ 2 days 6 hours 
+ McLaren-verő Model 3-ast készített az Unplugged Performance 
+ A Teslák tuningolására szakosodott cég kihozza a maximumot az EV-ből. 
+
+ Model 3 Model S Model X Model Y Roadster 
+
+ © 2019-2020 MAHZRT 
+
+ Modellek 
+
+ Model 3 Model S Model X Model Y Roadster 
+ Szolgáltatásaink 
+ Tesla hírek 
+ Tesla márkatörténet 
+ Gy.i.k. 
+ TAO támogatás 
+ Nagycsaládos támogatás 
+ Tesla Model S élményvezetés 
+ Kapcsolat 
+
+ Model 3 Model S Model X Model Y Roadster

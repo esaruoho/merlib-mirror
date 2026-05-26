@@ -1,0 +1,28 @@
+# PDFs referenced on meyl.eu but not available for download
+# Generated: 2026-04-21T07:49:30Z
+
+http://www.discovery.org.in/PDF_Files/md_083002.pdf
+http://www.eesystem.com/docs/LofflerN_870.pdf
+https://www.k-meyl.de/go/50_Aufsaetze/water_motor_4-Bulgarian-Двигател_за_вода_съдържащ_озон.pdf
+https://www.k-meyl.de/go/50_Aufsaetze/water_motor_4-Chinese-含臭氧的水发动机+机器的无二氧化碳操作.pdf
+https://www.k-meyl.de/go/50_Aufsaetze/water_motor_4-Czech-Vodní_motor_s_obsahem_ozonu.pdf
+https://www.k-meyl.de/go/50_Aufsaetze/water_motor_4-Francais-moteur_à_eau_contenant_de_l'ozone.pdf
+https://www.k-meyl.de/go/50_Aufsaetze/water_motor_4-Polish-Silnik_wodny_z_zawartością_ozonu.pdf
+https://www.k-meyl.de/go/50_Aufsaetze/water_motor_4-Portugese-Motor_cu_apă_care_conține_ozon.pdf
+https://www.k-meyl.de/go/50_Aufsaetze/water_motor_4-Romanian-Motor_cu_apă_care_conține_ozon.pdf
+https://www.k-meyl.de/go/50_Aufsaetze/water_motor_4-Russian-Озоносодержащий_водяной_двигатель.pdf
+https://www.k-meyl.de/go/50_Aufsaetze/water_motor_4-Suomi-otsonia_sisältävä_vesimoottori.pdf
+https://www.k-meyl.de/go/50_Aufsaetze/water_motor_4-Swedish-Ozoninnehållande_vattenmotor.pdf
+https://www.k-meyl.de/go/Primaerliteratur/ABBE14_proceedings.pdf
+https://www.k-meyl.de/go/Primaerliteratur/Faraday-or-Maxwell.pdf
+https://www.k-meyl.de/go/Primaerliteratur/Meyl, K - Fluid Mechanics OA 3 - February 2016.pdf
+https://www.k-meyl.de/go/Primaerliteratur/PIERSDraft_SW-Theory.pdf
+https://www.k-meyl.de/go/Primaerliteratur/PIERSDraft_Wireless.pdf
+https://www.k-meyl.de/go/Primaerliteratur/Proc_RFID_Eurasia.pdf
+https://www.k-meyl.de/go/Primaerliteratur/Scalar-Waves.pdf
+https://www.k-meyl.de/go/Primaerliteratur/Tesla_Belgrad.pdf
+https://www.k-meyl.de/go/Primaerliteratur/Wireless-Energy-Transfer.pdf
+https://www.k-meyl.de/go/Primaerliteratur/Zagreb-Proceedings.pdf
+https://www.k-meyl.de/go/Primaerliteratur/discovery-md_083002.pdf
+https://www.k-meyl.de/go/Primaerliteratur/scalar_wave-effects.pdf
+https://www.k-meyl.de/go/Primaerliteratur/wireless-tesla-transponder.pdf

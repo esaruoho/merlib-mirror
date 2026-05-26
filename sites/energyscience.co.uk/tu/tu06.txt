@@ -1,0 +1,125 @@
+TUTORIAL 06 
+
+ TUTORIAL NOTE 06 
+
+ These notes teach the mathematical basis of Aether Science theory 
+
+ THE TASK AHEAD 
+
+ Copyright, Harold Aspden, 1997 
+
+Rather than merely advancing these tutorial notes and making point by point in a succession of steps, I think we need at this stage to provide a glimpse of what we will see at the end of our journey. We will, for example, see the solution to the riddle of gravitation, including the link between G, the Constant of Gravitation and the charge-mass ratio e/m e of the electron.
+
+We will not stay together in this quest unless you, the reader, are prepared to delve into some mathematics, helped by your computer, if you wish to check yourself how the numbers all work out. G has to be shown to be 6.67x10 -8 in c.g.s. units and the only numerical input data you will have to help you derive that number is the charge to mass ratio of the electron, which is 5.2728x10 17 in c.g.s. electrostatic units.
+
+Now obviously this is no easy task and we will not discover how to formulate the physical connection between these two numbers without learning quite a lot of new physics en route. So I am going to introduce you now to some of the characters on the physical stage that play a role in the gravitational scene.
+
+The electron is one such actor and there are three other players but you will see none of them in the final act where we explain how the force of gravitation is set up between, for example, two protons. You will now soon see why we need to set our sights on a particle form that can mediate in setting up the force of gravity. Every speck of dust, every atom and every unit of energy that we see as gravitating matter has its own mass and I would not like to try to find any common unit of gravitating matter that can be used to define components of such an infinite mass spectrum. Yet to get to a 'constant of gravitation' we need a unique quantum condition, a building block that gives us a unit from which we can develop a universal force that relates to such a constant. So what we shall do is to say that matter as we know it has a jitter motion and, collectively, it is associated by dynamic balance with an unseen particle form that is quantized in some way. So, if an element of matter has a mass that is, say, 305.6493 units in terms of the mass of the particle form in the balancing system, then 305 such particles will be fully deployed to sustain the gravitational action of that element, but one such particle form will be deployed part time, 0.6493 of the time, to supplement that action.
+
+Now I shall call such particles 'gravitons' and declare that the graviton family includes the 'super heavy electron', otherwise known as the tau or taon. In fact, it was discovered experimentally long after I developed this graviton theory. Indeed, there was a period when I thought there was only one form of graviton, a particle which was about 45% more massive than the taon or nearly three times the mass of the proton. 
+
+Next, I must introduce a particle form which does not play a direct role in the gravitational action but does dominate the whole stage. This particle form provides the energy that keeps the action alive. It is hidden centre-stage. This is the 'heavy electron', a part of the ghost world of the aether, the 'virtual muon'. Muons have a mass between 206 and 207 times the electron mass, whereas the taon has a mass some 3485 times that of the electron. Physicists will tell you that quantum electrodynamics as applied the field activity in the vacuum medium is made alive with electrons, muons and taons and their anti-particles appearing in pairs as if from nowhere and then disappearing again, but they will not tell you how all this accounts for gravity. Indeed, they do not know because they have not bothered to learn about what I am revealing to the world in these tutorial notes. They have not bothered to study my earlier writings and I can say that because, if they had, they would have been endorsing what I say and writing about this gravitational theory for many years by now.
+
+There are, therefore, muons and taons active in that underworld we call space, but which I call the aether. We will need to deduce the masses of these particle forms in terms of the mass of the electron and we will also need to look for even more massive and less massive particle forms that sit on either side of this taon-muon-electron mass spectrum. The path to G will not be easy, but, if we really can check progress by deducing the relative masses of these particles as we proceed and the results fit well with experimental observation, then we know we are on track in our quest.
+
+To complete the aether particle picture I will now declare that my research told me there are three other aether particle forms, which I will call the 'supergraviton', the 'graviton' and the 'quon', respectively. They all have the same unitary charge magnitude as the electron. That charge quantity is denoted e. However, the quon has a mass much smaller than that of the electron, and the supergraviton has a mass much larger than that of the graviton or the taon.
+
+So far as our derivation of G is concerned, I shall, in this initial stage of analysis concentrate my attention on the standard 'graviton' form. The reason is that I came to realize, as the theory developed, that gravitational forces are seated in particles of the graviton family that work together like wolves in a pack. There has to be at least one standard 'graviton' in a particle cluster that mediates in setting up the force of gravity. It acts as a buffer for minor energy fluctuations.
+
+Accordingly, the first step in deducing the link between G and e/m e , the charge to mass ratio of the electron involves the assumption that there is a perturbation in which the standard 'graviton' sheds energy which becomes the matter mass form that corresponds to the forces attributable, as gravity, to the corresponding change of state of that graviton.
+
+To proceed, you need to picture all elements of matter as sharing a common synchronized motion, all those elements moving in tiny circular orbits about an inertial frame. Then the gravitons must be pictured as moving in counterbalance in orbits of the same radius, so that, denoting the radius r, the separation distance between the matter frame and the graviton frame becomes 2r. Then, sitting in the inertial frame and defining that frame are the virtual muons and these have no orderly motion, being subject to a kind of random activity and contributing nothing to that orbital motion which is the basis on which we shall account for gravitation.
+
+You may now be wondering how there can be an orderly circular motion of particles forming a kind of crystal structure but yet able to dissolve and allow counterflow of those particles as part of that Fresnel aether drag scenario presented in Tutorial No. 5. Accordingly, I present below a figure copied from p. 39 of my 1975 book 'Gravitation' . S denotes the forward velocity of the whole system of the aether charges (denoted q) and you can see that some are in free counter-motion in jumping backwards to balance overall momentum. This is only a notional picture. Indeed, these charges q could well merge to become part of the muon background and migrate backwards through the lattice as muons. This does not affect our analysis leading to the derivation of G.
+
+Physicists often refer to the 'electromagnetic frame of reference' and the 'inertial frame of reference' and they assume that they are both one and the same. We shall not make such an assumption, but will, instead, as you have seen, declare that all matter, which we see as being at rest in the electromagnetic reference frame, is moving all the time in that circular jitter motion in those orbits centred on the inertial frame. It follows that at any instant the position of all elements of matter will be uncertain, as will the velocity, but that the product of the two, the radius of the orbit times the speed in orbit, will be constant. If you have heard of Heisenberg's Uncertainty Principle, you will see that here we have a physical explanation of that basic aspect of quantum theory. Indeed we shall later deduce Planck's constant h in terms of electron charge e and the speed of light c based on our new insight into the particle underworld as connected with graviton dynamics.
+
+The relative velocity of the graviton frame (the G-frame) and the matter frame or electromagnetic frame (the E-frame) will be assumed to be c, this being a natural speed parameter we surely recognize as a property of the vacuum medium. Therefore, any electric charge that happens to be part of that G-frame will interact electrodynamically with other such charge, but will not interact electrodynamically with matter charge at rest in the E-frame. Furthermore, that speed c will make the electrodynamic effect of a charge e in the G-frame seem to have the strength we associate with electrostatic interactions and so, even though gravitation is an electrodynamic force, we will not see c in our eventual formula linking G and e/m e .
+
+The task now becomes more simple. We need to look for a change of the volume of space occupied by a graviton charge and resulting from the perturbation in which that graviton sheds energy. Then, provided the graviton is immersed in a background continuum that has itself a uniform charge density, we can relate that change in volume with a quantity of electrical charge to which we can attribute the gravitational effect. If we know the mass-energy of the graviton, we can work out how it changes volume dV as it sheds energy. If we know the charge density of the background continuum o o we can then formulate a value for G.
+
+You do not need to be a genius then to see that:
+
+ G 1/2 M = (o o )(dV) 
+where dV is the graviton volume change upon release of energy dE g having that mass M.
+
+Now write the mass-energy of the graviton as E g and relate this to the particle radius g by the J.J. Thomson formula:
+
+ E g = 2e 2 /3g 
+From this you can work out how energy changes as g alters and so link dE g with the change of radius dg. Then write the formula linking volume V with the radius g of a sphere and you can deduce how a change of volume dV occurs as a function of dg. Combining these two results you can replace dV in the above equation with an energy term dE g and then you will know that G can be determined because dE g is Mc 2 . Note that c has reappeared but it will depart from the scene once we eliminate o o .
+
+You should have arrived at the equation:
+ G 1/2 = 6(pi)o o g 4 c 2 /e 2 
+and so we can evaluate G in terms of e/m e once we know the values of g, and o o .
+
+We shall need to move on to the next tutorial session before we can evaluate o o and I am therefore going to anticipate the result here so that we can develop the formula for G further. We shall see that the aether comprises cubic cells of side dimension d and in each such cell there is a quon (denoted q in the above figure) of charge e balanced by an equal amount of charge of negative polarity dispersed uniformly as that continuum charge o o . That o o quantity becomes e/d 3 .
+
+The result I shall prove later is the fact that d/a is 108(pi), where a is the radius of the electron according to the J.J. Thomson formula by which:
+
+ m e c 2 = 2e 2 /3a 
+
+It follows then that the graviton/electron mass ratio M g /m e is equal to a/d, the inverse of the radii of these charges.
+
+We can now combine the relationships presented above to derive the formula:
+
+ G 1/2 = 4(pi)(e/m e )(m e /M g ) 4 /[(108)(pi)] 3 
+This leaves us the task of evaluating that graviton/electron mass ratio and we will have then deduced the value of G, the Constant of Gravitation.
+
+ THE ROLE OF THE TAON 
+
+The standard 'graviton' which features in the above formula for G serves a role in shedding or absorbing energy in interacting with the creation and annihilation of gravitating energy in the electromagnetic reference frame in which matter is seated. The process is a conservative process in energy terms, meaning that the energy fluctuations can occur as perturbations rather than quantum events associated with the creation and demise of particles and their anti-particles. The latter activity, so far as the graviton side of the action is concerned, is where the taons play their role.
+
+Note that the standard graviton will itself exhibit a gravitational effect commensurate with its overall charge volume. You can easily verify that the energy to volume ratio of the whole graviton is one third that applicable to a perturbation where a small increase in charge radius accounts for the gravitational action of the energy shed by that increase in radius. This is where we need to introduce quantum gravity and the taons. The taons have a larger charge volume to energy ratio and so can partner the graviton so that, overall, the charge volume to energy ratio is the same as for the perturbation of the graviton. Note that there will be two taons, one of each charge polarity, and they can exchange energy by one expanding slightly and the other contracting, conserving their combined volumes but with very little energy shed externally. So we shall regard the cluster of one graviton and two taons as a unit, the overall charge volume of which is, in relation to overall energy, precisely equal to that dV/dE g ratio which applied to graviton perturbation.
+
+Formulated, this results in the following equation involving x, the ratio of the masses of taon and graviton, M t and M g , respectively:
+
+ 3x 4 + x 3 = 1 
+To derive this equation, note that both particles have the same charge magnitude and their masses are similarly proportioned in relation to their energies. Their charge radii are also inversely proportional to their masses and this means that their charge volumes are inversely proportional to the cube of their masses.
+
+We can let the graviton mass be unity along with its volume and energy for our immediate task in deriving the above equation, whereas the mass or energy of the taon becomes x and its volume 1/x 3 . The combined volume to energy ratio of two taons plus one graviton is then the ratio 1+2/x 3 to 1+2x and this ratio has to equal 3, which is the corresponding factor for the graviton perturbation. From this you obtain the equation:
+
+ 1+2/x 3 = 3 + 6x 
+and that can be rearranged as shown in the preceding equation.
+
+You can easily verify that x is then slightly greater than 0.6884, which means that, once we can know the actual masses of the graviton or taon, we can evaluate G. The taon is the super-heavy electron of the lepton family and its mass-energy is known from experiment. So you could look that up in data tables and check how we are progressing in our quest to solve the mystery of gravitation by deriving the value of G. However, that was not how I came to solve the mystery and I would rather guide you along the route I followed in my research.
+
+This means going back in time to a period before scientists had discovered the taon and so we shall follow the few clues afforded by early particle physics such as were based on cosmic ray analysis. Of course, having obtained a formula for G in terms of graviton mass, I did work out the value of mass needed by that graviton. It bore no resemblance to any particle of matter, being about 5063 times the mass of the electron or, in mass-energy terms, 2.587 GeV. I developed my aether theory in the 1950s and wrote my first printed publication on the subject towards the end of 1959, so it is appropriate to quote from a Table entitled 'Properties of Known Sub nuclear particles (1959)' that I see in a book I have in my possession. The book is entitled ' The Nature of Physics ' and its author is Peter J. Brancazio. It was published in 1975 by Macmillan Publishing Co., Inc of New York.
+
+The list comprises baryons, mesons, leptons and massless bosons and gives masses in electron units and MeV, but the following data is in electron units. The baryons are the Xi - of 2586, Xi o of 2573, the negative, neutral and positive Sigma particles of 2343, 2338 and 2,338, respectively, the Lambda neutral particle of 2183 and two nucleons, the neutron of 1839 and the proton of 1836 electron mass units. The mesons are the neutral kaons of 974, the charged kaons of 966, the charged pions of 273 and the neutral pion of 264. The leptons are the negative muon of 207, the electron of 1 and the muon-neutrino and electron neutrino for zero mass are reported. Finally, the massless bosons are the photon and the graviton.
+
+Yes, there is a 'graviton' mentioned as having zero mass! It is said to be 'stable' and to have a spin of 2, whereas the photon has a spin of 1, but it is merely a name for a hypothetical particle that mediates in the gravitational force.
+
+So, we have textbook authority dating from a 1959 listing that says our graviton has no mass. So how did I manage to proceed in seeing a connection between those baryons and mesons and my graviton? Well, let me say that my data source gave slightly different numbers for some of the particles and even gave the charged pion mass as 276, which is too high, but I had enough to piece together some evidence that pointed to that graviton form at a mass of about 5063. The easiest way for me to report on that here is to quote a section of text from pages 112 to 114 of my book ' Physics Unified '.
+
+I had just presented the analysis showing how a basic energy quantum of 412.665816 electron mass units could be derived by my theory and followed this by:
+
+"This happens to be very close to the energy of two muons, which are heavy electrons with a mass between 206 and 207 times that of the electron. Accordingly, it is tempting to suggest that the unit cell of the space medium comprises a pair of virtual muons in general migration and providing the equilibrium for the energy of the lattice particle." [Note that this lattice particle is the 'quon' referenced earlier in this Tutorial.]
+
+In recent times heavy particle decay has come to be characterized by the emission of dimuons. Indeed the ratio of hadrons to dimuon pairs produced in high energy collisions has become an important parameter in particle physics.
+
+It occurred to the author that one way in which to discover the mass of the graviton would be to suppose that it was a heavy particle which could decay by producing energy quanta E o corresponding to a muon pair plus the quanta 1843 electron rest-mass energy units, with the residual energy forming hadrons. [Note that this 1843 quantity had also emerged from the theory and we shall be deriving that in one of the following Tutorials in this series.] Thus, in a book published in 1966, the author's ' The Theory of Gravitation', 2nd Ed. , the author proposed that gravitons of energy g might decay into pairs of muons plus pairs of the 1843-quanta plus one or two hadrons. Apart from single graviton decay a double graviton decay suggested by collision seemed possible. The need to separate the hadron energy from the 1843-quanta suggests that the latter escape in pairs to assure momentum conservation. Below a tabulation is given of the energy needed to create 1 or 2 muon pairs and 0, 1 or 2 1843-quantum pairs. The former require 412 electron energy units and the latter 3686. An exclusion rule was applied by which the number of muon pairs could not exceed the 1843-quantum pairs by more than one. This excludes the combination 2, 0 as well as 3, 1 and 4, 1 etc.
+
+ muon 1843 energy hadron g
+ pairs pairs deployed product energy
+ _______________________________________________
+
+ 1 0 412 2(2326) 5064
+ 1 1 4098 966 5064
+ 2 1 4510 2(276) 5062
+ 1 2 7784 2342 2(5063)
+ 2 2 8196 2(966) 2(5064)
+ _______________________________________________
+
+Bearing in mind that we contemplate a decay of either one or two gravitons, inspection of the first three columns of the table tells us that the energy g is likely to exceed 4510, with the fourth and fifth listed decays involving 2g. The first decay would then leave a hadron energy greater than 4098. This seemed too high from 1966 data to correspond to a single hadron. Accordingly, a pair of hadrons was deemed to be formed of energy (g-412)/2. The second decay suggested that the hadron product would be a meson of much smaller mass. There were two candidates, the pion or the kaon. A fit was found by using the kaon of energy value 966 (this is a positive kaon of today of 493.7 MeV). There was a sigma hyperon of mass 2326 (1189 MeV) amongst the few well-known hadrons of the early 1960 period. When a pair of these were put into the first decay, the same g value emerged. Next, the fourth listed decay from two gravitons gave another mass value of the sigma hyperon family 2342 (1197 MeV).
+
+The author, therefore, felt that the pattern emerging gave evidence of the graviton in the region of 5063 electron mass units (2.587 GeV). This was particularly encouraging because, as we shall soon see, this is the value which gives us the constant of gravitation, G."
+
+Now, recapitulating, I can say that I derived the formula for G in terms of a graviton mass in the early 1960 period, having fully developed the basic model for the structured aether in the latter part of the 1950s. The onward search to establish evidence for the mass value of the graviton led to the above picture of decay processes linked to baryons and mesons. Note that, of the lepton family, the electron and the muon featured in the theory, but the taon had not appeared on the scene and the neutrino was not deemed anything other than a manifestation of an aether event in which momentum was transferred. It did not warrant comment, because it was invented to explain something that needed an aether reaction, but, with the aether outlawed, the neutrino concept had to stand in, as it were, even though it is meaningless as a particle form.
+
+The onward development of the theory of gravitation, as already reported in the author's 1966 book ' The Theory of Gravitation', 2nd. Ed. , included the formal derivation of graviton mass by pure theory, but the presentation of that must await our analysis of the aether model and the derivation of the heavy electron mass, that of the muon. Thereafter, we will turn attention to the proton and then come back to show how the taon mass comes about. In this way, by a double-pronged attack on the graviton problem, we converge on its creation from two directions and it is a feature of the author's theory that if physical processes occur and, by coincidence, form similar energy quanta that are quasi-stable, then particles having such energy will appear in a dominant manner. The graviton is such a particle, albeit one belonging to that 'ghost' world providing dynamic balance for real matter, but it exists alongside the virtual taon in filling the gravitational role.
+
+The constant of gravitation, G, is only one of the several major advances you will learn about as you now proceed with this sequence of Tutorials, but our next task is to engage in the primary analytical problem now confronting us, namely the determination of the governing parameters of the structured aether.
+
+ To progress to the next Tutorial press: 
+ Tutorial No. 7 
+ *

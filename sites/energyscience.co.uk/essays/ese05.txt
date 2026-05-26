@@ -1,0 +1,163 @@
+ESSAY NO. 5 
+
+ ENERGY SCIENCE ESSAY NO. 5 
+
+ 'WARM SUPERCONDUCTIVITY' 
+ Copyright, Harold Aspden, 1997 
+
+ What follows in this Essay No. 5 is the text of an Essay I wrote in August 1992. I planned at that time to write a book entitled 'Energy Science Essays', but other pressures intervened. Having now launched these Web pages, I have been looking through my papers and have decided to present this 1992 text without amendment. My plan is to comment on later developments elsewhere in these Web pages. However, what I wrote at the time sits well in the overall chronology of what I want to say as I extend the theme to magnetism and other areas, some of which are already of record in these Web pages. In a sense, I wrote this Essay at a time when I was collecting empirical evidence to give support to what I had first introduced in my 1989 paper [1989a] abstracted and referenced in the Bibliographic section of these pages, but also as now presented more fully in the earlier Essay No. 3 
+
+ INTRODUCTION 
+
+We must hope that in the not-too-distant future the phenomenon of superconductivity will become one that we can harness at room temperature. Energy technology could change dramatically if electricity could be transported inexpensively over large distances. Thin superconductive wires carrying high current with no ohmic loss and requiring no special low temperature cooling would, indeed, have a great impact upon the electrical power industry. 
+
+In the following discussion, consistent with our treatment of other aspects of the energy science, we shall not recite what is conventional in the theory of superconductivity. Our path will be one of exploration of new ideas in search of clues and the interpretation of any clues that we may discover. As with many problems in science, one cannot just focus on the problem directly in the hope that some flash of inspiration will guide us forward. If that was a likely route to success then others would have reached our destination well before us. The guiding principle we will pursue will be the assumption that it is absurd to imagine that electrons can move through any substance without some loss of energy. They must meet resistance. However, we will make the daring assumption that there is some process at work in a superconductor by which energy is supplied to those electrons, much as occurs when they traverse a thermoelectric junction where they gain energy from an EMF associated with Peltier cooling. Of course, we are not saying here that there is a junction and that Peltier cooling is occurring. The point made is an analogy. Electrons can gain energy from an EMF induced by whatever process causes cooling of the substance through which they travel. 
+ NORMAL SUPERCONDUCTIVITY 
+
+Before speculating on hypothetical ideas, let us marshall a few facts to guide us. An obvious consideration is to take note of the known critical temperature properties of normal superconductivity in metals and see if that guides us to our first clue. 
+
+For this purpose, the author will use as a reference source tabular data in a 1955 book by Shankland entitled "Atomic and Nuclear Physics". In Table 8 on page 266 of this work, Shankland lists 22 metal elements and gives the date of discovery of their superconductive property (between 1911 and 1951) and the observed transition temperature. 
+
+The five metals in this list which had transition temperatures greater than 4.38K were: 
+ TABLE I 
+
+ Vanadium Z = 23 T c = 5.1 K A = 50.94
+ Niobium Z = 41 T c = 9.22K A = 92.91
+ Technetium Z = 43 T c = 11.2 K A = 98.9
+ Lanthanum Z = 57 T c = 5.4 K A = 138.91
+ Lead Z = 82 T c = 7.26K A = 207.19
+
+Note that the data for A, the atomic weight of the element, has been added by this author. The reason for adding this data about the atomic weight is that the author suspects that there is something in the vacuum field system acting as a dynamic balance for a rhythmic motion of particles of matter which they have owing to their interaction with something that characterizes the vacuum state. 
+
+If an ionized molecule has a motion about a centre of gravity which it shares with something in counterbalance having the same mass, then the impact of an electron upon that molecule as the electron is absorbed will translate as an impact through the centre of gravity plus a turning couple about that centre of gravity. The latter adds angular momentum which can be conserved by this dynamically balanced system until an electron is emitted from the same or another molecule to restore the balance. 
+
+Now this would only work well, meaning that little energy is lost, if the 'something' in counterbalance with the molecule has a matching mass. By transferring the linear impact to a point midway between the two masses (at their centre of mass), the energy dissipating vibrations are minimized. 
+
+Note that, with superconductivity in mind, one can think in terms of the collision being more likely if the ionized molecule moves in a direction opposite to the electron. In this case the reverse motion of a positive ion and the forward motion of an electron represent current flow in the same direction. Such a current has a self-inductance and the arrest of the electron and the slowing down of the ion capturing the electron implies a sudden change in inductive energy. This means that an EMF is set up which urges restoration of current flow and so the emission of an electron from a nearby molecule which is facilitated if that molecule happens to be moving in a forward direction. This, in its turn, means that, in emitting the electron, the latter molecule is retarded in its motion. 
+
+A reader familiar with electrical engineering principles will see from this that the thermal energy of those molecules can be deployed into sustaining the self-inductance of this system and that, to keep the energy balance, the electrons substituted for those absorbed actually gain energy in the process. What this means is that a current might possibly be sustained thermodynamically provided the dynamic balance is such that the impact of the electron absorption and of the reaction impulse of electron emission is carried through the centre of gravity of a balanced system. It is this possibility that causes the author to seek evidence of the mass quanta best suited to provide this dynamic balance. Hence the interest in the molecular weight of the substances which have good superconductive properties. This introduces the theme which we now address in detail in our enquiry into the phenomenon of superconductivity. 
+
+Note that we have here introduced mechanical principles into our argument, presuming that, if the collision energy can be deployed into angular momentum as opposed to linear vibrations, then there will be less heat dissipated and the conductivity property must therefore be enhanced. This argument should apply equally to a situation where molecules collide without there being any free electron motion. In other words, it could have bearing upon thermal conductivity as well. We will not, however, seek to bring such thermal conduction properties in this empirical investigation, being well aware that generally the two are closely related so far as normal conductivity in metals is concerned. 
+ EMPIRICAL DATA 
+
+There is something having a mass quantum value that is deemed to provide the dynamic balance of the field medium. That is our assumption as we move forward in our investigation. However, with hindsight and the benefit of several years of research, the author has discovered that there are two such quanta, one being substantially heavier than the other, and so we will advance with that thought in mind. 
+
+Now, for reasons discussed elsewhere [1989a], it is appropriate to refer to these balancing quanta as 'gravitons' and so our investigation will aim to establish the respective mass quanta of two types of graviton, which will be termed the 'graviton' and the 'supergraviton'. The latter have the larger mass. The 'graviton' is a term used conventionally in physics to refer to something of a virtual nature that mediates in the gravitational interaction. 
+
+Looking at the five values of A listed above it is not reasonable to expect to see a link with two distinct mass quanta. We need more data before our analysis can begin. To find such data it is appropriate to extend the idea of our scheme in the following way. If the process contemplated can account for why normally conductive metals become super-conductive, may it not also explain why substances which one thinks of as semi-conductors really exhibit the normal conductivity we associate with metals? With this in mind one can survey various available data sources, but one which came to this author's attention will suffice for the immediate purpose. It was published in 1984 and is a commercial summary of certain substances classified as 'Electrocatalysts and Solid State Ionic Conductors' (issued by Basic Volume Limited of 12/13A Cotswold Street, London, England). 
+
+The referenced text devoted 39 pages, each to describing the properties of a different electrocatalyst, and included a statement concerning conductivity type as well as the molecular mass data applicable to the chemical composition. Of the 39 examples listed, some were specifically identified as having metallic conductivity (denoted MC) or a transition from semiconductor to metallic conductivity (denoted SC/MC) and in the latter category some were to have such a transition near to room temperature (denoted SC/MC/RT). Those that were so identified are listed below: 
+ TABLE II 
+
+ La 0.5 Sr 0.5 MnO 3 MC
+ LaCoO 3 SC/MC
+ La 0.5 Sr 0.5 CoO 3 MC
+ La 2 NiO 4 SC/MC
+ La 3 Ni 2 O 7 SC/MC/RT
+ La 4 Ni 3 O 10 SC/MC/RT
+ SrLaNiO 4 MC
+ LaNiO 3 MC
+ La 2 CuO 4 MC 
+ LaCuO 3 MC
+ SrMoO 3 MC
+
+Now, before examining the data concerning molecular weight, the reader is asked to consider the following statistical proposition. Suppose that, having regard to the progression in atomic weights of the elements of the periodic table and the myriad of molecular compositions that are possible, including small molecular clusters of several similar molecules, we consider a range of numbers chosen at random from, say, 200 to 1000. Now, we ask: "Given an optimum numerical value, say 100, what is the chance that a number chosen at random will have a value within 2% of a multiple of the prescribed optimum number 100?" 
+
+To make the problem just a little easier, let us extend the range of numbers to be from 197 to 1019, which brings those within 2% of the 200 and 1000 norms fully into the range. There are then 8 numbers centred on 200 and 40 numbers centred on 1000 that will be counted, along with 12+16+20+24+28+32+36 intervening numbers, altogether making a total of 216 out of 823. Roughly, there is a 1 in 4 chance of a molecular unit chosen at random satisfying the criterion presented in this arbitrary way. If the range were extended by three steps to be from 197 to 1325 then the range extension by 316 would add 144 chances, a less than 1 in 2 chance of the criterion being satisfied at random in this extended range. 
+
+With this as background, it is noted that the 39 substances chosen for presentation in the commercial handbook mentioned above were not chosen at random. They were selected because they were electrocatalysts. There was something special about their physical properties. Furthermore, the 11 substances listed above were chosen from those 39 because the handbook declared that there was something special about their electrical conductivity property. This is of interest to this survey because a substance which might reasonably be deemed to be a poor conductor has, for some mysterious reason, acquired metallic conduction properties. We are, of course, directing our attention to that theme introduced above by which some kind of mass coupling can affect the process of energy exchange involving conduction electrons. 
+
+The 39 substances listed in the reference data book included a specification of their molecular weights. Thus, for example, LaNiO 3 has a molecular weight of 245.618. If we consider this as forming in collective groupings of 4 such molecules the group would have a mass number of 982.472. This is within 2% of 10 times the arbitrary unit of 100 taken as the test criterion in the above statistical example. On that test this particular substance meets the required conditions. 
+
+Logically, the reader will see that, if we track through all 39 substances in this way, we should expect no more than a one in four match if the range extends to a mass number of 1019 and no more than a one in two match if the mass number falls in the range 1020 to 1325. 
+
+However, this is not what we find. On the contrary, without exception so far as the 11 above-listed substances are concerned, all meet the test condition 100%. Indeed, 8 of the 11 meet the condition in the 197 to 1019 range and, so far as the other 3 are concerned, these meet the condition in the 1020 to 1325 range but the latter fall well within 1% of the 100 norm. Note that the second-listed substance '2 Lantanum Strontium - (1,1,6)' has a mass number of 220.194 and a cluster of 5 such molecules has a combined mass of 1100.97. Based on 11 units of 100, this is within 0.09% of the set norm. 
+When we come to assess the whole 39 substances recommended for their electrocatalytic properties, the test criterion is satisfied within the 1325 range by all but 4. Statistically, this is astounding unless (a) there is a definite physical connection between the mass quantity and the physical property selected and (b) the 100 arbitrary norm selected for discussion happens, fortuitously, to be extremely close to the mass unit of the dynamically reacting quantum that we are seeking. 
+
+Of the 39 substances, the test is satisfied within the 197 to 1019 range by 28 and within the 1020 to 1325 range by 7. Note that 28 in 39 compares with the statistically probable ratio of 216 in 823 and 35 in 39 compares with the statistically probable ratio of 350 in 1139. 
+
+So that you may check what I say here, I list in TABLE III all 39 of the compositions alongside their molecular weights. 
+ TABLE III 
+
+ NiAl 2 O 4 176.670
+ CoAl 2 O 4 176.893
+ CUAL 2 O 4 181.500
+ MnTiO 3 160.838
+ CrVO 4 166.938
+ Cu 3 V 2 O 8 420.503
+ NaCrO 2 106.984
+ CuCr 2 O 4 231.529
+ ZnCrFeO 4 237.210
+ CoMn 2 O 4 232.806
+ CuMn 2 O 4 237.405
+ LaMnO 3 241.846 
+ La 0.5 Sr 0.5 MnO 3 216.204
+ CoFe 2 O 4 234.624
+ ZnFe 2 O 4 241.061
+ NiCr 2 O 4 226.699
+ LaFeO 3 242.750
+ La 2 CoO 4 400.741
+ La 4 Co 3 O 10 892.433
+ LiCoO 2 97.873
+ NaCoO 2 113.921
+ MnCo 2 O 4 236.802
+ NiCo 2 O 4 240.574 
+ LaCoO 3 245.840
+ La 0.5 Sr 0.5 CoO 3 220.194
+ La 2 NiO 4 400.52
+ La 3 Ni 2 O 7 646.132
+ La 4 Ni 3 O 10 891.764
+ LiNiO 2 113.649
+ NaNiO 2 113.698
+ La 2 Li 0.5 Ni 0.5 O 4 374.6365
+ SrLaNiO 4 349.237
+ LaNiO 3 245.618
+ La 2 CuO 4 405.350 
+ Eu 2 CuO 4 431.462
+ LaCuO 3 250.42
+ CoMoO 4 218.870
+ CuMoO 4 223.483
+ SrMoO 3 231.56
+
+ THE GRAVITON MASS 
+
+We still do not have enough data to determine the mass of the dynamically reacting mass quantum of the vacuum field background. Certainly there is a suggestion that a mass of about 100 atomic units is indicated, but this is too high to be realistically associated with the dynamic balance needed by much lighter atoms. 
+
+Looking at the data already listed for the five superconductors, there appears to be an atomic cluster connection possibility if the dynamically balancing reaction unit were to interact with a pair of Vanadium atoms, or three Lanthanum atoms or one single Lead atom. A mass value of 102 lies within 2% of the 100 norm selected empirically above and is also within 2% of the value needed to match the Lead atomic clusters. A 2.09% discrepancy applies for the Lanthanum atomic cluster. 
+
+Therefore, one wonders if the 102 mass might be more representative of the supergraviton dynamically reacting property. It is appropriate also to note that atomic elements present their individual masses by their isotopic form. Take Uranium as a familiar example. U 235 becomes superconductive below 2.1K, whereas U 238 becomes superconductive at the higher temperature of 2.2K. This was reported in 1967 (R. D. Fowler et al, Physical Review Letters, 19, 892 [1967]) and this was significant because this finding was contrary to what was expected from conventional theories of superconductivity. Something was overriding the normal action. There is something special concerning U 238 in relation to U 235 as far as superconductivity is concerned. Let us make a check using the atom cluster argument in relation to the dynamic mass balance. 3 U 238 atoms adds to a mass of 3x238 or 714 units, which is exactly 7 times 102. 3 U 235 units adds to 3x235 or 705 units, which is 7 times 100.7. Here, then is a hint that the 102 supergraviton mass value may be more likely than our arbitrary choice of 100.
+
+ Looking now at the niobium and technetium superconductors, using their actual mass numbers of 92.91 and 98.9, respectively, our problem here is that of finding a graviton link. Both are less than 102 and it would take rather many atoms in a cluster to justify the dynamic balance being shared by nearly as many supergraviton units. Accordingly, bearing in mind that these two metals are exceptional in their superconductive properties, the logical hope is that both are very close to being integer multiples of the normal graviton mass. 
+
+Now, one has to be careful in expecting Nature to conform with mathematical logic. Physical processes that depend upon the evolutionary effects and mutual interactions between numerous physical forms tend to be governed by energy adjusting to its optimum state and also by electric particles engaging in a contest for survival. The ruling action is one of 'survival of the fittest' as particles of the same family interact to give support by enhancing their mutual equilibrium. The root of this is their ability to exchange energy at a rate of exchange related to their own family characteristics as implicit in their mass property. 
+
+When we consider the graviton and the supergraviton we are considering two separate families of virtual particles. These virtual particles can be present in empty space or in dense matter, dense meaning in relation to substance which is composed of heavy atoms. These have atomic nuclei which have dynamically-centred concentrations of mass measured in tens or hundreds of atomic mass units. In the empty space medium, which is the seat of action of the virtual energy world of the sub-quantum vacuum, and in air and water, for example, the prevalent mediator in the gravitational action will be the basic graviton form.
+
+There is evidence connected with the theoretical derivation of G, the constant of gravitation, in terms of the usual charge and mass properties of electrons or protons, which tells us that the graviton has a virtual mass-energy of a few GeV. Indeed, it has a composition involving the tau lepton. However, in dense matter and particularly in metals composed of atoms high in the periodic table, it would take too many such gravitons to focus their dynamic balance on each atomic nucleus. It then becomes energetically desirable for a supergraviton state to consolidate the gravitons into a supergraviton form. The theory associated with this phenomenon has revealed [1989a] that the criteria for this transmutation of form between the graviton and supergraviton family involves 31 graviton systems deploying their energy to create 2 supergravitons. 
+
+From the viewpoint of this discourse on superconductivity, the question at issue is that of determining whether the supergraviton exists side-by-side with gravitons in a particular substance. For example, if a dense metal contains inclusions formed by holes or atoms of low mass, will there be gravitons in the virtual energy world associated with those inclusions and exclusively supergravitons in the virtual energy associated with the crystals constituting the metal proper? 
+The answer to such a question depends upon the evidence of the mass resonance found in superconductive properties. Given technetium and niobium, which both involve heavy atomic nuclei having values marginally related to the mass already assigned to the supergraviton, can we exclude what could appear as a normal graviton component? 
+
+It is to be noted that a cluster of 11 niobium atoms of 92.91 atomic weight has a composite mass of 1022, which is very close to 10 units of 102. 
+
+The random chance of taking a number of the order of 100 in magnitude and finding an integer multiple of it to be within 0.2% of an integer multiple of particular value, which we assume is 102, is about 1 in 5 if the integer multiple is as much as 10. If the match is to be within 0.05% the chance is 1 in 5 when the integer multiple is 20 or 1 in 2 when the integer multiple is a little over 30. 
+
+The relevant formula for estimating this is: 
+ p = kN'N 
+where p is the probability factor governing the chance of a resonance, involving a group of N particles of atomic mass A, being within a factor k of an integer multiple N' of supergravitons of atomic mass G'. Note that the factor k represents the degree of approximation to the equality of N'G' and NA. 
+
+The derivation scans an arbitrary mass range from 0 to N'G' and assigns 2kG'x units to segments of this range with x incrementing from 1 to N'. Upon summation the result obtained is kG'(N') 2 and there are N times that many chances in N'G' of the match condition indicating supergraviton resonance. The probability factor p is therefore kN'N. 
+
+We will now examine the five metal superconductor highlighted in TABLE I above as having higher than normal T c values. We explore the proximity of a match in an integer relationship referenced on the G'=102 mass value. Thus niobium needs 11 atoms (N) to form a cluster balanced by 10 supergravitons (N') and the match holds true to within k=0.2%=1/500. This appears to present the 4.5 to one chance that defies the odds, because p should be 0.220 whereas at match (meaning p=1) was found with the designated k value. Such a discrepancy if repeated with other substances has to mean that there is an underlying physical phenomenon at work that has guided us to that choice of niobium, by virtue of its superconductive property. 
+ TABLE IV 
+
+Vanadium T c =5.10K A= 50.94 N=2 N'= 1 k=0.12% 
+Niobium T c =9.22K A= 92.91 N=11 N'=10 k=0.20%
+Technetium T c =11.2K A= 98.90 N=33 N'=32 k=0.01%
+Lanthanum T c =5.40K A=138.91 N=11 N'=15 k=0.13%
+Lead T c =7.26K A=207.19 N=32 N'=65 k=0.001%
+
+Note that all five of these metals would appear to defy the statistics of a random process. The expected random value of p, based on the rounded value of k in the table, is 0.0024, 0.220, 0.106, 0.214 and 0.021, respectively for these metals, yet their k values give unity probability. The metals have not been chosen because they gave the best fit, but because they were the highest T c values of record at the time the list was compiled by Professor Shankland. There is really no chance that this 102 matching can be fortuitous. There has to be physical significance in this finding! 
+
+ To continue this Essay press: 
+ Continuation

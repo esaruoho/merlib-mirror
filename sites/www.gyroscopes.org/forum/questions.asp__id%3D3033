@@ -1,0 +1,743 @@
+
+<html>
+<head>
+  <title>Gyroscopes - Everything you needed to know</title>
+  <meta HTTP-EQUIV="Content-Type" content="text/html; charset=iso-8859-1">
+  <meta http-equiv="pics-label" content='(pics-1.1 "http://www.icra.org/ratingsv02.html" comment "ICRAonline EN v2.0" l gen true for "no gen term" r (nz 0 vz 0 lz 0 oz 0 cz 0) "http://www.rsac.org/ratingsv01.html" l gen true for "no gen term" r (n 0 s 0 v 0 l 0))'>
+  <meta name="Author" content="Glenn Turner">
+  <meta name="keywords" content="gyroscope, gyroscopes , gyro, gyros, gyroscopic propulsion">
+  <meta name="Description" content="Gyroscopes have many uses, this site explains how a gyroscope works and what they can be used for. The site also looks at the possible uses of gyroscope based propulsion (gyroscopic propulsion). ">
+  <meta name="Copyright" content="Copyright 2015 (All Web Pages) by Glenn Turner">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="expires" content="0">
+  <link rel="stylesheet" href="/iesite.css" type="text/css">
+  
+</head>
+<body bgcolor="#000000">
+  <div style="  float: center; margin: 0; border: none; padding: 0; " align=center><center><img src="/header.jpg" alt="" hspace=0 vspace=0 width=700 height=111></center></div>
+  <center>
+  <span class="menutitle">
+    <a href="/index.asp"><font color="#DDDDDD">Home</font></a> :
+    <a href="/gallery.asp"><font color="#DDDDDD">Gallery</font></a> :
+    <a href="/history.asp"><font color="#DDDDDD">History</font></a> :
+    <a href="/uses.asp"><font color="#DDDDDD">Uses</font></a> :
+    <a href="/behaviour.asp"><font color="#DDDDDD">Behaviour</font></a> :
+    <a href="/math.asp"><font color="#DDDDDD">Maths</font></a> :
+    <a href="/forum/forums.asp"><font color="#DDDDDD">Forum</font></a> :
+    <a href="/propulsion.asp"><font color="#DDDDDD">Propulsion</font></a> :
+    <a href="/links.asp"><font color="#DDDDDD">Links</font></a> :
+    <a href="/glossary.asp"><font color="#DDDDDD">Glossary</font></a>
+    <br>
+  </span>
+
+  <table border=0 cellpadding=0 cellspacing=0 width="0" height="11">
+  <tr>
+    <td></td>
+  </tr>
+  </table>
+
+
+
+
+
+  <table border=0 cellpadding=8 cellspacing=0 width="700" height="260" bgcolor="#FFFFFF" ID="Table1">
+  <tr>
+    <td valign="top" class="main">
+<table align="center" width="100%" border="0">
+  <tr>
+    <td align="left" width="20%" valign="top">
+      <a href="forums.asp">Main Forum Page</a>
+    </td>
+    <td align="center" valign="middle">
+      
+      <h2 border="0">       
+      The Gyroscope Forum</h2></td>
+    <td align="right" width="20%" valign="top">
+      15 April 2021 16:05
+    </td>
+  </tr>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <p align=left>Welcome to the gyroscope forum. If you have a question about gyroscopes in general,
+      want to know how they work, or what they can be used for then you can leave your question here for others to answer.
+         You may also be able to help others by answering some of the questions on the site.
+      </p>
+      
+      <table width="100%">
+      <tr><td>
+        <form action="qa.asp" method="get">
+        <b>Search the forum: </b><input type="text" value="" name="forumsearch" size=30>&nbsp;<input type="submit" value="Search" name="forumsearchsubmit">
+          <input type=hidden name="forum" value="">
+        </form>
+      </td><td>
+        
+        <form action="askquestion.asp" method="post">
+        <input type="submit" value="Ask new Question" name="forumsearchsubmit">&nbsp;
+        
+        <input type="submit" value="Login" name="Login"> 
+        
+        </form>
+      </td></tr>
+      </table>
+      <hr width=100%>
+    </td>
+  </tr>
+</table>
+
+<table align="center" border="0" width="95%">
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><h3>Question</h3></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Asked by:</b></td>
+    <td align="left" colspan="2" valign="top">dave brown</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Subject:</b></td>
+    <td align="left" colspan="2" valign="top">Everything there is to know, here. (no maths)</td>
+  </tr>
+  <tr>
+    <td align=right class=medium valign="top" nowrap><b>Question:</b></td>
+    <td align=left class=medium valign="top" width="400" colspan="2">Hello again. It's been a while. Happy new year.<br>
+I have everything sorted and this will answer all questions, I think.<br>
+<br>
+BTPM: better than perpetual motion.<br>
+(just that perpetual motion so far sounds like breaking even.)<br>
+<br>
+Firstly, how a gyro reacts.<br>
+- I also mention things I don't agree with in Eric's video.<br>
+<br>
+1)<br>
+- a gyro is torqued top and bottom and reacts.<br>
+- the reaction is felt at its max. at 90 degrees from both top and bottom.<br>
+-- Eric, the acceleration and decceleration times are:   the time for 90 degrees of gyro spin.<br>
+-- and, he states that he will put weights on inplace of his hand so we can see he's not pushing it,<br>
+--- and states that a torque does not create an acceleration like higher maths dictate.<br>
+--- well, the static weights he hangs on the gyro are going in a circular path, which requires acceleration.<br>
+- the force felt towards, at, and from 90 degrees, causes the precession and more.<br>
+-- note, that the more rigid a gyro is, the less it will flex before being forced to come back in at, top or bottom.<br>
+-- the gyro molecules transfer the torque to 90 degrees to cause precession, and then<br>
+-- to keep orientation to the horizontal, as it comes back "in" at next 90 degrees point, top or bottom.<br>
+--- the faster a gyro spins, the less time is spent giving that part of the gyro torque, so the slower it precesses.<br>
+--- again, a fast spinning gyro has less force-time acting on each of its parts and so has less to give back.<br>
+-- (car radiators are similar, if you remove the thermostat, the water is not in the rad. long enough to <br>
+--- give off the heat it was given.)<br>
+<br>
+2)<br>
+- in this video: (not mine)<br>
+https://www.youtube.com/watch?v=xf1Nt3KLm-U&ab_channel=woopyjump<br>
+- turn off the sound, all you need is to see the torque length vs. the orbital radius, and then upward precession.<br>
+-- we all know if you force in the direction of prescession it will react at 90 degrees and go up<br>
+<br>
+3)<br>
+- the torque bar length, the mass of the gyro, and the orbital radius are related.<br>
+- in the video, because the orbital radius is less than the torque bar length, the gyro is forcing more than is<br>
+-- required for an orbital precession of this size and the gyro precesses upward.<br>
+--- if you were to prevent the gyro from going up, it would still be forcing upwards but,<br>
+--- the gyro would then move faster in the orbital direction,<br>
+---  just like when you stop normal precession, the gyro falls due to the effect of gravity.<br>
+- the interesting thing now is, the gyro is still forcing upward, torquing about its center of mass<br>
+-- and so it is feeling heavier.<br>
+-- the gyro now wants to precess faster in the orbital direction for a 2nd reason<br>
+-- this would cause it to precess upwards more, it can't, <br>
+-- so it goes faster still, and again "gravity" increases, it's heavier...<br>
+--- to what end?<br>
+<br>
+read on, i will be using a top and not a gimbled gyroscope.<br>
+<br>
+so now we start towards BTPM<br>
+<br>
+4)<br>
+- in this video at 06:00: (not mine)<br>
+https://www.youtube.com/watch?v=5TqxF3jGKlQ&ab_channel=Latheman%27scrazymachines<br>
+- you will witness a top spinning. It is one solid piece, no bearings.<br>
+- as the top goes horizontal, you see the disk spinning on the opposite side of the orbital radius<br>
+-- in reference to the torquing end.<br>
+- you also see the torquing end is touching the ground and spinning in the "correct" direction for orbiting.<br>
+-- (pay attention to the sound. It is the sound of slippage, which we will get rid of.<br>
+- what you see is just like the first video except with a bonus.<br>
+-- where the top is touching the ground, if there were no slippage, and was longer, and<br>
+-- the shaft extended out the other side of the disk and was kept from going up, and<br>
+-- the pivot point of the system was ensured with a bearinged support that allowed it to flex a little up and down,<br>
+-- then<br>
+-- then it would sustain it's gyro spin. Infact it would speed up spin and orbits to the point<br>
+-- the spin speed governs its precessional speed and balances out.<br>
+--- all done in 1/4 spin increments, so, fairly quickly.<br>
+- the gearing/speed can be controlled via:<br>
+-- top's mass. larger for slower speeds<br>
+-- torquing arm's length. longer for lower speeds.<br>
+-- torquing arm's diameter where it touches the ground. smaller for lower speeds.<br>
+<br>
+that is BTPM<br>
+<br>
+<br>
+for the levitation<br>
+5)<br>
+--(( sorry i can't find the video to demonstrate. ))<br>
+- you can see the unspupported center of mass, from 4) above, is torquing itself now, on either side, and<br>
+-- if the flywheel was light enough, and fast enough, you could get enough difference of force at the ends that<br>
+-- if you put one the opposite way above the first going in the same direction for balance and then<br>
+-- a set above those in the opposite orbital direction<br>
+-- well<br>
+-- up up and away.<br>
+<br>
+what i think is being missed mostly is trying to force the reaction out of the gyroscopes and causing the flywheel to want to shatter itself.<br>
+- just like a slightly unbalanced wheel on a car will go in and out of vibration  as the speed increases.<br>
+<br>
+Well,<br>
+That's the end of my journey.<br>
+Everything is there that you could ask for, as far as i can see.<br>
+A little fame, a little money, would be nice...<br>
+ I'd like to settle down in a little house on the side of a hill, with a sweet cribbage opponent for company. :)<br>
+<br>
+<br>
+Oh, and if it doesn't do what I can only see it must do, well, then,<br>
+it proves that it can't be done in the macro world.<br>
+That if that there setup is not taking gravity back into the "force" sector of physics,<br>
+then we will have to rely on the quantum tunneling of exotic particles to figure it out for us.<br>
+<br>
+that's my 2 cents.<br>
+- it really has been a lot of fun. only wish dad was around for at least the hype of it,<br>
+- if not for the reality of it, too.<br>
+ta ta....<br>
+<br>
+  dave brown</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Date:</b></td>
+    <td align="left" colspan="2" valign="top">19 January 2021
+    </td>
+  </tr>
+  <tr>
+    <td align="right" colspan="3" valign="top"><a href="abuse.asp?q=3033">report abuse</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2><hr width="100%"></td>
+  </tr>
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><br><h3>Answers (Ordered by Date)</h3><br></td>
+  </tr>
+  <tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>dave brown</b> - 19/01/2021 19:47:30
+</td></tr><tr><td>&nbsp;</td><td><br>
+some additions and clarifications.<br>
+<br>
+1a)<br>
+- the top torque forces the gyro away from the orbital pivot point and<br>
+- when the that part of the gyro is interacting with the  bottom torque<br>
+- they fight each other and help keep the gyro at its angle with the horizontal.<br>
+- also, the bottom torque forces in and has the same fight with the top torquing area,<br>
+- having the same helping effect.<br>
+<br>
+<br>
+in 3), the third line would be clearer as:<br>
+-- required for a "normal" precession around an orbit of this size, so the gyro precesses upwards.<br>
+<br>
+3a)<br>
+- as Eric showed, when you add weight, the gyro precesses faster.<br>
+-- (true here as there is now more force in the force-time moment.)<br>
+- as for preventing upward precession and allowing the gyro to orbit faster,<br>
+-- the molecules of the gyro are hitting a "wall" and bouncing back with, now, more force.<br>
+-- and as long as you never inhibit one direction, in this case the orbital direction,<br>
+-- you will allow the gyro to react as it reacts, in this case controlling the orbital speed.<br>
+** forcing the situation unduely will only cause molecular caos within the spinning body.<br>
+<br>
+in 4)<br>
+- i say "all done in 1/4 spin increments". well,<br>
+-- i was just keeping the wording inline with what i'd said before that.<br>
+- it actually starts right away and is in full effect after a 1/4 spin<br>
+-- due to the fact the molecules affect those beside them and therefore<br>
+-- the force is felt in full effect at the bottom too, after a 1/4 spin.<br>
+--- again this is the words, not the math, and i'm confident i'm close enough for now.<br>
+<br>
+in 5)<br>
+- when i say to put one the opposite way, i'm referring to a complet 2nd top<br>
+- and then again above those 2 would be another set of 2 tops going the opposite way.<br>
+-- this way the housing would not be torqued to twist.<br>
+<br>
+dave brown<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8344">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>dave brown</b> - 27/01/2021 19:35:37
+</td></tr><tr><td>&nbsp;</td><td><br>
+again, to be clear:<br>
+<br>
+in 4)<br>
+the spinning disk has to have the majority of the mass, it's the system pivot point that is similar to the 1st video, between the small friction end and the disk, and closer to the disk; another part that can be adjusted for less or more upwards force.<br>
+<br>
+----<br>
+and if you go to the first video, which is his gyro video #18, then into all his videos and find gyro video #1, that is almost exactly the setup you need. <br>
+the system pivot point is there, just remove the motor.<br>
+the small end is there and geared and has almost a complete circle to run against, except he is doing propulsion and split it. Just make the whole circle touch the small end with purple friction tape, or whatever that is.<br>
+----<br>
+<br>
+i'm rewriting the whole thing for clarity's sake.<br>
+dave brown<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8345">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>dave brown</b> - 29/01/2021 03:19:56
+</td></tr><tr><td>&nbsp;</td><td>Hi,<br>
+All due respect but, looking at some of the setups involving gyroscopes, it's like science has been thrown out the window in search of how to please some propulsion gods. I see gyroscopes clamped and spun with opposing gyros giving intermittent "findings" as machines bounce all around, gitter, vibrate, and what have you.<br>
+<br>
+All that is new in any of this are the words stating that gyroscopes take Einsteinian gravity which is not a force and extracts a gravity driven force at a rate we can control. The whole gyroscope assembly, with all its mass is going in a circle, and maintaining it's angle with the horizontal which requires force, an acceleration. You pour Einstein in, and get gravity-force out.<br>
+<br>
+All that my setup does is use the gravity-force; well it's not attacting anything but it is definately not warped space anymore. Its implications have yet to determined, again, if it really is going to work and again, I can't see it not working.<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8346">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>dave brown</b> - 30/01/2021 03:16:21
+</td></tr><tr><td>&nbsp;</td><td>Yes, I see something else that needs clearing up.<br>
+...sort of important too.<br>
+<br>
+A regular precessing gyro uses Einsteinian gravity to make a force.<br>
+<br>
+My setup may start like that but is quickly replaced with the force it creates itself in the "down" direction; this is where the 'will it work' part finds its place.<br>
+My setup is nolonger being fed by gravity but is creating a torque of its own in the very same direction, through arrested precession. It will actually work anywhere. It does not need a mass like that of a planet in the vicinity.<br>
+..........again, if it works. ...again, i don't see why it would not.<br>
+<br>
+Cheers.<br>
+<br>
+note:<br>
+If you take woopyjumps' gyro project #1<br>
+ make the changes i state, found above,<br>
+ and put the large bearing under the ring he has,<br>
+ the small end could easily be made longer to run on a larger ring.<br>
+That ring would be higher than the first and<br>
+ it would be a very simple project at that point.<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8347">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>dave brown</b> - 03/02/2021 21:35:43
+</td></tr><tr><td>&nbsp;</td><td><br>
+If you recall what i said about poorly balanced car tire vibrating,<br>
+ and then think of the gyro projects showing intermittent weight loss,<br>
+ it is clear to see now, that yes something is happening.<br>
+<br>
+<br>
+<br>
+Further points:<br>
+<br>
+Einstein gravity is perpetual, perpetual, perpetual...<br>
+ a gyroscope can turn it into a force perpetually, perpetually, perpetually...<br>
+ you can rig a top to complete its orbit sooner than the force given expects so, torque/"gravity" is increased.<br>
+ increased torque gives faster demanded precessional orbit, and increases gyro spin at same time.<br>
+ all increasing until the gyro spin slows the process, torque/"gravity" ruled.<br>
+<br>
+The faster a gyro spins, and the more rigid a gyro is,<br>
+ the more efficient it is at transfering the initial torque to the point at 180degrees.<br>
+ And with most of the energy keeping the gyro from "falling",<br>
+  the less there is for the forced precession.<br>
+<br>
+If the gyro spun at the speed of light and without resistance,<br>
+ it should neither "fall", nor precess.<br>
+ (And because the speed of the molecules is progressively slower as you go in towards the axis of rotation,<br>
+   you'd either have the outer edge at the speed C and the rest slower, or<br>
+   you'd have the closest part at C and the rest, well, breaking the law.)<br>
+ ** and someone should calculate the max spin speed for materials as<br>
+     the internet clan has them going up to 99,000 rpm.<br>
+     - somebody's going to get hurt one day.<br>
+<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8350">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Sandy</b> - 09/02/2021 09:38:06
+</td></tr><tr><td>&nbsp;</td><td>Hello Dave<br>
+I commend you on your extensive postings relating to the way you see gyroscopes operate.<br>
+Your 5 postings would take a fair bit of answering a time-consuming task which as I do not have that much time available, I do not intend to get involved in..<br>
+Your preliminary statement referring to the top and bottom gyroscope torque I do not agree with which is at the beginning of your first post.and it would appear you have never got to grips with the concept of rotation without acceleration.<br>
+Consequently discussing all of your claims could take a lot of time but we are all entitled to our own opinions, and thank goodness for that.<br>
+You are entitled to be as correct as anyone else.<br>
+However in this day and age it seems that only a live demonstration of proof will suffice, and that is if the clever people will ever condescend to view it.<br>
+.<br>
+That said what I do know from personal experience, is that no single gyro on its own, and being manipulated in any way shape or form is capable of delivering any level of inertial thrust.<br>
+All that said, this would appear to limit gyroscopic drive options.quite considerably, although it still does not necessarily close the book.<br>
+Best regards,<br>
+Sandy.<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8361">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>dave brown</b> - 10/02/2021 02:37:37
+</td></tr><tr><td>&nbsp;</td><td>wow.<br>
+so i'm seen as a punk with an opinion.<br>
+<br>
+that is all there for you to build. very easy to build in comparison.<br>
+<br>
+it is perpetual motion. that impossible thing.<br>
+<br>
+if you don't get that and don't want to get that i bid you good day.<br>
+<br>
+i thought you had interest in this and were not just another self dulusioned Eric Laithwaite.<br>
+<br>
+the number of people that have followed what he said to a T and because he was such a giant of a scholar and then in the same breath thought they could  WASTE TIME building his gizmos thinking they'd do better than him is astounding.<br>
+<br>
+i must also be wrong, that my english father does not represent England, the UK, but was a giant of a man in this pathetic little world.<br>
+<br>
+.... ringing in my ears for a long time will be your not wanting to get involved in it.  what a joke... i'm beside myself. <br>
+... even if you were done with the whole deal this setup is the realest deal you will find<br>
+... i explain everything i have seen in all the videos.<br>
+... i don't want answers. i'm not a lost puppy looking for direction. this is it. this is what everyone is on about wether you realize it or not.<br>
+<br>
+quit, go ahead. quit. you're in the box.<br>
+(and don't agree with how a gyro reacts due to Eric Laithwaite... i'm sad for you. and, i don't think you took 1/2 a second of attention if, if, IF, you read what i wrote.)<br>
+<br>
+ok UK. i'll leave you alone. I don't want back home. you are the old world and north america is all crimianals... i'm sad for me too.<br>
+<br>
+... whistles into sunset...<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8364">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 10/02/2021 15:02:46
+</td></tr><tr><td>&nbsp;</td><td>Dear Punk,<br>
+<br>
+England does not need you, incidentally, it does not need me either but I admire my genetic beginnings which are Cornwall and the entire Island. Sandy Kidd, who took the time to cordially answer you lives in Scotland, so you might pinpoint your vindictive there. The whole nation will be in tears.<br>
+<br>
+I live in America. Please do not also attack us. It would be heartbreaking.<br>
+Glenn,<br>
+<br>
+PS. If you want to understand gyroscopes go here, /forum/questions.asp?id=3018<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8365">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>dave brown</b> - 11/02/2021 06:02:44
+</td></tr><tr><td>&nbsp;</td><td>hey dumb dumb<br>
+i did not read your post<br>
+you are old and soon to leave this world when you start with 'punk'<br>
+<br>
+was probably all you heard growing up, too.<br>
+<br>
+...whistles into sunset...<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8366">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 11/02/2021 13:57:40
+</td></tr><tr><td>&nbsp;</td><td>You poor illiterate, of course you do not read.<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8367">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 11/02/2021 14:48:24
+</td></tr><tr><td>&nbsp;</td><td>I had to return.<br>
+<br>
+Coming back to your self-assessment of yourself, you claimed, so i'm seen as a punk with an opinion.<br>
+<br>
+Now you want to change to some other name? NO! I forbid it. You have found the perfect elucidation. Why would I allow you to change it? Punk seems exactly right to me. Do not attempt sometime in the future to alter or change in any way my edict. You are now everybodys punk.<br>
+<br>
+You are a hating little person, arent you? While I on the other hand think this is all funny. Lighten up kid.<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8368">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>dave brown</b> - 11/02/2021 15:07:09
+</td></tr><tr><td>&nbsp;</td><td>nope.<br>
+i'm not going to read posts from someone that starts with the word 'punk'.<br>
+<br>
+now.<br>
+do you think you're the first to use anger and belittlement for this reason?<br>
+<br>
+how dumb do i think you are?<br>
+<br>
+you thought i put that last sentence wrong don't you. you started typing right away your fantastic belittling comments. well, i think you're quite dumbe, although dumb means innabllity to talk yet in 2021 it now means stupid, but you cant' say stupid anymore because it means your brain has not formed correctly and you are at a disadvantage yet it really means lack of knowledge, poor education. well if you should know something for the job at hand that is being retarded which now incorrectly means the same thing that stupid incorrectly means but if you have ever worked on your timing UK, you would know full well what retarding is all about.<br>
+have you learned anything yet?.......... well??????<br>
+<br>
+so, all of this childish puke you all are putting out on this forum, which is probably why i did my rant 15 years ago, was it? well, you want to discredit me. <br>
+<br>
+i did the work, i almost mangled my fingers many years ago and this is mine. all mine.<br>
+<br>
+if you want to have your posts read and get respect, geuss what, that's right, you have to show respect....'punk' is not a respect word now is it. that's why you started with it. you wanted everything you said to be taken in the right context. well,<br>
+<br>
+ain't nobody getting up against the wall. keep screaming, see a psychiatrist, learn some manners, p's and q's we call them, and maybe, just maybe, if there is a god and an anterlife and reincarnation, you might ( i doubt it ) get respect. as, this is not your first time. this is your mandate, being the army for the peole with the money. you are a klingon. now be gone. <br>
+<br>
+...whistles into the sunset...<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8369">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 11/02/2021 17:57:17
+</td></tr><tr><td>&nbsp;</td><td>Sad, really sad. You called yourself a punk. Yes you did. Back up and read your post. You said you were a punk and I replied in kind.<br>
+<br>
+You truly are a sad case. I have never seen such foolishness and illiteracy in action, and you dont realize it -- but everyone else does. They see. They read. They know.<br>
+<br>
+You really are a hating little person, arent you? Sad.<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8370">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>dave brown</b> - 12/02/2021 07:03:35
+</td></tr><tr><td>&nbsp;</td><td>they have a name for people who keep doing the same thing over and over while expecting a different result.<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8371">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Harry K.</b> - 12/02/2021 08:20:18
+</td></tr><tr><td>&nbsp;</td><td>No wonder there is hardly any serious discussion in this forum.<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8372">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 12/02/2021 14:41:40
+</td></tr><tr><td>&nbsp;</td><td>Ah, my favorite nemesis returns.  Hello Harry.<br>
+<br>
+There are serious posts available for those among us capable of recognizing them. As for the discussions that separate them, it helps to laugh. First, one needs to rid himself of a humorless attitude.<br>
+<br>
+Its nice to see you in print again, and it is my hope for you that you and your family stay safe in these bad times and live happily. <br>
+<br>
+Glenn,<br>
+<br>
+Dave, peace and good fortune to you. I wish you happiness and many successes. <br>
+<br>
+Hawkins, that is I, has vacated this building.<br>
+<br>
+Glenn, <br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8373">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>dave brown</b> - 12/02/2021 16:40:10
+</td></tr><tr><td>&nbsp;</td><td>now you're upsetting harry.<br>
+<br>
+we need serious discussion in here, not a bunch of whiners.<br>
+<br>
+children will follow anyone on anything and then blame everyone else.<br>
+but it is curious to see how much you can squeeze out of a child. there was so little energy needed to follow what i wrote and discuss it, as it is on topic  but, if you can lose your mind even over a lost cause, lets see,where else in the world do we have a major example of that right now.... well anyways, if you can lose your mind  on a lost cause, it seems to be the prefer direction of choice, as it is so easy to do, after all. but, for whom is it so easy? the focused and hard working? the ones that can stay on topic? let me think... hmmm.... oh i see, i made a comment about my father and you're jealous. yes. jealousy is a great ruler, i've learned. and now you want to trash  my father's name by trashing me. i know another retarded punk was it you said? that said i am nothing like my father. so lame. so lame. well here, let me help you on your great journey. words of wisdom for the likes of you all.<br>
+<br>
+blah blah blah, blahblah blah blah. (charlie brown's parents spoke like to represent that children just want to go on and on about the pointless as they don't realize the validity of what is being said.)<br>
+<br>
+...whistles into the sunset...<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8374">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Harry K.</b> - 13/02/2021 11:07:21
+</td></tr><tr><td>&nbsp;</td><td>Hi Dave,<br>
+I read your postings and see it similar to Sandy. <br>
+Everyone has a different way of thinking and so you are convinced of your theory. Good on you!<br>
+Build a model to test your theory. Why should others do it for you?<br>
+<br>
+Just a little suggestion from me. A spinning top always tries to align itself in such a way that the smallest energy is necessary for its alignment. This gives the conservation of energy and angular momentum. So the gyroscope always tries to bring the sense of rotation of its precession into agreement with the sense of rotation of its rotating mass. This explains many unusual behaviors of the gyroscope, which are not obvious at first sight. <br>
+<br>
+Good luck!<br>
+Harald<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8375">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>dave brown</b> - 13/02/2021 16:29:43
+</td></tr><tr><td>&nbsp;</td><td>hi harry<br>
+i got to the part where you said everyone has a different...<br>
+so, you're just trying to diplomatically state that you were not on my side with your first statement; i think that's a correct assumption, so,<br>
+<br>
+'similar' is the problem.<br>
+it is 'not' the same. (similar does not mean the same.)<br>
+<br>
+there is nothing on the internet that is what i have. nothing.<br>
+<br>
+but like they say on the mom show, rich people think opinions are what work is.<br>
+<br>
+y'all not rich. y'all white. y'all think you're rich. 'entitled' is it? i know cause i was raised white. (do you see what you get everyone into when you don't speak straight? someone with a brain starts to point out what's wrong with the world. remember, it was the uk that was taking over the world and stopped after pissing everyone off. can i say 'pissing everone off'? it is not directed at anyone like that deluded moron that calls people punks. so we still on the level? you following me? or still trying to lead a party you don't understand?)<br>
+<br>
+this is mine. all mine. i found it. it's easy peasy. you opinionate all you like, all day long, all night long, all life long, then you're dead. and nothing accomplished but opinions in the wind.<br>
+<br>
+read.<br>
+understand.<br>
+you now have the entire world of knowledge connected and accesible from within your own home<br>
+you are just arguing because you want to make me think i'm wrong, or wasting my time or whatever it is morons try to do to crush the rest of the world when they are not smart enough to hide what they are doing..<br>
+...otherwise you'd be on topic saying what i have wrong.<br>
+i don't have it wrong.<br>
+<br>
+if this works, and again, and again, and again, i don't see how it can not work when gravity is perpetual, as far as we know, <br>
+<br>
+if we're going to play the king of the hill way, i'll do it and win it the way i learned to do it from everyone else's mistakes.<br>
+ready for it? i win.<br>
+<br>
+...whistles into the sunset...<br>
+now 3 peole i am nolonger reading as they are part of the brainwashing white man does. sad part is, they don't always know they are doing it; they grew up abused by it.<br>
+HEY!!! if it was a nice world to live on, i'd not be saying things like this. heard of FGM. pretty pathetic, this world. i thought america was against things like that and was at least part of the reason for war... nope... it's all about the money money money.<br>
+<br>
+see? you gotta stay on topic. if you don't like the above, you only have yourselves to blame.<br>
+<br>
+...whistles further into the sunset...<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8376">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>dave brown</b> - 13/02/2021 16:35:38
+</td></tr><tr><td>&nbsp;</td><td>Good day Nitro.<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8377">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>dave brown</b> - 13/02/2021 16:40:00
+</td></tr><tr><td>&nbsp;</td><td>I am now feeling in a good enough mood to coin my phrase.<br>
+<br>
+"You pour in Einstein's gravity, and it pours out Newton's gravity."<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8378">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>dave brown</b> - 14/02/2021 14:51:53
+</td></tr><tr><td>&nbsp;</td><td>oh lordy nitro, don't go dieing on us. i've heard you're our only hope. Also, don't go saying things like centrifugal force; there are some clever people that rule what us slaves are allowed to make happen, like if we swallow water and it goes into our stomach and they say that is impossible, then it will nolonger go into our stomach and we know the debate on wether gravity is a force or not and well, centrifuge is a product and not a man made force, but uses the laws of physics to get the required results. oh lordy nitro, at least be sure to talk like the clever people, even though we really know that centrfiugal force is real and we want everyone coming to this site, especially the nutters, to repeat our words as here we are the slave drivers of this destiny, the destiny that goes round in circles and has all rebuilding the same "machine' over and over and over, regardless of it not being accepted by clever ones.<br>
+<br>
+...possibly too clever whistling into sunset...<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8380">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>dave brown</b> - 17/02/2021 04:07:23
+</td></tr><tr><td>&nbsp;</td><td>I just want to add a reply to the point about a single gyro being 'manipulated' in any way.<br>
+<br>
+I agree whole heartedly about the manipulation part.<br>
+I even stated that its being forced is what is causing the intermittance of positive results.<br>
+<br>
+Mine is not manipulating it at all; it is in a setup that leaves it to its own devices, although some control is needed incase of it working too well, for safety reasons, and of course to be able to control the speed by altering the setup in which it does its thing.<br>
+<br>
+... ...<br>
+<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8381">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>dave brown</b> - 17/02/2021 21:04:06
+</td></tr><tr><td>&nbsp;</td><td>2 more points i'd like to comment on, now that i'm getting feedback.<br>
+<br>
+1) A gimbled gyro does not impress me other than to raise the curiosity level; its center of mass does not move, and it does no work.<br>
+- There is zero velocity. Yes, the spin has speed, the precession has speed but, that's all.<br>
+- When you hang a weight on one side, it is no longer just a gimbled gyro; things get interesting.<br>
+<br>
+When the gyro is torqued by the normal force and is then allowed to precess-out an orbit, you now have the center of mass moving. This center of mass is going in a circular path which requires acceleration; work is being done.<br>
+<br>
+If you don't spin the gyro, you have a disk on a stick and if one end is stopped from falling due to the normal force, and if it was not torqued top and bottom, it would, precess??? No, of course not, that would be silly to think a plate on a stick would not fall to the ground, wouldn't it. (said in the spirit of an Eric Laithwaite rhetorical comment.) ..the plate would, of course, twist about its center of mass so as to stand itself up, and then hit the ground as vertical as possible, dependent on disk radius and stick length.<br>
+<br>
+2) After seeing the amount of work others have done building setups, pouring their hearts and minds into this topic, (and many times building what someone else already has regardless of the fact it doesn't give obvious results.) ...I figure when someone like woopyjump has a setup, #18, and only has something simple to do to show the community there is great reason to get excited about, and maybe build what I speak of, that it would be nice for someone else to build and see what I have already seen both in my mind and through others' setups. Does it feel more like I want to share the experience? 'Cause it should.<br>
+- Remember, it was not I who set out to attack.<br>
+<br>
+- I CAME HERE WITH PERPETUAL FREAKIN' MOTION AND SHARED. If that sounds like a ***tard, shoot me, nobody will care. It certainly doesn't feel like the topic is of concern but, the desire for power, yet again.<br>
+<br>
+3) after thought<br>
+If the setup everyone is building is going to be the one with intermittent results, then you can do your standard scientific door to door looking for funding as you will need equipment to read the gyro's internal structure for stress to find the best time to fire your pulse drives so as to get the greatest output. But what do I know.<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8382">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>dave brown</b> - 22/02/2021 15:46:22
+</td></tr><tr><td>&nbsp;</td><td>yup.<br>
+i'm left feeling rather disgusted with this world, yet again.<br>
+<br>
+don't worry.<br>
+i'm sure someone else will fix it for you. those in power seem utterly concerned with the civilized part of our well being. i mean, just look how well we can stick to a topic in the science fields.<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8386">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 24/02/2021 18:21:03
+</td></tr><tr><td>&nbsp;</td><td>Dave,<br>
+In all fields of scientific theories have been rejected or not understood. If the detractors and ignorers of the Wright Brothers had been correct there would be no airplanes today. An inventor cannot rely on public opinion.<br>
+I am sending you a most beautiful poem. It relates perfectly to you.<br>
+<br>
+Glenn,<br>
+<br>
+Go placidly amid the noise and haste,<br>
+and remember what peace there may be in silence.<br>
+As far as possible without surrender<br>
+be on good terms with all persons.<br>
+Speak your truth quietly and clearly;<br>
+and listen to others,<br>
+even the dull and the ignorant;<br>
+they too have their story. <br>
+Avoid loud and aggressive persons,<br>
+they are vexations to the spirit.<br>
+If you compare yourself with others,<br>
+you may become vain and bitter;<br>
+for always there will be greater and lesser persons than yourself.<br>
+Enjoy your achievements as well as your plans. <br>
+Keep interested in your own career, however humble;<br>
+it is a real possession in the changing fortunes of time.<br>
+Exercise caution in your business affairs;<br>
+for the world is full of trickery.<br>
+But let this not blind you to what virtue there is;<br>
+many persons strive for high ideals;<br>
+and everywhere life is full of heroism. <br>
+Be yourself.<br>
+Especially, do not feign affection.<br>
+Neither be cynical about love;<br>
+for in the face of all aridity and disenchantment<br>
+it is as perennial as the grass. <br>
+Take kindly the counsel of the years,<br>
+gracefully surrendering the things of youth.<br>
+Nurture strength of spirit to shield you in sudden misfortune.<br>
+But do not distress yourself with dark imaginings.<br>
+Many fears are born of fatigue and loneliness.<br>
+Beyond a wholesome discipline,<br>
+be gentle with yourself. <br>
+You are a child of the universe,<br>
+no less than the trees and the stars;<br>
+you have a right to be here.<br>
+And whether or not it is clear to you,<br>
+no doubt the universe is unfolding as it should. <br>
+Therefore be at peace with God,<br>
+whatever you conceive Him to be,<br>
+and whatever your labors and aspirations,<br>
+in the noisy confusion of life keep peace with your soul. <br>
+With all its sham, drudgery, and broken dreams,<br>
+it is still a beautiful world.<br>
+Be cheerful.<br>
+Strive to be happy. <br>
+Max Ehrmann, Desiderata, Copyright 1952.<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8387">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>dave brown</b> - 24/02/2021 18:34:40
+</td></tr><tr><td>&nbsp;</td><td>what don't you understand you retarded child.<br>
+<br>
+stay the fuck off my threads glenn.<br>
+<br>
+you are not wanted.<br>
+you are not needed.<br>
+you are nothing.<br>
+you are the problem.<br>
+you are to blame.<br>
+you are a joke.<br>
+you are a misfit.<br>
+you are an undesirable.<br>
+<br>
+somewhere, in someone chat room, they are missing someone who thinks they are a troll.<br>
+be the troll glenn.<br>
+be the troll.<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8388">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>dave brown</b> - 24/02/2021 18:41:57
+</td></tr><tr><td>&nbsp;</td><td><br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+Thread closed.<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8389">Report Abuse</a></td></tr>
+<tr>
+<td align="center" colspan="2"><a href="answerquestion.asp?id=3033">Add an Answer &#062;&#062;</a></td></tr>
+</table>
+    </td>
+  </tr>
+  </table>
+  
+  <font class="copyright">
+  Website. Copyright &copy; 2021 Glenn Turner. All rights reserved. <a href="/site.asp">site info</a><br>
+     Do not copy without prior permission. Click here for <a target="gyroscopeproducts" href="http://www.gyroscope.com/" alt="Gyroscope products">gyroscope products</a> 
+   
+  </font>
+</center>
+
+</body>
+</html>

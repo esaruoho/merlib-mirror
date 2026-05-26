@@ -1,0 +1,47 @@
+3,5 millió kilométert is bírhat a Tesla 4680-as akkucellája 
+
+ 1 month ago 
+
+ 3,5 millió kilométert is bírhat a Tesla 4680-as akkucellája 
+
+ Jeff Dahn és kutatócsapata szerint óriási potenciál rejlik az újtípusú akkumulátorokban. 
+
+ Korábban már foglalkoztunk a Tesla Kanadában tevékenykedő, az akkumulátor-technológiával foglalkozó kutatócsapatával. A Jeff Dahn vezette laboratóriumban a tudósok a jelenleg használt lítium-ion akksik fejlesztési lehetőségeivel foglalkoznak. 
+
+ A kutatók tavaly publikált tanulmányában Dahn és csapata azt taglalja, hogyan lehetséges előállítani a jelenlegi lítium-ion technológia felhasználásával olyan akkukat, amelyek 1 millió mérföld (vagyis 1,6 millió kilométer) megtételét biztosítanák az elektromos autók számára. 
+
+ Dahn most közzétette az új típusú, a Tesla Battery Day keretein belül bemutatott 4680-as akkumulátor frissített vizsgálati eredményei, melynek fókuszában az akkumulátorkémia és a tartósság áll. Munkájuk során ezeket az új technológiával készített akksikat már több mint 3 éve és 10 ezernél is több ciklus óta tesztelik. 
+
+ A szakember pedig a vizsgálatok során arra a következtetésre jutott, hogy közepes hatótávval rendelkező elektromos autókban ezek az akkumulátorok képesek lehetnek akár 3,5 millió kilométernél is több távolság megtételére teljes élettartamuk során. A közzétett anyagokból az is látható, hogy a lítium-ion akkumulátorok rendkívül jól teljesítenek akár 15 ezer ciklus után is. 
+
+ A leginkább figyelemre méltó, hogy az akkumulátorok esetében egyáltalán nem tapasztalható kapacitásvesztés, ha teljesen feltöltött állapotból indulva mindössze 25, maximum 50 százalékot merítenek rajtuk újra töltés előtt. Kiváltképp, hogy a legtöbb ember nagyjából ennek megfelelően használja az EV-jét . Egy átlagos amerikai sofőr napi szinten nagyjából 50 kilométert tesz meg az autójával. 
+
+ Például, ha ezt az akkumulátort tennénk egy 500 kilométeres hatótávval rendelkező Teslába , amivel napi rendszerességgel 50 kilométert ingázunk, és minden este 70-80 százalékról töltenénk újra, az nagyon alacsony, vagy egyáltalán semmilyen kapacitásvesztést sem eredményezne. 
+
+ Figyelembe véve, hogy így gyakorlatilag olyan akkuk dolgoznának az autókban, amelyek szinte örökéletűek, vagy legalábbis hosszabb az élettartamuk, mint magának a kocsinak, Dahn joggal teszi fel a kérdést, van-e értelme ennyire jó és kifinomult technológiájú akksikat gyártani? 
+
+ Elon Musk , a Tesla vezérigazgatója korábban már többször hangoztatta, hogy a kaliforniai gyártó által tervezett „robotaxikban” olyan akkumulátorokat terveznek alkalmazni, amelyek több mint 1 millió mérföldet (1,6 millió kilométert) is bírnának. Ráadásul ezeknek az automatizált taxiknak jóval nagyobb lesz a kihasználtsága, mint a jelenleg személyszállításra használt járműveknek – legalábbis Musk elképzelései szerint. 
+
+ Emellett a dél-afrikai születésű üzletember a tartósabb, hosszabb élettartamú akkumulátorokat más Tesla projektek szempontjából is kritikus jelentőségűnek tartja. Ilyenek például a Powerwall, a Powerpack és a Semi elektromos teherautó is. 
+
+ Egyébiránt a Tesla már el is kezdte az új, 4680-as cellák próbagyártását a Fremontban található kísérleti üzemében. Ezt elsősorban tesztelésre, és a gyermekbetegségek kiküszöbölésére használják, de úgy számolnak, hogy már a jövő év végére el fogják érni a 10 gigawattórányi gyártási kapacitást éves viszonylatban. 
+
+ A Palo Altó-iak célja, hogy a cég jelenlegi 35 gigawattórás éves akkumulátorgyártási kapacitását 2022-re 100 gigawattórára növeljék. Musk szerint 10 éven belül, tehát 2030-ban már 3 terrawattóra, azaz 3000 gigawattóra kapacitásra lesz szükség. Ennek az elképesztő mennyiségnek a felét a villanyautókba, míg a másik felét a vállalat által gyártott különféle energiatárolási eszközökbe tervezik beépíteni. 
+
+ Forrás: 
+
+ Electrek 
+
+ Ha kedvet kaptál és szeretnél Teslát venni, akkor állítsd össze a sajátodat a Tesla.hu weboldalán található konfigurátorban ! Illetve keresd Mudri Dánielt, aki készséggel áll rendelkezésedre telefonon vagy e-mailben (+36-20-366-3447, daniel.mudri@mahzrt.hu). 
+
+ 2 days 4 hours 
+ Besárgult a Model 3: itt az első New York-i Tesla taxi 
+ Egyre több taxitársaság voksol az elektromos autók használatára. 
+
+ 2 days 4 hours 
+ A 40 milliós kölcsön, ami megmentette a Teslát a csődtől 
+ „Nincs vége, amíg a kövér hölgy énekel”, avagy mit tanít nekünk a Tesla példája? 
+
+ 2 days 4 hours 
+ Hivatalos: a 2021-es Model 3-ban már 82 kilowattórás akkupakk dolgozik 
+ A Panasonic új akkucellái tényleg hatékonyabbak, de ez még nem a 4680-as egység.

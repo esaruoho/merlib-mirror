@@ -1,0 +1,215 @@
+www.Magnetricity.com ... MAG101 
+
+I'm in the process of Debugging the Membership System. 
+If you are having problems Logging In ... Please EMAIL me 
+
+ HOME 
+
+ TESLA 
+ NEOGEN 
+ Lightning 
+ News Articles Links 
+
+ Schematics 
+ MAG101 
+ Forum 
+
+ Contact 
+
+ DAY 
+ TOTAL 
+
+ 110 214654 
+
+ Welcome 
+ : 
+ Guest 
+ ... Join Magnetricity Here 
+ New Site Feature: Member CLICK for Member Content 
+
+ Username: 
+
+ Password: 
+
+ HELP : 
+ What are Member Clicks? 
+
+ Simple foldout sections in a page that contain added Member Content. 
+ This HELP section is an example.
+
+ ... Click to Close 
+
+ HELP : 
+ Login Errors? 
+
+ If you've forgotten or misplaced your Login,
+ you can request a Reminder Email sent to the Email address in your account. 
+
+ ... Click to Close 
+
+ HELP : 
+ Privacy 
+
+ We respect your Right to Privacy. 
+ All Membership Data is Secure and Private.
+ We do not sell or share Member Data with anyone 
+
+ ... Click to Close 
+
+Quite a little mechansim in itself, no? 
+I just created this animation ... still working on it but thought it might be a conversation piece ... 
+
+Late night Ramblings ... 
+
+Every reference I've found depicts the field formed around a conductor 
+that is carrying current to be a simple spinning field with only a direction 
+of spin dictated by direction of current flow. No poles defined. 
+Does a pole not exist until two opposing spin fields join into a toroid 
+as in the case of a spiral solenoidal wound coil? 
+
+Hmmm ... 
+Could this spin field be created by the moving charge bodies in the wire 
+tunneling spirally at nearly lightspeed through its core? 
+
+Creating a sustained vortex the length of the conductor. 
+Drawing a thin flexible eddy flow through the Ether. 
+The spiraling current whips the Ether into a tubular vortex. 
+A tiny wormhole, if you will ... I think maybe I need some more coffee ... 
+
+By the way, DO electrons tunnel through a conductor in a spiral motion? 
+or do we assume they flow straight through?
+... and who do you ask ??? 
+
+I always invite Comments, Suggestions, Questions via ... Forum 
+ or 
+ Email 
+
+ General Magnetricity 101 
+
+ Similarities which scientists observed between electricity and magnetism led them to suggest that magnetic properties are possibly the result of forces between electric charges in motion. 
+ Substances which can be induced to become magnetized in a magnetic field are called Ferromagnetic . 
+ Soft Ferromagnetic materials become demagnetized spontaneously when removed from a magnetic field. 
+ Hard Ferromagnetic materials can retain their magnetism, making them useful in the production of permanent magnets. 
+ A compass is a magnet which can align itself within the earth's magnetic field. 
+ A magnet contains a north-seeking pole (north pole) and a south-seeking pole (south pole). 
+ (The possibility of having a single monopole is being investigated.) 
+ Similar magnetic poles repel. Opposite magnetic poles attract. (Law of Magnetic Poles) 
+ A magnetic field is a region in space where a magnetic force can be detected. 
+ The magnetic field is strongest at the poles of a magnet. 
+ Magnetic lines of force are a way of representing a magnetic field. 
+ By convention, magnetic lines of force point from north to south outside a magnet 
+ and from south to north inside a magnet. 
+ Magnetic lines of force form complete loops. They never cross. 
+ The magnetic poles of the earth are not located at the geographic poles. 
+ The angle between the geographic North Pole and the magnetic "north" pole 
+ is called the magnetic declination. 
+ The angle of declination depends on one's location on earth. 
+ The earth's magnetic field does not run parallel to the earth's surface. 
+ The angle of magnetic dip is the measure from the horizontal plane to the magnetic lines of force. 
+ This also varies depending on one's position on the surface of the earth. 
+ The angle of magnetic dip is very large in the vicinity of the earth's magnetic poles, 
+ making navigation difficult. 
+ The earth's magnetic field moves very slightly over long periods of time. 
+ Plate tectonics may help to account for this phenomenon. 
+ Ore bodies in the Earth can influence the strength of the Earth's magnetic field. 
+ The units for magnetic field strength are the weber/m2, called the TESLA . 
+ More familiar units representing the same thing are N/(A.m) 
+
+ General Magnetricity 102 
+
+ Materials attracted by magnets: Paramagnetic 
+ Materials repelled by magnets: Diamagnetic 
+ Materials which spontaneously form magnetized domains: Ferromagnetic 
+ Materials in which neighboring spins like to align opposite to each other: Antiferromagnetic 
+
+ Rust and corrosion strongly affect the magnetic properties of metals. Ferromagnetic metals like iron in which interactions between the electrons of neighboring atoms tend to make their little bits of magnetism point in the same direction, forming magnetic domains. In a magnetic field, these domains line up with the field making a strong magnet. 
+ Other common ferromagnetic metals are nickel, and cobalt. Some of the strongest magnets are made with Neodymium . In some materials, the domains can get stuck so the material stays magnetized even when the field is removed, leaving a permanent magnet, but that usually involves introducing some non-magnetic components. 
+ Rusting and corrosion introduce atoms of other elements (typically oxygen), making new chemical forms with different interactions between neighboring atoms' electrons. Usually these end up either non-ferromagnetic or less ferromagnetic than the pure magnetic metal. 
+ There are several different oxides of iron, with different fractions of oxygen. 
+ They are Fe0 , Fe2O3 , and Fe3O4 . 
+
+ There are several forms of Fe2O3 , 
+ and a common mineral composed of Fe2O3 is called Hematite, which is a shiny-blackish mineral. 
+ Rust consists mostly of Fe2O3 , with additional water molecules attached. 
+
+ Hematite is not ferromagnetic, 
+ but it does still respond to a magnetic field and will be attracted to the poles of a permanent magnet. 
+ Hematite itself has the interesting property of being nearly antiferromagnetic, in which the spinning electrons producing magnetic fields in neighboring atom groups like to align opposite to one another, canceling their fields out. This isn't perfect in hematite, with a small tip, or "canting" of the spins so that they don't cancel exactly, hence the attraction to the poles of a permanent magnet. I suspect that the addition of water molecules in ordinary orangey-yellow rust does not help the material become more magnetic than its Hematite cousin, but it's hard to be less magnetic than an antiferromagnet. 
+
+ FeO is also not ferromagnetic, 
+ but it is pulled about twice as much as Fe2O3 towards the poles of a magnet. 
+
+ Magnetite , Fe3O4 , is ferromagnetic, and is about 1/4 as strong as pure iron. 
+ One warning is that rust may be a collection of the different oxides quite possibly other contaminants. 
+ In particular, there may be bits of unrusted iron left in a sample of rust, 
+ and these would be attracted very strongly to a magnet. 
+ Some substances change the signs of their response entirely when they corrode. 
+ For instance, aluminum is very weakly attracted to the poles of magnets, 
+ while aluminum oxide is very weakly repelled by the poles of magnets. 
+ Only ferromagnets are useful for making permanent magnets. 
+ Paramagnetic and Diamagnetic forces tend to be very weak, 
+ except for the diamagnetism of superconductors, which is strong enough to levitate them. 
+ U.S. nickels contain rather little nickel -- they are about 75% copper, and only 25% nickel. 
+ This alloy seems to be not very magnetic. Older pure nickel nickels stick to magnets. 
+ Pennies are 97.5% zinc with a thin coating of copper on the outside. 
+ Some steels (steel is mostly made of iron) are more magnetic than others. 
+ Two suggestions of things that can affect your experiments: 
+ 1) Rust and corrosion usually only occur in a very thin layer of the material near the surface. The rest of the material will be just as magnetic as it ever was, just minus the rusty layer. You may not notice any effect of the rust if most of the material is intact. 
+ 2) The shape and orientation of the metal object is very important in determining how strongly it will be attracted to a magnet. Be sure that the shapes of your uncorroded and corroded objects are the same when you compare their magnetic attraction or you could have other effects confusing the results. 
+ Tom J. and Mike W. ... Link 
+
+ Home 
+ &#149; Tesla 
+ &#149; NeoGen 
+ &#149; Lightning 
+ &#149; News | Articles | Links 
+ &#149; Schematics 
+ &#149; MAG101 
+ &#149; Forum 
+ &#149; Contact 
+
+ -->
+
+Sunday May 14 2006 @ 09:12:58 am US Central
+
+ IP: 209.128.119.45
+ 14 Forum Messages 
+
+Since: 12/19/2001 
+
+Uptime: 1606 days 
+
+Last Revision: 08/12/2005 
+ Login: 
+ Guest 
+
+ DAY 
+ TOTAL 
+
+ 110 214654 
+
+I always invite Comments, Suggestions, Questions via ... 
+ Email 
+or
+ Forum 
+ Please forgive me if my response to emails is a bit slow ... so many irons in the fire ... 
+
+"We the willing, led by the unknowing, are doing the impossible for the ungrateful. 
+We've done so much for so long with so little, we're now qualified to do anything with nothing" 
+
+ ... Anonymous 
+
+ Magnetricity is a one man operation. Donations are welcome via PayPal . 
+ All proceeds fund Magnetricity.com Your support is appreciated. 
+
+ Click here to get the latest Macromedia FLASH plugin 
+
+ Webmaster: Rex Hebert @ Silkworx Site Designs 
+
+ Visit the Louisiana Schools Of Dance (LASOD) website 
+
+This site was designed for MS IE on a broadband connection and may take a while to fully load - Please be Patient 
+Except where otherwise noted, all Code and Graphics are Copyright &copy; 2006 REX HEBERT 
+All Rights are Reserved and protected by International Law 
+
+ Thanks for visiting

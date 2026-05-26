@@ -1,0 +1,159 @@
+
+<html>
+<head>
+  <title>Gyroscopes - Everything you needed to know</title>
+  <meta HTTP-EQUIV="Content-Type" content="text/html; charset=iso-8859-1">
+  <meta http-equiv="pics-label" content='(pics-1.1 "http://www.icra.org/ratingsv02.html" comment "ICRAonline EN v2.0" l gen true for "no gen term" r (nz 0 vz 0 lz 0 oz 0 cz 0) "http://www.rsac.org/ratingsv01.html" l gen true for "no gen term" r (n 0 s 0 v 0 l 0))'>
+  <meta name="Author" content="Glenn Turner">
+  <meta name="keywords" content="gyroscope, gyroscopes , gyro, gyros, gyroscopic propulsion">
+  <meta name="Description" content="Gyroscopes have many uses, this site explains how a gyroscope works and what they can be used for. The site also looks at the possible uses of gyroscope based propulsion (gyroscopic propulsion). ">
+  <meta name="Copyright" content="Copyright 2015 (All Web Pages) by Glenn Turner">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="expires" content="0">
+  <link rel="stylesheet" href="/iesite.css" type="text/css">
+  
+</head>
+<body bgcolor="#000000">
+  <div style="  float: center; margin: 0; border: none; padding: 0; " align=center><center><img src="/header.jpg" alt="" hspace=0 vspace=0 width=700 height=111></center></div>
+  <center>
+  <span class="menutitle">
+    <a href="/index.asp"><font color="#DDDDDD">Home</font></a> :
+    <a href="/gallery.asp"><font color="#DDDDDD">Gallery</font></a> :
+    <a href="/history.asp"><font color="#DDDDDD">History</font></a> :
+    <a href="/uses.asp"><font color="#DDDDDD">Uses</font></a> :
+    <a href="/behaviour.asp"><font color="#DDDDDD">Behaviour</font></a> :
+    <a href="/math.asp"><font color="#DDDDDD">Maths</font></a> :
+    <a href="/forum/forums.asp"><font color="#DDDDDD">Forum</font></a> :
+    <a href="/propulsion.asp"><font color="#DDDDDD">Propulsion</font></a> :
+    <a href="/links.asp"><font color="#DDDDDD">Links</font></a> :
+    <a href="/glossary.asp"><font color="#DDDDDD">Glossary</font></a>
+    <br>
+  </span>
+
+  <table border=0 cellpadding=0 cellspacing=0 width="0" height="11">
+  <tr>
+    <td></td>
+  </tr>
+  </table>
+
+
+
+
+
+  <table border=0 cellpadding=8 cellspacing=0 width="700" height="260" bgcolor="#FFFFFF" ID="Table1">
+  <tr>
+    <td valign="top" class="main">
+<table align="center" width="100%" border="0">
+  <tr>
+    <td align="left" width="20%" valign="top">
+      <a href="forums.asp">Main Forum Page</a>
+    </td>
+    <td align="center" valign="middle">
+      
+      <h2 border="0">       
+      The Gyroscope Forum</h2></td>
+    <td align="right" width="20%" valign="top">
+      15 August 2025 14:38
+    </td>
+  </tr>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <p align=left>Welcome to the gyroscope forum. If you have a question about gyroscopes in general,
+      want to know how they work, or what they can be used for then you can leave your question here for others to answer.
+         You may also be able to help others by answering some of the questions on the site.
+      </p>
+      
+      <table width="100%">
+      <tr><td>
+        <form action="qa.asp" method="get">
+        <b>Search the forum: </b><input type="text" value="" name="forumsearch" size=30>&nbsp;<input type="submit" value="Search" name="forumsearchsubmit">
+          <input type=hidden name="forum" value="">
+        </form>
+      </td><td>
+        
+        <form action="askquestion.asp" method="post">
+        <input type="submit" value="Ask new Question" name="forumsearchsubmit">&nbsp;
+        
+        <input type="submit" value="Login" name="Login"> 
+        
+        </form>
+      </td></tr>
+      </table>
+      <hr width=100%>
+    </td>
+  </tr>
+</table>
+
+<table align="center" border="0" width="95%">
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><h3>Question</h3></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Asked by:</b></td>
+    <td align="left" colspan="2" valign="top">Matt Brown</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Subject:</b></td>
+    <td align="left" colspan="2" valign="top">Motocross</td>
+  </tr>
+  <tr>
+    <td align=right class=medium valign="top" nowrap><b>Question:</b></td>
+    <td align=left class=medium valign="top" width="400" colspan="2">In motocross, when you take a jump and realize, mid-flight, that your bike position is not where you want you can change it using the wheels.  If your front end is too high, you can tap the back brakes and your back end will come up an level off the bike.  If your front end is too low, you can speed up the rear tire by gassing it and it will bring the back end down.  I know a little bit about gyroscopic stability and precession, but am wondering how the front and back wheel speeds can effect the position of the bike in the air?</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Date:</b></td>
+    <td align="left" colspan="2" valign="top">21 November 2004
+    </td>
+  </tr>
+  <tr>
+    <td align="right" colspan="3" valign="top"><a href="abuse.asp?q=288">report abuse</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2><hr width="100%"></td>
+  </tr>
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><br><h3>Answers (Ordered by Date)</h3><br></td>
+  </tr>
+  <tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Nitro Macmad</b> - 21/11/2004 22:54:50
+</td></tr><tr><td>&nbsp;</td><td>Dear Matt Brown,<br>
+<br>
+Interesting one.  I have often watched in amazement at the length of time the Motocross guys stay airborne.  I should have realised it was too much of a coincidence that the take offs were so perfect that the bikes could maintained a near perfect angle on landing.  Your description of decelerating or accelerating the rotation speed of the wheel makes perfect sense, although learning to do this correctly and calmly while in mid air is quite an achievement.<br>
+<br>
+All you describe behaves in accordance with Newtons superb observations that have become known as the laws of motion.  Your observations have to do with the third law - the one about every action having an equal and opposite reaction.  It is the torsional (rotating) equivalent of you throwing a brick of the back of a sledge on ice. The brick (being lighter than you and the sledge) will travel in one direction away from the start point fast while the sledge and you, being somewhat heavier; will travel in the opposite direction somewhat slower. <br>
+<br>
+As the spinning back wheel of you bike is braked it transfers its rotational energy to the bike frame making it turn (slowly because the bike frame and you are much heavier that the wheel) in the same direction as the wheel rotates.<br>
+<br>
+As the back wheel is accelerated this acceleration causes an opposite torque to rotate the frame and you (slowly again) in the opposite direction as the wheel rotates.<br>
+<br>
+This opposite torque business is harder to grasp because it is not noticeable in ground borne machines as the opposite torque is transferred to the ground.  This is just as well as I think we would all be alarmed if our cars turned onto their roofs when we blipped the throttle - though you can see the car tweak a bit if you have an old fashioned heavy V8 like mine. <br>
+<br>
+While a helicopter is the classic machine to demonstrate opposite torque (thats why it has a long leaver of a tail and a tail prop to stop its body rotating in the opposite direction to its top rotor) and the cat is the classic organism to demonstrate opposite torque (watch a dropped one rotate its tail and rear to ensure the best landing).  <br>
+<br>
+We humans too have a vestigial, subconscious ability to utilise opposite torque.  This ability is best viewed when the subjects conscious mind is partially disabled with alcohol.  View a drunk on the edge of a pavement who starts to overbalance forwards and he will automatically rotate his arms in the right direction to cause an opposite torque on his body to rotate it back to vertical.  He will rotate his arms in the opposite direction if he should overbalance backwardsTry it!  (The rotating arms and the overbalancing part - not the getting drunk part! )<br>
+<br>
+Kind Regards<br>
+NM <br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=460">Report Abuse</a></td></tr>
+<tr>
+<td align="center" colspan="2"><a href="answerquestion.asp?id=288">Add an Answer &#062;&#062;</a></td></tr>
+</table>
+    </td>
+  </tr>
+  </table>
+  
+  <font class="copyright">
+  Website. Copyright &copy; 2025 Glenn Turner. All rights reserved. <a href="/site.asp">site info</a><br>
+     Do not copy without prior permission. Click here for <a target="gyroscopeproducts" href="http://www.gyroscope.com/" alt="Gyroscope products">gyroscope products</a> 
+   
+  </font>
+</center>
+
+</body>
+</html>

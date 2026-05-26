@@ -22,4 +22,13 @@ echo ""
 # Pull latest before starting
 git pull --rebase --autostash 2>/dev/null || git pull 2>/dev/null || true
 
-exec ./mirror-worker
+# Supervisor loop: respawn the worker if it crashes (SIGKILL from OOM, an
+# unhandled exception, anything that takes the process down). Sleep a few
+# seconds between respawns to avoid a tight crash-loop. The worker writes
+# .worker.pid itself, so each respawn picks up where the queue left off.
+while true; do
+  ./mirror-worker
+  EXIT=$?
+  echo "[supervisor] mirror-worker exited with $EXIT — respawning in 5s"
+  sleep 5
+done

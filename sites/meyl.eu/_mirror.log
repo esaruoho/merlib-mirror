@@ -1,0 +1,111 @@
+[2026-04-21 10:44:55] ============================================================
+[2026-04-21 10:44:55] LIVE MIRROR: meyl.eu
+[2026-04-21 10:44:55] Seed: https://meyl.eu/go/indexb830.html
+[2026-04-21 10:44:55] Seed path: /go/indexb830.html
+[2026-04-21 10:44:55] Max link depth: 5
+[2026-04-21 10:44:55] Output: /Users/esaruoho/work/merlib-mirror/sites/meyl.eu
+[2026-04-21 10:44:55] ============================================================
+[2026-04-21 10:44:55] Crawling /go/indexb830.html (download-as-you-go)...
+[2026-04-21 10:44:55]   [1 d0*] https://meyl.eu/go/indexb830.html  (1 OK, 0 queued)
+[2026-04-21 10:44:55]     +31 links (32 total known)
+[2026-04-21 10:44:56]   [2 d0*] https://meyl.eu/go/indexb830.html?dir=10_Home&page=1&sublevel=0  (2 OK, 30 queued)
+[2026-04-21 10:44:57]   [3 d1] https://meyl.eu/go/indexbe14.html?dir=47_Papers&page=1&sublevel=0  (3 OK, 29 queued)
+[2026-04-21 10:44:57]     +10 links (42 total known)
+[2026-04-21 10:44:58]   [4 d1] https://meyl.eu/go/Flag_of_China.png  (4 OK, 38 queued)
+[2026-04-21 10:44:58]   [5 d1] https://meyl.eu/go/Flag_of_Russia.png  (5 OK, 37 queued)
+[2026-04-21 10:44:59]   [6 d1] https://meyl.eu/go/Flag_of_Portugal.png  (6 OK, 36 queued)
+[2026-04-21 10:45:00]   [7 d1] https://meyl.eu/go/Flag_of_Spain.png  (7 OK, 35 queued)
+[2026-04-21 10:45:00]   [8 d1] https://meyl.eu/go/indexb402.html?dir=45_Videos-on-demand&page=1&sublevel=0  (8 OK, 34 queued)
+[2026-04-21 10:45:01]   [9 d1] https://meyl.eu/index.html  (9 OK, 33 queued)
+[2026-04-21 10:45:02]   [10 d1] https://meyl.eu/go/index2af7.html?dir=85_About&page=1&sublevel=0  (10 OK, 32 queued)
+[2026-04-21 10:45:05]   [15 d1] https://meyl.eu/go/textbar.jpg  (15 OK, 57 queued)
+[2026-04-21 10:45:09]   [20 d1] https://meyl.eu/go/Flag_of_Romania.png  (20 OK, 52 queued)
+[2026-04-21 10:45:12]   [25 d1] https://meyl.eu/go/indexcddb.html?dir=60_Documents&page=1&sublevel=0  (25 OK, 56 queued)
+[2026-04-21 10:45:16]   [30 d1] https://meyl.eu/go/index9502.html?dir=15_Events&page=1&sublevel=0  (30 OK, 62 queued)
+[2026-04-21 10:45:19]   [35 d2] https://meyl.eu/go/index2af7.html  (35 OK, 57 queued)
+[2026-04-21 10:45:23]   [40 d2] https://meyl.eu/go/indexb09f.html  (40 OK, 52 queued)
+[2026-04-21 10:45:27]   [45 d2] https://meyl.eu/go/30_Books/documentation_1-auswahl.jpg  (45 OK, 49 queued)
+[2026-04-21 10:45:30]   [50 d2] https://meyl.eu/go/30_Books/potential_vortex_4-auswahl.jpg  (50 OK, 48 queued)
+[2026-04-21 10:45:34]   [55 d2] https://meyl.eu/go/indexf529.html  (55 OK, 46 queued)
+[2026-04-21 10:45:37]   [60 d2] https://meyl.eu/go/indexab6b.html  (60 OK, 44 queued)
+[2026-04-21 10:45:37]     +2 links (106 total known)
+[2026-04-21 10:45:41]   [65 d2] https://meyl.eu/go/indexec79.html  (65 OK, 44 queued)
+[2026-04-21 10:45:44]   [70 d2] https://meyl.eu/go/30_Books/neutrino_power_en-auswahl.jpg  (70 OK, 43 queued)
+[2026-04-21 10:45:49]   [75 d2] https://meyl.eu/go/40_Media/dvd-cover_quantum_energy_medicine_conference.jpg  (75 OK, 38 queued)
+[2026-04-21 10:45:53]   [80 d2] https://meyl.eu/go/40_Media/dvd-cover_%20scalar%20field_theory-auswahl.jpg  (80 OK, 33 queued)
+[2026-04-21 10:45:56]   [85 d2] https://meyl.eu/go/index76be.html  (85 OK, 34 queued)
+[2026-04-21 10:46:00]   [90 d2] https://meyl.eu/go/50_Experimental/experimental-kit_thump.jpg  (90 OK, 45 queued)
+[2026-04-21 10:46:03]   [95 d3] https://meyl.eu/go/index9798.html  (95 OK, 40 queued)
+[2026-04-21 10:46:07]   [100 d3] https://meyl.eu/go/30_Books/Scalarwavetransponder.jpg  (100 OK, 37 queued)
+[2026-04-21 10:46:11]   [105 d3] https://meyl.eu/go/indexa90b.html  (105 OK, 33 queued)
+[2026-04-21 10:46:15]   [110 d3] https://meyl.eu/go/30_Books/Docu1_Eng_1.1_preface-ISBN_978-3-940-703-21-7.pdf  (110 OK, 29 queued)
+[2026-04-21 10:46:19]   [115 d3] https://meyl.eu/go/50_Experimental/demo-kit.jpg  (115 OK, 24 queued)
+[2026-04-21 10:46:24]   [120 d3] https://meyl.eu/go/50_Experimental/Powerfunktionsgenerator_Luftschraube.jpg  (120 OK, 19 queued)
+[2026-04-21 10:46:28]   [125 d3] https://meyl.eu/go/50_Experimental/Powergenerator_Vorderseite-thump.jpg  (125 OK, 14 queued)
+[2026-04-21 10:46:32]   [130 d3] https://meyl.eu/go/50_Experimental/Powerfunktionsgenerator_Schiffsschraube.jpg  (130 OK, 9 queued)
+[2026-04-21 10:46:36]   [135 d3] https://meyl.eu/go/50_Experimental/swg-a1.jpg  (135 OK, 4 queued)
+[2026-04-21 10:46:39] WordPress PDF extraction: found 62 PDF(s)
+[2026-04-21 10:46:50]   PDF OK: BA861JU.pdf
+[2026-04-21 10:46:50]   PDF OK: Geopathy-Gerhard-Hacker-Lithuania08.pdf
+[2026-04-21 10:46:51]   PDF OK: Bericht_aus_dem_NET0509S44-51.pdf
+[2026-04-21 10:46:51]   PDF OK: DGEIM_10-symposium_2008_Wasser.pdf
+[2026-04-21 10:46:52]   PDF OK: DGEIM_2007.pdf
+[2026-04-21 10:46:52]   PDF OK: DGEIM_2008.pdf
+[2026-04-21 10:46:52]   PDF OK: DGEIM_2010_seminar.pdf
+[2026-04-21 10:46:53]   PDF OK: DGEIM_2011_symposium.pdf
+[2026-04-21 10:46:53]   PDF OK: DGEIM_Symposium_2010.pdf
+[2026-04-21 10:46:54]   PDF OK: Einladung_NewMobilityForum_2009.pdf
+[2026-04-21 10:46:54]   PDF OK: Expertentreffen_beim_TPVS_2011.pdf
+[2026-04-21 10:46:55]   PDF OK: Flyer_Programm_DGEIM_2009.pdf
+[2026-04-21 10:46:55]   PDF OK: Flyer_zu_Tage_der_Energie.pdf
+[2026-04-21 10:46:55]   PDF OK: HOLISTICUM_MONACENSIS.pdf
+[2026-04-21 10:46:56]   PDF OK: IAG_XI_kongress_2010.pdf
+[2026-04-21 10:46:56]   PDF OK: Kongress-Flyer-090212a_Einsiedeln.pdf
+[2026-04-21 10:46:56]   PDF OK: Neutrino-Plakat.pdf
+[2026-04-21 10:46:57]   PDF OK: PIERS_Meyl.pdf
+[2026-04-21 10:46:57]   PDF OK: SeminarMeylAlbuquerque.pdf
+[2026-04-21 10:46:57]   PDF OK: Vortrag_Prof_Meyl.pdf
+[2026-04-21 10:46:58]   PDF OK: Vortragsprogramm_Suedwest-Messe_Flyer.pdf
+[2026-04-21 10:46:58]   PDF OK: int_Meeting_Ueberlingen.pdf
+[2026-04-21 10:46:58]   PDF OK: water_engine_4.pdf
+[2026-04-21 10:47:17]   PDF OK: water_motor_4-Espagnol-motor_de_agua_con_ozono.pdf
+[2026-04-21 10:47:23]   PDF OK: water_motor_4-Italiano-motore_ad_acqua_contenente_ozono.pdf
+[2026-04-21 10:48:00]   PDF OK: 2P9_0930-1-piers-extended_field_theory.pdf
+[2026-04-21 10:48:07]   PDF OK: About_Vortex_Physics_and_Vortex_Losses.pdf
+[2026-04-21 10:48:07]   PDF OK: Autorenexemplar.pdf
+[2026-04-21 10:48:08]   PDF OK: BEM-3-156.pdf
+[2026-04-21 10:48:16]   PDF OK: Magnetic_Waves-Enable-Cell_Communication.pdf
+[2026-04-21 10:48:22]   PDF OK: Meyl-Micro-_to_Macrocosm-cert.pdf
+[2026-04-21 10:48:23]   PDF OK: Meyl-Micro-_to_Macrocosm-cert_co_chair.pdf
+[2026-04-21 10:48:23]   PDF OK: Meyl-Micro-_to_Macrocosm-cert_recog.pdf
+[2026-04-21 10:48:23]   PDF OK: Meyl-Micro-_to_Macrocosm.pdf
+[2026-04-21 10:48:24]   PDF OK: NET_Protonradius.pdf
+[2026-04-21 10:48:37]   PDF OK: PIERS_Proceedings_WPT.pdf
+[2026-04-21 10:49:17]   PDF OK: earth-expansion-by-neutrinopower-jgg-1000219.pdf
+[2026-04-21 10:49:30]   PDFs: 37 downloaded, 0 cached, 25 failed
+[2026-04-21 10:49:30]   Missing PDFs list: /Users/esaruoho/work/merlib-mirror/sites/meyl.eu/_missing_pdfs.txt
+[2026-04-21 10:49:30] Generating index...
+[2026-04-21 10:49:30] Index: 176 files
+[2026-04-21 10:49:30]   .jpg: 73
+[2026-04-21 10:49:30]   .pdf: 39
+[2026-04-21 10:49:30]   .html: 36
+[2026-04-21 10:49:30]   .png: 12
+[2026-04-21 10:49:30]   .gif: 3
+[2026-04-21 10:49:30]   .ico: 1
+[2026-04-21 10:49:30]   .html__dir%3d85_about%26page%3d1%26sublevel%3d0: 1
+[2026-04-21 10:49:30]   .html__dir%3d50_experimental%26page%3d1%26sublevel%3d0: 1
+[2026-04-21 10:49:30]   .html__dir%3d15_events%26page%3d1%26sublevel%3d0: 1
+[2026-04-21 10:49:30]   .html__dir%3d80_meyl%26page%3d1%26sublevel%3d0: 1
+[2026-04-21 10:49:30]   .html__dir%3d90_contact%26page%3d1%26sublevel%3d0: 1
+[2026-04-21 10:49:30]   .html__dir%3d55_shop%26page%3d1%26sublevel%3d0: 1
+[2026-04-21 10:49:30]   .html__dir%3d45_videos-on-demand%26page%3d1%26sublevel%3d0: 1
+[2026-04-21 10:49:30]   .html__dir%3d10_home%26page%3d1%26sublevel%3d0: 1
+[2026-04-21 10:49:30]   .html__dir%3d47_papers%26page%3d1%26sublevel%3d0: 1
+[2026-04-21 10:49:30] 
+============================================================
+[2026-04-21 10:49:30] LIVE MIRROR COMPLETE
+[2026-04-21 10:49:30] Downloaded: 139, OK: 139, Failed: 0
+[2026-04-21 10:49:30] Total URLs seen: 139
+[2026-04-21 10:49:30] ============================================================
+[2026-04-21 10:49:30] 
+Next step: fe-ingest.sh /Users/esaruoho/work/merlib-mirror/sites/meyl.eu

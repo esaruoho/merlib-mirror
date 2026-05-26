@@ -1,0 +1,181 @@
+
+<html>
+<head>
+  <title>The Gyroscope - Everything you needed to know</title>
+  <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+  <meta http-equiv="pics-label" content='(pics-1.1 "http://www.icra.org/ratingsv02.html" comment "ICRAonline EN v2.0" l gen true for "no gen term" r (nz 0 vz 0 lz 0 oz 0 cz 0) "http://www.rsac.org/ratingsv01.html" l gen true for "no gen term" r (n 0 s 0 v 0 l 0))'>
+  <META NAME="Author" CONTENT="Glenn Turner">
+  <META NAME="keywords" CONTENT="gyroscope, gyroscopes , gyro, gyros, gyroscopic propulsion">
+  <META NAME="Description" CONTENT="The Gyroscope has many uses, this site explains how a gyroscope works and what it can be used for. The site also looks at the possible use of gyroscope based propulsion (gyroscopic propulsion). ">
+  <META NAME="Copyright" CONTENT="Copyright 2003 (All Web Pages) by Glenn Turner">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="expires" content="0">
+  <link rel="stylesheet" href="/iesite.css" type="text/css">
+</head>
+<body bgcolor="#000000">
+  <div style="position: absolute; top: 2; width=100%; z-index: 1"><center><img src="/header.jpg" alt="" hspace=0 vspace=0 width=700 height=111></center></div>
+
+  <table border=0 cellpadding=0 cellspacing=0 width="0" height="96">
+  <tr>
+    <td></td>
+  </tr>
+  </table>
+
+  <center>
+  <span class="menutitle">
+    <a href="/index.asp"><font color="#991111">Home</font></a> :
+    <a href="/gallery.asp"><font color="#991111">Gallery</font></a> :
+    <a href="/history.asp"><font color="#991111">History</font></a> :
+    <a href="/uses.asp"><font color="#991111">Uses</font></a> :
+    <a href="/behaviour.asp"><font color="#991111">Behaviour</font></a> :
+    <a href="/math.asp"><font color="#991111">Maths</font></a> :
+    <a href="/forum/qa.asp"><font color="#991111">Forum</font></a> :
+    <a href="/propulsion.asp"><font color="#991111">Propulsion</font></a> :
+    <a href="/links.asp"><font color="#991111">Links</font></a> :
+    <a href="/glossary.asp"><font color="#991111">Glossary</font></a>
+    <br>
+  </span>
+
+  <table border=0 cellpadding=0 cellspacing=0 width="0" height="11">
+  <tr>
+    <td></td>
+  </tr>
+  </table>
+
+
+
+
+
+  <table border=0 cellpadding=8 cellspacing=0 width="700" height="260" bgcolor="#FFFFFF" ID="Table1">
+  <tr>
+    <td valign="top" class="main">
+<table align="center" width="100%" border="0">
+  <tr>
+    <td align="left" width="30%" valign="top">
+      <a href="qa.asp">Main Forum Page</a>
+    </td>
+    <td align="center" valign="middle">
+      <h2 border="0">The Gyroscope Forum</h2></td>
+    <td align="right" width="30%" valign="top">
+      28 December 2003 18:30
+    </td>
+  </tr>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <p align=left>Welcome to the gyroscope forum. If you have a question about gyroscopes in general,
+      want to know how they work, or what they can be used for then you can leave your question here for others to answer.
+         You may also be able to help others by answering some of the questions on the site.
+      </p>
+      <p>
+      <form action="qa.asp" method="post">
+      Search the forum: <input type="text" value="" name="forumsearch">&nbsp;<input type="submit" value="Search" name="forumsearchsubmit">
+      </form>
+      </p>
+      <b>To ask a question <a href="askquestion.asp">click here</a></b><hr width=75%>
+    </td>
+  </tr>
+</table>
+
+<table align="center" border="0" width="95%">
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><h3>Question</h3></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Asked by:</b></td>
+    <td align="left" colspan="2" valign="top">Nitro MacMad</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Subject:</b></td>
+    <td align="left" colspan="2" valign="top">Testing for deviation from Newton</td>
+  </tr>
+  <tr>
+    <td align=right class=medium valign="top" nowrap><b>Question:</b></td>
+    <td align=left class=medium valign="top" width="400" colspan="2">Dear Glen et al,<br>
+                               (The question is right at the end)<br>
+<br>
+It used to be regarded as a reasonable test of a mechanisms ability to circumvent the "third law" for it to move (without stick/slip or other external influence) right outside its starting dimension.<br>
+<br>
+The mechanism shown to Eric Laithwaite by Alex Jones did indeed move outside its own dimension (hence the excitement caused).  It is now apparent to me that it was not the production of a large, clear, measurable impulse of unidirectional force that defeated that poor man, Kidde and so many others, but something so small as to be easily overlooked in all the spurious motions (and by golly there are plenty of them).<br>
+<br>
+The current vogue of expecting as proof a pendulum, suspending the mechanism, being measurably pushed to one side is asking, not just for proof of impulse drive but also, for a steerable device if it is not to end up describing circles.  This requirement for a steerable device seems rather like asking Gotlieb Daimler if he will include air con. before he has realised the need for a flywheel, or the Wright Bros for air miles while they test the glider in the sands of the Kill Devil Hills.<br>
+<br>
+As it will be some time before I will see a version smooth enough to slap on a pendulum (though I long ago passed getting one that moves loads outside its dimension on wheels - yes! yes! I know that is scientifically unacceptable) let alone make it steerable,........... <br>
+.........................................................................................................................................<br>
+........would a pendulum suspended by four strings to give stability be accepable to the scientific community?<br>
+<br>
+NM<br>
+<br>
+</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Date:</b></td>
+    <td align="left" colspan="2" valign="top">16 November 2003</td>
+  </tr>
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><br><h3>Answers</h3></td>
+  </tr>
+  <tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Ram Firestone</b> - 01/12/2003 20:07:33
+</td></tr><tr><td>&nbsp;</td><td>Well I can't guarantee you will make millions but you certainly won't make anything by keeping your invention in a closet forever. I would get a patent and then damn the torpedoes. In any case at least the Wright brothers are world famous. Yeah Glenn Curtiss and others who made all the money are somewhat famous too, but they aren't household words like the Wrights.<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Nitro MacMad</b> - 28/11/2003 00:34:53
+</td></tr><tr><td>&nbsp;</td><td>Dear Glen and Ram,<br>
+<br>
+Thank you for your responses.  I am only too well aware of the vagaries of history and  its ability to attribute fame to the famous rather than the inventor - one of the reasons I have held back for over thirty years (don't ask!  It made sense at the time to put it aside).  <br>
+<br>
+Interestingly Glen, Swan had patented a (carbon) filament bulb earlier than Edison.   Edison had got (by trying almost every substance on earth) a reasonably long lasting, but dreadfully delicate, filament unbelievably, made out of superheated steam carbonised bamboo strips (how many things did he have try and how many, many processes to come up with that?).  Charitably,  Edison had not known about Swans invention (a carbon copy indeed!).<br>
+<br>
+When I was a kid in short pants and Clarks sandles I was given,  by my older brother who was apprenticed to the de Havilland aircraft company, a Sycamore Helicopter (with an upside down Gipsy Major engine) manual.  It took me ages to realise why, when you shoved the directional pitch forward, the downthrust was not at the back as you (well, I) would expect but at one side - my fascination with gyrodynamics (but alas not its maths) had started. <br>
+<br>
+I long ago made the first step of constructing a machine that satisfied me that reactionless motion, on a slicked surface to reduce the deception risk of stick/slip, was possible and if my health holds up a little longer I shall get my fast repeater version to satisfy a pendulum and other tests to allow the scientific community to poke their fingers in the nail holes.  <br>
+<br>
+After that Ram, I will be pleasantly surprised to get the millions or billions you earlier spoke of - experience however would suggest that what time I have left will be spent watching the famous and powerful benefitting while, if I am lucky, I will get some small recognition or - as happened to the Wright boys - I will waste my life in Litigation (one of your largest and weathiest States I believe).  A filed patent will hopefully show my restarting date if, as usual, little else.<br>
+<br>
+I shall contact you Glen, when I have the fast repeater a bit further progressed, (next spring probably) for your interest.<br>
+<br>
+Kind Regards<br>
+<br>
+NM<br>
+<br>
+ <br>
+<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Ram Firestone</b> - 17/11/2003 19:10:48
+</td></tr><tr><td>&nbsp;</td><td>I'm not going to speak for the scientific community, but if you are taking about testing your device on a platform hung by four strings, I think this would be a good start. <br>
+However I can think of a few issues with this test. With four strings it is possible to cause the platform to move because of simple precession. Remember a gyro can hang from one end of a single string. If it did this on your test, the platform could certainly fall to one side, but this isn't really propulsion. I think a better test would be to use a pendulum with a non-flexible strut(s) that can only travel in two directions. This should give you the directional stability you are looking for. Also you should probably test your device in a box so there is no chance of interaction with the air. Good luck.<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>webmaster@gyroscopes.org</b> - 17/11/2003 11:19:15
+</td></tr><tr><td>&nbsp;</td><td>Collectively the scientific community as a whole uses only tried and tested methods wherever it can. I can only advise what is likely to happen if your device was published. Firstly it (or a copy of it) would have to be handed over to renowned University or person known for its/his/hers Physics. They would run one or a number of tests of their choosing and publish the results (and spreading the word to colleagues). Assuming the results are favourable to you there will be an almost automatic backlash. A number of physics labs round the world will redo the tests. However this time there be even less control of how they are carried out and they will probably build there own copies of the devices. By the end of this it will either be condoned or verified or possibly more tests will be carried out. <br>
+	If you try restrict your device to any one test i.e. a pendulum test. You will almost certainly be greeted scepticism. Some tests could be excluded providing a good case is given but even so this will not go down well with the scientific community. If the device succeeds you may well find it ending up in nature or new scientist. The scientific community acts a like jury. You should present your case but dont try to unlawfully influence them.<br>
+<br>
+I would strongly suggest that you FIRST prove to yourself that the device works. Once you have done that you should be able to add an extra gyroscope to the device to keep it pointing in one direction for the pendulum test. If you get stuck send me a e-mail and we can talk through the different types of tests it likely to go through.<br>
+<br>
+What does Daimler, the Wright brothers and Edison all have in common? None of them invented the technologies they are renowned for from scratch. Cars had been made before Daimler built his, but Daimler is rightly attributed with the petrol driven car (steam ones had been about for many years before).  The Wright brothers are accredited with the first manned flight, yet others (too may to list) had said they had aircraft working just as well or better but had failed to get the attention of the worlds press. Edison didnt invent the light bulb (lookup Joseph Wilson Swan or Humphry Davy to mention a few) but Edison did produce the first mass produces light bulb and heavily publicised it. I dont have anything against these people, I just wanted to make the point that it often only takes one person (or company) to push a technology into the limelight. Normally facing a lot of hard work along the way.<br>
+<br>
+Glenn<br>
+<br><br></td></tr>
+<tr>
+<td align="center" colspan="2"><a href="answerquestion.asp?id=99">Add an Answer&#062;&#062;</a></td></tr>
+</table>
+    </td>
+  </tr>
+  </table>
+  
+  <font class="copyright">
+  Webpage. Copyright &copy; 2003 Glenn Turner. All rights reserved. <a href="/site.asp"><font color="#991111">more info</font></a><br>
+     All other images/content copyrighted to the designated owners,<br>
+      and must not be reproduced or distributed without prior permission. 
+  </font>
+</center>
+
+</body>
+</html>

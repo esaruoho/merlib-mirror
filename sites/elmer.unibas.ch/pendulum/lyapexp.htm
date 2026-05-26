@@ -1,0 +1,200 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+
+<HEAD>
+<LINK REV="made" HREF="mailto:Franz-Josef.Elmer@unibas.ch">
+<META name="keywords" content="Pendulum, Physics, Nonlinear Dynamics">
+<META name="description" content="Pendulum dynamics">
+
+	<META NAME="GENERATOR" Content="Visual Page 1.0 for Windows">
+	<META HTTP-EQUIV="Content-Type" CONTENT="text/html;CHARSET=iso-8859-1">
+	<TITLE>The Lyapunov exponent</TITLE>
+</HEAD>
+
+<BODY TEXT="#000000" BGCOLOR="#FFFFB0" LINK="#0000FF" VLINK="#0000FF" ALINK="#FF0000">
+
+<P><A NAME="top"></A> 
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0">
+	<TR ALIGN="CENTER">
+		<TD WIDTH="120" VALIGN="TOP">
+			<CENTER>
+			<P>
+			<TABLE BORDER="4" BGCOLOR="#FFFFFF">
+				<TR>
+					<TD>
+						<P ALIGN="CENTER"><A HREF="index.html"><IMG SRC="plab_s.gif" WIDTH="101" HEIGHT="35" ALIGN="BOTTOM" ALT="Logo"
+						BORDER="0"></A>
+					</TD>
+				</TR>
+			</TABLE>
+
+</CENTER>
+		</TD>
+		<TD>
+			<CENTER>
+			<P>
+			<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="248">
+				<TR>
+					<TD WIDTH="124" BGCOLOR="#FFFFFF">
+						<P ALIGN="CENTER"><A HREF="lab.htm"><FONT SIZE="4">The Lab</FONT></A>
+					</TD>
+					<TD WIDTH="124" BGCOLOR="#99FF99">
+						<P ALIGN="CENTER"><A HREF="lroom.htm"><FONT SIZE="4"><B>The Lecture Room</B></FONT></A>
+					</TD>
+				</TR>
+				<TR>
+					<TD WIDTH="124"><IMG SRC="nb_b.gif" WIDTH="124" HEIGHT="6" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_u.gif" WIDTH="124" HEIGHT="6" ALIGN="BOTTOM" BORDER="0"></TD>
+				</TR>
+			</TABLE>
+
+			<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="620">
+				<TR>
+					<TD WIDTH="124"><IMG SRC="nb_l.gif" WIDTH="124" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_m.gif" WIDTH="124" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_m.gif" WIDTH="124" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_m.gif" WIDTH="124" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_r.gif" WIDTH="124" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"></TD>
+				</TR>
+				<TR>
+					<TD WIDTH="124" BGCOLOR="#FFFFFF">
+						<P ALIGN="CENTER"><A HREF="eqm.htm">The Equations of Motion</A>
+					</TD>
+					<TD WIDTH="124" BGCOLOR="#FFFFFF">
+						<P ALIGN="CENTER"><A HREF="oscres.htm">Oscillations and Resonances</A>
+					</TD>
+					<TD WIDTH="124" BGCOLOR="#FFFFFF">
+						<P ALIGN="CENTER"><A HREF="nldyn.htm">Nonlinear Dynamics</A>
+					</TD>
+					<TD WIDTH="124" BGCOLOR="#99FF99">
+						<P ALIGN="CENTER"><A HREF="app.htm"><B>Miscellaneous Topics</B></A>
+					</TD>
+					<TD WIDTH="124" BGCOLOR="#FFFFFF">
+						<P ALIGN="CENTER"><A HREF="links.htm">Links and Literature</A>
+					</TD>
+				</TR>
+				<TR>
+					<TD WIDTH="124"><IMG SRC="nb_b.gif" WIDTH="124" HEIGHT="6" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_b.gif" WIDTH="124" HEIGHT="6" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_b.gif" WIDTH="124" HEIGHT="6" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_u.gif" WIDTH="124" HEIGHT="6" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_b.gif" WIDTH="124" HEIGHT="6" ALIGN="BOTTOM" BORDER="0"></TD>
+				</TR>
+			</TABLE>
+
+			<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="372">
+				<TR>
+					<TD WIDTH="124"><IMG SRC="nb_l.gif" WIDTH="124" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_m.gif" WIDTH="124" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_r.gif" WIDTH="124" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"></TD>
+				</TR>
+				<TR>
+					<TD WIDTH="124" BGCOLOR="#FFFFFF">
+						<P ALIGN="CENTER"><A HREF="upside.htm"><I>The Upside-Down Pendulum</I></A>
+					</TD>
+					<TD WIDTH="124" BGCOLOR="#99FF99">
+						<P ALIGN="CENTER"><A HREF="lyapexp.htm"><I><B>The Lyapunov Exponent</B></I></A>
+					</TD>
+					<TD WIDTH="124" BGCOLOR="#FFFFFF">
+						<P ALIGN="CENTER"><A HREF="fractal.htm"><I>Fractals</I></A>
+					</TD>
+				</TR>
+			</TABLE>
+
+</CENTER>
+		</TD>
+	</TR>
+</TABLE>
+
+<H1 ALIGN="CENTER">The Lyapunov exponent</H1>
+<P>A quantitative measure of the <A HREF="chaos.htm#sensi">sensitive dependence on the initial conditions</A> is
+the <b>Lyapunov exponent</b> <IMG SRC="greek/lambda.gif" WIDTH="12" HEIGHT="22" ALIGN="TOP" ALT="lambda" BORDER="0"
+HSPACE="2">. It is the averaged rate of divergence (or convergence) of two neighboring 
+<a href="bterm.htm#orbit">trajectories</a>. 
+Actually there is a whole spectrum of Lyapunov exponents. 
+Their number is equal to the dimension of the <a href="bterm.htm#ps">phase space</a>. 
+If one speaks about <I>the</I> Lyapunov exponent, the largest one is meant. 
+It is important because it determines the <b>prediction horizon</b>.
+Even qualitative predictions are impossible for a time interval beyond this horizon.
+It is given by <nobr>ln(<IMG SRC="greek/epsilon.gif" WIDTH="10" HEIGHT="22" ALIGN="TOP" ALT="epsilon"
+BORDER="0" HSPACE="2">)/<IMG SRC="greek/lambda.gif" WIDTH="12" HEIGHT="22" ALIGN="TOP" ALT="lambda" BORDER="0"
+HSPACE="2"><SUB>max</SUB>,</nobr> where <IMG SRC="greek/epsilon.gif" 
+WIDTH="10" HEIGHT="22" ALIGN="TOP" ALT="epsilon" BORDER="0" HSPACE="2"> is the error
+of the measurment of the initial <a href="bterm.htm#state">state</a>. 
+Here, the error is  given in units of the averaged amplitude of the nonperiodic oscillation. 
+</P>
+<P>
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0">
+	<TR>
+		<TD>
+			<P><IMG SRC="lyap.gif" WIDTH="202" HEIGHT="162" ALIGN="LEFT" BORDER="0">To obtain the Lyapunov spectra, imagine
+			an infinitesimal small ball with radius <I>dr</I> sitting on the initial state of a trajectory. The flow will deform
+			this ball into an ellipsoid. That is, after a finite time <I>t</I> all orbits which have started in that ball
+			will be in the ellipsoid. The <I>i</I>th Lyapunov exponent is defined by
+			<CENTER>
+<IMG SRC="lyapexp1.gif" WIDTH="339" HEIGHT="48" ALIGN="BOTTOM" ALT="Definition" BORDER="0"></CENTER>
+where <I>dl</I><SUB>i</SUB>(<I>t</I>) is the radius of the ellipsoid along its <I>i</I>th principal axis.
+		</TD>
+	</TR>
+</TABLE>
+</P>
+
+<P>
+<TABLE BORDER="0" CELLPADDING="8" BGCOLOR="#80FFC0">
+ <TR>
+  <TD><B>QUESTIONS worth to think about:</B></TD>
+ </TR>
+ <TR>
+  <TD>
+   <OL>
+     <LI>Lyapunov exponents can be defined also for other 
+	<a href="bterm.htm#nonwandset">non-wandering sets</a> like fixed points etc.
+	How can we calculate the Lyapunov exponent for fixed points?
+     <li>For the driven pendula, one Lyapunov exponent is always zero and at least
+	one is always negative. Why?
+   </OL>
+  </TD>
+ </TR>
+</TABLE>
+</P>
+
+<P>
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="19%">
+	<TR>
+		<TD WIDTH="33%">
+			<P ALIGN="CENTER"><A HREF="upside.htm"><IMG SRC="prevarow.gif" WIDTH="31" HEIGHT="31" ALIGN="BOTTOM" ALT="arrow"
+			BORDER="0"></A>
+		</TD>
+		<TD WIDTH="33%">
+			<P ALIGN="CENTER"><A HREF="#top"><IMG SRC="toparow.gif" WIDTH="31" HEIGHT="31" ALIGN="BOTTOM" ALT="arrow" BORDER="0"></A>
+		</TD>
+		<TD WIDTH="34%">
+			<P ALIGN="CENTER"><A HREF="fractal.htm"><IMG SRC="nextarow.gif" WIDTH="31" HEIGHT="31" ALIGN="BOTTOM" ALT="arrow"
+			BORDER="0"></A>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH="33%">
+			<P ALIGN="CENTER"><A HREF="upside.htm">previous</A>
+		</TD>
+		<TD WIDTH="33%">
+			<P ALIGN="CENTER"><A HREF="#top">top</A>
+		</TD>
+		<TD WIDTH="34%">
+			<P ALIGN="CENTER"><A HREF="fractal.htm">next</A>
+		</TD>
+	</TR>
+</TABLE>
+
+<HR ALIGN="CENTER" NOSHADE>
+<!---
+<IMG SRC="baustell.gif" WIDTH="49" HEIGHT="43" ALIGN="BOTTOM" BORDER="0">This site is still under construction!
+--->
+<nobr>
+<ADDRESS>&copy; 1998 <a href="http://www.elmer.unibas.ch">Franz-Josef Elmer</a>, <IMG SRC="envelope.gif" WIDTH="20" HEIGHT="10" ALIGN="BOTTOM" BORDER="0">
+&nbsp;Franz-Josef doht Elmer aht unibas doht ch, 
+last modified Friday, July 24, 1998.
+
+
+</BODY>
+

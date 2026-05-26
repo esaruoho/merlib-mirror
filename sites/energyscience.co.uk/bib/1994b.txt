@@ -1,0 +1,15 @@
+1994b 
+
+ 1994b 
+
+ The following is a U.S. Patent granted to Harold Aspden with an issue date of December 27, 1994
+
+ US PATENT NO 5,376,184 
+
+'THERMOELECTRIC HEAT TRANSFER APPARATUS' 
+
+ Abstract : Heat transfer apparatus, whether in panel or tubular form, comprises bimetallic all-ferromagnetic laminations (4). A temperature differential causes thermoelectric current circulation (in effect, a d.c. eddy-current) within each lamination which develops a magnetizing H-field. The ferromagnetic B-field enhancement develops in turn a circulating diamagnetic reaction current which traverses the bimetallic junction interfaces to generate Peltier action which causes an overriding thermal feedback and bistable direction-of-heat-flow operation. Control involves the priming action of an applied magnetic field or preheating by electrical resistors (5) in the heat sinks (1, 2). Application in a thermally powered electric transformer generator is described.
+
+This patent is a counterpart of U.K. Patent 2,267,995 [1993b]
+
+To inspect the full content of this patent specification refer to the following IBM Web site by pressing on the underlined address: http://www.patents.ibm.com/details?patent_number=5,376,184 .

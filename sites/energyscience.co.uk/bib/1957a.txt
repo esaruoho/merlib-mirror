@@ -1,0 +1,13 @@
+1957a 
+
+ 1957a 
+
+ The following is a paper by H. Aspden published by the Institution of Electrical Engineers as Monograph No. 187M (July 1956) and later in Proc. I.E.E. vol. 104C at pp. 2-7 (1957). 
+
+ AN INVESTIGATION OF THE EDDY-CURRENT ANOMALY IN A LOW-SILICON SHEET STEEL 
+
+ Abstract : The eddy-current anomaly effects in a 0.019 in thick low-silicon sheet steel are investigated and analysed on the basis of magnetic inhomogeneity arising from ferromagnetic domain structure. This particular steel was chosen because previous experimental work had shown that inherent time-lag effects in the magnetization process were small. However, in such steel, flux waveform distortion arising from hysteresis phenomena adds to the anomaly effect, and a special experimental technique by which such distortion effects could be eliminated from the analysis was developed. This made it possible to test the magnetic inhomogeneity. The results obtained were interpreted in terms of a hypothetical domain configuration, and it is concluded that the magnetic inhomogeneity arising from ferromagnetic domain structure does account for the eddy-current anomaly, distortion and time-lag effects being of minor importance. 
+
+ Commentary : The advance reported in this paper was the step of measuring the eddy-current loss anomaly factor, not as an averaged effect taken over a full cycle of magnetization, but rather as an incremental effect confined to the rising portion of the flux density range. The effective permeability over the relevant range of magnetization is linear and it was found that the anomaly effect was concentrated over this range of magnetization, rather than the region at the top and falling portion of the B-H loop. What this meant was that one could see how quite large anomaly factors at levels hardly justified by magnetic domain inhomogeneities were in evidence. 
+
+See the related papers: [1956a] and [1956b] .

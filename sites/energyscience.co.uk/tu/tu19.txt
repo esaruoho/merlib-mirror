@@ -1,0 +1,59 @@
+TUTORIAL 19 
+
+ TUTORIAL NOTE 19 
+
+ Welcome to the Second 'Semester' of Ten Tutorial Notes, which teach the mathematical basis of Aether Science theory. 
+
+ THE FOURTH DIMENSION 
+
+ Copyright, Harold Aspden, 1999 
+
+The subject of Physics is about relationships, the properties possessed by something having physical form as explained or described in relation to the properties of something else having physical form. The ultimate objective of theoretical physics is, in a sense, the explanation of everything embraced by physics in terms of three basic units of measurement. The question I address here is: "Why three? What about the Fourth dimension?" 
+
+Now if you are thinking that space has four dimensions, because that is what Einstein has told us, then you are on the wrong track. As these web pages have shown, I believe that we exist in an aetherial world with space filled by that unseen medium which history records refer to as the 'aether'. I am thinking here in terms of the physical dimensions of the aether and the forms born from that aether, namely what we do see around us as matter. 
+
+Looking then at how we describe the physical properties of the matter form, tables of physical constants include entries such as: 
+ speed of light in a vacuum 2.99792458x10 8 m.s -1 
+permeability of a vacuum: 4 x10 -7 H.m -1 
+permittivity of a vacuum: 8.854187817x10 -12 F.m -l 
+elementary charge of proton: 1.60217733(49)x10 -19 C 
+rest mass of electron: 9.1093897(54)x10 -31 kg 
+Planck constant: 6.62607555(40)x10 -34 J.s 
+
+Here you will see that physicists of our modern times describe the fundamental physical constants in terms of units, the unit of distance m, the unit of time s, the unit of magnetic inductance H, the unit of capacitance F, the unit of electric charge C, the unit of weight kg and the unit of energy J. 
+
+Now the task I have addressed in my search for that Holy Grail, the unified field theory or, as some physicists now see it, the 'theory of everything', aims at reducing the number of these basic units of reference from the seven just mentioned to a lower value, the ultimate being three. 
+
+In fact, physicists have known for a very long time that they only need four dimensions, but they persist in using more, usually five, these being mass M, length L, time T electrical permittivity of the vacuum k (often referred to as the dielectric constant) and magnetic permeability of the vacuum . These afford a little versatility because it is useful to work in electrical units or magnetic units according to the nature of the task in hand, but and k are connected in terms of the speed of light c, which combines dimensions L and T so that: 
+ ( k) 2 has the dimension L/T. 
+
+The numerical quantities listed above introduce other complications by scaling things so as to be larger units having more practical application and by introducing 4 to make things easier in formulating electric and magnetic field energy densities and other electromagnetic expressions. However, basically there are four physical dimensions when there should only be three, if we discover how to solve the riddle that links the world of electricity and that of mass and inertia. 
+
+Now here I want you to consider what physicists have done in making their world of units easier for their efforts in applied physics. When I was taught physics the governing system of units was that in which k and were both unity, according to whether one was working in electrostatic units or electromagnetic units in what is known as the cgs system, based on centimetres, grammes and seconds. So, I am able to quote from a physics book in my possession which gives a little background to this choice of units, based on a discussion of the dimensions of the unit of electric charge q and the fact that:
+ [q 2 /k] = ML 3 T -2 ] 
+
+The quotation is: 
+ "Neither q nor k is known without the other. Either q or k may have a chosen value to begin with and that of the other then follows. There is little doubt that if the choice could be made now (1950), it is q that would be chosen, and its value that of the electron. But at the time that choice was made, it seemed that there was nothing particularly constant about an electric charge, while the properties of empty space were quite fixed. It was therefore k which was assumed to have unit value for empty space, which then caused the unit charge to be one which, situated one centimetre from an equal charge, in empty space, repels or attracts it with a force of one dyne. It is always dangerous to put a quantity equal to unity in an equation as it is apt to be lost sight of. In fact this happened in the case of electric quantities, which were assumed, for a long time, to have quite erroneous dimensions." 
+
+Now I have drawn attention to this because most physicists now believe that there is no aether and that space is truly empty, an assumption which I see as justifying regarding it as having unity as a dimension governing its capacity to store electric energy. However, driven by practical considerations, physics have assigned empty space some very curious dimensions as we see from the involvement of 4 , H and F in the above listing. If there is nothing there then this assignment of dimensional properties seems to me to be ridiculous, so I rely on my intuition which says that there is something in what we think is empty space. The word 'empty' can only mean 'devoid of the matter form' and there simply has to be something there that exhibits electrical properties just as does matter, even though it is electrical neutral overall and elusive in its behaviour. 
+
+The aether therefore holds the secret of how we can come to terms with whether or not there really is a fourth physical dimension, meaning one that is independent of the other three that are essential. 
+
+How would you express electric charge in terms of mass, length and time? My answer to this is first to question why mass has to be one of the three fundamental dimensions. I can see that length is a dimension that stands alone, as does time, but suppose I can explain the phenomenon we call 'mass' in terms of something more fundamental. One needs to explain inertia and the gravitational property to see what we mean by the word 'mass' and I have done exactly that in these web pages in Tutorial No. 12 and Tutorial No. 6. Mass is best explained in relation to the conservation of energy and I would therefore regard energy E as a fundamental physical dimension rather than mass and then proceed from there in trying to explain electric charge and electromagnetic action. 
+
+The question then reduces to one of understanding the fabric of the aether so as to understand how it can store energy, and then explaining something about elerctric charge that is not discussed in physics books when dealing with physical dimensions, namely charge polarity. Yes, I can, to my way of thinking, assume that k is unity for the vacuum state, by definition, and if I can then explain how an electric charge involves E, L and T, the dimensions of energy, length and time, in determining the unit of charge, going on one step further from there to explain charge polarity using the same dimensions, I am in sight of the truth. 
+
+Put k equal to unity in the above equation and you have the dimensions of charge q expressed in terms of M, L, T and then replace M by EL -2 T 2 and you have the link. Go further and just say that the aether has a rhythmic motion at a universal frequency (units T -1 ) and that those charges cooperate in seeking to conserve their energy and you will conclude that they oscillate in size (L 3 ) in antiphase at that rhythmic frequency so as to keep their overall volume the same. What then is a positive and a negative charge? Well, there is no difference except that half of the charge population is expanding at instants when the other half is contracting and vice versa. The 'positive' and 'negative' attributes merely classify the charge according as to its phase of oscillation amongst a system of identical energy quanta each encapsulated in the same volume of space for the particular particle family, with half oscillating in antiphase with the other half.
+
+One concludes that there is no Fourth Dimension in a system of physivcs that has deciphered the secrets of the aether and discovered the ultimate truth. 
+
+I hope the above commentary will serve as a guide as one tries to make sense of things by deciphering what physics has to tell us at the fundamental level. Take away the aether and reject that unity k=1 factor and you are left with vacuum 
+permeability as 4 x10 -7 H.m -1 and vacuum permittivity as 8.854187817x10 -12 F.m -l and now try explaining why 'nothing' needs such numbers for its physical description. 
+
+You must accept that there is a real aether! 
+
+ Harold Aspden 
+
+ To progress to the next Tutorial press: 
+ Tutorial No. 20 
+ *

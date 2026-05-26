@@ -1,0 +1,62 @@
+Hogyan befolyásolja az időjárás az elektromos autó hatótávját? 
+
+ 5 days ago 
+
+ Hogyan befolyásolja az időjárás az elektromos autó hatótávját? 
+
+ Ugyanaz az út, ugyanaz az autó, a különbség mégis számottevő. De miért? 
+
+ Az elektromos autók és a hatótávolság kérdése: ez a legnagyobb kihívás, amivel az elektromos mobilitásnak meg kell küzdenie. Mostanra a villanyautók már olyan távolságokat képesek megtenni egyetlen feltöltéssel, amely kielégíti a legtöbb autós napi igényeit. Ám továbbra is számos tényező és ismeretlen változó befolyásolja azt, hogy egy EV egyetlen töltéssel hány kilométert képes megtenni. A különbség pedig szemmel is jól látható. 
+
+ Ugyanazon kocsi hatékonyságára számos tényező van kisebb-nagyobb hatással: és itt most ne csak a sofőr vezetési stílusára, de a felniken található gumik minőségére (és azok állapotára), vagy az időjárási körülményekre is gondolnunk kell. Éppen ezért az InsideEVs portál olasz szerkesztősége úgy érezte, itt az ideje készíteni egy összehasonlító tesztet. Ehhez fogták a saját Tesla Model 3-asukat , egy Standard Range Plust és bejárták ugyanazt az útszakaszt egy hűvös januári és egy napos októberi napon. Az eredmény pedig… 
+
+ A két elvégzett teszt során az autót mind a Róma-Forlìroute távon – amely a Motor1.com valós fogyasztási tesztjeinek hagyományos referenciájaként szolgál –, mind a római forgalomban próbára tették, így sikerült lefedni mind a városi, mind a nagy forgalmú útvonalakat. 
+
+ Az októberben elvégzett második teszten a Tesla Model 3 SR+ az InsideEVs által korábban ugyanazen tesztnek alávetett elektromos autók közül a leghatékonyabbnak bizonyult, ugyanis 100 kilométer megtételéhez mindössze 11,9 kilowattóra energiára volt szüksége. A korábbi, januári próba alkalmával a fogyasztást nem sikerült 14,7 kilowattóra/100 kilométer alá tuszkolni. Ez még úgy is számottevő különbség, ha figyelembe vesszük a lehetséges – teljesítményt is befolyásoló – változtatásokat, amelyek az azóta eltelt hónapok során az Over-the-Air szoftverfrissítésekkel érkeztek. 
+
+ Összességében ez nagyságrendileg 23,5%-os különbséget jelent. Vagyis megtehető kilométerekben kifejezve ez annyit tesz, hogy teljesen feltöltött akkumulátorokkal – figyelembe véve a WLTP szabvány szerint mért 415 kilométeres maximális hatótávolságot – majdnem 100 kilométer különbség lehet a megtett távolságban. Ez azon is jól lemérhető volt, hogy míg januárban szükség volt egy rövid megállóra egy kis utántöltésre, addig októberben a Tesla a teljes távolságot képes volt megtenni anélkül, hogy szükség lett volna újratöltésre. 
+
+ De mégis mi eredményezhetett ekkora különbséget a fogyasztásban? Januárban sokkal tovább voltak felkapcsolva a fényszórók, mivel a tesztet jelentős részét rossz fényviszonyok között teljesítették. És mivel januárban az időjárás is mostohább volt, a fűtést is többet kellett használni. 
+
+ Ugyanakkor ez a két változó még önmagában nem eredményez ekkora teljesítménybeli különbséget az energiahatékonyság szempontjából. Ugyanez vonatkozik a gumiabroncsokra is: januárban téli, októberben nyári abroncsok voltak a kocsi alatt, de mindkettő ugyanazzal a gördülési együtthatóval rendelkezett. 
+
+ Nem, ez a különbség egyértelműen a hideg számlájára írható. 
+
+ Ahhoz, hogy megfelelően elemezni és értékelni lehessen a kapott eredményeket, a külső hőmérséklet jelenti a kulcsot. A januári teszt hidegebb körülmények között zajlott, gyakran a 10 Celsius fokot sem érte el. Októberben viszont tiszta, száraz időben teszteltek és az időjárás is kifejezetten „tavaszias” volt, 20 Celsius fokot is meghaladó hőmérséklet mellett. 
+
+ Pontosan ez a különbség volt az, amely a két fogyasztási érték közötti különbséget eredményezte. Hiszen ideális körülmények között az akkumulátorban tárolt energiát tisztán az autó meghajtására lehetett felhasználni, és nem kellett a légkondicionálót üzemeltetni. Januárban eléggé más volt a helyzet. 
+
+Forrás: 
+ InsideEVs 
+
+ Ha kedvet kaptál és szeretnél Teslát venni, akkor állítsd össze a sajátodat a Tesla.hu weboldalán található konfigurátorban ! Illetve keresd Mudri Dánielt, aki készséggel áll rendelkezésedre telefonon vagy e-mailben (+36-20-366-3447, daniel.mudri@mahzrt.hu). 
+
+ 19 hours 49 min 
+ A Tesla közzétette a teljes önvezető funkció béta verzióját 
+ Elon Musk szerint a rendszer egyelőre „rendkívül lassú és óvatos lesz”. 
+
+ 1 day 14 hours 
+ 3,5 millió kilométert is bírhat a Tesla 4680-as akkucellája 
+ Jeff Dahn és kutatócsapata szerint óriási potenciál rejlik az újtípusú akkumulátorokban. 
+
+ 2 days 15 hours 
+ Extrém megbízhatósági teszt: 1,2 millió kilométer egy Teslában 
+ Megállíthatatlanul száguld a német Model S P85 az 1 millió mérföld felé. 
+
+ Model 3 Model S Model X Model Y 
+
+ © 2019-2020 MAHZRT 
+
+ Modellek 
+
+ Model 3 Model S Model X Model Y 
+ Szolgáltatásaink 
+ Tesla hírek 
+ Tesla márkatörténet 
+ Gy.i.k. 
+ TAO támogatás 
+ Nagycsaládos támogatás 
+ Tesla Model S élményvezetés 
+ Kapcsolat 
+
+ Model 3 Model S Model X Model Y

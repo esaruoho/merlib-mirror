@@ -18,6 +18,7 @@ import sys
 import json
 import time
 import shutil
+import hashlib
 import argparse
 import subprocess
 import urllib.request
@@ -60,6 +61,39 @@ MIN_CONTENT_SIZE = 50
 VERSION = "1.0.0"
 
 USER_AGENT = f"mirror.py/{VERSION} (https://github.com/esaruoho/merlib-dump)"
+
+# Progress snapshot path — mirror-worker reads / clears this. Syncthing
+# carries it to the laptop for merlib-mirror-status.sh. Same shape as
+# ocr-heartbeat / whisp-heartbeat: ts + ts_iso + counters + current URL.
+PROGRESS_FILE = os.path.expanduser("~/work/comms/queue/merlib-mirror-progress.json")
+PROGRESS_INTERVAL = 20  # write every N URLs visited (cheap, ~one disk write per ~20s)
+
+
+def write_progress_snapshot(domain, target, mode, visited, ok, queued, last_url, path_filter=None):
+    """Atomic write of a small JSON status file for the laptop's status pane.
+    Failure (disk full, permission, etc.) must never crash the crawler — we
+    swallow exceptions silently."""
+    import datetime
+    try:
+        payload = {
+            "ts": int(time.time()),
+            "ts_iso": datetime.datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ"),
+            "domain": domain,
+            "target": target,
+            "mode": mode,
+            "path_filter": path_filter or "",
+            "urls_visited": visited,
+            "urls_ok": ok,
+            "urls_queued": queued,
+            "last_url": last_url or "",
+        }
+        os.makedirs(os.path.dirname(PROGRESS_FILE), exist_ok=True)
+        tmp = PROGRESS_FILE + ".tmp"
+        with open(tmp, "w") as f:
+            json.dump(payload, f)
+        os.replace(tmp, PROGRESS_FILE)
+    except Exception:
+        pass
 
 # Wayback toolbar stripping patterns (from mirror_tesla_hu.py)
 WAYBACK_STRIP_PATTERNS = [
@@ -275,6 +309,22 @@ def sanitize_path(url):
     # Sanitize characters
     path = re.sub(r'[<>:"|?*]', '_', path)
 
+    # Truncate over-long basenames (filesystems limit filenames to 255 bytes).
+    # Preserve extension and append a short hash of the original name for uniqueness.
+    MAX_NAME_BYTES = 200
+    dir_part, base = os.path.split(path)
+    if len(base.encode('utf-8', errors='ignore')) > MAX_NAME_BYTES:
+        stem, ext = os.path.splitext(base)
+        if len(ext.encode('utf-8', errors='ignore')) > 20:
+            # absurdly long "extension" (query-string-as-ext) — treat whole base as stem
+            stem, ext = base, ''
+        h = hashlib.sha1(base.encode('utf-8', errors='ignore')).hexdigest()[:10]
+        budget = MAX_NAME_BYTES - len(ext.encode('utf-8', errors='ignore')) - 1 - len(h)
+        stem_bytes = stem.encode('utf-8', errors='ignore')[:max(budget, 1)]
+        stem = stem_bytes.decode('utf-8', errors='ignore')
+        base = f"{stem}_{h}{ext}"
+        path = os.path.join(dir_part, base) if dir_part else base
+
     return path
 
 
@@ -399,6 +449,26 @@ class _LinkExtractorHTML(HTMLParser):
             self.links.add(full)
 
 
+_META_REFRESH_RE = re.compile(
+    r'<meta[^>]+http-equiv\s*=\s*["\']?refresh["\']?[^>]*content\s*=\s*["\']?\s*\d+\s*;\s*url\s*=\s*([^"\'>\s]+)',
+    re.IGNORECASE,
+)
+
+
+def _extract_meta_refresh_targets(text, base_url):
+    """Return URLs from <meta http-equiv="refresh" content="0; URL=..."> tags.
+
+    Redirect splash pages (e.g. meyl.eu/) have zero <a> tags — without this we
+    crawl one file and stop. The browser follows the refresh instantly; so do we.
+    """
+    urls = set()
+    for m in _META_REFRESH_RE.finditer(text):
+        target = m.group(1).strip().strip('"\'')
+        if target:
+            urls.add(urllib.parse.urljoin(base_url, target))
+    return urls
+
+
 def extract_links(html_content, base_url):
     """Extract links from HTML. Uses Scrapling if available, else HTMLParser."""
     text = html_content if isinstance(html_content, str) else html_content.decode('utf-8', errors='replace')
@@ -426,13 +496,14 @@ def extract_links(html_content, base_url):
             src = script.attrib.get('src', '')
             if src:
                 links.add(urllib.parse.urljoin(base_url, src))
+        links |= _extract_meta_refresh_targets(text, base_url)
         links = {l for l in links if not l.startswith(('javascript:', 'mailto:', 'data:', '#'))}
         return links
 
     # Fallback: stdlib HTMLParser
     extractor = _LinkExtractorHTML(base_url)
     extractor.feed(text)
-    return extractor.links
+    return extractor.links | _extract_meta_refresh_targets(text, base_url)
 
 
 def should_skip_url(url, domain):
@@ -576,8 +647,16 @@ def download_wayback_url(url, cdx_timestamp, domain, output_dir, delay):
     timestamps += [t for t in FALLBACK_TIMESTAMPS if t not in timestamps]
 
     consecutive_fails = 0
+    cdx_extras_loaded = False
+    attempts_made = 0
+    # Cap grows once CDX extras are loaded so we can actually try them.
+    max_attempts = MAX_TIMESTAMP_ATTEMPTS
+    i = 0
 
-    for ts in timestamps[:MAX_TIMESTAMP_ATTEMPTS]:
+    while i < len(timestamps) and attempts_made < max_attempts:
+        ts = timestamps[i]
+        i += 1
+        attempts_made += 1
         wayback_url = f"https://web.archive.org/web/{ts}{modifier}/{clean_url}"
         content, _ct, ok = fetch_url(wayback_url)
 
@@ -613,6 +692,30 @@ def download_wayback_url(url, cdx_timestamp, domain, output_dir, delay):
 
         time.sleep(0.2)
 
+        # After exhausting the initial list, do one CDX lookup for ALL known
+        # snapshots of this URL and append any we haven't tried yet.
+        if i >= len(timestamps) and not cdx_extras_loaded:
+            cdx_extras_loaded = True
+            try:
+                q = f"https://web.archive.org/cdx/search/cdx?url={urllib.parse.quote(clean_url, safe='')}&output=json&fl=timestamp,statuscode&filter=statuscode:200"
+                snap_content, _ct, snap_ok = fetch_url(q, timeout=30)
+                if snap_ok:
+                    snap_data = json.loads(snap_content)
+                    known = {t[:8] for t in timestamps}
+                    added = 0
+                    for row in snap_data[1:]:
+                        t8 = row[0][:8]
+                        if t8 not in known:
+                            timestamps.append(t8)
+                            known.add(t8)
+                            added += 1
+                    if added:
+                        # Allow up to 8 more attempts to try the new timestamps.
+                        max_attempts += min(added, 8)
+                        consecutive_fails = 0
+            except Exception:
+                pass
+
     return False, 0, None
 
 
@@ -639,6 +742,51 @@ def download_live_url(url, domain, output_dir):
 
 # ── 14. Index & metadata generation ─────────────────────────────────────────
 
+def write_source_info(output_dir, target_url, mode, path_filter=None, label=None, page_title=None):
+    """Write SOURCE.txt — human-readable provenance file alongside ALLFILES.txt.
+    Answers 'what URL was this directory mirrored from, in what mode, when'.
+    Idempotent overwrite — last run wins, which matches mirror semantics.
+    """
+    import datetime
+    lines = []
+    lines.append(f"target: {target_url}")
+    lines.append(f"mode: {mode}")
+    if path_filter:
+        lines.append(f"path_filter: {path_filter}")
+    if label:
+        lines.append(f"label: {label}")
+    if page_title:
+        lines.append(f"title: {page_title}")
+    lines.append(f"mirror_date: {datetime.datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%SZ')}")
+    try:
+        os.makedirs(output_dir, exist_ok=True)
+        with open(os.path.join(output_dir, 'SOURCE.txt'), 'w') as f:
+            f.write('\n'.join(lines) + '\n')
+    except Exception as e:
+        log(f"WARNING: could not write SOURCE.txt: {e}")
+
+
+def extract_html_title(html_bytes):
+    """Best-effort <title> extraction from raw HTML bytes. Returns None if no
+    title or unparseable. Doesn't import a full HTML parser — uses a small
+    regex against the bytes decoded as utf-8 (with fallback to latin-1)."""
+    import re
+    try:
+        text = html_bytes.decode('utf-8', errors='replace')
+    except Exception:
+        try:
+            text = html_bytes.decode('latin-1', errors='replace')
+        except Exception:
+            return None
+    m = re.search(r'<title[^>]*>(.*?)</title>', text, re.IGNORECASE | re.DOTALL)
+    if not m:
+        return None
+    title = m.group(1).strip()
+    # Collapse whitespace
+    title = ' '.join(title.split())
+    return title[:300] if title else None
+
+
 def generate_index(output_dir, domain, source='web.archive.org', progress=None):
     """Generate ALLFILES.txt and _meta.json."""
     log("Generating index...")
@@ -646,7 +794,7 @@ def generate_index(output_dir, domain, source='web.archive.org', progress=None):
     all_files = []
     for root, _dirs, files in os.walk(output_dir):
         for fname in files:
-            if not fname.startswith('_') and fname != 'ALLFILES.txt':
+            if not fname.startswith('_') and fname not in ('ALLFILES.txt', 'SOURCE.txt', 'error.log'):
                 rel = os.path.relpath(os.path.join(root, fname), output_dir)
                 all_files.append(rel)
 
@@ -720,11 +868,19 @@ def run_wayback(domain, resume=False, ts_from=None, ts_to=None, delay=None, outp
         log("\n=== PHASE 1: URL Discovery ===")
 
         all_urls = []
-        for query_domain in [domain, f"www.{domain}"]:
-            log(f"Querying CDX for {query_domain}...")
+        # When a path filter is given, scope the CDX query to that subpath directly.
+        # Avoids the 50k per-query cap eating the subpath on large hosts.
+        if path_filter:
+            sub = path_filter.strip('/')
+            url_patterns = [f'{domain}/{sub}/*', f'www.{domain}/{sub}/*']
+        else:
+            url_patterns = [f'{domain}/*', f'www.{domain}/*']
+
+        for url_pattern in url_patterns:
+            log(f"Querying CDX for {url_pattern}...")
 
             params = {
-                'url': f'{query_domain}/*',
+                'url': url_pattern,
                 'output': 'json',
                 'collapse': 'urlkey',
                 'filter': 'statuscode:200',
@@ -741,13 +897,13 @@ def run_wayback(domain, resume=False, ts_from=None, ts_to=None, delay=None, outp
 
             content, _ct, ok = fetch_url(cdx_url, timeout=120)
             if not ok:
-                log(f"  CDX query failed for {query_domain}")
+                log(f"  CDX query failed for {url_pattern}")
                 continue
 
             try:
                 data = json.loads(content)
                 if len(data) < 2:
-                    log(f"  No results for {query_domain}")
+                    log(f"  No results for {url_pattern}")
                     continue
 
                 for row in data[1:]:
@@ -760,9 +916,9 @@ def run_wayback(domain, resume=False, ts_from=None, ts_to=None, delay=None, outp
                             'length': row[4] if len(row) > 4 else '',
                         })
 
-                log(f"  Found {len(data) - 1} URLs for {query_domain}")
+                log(f"  Found {len(data) - 1} URLs for {url_pattern}")
             except json.JSONDecodeError as e:
-                log(f"  JSON parse error for {query_domain}: {e}")
+                log(f"  JSON parse error for {url_pattern}: {e}")
 
         # Also check root domain
         for root_domain in [domain, f"www.{domain}"]:
@@ -897,6 +1053,9 @@ def run_wayback(domain, resume=False, ts_from=None, ts_to=None, delay=None, outp
     extract_wordpress_pdfs(output_dir, domain)
 
     progress = load_progress(progress_file)
+    # Wayback's "target URL" is the wayback CDX query for the domain.
+    write_source_info(output_dir, f"https://web.archive.org/web/*/{domain}/*",
+                      'wayback', path_filter=path_filter)
     meta = generate_index(output_dir, domain, progress=progress)
 
     log("\n" + "=" * 60)
@@ -911,11 +1070,18 @@ def run_wayback(domain, resume=False, ts_from=None, ts_to=None, delay=None, outp
 
 # ── 16. Main loop — live mode ───────────────────────────────────────────────
 
-def run_live(url, seeds_file=None, delay=None, max_pages=None, output_base=None):
+def run_live(url, seeds_file=None, delay=None, max_pages=None, output_base=None, path_filter=None):
     """Live crawl: download-as-you-go BFS from seed URL(s).
 
     Priority: download everything under the seed path first, then
     follow outbound links up to MAX_LINK_DEPTH hops away.
+
+    If `path_filter` is set (e.g. `/u/utkin_w_m`), links whose URL path
+    does NOT contain that substring are dropped at queueing time. This
+    is the difference between "download utkin_w_m's pages" and "spider
+    across the whole site from utkin_w_m's outbound links" (the latter
+    is what happens without the filter — on samlib.ru that means 300k+
+    queued URLs for a single user).
     """
     global _current_delay
 
@@ -935,6 +1101,8 @@ def run_live(url, seeds_file=None, delay=None, max_pages=None, output_base=None)
     log(f"Seed: {url}")
     log(f"Seed path: {seed_path}")
     log(f"Max link depth: {max_depth}")
+    if path_filter:
+        log(f"Path filter: '{path_filter}' (links not containing this are dropped)")
     log(f"Output: {output_dir}")
     log("=" * 60)
 
@@ -1027,6 +1195,13 @@ def run_live(url, seeds_file=None, delay=None, max_pages=None, output_base=None)
         if downloaded_count % 5 == 0 or downloaded_count <= 10:
             log(f"  [{downloaded_count} {label}] {page_url}  ({ok_count} OK, {len(queue)} queued)")
 
+        # Update the laptop-side status snapshot on a slightly slower cadence
+        # than the log (one write per ~PROGRESS_INTERVAL URLs).
+        if downloaded_count % PROGRESS_INTERVAL == 0:
+            write_progress_snapshot(domain, url, "live",
+                                    downloaded_count, ok_count, len(queue),
+                                    page_url, path_filter=path_filter)
+
         # Extract links from HTML pages
         is_html = (ct and 'html' in ct.lower()) or (not ct and not os.path.splitext(
             urllib.parse.urlparse(page_url).path)[1])
@@ -1040,6 +1215,16 @@ def run_live(url, seeds_file=None, delay=None, max_pages=None, output_base=None)
                         continue
                     if should_skip_url(link, domain):
                         continue
+                    # Path filter: drop links whose path doesn't contain
+                    # the filter substring. Marks them as seen too so we
+                    # don't re-evaluate them on every page that links to
+                    # them. Without this, the BFS spiders across the
+                    # whole site (this is the samlib.ru 327k-URL bug).
+                    if path_filter:
+                        link_path = urllib.parse.urlparse(link).path
+                        if path_filter not in link_path:
+                            seen.add(link)
+                            continue
                     seen.add(link)
 
                     # Links under seed path stay at same depth (priority)
@@ -1057,6 +1242,20 @@ def run_live(url, seeds_file=None, delay=None, max_pages=None, output_base=None)
 
     # Post-crawl
     extract_wordpress_pdfs(output_dir, domain)
+
+    # Try to extract a page title from the seed URL's downloaded HTML so the
+    # PR description (and SOURCE.txt) can show something more human than the
+    # URL. Best-effort — silent on failure.
+    seed_title = None
+    try:
+        seed_local = os.path.join(output_dir, sanitize_path(url))
+        if os.path.exists(seed_local) and os.path.getsize(seed_local) > 0:
+            with open(seed_local, 'rb') as f:
+                seed_title = extract_html_title(f.read(200_000))
+    except Exception:
+        pass
+
+    write_source_info(output_dir, url, 'live', path_filter=path_filter, page_title=seed_title)
     generate_index(output_dir, domain, source='live')
 
     log("\n" + "=" * 60)
@@ -1214,6 +1413,7 @@ def run_dropbox(url, output_base=None, label=None):
                 log(f"Saved as: _dropbox_download.zip (could not determine filename)")
 
     # Generate index
+    write_source_info(output_dir, url, 'dropbox', label=label)
     generate_index(output_dir, domain, source='dropbox.com')
 
     log(f"Done: {domain}")
@@ -1462,6 +1662,7 @@ def run_gdrive(url, output_base=None, label=None):
             all_files = _gdrive_api_list_recursive(gdrive_id, api_key)
             log(f"Total files found: {len(all_files)}")
             _gdrive_api_download_all(all_files, output_dir)
+            write_source_info(output_dir, url, 'gdrive', label=label)
             generate_index(output_dir, domain, source='drive.google.com')
             log(f"Done: {domain}")
             return
@@ -1637,6 +1838,7 @@ Smart mode (auto-detects):
     lv.add_argument('--delay', type=float, help=f'Delay between requests (default: {DEFAULT_LIVE_DELAY}s)')
     lv.add_argument('--max-pages', type=int, help=f'Max pages to crawl for link discovery (default: {MAX_DISCOVER_PAGES})')
     lv.add_argument('--output-dir', dest='output_dir', help='Override output base directory')
+    lv.add_argument('--path', dest='path_filter', help='Only follow links containing this path substring (e.g. /u/utkin_w_m). Without it, BFS spiders across the whole domain via outbound links — on community sites that means 100k+ URLs from one seed.')
 
     # gdrive
     gd = sub.add_parser('gdrive', help='Download from Google Drive')
@@ -1666,7 +1868,8 @@ Smart mode (auto-detects):
                     path_filter=getattr(args, 'path_filter', None))
     elif args.mode == 'live':
         run_live(args.url, seeds_file=args.seeds, delay=args.delay,
-                 max_pages=args.max_pages, output_base=output_base)
+                 max_pages=args.max_pages, output_base=output_base,
+                 path_filter=getattr(args, 'path_filter', None))
     elif args.mode == 'gdrive':
         run_gdrive(args.url, output_base=output_base, label=getattr(args, 'label', None))
     elif args.mode == 'dropbox':

@@ -1,0 +1,17 @@
+{
+  "source": "web.archive.org",
+  "domain": "villesresearch.com",
+  "mirror_date": "2026-04-29T14:57:04.636350",
+  "total_urls": 1,
+  "downloaded": 1,
+  "failed": 0,
+  "files": 86,
+  "file_types": {
+    ".json": 2,
+    ".txt": 15,
+    ".html": 11,
+    ".jpg": 56,
+    ".xml": 1,
+    ".css": 1
+  }
+}

@@ -1,0 +1,247 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+
+<HEAD>
+<LINK REV="made" HREF="mailto:Franz-Josef.Elmer@unibas.ch">
+<META name="keywords" content="Pendulum, Physics, Nonlinear Dynamics">
+<META name="description" content="Pendulum dynamics">
+
+	<META NAME="GENERATOR" Content="Visual Page 1.0 for Windows">
+	<META HTTP-EQUIV="Content-Type" CONTENT="text/html;CHARSET=iso-8859-1">
+	<TITLE>Equation of motion of an undamped and undriven pendulum </TITLE>
+</HEAD>
+
+<BODY text=#000000 bgcolor=#ffffb0 link=#0000ff vlink=#0000ff alink=#ff0000>
+<a name="top"></a><TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0">
+	<TR>
+		<TD WIDTH="120" VALIGN="TOP">
+			<CENTER>
+			<P>
+			<TABLE BORDER="4" BGCOLOR="#FFFFFF">
+				<TR>
+					<TD>
+						<P ALIGN="CENTER"><A HREF="index.html"><IMG SRC="plab_s.gif" WIDTH="101" HEIGHT="35" ALIGN="BOTTOM" ALT="Logo"
+						BORDER="0"></A>
+					</TD>
+				</TR>
+			</TABLE>
+
+</CENTER>
+		</TD>
+		<TD align=CENTER>
+			<P>
+			<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="248">
+				<TR>
+					<TD WIDTH="124" BGCOLOR="#FFFFFF">
+						<P ALIGN="CENTER"><A HREF="lab.htm"><FONT SIZE="4">The Lab</FONT></A>
+					</TD>
+					<TD WIDTH="124" BGCOLOR="#99FF99">
+						<P ALIGN="CENTER"><A HREF="lroom.htm"><FONT SIZE="4"><B>The Lecture Room</B></FONT></A>
+					</TD>
+				</TR>
+				<TR>
+					<TD WIDTH="124"><IMG SRC="nb_b.gif" WIDTH="124" HEIGHT="6" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_u.gif" WIDTH="124" HEIGHT="6" ALIGN="BOTTOM" BORDER="0"></TD>
+				</TR>
+			</TABLE>
+
+			<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="620">
+				<TR>
+					<TD WIDTH="124"><IMG SRC="nb_l.gif" WIDTH="124" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_m.gif" WIDTH="124" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_m.gif" WIDTH="124" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_m.gif" WIDTH="124" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_r.gif" WIDTH="124" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"></TD>
+				</TR>
+				<TR>
+					<TD WIDTH="124" BGCOLOR="#99FF99">
+						<P ALIGN="CENTER"><A HREF="eqm.htm"><B>The Equations of Motion</B></A>
+					</TD>
+					<TD WIDTH="124" BGCOLOR="#FFFFFF">
+						<P ALIGN="CENTER"><A HREF="oscres.htm">Oscillations and Resonances</A>
+					</TD>
+					<TD WIDTH="124" BGCOLOR="#FFFFFF">
+						<P ALIGN="CENTER"><A HREF="nldyn.htm">Nonlinear Dynamics</A>
+					</TD>
+					<TD WIDTH="124" BGCOLOR="#FFFFFF">
+						<P ALIGN="CENTER"><A HREF="app.htm">Miscellaneous Topics</A>
+					</TD>
+					<TD WIDTH="124" BGCOLOR="#FFFFFF">
+						<P ALIGN="CENTER"><A HREF="links.htm">Links and Literature</A>
+					</TD>
+				</TR>
+				<TR>
+					<TD WIDTH="124"><IMG SRC="nb_u.gif" WIDTH="124" HEIGHT="6" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_b.gif" WIDTH="124" HEIGHT="6" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_b.gif" WIDTH="124" HEIGHT="6" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_b.gif" WIDTH="124" HEIGHT="6" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_b.gif" WIDTH="124" HEIGHT="6" ALIGN="BOTTOM" BORDER="0"></TD>
+				</TR>
+			</TABLE>
+			<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="620">
+				<TR>
+					<TD WIDTH="124"><IMG SRC="nb_l.gif" WIDTH="124" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_m.gif" WIDTH="124" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_r.gif" WIDTH="124" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"></TD>
+					<td width=124></td>
+					<td width=124></td>
+				</TR>
+				<TR>
+					<TD WIDTH="124" BGCOLOR="#99FF99">
+						<P ALIGN="CENTER"><A HREF="eqm1.htm"><I><B>Undamped and Undriven Pendulum</B></I></A>
+					</TD>
+					<TD WIDTH="124" BGCOLOR="#FFFFFF">
+						<P ALIGN="CENTER"><A HREF="eqm2.htm"><I>Damped and Driven Pendulum</I></A>
+					</TD>
+					<TD WIDTH="124" BGCOLOR="#FFFFFF">
+						<P ALIGN="CENTER"><A HREF="leqm.htm"><I>Linearized Equations of Motion</I></A>
+					</TD>
+				</TR>
+			</TABLE>
+
+		</TD>
+	</TR>
+</TABLE>
+</P>
+</CENTER>
+<P>
+<H1 ALIGN="CENTER">The Equation of Motion<BR>
+<I>of an undamped and undriven pendulum</I></H1>
+<P>
+<TABLE BORDER="0">
+	<TR>
+		<TD VALIGN="TOP"><IMG SRC="forces.gif" WIDTH="174" HEIGHT="286" ALIGN="LEFT" ALT="geometry of forces" BORDER="0">According to Newton's
+			laws the inertia force <I>F</I><SUB>I</SUB> (i.e., mass times acceleration) has to be equal to the applied force.
+			In our case, the applied force is the restoring force <I>F</I><SUB>R</SUB> caused by gravity <I>G</I>. From the
+			geometry of the problem (see figure), it is clear that<BR>
+			<BR>
+			<center><nobr><I>F</I><SUB>R</SUB>&nbsp;=&nbsp;-<I>G</I>&nbsp;sin<IMG 
+			src="greek/varphi.gif" align=middle alt="phi" hspace=2>&nbsp;</nobr>
+			<nobr>=&nbsp;-&nbsp;<I>mg</I>&nbsp; sin<IMG src="greek/varphi.gif" align=middle alt="phi" hspace=2
+>,</nobr></center><BR>
+			where <I>m</I> is the mass of the pendulum and <I>g</I> is the acceleration of gravity. Note that the negative sign
+			is caused by the fact that the restoring force <I>F</I><SUB>R</SUB> wants to bring the pendulum back to equilibrium
+			(i.e., <IMG src="greek/varphi.gif" align=middle alt="phi" hspace=2>&nbsp;=&nbsp;0).<BR>
+			<BR>
+			Next, we have to express the inertia force <I>F</I><SUB>I</SUB> in terms of 
+			the angle <IMG src="greek/varphi.gif" align=middle alt="phi" hspace=2>. 
+			Assuming a rigid pendulum (i.e., its length <I>l</I>
+			is fixed), the mass can move only on a circle with radius <I>l</I>. The position (i.e., the spatial coordinate)
+			along this circle is given by <I>l<IMG src="greek/varphi.gif" align=middle alt="phi" hspace=2></I>. 
+			Note that the angle <IMG src="greek/varphi.gif" align=middle alt="phi" hspace=2> 
+			is measured in radians (i.e., 180&#176; corresponds to <IMG src="greek/pi.gif" align=middle alt="pi" hspace=2
+>). 
+The acceleration is therefore given by <nobr><I>l&nbsp;d</I><SUP>2</SUP><IMG src="greek/varphi.gif" 
+align=top alt="phi" hspace=2>/<I>dt</I><SUP>2</SUP>.</nobr> 
+			Thus, from Newton's law	we get<BR>
+			<center><nobr><I>ml d</I><SUP>2</sup><IMG src="greek/varphi.gif" align=middle alt="phi" hspace=2
+>/<I>dt</I><SUP>2</SUP>&nbsp;=&nbsp;-<I>mg</I>&nbsp;sin<IMG
+			src="greek/varphi.gif" align=middle alt="phi" hspace=2>.</nobr></center><BR>
+			Dividing by <I>ml</I> and moving the term on the right-hand side to the left-hand side leads to the equation of
+			motion of an undamped and undriven pendulum<BR>
+			<BR>
+			
+			<A NAME="(1)"></A><TABLE BORDER="0" CELLSPACING="0">
+				<TR>
+					<TD WIDTH="35">(1)</TD>
+					<TD WIDTH="400" ALIGN="CENTER">
+<nobr>
+						<P ALIGN="CENTER"><I>d</I><SUP>2</sup><IMG src="greek/varphi.gif" align=middle alt="phi" hspace=2>/<I>dt</I><SUP>2</SUP>
+						+ <IMG src="greek/omega.gif" align=middle alt="omega" hspace=2><SUB>0</SUB><SUP>2</SUP>
+						sin<IMG src="greek/varphi.gif" align=middle alt="phi" hspace=2> = 0,</nobr>
+					</TD>
+				</TR>
+			</TABLE>
+<BR>
+			where <BR>
+			<BR>
+			
+			<TABLE BORDER="0" CELLSPACING="0">
+				<TR>
+					<TD WIDTH="30">(2)</TD>
+					<TD WIDTH="300" ALIGN="CENTER">
+<nobr>
+						<P ALIGN="CENTER">&nbsp;<IMG src="greek/omega.gif" align=middle alt="omega" hspace=2><SUB>0</SUB>&nbsp;=&nbsp;(<I>g</I>/<I>l</I>)<SUP>1/2</SUP>.
+						</nobr>
+					</TD>
+				</TR>
+			</TABLE>
+		</TD>
+	</TR>
+</TABLE>
+</P>
+<P><b>Additional comments:</b>
+
+<UL>
+	<LI>The mass <I>m</I> of the pendulum does not appear anymore in the equation of motion. Galileo Galilei (1564-1642)
+	was the first who discovered this effect. Maybe you know his legendary experiment of dropping two balls of the same size
+	but of different mass from the tower of Pisa, where both balls had reached the ground simultaneously. From the viewpoint of Newton's
+	laws, there is no reason that the inertial mass (i.e., the <I>m</I> in <I>F</I><SUB>I</SUB>) has to be the same as
+	the gravitational mass (i.e., the <I>m</I> in <I>F</I><SUB>R</SUB>). It was the ingenious idea of Albert Einstein
+	(1879-1955) to take this equality not as accidentally but as a deep principle of nature. From this equivalence
+	of gravitational and inertial mass, he developed a new understanding of gravity which led to his general theory
+	of relativity.
+	<LI>Although the equation of motion is derived only for a mathematical pendulum (where all the mass is concentrated
+	in one point), it is also true for a physical pendulum with distributed mass. In this case, the parameter <I>l</I>
+	is some effective length which is smaller than the distance between the center of mass and the rotation axis.
+	<LI>The equation of motion is a second-order differential equation (due to the second derivative of the angle <IMG
+	src="greek/varphi.gif" align=middle alt="phi" hspace=2>). In order to get a unique
+	solution, one needs two real numbers, e.g. the angle and the angular velocity at a specific time. Both
+	variables define uniquely the <a href="bterm.htm#state">state</a> of the undriven pendulum.
+	<LI>The equation of motion is <b>nonlinear</b> because the second term depends nonlinearly on the angle <IMG src="greek/varphi.gif" align=middle alt="phi" hspace=2
+>.
+</UL>
+
+<P>
+<TABLE BORDER="0" CELLPADDING="8" BGCOLOR="#80FFC0">
+	<TR>
+		<TD><B>QUESTIONS worth to think about:</B></TD>
+	</TR>
+	<TR>
+		<TD>
+			<OL>
+<li>What are the stationary equilibra of the pendulum (i.e., the solutions of 
+(<a href="#(1)">1</a>) which are constant in time)? Which of them
+are stable and which are unstable?</li>
+<LI>How large is the component of the force parallel to <i>l</i>?</li>
+			</OL>
+		</TD>
+	</TR>
+</TABLE>
+</P>
+<P>
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="19%">
+	<TR>
+		<TD WIDTH="33%">
+			<P ALIGN="CENTER"><A HREF="eqm.htm"><IMG SRC="prevarow.gif" WIDTH="31" HEIGHT="31" ALIGN="BOTTOM" ALT="arrow" BORDER="0"></A>
+		</TD>
+		<TD WIDTH="33%">
+			<P ALIGN="CENTER"><A HREF="eqm1.htm"><IMG SRC="toparow.gif" WIDTH="31" HEIGHT="31" ALIGN="BOTTOM" ALT="arrow" BORDER="0"></A>
+		</TD>
+		<TD WIDTH="34%">
+			<P ALIGN="CENTER"><A HREF="eqm2.htm"><IMG SRC="nextarow.gif" WIDTH="31" HEIGHT="31" ALIGN="BOTTOM" ALT="arrow"
+			BORDER="0"></A>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH="33%">
+			<P ALIGN="CENTER"><A HREF="eqm.htm">previous</A>
+		</TD>
+		<TD WIDTH="33%">
+			<P ALIGN="CENTER"><A HREF="eqm1.htm">top</A>
+		</TD>
+		<TD WIDTH="34%">
+			<P ALIGN="CENTER"><A HREF="eqm2.htm">next</A>
+		</TD>
+	</TR>
+</TABLE>
+
+<HR ALIGN="CENTER" NOSHADE>
+<nobr>
+<ADDRESS>&copy; 1998 <a href="http://www.elmer.unibas.ch">Franz-Josef Elmer</a>, <IMG SRC="envelope.gif" WIDTH="20" HEIGHT="10" ALIGN="BOTTOM" BORDER="0">
+&nbsp;Franz-Josef doht Elmer aht unibas doht ch, 
+last modified Sunday, July 19, 1998.
+
+
+</BODY>
+

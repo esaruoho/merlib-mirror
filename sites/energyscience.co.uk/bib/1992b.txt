@@ -1,0 +1,9 @@
+1992b 
+
+ 1992b 
+
+ The following is a paper by H. Aspden delivered at 27th IECEC, Intersociety Energy Conversion Engineering Conference, August 3-7 (1992): SAE Technical Paper Series Paper No. 929474.
+
+ THE ELECTRONIC HEAT ENGINE 
+
+ Abstract : The electronic heat engine is a solid-state device fabricated as a 5 mm thick panel formed by assembling between two aluminium sheets a parallel plate capacitor stack comprising layers of a bimetallic-coated PVDF dielectric. A first prototype operated at 500 kHz and generated electricity at 70% of Carnot efficiency to power a small electric motor when one panel surface was at room temperature with the other surface in contact with melting ice. A second prototype of different design was equally efficient at 20 kHz. The technology exploits the Seebeck effect in a novel way which enhances the thermoelectric power of an aluminium-nickel thermocouple by an enormous amount owing to a dynamic excitation avoiding junction cold spot effects. The compact panel nature of this technology lends itself to combination with a patented technique for mirror focusing of thermal radiation in a multistage panel assembly, whereby to elevate the temperature of one surface relative to the other. This latter aspect is a research challenge which utilizes a modern army of Maxwell demons. In fact no 'demon' has to do work - the demons are inanimate, being miniature mirror surfaces. In a stage by stage process they redirect radiation from cell to cell in the panel layers in a way which traps some at higher and higher temperature.

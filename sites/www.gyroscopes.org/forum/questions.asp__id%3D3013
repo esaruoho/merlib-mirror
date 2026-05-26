@@ -1,0 +1,183 @@
+
+<html>
+<head>
+  <title>Gyroscopes - Everything you needed to know</title>
+  <meta HTTP-EQUIV="Content-Type" content="text/html; charset=iso-8859-1">
+  <meta http-equiv="pics-label" content='(pics-1.1 "http://www.icra.org/ratingsv02.html" comment "ICRAonline EN v2.0" l gen true for "no gen term" r (nz 0 vz 0 lz 0 oz 0 cz 0) "http://www.rsac.org/ratingsv01.html" l gen true for "no gen term" r (n 0 s 0 v 0 l 0))'>
+  <meta name="Author" content="Glenn Turner">
+  <meta name="keywords" content="gyroscope, gyroscopes , gyro, gyros, gyroscopic propulsion">
+  <meta name="Description" content="Gyroscopes have many uses, this site explains how a gyroscope works and what they can be used for. The site also looks at the possible uses of gyroscope based propulsion (gyroscopic propulsion). ">
+  <meta name="Copyright" content="Copyright 2015 (All Web Pages) by Glenn Turner">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="expires" content="0">
+  <link rel="stylesheet" href="/iesite.css" type="text/css">
+  
+</head>
+<body bgcolor="#000000">
+  <div style="  float: center; margin: 0; border: none; padding: 0; " align=center><center><img src="/header.jpg" alt="" hspace=0 vspace=0 width=700 height=111></center></div>
+  <center>
+  <span class="menutitle">
+    <a href="/index.asp"><font color="#DDDDDD">Home</font></a> :
+    <a href="/gallery.asp"><font color="#DDDDDD">Gallery</font></a> :
+    <a href="/history.asp"><font color="#DDDDDD">History</font></a> :
+    <a href="/uses.asp"><font color="#DDDDDD">Uses</font></a> :
+    <a href="/behaviour.asp"><font color="#DDDDDD">Behaviour</font></a> :
+    <a href="/math.asp"><font color="#DDDDDD">Maths</font></a> :
+    <a href="/forum/forums.asp"><font color="#DDDDDD">Forum</font></a> :
+    <a href="/propulsion.asp"><font color="#DDDDDD">Propulsion</font></a> :
+    <a href="/links.asp"><font color="#DDDDDD">Links</font></a> :
+    <a href="/glossary.asp"><font color="#DDDDDD">Glossary</font></a>
+    <br>
+  </span>
+
+  <table border=0 cellpadding=0 cellspacing=0 width="0" height="11">
+  <tr>
+    <td></td>
+  </tr>
+  </table>
+
+
+
+
+
+  <table border=0 cellpadding=8 cellspacing=0 width="700" height="260" bgcolor="#FFFFFF" ID="Table1">
+  <tr>
+    <td valign="top" class="main">
+<table align="center" width="100%" border="0">
+  <tr>
+    <td align="left" width="20%" valign="top">
+      <a href="forums.asp">Main Forum Page</a>
+    </td>
+    <td align="center" valign="middle">
+      
+      <h2 border="0">       
+      The Gyroscope Forum</h2></td>
+    <td align="right" width="20%" valign="top">
+      20 January 2021 00:28
+    </td>
+  </tr>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <p align=left>Welcome to the gyroscope forum. If you have a question about gyroscopes in general,
+      want to know how they work, or what they can be used for then you can leave your question here for others to answer.
+         You may also be able to help others by answering some of the questions on the site.
+      </p>
+      
+      <table width="100%">
+      <tr><td>
+        <form action="qa.asp" method="get">
+        <b>Search the forum: </b><input type="text" value="" name="forumsearch" size=30>&nbsp;<input type="submit" value="Search" name="forumsearchsubmit">
+          <input type=hidden name="forum" value="">
+        </form>
+      </td><td>
+        
+        <form action="askquestion.asp" method="post">
+        <input type="submit" value="Ask new Question" name="forumsearchsubmit">&nbsp;
+        
+        <input type="submit" value="Login" name="Login"> 
+        
+        </form>
+      </td></tr>
+      </table>
+      <hr width=100%>
+    </td>
+  </tr>
+</table>
+
+<table align="center" border="0" width="95%">
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><h3>Question</h3></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Asked by:</b></td>
+    <td align="left" colspan="2" valign="top">Nitro</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Subject:</b></td>
+    <td align="left" colspan="2" valign="top">Happy Christmas</td>
+  </tr>
+  <tr>
+    <td align=right class=medium valign="top" nowrap><b>Question:</b></td>
+    <td align=left class=medium valign="top" width="400" colspan="2">: A guide to gyrodynamic anomalies that enable reactionless Impulse drive.<br>
+<br>
+ Hi <br>
+ You will note that I put inverted commas around the word reactionless above. This is because, although there is just as much reaction involved in a gyro mechanism as any other mechanism, its reactions are not all opposite to its action which is why mass displacement/impulse drive/anti-gravity /unopposed force generation (call it whatever stupid name you prefer) has been achieved. Yes! I said has been achieved and I will disclose how in the following pages. <br>
+<br>
+ Rather than reactionless the mechanism should possibly be better called an oppositeless machine. This type of mechanism can move without pushing against anything external to it or throwing away any of its starting mass. <br>
+ The Oppositeless machine<br>
+ Since I was a child and played with a toy gyroscope that I was given I, like every other child, soon knew there was something strange with its precessive motion as its motion was not, as usual, opposite the force applied to alter its axial angle. I also, like every other child, soon got bored witless by it but I was fascinated by it. <br>
+<br>
+ I kept going back to it and by the mid-1950s I knew from a *helicopter maintenance manual I was gifted (from my brother Ag who worked at de Havillands at the time) and my own empirical experimentation that, when applied to gyroscopic mechanics, Newtons laws of motion had terminal flaws. These flaws science had astonishingly seemed unaware of and not addressed for the previous 250 odd years (now three hundred and thirty two years and counting). <br>
+<br>
+ The reasons for this lack of scientific attention are for others Psychological explanations elsewhere. I believe it has something to do with the human herd instinct and worry of putting ones head over the parapet for fear of it being shot at or, worse for a scientist, being ridiculed.<br>
+<br>
+ *In case you didnt know, a helicopters controls apply more thrust to the side when its stick is pushed forwards, applies more thrust to the rear to go sideways and so on. This is because its rotating blades act like a giant gyroscope and cause it to tilt 90degrees from where its thrust is applied.<br>
+<br>
+ Scientists seemingly have blinded themselves to the truth or perhaps failed to notice that something was wrong or explained the anomalies away to themselves and others with obscure references to the conservation of angular momentum laws. Some scientists even carried out flawed experiments purely to attempt to confirm their flawed beliefs or more exactly to disprove what they considered the flawed beliefs of those who had gained the truth.<br>
+<br>
+ Yet still people, commonly shed dwelling nuts like me with no scientific reputation to risk, kept popping up with mechanisms that, if not exactly space ship ready, still impossibly moved outside their starting dimension reactionlessly (or should that be oppositelessly?). <br>
+<br>
+The scientific community almost to a man or woman write off such devices movement, as being caused by slip stick and demand that the result of any test other than with the use of an air table be discounted. I have a little sympathy with such scientists as there is a mountain of false, mistaken, or just plain stupid claims for machines on the web although unsurprisingly most innovators sheds are not equipped with an air table.<br>
+<br>
+ In fact an air table is a very bad way to test such devices as it introduces its own unique anomalies to muddy the examination of rotating mechanisms. Unless the mechanism is perfectly counterbalanced (such counterbalance perfection is hardly ever encountered except perhaps in John Harrisons wonderful H1 clock  look it up it is lovely), the rotation of most machines eccentric mass will cause the air table puck, that the mechanism is mounted on, to tilt, allowing more air to be tangentially discharged from the part of the disc that is slightly tilted up. <br>
+<br>
+ This adds an large unwanted acceleration of varying direction to an already complex motion which makes any observation of the gyroscopic mechanisms own caused motion useless and void. <br>
+ A typical example of such a flawed scientific air table test by Emma Wilson as part of her thesis at Cambridge university can be seen here:-<br>
+<br>
+ http://www2.eng.cam.ac.uk/~hemh1/gyroscopes/icegyro.html <br>
+<br>
+ Here it is wrongly stated by Emma that the gyro and its support base (normally represented by an Eifel tower) rotates around its combined centre of mass (its barycentre).<br>
+<br>
+ In truth a well spun overhung gyro (the typical arrangement of a gyro with its axis sticking out horizontally from the top of a supporting Eifel tower) on a frictionless base will rotate around its support (usually the supporting Eifel tower or its equal), not the barycentre between the Eifel tower and the gyroscope. It shows none of the centripetal or centrifugal effect that would be expected when rotating a large eccentric mass. Indeed if a simple childs gyro were to demonstrate the normal effects of the same but non spinning gyroscopes mass the Eifel tower would fall over straight away. <br>
+<br>
+ The reason is that the torque created by gravity is, along with effects of mass, its inertia, centrifugal, centripetal forces are transferred straight down the tower. Mass transfer indeed.<br>
+<br>
+ This total lack of rotating eccentric mass effects of precession can be clearly seen in this simple demonstration here: - <br>
+ https://www.youtube.com/watch?v=N6dSx05MpLs<br>
+<br>
+ (the rotating mass effects are of course there but the effects are not where they are expected to be and so  like in a conjurers misdirection trick - they cannot be seen by most people without some understanding of the processes involved) <br>
+<br>
+ The errors in Emma Wilsons Thesis may seem unimportant but they are some of the most commonly overlooked or wrongly explained gyrodynamic anomaly effects. They are important gyroscopic anomalies and their reasons should be learnt to gain further understanding because these very anomalies makes reactionless mass displacement (and impulse drive) not only possible but inevitable.<br>
+<br>
+ Sadly Emma Wilsons wasted thesis will only have succeeded in putting off research in this difficult field because she appears to have shown that this is a dead-end path. She hasnt shown anything of the sort of course but few if any students or scientists having read her thesis will bother to carry out their own vital, simple, empirical, experimentation which would clearly and fully refute her findings. <br>
+<br>
+ Happy Holiday and keep heading for the stars - or at least to the shed<br>
+ Kind regards<br>
+ NM</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Date:</b></td>
+    <td align="left" colspan="2" valign="top">23 December 2019
+    </td>
+  </tr>
+  <tr>
+    <td align="right" colspan="3" valign="top"><a href="abuse.asp?q=3013">report abuse</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2><hr width="100%"></td>
+  </tr>
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><br><h3>Answers (Ordered by Date)</h3><br></td>
+  </tr>
+  <tr>
+<td align="left" width="20px">&nbsp;</td>
+<td align="left"><li>No answers yet</td></tr><tr>
+<td align="center" colspan="2"><a href="answerquestion.asp?id=3013">Add an Answer &#062;&#062;</a></td></tr>
+</table>
+    </td>
+  </tr>
+  </table>
+  
+  <font class="copyright">
+  Website. Copyright &copy; 2021 Glenn Turner. All rights reserved. <a href="/site.asp">site info</a><br>
+     Do not copy without prior permission. Click here for <a target="gyroscopeproducts" href="http://www.gyroscope.com/" alt="Gyroscope products">gyroscope products</a> 
+   
+  </font>
+</center>
+
+</body>
+</html>

@@ -1,0 +1,113 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+<HEAD>
+   <TITLE>Pepe's Pages: XilLOG - Idmr modul mrs-adatgyjt rendszerekhez</TITLE>
+   <META HTTP-EQUIV="Content-type" CONTENT="text/html; Charset=ISO-8859-2">
+   <META NAME="Author" CONTENT="Pepe">
+   <META NAME="language" CONTENT="hu">
+   <META NAME="description" CONTENT="Pepe's Pages">
+   <META NAME="keywords" CONTENT="Varsnyi Pter Varsnyi Pter Varsanyi Peter">
+   <META NAME="GENERATOR" CONTENT="Mozilla/3.01Gold (Win16; I) [Netscape]">
+</HEAD>
+<BODY>
+
+<P></P>
+<DIV ALIGN=center><P><FONT SIZE=+2><B>XilLOG</B> - Idmr modul mrs-adatgyjt rendszerekhez</FONT></P></DIV>
+<P></P>
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;
+A  <B>XilLOG</B>  analg  idmr  rendszer  a <B>XilMER</B>-tl
+fleg  abban  tr el, hogy egyidej analg mrseket is lehetv
+tesz  egy megfelel mrs-adatgyjt krtyval egytt. Az analg
+mrsi  adatok  gy  nem id szerint, hanem szg szerint lesznek
+gyjtve.  Ennek  legnagyobb elnye, hogy ms mrsi mdszerekhez
+kpest  a  szgelforduls idbeli derivltjai rendkvl pontoss
+vlnak,  s  specilis  matematikai  mdszerek nlkl kpezhetk
+bellk   knnyen   kirtkelhet,   zajmentes   magasabb  rend
+derivltak. </P>
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;
+Ugyancsak  eltrs  a  kt rendszer kztt, hogy a <B>XilLOG</B>
+bemenetei  univerzlisabbak;  a  modul  nem  csak  inkrementlis
+jeladk  csatlakoztatsra  alkalmas,  hanem brmilyen digitlis
+jelet  kpes  fogadni  15  teljesen fggetlen csatornn. gy nem
+csak   szgsebessg   mrsre,   hanem   brmilyen   idtartam,
+idklnbsg   vagy   fzishelyzet,  ill.  sszetett  impulzusok
+mrsre is alkalmas.</P>
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;
+A  <B>XilLOG</B>  az  Advantech ltal szabvnyosan hasznlt 2*20
+plus  szalagkbeles  csatlakoz kbel segtsgvel kapcsolhat
+brmely  Advantech gyrtmny, vagy ahhoz hasonl felpts ISA
+vagy  PCI  buszos  mrs-adatgyjt  rendszerhez.  (Az jabb, 68
+plus,  SCSI-II  mret  csatlakozval szerelt mrs-adatgyjt
+krtykhoz specilis adapterrel csatlakoztathat.) </P>
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;
+A  kszlk  mretei:  123*70*28  mm.  Hts oldaln 2*20 plus
+szalagkbel  van  kivezetve,  ellapjn  pedig  25  plus D-SUB
+anyacsatlakoz  tallhat. Sajt tpelltst nem tartalmaz, mert
+a  mrs-adatgyjt  krtyrl  kapja  a tpfeszltsgt, emiatt
+hlzati kapcsolja sincsen.</P>
+
+<U><P>A <B>XilLOG</B> idmr modul az albbi f jellemzkkel rendelkezik:</P></U>
+
+<UL>
+<LI>15   db   teljesen   fggetlen   digitlis   (TTL)  bemenet,
+ksleltets-mentes  digitlis zavarszrssel; a cserlhet bels
+felhz  ellenllsval  kzvetlenl  fogadja  a  TTL  s az NPN
+nyitott  kollektoros  (open  collector)  kimenet jelforrsokat;
+kls   alkatrszekkel   alkalmas   PNP,  nagy  feszltsg  TTL
+(HVTTL/HTL)  s  differencilis (RS-422) kimenet ill. 12-24 VDC
+tpfeszltsg inkrementek jeleinek csatlakoztatsra is;</LI>
+<LI>1  db  TTL  szint  kls trigger kimenet a mrs-adatgyjt
+krtya kls trigger bemenethez;</LI>
+<LI>A  bemenetek  s  a  kimenet kt foglalatban lv cserlhet
+levlaszt  IC-n  t  van vezetve, gy hibs bekts esetn csak
+azokat   kell   kicserlni;   a   kszlk   vezrl  IC-je  nem
+krosodhat;</LI>
+<LI>Tpllsa  a  szmtgp  fell trtnik, a 25 plus, D-SUB
+anyacsatlakozjn  a  15 bemen s egy kimen csatorna mellett a
++5  s  +12  VDC  tpfeszltsg  is  elrhet  a csatlakoztatott
+egysgek szmra;</LI>
+<LI>Valdi   16   bites   adattvitel   az  Advantech  krtykon
+szabvnyostott   2*20  vonalas  digitlis  input-output  porton
+keresztl;  (Ms  gyrtk  hasonl  cl interfszhez illeszts
+lehetsges.)</LI>
+<LI>Alapkiptsben    az    1   MHz-es   rajelvel   1   <FONT
+FACE="Symbol">&#109;</FONT>s-os     felbontssal     mri     az
+impulzusokat; az rajelet ad IC cserjvel lehetsges 100 ns-os
+(10 MHz) vagy akr 50 ns-os (20 MHz) felbonts is;</LI>
+<LI>A  beptett  Xilinx  Spartan szabadon programozhat logikai
+ramkr   (FPGA)   tetszleges  egyb  mrstechnikai  feladatra
+tprogramozhat, gy az ramkr tbb clra is hasznlhat;</LI>
+<LI>A   kszlk   befoglal   mretei:   123*70*28   mm.  Szne
+vilgosszrke, opcionlisan fekete.</LI>
+</UL></P>
+
+<TABLE CELLSPACING=0 BORDER=0 CELLPADDING=5 WIDTH="100%">
+<TR><TD WIDTH="50%" VALIGN="TOP">
+<U><P>Tartozkok a <B>XilLOG</B> idmr modulhoz:</P></U>
+
+<P><UL>
+</I><LI>XilLOG idmr modul;</LI>
+<LI>Felhasznli kziknyv;</LI>
+<LI>Programlemez a mrprogrammal ill. nhny mrs-kirtkelst
+segt   szoftverrel,   tovbb   a  legknnyebben  beszerezhet
+inkrementlis jeladk gyri adatlapjaival PDF formtumban;</LI>
+<LI>2  db  1,2  mteres  20  plus  szalagkbel csatlakozkkal;
+100%-ig   kompatibilis   az   Advantech   PCL-10120   tpusszm
+kbelvel.</LI>
+</P></UL>
+
+</TD>
+<TD WIDTH="50%" VALIGN="TOP">
+<P><BR><IMG SRC="xillog.jpg" HEIGHT=192 WIDTH=256></P>
+</TD>
+</TR>
+</TABLE>
+
+<DIV ALIGN=right><P><A HREF="elado.htm">Vissza az elz oldalra!</A></DIV>
+
+</BODY>
+</HTML>

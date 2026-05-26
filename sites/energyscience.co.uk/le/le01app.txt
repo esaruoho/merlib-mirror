@@ -1,0 +1,323 @@
+APPENDIX TO LECTURE NO. 1 
+
+ APPENDIX TO LECTURE NO. 1 
+
+ Copyright Harold Aspden, 1987 
+
+ THE CASE FOR THE SUB-ELECTRON 
+
+ This is an article by H. Aspden which appeared in The Toth-Maatian
+Review, v. 5, No. 4, January 1987 at pp. 2827-2833.
+
+ Abstract: One of the most basic questions in physics is whether
+there is a degenerate form of the electron, a charge of smaller mass
+than that of the electron. If there is then it is likely to be a
+primary constituent of the background field medium we recognize as
+sustaining electric displacement, namely the aether. This paper
+discusses the evidence indicative of the existence of such a
+particle, a sub-electron, having an effective mass 1/24.52 that of
+the electron.
+
+ INTRODUCTION 
+ If there is a charged particle of smaller mass than the
+electron why has it not been discovered? Can it be that it exists,
+but is only evidenced indirectly? We believe that an aether exists,
+but cannot grasp hold of it. Its existence is inferred by indirect
+evidence, such as the need to explain electric displacement current
+and energy storage in a vacuum field. Perhaps the aether is elusive
+because it is composed of something equally elusive. The sub-electron may be the primary constituent of the medium permeating all
+space, set in a lattice array in a continuum charge of opposite
+electric polarity so as to constitute a medium neutral overall. If
+this is so, then what are the properties to be looked for in order to
+confirm this hypothesis?
+ Firstly, one must expect the space metric to have a structure
+and determine, by its geometry, the value of the dimensionless fine-structure constant 2(pi)e 2 /hc. Here e is the electric charge of the sub-electron and c is the speed of light, a property accepted as set by the vacuum medium. Logically, therefore, the constant h, Planck's constant, which combines with e and c to give a
+dimensionless quantity, becomes a likely candidate for interpretation
+in terms of vacuum structure indicative of the existence of the sub-electron.
+ Secondly, if the electron can become degenerate and transform
+into a sub-electron, the reverse process should be possible.
+Therefore, we should be open to the possibility that an electron
+might exchange its energy with that of the sub-electron, so that, in
+effect, they change places spontaneously. This is a process which
+conserves energy and involves no electrodynamic disturbance, but
+their centre of mass is changed so there is an inertial effect. If
+the sub-electron is a hidden particle in the vacuum metric then this
+action would constitute a vacuum fluctuation and the process would
+soon be repeated in the reverse sense to preserve equilibrium.
+ All this is hypothetical until we can build some
+substance into the argument and show, for example, that several
+different phenomena can all be explained by appeal to the sub-electron and that the quantitative features of these phenomena all
+indicate the same mass property for the sub-electron. It will be
+seen that the sub-electron can be justified by diverse physical
+argument and that the evidence supports it having an effective mass
+1/24.52 times that of the electron. Its mass m o is, therefore,
+0.0408m, where m is electron mass.
+
+ HYDRODYNAMIC CONSIDERATIONS 
+ When a spherical particle is in an incompressible medium of
+fluid form and has exactly the same mass density as that medium, its
+motion through the medium involves a kinetic energy corresponding to
+it having an effective mass of half its intrinsic mass. This is
+standard hydrodynamics. One cannot expect the vacuum to comply with
+hydrodynamic theory in every respect, but it is a guide to a possible
+property of the sub-electron. If this sub-electron is degenerate in
+form it will be in equilibrium with the surrounding medium, meaning
+that its pressure developed by repulsion of its charge will be
+uniform both inside the charge body of the sub-electron and in the
+surrounding space. Our expectation is that, unlike normal matter
+particles, the sub-electron will exhibit only half the mass derived
+from the E=Mc 2 formula. In terms of its effective mass m o , this
+allows us to write E=2m o c 2 for the sub-electron, because its
+mass in a non-pressurized medium or true vacuum would be 2m o .
+ The argument just presented warrants investigation to see if
+the anomalous factor of 2 governing the gyromagnetic ratio of certain
+fundamental particles in spin is attributable to a similar process
+set up by a local equilibrium in the self-radiation field of the
+particle. In a sense 'spin' may mean a confined motion of the charge
+centre in relation to a standing wave energy set up in the local
+field, with the result that translational motion exhibiting mass M
+may correspond to a spin motion of effective mass M/2. The magnetic
+moment developed by a given spin angular momentum will be double that
+exhibited by a motion of the full mass M. The anomalous gyromagnetic
+ratio of 2 need not be quite so mysterious as we are led to believe
+from conventional Dirac theory based on relativistic formalism.
+ Readers interested in taking these thoughts further may find it
+useful to refer to Honig's recent discussion of the fluid model
+electron [W.M. Honig, 'The Quantum and Beyond' , Philosophical
+Library, N.Y., pp. 87-93; 1986] or the electromagnetic reaction
+theory for the factor 2 proposed by Aspden [ 'Electromagnetic Reaction Paradox' , Lett. Nuovo Cimento, v. 39, pp. 247-51; 1984] and further supported by analysis of the first principles of charge interaction in a later work [H. Aspden, 'Unification of Gravitational and Electrodynamic Potential Based on Classical Action-at-a-Distance Theory' , Lett. Nuovo Cimento, v. 44, pp. 689-693; 1985].
+
+ PLANCK'S CONSTANT 
+ The more direct evidence of the sub-electron mass property
+comes from the derivation of the relationship: 
+ hc/2(pi)e 2 = 216(pi)(m o /m) 1/2 ..........(1), 
+where:
+ (m/2m o ) 3 = 1843 ...........(2), 
+From this hc/2(pi)e 2 is found to be 137.0359 and m o /m is 0.04078.
+
+ A recent derivation of equation (1) was presented by Aspden
+[ 'Boson Creation in a Sub-Quantum Lattice' , Lett. Nuovo Cimento, v. 40, pp. 53-57 (1984)] and the earlier computations proving equation (2) were reported by Aspden and Eagles [ 'Aether Theory and the Fine Structure Constant' , Physics Letters A, v. 41, pp. 423-424 (1972)]. Essentially, equation (2) arises from a recognition that the space occupied by a sub-electron must be an odd multiple of that occupied by the electron. The mass of the electron is inversely proportional to its charge radius and the corresponding 2m o term for the sub-electron is similarly proportional to charge radius. For a suitable transformation in which the volume displaced by charge is conserved it takes 1843 electrons and positrons to fill the volume of one sub-electron, meaning that electron-positron creation demanding the energy quantum of the order of that of the proton mass is needed to achieve such a resonant transformation.
+ The 1843 number is the nearest odd integer that assures a non-negative potential in the dynamic state of the structured vacuum
+medium. This is the subject of the paper by Aspden and Eagles just
+referenced. So far as equation (1) is concerned this is easily
+derived. The outline method involves taking the Planck radiation
+formula E=hf as a contracted statement of two equations. One
+equation says that, because the vacuum has the properties of a two-dimensional linear oscillator and stores energy E in proportion to
+angular momentum, there has to be something spinning to balance this
+angular momentum. The other equation relates this angular momentum to
+the moment of inertia of the spinning unit of the structured lattice
+and says that waves are set up as the unit rotates, the waves having
+the frequency f, which is indirectly proportional to energy E. The
+natural oscillation frequency of the vacuum medium is that at which
+electrons and positrons materialize, namely mc 2 /h. The
+derivation of equation (1) comes from determining the form of the
+spinning unit as the smallest symmetrical three-dimensional unit of a
+cubic lattice, with a sub-electron at its lattice sites and at its
+centre.
+ The author's theory of the photon is of long standing, but it
+is not well known. It is inappropriate to dwell upon it here, in
+view of the referenced publications, but it is mentioned that it was
+presented to a recent NATO Advanced Research Workshop on Quantum
+Theory [H. Aspden, 'The Theoretical Nature of the Photon in a Lattice Vacuum' , NATO Advanced Research Workshop on Quantum Mechanics, Proceedings of Conference at Bridgeport, Connecticut, June 23-27, 1986, published in NATO ASI Series B: Physics Vol. 62 by Plenum (1987) at pp. 345-360] and the fact that the theory gives a
+theoretical value for hc/2(pi)e 2 to one part per million
+precision accord with its measured value was the subject of a recent
+comment in a review by Petley [B. W. Petley, 'The Fundamental
+Physical Constants and the Frontier of Measurement' , Adam Hilger,
+Boston, pp. 161-163 (1985)]. The theory forms the basis of the
+statement that the mass of the sub-electron is 0.04078 times that of
+the electron. This paper now addresses other evidence of the sub-
+electron mass.
+
+ THE SUN'S TEMPERATURE 
+ The energy needed to remove the electron from the lowest K
+orbit in the hydrogen atom is well known from physics texts to be
+equal to its kinetic energy E in a Bohr orbit, which is:
+ E = (alpha) 2 mc 2 /2 .......... (3), where alpha is the fine structure constant (1/137), the reciprocal of the expression formulated in equation (1) above. This energy is 2.18x10 -11 ergs, equivalent to a temperature T found by dividing by Boltzmann's constant, 1.38x10 -16 , to be 158,000 K.
+ If, however, we admit that the natural collision processes
+which occur in hydrogen under intense pressure and high temperature
+reduce this temperature threshold, then the Sun's temperature of
+about 6,000 K becomes explicable. This is somewhat hypothetical. It
+is, however, quite interesting to imagine the process discussed
+above, where it is suggested that an electron and a sub-electron
+might exchange places transiently. Putting m o into equation (3) instead of m, reduces T by the factor 24.52, from 158,000 K to 6,400
+K, a quite representative value of the Sun's temperature.
+Accordingly, indirectly, we have evidence here that the sub-electron
+might exist and could play a very fundamental role in stellar
+properties.
+
+ THE WESSON CONSTANT 
+ To support what has just been said we will now consider an
+unexplained but curious fact of astrophysics. Wesson [P. S. Wesson, 
+'Clue to the Unification of Gravitation and Particle Physics' ,
+Physical Review D23 (8), pp. 1730-1734 (1981)] has established
+empirically that astronomical bodies obey the formula relating
+angular momentum J and their mass M and given by:
+ J = pM 2 ............ (4), where p is a constant of approximately 8x10 -16 in
+cgs units. Strictly, this expression seems to apply where two similar
+bodies form together as a kind of binary pair.
+ To test the sub-electron theory we take the temperature T of
+6,400 K as giving the mean energy (3/2)kT of the free electron, k
+being Boltzmann's constant. Then we argue that at the moment when two
+spherical bodies of mass M and radius r separate, their distance
+between centres is 2R. Therefore, the balance between gravitational
+attraction GM 2 /(2R) 2 and centrifugal force MV 2 /R gives
+GM 4 as equal to 4(MVR) 2 (M/R), so that: J = MVR = pM 2 ............(5), where:
+ p 2 = G/4(M/R) ............(6). 
+
+ To find M/R we note that free electrons, like molecules in a
+gas, have three degrees of freedom and that their mean energy is
+(3/2)kT. In relation to the excitation energy of the hydrogen atom
+we used kT because there are only two degrees of freedom and because
+hf, as the energy quantum, is found empirically to relate to kT in
+the exponential distribution formulated by Planck.
+ Provided an astronomical body composed of hydrogen has a
+temperature less than T=6,400 K, there should be no free electrons to
+be driven off by their thermal agitation. Above this temperature the
+energy (3/2)kT of the electrons can overcome the gravitational
+potential GMm/R, where m is electron mass, and move well away from
+the body, leaving it with a positive charge. This prevents the
+escalation of this process but it also arrests the build-up of the
+body to larger size, because protons in the surrounding plasma are
+repelled by the charge and the effect overcomes gravitational
+attraction. We see, therefore, that M/R is fixed as (3/2)kT/Gm and
+put this into equation (6) to find Wesson's constant p.
+Thus:
+ p = G(m/6kT) 1/2 ........... (7) 
+ To calculate p, we now put G=6.67x10 -8 , m=9x10 -28 ,
+k=1.38x10 -16 and T=6,400. The resulting value of p is
+8.7x10 -16 , which is virtually the empirical value discovered by
+Wesson, thereby confirming our theory.
+ The theory has the further merit of explaining why the two
+bodies separate. As a binary star system they may heat very slightly
+above the critical temperature and acquire strong mutual repulsion
+owing to their positive charge and electron emission. The effects of
+gravitational attraction are weakened by this and the system acquires
+a kind of stability, but the mass and angular momentum of each body
+is unaffected.
+ However, our objective of deriving some evidence for the
+properties of the sub-electron is met, even in these remote
+cosmological systems. Our attention now turns to the microcosmic
+world of elementary particles.
+
+ THE MYSTERY OF THE NEUTRAL PION 
+ To the author the neutral pion is somewhat of an enigma. The
+author has developed a theoretical basis for the muon, the pion, the
+kaon and other mesons, explaining their mass ratios in terms of
+electron mass. Also the proton, neutron and deuteron have yielded to
+the theory, but the neutral pion, which is 264.1 times as massive as
+the electron has been a mystery. Relevant references are [H. Aspden,
+ 'The Mass of the Muon' , Lett. Nuovo Cimento, v. 38, pp. 342-344
+(1983)], [ 'The Nature of the Pion' , Spec. Science and Tech., v. 8,
+pp. 235-239 (1985)]. [H. Aspden, 'The Theoretical Nature of the
+Neutron and the Deuteron' , Hadronic Journal, v. 9, pp. 129-136
+(1986)] and [H. Aspden, 'Meson Production based on the Thomson Energy Correlation' , Hadronic Journal, v. 9, pp. 137-140 (1986)].
+ It is therefore interesting to find that the neutral pion has
+revealed itself in the following theoretical analysis. The argument
+begins by considering the interchange of energy and so, state,
+between the electron and the sub-electron and looking for a standing
+wave resonance mode that develops between the two particle forms.
+Then we specify that a pair of oppositely charged particles can have
+a quasi-stable but short-lived interaction with the electron and the
+sub-electron. Together they form a neutral entity, which we shall
+find we can identify as the neutral pion.
+ As mentioned already, the earlier theory indicated that the
+spherical volume of the sub-electron charge was 1843 times that of
+the electron. This means that its radius is (1843) 1/3 times that of the electron. Now, from independent theory concerned with wave
+resonance effects [see, for example, H. Aspden, 'The Muon g-factor by Cavity Resonance Theory' , Lett. Nuovo Cimento, v. 39, pp. 271-275 (1984)], there is reason to suspect that standing wave conditions can be set up around the charge periphery and develop resonance as
+between charges connected with disturbances propagating around the
+charge at the speed of light.
+ The task, therefore, was to find the likely resonance as
+between the electron and the sub-electron. The method adopted is to
+suppose that there are X standing wave nodes on the electron charge
+taken around a circle centred on the charge. Then, in traveling
+through N wave nodes around the electron, a disturbance will take N/X
+units of time. The resonance requires this to equal the time required
+by a disturbance traveling through Y wave nodes around the sub-electron, which has N standing wave nodes.
+ Thus: XY becomes NZ(1843) -1/3 . Note that XY has to be less than NZ in the ratio of the radius of the electron charge to that of the sub-electron.
+ X, Y, Z and N are all integers and, in order to assure a
+definitive resonance state not conducive to setting up harmonics, it
+is stipulated that at least three of these numbers must be prime.
+The author has searched for the best combination of numbers giving
+close equality in the above equation and discovered that the best
+combination, without going to excessively high values, is X=19,
+Y=139, Z=1619 and N=20. This has the advantage also that, in the
+transition from electron to sub-electron, the number of standing wave
+nodes only changes by one.
+ It may be verified that this combination satisfies the equation
+to about 4 parts in a billion. The numbers 19, 139 and 1619 are all
+prime and 19 differs from 20 by unity. These resonance criteria
+will, therefore, be the most likely to prevail as between the two
+most fundamental particles in nature.
+ We now look for a particle that can exchange state transiently
+with the sub-electron so as to have ideally the same number N of
+standing wave nodes but which resonates with both the electron and
+the sub-electron in traversing XY wave nodes. This means that its
+radius (or the inverse of its mass) must be 1/Z times that of the
+sub-electron or N/XY times that of the electron. In other words, its
+mass must be XY/N times that of the electron mass m. This is
+(19)(139)/(20) or 132.05 units of m.
+ This state of affairs can be interpreted by saying that a
+charge pair of combined mass (264.1)m can exist and that it may
+transiently cycle between the two states as one member of the pair
+assumes the sub-electron form and the other member absorbs the
+balance of the energy. The result is a neutral entity of total mass
+(264.1)m, which happens to be exactly the mass of the neutral pion.
+Hence the theory is well supported.
+ Should the reader be sceptical, then we go a step further and
+explain the other property of the neutral pion using the same theory.
+Its lifetime is 8x10 -17 seconds. The theory tells us that,
+because the neutral pion oscillates between two states, it presents,
+as a main target for decay, a volume some 1843 times that of the
+electron, the volume of the sub-electron charge, for half of any
+period of time, because it spends equal time in each state. Thus its
+lifetime will be 921 times shorter than that of the electron. Now,
+the electron is not believed to have a finite lifetime, but it does
+have one. It decays in 0.75x10 -13 seconds. The lifetime has
+been rigorously calculated [H. Aspden, 'The Finite Lifetime of the Electron' , Spec. Science and Tech., v. 7, pp. 3-6 (1984)] using the same theoretical method as that involved in deducing equations (1) and (2) and found to be 0.75x10 -13 seconds. It follows, therefore, that the same theory leads to a lifetime for the neutral pion of (2/1843) times this or 8x10 -17 seconds, in full accord with observation.
+
+ DISCUSSION 
+ The case for the sub-electron has been presented by showing how
+a number of phenomena lacking explanation in conventional physical
+theory, all become explicable with precise results on the basis of
+its assumed existence. It has an effective mass 0.04078 times that
+of the electron.
+ It is debatable whether the effective mass of positive holes in
+semi-conductors may in some way reflect the transitional states of
+electrons and sub-electrons. The latter belong to the unseen aether
+lattice and removal of a sub-electron might be manifested as a
+positive hole. Experiments on p-type germanium crystals have given
+effective masses m* of positive holes as m*/m=0.04 and m*/m=0.3, whereas n-type germanium was found to sustain values of m*/m=0.11 [W.
+Ehrenberg, 'Electric Conduction in Semiconductors and Metals' ,
+Clarendon Press, Oxford, pp. 145-146 (1958)]. In a sense, the semi-
+conductor lacks the simplicity of the isolated particle in the
+structured vacuum medium, so analysis of such data by the author's
+theory is unprofitable. Being unconventional in its technique it
+rests on the successful theoretical determination of precise values
+of measured quantities, some with part per million precision.
+Therefore, it has seemed best to seek out the indirect evidence of
+the existence of the sub-electron.
+ One question that the author has faced up to is why electrons
+exist all, if the sub-electron is the natural degenerate form. The
+answer to this is believed to be dependent upon the proton and the
+derivative atomic nucleus. Just enough electrons exist to keep a
+neutral overall balance with the positive charge in the proton form
+and atomic nuclei. The surplus energy that has not found a fully
+dissipated destiny in the vacuum lattice, the world of the sub-electron and the neutralizing vacuum background continuum,
+materializes as protons. Larger particle forms cannot be stable
+because they would soon encounter the sub-electron and they would
+have enough energy to generate 1843 electrons and positrons from the
+sub-electron. The ongoing annihilation of electrons and positrons
+causes the energy to start again in its effort to create protons,
+which are stable because their mass is 1836 times that of the
+electron, that is, below the threshold set by the 1843 factor.
+ Clearly, the theory outlined involves speculation and it gives
+plenty of scope for one's imagination. For this reason, and so as to
+follow a path which is meaningful and not fanciful, the author has
+taken it to be essential also for any idea to have more than one such
+outcome. This has been demonstrated above in discussing the Wesson
+constant, and in deducing the neutral pion mass and its lifetime. It
+is hoped that the reader will find interest in the case for the sub-
+electron and be stimulated to probe other secrets of Nature that
+might bear out the views offered in this paper.
+
+ *

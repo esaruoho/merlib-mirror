@@ -1,0 +1,311 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+
+<HEAD>
+<LINK REV="made" HREF="mailto:Franz-Josef.Elmer@unibas.ch">
+<META name="keywords" content="Pendulum, Physics, Nonlinear Dynamics">
+<META name="description" content="Pendulum dynamics">
+
+	<META NAME="GENERATOR" Content="Visual Page 1.0 for Windows">
+	<META HTTP-EQUIV="Content-Type" CONTENT="text/html;CHARSET=iso-8859-1">
+	<TITLE>Nonlinear Oscillations</TITLE>
+</HEAD>
+
+<BODY TEXT="#000000" BGCOLOR="#FFFFB0" LINK="#0000FF" VLINK="#0000FF" ALINK="#FF0000">
+
+<P><A NAME="top"></A> 
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0">
+	<TR ALIGN="CENTER">
+		<TD WIDTH="120" VALIGN="TOP">
+			<CENTER>
+			<P>
+			<TABLE BORDER="4" BGCOLOR="#FFFFFF">
+				<TR>
+					<TD>
+						<P ALIGN="CENTER"><A HREF="index.html"><IMG SRC="plab_s.gif" WIDTH="101" HEIGHT="35" ALIGN="BOTTOM" ALT="Logo"
+						BORDER="0"></A>
+					</TD>
+				</TR>
+			</TABLE>
+
+</CENTER>
+		</TD>
+		<TD>
+			<CENTER>
+			<P>
+			<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="248">
+				<TR>
+					<TD WIDTH="124" BGCOLOR="#FFFFFF">
+						<P ALIGN="CENTER"><A HREF="lab.htm"><FONT SIZE="4">The Lab</FONT></A>
+					</TD>
+					<TD WIDTH="124" BGCOLOR="#99FF99">
+						<P ALIGN="CENTER"><A HREF="lroom.htm"><FONT SIZE="4"><B>The Lecture Room</B></FONT></A>
+					</TD>
+				</TR>
+				<TR>
+					<TD WIDTH="124"><IMG SRC="nb_b.gif" WIDTH="124" HEIGHT="6" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_u.gif" WIDTH="124" HEIGHT="6" ALIGN="BOTTOM" BORDER="0"></TD>
+				</TR>
+			</TABLE>
+
+			<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="620">
+				<TR>
+					<TD WIDTH="124"><IMG SRC="nb_l.gif" WIDTH="124" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_m.gif" WIDTH="124" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_m.gif" WIDTH="124" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_m.gif" WIDTH="124" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_r.gif" WIDTH="124" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"></TD>
+				</TR>
+				<TR>
+					<TD WIDTH="124" BGCOLOR="#FFFFFF">
+						<P ALIGN="CENTER"><A HREF="eqm.htm">The Equations of Motion</A>
+					</TD>
+					<TD WIDTH="124" BGCOLOR="#99FF99">
+						<P ALIGN="CENTER"><A HREF="oscres.htm"><B>Oscillations and Resonances</B></A>
+					</TD>
+					<TD WIDTH="124" BGCOLOR="#FFFFFF">
+						<P ALIGN="CENTER"><A HREF="nldyn.htm">Nonlinear Dynamics</A>
+					</TD>
+					<TD WIDTH="124" BGCOLOR="#FFFFFF">
+						<P ALIGN="CENTER"><A HREF="app.htm">Miscellaneous Topics</A>
+					</TD>
+					<TD WIDTH="124" BGCOLOR="#FFFFFF">
+						<P ALIGN="CENTER"><A HREF="links.htm">Links and Literature</A>
+					</TD>
+				</TR>
+				<TR>
+					<TD WIDTH="124"><IMG SRC="nb_b.gif" WIDTH="124" HEIGHT="6" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_u.gif" WIDTH="124" HEIGHT="6" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_b.gif" WIDTH="124" HEIGHT="6" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_b.gif" WIDTH="124" HEIGHT="6" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_b.gif" WIDTH="124" HEIGHT="6" ALIGN="BOTTOM" BORDER="0"></TD>
+				</TR>
+			</TABLE>
+
+			<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="496">
+				<TR>
+					<TD WIDTH="124"><IMG SRC="nb_l.gif" WIDTH="124" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_m.gif" WIDTH="124" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_m.gif" WIDTH="124" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"></TD>
+					<TD WIDTH="124"><IMG SRC="nb_r.gif" WIDTH="124" HEIGHT="9" ALIGN="BOTTOM" BORDER="0"></TD>
+				</TR>
+				<TR>
+					<TD WIDTH="124" BGCOLOR="#FFFFFF">
+						<P ALIGN="CENTER"><A HREF="harmosc.htm"><I>The Harmonic Oscillator</I></A>
+					</TD>
+					<TD WIDTH="124" BGCOLOR="#99FF99">
+						<P ALIGN="CENTER"><A HREF="nonosc.htm"><I><B>Nonlinear Oscillations</B></I></A>
+					</TD>
+					<TD WIDTH="124" BGCOLOR="#FFFFFF">
+						<P ALIGN="CENTER"><A HREF="nonres.htm"><I>Nonlinear Resonance</I></A>
+					</TD>
+					<TD WIDTH="124" BGCOLOR="#FFFFFF">
+						<P ALIGN="CENTER"><A HREF="parres.htm"><I>Parametric Resonance</I></A>
+					</TD>
+				</TR>
+			</TABLE>
+
+</CENTER>
+		</TD>
+	</TR>
+</TABLE>
+</P>
+<H1 ALIGN="CENTER">Nonlinear Oscillations</H1>
+
+
+<P>A pendulum is properly modelled by a <a href="harmosc.htm">harmonic oscillator</a> 
+only for small angles of elongation. Maybe you have
+observed in the lab that the period of oscillation increases with increasing amplitude of oscillation. Starting
+near the upside-down position, you will find that the period becomes much larger than for small-angle oscillations.
+In fact, the period approaches infinity in the limit <nobr><IMG SRC="greek/varphi.gif" align=middle alt="phi" hspace=2
+><SUB>max<IMG SRC="greek/rarrow.gif" align=top alt="to" hspace=2></SUB>180&deg;.</nobr>
+In the virtual lab (and in reality too) you will never reach this limit.</P>
+
+<P>Even though the equation of motion of an undamped and undriven pendulum is <I>nonlinear</I>, one can calculate
+its frequency as a function of the amplitude <nobr><IMG SRC="greek/varphi.gif" align=middle alt="phi" hspace=2
+><SUB>max</SUB>.</nobr> In order to solve this nonlinear differential equation<BR>
+<A NAME="eqm"></A>
+<TABLE BORDER="0" CELLSPACING="0">
+	<TR>
+		<TD WIDTH="35">(1)</TD>
+		<TD WIDTH="1000" ALIGN="CENTER">
+<nobr>
+			<P ALIGN="CENTER"><i>d</i><SUP>2<IMG SRC="greek/varphi.gif" align=middle alt="phi" hspace=2></SUP>/<I>dt</I><SUP>2</SUP>&nbsp;+&nbsp;<IMG
+			SRC="greek/omega.gif" align=middle alt="omega" hspace=2><SUB>0</SUB><SUP>2</SUP>sin<IMG SRC="greek/varphi.gif" align=middle alt="phi" hspace=2
+>&nbsp;=&nbsp;0,</nobr>
+		</TD>
+	</TR>
+</TABLE>
+notice that the total <b>energy</b><BR>
+<TABLE BORDER="0" CELLSPACING="0">
+	<TR>
+		<TD WIDTH="35"><A NAME="E"></A>(2)</TD>
+		<TD WIDTH="1000" ALIGN="CENTER">
+<nobr>
+			<P ALIGN="CENTER"><I>E</I>&nbsp;=&nbsp;&frac12;(<i>d</i><IMG SRC="greek/varphi.gif" align=middle alt="phi" hspace=2
+>/<I>dt</I>)<SUP>2</SUP>&nbsp;-&nbsp;<IMG SRC="greek/omega.gif" align=middle alt="omega" hspace=2
+><SUB>0</SUB><SUP>2</SUP>cos<IMG SRC="greek/varphi.gif" align=middle alt="phi" hspace=2></nobr>
+		</TD>
+	</TR>
+</TABLE>
+<BR>
+is a constant during the motion of the pendulum. In the maximum elongation <nobr><IMG SRC="greek/varphi.gif" align=middle alt="phi" hspace=2
+><SUB>max</SUB>,</nobr> the kinetic energy is zero. Thus,<BR>
+<BR>
+<A NAME="Ephimax"><TABLE BORDER="0" CELLSPACING="0">
+	<TR>
+		<TD WIDTH="35">(3)</TD>
+		<TD WIDTH="1000" ALIGN="CENTER">
+			<P ALIGN="CENTER"><nobr><I>E</I>&nbsp;=&nbsp;-<IMG SRC="greek/omega.gif" align=middle alt="omega" hspace=2
+><SUB>0</SUB><SUP>2</SUP>cos<IMG SRC="greek/varphi.gif" align=middle alt="phi" hspace=2><SUB>max</SUB>.</nobr>
+		</TD>
+	</TR>
+</TABLE></A>
+<BR>
+Solving (2) for <nobr><i>d</i><IMG SRC="greek/varphi.gif" align=middle alt="phi" hspace=2>/<I>dt</I></nobr>
+leads to
+<P ALIGN="CENTER"><nobr><i>d</i><IMG SRC="greek/varphi.gif" align=middle alt="phi" hspace=2>/<I>dt</I>&nbsp;=&nbsp;&plusmn;[2(<I>E</I>+<IMG
+SRC="greek/omega.gif" align=middle alt="omega" hspace=2><SUB>0</SUB><SUP>2</SUP>cos<IMG SRC="greek/varphi.gif" align=middle alt="phi" hspace=2
+>)]<SUP>1/2</SUP>.</nobr></P>
+<P><BR>
+This first-order differential equation can be solved by separating the independent variable <I>t</I> from the dependent
+one <IMG SRC="greek/varphi.gif" align=middle alt="phi" hspace=2>. That is, deal with the
+differential quotient as if it would be a real quotient <nobr><i>d</i><IMG SRC="greek/varphi.gif" align=middle alt="phi" hspace=2
+></nobr> divided by <I>dt</I>. Then, put all terms with <IMG SRC="greek/varphi.gif" align=middle alt="phi" hspace=2
+> on the left-hand side of the equation and all terms with <I>t</I> on the right-hand
+side:</P>
+<P ALIGN="CENTER"><nobr><i>d</i><IMG SRC="greek/varphi.gif" align=middle alt="phi" hspace=2>/[2(<I>E</I> + <IMG
+SRC="greek/omega.gif" align=middle alt="omega" hspace=2><SUB>0</SUB><SUP>2</SUP>cos<IMG
+SRC="greek/varphi.gif" align=middle alt="phi" hspace=2>)]<SUP>1/2</SUP>&nbsp;=&nbsp;&plusmn;<I>dt</I>.</nobr></P>
+<P>To get the period of oscillations, integrate over a half cycle</p>
+<CENTER>
+<IMG SRC="nonosc1.gif" WIDTH="290" HEIGHT="54" ALIGN="BOTTOM" BORDER="0"></CENTER>
+<p>Because the integrand on the left-hand side is an even function in <IMG SRC="greek/varphi.gif" align=middle alt="phi" hspace=2
+>, you will get<BR>
+<BR>
+<TABLE BORDER="0" CELLSPACING="0">
+	<TR>
+		<TD WIDTH="35"><A NAME="T"></A>(4)</TD>
+		<TD WIDTH="1000" ALIGN="CENTER">
+			<P ALIGN="CENTER"><IMG SRC="nonosc2.gif" WIDTH="291" HEIGHT="49" ALIGN="BOTTOM" BORDER="0">
+		</TD>
+	</TR>
+</TABLE>
+<BR>
+Note that <I>E</I> has been replaced by (<A HREF="#Ephimax">3</A>).</P>
+<P>This integral can not be expressed by elementary functions like polynomials or trigonometric functions. This
+is possible only in the limit of <nobr><IMG SRC="greek/varphi.gif" align=middle alt="phi" hspace=2><SUB>max<IMG
+SRC="greek/rarrow.gif" align=top alt="to" hspace=2></SUB>0,</nobr> where the cosine function
+can be approximated by a Taylor series. Taking only the first and the second term, you will get an elementary integral
+leading to the well-known result of <nobr><I>T</I>&nbsp;=&nbsp;2<IMG SRC="greek/pi.gif" align=middle alt="pi" hspace=2
+>/<IMG SRC="greek/omega.gif" align=middle alt="omega" hspace=2><SUB>0</SUB>.</nobr>
+For an arbitrary value of <nobr><IMG SRC="greek/varphi.gif" align=middle alt="phi" hspace=2><SUB>max</SUB>,</nobr>
+the integral of (<A HREF="#T">4</A>) defines a so-called <b>complete elliptic integral</b>. 
+It sounds like a na&iuml;ve trick to give an unsolvable integral a name. 
+Indeed, it is a trick but a fruitful one because elliptic integrals
+appear quit often in mathematics and physics. Not as often as trigonometric functions of course,
+but often enough to give
+them a name, to find out their mathematical properties, to tabulate their values, and to include them into standard
+mathematical subroutine packages on computers. One distinguishes three different types of elliptic integrals. The
+second one is related to the circumference of an ellipse, that's why the name. In our case, the first one is relevant.
+The substitution <nobr><I>x</I>&nbsp;=&nbsp; sin(<IMG SRC="greek/varphi.gif" align=middle alt="phi" hspace=2
+>/2)/sin(<IMG SRC="greek/varphi.gif" align=middle alt="phi" hspace=2><SUB>max</SUB>/2)</nobr>
+turns (<A HREF="#T">4</A>) into the canonical form of the <b>complete elliptic integral of the first kind</b>
+<I>K</I><A NAME="TK"></A> <BR>
+<BR>
+
+<TABLE BORDER="0" CELLSPACING="0">
+	<TR>
+		<TD WIDTH="35">(5)</TD>
+		<TD WIDTH="1000" ALIGN="CENTER">
+			<P ALIGN="CENTER"><IMG SRC="nonosc3.gif" WIDTH="479" HEIGHT="53" ALIGN="BOTTOM" BORDER="0">
+		</TD>
+	</TR>
+</TABLE>
+</P>
+<P>
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0">
+	<TR>
+		<TD>
+			<P><IMG SRC="pendper.gif" WIDTH="293" HEIGHT="274" ALIGN="LEFT" BORDER="0">Here are a few properties of <nobr><I>K</I>(<IMG
+			SRC="greek/alpha.gif" align=middle alt="alpha" hspace=2>)</nobr>:</P>
+			<DL>
+				<DD><nobr><I>K</I>(0) = <IMG SRC="greek/pi.gif" align=middle alt="pi" hspace=2>/2,</nobr>
+				<DD><nobr><I>K</I>(<IMG SRC="greek/alpha.gif" align=middle alt="alpha" hspace=2><IMG SRC="greek/rarrow.gif" align=top alt="to" hspace=2
+><IMG SRC="greek/pi.gif" align=middle alt="pi" hspace=2
+>/2)&nbsp;<IMG SRC="greek/rarrow.gif" align=middle alt="to" hspace=2>&nbsp;<IMG src="greek/infty.gif" ALIGN="middle"
+				ALT="infinity" BORDER="0">,</nobr>
+				<DD><nobr><I>K</I>(<IMG SRC="greek/alpha.gif" align=middle alt="alpha" hspace=2>) = <IMG SRC="greek/pi.gif" align=middle alt="pi" hspace=2
+>/2(1+<IMG SRC="greek/alpha.gif" align=middle alt="alpha" hspace=2
+><SUP>2</SUP>/4+...).</nobr>
+			</DL>
+			<P>Thus, in the limit <nobr><IMG SRC="greek/varphi.gif" align=middle alt="phi" hspace=2><SUB>max</SUB><IMG
+			SRC="greek/rarrow.gif" align=top alt="to" hspace=2>0,</nobr> <I>T </I>approaches to
+<nobr><I>T</I><SUB>0</SUB>=2<IMG SRC="greek/pi.gif" align=middle alt="pi" hspace=2
+>/<IMG SRC="greek/omega.gif" align=middle alt="omega" hspace=2><SUB>0</SUB>,</nobr>
+i.e., the result of the harmonic oscillator.
+			The plot shows the ratio <nobr><I>T</I>/<I>T</I><SUB>0</SUB>.</nobr> Try to verify this curve by measurements!
+			Go into <A HREF="lab.htm">the lab</A> and measure the period of oscillation of the <A HREF="upend.htm">undamped
+			and undriven pendulum</A> with the stopwatch.
+		</TD>
+	</TR>
+</TABLE>
+<BR>
+<P>
+<TABLE BORDER="0" CELLPADDING="8" BGCOLOR="#80FFC0">
+ <TR>
+  <TD><B>QUESTIONS worth to think about:</B></TD>
+ </TR>
+ <TR>
+  <TD>
+   <OL>
+    <li>What is the reason for a diverging period of oscillations? Can you calculate
+    analytically the solution of (<a href="#eqm">1</a>) in that limit? Can you find
+    other nonlinear oscillators with diverging periods?
+    <li>What happens if the energy is larger than <nobr>-<IMG SRC="greek/omega.gif" align=middle 
+    alt="omega" hspace=2><SUB>0</SUB><SUP>2</SUP>cos<IMG SRC="greek/varphi.gif" 
+    align=middle alt="phi" hspace=2><SUB>max</SUB>?</nobr>
+   </OL>
+  </TD>
+ </TR>
+</TABLE>
+</P>
+
+<p>
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="19%">
+	<TR>
+		<TD WIDTH="33%">
+			<P ALIGN="CENTER"><A HREF="harmosc.htm"><IMG SRC="prevarow.gif" WIDTH="31" HEIGHT="31" ALIGN="BOTTOM" ALT="arrow"
+			BORDER="0"></A>
+		</TD>
+		<TD WIDTH="33%">
+			<P ALIGN="CENTER"><A HREF="#top"><IMG SRC="toparow.gif" WIDTH="31" HEIGHT="31" ALIGN="BOTTOM" ALT="arrow" BORDER="0"></A>
+		</TD>
+		<TD WIDTH="34%">
+			<P ALIGN="CENTER"><A HREF="nonres.htm"><IMG SRC="nextarow.gif" WIDTH="31" HEIGHT="31" ALIGN="BOTTOM" ALT="arrow"
+			BORDER="0"></A>
+		</TD>
+	</TR>
+	<TR>
+		<TD WIDTH="33%">
+			<P ALIGN="CENTER"><A HREF="harmosc.htm">previous</A>
+		</TD>
+		<TD WIDTH="33%">
+			<P ALIGN="CENTER"><A HREF="#top">top</A>
+		</TD>
+		<TD WIDTH="34%">
+			<P ALIGN="CENTER"><A HREF="nonres.htm">next</A>
+		</TD>
+	</TR>
+</TABLE>
+
+<HR ALIGN="CENTER" NOSHADE>
+<!---
+<IMG SRC="baustell.gif" WIDTH="49" HEIGHT="43" ALIGN="BOTTOM" BORDER="0">This site is still under construction!
+--->
+<nobr>
+<ADDRESS>&copy; 1998 <a href="http://www.elmer.unibas.ch">Franz-Josef Elmer</a>, <IMG SRC="envelope.gif" WIDTH="20" HEIGHT="10" ALIGN="BOTTOM" BORDER="0">
+&nbsp;Franz-Josef doht Elmer aht unibas doht ch, 
+last modified Monday, July 20, 1998.
+</BODY>
+

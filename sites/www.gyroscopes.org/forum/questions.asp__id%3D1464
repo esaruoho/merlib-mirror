@@ -1,0 +1,274 @@
+
+<html>
+<head>
+  <title>Gyroscopes - Everything you needed to know</title>
+  <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+  <meta http-equiv="pics-label" content='(pics-1.1 "http://www.icra.org/ratingsv02.html" comment "ICRAonline EN v2.0" l gen true for "no gen term" r (nz 0 vz 0 lz 0 oz 0 cz 0) "http://www.rsac.org/ratingsv01.html" l gen true for "no gen term" r (n 0 s 0 v 0 l 0))'>
+  <META NAME="Author" CONTENT="Glenn Turner">
+  <META NAME="keywords" CONTENT="gyroscope, gyroscopes , gyro, gyros, gyroscopic propulsion">
+  <META NAME="Description" CONTENT="Gyroscopes have many uses, this site explains how a gyroscope works and what they can be used for. The site also looks at the possible uses of gyroscope based propulsion (gyroscopic propulsion). ">
+  <META NAME="Copyright" CONTENT="Copyright 2003 (All Web Pages) by Glenn Turner">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="expires" content="0">
+  <link rel="stylesheet" href="/iesite.css" type="text/css">
+</head>
+<body bgcolor="#000000">
+  <div style="  float: center; margin: 0; border: none; padding: 0; " align=center><center><img src="/header.jpg" alt="" hspace=0 vspace=0 wgith=700 height=111></center></div>
+  <center>
+  <span class="menutitle">
+    <a href="/index.asp"><font color="#DDDDDD">Home</font></a> :
+    <a href="/gallery.asp"><font color="#DDDDDD">Gallery</font></a> :
+    <a href="/history.asp"><font color="#DDDDDD">History</font></a> :
+    <a href="/uses.asp"><font color="#DDDDDD">Uses</font></a> :
+    <a href="/behaviour.asp"><font color="#DDDDDD">Behaviour</font></a> :
+    <a href="/math.asp"><font color="#DDDDDD">Maths</font></a> :
+    <a href="/forum/forums.asp"><font color="#DDDDDD">Forum</font></a> :
+    <a href="/propulsion.asp"><font color="#DDDDDD">Propulsion</font></a> :
+    <a href="/links.asp"><font color="#DDDDDD">Links</font></a> :
+    <a href="/glossary.asp"><font color="#DDDDDD">Glossary</font></a>
+    <br>
+  </span>
+
+  <table border=0 cellpadding=0 cellspacing=0 width="0" height="11">
+  <tr>
+    <td></td>
+  </tr>
+  </table>
+
+
+
+
+
+  <table border=0 cellpadding=8 cellspacing=0 width="700" height="260" bgcolor="#FFFFFF" ID="Table1">
+  <tr>
+    <td valign="top" class="main">
+<table align="center" width="100%" border="0">
+  <tr>
+    <td align="left" width="20%" valign="top">
+      <a href="forums.asp">Main Forum Page</a>
+    </td>
+    <td align="center" valign="middle">
+      
+      <h2 border="0">       
+      The Gyroscope Forum</h2></td>
+    <td align="right" width="20%" valign="top">
+      8 May 2015 12:52
+    </td>
+  </tr>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <p align=left>Welcome to the gyroscope forum. If you have a question about gyroscopes in general,
+      want to know how they work, or what they can be used for then you can leave your question here for others to answer.
+         You may also be able to help others by answering some of the questions on the site.
+      </p>
+      
+      <table width="100%">
+      <tr><td>
+        <form action="qa.asp" method="get">
+        <b>Search the forum: </b><input type="text" value="" name="forumsearch" size=30>&nbsp;<input type="submit" value="Search" name="forumsearchsubmit">
+          <input type=hidden name="forum" value="">
+        </form>
+      </td><td>
+        
+        <form action="askquestion.asp" method="post">
+        <input type="submit" value="Ask a new Question" name="forumsearchsubmit">
+        </form>
+        
+      </td></tr>
+      </table>
+      <hr width=100%>
+    </td>
+  </tr>
+</table>
+
+<table align="center" border="0" width="95%">
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><h3>Question</h3></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Asked by:</b></td>
+    <td align="left" colspan="2" valign="top">Momentus</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Subject:</b></td>
+    <td align="left" colspan="2" valign="top">String theory</td>
+  </tr>
+  <tr>
+    <td align=right class=medium valign="top" nowrap><b>Question:</b></td>
+    <td align=left class=medium valign="top" width="400" colspan="2">String theory<br>
+<br>
+A weight suspended by a chord constitutes a free pendulum. As such it has properties which can be derived from Newtons basic axioms.<br>
+<br>
+The primary property is that the time for an oscillation of a pendulum is determined solely by the length of the pendulum. Horologists have used this fundamental property of the pendulum to create accurate clocks.<br>
+<br>
+Given the length of a pendulum, the time of oscillation can be calculated, irrespective of mass. The pendulum swings, tick tock. The pennies added to the pendulum of Big Ben alter the centre of mass, hence the length of the pendulum to regulate the timekeeping.<br>
+<br>
+As this is a gyroscope site you know what is coming next.<br>
+<br>
+The period of a Laithwaite Pendulum is determined not by the length but by the speed of gyroscopic precession.<br>
+<br>
+Dark Motion<br>
+A Thought experiment.<br>
+<br>
+Two weights are separately suspended by flexible cords.<br>
+<br>
+One of the weights is an inert mass, the other is a spinning gyroscope. The gyroscope shaft is extended to give a gravity couple.<br>
+<br>
+The weights are each set swinging around in a circle. The parameters are adjusted so that both Masses (m) rotate about the vertical axis at radius R and speed (&#969;). Hence the same tangential velocity (Vt) and the same momentum  p (m Vt)<br>
+<br>
+There are now two masses moving identically, same period of orbit, same momentum, same tangential velocity, same mass, same gravity, same centripetal acceleration. I emphasise my point. Their motions are identical.<br>
+<br>
+As this is a thought experiment, imagine that the length (L) of the cords is reduced.<br>
+<br>
+The inert weight must speed up, to conserve momentum like a  skater.<br>
+<br>
+The gyroscope continues to orbit at the same speed.<br>
+<br>
+The motions are no longer Identical.<br>
+<br>
+Basic Newtonian Dynamics explain the behaviour of the inert weight, can determine the precise and singular relationship between gravity, length, radius, inertia, centripetal acceleration and angle subtended by the cord.<br>
+<br>
+This precise and singular relationship is not present in the gyroscope weight.<br>
+<br>
+Having puzzled over this for years, I have developed the concept I call Dark Motion.<br>
+<br>
+Dark Matter, Dark Energy and the Pioneer Anomaly all have one thing in common with the suspended gyroscope, an observed movement that does not fit. Everything looks fine until you examine the detail.<br>
+<br>
+I believe Dark Motion offers an explanation for this anomalous behaviour of the gyroscope.<br>
+<br>
+<br>
+Momentus</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Date:</b></td>
+    <td align="left" colspan="2" valign="top">22 June 2012
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2><hr width=100%></td>
+  </tr>
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><br><h3>Answers (Ordered by Date)</h3><br></td>
+  </tr>
+  <tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Blaze</b> - 24/06/2012 17:20:29
+</td></tr><tr><td>&nbsp;</td><td>Momentus, have you done this experiment?<br>
+<br>
+Blaze<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Momentus</b> - 25/06/2012 13:27:34
+</td></tr><tr><td>&nbsp;</td><td>Hi Blaze.<br>
+<br>
+This is a thought experiment, as such it is comprised of accepted behaviours.<br>
+Not even on this site where a variety of viewpoints are assembled can there be any doubt that the inert weight will move as an inert weight will move and the precessing gyroscope will precess as a gyroscope will precess.<br>
+<br>
+This does not need to proven by experiment.<br>
+<br>
+Which is the point of this thought experiment. There is something happening with the offset gyroscope which cannot be explained by the current paradigm.<br>
+<br>
+What I am attempting with this post and in the wider world is to establish there is a blind spot in classical physics, by direct comparison of two simple mechanical systems.<br>
+<br>
+Momentus<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 25/06/2012 15:41:46
+</td></tr><tr><td>&nbsp;</td><td>Dear Momentous your prose is interesting and quite good at times. I did have some difficulty and so I dismantled it and put it back together so as to clearly understand it. I can post the alterations I made with my inserted arguments against your beliefs if you like.<br>
+<br>
+Basically however, it is just a dead end. Angular force upon rotating wheels cause them to act different than non-rotating things. We knew that and you didnt give any explanations of why and how the thing acts the way it does.<br>
+<br>
+Most arguments and even scholarly accepted theory conflict with reality, because nobody knows how the mechanics work. They absolutely do not, but if they did, then some of the things we insist on at this site would then be taken as sensible. Then physics and math would nail the new realizations and therefore new possibilities--- to the wall- done and finished. It is not that they cant do it logically. It is that they dont understand even that they dont understand. There is only one person I know of who clams to know all of why and how and the knowledge will die with him<br>
+<br>
+Glenn<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Momentus</b> - 28/06/2012 12:36:41
+</td></tr><tr><td>&nbsp;</td><td>Hi Glen<br>
+<br>
+You wrote  Angular force upon rotating wheels cause them to act different than non-rotating things. We knew that.<br>
+<br>
+I know that. You know that. So do Nitro and Sandy and Luis and some other shed dwellers (please excuse me if your name is not listed)<br>
+<br>
+Blaze has not committed yet.<br>
+<br>
+Big Science denies this as do various others who post upon this forum<br>
+<br>
+There are a number of simple experiments - Laithwaites Gyroscope on a long string (video 9) - other experiments detailed by me and various members on the forum, which show that there is anomalous gyroscope behaviour.  These experiments are dismissed with a variation on the theme that it is the experimental technique which is giving false results. If the experiment was done on an air table, or on a Tuesday or with the wind blowing in the other direction etc then the results would be different and would follow classical science predictions.<br>
+<br>
+The thought experiment circumvents that approach. If you know enough dynamics to understand why the inert weight must move as it does, then you can see that the gyroscope is not following the same set of rules.<br>
+<br>
+I know how the mechanics work. Starting from a single particle acted upon by a single force, I can develop the motion, the path followed by the particle through space and extend this to the action of a spinning rigid disc.<br>
+<br>
+There are now two people you know of who know all of why and how. My knowledge will not die with me. Over the course of 2012 I will try to gain some commercial backing, failing this I will just publish and be damned.<br>
+<br>
+Momentus<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 28/06/2012 17:23:33
+</td></tr><tr><td>&nbsp;</td><td>Dear Momentus,<br>
+<br>
+I do not quite understand. Am I failing you in some way? Are you stating new information? I am sorry, but until you attempt to explain cause and effect, how could I know what you know?<br>
+<br>
+Peace and happiness,<br>
+Glenn,<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 28/06/2012 17:30:17
+</td></tr><tr><td>&nbsp;</td><td>Dear Momentus,<br>
+<br>
+I was trying to be nice and it did not come across exactly that way. I am sorry!<br>
+<br>
+Yes, I agree. We few here are aware of things, others are not. <br>
+<br>
+Glenn,<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Momentus</b> - 24/07/2012 18:02:40
+</td></tr><tr><td>&nbsp;</td><td>The thought experiment proves that there is no centripetal force present in the orbiting Gyroscope.<br>
+<br>
+First consider the inert weight. <br>
+It is trying to move in a straight line with a velocity of Vt. It is pulled into orbit by the external force exerted by the cord at the angle to the vertical of (&#952;).<br>
+<br>
+A simple force diagram can be drawn, showing that the value for the Centripetal force = tan &#952; x mg<br>
+<br>
+Changing the length of the cord changes &#952;, but does not change the radius.<br>
+Shortening the cord increases the angle. This means that more external force is exerted on the inert weight, moving it into a tighter orbit, reducing the radius and the circumference of the orbit, finding a new stable radius.<br>
+Since to conserve momentum Vt is a constant the speed of rotation is increased.<br>
+<br>
+The observer sees the circling weight rotate faster.<br>
+<br>
+Now consider the gyroscope weight.<br>
+If there is centripetal force present in the initial condition, then changing the geometry must change this centripetal force. It will try to increase the orbiting speed and the two rotations will go out of sync.<br>
+<br>
+The observer should see chaotic motion.<br>
+<br>
+This does not happen. There is no correlation between &#969; and cord length in any precessing gyroscope system.<br>
+<br>
+With the usual caveat that not all the mass is gyroscopic, there is no centripetal force present.<br>
+<br>
+Momentus<br>
+<br><br></td></tr>
+<tr>
+<td align="center" colspan="2"><a href="answerquestion.asp?id=1464">Add an Answer &#062;&#062;</a></td></tr>
+</table>
+    </td>
+  </tr>
+  </table>
+  
+  <font class="copyright">
+  Website. Copyright &copy; 2015 Glenn Turner. All rights reserved. <a href="/site.asp">site info</a><br>
+     Do not copy without prior permission. Click here for <a target="gyroscopeproducts" href="http://www.gyroscope.com/" alt="Gyroscope products">gyroscope products</a> 
+   
+  </font>
+</center>
+
+</body>
+</html>

@@ -1,0 +1,11 @@
+1951a 
+
+ 1951a 
+
+ The following is a paper by H. Aspden was published in The Review of Scientific Instruments, vol. 22, pp. 869-871 (1951). 
+
+ A FERROMAGNETIC HYSTERESIS POTENTIOMETER 
+
+ Abstract : The potentiometer embodies the principle of the normal fluxmeter method of measuring hysteresis loss but, while retaining the accuracy, enables the measurement to be made in a fraction of a minute. The potentiometer incorporates a number of tappings which are connected to individual contact studs so that by rotating a contact arm the current applied to a magnetizing circuit can be varied in a cyclical manner between two limiting values. There are intermediate positions of the arm which correspond to intermediate values of current and these values differ by fixed amounts from one cycle to the next. The contact arm also forms part of a stud switch so that a search coil can be disconnected from a fluxmeter over the part in each cycle over which the current changes between the intermediate and one of the limiting values. In this way a complete rotation of the arm is made to take a specimen through twelve cycles of magnetization and since the intermediate current values are evenly distributed over the complete cycle the fluxmeter registers a deflection which can be related to the hysteresis loss. 
+
+ Commentary : This paper was written during a period when the author was working for a Ph.D. degree which involved experimental research on the eddy-current anomaly. See the related paper: [1956a] . However, this potentiometer was not used in the eventual experiments which were the basis of that Ph.D.

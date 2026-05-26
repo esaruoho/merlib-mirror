@@ -1,0 +1,35 @@
+Ville's Research 
+
+ Homepage 
+ Experiments 
+ About 
+ Resources 
+
+ Magnet Motor Research ~ Journey so far 
+
+ This was my first design for the magnet motor project in Welfare Technology Foundation (click picture for details). The design probably would have changed during the experimentation. Interestingly, as I later found out, there is at least one magnet motor patent (JP11168873) that is somewhat similar to my design. Unfortunately the watercut neodymium magnets needed for the experiments cost quite much, and for some reason the magnet manufacturer didn't make them as agreed on the phone. So I started to design motors which use magnets that are already available off the shelf. 
+
+ This was my second design for the magnet motor project. The design consist a outer stator with three magnetic spiral curves and a inner rotor with eight magnets at 45&deg; angle. 
+ A simple theory for the self starting permanent magnet motor is that, while some of the rotor magnets are influenced by opposing forces, most of the rotor magnets are influenced by driving forces in such way that their sum is greater than the sum of the opposing forces at every point of the rotation. 
+
+ Here is one of the many magnet motor designs I made during the project in 2001. It consist a outer plywood stator with six spiral curves containing ferrite magnets and a inner nylon rotor with holes for neodymium rod magnets. The rotor was originally made for TOMI (Theory of Magnetic Instability) motor experiments. The experiments with closed loop TOMI track without bumps indicate that it acts as a magnetic spring i.e. without some reloading mechanism it can't self-rotate in closed loop. 
+
+ Here is one of the disc stators I made during the summer of 2007. The spiral curve is PHI spiral x 120&deg; (the spiral radius grows 1.618 times every 120&deg; degrees). A bicycle wheel rotor with ferrite magnets was placed on top of the stator. I have tried many magnet assemblies and spiral curve variations, but none of them produced continuous rotation. The main obstacle is getting past the area of strongest resistance (the sticky point) between phases. As you can see, the stator magnets are "curved". I've cutted the ferrite magnets with a diamond saw. 
+ Magnet motor experiments - disc designs 
+
+ Here is one of the drum designs I started to experiment in 2010. Check out the measurement method I'm using for analysis (click picture for details). The rotor is connected via thread and pulley to a weight on a digital scale. With this simple method I can measure torque in static situations and learn how the interchange of magnetic forces works in my motors. 
+ Magnetic fields can be considered as open dynamic systems i.e. the dynamics change during rotation. Therefore torque measurements in static situations are limited. But still they can give some good tips and detailed information how the interchange of magnetic forces works in different designs. 
+
+ What's new 
+ Rhinoceros beetle (April 29, 2011) 
+ Hyperbolic disc (February 3, 2011) 
+ Structural analysis (December 13, 2010) 
+ These webpages! (September 30, 2010) 
+
+ Research 
+
+ Permanent magnet motors 
+ Cavity structural effect 
+ Ether research 
+
+ &copy; 2010-2011 Ville Piippola

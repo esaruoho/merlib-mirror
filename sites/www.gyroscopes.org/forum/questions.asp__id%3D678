@@ -1,0 +1,513 @@
+
+<html>
+<head>
+  <title>Gyroscopes - Everything you needed to know</title>
+  <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+  <meta http-equiv="pics-label" content='(pics-1.1 "http://www.icra.org/ratingsv02.html" comment "ICRAonline EN v2.0" l gen true for "no gen term" r (nz 0 vz 0 lz 0 oz 0 cz 0) "http://www.rsac.org/ratingsv01.html" l gen true for "no gen term" r (n 0 s 0 v 0 l 0))'>
+  <META NAME="Author" CONTENT="Glenn Turner">
+  <META NAME="keywords" CONTENT="gyroscope, gyroscopes , gyro, gyros, gyroscopic propulsion">
+  <META NAME="Description" CONTENT="Gyroscopes have many uses, this site explains how a gyroscope works and what they can be used for. The site also looks at the possible uses of gyroscope based propulsion (gyroscopic propulsion). ">
+  <META NAME="Copyright" CONTENT="Copyright 2003 (All Web Pages) by Glenn Turner">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="expires" content="0">
+  <link rel="stylesheet" href="/iesite.css" type="text/css">
+</head>
+<body bgcolor="#000000">
+  <div style="  float: center; margin: 0; border: none; padding: 0; " align=center><center><img src="/header.jpg" alt="" hspace=0 vspace=0 wgith=700 height=111></center></div>
+  <center>
+  <span class="menutitle">
+    <a href="/index.asp"><font color="#DDDDDD">Home</font></a> :
+    <a href="/gallery.asp"><font color="#DDDDDD">Gallery</font></a> :
+    <a href="/history.asp"><font color="#DDDDDD">History</font></a> :
+    <a href="/uses.asp"><font color="#DDDDDD">Uses</font></a> :
+    <a href="/behaviour.asp"><font color="#DDDDDD">Behaviour</font></a> :
+    <a href="/math.asp"><font color="#DDDDDD">Maths</font></a> :
+    <a href="/forum/forums.asp"><font color="#DDDDDD">Forum</font></a> :
+    <a href="/propulsion.asp"><font color="#DDDDDD">Propulsion</font></a> :
+    <a href="/links.asp"><font color="#DDDDDD">Links</font></a> :
+    <a href="/glossary.asp"><font color="#DDDDDD">Glossary</font></a>
+    <br>
+  </span>
+
+  <table border=0 cellpadding=0 cellspacing=0 width="0" height="11">
+  <tr>
+    <td></td>
+  </tr>
+  </table>
+
+
+
+
+
+  <table border=0 cellpadding=8 cellspacing=0 width="700" height="260" bgcolor="#FFFFFF" ID="Table1">
+  <tr>
+    <td valign="top" class="main">
+<table align="center" width="100%" border="0">
+  <tr>
+    <td align="left" width="20%" valign="top">
+      <a href="forums.asp">Main Forum Page</a>
+    </td>
+    <td align="center" valign="middle">
+      
+      <h2 border="0">       
+      The Gyroscope Forum</h2></td>
+    <td align="right" width="20%" valign="top">
+      5 March 2007 17:29
+    </td>
+  </tr>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <p align=left>Welcome to the gyroscope forum. If you have a question about gyroscopes in general,
+      want to know how they work, or what they can be used for then you can leave your question here for others to answer.
+         You may also be able to help others by answering some of the questions on the site.
+      </p>
+      
+      <table width="100%">
+      <tr><td>
+        <form action="qa.asp" method="get">
+        <b>Search the forum: </b><input type="text" value="" name="forumsearch" size=30>&nbsp;<input type="submit" value="Search" name="forumsearchsubmit">
+          <input type=hidden name="forum" value="">
+        </form>
+      </td><td>
+        
+        <form action="askquestion.asp" method="post">
+        <input type="submit" value="Ask a new Question" name="forumsearchsubmit">
+        </form>
+        
+      </td></tr>
+      </table>
+      <hr width=100%>
+    </td>
+  </tr>
+</table>
+
+<table align="center" border="0" width="95%">
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><h3>Question</h3></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Asked by:</b></td>
+    <td align="left" colspan="2" valign="top">Luis Gonzalez</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Subject:</b></td>
+    <td align="left" colspan="2" valign="top">Understanding precession is a prerequisite to design gyro-propulsion</td>
+  </tr>
+  <tr>
+    <td align=right class=medium valign="top" nowrap><b>Question:</b></td>
+    <td align=left class=medium valign="top" width="400" colspan="2">Gentlemen,<br>
+Many of us visit this forum with a common goal, to resolve whether gyro configurations can yield useful linear propulsion. <br>
+Our interest, no doubt, was sparked by the wonder that struck us when we first saw the unexpected behavior of a toy gyro in precession.   <br>
+Most of us can recall the moment that set our thoughts on fire, to one day, find out how a toy gyro seems to defy gravity; we determined to know how precession works!<br>
+<br>
+I have stated as I understand science tells me that precession occurs.  Expressing my knowledge about precession does not jeopardize my designs for building the ultimate propulsion machine, and I suspect this is true for most of us.  <br>
+<br>
+Recently I noticed that very few of us have ventured to explain how they see precession occurs in a toy gyro.  <br>
+Perhaps I have not found the locations in this forum where individuals, who express authority in gyro propulsion, have stated their explanation about how precession occurs.  <br>
+I believe most readers would be interested to hear from the learned men of this forum regarding how precession comes into existence.  This shouldnt be too difficult.   <br>
+<br>
+It appears obvious that understanding precession is a basic prerequisite to address the more complex task of designing and/or building gyro-propulsion devices.  <br>
+Anyone who does not know how, is unable to, or is too embarrassed to present their opinion about how precession occurs, may be a bit premature on building gyro-propulsion devices; maybe they should start asking more questions about gyros. <br>
+<br>
+How about it gents?  Wholl be the first to point us to, or state their description about how precession occurs? <br>
+<br>
+Thank you, Luis <br>
+</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Date:</b></td>
+    <td align="left" colspan="2" valign="top">22 January 2007
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2><hr width=100%></td>
+  </tr>
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><br><h3>Answers (Ordered by Date)</h3><br></td>
+  </tr>
+  <tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Sandy Kidd</b> - 23/01/2007 12:46:47
+</td></tr><tr><td>&nbsp;</td><td>Luis,<br>
+On several previous occasions on this site I have explained in depth what my understanding of precession is. My explanation was extracted from a very expensive physics publication which incidentally agreed in every respect with the explanation given to me previously by Professor Eric Laithwaite, and which I am not really prepared to go into again.<br>
+At this point I am taking heed of Nitros point about angels and pinheads and things.<br>
+I think you are wrong with your conclusions relating to precession, likewise you think I am wrong, the outcome is not important it is just a nice to know.<br>
+Besides the question I asked related to the mythical gyroscopic couple and not precession as such. <br>
+It really does not matter what causes precession as this is only present in gravity accelerated gyroscopic systems<br>
+I think it also fair to say the gyroscope system in precession i.e. the toy type is invariably in decay and for this reason I believe that a gyroscopic system utilising precession will never produce inertial thrust.<br>
+Incidentally I see a gyroscope as a disc which enters precession under the influence of gravity. Other objects may display certain gyroscopic tendencies but that does not make them gyroscopes. <br>
+Personally I would be much happier if the word gyroscope only referred to what it was meant to represent, i.e. a gravity accelerated spinning disc displaying an impressive balancing trick and moving at right angles to that force, this action we call precession.<br>
+<br>
+Howsoever it is much more important to discuss what precession is not.<br>
+<br>
+It is unfortunate that the word gyroscope appears to be associated with any kind of spinning disc. Consequently precession is automatically attached to all kinds of spinning items.<br>
+<br>
+Consider a vertically mounted shaft with a flywheel mounted horizontally on it by means of the usual short shaft, whatever, with a fulcrum point on this vertical shaft, such that its rotation axis is at right angles to the vertically mounted shaft.<br>
+Rotate the complete issue clockwise around the vertically mounted shaft.<br>
+Now spin up the flywheel in a clockwise direction (when viewing the flywheel on its non shaft or outside face)<br>
+It would be stretching the imagination to call this a gyroscope.<br>
+It would also be stretching the imagination to call this precession.<br>
+Rotate the flywheel fast enough for the flywheel assembly (system) to proceed to accelerate inwards towards the axis of machine rotation.<br>
+Could you call this inward acceleration precession?<br>
+I think it would be hard to argue that any of this could be called precession, although I hasten to add that it commonly and incorrectly is.<br>
+<br>
+A gyroscope has certain attributes which are not displayed by any other kind of device, but that all ends when a gyroscopic system is mechanically accelerated.<br>
+For some reason, and I probably did myself over 20 years ago, call the action of a gyroscopic system subjected to radial acceleration, forced precession although it is <br>
+really rather obvious why this cannot be.<br>
+To achieve thrust we must supply a fair whack of input power to the system, where gravitational acceleration is not required and not even wanted. This fact alone immediately excludes precession in the true sense of the word, from the proceedings.<br>
+So there really is no need to understand precession if the intent is primarily on producing inertial thrust.<br>
+Sandy Kidd<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Luis Gonzalez</b> - 28/01/2007 03:58:41
+</td></tr><tr><td>&nbsp;</td><td>Sandy,<br>
+Maybe you can point me to your explanation of precession in this forum (I have not been able to find it).<br>
+<br>
+Perception is important in what we think people say as much as in what we think is involved in a physics interaction (sometimes its difficult for some to understand what has occurred or what has been said).<br>
+<br>
+So sorry that you cant see the connection between precession caused by force of gravity, and precession caused by an artificial force such as a motor (or why understanding one provides an insight into the other). <br>
+<br>
+Removing the words precession and gyro from conversations about gyro-propulsion theories and machines would require a new set of words to be able to communicate.  That would be convenient to very few, maybe to none! <br>
+Thank you, Luis G.<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>phase</b> - 31/01/2007 01:16:36
+</td></tr><tr><td>&nbsp;</td><td>I don't answer often on the forum, but I have to agree with Sandy Kidd on this one---sorry Luis<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Sandy Kidd</b> - 31/01/2007 13:31:27
+</td></tr><tr><td>&nbsp;</td><td>Luis, Phase, and if there are any other interested parties,<br>
+Thank you for your support Phase at least thats a pair of us.<br>
+Really Luis the choice is yours, but I am sure you will go your own way anyway.<br>
+Gravity accelerated systems are going to do nothing for inertial thrust, so as far as I am concerned I endeavour to keep a distance between them and myself, and the protracted fruitless discussions that have followed them through this site.<br>
+I dislike the terminology used to describe gravity accelerated systems as being similar to that of systems subjected to mechanical acceleration.<br>
+This terminology was first misused many years ago, for fairly obvious reasons, and these were reasons, which at that time I could understand, but times do change as does the acquisition of knowledge.<br>
+The missing couple in forcibly accelerated systems prompted me to ask the question in relation to gravity driven systems. <br>
+No more, no less, and I still have not got an answer to my question, not that it matters very much at all.<br>
+After guessing for the best part of ten years, and going round and round the problem, I eventually got the all answers I wanted, although, I hate to admit it, mostly by default<br>
+However as a result of this, any comments that I make in relation to mechanically accelerated systems are compiled from hundreds, no thousands of hours, of experience in testing the things.<br>
+I never make statements based on assumption, intuition or fairy tales.<br>
+I base them on hard gained practical evidence gleaned from a relatively untried or untested facet of spinning disc/object behaviour.<br>
+The point I am trying to make is that when a gravitationally accelerated gyroscope floats the system is in decay. <br>
+In a mechanically accelerated system the floating of the gyroscope if we must call it that only occurs at the other end of the spectrum, when no more energy can be put into the system i.e. the opposite. <br>
+We really cannot call the rotation of this spinning disc all the way to the transition or saturation point precession, as the system is only subject to rotation, supported by centrifugal force, with no visible changes to the system. <br>
+Nor can we call the inward acceleration beyond that point precession. <br>
+Everything is the wrong way round.<br>
+I thought it would be rather obvious that from these facts alone they are entirely different entities.<br>
+Because the discs are spinning and rotate around a central point, in the same relative directions, does not mean there is a lot of similarity in what is going on.<br>
+Gyro propulsion theories and machines will inevitably give rise to a new set of words.<br>
+The method of conversion of angular momentum to linear momentum (at least the way I have managed to do it) is not a simple process and will give rise to a lot more new terminology whether one likes it or not.<br>
+Offset or skewed axes characteristics, differential creation characteristics and the transition of that differential into linear thrust are going to create a whole new library of terminology.<br>
+It will in the end be much better (as far as mechanically accelerated systems are concerned) if precession was left out of the proceedings and terminology specific to these systems is used.<br>
+Some of us have gone away past anything available in the text books, as far as the attributes of spinning discs are concerned, and little of it is gyroscopic.<br>
+We are into uncharted territory with some complex systems which operate in spite of accepted belief and prediction, and new descriptions are going to appear regularly.<br>
+I am trying to simplify matters, as the misuse of terminology only serves to confuse, and the confusion will get a lot worse when the rest of the story has to be added. <br>
+I do think that it would be considerably more productive if discussion was made in the relatively little spoken about areas where real gains are to be made.<br>
+I do realise and sympathise with contributors and readers who may not have the resources to experiment with mechanically accelerated systems, and I am genuinely sorry, that there is not a lot I can do about that.<br>
+Within the boundaries of mechanically accelerated systems come the following extremely important issues, which have been broached upon, superficially, at least once on this site, and each of them has its own part to play in the game.<br>
+<br>
+1   Flywheel/Gyroscope Offset.<br>
+<br>
+2   Angular Momentum and Centrifugal force manipulation.<br>
+<br>
+3   Differential creation. (from Items 1 & 2 )<br>
+<br>
+4   Free Lunch Scenario (mentioned but not in depth - a must for Item 5)<br>
+<br>
+5   Angular to Linear conversion (obtained using Items 1, 2, 3 & 4)<br>
+<br>
+6   Mass Transfer (I thought I had better mention the fact, that whilst very real, I     personally find it to be of little consequence, certainly, at this time anyway)<br>
+<br>
+The method I have used to get my best results is probably just one of many which can be utilised. <br>
+I know of another tried and tested method.  <br>
+This other device is totally different, in operation, but needs the same functions to deliver inertial thrust..<br>
+I am 70 this year so I thought, before I snuff it, I should help point some of you who maybe have a misguided faith in what I say, as to the correct, although somewhat protracted, direction to explore.<br>
+It is complicated, but if I can do it, you can do it. <br>
+Have lots of fun, and keep clear of straight jackets.<br>
+Sandy Kidd<br>
+PS Sorry I went on a bit.<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Luis Gonzalez</b> - 03/02/2007 19:58:28
+</td></tr><tr><td>&nbsp;</td><td>Phase, I am glad you found your voice.<br>
+Perhaps you can tell us where in this forum Sandy has given his explanation for precession (I am still eager to see his explanation, and yours if you have one). <br>
+<br>
+Besides that, there are many things in Sandys response that are easy to agree with.  Unfortunately none of them answer the question asked (the question is clearly being avoided).   <br>
+Anyone who has given thought to gyro-propulsion should agree that its not possible to derive useful linear propulsion from the force provided by gravity; therefore a mechanical torque is absolutely necessary in designing a gyro-propulsion device (however that still doesnt answer the question asked). <br>
+<br>
+Your unreserved/unqualified agreement with sandy reflects complete acceptance and I must conclude that you also think that 90 degree motion resulting from mechanical force is completely unrelated to the 90 degree motion which results from gravitys force.  So you are probably in agreement with Sandy that ONLY ONE of these 2 resulting motions is precession; what would you call the other one??  <br>
+<br>
+To understand the similarities and differences between these 2 motions, one must be able to express how one sees 90 degree motion occurring ( as a result from force interacting with spinning gyros regardless whether the force comes from motors or from gravity). <br>
+Its nice to stand behind a mate (right or wrong) as a display of loyalty, but does it shed light upon the challenge at hand? (Maybe thats not your purpose.) <br>
+What is it exactly you agree with Sandy on?...on second thought its not important  Id rather use this space for explanations on precession.  <br>
+<br>
+To all others, <br>
+I am NOT surprised that no individual appears to have a concise, and easy to comprehend by all, explanation of how precession occurs.  Such simplified answer does not exist because the explanation requires knowledge and understanding of physics.  The correct explanation is necessarily complex and should be directed toward individuals who are suitably trained (i.e. have put sufficient effort to learn the physics involved); all others will always be confounded!    <br>
+<br>
+I am surprised that individuals who dare explore a most vexing challenge (as gyro-propulsion is), do not dare (or can not) venture an explanation on basic understanding of the science behind such a challenge.<br>
+Readers may conclude that many who seek this lofty goal are standing on a sandy soil of delusion and fantasy, and can not explain the basics.<br>
+Are most of these brave seekers of truth only building on a prayer and a hope, without understanding the basic dynamics? <br>
+<br>
+Thank you, Luis<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>phase</b> - 05/02/2007 04:20:00
+</td></tr><tr><td>&nbsp;</td><td>Luis,<br>
+<br>
+Sometimes enlightment comes to those who don't run down the path.<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Sandy Kidd</b> - 05/02/2007 06:29:54
+</td></tr><tr><td>&nbsp;</td><td>Luis,<br>
+When you find the time to answer my question, which has been put to you on several occasions, I may just have the time to search the site and find what you want.<br>
+As I have said the answer (answers) are not important to anything remotely related to inertial drive, anyway, but you can answer first. <br>
+O.K.? <br>
+Fair?<br>
+Sandy Kidd<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Luis Gonzalez</b> - 07/02/2007 02:55:04
+</td></tr><tr><td>&nbsp;</td><td>Phase,<br>
+It looks like you fit in that category.<br>
+<br>
+Sandy,<br>
+Each man determines whats important to his goals. <br>
+Which of your questions did I not answer? (I may still be working on it.)<br>
+Are you referring to something that I answered but you did not understand? <br>
+<br>
+Than you, Luis<br>
+P.S. I am working on a number of very interesting items that I will soon post (provided I find sufficient time). <br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Sandy Kidd</b> - 07/02/2007 06:26:13
+</td></tr><tr><td>&nbsp;</td><td>Luis,<br>
+No further comment<br>
+Sandy Kidd!<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 07/02/2007 23:17:52
+</td></tr><tr><td>&nbsp;</td><td>Yes. You are right. This is the single most important subject. I dont know the answers. I think I know a lot, but Ive searched for the answers for years, thinking on two separate occasion that I was near understanding only to learn that both these two beginning hypothesis were wrong. There are others who still believe in one of them.<br>
+<br>
+I think there is a combination of two testing devices that I could explain how to built that have a good chance of proving once and for all the how and why of precession. Im pretty sure. Otherwise the subject has beaten me down. I am clueless.<br>
+<br>
+Glenn, <br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 08/02/2007 01:05:07
+</td></tr><tr><td>&nbsp;</td><td>Hello Luis,<br>
+<br>
+Clueless?<br>
+<br>
+ Well I think there is the tendency of a stacking effect of particles in the middle of the rim forward to precession and this should amount to extra pressure in a most angularity way.<br>
+<br>
+The professors disconnected wire-spoke wheel weighted on the ends, would in an over-hung tilting maneuver form an S. curve forward to precession and an S. curve rearward, but there would be some difference. <br>
+<br>
+If any want to stick draw an over hung-gyro in a 45 degrease elevated position and include a vertical pedestal on graph paper, he may measure the following. First with a compass leg set on the top of the pedestal, the other on the top rim of the gyro, draw downward the curving path the gyro will take. Do exactly the same thing with the bottom of the rim, following the curvature it will fall from the top of the pedestal. Now below the top stick gyro draw a second stick gyro in the horizontal plain with the same dimensions as the one above. Now you are ready to measure. You will by measurement find that both top and bottom rims fall the same distance at the same time. But, here is the big deal. The top of the gyro must move horizontally a great deal further away from the pedestal, than the bottom rim moves toward the pedestal. (use lateral lines and distances). The top rim experiences a great deal more resistance in its plain change because it must move further. So what? Maybe precessions cause? (Well now just how is that!? Huh? Do what? Go home? Leave me alone! Back! Back! Back! Get back Joe, Joe! Get back to where you belong!) Then what the heck of the gyro falling from 90 degrees to 135 degrees. That is an interesting question that can lead to pages of explanations of bla, bla, bla, and bla, bla, bla.<br>
+<br>
+I have more, but I am tired. In the end I dont know why a gyro processes. At this point I would find cause to scrutinize any explanation, and disregard before hand the somewhat mentioned idea that the up-down direction of rotation relating to gravity has any effect to cause precession.<br>
+<br>
+Top rim particle speed and direction, to bottom rim opposite, in relation to the direction of tilt having to do with time, past, present and future are an interesting study and might actually have an effect.<br>
+<br>
+What do I know? What causes precession? What do I got to know bout no tale of two cities for? Hes right you know. Why bother him? I dont know why it processes. Just like I said before. Getting tired.<br>
+<br>
+Glenn,<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>phase</b> - 08/02/2007 01:17:10
+</td></tr><tr><td>&nbsp;</td><td>I'll make a further comment:<br>
+<br>
+<br>
+<br>
+Luis: <br>
+<br>
+You may be a little more formal in your writing style than most here on the forum (as if you are testing versions for a book); but so far, most of what you have written is paraphrased dogma.  You assume to know me; and, that, in itself, shows a lack of ability to communicate well with others.  Making baiting statements, such as, 'many who seek this lofty goal are standing on a SANDY soil of delusion and fantasy' could well define you yourself; and, without the knowledge than some others may have, you appear worried that you have become one of 'brave seekers of truth only building on a prayer and a hope'.  <br>
+<br>
+<br>
+Some people may read the paraphrased dogma that you write as a sign of intelligence--that may be true.  But in between are comments that, I can understand why, others call you a mosquito.  You can be trying.<br>
+<br>
+<br>
+As far as your 'call' to others:<br>
+<br>
+"To all others, <br>
+I am NOT surprised that no individual appears to have a concise, and easy to comprehend by all, explanation of how precession occurs. Such simplified answer does not exist because the explanation requires knowledge and understanding of physics. The correct explanation is necessarily complex and should be directed toward individuals who are suitably trained (i.e. have put sufficient effort to learn the physics involved); all others will always be confounded! "<br>
+<br>
+it sounds as if you would be the 'ONLY' one to understand, as "all others will always be confounded! " and only you should be given the answer, as you are the one 'suitably trained'.<br>
+<br>
+<br>
+<br>
+<br>
+Precession is only a minor part of it all--and to answer you about it's source:<br>
+<br>
+You are asking for one hundred dollars from someone for your own candy habit for the penny candy machine, because you no longer have any of your own cents. <br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Freeman</b> - 10/02/2007 19:33:25
+</td></tr><tr><td>&nbsp;</td><td>But do you thing you understand Newton's Kinethic Momentum Theorem? If so, all of you understand precession and its source. Simply as this... <br>
+<br>
+Any other sources of precession comes just only from the imagination and speculative thoughts and that's not cience. <br>
+<br>
+Another point of view is to solve/explain precession with the approach of the Theory of Relativity, which is nowadays being investigated by the NASA in his Probe-B mission.<br>
+<br>
+Regards, Freeman.<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Luis Gonzalez</b> - 10/02/2007 22:33:30
+</td></tr><tr><td>&nbsp;</td><td>Sandy,<br>
+I understand!  <br>
+<br>
+Phase,<br>
+Im impressed by your, more than one sentence, response.<br>
+You call it formal I call it doing things well when you can. <br>
+If by dogma you mean that it is consistent with the basic rules of science and physics then you are correct. <br>
+Never claimed, communicating with others, as my best suit. <br>
+We could all be wrong but you missed the point (again). <br>
+I am not yet building a device because a well defined theory does not yet exist; so far I am only theorizing.  When I complete a satisfactory well rounded theory and the math fits well together, then I will build a device (sorry). <br>
+<br>
+Yes I am a kind of mosquito (as our German friend called me meaning to say a gadfly), and I am in good company as such; I am not reserved in bothering people who make wrong statements even when others stand behind them as if they were all correct because they stand together (I apologize for being so trying).<br>
+<br>
+An understanding of the physics involved is necessary (not sufficient) to understand a suitable explanation of precession; this includes a very large number of people (not just me, thank you). All others <br>
+<br>
+I agree that precession is only a part, but it is at the foundation.  You have answered a good question with a cheep clich that may say more about you than about me; just look at your lack of words about the subject (it looks like you are the one who doesnt have any of your own cents).  <br>
+I try to write about the science we seek (though I do sink down to this level of bantering when provoked). <br>
+I will post a perception of precession, but first Im going to see who else in this forum has a clue.  In the mean time I will continue to post as long as I have some free hobby time.  While some were concerned that I was posting too much, Phase appears to think that I have run out of things to post.  Ahh..   <br>
+<br>
+Thank you, Luis<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>phase</b> - 11/02/2007 20:37:12
+</td></tr><tr><td>&nbsp;</td><td><br>
+"Phase,<br>
+Im impressed by your, more than one sentence, response."<br>
+<br>
+Another mosquito bit<br>
+<br>
+<br>
+<br>
+"(though I do sink down to this level of bantering when provoked)"   <br>
+<br>
+--I didn't provoke you (if you go back and read my response AND yours),  so either you may not understand what you are typing, you have not a developed sense of interpersonal skills, or your sarcasm is only funny to yourself.<br>
+<br>
+<br>
+<br>
+<br>
+"We could all be wrong but you missed the point (again)." <br>
+<br>
+<br>
+'Missing the point' is not MY forte.<br>
+<br>
+<br>
+<br>
+IF what you are looking for is known, you need not be so self-exalting about what you do know that "is consistent with the basic rules of science and physics".  THIS is the POINT *you* are missing--as Sandy Kidd may be pointing out, and has been trying to point out in many discussions on the forum, as was I; <br>
+<br>
+for, if you trod (run) down the same path as everyone else, you'll more than likely get to the same place (the same answers) as everyone else. (Keep thinking that precession is the key).<br>
+<br>
+<br>
+<br>
+Anyone can have rout knowledge (dogma).  Experience through experiments, and the ability of creative thinking is what sets people apart.  <br>
+<br>
+Most people who have a unique idea about an innovation are probably working on their own projects; and, why would they relinquish it to someone who has never even built ANY type of a prototype ("I am not yet building a device because a well defined theory does not yet exist"), or anything more than an inquisitiveness in an area.  Go ask Coca-Cola for its formula---you think just by ASKING for it, they'll give it to you? (My "lack of words about the subject" is TOTALLY intentional.)  I think you're phishing for someone who'll guess--so, good luck, mosquito.  <br>
+<br>
+In other words, since you haven't gotten the answer you're looking for, why don't you (since you think you're so smart) try doing some experiments yourself (even if they fail-and that's what you seem to be  worried about--failing), so you'll have some kind of working knowledge for you own  experience to build your own theories around, instead of drawing from the inspiration of someone else's hard work. Knowledge without putting it to use is just mental foreplay.<br>
+<br>
+<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Harry K.</b> - 12/02/2007 08:43:39
+</td></tr><tr><td>&nbsp;</td><td>@Luis Gonzalez:<br>
+<br>
+"Yes I am a kind of mosquito (as our German friend called me meaning to say a gadfly), ..."<br>
+<br>
+Do you mean my person or are there other Germans aboard (hallo wo seid ihr?)?<br>
+Please note that I never called you a "mosquito"! :-(<br>
+<br>
+Regards,<br>
+Harry K.<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Luis Gonzalez</b> - 18/02/2007 04:43:05
+</td></tr><tr><td>&nbsp;</td><td>Phase,<br>
+It appears I cant get you to talk about gyros, and much less about the initial question of this thread. <br>
+Im not sure why you bothered to respond.<br>
+Experiments are part and parcel to developing a good theory (Im not yet ready to build a propulsion device). <br>
+I suggest we stop wasting each others valuable time by kindly staying out of each others threads, which should be easy to do. <br>
+<br>
+Harry K,<br>
+Sorry I erroneously attributed Araman Yrans statement to you. <br>
+<br>
+Thank you, <br>
+Luis <br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Mark Larson</b> - 19/02/2007 00:27:44
+</td></tr><tr><td>&nbsp;</td><td>My guess is that when a gyroscope is tilted on it's axis, the path of the leading edge of the rotor is being shortened, which causes the rotor to deflect. This is necessitated by the law of conservation of momentum. When a skater brings her arms in during a spin, the spin speeds up to compensate for the distance traveled by the arms being shortened. But, when a gyroscope is tilted on its axis, just one side's distance is being shortened, therefore just one side compensates by deflecting in the direction of the spin. If you tilt the axis of a gyroscope in the middle of the axis, rather than the bottom of the axis, the top and bottom of the gyroscope will both deflect in opposite directions because both routes are being shortened.<br>
+<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>phase</b> - 20/02/2007 03:50:09
+</td></tr><tr><td>&nbsp;</td><td>AMAZING<br>
+<br>
+<br>
+I (and Sandy Kidd) suggested that you are 'wrong' about precession, and you ask me (and him?) to "kindly stay off of YOUR thread";<br>
+<br>
+<br>
+<br>
+yet, you allow yourself the honor to bother others:<br>
+<br>
+"I am not reserved in bothering people who make wrong statements even when others stand behind them as if they were all correct because they stand together"<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+I came to the thread to support Sandy Kidd's excellent advice to you, and to appreciate the years he has experimented to get to the point where knows what he knows; and, yet, you still don't know what he's talking about (or even what I'm saying).  <br>
+<br>
+I always tend to try to talk to a person to learn about 'how' they think in order to learn what level to approach them to discuss what the problem is to be discussed. <br>
+<br>
+I guess I found out.<br>
+<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Luis Gonzalez</b> - 24/02/2007 15:05:36
+</td></tr><tr><td>&nbsp;</td><td>Phase,<br>
+<br>
+We do find out much about people from what they say, as well as from what they dont say or dont include in their responses. <br>
+We have found out just enough to believe that we prefer not to know each other any closer. <br>
+I am liked by those who know mw me and loved by those who are close to me (I imagine the same is true for you), so perhaps one or both of us are wrong. <br>
+Just as well we dont have the inclination or the time to mend relationships through a forum. <br>
+I personally prefer extensive discussion about technical intricacies of physical motion and related apparent phenomena, and dont have much respect for lose statements that lack backing or substance.    <br>
+Obviously we have different styles and I dont believe we have much more to say to each other. <br>
+<br>
+Good bye and Thank you,<br>
+Luis<br>
+<br><br></td></tr>
+<tr>
+<td align="center" colspan="2"><a href="answerquestion.asp?id=678">Add an Answer &#062;&#062;</a></td></tr>
+</table>
+    </td>
+  </tr>
+  </table>
+  
+  <font class="copyright">
+  Website. Copyright &copy; 2007 Glenn Turner. All rights reserved. <a href="/site.asp">site info</a><br>
+     Do not copy without prior permission. Click here for <a target="gyroscopeproducts" href="http://www.gyroscope.com/" alt="Gyroscope products">gyroscope products</a> 
+   
+  </font>
+</center>
+
+</body>
+</html>

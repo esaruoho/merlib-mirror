@@ -1,0 +1,118 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+
+<HEAD>
+        <META NAME="GENERATOR" Content="Visual Page 1.0 for Windows">
+        <META HTTP-EQUIV="Content-Type" CONTENT="text/html;CHARSET=iso-8859-1">
+        <TITLE>Brownian Motor</TITLE>
+</HEAD>
+
+<BODY BGCOLOR="#FFFFB0">
+
+<H1 ALIGN="CENTER">Brownian Motor</H1>
+<P>In his famous lectures Richard Feynman discussed the impossibility to violate the second law of thermodynamics
+by a <I>ratchet</I> mechanism. The simplest model for a ratchet is an overdamped Brownian particle in an asymmetric
+but spatially periodic potential (with asymmetry <IMG SRC="alpha.gif" WIDTH="13" HEIGHT="22" ALIGN="TOP" ALT="alpha"
+BORDER="0" vasign="50"> and period <I>L</I>). Due to the fluctuating force caused by the pushing molecules of the
+surrounding fluid or gas the Brownian particle may overcome the potential barrier moving to the left or to the
+right. The probabilities for both directions are equal. Thus on average the particle does not move. Hence building
+a motor which turns thermal energy into mechanical work from a <I>single</I> heat bath is impossible.</P>
+<P>But the ratchet can be turned into a so-called a <I>Brownian motor</I> that seems to violate the second law
+of thermodynamics. The idea is to turn the ratchet potential periodically on and off with a frequency <nobr>1/2<IMG
+SRC="tau.gif" WIDTH="10" HEIGHT="22" ALIGN="TOP" ALT="tau" BORDER="0"></nobr>. Under certain circumstances this
+may yield directed motion even against an applied force <I>f</I>. It is indeed a device doing work. Below you can
+play with a Java applet which simulates such a system. Vary the parameters and figure out the condition for a drift
+from right to left even for <nobr><I>f</I>&nbsp;&gt;&nbsp;0</nobr>. If you want to know why a Brownian motor isn't
+a <I>perpetuum mobile</I> of the second kind click on <A HREF="#why">here</A>.</P>
+
+<p><center>
+<tr><td align=center>
+<APPLET CODE="BMApplet.class" archive="bm.jar" WIDTH="740" HEIGHT="400" ALIGN="BOTTOM">
+<table bgcolor=#c0c0c0 border=2>
+<th>
+<b>Sorry, no Java applet!</b>
+</th>
+<tr>
+<td>There are two possibilities why you don't see a Java applet:
+<ol>
+<li>Your browser is able to run Java applets but this feature is currently switched off.</li>
+<li>Your browser is not able to run Java applets.</li>
+</ol>
+</td>
+</tr>
+</table>
+
+</APPLET>
+<table border=0><tr>
+<td bgcolor=#c0ffc0>
+<H2>Instructions</H2>
+
+<UL>
+        <LI>Parameters can be changed either by manuipulating the corresponding scroll bar or by directly putting a number
+        into the number field. There are the following parameters:<BR>
+        N = number of particles.<br>
+        kT = thermal energy <i>kT</i> in units of the potential barrier.<br>
+        alpha = asymmetry <IMG SRC="alpha.gif" WIDTH="13" HEIGHT="22" ALIGN="TOP" BORDER="0"> of the ratchet potential.<BR>
+        tau = switching time <IMG SRC="tau.gif" WIDTH="10" HEIGHT="22" ALIGN="TOP" ALT="tau" BORDER="0">.<BR>
+        f = applied force <I>f</I> in units of the potential barrier divided by <I>L</I>.
+        <LI>The start/stop button starts or stops the animation in the animation area.
+        <LI>The reset button resets the particle positions.
+        <LI>The animation area shows:
+        <OL>
+                <LI><I>The result of the simulation</I>. If the number of particle is less than or equal 20 the particles are shown
+                by circles. For a larger ensemble the particle positions are shown as a function of time (time direction is pointing
+                upwards). The black line shows the averaged particle position. In the upper
+                left corner the time and the averaged velocity (assuming <nobr><i>L</i> = 1</nobr>) are shown.
+                <LI><I>The potential</I>. The actual potential is shown in black. When the saw-toothed part is switch off it is
+                still shown in light gray. The potential is tilted due to the external force <I>f</I>.
+                <LI><I>The potential energy</I>. The averaged potential energy is shown as a green bar.
+        </OL>
+</UL>
+</td></tr></table></center></p>
+
+<A NAME="why"></A>
+<H1 ALIGN="CENTER">Why is a Brownian motor not a <I>perpetuum mobile</I> of the second kind?</H1>
+<P>As long as the ratchet potential is off the particle will move diffusively according to a (biased) random walk,
+leading to a variance in position of <IMG SRC="xvar.gif" WIDTH="102" HEIGHT="19" ALIGN="BOTTOM" BORDER="0"> and
+a mean position of <IMG SRC="xmean.gif" WIDTH="92" HEIGHT="19" ALIGN="BOTTOM" BORDER="0">, where <nobr><I>D</I>&nbsp;=&nbsp;<I>kT
+</I>/ <IMG SRC="gamma.gif" WIDTH="11" HEIGHT="22" ALIGN="TOP" ALT="gamma" BORDER="0"></nobr> is the diffusion constant.
+When the ratchet potential is switched on, the particle gets trapped in one of the potential minima. If <IMG SRC="alphal.gif"
+WIDTH="176" HEIGHT="19" ALIGN="TOP" BORDER="0"> for the variance holds, the particle on average gets trapped into
+the minimum left to the starting point. The maximum flux is obtained if the switching time <IMG SRC="tau.gif" WIDTH="10"
+HEIGHT="22" ALIGN="TOP" ALT="tau" BORDER="0"> is large enough to assure that the particle can adjust in the trapping
+minimum ('adiabatic adjustment time') and also is small enough to fulfill the above requirement for the variance.
+One can say roughly that a net flux to the left always occurs, when thermal energy is significantly smaller than
+the potential maximum, the external force is chosen not too big and the driving frequency matches the adiabatic
+adjustment time needed for the particle to move into a potential minima.</P>
+<P>Where does the energy come from leading to a drift against the external force? The energy does not come from
+the heat bath but from the ratchet potential when it is switched on. At that moment the potential energy of the
+particle will be suddenly increased. In the simulation this can be seen by a sudden increase of the energy bar.
+But most of the energy pushed into the system will be just dissipated into the heat bath due to the relaxation
+of the particle into a potential minima. Only a tiny portion will be used for doing work. Thus a Brownian motor
+does not violate any law of thermodynamics it only turns one type of work into another one. Nevertheless the fluctuating
+force due to the heat bath is essential for a Brownian motor.</P>
+
+<p>For more details and possible applications in biology and chemistry read
+the following review article:<br>
+R.D. Astumian: <i>Thermodynamics and Kinetics of a Brownian Motor</i>,
+Science <b>276</b>, p. 917-922 (1997).
+</p>
+
+<hr align="center" noshade>
+Translations of this side: <a href="http://webhostinggeeks.com/science/index-elmer-rm">Romanian</a>
+<P>
+<HR ALIGN="CENTER" NOSHADE>
+<FONT SIZE="2"> Idea: Roland Ketzmerick, Max-Planck Institut f&uuml;r Str&ouml;mungsforschung, G&ouml;ttingen<BR>
+Text: Matthias Wei&szlig;, Max-Planck Institut f&uuml;r
+Str&ouml;mungsforschung, G&ouml;ttingen, Franz-Josef
+Elmer Institut f&uuml;r Physik, Uni Basel<BR>
+Design: Roland Ketzmerick,
+Max-Planck Institut f&uuml;r Str&ouml;mungsforschung, G&ouml;ttingen, Franz-Josef
+Elmer, Institut f&uuml;r Physik, Uni Basel<BR>
+Java programming: Franz-Josef Elmer, Institut f&uuml;r Physik, Uni Basel<br>
+<hr>
+<font size=2>Please send <i>Comments and bug reports</i> to Franz-Josef doht Elmer aaaat unibas doht ch<br>
+<i>This page has been created in May 1998. It was last updated on September 1, 2009.
+</BODY>
+
+</HTML>

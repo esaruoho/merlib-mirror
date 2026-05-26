@@ -1,0 +1,300 @@
+
+<html>
+<head>
+  <title>Gyroscopes - Everything you needed to know</title>
+  <meta HTTP-EQUIV="Content-Type" content="text/html; charset=iso-8859-1">
+  <meta http-equiv="pics-label" content='(pics-1.1 "http://www.icra.org/ratingsv02.html" comment "ICRAonline EN v2.0" l gen true for "no gen term" r (nz 0 vz 0 lz 0 oz 0 cz 0) "http://www.rsac.org/ratingsv01.html" l gen true for "no gen term" r (n 0 s 0 v 0 l 0))'>
+  <meta name="Author" content="Glenn Turner">
+  <meta name="keywords" content="gyroscope, gyroscopes , gyro, gyros, gyroscopic propulsion">
+  <meta name="Description" content="Gyroscopes have many uses, this site explains how a gyroscope works and what they can be used for. The site also looks at the possible uses of gyroscope based propulsion (gyroscopic propulsion). ">
+  <meta name="Copyright" content="Copyright 2015 (All Web Pages) by Glenn Turner">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="expires" content="0">
+  <link rel="stylesheet" href="/iesite.css" type="text/css">
+  
+</head>
+<body bgcolor="#000000">
+  <div style="  float: center; margin: 0; border: none; padding: 0; " align=center><center><img src="/header.jpg" alt="" hspace=0 vspace=0 width=700 height=111></center></div>
+  <center>
+  <span class="menutitle">
+    <a href="/index.asp"><font color="#DDDDDD">Home</font></a> :
+    <a href="/gallery.asp"><font color="#DDDDDD">Gallery</font></a> :
+    <a href="/history.asp"><font color="#DDDDDD">History</font></a> :
+    <a href="/uses.asp"><font color="#DDDDDD">Uses</font></a> :
+    <a href="/behaviour.asp"><font color="#DDDDDD">Behaviour</font></a> :
+    <a href="/math.asp"><font color="#DDDDDD">Maths</font></a> :
+    <a href="/forum/forums.asp"><font color="#DDDDDD">Forum</font></a> :
+    <a href="/propulsion.asp"><font color="#DDDDDD">Propulsion</font></a> :
+    <a href="/links.asp"><font color="#DDDDDD">Links</font></a> :
+    <a href="/glossary.asp"><font color="#DDDDDD">Glossary</font></a>
+    <br>
+  </span>
+
+  <table border=0 cellpadding=0 cellspacing=0 width="0" height="11">
+  <tr>
+    <td></td>
+  </tr>
+  </table>
+
+
+
+
+
+  <table border=0 cellpadding=8 cellspacing=0 width="700" height="260" bgcolor="#FFFFFF" ID="Table1">
+  <tr>
+    <td valign="top" class="main">
+<table align="center" width="100%" border="0">
+  <tr>
+    <td align="left" width="20%" valign="top">
+      <a href="forums.asp">Main Forum Page</a>
+    </td>
+    <td align="center" valign="middle">
+      
+      <h2 border="0">       
+      The Gyroscope Forum</h2></td>
+    <td align="right" width="20%" valign="top">
+      15 April 2021 14:02
+    </td>
+  </tr>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <p align=left>Welcome to the gyroscope forum. If you have a question about gyroscopes in general,
+      want to know how they work, or what they can be used for then you can leave your question here for others to answer.
+         You may also be able to help others by answering some of the questions on the site.
+      </p>
+      
+      <table width="100%">
+      <tr><td>
+        <form action="qa.asp" method="get">
+        <b>Search the forum: </b><input type="text" value="" name="forumsearch" size=30>&nbsp;<input type="submit" value="Search" name="forumsearchsubmit">
+          <input type=hidden name="forum" value="">
+        </form>
+      </td><td>
+        
+        <form action="askquestion.asp" method="post">
+        <input type="submit" value="Ask new Question" name="forumsearchsubmit">&nbsp;
+        
+        <input type="submit" value="Login" name="Login"> 
+        
+        </form>
+      </td></tr>
+      </table>
+      <hr width=100%>
+    </td>
+  </tr>
+</table>
+
+<table align="center" border="0" width="95%">
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><h3>Question</h3></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Asked by:</b></td>
+    <td align="left" colspan="2" valign="top">Glenn Hawkins</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Subject:</b></td>
+    <td align="left" colspan="2" valign="top">Inertial propulsion</td>
+  </tr>
+  <tr>
+    <td align=right class=medium valign="top" nowrap><b>Question:</b></td>
+    <td align=left class=medium valign="top" width="400" colspan="2"><br>
+I have considered an interesting postulation regarding gyro propulsion.  Professor Laithwaite lifts the base of his 40-pound wheel two feet vertically with forced precession using apparently less lift energy.  If he then dropped the wheel two feet it would experience zero gravity during the fall. However, when it collided with, consider a table two feet below it, would the collision force be greater than the lift force?<br>
+To accomplish this, when the optimum height of two feed was reached he need only to remove his hands. In space, the mechanical force could replace the effect of gravity. If the results were as explained above, a mechanical design could be created with pulsations of reverse thrust.<br>
+Although I have decided inertial propulsion was not possible, the method I have described is the most logical I have seen.  So, if you are still designing, you might wish to build this.<br>
+<br>
+Professor Laithwaites lift https://www.youtube.com/watch?v=VUh6QXe4mMY&ab_channel=MathEasySolutions<br>
+<br>
+Watch out for falling rocks & and otherwise be happy. <br>
+Glenn<br>
+</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Date:</b></td>
+    <td align="left" colspan="2" valign="top">30 January 2021
+    </td>
+  </tr>
+  <tr>
+    <td align="right" colspan="3" valign="top"><a href="abuse.asp?q=3035">report abuse</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2><hr width="100%"></td>
+  </tr>
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><br><h3>Answers (Ordered by Date)</h3><br></td>
+  </tr>
+  <tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Sandy</b> - 02/02/2021 11:25:44
+</td></tr><tr><td>&nbsp;</td><td>Morning Glenn,<br>
+Nice to see you participating again.<br>
+What you are describing is the basic way in which non Newtonian type vertical pulses can be made . <br>
+This was in effect Eric Laithwaites Free lunch Scenario<br>
+..<br>
+I made a device many years ago now which demonstrated this action to great effect delivering a very powerful upward pulse.<br>
+The trouble is that the recovery rate of the system is much too slow to be of much use.<br>
+That said it is not necessary to take the gyroscope all the way into precession or into the zone of saturation (I prefer to call it) but to carry out a similar movement at much lower rotation speed differentials<br>
+Instead of physically accelerating and halting the system rotation as Laithwaite did in his demonstration useful differential can very easily be gained by either altering the hub rotation speed, (fast then slow and so on) and/or altering the gyroscope rotation speed in the same manner.<br>
+Correctly done the slower the rotation speed the greater the output of angular momentum and its pal centrifugal force.<br>
+Notice that the increase of angular momentum and centrifugal force will always be greater in the downward action of the slower rotating part.<br>
+Believe it or not, it is not so easy to design and manufacture an efficient fast slow drive mechanism<br>
+I have said many times that there are only two instances which I know of where a gyroscope or flywheel can be seen to climb.<br>
+They are in a gravity accelerated system in precession or in a mechanically accelerated system which is passing the saturation point, and is climbing through the saturation zone.<br>
+In both cases either system has lost all angular momentum and centrifugal force, the only way to get a reaction is to switch all rotation off rapidly, at this point all angular momentum and centrifugal force will return violently.<br>
+.<br>
+The trick here for all you smart guys is how do you get a gyroscope to climb and then gain a usable mechanical advantage without losing any hub rotation speed?<br>
+. <br>
+Still too slow to get you to Mars but quite a lot better than any other way I have seen or demonstrated.<br>
+There are however much better ways. <br>
+Keep your chin up Glenn<br>
+Regards,<br>
+Sandy.<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8348">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 02/02/2021 18:13:49
+</td></tr><tr><td>&nbsp;</td><td>Dear Sandy,<br>
+<br>
+I was delighted to hear from you. Your information leads me to further consideration and questions.<br>
+<br>
+Once the optimum of height is reached a powerful reverse forced-precession could be applied, not to actually reverse precession but to almost immediately stop forward precession in its tracks. This I understand would not increase the rate of gravity fall but it would allow the effect to begin instantly. That would be helpful.<br>
+<br>
+Next would be to install a device to cause graduations of electromagnetic force pluses to cause the gyro to descend rapidly. The condition of equal and opposite force would result and no advantage would be gained in this action. However, if the pre- precession rise had indeed used less force, you would create a rapid imbalance of uneven propulsions. <br>
+<br>
+Using these questionable ideas along with your understanding of alternating disk rotation speeds would seem to be in order. <br>
+<br>
+It would be very difficult to construct such a test, I understand but that is what you do the difficult.<br>
+<br>
+We will both keep out chins up and with luck get our inoculations. Till then keep safe.<br>
+Glenn,<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8349">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Sandy</b> - 06/02/2021 13:01:30
+</td></tr><tr><td>&nbsp;</td><td>Good day Glenn,.<br>
+I suppose I should really have added that if the gyroscope could be held up at its maximum vertical point, on a cam for instance, whilst the gyroscope rotation speed is reduced or stopped a much greater force will be developed when it eventually descends.<br>
+No need to reduce the hub rotation speed. <br>
+Laithwaite could not have done this without breaking something. <br>
+However it still gives you the problem of winding the gyroscope up again to generate the next pulse.<br>
+If your machine was big enough the developed forces would be more than adequate to accelerate it through space with a terminal velocity of who knows?<br>
+The pulse rate does not have to be very high to do this, but it is assumed that the device is already in a gravity free zone to start with.<br>
+Unfortunately we all wanted something which could take off from the surface of the planet, travel though the air, through space and through water, a device like this has a whole different set of problems<br>
+Best regards,<br>
+Sandy<br>
+PS Had my first injection waiting on my second one.<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8352">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 07/02/2021 06:37:50
+</td></tr><tr><td>&nbsp;</td><td>Hi Sandy,<br>
+<br>
+Perhaps the gyroscope rotation doesnt need to be altered. If the support height, (consider a pedestal) were suddenly retracted, the wheel would fall unhindered into gravity. Two conditions are to be considered.<br>
+<br>
+Cycle 1. During the precession rise, the wheel would move inward as the pedestal itself would move outward owing to the nature of equal and opposite force.<br>
+<br>
+Cycle 2. With the support removed and during the wheels fall, the shaft would push the pedestal inward toward its previous placement.<br>
+<br>
+This back and forth distance should be about equal, therefore inconsequential. And so we come back to the earlier question of whether a downward collision force could be greater than the lift force, and whether an advantage of reverse thrust pulsations would issue.<br>
+<br>
+These actions as in gravity, as you perfectly well know without mention, could be performed in space by mechanical means.<br>
+<br>
+It all depends on poor old Laithwaites demonstration. Weve both sometimes been mean to him, though he was a great engineer, however lacking in the devil of the details of gyroscopic cause and effect. We sort of had no choice while mapping out the why and how of it all.<br>
+<br>
+Im glad youve had a shot, though I havent yet been so lucky.<br>
+Glenn,<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8353">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Sandy</b> - 07/02/2021 11:30:49
+</td></tr><tr><td>&nbsp;</td><td>Hello Glenn,<br>
+I am assuming that the system under discussion is mechanically accelerated.<br>
+I take it that you have not tried to remove a gyroscope in precession from its fulcrum point.<br>
+You may require some explosive movement of the system to manage it, and of course you will then have to reset the system/<br>
+Not easy I assure you but you may manage it, best of luck.to you.<br>
+.<br>
+I was thinking more of multiple twin offset systems, 10, 20 or more maybe around a common fulcrum pulsing in a consecutive order.<br>
+(Nothing says a single fulcrum point in a machine is mandatory).<br>
+A multitude of very powerful pulses could easily be generated if a suitable power supply was available.<br>
+If there was money and a will to do it you could traverse deep space rapidly in such a device, if that is your thing<br>
+Definitely patentable, but not my cup of tea.<br>
+Without a very good reason for doing this seems a bit pointless to me but there are many with a different viewpoint. <br>
+Cest la vie<br>
+However Glenn, when you manage to remove and replace the fulcrum in an operating system let me know.<br>
+I am curious.<br>
+Regards,<br>
+Sandy<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8354">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 08/02/2021 15:28:54
+</td></tr><tr><td>&nbsp;</td><td>Morning Sandy,<br>
+<br>
+Years ago I once jerked the pedestal away during precession. I also cut a string that held up a precessing gyro. In both instances, the wheel and shaft fell straight down and remained still in the place where they fell. I explained in an earlier post why they behave in this dead-still this way.<br>
+<br>
+If a single gyro remained attached to a stationary pivot there would be back and forth horizontal movement during the rising and lowering of the wheel.<br>
+<br>
+Your dual-mounted gyros would correct this problem. However, I favor four gyros held at an equal distance as they precess around a common pivot. A system of four solves a multitude of balance problems in zero gravity but not all balance problems. Fore sets of fore each, a total of sixteen all aligned in the same plane would be necessary to maintain perfect balance.<br>
+<br>
+As to re-setting the system, that is not a consideration, because resetting is a naturally occurring function in the postulation and design I have put forth. Once the wheel and shaft have fallen to the platform of the structure, the pedestal would be forced to telescopes upward, while at the same time, circling forced precession would be applied. That is the identical action my dear Eric demonstrated. He lifts the gyro as he applies circular force.<br>
+<br>
+Would it work? If the downward fall into collision produced more force than that required to lift, as Erics demonstration suggested, youd have space drive and happiness.<br>
+<br>
+ https://www.youtube.com/watch?v=6tSyzTIJ82g&ab_channel=GospelNostalgia<br>
+<br>
+The money required to build a miniature system is available and the milling work is doable and partly in house. But you see, I have zero confidence in the good professors test and conclusion. Therefore it is the wasting of time to do a project I dont believe in, especially as I am engaged in other likely useless projects that keep me from building it. <br>
+<br>
+It was nice talking to you--until we meet again, c'est la vie.<br>
+Regards,<br>
+Glenn<br>
+<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8358">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>dave brown</b> - 13/03/2021 00:55:17
+</td></tr><tr><td>&nbsp;</td><td>lets see how you like some "hawkins" on your threads.<br>
+<br>
+sandy, you had plenty of time just 2 days before essentially being "forced" into reading mine.<br>
+- wait, mine was started jan.19...<br>
+lmao<br>
+<br>
+no, don't respond. you both have lost all respect.<br>
+- don't bother, i know losing my respect means nothing to you both.<br>
+<br>
+i win again.<br>
+what a sad F*CKn world.<br>
+...way to perpetuate it!<br>
+<br>
+and thank goodness gravity stops having an effect on things that are dropped; no more deaths from plane crashes....... oh me oh my. i can't compete with this level of education. great math gods, help me now.<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8391">Report Abuse</a></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>dave brown</b> - 14/03/2021 20:55:28
+</td></tr><tr><td>&nbsp;</td><td>Ok, my bad.<br>
+I finally took the time to fight through reading this post and I realize you are doing a:<br>
+ "Who's on first, What's on second" skit.<br>
+<br>
+I do feel 'the fool'.<br>
+...all the best, Dave.<br><br></td></tr>
+<tr><td align="right" colspan="3"><a href="abuse.asp?a=8393">Report Abuse</a></td></tr>
+<tr>
+<td align="center" colspan="2"><a href="answerquestion.asp?id=3035">Add an Answer &#062;&#062;</a></td></tr>
+</table>
+    </td>
+  </tr>
+  </table>
+  
+  <font class="copyright">
+  Website. Copyright &copy; 2021 Glenn Turner. All rights reserved. <a href="/site.asp">site info</a><br>
+     Do not copy without prior permission. Click here for <a target="gyroscopeproducts" href="http://www.gyroscope.com/" alt="Gyroscope products">gyroscope products</a> 
+   
+  </font>
+</center>
+
+</body>
+</html>

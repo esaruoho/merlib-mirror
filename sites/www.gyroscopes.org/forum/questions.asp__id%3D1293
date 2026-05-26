@@ -1,0 +1,848 @@
+
+<html>
+<head>
+  <title>Gyroscopes - Everything you needed to know</title>
+  <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+  <meta http-equiv="pics-label" content='(pics-1.1 "http://www.icra.org/ratingsv02.html" comment "ICRAonline EN v2.0" l gen true for "no gen term" r (nz 0 vz 0 lz 0 oz 0 cz 0) "http://www.rsac.org/ratingsv01.html" l gen true for "no gen term" r (n 0 s 0 v 0 l 0))'>
+  <META NAME="Author" CONTENT="Glenn Turner">
+  <META NAME="keywords" CONTENT="gyroscope, gyroscopes , gyro, gyros, gyroscopic propulsion">
+  <META NAME="Description" CONTENT="Gyroscopes have many uses, this site explains how a gyroscope works and what they can be used for. The site also looks at the possible uses of gyroscope based propulsion (gyroscopic propulsion). ">
+  <META NAME="Copyright" CONTENT="Copyright 2003 (All Web Pages) by Glenn Turner">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="expires" content="0">
+  <link rel="stylesheet" href="/iesite.css" type="text/css">
+</head>
+<body bgcolor="#000000">
+  <div style="  float: center; margin: 0; border: none; padding: 0; " align=center><center><img src="/header.jpg" alt="" hspace=0 vspace=0 wgith=700 height=111></center></div>
+  <center>
+  <span class="menutitle">
+    <a href="/index.asp"><font color="#DDDDDD">Home</font></a> :
+    <a href="/gallery.asp"><font color="#DDDDDD">Gallery</font></a> :
+    <a href="/history.asp"><font color="#DDDDDD">History</font></a> :
+    <a href="/uses.asp"><font color="#DDDDDD">Uses</font></a> :
+    <a href="/behaviour.asp"><font color="#DDDDDD">Behaviour</font></a> :
+    <a href="/math.asp"><font color="#DDDDDD">Maths</font></a> :
+    <a href="/forum/forums.asp"><font color="#DDDDDD">Forum</font></a> :
+    <a href="/propulsion.asp"><font color="#DDDDDD">Propulsion</font></a> :
+    <a href="/links.asp"><font color="#DDDDDD">Links</font></a> :
+    <a href="/glossary.asp"><font color="#DDDDDD">Glossary</font></a>
+    <br>
+  </span>
+
+  <table border=0 cellpadding=0 cellspacing=0 width="0" height="11">
+  <tr>
+    <td></td>
+  </tr>
+  </table>
+
+
+
+
+
+  <table border=0 cellpadding=8 cellspacing=0 width="700" height="260" bgcolor="#FFFFFF" ID="Table1">
+  <tr>
+    <td valign="top" class="main">
+<table align="center" width="100%" border="0">
+  <tr>
+    <td align="left" width="20%" valign="top">
+      <a href="forums.asp">Main Forum Page</a>
+    </td>
+    <td align="center" valign="middle">
+      
+      <h2 border="0">       
+      The Gyroscope Forum</h2></td>
+    <td align="right" width="20%" valign="top">
+      27 March 2014 22:39
+    </td>
+  </tr>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <p align=left>Welcome to the gyroscope forum. If you have a question about gyroscopes in general,
+      want to know how they work, or what they can be used for then you can leave your question here for others to answer.
+         You may also be able to help others by answering some of the questions on the site.
+      </p>
+      
+      <table width="100%">
+      <tr><td>
+        <form action="qa.asp" method="get">
+        <b>Search the forum: </b><input type="text" value="" name="forumsearch" size=30>&nbsp;<input type="submit" value="Search" name="forumsearchsubmit">
+          <input type=hidden name="forum" value="">
+        </form>
+      </td><td>
+        
+        <form action="askquestion.asp" method="post">
+        <input type="submit" value="Ask a new Question" name="forumsearchsubmit">
+        </form>
+        
+      </td></tr>
+      </table>
+      <hr width=100%>
+    </td>
+  </tr>
+</table>
+
+<table align="center" border="0" width="95%">
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><h3>Question</h3></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Asked by:</b></td>
+    <td align="left" colspan="2" valign="top">Albert Druid</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Subject:</b></td>
+    <td align="left" colspan="2" valign="top">where is Mike Marsden and what happened to his device?</td>
+  </tr>
+  <tr>
+    <td align=right class=medium valign="top" nowrap><b>Question:</b></td>
+    <td align=left class=medium valign="top" width="400" colspan="2">am surprised none of the experts in this forum have a thing to say about the Mac-Quan-1 device in this videos <br>
+http://video.google.co.uk/videoplay?docid=770563497668406528#<br>
+http://video.google.co.uk/videoplay?docid=3769084330238501981#<br>
+http://www.godlikeproductions.com/forum1/message330864/pg1   <br>
+- Al</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Date:</b></td>
+    <td align="left" colspan="2" valign="top">12 March 2011
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2><hr width=100%></td>
+  </tr>
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><br><h3>Answers (Ordered by Date)</h3><br></td>
+  </tr>
+  <tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Luis Gonzalez</b> - 12/03/2011 22:16:31
+</td></tr><tr><td>&nbsp;</td><td>Great questions Al.  <br>
+<br>
+I think the Mack Quan1 (MQ1) is the most credible device that has emerged since the quest to build gyro propulsion devices started about 35 years ago (perhaps it is the only credible device). <br>
+<br>
+Not only do public videos demonstrate the MQ1 device in action but even more compelling, these videos show that MQ1's propulsion is delivered in a different direction from what has been previously stated by most who have claimed success in this forum. <br>
+ <br>
+To its credit, the MQ1 delivers its propulsion in a direction along one of the DIAMETER lines of the main rotor. <br>
+This is a stark contrast to the 2 opposing gyros in a hub model, which generally expects to deliver propulsion in a direction along its main axis of rotation, and which unfortunately has been the most frequently adhered model by participants of this forum (up like a gyro and down like a rock).<br>
+<br>
+In my opinion, the MQ1's departure from this paradigm (commonly accepted in this forum) lends it my greatest credibility because the MQ1's function is in line with my research results on the theory of gyro propulsion.   <br>
+My results tell me that angular forces can be converted to linear propulsion only along the line of one of the main rotor diameters, NOT along the hub's AXIS of rotation. <br>
+<br>
+The MQ1 is extraordinary news, as it can reawaken the scientific community's interest in gyro propulsion.  <br>
+The questions do remain:<br>
+Where is Mike Marsden?<br>
+What happened to his MQ1 device? <br>
+<br>
+Regards,<br>
+Luis G<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Albert Druid</b> - 17/03/2011 01:15:25
+</td></tr><tr><td>&nbsp;</td><td>Luis looks like you'r the only one who's seen the videos -  why do you think propulsion can't happen along the axis of rotation of the hub - you must have a reason - Al<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Luis Gonzalez</b> - 27/03/2011 16:02:03
+</td></tr><tr><td>&nbsp;</td><td>Hi Al,<br>
+Looks like you are the only one reading this stuff with an eye to try to make sense of it all.  <br>
+To your question, the reasons propulsion cannot be created along the line of the main rotor's (hub's) main axis are as follows:<br>
+    Propulsion in-line with the main rotor axis would result from one of two concepts, and neither of them creates sustainable propulsion. <br>
+<br>
+     The first concept is what we call "up like a gyro and down like a rock", because "precession/deflection" moves the mass upward without equal-and-opposite reaction, followed by  a down like a rock thrust, which does have an equal-an-opposite reaction.<br>
+    The problem with this concept is that the downward thrust must be somehow brought to a full stop (causing a REVERSING equal-and-opposite reaction)... <br>
+It was interesting to find that even using "precession/deflection" forces to slowdown and bring the downward moving mass to a stop CANNOT eliminate the REVERSING effect of equal-and-opposite reaction, as the downward thrust is brought to a stop (many enthusiast believe that this solution is doable but it isn't).  I know this because (1) I have analyzed the magnitude, direction, and sequence of all forces involved, and (2) I have conducted experiments that confirm my analysis.          <br>
+<br>
+    The second concept expects that causing an upward angle "X" of pressure through the sheer force of "precession/deflection" forces will produce lift.  This expectation is even less likely because all it manages to produce is STATIC forces (and their resulting stresses on the machinery's components).  It is like expecting to float by pulling-up on your own bootstraps (though in a more complex manner). <br>
+This concept completely fails to account for any of the equal-and-opposite reactions involved, as it ignores all such reactions. <br>
+As a child I thought this second concept was possible, until I studied physics in school and found how fluid "precession/deflection" really is, and how easy it is to build devices that trap deflection/precession into a static configuration that goes nowhere fast!   <br>
+<br>
+A couple of important things to know about gyro/inertial propulsion are, first precession/deflection treats all obstacles and forces with the same response; it "RE-DEFLECTS".  <br>
+Second , devices that place high stress upon their mechanical components, are making very poor use of precession/deflection (they are fighting "deflection" instead of using it to produce propulsion),and this devices will fall apart before they can ever fly!<br>
+<br>
+I don't believe there is a third concept for propulsion along the main axis of the main rotor; all other options point along one of the diameters of the hub!<br>
+<br>
+Regards, Luis G<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Albert Druid</b> - 27/03/2011 21:48:55
+</td></tr><tr><td>&nbsp;</td><td>thanks Lu - i don't suppose your gona give details bout propulsion along a diameter line - Al<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Luis Gonzalez</b> - 30/03/2011 01:51:53
+</td></tr><tr><td>&nbsp;</td><td>You are correct Al.  Now that I have a clear answer I can't just give it away. <br>
+<br>
+I can however explain why it is NOT possible to use gyroscopic-deflection to stop the momentum of "down (or back) like a deadweight" motion.  <br>
+<br>
+Simply stated, anything that Changes the Velocity or the Direction of gyroscopic deflection, will create an equal and opposite reaction...  Do you see how that is so?<br>
+<br>
+So, stopping a momentum through the resistance of a gyroscopic-deflection (precession) causes the deflection to change... i.e. gyroscopic-deflection is No Longer STEADY!   <br>
+Therefore all devices that claim to use gyroscopic-deflection as a stop-back, to prevent opposite reaction, are not workable and CANNOT produce propulsion, end of story.       <br>
+<br>
+Regards, Luis G<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Luis Gonzalez</b> - 02/04/2011 16:29:44
+</td></tr><tr><td>&nbsp;</td><td>Hi Al,<br>
+The MQ1 device came to my attention shortly after through a long period of analysis I had determined that sustainable propulsion can be only possible along a hub's diameter.  Seeing the MQ1 video was a refreshing surprise that appeared to validate the culmination of my conclusions based on physics theory and backed by specific experimental results.  <br>
+<br>
+I can't tell whether the MQ1 videos are genuine or not but Mike Marsden's principles must resemble mine because that is what his videos depict (true or not, the MQ1 videos show lift occurring along a diameter, not along the rotor's main axis).  <br>
+<br>
+Even if the MQ1 "Hover" is false, that is the orientation in which the designer expected to produce propulsion results.  The most important thing is that , try as hard as I can day after day, I cannot find flaws in my final theory (even after answering all open questions, and taking critical approaches to it).  <br>
+The precursors to my evolving theory have gradually taken me to the current refined theory. <br>
+As I addressed the subtle points of failure in my evolving theory during less well-defined stages, I found answers to the open questions, and the answers have provided gradual refinement to the theory.  The current theory has no more open questions. <br>
+<br>
+I personally don't think that the MQ1 has ever produced a sufficient level of propulsion to lift or maintain its own weight off the ground.  Am sorry to say the MQ1 videos are sort of fakes, however they seek to represent what the designers expected to eventually accomplish with a full blown version.  I believe the device in the video lacked sufficient thrust and was very unstable.  <br>
+This has been a common failure in all cases that have claimed success; the success has been too limited to convince the powers that be.     <br>
+ <br>
+Regards, Luis G<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Albert Druid</b> - 03/04/2011 00:03:22
+</td></tr><tr><td>&nbsp;</td><td>hey Luis - you say gyroscopic deflection moves mass with no opposite reaction - but you also say when gyroscopic deflection stops momentum there is opposite reaction - is that right?  why one but not the other?  - Al<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 03/04/2011 01:40:14
+</td></tr><tr><td>&nbsp;</td><td>"hey Luis - you say gyroscopic deflection moves mass with no opposite reaction - but you also say when gyroscopic deflection stops momentum there is opposite reaction."<br>
+<br>
+He is exactly correct.<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Luis Gonzalez</b> - 03/04/2011 02:20:20
+</td></tr><tr><td>&nbsp;</td><td>This is a great question Al (this point actually closes the door on some erroneous propulsion designs).<br>
+ <br>
+The reason for why one and not the other is that the 2 events in your question are different. <br>
+1) Stopping momentum head-on causes gyroscopic-deflection to re-deflect and/or to change velocity (i.e. velocity of gyroscopic-deflection cannot remain constant while it brings a moving mass to a stop).  <br>
+2) More accurately, ONLY STEADY gyroscopic-deflection (e.g. precession) can move spinning-mass without equal-and-opposite reaction. <br>
+<br>
+In other words, there occurs opposite reaction when gyroscopic-deflection changes its velocity or direction, and that certainly happens when gyroscopic-deflection is used to stop the force that exists in momentum.  <br>
+ On the other hand, truly steady precession has no equal-and-opposite reaction.  <br>
+Please Al, let me know if this is not clear.    <br>
+<br>
+Regards, Luis G<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Albert Druid</b> - 03/04/2011 18:25:37
+</td></tr><tr><td>&nbsp;</td><td>is that what you been trying to explain in your writings?  Al<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Luis Gonzalez</b> - 04/04/2011 02:28:43
+</td></tr><tr><td>&nbsp;</td><td>Hi Al,<br>
+Yes, in this thread, and perhaps in portions of other threads, but only in recent months.<br>
+<br>
+I figured it out by analyzing what we called "the drop", which really referred to precession's acceleration from zero to steady velocity.  Thanks for seeking clarification.<br>
+<br>
+Most of my writing in this forum have been to share my discoveries and to find discoveries that others wanted to share.  (This forum has been a great place to expand understanding of spinning objects through variety of contributions, perceptions, and controversial discussions.)<br>
+<br>
+My writings reflect what I have been exploring at each stage. <br>
+<br>
+Some time back I completed my list of items to explore, which I had determined that needed to be fully understood before finally saying whether gyro propulsion is possible or not.  That is when I realized that Sustainable propulsion can only be designed to occur along a diameter of the main rotor. <br>
+<br>
+Regards,  Luis G<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Albert Druid</b> - 06/04/2011 14:11:47
+</td></tr><tr><td>&nbsp;</td><td>are you the only one who knows this?<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Luis Gonzalez</b> - 07/04/2011 02:03:37
+</td></tr><tr><td>&nbsp;</td><td>Hi Al,<br>
+<br>
+I am sure the answer is no.  <br>
+I know of a couple of people just in this forum who have mentioned the basic concept, though it looked like they may not have digested the entire thing.  <br>
+I suspect there is a large number of people who have figured it (or a lot of it) out. <br>
+<br>
+Regards, Luis G<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Albert Druid</b> - 07/04/2011 21:25:36
+</td></tr><tr><td>&nbsp;</td><td>why dont someone build it?  - Al<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Luis Gonzalez</b> - 16/04/2011 18:10:30
+</td></tr><tr><td>&nbsp;</td><td>Hi Al,<br>
+You have a knack for getting to the core of things with your no-nonsense approach.  <br>
+There are a number of Long Journeys between knowing basic concepts, and designing & building appropriate components and structures that produce propulsion.<br>
+   <br>
+I will not try to explain the design-obstacles here for obvious reasons.  However, I can try to explain one of the main device-building conundrums, and I know of no design that can circumvent resolving this necessary constructing issue.   <br>
+<br>
+I am referring to the absolute necessity to Apply a Mechanical Torque to a spin-mass while the mass is Constantly in Motion along the path of gyroscopic-deflection.  <br>
+The "Torque-Mechanism" has to apply its Force "On-the-Flight", as it "CHASES" the mass around, and it must do so WITHOUT interfering in the least bit or disturbing "Precession/Gyroscopic-Deflection".   <br>
+This is much easier said than done.  Many do not comprehend it, and most of those who understand the concepts fail to build devices that can avoid this mechanical foibles.   <br>
+<br>
+You see Al, it's easy to take for granted that gravity applies toque without having to chase a gyro while the gyro travels along its path of precession.  <br>
+One must fully understand the difference between "how gravity's ACCELERATION creates FORCE (Directly proportional to the mass)" and "how mechanically produced torques use FORCE to create ACCELERATION (Inversely proportional to the mass)".  Recognizing this difference requires serious analysis and a good amount of clear thinking. <br>
+<br>
+So, though applying (rarely found) correct concepts, we still need to overcome other great obstacles to building successful "gyro-propulsion" devices. <br>
+<br>
+What's more, even after overcoming all of the above conceptual and building techniques, we must also be able to operate the device in uniquely synchronized cycles.   This means that building devices that are close-enough is NOT good-enough to produce propulsion; and even correctly built devices must be operated properly, otherwise they will yield no success.<br>
+<br>
+Many inventors have been deceived by marginally successful devices.  It's not as intricate to build devices that intermittently and accidentally produce spurts of propulsion.  But nobody has yet produced sustained propulsion.  <br>
+<br>
+Did the MQ1 succeed?  I doubt it.  Though Marsden built the MQ1 "close-enough", I believe he may have had to fake (or at least help) the hovering demonstrations.   <br>
+It is however possible that the "powers that be" may have found the demos too close for comfort. <br>
+<br>
+With my Regards,<br>
+Luis G<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Albert Druid</b> - 17/04/2011 16:33:00
+</td></tr><tr><td>&nbsp;</td><td>can you overcome all the obstacles Lu?  how bout you Glenn - what do you think?  my best to all - Al<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Luis Gonzalez</b> - 08/05/2011 02:28:54
+</td></tr><tr><td>&nbsp;</td><td>Yes Al, I believe I can.  <br>
+Regards,<br>
+Luis G<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>R S</b> - 19/07/2011 17:16:10
+</td></tr><tr><td>&nbsp;</td><td>Mike Marsden is supposedly finalizing his Mac Quan 2 now. He hopes to launch the device into space at the end of the year. He needed to create a power source that lasts long enough to get it going. If inertial propulsion is possible, I believe this is the only way to do it. I am currently building a replica of the Mac Quan 1 to confirm it works.<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Albert Druid</b> - 22/08/2011 00:57:10
+</td></tr><tr><td>&nbsp;</td><td>hey R S  how you going to build it?  you have access to it? <br>
+Al<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>R S</b> - 23/08/2011 19:19:53
+</td></tr><tr><td>&nbsp;</td><td>I have conversed with him for almost a year now. He seems to have disappeared recently though. I pieced it together from our conversations and pictures, as well as a detailed review of the video. It seems to use the inherent kinetic energy in a angularly (spinning) ballanced connected mass pair with a center of gravity, and he slightly converts this energy into a linear energy. He does so through acceleration and decleration. The Mac Quan 1 does NOT spin at one constant spin, rather it accelerates and decelerates. The trick is that he channelizes and redirects the obvious energy from acceleration and deceleration into ONE direction. He does this through a spiraling (almost corkskew like) coriolis effect. The effect looks like a wave. That is why in the second video there appears to be a Yin Yang, or sinusoidal wave. It is supposedly based on math, although he won't really explain. I believe he is being fairly secretive about it because he is getting it patented probably. In my opinion, it is just a manipulation of the basic laws of physics. Instead of pushing Mass in one direction to create your "Equal and Opposite Reaction", you are simply channelizing ENERGY or consumed work in one direction to get your "Equal and Opposite Reaction". He calls it "Mass Displacement" or "Mechanical Light".<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Albert Druid</b> - 25/08/2011 22:20:33
+</td></tr><tr><td>&nbsp;</td><td>R S - coriolis effect need motions happening in different directions - i see one - wheres the other motion? - Al<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>R S</b> - 26/08/2011 17:48:19
+</td></tr><tr><td>&nbsp;</td><td>The machine you saw is essentially a double ellipsograph (aka trammel). The ellipsograph pairs are locked into place on each side and forced to spin in circles. There are parallel connections between the pairs on each opposite side of the machine. This parallel force is how it works I think. Normally, if a machine was spinning in a circle, and a projectile was launched from the center of that spinning circle, it would of course travel in a STRAIGHT line. However, in relation to the spinning circle, it would actually appear to travelling in a curve like pattern, called the "coriolis effect". The overall Mac Quan 1 IS the spinning circle. The weights in his machine are not allowed to be "thrown away" due to centripetul force. They are held in place by parallel connections, and ultimately form what appears as a "Figure 8" or Yin Yang shape. There is a difference in centripetul forces in each sides pairs. I believe this difference is "Transferred" up through the parallel connections, to a different region of the machine altogether. That is why he calls it "Mass Transfer". It carves out a perfectly sinusoidal wave. This is just a very rudimentary explanation. I cannot divulge specifics about the internals of the machine as I think he is getting it patented. I truly think this thing works. I have been following inertial propulsion for years and I think this guy finally has figured it out.<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Albert Druid</b> - 27/08/2011 14:25:41
+</td></tr><tr><td>&nbsp;</td><td>Hey R S - you ever see live domos like the videos?  Al<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>R S</b> - 28/08/2011 05:36:20
+</td></tr><tr><td>&nbsp;</td><td>I have not seen a live demo, although he has invited me out to his factory. He owns a separate company so he has a lot of money and a LOT of tools (cnc lathes, welders, flo jets, the like). His Mac Quan 2 is supposed to be much more advanced than his Mac Quan 1. He is planning on launching it into space. He has not shown me pictures of the MQ2 out of obvious secrecy. However, he has show me pictures of the power system. The power system is actually just as revolutionary as the inertial propulsion system itself. He obviously needed a power supply that could work in space with no batteries and no fuel source, since these would run out of juice quickly. I am astonished at what he has come up with. It will literally change the way we as humans consume power. Be prepared for some pretty shocking stuff to come out in the next year or so I would say.<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Ted Pittman</b> - 09/07/2012 16:56:52
+</td></tr><tr><td>&nbsp;</td><td>See www.monkeybarsoflife.com .<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Guilherme</b> - 22/11/2012 17:13:14
+</td></tr><tr><td>&nbsp;</td><td>Well guys, its my first coment on this forum, and i saw the video off the macquan 1 and 2, and this really seems to be real, im not sayn that its real but it looks like.<br>
+<br>
+But the inventor talks about heat generation, and maybe the focus off the device its not on the giroscopes, but in the desaceleration in the down point off the masses. Because, when the mass is going in the down point the centrifugal force can be converted into heat or thermal energy.<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>RS</b> - 12/12/2012 18:10:29
+</td></tr><tr><td>&nbsp;</td><td>The machine works by moving ENERGY into one direction (vector). The spinning mass is just a means of achieving this. He utilizes two perfectly opposite point masses of a spinning mass that are exactly opposite of each other in a spinning mass and are on the periphery. He accelerates one for 90 degrees of the 360 spin, then decelerates it for 90 degrees, then he switches to the other sides point mass and accelerates and then decelerates it again just like the first mass point. Now the machine has done a full revolution and the process starts anew. This is perfect conversion of angular(rotational) acceleration and deceleration into linear deceleration. The Center of Gravity has no choice but to just play "catch up" and ends up moving in perfectly straight line. The acceleration and deceleration of the mass points is done through springs that ALWAYS have a linear orientation. Therefore, it is not really about the mass. It is actually about the expended energy from the springs that are doing work in ONE direction, thereby causing a linear movement. It actually interacts with the "fabric of space-time" (i.e. space). I am currently patenting my own variant of his machine.<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Sandy Kidd</b> - 14/12/2012 13:56:45
+</td></tr><tr><td>&nbsp;</td><td>RS<br>
+I am not so sure that the device has got anything to do with interacting with the fabric of space-time as you suggest, but I will agree that the thrust is supplied via the stored energy in the springs, the output being directly proportional to the amount of compression.<br>
+I have been using this storage spring arrangement as a means of producing output from gyroscopic systems for about 20 years, with consistent and great effect need I say.<br>
+It is refreshing to see that at last someone else has found and utilised this method.<br>
+Regards <br>
+Sandy Kidd.<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>RS</b> - 14/12/2012 17:04:31
+</td></tr><tr><td>&nbsp;</td><td>Hello Mr. Kidd, <br>
+<br>
+I have also heard a great deal about you in the inertial propulsion world. I have been obsessed with this stuff for about 13 years now. Dr. Marsden did respond on this forum once and used the term "linear gyro" to analogize his machine. <br>
+<br>
+The sinusoidal wave is what is essential here. Waves are perfectly balanced and are based on acceleration and deceleration at 90 degree intervals around a linear line of congruance that bisects the wave. That is  probably how light waves move through "space". The "light" that we think we are seeing is really just a wiggling of the underlying fabric of space/time that we incorrectly perceive as "light". We are actually made up of this "fabric" ourselves. Atoms are probably mere unjulating and reverberating standing waves that interact with other like frequencies or resonances and connect together to build what we think of as "substance" or "matter". <br>
+<br>
+Check out the work of Milo Wolff and his Space Resonance Theory, also called the WSM (Wave Structure of Matter). <br>
+<br>
+Also, check out the work of my friend Robert Leaton Cook. He lives one state over from me and has a company called CForce, Inc. He is currently finalizing his CID-3 Engine. His machine also utilizes springs to work. He has his own website. <br>
+<br>
+Most people wrongly assume it is about the mass, when it comes to inertial propulsion. They think it is about the "imbalance" of a spinning circle, where the mass is predominantly in "one half of a circle" i.e. 180 degrees. They are wrong. It is not about the mass, it is about the energy(work). Consumed work must be channelized and directed into one direction. That is how it works. The means for achieving this is through the sinusoidal wave. The Center of Gravity just ends up traversing the "line of congruence" between the opposite sides point masses and accelerates in a perfectly straight line. <br>
+<br>
+Dr. Marsden's newest machine is up to 3 G's of acceleration now I believe. I myself will be conducting a true hanging pendulum test after I finish my project early next year. <br>
+<br>
+If you look at the side view of Dr. Marsden's Mac Quan 1 final flight video (which has been removed I believe), you will notice that it looks like a Figure 8, or sinusoidal wave. This is not coincidental. The machine is actually producing a mechanical sinusiodal wave. That is why Dr. Marsden also calls it "Mechanical Light". Mac Quan stands for a Macroscopic version of the inner Quantum workings of matter.<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Sandy Kidd</b> - 14/12/2012 18:02:05
+</td></tr><tr><td>&nbsp;</td><td>Hello again RS,<br>
+The use of springs is the easy bit.<br>
+It is the production of the differential which loads the springs which is the tricky bit.<br>
+Thereafter the springs do all the work.<br>
+Sandy Kidd<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>RS</b> - 17/12/2012 18:06:21
+</td></tr><tr><td>&nbsp;</td><td>Hello Mr. Kidd, <br>
+<br>
+I am actually quite astonished, surprised and amazed that you understand that aspect of it. I was worried that you might have gone down what Dr. Marsden calls "the blind alley". He went down it himself for years, as did I. <br>
+<br>
+You are absolutely correct; the springs do ALL of the work. Once you get it spinning with an electric motor, the springs just do their thing and create what Dr. Marsden calls the "push/pull effect". <br>
+<br>
+I figured out an entirely different way to do it. Dr. Marsden eventually refined his method and created the Mac Quan 2, which he has never shown me out of secrecy. I believe he even went on to work on a Mac Quan 3; his most powerful machine so far. <br>
+<br>
+I figured out how to recreate this phenomenon myself and that is what I will be patenting. Dr. Marsden always likes to say "there are many different ways to skin a cat". <br>
+<br>
+The best thing to remember is that it is based on 90 degree angles/intervals. It is NOT about the 180 degrees. The point masses must be accelerated and decelerated for 90 degrees each time, just like a wave in nature does.<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Sandy Kidd</b> - 18/12/2012 19:29:47
+</td></tr><tr><td>&nbsp;</td><td>Hello RS,<br>
+Close to 30 years ago, I built my first gyroscopically inspired device which in spite of any input from me, proceeded to display significant amounts of vertical thrust consistently and reliably.<br>
+Piece by piece I analysed everything that was going on and eventually thought I had found all of the unknowns.<br>
+However there was one part which caused me a lot of trouble and that was how this differential was being produced. <br>
+I knew what must be happening but at that time did not know why.<br>
+This took me some considerable time to sort out as the answers are not in the physics books, but that aside the necessity for storage springs became clear.<br>
+By sheer chance, and the cheap and cheerful way I had built that device a storage mechanism had been accidentally built into the device which after being acted upon returned the mechanism rapidly from whence it came.<br>
+I was extremely surprised at that time at the sheer efficiency of that very simple spring-like mechanism to convert all the action into thrust.<br>
+I have spent much of my time through the years since then, attempting to develop ways of creating larger inertial differentials at greater speeds (frequencies) in an effort to create a light and efficient inertial drive device.<br>
+Yes there are many ways to skin a cat, you pays your money and takes your chances.<br>
+There are at least a half dozen ways I know of producing inertial thrust some better than others, although there is one method which stands head and shoulders above the rest, a bit more expensive yes, but very good.<br>
+However at 75, I do not care to get involved in patents any more.<br>
+My last application many years ago, was drawn up completely by myself (I was a draughtsman in another life) and they still wanted 4000 for the privilege, goodness knows what it would cost now, besides there are just too many ways of being outflanked by others, too many options.<br>
+It did occur to me to make my own application which if I did would be a multi, covering several different but nevertheless related devices.<br>
+You have a year of relative safety to get organised then the guy with the fattest wallet wins.<br>
+You really need NASA, Boeing, or British Aerospace or someone big like that to sponsor you and let them prepare the patent, which they would rather do anyway.<br>
+Regards,<br>
+Sandy.<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>thisisthesystem</b> - 07/02/2013 23:58:21
+</td></tr><tr><td>&nbsp;</td><td>Look at this inertial propulsion mechanism.<br>
+<br>
+I think that mac quan is the same mechanism<br>
+<br>
+http://www.myspace.com/100862784/photos/861334#{%22ImageId%22%3A861334}<br>
+<br>
+http://archive.go-here.nl/open.org/davidc/SAAThor1.gif<br>
+<br>
+http://archive.go-here.nl/open.org/davidc/update29.htm<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Luis Gonzalez</b> - 09/02/2013 19:23:19
+</td></tr><tr><td>&nbsp;</td><td>Hi Guys,<br>
+Even though I know that the type of devices presented in the above posted links do NOT produce propulsion, I found one of the presented concepts to be an interesting puzzle (which required a fair bit of thinking from my part to resolve). <br>
+<br>
+The basic concept is as follows:<br>
+A centrifuged mass travels in a direction TANGENT to the point of release, but the equal and opposite reaction would appear to occur in the direction of the centripetal force, i.e. at 90 degrees.  <br>
+<br>
+Any takers on how to reconcile this equal and opposite reaction puzzle? <br>
+How about it Harry and Blaze?<br>
+<br>
+Regards,<br>
+Luis G<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Blaze</b> - 09/02/2013 20:07:18
+</td></tr><tr><td>&nbsp;</td><td>Hi Luis. <br>
+<br>
+"A centrifuged mass travels in a direction TANGENT to the point of release"<br>
+<br>
+That is correct.<br>
+<br>
+"but the equal and opposite reaction would appear to occur in the direction of the centripetal force, i.e. at 90 degrees."<br>
+<br>
+Actually, I don't think that is what happens. The reaction IS opposite to the direction of the released centrifuged mass, but it is not co-linear.  The reason there is an opposite reaction is because there is a barycenter between the two objects. The two objects are actually orbiting around this barycenter. Therefore both directions of travel are opposite to each other. It is like a force couple "in reverse", if you look at it in a convoluted kind of way.<br>
+<br>
+regards,<br>
+Blaze<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Luis Gonzalez</b> - 09/02/2013 21:09:09
+</td></tr><tr><td>&nbsp;</td><td>Hi Blaze,<br>
+I should have known you would get straight to the heart of it.<br>
+Best Regards,<br>
+Luis G<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 09/02/2013 21:58:38
+</td></tr><tr><td>&nbsp;</td><td>Hi Everyone,<br>
+I can see why the problem requires some fair amount of thinking. The answer is not so cut and dried.<br>
+Blaz, you certainly are correct concerning rotation. Let us build a thought machine. We connect two balls to a shaft that we can electronically disengage in the center at a distance. Then we whirl the device on ice to give it binary motion. Then we push the disconnect button and in our mind we can see the balls travel in equal and opposite direction, separated by your BabyCenter.<br>
+However rotation is not precession. We are sure that centrifuge only works in one direction during precession. The pivotal area does not pull back oppositely. The result is that an alignment of forces in the acting wheel, deflections direct the wheel in closed, self-contained revolutions carrying the pivot support along with it. There is no hint of a binary action.<br>
+The situation is: Centrifuge pulls only in an outward direction from the center. Angular momentum is forced to circle, without the aid of centripetal pulling in inward to cause the pivotal mass to circle in the opposite direction.<br>
+When our thought machine disconnects the precession shaft, certainly the wheel is freed from the alignment of odd forces that contained it, and it flies off at a right angle to centrifuge. However, the light weight pivotal platform might as well vanish. Poff! (That is so strange.) I can not find an equal and opposite mass existing in the first place, nor in the second place any reason why the light weight pivot would move at all. I find no opposite reaction and that is the magical condition with which we have hoped to produce internal force for propulsion.<br>
+Hint: Hitting the outside shaft with a hammer does not count, because as the wheel is being accelerated, equal and opposite reactions are occurring, but not during forced coasting. There is no opposite release of any kind.<br>
+Lastly, we owe Blas for the best look at this release action. When his wheel was released, the string did not move backwards.<br>
+http://www.youtube.com/watch?v=DKsUcD_ueS8<br>
+this is what happen to you if you play with gyros too much. Have fun : )<br>
+Glenn,<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>thisisthesystem</b> - 09/02/2013 21:59:24
+</td></tr><tr><td>&nbsp;</td><td>One mass accelerates in 180, in the next 180 decelerates.<br>
+<br>
+Is very simple, you need a mechanical system to accelerate and decelarate the mass very fast<br>
+<br>
+It is the mystery of mac quan1, the mechanism I have posted it, there are many patents to make similar movements like Thornson system.<br>
+<br>
+Centrifugal force is not simmetrical, so centrifugal force makes an inertial force in all the system been able to levitate.<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>thisisthesystem</b> - 09/02/2013 22:37:45
+</td></tr><tr><td>&nbsp;</td><td>the system im talking is similar to this<br>
+<br>
+http://www.youtube.com/watch?v=53rURZsFlZI<br>
+<br>
+mac quan makes the movements very quickly and mechanically, in this video it is made via on-off the motor, and the movements are slow, but the same principle of propultison: acelerate deccelerate<br>
+<br>
+there are no gyroscopes<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 09/02/2013 22:48:31
+</td></tr><tr><td>&nbsp;</td><td>I will try to be kind. There is no such thing as real levitation and you can not show it. I am going to tell you something else. Those stupid machine you refer to, are just that -- stupid. I am sorry, but no intelligent person here (we have actually a lot), or elsewhere else ever supported them.<br>
+<br>
+It is aggregating that you immediately! replied to this post without ever attempting to understand one iota of it. You have not a clue. You -- explaining to me? You masked over an important issue and a unique presentation with that boggle and endless repetition? You masked over the heart of an attempt at an inertial propulsion discussion between thoughtful people.<br>
+<br>
+I changed my mind. I am not sorry that you don't know any better.<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>thisisthesystem</b> - 10/02/2013 04:14:29
+</td></tr><tr><td>&nbsp;</td><td>Glenn Hawkins<br>
+<br>
+those systems produce inertial thruster, if you dont understand it you dont understand what is centrifugal force. There are a lot of patents, scientific investigations around this systems. There are a lot of videos of inertial propulsion based in centrifugal force.<br>
+<br>
+This is the first time I reply your post, when you were writing your post, I was writing my post, we post at the same time it is all, dont get angry.<br>
+<br>
+you think you are the only with intelligence?, dont worry, you are not alone, Im intelligent too.<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 10/02/2013 04:29:30
+</td></tr><tr><td>&nbsp;</td><td>Of course you are intelligent. I am sorry. Forgive me. Bless you. My girlfriend has the rag on. That is all.<br>
+Live long and prosper. I wish you always good luck.<br>
+Glenn,<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>thisisthesystem</b> - 10/02/2013 04:35:04
+</td></tr><tr><td>&nbsp;</td><td>"There is no such thing as real levitation and you can not show it"<br>
+<br>
+Mac quan levitating:<br>
+<br>
+http://www.youtube.com/watch?v=nHPna2WF_g0<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Nitro</b> - 10/02/2013 16:09:32
+</td></tr><tr><td>&nbsp;</td><td>Hi all,<br>
+<br>
+I always try to avoid making negative comments because almost everyone who visits this part of the forum has an interest in something that is considered impossible by conventional science.  For this reason most that have experimented with or propounded theories on reactionless thrust/anti gravity/unidirectional force/inertial propulsion, call it what you will, have enough negativity without me adding any.  <br>
+<br>
+However  you knew that there was a however coming. Didnt you?  The two videos of Mike Marsdens MacQuan that I have seen (let me know if there are more) seem to have all the trade marks of fakery. <br>
+<br>
+http://www.youtube.com/watch?v=nHPna2WF_g0<br>
+<br>
+The videos are of poor quality and are said to be taken by the inventors son.  Adrian Grey Marsden, instead of setting the camera on a tripod, waves the camera around like a conductors baton making the quality poorer still.  The killer for me though is that, while demonstrating a machine that is purporting to be able to lift more than its own weight and so likely to vanish skywards that it is tethered, the video starts off with the machine being propped up on blocks.  The blocks are then removed and we are expected to believe that the machine is now straining upwards against the tethers.  The tethers far from being of flexible rope that would need to be properly knotted to prevent them coming loose from all the upward straining and vibration are clearly made of ridged metal wire that has been bent back over itself at the end.  I believe these stiff wire tethers are thus not tethers at all but are supports for the machine to suggest that the machine is airborne.  I cannot imagine the amount of desperation that leads to fakery.<br>
+<br>
+http://www.youtube.com/watch?v=NOfsz1ENYjU <br>
+<br>
+The other promotional video above shows the machine strapped to a set of bathroom scales.  This may be faked but could also be another example of (and the great Laithwaite got caught by this) not knowing that scales have a one way damper (shock absorber) to shorten the time the scales indicator bounces when a weight is placed on it.  This damper will cause any vibrating device placed on such scales to give a wildly false reading as its vibration is damped out in one direction but not the other and the machine ratchets up, or in this case down, the reading.  Could it be that this is the mistake that lead Mike Marsden to compound such outrageous claims. <br>
+<br>
+You can see a more convincing effort here:-  <br>
+<br>
+http://www.amazon.com/Lasso-Bottle-Holder-Floating-Illusion/dp/B005DKQQ46<br>
+<br>
+So Mike Marsdens MacQuan is a non starter IMHO.  Anyone who wants to have such claims and device taken, even slightly, seriously would show such a machine moving from a grounded position, moving upwards to strain at the tethers and then, switched off, returning to its grounded position with the tethers going slack.  Even then there will be the need to examine the nail holes in view of the machine being such an unlikely answer.<br>
+<br>
+We need to cast the questioning eye over all phenomena associated with our, perhaps foolishly, chosen field of interest if we are not to be sent wandering down useless paths by our own misconceptions/preconceptions let alone by anothers utter nonsense.<br>
+<br>
+I put up this video:-  <br>
+<br>
+http://www.youtube.com/watch?v=KdtabX-3iXk   <br>
+<br>
+in response to thisisthesystems mail of 9/2/13 which had a video of a later slower version.  I believe this is a classic example of a finger on the scales or more accurately a slight tilt on the base or stick/slip otherwise why would the slower version shown in his link  produce thrust that the fast one above does not?. <br>
+<br>
+Incidentally Luis, while I do not think there is any particular reason that some kind of tangential unidirectional force is impossible I have found that unidirectional force can be produced axially.  Hopefully I will put up a simple video for you and Blaze to try some maths on, soon.  And Glen; far to much information on your girl friends cycle.  Anyway,  I always thought it was the lady not her partner that had mood swings at such times!     <br>
+<br>
+Kind regards<br>
+NM<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 10/02/2013 16:31:29
+</td></tr><tr><td>&nbsp;</td><td>Nitro, yours is one of he most detailed investigations and all around good writing and post Ive had the pleasure to see in a while. Thank you. I enjoyed it. Consider also the possibility, if not probability of the disk below the fakery helps produce a repulse magnetic effect. The field that can be produced can easily be powerful enough.<br>
+Glenn.<br>
+Hold on a minute. Are you saying you know something about my girl friends cycle. Say? What give around here? How far away do you live? <br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Nitro</b> - 10/02/2013 17:11:28
+</td></tr><tr><td>&nbsp;</td><td>Relax Glen.  Even if I lived round the corner I am of an age where I have trouble raising an eybrow, let alone anything exciting.  Thanks for the compliment on the writing - the cheque (sorry check) is in the post.<br>
+NM<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Sandy Kidd</b> - 10/02/2013 20:24:37
+</td></tr><tr><td>&nbsp;</td><td>Evening gentlemen.<br>
+I think I would not be too hasty when you are writing off Dean, Thornsen, contra rotating mass types of device and their clones.<br>
+I think it would be fair to say they are all variants of the original Dean machine in one way or another.<br>
+The lad is trying to explain that rapid acceleration and braking is creating his differential. <br>
+That in itself is not enough, but this is the real world so I have no qualms with that, as indirectly a differential would surely be produced due to any flexibility at all in the device or input drive.<br>
+Rigidity we cannot have, and in this case do not need.<br>
+He has previously explained how to convert the differential using storage springs.<br>
+That is true and I have no qualms with that either.<br>
+<br>
+If anyone has read B.Harry Stines Detestors, Phasers & Dean Drives you will know that Harry mentioned the fact that during testing of a similar device in the laboratory his team repeatedly acquired 3 degrees of rotational phase shift under full load. <br>
+I can only assume this was cyclic, and produced due to the idiosyncrasies of the device, besides it is not easy to totally remove flexibility from a device no matter how you build it.<br>
+I do not think Harry was trying to produce it, more that it happened.<br>
+I think it would be quite easy to obtain cyclically a great deal more than 3 degrees if that is what I wanted to do.<br>
+Incidentally Norman Dean claimed a phase shift of 45 degrees for his device when questioned but refused to divulge how he did it or why he did it.<br>
+I think this is possible if deliberately designed that way.<br>
+This is one large differential just dying to be converted.<br>
+In essence Norman Dean was using a modified form of rotary bowl feeder or Buehler drive as it is known in industry.<br>
+However there is no doubt that any kind of rotational phase shift suitably manipulated could produce a measurable amount of inertial thrust.<br>
+This is not my bag as I am still into rotating discs but I will retain an open mind.<br>
+Regards <br>
+Sandy<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>RS</b> - 13/02/2013 18:13:36
+</td></tr><tr><td>&nbsp;</td><td>thisisthesystem and Nitro, sorry to break it to you thisisthesystem, but the first videos you pointed out are the SAA (Spider Arm Actuator) built by David Eugene Cowlishaw, a personal friend of mine. It never worked. His most recent device was called the SHARRMIA and it too did not work. <br>
+<br>
+The ONLY way to create inertial propulsion is to break up the cycles into 90 degree angles. <br>
+<br>
+It is NOT about the 180 degree imbalance! That is the "blind alley" that Doctor Mike Marsden has been warning against for years. Everyone falls into it. <br>
+<br>
+Nitro, sorry to break it to you, but the video is real. I know his son Adrian Grey Marsden and he personally took the video of it floating so it is not a fake. It DID levitate. I have seen other still photographs of it floating as well. <br>
+<br>
+He was actually mad that his son posted the video in the first place. His son did so without his permission. <br>
+<br>
+I know it looks grainy, backlit, and just outright shady and like a fraud, but it is not. It is the real deal. This machine actually created MORE THAN 32 pounds of linear thrust and lifted itself completely off of the ground and totally defied gravity. <br>
+<br>
+Dr. Marsden is the only person who has ever truly built a fully operational and working inertial propulsion machine. Why do you think he is so secretive? I would be too if I were him.<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 14/02/2013 19:12:59
+</td></tr><tr><td>&nbsp;</td><td><br>
+http://www.youtube.com/watch?v=QLKCzQOWVq0<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Nitro</b> - 14/02/2013 21:46:03
+</td></tr><tr><td>&nbsp;</td><td>Glen,<br>
+<br>
+That is very naughty, funny and probably the best way to gat thirty two pounds airbourne.<br>
+<br>
+Kind regards<br>
+NM<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Nitro</b> - 14/02/2013 23:33:57
+</td></tr><tr><td>&nbsp;</td><td>Hi everyone,  <br>
+<br>
+Yes!  I can hear some of you saying WTF now!  <br>
+<br>
+But, if you want to see where the future - perhaps not yours or mine, but our childrens - is gong to come from, please have a look at the link below and try and understand why, though simple, understanding this is so important. <br>
+<br>
+Newton was brilliant (though a bit barmy) and his laws have been shown to be amazingly sound for over three hundred years.  However (you knew there was going to be a however  didnt you?) in more than one area, his laws were incorrect and/or incomplete.  The link, below, to my simple U-tube video shows this.<br>
+<br>
+The genuine scientists and those who have a genuine curiosity in all things will still be here.  The rote repeaters, the fakers, those unable to innovate and the copiers will be leaving/have left.  Bye, Bye guys and girls (are there girl this nerdy?) and thank you for getting this far.  To the rest; I thank you, as will your understanding as soon as it realises that there really were some facts missed by those three laws that will affect the future.  And think of this:- you will be amongst the very few who are starting to grasp this knowledge after a wasted three hundred and twenty six years (since Newtons Principia was published).  You may be able to tell your grand children that I believed that  way, way back before the Rutherford labs or Royal Society even tried to understand it!<br>
+<br>
+Go see the U-tube clip below now  its basic, what else - but it gives a simple demonstration of mass displacement from within that if you have a childs toy, you can check for yourself......<br>
+<br>
+http://www.youtube.com/watch?v=XNHxSYYMd-Q<br>
+<br>
+For those working in the same field (bloody cold out here in the winter, isnt it?) my fast repeater is going to take little time (its a bar steward getting the ratio between weight and strength right. If only Colin Chapman were still with us!) and I know some have struggled to accept what my single shot was showing.  So I am putting this simple demonstration video up, partly to stiffen my resolve to finish the fast repeater and partly to help those who still havent accepted that there is a way round Newtons laws if you have vision, imagination, a piece of string and, of course, a ball valve float.  Hope you like it.<br>
+<br>
+<br>
+Any questions please ask<br>
+kind regards<br>
+Nitro (NM)<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>thisisthesystem</b> - 15/02/2013 00:29:03
+</td></tr><tr><td>&nbsp;</td><td>Good work Nitro this is real science.<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 15/02/2013 00:54:27
+</td></tr><tr><td>&nbsp;</td><td>Hi Nitro,<br>
+<br>
+This is good. I know it is a true representation, because that is what gyroscopes do. The treatment is unique. It is a good way to show the inarguable truth that internal mechanical workings can change the semi-linear direction of motion. This does break the laws.<br>
+<br>
+In addition to your presentation we can add other test to dispel the notion that equal and opposite act in all situations.  All we fanatics perhaps, who understand, certainly to include you, have performed a number of tests to recognize the possibilities!<br>
+Well done. The notion of excellence in my mind comes from reducing the complicated to the simple in mechanics as in as well as equations.<br>
+<br>
+Incidentally I liked you statement, I cannot imagine the amount of desperation that leads to fakery. It is beyond me too.<br>
+<br>
+Take care and thanks for the post.<br>
+Glenn,<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 15/02/2013 00:59:04
+</td></tr><tr><td>&nbsp;</td><td>Hi Sandy! You are always read carefully and taken seriously. Sometimes I think about your and the little I know of your life. It is interesting and so different from most peoples, certainly my own. Thank you too for the good post. I like to read them.<br>
+Best regards, Glenn<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>RS</b> - 15/02/2013 01:52:08
+</td></tr><tr><td>&nbsp;</td><td>You will need to read the work of Walter Russell (The Secret of Light, A New Concept of the Universe, and Atomic Suicide) as well as the work of Milo Wolff and his Space Resonance Theory, also called the Wave Structure of Matter (WSM), to understand how Dr. Mike Marsden's Mac Quan machines work. <br>
+<br>
+Also, read the book "Gravity is a Push". <br>
+<br>
+Physicists have always thought that gravity is a "pull" by the "bending of the fabric of space-time". They are wrong. Gravity is actually a push. It is an invisible flow; that is why two objects of equal "mass" fall at the exact same rate when dropped; not because their mass is "proportional" to the amount of gravity acting on it, that is bogus. <br>
+<br>
+Light does not travel; it is already around you, it IS you. Just like when you feel a "wave" in a lake of water, the individual "particle" of water molecule that someone smacked on the lake did not travel to you, it simply moved the individuals OTHER "particles" of water that were adjacent to it and surround it at 90 degree angles in all directions in an unjulating wave pattern through acceleration and deceleration. The "wave" you feel is just that, a wave, not the water particle that someone smacked on the lake 10 feet away from you. <br>
+<br>
+That is what light is too; it is just a "signal" that eminated from an "energy" source that sent out a "light" signal in all directions that your "senses" perceive as "light". It was ALREADY around you the entire time! <br>
+<br>
+Anyway, I'm sure you all think I'm crazy, but whatever. You all will see in a few years when the Mac Quans are demonstrated and show that physicists were wrong the entire time. <br>
+<br>
+"All direction is curved, all motion is spiral". Walter Russell........<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Harry K.</b> - 15/02/2013 10:51:39
+</td></tr><tr><td>&nbsp;</td><td>Hello RS,<br>
+<br>
+that is why two objects of equal "mass" fall at the exact same rate when dropped;<br>
+<br>
+Just for clarification:<br>
+Also two (or more) objects of unequal mass fall at the exact same rate when dropped.<br>
+<br>
+I guess you are a supporter of the aether theory?<br>
+<br>
+Regards,<br>
+Harry<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 15/02/2013 18:47:14
+</td></tr><tr><td>&nbsp;</td><td>Good Harry,<br>
+Depending on shape, (The feather falls more slowly through the atmosphere than say the theoretical physicists brain would. I speak relating to that brains product that RS has presents here.) In a vacuum as you mean, that brain I have in mind should fall as fast as the feather, though it would seem to be much lighter.<br>
+All my best,<br>
+Glenn<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>RS</b> - 15/02/2013 19:16:46
+</td></tr><tr><td>&nbsp;</td><td>Yes; I meant to say that two objects of UNequal mass fall at the exact same rate. <br>
+<br>
+Yes, I am an adherent to Aether theory. <br>
+<br>
+We think of the "solar system" as rotating around the sun; that is somewhat false. We are only considering the X and Y axis; we are forgetting the Z axis. <br>
+<br>
+The sun is ALSO moving through space, swirling it and creating a torrent like whirlpool that we "planets" are "dragged" by and along with. The solar system is not round, it is conical shaped, like a tornado. Earth is also spinning in this space too, creating what we call the North and South "poles". <br>
+<br>
+That is also why there is a "speed of light". Just like in air, sound waves can only propogate at 768 Miles Per Hour; because that just so happens to be its rate of propogation at sea level and 20 degrees celsius with 328,000 feet of air above us. <br>
+<br>
+"Space", also called "Aether" in my opinion, also has a wave propation limit; however it is MUCH more dense than air. <br>
+<br>
+Space is what fills the void of everything. That is why we have a 3 Dimensional Universe. Space is not an "empty vacuum", it is actually the most dense thing in existence. If space were "empty" then HOW could you see THROUGH it????? <br>
+<br>
+There are also no multiple dimensions. Time is just "quantum change"; that's it, nothing more. Time is just an illusion. Everything is always changing on a microscopic quantum level, which builds upon itself to create the macroscopic world we witness in our lives. <br>
+<br>
+Since space IS the most dense thing, you CAN "swim" in it, if you know how to create a "macroscopic" mechanical "wave" from within yourself that moves ENERGY in ONE direction. <br>
+<br>
+Everything is in motion at all times. Everything is attempting to find "harmony" and "stillness" but never finds it. Everything just equals out. Everything has an equal opposite, a Yin and a Yang. This is what Walter Russell called "Rhythmic Balanced Interchange".<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>RS</b> - 15/02/2013 19:32:33
+</td></tr><tr><td>&nbsp;</td><td>Also, check out another of Doctor Mike Marsden's videos: http://www.youtube.com/watch?v=bQ1MJWiAbTs<br>
+<br>
+He is not some idiot faker. He is not a fraud. Try the demonstration for yourself at home with a compressed air cylinder and a plexiglass tube with the two wings on both sides of the tube at exactly double the diameter of the inner plexiglass tube. The exact same thing will happen as in his video. Try it for yourself. <br>
+<br>
+This is just ONE of MANY of Dr. Marsden's past patents and future yet to be patented ideas. <br>
+<br>
+Have you ever seen him ask for a dime of money from anyone to help fund his Mac Quans? If he was a fraud, wouldn't he be asking for economic assistance from people? <br>
+<br>
+Dr. Marsden is a genius. He is not lying about his machine. It actually does create linear propulsion; something he calls "Mass Transfer".<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 15/02/2013 22:46:40
+</td></tr><tr><td>&nbsp;</td><td>I thought to look into this. I can not find evidence a USBC Research Center of which Marsden clams exist. In fact I not find a listing for a Doctor Mike Marsden. You can find me on your search engine with some of my work, and yet I am really a no-body  basically very average. This man and his research center does not ring a hint of notoriety; less than me in fact. This leads to questing his doctoral and certainly his prestigious sounding research center. There is just no authenticity to substantiate him. <br>
+	<br>
+The visual is deceiving. It is not how it appears to be. I had to triple check the video with stop and go before I understood that there were only two panels parallel with the tube in the center, though he had in fact pointed that out.<br>
+<br>
+What he suggests could be true, but an inventor needs to build something to prove what he claims. He has done virtually no work to support his ideas of extracting water and producing electricity. If it worked, water is needed in dry regions, but in dry regions there is little or no moisture in the air that might be extracted. As for producing electricity from wind, that is already working a million times over the world. I can see his ideas need to be investigated, but he must be presented something; at least some good, actual mechanics and explanations about cause and effect.<br>
+<br>
+As for air and water flow supporting a ball, we have seen that many times since we were children and I have seen a five ton polished granite stone supported by a little spurt of water, while being rotated in every direction by my hand. If you ever go to Gatlinburg Tennessee you can see it too.<br>
+<br>
+There was nothing about the subject of inertial propulsion mention. I take this man kindly under consideration, but with a grain of salt.<br>
+<br>
+The president is probably more excited than I, scratching his chin as we speak and calling a high level meeting of heads of state to find this fellow and extend the Obama Bomb.<br>
+<br>
+Glenn,<br>
+http://www.youtube.com/watch?v=EsUncLCfRJY<br>
+http://www.youtube.com/watch?NR=1&v=qEJ0RDNzZh8&feature=fvwp<br>
+Glenn,<br>
+<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>RS</b> - 16/02/2013 01:07:32
+</td></tr><tr><td>&nbsp;</td><td>At the beginning of the Mac Quan promotional video, when he is getting out of his Lincoln Town Car, you can clearly see the building behind him is called the "Laguna Madre Enterprise Center". This was a local government funded startup that allowed companies to start their own small businesses from scratch in South Texas. I checked them out. He created USCB, United States Classic Billiards. They do not have a website anymore, but they do still build many Billiard Tables (Pool Tables). <br>
+<br>
+It is just a money-making operation for him so that he can do his other side experiments on the side. He also used to own a company in California as well. I also checked the US Patent and Trademark Office and found that he had created two ingenious oil drilling rig sensors back in the early 90's for which he made a lot of money. <br>
+<br>
+He also worked for the Sperry Rand Corporation (Now just called the Sperry Corporation) for decades. I also checked with them and they confirmed it. He did in fact invent an ingenious accelerometer that measures speed instead of velocity (like the Doppler Effect Accelerometer). <br>
+<br>
+He was also a US Marine who dealt with cryptologic cryptography and mathematics back in the 1960's; I checked that and it was confirmed as well. (I am a Veteran of the US Air Force myself). <br>
+<br>
+Believe me, I was just as skeptical as you when I saw the video. It looks totally fake, but I know someone who actually visited one of his warehouses in South Texax (Brownsville, Texas) and he sure has all of the necessary equipment to do whatever he wants. He is the real deal.<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Kurt Gminder</b> - 27/07/2013 10:29:03
+</td></tr><tr><td>&nbsp;</td><td>Massetrgheit+ Gravitation geht durch bewegungseinschrnkung weg. Vergess Schulphysik.<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Kurt Gminder</b> - 27/07/2013 10:33:35
+</td></tr><tr><td>&nbsp;</td><td>Massetrgheit+ Gravitation geht durch bewegungseinschrnkung weg. Vergess Schulphysik.<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>International Space Agency</b> - 13/09/2013 17:57:05
+</td></tr><tr><td>&nbsp;</td><td>The International Space Agency has been working on this technology in secret for 27 years now.  Working systems have been built in secret.  The Germans in WW2 where working on such a system, called the Bell program.<br>
+<br>
+You can find the international Space Agency videos on LinkedIn and Youtube.<br>
+<br>
+The Centrifugal Propulsion System went public Jan of 2013.<br>
+<br>
+Here are links to the ISA, if they are not censored.<br>
+<br>
+http://www.linkedin.com/company/international-space-agency<br>
+<br>
+http://www.linkedin.com/in/internationalspaceagency<br>
+<br>
+https://www.youtube.com/watch?v=0uXs3pSzlsc<br>
+<br>
+https://www.youtube.com/watch?v=r3yEdL-CdGg<br>
+<br>
+https://www.youtube.com/watch?v=tNP5odWvJRk<br>
+<br>
+The reason Centrifucal Propulsion (Closed Loop Propulsion) is being repressed, is their is a secret war on Earth, between the forces of light and evil to gain access to sapce, and indeed gain control of Earth & Humanity.  Chemical Propulsion (Expendable Rockets) has been allowed, because it is a dead end.  Who ever secures the success to Closed loop Propulsion will RULE EARTH! Cant make it any simpler. The Marxist Zionist New World Order wants to take control of Earth with THEIR EVIL World Government.  There Light  above and below, that are working relentlessly to make sure THEY do not get total control of Earth.  The Human Space Endeavor and Cloosed Loop Propulsion is a key element of this.<br>
+<br>
+The Forces of Darkness and Evil will NOT be allowed to have or use this technology.  If they try, they will be destroyed.<br>
+<br>
+"You Don't Want Truth, Because You Can't handle The Truth"<br>
+<br>
+Ad-Astra! To The Stars! In Peace For All Mnkind!<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Blaze</b> - 13/09/2013 22:15:51
+</td></tr><tr><td>&nbsp;</td><td>Very nice animations.  At first glance I would think that the mass of the wheel holding the "weight" and the amount of mass from the "weight" itself would tend to cause a barycenter of the weight and wheel and cancel out at least some of the thrust. <br>
+<br>
+Has an actual working prototype been built that proves thrust is produced?<br>
+<br>
+regards,<br>
+Blaze<br><br></td></tr>
+<tr>
+<td align="center" colspan="2"><a href="answerquestion.asp?id=1293">Add an Answer &#062;&#062;</a></td></tr>
+</table>
+    </td>
+  </tr>
+  </table>
+  
+  <font class="copyright">
+  Website. Copyright &copy; 2014 Glenn Turner. All rights reserved. <a href="/site.asp">site info</a><br>
+     Do not copy without prior permission. Click here for <a target="gyroscopeproducts" href="http://www.gyroscope.com/" alt="Gyroscope products">gyroscope products</a> 
+   
+  </font>
+</center>
+
+</body>
+</html>

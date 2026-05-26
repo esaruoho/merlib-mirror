@@ -1,0 +1,11 @@
+1988a 
+
+ 1988a 
+
+ The following is a paper by H. Aspden published in Hadronic Journal, v. 11, pp. 307-313 (1988).
+
+ INSTANTANEOUS ELECTRODYNAMIC POTENTIAL WITH RETARDED ENERGY TRANSFER 
+
+ Abstract : Relativistic electrodynamics (ED) derivations of the Lorentz force can be questioned if, as for the weak interaction, the hadron-hadron ED interaction differs from the lepton-lepton ED interaction. The argument raised by C. K. Whitney in a recent Hadronic Journal paper is here developed in a radically different way. By deriving the Neumann potential from the Coulomb law, assuming instantaneous action but retarded energy transfer in a zero-point energy background, it is shown that the hadron-hadron ED interaction should be anomalous. This is deemed to be relevant to the experimental issues raised by Whitney. 
+ Commentary : After very many years of effort to decipher how Nature determines the Neumann potential, the author finally resolved the issue and this paper presents the solution. The Neumann potential is the primary action which governs electrodynamic
+interaction force between electric charge in motion and the law of electrodynamics needed to understand gravitation is derived from that potential [1969a]. Accordingly, this paper closes the project which has preoccupied the author for so long. Orthodox teachings based on retarded potential theory has made the subject far too complex mathematically and has failed to give satisfactory solutions. Nature, it seems, has a way of avoiding such complication and, as the reader will by studying the subject paper, the mathematics involved is now so simple as to pose no difficulties for students.

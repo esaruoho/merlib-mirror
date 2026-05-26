@@ -1,0 +1,268 @@
+THERMOELECTRIC SUPERCONDUCTIVITY 
+
+ THERMOELECTRIC SUPERCONDUCTIVITY 
+
+ &copy; Harold Aspden, 1997 
+
+ Research Note 02/97: January 22, 1997 
+
+ I have decided to write this Research Note after reading Issue
+No. 10 of 'Infinite Energy' (September-October, 1996). On pp. 67-69 there is an article by Michael C. Nicolaou which draws attention to the research discovery of Dr. Leonid N. Grigorov, a polymer physicist in Moscow. It concerns the high electrical conductivity of oxidized polypropylene and its prospective use in thermoelectric devices. 
+ My interest arises owing to my involvement in an invention in
+which a polymer film is used as a dielectric in a parallel plate
+capacitor subjected to a thermal gradient. Heat input generates
+current oscillations through the capacitor. Conversely, input of
+current oscillations causes the device to act as a very efficient
+heat pump, which means that the device operates as a refrigeration
+unit. The power rating of such a device for a given weight can be
+increased enormously if that polymer dielectric film is a good
+electrical conductor in a direction lateral to its plane. I
+therefore see great promise in the Grigorov discovery. 
+ This Research Note, however, aims to highlight a few points
+that I wish to share with those who may read this Web page. The first comment concerns Nicolaou's reference to two warm superconductor compositions, both being yttrium, barium copper oxides. These YBCO compositions had the formulae YBa 2 Cu 3 O 9-x and YBa 2 Cu 3 O 7-x , where the terms in brackets represent the number of atoms of the related element in the molecular composition. The expression 7-x denotes a number of atoms slightly smaller than 7.
+
+Now, for some years past, I have been drawing attention to the
+fact that superconductivity is a phenomenon by which heat is
+converted into electricity in a manner contrary to the second law of
+thermodynamics. I have referred to the 'supergraviton', which my
+theory of gravitation has shown to have a mass of 102.18 atomic mass
+units. Resonance involving this mass quantum has a catalytic action
+in the conversion of heat into electricity and this leads to the
+superconductive property. [See my paper: 'The Supergraviton and its Technological Connection' , Spec. Sc. Tech., v. 12, pp. 179-186 (1989)]. Reference [1989a] in these Web pages. 
+ So, let us check whether the above YBCO compositions fit my
+theory.
+
+The atomic masses (carbon 12 scale) are Yttrium: 88.9,
+Barium: 137.34, Copper: 63.54 and Oxygen: 16. So, the
+ YBa 2 Cu 3 
+common component of the two compositions has a mass of 554.2 amu.
+Now add 7 oxygen atoms, summing to 112 amu. The result is 666.2 amu.
+
+I observe that a group combination of two such molecular forms
+has a total mass of 1332.4 amu, which is 13 times 102.49. Now this
+is close enough to 102.18 to assure superconductive resonance at a
+temperature high enough to qualify as a 'warm superconductor',
+especially so if, very marginally, the oxygen component in the
+mixture is reduced (the x factor). The term 'warm' in this
+connection means above 77K, the temperature threshold of liquid
+nitrogen.
+
+What I have found intriguing is the reference in the Nicolaou
+article to a YBCO composition having nine oxygen atoms. Add 32 to
+666.2 and the result 698.2 is not at all compatible with my 102.18
+theory. This causes me to wonder whether those who fabricate these
+warm superconductor compositions are merely forming composites in
+which there are, in fact, different microscopic molecular groupings.
+
+Suppose, for example, that the YBCO composition includes ten
+oxygen atoms. 666.2 plus the 48 amu which allows for three oxygen
+atoms is 714.2, which is 7 times 102.03. That means superconductive
+resonance of one single molecular unit with an even closer value to
+that 102.18 figure.
+
+Now, in forming the YBCO superconductors, may it not be that
+two YBCO units, each comprising 7 oxygen atoms, form in an aggregated
+association with four YBCO units having 10 oxygen atoms. The mean
+composition would have the 9 oxygen atoms, but there would be an even
+better tuning of the superconductive resonance. The four heavier
+molecular units, each of 7 times 102.03, plus the combination of the
+two lighter units at 13 times 102.49, sums to 41 times 102.18, a
+value identical to the ideal theoretical value provided by my theory.
+
+Note that, in the abstract of the above-referenced paper, I
+declared that:
+ "Technological implications are discussed with emphasis on the 'warm' superconductor phenomenon found in perovskite
+compositions having molecular masses that are integral multiples of
+95.18 GeV/c 2 ". 
+ The mass-energy 95.18 GeV converts into amu by a conversion unit familiar to particle physicists. It involves relating the amu to the mass of the electron, their ratio being (1,660,540.2) to (910.939) and then multiplying by the mass-energy of the electron, which is 0.510999 MeV. This is 931.494 MeV and (95.18)/(0.931494) is 102.180. So, my point is that I drew attention to the supergraviton with this value in that paper which I wrote in 1988 and now I read that the progress in developing warm superconductors tends to confirm what I then suggested.
+
+I also note that I am now fairly confident in my belief that,
+as these warm superconductor compositions cool during their process
+of manufacture, there will be cold spots local to molecular groupings
+which suit the supergraviton resonance. This is because the
+phenomenon involves transfer of heat into electrical energy fed to
+sustain electron motion. Obviously if we are dealing here, not with a
+zero resistivity but rather with a negative resistance property owing
+to that regenerative effect, then there will be local current
+oscillations in the material. These will be self-induced microscopic
+eddy-currents in the material, which transfer that heat to the
+regions not conducive to resonance. That means that there could be a
+self-tuning element to the process and the proposition that the YBCO-7 oxygen molecules aggregate with their 10 oxygen counterparts in the
+ratio of 1:2 to give the overall composition with a mean of 9 oxygen
+atoms then makes good sense.
+
+At least, that is the way I see it, and I do believe that the
+New Energy publications such as 'Infinite Energy' are wise to report
+on progress in the warm superconductor field, simply because the
+phenomenon breaks the laws of physics by regenerating electricity
+from heat and doing that with a 100% conversion efficiency.
+
+I may also note that, in analyzing data from the thermoelectric
+energy conversion devices involved in my research with Scott
+Strachan, I could only explain the enormous thermoelectric EMF we
+were getting from nickel-aluminium junctions in terms of the problem
+we had avoided by not allowing cold spots to develop in filamentary
+current flow paths through the cooled Peltier junctions. That is the
+subject of Energy Science Report No. 2 in the series I publish and
+the device first tested is described in U.S. Patent No. 5,288,336.
+As an side comment on this, I will here draw attention to the fact
+that bismuth telluride increases in resistivity with temperature
+decrease. This is contrary to the situation in base metals. It
+means that Peltier cooling prevents cold spots from forming in
+thermocouples using that material and so prevents the setting up
+filamentary paths through points in junctions which would cool
+rapidly to temperatures too close to the lower heat sink temperature.
+In base metal thermocouples such cold spot cooling chokes the
+thermoelectric action, but we avoided that in our research by using
+thin Ni-Al films on a polymer substrate and interrupting the current
+flow at a frequency measured in kHz. You can view such a normal base
+metal thermoelectric device as inherently monostable and in a
+virtually incapacitated state. In contrast, by the technique
+Strachan and I adopted using Ni-Al thermo junctions we contrived to
+make our devices bistable in the conductivity sense. However, after
+a while even our devices tended to become monostable again in a
+magnetic sense and it is only now, after waking up to this
+situation, that steps can be taken to remedy that so that this new
+technology can move ahead.
+
+Now, if you think what I say above about the 102 theme is all
+speculative nonsense, let me ask you a simple question. Suppose a
+substance comprises minute superconductive microcrystal forms
+separated by thin insulating coatings. Might that substance be an
+electrical insulator but yet be a thermal superconductor? My
+question then is: 'Can you name a material that is more thermally
+conductive than copper but yet is a non-conductor electrically?'
+
+Note that the oxidized polypropylene polymer discovered by Dr.
+Grigorov is the exact opposite. It is a thermal insulator with
+superconductive filamentary paths through the layer of film. That is
+why it offers such promise in a Strachan-Aspden thermoelectric power
+converter. It could well prove to be the refrigeration technology of
+the future, besides serving as a solid-state electric power
+generator. For details see my Energy Science Report No. 3.
+
+Let us then consider the 102 factor with reference to oxidized
+polypropylene. Its molecular formula is that of a chain of n units
+of the molecule C 3 H 6 O, namely n times 3x12+6+16 or n times 58. Put n as 7 and the result is 406 amu or 4 times 101.5. This is close enough for superconductive resonance. It could be closer if the polymer chain is broken into finite lengths with the valency bond that would otherwise link the ends of the molecules being occupied by a hydrogen
+atom. Add 2 amu to the 7 molecules in the molecular group forming
+each chain unit and you get 408, which is 4 times 102. Allow then
+for the fact that hydrogen has an atomic weight of 1.008 and that
+there are really then 44 hydrogen atoms in that molecular group. You
+will see that this converts that 408 value into 408.35, which is 4
+times 102.09.
+
+Then wonder why, as I believe is the case, the superconductive
+property of oxidized polypropylene involves tiny filaments of
+superconductive paths through the thickness of the film but not bulk
+superconductivity. Can it be that one in two such groups has
+nucleated one deuterium atom upon cooling rather than a basic
+hydrogen atom? That would add 0.5 amu to the 408.35 to give 408.85,
+which is 4 times 102.21. The 1 in 6,000 or so deuterium atoms per
+normal hydrogen atom expected from isotope abundance data would imply
+that the 1 in 88 concentration needed to support this latter proposal
+arises from the cooling effect of filamentary currents through the
+substance as it is fabricated. The property tends to be 'frozen in'
+along filamentary channels which form where there is the excess
+deuterium presence.
+
+Now, maybe I am going too far with these thoughts, but surely,
+if that oxidized polypropylene composition really is a warm
+superconductor at room temperature and well above, then something of
+a self-tuning nature has to explain the phenomenon. I can only say
+that I find satisfaction in the theoretical results I am obtaining
+and my excitement is enhanced all the more because it all points to
+my supergraviton theory and the underlying theory of gravitation
+being well founded.
+
+I see also that the Nicolaou article mentions the composition
+SrTiO 3 as a high temperature superconductor. Strontium: 87.62 and titanium: 47.9, together with three oxygen: 16 atoms gives a mass of
+183.52. A group of five such molecules sums to 917.6 amu, which is 9
+times 101.96, another rather close value for superconductive
+resonance which can be 'tuned' further by preferential merger of the
+predominant isotope of strontium.
+
+However, let us come back to that question I posed above. One
+material I have in mind is synthetic sapphire. It was drawn to my
+attention recently by Willard D. Nelson of Olympia, Washington State,
+USA. I traced record of this substance in reference data at my local
+university library and found that, in its single crystal form, it
+exhibits an enormously high thermal conductivity, peaking, according
+to temperature, at around 150 watts per sq. cm per degree per cm of
+temperature gradient, albeit in the 25K region. Its molecular
+composition is Al 2 O 3 , which is a unit mass of 2x27+3x16 or 102 amu! Surely then one must begin to wonder whether this substance might eventually be processed in such a way as also to become a high temperature electrical conductor which could rival those known at
+present. Maybe minute crystals embedded in a metal would assure the
+electrical superconductivity.
+
+For my part, as I am now compiling the report on thermoelectric power conversion, I can but be optimistic at the prospects ahead for combining thermoelectric technology with superconductivity. The article by Nicolaou provides a very promising introduction.
+
+To now conclude this Research Note I mention a reference to a paper by A. J. Bradley, H. J. Goldschmidt and H. Lipson [J. Inst. Metals, v. 63, p. 149-161 (1938)] also drawn to my attention by Willard D. Nelson in a communication dated November 18, 1996. It describes the crystal structures which can be formed by alloys of copper and aluminium. I was surprised to see mention of several specific compositions in that paper, especially as so many atoms were involved in their formulae. They were the compositions Cu 30 Al 20 , Cu 32 Al 19 ,
+Cu 9 Al 4 and Cu 17 Al 9 . The cubic structure was emphasized. The range of composition bounded by the two latter formulae were said to form such a cubic structure.
+
+When I read this, thinking that an alloy of copper and aluminium ought to be a good conductor of both heat and electricity, I was intrigued by that precise formulation of the alloy mixture. Why Cu 30 Al 20 and not Cu 3 Al 2 ? My thoughts then raced ahead to the analogy with that 7 molecule grouping I have just discussed in connection with oxidized polypropylene. Three Cu:63.54 atoms plus two Al: 26.98 atoms sums to 244.58 amu, which is not a multiple of my 102 figure. However, scale the composition up by a factor of 5 or 10 and you find the resulting combination is an integer multiple of
+101.91. Here again, if supercooling owing to negative resistance effects of that resonant phenomenon is at work as these alloys crystallize, then that may explain some of the mystery I feel is aroused by this 1938 paper.
+
+When I look at the other compositions mentioned, taking Cu 32 Al 19 first, this has an overall composition having a mass that is an integer multiple of 101.84 amu, whereas Cu 17 Al 9 has a mass that is an integer multiple of 101.77 amu. I have therefore been left wondering whether or not there is something special about the electrical conductivity of these copper
+aluminium alloys.
+
+There is much I still have to say about the 102 factor and the
+supergraviton in the main Web pages that I shall be presenting in due
+course, and especially concerning its role in magnet compositions.
+Meanwhile, however, I do hope this Note will arouse some interest
+amongst those who theorize about superconductivity. I reiterate that
+my real goal is to command attention for my theory of gravitation and
+I can assure readers who are deeply immersed in high energy
+theoretical particle physics that the supergraviton has an
+interesting connection with the neutral Z boson that features in
+their deliberations. Finally, may I say that I intend this to serve
+also as providing some feedback to Willard Nelson for his kindness in
+sending me the alloy information referenced above.
+
+ A Footnote on the Superconductive Rocket Fuel 
+
+ As a footnote to this Research Note 01/97, it is appropriate to
+mention a news item which appeared in THE TIMES (London, England) on
+December 16, 1996. It was a Science Briefing report by Nigel Hawkes
+and the subject was the discovery of a possible room temperature
+superconductor. I quote: 'The material involved is lithium beryllium
+hydride LiBeH 3 , better known as a potential rocket fuel. ... The (French) team, which includes researchers from the National Institute of Applied Science in Lyons, the Atomic Energy Commission in Paris and the National Centre of Scientific Research in Meudon, have found magnetic anomalies suggestive of superconductivity. At roughly room temperature (25C) the powdered hydride exhibited an unusual
+effect...This effect is also seen in copper oxide-based
+superconductors.' 
+ Again, upon reading this and applying my 102 test, I saw scope
+for the following interpretation. Lithium has a valency of 3 and
+beryllium a valency of 2, with hydrogen having a valency of 1. If
+the Li bonds to Be, this leaves three valency bonds taken up by the
+three H atoms. Now, suppose the chain filaments mentioned above can
+form in this material by the hydride composition shedding two of the
+H atoms. Hydrides can release hydrogen, just as they form by its
+adsorption, so this is a feasible proposal, given then that the LiBeH
+residue has free valency bonds that can link up to connect these
+molecular forms in a long filamentary chain. Our 'resonant' mass is
+then n times the 7+9+1 amu of each LiBeH component. We then see that
+this can be 102 with n an integer. 
+ Go further and seek to be more precise, given that room
+temperature superconductivity is in prospect. The H atom is
+virtually a single isotope species with a mass of 1.008 amu, the Be
+atom is a single isotope species with a mass of 9.012 amu and lithium
+has a 92% preponderance of the isotope of 7.016 amu. Assume that the
+cooling during fabrication of the material freezes the filamentary
+paths through chains of LiBeH comprising this heavier isotope of Li
+exclusively. Then work out the result to find that the resonant mass
+involved is n times 17.036 amu, so that, with n equal to 6, it
+becomes 102.216. That is very close to the supergraviton mass of
+102.18 amu. 
+ I hope, in the light of this, that you will agree this footnote
+was worth adding to the above text. What with oxidized polypropylene
+needing 7 elements in a chain and now this lithium-beryllium-hydrogen
+substance needing 6 elements in a chain, and both promising to be
+room temperature superconductors, some readers may see this as a
+somewhat arbitrary choice of numbers and regard it as mere indulgence
+in number-play, rather than being true physics. In response, I say
+that much of the research effort of physicists is indulgence as they
+gamble with public money and, as with that money and its dollar
+figures, if the numbers begin to tell you something, it pays to be
+attentive, especially when all that emerges are scientific papers
+full of mathematical symbols of little or no significance. I add
+that none of my research in these curious features of superconductors
+has been funded by anyone except my good self. 
+
+ *

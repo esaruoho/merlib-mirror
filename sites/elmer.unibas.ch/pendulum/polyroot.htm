@@ -1,0 +1,226 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 3.2//EN">
+<HTML>
+
+<HEAD>
+	<META NAME="GENERATOR" Content="Visual Page 1.0 for Windows">
+	<META HTTP-EQUIV="Content-Type" CONTENT="text/html;CHARSET=iso-8859-1">
+	<TITLE>The roots of a polynomial</TITLE>
+</HEAD>
+
+<BODY TEXT="#000000" BGCOLOR="#FFFFB0" LINK="#0000FF" VLINK="#0000FF" ALINK="#FF0000">
+
+<P>
+<H1 ALIGN="CENTER">The roots of a polynomial</H1>
+<P>This is a Java applet which calculates the roots of the polynomial <BR><br>
+<center><nobr><I>x</I><SUP>n</SUP> + <I>a</I><SUB>n-1</SUB><I>x</I><SUP>n-1</SUP> + ... + <I>a</I><SUB>1</SUB><I>x</I>
++ <I>a</I><SUB>0</SUB> = 0.</nobr></center><br>
+On the left hand side there are control panels where you can change the
+order of the polynomial and its coefficients. Just manipulate the scrollbar or
+enter a number into the number field. The result is show graphically in the
+complex number plane (<i>x</i>-axis is the real part, <i>y</i>-axis is the
+imaginary part). On the right-hand side the numerical result is shown. Note
+that the sign of the real part decides the color code.
+Below the roots the Hurwitz determinants are
+shown. Their color code is determined by their sign.
+They are needed for the <a href="#RH">Routh-Hurwitz theorem</a>.
+
+<p><CENTER>
+<APPLET CODE="PolyRootsApplet.class"  archive="plab.jar" WIDTH="700" HEIGHT="400" ALIGN="BOTTOM">
+<table border=2>
+<tr>Sorry, you need a browser which is capable to execute Java applets.
+This message also appears for browsers knowing Java but
+where the Java option is switch off.
+</tr>
+</table>
+
+</APPLET>
+</CENTER></p>
+
+<p><center>
+<table bgcolor=#c0ffff border=0>
+<th> Fun with the applet</th>
+<tr><td>Here are nice games you can play:<br>
+<ul><li>Try to get all roots onto the left side of the imaginary axis (i.e.,
+the vertical line).
+</li>
+<li>Try to get all roots on the horizontal line.</li>
+</ul>
+The difficulty of these games increases with the order of the polynomial.
+</td></tr></table></center>
+</p>
+
+<a name="RH"></a>
+<center><h1>The Routh-Hurwitz theorem</h1></center>
+
+<P>Calculating analytically the roots of a polynomial of order higher than two
+is very cumbersome and in general impossible if the order is
+larger than five. But often you do not need the roots of a polynomial explicitely.
+For example, when you do <a href="bif.htm#stab">stability analysis</a> for a fixed point in a (nonlinear)
+dynamical system you get a characteristic polynomial for
+the eigenvalues of the Jacobian. To answer the question on stability you
+don't need the eigenvalues. You only want to know whether all eigenvalues have
+negative real parts or not. And here comes the neat
+<i>theorem of Routh and Hurwitz</i>
+which helps you a lot. It says:<br><br>
+<i>The real part of all roots of the polynomial<BR><br>
+<center><nobr><I>x</I><SUP>n</SUP> + <I>a</I><SUB>n-1</SUB><I>x</I><SUP>n-1</SUP> + ... + <I>a</I><SUB>1</SUB><I>x</I>
++ <I>a</I><SUB>0</SUB> = 0</nobr></center><br>
+<i>are negative if and only if all
+upper-left determinants of the matrix<BR><br>
+<CENTER>
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#FFD0FF">
+	<TR>
+		<TD>
+			<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#EF90FF">
+				<TR>
+					<TD>
+						<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#DF60FF">
+							<TR>
+								<TD WIDTH="50" HEIGHT="30">
+									<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" BGCOLOR="#CF30FF">
+										<TR>
+											<TD WIDTH="50" HEIGHT="30" ALIGN="CENTER">
+												<P ALIGN="CENTER"><I>a</I><SUB>n-1</SUB>
+											</TD>
+										</TR>
+									</TABLE>
+								</TD>
+								<TD WIDTH="50" HEIGHT="30" ALIGN="CENTER">
+									<P ALIGN="CENTER">1
+								</TD>
+							</TR>
+							<TR>
+								<TD WIDTH="50" HEIGHT="30" ALIGN="CENTER">
+									<P ALIGN="CENTER"><I>a</I><SUB>n-3</SUB>
+								</TD>
+								<TD WIDTH="50" HEIGHT="30" ALIGN="CENTER">
+									<P ALIGN="CENTER"><I>a</I><SUB>n-2</SUB>
+								</TD>
+							</TR>
+						</TABLE>
+					</TD>
+					<TD WIDTH="50">
+						<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0">
+							<TR>
+								<TD WIDTH="50" HEIGHT="30" ALIGN="CENTER">
+									<P ALIGN="CENTER">0
+								</TD>
+							</TR>
+							<TR>
+								<TD WIDTH="50" HEIGHT="30" ALIGN="CENTER">
+									<P ALIGN="CENTER"><I>a</I><SUB>n-1</SUB>
+								</TD>
+							</TR>
+						</TABLE>
+					</TD>
+				</TR>
+				<TR>
+					<TD HEIGHT="30">
+						<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0">
+							<TR>
+								<TD WIDTH="50" HEIGHT="30" ALIGN="CENTER">
+									<P ALIGN="CENTER"><I>a</I><SUB>n-5</SUB>
+								</TD>
+								<TD WIDTH="50" HEIGHT="30" ALIGN="CENTER">
+									<P ALIGN="CENTER"><I>a</I><SUB>n-4</SUB>
+								</TD>
+							</TR>
+						</TABLE>
+					</TD>
+					<TD WIDTH="50" HEIGHT="30" ALIGN="CENTER">
+						<P ALIGN="CENTER"><I>a</I><SUB>n-3</SUB>
+					</TD>
+				</TR>
+			</TABLE>
+		</TD>
+		<TD>
+			<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0">
+				<TR>
+					<TD WIDTH="50" HEIGHT="30" ALIGN="CENTER">
+						<P ALIGN="CENTER">...
+					</TD>
+					<TD WIDTH="50" HEIGHT="30" ALIGN="CENTER">
+						<P ALIGN="CENTER">0
+					</TD>
+				</TR>
+				<TR>
+					<TD WIDTH="50" HEIGHT="30" ALIGN="CENTER">
+						<P ALIGN="CENTER">...
+					</TD>
+					<TD WIDTH="50" HEIGHT="30" ALIGN="CENTER">
+						<P ALIGN="CENTER">0
+					</TD>
+				</TR>
+				<TR>
+					<TD WIDTH="50" HEIGHT="30" ALIGN="CENTER">
+						<P ALIGN="CENTER">...
+					</TD>
+					<TD WIDTH="50" HEIGHT="30" ALIGN="CENTER">
+						<P ALIGN="CENTER">0
+					</TD>
+				</TR>
+			</TABLE>
+		</TD>
+	</TR>
+	<TR>
+		<TD>
+			<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0">
+				<TR>
+					<TD WIDTH="50" HEIGHT="30" ALIGN="CENTER">
+						<P ALIGN="CENTER">:
+					</TD>
+					<TD WIDTH="50" HEIGHT="30" ALIGN="CENTER">
+						<P ALIGN="CENTER">:
+					</TD>
+					<TD WIDTH="50" HEIGHT="30" ALIGN="CENTER">
+						<P ALIGN="CENTER">:
+					</TD>
+				</TR>
+				<TR>
+					<TD WIDTH="50" HEIGHT="30" ALIGN="CENTER">
+						<P ALIGN="CENTER"><I>a</I><SUB>-n+1</SUB>
+					</TD>
+					<TD WIDTH="50" HEIGHT="30" ALIGN="CENTER">
+						<P ALIGN="CENTER"><I>a</I><SUB>-n+2</SUB>
+					</TD>
+					<TD WIDTH="50" HEIGHT="30" ALIGN="CENTER">
+						<P ALIGN="CENTER"><I>a</I><SUB>-n+3</SUB>
+					</TD>
+				</TR>
+			</TABLE>
+		</TD>
+		<TD>
+			<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0">
+				<TR>
+					<TD WIDTH="50" HEIGHT="30" ALIGN="CENTER"></TD>
+					<TD WIDTH="50" HEIGHT="30" ALIGN="CENTER">
+						<P ALIGN="CENTER">:
+					</TD>
+				</TR>
+				<TR>
+					<TD WIDTH="50" HEIGHT="30" ALIGN="CENTER">
+						<P ALIGN="CENTER">...
+					</TD>
+					<TD WIDTH="50" HEIGHT="30" ALIGN="CENTER">
+						<P ALIGN="CENTER"><I>a</I><SUB>0</SUB>
+					</TD>
+				</TR>
+			</TABLE>
+		</TD>
+	</TR>
+</TABLE>
+</CENTER>
+<BR>
+with <I>a</I><SUB>m</SUB>=0 for m&lt;0, are positive.</i>
+</P>
+
+<HR ALIGN="CENTER" NOSHADE>
+<a href="../index.html"><IMG SRC="../HausPapS.gif" BORDER=2 HEIGHT=38 WIDTH=69
+                      ALT="Home" align=middle hspace=10></a>
+<font face="Helvetica">Back to my home page</font><br><br>
+<nobr>
+<ADDRESS>&copy; 1998 <a href="http://www.elmer.unibas.ch">Franz-Josef Elmer</a>, <IMG SRC="envelope.gif" WIDTH="20" HEIGHT="10" ALIGN="BOTTOM" BORDER="0">
+&nbsp;Franz-Josef doht Elmer aht unibas doht ch,last modified Thursday, July 16, 1998.
+</BODY>
+
+</HTML>

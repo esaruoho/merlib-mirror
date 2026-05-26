@@ -1,0 +1,76 @@
+THE POINTLESS ELECTRON 
+
+ THE POINTLESS ELECTRON 
+
+ &copy; Harold Aspden, 1997 
+
+ Research Note: 09/97: April 24, 1977 
+
+ About the title : The word 'pointless' can be used in two senses. It can be used to say that something has a form which expands somewhat from a point. Thus the extremity of a
+pencil or tool can become blunted and so lose its pointed form. It can also be used as a way of saying that something is meaningless. So far as the electron is concerned, theoretical physicists have tended to believe that it exists at a point and has no body or form. To me, that is a meaningless concept, and so I say that the point electron is pointless, but my 'point' in writing this Research Note is that the electron really does have a body form. This play on
+words may seem a ridiculous way of opening a discussion on a genuine proposition in science, but ridicule seems appropriate and that, sadly, is the state of the art at this time. 
+
+On page 7 of the 'Interface' section of THE TIMES (London, April 23, 1997) there is an article entitled 'The heart of the matter' , authored by Chris Partridge. It relates to a new discovery
+concerning the electron. The insert caption reads: 'This may force a rethink on electrons' and the text concludes by quoting the scientist Dr. Ken Long, 'one of the discoverers of the new sub-electronic particles', as saying "This might solve problems with the electron, such as the fact that it appears to have mass but no volume." Dr. Long is at the Imperial College, London. 
+
+Now, I am writing this Research Note on April 26th, 1997 and it was on April 11th that someone in France, Jean Chevalier, who had purchased items of my published work sent me a curious message asking for my opinion about a report in New Scientist of March 1, 1997.
+The report was entitled 'May the fifth force be with us? He wrote: "You certainly should know about this discovery. What should we think?" 
+
+I want, by this Web page text to reply more fully to Jean Chevalier, now that I see a connection with the above-mentioned report by Chris Partridge. I also want to share a few thoughts with others who may be struggling to sustain interest in these new particle discoveries, but yet cannot make much sense of the journalistic commentaries which try to keep us informed. 
+
+The 'Interface' article is more informative and it attributes to Dr. Long a new discovery involving the electron. What, we may wonder, is that discovery? It says that ever since J.J. Thomson discovered the electron:
+ "physicists have puzzled over its exact nature, as it appears to have charge and mass but no volume. But it has always been assumed that it is a fundamental particle, not made up of smaller particles." 
+Well, in fact, it is not true to say that physicists have struggled to connect electron mass with its charge and form. J. J. Thomson lived for 43 years after discovering that electron and, so far as I know, he had not abandoned his own interpretation of the electron as a sphere of charge having a finite radius of some 1.88 millionth of a trillionth of a metre, that is 1.88x10 -13 cm. Indeed,
+though particle physicists who try to understand the electron's properties cannot decide how to measure the electron's exact radius, they conceded a relationship of some kind when they adopted the recommended values of physical constants, which include the 'classical electron radius' of 2.817 94092(38)x10 -13 cm. Here I am quoting from a 1986 listing published in U.K. by the Royal Society jointly with the Institute of Physics and the Royal
+Society of Chemistry. Thomson's electron has a radius that is two-thirds of this arbitrary notional value. 
+
+Now, there is more than one way of justifying Thomson's electron radius, one being the association of the electron's kinetic energy with the measure of magnetic field energy added as a function of speed. This was, I believe, Thomson's own way of calculating the link between electron mass, charge radius and energy. The alternative method which I prefer is simply that of calculating the electric field energy of the electron as seated outside its
+spherical body form and then adding the additional one third which applies if the electric field energy density inside it is uniform and equal to that applicable at its surface boundary. That implies that the body of the electron has a uniform pressure internally. 
+
+Whether or not you, the reader, like this way of explaining something in modern physics, you will find, if you study my writings on the subject, that J. J. Thomson's electron radius formula has far more to offer in connection with a unified field theory than you can find in the point-electron notions which pervade quantum electrodynamic theory. But now, it seems that the contest as to who is right might be settled by experiment, given that the electron has something to tell us about its charge volume. 
+
+My book Physics Unified' offers a full and readable account on the subject and shows how the constant of gravitation can be deduced in terms of the volume of electrified space displaced by the gravitons which mimic the form of the electron on a much smaller volume scale. You need little more than a high school or undergraduate level of knowledge of physics to follow the analysis, but if you want to avoid mathematics completely and still understand the electron and its gravitational association then you need to read my book 'Modern Aether Science' . 
+
+That said, I ask you to consider other statements in the article about Dr. Long. The core of the news item is contained in the words: "Now research by an international team of physicists at the HERA particle accelerator in Hamburg, including many from the U.K., have been firing electrons at protons at high speeds with results that suggest the electron may consist of smaller particles. If they are correct, some of the ideas about the structure of matter may have to be rethought." The accelerator "propels bunches of electrons in one direction and protons in the other, banks of detectors monitoring what comes out. The recent experiments
+looked at what happens when an electron hits a proton in exactly the right spot to knock one of its three quarks out." There is, it seems, an anomaly because, says Dr. Long,:
+
+"We have been seeing more particles coming out than we expected...If the effect is real, it could force a rethink on the electron. It has always been thought that the electron is a fundamental particle, but we believe it consists of smaller particles which some people are already calling preons." 
+
+This is, of course, all very curious. Physicists will go into the wildest of dreams when they cannot get the energy books and particle numbers to balance and then invent notional particles which may no true existence, unless one believes in ghosts. The classical such
+assumption concerns the neutrino, which has energy but no mass and no electric charge. Now the electron which supposedly has no volume, but has energy and mass as well as charge, has to be given some body form and, for some wild reason connected with more particles being generated by a high energy collision, that involves a new invention, the 'preon'. 
+
+Where, I wondered as I read the 'Interface' article, is the statement that scientists have reason for discounting the prospect that surplus energy from the collision can actually create particles and their anti-particle forms from nothing, as it were, apart from that energy? After all, quantum electrodynamics tells us that electrons and positrons can appear like magic from the vacuum, given the right energy conditions. Or is it not just the question of the excess of
+numbers of particles that are appearing, but their individual particle mass value being found to be much smaller than that of an electron? The article tells us nothing about the estimated mass of those preons. 
+
+So, we must wait and see, but for the impatient who seeks to know more about the prospect of a sub-electron form being a denizen of the aether that fills space I draw attention to my [1987f] paper entitled 'The Case for the Sub-Electron' , as recently republished in these Web pages. See the Appendix to Lecture No. 1. 
+
+At this point it is appropriate to refer to the other article, the one in New Scientist. Its inset caption reads: 'If it is true, this discovery could be on a par with that of the electron or DNA'.
+However, the opening words of the article do not refer to anything so small that it could be part of an electron. The text opens by saying: 'An exotic heavy particle may have made its debut at a particle accelerator in Hamburg. Researchers say it could mark the birth of an entirely new physics...' 
+That, however, is about all the article has to tell us other than the fact that this has been named a 'leptoquark'. It goes on then to say that:
+ "The leptoquark is a bizarre object that we don't understand completely." 
+That, in my opinion, is itself a bizarre statement, given that physicists seem not to understand how Nature creates the electron or the proton, even to this day. 
+
+So, given that these two articles seem to relate to the same discovery, brought about by head-on collisions between electrons and protons, what, one may ask has been discovered? Heavy exotic particles or minute exotic particles? The aether, by the way, can intermediate in a dual energy threshold activity, revealing its presence in its response to cosmic radiation. 
+
+To understand this statement, the reader needs to refer to the concluding pages 159-160 of my book 'Modern Aether Science' . There was a time when physicists studied, indeed discovered or rather caught a glimpse of, the 'exotic' particle by examining cosmic radiation. There was a short paragraph on page 160 of 'Modern Aether Science' that is very apt:
+ "It
+must be remembered that when we look up into space we are not just looking at the stars, but are also looking into the aether. If we see things which are difficult to explain in terms of the phenomena we associate with ordinary matter then perhaps we should take note of the aether and develop our understanding of aether science." 
+
+That paragraph followed a quotation from the February 11, 1970 issue of 'New Scientist and Science Journal', an earlier transitory name for the 'New Scientist' of today. We go back here some 27 years, and 25 years to my book 'Modern Aether Science' . (Just a few copies now left for sale). The quotation reads: "The main stumbling block to progress is the shape of the X-ray spectrum. This has a curious discontinuity at 20-40 keV, usually termed the kink
+or break; it corresponds to a break at 2-5 GeV in the parent electron spectrum, which is itself hard to explain." 
+
+So now, in 1997, we are told that high energy collisions involving electrons and protons, respectively of rest-mass energies 511 keV and 0.938 GeV, are creating mysterious particles, both below the lower and above the higher of these energies. It was on page 159
+of my book that I stressed the point that my theory said that, in order to explain gravitation and Planck's action quantum, G and h, both in qualitative physical terms and quantitatively, in perfect accord with measured values, the aether had to include in its composition a sub-electron form of energy 20.9 keV and a graviton form of energy 2.58 GeV. Then came the words:
+ "Such particles, as ingredients of the unseen aether, have never been detected directly, but if the aether contains particles of these dimensions what would be their consequence to electromagnetic wave propagation? Might they not affect frequencies
+corresponding to their annihilation or creation?" 
+
+J. J. Thomson discovered the electron and gave good theoretical reasons to show that it had a finite form. That was at a time when scientists did not question belief in the aether, the only problem being that of understanding some anomalies concerning how electromagnetic radiation is affected by reflection in moving mirrors. Once Einstein came along and told the world that everything is an optical illusion and Dirac interpreted some equations concerning the electron, working under the influence of a shadow cast by Einstein, then we lost sight of our aether. With no such foundation on which now to stand as we try to interpret Nature's
+mysteries we (meaning scientists in general) have lost our way. We do not need to 'rethink' the electron but there is need to rethink the Einstein-Dirac picture. So, Chris Partridge and Ken Long, please do not tell me that there was need to puzzle over the problem of an
+imaginary electron which has charge and mass but no volume. 
+
+Needless to say, I would be delighted if the eventual measurements come close to those values just stated, but Nature is full of surprises and we must wait and see. In the meantime, as I proceed in writing these Web pages, it seems appropriate to discuss the recognized weaknesses of Quantum Field Theory, which is closely concerned with the properties of the electron. Also, there will be more reference to gravitons and their technological implications
+as more is added soon to these Web pages. 
+
+In conclusion, I record my appreciation to Jean Chevalier, who stirred me into commenting on a subject which gets itself linked to 'a fifth force' and a 'sub-electron' or, rather, a 'leptoquark' and a 'preon'. 
+
+For information on the availability of my books 'Modern Aether Science' and 'Physics Unified' see the listing in the 'Books and Reports' section of these Web pages.

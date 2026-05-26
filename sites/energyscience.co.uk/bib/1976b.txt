@@ -1,0 +1,10 @@
+1976b 
+
+ 1976b 
+
+ The following is a paper by H. Aspden published in International Journal of Theoretical Physics, v. 15, pp. 631-633 (1976).
+
+ INERTIA OF A NON-RADIATING PARTICLE 
+
+ Abstract : A solution of the Abraham-Lorentz equation of motion for a radiating particle is found to have non-runaway form if its mass components are subject to non-uniform acceleration. By supposing that the energy radiated is absorbed by the particle's own field, inertia is found as a resulting property and the relation E = Mc 2 follows as a consequence.
+ Commentary : The author had, many years previously, justified the basis for inertia as being the self-preservation property of electric charge in refusing to radiate energy owing to the influence of an external electric field. Explaining the nature of inertia has been a long-standing challenge confronting the physicist and there have been some rather way-out ideas, such as the Mach Principle. The latter implies that the whole universe is involved in determining the inertial reaction of each and every minute particle of matter. Yet, in fact, the action if merely an energy conserving response of a charged particle when subjected to an external electric field. To assure that energy is not radiated the accelerated particle has to exhibit a mass property related to the energy that it does possess. The equation relating energy and mass is a consequence of this circumstance and not the consequence of Einstein's deliberations! This paper merely underlines the author's point on this subject, but it offers nothing new over what the author had proposed earlier [1958a]. The case is dealt with fully in the 1969 text of 'Physics without Einstein' and in still more detail in the 1980 work 'Physics Unified' . The subject paper had, however, no impact on the scientific community which had already abandoned all thought of explaining the energy-mass relationship by anything other than subservience to Einstein's philosophy.

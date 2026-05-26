@@ -1,0 +1,59 @@
+A tengervíz lehet a megoldás az elektromos autók számára? 
+
+ 3 weeks ago 
+
+ A tengervíz lehet a megoldás az elektromos autók számára? 
+
+ Kutatók egy új eljárással próbálnak szinte végtelen mennyiségű lítiumot nyerni. 
+
+ Az elektromos autók egyre növekvő piaca az elmúlt években jelentősen megnövelte a lítium iránti keresletet, amely elemzők szerint a következő évek során akár a háromszorosára is duzzadhat. Azonban az újratölthető akkumulátorok egyik legfontosabb alapanyagából végesek a készletek. Úgy tűnik, a kutatók egy csoportjának talán mégis sikerült egy szinte kimeríthetetlen lítiumforrásra bukkanniuk: egy új eljárással egyenesen a tengervízből nyernék ki a könnyűfémet. 
+
+ Éves szinten körülbelül 160 ezer tonna lítiumot használnak világszerte akkumulátorok és egyéb lítiumot tartalmazó termékek előállításához. Ez a szám elenyésző a természetben fellelhető mennyiséghez képest. Becslések szerint ugyanis mintegy 180 milliárd tonnányi részecske található a Föld sós vizeiben. A világon kitermelt lítiumot jelen pillanatban Argentína, Ausztrália, Chile és Kína szolgáltatja . Ezekben az országokban az értékes ásványi anyagot elsősorban bányásszák, vagy Dél-Amerikában sós tavakból nyerik ki a lítiumot. 
+
+ Az egyik legnagyobb problémát az jelenti, hogy a lítium kinyerésének jelenlegi módja lassú és távolról sem nevezhető hatékonynak. A folyamat hónapokig tart és a rendelkezésre álló lítium mindössze 30%-át tudják így hasznosítani. Ennek köszönhetően a jelenlegi készletek eléggé szűkösek, ami a közeljövőben akár komoly problémákhoz is vezethet. Legfőképpen az autóiparban éreztetné a hatását, és komoly fennakadásokat okozna. Ugyanis az egyre szigorúbb kibocsátási normáknak köszönhetően a gyártók egyre inkább az elektromos hajtásra kezdik összpontosítani energiáikat. Egyre több az elektromos támogatással szerelt hibrid, vagy teljesen elektromos modell a kínálatban. Szóval egyértelmű, hogy új megoldást kell találni az akkumulátor technológia egyre égetőbb problémájára. Mégpedig gyorsan. 
+
+ Kutatók már évek óta próbálják az akksikban lévő lítiumot más, nagyobb mennyiségben megtalálható elemekkel helyettesíteni, mint például hidrogénnel, vagy nátriummal. Ezek a kísérletek azonban egyelőre nem hoztak áttörő sikert. Így a probléma továbbra is megoldásra vár. Kézenfekvőnek tűnik tehát, hogy más anyagok helyett, a meglévőből kellene nagyobb mennyiség. És itt érkezünk el a tengervízhez. A Stanford egyetem kutatója, Yi Cui és csapata azonban úgy tűnik, megoldást talált a problémára. 
+
+ Az eljárás kezdetén egy lítiumion-akkumlátor elektródáinak segítségével próbálták párologtatás nélkül kinyerni a vízben található lítiumion részecskéket. Ezzel az a gond, hogy a folyamat során az elektróda a lítium mellett nagy mennyiségű nátriumot is magához vonz. Márpedig az iparnak tiszta nyersanyagra van szüksége, melyet aztán felhasználhatnak a különféle akkumulátorok előállításánál, a Tesla akksijától a mobiltelefonokon és laptopokon keresztül egészen az újratölthető ceruzaelemekig. 
+
+ Annak érdekében, hogy kiszűrjék a nátriumot, az elektródákat titánium-dioxid bevonattal látták el. Ez a réteg roppant egyszerű módon képes elválasztani a két elemet egymástól. Mivel a nátrium részecskéi jóval nagyobbak, mint a lítium, fennakadnak a sűrű titánium-dioxid hálón, így az egyfajta szűrőként működik. Ám a részecskéket irányítani kell, hogy kellő sebességgel és a megfelelő irányba mozogjanak. Ehhez a kutatók módosítottak az elektromos feszültség ciklikusságán. 
+
+ Először az elektródába negatív feszültséget vezettek, majd rövid szünetet követően pozitív feszültséggel töltötték fel, végül azt is leállították. A kutatók szerint a lítiumionok mennyiség koncentrálható a feszültség ciklikus váltakoztatásával. Az eredményekből kiderül, hogy már tíz ilyen ciklust követően sikerült 1:1 arányban elválasztani egymástól a lítiumot és a nátriumot. 
+
+ Ennek az eljárásnak köszönhetően a könnyűfém kinyerését jelentősen fel lehetne gyorsítani. Ezáltal a gyártás üteme is drasztikusan felgyorsulna. 
+
+ Chong Liu, a Chicagói Egyetem kutatója, aki korábban tagja volt a Yi Cui által vezetett csapatnak, elárulta, hogy az új módszer egyelőre még annyira költséges, hogy jelen pillanatban nem tud versenyképes lenni a hagyományos kitermelési eljárásokkal szemben. Ugyanakkor elmondta, hogy az új metódust sikerrel lehetne alkalmazni a már elhasznált akkumulátorok újrahasznosításában . 
+
+ Forrás: 
+
+ Science 
+
+ 4 hours 21 min 
+ Már Tesla erőforrás hajtja Johnny Cash régi Rolls-Royce modelljét 
+ Egy klasszikus luxuscirkáló, 100 százalék Tesla meghajtással. 
+
+ 1 day 7 hours 
+ Ötösre vizsgázott egy Tesla Model S éles törésteszten 
+ Egy kamion szinte darabokra tépte az autót, az utasok apróbb sérülésekkel megúszták. 
+
+ 2 days 5 hours 
+ McLaren-verő Model 3-ast készített az Unplugged Performance 
+ A Teslák tuningolására szakosodott cég kihozza a maximumot az EV-ből. 
+
+ Model 3 Model S Model X Model Y Roadster 
+
+ © 2019-2020 MAHZRT 
+
+ Modellek 
+
+ Model 3 Model S Model X Model Y Roadster 
+ Szolgáltatásaink 
+ Tesla hírek 
+ Tesla márkatörténet 
+ Gy.i.k. 
+ TAO támogatás 
+ Nagycsaládos támogatás 
+ Tesla Model S élményvezetés 
+ Kapcsolat 
+
+ Model 3 Model S Model X Model Y Roadster

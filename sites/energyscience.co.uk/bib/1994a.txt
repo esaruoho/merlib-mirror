@@ -1,0 +1,15 @@
+1994a 
+
+ 1994a 
+
+ The following is a U.S. Patent granted to Harold Aspden as Assignee (coinventor John Scott Strachan) with an issue date of February 22, 1994
+
+ US PATENT NO 5,288,336 
+
+'THERMOELECTRIC ENERGY CONVERSION' 
+
+ Abstract : A thermopile 30 comprises a stacked assembly of bimetallic layers in which there is full conductor interface contact over the distance separating hot and cold surfaces 31,32. The assembly may include dielectric layers forming a capacitor stack. A.C. current through the stack is matched in strength to the Seebeck-generated thermoelectric current circulating in each bimetallic layer. The resulting current snakes through the stack to cause Peltier cooling at one heat surface and heating at the other. A.C. operation at a kilocycle frequency enhances the energy conversion efficiency as does heat flow parallel with the junction interface.
+
+This patent is a counterpart of U.K. Patent No. 2,227,881 [1990f]
+
+To inspect the full content of this patent specification refer to the following IBM Web site by pressing on the underlined address: http://www.patents.ibm.com/details?patent_number=5,288,336 .

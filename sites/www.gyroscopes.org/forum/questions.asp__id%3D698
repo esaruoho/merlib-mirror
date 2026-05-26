@@ -1,0 +1,261 @@
+
+<html>
+<head>
+  <title>Gyroscopes - Everything you needed to know</title>
+  <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+  <meta http-equiv="pics-label" content='(pics-1.1 "http://www.icra.org/ratingsv02.html" comment "ICRAonline EN v2.0" l gen true for "no gen term" r (nz 0 vz 0 lz 0 oz 0 cz 0) "http://www.rsac.org/ratingsv01.html" l gen true for "no gen term" r (n 0 s 0 v 0 l 0))'>
+  <META NAME="Author" CONTENT="Glenn Turner">
+  <META NAME="keywords" CONTENT="gyroscope, gyroscopes , gyro, gyros, gyroscopic propulsion">
+  <META NAME="Description" CONTENT="Gyroscopes have many uses, this site explains how a gyroscope works and what they can be used for. The site also looks at the possible uses of gyroscope based propulsion (gyroscopic propulsion). ">
+  <META NAME="Copyright" CONTENT="Copyright 2003 (All Web Pages) by Glenn Turner">
+  <meta http-equiv="Pragma" content="no-cache">
+  <meta http-equiv="expires" content="0">
+  <link rel="stylesheet" href="/iesite.css" type="text/css">
+</head>
+<body bgcolor="#000000">
+  <div style="  float: center; margin: 0; border: none; padding: 0; " align=center><center><img src="/header.jpg" alt="" hspace=0 vspace=0 wgith=700 height=111></center></div>
+  <center>
+  <span class="menutitle">
+    <a href="/index.asp"><font color="#DDDDDD">Home</font></a> :
+    <a href="/gallery.asp"><font color="#DDDDDD">Gallery</font></a> :
+    <a href="/history.asp"><font color="#DDDDDD">History</font></a> :
+    <a href="/uses.asp"><font color="#DDDDDD">Uses</font></a> :
+    <a href="/behaviour.asp"><font color="#DDDDDD">Behaviour</font></a> :
+    <a href="/math.asp"><font color="#DDDDDD">Maths</font></a> :
+    <a href="/forum/forums.asp"><font color="#DDDDDD">Forum</font></a> :
+    <a href="/propulsion.asp"><font color="#DDDDDD">Propulsion</font></a> :
+    <a href="/links.asp"><font color="#DDDDDD">Links</font></a> :
+    <a href="/glossary.asp"><font color="#DDDDDD">Glossary</font></a>
+    <br>
+  </span>
+
+  <table border=0 cellpadding=0 cellspacing=0 width="0" height="11">
+  <tr>
+    <td></td>
+  </tr>
+  </table>
+
+
+
+
+
+  <table border=0 cellpadding=8 cellspacing=0 width="700" height="260" bgcolor="#FFFFFF" ID="Table1">
+  <tr>
+    <td valign="top" class="main">
+<table align="center" width="100%" border="0">
+  <tr>
+    <td align="left" width="20%" valign="top">
+      <a href="forums.asp">Main Forum Page</a>
+    </td>
+    <td align="center" valign="middle">
+      
+      <h2 border="0">       
+      The Gyroscope Forum</h2></td>
+    <td align="right" width="20%" valign="top">
+      6 March 2007 10:48
+    </td>
+  </tr>
+  </tr>
+  <tr>
+    <td align="center" colspan="3">
+      <p align=left>Welcome to the gyroscope forum. If you have a question about gyroscopes in general,
+      want to know how they work, or what they can be used for then you can leave your question here for others to answer.
+         You may also be able to help others by answering some of the questions on the site.
+      </p>
+      
+      <table width="100%">
+      <tr><td>
+        <form action="qa.asp" method="get">
+        <b>Search the forum: </b><input type="text" value="" name="forumsearch" size=30>&nbsp;<input type="submit" value="Search" name="forumsearchsubmit">
+          <input type=hidden name="forum" value="">
+        </form>
+      </td><td>
+        
+        <form action="askquestion.asp" method="post">
+        <input type="submit" value="Ask a new Question" name="forumsearchsubmit">
+        </form>
+        
+      </td></tr>
+      </table>
+      <hr width=100%>
+    </td>
+  </tr>
+</table>
+
+<table align="center" border="0" width="95%">
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><h3>Question</h3></td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Asked by:</b></td>
+    <td align="left" colspan="2" valign="top">Geoff Barnham</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Subject:</b></td>
+    <td align="left" colspan="2" valign="top">Are my ideas crazy?</td>
+  </tr>
+  <tr>
+    <td align=right class=medium valign="top" nowrap><b>Question:</b></td>
+    <td align=left class=medium valign="top" width="400" colspan="2">I have put some simple ideas and drawings together and would welcome any constructive or destructive comments from your excellent contributors.<br>
+I have been thinking about this ever since I watched Eric Laithwaites Christmas lecture many years ago.<br>
+I would be very grateful if you would take a look at my site.<br>
+<br>
+http://gyro.ub11.com/<br>
+</td>
+  </tr>
+  <tr>
+    <td align="right" valign="top" nowrap><b>Date:</b></td>
+    <td align="left" colspan="2" valign="top">24 February 2007
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2><hr width=100%></td>
+  </tr>
+
+  <tr>
+    <td align="left" colspan="3" bgcolor="#663399"><br><h3>Answers (Ordered by Date)</h3><br></td>
+  </tr>
+  <tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 24/02/2007 20:15:24
+</td></tr><tr><td>&nbsp;</td><td>Dear Geoff,<br>
+<br>
+My poor friend you fallen in as deep as any here. Pray for us all. I am afraid you have still a long ways to go. The lift you have witnessed is the result of an equal and opposite motion suddenly being stopped from traveling downward by the earth. You can do the same thing by jumping up and down, except that the gyro uses a couple and lever to place the downward force on the fulcrum. Its been explained so much I tire of doing it again There is no net upward forced gained.<br>
+<br>
+Good of you wanting a dc motor. Hall sensors will solve a problem you will run into. Try this site and look at technical.<br>
+http://www.bicycles-electric-bikes.com/how_it_works.htm<br>
+<br>
+Yes you will need at least four motors and four gyros. You have yours aliened wrong and there are such complicated reasons. The set up that must be is more mechanically complicatedextremely more complicated. You just have to keep going. Do it your way. That is a long, long way from where you are. Im sorry.<br>
+http://www.phys.unsw.edu.au/hsc/hsc/electric_motors.pdf<br>
+<br>
+Best regards,<br>
+Glenn<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Geoff Barnham</b> - 24/02/2007 23:56:49
+</td></tr><tr><td>&nbsp;</td><td>Thankyou for your reply Glenn, I'm pleased to note that you are prepared to respond to the less academic amongst us.<br>
+<br>
+I know what you mean - "My poor friend you fallen in as deep as any here. Pray for us all."<br>
+<br>
+I understand brushless motors and Hall Effect sensors, I have worked in electronics all my life, I guess this is why I am so intrigued by the strange giro phenomena!<br>
+I am an avid reader of all replies and I hope I live long enough to see someone come up with a working solution.<br>
+Good luck everyone...<br>
+Geoff<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 25/02/2007 09:10:05
+</td></tr><tr><td>&nbsp;</td><td><br>
+Dear Geoff,<br>
+<br>
+You have a unique name that I like. How did you come by it? Im up early. Couldnt sleep and so I have some time. You have good ideas for gyro lift and some folks still believe its possible. Certainly Professor Laithwaite believed it, apparently all his life. Ive decided its not possible and understand why it isnt, but there are other things you can try related to lift that I think might work. For instance if you could allow the gyros to lift freely (without restraint of any kind) and then crash them into a backdrop above you might get a solid, delayed nudge upwards, though I still think there would have occurred and extra downward force during the lift. Still there are such ways similar that I believe would work. One just has to find them. Anyway you are one of us now on equal standing.<br>
+<br>
+I am more interested in the motor wheel you presented. I think it is a brilliant idea. If fact I have been attempting to get four of them built for a long time. I think we are alone in this. Our intentions on how to use them are likely very different. Im sure you must know more about the electronics than I. Did you look at the ebike motor carefully? I havent been able to understand the winding well enough, because I cant see the poles and do not see how their windings are gaped from one another as the wiring seems to be continuous. Do you understand the pole set-up and windings from the pictures? Have you considered actually building mini motor wheels yourself as gyros? Do you think you could do it if the metal were cut for you? Have you experience in buying electronic parts? What else can you tell me?<br>
+<br>
+Take Care,<br>
+Glenn<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Geoff Barnham</b> - 25/02/2007 12:05:04
+</td></tr><tr><td>&nbsp;</td><td>Dear Glenn<br>
+My full name is Geoffrey, making Geoff for short. I guess this would be Jeff in America but I hail from England. (Someone has to live here!)<br>
+Barnham is a name that arrived in this country with the Norman Invasion in 1066 and there are a couple of old towns with this name in England.<br>
+In America you will find Barnum and Barnam which is no doubt derived from the same original family. (PT Barnum was probably related to our family.)<br>
+<br>
+My idea for the motor is more like the fan motor shown here http://www.phys.unsw.edu.au/hsc/hsc/electric_motors.pdf<br>
+Where permanent magnets (possibly "rare-earth" magnets) would be fixed into the rotor and the stator would have the windings attached.<br>
+I think 6 poles would be sufficient, the magnets would be alternately N - S - N - S etc.<br>
+The stator would have 6 poles wound in opposite directions, again producing a N - S configuration. The current would then be reversed as each pole magnet passes over each stator winding.<br>
+Hall effect switches would detect each magnet as it passes to determine when to reverse the current. It would be necessary to reverse the current because the start-up load will be relatively high unlike a fan where the load is very small.<br>
+<br>
+I will do some drawings for you over the next few days.<br>
+<br>
+The beauty of this motor is, there are no electrical connections needed to the rotating parts, so there is no friction, sparking or wear.<br>
+<br>
+I have dreamed of a time when I would have the time to do experiments of my own, my working life has been very hectic, but now I am semi-retired and have time on my hands, I find that I don't have the financial resources to do very much with.<br>
+I had my own electronics company for 20 years that had become progressively larger until I needed to employ managers to help with the day to day running of the company.<br>
+This is where the problems started.<br>
+I had a heart problem that put me in hospital for a month but I was sure that the company would be ok as I had these "trusted" individuals looking after my interests.<br>
+Wrong!<br>
+When I returned to work I found they had connived together and sold my business to a competitor. This left me still not fully recovered, paying rent on a factory that I no longer needed, with 25 workers to lay-off and a 200,000 personal debt.<br>
+So much for employing young, ambitious wiz kids!<br>
+<br>
+Five years later, I have survived and I do produce a small income from electronic designs.<br>
+As I couldn't afford a hit-man I have learned to put what happened to me to the back of my mind and to be honest, I now enjoy life more than I did when I had the responsibility of running a company.<br>
+<br>
+I must stop rambling<br>
+Regards<br>
+Geoff<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 25/02/2007 14:23:37
+</td></tr><tr><td>&nbsp;</td><td>Dear Geoff,<br>
+<br>
+I wish to sell you and Bailey an elephant to be paid for before delivery, but I see you have already bought too many elephants. I am so very sorry you got robbed. It is a great shame. About seventeen years ago I found that beyond a certain controllable number the more I hired the less money I made and the more aggregation I added. I closed down latter than I should have and like you kept enough business for myself and wife to manage and handle. I never made the sudden huge incoming profits again, but I never lost the huge and certain cost of doing business again either. Yes, its much better this way. I can identify with you and so again I am sorry the S.O.B.s destroyed your business, and of course, naturally while you were sick and defenseless. That would be their way. You yourself are probably an honest person. I am. Thats part of why we get hooked. We can trust somebody, but they never can because they know they are thieves and expect everyone else to be like them. It is the honest that are easiest to steal from.<br>
+<br>
+Your motor wheel sounds exactly like mine, particularly to the fact that none of them have yet been built. Yes, I have Joes electric motors and generators in my hard drive. One day we still might put our heads together on building these motors. I look forward to the drawing. Theres no hurry, weeks or months.<br>
+<br>
+Thank you for your history. I always wonder about the people Im writing to. My name is Hawkins and my mothers name was Wells, grandmothers, Avery and Shadwick. So Im not far removed from your Island. Would I have been any better off to have stayed in Merry Old England? Maybe I just got confused and rowed the wrong direction one night.<br>
+<br>
+Six months ago I was exposed to a chemical posing. Its been horrible to my body and spirits day to day though it doesnt show visually, also to my emotions and mind at times. I expect full recovery without damage. I am determined. Misery loves company so it seems we should get together over a few dozen Genus and cry together for a few hours. Poor me. Poor you. Im just kidding around. Im better today and I see you are happier.<br>
+<br>
+Did my ramblings equal your ramblings do you think.<br>
+<br>
+Sincerely,<br>
+Glenn<br>
+<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Geoff Barnham</b> - 25/02/2007 14:51:09
+</td></tr><tr><td>&nbsp;</td><td>Dear Glenn<br>
+<br>
+Ramble away my friend, they can't touch you for it!<br>
+<br>
+Your family names sound like they're straight from Treasure Island, a very "Cornish" ancestry I think!!<br>
+I can assure you, in spite of the Bush problem, you are definitely on the right side of the Atlantic. Our thieving politicians have destroyed this country, making it open-house for all the  vermine of this World! (Sorry if this sounds a bit strong!)<br>
+<br>
+Sorry to hear about your reaction to chemo, it makes my heart experiences seem insignificant in comparison. Next time why not try LSD it may be the only way to crack the Gyroscope phenomena!!<br>
+<br>
+I read recently that NASA had noted a tiny deviation in the predicted orbit of their deep space probes such as Voyager. Could it be that their probes are being "pushed" very slightly by the precession of their navigation gyros? Over the vast distances of space it wouldn't take very much force to upset their orbit calculations.<br>
+<br>
+My drawing package is a bit limited so I may need to scan hand sketches of the motor design. I am pretty sure there is nothing very unusual about it, just the application that's different!<br>
+Enjoy your weekend!<br>
+Geoff<br><br></td></tr>
+<tr>
+<td align="left" width="20px"><b>Answer:</b></td>
+<td align="left"><b>Glenn Hawkins</b> - 03/03/2007 14:19:30
+</td></tr><tr><td>&nbsp;</td><td>Dear Geoff,<br>
+<br>
+I dare not start in with politics, but there are more problems aside from the White Houses domestic and economic nightmare here. The Bush problem is a world problem, but you can count on little cowboy Toney to straighten out little cowboy George. Right? I see what is happening to all of Europe. It is the same over here. Shadowy organizations you cannot see control who will be the politicians and their gold cannot be stopped. It is the new world order. We are building an eight-lane highway from South America therefore all parts of the globe through the US and on into Canada and there will be no checkpoints. Hows that for open house? I will not get involved in politics here. What is the power of one angry American and one angry Britain? Forget it. Stick to LSD. <br>
+ <br>
+<br>
+I found the source of my six-month medical problem, which was such an awful ordeal. Im fine now, no problems. Five doctors, three of them specialist and a hundred tests and no solution came from them. I suspected a chemical exposure at one of the sites we service was the cause. I read up on Chronic Uticaria, which was my problem. I tried everything (experimentation from good gyro training I guess.) and finally I went to the site I had come to suspect and smeared the chemical substance directly on my body. Within two hours I was in hell. The solution? Never visit that site again. I was being chemically poisoned by a substance that was assumed to be harmless. Today, two weeks later I feel just fine. What an incredible relief. For a while I thought I would have to shoot myself if I would not get better. It was bad. I hope so very much that your heart problem will not return.<br>
+<br>
+We took your advise, but yesterday we ran out of LSD again. Oh we have some faded peace signs and wilted flowers left over, but the problem we found is that you forget about gyroscopes, except that one of the grandfathers said he became a gyroscope for three days and it drove him permanently crazy. So much for a good idea.<br>
+<br>
+That is interesting, NASAs noted deviation from the predicted orbit perhaps being the result of the precession of their navigation gyros, but because their gyros are in gimbals does not allow me a way to reason how it could happen. But, who knows? <br>
+<br>
+I think we will find that there is a lot more to building good mini motor wheels than we first consider. Anyway you have my intense interest.<br>
+<br>
+Have a good day and try not to hurt anybody my friend,<br>
+Glenn<br>
+ <br>
+<br><br></td></tr>
+<tr>
+<td align="center" colspan="2"><a href="answerquestion.asp?id=698">Add an Answer &#062;&#062;</a></td></tr>
+</table>
+    </td>
+  </tr>
+  </table>
+  
+  <font class="copyright">
+  Website. Copyright &copy; 2007 Glenn Turner. All rights reserved. <a href="/site.asp">site info</a><br>
+     Do not copy without prior permission. Click here for <a target="gyroscopeproducts" href="http://www.gyroscope.com/" alt="Gyroscope products">gyroscope products</a> 
+   
+  </font>
+</center>
+
+</body>
+</html>

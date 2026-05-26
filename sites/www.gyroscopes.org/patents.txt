@@ -1,0 +1,379 @@
+Gyroscopes - Everything you needed to know 
+
+ Home :
+ Gallery :
+ History :
+ Uses :
+ Behaviour :
+ Maths :
+ Forum :
+ Propulsion :
+ Links :
+ Glossary 
+
+ Propulsion 
+
+ Patents 
+
+ Patent images 
+
+ Papers 
+
+ My Work 
+
+ Whats next? 
+
+ [ Total of 69 ] 
+
+ Pat No 
+ Owner 
+ Pat Date 
+ Description 
+
+ 3807244 
+ Estrade 
+ 30/04/1974 
+ Device For Transforming Kinetic Energy 
+
+ 3810394 
+ Novak 
+ 14/05/1974 
+ Centrifugal Mechanical Device 
+
+ 3863510 
+ Benson 
+ 04/02/1975 
+ Inertia Engine 
+
+ 3889543 
+ Mast 
+ 17/06/1975 
+ Propulsion System 
+
+ 3897692 
+ Lehberger 
+ 05/08/1975 
+ Centrifugal Propulsion Drive And Steering Mechanism 
+
+ 3916704 
+ Gaberson 
+ 04/11/1975 
+ Vibratory Motion 
+
+ 3968700 
+ Cuff 
+ 13/07/1976 
+ Device For Converting Rotary Motion Into A Unidirectional Linear Motion 
+
+ 3979961 
+ Schur 
+ 14/09/1976 
+ Method And Apparatus For Propelling An Object By An Unbalanced Centrifugal Force With Continous Motion 
+
+ 398431 
+ Melnick 
+ 16/08/1983 
+ Mechanical Power Transmitting System 
+
+ 3998107 
+ Cuff 
+ 21/12/1976 
+ Device For Converting Rotary Motion Into A Unidirectional Linear Motion 
+
+ 4087064 
+ Knap 
+ 05/02/1978 
+ Orbital Propulsion Apparatus 
+
+ 4095460 
+ Cuff 
+ 20/06/1978 
+ Device For Converting Rotary Motion Into Unidirectional Motion 
+
+ 4238968 
+ Cook 
+ 16/12/1980 
+ Device For Conversion Of Centrifugal Force To Linear Force And Motion 
+
+ 4242918 
+ Srogi 
+ 06/01/1981 
+ Mechanical Propulsion System 
+
+ 4261212 
+ Melnick 
+ 14/04/1981 
+ Unidirectional Force Generator 
+
+ 4347752 
+ Dehen 
+ 07/09/1982 
+ Apparatus For Converting Rotary Motion To A Rectilinear Force 
+
+ 4408740 
+ Kleber 
+ 11/10/1983 
+ Apparatus For Acceleration-Free Mounting Of A Body In A Spacecraft 
+
+ 4409856 
+ De Weaver 
+ 18/10/1983 
+ Propulsion System 
+
+ 4450141 
+ Linde 
+ 22/05/1984 
+ Centrifugal Reaction Chamber 
+
+ 4479396 
+ De Weaver 
+ 30/10/1984 
+ Propulsion System 
+
+ 4577520 
+ Colla 
+ 05/03/1986 
+ Mechanical Propulsion System 
+
+ 4579011 
+ Dobos 
+ 01/03/1986 
+ Propulsion Apparatus 
+
+ 4631971 
+ Thornson 
+ 30/12/1986 
+ Apparatus For Developing A Propulsive Force 
+
+ 4663932 
+ Cox 
+ 12/05/1987 
+ Dipolar Force Field Propulsion 
+
+ 4674583 
+ Peppiatt 
+ 23/06/1987 
+ Impulse Drive 
+
+ 4712439 
+ North 
+ 15/12/1987 
+ Apparatus For Producing A Force 
+
+ 4726241 
+ Melnick 
+ 23/02/1988 
+ Continuous Force And Impact Generator 
+
+ 4744259 
+ Peterson 
+ 17/05/1988 
+ Apparatus For Producing A Directional Unit Force 
+
+ 4770063 
+ Mundo 
+ 13/09/1988 
+ Universal Propulsion Powerplant And Impulse Drive Unit For Self-Propelled Vehicles 
+
+ 4784006 
+ Kethley 
+ 15/11/1988 
+ Gyroscopic Propulsion Device 
+
+ 4788882 
+ Fulop 
+ 06/12/1988 
+ Flywheel 
+
+ 4801111 
+ Rogers et al 
+ 31/01/1989 
+ System For Propulsion And Positioning Of A Transitory Object 
+
+ 4856358 
+ Montalbano 
+ 15/08/1989 
+ Conversion Of Rotational Output To Linear Force 
+
+ 4884465 
+ Zachystal 
+ 05/12/1989 
+ Centripedal Device for Concentrating Centrifugal Force 
+
+ 4891600 
+ Cox 
+ 02/01/1990 
+ Dipole accelerating means and method 
+
+ 4967983 
+ Motts 
+ 06/11/1990 
+ Airship 
+
+ 4991453 
+ Mason 
+ 12/02/1991 
+ Centripedal Device For Concentrating Centrifugal Force 
+
+ 5024112 
+ Kidd 
+ 18/06/1991 
+ Gyroscopic Apparatus 
+
+ 5042313 
+ Montalbano 
+ 27/08/1991 
+ Conversion of Rotational Output to Linear Force - a Transmission 
+
+ 5054331 
+ Rodgers 
+ 08/10/1991 
+ Controllable Gyroscopic Propulsion Apparatus 
+
+ 5090260 
+ Delroy et al 
+ 25/02/1991 
+ Gyrostat Propulsion System 
+
+ 5111087 
+ Butka 
+ 05/05/1992 
+ Propulsion System 
+
+ 5142861 
+ Schlicher et al 
+ 01/09/1992 
+ Nonlinear Electromagnetic Propulsion System And Method 
+
+ 5150626 
+ Isaacson et al 
+ 29/09/1992 
+ Translational Force Generator 
+
+ 5156058 
+ ristow 
+ 20/10/1992 
+ Method and apparatus for converting rotary motion to lineal motion 
+
+ 5167163 
+ McMahon 
+ 01/12/1992 
+ Energy transfer device 
+
+ 5182958 
+ Black 
+ 02/02/1993 
+ Non-linear propulsion and energy conversion system 
+
+ 5197279 
+ Taylor 
+ 30/03/1993 
+ Electromagnetic energy propulsion engine 
+
+ 5211006 
+ Sohnly 
+ 18/05/1993 
+ Magetohydrodynamic Propulsion System 
+
+ 5256942 
+ Wood 
+ 26/10/1993 
+ Stabilization System For A Freely Rotatable Platform 
+
+ 5280864 
+ Woodward 
+ 25/01/1994 
+ Method For Transiently Altering The Mass Of Objects To Facilitate Their Tansport Or Change Their Stationary Apparent Weights 
+
+ 5305974 
+ Willis 
+ 26/04/1994 
+ Spaceship Propulsion By Momentum Transfer 
+
+ 5313851 
+ Hull et al 
+ 24/05/1994 
+ Reusable Mass Propulsion System 
+
+ 5334060 
+ Butka 
+ 02/08/1994 
+ Propulsion System 
+
+ 5335561 
+ Harvey 
+ 09/08/1994 
+ Impulse converter 
+
+ 5377936 
+ Mitchell 
+ 03/01/1995 
+ Net Kinetic Energy Differential Guidance And Propulsion System For Satellites And Space Vehicles 
+
+ 5388469 
+ Woltering 
+ 14/02/1995 
+ Rotating eccentric weights vibrator system 
+
+ 5388470 
+ Marsh 
+ 14/02/1995 
+ Centrifugal force drive machine 
+
+ 5410198 
+ Butka 
+ 25/04/1995 
+ Propulsion System 
+
+ 5427330 
+ Shimshi 
+ 27/06/1995 
+ Sphereroll 
+
+ 5473957 
+ Navarro 
+ 12/12/1995 
+ System for generating controllable reference enviroment and steerable translational force, etc. 
+
+ 5488877 
+ Lieurance 
+ 06/02/1996 
+ Centrifugal Inertia Drive 
+
+ 5557988 
+ Claxton 
+ 24/09/1996 
+ Centrifugal Impelled Vehicle 
+
+ 5673872 
+ Shimshi 
+ 07/10/1997 
+ Apparatus For Energy Transformation And Conservation 
+
+ 5685196 
+ Foster 
+ 11/11/1997 
+ Inertial propulsion Plus/Device And Engine 
+
+ 5782134 
+ Bouden 
+ 21/07/1998 
+ Electromagnetically Actuated Thrust Generator 
+
+ 5831354 
+ Stopplecamp 
+ 11/03/1998 
+ Boot Strap Propulsion System 
+
+ 5860317 
+ Laithwaite/Dawson 
+ 19/01/1999 
+ Propulsion System 
+
+ 791188 
+ Howard 
+ 11/08/1998 
+ Propulsion System 
+
+ Website. Copyright &copy; 2021 Glenn Turner. All rights reserved. site info 
+ Do not copy without prior permission. Click here for gyroscope products
