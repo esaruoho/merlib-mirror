@@ -426,6 +426,11 @@ process_job_file() {
   # Run mirror.py. Pipe through tee but capture mirror.py's exit code
   # (not tee's) so a crash/SIGKILL of the crawler is detected.
   local site_dir="$output_dir/$domain"
+  # tee opens the log file at startup. For fresh jobs (gdrive especially —
+  # each `gdrive-<ID>` is brand new) the dir doesn't exist yet (mirror.py
+  # creates it inside). Without this mkdir, tee fails 1, pipefail surfaces
+  # it as the pipeline exit, and an otherwise-successful job is marked failed.
+  mkdir -p "$site_dir" 2>/dev/null || true
   local exit_code=0
   set -o pipefail
   python3 "$MIRROR_PY" "${mirror_args[@]}" 2>&1 | tee "$site_dir/_mirror_worker.log" 2>/dev/null || exit_code=$?
