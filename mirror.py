@@ -1456,20 +1456,32 @@ def find_gdown():
 
 
 def _gdrive_curl_download(file_id, dest_path):
-    """Download a single Google Drive file by ID using curl (fallback for gdown failures)."""
-    url = f"https://drive.google.com/uc?export=download&id={file_id}&confirm=t"
+    """Download a single Google Drive file by ID.
+
+    When GDRIVE_API_KEY is set, use the authenticated Drive v3 media endpoint
+    (`files/{id}?alt=media&key=...`). This bypasses the public-share virus-scan
+    HTML interstitial that blocks files >100MB on the legacy uc?export=download
+    endpoint — exactly the case where mp4/mp3 archives fail silently with the
+    HTML guard below. Fall back to the legacy endpoint when no API key is set.
+    """
+    api_key = os.environ.get('GDRIVE_API_KEY')
+    if api_key:
+        url = f"https://www.googleapis.com/drive/v3/files/{file_id}?alt=media&key={api_key}"
+    else:
+        url = f"https://drive.google.com/uc?export=download&id={file_id}&confirm=t"
     try:
         result = subprocess.run(
             ['curl', '-sL', '-o', dest_path, url],
-            capture_output=True, timeout=300,
+            capture_output=True, timeout=600,
         )
         if result.returncode != 0:
             return False
-        # Verify it's not an HTML error page
+        # Verify it's not an HTML error page (legacy endpoint can still return
+        # the virus-scan interstitial; the API endpoint can return a JSON error).
         if os.path.exists(dest_path) and os.path.getsize(dest_path) > 0:
             with open(dest_path, 'rb') as f:
                 header = f.read(16)
-            if header.startswith(b'<!') or header.startswith(b'<html'):
+            if header.startswith(b'<!') or header.startswith(b'<html') or header.startswith(b'{\n  "error"') or header.startswith(b'{"error"'):
                 os.remove(dest_path)
                 return False
             return True
