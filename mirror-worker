@@ -141,6 +141,7 @@ notify_drop() {
   local body="$2"
   local open_path="$3"
   local reveal_path="$4"
+  local auto_open="${5:-}"   # "true" → AppleToolbox opens open_path on delivery, no click needed
   local inbox="$HOME/work/comms/queue/notify-inbox"
   [[ -d "$inbox" ]] || return 0   # if syncthing-shared comms isn't here, skip silently
   local ts host id partial final
@@ -150,13 +151,14 @@ notify_drop() {
   partial="$inbox/${id}.partial"
   final="$inbox/${id}.json"
   # Use python for JSON escaping so titles/bodies with quotes don't break the file.
-  python3 - "$title" "$body" "$open_path" "$reveal_path" "$host" >"$partial" <<'PYEOF'
+  python3 - "$title" "$body" "$open_path" "$reveal_path" "$host" "$auto_open" >"$partial" <<'PYEOF'
 import json, sys
-title, body, open_path, reveal_path, host = sys.argv[1:6]
+title, body, open_path, reveal_path, host, auto_open = sys.argv[1:7]
 payload = {"title": title, "sender": f"mirror-worker@{host}"}
 if body:         payload["body"] = body
 if open_path:    payload["open_path"] = open_path
 if reveal_path:  payload["reveal_path"] = reveal_path
+if auto_open == "true": payload["auto_open"] = True
 print(json.dumps(payload, ensure_ascii=False))
 PYEOF
   mv "$partial" "$final" 2>/dev/null || rm -f "$partial"
@@ -501,8 +503,10 @@ process_job_file() {
                "$started_at" "$completed_at" "$branch" "$pr_url"
 
   # For syncthing-bound jobs, ping the laptop's notification center.
-  # Click the banner → Finder reveals the folder on the laptop (same path,
-  # Syncthing-mirrored).
+  # Click the banner → AppleToolbox foregrounds (unavoidable for LSUIElement
+  # menu-bar apps when the UN-delegate didReceive doesn't fire) AND Finder
+  # opens the folder. AppleToolbox detects its own activation as the click
+  # signal and opens the pending open_path within a 5-min window.
   if [[ "$to_syncthing" == "true" ]]; then
     notify_drop \
       "📥 gdrive done: $domain" \
