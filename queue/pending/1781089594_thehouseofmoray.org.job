@@ -1,0 +1,10 @@
+target: https://web.archive.org/web/20191231191849/http://thehouseofmoray.org/
+domain: thehouseofmoray.org
+mode: wayback
+path_filter: 
+ts_to: 20191231
+label: 
+offline: false
+to_syncthing: false
+submitted: 2026-06-10T11:06:34Z
+submitted_from: RayMac
