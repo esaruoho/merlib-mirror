@@ -1,0 +1,44 @@
+[2026-06-10 15:35:50] ============================================================
+[2026-06-10 15:35:50] WAYBACK MIRROR: thehouseofmoray.org
+[2026-06-10 15:35:50] Output: /Users/esaruoho/work/merlib-mirror/sites/thehouseofmoray.org
+[2026-06-10 15:35:50] Delay: 1.0s
+[2026-06-10 15:35:50] ============================================================
+[2026-06-10 15:35:50] Resuming: phase=init, 0 already done
+[2026-06-10 15:35:50] 
+=== PHASE 1: URL Discovery ===
+[2026-06-10 15:35:50] Querying CDX for thehouseofmoray.org/*...
+[2026-06-10 15:36:55]   Found 27 URLs for thehouseofmoray.org/*
+[2026-06-10 15:36:55] Querying CDX for www.thehouseofmoray.org/*...
+[2026-06-10 15:37:12]   Found 27 URLs for www.thehouseofmoray.org/*
+[2026-06-10 15:37:43] Total unique valid URLs: 29
+[2026-06-10 15:37:43]   image/jpeg: 14
+[2026-06-10 15:37:43]   image/gif: 7
+[2026-06-10 15:37:43]   application/pdf: 4
+[2026-06-10 15:37:43]   text/html: 3
+[2026-06-10 15:37:43]   text/css: 1
+[2026-06-10 15:37:43] 
+=== PHASE 2: Downloading ===
+[2026-06-10 15:38:06] [3/29] FAIL http://thehouseofmoray.org/css/moray.css
+[2026-06-10 15:39:06] [11/29] OK images/desk-th.jpg (36,396b) @20110108
+[2026-06-10 15:40:26] [21/29] OK images/moray-color.jpg (155,817b) @20110108
+[2026-06-10 15:42:41] 
+=== PHASE 3: Generating Index ===
+/Users/esaruoho/work/merlib-mirror/mirror.py:760: DeprecationWarning: datetime.datetime.utcnow() is deprecated and scheduled for removal in a future version. Use timezone-aware objects to represent datetimes in UTC: datetime.datetime.now(datetime.UTC).
+  lines.append(f"mirror_date: {datetime.datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%SZ')}")
+[2026-06-10 15:42:41] Generating index...
+[2026-06-10 15:42:41] Index: 27 files
+[2026-06-10 15:42:41]   .jpg: 14
+[2026-06-10 15:42:41]   .gif: 7
+[2026-06-10 15:42:41]   .pdf: 4
+[2026-06-10 15:42:41]   .html: 1
+[2026-06-10 15:42:41]   .txt: 1
+[2026-06-10 15:42:41] 
+============================================================
+[2026-06-10 15:42:41] MIRROR COMPLETE
+[2026-06-10 15:42:41] Total URLs: 29
+[2026-06-10 15:42:41] Downloaded: 28
+[2026-06-10 15:42:41] Failed: 1
+[2026-06-10 15:42:41] Files: 27
+[2026-06-10 15:42:41] ============================================================
+[2026-06-10 15:42:41] 
+Next step: fe-ingest.sh /Users/esaruoho/work/merlib-mirror/sites/thehouseofmoray.org
