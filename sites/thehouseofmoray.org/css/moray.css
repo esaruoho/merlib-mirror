@@ -1,0 +1,245 @@
+body,div,ul,li,h1,h2,h3,h4,h5,h6,form,p {
+  margin:0;
+  padding:0;
+}
+/*general page elements*/
+body	{
+	color: #80774e;
+	background: transparent url(../images/bg.gif) top left repeat;
+	text-align: center;
+	font-family: arial, helvetica, sans-serif;
+	font-size: 76%;
+	}
+img {
+	display: inline;
+	border: 0;
+	}
+b {
+	font-weight: bold;
+	}
+ul {
+	margin: 0 0 12px 0;
+	}
+ul li {
+	text-align: left;
+	margin: 0 0 0 35px;
+	list-style-type: square;
+	}
+p {
+	padding: 0 0 8px 0;
+	line-height: 1.5em;
+	text-align: justify;
+	}
+input {
+  font-family: arial, helvetica; 
+  font-size: 11px;
+  margin: 1px;
+  }
+/* alignment classes*/
+.left {text-align: left;}
+.top {vertical-align: top;}
+.bottom {vertical-align: bottom;}
+.right {text-align: right;}
+.center {text-align: center;}
+.justify {text-align: justify;}
+.bold {font-weight: bold;}
+/* border classes*/
+.bordered {border: 1px solid #d1dee9;}
+.divider {
+  border-bottom: 1px dotted #80774e;
+  font-size: 0px;
+  margin: 8px 0px 4px;
+}
+/* color classes*/
+.plum {color: #5b3128;}
+.taupe {color: #aa926c;}
+.dktaupe {color: #695125;}
+.gold {#80774e;}
+.brown {#5C4722;}
+.blue {color: #3e617b;}
+.ltblue {color: #507A98;}
+/* header elements*/
+#wrapper {
+  position: relative;
+  width: 685px;
+	margin: 2em auto;
+	padding:  0px;
+	background-color: transparent;
+	border: 5px solid #e0e4c6;
+	}
+#palette {
+  width: 681px;
+  margin: 0px;
+  padding: 0px;
+  border: 2px solid #d0d5b1;
+  background-color: #fff;
+  }
+/*home */
+#header {
+  display: block;
+  height: 177px;
+	width: 657px;
+	background: transparent url(../images/header-photo.gif) top left no-repeat;
+	padding: 0p;
+	margin: 12px auto 1px;
+	text-align: left;
+	}
+#colorbar {
+  height: 16px;
+  width: 657px;
+  margin: 1px auto 0px;
+  background: transparent url(../images/color-bar.gif) top left no-repeat;
+}
+/*home conent*/
+div#content {
+  width: 657px;
+  padding: 0px;
+  margin: 12px auto;
+  }
+div#promo {
+	width: 450px;
+  float: left;
+	}
+#promo img {
+  float: left;
+  margin: 0px 12px;
+}
+#promotext {
+  width: 304px;
+  float: right;
+}
+#promotext p {
+  line-height: 1.36em;
+  font-style: normal;
+  color: #507A98;
+}
+#badge {
+  position: absolute;
+  width: 55px;
+  height: 55px;
+  top: 240px;
+  left: 420px;
+  background: transparent url(../images/badge.gif) top left no-repeat;
+  z-index: 1000;
+}
+div#lcontent {
+  width: 464px;
+  _width: 450px;
+  float: left;
+  padding: 0px 0px 0px 6px;
+  margin: 0px;
+  }
+ul.arrowed li {
+  font-weight: bold;
+  padding: 0px;
+  margin: 0px;
+  line-height: 1.5em;
+  list-style: none;
+  }
+div#rcontent {
+  width: 140px;
+  float: right;
+  margin: 0px 12px 12px 12px;
+  padding: 0px;
+  }
+input.buy {
+  font-family: arial, helvetica; 
+  font-size: .9em; 
+  text-align: center;
+  margin: 2px;
+  width: 135px;
+  color: #5C4722;
+  }
+.caption {
+  font-size: .85em;
+  line-height: .85em;
+  color: #507A98;
+  text-align: center;
+}
+#rcontent img {
+  margin: 18px auto 0px;
+}
+/* default links  */
+a:link, a:visited {
+	color: #507A98;
+	text-decoration: none;
+	}
+a:hover, a:active {
+	text-decoration: none;
+	color: #aa926c;
+	}
+ul.arrowed li a {
+  line-height: 1.5em;
+  background: transparent url(../images/right.gif) left center no-repeat;
+  padding-left: 18px;
+}
+/*	footers  */
+#footer {
+	clear: both;
+	font-size: .8em;
+	padding: 4px 0px;
+	margin: 18px 6px;
+	border-top: 1px dotted #80774e;
+	text-align: left;
+	color: #507A98;
+	}
+#copyright {
+	clear: both;
+  display: block;
+  position: absolute;
+  width: 15px;
+  font-size: 9px;
+  white-space: nowrap;
+	color: #aa926c;
+	bottom: -12px;
+	right: 464px;
+	_bottom: 50px;
+	_right: 8px;
+	_writing-mode: tb-rl;
+	#bottom: 4%;
+	#right: -12px;
+	#writing-mode: tb-rl;
+	}
+#copyright a {
+  color: #695125;
+  }
+/*  headlines  */
+h1 {
+	font-size: 2em;
+	line-height: 1em;
+	padding-top: 4px;
+	text-align: center;
+	color: #3e617b;
+	font-weight: bold;
+	font-style: italic;
+	}
+h2 {
+	text-align: center;
+	font-size: 1.2em;
+	line-height: .8em;
+  font-weight: bold;
+  font-style: italic;
+  padding-bottom: 4px;
+	}
+h3 {
+  text-align: left;
+  font-size: 1.1em;
+  line-height: 1.25em;
+  font-weight: bold;
+  }
+h4 {
+  font-size: 1.2em; 
+  text-align: left;
+  font-weight: normal;
+  border-bottom: 1px dotted #80774e;
+  padding: 0px 0px 4px;
+  margin: 0px 0px 8px 0px;
+}
+h5 {
+  font-weight: normal;
+  font-size: 1.4em;
+  text-align: left;
+  margin: 12px 0px 4px;
+  padding: 0px;
+  color: #507A98;
+}
