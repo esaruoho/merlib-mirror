@@ -483,6 +483,36 @@ process_job_file() {
   # Success path — move to done and commit
   mv "$PROCESSING_DIR/$filename" "$DONE_DIR/$filename"
 
+  # ── www. normalisation ────────────────────────────────────────────────────
+  # mirror.py's live crawler names its output dir from urlparse().hostname
+  # (e.g. "www.radiondistics.altervista.org") while the job's `domain:` field
+  # is the stripped host ("radiondistics.altervista.org"). commit_and_push
+  # only stages "$output_dir/$domain", so a live crawl of a www-hosted site
+  # committed nothing but its own log. (2026-07-29: radiondistics — 218 files
+  # crawled OK, PR #49 contained only _mirror_worker.log.) Fold the www. dir
+  # into the canonical one instead of losing it.
+  if [[ ! -d "$site_dir" || -z "$(ls -A "$site_dir" 2>/dev/null | grep -v '^_mirror_worker.log$')" ]] \
+     && [[ -d "$output_dir/www.$domain" ]]; then
+    log "Normalising output dir: www.$domain → $domain"
+    mkdir -p "$site_dir"
+    ( cd "$output_dir/www.$domain" && tar cf - . ) | ( cd "$site_dir" && tar xf - ) \
+      && rm -rf "$output_dir/www.$domain" \
+      && log "Normalised ($(find "$site_dir" -type f | wc -l | tr -d ' ') files)"
+  fi
+
+  # ── consolidation stage: mirror → ONE cohesive paper ─────────────────────
+  # Storing the original is only half the job. A mirror is N scattered pages;
+  # synthesis needs one text. site_to_paper.py emits per-page markdown
+  # (KeelyNet-style frontmatter) plus <domain>-CONSOLIDATED.md in the site's
+  # OWN reading order (BFS over its link graph). Autonomous, zero-token,
+  # idempotent. Never fatal: a consolidation failure must not fail a good mirror.
+  if [[ -f "$REPO_DIR/scripts/site_to_paper.py" ]]; then
+    log "Consolidating site → single paper"
+    python3 "$REPO_DIR/scripts/site_to_paper.py" "$site_dir" 2>&1 \
+      | tee -a "$site_dir/_mirror_worker.log" \
+      || log "WARNING: consolidation failed (mirror itself is fine)"
+  fi
+
   # Commit and push — unless offline mode. commit_and_push echoes the PR URL
   # to its own log; we re-derive it from the branch for the result.json.
   local pr_url=""
