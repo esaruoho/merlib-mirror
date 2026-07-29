@@ -1,9 +1,9 @@
 ---
-title: "Radiondistics — Francesco Errante: consolidated site corpus"
+title: "www.radiondistics.altervista.org — consolidated site corpus"
 source_domain: www.radiondistics.altervista.org
 source_url: https://www.radiondistics.altervista.org/
-author_of_source: Francesco Errante
-generated: 2026-07-29T14:03:39Z
+author_of_source: unattributed — see site
+generated: 2026-07-29T14:15:59Z
 generator: merlib-mirror/scripts/site_to_paper.py
 pages_total: 55
 pages_reachable_from_entry: 55
@@ -13,7 +13,7 @@ type: consolidated-site-corpus
 status: MACHINE-GENERATED consolidation of a mirror — not an analysis, not a deep-read
 ---
 
-# Radiondistics — Francesco Errante: consolidated site corpus
+# www.radiondistics.altervista.org — consolidated site corpus
 
 ## Provenance and honesty note
 

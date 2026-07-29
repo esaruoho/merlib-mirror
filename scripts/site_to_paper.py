@@ -121,8 +121,15 @@ def to_markdown(path):
     """pandoc when available (keeps headings/tables/emphasis); else plain text."""
     if _PANDOC:
         try:
+            # Feed pandoc DECODED text on stdin, never the raw path. pandoc assumes
+            # UTF-8 input; these mirrors are largely cp1252, so byte-level reading
+            # replaces every high byte with U+FFFD. That silently destroys ¼ ½ ¾ °
+            # µ Ω — i.e. exactly the glyphs a radio-engineering corpus depends on.
+            # (2026-07-29: Errante's "¼ of a wavelength" arrived as "� of a
+            # wavelength", which would have made a quarter-wave grep return nothing.)
             r = subprocess.run(
-                [_PANDOC, "-f", "html", "-t", "gfm", "--wrap=none", path],
+                [_PANDOC, "-f", "html", "-t", "gfm", "--wrap=none"],
+                input=read_html(path).encode("utf-8"),
                 capture_output=True, timeout=90,
             )
             if r.returncode == 0 and r.stdout.strip():
