@@ -1,0 +1,16 @@
+{
+  "source": "web.archive.org",
+  "domain": "thehouseofmoray.org",
+  "mirror_date": "2026-06-10T15:42:41.550411",
+  "total_urls": 29,
+  "downloaded": 28,
+  "failed": 1,
+  "files": 27,
+  "file_types": {
+    ".pdf": 4,
+    ".gif": 7,
+    ".jpg": 14,
+    ".html": 1,
+    ".txt": 1
+  }
+}
