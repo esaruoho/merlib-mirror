@@ -1,0 +1,322 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<title>Radio frequency noise from high energy efficiency fluorescent lights ballasts</title>
+<meta name="ROBOTS" content="index, follow">
+<meta name="REVISIT-AFTER" content="30 days">
+<meta name="DESCRIPTION" content="Radio frequency noise from high energy efficiency fluorescent lights ballast,spectrum analysis,spectrum analizer,rf noise irradiance measurement">
+<meta name="keywords" content="Radio frequency noise,radio frequency interference,rf noise,rf interference,noise irradiance,emi,emc,high energy efficiency,fluorecent lights ballasts,spectrum analysis,spectrum analizer,signal analysis,test and measurement,fundamental frequency and harmonics"> 
+<meta name="RATING" content="ALL">
+<meta name="AUTHOR" content="FRANCESCO ERRANTE, http://www.rf-lighting.com/">
+  <link href="rf-lighting.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" type="text/javascript">
+    var message = "THIS WORK IS PATENTED & Copyright 2003-2015 RF Lighting Devices. No reproduction, in whole or in part, without written permission. Material is governed by the Copyright, Designs and Patent Act. All rights reserved.";
+    function rtclickcheck(keyp){ if (navigator.appName == "Netscape" && keyp.which == 3){   alert(message); return false; }
+    if (navigator.appVersion.indexOf("MSIE") != -1 && event.button == 2) {  alert(message);     return false; } }
+    document.onmousedown = rtclickcheck;
+</script>
+<style type="text/css">
+A:link {text-decoration: none ; color: #0000FF; font-family: Times New Roman, Verdana, Tahoma, Arial, Helvetica, sans-serif; font-size: 12pt;}
+  A:visited {text-decoration: none ; color: #740163; font-family: Times New Roman, Verdana, Tahoma, Arial, Helvetica, sans-serif; font-size: 12pt;}
+  A:hover {text-decoration: none ; color: #FF0000; font-family: Times New Roman, Verdana, Tahoma, Arial, Helvetica, sans-serif; font-size: 12pt;}
+  BODY {text-decoration: none ; color: #000000; font-family: Times New Roman, Verdana, Tahoma, Arial, Helvetica, sans-serif; font-size: 12pt;}
+  </style>
+
+<style type="text/css">
+ body {
+  background-color: #FFFFFF; }
+ .wide { word-spacing: 15px; font-weight: bold; }
+ .narrow { word-spacing: -3px; font-weight: bold; }
+ .doublespaced { line-height: 1.5; }
+</style>
+
+
+
+</head>
+
+<body lang="EN" bgcolor="#FFFFFF">
+
+  <!-- header -->
+
+   <table  width="800" align="center" bgcolor="#FFFFFF"  cellpadding="0" cellspacing="0" border="0">
+     <tr>
+      <td align="center" width="800" height="20"> </td>
+    </tr>  
+
+<tr>
+
+<td  bgcolor="#FFFFFF" height="120" align="center" vAlign="middle" > 
+
+<img src="img/header.png" width="766" height="106" align="center" vAlign="middle" vspace="0" hspace="0" border="0" alt="RF Lighting Devices - Italy - Logo">
+
+</td> 
+</tr>
+<tr>
+      <td align="center" width="800" height="10"> </td>
+    </tr>
+  </table>
+
+ <!-- header end -->
+
+<!-- navigatore -->
+
+
+<table width="800" align="center" cellpadding="0" cellspacing="0" border="0">
+    <tr>
+      
+      <td width="16%" height="30" align="center" Valign="middle" style="width:16%; background-color:#B50000"
+            onmouseover="this.style.backgroundColor='gold';" onmouseout=
+            "this.style.backgroundColor='#B50000';">
+<a href="index.html"><font face="Tahoma" color="#FFFFFF">Home</font></a> 
+</td>
+
+        <td width="16%" height="30" align="center" Valign="middle" style="width:16%; background-color:#B50000"
+            onmouseover="this.style.backgroundColor='gold';" onmouseout=
+            "this.style.backgroundColor='#B50000';"> 
+<a href="http://www.radiondistics.com/detector.htm" target="_blank"><font face="Tahoma" color="#FFFFFF">Background</font></a>
+</td>
+       
+       <td width="16%" height="30" align="center" Valign="middle" style="width:16%; background-color:#B50000"
+            onmouseover="this.style.backgroundColor='gold';" onmouseout=
+            "this.style.backgroundColor='#B50000';">
+        <a href="https://goo.gl/ADkoBz" target="_blank"><font face="Tahoma" color="#FFFFFF">Patents</font></a>
+</td>
+
+
+
+ <td width="16%" height="30" align="center" Valign="middle" style="width:16%; background-color:#B50000"
+            onmouseover="this.style.backgroundColor='gold';" onmouseout=
+            "this.style.backgroundColor='#B50000';">
+<a href="http://www.ic.gc.ca/eic/site/smt-gst.nsf/eng/sf01618.html" target="_blank"><font face="Tahoma" color="#FFFFFF">Standards</font></a> 
+
+</td>
+
+       <td width="16%" height="30" align="center" Valign="middle" style="width:16%; background-color:#B50000"
+            onmouseover="this.style.backgroundColor='gold';" onmouseout=
+            "this.style.backgroundColor='#B50000';">
+<a href="http://www.rf-lighting.com/" target="_blank"><font face="Tahoma" color="#FFFFFF">Products</font></a> 
+
+</td>
+        <td width="16%" height="30" align="center" Valign="middle" style="width:16%; background-color:#B50000"
+            onmouseover="this.style.backgroundColor='gold';" onmouseout=
+            "this.style.backgroundColor='#B50000';">
+        <a href="contact.htm"><font face="Tahoma" color="#FFFFFF">Contact us</font></a> 
+</td>
+
+
+      
+    </tr>
+  </table>
+
+
+
+
+<table  width="800" align="center" cellpadding="0" cellspacing="0" border="0">
+    <tr>
+      <td align="center" width="800" height="15"> </td>
+    </tr>
+  </table>
+
+<!-- end head clearance-->
+
+
+
+<table  width="800" align="center" cellpadding="0" cellspacing="0" border="0">
+    <tr>
+      <td align="center">
+
+<p align="justify">
+<font face="Tahoma" size="3">Radiated RF noise from electronic ballasts. 
+The video herebelow shows a spectrum analyzer sweeping in the frequency range between 10 Hz to 1 MHz. 
+</font></p>
+
+
+
+
+<table  width="800" align="center" cellpadding="0" cellspacing="0" border="0">
+    <tr>
+      <td align="center" width="800" height="5"> </td>
+    </tr>
+  </table>
+
+
+
+<table   width="800" height="480" align="center" cellpadding="0" cellspacing="0"  border="0">
+    <tr>
+      <td align="center" width="800" height="480" valign="top" > 
+ <p align="center"><object type="application/x-shockwave-flash" allowscriptaccess="never" allownetworking="internal" width="640" height="480" data="https://www.youtube.com/v/q9j5HyA2a6Y&start=0&end=1,2&playlist=CU94Ou45GZY,fV7dIC3uZ8I,dcx89XYkFiE&autoplay=0&loop=1&vq=hd720&autohide=1&controls=1&fs=0&modestbranding=0&rel=0&showinfo=1">
+                      <param name="allowScriptAccess" value="never">
+                      <param name="allowNetworking" value="internal">
+                      <param name="movie" value="http://www.youtube.com/v/q9j5HyA2a6Y&start=0&end=1,2&playlist=CU94Ou45GZY,fV7dIC3uZ8I,dcx89XYkFiE&autoplay=0&loop=1&vq=hd720&autohide=1&controls=1&fs=0&modestbranding=0&rel=0&showinfo=1">
+                    </object></p>
+</td>
+    </tr>
+
+
+<tr>
+      <td align="center" width="800" height="5"> </td>
+    </tr>
+
+  <tr>
+      <td align="center" width="800" height="40" valign="middle" >
+<p style=" line-height: 0.5" align="center"><font face="Tahoma" size="1" color="#000000">
+Radio frequency noise from high energy efficiency fluorescent lights ballast. Courtesy of <em>MegawattKS</em>
+</font></p> 
+</td>
+    </tr>
+  </table>
+
+
+ 
+
+  <table   align="center" width="800"  height="5" cellpadding="0" cellspacing="0" border="0">
+    <tr>
+      <td align="center" width="800" height="5"> </td>
+    </tr>
+  </table>
+
+
+
+<p style="line-height: 1.5" align="justify"><font face="Tahoma" size="3" color="#000000">&nbsp;</p>
+
+
+<p style="line-height: 1.5" align="justify"><font face="Tahoma" size="1" color="#000000">
+<strong><em>RF Lighiting Devices'</em> equipment are designed and constructed in accordance with good
+engineering practice and state-of-the-art technology and have sufficient shielding and filtering 
+to provide adequate suppression of all radiated and/or conducted unwanted emission, according to the highest 
+<em>interference-causing equipment</em> industrial standard.     
+</strong></font></p>
+
+
+</td>
+    </tr>
+</table>
+
+
+
+
+
+
+
+<table  width="800" align="center" cellpadding="0" cellspacing="0" border="0">
+    <tr>
+      <td align="center" width="800" height="50"> </td>
+    </tr>
+  </table>
+
+
+<!-- Copyright notice starts here -->
+
+
+
+ <table  width="800" align="center" cellpadding="0" cellspacing="0" border="0">
+    <tr>
+      <td align="center">
+
+              
+
+              <p style="line-height: 1.5" align="center"><font face="Tahoma" size="2" color="#000000">
+               All the concepts, methods, designs and devices presented on this web site<br>
+              are the original novelty works of <em>FRANCESCO ERRANTE</em>.<br>
+              Patents &amp; Copyright &copy; 2003-<script language="JavaScript" type="text/javascript">
+
+
+<!--
+
+
+    today=new Date();
+
+
+    y0=today.getFullYear();
+
+
+    document.write(y0);
+
+
+//--->
+
+
+</script> of <em>FRANCESCO ERRANTE</em>.<br>
+              <br>Material is governed by the Copyright, Designs and Patent Act.
+<br>No reproduction, in whole or in part, without written permission.<br>
+Copies of these documents made by electronic or mechanical means, including information storage and retrieval systems, may only be employed for personal use.<br>
+All rights reserved.</font></p>
+
+
+             
+            </td>
+          </tr>
+        </table><!-- Copyright notice ends here -->
+
+
+
+
+<table  width="800" align="center" cellpadding="0" cellspacing="0" border="0">
+    <tr>
+      <td align="center" width="800" height="50"> </td>
+    </tr>
+  </table>
+
+<!-- end clearance-->
+
+
+
+ 
+
+
+ <table bgcolor="#B50000"  cellpadding="0" cellspacing="0" width="800" align="center"  border="0">
+    <tr>
+      
+      <td width="800" height="40" align="center" valign="bottom">
+
+        <hr color="#FFFFFF" noshade align="center" width="90%">
+
+               <p style="line-height: 1.5" align="center"><font face="Tahoma" size="1" color="#FFFFFF">
+All rights reserved. Copyright &copy; 2015 - <script language="JavaScript"
+        type="text/javascript">
+<!--
+    today=new Date();
+    y0=today.getFullYear();
+    document.write(y0);
+//--->
+</script> <em>RF Lighting Devices</em>, Italy | RF-Lighting.com</font></p>
+      </td>
+    </tr>
+    
+
+<tr>
+      
+      <td width="800" height="5" align="center" valign="bottom">
+</td>
+</tr>
+
+  </table>
+
+
+
+
+
+<table width="800" align="center" cellpadding="0" cellspacing="0" border="0">
+    <tr>
+      <td width="800" height="10" align="center" valign="bottom">
+    </tr>
+
+    <tr>
+      <td width="800" align="center">
+        
+<script type="text/javascript">
+var sc_project=10559569; 
+var sc_invisible=1; 
+var sc_security="5d254946"; 
+</script> <script type="text/javascript" language="javascript" src="https://www.statcounter.com/counter/counter.js">
+</script> <noscript></noscript>
+      </td>
+    
+</tr>
+  </table>
+
+
+</body>
+</html>

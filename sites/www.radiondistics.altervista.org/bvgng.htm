@@ -1,0 +1,620 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+  <title>Virtual ground node generator for balanced transmission lines &copy; 2008 Francesco
+  Errante</title>
+  <meta http-equiv="Content-Type" content="text/html"> 
+  <meta name="AUTHOR" content="francesco errante,radiondistics.com,errante-instruments.com">
+  <meta name="AUDIENCE" content="All">
+  <meta name="ROBOTS" content="INDEX,FOLLOW">
+  <meta name="REVISIT-AFTER" content="30 days">
+    <meta name="keywords" content="radiondistics,physics,francesco errante">  <link href="master.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" type="text/javascript">
+    var message = "THIS WORK IS PATENTED & Copyright 1985-2026 FRANCESCO ERRANTE. No reproduction, in whole or in part, without written permission. Material is governed by the Copyright, Designs and Patent Act. All rights reserved.";
+    function rtclickcheck(keyp){ if (navigator.appName == "Netscape" && keyp.which == 3){   alert(message); return false; }
+    if (navigator.appVersion.indexOf("MSIE") != -1 && event.button == 2) {  alert(message);     return false; } }
+    document.onmousedown = rtclickcheck;
+</script>
+<style type="text/css">
+ body {
+  background-color: #000000;
+ }
+ p.c8 {font-size: 51%}
+ hr.c7 {text-align: center}
+ p.c6 {text-align: center}
+ span.c5 {font-size: 51%}
+ p.c4 {color: #B00000; text-align: justify}
+ span.c3 {font-size: 70%}
+ p.c2 {color: #1C60AB; font-size: 144%}
+ p.c1 {text-align: justify}
+ .wide { word-spacing: 15px; font-weight: bold; }
+ .narrow { word-spacing: -3px; font-weight: bold; }
+ .doublespaced { line-height: 1.5; }
+</style>
+<script type="text/javascript">
+<!--
+function dropdown(mySel)
+{
+var myWin, myVal;
+myVal = mySel.options[mySel.selectedIndex].value;
+if(myVal)
+   {
+   if(mySel.form.target)myWin = parent[mySel.form.target];
+   else myWin = window;
+   if (! myWin) return true;
+   myWin.location = myVal;
+   }
+return false;
+}
+//-->
+</script>
+</head>
+
+<body>
+  <table cellspacing="0" cellpadding="0" width="900" align="center" border="0">
+    <tr>
+      <!-- row 1 -->
+
+      <td width="167" height="24" valign="top" align="center"><img height="24" src=
+      "graphics/top_left.jpg" width="167" border="0"></td>
+
+      <td width="733" height="24" valign="top" align="right" background="graphics/top_middle.jpg">
+      <img src="graphics/top_right.jpg" height="24" border="0"></td>
+    </tr>
+
+    <tr>
+      <!-- row 2 -->
+
+      <td width="167" height="65" valign="top" align="center"><img height="65" src=
+      "graphics/gradient.jpg" width="167" border="0"></td>
+
+      <td width="733" height="65" align="left" valign="top" background="graphics/header_bg.jpg">
+      <img width="613" height="48" src="graphics/radiondistics.jpg" vspace="0" hspace="0" alt=
+      "www.RADIONDISTICS.com" border="0"></td>
+    </tr>
+
+    <tr>
+      <!-- row 3 -->
+
+       <td width="167" valign="top" align="left" background="graphics/expand.gif">
+          <img src="graphics/new_back.jpg" border="0" height="306" width="167">       
+
+
+        <table width="140" height="50" border="0">
+          <tr>
+            <td width="140" height="50" valign="top"></td>
+          </tr>
+        </table>
+
+        
+
+        <table width="140" height="50" border="0">
+          <tr>
+            <td width="140" height="50" valign="top"></td>
+          </tr>
+        </table>
+
+           <table width="140" height="380" border="0">
+
+        <tr>
+            <td width="140" valign="top" align="left" bgcolor="#A5A243">
+               <p align="left"><font color="#FFFF00"><big><strong>Planning a trip to Sicily? Then,
+              make sure you won't be feeding the Mafia!</strong></big></font></p>
+             <p align="center><a href=
+            "http://www.addiopizzotravel.it/default.asp?hl=en" target="_blank"><img src="images/addiopizzo.jpg"
+            width="140" height="246" valign="top" align="center" alt=
+            "Pizzo-free travel - brought to you by the ADDIO PIZZO's guys" border="0"></a></p>
+            </td>
+          </tr>
+
+                    
+        </table>
+      </td>
+
+      <td width="733" align="left" valign="top" bgcolor="#FFFFFF">
+        <!-- START OF MENU -->
+
+        <table height="50" cellspacing="0" cellpadding="5" width="100%" border="0">
+          <tr>
+            <td height="30" align="center" valign="top" bgcolor="#FFFFFF"><a href=
+            "index.html">Home</a></td>
+
+            <td height="30" align="center" valign="top" bgcolor="#FFFFFF"></td>
+
+            <td height="30" align="center" valign="top" bgcolor="#FFFFFF"><a href=
+            "bvgng_it.htm"><img src="graphics/tricolore.jpg" width="30" height="20" border="0" alt=
+            "versione italiana"></a></td>
+
+            <td height="30" align="center" valign="top" bgcolor="#FFFFFF"></td>
+
+            <td height="30" align="center" valign="top" bgcolor="#FFFFFF"><a href=
+            "scientific_index.htm">Scientific Products</a></td>
+
+            <td height="30" align="center" valign="top" bgcolor="#FFFFFF"></td>
+
+            <td height="30" align="center" valign="top" bgcolor="#FFFFFF"><a href=
+            "communications_index.htm">RF Communications Products</a></td>
+
+            <td height="30" align="center" valign="top" bgcolor="#FFFFFF"></td>
+
+            <td height="30" align="center" valign="top" bgcolor="#FFFFFF"><a href=
+            "contact.htm">Contact</a></td>
+
+            <td height="30" align="center" valign="top" bgcolor="#FFFFFF"></td>
+
+            <td height="80" align="center" valign="top" bgcolor="#FFFFFF"></td>
+
+          </tr>
+
+          
+        </table>
+
+        <table width="100%" cellspacing="0" cellpadding="0" align="center" border="0">
+          <tr>
+            <td align="center" valign="top" width="100%" height="20">
+              <p align="left"><strong>If you have a scientific interest in the physics of the
+              radio, you should browse this site as an e-book!</strong></p>
+            </td>
+          </tr>
+
+          <tr>
+            <td width="100%" height="30" valign="bottom" align="center">
+              <form action="./" method="post" onsubmit="return dropdown(this.gourl)">
+                <select name="gourl">
+                  <option value="">
+                    Please select a page from this menu and hit the GO button
+                  </option>
+
+                  <option value="index.html">
+                    Home page
+                  </option>
+
+                  <option value="index.htm">
+                    A foreword by the Author
+                  </option>
+
+                  <option value="author.htm">
+                    A short Author's autobiography
+                  </option>
+
+                  <option value="hertzian_radiation.htm">
+                    The hertzian radiation, better known as radio waves
+                  </option>
+
+                  <option value="detector.htm">
+                    The ionizing power of the hertzian radiation. A detection by radioluminescence
+                  </option>
+
+                  <option value="radioelectric_transducers.htm">
+                    The radio-electric transducers, better known as radio antennas
+                  </option>
+
+                  <option value="self_antagonist.htm">
+                    The self-antagonist transducers
+                  </option>
+
+                  <option value="suppressor.htm">
+                    Authopsy of an OPEN DIPOLE antenna
+                  </option>
+
+                  <option value="balun_300.htm">
+                    Authopsy of a FOLDED DIPOLE antenna
+                  </option>
+
+                  <option value="antenna_errante.htm">
+                    The elementary radiator, also known as the Errante's virtual ground HF antenna
+                  </option>
+
+                  <option value="balun_errante.htm">
+                    The virtual ground BalUn, also known as the Errante's BalUn
+                  </option>
+
+                  <option value="capacitive_grounding.htm">
+                    Errante's capacitive RF earth grounding system
+                  </option>
+
+                  <option value="balanced_lines.htm">
+                    The balanced RF transmission line behaviour in a progressive wave regime
+                  </option>
+
+                  <option value="bvgng.htm">
+                    Virtual ground node generator for balanced RF transmission lines
+                  </option>
+
+                  <option value="vgng.htm">
+                    Virtual ground node generator for un-balanced RF transmission lines
+                  </option>
+
+                  <option value="multiband.htm">
+                    Errante's 225 Ohm, multiband HF antenna system
+                  </option>
+
+                  <option value="quadripole.htm">
+                    Errante's HF turnstile antenna broadband driver
+                  </option>
+
+                  <option value="overview.htm">
+                    From capacitive to virtual grounding, all the Radiondistics' building block at
+                    a glance
+                  </option>
+                </select> <input type="SUBMIT" value="Go">
+              </form>
+            </td>
+          </tr>
+        </table><!-- end of menu -->
+
+        <table cellspacing="0" cellpadding="5" width="100%" border="0">
+          <tr>
+            <td width="80%" align="left" valign="top" bgcolor="#FFFFFF">
+              <table width="100%" cellspacing="0" cellpadding="0" border="0">
+                <tr>
+                  <td width="100%" height="10" align="center" valign="top" bgcolor="#FFFFFF"></td>
+                </tr>
+              </table>
+
+              <table cellspacing="0" cellpadding="5" width="100%" border="0">
+                <tr>
+                  <td align="left">
+                    <p align="left"><img src="graphics/new.gif" valign="middle" border="0">
+                    <a href="capacitive_grounding.htm"><font size="4" color="#1C60AB">Errante's
+                    CAPACITIVE EARTH GROUNDING SYSTEM</font></a></p>
+
+                    <p align="left"><font size="4" color="#1C60AB">See also:</font> <a href=
+                    "vgng.htm"><font size="4" color="#1C60AB">Virtual ground node generator for
+                    unbalanced lines</font></a></p>
+
+                    <p>�</p>
+
+                    <p align="center"><font size="+2" color="#1C60AB"><em>VIRTUAL GROUND NODE
+                    GENERATOR<br>
+                    for<br>
+                    BALANCED TRANSMISSION LINES</em><br>
+                    <small>in-line
+                    "<strong>B</strong>.<strong>V</strong>.<strong>G</strong>.<strong>N</strong>.
+                    <strong>G</strong>.", for short</small></font><br>
+                    <br></p>
+
+                    <p align="center"><img src="photos/bal-bal/bvgng_header.jpg" width="580"
+                    height="600" hspace="0" vspace="0" alt=
+                    "Errante's virtual ground node generator for balanced lines - Errante's BVGNG"></p>
+
+                    <p align="center"><font size="4"><em>Virtual ground node generator for
+                    balanced transmission lines</em> .</font></p>
+
+                    <p align="left"><font size="4">Freq. range: da 1 a 30 MHz<br>
+                    Input impedance: 300 Ohm<br>
+                    Output impedance: 300 Ohm<br>
+                    Input/output S.W.R.: � 1:1 within freq. range<br>
+                    Insertion loss: -0.01 dB<br>
+                    RF Power: 3 KW cw<br>
+                    Connectors type: M6 studs<br>
+                    Weight : 1 Kg ca.</font></p>
+
+                    <p align="center"><img src="photos/bal-bal/unbalun_header.jpg" width="580"
+                    height="168" hspace="0" vspace="0" alt=
+                    "Virtual ground node generator for balanced transmission lines being tested for frequency response flatness within its specified frequency spectrum">
+                    </p>
+
+                    <p align="center"><strong>Picture of the virtual ground node generator for
+                    balanced transmission lines being tested for frequency response
+                    flatness.</strong></p>
+
+                    <p>�</p>
+
+                    <p align="justify"><font size="4" color="#1C60AB"><strong>The virtual ground
+                    node generator for balanced transmission lines</strong> : what it is and how it
+                    works.</font></p>
+
+                    <p align="justify"><font size="2"><strong>The virtual ground node generator for
+                    balanced transmission lines.</strong></font><br>
+                    <br>
+                    <font size="1">by <em>Francesco Errante</em></font></p>
+
+                    <div class="doublespaced">
+                      <p align="justify"><strong>The reader who's not already familiar with the
+                      virtual ground node mechanism is strongly adviced to read about the <a href=
+                      "antenna_errante.htm"><em>virtual ground monopole HF antenna</em></a> and its
+                      <a href="suppressor.htm">background</a>, prior to proceeding with the reading
+                      of this page.</strong><br>
+                      <br>
+                      The virtual ground node generator for balanced transmission lines and
+                      balanced antenna systems (B.V.G.N.G. for short) is a radioelectric circuit
+                      based on the same principals governing the <a href="vgng.htm">virtual ground
+                      node generator for unbalanced lines</a> and it is built around a broadband
+                      high power flux-coupled RF transformer having a 300 Ohm center-tapped
+                      balanced primary winding and a 300 Ohm center-tapped balanced secondary
+                      winding (Bal-Bal 1:1). The two central-tappings, each of them seat of a
+                      virtual ground node, are bonded together and connected to the chassis,
+                      ensuring a complete galvanic continuity amongst all the branches of this
+                      device.<br>
+                      <br>
+                      This device allows to de-coupling the half-a-wave <a href=
+                      "balun_300.htm">folded dipole</a> (300 Ohm impedance) from its balanced
+                      transmission line (300 Ohm impedance) by imposing a clear-cut electric
+                      boundary for the RF signals flowing between the transmission line and the
+                      folded dipole antenna, in order for the dipole to exhibit its true bandwidth
+                      and for the transmission line not to interfere with it.<br>
+                      In the absence of a clear-cut boundary between the transmission line and the
+                      radiator, infact, the transmission line acts as part of the radiating
+                      circuit, inevitably, modifying its electrical length and giving it-self
+                      origin to <a href="hertzian_radiation.htm">hertzian radiation</a>, with
+                      unpleasant consequences such as: loss of signal, radio interferences
+                      induction on the surrounding equipment and, above all, the illusion of a
+                      phenomenon of resonance of the transmission line it-self. <a href=
+                      "balanced_lines.htm">Balanced lines</a> are, instead, aperiodic as
+                      demonstrated <a href="balanced_lines.htm">here</a>.</p>
+
+                      <p align="center"><img src=
+                      "photos/bal-bal/dipole_no_line_radiation_low_power.jpg" width="593" height=
+                      "440" hspace="0" vspace="0" alt=
+                      "A properly adapted 300 Ohm balanced transmission line terminated on a 1/2 wavelenght folded dipole, through a balanced virtual ground node generator, undergoing a low power radioscopic detection. Experimental verification of the IInd Errante's law applied to the transmission line">
+                      </p>
+
+                      <p align="center"><font size="1">A folded dipole and its transmission line,
+                      de-coupled through a BVGNG - Radioscopic detection of the RF electric field
+                      generated by the radiator and absence of radiation by the balanced
+                      transmission line.</font></p>
+
+                      <p align="center"><img src=
+                      "photos/bal-bal/dipole_no_line_radiation_high_power.jpg" align="center"
+                      width="593" height="380" hspace="0" vspace="0" alt=
+                      "A properly adapted 300 Ohm balanced transmission line terminated on a 1/2 wavelenght folded dipole, through a balanced virtual ground node generator, undergoing an high power radioscopic detection. Experimental verification of the IInd Errante's law applied to the transmission line">
+                      </p>
+
+                      <p align="center"><font size="1">A properly adapted 300 Ohm balanced
+                      transmission line terminated on a 1/2 wavelenght folded dipole, through a
+                      balanced virtual ground node generator, undergoing an high power (1 kW CW)
+                      radioscopic detection. Experimental verification of the IInd Errante's law
+                      applied to the transmission line</font></p>
+
+                      <p align="center"><img src=
+                      "photos/bal-bal/dipole_no_line_radiation_high_power_sideview.jpg" align=
+                      "center" width="593" height="210" hspace="0" vspace="0" alt=
+                      "A properly adapted 300 Ohm balanced transmission line terminated on a 1/2 wavelenght folded dipole, through a balanced virtual ground node generator, undergoing an high power radioscopic detection. Experimental verification of the IInd Errante's law applied to the transmission line">
+                      </p>
+
+                      <p align="center"><font size="1">A properly adapted 300 Ohm balanced
+                      transmission line terminated on a 1/2 wavelenght folded dipole, through a
+                      balanced virtual ground node generator, undergoing an high power (1 kW CW)
+                      radioscopic detection. Experimental verification of the IInd Errante's law
+                      applied to the transmission line</font></p>
+
+                      <p align="justify">This device can be built to suit any impedance
+                      transformation ratio. For example: to properly feed an half a wavelength open
+                      dipole with a 300 Ohm bifilar transmission line, it is necessary a Bal-Bal
+                      having an imput impedance of 300 Ohm ed an output impedance of 70 Ohm.<br>
+                      <br>
+                      <strong>Moreover, the B.V.G.N.G. can be employed to generate a virtual ground
+                      node anywhere along a balanced transmission line.</strong></p>
+                    </div>
+
+                    <p align="justify"><strong><strong>Scientific relevance:</strong></strong></p>
+
+                    <table border="0" width="400" cellpadding="5" cellspacing="0" align="center">
+                      <tr>
+                        <td align="center" width="400">
+                          <div class="doublespaced">
+                            <p align="justify">The B.V.G.N.G. demonstrates that a balanced
+                            transmission line, when correctly de-coupled from the radiator, always
+                            exhibits an aperiodic behaviour, even if it is terminated on matched
+                            reactive loads.<br>
+                            See: <a href="balanced_lines.htm"><strong>the behaviour of balanced
+                            transmission lines for radiofrequency electric signals in a progressive
+                            wave regime</strong></a></p>
+                          </div>
+                        </td>
+                      </tr>
+                    </table>
+
+                    <p align="justify"><strong>Operational advantages:</strong></p>
+
+                    <table border="0" width="400" cellpadding="5" cellspacing="0" align="center">
+                      <tr>
+                        <td align="center" width="400">
+                          <div class="doublespaced">
+                            <p align="justify">
+                            a) Ensured aperiodicity of the employed balanced
+                            transmission line;<br>
+                            <br>
+                            b) inhibition of hertzian radiation onset from the balanced transmission
+                            line;<br>
+                            <br>
+                            c) full rejection of the co-phased currents induced onto a balanced
+                               transmission lines by any external RF source;<br>
+                            <br>
+                            d) diminuisced signal losses.
+</p>
+                          </div>
+                        </td>
+                      </tr>
+                    </table>
+
+                    <p>�</p>
+
+                    <table bordercolo="#FFFF00" bordercolorlight="#FFFF00" bordercolordark=
+                    "#FFFF00" border="1" width="440" height="235" cellpadding="10" cellspacing="0"
+                    align="center">
+                      <tr>
+                        <td align="left" width="440" height="150">
+                          <img src="graphics/guarantee.jpg" width="161" height="143" alt=
+                          "Unconditional Lifetime Guarantee" align="left">
+
+                          <p align="justify"><font color="green"><strong>Price</strong>:<br>
+                          Euro 300,00 +V.A.T. and shipping costs.<br>
+                          For an useful currency converter click <a href="http://www.xe.com/ucc/"
+                          target="_blank">here</a></font><br>
+                          <br>
+                          <br>
+                          <br>
+                          <br>
+                          <br>
+                          <strong>RADIONDISTICS' products carry an unconditional lifetime
+                          guarantee.</strong></p>
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+            </td><!-- END of MAIN PARAGRAPH -->
+            <!-- SIDE PARAGRAPH START -->
+
+            <td width="20%" align="right" valign="top" bgcolor="#FFFFFF">
+              <table width="100" bgcolor="#FFFFFF" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td width="100%" valign="top" align="center">
+                    <div style=
+                    "display: table; border: 1px solid blue; padding: 0px; white-space: nowrap;">
+                      <p align="center"><img src="graphics/book.jpg" width="100" height="62"
+                      valign="top" border="0" vspace="0" hspace="0" alt="Related topics"><br><br></p>
+
+                    
+
+                      <p align="center"><a href="suppressor.htm">Virtual<br>
+                      ground<br>
+                      node</a><br><br></p>
+
+                    
+
+                      <p align="center"><a href="capacitive_grounding.htm">Errante's<br>
+                      CAPACITIVE<br>
+                      EARTH<br>
+                      GROUNDING<br>
+                      SYSTEM</a><br><br></p>
+
+                    
+
+                      <p align="center"><a href="balanced_lines.htm">Balanced<br>
+                      transmission<br>
+                      lines<br>
+                      in a<br>
+                      progressive<br>
+                      wave<br>
+                      regime</a><br><br></p>
+
+                    
+
+                      <p align="center"><a href="hertzian_radiation.htm">Hertzian<br>
+                      radiation:<br>
+                      what it is<br>
+                      and how<br>
+                      it happens</a><br><br></p>
+
+                    
+                    </div>
+                  </td>
+                </tr>
+              </table><!-- END of side PARAGRAPH  -->
+            </td>
+          </tr>
+        </table>
+
+        <p>�</p>
+
+        <table border="0" width="100%" cellpadding="5" cellspacing="0" align="center">
+          <tr>
+            <td align="center" width="100%">
+              <p align="justify">�</p>
+
+              <p align="center">All the concepts, methods, designs and devices presented on this
+              web site<br>
+              are the original novelty works of <em>FRANCESCO ERRANTE</em>.<br>
+              Patents &amp; Copyright &copy; 1985-<script language="JavaScript" type="text/javascript">
+
+
+<!--
+
+
+    today=new Date();
+
+
+    y0=today.getFullYear();
+
+
+    document.write(y0);
+
+
+//--->
+
+
+</script> of <em>FRANCESCO ERRANTE</em>.<br>
+              <br>
+              Material is governed by the Copyright, Designs and Patent Act.<br>
+              No reproduction, in whole or in part, without written permission.<br>
+              Copies of these documents made by electronic or mechanical means, including
+              information storage and retrieval systems, may only be employed for personal use.<br>
+              All rights reserved.</p>
+
+              <p align="center">
+                <IMG src="graphics/alf_banner.jpg" alt="Anima Liberation Front" 
+                width="468" height="60" align="middle">
+              </p>
+
+
+            </td>
+          </tr>
+        </table>
+
+<!-- Copyright notice start -->
+
+
+
+        <table cellspacing="0" cellpadding="5" width="100%" border="0">
+          <tr>
+            <td height="20" align="center" valign="bottom">
+              <hr color="#1C60AB" noshade align="center" width="90%">
+
+              <p><font size="-3">All rights reserved. Copyright &copy; 1985-<script language=
+              "JavaScript" type="text/javascript">
+
+<!--
+
+    today=new Date();
+
+    y0=today.getFullYear();
+
+    document.write(y0);
+
+//--->
+
+</script> <a href="contact.htm">Francesco Errante</a><br>
+              www.Radiondistics.com - Tel.(+39) 339.180.1313</font></p>
+            </td>
+          </tr>
+        </table><!-- END of Copyright notice -->
+        <!-- START of BOTTOM PARAGRAPH -->
+      </td>
+    </tr>
+
+    <tr>
+      <!-- row 4 -->
+
+      <td width="167" height="23" align="center"><img height="23" src="graphics/bottom_left.jpg"
+      width="167" border="0"></td>
+
+      <td width="733" align="right" background="graphics/bottom_middle.jpg"><img height="23" src=
+      "graphics/bottom_right.jpg" border="0"></td>
+    </tr>
+  </table><!-- statcounter -->
+
+  <table width="780" cellspacing="0" cellpadding="20" align="center" border="0">
+    <tr>
+      <td height="40" align="center">
+        <script type="text/javascript" language="javascript">
+
+var sc_project=731660;
+
+var sc_partition=6;
+
+var sc_security="fbd4ad68";
+
+</script> <script type="text/javascript" language="javascript" src="https://www.statcounter.com/counter/counter.js">
+</script> <noscript><a href="http://www.statcounter.com/" target="_blank"><img src=
+"http://c7.statcounter.com/counter.php?sc_project=731660&amp;java=0&amp;security=fbd4ad68"
+        alt="free website hit counter" border="0"></a></noscript>
+      </td>
+    </tr>
+  </table>
+</body>
+</html>

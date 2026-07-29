@@ -1,0 +1,33 @@
+H1 {
+	FONT-WEIGHT: bold; FONT-SIZE: 24pt; COLOR: blue; FONT-STYLE: normal; FONT-FAMILY: Trebuchet MS, Verdana, sans-serif
+}
+H2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 18pt; COLOR: blue; FONT-STYLE: normal; FONT-FAMILY: Trebuchet MS, Verdana, sans-serif
+}
+H3 {
+	FONT-WEIGHT: bold; FONT-SIZE: 16pt; COLOR: blue; FONT-STYLE: italic; FONT-FAMILY: Trebuchet MS, Verdana, sans-serif
+}
+H4 {
+	FONT-WEIGHT: bold; FONT-SIZE: 14pt; COLOR: blue; FONT-STYLE: normal; FONT-FAMILY: Trebuchet MS, Verdana, sans-serif
+}
+H5 {
+	FONT-WEIGHT: bold; FONT-SIZE: 12pt; COLOR: blue; FONT-STYLE: normal; FONT-FAMILY: Trebuchet MS, Verdana, sans-serif
+}
+H6 {
+	FONT-WEIGHT: bold; FONT-SIZE: 10pt; COLOR: blue; FONT-STYLE: normal; FONT-FAMILY: Trebuchet MS, Verdana, sans-serif
+}
+BODY {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: black; FONT-STYLE: normal; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif
+}
+P {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: black; FONT-STYLE: normal; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif
+}
+A:link {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: blue; FONT-STYLE: normal; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif
+}
+A:hover {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: navy; FONT-STYLE: normal; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif
+}
+A:visited {
+	FONT-WEIGHT: normal; FONT-SIZE: 10pt; COLOR: #3d99f5; FONT-STYLE: normal; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif
+}

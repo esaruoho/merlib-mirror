@@ -1,0 +1,495 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+
+<html>
+<head>
+  <title>TRANSMISSION LINE CALCULATOR &copy; 2000 Michael A. Lee  and  Kevin E. Schmidt</title>
+  <meta http-equiv="Content-Type" content="text/html"> 
+  <meta name="AUTHOR" content="francesco errante,radiondistics.com,errante-instruments.com">
+  <meta name="AUDIENCE" content="All">
+  <meta name="ROBOTS" content="INDEX,FOLLOW">
+  <meta name="REVISIT-AFTER" content="30 days">
+    <meta name="keywords" content="radiondistics,physics,francesco errante">
+    <link href="master.css" rel="stylesheet" type="text/css">
+<script type="text/javascript">
+function downloadJSAtOnload() {
+var element = document.createElement("script");
+element.src = "defer.js";
+document.body.appendChild(element);
+}
+if (window.addEventListener)
+window.addEventListener("load", downloadJSAtOnload, false);
+else if (window.attachEvent)
+window.attachEvent("onload", downloadJSAtOnload);
+else window.onload = downloadJSAtOnload;
+</script>
+<script language="JavaScript" type="text/javascript">
+    var message = "THIS WORK IS PATENTED & Copyright 1985-2026 FRANCESCO ERRANTE. No reproduction, in whole or in part, without written permission. Material is governed by the Copyright, Designs and Patent Act. All rights reserved.";
+    function rtclickcheck(keyp){ if (navigator.appName == "Netscape" && keyp.which == 3){   alert(message); return false; }
+    if (navigator.appVersion.indexOf("MSIE") != -1 && event.button == 2) {  alert(message);     return false; } }
+    document.onmousedown = rtclickcheck;
+</script>
+<style type="text/css">
+ body {
+  background-color: #000000;
+ }
+ p.c8 {font-size: 51%}
+ hr.c7 {text-align: center}
+ p.c6 {text-align: center}
+ span.c5 {font-size: 51%}
+ p.c4 {color: #B00000; text-align: justify}
+ span.c3 {font-size: 70%}
+ p.c2 {color: #1C60AB; font-size: 144%}
+ p.c1 {text-align: justify}
+ .wide { word-spacing: 15px; font-weight: bold; }
+ .narrow { word-spacing: -3px; font-weight: bold; }
+ .doublespaced { line-height: 1.5; }
+</style>
+<script type="text/javascript">
+<!--
+function dropdown(mySel)
+{
+var myWin, myVal;
+myVal = mySel.options[mySel.selectedIndex].value;
+if(myVal)
+   {
+   if(mySel.form.target)myWin = parent[mySel.form.target];
+   else myWin = window;
+   if (! myWin) return true;
+   myWin.location = myVal;
+   }
+return false;
+}
+//-->
+</script>
+</head>
+
+<body>
+  <table cellspacing="0" cellpadding="0" width="900" align="center" border="0">
+    <!-- row 1 -->
+
+    <tr>
+      <td width="167" height="24" valign="top" align="center"><img height="24" src=
+      "graphics/top_left.jpg" width="167" border="0"></td>
+
+      <td width="733" height="24" valign="top" align="right" background="graphics/top_middle.jpg">
+      <img src="graphics/top_right.jpg" height="24" border="0"></td>
+    </tr>
+
+    <tr>
+      <!-- row 2 -->
+
+      <td width="167" height="65" valign="top" align="center"><img height="65" src=
+      "graphics/gradient.jpg" width="167" border="0"></td>
+
+      <td width="733" height="65" align="left" valign="top" background="graphics/header_bg.jpg">
+      <img width="613" height="48" src="graphics/radiondistics.jpg" vspace="0" hspace="0" alt=
+      "www.RADIONDISTICS.com" border="0"></td>
+    </tr>
+
+    <tr>
+       <!-- row 3 -->
+
+       <td width="167" valign="top" align="left" background="graphics/expand.gif">
+          <img src="graphics/new_back.jpg" border="0" height="306" width="167">       
+
+
+        <table width="140" height="50" border="0">
+          <tr>
+            <td width="140" height="50" valign="top"></td>
+          </tr>
+        </table>
+
+        
+
+        <table width="140" height="50" border="0">
+          <tr>
+            <td width="140" height="50" valign="top"></td>
+          </tr>
+        </table>
+
+        <table width="140" height="380" border="0">
+          <tr>
+            <td width="140" height="380" valign="top" align="left" bgcolor="#A5A243">
+              <p align="left"><font color="#FFFF00"><big><strong>Planning a trip to Sicily? �Then,
+              make sure you won't be feeding the Mafia!</strong></big></font></p>
+            <a href=
+            "http://www.addiopizzotravel.it/default.asp?hl=en" target="_blank"><img src="images/addiopizzo.jpg"
+            width="140" height="246" valign="top" align="center" alt=
+            "Pizzo-free travel - brought to you by the ADDIO PIZZO's guys" border="0"></a></td>
+          </tr>
+        </table>
+      </td>
+
+      <td width="733" align="left" valign="top" bgcolor="#FFFFFF">
+        <!-- START OF MENU -->
+        <table cellspacing="0" cellpadding="5" width="100%" border="0">
+          <tr>
+            <td height="20" align="center" valign="top" bgcolor="#FFFFFF"><a href=
+            "index.html">Home</a></td>
+
+            <td height="20" align="center" valign="top" bgcolor="#FFFFFF"></td>
+
+            <td height="20" align="center" valign="top" bgcolor="#FFFFFF"></td>
+
+                    
+
+            <td height="20" align="center" valign="top" bgcolor="#FFFFFF"></td>
+
+            <td height="20" align="center" valign="top" bgcolor="#FFFFFF"><a href=
+            "scientific_index.htm">Scientific Products</a></td>
+
+            <td height="20" align="center" valign="top" bgcolor="#FFFFFF"></td>
+
+            <td height="20" align="center" valign="top" bgcolor="#FFFFFF"><a href=
+            "communications_index.htm">RF Communications Products</a></td>
+
+            <td height="20" align="center" valign="top" bgcolor="#FFFFFF"></td>
+
+            <td height="20" align="center" valign="top" bgcolor="#FFFFFF"><a href=
+            "contact.htm">Contact</a></td>
+          </tr>
+
+          <tr>
+            <td height="20" colspan="9" align="center" valign="top" bgcolor="#FFFFFF"></td>
+          </tr>
+        </table>
+<table width="100%" cellspacing="0" cellpadding="0" align="center" border="0">
+          <tr>
+            <td align="center" valign="top" width="100%" height="20">
+              <p align="left"><strong>If you have a scientific interest in the physics of the
+              radio, you should browse this site as an e-book!</strong></p>
+            </td>
+          </tr>
+
+          <tr>
+            <td width="100%" height="30" valign="bottom" align="center">
+              <form action="./" method="post" onsubmit="return dropdown(this.gourl)">
+                <select name="gourl">
+                  <option value="">
+                    Please select a page from this menu and hit the GO button
+                  </option>
+
+                  <option value="index.html">
+                    Home page
+                  </option>
+
+                  <option value="index.htm">
+                    A foreword by the Author
+                  </option>
+
+                  <option value="author.htm">
+                    A short Author's autobiography
+                  </option>
+
+                  <option value="hertzian_radiation.htm">
+                    The hertzian radiation, better known as radio waves
+                  </option>
+
+                  <option value="detector.htm">
+                    The ionizing power of the hertzian radiation. A detection by radioluminescence
+                  </option>
+
+                  <option value="radioelectric_transducers.htm">
+                    The radio-electric transducers, better known as radio antennas
+                  </option>
+
+                  <option value="self_antagonist.htm">
+                    The self-antagonist transducers
+                  </option>
+
+                  <option value="suppressor.htm">
+                    Authopsy of an OPEN DIPOLE antenna
+                  </option>
+
+                  <option value="balun_300.htm">
+                    Authopsy of a FOLDED DIPOLE antenna
+                  </option>
+
+                  <option value="antenna_errante.htm">
+                    The elementary radiator, also known as the Errante's virtual ground HF antenna
+                  </option>
+
+                  <option value="balun_errante.htm">
+                    The virtual ground BalUn, also known as the Errante's BalUn
+                  </option>
+
+                  <option value="capacitive_grounding.htm">
+                    Errante's capacitive RF earth grounding system
+                  </option>
+
+                  <option value="balanced_lines.htm">
+                    The balanced RF transmission line behaviour in a progressive wave regime
+                  </option>
+
+                  <option value="bvgng.htm">
+                    Virtual ground node generator for balanced RF transmission lines
+                  </option>
+
+                  <option value="vgng.htm">
+                    Virtual ground node generator for un-balanced RF transmission lines
+                  </option>
+
+                  <option value="multiband.htm">
+                    Errante's 225 Ohm, multiband HF antenna system
+                  </option>
+
+                  <option value="quadripole.htm">
+                    Errante's HF turnstile antenna broadband driver
+                  </option>
+
+                  <option value="overview.htm">
+                    From capacitive to virtual grounding, all the Radiondistics' building block at
+                    a glance
+                  </option>
+                </select> <input type="SUBMIT" value="Go">
+              </form>
+            </td>
+          </tr>
+        </table><!-- end of menu -->
+        <!-- PARAGRAPH START -->
+
+        <table cellspacing="0" cellpadding="5" width="100%" border="0">
+          <tr>
+            <td width="100%" align="left" valign="top" bgcolor="#FFFFFF">
+             <table width="100%" cellspacing="0" cellpadding="10" border="0">
+                <tr>
+                  <td width="100%" height="40" align="center" >
+
+<p><h1>A transmission line calculator</h1></p>
+
+<p><strong>NB: this page is an appendix to the</strong> <a href="balanced_lines.htm"><strong><em>Errante</em>'s apparatus for the physics of the balanced transmission lines for radio-frequency signals.</strong></a></p>
+</td></tr>
+
+ <td width="100%" height="40" align="center" >
+<form>
+<input type="button" value="Back to previous page" 
+onClick="javascript: history.go(-1)">
+</form>
+
+</td>
+                </tr>
+              </table>
+
+              <table width="100%" cellspacing="0" cellpadding="5" border="0">
+                <tr>
+                  <td align="left">
+                   
+<p align="justify">
+
+
+To use 
+the <em> Transmission Line Calculator</em> 
+applet below, change the values in the input fields, and
+click calculate. <br> 
+Most of the fields will be self explanatory
+but further explanation is provided below.
+</p>
+<p></p>
+</td></tr>
+
+<tr>
+<td bgcolor="#C0C0C0">
+<p align="center">
+<APPLET codebase="./utilities/tlc/" CODE="Tran.class" WIDTH=700 HEIGHT=500 ARCHIVE="tran.zip"> 
+Your browser can't run Java Applets: Here's a picture of the
+calculator instead.
+<img src="./utilities/tlc/tlc.gif" width="680" height="491" align=center> 
+</APPLET> 
+ 
+ 
+<!--<APPLET codebase="./utilities/tlc/" CODE="AppletButton.class" WIDTH=700 HEIGHT=100 archive="tran.zip"
+> 
+<param name=windowClass value=TranWindow> 
+<param name=windowTitle value="Transmission Line Solver"> 
+<param name=buttonText value="Click Here to create a separate Solver Window"> 
+</APPLET> -->
+ 
+</p>
+<p align="center"> 
+<strong>To interrupt a calculation in progress, click
+stop.</strong>
+</p> 
+
+</td></tr>
+
+<tr>
+<td>
+
+<p>&nbsp;</p>
+ 
+<p align="justify">
+The cable type is a menu of common cable types that can be used.
+In addition <strong>two user defined entries allow you to enter custom
+cable types</strong> as described below.
+</p> 
+ 
+<p align="justify">
+You need to enter the frequency in the first text field. The label
+"Cable Length in Feet" can be changed to "Cable Length in Meters"
+which will change all the length units from feet to meters. You
+then enter the length in the cable length field. Similarly, the
+"Load Resistance" label can be changed to "Input Resistance" so
+that measured impedances at the input end of a cable can be converted
+to antenna impedances. Enter the resistance and reactance (positive
+for inductive, negative for capacitive) in those fields.
+</p> 
+ 
+<p align="justify">
+When your input is set, press calculate. If there is an input error
+a message will be displayed in the field to the left of the stop
+button. The output side only changes when you press calculate,
+and will display the characteristic impedance Z0 of the line,
+the impedance at the other end of the line, the velocity factor,
+the SWR at each end of the line, the matched loss of the line,
+and the total loss with your load impedance.
+</p> 
+ 
+<p align="justify">
+The bottom part of the applet is a plot. The x axis is the position
+along the line; x=0 is the input. The default shows the power,
+current and voltage on the line all on one plot. To make them
+all appear on a single plot, I take the current to have magnitude one
+at the load, I divide the voltage by the characteristic resistance
+of the line, and I divide the power by its value at the load. At the
+top of the plot is a choice menu that allows you to also select
+the power in watts, voltage magnitude in volts,
+or current magnitude in amps with 1500 watts input to the line. You 
+can also plot the impedance in ohms seen along the line. The red curve is
+the resistance and the blue one is the reactance. The plotting
+is implemented using a stripped down version of
+<em>ptplot</em> by Edward A. Lee and Christopher Hylands,
+copyright University of California. One of the nice features of this
+package is that <strong>you can zoom in on a portion of the plot</strong> by holding down the
+left mouse button on that portion and move down and to the right to highlight
+the region with a little square. You can do this multiple times too.
+If you hold down the left mouse button and move up and to the left, you
+can unzoom. The easiest way to get back to the original is to click
+calculate again.
+</p> 
+ 
+<p align="justify">
+Two user defined cable types are provided.
+For <em>user 1</em>, you enter the resistive part of the
+characteristic impedance, the velocity factor and the
+attenuation in dB/100ft at some frequency. If you want to
+extrapolate to other frequencies, the exponent would be
+exactly 0.5 if the loss mechanism were purely conductor losses, and
+that should be good enough for a first guess. Otherwise, the loss
+at a new frequency will be the ratio of the new frequency to this
+frequency raised to the exponent power times this attenuation.
+The reactive part of the characteristic impedance is calculated
+assuming only conductor losses.
+</p> 
+ 
+<p align="justify"> 
+<em>User 2</em> does not scale the results with frequency. Instead you input
+the characteristic impedance both resistive and reactive parts,
+the attenuation and the velocity factor. These characteristics are
+assumed to not change with frequency.
+</p> 
+
+<p align="left">
+<address> &copy; July 1, 2000-<script language=
+              "JavaScript" type="text/javascript">
+
+<!--
+
+    today=new Date();
+
+    y0=today.getFullYear();
+
+    document.write(y0);
+
+//--->
+
+</script> &nbsp;
+Michael A. Lee  and  Kevin E. Schmidt 
+<address> 
+
+</p>
+
+<p></p>
+
+
+<p align="justify">
+
+<a href="balanced_lines.htm"><font size"+2"><strong>Click here to jump back to the Errante's apparatus
+for the physics of the balanced transmission lines page</strong></font></a>
+
+
+                        </td>
+                      </tr>
+                    </table>
+                  </td>
+                </tr>
+              </table>
+            <!-- END of PARAGRAPH -->
+            
+
+        <p>�</p>
+
+<!-- Copyright notice start -->
+
+
+  <table cellspacing="0" cellpadding="5" width="100%" border="0">
+          <tr>
+            <td height="20" align="center" valign="bottom">
+              <hr color="#1C60AB" noshade align="center" width="90%">
+
+              <p><font size="-3">All rights reserved. Copyright &copy; 1985-<script language=
+              "JavaScript" type="text/javascript">
+
+<!--
+
+    today=new Date();
+
+    y0=today.getFullYear();
+
+    document.write(y0);
+
+//--->
+
+</script> <a href="contact.htm">Francesco Errante</a><br>
+              www.Radiondistics.com - Tel.(+39) 339.180.1313</font></p>
+            </td>
+          </tr>
+        </table>
+
+
+
+
+        <!-- START of BOTTOM PARAGRAPH -->
+      </td>
+    </tr>
+
+    <tr>
+      <!-- row 4 -->
+
+      <td width="167" height="23" align="center"><img height="23" src="graphics/bottom_left.jpg"
+      width="167" border="0"></td>
+
+      <td width="733" align="right" background="graphics/bottom_middle.jpg"><img height="23" src=
+      "graphics/bottom_right.jpg" border="0"></td>
+    </tr>
+  </table><!-- statcounter -->
+
+  <table width="780" cellspacing="0" cellpadding="20" align="center" border="0">
+    <tr>
+      <td height="40" align="center">
+        <script type="text/javascript" language="javascript">
+
+var sc_project=731660;
+
+var sc_partition=6;
+
+var sc_security="fbd4ad68";
+
+</script> <script type="text/javascript" language="javascript" src="https://www.statcounter.com/counter/counter.js">
+</script> <noscript><a href="http://www.statcounter.com/" target="_blank"><img src=
+"http://c7.statcounter.com/counter.php?sc_project=731660&amp;java=0&amp;security=fbd4ad68"
+        alt="free website hit counter" border="0"></a></noscript>
+      </td>
+    </tr>
+  </table>
+</body>
+</html>
