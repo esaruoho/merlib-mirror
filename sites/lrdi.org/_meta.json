@@ -1,0 +1,13 @@
+{
+  "source": "live",
+  "domain": "lrdi.org",
+  "mirror_date": "2026-08-02T23:50:39.842147",
+  "total_urls": 0,
+  "downloaded": 5,
+  "failed": 0,
+  "files": 5,
+  "file_types": {
+    ".pdf": 4,
+    ".html": 1
+  }
+}

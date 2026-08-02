@@ -1,0 +1,26 @@
+{
+  "domain": "lrdi.org",
+  "source_url": "https://lrdi.org/participants-projects/storms/",
+  "entry": "participants-projects/storms/index.html",
+  "pages_total": 1,
+  "pages_reachable": 1,
+  "pages_unreached": 0,
+  "body_chars": 3883,
+  "extractor": "builtin",
+  "generated": "2026-08-02T20:50:39Z",
+  "pages": [
+    {
+      "order": 1,
+      "title": "Dr. Edmund Storms \u2013 Homepage",
+      "path": "participants-projects/storms/index.html",
+      "slug": "001-dr-edmund-storms-homepage",
+      "reachable_from_entry": true,
+      "images": [
+        "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMzMiIGhlaWdodD0iOTgiIHZpZXdCb3g9IjAgMCAxMzMgOTgiPjxyZWN0IHdpZHRoPSIxMDAlIiBoZWlnaHQ9IjEwMCUiIHN0eWxlPSJmaWxsOiNjZmQ0ZGI7ZmlsbC1vcGFjaXR5OiAwLjE7Ii8+PC9zdmc+",
+        "data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI2NDAiIGhlaWdodD0iNDgwIiB2aWV3Qm94PSIwIDAgNjQwIDQ4MCI+PHJlY3Qgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgc3R5bGU9ImZpbGw6I2NmZDRkYjtmaWxsLW9wYWNpdHk6IDAuMTsiLz48L3N2Zz4="
+      ],
+      "internal_links": [],
+      "chars": 3883
+    }
+  ]
+}
