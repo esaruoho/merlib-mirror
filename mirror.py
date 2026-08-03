@@ -1171,8 +1171,25 @@ def run_live(url, seeds_file=None, delay=None, max_pages=None, output_base=None,
     # we can say out loud where the content actually is.
     offsite_frames = set()
 
-    for seed in seed_urls:
-        queue.append((seed, 0))
+    # Explicit seeds get their OWN queue, drained before any discovered link.
+    #
+    # Why: a discovered link that is_under_seed_path() gets queue.appendleft() as a
+    # priority — and on a whole-domain crawl (seed_path == '/') EVERY discovered
+    # link qualifies, so each new find is prepended ahead of the seeds that have not
+    # been visited yet. The explicit seed list sinks to the back and starves.
+    #
+    # On amasci.com that inverted the run completely: stats/idbylink2.html is an
+    # index of the site's HISTORICAL pages, so BFS flooded the front of the queue
+    # with thousands of 404s while the authoritative sitemap seeds waited behind
+    # them. Measured: 560 URLs processed → ~70 failures, 2 new files, and
+    # known-live sitemap pages (buscards.html, books1.html, devices.txt, eaton.txt,
+    # feynexpt.txt — all HTTP 200) not yet reached.
+    #
+    # A seed came from the owner's own sitemap. It outranks a link scraped off a
+    # stats page. Seeds first, discoveries after.
+    seed_queue = deque()
+    for seed in sorted(seed_urls):
+        seed_queue.append((seed, 0))
         seen.add(seed)
 
     def is_under_seed_path(u):
@@ -1192,9 +1209,22 @@ def run_live(url, seeds_file=None, delay=None, max_pages=None, output_base=None,
         return True
 
     log(f"Crawling {seed_path} (download-as-you-go)...")
+    if len(seed_queue) > 1:
+        log(f"Seed queue: {len(seed_queue)} explicit seed(s) drain before discoveries")
 
-    while queue:
-        page_url, depth = queue.popleft()
+    while seed_queue or queue:
+        # Explicit seeds first, then BFS discoveries. See the seed_queue comment.
+        page_url, depth = seed_queue.popleft() if seed_queue else queue.popleft()
+
+        # `--max-pages` used to be accepted, advertised in --help with a default of
+        # 500, and then never read — so it silently did nothing and anyone tuning it
+        # (including me) was tuning air. Now it is a real ceiling, and it says so
+        # when it stops rather than looking like a finished crawl.
+        if max_pages and downloaded_count >= max_pages:
+            log(f"STOPPING: --max-pages {max_pages} reached. "
+                f"{len(seed_queue) + len(queue)} URL(s) left unvisited — "
+                f"this crawl is NOT complete.")
+            break
 
         if depth > max_depth:
             continue

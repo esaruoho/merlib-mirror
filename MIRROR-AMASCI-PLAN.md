@@ -175,6 +175,28 @@ The HTTP 300 handling is worth generalising: Apache's MultiViews body lists
 `Available documents`, so a 300 is not a dead end, it is a *rename hint*. Today
 `build_seed_list.py` parses it; the crawler still treats 300 as a failure.
 
+#### ⚠️ Explicit seeds get starved by BFS discoveries
+
+Observed live during the run. In `run_live`, a discovered link that is
+`is_under_seed_path()` is **`queue.appendleft`**-ed as a priority — and when the
+seed path is `/` (a whole-domain crawl) *every* discovered link qualifies. So each
+newly-found URL is prepended ahead of the remaining explicit seeds, and the
+1,384-URL seed list sinks to the back of the deque.
+
+That matters here because `stats/idbylink2.html` is an index of the site's
+*historical* pages, so BFS immediately floods the front of the queue with
+thousands of URLs that are **404**, while the authoritative
+sitemap seeds — which are live and are the whole reason for seeding — wait behind
+them. Measured: after 560 URLs processed, ~70 failures and only **2** new files,
+with known-live sitemap pages (`buscards.html`, `books1.html`, `devices.txt`,
+`eaton.txt`, `feynexpt.txt` — all HTTP 200) not yet reached.
+
+Not a correctness bug: with a high `--max-pages` the crawl still reaches them, and
+nothing is lost. But the ordering is backwards — an explicit seed came from the
+owner's own inventory and should outrank a link scraped from a stats page. Worth
+fixing as "seeds first, discoveries after", i.e. keep seeds in their own queue that
+drains before the discovery queue.
+
 ### Phase 1b — Wayback as an INDEX, fetched from the LIVE server
 
 **"Why use Wayback when amasci is online right now?"** — the right question, and it
@@ -216,7 +238,31 @@ ceiling. `classify_missing` does not currently reject whitespace-only paths.)*
 The engine already has scoped-CDX + alt-timestamp retry (PR #38, from the
 pharis/villes lessons). Two things to decide before launching:
 
-**⚠️ It will exceed the worker's push threshold.** `mirror-worker` has
+**Size, measured rather than feared.** CDX also returns record lengths
+(`fl=original,length`), so the backfill can be sized before running it. Summed over
+the 17,605 absent static paths: **0.42 GB** WARC-compressed.
+
+| | files | MB |
+|---|---|---|
+| `.jpg` | 3,435 | 112.3 |
+| `.zip` | 70 | 50.6 |
+| `.mvr` | 14 | 45.9 |
+| `.pdf` | 62 | 37.4 |
+| `.html` | 7,364 | **29.7** |
+| `.gif` | 2,419 | 21.9 |
+
+Two things fall out of that:
+
+- **The whole text corpus is tiny.** 7,364 HTML pages total 29.7 MB. The bulk is
+  images and a handful of `.zip`/`.mvr`/`.r00`–`.r02` archive blobs.
+- **`.zip` is already excluded** by `should_skip_url`'s `skip_exts`, so ~50 MB of
+  that never downloads.
+
+So the realistic landing zone is **232 MB (now) + ~370 MB ≈ 600 MB** — *under* the
+1 GB gate. The threshold concern below is therefore probably moot for amasci, but
+it is still worth knowing, because it is silent when it trips.
+
+**⚠️ If it does exceed the worker's push threshold.** `mirror-worker` has
 `MAX_PUSH_SIZE_KB=1048576` (1 GB, `mirror-worker:24`) and above that it *commits
 locally and skips the push*, logging a warning. 17,608 more files on top of today's
 232 MB will very likely cross that. Either raise the threshold for this job, split
