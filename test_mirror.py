@@ -374,6 +374,96 @@ class TestEnsureDirPath(unittest.TestCase):
         mirror.ensure_dir_path("file.html")
 
 
+class TestNormalizeUrl(unittest.TestCase):
+    """Host case broke crawl dedup on amasci.com.
+
+    `seen` is keyed by URL string, so http://www.AMASCI.COM/x.html was a different
+    key from http://www.amasci.com/x.html and the whole site got re-queued under it.
+    That single uppercase self-link drove the queue from ~980 to ~3,000.
+    """
+
+    def test_host_is_lowercased(self):
+        self.assertEqual(mirror.normalize_url("http://www.AMASCI.COM/x.html"),
+                         "http://www.amasci.com/x.html")
+
+    def test_scheme_is_lowercased(self):
+        self.assertEqual(mirror.normalize_url("HTTP://amasci.com/a"),
+                         "http://amasci.com/a")
+
+    def test_path_case_is_preserved(self):
+        # Hostnames are case-insensitive (RFC 3986); paths are NOT. amasci.com
+        # really serves /X-MASS.html, so lowercasing the path would 404.
+        self.assertEqual(mirror.normalize_url("http://amasci.com/X-MASS.html"),
+                         "http://amasci.com/X-MASS.html")
+
+    def test_default_ports_dropped(self):
+        # Wayback CDX hands back "www.amasci.com:80" URLs.
+        self.assertEqual(mirror.normalize_url("http://www.amasci.com:80/refs.html"),
+                         "http://www.amasci.com/refs.html")
+        self.assertEqual(mirror.normalize_url("https://example.org:443/a"),
+                         "https://example.org/a")
+
+    def test_nondefault_port_kept(self):
+        self.assertEqual(mirror.normalize_url("http://example.org:8080/a"),
+                         "http://example.org:8080/a")
+
+    def test_fragment_dropped_query_kept(self):
+        self.assertEqual(mirror.normalize_url("http://amasci.com/a?b=1#frag"),
+                         "http://amasci.com/a?b=1")
+
+    def test_case_variants_collapse_to_one_key(self):
+        variants = {mirror.normalize_url(u) for u in (
+            "http://www.amasci.com/x.html",
+            "http://www.AMASCI.COM/x.html",
+            "http://WWW.Amasci.Com:80/x.html")}
+        self.assertEqual(len(variants), 1)
+
+
+class TestIsMalformedUrl(unittest.TestCase):
+    """Broken source markup must not cost real requests.
+
+    Every string here was extracted from a real mirrored page.
+    """
+
+    def test_two_urls_concatenated(self):
+        self.assertTrue(mirror.is_malformed_url(
+            "http://amasci.com/a/traffic1.htmlhttp://amasci.com/a/traffic1.html"))
+
+    def test_markup_swallowed_into_href(self):
+        self.assertTrue(mirror.is_malformed_url(
+            'http://amasci.com/x.html</a><br>\t<a href='))
+
+    def test_quoted_printable_leakage(self):
+        # =3D from mailing-list archives under /weird2/
+        self.assertTrue(mirror.is_malformed_url(
+            'http://www.amasci.com/weird2/3D"https:/www.nass.usda.gov/='))
+
+    def test_trailing_equals(self):
+        self.assertTrue(mirror.is_malformed_url("http://amasci.com/weird2/georg="))
+
+    def test_hostname_sliced_as_extension(self):
+        for u in ("http://amasci.com/foo.com", "http://amasci.com/foo.co",
+                  "http://amasci.com/foo.org"):
+            self.assertTrue(mirror.is_malformed_url(u), u)
+
+    def test_real_urls_are_not_malformed(self):
+        for u in ("http://amasci.com/refs.html",
+                  "http://amasci.com/freenrg/mie/tors.txt",
+                  "http://amasci.com/X-MASS.html",
+                  "http://amasci.com/oldtech/",
+                  "http://amasci.com/a.html?q=1"):
+            self.assertFalse(mirror.is_malformed_url(u), u)
+
+    def test_should_skip_url_rejects_malformed(self):
+        self.assertTrue(mirror.should_skip_url(
+            'http://www.amasci.com/weird2/3D"https:/x.gov/=', "amasci.com"))
+
+    def test_should_skip_url_is_host_case_insensitive(self):
+        # Before normalisation this returned True and dropped a valid page.
+        self.assertFalse(mirror.should_skip_url(
+            "http://www.AMASCI.COM/x.html", "amasci.com"))
+
+
 class TestExtractFrameTargets(unittest.TestCase):
     """<frame src> / <iframe src> — the radiondistics.com frameset bug.
 

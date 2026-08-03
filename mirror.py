@@ -542,11 +542,74 @@ def extract_links(html_content, base_url):
             | extract_frame_targets(text, base_url))
 
 
+def normalize_url(url):
+    """Lowercase scheme+host, drop the default port, drop the fragment.
+
+    The crawler's `seen` set is keyed by URL STRING, so an uppercase host is a
+    different key and the whole site gets re-queued and re-fetched under it.
+    amasci.com links to itself as `http://www.AMASCI.COM` from one page, and that
+    single link re-added 68 URLs and drove the queue from ~980 to ~3,000. Hostnames
+    are case-insensitive per RFC 3986; paths are NOT, so the path is left alone.
+    """
+    try:
+        p = urllib.parse.urlsplit(url)
+    except ValueError:
+        return url
+    if not p.hostname:
+        return urllib.parse.urldefrag(url)[0]
+    host = p.hostname.lower()
+    if p.port and not ((p.scheme == 'http' and p.port == 80) or
+                       (p.scheme == 'https' and p.port == 443)):
+        host = f"{host}:{p.port}"
+    return urllib.parse.urlunsplit(
+        (p.scheme.lower(), host, p.path, p.query, ''))
+
+
+# Path extensions that mean we sliced a hostname out of broken markup, not a file.
+_HOSTNAME_EXTS = {'.com', '.co', '.c', '.org', '.net', '.ne', '.edu', '.gov',
+                  '.uk', '.de', '.ru', '.n', '.o', '.or'}
+
+
+def is_malformed_url(url):
+    """True for URLs that only exist because the source HTML is broken.
+
+    Hand-written 1990s sites are full of unquoted attributes and hrefs that swallow
+    the following tag, and mailing-list archives leak quoted-printable `=3D` into
+    links. The extractor faithfully surfaces those, and without this the crawler
+    spends real requests on addresses that never existed — and each junk page can
+    yield more junk. amasci.com produced e.g.
+        http://www.amasci.com/weird2/3D"https:/www.nass.usda.gov/=
+    Rejecting these at queue time is the same judgement scripts/mirror_coverage.py
+    makes when it refuses to count them as coverage gaps.
+    """
+    if not url:
+        return True
+    # A second scheme past the first means two URLs ran together.
+    if url.count('://') > 1 or 'http://' in url[8:] or 'https://' in url[8:]:
+        return True
+    if any(c in url for c in ('"', "'", '<', '>', '\n', '\r', '\t')):
+        return True
+    # quoted-printable leakage: `=3D` becomes `3D"` / `3D%22` in extracted hrefs
+    if '3D"' in url or '=3D' in url:
+        return True
+    try:
+        path = urllib.parse.urlsplit(url).path
+    except ValueError:
+        return True
+    if path.endswith('='):
+        return True
+    if os.path.splitext(path.lower())[1] in _HOSTNAME_EXTS:
+        return True
+    return False
+
+
 def should_skip_url(url, domain):
     """Skip URLs that don't belong to the target domain or are junk."""
+    if is_malformed_url(url):
+        return True
     parsed = urllib.parse.urlparse(url)
-    host = parsed.hostname or ''
-    if domain not in host:
+    host = (parsed.hostname or '').lower()
+    if domain.lower() not in host:
         return True
     # Skip common junk
     path = parsed.path.lower()
@@ -1148,15 +1211,47 @@ def run_live(url, seeds_file=None, delay=None, max_pages=None, output_base=None,
     log(f"Output: {output_dir}")
     log("=" * 60)
 
-    # Collect seed URLs
-    seed_urls = {url}
+    # Collect seed URLs. Normalised on the way in so a seed and a discovered link
+    # for the same page cannot become two different `seen` keys.
+    seed_urls = {normalize_url(url)}
     if seeds_file and os.path.exists(seeds_file):
         with open(seeds_file) as f:
             for line in f:
                 line = line.strip()
                 if line and not line.startswith('#'):
-                    seed_urls.add(line)
+                    seed_urls.add(normalize_url(line))
         log(f"Loaded {len(seed_urls)} seed URLs")
+
+    # robots.txt Disallow — the site owner asked. amasci.com Disallows /weird2/
+    # among 72 rules, and that directory is mailing-list archive full of
+    # quoted-printable junk links, so honouring robots also stops the crawler
+    # wandering into a link swamp. Set MIRROR_IGNORE_ROBOTS=1 to override.
+    robots_disallow = []
+    if os.environ.get('MIRROR_IGNORE_ROBOTS') != '1':
+        try:
+            rb, _ct, rb_ok = fetch_url(
+                f"{parsed.scheme or 'http'}://{domain}/robots.txt",
+                timeout=20, retries=1)
+            if rb_ok and rb:
+                text = rb.decode('utf-8', errors='replace') if isinstance(rb, bytes) else rb
+                for line in text.splitlines():
+                    line = line.strip()
+                    if not line or line.startswith('#'):
+                        continue
+                    k, _, v = line.partition(':')
+                    if k.strip().lower() == 'disallow' and v.strip():
+                        robots_disallow.append(v.strip())
+        except Exception:
+            pass
+    if robots_disallow:
+        log(f"robots.txt: honouring {len(robots_disallow)} Disallow rule(s) "
+            f"(MIRROR_IGNORE_ROBOTS=1 to override)")
+
+    def robots_blocked(u):
+        if not robots_disallow:
+            return False
+        p = urllib.parse.urlsplit(u).path or '/'
+        return any(p.startswith(d) for d in robots_disallow)
 
     # BFS queue: (url, depth) — depth 0 = seed path content
     from collections import deque
@@ -1231,7 +1326,7 @@ def run_live(url, seeds_file=None, delay=None, max_pages=None, output_base=None,
 
         # Strip fragments — they're the same page
         original = page_url
-        page_url = urllib.parse.urldefrag(page_url)[0]
+        page_url = normalize_url(page_url)
         if page_url != original and page_url in seen:  # dedup only if defrag changed the URL
             continue
 
@@ -1290,10 +1385,13 @@ def run_live(url, seeds_file=None, delay=None, max_pages=None, output_base=None,
                         offsite_frames.add(frame_url)
                 new_count = 0
                 for link in found_links:
-                    link = urllib.parse.urldefrag(link)[0]
+                    link = normalize_url(link)
                     if link in seen:
                         continue
                     if should_skip_url(link, domain):
+                        continue
+                    if robots_blocked(link):
+                        seen.add(link)
                         continue
                     # Path filter: drop links whose path doesn't contain
                     # the filter substring. Marks them as seen too so we
