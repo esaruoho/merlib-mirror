@@ -1,0 +1,193 @@
+See the messages below.  
+
+Interesting effect... but is it yet another Newsgroup hoax? The message
+seems vaguely familiar.  I recall seeing it a couple of years ago, maybe. 
+
+Weight change can come from air jets, so any motorized "antigrav" device
+needs to be placed inside a plastic bag, to eliminate reaction force
+from ejected air.  Also, I wouldn't trust any commercial balance or scales
+to give correct readings when vibrated.  Therefor the experimenters need
+to try inserting some vibration isolation, to assure that the measured
+weight change is still the same when the measuring device is vibrated
+less.
+
+Maybe the device is thrusting upwards, rather than decreasing in weight. 
+Turn it upside-down, and does it weigh more? Hang it from a string as a
+pendulum, mount it turned sideways, and does it deflect its position (by
+sideways thrust?)
+
+What is REALLY interesting is the reported effect on CRTs and flourescent
+lights.  Spinning magnets shouldn't do such things.  If it were me, I
+would want to eliminate the electric motor as a possible noise source. 
+Try operating the device with the magnets disk removed, to see if the
+effects on CRTs and lighting is from the drive motor or from the spinning
+magnets. 
+
+
+From: ecogen@iol.ie (Chris Eccles)
+Newsgroups: sci.physics.electromag
+Subject: Mystified by Results
+Date: Mon, 5 Oct 1998 08:49:02 +0100
+Organization: genesis
+Message-ID: <1dgf37j.1qva74l1r4wg9uN@dialup-042.ennis.iol.ie>
+NNTP-Posting-Host: dialup-042.ennis.iol.ie
+Mime-Version: 1.0
+Content-Type: text/plain; charset=ISO-8859-1
+Content-Transfer-Encoding: 8bit
+X-Newsreader: MacSOUP 2.3
+Lines: 44
+Xref: hub1.ispnews.com sci.physics.electromag:8005
+
+I don't often post to news but, this time, I feel that someone out there
+might offer me an answer to a wierd outcome of an experiment.
+
+I have spent my entire career in mainstream physics research and have
+always been amused (often annoyed) by the "crankies" who believe in
+teleportation, spoon-bending, etc etc etc, and have consistently held
+the view that these fringe things belong firmly outside what I call
+physics.
+
+A few weeks back, my lab assistant got some stuff off the net about a
+"magneto-gravity" device, accompanied by some notes by Tom Bearden.
+This swatch of paper was lying about in the lab office and I happened to
+read it.  Out of nothing but bemused interest, I said to my team, "Lets
+build this crap and see what happens...."
+
+We constructed a variant of the device shown in the drawings which
+accompanied the data.  This consisted of a Duralumin disc (350mm dia)
+which could be spun on a motor shaft, using a Picador bearing which we
+had lying about.  The disc was made to spin 1.5mm eccentric and was
+fitted with twelve button magnets around its periphery, with all their N
+poles facing outwards, by fixing the magnets to 90-degree offcuts of
+alloy angle.  The whole thing was then mechanically balanced by adding
+extra thin strips of copper busbar (!) to compensate for the
+eccenticity.  When tested, the disc displayed some imbalance but this
+was easily corrected until we had it running smoothly at 2850 rpm from a
+mains-powered 750W motor.  So far so good.
+
+We then rigged an enclosing fence of alloy strip around the disc, on
+which we mounted twelve more button magnets with their S poles facing
+inwards.  The clearance between the disc-mounted magnets and the
+peripheral ones varied by ±0.75mm as the disc turned.
+
+The whole shazam was mounted on an acrylic baseplate and weighed.  It
+was 14.26 kg.  When we switched the motor in, the weird shit happened.
+The balance showed a loss of grav mass of the assembly of some 550 grams
+(3.85%) and every computer terminal and fluorescent lamp in the lab went
+ape !
+
+Is this real, or should I take a holiday ?
+
+Can anyone offer an explanation ?
+
+
+Chris
+
+
+
+
+
+
+
+Since the first test of the device, we have not done a great deal but the
+interest shown by subscribers to this group (reflected in the pile of
+email I have received) has made me reserve some more lab time for further
+investigations. 
+
+To the many who wrote to me (rightly sceptical) I have to say
+unequivocally that this is NOT some kind of hoax.  It's nowhere near April
+1st and I am 50 years old, a serious researcher with a healthy career in
+mainstream electronic physics, and not given to the kind of tom-foolery
+that belongs in the student common-room during rag-week. 
+
+What we are talking about here is the possibility of some kind of
+hitherto-unknown relationship between dynamically-changing tensor fields. 
+Magnetism, particularly intrinsic, remanent magnetism, is one of the few
+phenomena that remain relatively badly delineated by current quantum
+theory and I, for one, am prepared to admit that there are huge holes in
+my own fundamental understanding of it.  If a simple, but
+rarely-occuring-in-nature, juxtaposition of non-scalar fields is capable
+of either creating (or destroying) spin-2, zero mass mediating particles,
+then there is the real possibility of manipulating and engineering the
+gravitational field.  It becomes an exciting prospect but not one which
+should lead any of us into assuming that the Sinclaire device actually
+manifests such an effect. 
+
+The secondary EM effects are quite interesting.  Has anyone else built
+anything which comes close to displaying the same anomalies ? 
+
+Please feel free to email me direct and suggest guidelines for a concerted
+research pathway on this.  There is too much indiscipline and
+disorganisation in "fringe" physics for anyone to feel secure about such
+work.  Lack of published matter in mainstream journals (for obvious and
+valid reasons) gives rise to the feeling that one is trying to "swim
+through treacle" even commencing such a programme of research. 
+
+It is, I think, fundamentally important to distinguish between a
+mass-shielding effect (where a device purports to alter the measured
+strength of the Earth's [or any] grav field "above" the device), and an
+effect which indicates that an entire, physically-linked, chunk of
+equipment can be made to behave as though it has shed grav mass.  The one
+case illustrates that a tensor field can be manipulated vectorally (and
+few would find fault with the math of this); the other possibly is
+suggesting that a property of matter which we have all believed to be
+sacrosanct and writ-in-stone for several centuries is, in fact, a deal
+more woolly than we believed it to be. 
+
+I remain very puzzled.
+
+
+
+
+
+
+
+Author:   Chris Eccles
+Email: ecogen@iol.ie
+Date: 1998/10/18
+Forums: sci.physics.electromag
+   
+I have just been told by someone in the lab that what we actually have
+built is nearly a replica of something called the Searl Levi-Disk.   It
+is exceedingly difficult to get any sound and reliable information from
+anyone on this device !
+
+I appreciate the email from Mr Sterniman; it seems well-reasoned and I
+am replying soon when I have attempted to set the math of it straight in
+my own terms.
+
+I am unused to newsgroups and their etiquette, and I hope regular
+readers will forgive the inevitable confusion of a novitiate ?
+
+It seems that we can summarise as follows:
+-----------------------------------------
+
+When the flux of an N-pole cuts the flux of an S-pole such that the
+tensor fields experience the maximum tendency to repel (pi/2), we create
+an electric field in whatever gap exists between the sources of the
+flux.   We will also, a priori, because of the fact that the disk does
+not rotate its magnets in concentricity with those on the outer wall, be
+setting up a variation of transfer of angular momentum of the
+electromagnetic field associated with the electric field cutting flux
+all the time the disk is turning.  This eccentricity has an interesting
+locus and traces out a cylindrical path of wall-thickness equal to twice
+the original eccentricity of the magnet ring on the disk (when
+stationary).
+
+We are going to run the device again soon, using a remote spring balance
+to ascertain the apparent mass loss so that there is no chance of an
+interaction between the pan balance and the device.  Also, in answer to
+many queries, "No, it's not electromagnetic interference from the motor
+which caused the strange effects."  Running the motor free is fine.  It
+came from a vacuum pump which had been running in the lab for ages !
+Anyway, after thirty years in physics, I've yet to encounter a 50Hz
+mains induction motor that could dim-out flu-tubes and blow up LCD's.
+
+
+More news when we have it.
+
+Please keep ideas flowing in - this device threatens to prevent me from
+building the HV/HF switches which we are supposed to be producing !!!!!
+
+Chris
+

@@ -1,0 +1,2081 @@
+
+Airfoil Lifting Force, miscellaneous discussion from the archive of the
+Physics Teaching list server PHYS-L, phys-l@atlantis.cc.uwf.edu
+
+
+
+
+
+
+                                
+
+Date: Sun, 17 Jan 1999 10:22:28 -0800
+From: Roger Freedman <airboy@PHYSICS.UCSB.EDU>
+Subject: Flight references
+
+I would like to suggest that the recent discussion of the origin of lift
+(which seems to be rehashed over and over and over again on this list, as
+well as elsewhere) could benefit from a consultation of the literature.
+(Yes, even in the age of the Internet, it serves us well to make careful
+study of published, peer-reviewed materials.) I recommend the following
+sources:
+
+* Alexander, R. McNeill. Exploring Biomechanics: Animals in Motion.
+Scientific American Library, 1992. Chapters 4 and 5 of this excellent
+semi-quantitative introduction to biomechanics describe the gliding,
+soaring, and flapping flight of birds and insects. There are some nice
+three-dimensional depictions of the airflow around aircraft and birds in
+flight. The author is a professor of zoology at the University of Leeds.
+
+* Anderson, John D., Jr. A History of Aerodynamics and Its Impact on Flying
+Machines. Cambridge University Press, 1997. A very extensive technical
+history (fully half the book covers the centuries before the Wright
+Brothers). The author is a professor of aerospace engineering at the
+University of Maryland.
+
+* Ashley, Holt. Engineering Analysis of Flight Vehicles. Addison-Wesley,
+1974. Reprinted by Dover Publications, 1992. A superb graduate-level
+textbook that should be accessible to anyone with a physics degree. The
+book has clear, quantitative discussions of two- and three-dimensional
+wings. The author was a professor in the Department of Aeronautics and
+Astronautics at Stanford University (and an excellent teacher, as I can
+attest from personal experience).
+
+* Hubin. W. N. The Science of Flight: Pilot-Oriented Aerodynamics. Iowa
+State University Press, 1992. Written by a physicist (on the faculty at
+Kent State) who is also a pilot. The book has a wealth of real-life
+examples based on data from light airplanes. The extent of quantitative
+detail should be satisying to anyone reading this list.
+
+* Hurt, H. H, Jr.. Aerodynamics for Naval Aviators. U. S. Navy Publication
+NAVAIR 00-80T-80, 1960. (Reprinted by Aviation Supplies and Academics,
+Inc., and available from Aviation Book Co., 7201 Perimeter Road S., Suite
+C, Seattle WA 98108) Very clear textbook with excellent discussions of the
+three-dimensional aspects of airflow around aircraft. The author was on the
+faculty of the University of Southern California.
+
+As an aside, from my experience as a pilot I can attest that what *really*
+makes airplanes fly is MONEY! (There is a wonderful T-shirt for pilots that
+carries the slogan "If God had meant man to fly, he would have given him
+more money.")
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Roger A. Freedman
+Department of Physics and College of Creative Studies
+University of California, Santa Barbara
+
+
+
+
+
+
+
+
+
+
+From owner-phys-l@LISTS.NAU.EDU  Thu Jan 14 05:30:56 1999
+Received: from mailgate.nau.edu (mailgate.nau.edu [134.114.96.19])
+	by mx1.eskimo.com (8.9.1a/8.8.8) with ESMTP id FAA28731;
+	Thu, 14 Jan 1999 05:30:55 -0800
+Received: from mailgate ([134.114.96.19])
+ by mailgate.nau.edu (PMDF V5.2-29 #31141)
+ with ESMTP id <0F5J001B6X5AL7@mailgate.nau.edu>; Thu,
+ 14 Jan 1999 06:30:51 -0700 (MST)
+Date: Thu, 14 Jan 1999 07:30:40 -0600
+From: jlu <jlu@HEP.ANL.GOV>
+Subject: Re: Airfoil lift, new article
+Sender: "phys-l@lists.nau.edu: Forum for Physics Educators"
+ <PHYS-L@LISTS.NAU.EDU>
+To: PHYS-L@LISTS.NAU.EDU
+Reply-to: "phys-l@lists.nau.edu: Forum for Physics Educators"
+ <PHYS-L@LISTS.NAU.EDU>
+Message-id: <0F5J001DMXJ9L7@mailgate.nau.edu>
+Status: RO
+X-Status: DA
+
+Hi all-
+    Anderson came and gave a lunch seminar in the high energy physics
+division.  The upshot is that he thinks that downwash is a better prime
+cause than is the pressure distribution around an airfoil.  He did have
+pictures showing that airflow above and below the wing does not "join" at
+the trailing edge. 
+                                                    Regards,
+                                                                Jack
+
+William Beaty wrote:
+
+>   How Airplanes Fly: A Physical Description of Lift
+>   by D. Anderson, Fermilab, and S> Eberhardt, U. Wash Aero/Astro
+>
+>   http://www.aa.washington.edu/faculty/eberhardt/lift.htm
+>
+> An illustrated preprint, to be published in Sport Aviation magazine's
+> February issue. It's a "conceptual physics" style of article.  The authors
+> offer a Newtonian description of flight intended to replace the "popular"
+> explanation of lifting force based on wing shape.
+>
+
+
+
+
+From billbeskimo.com Thu Jan 14 08:58:16 1999
+Date: Thu, 14 Jan 1999 08:57:07 -0800 (PST)
+From: William Beaty <billbeskimo.com>
+To: "phys-l@lists.nau.edu: Forum for Physics Educators" <PHYS-L@LISTS.NAU.EDU>
+Subject: Re: Airfoil lift, new article
+In-Reply-To: <0F5J001DMXJ9L7@mailgate.nau.edu>
+Message-ID: <Pine.SUN.3.96.990114083928.5673E-100000@eskimo.com>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+On Thu, 14 Jan 1999, jlu wrote:
+
+> Hi all-
+>     Anderson came and gave a lunch seminar in the high energy physics
+> division.  The upshot is that he thinks that downwash is a better prime
+> cause than is the pressure distribution around an airfoil.  He did have
+> pictures showing that airflow above and below the wing does not "join"
+> at the trailing edge.
+
+There is currently a discussion about this paper going on at
+rec.aviation.piloting newsgroup.  The Anderson/Eberhardt paper about how
+airplanes fly:
+
+   http://www.aa.washington.edu/faculty/eberhardt/lift.htm
+
+John Denker has posted a critique of their paper at:
+
+   http://www.monmouth.com/~jsd/fly/lift.htm
+
+I have a crude "thought experiment" explanation of flight here, see if
+you can poke holes in my reasoning:
+
+   http://amasci.com/wing/rotbal.html
+
+The newsgroup discussion is typical: most of the people are totally
+confident that an aircraft can remain suspended entirely because of a
+pressure difference, and it need not obey F=MA, or change the momentum of
+the air.  The way I see it, an aircraft flys ENTIRELY because it changes
+the momentum of air: it pushes down on the air, and therefor the air
+pushes up on the aircraft, THEN THE AIR MOVES DOWN.  The pressure
+difference doesn't just sit there, instead it CAUSES the "downwash."
+
+I don't know if PHYS-L people really would want to get involved with that
+discussion, because we can talk forever and not convince anyone.  To
+convince them, they must confront the fact that they've been visualizing
+the physics of flight incorrectly, as well as angrily defending an
+incorrect premise.  And these people are pilots!  It's far easier to
+convince a non-expert that their pre-existing concepts are actually
+misconceptions!  :)
+
+The discussion thread can be viewed at Dejanews by pasting this huge
+url into your browser (edit it to remove line breaks):
+
+http://x10.dejanews.com/=dnt_test1/dnquery.xp?search=thread&svcclass=
+dncurrent&threaded=1&ST=PS&CONTEXT=916331856.695009561&HIT_CONTEXT=
+916331856.695009561&HIT_NUM=9&recnum=%3c76c4t8$sul$1@
+eskinews.eskimo.com%3e%231/1
+
+.. or go to www.dejanews.com and search for these keywords:
+
+  ~g rec.aviation.piloting lifting force
+
+
+((((((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))))
+William J. Beaty                                  SCIENCE HOBBYIST website
+billbeskimo.com                                  http://amasci.com
+EE/programmer/sci-exhibits          science projects, tesla, weird science
+Seattle, WA   206-762-3818          freenrg-L taoshum-L vortex-L webhead-L
+
+
+
+
+
+
+From billbeskimo.com Thu Jan 14 09:38:56 1999
+Date: Thu, 14 Jan 1999 09:38:46 -0800 (PST)
+From: William Beaty <billbeskimo.com>
+To: "phys-l@lists.nau.edu: Forum for Physics Educators" <PHYS-L@LISTS.NAU.EDU>
+Subject: Re: Airfoil lift, new article
+In-Reply-To: <0F5J001DMXJ9L7@mailgate.nau.edu>
+Message-ID: <Pine.SUN.3.96.990114091609.5673F-100000@eskimo.com>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+
+Some bait to temp the unwary.   :)
+
+See the message below.  Can you see the flaw in Mr. Scarfe's diagram and
+arguments?  It is two-dimensional!  In 2D, a wing can push on the distant
+ground instantly, since the air cannot escape in a direction out of (or
+into) the plane of the diagram.  Wing pushes down on air, air pushes down
+on Earth, Earth doesn't move.  Earth pushes up on air, air pushes up on
+wing, wing levitates without having to eject any KG of air downwards. 
+Flight by "ground effect," with the altitude made irrelevant.
+
+In my opinion, this is the central flaw in conventional aerodynamics'
+explanation of flight.  2D wings fly, it is true, but they employ a
+fundamentally different mechanism than 3D aircraft.  3D aircraft fly by
+conservation of momentum, while 2D aircraft fly by contact forces like a
+hovercraft.  A 3D aircraft ejects KGs of air downwards like a rocket (or
+helicopter!), while an aircraft in a 2D world interacts with the surface
+of the Earth.  In a 2D world, it doesn't matter how high the airplane
+flys, it is still essentially riding across the earth's surface, and hence
+there is no need for it to permanently deflect the streamlines of oncoming
+air.  In a 3D world, an aircraft must permanently deflect the streamlines,
+otherwise there would be no net change in the momentum of the air, and no
+F=MA force. 
+
+"Circulation theory"  is flawed.  It works great for predicting the
+lifting force.  But if we use it to explain flight, then we are ACTUALLY
+explaining how wings might function in a vertical version of "flatland."
+3D aircraft function by profoundly different principles.
+
+If anyone on PHYS-L enjoys "lifting force" debates, please feel free to
+wade on into the rec.aviation.piloting discussion.
+
+((((((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))))
+William J. Beaty                             SCIENCE HOBBYIST website
+billbeskimo.com                             http://amasci.com
+EE/programmer/sci-exhibits          science projects, tesla, weird science
+Seattle, WA   206-762-3818          freenrg-L taoshum-L vortex-L webhead-L
+
+Author: Julian Scarfe
+Email:jas1@scigen.co.uk
+Date:1999/01/12
+Forums:rec.aviation.piloting,rec.aviation.student 
+
+J Kahn (jkahn@planeteer.com) wrote in response to JSD's critique:
+> : With all due respect:
+> 
+> I have a problem with your discounting the upwash bit John... if the
+upwash
+> : was beneficial to the generation of lift, the upwash would have to be
+> : produced by a source *external* to the wing.  When you throw the ball
+> : up to me I benefit from the upward energy because *you* imparted the
+> : energy, not me.  The upwash the wing has to deal with is produced by
+> : the same wing, not an external source... It's accelerating a mass
+> : upward, the mass wasn't accelerated by an external source.
+
+Mark Mallory wrote:
+> 
+> This is correct; Denker is in error here.  Unlike the situation in the
+> baseball analogy, the airflow in front of the wing *initially* has ZERO
+> upward momentum.  The upwash represents a *change* (increase) in the
+upward
+> momentum of the airflow, which must be accompanied by a *downward*
+reaction
+> force on the wing.  Similarly, a *downward* change in airflow momentum
+> must be accompanied by an *upward* reaction force on the wing.  The
+total
+> lift of the wing will be equal to the NET downward momentum change of
+the
+> air as it passes the wing.
+> 
+> However, it's possible to show that there is ZERO net downward momentum
+> imparted to the air by the passing of a lift-generating airfoil;
+
+You're *all* right: you're just talking about different chunks of air!
+
+A'                       A                 B
+B'
+|                        |                 |                             |
+|                        |                 |                             |
+|                      ^ |                 |                             |
+|      --->            | |    ---------    | |                           |
+|     AIRFLOW            |      WING       | V                           |
+|                        |                 |                             |
+|                        |                 |                             |
+|                        |                 |                             |
+X'-----------------------X-----------------Y-----------------------------Y'
+
+Consider a situation where air flows from a plane (in the geometrical
+sense)  A'X' at "forward infinity" through a plane AX just ahead of the
+leading edge of an aerofoil (loosely a "wing" for consistency), through BY
+just behind its trailing edge, to B'Y' at "aft infinity".  Consider X'XYY'
+to be the surface of the earth a long way below the wing. 
+
+Let's look at the vertical component of the momentum flux p of the airflow
+as it passes each vertical plane, the force f on the wing and the force on
+the horizontal plane in each region. 
+
+Conservation of momentum in each zone ("control volume") requires:
+
+pA'X' - pAX = fXX'             (1)
+
+pAX - pBY = f_Wing + fXY       (2)
+
+pBY - pB'Y' = fYY'             (3)
+
+Adding 1+2+3 gives
+
+fXX' + fXY + fYY' + f_Wing = pA'X' - pB'Y' which tends to zero as the '
+planes move away towards forward and aft infinity.  So the total force on
+the imparted on the air by the wing is equal opposite to the total force
+imparted on the air by the ground; or lift is equal opposite to the total
+force imparted on the air by the ground, which is what Mallory said. 
+
+Provided the length (area in 2D) XY  is much smaller than X'Y', (2) can be
+approximated by
+
+pAX - pBY = f_Wing
+
+which is the momentum argument that Denker puts in point 1 of his
+critique.  The upwash (- pAX) in front of the wing contributes additively
+to the downwash behind (pBY). Anderson and Eberhardt have "slipped a
+sign"! 
+
+I don't like the momentum argument very much on the basis that there's a
+term like fXY in any control surface that you pick.  In the case of the
+choice XABY, it is vanishingly small and the momentum change pAX - pBY is
+a way to calculate the lift. But in the case of any surface X'A'B'Y' that
+fills space, the term is of the same order of magnitude as f_Wing (1/2 in
+the 2D case and 1/3 if I remember rightly for the 3D case, though it's a
+somewhat academic point). 
+
+That's why I think you have to be very careful about using macroscopic
+conservation of momentum arguments around wings. The only thing that you
+can be sure of is that the sum of the force on your control volume and the
+momentum flux into it is equal and opposite to the lift.  But if you know
+the velocity field everywhere anyway, why not just apply Bernoulli at the
+surface of the wing and calculate the pressure directly, like
+aerodynamicists have been doing for a century? 
+
+Bill Beaty made the interesting (but, IMHO, mistaken) point:
+
+> Yes, a 2D simulation is equivalent to an infinite wing, and for an
+> infinite wing, if there is any net change in the air motion after the
+> wing has passed, then an infinite amount of momentum had to be created,
+> because all of the air far above and below the wing had to be deflected
+> as well.
+
+Yes, but the "wing" has infinite span: the lift per unit span is finite.
+
+> In 2D space, if one streamline is permanently deflected, they ALL must
+> be permanently deflected.  Hence a 2D situation is fundamentally
+> different than a 3D situation, there are fewer degrees of freedom for
+> each parcel of air, and the air behind an infinite wing had better NOT
+> move downwards.
+
+To an extent, this is true. Some of the downwash can be attributed to the
+trailing vortices.  Nevertheless, if the 3D to 2D transition so
+fundamentally changes the physics, how come calculated and measured 2D
+lift coefficients are equal to the limit of 3D lift coefficients at large
+span? 
+ 
+> Even a "thin slice" 2D simulation is bizarre, because if there is any
+> net deflection of the air, then ALL the air out to infinite distances
+> above and below the wing must be deflected too.  This represents an
+> infinite mass and an infinite momentum change.  Hence, 2D aircraft can
+> fly without deflecting any air, but 3D aircraft operate by significantly
+> different rules.
+
+The 2D aircraft "deflect air" just like the 3D ones.  At plane BY as seen
+above, there's a large momentum change over a small area.  At plane B'Y',
+the momentum change is infinitesimal over an infinite area. One highly
+misleading aspect of the Anderson and Eberhardt paper is the implication
+that the deflection angle as "permanent", i.e. the same at BY as B'Y'.
+It's not, in either 2D or 3D.  
+
+--
+
+Julian Scarfe
+
+
+
+
+
+
+
+
+
+From owner-phys-l@LISTS.NAU.EDU  Thu Jan 14 11:28:44 1999
+Received: from mailgate.nau.edu (mailgate.nau.edu [134.114.96.19])
+	by mx1.eskimo.com (8.9.1a/8.8.8) with ESMTP id LAA23475;
+	Thu, 14 Jan 1999 11:28:42 -0800
+Received: from mailgate ([134.114.96.19])
+ by mailgate.nau.edu (PMDF V5.2-29 #31141)
+ with ESMTP id <0F5K004U5DXJ6Y@mailgate.nau.edu>; Thu,
+ 14 Jan 1999 12:28:35 -0700 (MST)
+Date: Thu, 14 Jan 1999 11:23:35 -0800
+From: James McLean <jmclean@CHEM.UCSD.EDU>
+Subject: Re: Airfoil lift, new article
+Sender: "phys-l@lists.nau.edu: Forum for Physics Educators"
+ <PHYS-L@LISTS.NAU.EDU>
+To: PHYS-L@LISTS.NAU.EDU
+Reply-to: "phys-l@lists.nau.edu: Forum for Physics Educators"
+ <PHYS-L@LISTS.NAU.EDU>
+Message-id: <0F5K004VDE3D6Y@mailgate.nau.edu>
+Status: RO
+X-Status: 
+
+William Beaty wrote:
+> See the message below.  Can you see the flaw in Mr. Scarfe's diagram and
+> arguments?  It is two-dimensional!  In 2D, a wing can push on the distant
+> ground instantly, since the air cannot escape in a direction out of (or
+> into) the plane of the diagram.  Wing pushes down on air, air pushes down
+> on Earth, Earth doesn't move.  Earth pushes up on air, air pushes up on
+> wing, wing levitates without having to eject any KG of air downwards.
+> Flight by "ground effect," with the altitude made irrelevant
+>
+I won't pretend that I could follow the quoted message, but isn't this
+treating the air as an incompressible fluid?  In that case, the pressure
+argument would be in deep kimchee too.
+
+--
+--James McLean
+jmclean@chem.ucsd.edu
+post doc
+UC San Diego, Chemistry
+
+
+
+
+
+
+
+
+
+From billbeskimo.com Thu Jan 14 13:43:52 1999
+Date: Thu, 14 Jan 1999 13:43:44 -0800 (PST)
+From: William Beaty <billbeskimo.com>
+To: "phys-l@lists.nau.edu: Forum for Physics Educators" <PHYS-L@LISTS.NAU.EDU>
+Subject: Re: Airfoil lift, new article
+In-Reply-To: <0F5K00ES2IWR0B@mailgate.nau.edu>
+Message-ID: <Pine.SUN.3.96.990114133913.24107C-100000@eskimo.com>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+On Thu, 14 Jan 1999, Michael N. Monce wrote:
+
+>         I had such a discussion about 6 months ago in the flight simulator
+> group I belong to (I quit actual flying many years ago due to the high
+> costs).  The heated discussion was with a CFI pilot who now has been hired
+> by an airline.  Nothing I could do would ever convince him that the
+> Bernoulli equation can be derived from Newton's laws.  Even when
+> confronted with the idea of a symmetrical airfoil and inverted flight he
+> stuck with his notion of pressure differences as the only route to explain
+> lift.
+
+Heh!  There's one argument which defeats all others: sticking fingers in
+the ear canal, shouting "You're Wrong!", and stalking away.  Ooops, there
+are others too: suddenly and mysteriously changing the subject whenever it
+looks like your opponent is right.
+
+((((((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))))
+William J. Beaty                                  SCIENCE HOBBYIST website
+billbeskimo.com                                  http://amasci.com
+EE/programmer/sci-exhibits          science projects, tesla, weird science
+Seattle, WA   206-762-3818          freenrg-L taoshum-L vortex-L webhead-L
+
+
+
+
+
+
+
+
+
+From owner-phys-l@LISTS.NAU.EDU  Fri Jan 15 05:39:50 1999
+Received: from mailgate.nau.edu (mailgate.nau.edu [134.114.96.19])
+	by mx1.eskimo.com (8.9.1a/8.8.8) with ESMTP id FAA03865;
+	Fri, 15 Jan 1999 05:39:49 -0800
+Received: from mailgate ([134.114.96.19])
+ by mailgate.nau.edu (PMDF V5.2-29 #31141)
+ with ESMTP id <0F5L008GZSM2K7@mailgate.nau.edu>; Fri,
+ 15 Jan 1999 06:39:44 -0700 (MST)
+Date: Fri, 15 Jan 1999 07:40:42 -0600
+From: "JACK L. URETSKY (C)1998; HEP DIVISION,              ARGONNE NATIONAL LAB ARGONNE, IL 60439"
+ <JLU@HEP.ANL.GOV>
+Subject: a couple of points on flight
+Sender: "phys-l@lists.nau.edu: Forum for Physics Educators"
+ <PHYS-L@LISTS.NAU.EDU>
+To: PHYS-L@LISTS.NAU.EDU
+Reply-to: "phys-l@lists.nau.edu: Forum for Physics Educators"
+ <PHYS-L@LISTS.NAU.EDU>
+Message-id: <0F5L008H2SM2K7@mailgate.nau.edu>
+Status: RO
+X-Status: A
+
+1.  In subsonic flight, air is incompressible to a very good approximation.
+I worked this out for phys-l a couple of years ago.
+2.  2-d airfoil theory explains lift on a wing very well.  Wind tunnels (the ones
+I was introduced to 50 or so years ago) are set up to be 2-d and one has to
+correct the measurements for wall effects, etc.
+3.  It is true that the ground effect is related to the wing span in 3-d.  In
+2-d calculations one doesn't usually introduce a ground plane.  If one did, I
+think the effect probably dies off either logarithmically or as 1/distance.
+Airfoil theory is, after all, just the same potential theory that we came to
+know and love in electrostatics - except that circulation must be introduced
+in order to keep things finite.
+                                Regards,
+                                        Jack
+ps Anderson does not quarrel with conventional aerodynamics.  He just thinks that
+his explanation is more "physical".  I think that the essential physics is contained
+in the statement that the integrated pressure over the wing surface is related
+to the net change in airflow (the "downwash"), but that's just a matter of taste.
+
+        "I scored the next great triumph for science myself,
+to wit, how the milk gets into the cow.  Both of us
+had marveled over that mystery a long time.  We had
+followed the cows around for years - that is, in the
+daytime - but had never caught them drinking fluid of
+that color."
+                Mark Twain, Extract from Eve's
+                Autobiography
+
+
+
+
+
+
+
+
+From billbeskimo.com Fri Jan 15 11:00:52 1999
+Date: Fri, 15 Jan 1999 11:00:00 -0800 (PST)
+From: William Beaty <billbeskimo.com>
+To: "phys-l@lists.nau.edu: Forum for Physics Educators" <PHYS-L@LISTS.NAU.EDU>
+Subject: Re: a couple of points on flight
+In-Reply-To: <0F5L008H2SM2K7@mailgate.nau.edu>
+Message-ID: <Pine.SUN.3.96.990115101841.29470B-100000@eskimo.com>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+On Fri, 15 Jan 1999, JACK L. URETSKY (C)1998; HEP DIVISION,              ARGONNE NATIONAL LAB ARGONNE, IL 60439 wrote:
+
+> 2.  2-d airfoil theory explains lift on a wing very well.  Wind tunnels (the ones
+> I was introduced to 50 or so years ago) are set up to be 2-d and one has to
+> correct the measurements for wall effects, etc.
+
+Hi Jack!
+From what I understand of it, I would say that 2-d airfoil theory ALLOWS
+CALCULATION of lifting force, but that is contains misleading features
+which befuddle anyone who is attempting to explain airplanes.  See below.
+
+> 3.  It is true that the ground effect is related to the wing span in
+> 3-d.  In 2-d calculations one doesn't usually introduce a ground plane. 
+> If one did, I think the effect probably dies off either logarithmically
+> or as 1/distance.  Airfoil theory is, after all, just the same potential
+> theory that we came to know and love in electrostatics - except that
+> circulation must be introduced in order to keep things finite. 
+
+Here is a central problem: in 2D, the air far upstream from the wing is
+flowing horizontally, right?  And the air far downstream is also flowing
+horizontally, correct?  These flows come about through the superposition
+of circulation and constant horizontal flight.  It seems to me that this
+guarantees a ZERO change in momentum of the air.  It looks as if the 2D
+flow diagram is symmetrical about a vertical line, and upwash exactly
+equals downwash.
+
+If the wing lifts the air up, reverses the air's vertical velocity, then
+pushes it down to exactly the same position again, leaving it with zero
+vertical velocity, then no net momentum change occurred.  For there to be
+net momentum change, the air would be lifted up at first, but then it
+would be pushed down AND KEEP MOVING DOWN AFTERWARDS.  If wings were to
+fly by deflecting a horizontal hail of bullets, then a "contrail" of
+constantly-descending bullets would trail behind the wing.  The descending
+contrail appears to be lacking in 2D circulation diagrams.  A
+constantly-descending contrail appears to be incompatible with the
+circulation field. This confuses me. 
+
+I have no idea on how to integrate the net change in the air's momentum in
+the vertical slices as it passes the circulation field of a wing in 2D. 
+My assertion that the net momentum change is zero is based upon visual
+reasoning and intuition.  Yet I still cannot grasp how a wing can create
+lift unless either it acts directly against an immobile infinite mass of
+air, either that or it takes in air having a zero vertical velocity
+component and then leaves a contrail of air which moves constantly
+downwards.  Can anyone here explain where I've gone wrong about the 2D
+"potential field" analogy of circulation? 
+
+If this were electrostatics and a charged metal object was being
+accelerated in an E-field, I would look to the distant "capacitor plates"
+where the e-field flux lines ended, there to find the opposite mechanical
+acceleration and the opposite quantity of momentum.  In 2D airfoil
+diagrams, the opposite momentum seems to be stored on the infinite mass of
+air which is behind the airfoil and extends to plus and minus vertical
+infinity.  The airfoil trys to accelerate a long horizontal slice of the
+air downwards, but this is impossible in 2D, therefor the airfoil reacts
+against an "object" having infinite mass, and the lifting force resembles
+a contact-force with zero momentum changes, rather than a downwards
+ejection of massive air parcels (think of a hovering helicopter, then
+think of a toy boat in a bowl of water resting on scales.)
+
+
+> ps Anderson does not quarrel with conventional aerodynamics.  He just
+> thinks that his explanation is more "physical".  I think that the
+> essential physics is contained in the statement that the integrated
+> pressure over the wing surface is related to the net change in airflow
+> (the "downwash"), but that's just a matter of taste. 
+
+I agree in part.  My quarrel is with the folks on newsgroups who point out
+that in 2D, upwash apparently equals downwash, therefor a pressure-
+difference can be created without any overall deflection of moving mass
+being required.  I strongly suspect that this argument is flawed because
+this efect only arises in a 2D "flatland" world, and cannot be used to
+explain why a 3d aircraft can fly.
+
+((((((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))))
+William J. Beaty                                  SCIENCE HOBBYIST website
+billbeskimo.com                                  http://amasci.com
+EE/programmer/sci-exhibits          science projects, tesla, weird science
+Seattle, WA   206-762-3818          freenrg-L taoshum-L vortex-L webhead-L
+
+
+
+
+
+
+
+
+
+
+
+From owner-phys-l@LISTS.NAU.EDU  Fri Jan 15 11:41:18 1999
+Received: from mailgate.nau.edu (mailgate.nau.edu [134.114.96.19])
+	by mx2.eskimo.com (8.9.1a/8.8.8) with ESMTP id LAA04151;
+	Fri, 15 Jan 1999 11:41:13 -0800 (PST)
+Received: from mailgate ([134.114.96.19])
+ by mailgate.nau.edu (PMDF V5.2-29 #31141)
+ with ESMTP id <0F5M003JM6B6FO@mailgate.nau.edu>; Fri,
+ 15 Jan 1999 12:40:00 -0700 (MST)
+Date: Fri, 15 Jan 1999 13:40:56 -0600
+From: "JACK L. URETSKY (C)1998; HEP DIVISION,              ARGONNE NATIONAL LAB ARGONNE, IL 60439"
+ <JLU@HEP.ANL.GOV>
+Subject: Re: a couple of points on flight
+Sender: "phys-l@lists.nau.edu: Forum for Physics Educators"
+ <PHYS-L@LISTS.NAU.EDU>
+To: PHYS-L@LISTS.NAU.EDU
+Reply-to: "phys-l@lists.nau.edu: Forum for Physics Educators"
+ <PHYS-L@LISTS.NAU.EDU>
+Message-id: <0F5M003HY9AHFO@mailgate.nau.edu>
+Status: RO
+X-Status: A
+
+Hi all-
+        William Beatty writes:
+***************************************************************
+Here is a central problem: in 2D, the air far upstream from the wing is
+flowing horizontally, right?  And the air far downstream is also flowing
+horizontally, correct?  These flows come about through the superposition
+of circulation and constant horizontal flight.  It seems to me that this
+guarantees a ZERO change in momentum of the air.  It looks as if the 2D
+flow diagram is symmetrical about a vertical line, and upwash exactly
+equals downwash.
+*********************************
+        Wrong.  Newton's laws work very well in both wind tunnels and 2-D
+aerodynamics.
+        The air downstream of a 2-D ideal lifting airfoil has a net
+downward component.  A classic work is Glauert, "Airfoil and Airscrew
+Theory",  but I'm sure that there are many other texts available.  I
+haven't yet checked Brittannica, but that's usually a good place to
+start.
+
+        "I scored the next great triumph for science myself,
+to wit, how the milk gets into the cow.  Both of us
+had marveled over that mystery a long time.  We had
+followed the cows around for years - that is, in the
+daytime - but had never caught them drinking fluid of
+that color."
+                Mark Twain, Extract from Eve's
+                Autobiography
+
+
+
+
+
+
+
+
+
+From owner-phys-l@LISTS.NAU.EDU  Fri Jan 15 13:22:25 1999
+Received: from mailgate.nau.edu (mailgate.nau.edu [134.114.96.19])
+	by mx1.eskimo.com (8.9.1a/8.8.8) with ESMTP id NAA29194;
+	Fri, 15 Jan 1999 13:22:19 -0800
+Received: from mailgate ([134.114.96.19])
+ by mailgate.nau.edu (PMDF V5.2-29 #31141)
+ with ESMTP id <0F5M00K4WDFRF5@mailgate.nau.edu>; Fri,
+ 15 Jan 1999 14:21:43 -0700 (MST)
+Date: Fri, 15 Jan 1999 13:21:11 -0800
+From: John Mallinckrodt <ajmallinckro@CSUPOMONA.EDU>
+Subject: Re: a couple of points on flight
+In-reply-to: <0F5M003RH7JHFO@mailgate.nau.edu>
+Sender: "phys-l@lists.nau.edu: Forum for Physics Educators"
+ <PHYS-L@LISTS.NAU.EDU>
+To: PHYS-L@LISTS.NAU.EDU
+Reply-to: "phys-l@lists.nau.edu: Forum for Physics Educators"
+ <PHYS-L@LISTS.NAU.EDU>
+Message-id: <0F5M00KABDZZF5@mailgate.nau.edu>
+Status: RO
+X-Status: A
+
+On Fri, 15 Jan 1999, William Beaty wrote:
+
+> Here is a central problem: in 2D, the air far upstream from the wing is
+> flowing horizontally, right?  And the air far downstream is also flowing
+> horizontally, correct?  These flows come about through the superposition
+> of circulation and constant horizontal flight.  It seems to me that this
+> guarantees a ZERO change in momentum of the air.  It looks as if the 2D
+> flow diagram is symmetrical about a vertical line, and upwash exactly
+> equals downwash.
+
+Maybe we need to remind ourselves that "horizontal" here means "parallel
+to the earth's surface."  The downward flowing air must eventually meet
+the earth in which case it pushes on and imparts "downward" momentum to
+the earth.  If you stay in the earth's frame it may look like there has
+been no change in momentum, but you aren't doing your analysis in an
+inertial frame.  And while 3D may offer another way around the apparent
+dilemma, I don't think it is necessary in order to resolve the paradox.
+
+John
+-----------------------------------------------------------------
+ A. John Mallinckrodt      http://www.csupomona.edu/~ajm
+ Professor of Physics    mailto:ajm@csupomona.edu
+ Physics Department       voice:909-869-4054
+ Cal Poly Pomona            fax:909-869-5090
+ Pomona, CA 91768-4031   office:Building 8, Room 223
+
+
+
+
+
+
+
+
+
+From billbeskimo.com Fri Jan 15 16:14:20 1999
+Date: Fri, 15 Jan 1999 16:14:01 -0800 (PST)
+From: William Beaty <billbeskimo.com>
+To: "phys-l@lists.nau.edu: Forum for Physics Educators" <PHYS-L@LISTS.NAU.EDU>
+Subject: Re: a couple of points on flight
+In-Reply-To: <0F5M003HY9AHFO@mailgate.nau.edu>
+Message-ID: <Pine.SUN.3.96.990115153250.16282C-100000@eskimo.com>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+On Fri, 15 Jan 1999, JACK L. URETSKY (C)1998; HEP DIVISION, ARGONNE NATIONAL LAB ARGONNE, IL 60439 wrote:
+
+> Hi all-
+>         William Beatty writes:
+> ***************************************************************
+> Here is a central problem: in 2D, the air far upstream from the wing is
+> flowing horizontally, right?  And the air far downstream is also flowing
+> horizontally, correct?  These flows come about through the superposition
+> of circulation and constant horizontal flight.  It seems to me that this
+> guarantees a ZERO change in momentum of the air.  It looks as if the 2D
+> flow diagram is symmetrical about a vertical line, and upwash exactly
+> equals downwash.
+> *********************************
+>         Wrong.  Newton's laws work very well in both wind tunnels and 2-D
+> aerodynamics.
+>         The air downstream of a 2-D ideal lifting airfoil has a net
+> downward component.
+
+I agree, but that's not the problem.  To me it looks like the air upstream
+from an ideal 2D airfoil has a net upward component which equals the
+downstream downward component. At the position of the airfoil, the upward
+velocity of the air changes to downward velocity, and this explains the
+lift.  However, the airfoil caused the oncoming air to rise to meet it,
+and this subtracts from the lift.  Also, the airfoil causes the descending
+downstream air to deccelerate to a standstill, and this also subtracts
+from lift.  If we look at the entire pattern of air surrounding the
+airfoil out to a fair distance, it appears that the momentum change in the
+air is first upwards in the upstream section, then downwards at the
+airfoil, then upwards again in the downstream section, for a net change of
+zero.
+
+> A classic work is Glauert, "Airfoil and Airscrew
+> Theory",  but I'm sure that there are many other texts available.  I
+> haven't yet checked Brittannica, but that's usually a good place to
+> start.
+
+Thanks, I'll have a look at Brittannica, but I hoped that mine was a
+typical student question which has been answered millions of times, and
+somebody here would already know the answer offhand.
+
+When I see those nice perfect 2D diagrams for a rotating cylinder in a
+horizontal wind, the upstream air flow is a mirror image of the
+downstream, which suggests to me that the net momentum change is zero,
+even thought the lifting force is large.  If I am wrong, where is my error
+hidden?
+
+((((((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))))
+William J. Beaty                                  SCIENCE HOBBYIST website
+billbeskimo.com                                  http://amasci.com
+EE/programmer/sci-exhibits          science projects, tesla, weird science
+Seattle, WA   206-762-3818          freenrg-L taoshum-L vortex-L webhead-L
+
+
+
+
+
+
+
+From billbeskimo.com Fri Jan 15 16:46:22 1999
+Date: Fri, 15 Jan 1999 16:46:11 -0800 (PST)
+From: William Beaty <billbeskimo.com>
+To: "phys-l@lists.nau.edu: Forum for Physics Educators" <PHYS-L@LISTS.NAU.EDU>
+Subject: Re: a couple of points on flight
+In-Reply-To: <0F5M00KABDZZF5@mailgate.nau.edu>
+Message-ID: <Pine.SUN.3.96.990115161816.16282D-100000@eskimo.com>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+On Fri, 15 Jan 1999, John Mallinckrodt wrote:
+
+> On Fri, 15 Jan 1999, William Beaty wrote:
+> 
+> > Here is a central problem: in 2D, the air far upstream from the wing is
+> > flowing horizontally, right?  And the air far downstream is also flowing
+> > horizontally, correct?  These flows come about through the superposition
+> > of circulation and constant horizontal flight.  It seems to me that this
+> > guarantees a ZERO change in momentum of the air.  It looks as if the 2D
+> > flow diagram is symmetrical about a vertical line, and upwash exactly
+> > equals downwash.
+> 
+> Maybe we need to remind ourselves that "horizontal" here means "parallel
+> to the earth's surface."  The downward flowing air must eventually meet
+> the earth in which case it pushes on and imparts "downward" momentum to
+> the earth.
+
+Yes, but if the upstream/downstream pattern are mirror images of each
+other, then the upstream pattern would pull upwards on the earth while the
+downstream pattern pushes the earth downwards, and the forces and momenta
+subtract. 
+
+If somebody standing on the ground was shooting a machine-gun up at a
+solid object, and the object was reflecting the bullets, the object would
+experience a lifting force.  This situation resembles that with the
+airfoil in a 2D world.  Yet the airfoil seems to be *pulling* its own
+bullets upwards, then reflecting them downwards to create lift, then
+*pulling* on the bullets to stop their downward motion.  The total
+momentum change would be zero.  What am I missing?  Maybe I should try to
+simulate this with a large spreadsheet.
+
+Or, to approach the problem from a different angle, what would happen if
+we took a horizontal streamline in a 2D world and deflected it downwards?
+Imagine that the earth is 10000KM below.
+
+To deflect one horizontal streamline, won't we also have to deflect each
+adjacent streamline as well?  That takes more momentum.  How far up and
+down must we reach to deflect the streamlines?  All the way down to the
+earth, no?  ANd so the earth will push on the bottom streamline, and so
+all the streamlines will feel this occur.  Since the gas is
+incompressible, it cannot be deflected at all.  If the earth was removed,
+we still would need to change the vertical component of momentum for all
+of the deflected streamlines (an infinite change in momentum), even though
+we only want to deflect a single streamline.  In a 3D world, this problem
+does not arise, because deflecting a small sheaf of streamlines would
+simply cause the air underneath to move in the 3rd dimension to get out of
+the way. 
+
+
+> If you stay in the earth's frame it may look like there has
+> been no change in momentum, but you aren't doing your analysis in an
+> inertial frame.
+
+Bouyancy forces should eliminate the non-inertial frame's effects upon the
+air parcels, no?  Suppose that instead of an earth-frame, we remove
+gravity and instead somehow apply a "downwards" force to the airfoil but
+not to the air.  I would think that this would not change the physics,
+since the airfoil would still have "weight", yet the gas would be
+"weightless," same as when a 2D airfoil flies over a 2D planet.
+
+
+> And while 3D may offer another way around the apparent
+> dilemma, I don't think it is necessary in order to resolve the paradox.
+
+If a 3D aircraft flys because it flings its wingtip-vortices downwards
+like I've describe here:
+
+   http://amasci.com/wing/rotbal.html
+
+...then "flight" in a 2D world is distinct from the "flight" of a real 3D
+aircraft, and while the 2D model would be convenient for calculating the
+lifting force, it would be wrong to use it in explanations of the lifting
+force associated with a real aircraft. 
+
+((((((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))))
+William J. Beaty                                  SCIENCE HOBBYIST website
+billbeskimo.com                                  http://amasci.com
+EE/programmer/sci-exhibits          science projects, tesla, weird science
+Seattle, WA   206-762-3818          freenrg-L taoshum-L vortex-L webhead-L
+
+
+
+
+
+
+
+
+From owner-phys-l@LISTS.NAU.EDU  Sat Jan 16 05:35:16 1999
+Received: from mailgate.nau.edu (mailgate.nau.edu [134.114.96.19])
+	by mx1.eskimo.com (8.9.1a/8.8.8) with ESMTP id FAA26913;
+	Sat, 16 Jan 1999 05:35:15 -0800
+Received: from mailgate ([134.114.96.19])
+ by mailgate.nau.edu (PMDF V5.2-29 #31141)
+ with ESMTP id <0F5N00KMAN2GXI@mailgate.nau.edu>; Sat,
+ 16 Jan 1999 06:35:10 -0700 (MST)
+Date: Sat, 16 Jan 1999 07:36:10 -0600
+From: "JACK L. URETSKY (C)1998; HEP DIVISION,              ARGONNE NATIONAL LAB ARGONNE, IL 60439"
+ <JLU@HEP.ANL.GOV>
+Subject: Re: a couple of points on flight
+Sender: "phys-l@lists.nau.edu: Forum for Physics Educators"
+ <PHYS-L@LISTS.NAU.EDU>
+To: PHYS-L@LISTS.NAU.EDU
+Reply-to: "phys-l@lists.nau.edu: Forum for Physics Educators"
+ <PHYS-L@LISTS.NAU.EDU>
+Message-id: <0F5N00KMDN2GXI@mailgate.nau.edu>
+Status: RO
+X-Status: 
+
+Hi William Beaty-
+        You write-
+************************************************************
+I agree, but that's not the problem.  To me it looks like the air upstream
+from an ideal 2D airfoil has a net upward component which equals the
+downstream downward component. At the position of the airfoil, the upward
+velocity of the air changes to downward velocity, and this explains the
+lift.  However, the airfoil caused the oncoming air to rise to meet it,
+and this subtracts from the lift.  Also, the airfoil causes the descending
+downstream air to deccelerate to a standstill, and this also subtracts
+from lift.  If we look at the entire pattern of air surrounding the
+airfoil out to a fair distance, it appears that the momentum change in the
+air is first upwards in the upstream section, then downwards at the
+airfoil, then upwards again in the downstream section, for a net change of
+zero.
+**********************************
+        It's a quantitative question that depends upon the "angle of attack"
+of the airfoil.  If the angle is sufficient to give lift, then the downstream
+deflection is greater than the upstream deflection, giving a net lift.  This
+is apparently illustrated in the Anderson-Eberhart paper.
+                                Regards,
+                                        Jack
+
+
+        "I scored the next great triumph for science myself,
+to wit, how the milk gets into the cow.  Both of us
+had marveled over that mystery a long time.  We had
+followed the cows around for years - that is, in the
+daytime - but had never caught them drinking fluid of
+that color."
+                Mark Twain, Extract from Eve's
+                Autobiography
+
+
+
+
+
+
+
+
+
+From owner-phys-l@LISTS.NAU.EDU  Sat Jan 16 07:11:17 1999
+Received: from mailgate.nau.edu (mailgate.nau.edu [134.114.96.19])
+	by mx1.eskimo.com (8.9.1a/8.8.8) with ESMTP id HAA22831;
+	Sat, 16 Jan 1999 07:11:16 -0800
+Received: from mailgate ([134.114.96.19])
+ by mailgate.nau.edu (PMDF V5.2-29 #31141)
+ with ESMTP id <0F5N00NKKRII04@mailgate.nau.edu>; Sat,
+ 16 Jan 1999 08:11:11 -0700 (MST)
+Date: Sat, 16 Jan 1999 09:10:57 -0600
+From: brian whatcott <inet@INTELLISYS.NET>
+Subject: Re: a couple of points on flight
+In-reply-to: <0F5N00KOUN2NXI@mailgate.nau.edu>
+Sender: "phys-l@lists.nau.edu: Forum for Physics Educators"
+ <PHYS-L@LISTS.NAU.EDU>
+To: PHYS-L@LISTS.NAU.EDU
+Reply-to: "phys-l@lists.nau.edu: Forum for Physics Educators"
+ <PHYS-L@LISTS.NAU.EDU>
+Message-id: <0F5N00NKNRII04@mailgate.nau.edu>
+Status: RO
+X-Status: 
+
+At 07:36 1/16/99 -0600, you wrote:
+[Bill]
+>...  If we look at the entire pattern of air surrounding the
+>airfoil out to a fair distance, it appears that the momentum change in the
+>air is first upwards in the upstream section, then downwards at the
+>airfoil, then upwards again in the downstream section, for a net change of
+>zero.
+>**********************************
+[Jack]
+>        It's a quantitative question that depends upon the "angle of attack"
+>of the airfoil.  If the angle is sufficient to give lift, then the downstream
+>deflection is greater than the upstream deflection, giving a net lift.  This
+>is apparently illustrated in the Anderson-Eberhart paper.
+>                                Regards,
+>                                        Jack
+
+What Jack said....with the proviso, the angle of attack for
+effective lift can include the angle zero for asymmetric sections.
+Following along with the earlier discussion I received the uncomfortable
+ image of a moving footprint of air in the shape of the moving wing
+finally pressing upon the ground.
+ I am more comfortable with an image of molecules of the downwards
+air parcel sharing their largesse with others, in the manner of a
+marble running down a (Dalton's??) pinboard.
+Brian
+brian whatcott <inet@intellisys.net>
+Altus OK
+
+
+
+
+
+
+
+
+
+
+
+
+From owner-phys-l@LISTS.NAU.EDU  Sat Jan 16 09:08:50 1999
+Received: from mailgate.nau.edu (mailgate.nau.edu [134.114.96.19])
+	by mx1.eskimo.com (8.9.1a/8.8.8) with ESMTP id JAA28214;
+	Sat, 16 Jan 1999 09:08:49 -0800
+Received: from mailgate ([134.114.96.19])
+ by mailgate.nau.edu (PMDF V5.2-29 #31141)
+ with ESMTP id <0F5N007H7WYBMQ@mailgate.nau.edu>; Sat,
+ 16 Jan 1999 10:08:43 -0700 (MST)
+Date: Sat, 16 Jan 1999 12:08:31 -0500
+From: "Michael N. Monce" <mnmon@CONNCOLL.EDU>
+Subject: Re: a couple of points on flight
+In-reply-to: <0F5N00KMDN2GXI@mailgate.nau.edu>
+Sender: "phys-l@lists.nau.edu: Forum for Physics Educators"
+ <PHYS-L@LISTS.NAU.EDU>
+To: PHYS-L@LISTS.NAU.EDU
+Reply-to: "phys-l@lists.nau.edu: Forum for Physics Educators"
+ <PHYS-L@LISTS.NAU.EDU>
+Message-id: <0F5N007HAWYBMQ@mailgate.nau.edu>
+Status: RO
+X-Status: 
+
+On Sat, 16 Jan 1999, JACK L. URETSKY (C)1998; HEP DIVISION,              ARGONNE NATIONAL LAB ARGONNE, IL 60439 wrote:
+
+>         It's a quantitative question that depends upon the "angle of attack"
+> of the airfoil.  If the angle is sufficient to give lift, then the downstream
+> deflection is greater than the upstream deflection, giving a net lift.  This
+> is apparently illustrated in the Anderson-Eberhart paper.
+>                                 Regards,
+>                                         Jack
+>
+
+        I think this is precisely where the pilots I've had discussion
+with seem to miss the point.  They insist that with zero angle of attack,
+and with no net deviation of the airstream, that the Bernoulli equation
+still insists that the airfoil will fly.
+
+                        Mike Monce
+                        Connecticut College
+
+
+
+
+
+
+
+
+
+
+
+From billbeskimo.com Sat Jan 16 13:22:53 1999
+Date: Sat, 16 Jan 1999 13:22:52 -0800 (PST)
+From: William Beaty <billbeskimo.com>
+Reply-To: William Beaty <billbeskimo.com>
+To: "phys-l@lists.nau.edu: Forum for Physics Educators" <PHYS-L@LISTS.NAU.EDU>
+cc: tap-l <tap-l@listserv.appstate.edu>, scott@aa.washington.edu, 
+    Jan-Olov Newborg <newborg@algonet.se>, dfa@fnal.gov, jefraskin@aol, 
+    jsd@monmouth.com
+Subject: PHYS-L: is Circulation theory "wrong" ????
+In-Reply-To: <0F5N00KMDN2GXI@mailgate.nau.edu>
+Message-ID: <Pine.SUN.3.96.990116104506.7788E-100000@eskimo.com>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+In PHYS-L on Sat, 16 Jan 1999, JACK L. URETSKY (C)1998; HEP DIVISION,              ARGONNE NATIONAL LAB ARGONNE, IL 60439 wrote:
+
+>         It's a quantitative question that depends upon the "angle of
+> attack"  of the airfoil.  If the angle is sufficient to give lift, then
+> the downstream deflection is greater than the upstream deflection,
+> giving a net lift.  This is apparently illustrated in the
+> Anderson-Eberhart paper. 
+
+I totally agree with this reasoning as far as the 3D case is concerned. 
+The Anderson-Eberhart paper (http://www.aa.washington.edu/faculty/eberhardt/lift.htm)
+argues that 3D aircraft must impose a net downwards deflection upon the
+air being encountered by the wings, and therefor derive an upwards F=MA
+lifting force.  I agree because there is no way for the aircraft to push
+upon the earth directly, and because the forces created by the wing must
+obviously deflect mass (with no "earth's surface" being required.)  I
+agree because the downstream "wake" of a 3D aircraft is totally different
+than the upstream patterns of air motion: it contains a pair of large
+wake-vortices which presumably are carrying air downwards, as
+illustrated in my "disk balloons" example at
+http://amasci.com/wing/rotbal.html.  Clearly a 3D aircraft applies a
+reaction force between its wings and the oncoming parcels of air, and
+consequently the air accelerates downwards, and the craft accelerates
+upwards and therefor opposes gravity and flys horizontally.
+
+My conceptual confusion lies with the 2D case.  In the 2D "world", it
+appears to me that the air-flow patterns upstream and downstream of the 2D
+airfoil are mirror images of each other, and so the airfoil on average
+does not throw air downwards (nor does it leave air moving downwards.)  It
+appears to me that the wing is directly reacting against an infinite mass
+of downstream air (or possibly is directly reacting against the distant
+surface of the earth which blocks the vertical motion of the 2D air).  Why
+do I think this?  See below. 
+
+Since the air in the 2D world is treated as incompressible, then whenever
+a downward force is applied to a long horizontal downstream parcel of air,
+this downward force will be instantly communicated all the way down to the
+earth's surface, and the earth's surface will instantly prevent that chunk
+of 2D atmosphere from moving downwards.  The wing *TRIES* to deflect air
+downwards, but it only succeeds in creating a circular flow; where every
+parcel of downward-moving downstream air is match by an upstream parcel
+which is forced to move upwards.  Isn't that what "circulation" means,
+after all?  A tilted airfoil tries to deflect air downwards, but in the 2D
+world, this air encounters a sort of "solid floor", and as a result, it
+ends up causing an equal upwash ahead of the wing.  Upwash equals
+downwash, therefor there is no *NET* change in the vertical velocity or
+vertical momentum of the oncoming air.  By conservation of momentum, there
+must be zero lifting force!  Yet the wing does fly.  Why?  I suspect it
+works like so: the wing essentially pushes downwards upon a (horizontally
+wide) "rigid column" of 2D air which is resting upon the earth and
+prevented from moving downwards.  Therefor there is an instantaneous
+contact-force pair between the wing and the earth; as if the wing was
+resting upon the earth itself (or was using a pressure-bubble like a
+hovercraft; in other words, flight by "ground effect.") 
+
+
+Another way to think about the problem.  It appears to me that the
+following flow pattern is impossible in the two dimensional world:
+
+
+       upstream of               downstream of
+       the airfoil               the airfoil
+
+  ---------------------      ___
+                                ---___
+  ---------------------      ___      ---___
+                                ---___
+  ---------------------      ___      ---___
+                                ---___
+  ---------------------      ___      ---___
+                                ---___
+  ---------------------      ___      ---___
+                                ---___
+                                      ---___
+
+
+In order to permanently deflect one streamline, the airfoil would have to
+deflect ALL the downstream streamlines, agreed?  This phenomena only
+arises in a 2D world.  The tilted flow in the right-hand diagram would
+crash into the earth.  Or, if the earth was removed and the atmosphere was
+infinitely tall, then the change from horizontal-flow to diagonal-flow
+would require an infinite momentum change.  The airfoil cannot create the
+infinite force needed to permanently deflect the infinite mass of
+two-dimensional air.  With no deflection, there is no F=MA force. However,
+since the airfoil TRIES to deflect the air downards, it is applying a
+force to the air and therefor to the earth's surface.  The earth's surface
+answers: it applies an upward 3rd-law force to the air and therefor to the
+airfoil.  As a consequence, the two-dimensional airfoil rides indirectly
+upon the two-dimensional earth: it flies entirely by "ground effect."
+
+The airfoil in the 2D world cannot deflect air, however it is allowed to
+move air around by creating a CIRCULAR flow.  The circular flow doesn't
+impose a permanent net downwards deflection upon oncoming parcels of air
+in the way that a 3D aircraft does.  The circular flow requires that the
+"upwash" equal the "downwash".  If upwash equals downwash, there is no net
+downwash, and no net F=MA lifting force. In the 2D world, the airfoil
+cannot fly by deflecting air downwards. Instead there is a contact-force
+with the earth, and the airfoil "rides on a bubble."   This bubble is its
+circulation pattern which has higher pressure below, and which pushes upon
+the earth like some vast automobile tire.
+
+I conclude that, in the two-dimensional world, an airfoil "flys" by
+contact forces with the distant earth's surface (or equivalently, by
+attempting to deflect the entire 2D atmosphere).  On the other hand, a 3D
+aircraft flys by directing a stream of air downwards in three dimensions,
+and the air far below the aircraft can move aside in order to allow the
+downwards flow to pass by.  Such a thing is not possible in 2D.  Hence,
+aircraft in "flatland" rely on the unique physics of the two-dimensional
+world, and they essentially are hovercrafts, no matter how high they may
+fly above the ground.
+
+Hey everybody on PHYS-L!  Please feel free to find the huge flaw in my
+reasoning above.  I cannot find it.  I've cc:'d TAP-L to attract more
+"opponents."  :)  I seriously want to get to the bottom of my confusion. 
+Either that, or I want to contribute to a "phase change" where a bunch of
+people leap onto my bandwagon and stop using 2D circulation theory to
+explain real-world flight. 
+
+
+What I'd REALLY love to see is the graph of net vertical velocity of
+vertical slices of the atmosphere surrounding a wing in a 2D world.  My
+intuition is that this graph is flat except near the airfoil, and near the
+airfoil every upward part is matched elsewhere by an equal downward part. 
+If true, then isn't my intuition correct, and the wing causes circulation
+but no net deflection of oncoming air, and therefor no net change in
+momentum?
+
+"Bill Beaty (and Dr. Weltner, etc.) CANNOT be right, because it would mean
+that any explanation of flight which is based on 2D circulation is
+profoundly misleading when used to explain how 3D airplanes fly.  That
+many textbooks and experts cannot possibly be wrong!" 
+
+My experiences with "educator misconceptions" shows that the above
+argument is invalid.  That many textbooks CAN be wrong, and frequently
+are. That's why I'm on such a personal crusade! 
+
+I usually limit myself to K-6 textbook issues.  In the case of flight, the
+(apparent) conceptual garbage from the university level is reaching down
+and distorting explanations of flight in grade school.  Therefor I have no
+inhibitions about attacking circulation theory.  It might after all be
+"wrong."  If I can find the flaw in 2D circulation explanations of flight,
+then I can weaken their hold on K-6 textbook explanations of flight, and
+defeat the typical arguments from authority. ( Don't try to reason it out
+for yourself, instead listen to expert opinions contained in advanced
+textbooks? NOT! ) The flaw appears to be located in the "flatland physics"
+which does not apply to any 3D aircraft.  My reasoning is obviously
+oversimplified, and it is possible to argue about all sorts of little
+issues.  However, if my reasoning has a *fundamental* flaw, I need
+somebody would set me straight.
+
+In conclusion, it appears to me that 2D circulation theory is fine when
+its use is confined to calculations of lifting force of airfoil
+cross-sections.  Local to the airfoil surface, 3D air flows are probably
+identical to air flows in a 2D world, and so any lifting-force
+calculations that are based on 2D circulation will match the real-world 3D
+results.  However, since 2D circulation theory only *EXPLAINS* the flight
+of "flatland aircraft", we should never unthinkingly apply it to 3D craft
+which fly by an entirely different physical mechanism: by creating
+downwards-moving 3D trailing vortices.
+
+As always, more stuff and old message-threads are available here:
+
+  Airfoil Lifting Force Misconception in K-6 Textbooks
+  http://amasci.com/wing/airfoil.html
+
+  "Science Myths" in K-6 Textbooks and Popular culture
+  http://amasci.com/miscon/miscon.html
+
+(note the new domain name, but the old will always work)
+
+   "It is a good morning exercise for a research scientist to discard a
+    pet hypothesis every day before breakfast. It keeps him young."
+       -- Konrad Lorenz 
+
+   "If you make people think they're thinking, they'll love you.  If you
+    REALLY make them think, they'll hate you" - D. Marquis
+
+((((((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))))
+William J. Beaty                                  SCIENCE HOBBYIST website
+billbeskimo.com                                  http://amasci.com
+EE/programmer/sci-exhibits          science projects, tesla, weird science
+Seattle, WA   206-762-3818          freenrg-L taoshum-L vortex-L webhead-L
+
+
+
+
+
+
+
+
+From owner-phys-l@LISTS.NAU.EDU  Sun Jan 17 11:03:24 1999
+Received: from mailgate.nau.edu (mailgate.nau.edu [134.114.96.19])
+	by mx1.eskimo.com (8.9.1a/8.8.8) with ESMTP id LAA25379;
+	Sun, 17 Jan 1999 11:03:22 -0800
+Received: from mailgate ([134.114.96.19])
+ by mailgate.nau.edu (PMDF V5.2-29 #31141)
+ with ESMTP id <0F5P00H5UWXAAF@mailgate.nau.edu>; Sun,
+ 17 Jan 1999 12:03:17 -0700 (MST)
+Date: Sun, 17 Jan 1999 14:00:29 -0500
+From: "James W. Wheeler" <jwheeler@EAGLE.LHUP.EDU>
+Subject: Re: PHYS-L: is Circulation theory "wrong" ????
+In-reply-to: <0F5O00E9E8QOKW@mailgate.nau.edu>
+Sender: "phys-l@lists.nau.edu: Forum for Physics Educators"
+ <PHYS-L@LISTS.NAU.EDU>
+To: PHYS-L@LISTS.NAU.EDU
+Reply-to: "phys-l@lists.nau.edu: Forum for Physics Educators"
+ <PHYS-L@LISTS.NAU.EDU>
+Message-id: <0F5P00H5YWXBAF@mailgate.nau.edu>
+Status: RO
+X-Status: A
+
+If one wants to know about the effect of the ground on the system, I
+suspect the distance to the ground and the speed of sound would be
+necessary considerations, even in 2-D.
+
+On Sat, 16 Jan 1999, William Beaty wrote:
+
+> In PHYS-L on Sat, 16 Jan 1999, JACK L. URETSKY (C)1998; HEP DIVISION,              ARGONNE NATIONAL LAB ARGONNE, IL 60439 wrote:
+>
+> >         It's a quantitative question that depends upon the "angle of
+> > attack"  of the airfoil.  If the angle is sufficient to give lift, then
+> > the downstream deflection is greater than the upstream deflection,
+> > giving a net lift.  This is apparently illustrated in the
+> > Anderson-Eberhart paper.
+>
+> I totally agree with this reasoning as far as the 3D case is concerned.
+> The Anderson-Eberhart paper (http://www.aa.washington.edu/faculty/eberhardt/lift.htm)
+> argues that 3D aircraft must impose a net downwards deflection upon
+> the...
+
+
+
+
+
+
+
+
+
+From owner-phys-l@LISTS.NAU.EDU  Sun Jan 17 13:00:31 1999
+Received: from mailgate.nau.edu (mailgate.nau.edu [134.114.96.19])
+	by mx1.eskimo.com (8.9.1a/8.8.8) with ESMTP id NAA00509;
+	Sun, 17 Jan 1999 13:00:30 -0800
+Received: from mailgate ([134.114.96.19])
+ by mailgate.nau.edu (PMDF V5.2-29 #31141)
+ with ESMTP id <0F5Q00H012CKWW@mailgate.nau.edu>; Sun,
+ 17 Jan 1999 14:00:26 -0700 (MST)
+Date: Sun, 17 Jan 1999 15:01:25 -0600
+From: "JACK L. URETSKY (C)1998; HEP DIVISION,              ARGONNE NATIONAL LAB ARGONNE, IL 60439"
+ <JLU@HEP.ANL.GOV>
+Subject: Re: PHYS-L: is Circulation theory "wrong" ????
+Sender: "phys-l@lists.nau.edu: Forum for Physics Educators"
+ <PHYS-L@LISTS.NAU.EDU>
+To: PHYS-L@LISTS.NAU.EDU
+Reply-to: "phys-l@lists.nau.edu: Forum for Physics Educators"
+ <PHYS-L@LISTS.NAU.EDU>
+Message-id: <0F5Q00H042CKWW@mailgate.nau.edu>
+Status: RO
+X-Status: 
+
+Hi William Beaty-
+        Well, I'm willing to give you some hints.
+************************************************************
+My conceptual confusion lies with the 2D case.  In the 2D "world", it
+appears to me that the air-flow patterns upstream and downstream of the 2D
+airfoil are mirror images of each other, and so the airfoil on average
+does not throw air downwards (nor does it leave air moving downwards.)  It
+appears to me that the wing is directly reacting against an infinite mass
+of downstream air (or possibly is directly reacting against the distant
+surface of the earth which blocks the vertical motion of the 2D air).  Why
+do I think this?  See below.
+***************************************
+        Your assumption that upstream and downstream are mirror images is
+false.
+        The statement that the wing is directly reacting against an "infinite
+mass of downstream air" (at any instant, at least) is not supportable by
+any legitimate calculation.
+        The surface of the earth roughly analogous to an infinite conducting
+plane in 2-D electrostatics.  The potential of a 2-D point charge near such
+a plane is a logarithm.  The 2-D wing is like a 2-D charge distribution
+(plus circulation).
+
+*****************************************************************
+Since the air in the 2D world is treated as incompressible, then whenever
+a downward force is applied to a long horizontal downstream parcel of air,
+this downward force will be instantly communicated all the way down to the
+earth's surface, and the earth's surface will instantly prevent that chunk
+of 2D atmosphere from moving downwards.
+************************
+        Also in the subsonic 3-D world is air incompressible.
+        Circulation is, I believe, still accounted for by the Kutta-Jokowski
+hypothesis, which I will encourage you to learn about for yourself.
+        As I bow out of this discussion, I will remind the list that
+Aristotelean argument does not replace a successful mathematical description
+of nature.
+                                                        Regards,
+                                                                Jack
+
+        "I scored the next great triumph for science myself,
+to wit, how the milk gets into the cow.  Both of us
+had marveled over that mystery a long time.  We had
+followed the cows around for years - that is, in the
+daytime - but had never caught them drinking fluid of
+that color."
+                Mark Twain, Extract from Eve's
+                Autobiography
+
+
+
+
+
+
+
+
+
+
+From billbeskimo.com Sun Jan 17 13:10:44 1999
+Date: Sun, 17 Jan 1999 13:10:42 -0800 (PST)
+From: William Beaty <billbeskimo.com>
+To: "phys-l@lists.nau.edu: Forum for Physics Educators" <PHYS-L@LISTS.NAU.EDU>
+Subject: Re: PHYS-L: is Circulation theory "wrong" ????
+In-Reply-To: <0F5P00H5YWXBAF@mailgate.nau.edu>
+Message-ID: <Pine.SUN.3.96.990117130837.21772D-100000@eskimo.com>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+On Sun, 17 Jan 1999, James W. Wheeler wrote:
+
+> If one wants to know about the effect of the ground on the system, I
+> suspect the distance to the ground and the speed of sound would be
+> necessary considerations, even in 2-D.
+
+Right!  This is taken care of by making the compressibility of the air
+approach zero, which makes the speed of sound grow very large (or at least
+that's the way I understand it, perhaps I'm wrong.)
+
+
+((((((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))))
+William J. Beaty                                  SCIENCE HOBBYIST website
+billbeskimo.com                                  http://amasci.com
+EE/programmer/sci-exhibits          science projects, tesla, weird science
+Seattle, WA   206-762-3818          freenrg-L taoshum-L vortex-L webhead-L
+
+
+
+
+
+
+
+
+
+
+
+From owner-phys-l@LISTS.NAU.EDU  Sun Jan 17 15:01:07 1999
+Received: from mailgate.nau.edu (mailgate.nau.edu [134.114.96.19])
+	by mx1.eskimo.com (8.9.1a/8.8.8) with ESMTP id PAA07141;
+	Sun, 17 Jan 1999 15:01:00 -0800
+Received: from mailgate ([134.114.96.19])
+ by mailgate.nau.edu (PMDF V5.2-29 #31141)
+ with ESMTP id <0F5Q00JWX7WIC2@mailgate.nau.edu>; Sun,
+ 17 Jan 1999 16:00:57 -0700 (MST)
+Date: Sun, 17 Jan 1999 16:59:27 -0600
+From: Herb Schulz <herbs@INTERACCESS.COM>
+Subject: Re: PHYS-L: is Circulation theory "wrong" ????
+In-reply-to: <0F5Q00H2L2CRWW@mailgate.nau.edu>
+Sender: "phys-l@lists.nau.edu: Forum for Physics Educators"
+ <PHYS-L@LISTS.NAU.EDU>
+To: PHYS-L@LISTS.NAU.EDU
+Reply-to: "phys-l@lists.nau.edu: Forum for Physics Educators"
+ <PHYS-L@LISTS.NAU.EDU>
+Message-id: <0F5Q00JXB7XGC2@mailgate.nau.edu>
+Status: RO
+X-Status: A
+
+Howdy,
+
+Imagine a VERY LONG wing passing through the air and look at the motion of
+the air near the center.  Symmetry tells me that at least near the center
+of the wing the air flow should be independent of which plane perpendicular
+to the wing you pick; i.e., a 2D model should still work.  If it would need
+a 3D analysis then ends of the wing would have to give almost all of the
+lift; ALL planes would have short stubby wings.
+
+Good Luck,
+
+Herb Schulz
+(herbs@interaccess.com)
+
+
+
+
+
+
+
+
+
+
+
+
+From owner-phys-l@LISTS.NAU.EDU  Sun Jan 17 15:26:29 1999
+Received: from mailgate.nau.edu (mailgate.nau.edu [134.114.96.19])
+	by mx1.eskimo.com (8.9.1a/8.8.8) with ESMTP id PAA14949;
+	Sun, 17 Jan 1999 15:26:27 -0800
+Received: from mailgate ([134.114.96.19])
+ by mailgate.nau.edu (PMDF V5.2-29 #31141)
+ with ESMTP id <0F5Q00JWX7WIC2@mailgate.nau.edu>; Sun,
+ 17 Jan 1999 16:12:25 -0700 (MST)
+Date: Sun, 17 Jan 1999 15:12:14 -0800
+From: William Beaty <billbeskimo.com>
+Subject: Re: PHYS-L: is Circulation theory "wrong" ???? (fwd)
+Sender: "phys-l@lists.nau.edu: Forum for Physics Educators"
+ <PHYS-L@LISTS.NAU.EDU>
+To: PHYS-L@LISTS.NAU.EDU
+Reply-to: "phys-l@lists.nau.edu: Forum for Physics Educators"
+ <PHYS-L@LISTS.NAU.EDU>
+Message-id: <0F5Q00J7D8GKC2@mailgate.nau.edu>
+Status: RO
+X-Status: 
+
+Forward message, NOT from Bill Beaty.
+
+---------- Forwarded message ----------
+Date: Sun, 17 Jan 1999 09:44:39 -0600 (CST)
+From: David_Anderson <dfa@fnal.gov>
+To: William Beaty <billbeskimo.com>
+Cc: "phys-l@lists.nau.edu: Forum for Physics Educators"
+     <PHYS-L@LISTS.NAU.EDU>,
+    tap-l <tap-l@listserv.appstate.edu>, scott@aa.washington.edu,
+    Jan-Olov Newborg <newborg@algonet.se>, jefraskin@aol, jsd@monmouth.com
+Subject: Re: PHYS-L: is Circulation theory "wrong" ????
+
+Bill,
+
+I found your last email somewhat stimulating.  I believe that I can shed
+some light on the situation.  I will first start by giving a quote from
+Elementary Fluid Dynamics, by D.J. Acheson, Clarendon Press, Oxford:
+
+Notwithstanding the importance of circulation, the Kutta-Joukowski
+condition, and the theorem of [the previous section which relates lift to
+speed and circulation], an aerofoil obtains lift essentially by imparting
+downward momentum to the oncoming airstream.  In the case of a single
+aerofoil, in an infinite expanse of fluid this elementary truth is
+disguised, perhaps, by the way that the deflection of the airstream tends
+to zero at infinity.
+
+There should be no question that the net result of lift is that air is
+given vertical momentum and energy.  The confusion comes from the 2D
+simulations of the aeronautical engineers.  I think you will have an
+easier time visualizing the 2D situation if you keep in mind that a 2D
+airfoil is really an airfoil of infinite length.  This fact is often lost
+and is the cause of much of the confusion.  As Scott and I discussed in
+our paper, the efficiency for lift of a wing is proportional to its
+length.  A wing of infinite length diverts an infinite amount of air down
+at zero velocity.  Since the work done is proportional to the vertical
+velocity of the air (squared), the infinite wing develops lift without
+doing work.
+
+It is the loss of the fact that 2D simulations are of infinite wings that
+give rise to the (silly) misconceptions that lift does not require work
+(the basis for the book Stop Abusing Bernoulli! How Airplanes Really Fly,
+By Gail Craig), that if one were to look far enough back there would be no
+net momentum transfer, that circulation drives lift (rather than the other
+way around), that a wing with symmetric circulation has lift, and that the
+induced drag is just due to the nasty wingtip vortices.
+
+The point was brought up in the email that many textbooks and expert
+cannot possibly be wrong.  Through the years of developing the view that
+is presented in our paper, many a time I almost quit because of something
+that I read from an expert.  I would be stopped by the thought that if
+what was said were true, that I really didn't know how a wing developed
+lift.  Fortunately for me, Scott was there to explain the origin of the
+misconceptions.  This work has been more of an effort in learning where
+misconception came from than figuring out how planes really fly.
+
+I hope this is of some help.
+
+David
+_______________________________________________________________________________
+                               David F. Anderson
+                    Fermi National Accelerator Laboratory
+                              PO Box 500,  MS-220
+                               Batavia, IL 60510
+                     (630) 840-3471; FAX (630) 840-6039
+_______________________________________________________________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+From billbeskimo.com Sun Jan 17 15:35:12 1999
+Date: Sun, 17 Jan 1999 15:35:08 -0800 (PST)
+From: William Beaty <billbeskimo.com>
+Reply-To: William Beaty <billbeskimo.com>
+To: David_Anderson <dfa@fnal.gov>
+cc: "phys-l@lists.nau.edu: Forum for Physics Educators" <PHYS-L@LISTS.NAU.EDU>, 
+    tap-l <tap-l@listserv.appstate.edu>, scott@aa.washington.edu, 
+    Jan-Olov Newborg <newborg@algonet.se>, jefraskin@aol, jsd@monmouth.com
+Subject: Re: PHYS-L: is Circulation theory "wrong" ????
+In-Reply-To: <Pine.GS4.4.05.9901170943390.23439-100000@fsui02.fnal.gov>
+Message-ID: <Pine.SUN.3.96.990117143841.21772I-100000@eskimo.com>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: RO
+X-Status: 
+
+
+To everyone on the CC list:  Would you be interested if I were to
+volunteer one of my listservers for use in discussing the lifting force
+controversy?  This would remove the debate to a separate forum and keep
+phys-L and other groups from being taken over by the "lifting force" 
+discussion.  I would demand civilized behavior from all participants, and
+the discussion would definitely NOT descend to the level of a newsgroup
+flamewar.
+
+I have a disused list called VortexC-L (appropriate name, eh?)  The forum
+would only be worthwhile if opposing sides in the controversy are both
+interested.  There's no point to starting a dedicated "lifting force" 
+forum if it becomes a mutual-admiration society for one side of the
+debate. 
+
+
+On Sun, 17 Jan 1999, David_Anderson wrote:
+
+> Bill,
+> 
+> I found your last email somewhat stimulating.  I believe that I can shed
+> some light on the situation.  I will first start by giving a quote from
+> Elementary Fluid Dynamics, by D.J. Acheson, Clarendon Press, Oxford:
+> 
+>   Notwithstanding the importance of circulation, the Kutta-Joukowski
+>   condition, and the theorem of [the previous section which relates lift
+>   to speed and circulation], an aerofoil obtains lift essentially by
+>   imparting downward momentum to the oncoming airstream.  In the case of
+>   a single aerofoil, in an infinite expanse of fluid this elementary
+>   truth is disguised, perhaps, by the way that the deflection of the
+>   airstream tends to zero at infinity.
+
+Hey!  Maybe all these non-mathematical "Conceptual physics" intuitions are
+correct after all?   :)
+
+
+> There should be no question that the net result of lift is that air is
+> given vertical momentum and energy.  The confusion comes from the 2D
+> simulations of the aeronautical engineers.  I think you will have an
+> easier time visualizing the 2D situation if you keep in mind that a 2D
+> airfoil is really an airfoil of infinite length.  This fact is often lost
+> and is the cause of much of the confusion.
+
+I agree.  However, the infinite length can be eliminated if we imagine
+that the 2D world is actually 1mm deep, and is trapped between
+frictionless glass walls (with the airfoil being free to move.)  This
+visual image is how I eliminated my own fuzzy thinking regarding an
+infinite lifting force applied to an infinitely long wing, resulting in a
+finite net force. 
+
+> It is the loss of the fact that 2D simulations are of infinite wings that
+> give rise to the (silly) misconceptions that lift does not require work
+> (the basis for the book Stop Abusing Bernoulli! How Airplanes Really Fly,
+> By Gail Craig), that if one were to look far enough back there would be no
+> net momentum transfer,
+
+I just had a brainstorm yesterday about "looking far back enough."  I
+think I've found the flaw.  If we take a vertical 2D slice of the 3D air
+patterns around a real aircraft, we can find a situation that resembles
+the world of the 2D airfoil simulation, including the distant
+starting-vortex.  However, that slice exists in a 3D world, and HENCE HAS
+NO MASS.  If the same slice is made thicker and taken in a variety of
+positions and orientations, it is clear that there IS a net momentum
+transfer which supports the aircraft.  Only in one symmetrical position, a
+position which avoids intersecting the trailing vortices, does it APPEAR
+that the 2D model applies to the 3D aircraft.  In my opinion this is a
+weird, nonphysical artifact, and the supporters of the 2D model are moved
+to grasp it fiercely in an attempt to deny ever admitting that their
+viewpoint is fundamentally flawed.  An unbiased outsider would lack the
+emotional issues connected with being proved wrong, and therefor wouldn't
+defend such a nonphysical distortion of reality.  In other words, our
+misconceptions are strong, they are intertwined with our egos, and they
+fiercely resist being cured by a dose of correct information. 
+
+> The point was brought up in the email that many textbooks and expert
+> cannot possibly be wrong.  Through the years of developing the view that
+> is presented in our paper, many a time I almost quit because of something
+> that I read from an expert.  I would be stopped by the thought that if
+> what was said were true, that I really didn't know how a wing developed
+> lift.  Fortunately for me, Scott was there to explain the origin of the
+> misconceptions.  This work has been more of an effort in learning where
+> misconception came from than figuring out how planes really fly.
+
+This sounds verrrrry familiar.  It took me years to realize that textbooks
+as a whole are just lousy with conceptual errors.  Still, I try to confine
+myself to an area of expertise I can deal with: errors in grade-school
+texts.  (Obviously there are far more errors to fight in those books than
+in postgraduate texts.  Yet the number of errors does not decrease to zero
+as the level of study advances.  Far from it.) 
+
+Take a look at my website called SCIENCE MYTHS IN K-6 TEXTBOOKS, at
+
+   http://amasci.com/miscon/miscon.html
+
+I had to go through numerous mental "phase changes" in order to clear
+these misconceptions from my worldview.  As a result, my warning bells now
+go off whenever someone uses arguments from authoritiy, and insist that
+the authorties confront their OWN misconceptions, no matter what the
+stature of those authorities.  Fortunately, the health of my future career
+does not depend on my keeping silent about the flaws of others, therefor I
+have few inhibitions about speaking my mind. Also, I've been wrong so many
+times in the past, that I'm no longer very embarassed about it.  The best
+way to follow the process of trial and error is to pursue accuracty, yet
+to unknowningly be flagrantly erroneous in front of a large group of
+experts, then let them find the weak spot which shatters my flawed
+reasoning.
+
+Here's a quote which you might enjoy.  We ignore it at our peril.  It is
+even MORE perilous if we apply it exclusively to our students, but not to
+ourselves nor to the authors of our textbooks and reference books.
+
+   "I know that most men, including those at ease with problems of the
+    greatest complexity, can seldom accept even the simplest and most
+    obvious truth if it be such as would oblige them to admit the falsity
+    of conclusions which they have delighted in explaining to colleagues,
+    which they have proudly taught to others, and which they have woven,
+    thread by thread, into the fabric of their lives." 
+                                                - Tolstoy 
+
+
+((((((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))))
+William J. Beaty                             SCIENCE HOBBYIST website
+billbeskimo.com                             http://amasci.com
+EE/programmer/sci-exhibits          science projects, tesla, weird science
+Seattle, WA   206-762-3818          freenrg-L taoshum-L vortex-L webhead-L
+
+
+
+
+
+
+
+
+
+
+From owner-phys-l@LISTS.NAU.EDU  Sun Jan 17 16:26:47 1999
+Received: from mailgate.nau.edu (mailgate.nau.edu [134.114.96.19])
+	by mx1.eskimo.com (8.9.1a/8.8.8) with ESMTP id QAA02808;
+	Sun, 17 Jan 1999 16:26:45 -0800
+Received: from mailgate ([134.114.96.19])
+ by mailgate.nau.edu (PMDF V5.2-29 #31141)
+ with ESMTP id <0F5Q00184BW6JS@mailgate.nau.edu>; Sun,
+ 17 Jan 1999 17:26:39 -0700 (MST)
+Date: Sun, 17 Jan 1999 18:26:00 -0600
+From: brian whatcott <inet@INTELLISYS.NET>
+Subject: is Circulation theory "wrong" ???? (fwd)
+In-reply-to: <0F5Q00J9U8GQC2@mailgate.nau.edu>
+Sender: "phys-l@lists.nau.edu: Forum for Physics Educators"
+ <PHYS-L@LISTS.NAU.EDU>
+To: PHYS-L@LISTS.NAU.EDU
+X-CC: David_Anderson <dfa@fnal.gov>, tap-l <tap-l@listserv.appstate.edu>,
+ scott@aa.washington.edu, Jan-Olov Newborg <newborg@algonet.se>,
+ jefraskin@aol.nau.edu, jsd@monmouth.com
+Reply-to: "phys-l@lists.nau.edu: Forum for Physics Educators"
+ <PHYS-L@LISTS.NAU.EDU>
+Message-id: <0F5Q00187BW6JS@mailgate.nau.edu>
+Status: RO
+X-Status: 
+
+>Date: Sun, 17 Jan 1999 09:44:39 -0600 (CST)
+>From: David_Anderson <dfa@fnal.gov>
+
+>     <PHYS-L@LISTS.NAU.EDU>,
+>    tap-l <tap-l@listserv.appstate.edu>, scott@aa.washington.edu,
+>    Jan-Olov Newborg <newborg@algonet.se>, jefraskin@aol, jsd@monmouth.com
+>Subject: Re: PHYS-L: is Circulation theory "wrong" ????
+>
+>... an aerofoil obtains lift essentially by imparting
+>downward momentum to the oncoming airstream.  In the case of a single
+>aerofoil, in an infinite expanse of fluid this elementary truth is
+>disguised, perhaps, by the way that the deflection of the airstream tends
+>to zero at infinity.
+>
+>There should be no question that the net result of lift is that air is
+>given vertical momentum and energy.  The confusion comes from the 2D
+>simulations of the aeronautical engineers.  I think you will have an
+>easier time visualizing the 2D situation if you keep in mind that a 2D
+>airfoil is really an airfoil of infinite length.  This fact is often lost
+>and is the cause of much of the confusion.  As Scott and I discussed in
+>our paper, the efficiency for lift of a wing is proportional to its
+>length.  A wing of infinite length diverts an infinite amount of air down
+>at zero velocity.  Since the work done is proportional to the vertical
+>velocity of the air (squared), the infinite wing develops lift without
+>doing work.....
+>___________________________________________________________________________
+____
+>                               David F. Anderson
+
+While sympathizing completely with Anderson's approach, I had better
+tighten up an assertion of his which is not quite sturdy enough to
+serve as a stick for beating aero engineers, namely:
+"A wing of infinite length diverts an infinite amount of air down
+at zero velocity."
+
+ This assertion would doubtless be true for any wing of finite weight.
+If, however, the wing loading were given in force ( or weight) per
+ unit length of span, then the weight to be reacted, also being infinite
+would need finite net downwards velocity.
+
+I hope and believe that Anderson and his associates would heartily concur
+with my position. I have copied him on this note as a courtesy.
+
+
+brian whatcott <inet@intellisys.net>
+Altus OK
+
+
+
+
+
+
+
+
+From owner-phys-l@LISTS.NAU.EDU  Sun Jan 17 17:08:30 1999
+Received: from mailgate.nau.edu (mailgate.nau.edu [134.114.96.19])
+	by mx1.eskimo.com (8.9.1a/8.8.8) with ESMTP id RAA15505;
+	Sun, 17 Jan 1999 17:08:28 -0800
+Received: from mailgate ([134.114.96.19])
+ by mailgate.nau.edu (PMDF V5.2-29 #31141)
+ with ESMTP id <0F5Q001RNDTVJS@mailgate.nau.edu>; Sun,
+ 17 Jan 1999 18:08:25 -0700 (MST)
+Date: Sun, 17 Jan 1999 17:08:09 -0800
+From: William Beaty <billbeskimo.com>
+Subject: Re: PHYS-L: is Circulation theory "wrong" ????
+In-reply-to: <0F5Q00JXB7XGC2@mailgate.nau.edu>
+Sender: "phys-l@lists.nau.edu: Forum for Physics Educators"
+ <PHYS-L@LISTS.NAU.EDU>
+To: PHYS-L@LISTS.NAU.EDU
+Reply-to: "phys-l@lists.nau.edu: Forum for Physics Educators"
+ <PHYS-L@LISTS.NAU.EDU>
+Message-id: <0F5Q001RQDTWJS@mailgate.nau.edu>
+Status: RO
+X-Status: 
+
+On Sun, 17 Jan 1999, Herb Schulz wrote:
+
+> Howdy,
+>
+> Imagine a VERY LONG wing passing through the air and look at the motion of
+> the air near the center.
+
+Hey, I think my mental model has improved, because I never before saw the
+flaw in the above.
+
+I've heard that irplanes fly by "ground effect" whenever they are within a
+wingspan or less above the earth.  The "2D world" model is a description
+of ground-effect flight.  Therefor it applies whenever the wingspan of an
+aircraft is lots longer than the altitude of flight.  To make an airplane
+"obey" the 2D model, simply make its wingspan longer than the altitude of
+flight.  Simple, no?  And conversely, if you wish to make the 2D model
+fail, simply make the wingspan far smaller than the altitude of flight,
+and the craft will be flying only because it is flinging vortex tubes
+downwards, vortex tubes which constrain a particular mass of air.
+
+((((((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))))
+William J. Beaty                                  SCIENCE HOBBYIST website
+billbeskimo.com                                  http://amasci.com
+EE/programmer/sci-exhibits          science projects, tesla, weird science
+Seattle, WA   206-762-3818          freenrg-L taoshum-L vortex-L webhead-L
+
+
+
+
+
+
+
+
+
+
+
+
+From owner-phys-l@LISTS.NAU.EDU  Mon Jan 18 12:41:06 1999
+Received: from mailgate.nau.edu (mailgate.nau.edu [134.114.96.19])
+	by mx1.eskimo.com (8.9.1a/8.8.8) with ESMTP id MAA29892;
+	Mon, 18 Jan 1999 12:41:04 -0800
+Received: from mailgate ([134.114.96.19])
+ by mailgate.nau.edu (PMDF V5.2-29 #31141)
+ with ESMTP id <0F5R00DG5W3Y8D@mailgate.nau.edu>; Mon,
+ 18 Jan 1999 13:40:54 -0700 (MST)
+Date: Mon, 18 Jan 1999 14:38:14 -0600
+From: Phil Parker <PPARKER@TWSUVM.UC.TWSU.EDU>
+Subject: Re: Airfoil lift, new article
+Sender: "phys-l@lists.nau.edu: Forum for Physics Educators"
+ <PHYS-L@LISTS.NAU.EDU>
+To: PHYS-L@LISTS.NAU.EDU
+Reply-to: "phys-l@lists.nau.edu: Forum for Physics Educators"
+ <PHYS-L@LISTS.NAU.EDU>
+Message-id: <0F5R00DG8W3Y8D@mailgate.nau.edu>
+Status: RO
+X-Status: 
+
+>Date:    Thu, 14 Jan 1999 16:01:58 -0500
+>From:    "Michael N. Monce" <mnmon@CONNCOLL.EDU>
+>
+>  And I used to think I could generally teach anybody some physics :)
+>
+It's the same old problem: one has to *want* to learn before one can
+learn, and an important part of wanting to learn is being willing to
+face the possibility that what one thinks one surely knows *might*
+be wrong.  Bill gave two typical implementations of the lack of want.
+   One reason I like this list is that it helps me maintain that
+honest want.  I think I have learned somewhat more than I've unlearned
+here in the last few years, but sometimes I'm not so sanguine.
+
+---------------------------------------------
+Phil Parker        pparker@twsuvm.uc.twsu.edu
+Random quote for this second:
+  Honk if you hate bumper stickers that say "Honk if ...."
+
+
+
+
+
+
+From billbeskimo.com Mon Feb  1 03:05:13 1999
+Date: Mon, 1 Feb 1999 03:05:08 -0800 (PST)
+From: William Beaty <billbeskimo.com>
+Reply-To: William Beaty <billbeskimo.com>
+To: list physics teaching <phys-l@lists.nau.edu>
+cc: scott@aa.washington.edu, dfa@fnal.gov
+Subject: a drag equation based on "disk balloons"
+Message-ID: <Pine.SUN.3.96.990201023130.24906E-100000@eskimo.com>
+MIME-Version: 1.0
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Status: O
+X-Status: 
+
+
+To PHYS-L aerodynamics people:
+
+I used my crude "disk balloons" analogy of airplane flight to predict the
+induced drag upon an aircraft to be: 
+
+ Drag force = 8 * (M * g)^2 / [ pi * span^2 * V^2 * density ]
+
+M * g being aircraft weight, V is velocity of horizontal flight, and
+"density" is the density of air.
+
+How does this match conventional calculations of induced drag?  The only
+reference I have at hand is THEORY OF FLIGHT, in which I don't immediately
+find a treatment of induced drag.  If anyone here has offhand knowledge of
+this issue, can they tell me if my above equation is totally bogus?  Does
+induced drag increase as aircraft weight^2, and decrease as 1/V^2, and as
+1/span^2?
+
+The above equation comes from the simplified physical model described
+here: 
+
+   http://amasci.com/wing/rotbal.txt
+
+(Note: I assume that the disk balloons contain "solid air", or that there
+are membranes within the balloons which force the enclosed air to rotate
+like a solid disk.) 
+
+
+((((((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))))
+William J. Beaty                                  SCIENCE HOBBYIST website
+billbeskimo.com                                  http://amasci.com
+EE/programmer/sci-exhibits          science projects, tesla, weird science
+Seattle, WA   206-762-3818          freenrg-L taoshum-L vortex-L webhead-L
+
+
+
+
+
+
+
+
+
+From owner-phys-l@LISTS.NAU.EDU  Tue Feb  2 07:42:10 1999
+Received: from mailgate.nau.edu (mailgate.nau.edu [134.114.96.19])
+	by mx1.eskimo.com (8.9.1a/8.8.8) with ESMTP id HAA09114;
+	Tue, 2 Feb 1999 07:42:04 -0800
+Received: from mailgate ([134.114.96.19])
+ by mailgate.nau.edu (PMDF V5.2-29 #31141)
+ with ESMTP id <0F6J001T79F493@mailgate.nau.edu>; Tue,
+ 2 Feb 1999 08:41:53 -0700 (MST)
+Date: Tue, 02 Feb 1999 07:42:26 -0800
+From: Roger Freedman <airboy@PHYSICS.UCSB.EDU>
+Subject: Re: a drag equation based on "disk balloons"
+In-reply-to: <199902020857.AAA11541@spacecase.physics.ucsb.edu>
+Sender: "phys-l@lists.nau.edu: Forum for Physics Educators"
+ <PHYS-L@LISTS.NAU.EDU>
+To: PHYS-L@LISTS.NAU.EDU
+Reply-to: "phys-l@lists.nau.edu: Forum for Physics Educators"
+ <PHYS-L@LISTS.NAU.EDU>
+Message-id: <0F6J0019VA9F93@mailgate.nau.edu>
+Status: RO
+X-Status: 
+
+William Beaty <billbeskimo.com> writes:
+
+>I used my crude "disk balloons" analogy of airplane flight to predict the
+>induced drag upon an aircraft to be:
+>
+> Drag force = 8 * (M * g)^2 / [ pi * span^2 * V^2 * density ]
+>
+>M * g being aircraft weight, V is velocity of horizontal flight, and
+>"density" is the density of air.
+>
+>How does this match conventional calculations of induced drag?  The only
+>reference I have at hand is THEORY OF FLIGHT, in which I don't immediately
+>find a treatment of induced drag.  If anyone here has offhand knowledge of
+>this issue, can they tell me if my above equation is totally bogus?  Does
+>induced drag increase as aircraft weight^2, and decrease as 1/V^2, and as
+>1/span^2?
+
+The above equation is quite close to the mark. The standard expression for
+the induced drag in level flight is
+
+D = (weight)^2/[pi * e * (span)^2 * q],
+
+where q is the dynamic pressure (= 1/2 * density * speed^2) measured far in
+front of the wing (i. e. in undisturbed airflow) and e is an "efficiency
+factor" (no greater than 1) which depends on the three-dimensional shape of
+the wing. The smaller the value of e, the more induced drag is produced for
+a given situation.
+
+That's about all I know on the subject, so for further research I recommend
+the following references, which I also recommended in a post on Jan. 17:
+
+Ashley, Holt. Engineering Analysis of Flight Vehicles. Addison-Wesley,
+1974. Reprinted by Dover Publications, 1992.
+
+Hubin. W. N. The Science of Flight: Pilot-Oriented Aerodynamics. Iowa State
+University Press, 1992.
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Roger A. Freedman
+Department of Physics and College of Creative Studies
+University of California, Santa Barbara
+
+Mailing address:
+Department of Physics
+UCSB
+Santa Barbara CA 93106-9530
+
+   E-mail: airboy@physics.ucsb.edu
+      WWW: http://www.physics.ucsb.edu/~airboy/
+    Voice: (805) 893-2345
+      FAX: (805) 893-3307
+Voicemail: (800) 344-3147 x4322
+

@@ -1,0 +1,16 @@
+total 7174
+drwx------  2 billb         512 Feb 25  1996 -q
+-rw-r--r--  1 billb       32121 Apr 19  1996 fieldyu.gif
+-rw-r--r--  1 billb        7436 Apr 19  1996 fieldyus.doc
+-rw-r--r--  1 billb        6918 Apr 19  1996 fieldwka.doc
+-rw-r--r--  1 billb        4358 Apr 19  1996 fieldwkb.doc
+-rw-r--r--  1 billb        6406 Apr 19  1996 fieldwkc.doc
+-rw-r--r--  1 billb       12266 May 24  1996 xxf.gif
+drwxr-xr-x  3 billb         512 Oct 13  1996 vortex
+drwxr-xr-x  2 billb         512 Dec 13  1996 unusual
+-rw-------  1 billb         749 Feb 22  1997 sale.bak
+-rw-------  1 billb       11656 May 17 00:13 wclose.old
+-rw-r--r--  1 billb     1031910 Jul  6 21:27 vortex706.zip
+-rw-r--r--  1 billb     1125537 Jul  6 21:30 vortex705.zip
+-rw-r--r--  1 billb      964548 Jul  6 21:31 vortex704.zip
+-rw-r--r--  1 billb      801217 Jul  6 21:35 vortex703.zip

@@ -1,0 +1,229 @@
+---
+title: "Levitron Central"
+source_domain: amasci.com
+source_path: maglev/lev/letters2.html
+order: 639
+reachable_from_entry: true
+images: 0
+internal_links: 1
+extracted: 2026-08-03T18:12:52Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# Levitron Central
+
+*Source page: `maglev/lev/letters2.html`*
+
+# Feedback
+
+> [E-Mail](mailto:UFO@zianet.com) us your reactions to this page and we'll post samples here.
+
+> Mike and Karen, 
+>
+>     Your entertaining exposé has succeeded, in my opinion, to send
+>     Bill Hones back to the bush without a plane where he belongs. With
+>     honesty and clarity you have taken a stand to right a great
+>     wrong. Your chronicle of these fascinating facts have revealed, to me
+>     and all the other unsuspecting levitators out there, a scoundrel and a
+>     genius. May the telling of these events help replace Roy Harrigan to
+>     his rightful status as the true inventor of the Levitron, and may your
+>     own courage and conviction be rewarded a thousand fold!
+>
+>     Paul Brandi
+>     Mesilla, New Mexico 
+>
+>
+>     You seem to revel in either real or imagined legal difficulties 
+>     which might befall Fascinations and your personal self-righteous 
+>     attacks on my ethical behavior are abominanble.
+>
+>     Bill Hones
+>     Seattle, Washington 
+>
+>
+>
+>     I don't think anyone should be surprised at Bill Hones' acts, just
+>     look at the daily world news; corruption and greed are running rampant
+>     now everywhere, and the ones doing it all don't even believe they're
+>     doing anything wrong! What Bill Hones did certainly may be wrong, and
+>     it sure looks that way, but does he care? No, he's just more resolved
+>     to denying any wrongdoing. Hmmm, too bad...
+>
+>     Dan Perry 
+>     Bellingham, Washington 
+>
+>
+>
+>     It's almost unbelievable that such chicanery still goes on today, and
+>     that Bill got away with it for such a long time before he was
+>     caught. I applaud your stand on suspending Levitron sales. I'll still
+>     continue to amaze and amuse my friends with my Levitron, but I'll tell
+>     them to hold off buying one of their own until this mess is
+>     straightened out. Thank you for your honesty.
+>
+>     Ken Piletic 
+>
+>
+>
+>     How about making a video on the true history of the Levitron -
+>     including the court case?
+>
+>     Mathew Hargreaves 
+>
+>
+>
+>     I am writing to compliment you on your high ethical standards and the
+>     position you have taken. This whole thing has to have been very
+>     traumatic for you. I want you to know there are people out here who
+>     respect what you have done. When this whole mess is settled and you
+>     are back in business with Roy's devices, you can count on me to
+>     purchase one!
+>
+>     Gary R. Weisman 
+>     Professor of Chemistry University of New Hampshire 
+>
+>
+>
+>     All I can say is, do whatever it takes to bring the Levitron back to
+>     "the masses." And, as you both have already demonstrated,
+>     continue doing so with the integrity and legitimacy that this
+>     requires.
+>
+>     Jan Madrid 
+>
+>
+>
+>     Wow! I had no idea what was brewing behind the scenes.  The revelation
+>     of the long and warped history of the Levitron is a maze of half
+>     truths and behind-the-back maneuvering. I am glad that your company
+>     has taken the "stand back and let's see what happens"
+>     position. If Bill Hones is indeed as crafty as he seems through the
+>     events you describe, then he needs to be stopped and the rightful
+>     inventor recognized for his discovery.
+>
+>     Ray Miller 
+>     Boise, Idaho 
+>
+>
+>
+>     Ah, so that explains it. 
+>
+>     William Beaty
+>
+>
+>     Maybe I am a cynic, a pragmatist, or a fellow member of the morally
+>     marginal, but if I got excited about an invention and wanted to sell
+>     it, but the inventor didn't seem willing to cooperate, whether because
+>     of a slight mental illness or whatever, and I found out I could sell
+>     something similar without having to even bother with the original
+>     inventor, then I might do it.  I think I would acknowledge the
+>     original inventor, but if I was told by my lawyer that acknowledging
+>     him might make me liable, then maybe I wouldn't even do that!  Gosh,
+>     how easy it seems for me to slide down the slippery slope of
+>     morality...
+>
+>     Kenton Green
+>     University of Rochester
+>
+>
+>     While your important expose' will not eradicate fraud and greed, I
+>     believe that the delinquency and unprofessionalism of the Patent
+>     Office needs to be highlighted as well. Their impotence facilitated
+>     the fraud and is playing to the hand of the attorneys.
+>
+>     Reuven Zach
+>
+> <span id="moremail"></span>
+>
+> ## New Feedback Letters added 3/23/98:
+>
+>
+>
+>     Bill Hones' comment about "your personal self-righteous attacks on my
+>     personal behavior" - in my opinion - only serves to add credence to the
+>     allegations of theft, falsification, and deceit.  His 'offer' to Roy
+>     Harrigan of 2 1/2% (royalty) was and is - in my opinion - akin to a
+>     'slap in the face' with a handful of the proverbial 'warm-brown-mushy'
+>     stuff.  One fact is for certain - one day in the future, Mr. Hones
+>     will have to answer to his Maker.  Then he will truly receive his
+>     'just reward'.
+>
+>     Jim Nivison
+>     San Jose, CA
+>
+>
+>     Loved your site and comments!  I found it inadvertently, like most
+>     good stuff on the web?  Your entire site is awesome - great punishment
+>     for the SOB!!  I am an Engineer/Inventor? and I have dealt with my
+>     share of "businessmen" with weird values and "justify anything as long
+>     as they take most of the bucks" ethics.
+>
+>     What you have done on your site is wonderful and will be emulated.
+>     This concept for a web site gives us great power - thanks for making
+>     me realize this aspect of it (I hate lawyers, too, which you will find
+>     out if you delve into my site).  And YES your responses and entire
+>     letter is totally credible.
+>
+>     Douglas J. Malewicki 
+>     Newport Beach, CA 
+>
+>
+>     cc: my email to Bill H:
+>
+>     Bill: Is the quote from you on the UFO feedback page the full text of
+>     your response?  If it is, is that the best you can do?  Respectfully,
+>     I suggest that if you are unable to come up with any factual
+>     corrections' and must resort instead to insulting their listing of
+>     events; you don't come across as very convincing.  I further suggest
+>     that their listing did not strike me as "self-righteous" at all,
+>     though it DID strike me as "righteous"-a distinction it might be well
+>     for you to ponder.  Do let us all know if you decide to be righteous,
+>     yourself.
+>
+>     DJK Moore 
+>
+>
+>     cc: my email to Fascinations:
+>
+>     Hello. I love the Levitron and was interested in possibly retailing
+>     them.  I then read an article by Mike and Karen Sherlock about the
+>     dispute over moral and legal ownership of the patent(s) which concerns
+>     me. Do you have any info on your side of this dispute that you could
+>     email me?
+>
+>     Best Regards, Les Gripkey
+>
+>
+>     Dear Mike and Karen. 
+>
+>     Following is the email I got from Fascinations..  
+>
+>     Best Regards, Les Gripkey
+>
+>     Dear Les,
+>
+>     Thank you for your email.  It is perceptive of you to recognize that
+>     there is much more to this story than the information you have been
+>     presented with.  Unfortunately, I cannot go into much detail at this
+>     time.  I am confident however, that Fascinations will be vindicated in
+>     the near future.
+>
+>     I can tell you that:
+>     1. Bill Hones is the inventor of the Levitron? and holds a patent to
+>     that effect.
+>     2. Bill Hones also invented the Perpetuator ?, and Super Levitron ?.
+>     3. Bill Hones has also invented a secret device to be unveiled next year
+>     which is truly amazing.
+>
+>     Best regards,
+>     Fascinations
+
+UPDATE - Since these last Feedback letters were posted, Bill Hones has spoken! [CLICK HERE](expose.html#hones) to link to the beginning of his statements, quoted in the Hidden History article.
+
+------------------------------------------------------------------------
+
+UFO, Box 119A\
+Kingston, New Mexico, 88042\
+[E-Mail UFO](mailto:UFO@zianet.com)
+
+© 1997 UFO

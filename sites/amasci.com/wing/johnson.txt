@@ -1,0 +1,139 @@
+Subject:      Re: Newton
+From:         "John R. Johnson" <john@siu.edu>
+Date:         1996/08/26
+Message-Id:   <Pine.SOL.3.91.960826093932.1496E-100000@reliant>
+References:   <321CEA59.58F8@calmvs.ercb.gov.ab.ca>, <4vkh2k$22g@newsbf02.news.aol.com>
+X-Sender:     john@reliant
+Content-Type: TEXT/PLAIN; charset=US-ASCII
+Organization: Southern Illinois University - Carbondale
+Mime-Version: 1.0
+Newsgroups:   rec.aviation.student
+
+
+There is a great deal of confusion about how lift is generated.  There
+is an particularly significant confusion about what "Newton" means when
+contrasted with "Bernoulli."
+
+Let me first give you a little background about me.  I am 58 years old.
+I started flying when I was a teenager in the early fifties.  I got my
+first real pilots license in 1956 while I was a student in Aeronautical
+Engineering at the University of Minnesota in Minneapolis, Minnesota.
+I have designed several airplanes, at least one of which has been built
+in fairly large numbers.  I did the aerodynamic work for LaMar Steen on
+the Skybolt.  LaMar did the structures work.
+
+Now, definitions first:
+
+Newton Explanation:  This is an explanation of lift using the basic
+action/reaction principles of Newtonian Physics.  These explanations are
+quite correct and do explain the lift produced by a wing or the thrust
+produced by a propellor.  Both of these problems are similar in all
+their essentials, differing only is the more esoteric elements like
+interference from previous passages, and local velocities through the
+air.
+
+Bernoulli Explanation:  This is an explanation of lift using the energy
+transer concepts of Bernoulli.  He stated that the energy content of a
+packet of gas is constant unless energy is either added or removed from
+the packet.  The energy can be either dynamic or potential ( due to
+static pressure ) and the sum is constant.  This says then, that if we
+speed the packet up, the static pressure must decrease accordingly.
+This effect can be observed and does indeed happen.
+
+The lift produced by a wing is a product of differences in pressure
+created between the upper surface and the lower surface of the wing. The
+higher pressure below the surface tends to force the wing in the
+direction of the lower pressure above the surface creating "lift." In
+doing so, some air is forced downward creating the "reaction" to the
+"action" of lift.  The quantity of air forced downward and its resulting
+velocity is such that the product of the mass and accelleration of the
+air forced down exactly equals the product of the mass and accelleration
+of the aircraft upwards.  In level flight, this accelleration of the
+airplane exactly balances the accelleration downward usually called
+"gravity."  We will defer for elsewhere the highly esoteric argument
+about the existence of a "force of gravity" and such other topics that
+would only add to the extant confusion.
+
+The real confusion comes about when we try to explain WHY the pressure
+is lower on the upper surface.  There is no question but that it is
+lower. For low angles of attack the pressure difference is approximately
+linear with changes in angle of attack.  The energy required to create
+this difference in pressure is considerable and increases as the angle
+of attack and the resulting pressure difference increases.  This energy
+required to produce the lift we desire appears to the airplane as a
+source of "drag." We call this "drag" due to the production of "lift" by
+the term "induced drag.'  This is to distinguish it from the "profile or
+parasite drag" which is the "drag" that results from what is essentially
+the "friction" of the air with the surfaces of the aircraft.
+
+Since "induced drag" depends on the pressure difference between the
+surfaces and total "lift" is a function of this local pressure
+difference and the area of the lifting surface and the "velocity"
+through the air,  "induced drag" gets smaller as we go faster.  This
+happens because, when we go faster we accellerate more air downward in
+the same time.  Since the mass times the accelleration of the air is a
+constant equal to the mass of the aircraft time gravity, moving more air
+means the mass increases so the accelleration can decrease to give the
+same lift!  Whew ... When the accelleration of the air downward
+decreases, we can reduce the pressure difference for the same lift.  We
+do this by decreasing the "angle of attack."  This is controlled by the
+fore and aft movement of the control.  That is the reason we say "pitch
+determines speed." Every "angle of attack" has a unique "velocity" where
+the resulting "lift" is correct.
+
+The "Bernoulli Effect" is usually utilized to explain the lower pressure
+on the upper surface.  This explanation serves for some people and does
+not serve so well for others.  The explanation does NOT change what is
+going on around the wing.  It is merely an attempt to describe it in a
+way you can visualize.  We are describing basic physical principles that
+obey natural laws.  These laws do NOT depend on our understanding of
+them. All explanations are equally valid, although some may come closer
+to the actual underlying reality!  The basic "bernoulli" explanation says
+that the upper surface of the airfoil is longer than the lower.  Packets
+that were adjacent in front of the wing want to be adjacent behind the wing
+also, so the ones going over the top of the wing have to hurry to catch
+up with their friends passing below the wing.  This increases the
+dynamic pressure and caused the static pressure to decrease, making the
+pressure lower above the wing and generating "lift." I have never been
+able to understand why these packets of air have such an affinity for
+each other that they speed up on their own to lower the pressure, so I
+personally favor the "Newton" explanation for lift.
+
+In the "Newton" explanation you can visualize the wing as a surface
+moving through the air.  If you incline the surface ( give it an angle
+of attack ) it will push some air out of the way as it goes along.
+The air beneath the surface is pushed together as the surface moves
+downward in its passage.  This increases the pressure beneath the
+surface.  Above the surface something very different is happening. The
+surface is moving away from the air that was there making an empty area.
+With no air in the area the static pressure is extremely low.
+Immediately air molecules start to be pushed toward the top of the wing
+because of the low pressure in the hole, and the relatively high
+pressure of the undisturbed air above the wing.  The pressure never gets
+all the way back to ambient because of the pressure difference that must
+exist to cause air particles to accellerate toward the void left by the
+surface moving downward.  Of course, this accelleration toward the hole
+left by the wing applies in ALL directions so the wing is also
+accellerated upward by this resulting pressure difference.  This says
+that the pressure observed depends on how much the air molecules have to
+be accellerated to reach the vicinity of the top of the surface.  This
+would indicate that the pressure would be lowest where the curvature of
+the upper surface is the greatest.  This is indeed observed when the
+pressure distribution is measured around a surface in the wind tunnel.
+All of the air accellerated downward to fill the hole left behind when
+the wing moves forward continues downward after it has passed and makes
+its contribution to the total mass and accelleration of the air that is
+the reaction that matches and balances our "action" of lift.
+
+The greater the angle of attack, the more accelleration has to be
+imparted to the air molecules to stay close to the surface, to the
+greater the difference in pressure required to provide this accelleration,
+and the greater the lift for any given surface area.  Also, the greater
+the induced drag produced by the forces required to create the hole in the
+air in the first place.
+
+This explanation is somewhat simplified and much less quantitive and
+technical than the explanation from the courses I used to teach.  I hope
+it is simple and NOT simplistic.
+
+John

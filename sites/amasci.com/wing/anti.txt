@@ -1,0 +1,47 @@
+
+references: <DMt21G.Fos@eskimo.com>
+content-type: text/plain; charset=us-ascii
+organization: NASA Langley Research Center, Hampton, VA  USA
+x-url: news:DMt21G.Fos@eskimo.com
+mime-version: 1.0
+newsgroups: rec.models.rc.air
+x-mailer: Mozilla 1.1 (X11; U; SunOS 4.1.3 sun4)
+
+billbeskimo.com (William Beaty) wrote:
+>
+>It is perfectly acceptable to totally ignore Bernoulli's law and instead
+>explain aerodynamic lifting force in terms of Newton's 3rd Law: a wing
+>applies downward force to the air, the air reacts to the wing, the air is
+>deflected downwards, and the wing experiences lift.  Why must the upper
+>wing surface be curved differently than the lower?  To guarantee
+>attachment of the airflow via Coanda effect, to prevent stall in other
+>words.  No?
+>
+
+Many people have the mistaken belief that all lift is created by deflecting air
+downward to generate downwash.  Downwash is a by-product of lift created by the
+tip vortices on a wing rather than the generator of lift.  Airfoils, which we
+all know lift rather well, generate NO net downwash whatsoever.  Just as much
+air is turned upward in front of an airfoil as downward behind an airfoil.
+
+It is in fact the pressure differences caused by circulation which generate
+lift on both airfoils and wings.  And for those who refuse to believe that lift
+can exist without imparting a downward momentum to the air, look at the case of
+an airship.  In that case, lift is created by the bouyant force which results
+from the difference in pressure between the bottom and top of the airship.  No
+air is deflected, but because you have higher pressure near the bottom and
+lower pressure near the top, you get lift.  This is not to say that imparting
+momentum to a body of air WON'T generate a force.  Of course it will.  But this
+isn't primarily responsible for the generator of lift on wings and airfoils.
+
+--------------------------------------------------------------------
+ Jay D. Hardin (jhardin@avd00.larc.nasa.gov)
+ Lockheed Martin
+ NASA Langley Research Center
+--------------------------------------------------------------------
+
+   
+     _________________________________________________________________
+   
+   [ Home ] - [ Search ] - [ Contacts ] - [ Help ] 
+     _________________________________________________________________

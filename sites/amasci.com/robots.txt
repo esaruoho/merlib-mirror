@@ -1,0 +1,220 @@
+User-agent: Mediapartners-Google
+Disallow:
+
+Sitemap: http://amasci.com/googmap.xml
+
+User-agent: *
+Disallow: /oldtech/
+
+User-agent: *
+Disallow: /~billb/amateur/microsco.txt
+
+User-agent: *
+Disallow: /~lhowell/
+
+User-agent: *
+Disallow: /~yacy/
+
+User-agent: *
+Disallow: /yacy/
+
+User-agent: *
+Disallow: /~c180tom/
+
+User-agent: *
+Disallow: /~burked/
+
+User-agent: *
+Disallow: /~seldon/
+
+User-agent: *
+Disallow: /~vecna/
+
+User-agent: *
+Disallow: /weird2/
+
+User-agent: *
+Disallow: /~bloo/
+
+User-agent: *
+Disallow: /~gclaunch/
+
+User-agent: *
+Disallow: /~bobg/
+
+User-agent: *
+Disallow: /~mtq/
+
+User-agent: *
+Disallow: /~rmisaac/
+
+User-agent: *
+Disallow: /~bpentium/
+
+User-agent: *
+Disallow: /~mighetto/
+
+User-agent: *
+Disallow: /~2nd-hand/
+
+User-agent: *
+Disallow: /~hwang/
+
+User-agent: *
+Disallow: /~daylight/
+
+User-agent: *
+Disallow: /~megatron/
+
+User-agent: *
+Disallow: /~jbm/
+
+User-agent: *
+Disallow: /~jwright/
+
+User-agent: *
+Disallow: /~jrterry/
+
+User-agent: *
+Disallow: /~mwirkk/
+
+User-agent: *
+Disallow: /~nickz/
+
+User-agent: *
+Disallow: /~oolon/
+
+User-agent: *
+Disallow: /~cwn/
+
+User-agent: *
+Disallow: /~rcgusa/
+
+User-agent: *
+Disallow: /~robertf/
+
+User-agent: *
+Disallow: /~rkj/
+
+User-agent: *
+Disallow: /~jrp/
+
+User-agent: *
+Disallow: /~ericj/
+
+User-agent: *
+Disallow: /~lisanne/
+
+User-agent: *
+Disallow: /~cdickens/
+
+User-agent: *
+Disallow: /~futon/
+
+User-agent: *
+Disallow: /~c/
+
+User-agent: *
+Disallow: /~carol/
+
+User-agent: *
+Disallow: /~carcosa/
+
+User-agent: *
+Disallow: /~dianee/
+
+User-agent: *
+Disallow: /~delisle/
+
+User-agent: *
+Disallow: /~gburlin/
+
+User-agent: *
+Disallow: /~davidk/
+
+User-agent: *
+Disallow: /~demian/
+
+User-agent: *
+Disallow: /~douglas/
+
+User-agent: *
+Disallow: /~glaunch/
+
+User-agent: *
+Disallow: /~dcs/
+
+User-agent: *
+Disallow: /~enumclaw/
+
+User-agent: *
+Disallow: /~jonnyb/
+
+User-agent: *
+Disallow: /~knapper/
+
+User-agent: *
+Disallow: /~noir/
+
+User-agent: *
+Disallow: /~pbender/
+
+User-agent: *
+Disallow: /~pristine/
+
+User-agent: *
+Disallow: /~recall/
+
+User-agent: *
+Disallow: /~rayburn/
+
+User-agent: *
+Disallow: /~ralphj/
+
+User-agent: *
+Disallow: /~scs/
+
+User-agent: *
+Disallow: /~snoline/
+
+User-agent: *
+Disallow: /~tegan/
+
+User-agent: *
+Disallow: /~toates/
+
+User-agent: *
+Disallow: /~jessamyn/
+
+User-agent: *
+Disallow: /~pem/
+
+User-agent: *
+Disallow: /~ghawk/
+
+User-agent: *
+Disallow: /~tiktok/
+
+User-agent: *
+Disallow: /~noanswer/
+
+User-agent: *
+Disallow: /~rarnold/
+
+User-agent: *
+Disallow: /~rowdenw/
+
+User-agent: *
+Disallow: /~miyaguch/
+
+User-agent: *
+Disallow: /~kmcc/
+
+User-agent: *
+Disallow: /~starfury/
+
+User-agent: *
+Disallow: /~sonata/
+
+User-agent: *
+Disallow: /~webguy/

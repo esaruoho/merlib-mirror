@@ -1,0 +1,87 @@
+
+From billbeskimo.com Tue Jun 23 09:42:08 1998
+Date: Mon, 22 Jun 1998 13:30:49 -0700 (PDT)
+From: William Beaty <billbeskimo.com>
+Reply-To: freenrg-l@eskimo.com
+To: "'freenrg-l@eskimo.com'" <freenrg-l@eskimo.com>
+Subject: Re: Ring laser gyro
+Resent-Date: Mon, 22 Jun 1998 13:30:49 -0700
+Resent-From: freenrg-l@eskimo.com
+
+On Sun, 21 Jun 1998, Kyle R. Mcallister wrote:
+
+> Hello all:
+> 
+> Anyone here know how I can set up a ring laser gyro?
+
+I've never tried it, but here's what I would do.  First rig up a photocell
+and amplifier so you can hear the laser beat frequenciess from physical
+motion.  This is pretty easy: amplify the output from a small photocell
+and apply it to loudspeakers, shine the laser at the photocell, then turn
+the photocell so the reflected beam goes back into the laser.  Hold
+everything very still, and then push very slightly on the surface where
+the laser and photocell are resting.  You will hear loud squeals and
+chirps (they sound much like the sounds of tuning a shortware radio past
+certain CW stations.)  This occurs because the distance between the laser
+and the photocell is changing, and as it changes it causes a linear
+interference pattern to move along the laser beam.  Each "click" of the
+squealing sound is one node or antinode of the interference pattern going
+past the photocell.
+
+Having accomplished this, you'll know how much audio amplification is
+required in order to hear the beat frequencies in the light.  
+
+Now for the gyro.  Shine the laser on the end of a pair of single fiber
+optical fibers each a couple of feet long.  Wrap the two fibers around a
+circle with each fiber going in the opposite direction (one wraps CCW, the
+other wraps CW).  Aim the far ends of the fibers at your photocell so the
+laser light combines.  If anything should now alter the "optical length"
+of the fibers, you should hear a squeal from your loudspeaker.  Extremely
+slow rotation of the entire laser/fibers/photocell assembly should create
+a loud squeal. 
+
+I would first try all of the above with a HeNe laser.  Laser pointers have
+terrible coherence.  If one fiber was a tiny bit longer than the other,
+the whole thing might fail to work if a Laser pointer is used, while it
+might be fine if a HeNe tube-laser is used.
+
+In the above, I am unsure of the size of the interference fringes which
+the fibers will project onto the photocell.  If several fringes are on the
+surface of the photocell at one time, then the sound of moving fringes
+will be very low in amplitude.  Perhaps you'll have to glue the fibers
+parallel to each other so their ends are very very close, and then hold
+them at quite a distance from the photocell.  Perhaps use a lens near the
+fiber ends to beam the spreading light towards the photocell.  All this is
+intended to set up a "double slit diffraction" system where the
+light-emitting ends of the optical fibers are the "slits".  The
+diffraction pattern projected onto the photocell should be large enough
+that just one "fringe" hits the photocell at a time.  The photocell
+probably needs to be masked, so that it has a "slit" shape which can grab
+one single fringe of the diffraction pattern.  When the entire assembly is
+rotated, the fringe pattern will zoom wildly across the photocell, and a
+high-freq signal will come out of the loudspeaker.
+
+The end result is a sort of "digital potentiometer" device which has many
+"clicks" per rotation.  If you managed to count the number of clicks
+digitally (and also detect the direction of motion of the dirifting
+interference pattern?) then you'll have a compass which can detect
+incredibly tiny rotary motions, like hundred thousandths of a degree.
+
+The down side: I hear that these things are sensitive to fiber motion and
+fiber thermal expansion.  Simply walking on the floor near the lab bench
+would cause squealing sounds in the output.  Once you had it working,
+you'd want to cast the fibers into solid plastic, and imbed the plastic
+block inside a very thick layer of styrofoam (or perhaps make a little one
+which could fit inside a thermos bottle. 
+
+Without thermal protection, I bet the fibers would respond to small
+amounts of IR radiation.  While listening to the loudspeaker output, maybe
+you can wave your warm hands near the bare fibers and make them squeal. 
+Is this the laser-powered relativistic thermosensitive version of the
+Theremin?  :) 
+
+((((((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))))
+William J. Beaty                                  SCIENCE HOBBYIST website
+billbeskimo.com                                  amasci.com
+EE/programmer/sci-exhibits          science projects, tesla, weird science
+Seattle, WA   206-762-3818          freenrg-L taoshum-L vortex-L webhead-L

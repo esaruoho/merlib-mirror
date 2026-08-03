@@ -1,0 +1,244 @@
+From rweeks@clark.netFri Jan 19 20:30:03 1996
+Date: Wed, 15 Nov 95 10:54:42 0000
+From: Robert Weeks <rweeks@clark.net>
+To: billbeskimo.com
+Subject: Tesla coil instructions
+
+Vacuum Tube Tesla Coil
+This Tesla coil uses a vacuum tube oscillator circuit powered by 500 
+Volts DC instead of an induction coil and a spark gap.  This updated 
+design is based on a Tesla coil described in an early 1950's Science and 
+Mechanics article by Tracy Diers.  The silent operation of this coil 
+more than makes up for the slightly lower performance as compared with 
+the neon sign transformer excited coils with roaring spark gaps that I 
+have seen.  Since this is a project that uses parts that may be on hand, 
+certain specific details cannot be supplied.  
+
+When operating, a corona about 1/2 inches long will shoot from the 
+insulated terminal.  If a hand-held (making good contact with your hand) 
+metal rod is brought near the insulated terminal you should be able to 
+get a good 1.5 inch arc!  (The tube that I am using is severely 
+overloaded when arcing like this is done and such tests should not be 
+allowed to continue for more than a few tenths of a second.)
+
+A 36 inch piece of 2 inch (id) pvc pipe makes a good secondary coil form 
+and is much easier to find than a 2 1/2 inch paper tube.  The outside 
+diameter of this pipe is about 2 3/8 inches.  Clean the pipe thoroughly 
+to remove dirt etc. which may have collected on the pipe while it was in 
+storage.  The secondary coil is wound using 1/2 lb of #30 enameled wire.  
+Drill a 1/32 inch hole in the form 1 inch from one end of the pipe. 
+Thread the end of the #30 wire in this hole secure qith masking tape and 
+wind the coil until all the wire is used up.  An exact winding of #30 
+wire is approximately 90 turns/inch.  Half a pound is enough for about 
+28-30 inches of winding.  
+
+Hints for winding the coil:
+Use masking tape to secure the coil as it is being wound on the form 
+every 1/2 inch or so to prevent the coil from "springing" loose.  For 
+such a small coil, a coil winder is not required, but using one will 
+certainly make the job easier.  Hand winding takes about 4 hours to 
+complete.  When the coil is finished drill another 1/32 inch hole at the 
+top of coil and thread the terminal end of the wire into this hole.  
+Secure the wire thoroughly again with masking tape.  Carefully remove 
+the masking tape that is temporarily holding the coil in place as you 
+varnish the coil.  This is tricky because the varnish dissolves the 
+adhesive.  I started varnishing the coil at one end and allowed it to 
+dry slightly and then removed more of the tape.  After finishing the 
+secondary coil, place it aside and allow the varnish to dry.  Don't use 
+an oven because of danger of igniting the varnish or softening the coil 
+form.  
+
+Wind the primary using #14 solid insulated wiring.  The type that is 
+suitable for use in conduits works well.  If you can get enameled wire 
+it will wind easier, but recently it seems to be difficult to get 
+enameled wire.  You will need about 40 feet of wire.  An oatmeal box 
+(small size) makes a good coil form for the primary.  Start 1 inch from 
+the bottom and punch a hole in the coil form.  Insert about 6 inches of 
+wire into the form.  Wind the plate coil first at the bottom to the 
+oatmeal box which consists of 15 turns of the #14 wire.  When you are 
+finished leave about 6 inches of wire and insert this into a hole in the 
+form.  The liberal use of masking tape will hold things in place until 
+you can varnish the primary coils.  Start the grid coil 1 inch from the 
+plate coil.  Punch a hole in the form and wind on 20 turns of #14 wire 
+in the same direction as the plate coil.  This is important because 
+proper phasing of the coils is required for the electronics to 
+oscillate.  If the coils are wound in the same direction connection as 
+shown in the schematic will be correct.  Varnish the primary and remove 
+the masking tape.  
+
+Assembly of the Tesla coil
+My coil was assembled on a piece of scrap plywood about 8 X 12 inches.  
+If you used pvc pipe for the secondary coil form, a pvc pipe cap makes a 
+suitable device to attach the secondary and the primary to the piece of 
+plywood.  Drill a hole in the center of the pipe cap.and locate the 
+center of the bottom of the oatmeal box.  Secure the pipe cap and the 
+oatmeal box to the plywood with a 1 inch screw and a washer.  Do not 
+tighten yet because some adjustment will have to be made to get the 
+primary leads to reach the appropriate pins on the tube socket.  
+
+Every attempt was made to use on-hand parts.  Vacuum tubes are becoming 
+rare and expensive.    The tube that I used has the numbers rubbed off 
+it so I do not know what it is.  The basing was like a 6L6 but the third 
+grid was not internally connected.  It was an Amperex tube with nothing 
+like it in the 1964 RCA Tube manual.  I think that it did service as a 
+horizontal oscillator in a color TV.  Use a tube manual and find out 
+what you have on hand that will work.  Power transformers are also hard 
+to come by.  The best places to get suitable tubes and transformers may 
+be trash dumps where one sees an ocassional discarded tube type TV.
+
+The following tubes will work well:  6DQ6B, 807W,6CD6 6GW6.  Consult a 
+tube manual for proper connections.  
+For lower power coils 6L6GB tubes can be used.  The 6DQ6 has the same 
+basing as the 6L6, but the plate is connected to a metal cap on the top 
+of the tube.  Most of these tubes work best when connected as a pentode 
+with the screen grid biased to around 200-225 V DC.  The use of "triode" 
+connection (screen connected to the plate) is not recommended except for 
+low power testing.  If you use the voltage doubler circuit obtaining 
+screen voltage from the 250 volt point is more efficient than using a 
+10K resistor from the 500 volt point.  The 1K resistor may not be 
+needed, but the tube that I used seemed to run better with a lower 
+voltage at this point.  Just remember that the screen on most of these 
+tubes will draw about 20-25 ma at 200 volts and you should not exceed 
+the reccommended screen current for the tube.  C4 is used to bypass Rf 
+from the screen to ground.  
+
+There was enough space on the plywood board that I used for the 
+transformer, caps and diodes.  
+
+I used Jones barrier strips to secure the various components to the 
+board and provide proper insulation.  I was able to get a Pomona socket 
+designed for bread boarding which gives the finished coil a definite 
+retro look.  Other wise attach the tube socket to the board with stand 
+off insulators and connnect according to the schematic.  
+
+The coils will be properly phased if the bottom of the plate coil (the 
+bottom coil with the 15 turns) is connected to the +500 Volts, the top 
+of this coil is connected to the plate of the tube.  The bottom of the 
+grid coil is connected to the grid circuit of the tube and the top of 
+the grid coil is connected to the ground via the 4.7 k resistor and the 
+.0005 cap.  (The 38 ohm 10 watt resistor in the cathode circuit will 
+produce about-10 volts of grid bias just in case the circuit doesn,t 
+oscillate.)  
+
+Punch a hole in the bottom of the primary form to allow the ground 
+terminal of the secondary to be fished through.  I connected a piece of 
+solid #22 hook-up wire to the coil ground end since it was more durable 
+than the #30 that the coil was made from.  Run the ground wire through 
+this hole and insert the secondary into the pipe cap.  It will be a good 
+friction fit.  Connect the secondary coil ground to the ground terminal 
+on the board.  You can use another pvc pipe cap drilled in the center 
+for the HV terminal, but be sure use a smooth brass Phillips head 10/32 
+bolt on the inside with a nut and washer on the outside.  (Use the 
+Phillips headed bolt which does not have the sharp edges that are on a 
+slotted screw.  This will help to prevent a corona discharge on the 
+inside of the coil.)  Put sleeving over the #30 wire and connect it to 
+the brass bolt using a #10 round solder terminal.  Coat the bolt head 
+and the wire with RTV and allow to dry.  I originally assembled the bolt 
+with the nut inside the coil which resulted in an internal discharge 
+that ignited the top of the inside of the secondary!  Since this was 
+inside the tightly closed pipe, I was not aware of what was occuring.  
+The resulting fire carbonized the top of the inside of the coil.  This 
+ring of carbon acted as a shorted turn in the secondary.  This produced 
+a dramatic drop in output from the coil.  The plate of the tube and the 
+grids quickly turned red hot.  I discovered the meltdown in the 
+secondary coil form while attempting to diagnose the high current-loss 
+of resonance condition.  Fortunately I had left about 4 inches of form 
+at the top with no windings.  I repaired the secondary by cutting off 
+the burned top 2 inches of the pvc pipe.  The burning pvc pipe produced 
+toxic gasses such a HCL which had to be cleaned out of the coil form.  
+
+
+The capacitor (C1) across the plate circuit should be at least 5KV.  I 
+am using a pair of 20 KV 500 pf caps in parallel.  When the tube is 
+conducting the full B+ appears across the plate coil with a current of 
+200 mA..  This energy charges the up the magnetic field in this coil 
+(L2).  Feedback from the grid coil to the grid sharply cuts off the 
+current in the plate circuit allowing the magnetic field in the plate 
+coil to collapse.  This magnetic energy in the coil is converted to 
+electric energy.  To conserve energy the voltage across the coil begins 
+to rise in an attempt to maintain the current at 175 mA!  This produces 
+a 4-5 KV pulse that charges up the capacitor C1.  (Do not use a cap for 
+C1 less than this voltage rating!  A "mica" "transmitting" cap is what 
+you want to use.  Some of the ceramic caps seem to have a high internal 
+resistance at 1 Mhz and tend to get very hot in operation.  If this 
+ocurrs find another cap for C1.)  
+When the voltage across C1 is a maximum and the current in the plate 
+coil is zero, the voltage stored in C1 again flows through the coil and 
+brings up the magnetic field.  If the coil had no resistance and the 
+capacitor was also perfect, the oscillation would continue, but since 
+this is the the real world, the wave quickly damps out.  However the 
+power supply continues to make up for the lost energy and the 
+oscillations continue as long as the power is on.  
+
+The secondary coil is magnetically coupled to the primary.  The voltage 
+is steppped up by a ratio of 90 turns/in X 28 in/15 turns (about 170).  
+If the maximum voltage on the primary is 4.5 KV to 5KV then the voltage 
+on the secondary is 170 X 4KV to 5KV = 68,000 to 84,000 Volts!  
+
+C3 is used to keep RF out of the power supply where it could cause 
+failure of the power transformer.  
+
+
+Testing the coil:
+
+This coil uses very dangerous voltages and if operated incorrectly can 
+cause bodily harm and destruction of property.  Before applying the 
+maximum voltage, I connected the filament winding on the transformer to 
+the tube and used two 115 volt to 24 volt transformers connected with 
+the secondaries series aiding with a bridge rectifier and a 100 uf 
+capacitor to test the coil.  This arrangement provided about 67.5 volts 
+DC.  The coil oscillated and small arcs could be drawn from the top of 
+the coil.  Fluorescent tubes would light up within a few feet of the 
+coil with this small amount of B+.  For testing connect the screen 
+supply to the B+ terminal on the power supply.  
+
+Schematic and pictorial are in mac Draw.  I can supply in gif format if 
+that would be better.
+
+I have the following questions?
+The question is this:
+
+In the original instructions upon which I based this design, the 
+secondary was wound from #30 DCC (double cotton covered ) wire for a 
+distance of 21 inches.  Based upon tables in 1942 edition of the 
+Radiotron Designer's Handbook from Australia this is 
+54turns/in*21in=1134 turns.  My coil contains 28 inches of #30 enameled 
+wire which is 92.5 turns/in*28in=2590 turns.  (the tables contain 
+figures for B&S and SWG.  I don,t know whether the wire I have is SWG 
+which means Standard wire Gauge or B&S.  Is B&S a British standard or is 
+it Briggs and Stratton?  #30 B&S enameled wire is .010 inches  and #30 
+SWG is .0134 inches according to the tables in the book.  By using a 
+vernier caliper, I have determined that #26=.5mm,#28=.4mm and #30=.3mm 
+so converting to inches, I have 
+#26=.019 in,#28=.015in and #30=.011 in so the B&S table looks better.       
+
+When I use a neon lamp as a field strength indicator, there is a maximum 
+about 12 inches above the bottom of the coil with a subsequent drop of 
+voltage as the neon lamp is moved toward the top of the secondary with a 
+null occuring at the  19.75 inch point.  The voltage then increases as 
+the indicator is moved to the top of the secondary.
+
+Using the B&S table and the original design of 21 inches of DCC wire 
+that gives me 54*21/92.5=12.3 inches which is remarkably near where I 
+see the first maximum!  (There are 1134 turns of wire at the 12.3 inch 
+point.)
+
+Obviously this is a tuned circuit and even with an untuned secondary 
+resonance of the entire circuit is important.  However I don't 
+understand why there would be maxima and minima along the winding.  
+Usually the turns ratio is important.
+
+I wonder if the tuning of the primary needs to be changed to match the 
+secondary?  Any clues.  This circuit is remarkably like the horizontal 
+output for a TV set so even though there are things about Tesla coils 
+that are not well understood, This should not be too hard.  
+rww 
+
+  
+
+   
+  
+
+
+
+

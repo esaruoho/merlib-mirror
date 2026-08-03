@@ -1,0 +1,217 @@
+From: Beaty, William J
+Subject: devices
+Date: Monday, April 14, 1997 10:48AM
+
+BEST STUFF
+
+Mirror Chip Products:
+	mirror-chip sign "PHYSICS",  "FRESNEL"
+	solar furnace, large vacuformed fresnel mirror (kit?)
+	vacuformed mirror-chip sundial kit
+
+Giant analog needle-meter w/servo motor drive (volts, amps, range switch)
+
+crystal array magnet balls (float in pan of water)
+	small disks of rubberized magnet, each with foam for
+floatation (or find a floating rubber magnet)
+	 larger "ions" for dislocations
+	3-magnet "water molecules"
+	smaller magnet balls with "racetrack" to demonstrate circuit
+	magnet strips to repel them from the walls
+	use non-bouyant magnets, seal them into a cell full of oil
+
+Mechanical maglev rollers
+	(magnets in ends keep the floater centered)
+
+Rainbow wall tiles, glass w/black backpaint, resin tape spacers on the edge
+
+DuLuc Dry Pile, al foil and carbon paper!
+diecutting, Art G., how to press foil onto carbon paper, diecut it, press the stacks in
+piston/cylinder tool.   Try copper foil, try aluminum, which is better for carbon?
+
+pellicle mirror box  w/air pump and timer,
+
+pellicle mirror box  w/loudspeaker and oscillator (clear version for overhead)
+
+VandeGraaff:
+	E-field "compass" panel
+	telescoping antenna voltage control w/magnetic base
+	blinking wand
+	giant electrostatic disk-motor
+
+Total internal initials paperweight, die-cut resin tape and plexi hemispheres?
+
+Artificial maglev superconductor table
+
+100-amp cable w/compass-table
+
+Moire patterns which say "physics"
+
+Giant 3D postcard panel w/various images
+
+Planetary gears with constant-diameter triangles
+
+Square and triangular wheels
+
+Giant polaroid window spinner
+
+Mechanical TV w/LED backlight box with various stored animations
+sense rotation of disk, so flashing of LED is apparent when slow
+
+tiny LED stroboscope w/9v mount
+
+tiny electrometer w/9v mount
+
+Transparent water "flashlight" circuit with switches,  vacuformed tilt-troughs(filament), gates, clear so water height is visible.
+
+"zero gravity" box w/camera, lighting, furniture, barbie & GI joe,
+plugs into wall.  "moving van", "vomit comet", "livingroom"
+
+magnet accelerator car and track (hall effect, NSNSNS magnets)
+one hall switch, two power darl transistors, two 12v solenoids, 2 1K resistor, 2 flyback diodes, 9v battery
+
+small, glitzy electrostatic motor
+
+"tuning capacitor" electrostatic motor (etched PCB stack, maybe use
+3-layer PCB with commutator ring)
+
+electrostatic motor kit
+
+
+
+DuLuc Dry Pile 290cells/inch,  200V/inch
+5inch = 1Kv
+real silver-leaf paper is slightly better.
+Zinc foil is lots better.
+Cu+  Al-		.75v
+Brass_ Al-	.65
+Cu+ Solder-	.32
+Solder+ Al-	.32
+Cu+ Zn-		.79
+Cu+ tin		.3
+paper .004"
+newspaper .002"
+Al .00045"
+Cu .0011
+
+NIB demonstrations
+	thickwalled slow-fall tube w/camera adapter
+	tilted racetracks w/copper plates
+	aluminum plate "top", magnetic gear
+
+(Done?) Chochlear frequency analyzer springs
+
+Rope Circuit:
+	battery/bulb with pulleys, rope, a switch, a motor
+	Induction: rotate drum with spiral of rope, friction on other end
+
+Water circuit, two clear cylinders with magnet-moved pistons, valve,
+maybe a version with two branches
+
+VISIBLE ELECTRICITY
+	giant lecture-hall version
+	large ring with sensor coil, (induction demo,
+conductor/superconductor demo)
+	2-D conductor panel w/hall sensors
+
+hex-cell wall w/mirror
+
+facewarp mirror (mini "zero-g mirror")
+
+Outdoor mirror ball and mounting bracket for swing set, chain link fence, etc.
+
+Giant spinning-disk attract/repel field display
+
+foucault pendulum on turntable
+
+self-starting siphon
+
+bubble sculpture tank, air pump, etc.
+
+eyeball-slab clear polyester casting, w/lens in front, pupil
+aperature, white mist for seeing rays
+
+Voltage sensor demo, FET electrometer and red/green lightbulbs
+
+Large ring-coil w/visible electricity
+   adapter, runs two ring-coils in 2-phase w/slowly rotating field 
+   giant compass-disk panel
+
+20KV plate with slow AC field (for electrometer panel)
+
+"feel the force" box
+
+inline waterdrop generator kit
+
+Motor as disk with coils, each with red/green lights
+
+body-voltage voltmeter
+
+constant brightness, variable shape extended source (bulb array)
+(switches between O and X, but with same bulbs)
+
+magnet slab with ball bearings forms crystal, wave a magnet near it
+
+"magnet liquid" disk-magnet array plexi cell (w/oil?)
+
+humidifier/speaker vortex string generator
+
+"electron sea" cell, glued-down marbles are ions, water and plastic
+beads are electrons, no bubbles
+
+cast blocks with mist, one side opaque w/lens and iris cast into one
+end, wave light bulbs around.
+
+scratch-hologram plotter
+scratch-hologram roller printer
+
+
+E-field bar graph
+
+floor-mounted hand-crank VDG pylon.
+
+mirage cube GRIN cube (glue two plastic blocks together, differing index)  white mist to make laser visible
+
+total internal reflection sphere (2 hemispheres with flat bubble)
+
+Mist bowl (needs tank for used water)
+
+Mist generator mail-order? w/water sensor, mist tank, VLF sound demo
+
+Vortex gun (w/mist generator?)
+
+Impossible TOMI roller-coaster
+
+machine to make "clink" tubes
+
+e-field wand, bargraph or row of detectors
+
+IR wand kit, PCB, black phototransistors, 2n2222, LED, resistors
+
+IR sensor, LED as sensor, clocked analog switch and op amp
+
+spinning drum, b-field, e-field, IR light,
+
+spinning microphone disk w/emitters
+
+sound camera, sound shadows
+
+spinning paddle 3D b-field
+
+aura tester panel
+
+cheap electrostatic power supply, 10Kv 50uA, like "ion generator"
+
+field mill voltmeter, measure vdg output
+
+G-force meter/display for elevator
+
+Air table accessories:
+	"electron" magnetic repulsion pucks for crystal, 
+	"conductor" air table.
+	
+	magnetic earth and moon attract, orbit each other (heavy earth)
+
+	lunar boulders, space shuttle, astronauts, satellites,
+airplane with contents
+

@@ -1,0 +1,52 @@
+Moved to here:
+ http://amasci.com/maglev/hall.html
+
+
+
+
+VARIOUS COMMON HALL-EFFECT SENSORS                      William J. Beaty
+
+for addresses of suppliers, see http://amasci.com/supliers.html
+
+======================================================================
+SWITCHING TYPES (not linear/proportional)
+
+Part #     polarity   on/off field    manufacturer
+------     --------   ------------    ------------
+
+UGN3040    Unipolar   150g,100g       Allegro
+R & D Electronics $0.75
+
+SS41       Bipolar                     Microswitch
+R & D Electronics       $0.50   ($0.39 @ 100 qty)  
+Electronics Surplus (Cleveland)
+
+UGN3075LT  Bipolar    +-100g         ????Allegro?
+All Electronics         $0.50   ($0.45@ 100 qty)(SMT package)
+
+UGN3035    Bipolar    +-25g             Allegro
+
+UGN3130    Bipolar    +-150g          Allegro
+
+UGN3140    Unipolar    200g, 50g       Allegro
+
+
+======================================================================
+
+LINEAR TYPES (Proportional output)
+
+Part #     polarity   on/off field    manufacturer
+------     --------   ------------    ------------
+
+TL3103     Linear     16v/T           Texas Instruments
+
+UGN3501    Linear     .7mV/G          Allegro
+
+UGN3505    Linear     3.5mV/G         Allegro
+
+SS490      Linear                     MicroSwitch
+
+MLX90215VA Linear    Melexis (w/onchip D/A, RAM)
+
+HALL EFFECT SENSOR ICs, EDN Magazine, by Bill Travis
+ http://www.ednmag.com/reg/1998/040998/08df_01.cfm
