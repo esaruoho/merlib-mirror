@@ -1,0 +1,10 @@
+target: amasci.com
+domain: amasci.com
+mode: wayback
+path_filter: 
+ts_to: 
+label: 
+offline: false
+to_syncthing: false
+submitted: 2026-08-03T18:15:38Z
+submitted_from: RayMac
