@@ -512,6 +512,7 @@ process_job_file() {
       # PR adds the canonical path but never drops the stale one, leaving a
       # duplicate on main and phantom deletions for the repo-puller to fight.
       # Hand the old path to commit_and_push so both halves land in one commit.
+      # FEATURE-CARD >> features/frameset-following.feature
       NORMALISED_FROM="$output_dir/www.$domain"
       log "Normalised ($(find "$site_dir" -type f | wc -l | tr -d ' ') files)"
     fi

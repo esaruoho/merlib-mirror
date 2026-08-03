@@ -490,6 +490,8 @@ def extract_frame_targets(html_content, base_url):
     Kept separate from extract_links (which also folds these in) so the
     crawler can notice when a frame points OFF-domain — the real content
     lives at another host and needs its own mirror job.
+
+    FEATURE-CARD >> features/frameset-following.feature
     """
     text = html_content if isinstance(html_content, str) else html_content.decode('utf-8', errors='replace')
     urls = set()
