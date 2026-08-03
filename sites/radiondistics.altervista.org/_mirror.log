@@ -1,0 +1,448 @@
+[2026-07-29 16:46:18] ============================================================
+[2026-07-29 16:46:18] LIVE MIRROR: www.radiondistics.altervista.org
+[2026-07-29 16:46:18] Seed: https://www.radiondistics.altervista.org/
+[2026-07-29 16:46:18] Seed path: /
+[2026-07-29 16:46:18] Max link depth: 5
+[2026-07-29 16:46:18] Output: /Users/esaruoho/work/merlib-mirror/sites/www.radiondistics.altervista.org
+[2026-07-29 16:46:18] ============================================================
+[2026-07-29 16:46:18] Crawling / (download-as-you-go)...
+[2026-07-29 16:46:18]   [1 d0*] https://www.radiondistics.altervista.org/  (1 OK, 0 queued)
+[2026-07-29 16:46:18]     +18 links (19 total known)
+[2026-07-29 16:46:19]   [2 d0*] https://www.radiondistics.altervista.org/graphics/top_right.jpg  (2 OK, 17 queued)
+[2026-07-29 16:46:20]   [3 d0*] https://www.radiondistics.altervista.org/principale.htm  (3 OK, 16 queued)
+[2026-07-29 16:46:20]     +13 links (32 total known)
+[2026-07-29 16:46:20]   [4 d0*] https://www.radiondistics.altervista.org/autore.htm  (4 OK, 28 queued)
+[2026-07-29 16:46:20]     +13 links (45 total known)
+[2026-07-29 16:46:21]   [5 d0*] https://www.radiondistics.altervista.org/pdf/pier_luigi_celli.pdf  (5 OK, 40 queued)
+[2026-07-29 16:46:22]   [6 d0*] https://www.radiondistics.altervista.org/images/margherita_hack_libro.jpg  (6 OK, 39 queued)
+[2026-07-29 16:46:23]   [7 d0*] https://www.radiondistics.altervista.org/images/Neda-Agha-Soltan.jpg  (7 OK, 38 queued)
+[2026-07-29 16:46:23]   [8 d0*] https://www.radiondistics.altervista.org/images/pier_luigi_celli.jpg  (8 OK, 37 queued)
+[2026-07-29 16:46:24]   [9 d0*] https://www.radiondistics.altervista.org/images/ilaria_alpi.jpg  (9 OK, 36 queued)
+[2026-07-29 16:46:25]   [10 d0*] https://www.radiondistics.altervista.org/images/paul_dirac.jpg  (10 OK, 35 queued)
+[2026-07-29 16:46:28]   [15 d0*] https://www.radiondistics.altervista.org/scientific_index.htm  (15 OK, 32 queued)
+[2026-07-29 16:46:31]   [20 d0*] https://www.radiondistics.altervista.org/photos/bal-bal/dipole_no_line_radiation_high_power_sideview.jpg  (20 OK, 48 queued)
+[2026-07-29 16:46:35]   [25 d0*] https://www.radiondistics.altervista.org/balun_errante.htm  (25 OK, 60 queued)
+[2026-07-29 16:46:38]   [30 d0*] https://www.radiondistics.altervista.org/photos/balun/03_thmb.jpg  (30 OK, 65 queued)
+[2026-07-29 16:46:42]   [35 d0*] https://www.radiondistics.altervista.org/photos/balun/balun_errante_header.jpg  (35 OK, 60 queued)
+[2026-07-29 16:46:45]   [40 d0*] https://www.radiondistics.altervista.org/quadripole.htm  (40 OK, 55 queued)
+[2026-07-29 16:46:45]     +2 links (97 total known)
+[2026-07-29 16:46:48] ============================================================
+[2026-07-29 16:46:48] LIVE MIRROR: www.radiondistics.altervista.org
+[2026-07-29 16:46:48] Seed: https://www.radiondistics.altervista.org/
+[2026-07-29 16:46:48] Seed path: /
+[2026-07-29 16:46:48] Max link depth: 5
+[2026-07-29 16:46:48] Output: /Users/esaruoho/work/merlib-mirror/sites/www.radiondistics.altervista.org
+[2026-07-29 16:46:48] ============================================================
+[2026-07-29 16:46:48] Crawling / (download-as-you-go)...
+[2026-07-29 16:46:48]   [1 d0*] https://www.radiondistics.altervista.org/  (1 OK, 0 queued)
+[2026-07-29 16:46:49]     +18 links (19 total known)
+[2026-07-29 16:46:49]   [45 d0*] https://www.radiondistics.altervista.org/balun_errante_it.htm  (45 OK, 52 queued)
+[2026-07-29 16:46:49]   [2 d0*] https://www.radiondistics.altervista.org/graphics/bottom_left.jpg  (2 OK, 17 queued)
+[2026-07-29 16:46:50]   [3 d0*] https://www.radiondistics.altervista.org/graphics/radiondistics.jpg  (3 OK, 16 queued)
+[2026-07-29 16:46:51]   [4 d0*] https://www.radiondistics.altervista.org/contact.htm  (4 OK, 15 queued)
+[2026-07-29 16:46:51]     +6 links (25 total known)
+[2026-07-29 16:46:51]   [5 d0*] https://www.radiondistics.altervista.org/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js  (5 OK, 20 queued)
+[2026-07-29 16:46:52]   [6 d0*] https://www.radiondistics.altervista.org/scientific_index.htm  (6 OK, 19 queued)
+[2026-07-29 16:46:52]     +11 links (36 total known)
+[2026-07-29 16:46:52]   [7 d0*] https://www.radiondistics.altervista.org/capacitive_grounding.htm  (7 OK, 29 queued)
+[2026-07-29 16:46:52]     +10 links (46 total known)
+[2026-07-29 16:46:52]   [50 d0*] https://www.radiondistics.altervista.org/schematics/detector.jpg  (50 OK, 56 queued)
+[2026-07-29 16:46:53]   [8 d0*] https://www.radiondistics.altervista.org/schematics/symbol.jpg  (8 OK, 38 queued)
+[2026-07-29 16:46:54]   [9 d0*] https://www.radiondistics.altervista.org/messa_a_terra_capacitiva.htm  (9 OK, 37 queued)
+[2026-07-29 16:46:54]     +8 links (54 total known)
+[2026-07-29 16:46:54]   [10 d0*] https://www.radiondistics.altervista.org/multibanda.htm  (10 OK, 44 queued)
+[2026-07-29 16:46:54]     +8 links (62 total known)
+[2026-07-29 16:46:56]   [55 d0*] https://www.radiondistics.altervista.org/photos/bal-bal/balbal_test-set_2.jpg  (55 OK, 56 queued)
+[2026-07-29 16:46:57]   [15 d0*] https://www.radiondistics.altervista.org/pdf/turnstile_antenna_patent.pdf  (15 OK, 50 queued)
+[2026-07-29 16:46:59]   [60 d0*] https://www.radiondistics.altervista.org/rf_lighting_devices/contact.htm  (60 OK, 61 queued)
+[2026-07-29 16:46:59]     +3 links (124 total known)
+[2026-07-29 16:47:00]   [20 d0*] https://www.radiondistics.altervista.org/photos/multiband/main_120_thumb.jpg  (20 OK, 45 queued)
+[2026-07-29 16:47:02]   [65 d0*] https://www.radiondistics.altervista.org/rf_lighting_devices/pdf/US_patent_n_3500118_John_M_Anderson.pdf  (64 OK, 59 queued)
+[2026-07-29 16:47:03]   [25 d0*] https://www.radiondistics.altervista.org/images/marconi-lecture_6.jpg  (25 OK, 63 queued)
+[2026-07-29 16:47:07]   [30 d0*] https://www.radiondistics.altervista.org/images/marconi-lecture_11.jpg  (30 OK, 58 queued)
+[2026-07-29 16:47:07]   [70 d0*] https://www.radiondistics.altervista.org/rf_lighting_devices/pdf/formely_philips_now_QL_induction_lighting_system_165W.pdf  (69 OK, 54 queued)
+[2026-07-29 16:47:10]   [75 d0*] https://www.radiondistics.altervista.org/photos/multiband/main_180_thumb_small.jpg  (74 OK, 50 queued)
+[2026-07-29 16:47:10]   [35 d0*] https://www.radiondistics.altervista.org/images/marconi-lecture_5.jpg  (35 OK, 53 queued)
+[2026-07-29 16:47:13]   [80 d0*] https://www.radiondistics.altervista.org/photos/bal-bal/bvgng_header.jpg  (79 OK, 45 queued)
+[2026-07-29 16:47:14]   [40 d0*] https://www.radiondistics.altervista.org/images/fig14.jpg  (40 OK, 48 queued)
+[2026-07-29 16:47:17]   [85 d0*] https://www.radiondistics.altervista.org/images/feynman_diagram.gif  (84 OK, 47 queued)
+[2026-07-29 16:47:17]   [45 d0*] https://www.radiondistics.altervista.org/fessenden_marconi_radio_differences.htm  (45 OK, 43 queued)
+[2026-07-29 16:47:20]   [90 d0*] https://www.radiondistics.altervista.org/radioelectric_transducers.htm  (89 OK, 44 queued)
+[2026-07-29 16:47:20]     +1 links (135 total known)
+[2026-07-29 16:47:21]   [50 d0*] https://www.radiondistics.altervista.org/images/radio_intensity.jpg  (50 OK, 44 queued)
+[2026-07-29 16:47:24]   [95 d0*] https://www.radiondistics.altervista.org/richard_feynman_nobel_lecture.htm  (94 OK, 42 queued)
+[2026-07-29 16:47:24]   [55 d0*] https://www.radiondistics.altervista.org/photos/03.jpg  (55 OK, 54 queued)
+[2026-07-29 16:47:28]   [100 d0*] https://www.radiondistics.altervista.org/images/feynman/fig_j.gif  (99 OK, 56 queued)
+[2026-07-29 16:47:28]   [60 d0*] https://www.radiondistics.altervista.org/photos/05_thmb.jpg  (60 OK, 49 queued)
+[2026-07-29 16:47:31]   [105 d0*] https://www.radiondistics.altervista.org/images/feynman/fig_k.gif  (104 OK, 51 queued)
+[2026-07-29 16:47:31]   [65 d0*] https://www.radiondistics.altervista.org/photos/01_thmb.jpg  (65 OK, 44 queued)
+[2026-07-29 16:47:34]   [110 d0*] https://www.radiondistics.altervista.org/images/feynman/fig2.gif  (107 OK, 46 queued)
+[2026-07-29 16:47:34]   [70 d0*] https://www.radiondistics.altervista.org/balun_300_it.htm  (70 OK, 45 queued)
+[2026-07-29 16:47:34]     +2 links (117 total known)
+[2026-07-29 16:47:37]   [75 d0*] https://www.radiondistics.altervista.org/photos/vgng_header.jpg  (75 OK, 49 queued)
+[2026-07-29 16:47:37]   [115 d0*] https://www.radiondistics.altervista.org/schematics/apparato_di_hertz.gif  (111 OK, 41 queued)
+[2026-07-29 16:47:40]   [80 d0*] https://www.radiondistics.altervista.org/photos/turnstile_thmb.jpg  (80 OK, 44 queued)
+[2026-07-29 16:47:40]   [120 d0*] https://www.radiondistics.altervista.org/schematics/capacitive_grounding.jpg  (116 OK, 41 queued)
+[2026-07-29 16:47:43]   [85 d0*] https://www.radiondistics.altervista.org/photos/bal-bal/balbal_test-set_1.jpg  (85 OK, 52 queued)
+[2026-07-29 16:47:43]   [125 d0*] https://www.radiondistics.altervista.org/images/marconi-lecture_25.jpg  (121 OK, 59 queued)
+[2026-07-29 16:47:46]   [130 d0*] https://www.radiondistics.altervista.org/images/marconi-lecture_1.jpg  (126 OK, 54 queued)
+[2026-07-29 16:47:46]   [90 d0*] https://www.radiondistics.altervista.org/photos/bal-bal/balbal_test-set_4.jpg  (90 OK, 47 queued)
+[2026-07-29 16:47:48]   [135 d0*] https://www.radiondistics.altervista.org/images/radio_poldhu.jpg  (131 OK, 55 queued)
+[2026-07-29 16:47:49]   [95 d0*] https://www.radiondistics.altervista.org/photos/tubo_innescato.jpg  (95 OK, 49 queued)
+[2026-07-29 16:47:51]   [140 d0*] https://www.radiondistics.altervista.org/images/radio_detector.jpg  (136 OK, 50 queued)
+[2026-07-29 16:47:51]   [100 d0*] https://www.radiondistics.altervista.org/autore.htm  (100 OK, 49 queued)
+[2026-07-29 16:47:51]     +13 links (162 total known)
+[2026-07-29 16:47:53]   [145 d0*] https://www.radiondistics.altervista.org/images/marconi-lecture_23.jpg  (141 OK, 45 queued)
+[2026-07-29 16:47:54]   [105 d0*] https://www.radiondistics.altervista.org/images/verita_per_giulio_regeni.jpg  (105 OK, 57 queued)
+[2026-07-29 16:47:56]   [150 d0*] https://www.radiondistics.altervista.org/images/marconi-lecture_17.jpg  (146 OK, 40 queued)
+[2026-07-29 16:47:57]   [110 d0*] https://www.radiondistics.altervista.org/images/margherita_hack_libro.jpg  (110 OK, 52 queued)
+[2026-07-29 16:47:59]   [155 d0*] https://www.radiondistics.altervista.org/photos/errante_apparatus_full.gif  (151 OK, 37 queued)
+[2026-07-29 16:48:00]   [115 d0*] https://www.radiondistics.altervista.org/photos/apparato_errante_full.gif  (115 OK, 47 queued)
+[2026-07-29 16:48:02]   [160 d0*] https://www.radiondistics.altervista.org/photos/01.jpg  (156 OK, 47 queued)
+[2026-07-29 16:48:02]   [120 d0*] https://www.radiondistics.altervista.org/rf_lighting_devices/img/fluorescent_tube_T12_exited_by_radio_waves.jpg  (120 OK, 52 queued)
+[2026-07-29 16:48:04]   [165 d0*] https://www.radiondistics.altervista.org/graphics/new_zoom.gif  (161 OK, 42 queued)
+[2026-07-29 16:48:05]   [125 d0*] https://www.radiondistics.altervista.org/rf_lighting_devices/index.html  (125 OK, 47 queued)
+[2026-07-29 16:48:07]   [170 d0*] https://www.radiondistics.altervista.org/photos/08_thmb.jpg  (166 OK, 37 queued)
+[2026-07-29 16:48:07]   [130 d0*] https://www.radiondistics.altervista.org/rf_lighting_devices/rf-lighting.css  (130 OK, 43 queued)
+[2026-07-29 16:48:10]   [175 d0*] https://www.radiondistics.altervista.org/balanced_lines.htm  (171 OK, 32 queued)
+[2026-07-29 16:48:10]   [135 d0*] https://www.radiondistics.altervista.org/radiazione_hertziana.htm  (135 OK, 38 queued)
+[2026-07-29 16:48:13]   [140 d0*] https://www.radiondistics.altervista.org/richard_feynman_nobel_lecture.htm  (140 OK, 41 queued)
+[2026-07-29 16:48:13]   [180 d0*] https://www.radiondistics.altervista.org/graphics/agilentlogo.gif  (176 OK, 36 queued)
+[2026-07-29 16:48:13]     +19 links (200 total known)
+[2026-07-29 16:48:15]   [145 d0*] https://www.radiondistics.altervista.org/images/feynman/fig2.gif  (144 OK, 55 queued)
+[2026-07-29 16:48:16]   [185 d0*] https://www.radiondistics.altervista.org/communications_index.htm  (181 OK, 31 queued)
+[2026-07-29 16:48:18]   [150 d0*] https://www.radiondistics.altervista.org/images/feynman/fig6.gif  (148 OK, 50 queued)
+[2026-07-29 16:48:18]   [190 d0*] https://www.radiondistics.altervista.org/graphics/book.jpg  (186 OK, 26 queued)
+[2026-07-29 16:48:21]   [155 d0*] https://www.radiondistics.altervista.org/images/feynman/fig3.gif  (153 OK, 45 queued)
+[2026-07-29 16:48:21]   [195 d0*] https://www.radiondistics.altervista.org/guglielmo_marconi_premio_nobel.htm  (191 OK, 21 queued)
+[2026-07-29 16:48:23]   [160 d0*] https://www.radiondistics.altervista.org/trasduttori_radioelettrici.htm  (157 OK, 40 queued)
+[2026-07-29 16:48:23]     +2 links (202 total known)
+[2026-07-29 16:48:24]   [200 d0*] https://www.radiondistics.altervista.org/photos/bal-bal/linea_disadattata_2.jpg  (196 OK, 18 queued)
+[2026-07-29 16:48:26]   [165 d0*] https://www.radiondistics.altervista.org/images/feynman_diagram.gif  (162 OK, 39 queued)
+[2026-07-29 16:48:27]   [205 d0*] https://www.radiondistics.altervista.org/antonio_meucci.htm  (201 OK, 13 queued)
+[2026-07-29 16:48:28]   [170 d0*] https://www.radiondistics.altervista.org/schematics/balun_main.jpg  (167 OK, 44 queued)
+[2026-07-29 16:48:30]   [210 d0*] https://www.radiondistics.altervista.org/graphics/tricolore.jpg  (206 OK, 8 queued)
+[2026-07-29 16:48:31]   [175 d0*] https://www.radiondistics.altervista.org/photos/balun/04.jpg  (172 OK, 39 queued)
+[2026-07-29 16:48:33]   [215 d0*] https://www.radiondistics.altervista.org/graphics/bottom_left.jpg  (211 OK, 3 queued)
+[2026-07-29 16:48:34]   [180 d0*] https://www.radiondistics.altervista.org/hertzian_radiation.htm  (177 OK, 34 queued)
+[2026-07-29 16:48:35] WordPress PDF extraction: found 1 PDF(s)
+[2026-07-29 16:48:36]   [185 d0*] https://www.radiondistics.altervista.org/schematics/old_symbol.jpg  (182 OK, 30 queued)
+[2026-07-29 16:48:37]   PDF OK: tesla_against_marconi.pdf
+[2026-07-29 16:48:37]   PDFs: 1 downloaded, 0 cached, 0 failed
+[2026-07-29 16:48:37] Generating index...
+[2026-07-29 16:48:37] Index: 214 files
+[2026-07-29 16:48:37]   .jpg: 114
+[2026-07-29 16:48:37]   .htm: 53
+[2026-07-29 16:48:37]   .gif: 33
+[2026-07-29 16:48:37]   .pdf: 8
+[2026-07-29 16:48:37]   .html: 2
+[2026-07-29 16:48:37]   .css: 2
+[2026-07-29 16:48:37]   .js: 1
+[2026-07-29 16:48:37]   .png: 1
+[2026-07-29 16:48:37] 
+============================================================
+[2026-07-29 16:48:37] LIVE MIRROR COMPLETE
+[2026-07-29 16:48:37] Downloaded: 218, OK: 214, Failed: 4
+[2026-07-29 16:48:37] Total URLs seen: 218
+[2026-07-29 16:48:37] ============================================================
+[2026-07-29 16:48:37] 
+Next step: fe-ingest.sh /Users/esaruoho/work/merlib-mirror/sites/www.radiondistics.altervista.org
+[2026-07-29 16:48:39]   [190 d0*] https://www.radiondistics.altervista.org/balun_300.htm  (187 OK, 25 queued)
+[2026-07-29 16:48:41]   [195 d0*] https://www.radiondistics.altervista.org/photos/bal-bal/radiation_by_line_1.jpg  (192 OK, 22 queued)
+[2026-07-29 16:48:44]   [200] 196 OK, 4 failed, 18 queued
+[2026-07-29 16:48:44]     last fail: https://www.radiondistics.altervista.org/cdn-cgi/l/email-protection
+[2026-07-29 16:48:46]   [205 d0*] https://www.radiondistics.altervista.org/graphics/unionjack.jpg  (201 OK, 13 queued)
+[2026-07-29 16:48:49]   [210 d0*] https://www.radiondistics.altervista.org/graphics/alf_banner.jpg  (206 OK, 8 queued)
+[2026-07-29 16:48:52]   [215 d0*] https://www.radiondistics.altervista.org/master.css  (211 OK, 3 queued)
+[2026-07-29 16:48:54] WordPress PDF extraction: found 1 PDF(s)
+[2026-07-29 16:48:54]   PDFs: 0 downloaded, 1 cached, 0 failed
+[2026-07-29 16:48:54] Generating index...
+[2026-07-29 16:48:54] Index: 214 files
+[2026-07-29 16:48:54]   .jpg: 114
+[2026-07-29 16:48:54]   .htm: 53
+[2026-07-29 16:48:54]   .gif: 33
+[2026-07-29 16:48:54]   .pdf: 8
+[2026-07-29 16:48:54]   .html: 2
+[2026-07-29 16:48:54]   .css: 2
+[2026-07-29 16:48:54]   .js: 1
+[2026-07-29 16:48:54]   .png: 1
+[2026-07-29 16:48:54] 
+============================================================
+[2026-07-29 16:48:54] LIVE MIRROR COMPLETE
+[2026-07-29 16:48:54] Downloaded: 218, OK: 214, Failed: 4
+[2026-07-29 16:48:54] Total URLs seen: 218
+[2026-07-29 16:48:54] ============================================================
+[2026-07-29 16:48:54] 
+Next step: fe-ingest.sh /Users/esaruoho/work/merlib-mirror/sites/www.radiondistics.altervista.org
+[2026-08-03 16:04:45] ============================================================
+[2026-08-03 16:04:45] LIVE MIRROR: www.radiondistics.altervista.org
+[2026-08-03 16:04:45] Seed: https://www.radiondistics.altervista.org/
+[2026-08-03 16:04:45] Seed path: /
+[2026-08-03 16:04:45] Max link depth: 5
+[2026-08-03 16:04:45] Output: /Users/esaruoho/work/merlib-mirror/sites/www.radiondistics.altervista.org
+[2026-08-03 16:04:45] ============================================================
+[2026-08-03 16:04:45] Crawling / (download-as-you-go)...
+[2026-08-03 16:04:45]   [1 d0*] https://www.radiondistics.altervista.org/  (1 OK, 0 queued)
+[2026-08-03 16:04:45]     +18 links (19 total known)
+[2026-08-03 16:04:46]   [2 d0*] https://www.radiondistics.altervista.org/graphics/bottom_right.jpg  (2 OK, 17 queued)
+[2026-08-03 16:04:46]   [3 d0*] https://www.radiondistics.altervista.org/graphics/radiondistics.jpg  (3 OK, 16 queued)
+[2026-08-03 16:04:47]   [4 d0*] https://www.radiondistics.altervista.org/graphics/alf_banner.jpg  (4 OK, 15 queued)
+[2026-08-03 16:04:47]   [5 d0*] https://www.radiondistics.altervista.org/graphics/tricolore.jpg  (5 OK, 14 queued)
+[2026-08-03 16:04:48]   [6 d0*] https://www.radiondistics.altervista.org/graphics/top_right.jpg  (6 OK, 13 queued)
+[2026-08-03 16:04:48]   [7 d0*] https://www.radiondistics.altervista.org/index.htm  (7 OK, 12 queued)
+[2026-08-03 16:04:48]     +13 links (32 total known)
+[2026-08-03 16:04:49]   [8 d0*] https://www.radiondistics.altervista.org/images/addiopizzo.jpg  (8 OK, 24 queued)
+[2026-08-03 16:04:49]   [9 d0*] https://www.radiondistics.altervista.org/communications_index.htm  (9 OK, 23 queued)
+[2026-08-03 16:04:49]     +6 links (38 total known)
+[2026-08-03 16:04:50]   [10 d0*] https://www.radiondistics.altervista.org/quadripole.htm  (10 OK, 28 queued)
+[2026-08-03 16:04:50]     +4 links (42 total known)
+[2026-08-03 16:04:52]   [15 d0*] https://www.radiondistics.altervista.org/scientifici_index.htm  (15 OK, 34 queued)
+[2026-08-03 16:04:55]   [20 d0*] https://www.radiondistics.altervista.org/autore.htm  (20 OK, 46 queued)
+[2026-08-03 16:04:55]     +12 links (78 total known)
+[2026-08-03 16:04:57]   [25 d0*] https://www.radiondistics.altervista.org/images/verita_per_giulio_regeni.jpg  (25 OK, 53 queued)
+[2026-08-03 16:05:00]   [30 d0*] https://www.radiondistics.altervista.org/images/bended_reflector_sketch.jpg  (30 OK, 48 queued)
+[2026-08-03 16:05:02]   [35 d0*] https://www.radiondistics.altervista.org/photos/apparato_errante_dx.gif  (35 OK, 43 queued)
+[2026-08-03 16:05:05]   [40 d0*] https://www.radiondistics.altervista.org/rf_lighting_devices/index.html  (40 OK, 44 queued)
+[2026-08-03 16:05:05]     +10 links (94 total known)
+[2026-08-03 16:05:08]   [45 d0*] https://www.radiondistics.altervista.org/rf_lighting_devices/pdf/osram_sylvania_icetron_magnetic_induction_lamps.pdf  (45 OK, 49 queued)
+[2026-08-03 16:05:10]   [50 d0*] https://www.radiondistics.altervista.org/rf_lighting_devices/img/en.gif  (50 OK, 45 queued)
+[2026-08-03 16:05:13]   [55 d0*] https://www.radiondistics.altervista.org/photos/tubo_innescato.jpg  (54 OK, 42 queued)
+[2026-08-03 16:05:15]   [60 d0*] https://www.radiondistics.altervista.org/antenna_errante_it.htm  (59 OK, 38 queued)
+[2026-08-03 16:05:15]     +15 links (113 total known)
+[2026-08-03 16:05:18]   [65 d0*] https://www.radiondistics.altervista.org/photos/01.jpg  (64 OK, 48 queued)
+[2026-08-03 16:05:20]   [70 d0*] https://www.radiondistics.altervista.org/photos/02.jpg  (69 OK, 43 queued)
+[2026-08-03 16:05:23]   [75 d0*] https://www.radiondistics.altervista.org/schematics/antenna_errante_open_wire_balanced_transmission_line.jpg  (74 OK, 38 queued)
+[2026-08-03 16:05:25]   [80 d0*] https://www.radiondistics.altervista.org/photos/balun/02_thmb.jpg  (79 OK, 40 queued)
+[2026-08-03 16:05:28]   [85 d0*] https://www.radiondistics.altervista.org/detector_it.htm  (84 OK, 35 queued)
+[2026-08-03 16:05:30]   [90 d0*] https://www.radiondistics.altervista.org/photos/bal-bal/dipole_no_line_radiation_high_power_sideview.jpg  (89 OK, 34 queued)
+[2026-08-03 16:05:33]   [95 d0*] https://www.radiondistics.altervista.org/schematics/symbol.jpg  (94 OK, 34 queued)
+[2026-08-03 16:05:35]   [100 d0*] https://www.radiondistics.altervista.org/images/marconi-lecture_13.jpg  (99 OK, 52 queued)
+[2026-08-03 16:05:38]   [105 d0*] https://www.radiondistics.altervista.org/images/fig14.jpg  (104 OK, 47 queued)
+[2026-08-03 16:05:40]   [110 d0*] https://www.radiondistics.altervista.org/images/marconi-lecture_6.jpg  (109 OK, 42 queued)
+[2026-08-03 16:05:43]   [115 d0*] https://www.radiondistics.altervista.org/images/marconi-lecture_12.jpg  (114 OK, 37 queued)
+[2026-08-03 16:05:46]   [120 d0*] https://www.radiondistics.altervista.org/images/radio_intensity.jpg  (119 OK, 38 queued)
+[2026-08-03 16:05:48]   [125 d0*] https://www.radiondistics.altervista.org/images/marconi-lecture_23.jpg  (124 OK, 33 queued)
+[2026-08-03 16:05:51]   [130 d0*] https://www.radiondistics.altervista.org/photos/balun/04_thmb.jpg  (129 OK, 39 queued)
+[2026-08-03 16:05:53]   [135 d0*] https://www.radiondistics.altervista.org/photos/balun/04.jpg  (134 OK, 34 queued)
+[2026-08-03 16:05:56]   [140 d0*] https://www.radiondistics.altervista.org/hertz/KIT_PI_2013_153_Hertz_125_Years_Propagation_of_Electric_Action.pdf  (139 OK, 36 queued)
+[2026-08-03 16:05:58]   [145 d0*] https://www.radiondistics.altervista.org/images/feynman/fig1.gif  (143 OK, 50 queued)
+[2026-08-03 16:06:04]   [155 d0*] https://www.radiondistics.altervista.org/images/feynman/fig_h.gif  (151 OK, 40 queued)
+[2026-08-03 16:06:06]   [160 d0*] https://www.radiondistics.altervista.org/images/feynman/fig4.gif  (156 OK, 35 queued)
+[2026-08-03 16:06:09]   [165 d0*] https://www.radiondistics.altervista.org/estratti/G5RV/G5RV_review_1985_ocr.pdf  (161 OK, 33 queued)
+[2026-08-03 16:06:11]   [170 d0*] https://www.radiondistics.altervista.org/schematics/apparato_di_hertz.gif  (166 OK, 30 queued)
+[2026-08-03 16:06:14]   [175 d0*] https://www.radiondistics.altervista.org/schematics/16_bands_dipole.jpg  (171 OK, 31 queued)
+[2026-08-03 16:06:16]   [180 d0*] https://www.radiondistics.altervista.org/photos/bal-bal/linea_disadattata_2.jpg  (176 OK, 36 queued)
+[2026-08-03 16:06:19]   [185 d0*] https://www.radiondistics.altervista.org/photos/bal-bal/balbal_test-set_4.jpg  (181 OK, 31 queued)
+[2026-08-03 16:06:21]   [190 d0*] https://www.radiondistics.altervista.org/comunicazioni_index.htm  (186 OK, 26 queued)
+[2026-08-03 16:06:24]   [195 d0*] https://www.radiondistics.altervista.org/antenna_errante.htm  (191 OK, 22 queued)
+[2026-08-03 16:06:27]   [200 d0*] https://www.radiondistics.altervista.org/author.htm  (196 OK, 17 queued)
+[2026-08-03 16:06:29]   [205 d0*] https://www.radiondistics.altervista.org/photos/bal-bal/radiation_by_line_1.jpg  (201 OK, 14 queued)
+[2026-08-03 16:06:32]   [210 d0*] https://www.radiondistics.altervista.org/graphics/gradient.jpg  (206 OK, 9 queued)
+[2026-08-03 16:06:34]   [215 d0*] https://www.radiondistics.altervista.org/graphics/bottom_left.jpg  (211 OK, 4 queued)
+[2026-08-03 16:06:37] WordPress PDF extraction: found 1 PDF(s)
+[2026-08-03 16:06:37]   PDFs: 0 downloaded, 1 cached, 0 failed
+[2026-08-03 16:06:37] Generating index...
+[2026-08-03 16:06:37] Index: 271 files
+[2026-08-03 16:06:37]   .jpg: 114
+[2026-08-03 16:06:37]   .md: 56
+[2026-08-03 16:06:37]   .htm: 54
+[2026-08-03 16:06:37]   .gif: 33
+[2026-08-03 16:06:37]   .pdf: 8
+[2026-08-03 16:06:37]   .html: 2
+[2026-08-03 16:06:37]   .css: 2
+[2026-08-03 16:06:37]   .js: 1
+[2026-08-03 16:06:37]   .png: 1
+[2026-08-03 16:06:37] 
+============================================================
+[2026-08-03 16:06:37] LIVE MIRROR COMPLETE
+[2026-08-03 16:06:37] Downloaded: 219, OK: 215, Failed: 4
+[2026-08-03 16:06:37] Total URLs seen: 219
+[2026-08-03 16:06:37] ------------------------------------------------------------
+[2026-08-03 16:06:37] FRAMESET: this site's content is framed in from 4 off-domain target(s) — NOT included in this mirror:
+[2026-08-03 16:06:37]   → https://player.vimeo.com/video/11655582
+[2026-08-03 16:06:37]   → https://www.unitconverters.net/frequency-wavelength-converter.html
+[2026-08-03 16:06:37]   → https://www.youtube.com/embed/8tF14S7B4yk?si=gh6hIOs5U_i_SSw6
+[2026-08-03 16:06:37]   → https://www.youtube.com/embed/vamlYBTMShU?si=5lysElJtz-XPTmRv
+[2026-08-03 16:06:37] Queue those hosts as their own mirror jobs to capture the content.
+[2026-08-03 16:06:37] ============================================================
+[2026-08-03 16:06:37] 
+Next step: fe-ingest.sh /Users/esaruoho/work/merlib-mirror/sites/www.radiondistics.altervista.org
+[2026-08-03 17:35:14] ============================================================
+[2026-08-03 17:35:14] LIVE MIRROR: www.radiondistics.altervista.org
+[2026-08-03 17:35:14] Seed: https://www.radiondistics.altervista.org/
+[2026-08-03 17:35:14] Seed path: /
+[2026-08-03 17:35:14] Max link depth: 5
+[2026-08-03 17:35:14] Output: /Users/esaruoho/work/merlib-mirror/sites/www.radiondistics.altervista.org
+[2026-08-03 17:35:14] ============================================================
+[2026-08-03 17:35:14] Crawling / (download-as-you-go)...
+[2026-08-03 17:35:14]   [1 d0*] https://www.radiondistics.altervista.org/  (1 OK, 0 queued)
+[2026-08-03 17:35:14]     +18 links (19 total known)
+[2026-08-03 17:35:14]   [2 d0*] https://www.radiondistics.altervista.org/graphics/top_left.jpg  (2 OK, 17 queued)
+[2026-08-03 17:35:15]   [3 d0*] https://www.radiondistics.altervista.org/graphics/scientists_against_war.jpg  (3 OK, 16 queued)
+[2026-08-03 17:35:15]   [4 d0*] https://www.radiondistics.altervista.org/graphics/new.gif  (4 OK, 15 queued)
+[2026-08-03 17:35:16]   [5 d0*] https://www.radiondistics.altervista.org/contact.htm  (5 OK, 14 queued)
+[2026-08-03 17:35:16]     +6 links (25 total known)
+[2026-08-03 17:35:16]   [6 d0*] https://www.radiondistics.altervista.org/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js  (6 OK, 19 queued)
+[2026-08-03 17:35:17]   [7 d0*] https://www.radiondistics.altervista.org/index.html  (7 OK, 18 queued)
+[2026-08-03 17:35:18]   [9 d0*] https://www.radiondistics.altervista.org/images/addiopizzo.jpg  (8 OK, 16 queued)
+[2026-08-03 17:35:18]   [10 d0*] https://www.radiondistics.altervista.org/scientific_index.htm  (9 OK, 15 queued)
+[2026-08-03 17:35:18]     +11 links (36 total known)
+[2026-08-03 17:35:21]   [15 d0*] https://www.radiondistics.altervista.org/radioelectric_transducers.htm  (14 OK, 43 queued)
+[2026-08-03 17:35:23]   [20 d0*] https://www.radiondistics.altervista.org/graphics/guarantee.jpg  (19 OK, 56 queued)
+[2026-08-03 17:35:26]   [25 d0*] https://www.radiondistics.altervista.org/photos/bal-bal/dipole_no_line_radiation_low_power.jpg  (24 OK, 52 queued)
+[2026-08-03 17:35:29]   [30 d0*] https://www.radiondistics.altervista.org/photos/balun/02.jpg  (29 OK, 65 queued)
+[2026-08-03 17:35:31]   [35 d0*] https://www.radiondistics.altervista.org/photos/turnstile.jpg  (34 OK, 62 queued)
+[2026-08-03 17:35:34]   [40 d0*] https://www.radiondistics.altervista.org/balun_rosmetrico.htm  (39 OK, 57 queued)
+[2026-08-03 17:35:34]     +1 links (98 total known)
+[2026-08-03 17:35:36]   [45 d0*] https://www.radiondistics.altervista.org/guglielmo_marconi_nobel_lecture.htm  (44 OK, 77 queued)
+[2026-08-03 17:35:39]   [50 d0*] https://www.radiondistics.altervista.org/images/fig14.jpg  (49 OK, 72 queued)
+[2026-08-03 17:35:41]   [55 d0*] https://www.radiondistics.altervista.org/images/radio_clifdenconstruction.gif  (54 OK, 73 queued)
+[2026-08-03 17:35:44] ============================================================
+[2026-08-03 17:35:44] LIVE MIRROR: www.radiondistics.altervista.org
+[2026-08-03 17:35:44] Seed: https://www.radiondistics.altervista.org/
+[2026-08-03 17:35:44] Seed path: /
+[2026-08-03 17:35:44] Max link depth: 5
+[2026-08-03 17:35:44] Output: /Users/esaruoho/work/merlib-mirror/sites/www.radiondistics.altervista.org
+[2026-08-03 17:35:44] ============================================================
+[2026-08-03 17:35:44] Crawling / (download-as-you-go)...
+[2026-08-03 17:35:44]   [1 d0*] https://www.radiondistics.altervista.org/  (1 OK, 0 queued)
+[2026-08-03 17:35:44]     +18 links (19 total known)
+[2026-08-03 17:35:44]   [60 d0*] https://www.radiondistics.altervista.org/images/marconi-lecture_15.jpg  (59 OK, 68 queued)
+[2026-08-03 17:35:44]   [2 d0*] https://www.radiondistics.altervista.org/principale.htm  (2 OK, 17 queued)
+[2026-08-03 17:35:44]     +13 links (32 total known)
+[2026-08-03 17:35:45]   [3 d0*] https://www.radiondistics.altervista.org/radiazione_hertziana.htm  (3 OK, 29 queued)
+[2026-08-03 17:35:45]     +11 links (43 total known)
+[2026-08-03 17:35:45]   [4 d0*] https://www.radiondistics.altervista.org/photos/errante_1st_law.jpg  (4 OK, 39 queued)
+[2026-08-03 17:35:46]   [5 d0*] https://www.radiondistics.altervista.org/schematics/apparato_di_hertz.gif  (5 OK, 38 queued)
+[2026-08-03 17:35:46]   [6 d0*] https://www.radiondistics.altervista.org/images/feynman_diagram.gif  (6 OK, 37 queued)
+[2026-08-03 17:35:46]   [65 d0*] https://www.radiondistics.altervista.org/images/marconi-lecture_8.jpg  (64 OK, 63 queued)
+[2026-08-03 17:35:47]   [7 d0*] https://www.radiondistics.altervista.org/photos/errante_2nd_law.jpg  (7 OK, 36 queued)
+[2026-08-03 17:35:47]   [8 d0*] https://www.radiondistics.altervista.org/richard_feynman_nobel_lecture.htm  (8 OK, 35 queued)
+[2026-08-03 17:35:47]     +21 links (64 total known)
+[2026-08-03 17:35:48]   [9 d0*] https://www.radiondistics.altervista.org/images/feynman/fig1.gif  (9 OK, 55 queued)
+[2026-08-03 17:35:48]   [10 d0*] https://www.radiondistics.altervista.org/images/feynman/fig6.gif  (10 OK, 54 queued)
+[2026-08-03 17:35:49]   [70 d0*] https://www.radiondistics.altervista.org/images/marconi-lecture_19-22.jpg  (69 OK, 58 queued)
+[2026-08-03 17:35:51]   [15 d0*] https://www.radiondistics.altervista.org/images/feynman/fig_f.gif  (14 OK, 49 queued)
+[2026-08-03 17:35:52]   [75 d0*] https://www.radiondistics.altervista.org/schematics/old_symbol.jpg  (74 OK, 53 queued)
+[2026-08-03 17:35:54]   [20 d0*] https://www.radiondistics.altervista.org/images/feynman/figm.gif  (19 OK, 44 queued)
+[2026-08-03 17:35:54]   [80 d0*] https://www.radiondistics.altervista.org/schematics/balun_300.jpg  (79 OK, 49 queued)
+[2026-08-03 17:35:56]   [25 d0*] https://www.radiondistics.altervista.org/photos/multiband/main_120_thumb_small.jpg  (24 OK, 58 queued)
+[2026-08-03 17:35:57]   [85 d0*] https://www.radiondistics.altervista.org/photos/multiband/main_180.jpg  (84 OK, 50 queued)
+[2026-08-03 17:35:59]   [30 d0*] https://www.radiondistics.altervista.org/graphics/guarantee.jpg  (29 OK, 65 queued)
+[2026-08-03 17:35:59]   [90 d0*] https://www.radiondistics.altervista.org/tlc.htm  (89 OK, 58 queued)
+[2026-08-03 17:36:01]   [35 d0*] https://www.radiondistics.altervista.org/distributori.htm  (34 OK, 64 queued)
+[2026-08-03 17:36:02]   [95 d0*] https://www.radiondistics.altervista.org/photos/bal-bal/linea_disadattata_2.jpg  (94 OK, 53 queued)
+[2026-08-03 17:36:04]   [40 d0*] https://www.radiondistics.altervista.org/schematics/16_bands_dipole.jpg  (39 OK, 67 queued)
+[2026-08-03 17:36:04]   [100 d0*] https://www.radiondistics.altervista.org/schematics/antenna_errante.jpg  (99 OK, 48 queued)
+[2026-08-03 17:36:06]   [45 d0*] https://www.radiondistics.altervista.org/photos/multiband/main_180.jpg  (44 OK, 62 queued)
+[2026-08-03 17:36:07]   [105 d0*] https://www.radiondistics.altervista.org/author.htm  (104 OK, 56 queued)
+[2026-08-03 17:36:09]   [50 d0*] https://www.radiondistics.altervista.org/photos/balun/balun_errante_header.jpg  (49 OK, 57 queued)
+[2026-08-03 17:36:09]   [110 d0*] https://www.radiondistics.altervista.org/images/ilaria_alpi.jpg  (109 OK, 51 queued)
+[2026-08-03 17:36:11]   [55 d0*] https://www.radiondistics.altervista.org/balun_300_it.htm  (54 OK, 52 queued)
+[2026-08-03 17:36:12]   [115 d0*] https://www.radiondistics.altervista.org/images/no_vivisezione.gif  (114 OK, 46 queued)
+[2026-08-03 17:36:14]   [60 d0*] https://www.radiondistics.altervista.org/photos/bal-bal/bvgng_header.jpg  (59 OK, 53 queued)
+[2026-08-03 17:36:14]   [120 d0*] https://www.radiondistics.altervista.org/photos/08.jpg  (119 OK, 55 queued)
+[2026-08-03 17:36:16]   [65 d0*] https://www.radiondistics.altervista.org/bvgng.htm  (64 OK, 50 queued)
+[2026-08-03 17:36:17]   [125 d0*] https://www.radiondistics.altervista.org/photos/03.jpg  (124 OK, 50 queued)
+[2026-08-03 17:36:19]   [70 d0*] https://www.radiondistics.altervista.org/photos/bal-bal/balbal_linearity_test_header.jpg  (69 OK, 51 queued)
+[2026-08-03 17:36:20]   [130 d0*] https://www.radiondistics.altervista.org/photos/02.jpg  (129 OK, 45 queued)
+[2026-08-03 17:36:22]   [75 d0*] https://www.radiondistics.altervista.org/images/Neda-Agha-Soltan.jpg  (74 OK, 56 queued)
+[2026-08-03 17:36:22]   [135 d0*] https://www.radiondistics.altervista.org/apparato_errante.htm  (134 OK, 41 queued)
+[2026-08-03 17:36:24]   [80 d0*] https://www.radiondistics.altervista.org/images/margherita_hack_libro.jpg  (79 OK, 51 queued)
+[2026-08-03 17:36:25]   [140 d0*] https://www.radiondistics.altervista.org/hertz/KIT_PI_2013_153_Hertz_125_Years_Propagation_of_Electric_Action.pdf  (139 OK, 39 queued)
+[2026-08-03 17:36:27]   [85 d0*] https://www.radiondistics.altervista.org/schematics/capacitive_grounding.jpg  (84 OK, 51 queued)
+[2026-08-03 17:36:29]   [90 d0*] https://www.radiondistics.altervista.org/images/marconi-lecture_12.jpg  (89 OK, 69 queued)
+[2026-08-03 17:36:32]   [95 d0*] https://www.radiondistics.altervista.org/images/marconi-lecture_7.jpg  (94 OK, 64 queued)
+[2026-08-03 17:36:33]   [155 d0*] https://www.radiondistics.altervista.org/images/feynman/fig_h.gif  (152 OK, 43 queued)
+[2026-08-03 17:36:34]   [100 d0*] https://www.radiondistics.altervista.org/images/marconi-lecture_13.jpg  (99 OK, 59 queued)
+[2026-08-03 17:36:35]   [160 d0*] https://www.radiondistics.altervista.org/images/feynman/fig5.gif  (156 OK, 38 queued)
+[2026-08-03 17:36:37]   [105 d0*] https://www.radiondistics.altervista.org/images/radio_intensity.jpg  (104 OK, 60 queued)
+[2026-08-03 17:36:38]   [165 d0*] https://www.radiondistics.altervista.org/rf_lighting_devices/radio_interference_from_high_efficiency_fluorescent_lights.htm  (161 OK, 46 queued)
+[2026-08-03 17:36:39]   [110 d0*] https://www.radiondistics.altervista.org/images/marconi-lecture_10.jpg  (109 OK, 55 queued)
+[2026-08-03 17:36:40]   [170 d0*] https://www.radiondistics.altervista.org/rf_lighting_devices/index_it.htm  (166 OK, 42 queued)
+[2026-08-03 17:36:42]   [115 d0*] https://www.radiondistics.altervista.org/images/marconi-lecture_4.jpg  (114 OK, 50 queued)
+[2026-08-03 17:36:43]   [175 d0*] https://www.radiondistics.altervista.org/images/solar_radiation_spectrum.jpg  (171 OK, 37 queued)
+[2026-08-03 17:36:44]   [120 d0*] https://www.radiondistics.altervista.org/photos/bal-bal/balbal_test-set_4.jpg  (119 OK, 56 queued)
+[2026-08-03 17:36:45]   [180 d0*] https://www.radiondistics.altervista.org/photos/errante_2nd_law.jpg  (176 OK, 35 queued)
+[2026-08-03 17:36:47]   [125 d0*] https://www.radiondistics.altervista.org/mismatching_simulator.htm  (124 OK, 51 queued)
+[2026-08-03 17:36:48]   [185 d0*] https://www.radiondistics.altervista.org/soppressore.htm  (181 OK, 31 queued)
+[2026-08-03 17:36:49]   [130 d0*] https://www.radiondistics.altervista.org/photos/bal-bal/radiation_by_line_1.jpg  (129 OK, 46 queued)
+[2026-08-03 17:36:51]   [190 d0*] https://www.radiondistics.altervista.org/photos/turnstile_thmb.jpg  (186 OK, 26 queued)
+[2026-08-03 17:36:52]   [135 d0*] https://www.radiondistics.altervista.org/photos/02.jpg  (134 OK, 56 queued)
+[2026-08-03 17:36:53]   [195 d0*] https://www.radiondistics.altervista.org/photos/bal-bal/radiation_by_line_2.jpg  (191 OK, 23 queued)
+[2026-08-03 17:36:55]   [140 d0*] https://www.radiondistics.altervista.org/photos/antenna_errante_header.jpg  (139 OK, 51 queued)
+[2026-08-03 17:36:56]   [200 d0*] https://www.radiondistics.altervista.org/balun_swr.htm  (196 OK, 18 queued)
+[2026-08-03 17:36:57]   [145 d0*] https://www.radiondistics.altervista.org/photos/02_thmb.jpg  (144 OK, 46 queued)
+[2026-08-03 17:36:58]   [205 d0*] https://www.radiondistics.altervista.org/communications_index.htm  (201 OK, 14 queued)
+[2026-08-03 17:37:00]   [150 d0*] https://www.radiondistics.altervista.org/graphics/caution_tri.gif  (149 OK, 45 queued)
+[2026-08-03 17:37:01]   [210 d0*] https://www.radiondistics.altervista.org/principale.htm  (206 OK, 9 queued)
+[2026-08-03 17:37:02]   [155 d0*] https://www.radiondistics.altervista.org/rf_lighting_devices/rf-lighting.css  (154 OK, 50 queued)
+[2026-08-03 17:37:03]   [215 d0*] https://www.radiondistics.altervista.org/antonio_meucci.htm  (211 OK, 4 queued)
+[2026-08-03 17:37:05]   [160 d0*] https://www.radiondistics.altervista.org/rf_lighting_devices/img/fluorescent_tube_T12_exited_by_radio_waves.jpg  (159 OK, 45 queued)
+[2026-08-03 17:37:06] WordPress PDF extraction: found 1 PDF(s)
+[2026-08-03 17:37:06]   PDFs: 0 downloaded, 1 cached, 0 failed
+[2026-08-03 17:37:06] Generating index...
+[2026-08-03 17:37:06] Index: 289 files
+[2026-08-03 17:37:06]   .jpg: 114
+[2026-08-03 17:37:06]   .md: 74
+[2026-08-03 17:37:06]   .htm: 54
+[2026-08-03 17:37:06]   .gif: 33
+[2026-08-03 17:37:06]   .pdf: 8
+[2026-08-03 17:37:06]   .html: 2
+[2026-08-03 17:37:06]   .css: 2
+[2026-08-03 17:37:06]   .js: 1
+[2026-08-03 17:37:06]   .png: 1
+[2026-08-03 17:37:06] 
+============================================================
+[2026-08-03 17:37:06] LIVE MIRROR COMPLETE
+[2026-08-03 17:37:06] Downloaded: 219, OK: 215, Failed: 4
+[2026-08-03 17:37:06] Total URLs seen: 219
+[2026-08-03 17:37:06] ------------------------------------------------------------
+[2026-08-03 17:37:06] FRAMESET: this site's content is framed in from 4 off-domain target(s) — NOT included in this mirror:
+[2026-08-03 17:37:06]   → https://player.vimeo.com/video/11655582
+[2026-08-03 17:37:06]   → https://www.unitconverters.net/frequency-wavelength-converter.html
+[2026-08-03 17:37:06]   → https://www.youtube.com/embed/8tF14S7B4yk?si=gh6hIOs5U_i_SSw6
+[2026-08-03 17:37:06]   → https://www.youtube.com/embed/vamlYBTMShU?si=5lysElJtz-XPTmRv
+[2026-08-03 17:37:06] Queue those hosts as their own mirror jobs to capture the content.
+[2026-08-03 17:37:06] ============================================================
+[2026-08-03 17:37:06] 
+Next step: fe-ingest.sh /Users/esaruoho/work/merlib-mirror/sites/www.radiondistics.altervista.org
+[2026-08-03 17:37:07]   [165 d0*] https://www.radiondistics.altervista.org/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js  (163 OK, 43 queued)
+[2026-08-03 17:37:10]   [170 d0*] https://www.radiondistics.altervista.org/images/feynman/fig_c.gif  (167 OK, 38 queued)
+[2026-08-03 17:37:13]   [175 d0*] https://www.radiondistics.altervista.org/hertz/KIT_PI_2013_153_Hertz_125_Years_Propagation_of_Electric_Action.pdf  (171 OK, 33 queued)
+[2026-08-03 17:37:15]   [180 d0*] https://www.radiondistics.altervista.org/photos/apparato_errante_full.gif  (176 OK, 31 queued)
+[2026-08-03 17:37:18]   [185 d0*] https://www.radiondistics.altervista.org/estratti/G5RV/G5RV_review_1985_ocr.pdf  (181 OK, 30 queued)
+[2026-08-03 17:37:20]   [190 d0*] https://www.radiondistics.altervista.org/scientifici_index.htm  (186 OK, 27 queued)
+[2026-08-03 17:37:23]   [195 d0*] https://www.radiondistics.altervista.org/guglielmo_marconi_premio_nobel.htm  (191 OK, 24 queued)
+[2026-08-03 17:37:25]   [200 d0*] https://www.radiondistics.altervista.org/index.html  (196 OK, 19 queued)
+[2026-08-03 17:37:28]   [205 d0*] https://www.radiondistics.altervista.org/graphics/gradient.jpg  (201 OK, 14 queued)
+[2026-08-03 17:37:30]   [210 d0*] https://www.radiondistics.altervista.org/antonio_meucci.htm  (206 OK, 9 queued)
+[2026-08-03 17:37:33]   [215 d0*] https://www.radiondistics.altervista.org/graphics/bottom_left.jpg  (211 OK, 4 queued)
+[2026-08-03 17:37:36] WordPress PDF extraction: found 1 PDF(s)
+[2026-08-03 17:37:36]   PDFs: 0 downloaded, 1 cached, 0 failed
+[2026-08-03 17:37:36] Generating index...
+[2026-08-03 17:37:36] Index: 289 files
+[2026-08-03 17:37:36]   .jpg: 114
+[2026-08-03 17:37:36]   .md: 74
+[2026-08-03 17:37:36]   .htm: 54
+[2026-08-03 17:37:36]   .gif: 33
+[2026-08-03 17:37:36]   .pdf: 8
+[2026-08-03 17:37:36]   .html: 2
+[2026-08-03 17:37:36]   .css: 2
+[2026-08-03 17:37:36]   .js: 1
+[2026-08-03 17:37:36]   .png: 1
+[2026-08-03 17:37:36] 
+============================================================
+[2026-08-03 17:37:36] LIVE MIRROR COMPLETE
+[2026-08-03 17:37:36] Downloaded: 219, OK: 215, Failed: 4
+[2026-08-03 17:37:36] Total URLs seen: 219
+[2026-08-03 17:37:36] ------------------------------------------------------------
+[2026-08-03 17:37:36] FRAMESET: this site's content is framed in from 4 off-domain target(s) — NOT included in this mirror:
+[2026-08-03 17:37:36]   → https://player.vimeo.com/video/11655582
+[2026-08-03 17:37:36]   → https://www.unitconverters.net/frequency-wavelength-converter.html
+[2026-08-03 17:37:36]   → https://www.youtube.com/embed/8tF14S7B4yk?si=gh6hIOs5U_i_SSw6
+[2026-08-03 17:37:36]   → https://www.youtube.com/embed/vamlYBTMShU?si=5lysElJtz-XPTmRv
+[2026-08-03 17:37:36] Queue those hosts as their own mirror jobs to capture the content.
+[2026-08-03 17:37:36] ============================================================
+[2026-08-03 17:37:36] 
+Next step: fe-ingest.sh /Users/esaruoho/work/merlib-mirror/sites/www.radiondistics.altervista.org

@@ -1,0 +1,8 @@
+target: https://www.radiondistics.altervista.org/
+mode: live
+title: RADIONDISTICS - Physics of the radio waves, radio-electrical &amp; radio-electronics engineering - Errante - www.Radiondistics.com
+frame_target: https://player.vimeo.com/video/11655582
+frame_target: https://www.unitconverters.net/frequency-wavelength-converter.html
+frame_target: https://www.youtube.com/embed/8tF14S7B4yk?si=gh6hIOs5U_i_SSw6
+frame_target: https://www.youtube.com/embed/vamlYBTMShU?si=5lysElJtz-XPTmRv
+mirror_date: 2026-08-03T14:37:36Z
