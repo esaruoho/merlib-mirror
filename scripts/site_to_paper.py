@@ -193,14 +193,12 @@ def find_entry(html_pages):
 
 # ── main ────────────────────────────────────────────────────────────────────
 
-def build(site_dir, title=None, author=None, quiet=False):
-    site_dir = os.path.abspath(site_dir)
-    domain = os.path.basename(site_dir.rstrip("/"))
+def collect_html_pages(site_dir):
+    """Every mirrored HTML page, as relpaths, sorted. Skips derived/meta files.
 
-    def say(m):
-        if not quiet:
-            print(m, flush=True)
-
+    Shared with scripts/site_to_allpages.py so both consolidators see exactly
+    the same page set — a page in one and not the other would be a silent gap.
+    """
     html_pages = []
     for root, dirs, files in os.walk(site_dir):
         dirs[:] = [d for d in dirs if d not in ("_paper", "__pycache__") and not d.startswith(".")]
@@ -210,22 +208,24 @@ def build(site_dir, title=None, author=None, quiet=False):
             if os.path.splitext(f)[1].lower() in HTML_EXT:
                 html_pages.append(os.path.relpath(os.path.join(root, f), site_dir))
     html_pages.sort()
+    return html_pages
 
-    if not html_pages:
-        say(f"site_to_paper: no HTML pages under {site_dir} — nothing to consolidate")
-        return None
 
+def reading_order(site_dir, html_pages):
+    """The site's OWN reading order: BFS from the entry page, honouring
+    in-document link order. Returns (entry, order, orphans, parsed, titles).
+
+    Shared with scripts/site_to_allpages.py — the markdown paper and the
+    single-page HTML must present the same sequence, or a reader comparing
+    them finds two different documents.
+    """
     html_set = set(html_pages)
-    say(f"site_to_paper: {domain} — {len(html_pages)} HTML page(s)")
-
-    # Parse every page once.
     parsed, titles = {}, {}
     for rel in html_pages:
         p = parse_page(os.path.join(site_dir, rel))
         parsed[rel] = p
         titles[rel] = clean_title(p.title, rel)
 
-    # Reading order: BFS from the entry page, honouring in-document link order.
     entry = find_entry(html_pages)
     order, seen, queue = [], {entry}, [entry]
     while queue:
@@ -237,6 +237,28 @@ def build(site_dir, title=None, author=None, quiet=False):
                 seen.add(tgt)
                 queue.append(tgt)
     orphans = [p for p in html_pages if p not in seen]
+    return entry, order, orphans, parsed, titles
+
+
+def build(site_dir, title=None, author=None, quiet=False):
+    site_dir = os.path.abspath(site_dir)
+    domain = os.path.basename(site_dir.rstrip("/"))
+
+    def say(m):
+        if not quiet:
+            print(m, flush=True)
+
+    html_pages = collect_html_pages(site_dir)
+
+    if not html_pages:
+        say(f"site_to_paper: no HTML pages under {site_dir} — nothing to consolidate")
+        return None
+
+    html_set = set(html_pages)
+    say(f"site_to_paper: {domain} — {len(html_pages)} HTML page(s)")
+
+    entry, order, orphans, parsed, titles = reading_order(site_dir, html_pages)
+    reachable = set(order)
     say(f"site_to_paper: entry={entry} · reachable={len(order)} · unreached={len(orphans)}")
 
     paper_dir = os.path.join(site_dir, "_paper")
@@ -258,7 +280,7 @@ def build(site_dir, title=None, author=None, quiet=False):
         t = titles[rel]
         md = to_markdown(os.path.join(site_dir, rel))
         slug = f"{i:03d}-{slugify(t, os.path.splitext(os.path.basename(rel))[0])}"
-        reached = rel in seen and rel not in orphans
+        reached = rel in reachable
 
         outlinks = []
         for href in p.links:

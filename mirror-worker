@@ -531,6 +531,22 @@ process_job_file() {
       || log "WARNING: consolidation failed (mirror itself is fine)"
   fi
 
+  # ── longform stage: mirror → ONE readable/printable document ─────────────
+  # The markdown paper above is for grep and for feeding a model. This is the
+  # other shape: allpages.html (+ .pdf) — every page in reading order, images
+  # inline, and every internal "click here to see yet another page" link
+  # rewritten to an in-document anchor. Same reading order as the paper (both
+  # use site_to_paper.reading_order), so they are one document in two shapes.
+  # Never fatal: a longform failure must not fail a good mirror.
+  # FEATURE-CARD >> features/allpages-longform.feature
+  if [[ -f "$REPO_DIR/scripts/site_to_allpages.py" ]]; then
+    log "Consolidating site → longform allpages.html (+PDF)"
+    python3 "$REPO_DIR/scripts/site_to_allpages.py" "$site_dir" \
+        --pdf-max-pages 300 2>&1 \
+      | tee -a "$site_dir/_mirror_worker.log" \
+      || log "WARNING: longform failed (mirror itself is fine)"
+  fi
+
   # Commit and push — unless offline mode. commit_and_push echoes the PR URL
   # to its own log; we re-derive it from the branch for the result.json.
   local pr_url=""
