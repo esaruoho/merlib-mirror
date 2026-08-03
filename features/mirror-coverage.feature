@@ -1,0 +1,129 @@
+# FEATURE CARD — merlib-mirror: is a mirror COMPLETE? measure it, don't assume it
+#
+# WHAT THIS CARD SPAWNS
+#   Codespace  : scripts/mirror_coverage.py · test_amasci_mirror.py ·
+#                MIRROR-AMASCI-PLAN.md
+#   Thinkspace : features/frameset-following.session.md (same session)
+#   Areaspace  : OWNS measurement of mirror completeness and the taxonomy of why
+#                a referenced URL is absent.
+#                MUST NOT touch: the crawl itself, should_skip_url's domain rule,
+#                queue semantics, or any mirrored byte. This tool only READS.
+#
+# RESULT
+#   Feature commit : see git log for scripts/mirror_coverage.py +
+#                    test_amasci_mirror.py + MIRROR-AMASCI-PLAN.md
+#   PR             : direct-push to main (engine infrastructure)
+#   Origin         : Esa, 2026-08-03 — "please write dry-tests on how to get
+#                    william beatty amasci.com/ fully mirrored, cos we need to
+#                    trigger another keelynet.com type page per page analysis via
+#                    email automation using macmini, and for that, we need to
+#                    learn how to mirror the site in full."
+#
+# BACK-LINK: `FEATURE-CARD >> features/mirror-coverage.feature` in
+#            scripts/mirror_coverage.py.
+
+Feature: "Failed: 0" is not evidence of completeness
+
+  A mirror log that says "Failed: 0" reports only that nothing errored. It says
+  nothing about what was never discovered. This repo has been bitten three times
+  by that gap being invisible: the meyl.eu meta-refresh splash, the radiondistics
+  frameset, and amasci.com — which logged "downloaded 1550, failed 0" while
+  holding 7.3% of the static paths Wayback has ever seen for the domain.
+
+  So completeness needs a measurement, not a feeling.
+
+  Background:
+    Given a mirrored site on disk
+
+  @hw-verified
+  Scenario: Internal-link coverage, free and offline
+    When every same-domain URL cited by a mirrored page is resolved through
+         mirror.sanitize_path and checked against the disk
+    Then present / absent counts are reported with the citing page for each miss
+    And no network is touched
+    # cite: scripts/mirror_coverage.py  internal_link_coverage()
+    # verified: amasci.com — 728 pages scanned, 3,262 same-domain URLs cited
+    # mechanism: python3 scripts/mirror_coverage.py sites/<domain>
+
+  @hw-verified
+  Scenario: A raw missing-count is NOT a coverage figure
+    Given a hand-written 1990s site full of genuinely broken hrefs
+    Then absences are classified malformed / dynamic / gap
+    And only 'gap' counts against the mirror
+    # cite: scripts/mirror_coverage.py  classify_missing()
+    # verified: amasci.com — 1,249 of 3,262 cited URLs are MALFORMED (unquoted
+    #           attributes, two hrefs concatenated) and 49 are dynamic. Counting
+    #           them as misses reports 51.4% coverage; the honest figure is 85.4%.
+    #           A 34-point error that would send a re-crawl chasing addresses
+    #           that never existed.
+
+  @hw-verified
+  Scenario: The base scheme is derived, never guessed
+    Then the scheme comes from SOURCE.txt, else from the scheme the site's own
+         absolute self-links use, else http
+    # cite: scripts/mirror_coverage.py  detect_scheme()
+    # verified: amasci.com is HTTP-ONLY — https://amasci.com/ returns 000, no TLS
+    #           at all. My first run hardcoded an https base and reported 59%
+    #           coverage plus a wall of URLError, purely from that assumption.
+    #           Relative links resolve against the base, so this one wrong guess
+    #           invalidates the entire report.
+
+  @hw-verified
+  Scenario: The historical corpus is visible, not just the live one
+    When --wayback is passed
+    Then the CDX inventory is compared against disk, deduped by resolved path
+    # cite: scripts/mirror_coverage.py  wayback_inventory() + the dedupe
+    # CDX collapses on urlkey, which INCLUDES the host — a site served at both
+    # amasci.com and www.amasci.com yields two rows per file, so a raw row count
+    # is ~2x inflated. sanitize_path is host-independent, so dedupe on it.
+    # verified: amasci.com — 22,765 rows → 22,575 distinct paths; 1,394 on disk;
+    #           17,608 absent AND static. ~10,061 HTML pages a live crawl can
+    #           never reach. This is the finding that answers the question.
+
+  @hw-verified
+  Scenario: Absent-but-recoverable is distinguished from absent-and-dead
+    When --live N is passed
+    Then N missing URLs are HEAD-probed and bucketed 2xx / 4xx / error
+    # verified: amasci.com, 60 sampled gaps — 53 dead (404 on Beatty's own
+    #           server), 4 HTTP 300 (Apache MultiViews), 2 live, 1 invalid URL.
+    #           So ~88% of the live gap is unrecoverable and re-crawling buys
+    #           single-digit pages, not a corpus.
+    # LIMIT: this is a 60-of-287 SAMPLE, not the full set. The 88% is an estimate.
+
+  @built
+  Scenario: Exit status is actionable
+    Then exit 1 when a real gap exists, exit 0 otherwise
+    # Keyed on 'gap', not raw absences: a repo full of the source site's broken
+    # hrefs must not fail forever, or a true miss stops being actionable.
+
+  @hw-verified
+  Scenario: The findings are locked as tests, not left in a chat log
+    Then test_amasci_mirror.py asserts the five findings and the measured floors
+    # verified: 25 tests, 20 dry + 5 network-gated behind MERLIB_NET=1; all pass
+    # mechanism: python3 -m unittest test_amasci_mirror -v
+    #            MERLIB_NET=1 python3 -m unittest test_amasci_mirror -v
+    # One test asserts coverage-vs-Wayback stays UNDER 25% — when the historical
+    # backfill succeeds it fails ON PURPOSE, as the signal to update the baseline.
+
+  @todo
+  Scenario: The engine handles HTTP 300 MultiViews instead of dropping it
+    Given Apache content negotiation answering 300 for some paths
+    Then those pages are currently treated as failures and lost without a trace
+    # Measured: 4 of 60 sampled amasci gaps. Small in count, but it is a
+    # SILENT-loss class, which is the category this repo keeps getting hurt by.
+
+  @todo
+  Scenario: Coverage runs as a belt stage
+    Then a mirror job should end by reporting its own coverage
+    # Today the tool is manual. Wiring it into mirror-worker would put a real
+    # completeness number in every PR body, replacing "Failed: 0" as the thing a
+    # reviewer looks at. Not done yet.
+
+  @todo
+  Scenario: Wayback soft-404s are detected
+    Given Wayback's statuscode:200 filter still returns pages that were error
+          pages served with 200
+    Then a backfilled corpus will contain them and site_to_paper will consolidate
+         them as if they were content
+    # Needs a post-pass flagging suspiciously short/duplicate bodies before any
+    # per-page analysis runs. Relevant the moment the amasci backfill happens.
