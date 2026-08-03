@@ -124,10 +124,25 @@ deleted the branches (which auto-closed both PRs).
 - `site_to_paper.py` → `reachable=56 · unreached=0` (was `reachable=55 · unreached=1`).
 - `bash -n mirror-worker` → syntax OK.
 
-Not verified at the time of writing: the end-to-end belt run on the Mini. Jobs were
-queued in `2250f794`; the worker was confirmed alive (heartbeat 51s old, idle,
-pid 77988) but had not yet drained. The card grades the engine scenarios
-`@hw-verified` on the direct crawls above — **not** on the belt run.
+Written before the belt drained: "not verified — the end-to-end belt run on the
+Mini." It has since been verified, so recording the outcome rather than leaving
+the stale caveat standing:
+
+- Queue drained on the Mini (`done` 47 → 49, `failed` stayed at 7 — no new
+  failures). Delivery was git-push → repo-puller → Boot pane worker, no SSH.
+- **PR #52** (altervista): 290 files / 16M at the canonical
+  `sites/radiondistics.altervista.org/`; `sites/www.radiondistics.altervista.org/`
+  count on the branch = **0**, so the `NORMALISED_FROM` fix recorded both halves
+  of the rename in production. `mismatching_simulator.htm` present. Diff vs main
+  was a pure rename plus exactly two new files (`_mirror_worker.log`, the renamed
+  `_paper/…-CONSOLIDATED.md`) — `comm` against main's file list showed **nothing
+  lost**. Merged as `8a3ddbdd`.
+- **PR #53** (.com): committed `SOURCE.txt` carried
+  `frame_target: https://www.radiondistics.altervista.org/`, and the worker log
+  carried the `FRAMESET` block. Correct — then closed anyway on Esa's call, see
+  the follow-up section below.
+
+So the `@hw-verified` grades rest on both the direct crawls *and* the belt run.
 
 ## The lesson worth keeping
 
@@ -137,3 +152,51 @@ and this frameset are the same class: **a page with no `<a>` tags is a page whos
 navigation lives somewhere the extractor isn't looking.** Every future extractor gap
 in this engine will present as a suspiciously small mirror with a clean log. That is
 the thing to be suspicious of.
+
+## Follow-up, same session — the disposition of radiondistics.com
+
+Esa, after the two fresh PRs landed:
+
+> can you close the incomplete PRs
+
+then, immediately:
+
+> why does radiondistincts.com even matter as a PR?
+
+The first message pointed at #49/#50, which were already closed. The second was
+the real question, and it was the right one — I had not asked it myself. I had
+put radiondistics.com through the belt because the belt was the thing under
+test, and never stopped to ask whether a 688-byte `<frameset>` deserves a
+`sites/<domain>/` directory with its own `_paper/CONSOLIDATED.md` of a frameset
+tag. It doesn't.
+
+What I flagged before acting: closing #53 is **not neutral**. Main was still
+carrying the mis-named `sites/www.radiondistics.com/` from the earlier manual
+recovery, and #53 was the thing that would have removed it. Close #53 and do
+nothing else and the stub lingers forever, inconsistent with every other site.
+So the options were genuinely three, not two, and I put them up rather than
+guess.
+
+Esa chose: **close #53, delete the stub from main, record the alias.** And
+**merge #52.**
+
+Done:
+- #52 merged (`8a3ddbdd`). `sites/radiondistics.altervista.org/` is now the
+  canonical path; the mis-named www dir is gone; `mismatching_simulator.htm`
+  is in.
+- #53 closed with the rationale commented, branch deleted.
+- `sites/www.radiondistics.com/` removed from main (5 trivial tracked files).
+- `sites/DOMAIN-ALIASES.md` created — a new convention, because none existed.
+
+One thing I got right by thinking rather than testing: I nearly wrote the alias
+line into the altervista mirror's `SOURCE.txt`. That would have been silently
+destroyed — `write_source_info()` is an idempotent overwrite, "last run wins",
+so the next re-mirror wipes any hand-added line. Hence a separate file the
+engine never touches. Worth remembering as a general rule for this repo:
+**anything under `sites/<domain>/` that the engine generates is not a place to
+put a durable human note.**
+
+One thing I am NOT claiming: that the alias is protected. Nothing stops the belt
+from re-mirroring `radiondistics.com` and recreating the dir; there is no
+skip-list. Graded `@todo` on the card rather than papered over — the belt is
+autonomous and will eventually re-run it.

@@ -90,6 +90,36 @@ Feature: A frameset site cannot mirror as one file and call itself complete
     # This is the point of the feature. The bug was never "1 file is wrong";
     # it was that 1 file was indistinguishable from a complete mirror.
 
+  @built
+  Scenario: A pointer domain is recorded as an alias, not kept as a site dir
+    Given a domain whose entire payload is the address of the real site
+    Then the pointer fact is recorded in sites/DOMAIN-ALIASES.md
+    And no sites/<domain>/ directory is retained for it
+    But the verbatim mirror stays recoverable from git history
+    # cite: sites/DOMAIN-ALIASES.md
+    # Esa, 2026-08-03: "why does radiondistincts.com even matter as a PR?"
+    # It doesn't, as content — 688 bytes of <frameset>, and the belt gave it a
+    # full site dir + _paper/CONSOLIDATED.md of a frameset tag because the belt
+    # treats every job identically. The POINTER is worth keeping (the altervista
+    # site's own titles read "www.Radiondistics.com", so .com is the identity
+    # Errante used and what citations aim at) — but it is one line, not a site.
+    # So: PR #53 closed, sites/www.radiondistics.com/ removed from main, fact
+    # recorded as an alias. Recover the bytes with
+    #   git show eb34f2c4:sites/www.radiondistics.com/index.html
+    # NOT in SOURCE.txt: write_source_info() overwrites it every run, so a
+    # hand-added line there is wiped by the next re-mirror.
+    # KNOWN GAP: nothing stops the belt from re-mirroring a listed alias and
+    # recreating the dir. No skip-list exists yet — see the @todo below.
+
+  @todo
+  Scenario: The belt refuses to create a site dir for a listed alias
+    Given radiondistics.com is listed in sites/DOMAIN-ALIASES.md
+    When someone submits it again
+    Then the job should record/refresh the alias and not build a site dir
+    # Not implemented. Today a resubmit recreates sites/radiondistics.com/ and
+    # the alias entry goes stale. Graded honestly: this is a real hole, not a
+    # nice-to-have, because the belt is autonomous and will eventually re-run it.
+
   @hw-verified
   Scenario: A framed-in page counts as reachable in the consolidated paper
     Given a page reachable only via an iframe from another page
