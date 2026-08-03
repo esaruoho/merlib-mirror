@@ -1,0 +1,20 @@
+{
+  "source": "live",
+  "domain": "www.radiondistics.altervista.org",
+  "mirror_date": "2026-08-03T17:37:36.130462",
+  "total_urls": 0,
+  "downloaded": 289,
+  "failed": 0,
+  "files": 289,
+  "file_types": {
+    ".md": 74,
+    ".pdf": 8,
+    ".htm": 54,
+    ".js": 1,
+    ".gif": 33,
+    ".jpg": 114,
+    ".html": 2,
+    ".css": 2,
+    ".png": 1
+  }
+}
