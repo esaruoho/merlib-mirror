@@ -213,6 +213,11 @@ commit_and_push() {
   # ONLY add files belonging to this job — never git add -A
   if [[ -d "$site_dir" ]]; then
     git add -- "$site_dir"
+    # Record the other half of a www.<domain> → <domain> rename, if one just
+    # happened (set by the normalisation block). Path-scoped, still never -A.
+    if [[ -n "${NORMALISED_FROM:-}" ]]; then
+      git add -- "$NORMALISED_FROM" 2>/dev/null || true
+    fi
   else
     log "WARNING: site dir $site_dir does not exist, nothing to add"
     git checkout main 2>/dev/null
@@ -322,6 +327,10 @@ process_job_file() {
   local job_file="$1"
   local filename
   filename="$(basename "$job_file")"
+
+  # Cleared per job — a rename recorded for one domain must not leak into the
+  # next job's commit.
+  NORMALISED_FROM=""
 
   # Extract fields from the .job file
   local target domain mode path_filter ts_to label offline to_syncthing
@@ -495,9 +504,17 @@ process_job_file() {
      && [[ -d "$output_dir/www.$domain" ]]; then
     log "Normalising output dir: www.$domain → $domain"
     mkdir -p "$site_dir"
-    ( cd "$output_dir/www.$domain" && tar cf - . ) | ( cd "$site_dir" && tar xf - ) \
-      && rm -rf "$output_dir/www.$domain" \
-      && log "Normalised ($(find "$site_dir" -type f | wc -l | tr -d ' ') files)"
+    if ( cd "$output_dir/www.$domain" && tar cf - . ) | ( cd "$site_dir" && tar xf - ); then
+      rm -rf "$output_dir/www.$domain"
+      # The www. dir may be TRACKED (an earlier buggy run committed it under
+      # that name). rm -rf leaves the deletion unstaged, and commit_and_push
+      # only stages "$site_dir" — so the rename would be half-recorded: the
+      # PR adds the canonical path but never drops the stale one, leaving a
+      # duplicate on main and phantom deletions for the repo-puller to fight.
+      # Hand the old path to commit_and_push so both halves land in one commit.
+      NORMALISED_FROM="$output_dir/www.$domain"
+      log "Normalised ($(find "$site_dir" -type f | wc -l | tr -d ' ') files)"
+    fi
   fi
 
   # ── consolidation stage: mirror → ONE cohesive paper ─────────────────────
