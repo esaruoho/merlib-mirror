@@ -36,6 +36,7 @@ import collections
 import json
 import os
 import sys
+import time
 import urllib.parse
 import urllib.request
 
@@ -208,15 +209,64 @@ def internal_link_coverage(site_dir, host=None, scheme=None):
             "dynamic": buckets["dynamic"]}
 
 
-def wayback_inventory(domain, limit=200000, timeout=180):
-    """Every URL the Wayback Machine ever saw for this domain (deduped)."""
+CACHE_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+                         ".cache")
+
+
+def wayback_inventory(domain, limit=200000, timeout=180, retries=3,
+                      use_cache=True, max_age_hours=24):
+    """Every URL the Wayback Machine ever saw for this domain (deduped).
+
+    Cached on disk and guarded against PARTIAL responses, because CDX is flaky
+    under repeated calls — it returned a truncated list and then a 504 while this
+    tool was being written. A truncated inventory is worse than an error: it makes
+    the archive look BETTER covered than it is, silently. (Measured: one call
+    yielded 208 HTML paths where the true figure is 10,061 — a 50x under-report
+    that would have read as "we're nearly done".)
+
+    So: cache first, retry with backoff, and refuse to accept a fresh response
+    that is drastically smaller than one we have already seen.
+    """
+    os.makedirs(CACHE_DIR, exist_ok=True)
+    cache = os.path.join(CACHE_DIR, f"cdx-{domain}.txt")
+    cached = None
+    if os.path.exists(cache):
+        cached = sorted({ln.strip() for ln in open(cache, errors="replace")
+                         if ln.strip()})
+        age_h = (time.time() - os.path.getmtime(cache)) / 3600.0
+        if use_cache and age_h < max_age_hours:
+            return cached
+
     q = ("https://web.archive.org/cdx/search/cdx"
          f"?url={urllib.parse.quote(domain)}/*&output=text&fl=original"
          f"&collapse=urlkey&filter=statuscode:200&limit={limit}")
-    req = urllib.request.Request(q, headers={"User-Agent": "merlib-mirror/coverage"})
-    with urllib.request.urlopen(req, timeout=timeout) as r:
-        body = r.read().decode("utf-8", errors="replace")
-    return sorted({ln.strip() for ln in body.splitlines() if ln.strip()})
+    last = None
+    for attempt in range(retries):
+        try:
+            req = urllib.request.Request(
+                q, headers={"User-Agent": "merlib-mirror/coverage"})
+            with urllib.request.urlopen(req, timeout=timeout) as r:
+                body = r.read().decode("utf-8", errors="replace")
+            fresh = sorted({ln.strip() for ln in body.splitlines() if ln.strip()})
+            if not fresh:
+                raise ValueError("CDX returned an empty inventory")
+            # Partial-response guard.
+            if cached and len(fresh) < len(cached) * 0.5:
+                raise ValueError(
+                    f"CDX returned {len(fresh):,} rows but a previous run saw "
+                    f"{len(cached):,} — treating as a TRUNCATED response")
+            with open(cache, "w") as fh:
+                fh.write("\n".join(fresh) + "\n")
+            return fresh
+        except Exception as e:  # HTTP 504/429, socket timeout, truncation
+            last = e
+            if attempt < retries - 1:
+                time.sleep(5 * (attempt + 1))
+    if cached:
+        # Better a known-good stale inventory than a silent under-report.
+        return cached
+    raise RuntimeError(f"CDX unavailable after {retries} attempts: "
+                       f"{type(last).__name__}: {last}")
 
 
 def live_probe(urls, timeout=15):
@@ -244,6 +294,12 @@ def main():
     ap.add_argument("--scheme", default=None, choices=["http", "https"],
                     help="base scheme (default: auto-detect; see detect_scheme)")
     ap.add_argument("--wayback", action="store_true", help="also fetch the CDX inventory")
+    ap.add_argument("--probe-wayback", type=int, default=0, metavar="N",
+                    help="with --wayback: HEAD N Wayback-only paths against the LIVE "
+                         "server, splitting fetch-from-live from fetch-from-wayback")
+    ap.add_argument("--seed-list", default=None, metavar="PATH",
+                    help="write the still-live Wayback-only URLs here, as a seed "
+                         "list for a LIVE crawl")
     ap.add_argument("--live", type=int, default=0, metavar="N",
                     help="HEAD-probe N missing URLs to split recoverable from dead")
     ap.add_argument("--json", default=None, metavar="PATH", help="write full report")
@@ -354,6 +410,46 @@ def main():
                                  "absent": len(missing_paths),
                                  "absent_static": len(static),
                                  "static_urls": sorted(static.values())[:8000]}
+
+            # Wayback's real first job is URL DISCOVERY, not content. BFS from the
+            # entry page cannot reach a page nothing links to — amasci.com/refs.html
+            # (Beaty's own résumé, at the site root) is live right now and was never
+            # found by link-following. So: take the paths Wayback knows and we lack,
+            # ask the LIVE server about them, and split into
+            #   fetch-from-live  (still up — canonical, current, no Wayback cruft)
+            #   fetch-from-wayback (gone — Wayback is the only source left)
+            if a.probe_wayback:
+                urls = sorted(static.values())
+                n = min(a.probe_wayback, len(urls))
+                # Even stride rather than the first N, so the sample isn't biased
+                # toward whatever sorts first (all of /amateur/, say).
+                step = max(1, len(urls) // n)
+                sample = urls[::step][:n]
+                print(f"\n== probing {len(sample)} Wayback-only path(s) against the "
+                      f"LIVE server ==")
+                res = live_probe([u.replace("https://", "http://", 1) for u in sample])
+                live_now = [u for u, v in res.items()
+                            if isinstance(v, int) and 200 <= v < 300]
+                dead_now = [u for u, v in res.items() if u not in live_now]
+                pct = 100.0 * len(live_now) / len(sample) if sample else 0.0
+                print(f"    still LIVE (fetch from live)   {len(live_now):>5}  "
+                      f"({pct:.0f}%)")
+                print(f"    gone (Wayback is the only way) {len(dead_now):>5}")
+                print(f"\n  Extrapolated over all {len(urls):,} Wayback-only static "
+                      f"paths:\n    ~{int(len(urls) * pct / 100):,} may still be "
+                      f"fetchable LIVE — pages link-following never found.")
+                if live_now:
+                    print("  examples:")
+                    for u in live_now[:6]:
+                        print(f"    {u}")
+                report["wayback"]["probe"] = {
+                    "sampled": len(sample), "live": sorted(live_now),
+                    "dead": sorted(dead_now), "live_pct": pct}
+                if a.seed_list:
+                    with open(a.seed_list, "w") as fh:
+                        fh.write("\n".join(sorted(live_now)) + "\n")
+                    print(f"\n  wrote {len(live_now)} live URL(s) to {a.seed_list}"
+                          " — feed these to a LIVE crawl, not Wayback")
         except Exception as e:
             print(f"  CDX fetch failed: {type(e).__name__}: {e}")
 

@@ -26,6 +26,11 @@ mirror it in full" is really "how do we get from 728 pages to the whole corpus".
 cannot finish this job no matter how well it is tuned — roughly 10,000 HTML pages
 of Beatty's writing exist only in the Wayback Machine.
 
+Tested, not assumed: 60 random Wayback-only HTML paths, HEADed against the live
+server — **57 returned 404, 3 returned 200.** The pages are gone from Beatty's
+own server, not merely undiscovered. But see Phase 1b: that live 5% is real, and
+Wayback earns its place as a URL *index* even for pages you then fetch live.
+
 The 2026-03-05 run logged `downloaded 1550, failed 0`. That was true and
 meaningless: "failed 0" reports that nothing errored, never that anything was
 found. Same lesson as the meyl.eu splash page and the radiondistics frameset.
@@ -144,7 +149,39 @@ Expect ~2 recovered pages plus whatever Beatty has added since 2026-03-05. The
 real reason to run it is that the engine now follows frames and will emit
 `allpages.html` + the per-page markdown.
 
-### Phase 2 — Wayback backfill (this is the actual job)
+### Phase 1b — Wayback as an INDEX, fetched from the LIVE server
+
+**"Why use Wayback when amasci is online right now?"** — the right question, and it
+splits Wayback's job in two. Wayback is a **URL index** as well as a content store,
+and the index part is useful *even for pages you then fetch live*: BFS from the
+entry page cannot reach a page nothing links to.
+
+Measured proof — `http://amasci.com/refs.html` (William Beaty's own résumé, at the
+site root) is **live right now**, absent from our mirror, and was never discovered
+by link-following because nothing surviving links to it. Same for
+`weird/unusual/blll.html` and `tesla/tespics.html`.
+
+```sh
+python3 scripts/mirror_coverage.py sites/amasci.com --wayback \
+        --probe-wayback 200 --seed-list amasci-live-seeds.txt
+```
+
+That HEADs Wayback-only paths against the live server and splits them:
+
+| | 60-path sample | extrapolated over 17,608 |
+|---|---|---|
+| still LIVE → **fetch from live** | 3 (5%) | ~880, minus junk paths |
+| gone → Wayback is the only source | 57 (95%) | ~16,700 |
+
+Fetch the seed list from the **live** server: canonical bytes, current content, no
+Wayback toolbar to strip, no CDX rate limits. Only go to Wayback for what is
+actually gone.
+
+*(Caveat: one of the three "live" hits was `http://www.amasci.com/%20` — a junk
+path, not a page. The real live yield is a bit under 5%, so treat ~880 as a
+ceiling. `classify_missing` does not currently reject whitespace-only paths.)*
+
+### Phase 2 — Wayback backfill for the ~95% that are genuinely gone
 
 ```sh
 ./mirror-submit amasci.com                  # bare domain ⇒ wayback mode
@@ -195,6 +232,22 @@ automation at it. `allpages.html` / `allpages.pdf` are the human-readable
 counterpart (the longform stage skips the PDF above 300 pages and says so).
 
 ---
+
+## Wayback CDX is flaky, and a truncated response lies in the safe direction
+
+While writing this, one CDX call returned **208** HTML paths where the true figure
+is **10,061** — a 50× under-report — and the next call returned `HTTP 504`. A
+truncated inventory is worse than an error: it makes the archive look *better*
+covered than it is, silently. Same failure class as `Failed: 0`.
+
+`wayback_inventory()` now caches to `.cache/cdx-<domain>.txt` (gitignored, 24 h),
+retries with backoff, and **refuses a fresh response less than half the size of one
+it has already seen**, falling back to the known-good cached copy. The tests skip
+rather than fail when CDX is unreachable, so a Wayback outage never reads as a
+finding about amasci.
+
+Verified stable across repeated calls once cached: 22,765 rows, 7,471 `.html`,
+2,702 `.htm`.
 
 ## Honest limits of this analysis
 

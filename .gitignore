@@ -37,3 +37,6 @@ offline/
 .DS_Store
 __pycache__/
 .env
+
+# Wayback CDX inventory cache (per-machine, re-fetchable)
+.cache/

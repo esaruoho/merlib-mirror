@@ -90,6 +90,40 @@ Feature: "Failed: 0" is not evidence of completeness
     #           single-digit pages, not a corpus.
     # LIMIT: this is a 60-of-287 SAMPLE, not the full set. The 88% is an estimate.
 
+  @hw-verified
+  Scenario: Wayback is a URL INDEX, not only a content store
+    Given a page nothing surviving links to
+    Then BFS from the entry page can never find it, however well tuned
+    And --probe-wayback splits Wayback-only paths into fetch-from-LIVE and
+        fetch-from-Wayback, and --seed-list writes the live ones out
+    # Esa, 2026-08-03: "why use wayback for amasci when amasci is online right now?"
+    # Correct question, and it splits Wayback's job in two.
+    # verified: amasci.com/refs.html — William Beaty's own résumé, at the SITE
+    #           ROOT — is live right now (HTTP 200), absent from our mirror, and
+    #           was never discovered by link-following. Also weird/unusual/blll.html
+    #           and tesla/tespics.html.
+    # verified: 60 Wayback-only HTML paths HEADed against the LIVE server →
+    #           57x 404, 3x 200. So ~95% really are gone from Beatty's server
+    #           (Wayback is the only source), but the live 5% is real and should
+    #           be fetched LIVE — canonical bytes, no toolbar to strip, no CDX
+    #           rate limits. One of the 3 was junk (/%20), so 5% is a ceiling.
+    # mechanism: python3 scripts/mirror_coverage.py sites/amasci.com --wayback \
+    #              --probe-wayback 200 --seed-list amasci-live-seeds.txt
+
+  @hw-verified
+  Scenario: A truncated CDX response is refused, not believed
+    Given Wayback CDX is flaky under repeated calls
+    When a fresh inventory is less than half the size of one already seen
+    Then it is rejected as truncated and the cached known-good copy is used
+    And the inventory is cached 24h in .cache/ with retry + backoff
+    And the tests SKIP rather than fail when CDX is unreachable
+    # cite: scripts/mirror_coverage.py  wayback_inventory()
+    # verified the hazard for real: one call returned 208 HTML paths where the
+    #          true figure is 10,061 — a 50x under-report — and the next returned
+    #          HTTP 504. A truncated inventory is WORSE than an error: it makes
+    #          the archive look BETTER covered than it is. Same failure class as
+    #          "Failed: 0". Stable once cached: 22,765 rows / 7,471 .html.
+
   @built
   Scenario: Exit status is actionable
     Then exit 1 when a real gap exists, exit 0 otherwise

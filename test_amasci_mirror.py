@@ -256,8 +256,16 @@ class TestAmasciHistoricalCorpus(unittest.TestCase):
     this job", which is the actual answer to 'how do we mirror it in full'.
     """
 
+    def _inventory(self):
+        """CDX is flaky (504s, truncated responses). An unavailable index is not
+        a failed assertion — skip rather than report a false negative."""
+        try:
+            return mc.wayback_inventory("amasci.com")
+        except Exception as e:
+            self.skipTest(f"Wayback CDX unavailable: {type(e).__name__}: {e}")
+
     def test_wayback_holds_far_more_than_the_live_site(self):
-        inv = mc.wayback_inventory("amasci.com")
+        inv = self._inventory()
         self.assertGreater(len(inv), 20000)
 
         present, missing = set(), {}
@@ -277,6 +285,52 @@ class TestAmasciHistoricalCorpus(unittest.TestCase):
         self.assertLess(pct, 25.0,
                         f"coverage vs Wayback is {pct:.1f}% — if this improved a lot, "
                         "the historical backfill has been done; update the baseline")
+
+    def test_wayback_only_pages_are_mostly_GONE_from_the_live_server(self):
+        """Answers "why Wayback when amasci is online right now?" with a probe.
+
+        Not an assumption: 60 Wayback-only HTML paths HEADed against the live
+        server returned 57x 404 and 3x 200. The pages are deleted from Beatty's
+        own server after 25 years, so live crawling cannot reach them however
+        well it is tuned. Asserted as a majority, not an exact count, since the
+        live site can change.
+        """
+        inv = self._inventory()
+        absent = {}
+        for url in inv:
+            lp = mirror.sanitize_path(url)
+            full = os.path.join(SITE, lp)
+            if not (os.path.exists(full) and os.path.getsize(full) > 0):
+                absent.setdefault(lp, url)
+        html_only = sorted(u for lp, u in absent.items()
+                           if lp.lower().endswith((".html", ".htm"))
+                           and mc.classify_missing(u) == "gap")
+        self.assertGreater(len(html_only), 2000)
+
+        step = max(1, len(html_only) // 40)
+        sample = [u.replace("https://", "http://", 1) for u in html_only[::step][:40]]
+        res = mc.live_probe(sample)
+        live = [u for u, v in res.items() if isinstance(v, int) and 200 <= v < 300]
+        self.assertLess(len(live), len(sample) * 0.5,
+                        "most Wayback-only pages turned out to be LIVE — the corpus "
+                        "is reachable by live crawling after all; revisit the plan")
+
+    def test_but_some_wayback_only_pages_ARE_live_so_wayback_is_also_an_index(self):
+        """The other half of the same answer, and the reason Phase 1b exists.
+
+        amasci.com/refs.html — Beaty's résumé, at the site root — is live now and
+        absent from our mirror, because nothing surviving links to it and BFS
+        therefore cannot find it. So Wayback earns its keep as a URL INDEX even
+        for pages we then fetch from the live server.
+        """
+        import urllib.request
+        req = urllib.request.Request("http://amasci.com/refs.html", method="HEAD",
+                                     headers={"User-Agent": "merlib-mirror/test"})
+        with urllib.request.urlopen(req, timeout=20) as r:
+            self.assertEqual(r.status, 200)
+        self.assertFalse(os.path.exists(os.path.join(SITE, "refs.html")),
+                         "refs.html is now mirrored — the orphan-discovery gap is "
+                         "closed for it; update this test")
 
 
 if __name__ == "__main__":
