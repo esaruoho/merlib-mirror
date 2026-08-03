@@ -2,4 +2,4 @@ target: https://www.radiondistics.com/
 mode: live
 title: Radiondistics - Physics of the radio waves, radio-electrical & radio-electronics engineering - Errante - www.Radiondistics.com
 frame_target: https://www.radiondistics.altervista.org/
-mirror_date: 2026-08-03T13:06:48Z
+mirror_date: 2026-08-03T14:38:57Z
