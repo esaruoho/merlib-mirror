@@ -3,12 +3,12 @@ title: "www.radiondistics.altervista.org — consolidated site corpus"
 source_domain: www.radiondistics.altervista.org
 source_url: https://www.radiondistics.altervista.org/
 author_of_source: unattributed — see site
-generated: 2026-07-29T14:15:59Z
+generated: 2026-08-03T13:07:36Z
 generator: merlib-mirror/scripts/site_to_paper.py
-pages_total: 55
-pages_reachable_from_entry: 55
+pages_total: 56
+pages_reachable_from_entry: 56
 pages_unreached: 0
-body_chars: 1163049
+body_chars: 1163231
 type: consolidated-site-corpus
 status: MACHINE-GENERATED consolidation of a mirror — not an analysis, not a deep-read
 ---
@@ -18,7 +18,7 @@ status: MACHINE-GENERATED consolidation of a mirror — not an analysis, not a d
 ## Provenance and honesty note
 
 This document is a **mechanical consolidation** of the mirrored site `www.radiondistics.altervista.org`
-(55 HTML pages, 1,163,049 characters of extracted body text).
+(56 HTML pages, 1,163,231 characters of extracted body text).
 It exists so the corpus can be read and synthesised as ONE text instead of N
 scattered pages. It is **not** an analysis and carries no judgement about the
 content's correctness.
@@ -27,7 +27,7 @@ content's correctness.
 - Extraction: `pandoc html->gfm`
 - Reading order: breadth-first from `index.htm`, following each page's links in
   document order — the site's own sequence, not alphabetical filenames.
-- Pages reached from the entry page: **55**.
+- Pages reached from the entry page: **56**.
 - Pages NOT reached (orphans — no inbound link found): **0**.
 - Images are referenced by their mirrored relative paths, not inlined.
 
@@ -72,22 +72,23 @@ content's correctness.
 37. [RIVELATORE PASSIVO DI RADIAZIONE HERTZIANA A FLUORESCENZA DA IONIZZAZIONE SECONDARIA - Radioluminescenza](#037-rivelatore-passivo-di-radiazione-hertziana-a-fluorescenza-da-ionizzazione-second) — `detector_it.htm` · 21,893 chars · 18 img
 38. [RICHARD FEYNMAN - Nobel Lecture, December1965](#038-richard-feynman-nobel-lecture-december1965) — `richard_feynman_nobel_lecture.htm` · 77,282 chars · 31 img
 39. [RADIATING SISTEMS WHERE ELEMENTS INTERFERE WHITH EACH OTHER FIELDS - SELF-ANTAGONIST SYSTEMS](#039-radiating-sistems-where-elements-interfere-whith-each-other-fields-self-antagoni) — `self_antagonist.htm` · 13,279 chars · 12 img
-40. [TRANSMISSION LINE CALCULATOR © 2000 Michael A. Lee and Kevin E. Schmidt](#040-transmission-line-calculator-2000-michael-a-lee-and-kevin-e-schmidt) — `tlc.htm` · 8,728 chars · 10 img
-41. [Reginald Fessenden and Guglielmo Marconi, the history of radio.](#041-reginald-fessenden-and-guglielmo-marconi-the-history-of-radio) — `fessenden_marconi_radio_differences.htm` · 56,652 chars · 16 img
-42. [GENERATORE di NODO di TERRA VIRTUALE per linee bilanciate © 2008 Francesco Errante](#042-generatore-di-nodo-di-terra-virtuale-per-linee-bilanciate-2008-francesco-errante) — `bvgng_it.htm` · 17,480 chars · 19 img
-43. [GENERATORE di NODO di TERRA VIRTUALE in linea © 2007 Francesco Errante](#043-generatore-di-nodo-di-terra-virtuale-in-linea-2007-francesco-errante) — `vgng_it.htm` · 18,435 chars · 15 img
-44. [ATTREZZATURE DIDATTICHE - PRODOTTI SCIENTIFICI - RADIAZIONI TRASDUTTORI RADIOELETTRICI](#044-attrezzature-didattiche-prodotti-scientifici-radiazioni-trasduttori-radioelettri) — `apparato_errante.htm` · 17,568 chars · 20 img
-45. [BALUN ROSMETRICO CON TERRA VIRTUALE PER DIPOLO APERTO © 2003 Francesco Errante](#045-balun-rosmetrico-con-terra-virtuale-per-dipolo-aperto-2003-francesco-errante) — `balun_rosmetrico.htm` · 8,062 chars · 11 img
-46. [BALUN CON TERRA VIRTUALE PER LO SDOPPIAMENTO DEL DIPOLO RIPIEGATO A ½ ONDA](#046-balun-con-terra-virtuale-per-lo-sdoppiamento-del-dipolo-ripiegato-a-12-onda) — `balun_300_it.htm` · 22,295 chars · 19 img
-47. [ATTREZZATURE DIDATTICHE SCIENTIFICHE TECNICHE PRODOTTI ARTICOLI MATERIALI DIDATTICI FISICA SCIENZE](#047-attrezzature-didattiche-scientifiche-tecniche-prodotti-articoli-materiali-didatt) — `distributori.htm` · 11,026 chars · 10 img
-48. [Sistema d'antenna MULTIBANDA per le HF con radiatore a 225 Ohm © 2009 Francesco Errante - www.Radiondistics.com](#048-sistema-dantenna-multibanda-per-le-hf-con-radiatore-a-225-ohm-2009-francesco-err) — `multibanda.htm` · 16,986 chars · 17 img
-49. [BALUN UNIVERSALE CON TERRA VIRTUALE PER DIPOLO © 2003 Francesco Errante](#049-balun-universale-con-terra-virtuale-per-dipolo-2003-francesco-errante) — `balun_errante_it.htm` · 26,514 chars · 26 img
-50. [Antenna TURNSTILE HF, dipolo a croce, quadripolo - Pilota a larga banda © 2008 Francesco Errante - Radiondistics.com](#050-antenna-turnstile-hf-dipolo-a-croce-quadripolo-pilota-a-larga-banda-2008-frances) — `quadripolo.htm` · 14,405 chars · 14 img
-51. [SISTEMI RADIANTI AUTO-ANTAGONISTI - SISTEMI RADIANTI IMPROPRII - Radiondistics.com](#051-sistemi-radianti-auto-antagonisti-sistemi-radianti-improprii-radiondisticscom) — `sistemi_autoantagonisti.htm` · 11,252 chars · 12 img
-52. [RF LIGHTING DEVICES, RFLD, HELUs, RF powered fluorescent tubes, high efficiency light sources, RF-LIGHTING.com](#052-rf-lighting-devices-rfld-helus-rf-powered-fluorescent-tubes-high-efficiency-ligh) — `rf_lighting_devices/index.html` · 26,629 chars · 3 img
-53. [Apparecchi di illuminazione ad altissima efficienza luminosa a radio onde - RF-LIGHTING.com](#053-apparecchi-di-illuminazione-ad-altissima-efficienza-luminosa-a-radio-onde-rf-lig) — `rf_lighting_devices/index_it.htm` · 29,170 chars · 3 img
-54. [RF LIGHTING DEVICES, RFLD, HELUs, RF powered fluorescent tubes, high efficiency light sources, RF-LIGHTING.com](#054-rf-lighting-devices-rfld-helus-rf-powered-fluorescent-tubes-high-efficiency-ligh) — `rf_lighting_devices/contact.htm` · 4,470 chars · 3 img
-55. [Radio frequency noise from high energy efficiency fluorescent lights ballasts](#055-radio-frequency-noise-from-high-energy-efficiency-fluorescent-lights-ballasts) — `rf_lighting_devices/radio_interference_from_high_efficiency_fluorescent_lights.htm` · 3,649 chars · 1 img
+40. [© 2003 Francesco Errante](#040-2003-francesco-errante) — `mismatching_simulator.htm` · 182 chars
+41. [TRANSMISSION LINE CALCULATOR © 2000 Michael A. Lee and Kevin E. Schmidt](#041-transmission-line-calculator-2000-michael-a-lee-and-kevin-e-schmidt) — `tlc.htm` · 8,728 chars · 10 img
+42. [Reginald Fessenden and Guglielmo Marconi, the history of radio.](#042-reginald-fessenden-and-guglielmo-marconi-the-history-of-radio) — `fessenden_marconi_radio_differences.htm` · 56,652 chars · 16 img
+43. [GENERATORE di NODO di TERRA VIRTUALE per linee bilanciate © 2008 Francesco Errante](#043-generatore-di-nodo-di-terra-virtuale-per-linee-bilanciate-2008-francesco-errante) — `bvgng_it.htm` · 17,480 chars · 19 img
+44. [GENERATORE di NODO di TERRA VIRTUALE in linea © 2007 Francesco Errante](#044-generatore-di-nodo-di-terra-virtuale-in-linea-2007-francesco-errante) — `vgng_it.htm` · 18,435 chars · 15 img
+45. [ATTREZZATURE DIDATTICHE - PRODOTTI SCIENTIFICI - RADIAZIONI TRASDUTTORI RADIOELETTRICI](#045-attrezzature-didattiche-prodotti-scientifici-radiazioni-trasduttori-radioelettri) — `apparato_errante.htm` · 17,568 chars · 20 img
+46. [BALUN ROSMETRICO CON TERRA VIRTUALE PER DIPOLO APERTO © 2003 Francesco Errante](#046-balun-rosmetrico-con-terra-virtuale-per-dipolo-aperto-2003-francesco-errante) — `balun_rosmetrico.htm` · 8,062 chars · 11 img
+47. [BALUN CON TERRA VIRTUALE PER LO SDOPPIAMENTO DEL DIPOLO RIPIEGATO A ½ ONDA](#047-balun-con-terra-virtuale-per-lo-sdoppiamento-del-dipolo-ripiegato-a-12-onda) — `balun_300_it.htm` · 22,295 chars · 19 img
+48. [ATTREZZATURE DIDATTICHE SCIENTIFICHE TECNICHE PRODOTTI ARTICOLI MATERIALI DIDATTICI FISICA SCIENZE](#048-attrezzature-didattiche-scientifiche-tecniche-prodotti-articoli-materiali-didatt) — `distributori.htm` · 11,026 chars · 10 img
+49. [Sistema d'antenna MULTIBANDA per le HF con radiatore a 225 Ohm © 2009 Francesco Errante - www.Radiondistics.com](#049-sistema-dantenna-multibanda-per-le-hf-con-radiatore-a-225-ohm-2009-francesco-err) — `multibanda.htm` · 16,986 chars · 17 img
+50. [BALUN UNIVERSALE CON TERRA VIRTUALE PER DIPOLO © 2003 Francesco Errante](#050-balun-universale-con-terra-virtuale-per-dipolo-2003-francesco-errante) — `balun_errante_it.htm` · 26,514 chars · 26 img
+51. [Antenna TURNSTILE HF, dipolo a croce, quadripolo - Pilota a larga banda © 2008 Francesco Errante - Radiondistics.com](#051-antenna-turnstile-hf-dipolo-a-croce-quadripolo-pilota-a-larga-banda-2008-frances) — `quadripolo.htm` · 14,405 chars · 14 img
+52. [SISTEMI RADIANTI AUTO-ANTAGONISTI - SISTEMI RADIANTI IMPROPRII - Radiondistics.com](#052-sistemi-radianti-auto-antagonisti-sistemi-radianti-improprii-radiondisticscom) — `sistemi_autoantagonisti.htm` · 11,252 chars · 12 img
+53. [RF LIGHTING DEVICES, RFLD, HELUs, RF powered fluorescent tubes, high efficiency light sources, RF-LIGHTING.com](#053-rf-lighting-devices-rfld-helus-rf-powered-fluorescent-tubes-high-efficiency-ligh) — `rf_lighting_devices/index.html` · 26,629 chars · 3 img
+54. [Apparecchi di illuminazione ad altissima efficienza luminosa a radio onde - RF-LIGHTING.com](#054-apparecchi-di-illuminazione-ad-altissima-efficienza-luminosa-a-radio-onde-rf-lig) — `rf_lighting_devices/index_it.htm` · 29,170 chars · 3 img
+55. [RF LIGHTING DEVICES, RFLD, HELUs, RF powered fluorescent tubes, high efficiency light sources, RF-LIGHTING.com](#055-rf-lighting-devices-rfld-helus-rf-powered-fluorescent-tubes-high-efficiency-ligh) — `rf_lighting_devices/contact.htm` · 4,470 chars · 3 img
+56. [Radio frequency noise from high energy efficiency fluorescent lights ballasts](#056-radio-frequency-noise-from-high-energy-efficiency-fluorescent-lights-ballasts) — `rf_lighting_devices/radio_interference_from_high_efficiency_fluorescent_lights.htm` · 3,649 chars · 1 img
 
 
 ---
@@ -11949,7 +11950,20 @@ www.Radiondistics.com - Tel.(+39) 339.180.1313</td>
 
 ---
 
-## 040-transmission-line-calculator-2000-michael-a-lee-and-kevin-e-schmidt
+## 040-2003-francesco-errante
+
+### © 2003 Francesco Errante
+
+*Mirrored page: `mismatching_simulator.htm`*
+
+|                                                          |
+|:--------------------------------------------------------:|
+| This experiment requires a **Java**-enabled Web Browser. |
+
+
+---
+
+## 041-transmission-line-calculator-2000-michael-a-lee-and-kevin-e-schmidt
 
 ### TRANSMISSION LINE CALCULATOR © 2000 Michael A. Lee and Kevin E. Schmidt
 
@@ -12068,7 +12082,7 @@ www.Radiondistics.com - Tel.(+39) 339.180.1313</td>
 
 ---
 
-## 041-reginald-fessenden-and-guglielmo-marconi-the-history-of-radio
+## 042-reginald-fessenden-and-guglielmo-marconi-the-history-of-radio
 
 ### Reginald Fessenden and Guglielmo Marconi, the history of radio.
 
@@ -12472,7 +12486,7 @@ www.Radiondistics.com - Tel.(+39) 339.180.1313</td>
 
 ---
 
-## 042-generatore-di-nodo-di-terra-virtuale-per-linee-bilanciate-2008-francesco-errante
+## 043-generatore-di-nodo-di-terra-virtuale-per-linee-bilanciate-2008-francesco-errante
 
 ### GENERATORE di NODO di TERRA VIRTUALE per linee bilanciate © 2008 Francesco Errante
 
@@ -12788,7 +12802,7 @@ www.Radiondistics.com - Tel.(+39) 339.180.1313</td>
 
 ---
 
-## 043-generatore-di-nodo-di-terra-virtuale-in-linea-2007-francesco-errante
+## 044-generatore-di-nodo-di-terra-virtuale-in-linea-2007-francesco-errante
 
 ### GENERATORE di NODO di TERRA VIRTUALE in linea © 2007 Francesco Errante
 
@@ -13105,7 +13119,7 @@ www.Radiondistics.com - Tel.(+39) 339.180.1313</td>
 
 ---
 
-## 044-attrezzature-didattiche-prodotti-scientifici-radiazioni-trasduttori-radioelettri
+## 045-attrezzature-didattiche-prodotti-scientifici-radiazioni-trasduttori-radioelettri
 
 ### ATTREZZATURE DIDATTICHE - PRODOTTI SCIENTIFICI - RADIAZIONI TRASDUTTORI RADIOELETTRICI
 
@@ -13384,7 +13398,7 @@ www.Radiondistics.com - Tel.(+39) 339.180.1313</td>
 
 ---
 
-## 045-balun-rosmetrico-con-terra-virtuale-per-dipolo-aperto-2003-francesco-errante
+## 046-balun-rosmetrico-con-terra-virtuale-per-dipolo-aperto-2003-francesco-errante
 
 ### BALUN ROSMETRICO CON TERRA VIRTUALE PER DIPOLO APERTO © 2003 Francesco Errante
 
@@ -13530,7 +13544,7 @@ www.Radiondistics.com - Tel.(+39) 339.180.1313</td>
 
 ---
 
-## 046-balun-con-terra-virtuale-per-lo-sdoppiamento-del-dipolo-ripiegato-a-12-onda
+## 047-balun-con-terra-virtuale-per-lo-sdoppiamento-del-dipolo-ripiegato-a-12-onda
 
 ### BALUN CON TERRA VIRTUALE PER LO SDOPPIAMENTO DEL DIPOLO RIPIEGATO A ½ ONDA
 
@@ -13857,7 +13871,7 @@ www.Radiondistics.com - Tel.(+39) 339.180.1313</td>
 
 ---
 
-## 047-attrezzature-didattiche-scientifiche-tecniche-prodotti-articoli-materiali-didatt
+## 048-attrezzature-didattiche-scientifiche-tecniche-prodotti-articoli-materiali-didatt
 
 ### ATTREZZATURE DIDATTICHE SCIENTIFICHE TECNICHE PRODOTTI ARTICOLI MATERIALI DIDATTICI FISICA SCIENZE
 
@@ -13994,7 +14008,7 @@ www.Radiondistics.com - Tel.(+39) 339.180.1313</td>
 
 ---
 
-## 048-sistema-dantenna-multibanda-per-le-hf-con-radiatore-a-225-ohm-2009-francesco-err
+## 049-sistema-dantenna-multibanda-per-le-hf-con-radiatore-a-225-ohm-2009-francesco-err
 
 ### Sistema d'antenna MULTIBANDA per le HF con radiatore a 225 Ohm © 2009 Francesco Errante - www.Radiondistics.com
 
@@ -14287,7 +14301,7 @@ www.Radiondistics.com - Tel.(+39) 339.180.1313</td>
 
 ---
 
-## 049-balun-universale-con-terra-virtuale-per-dipolo-2003-francesco-errante
+## 050-balun-universale-con-terra-virtuale-per-dipolo-2003-francesco-errante
 
 ### BALUN UNIVERSALE CON TERRA VIRTUALE PER DIPOLO © 2003 Francesco Errante
 
@@ -14724,7 +14738,7 @@ www.Radiondistics.com - Tel.(+39) 339.180.1313</td>
 
 ---
 
-## 050-antenna-turnstile-hf-dipolo-a-croce-quadripolo-pilota-a-larga-banda-2008-frances
+## 051-antenna-turnstile-hf-dipolo-a-croce-quadripolo-pilota-a-larga-banda-2008-frances
 
 ### Antenna TURNSTILE HF, dipolo a croce, quadripolo - Pilota a larga banda © 2008 Francesco Errante - Radiondistics.com
 
@@ -15004,7 +15018,7 @@ www.Radiondistics.com - Tel.(+39) 339.180.1313</td>
 
 ---
 
-## 051-sistemi-radianti-auto-antagonisti-sistemi-radianti-improprii-radiondisticscom
+## 052-sistemi-radianti-auto-antagonisti-sistemi-radianti-improprii-radiondisticscom
 
 ### SISTEMI RADIANTI AUTO-ANTAGONISTI - SISTEMI RADIANTI IMPROPRII - Radiondistics.com
 
@@ -15217,7 +15231,7 @@ www.Radiondistics.com - Tel.(+39) 339.180.1313</td>
 
 ---
 
-## 052-rf-lighting-devices-rfld-helus-rf-powered-fluorescent-tubes-high-efficiency-ligh
+## 053-rf-lighting-devices-rfld-helus-rf-powered-fluorescent-tubes-high-efficiency-ligh
 
 ### RF LIGHTING DEVICES, RFLD, HELUs, RF powered fluorescent tubes, high efficiency light sources, RF-LIGHTING.com
 
@@ -15465,7 +15479,7 @@ All rights reserved. Copyright © 2015 -
 
 ---
 
-## 053-apparecchi-di-illuminazione-ad-altissima-efficienza-luminosa-a-radio-onde-rf-lig
+## 054-apparecchi-di-illuminazione-ad-altissima-efficienza-luminosa-a-radio-onde-rf-lig
 
 ### Apparecchi di illuminazione ad altissima efficienza luminosa a radio onde - RF-LIGHTING.com
 
@@ -15727,7 +15741,7 @@ All rights reserved. Copyright © 2015 -
 
 ---
 
-## 054-rf-lighting-devices-rfld-helus-rf-powered-fluorescent-tubes-high-efficiency-ligh
+## 055-rf-lighting-devices-rfld-helus-rf-powered-fluorescent-tubes-high-efficiency-ligh
 
 ### RF LIGHTING DEVICES, RFLD, HELUs, RF powered fluorescent tubes, high efficiency light sources, RF-LIGHTING.com
 
@@ -15836,7 +15850,7 @@ All rights reserved. Copyright © 2015 -
 
 ---
 
-## 055-radio-frequency-noise-from-high-energy-efficiency-fluorescent-lights-ballasts
+## 056-radio-frequency-noise-from-high-energy-efficiency-fluorescent-lights-ballasts
 
 ### Radio frequency noise from high energy efficiency fluorescent lights ballasts
 

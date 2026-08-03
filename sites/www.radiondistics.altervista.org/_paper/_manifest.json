@@ -2,12 +2,12 @@
   "domain": "www.radiondistics.altervista.org",
   "source_url": "https://www.radiondistics.altervista.org/",
   "entry": "index.htm",
-  "pages_total": 55,
-  "pages_reachable": 55,
+  "pages_total": 56,
+  "pages_reachable": 56,
   "pages_unreached": 0,
-  "body_chars": 1163049,
+  "body_chars": 1163231,
   "extractor": "pandoc",
-  "generated": "2026-07-29T14:15:59Z",
+  "generated": "2026-08-03T13:07:36Z",
   "pages": [
     {
       "order": 1,
@@ -477,6 +477,7 @@
         "vgng.htm",
         "bvgng.htm",
         "detector.htm",
+        "mismatching_simulator.htm",
         "tlc.htm",
         "suppressor.htm"
       ],
@@ -964,6 +965,7 @@
         "vgng_it.htm",
         "bvgng_it.htm",
         "detector_it.htm",
+        "mismatching_simulator.htm",
         "tlc.htm",
         "soppressore.htm"
       ],
@@ -1595,9 +1597,19 @@
     },
     {
       "order": 40,
+      "title": "\u00a9 2003 Francesco Errante",
+      "path": "mismatching_simulator.htm",
+      "slug": "040-2003-francesco-errante",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [],
+      "chars": 182
+    },
+    {
+      "order": 41,
       "title": "TRANSMISSION LINE CALCULATOR \u00a9 2000 Michael A. Lee and Kevin E. Schmidt",
       "path": "tlc.htm",
-      "slug": "040-transmission-line-calculator-2000-michael-a-lee-and-kevin-e-schmidt",
+      "slug": "041-transmission-line-calculator-2000-michael-a-lee-and-kevin-e-schmidt",
       "reachable_from_entry": true,
       "images": [
         "graphics/top_left.jpg",
@@ -1621,10 +1633,10 @@
       "chars": 8728
     },
     {
-      "order": 41,
+      "order": 42,
       "title": "Reginald Fessenden and Guglielmo Marconi, the history of radio.",
       "path": "fessenden_marconi_radio_differences.htm",
-      "slug": "041-reginald-fessenden-and-guglielmo-marconi-the-history-of-radio",
+      "slug": "042-reginald-fessenden-and-guglielmo-marconi-the-history-of-radio",
       "reachable_from_entry": true,
       "images": [
         "graphics/top_left.jpg",
@@ -1654,10 +1666,10 @@
       "chars": 56652
     },
     {
-      "order": 42,
+      "order": 43,
       "title": "GENERATORE di NODO di TERRA VIRTUALE per linee bilanciate \u00a9 2008 Francesco Errante",
       "path": "bvgng_it.htm",
-      "slug": "042-generatore-di-nodo-di-terra-virtuale-per-linee-bilanciate-2008-francesco-errante",
+      "slug": "043-generatore-di-nodo-di-terra-virtuale-per-linee-bilanciate-2008-francesco-errante",
       "reachable_from_entry": true,
       "images": [
         "graphics/top_left.jpg",
@@ -1697,10 +1709,10 @@
       "chars": 17480
     },
     {
-      "order": 43,
+      "order": 44,
       "title": "GENERATORE di NODO di TERRA VIRTUALE in linea \u00a9 2007 Francesco Errante",
       "path": "vgng_it.htm",
-      "slug": "043-generatore-di-nodo-di-terra-virtuale-in-linea-2007-francesco-errante",
+      "slug": "044-generatore-di-nodo-di-terra-virtuale-in-linea-2007-francesco-errante",
       "reachable_from_entry": true,
       "images": [
         "graphics/top_left.jpg",
@@ -1735,10 +1747,10 @@
       "chars": 18435
     },
     {
-      "order": 44,
+      "order": 45,
       "title": "ATTREZZATURE DIDATTICHE - PRODOTTI SCIENTIFICI - RADIAZIONI TRASDUTTORI RADIOELETTRICI",
       "path": "apparato_errante.htm",
-      "slug": "044-attrezzature-didattiche-prodotti-scientifici-radiazioni-trasduttori-radioelettri",
+      "slug": "045-attrezzature-didattiche-prodotti-scientifici-radiazioni-trasduttori-radioelettri",
       "reachable_from_entry": true,
       "images": [
         "graphics/top_left.jpg",
@@ -1781,10 +1793,10 @@
       "chars": 17568
     },
     {
-      "order": 45,
+      "order": 46,
       "title": "BALUN ROSMETRICO CON TERRA VIRTUALE PER DIPOLO APERTO \u00a9 2003 Francesco Errante",
       "path": "balun_rosmetrico.htm",
-      "slug": "045-balun-rosmetrico-con-terra-virtuale-per-dipolo-aperto-2003-francesco-errante",
+      "slug": "046-balun-rosmetrico-con-terra-virtuale-per-dipolo-aperto-2003-francesco-errante",
       "reachable_from_entry": true,
       "images": [
         "graphics/top_left.jpg",
@@ -1812,10 +1824,10 @@
       "chars": 8062
     },
     {
-      "order": 46,
+      "order": 47,
       "title": "BALUN CON TERRA VIRTUALE PER LO SDOPPIAMENTO DEL DIPOLO RIPIEGATO A \u00bd ONDA",
       "path": "balun_300_it.htm",
-      "slug": "046-balun-con-terra-virtuale-per-lo-sdoppiamento-del-dipolo-ripiegato-a-12-onda",
+      "slug": "047-balun-con-terra-virtuale-per-lo-sdoppiamento-del-dipolo-ripiegato-a-12-onda",
       "reachable_from_entry": true,
       "images": [
         "graphics/top_left.jpg",
@@ -1857,10 +1869,10 @@
       "chars": 22295
     },
     {
-      "order": 47,
+      "order": 48,
       "title": "ATTREZZATURE DIDATTICHE SCIENTIFICHE TECNICHE PRODOTTI ARTICOLI MATERIALI DIDATTICI FISICA SCIENZE",
       "path": "distributori.htm",
-      "slug": "047-attrezzature-didattiche-scientifiche-tecniche-prodotti-articoli-materiali-didatt",
+      "slug": "048-attrezzature-didattiche-scientifiche-tecniche-prodotti-articoli-materiali-didatt",
       "reachable_from_entry": true,
       "images": [
         "graphics/top_left.jpg",
@@ -1880,10 +1892,10 @@
       "chars": 11026
     },
     {
-      "order": 48,
+      "order": 49,
       "title": "Sistema d'antenna MULTIBANDA per le HF con radiatore a 225 Ohm \u00a9 2009 Francesco Errante - www.Radiondistics.com",
       "path": "multibanda.htm",
-      "slug": "048-sistema-dantenna-multibanda-per-le-hf-con-radiatore-a-225-ohm-2009-francesco-err",
+      "slug": "049-sistema-dantenna-multibanda-per-le-hf-con-radiatore-a-225-ohm-2009-francesco-err",
       "reachable_from_entry": true,
       "images": [
         "graphics/top_left.jpg",
@@ -1920,10 +1932,10 @@
       "chars": 16986
     },
     {
-      "order": 49,
+      "order": 50,
       "title": "BALUN UNIVERSALE CON TERRA VIRTUALE PER DIPOLO \u00a9 2003 Francesco Errante",
       "path": "balun_errante_it.htm",
-      "slug": "049-balun-universale-con-terra-virtuale-per-dipolo-2003-francesco-errante",
+      "slug": "050-balun-universale-con-terra-virtuale-per-dipolo-2003-francesco-errante",
       "reachable_from_entry": true,
       "images": [
         "graphics/top_left.jpg",
@@ -1972,10 +1984,10 @@
       "chars": 26514
     },
     {
-      "order": 50,
+      "order": 51,
       "title": "Antenna TURNSTILE HF, dipolo a croce, quadripolo - Pilota a larga banda \u00a9 2008 Francesco Errante - Radiondistics.com",
       "path": "quadripolo.htm",
-      "slug": "050-antenna-turnstile-hf-dipolo-a-croce-quadripolo-pilota-a-larga-banda-2008-frances",
+      "slug": "051-antenna-turnstile-hf-dipolo-a-croce-quadripolo-pilota-a-larga-banda-2008-frances",
       "reachable_from_entry": true,
       "images": [
         "graphics/top_left.jpg",
@@ -2010,10 +2022,10 @@
       "chars": 14405
     },
     {
-      "order": 51,
+      "order": 52,
       "title": "SISTEMI RADIANTI AUTO-ANTAGONISTI - SISTEMI RADIANTI IMPROPRII - Radiondistics.com",
       "path": "sistemi_autoantagonisti.htm",
-      "slug": "051-sistemi-radianti-auto-antagonisti-sistemi-radianti-improprii-radiondisticscom",
+      "slug": "052-sistemi-radianti-auto-antagonisti-sistemi-radianti-improprii-radiondisticscom",
       "reachable_from_entry": true,
       "images": [
         "graphics/top_left.jpg",
@@ -2045,10 +2057,10 @@
       "chars": 11252
     },
     {
-      "order": 52,
+      "order": 53,
       "title": "RF LIGHTING DEVICES, RFLD, HELUs, RF powered fluorescent tubes, high efficiency light sources, RF-LIGHTING.com",
       "path": "rf_lighting_devices/index.html",
-      "slug": "052-rf-lighting-devices-rfld-helus-rf-powered-fluorescent-tubes-high-efficiency-ligh",
+      "slug": "053-rf-lighting-devices-rfld-helus-rf-powered-fluorescent-tubes-high-efficiency-ligh",
       "reachable_from_entry": true,
       "images": [
         "./img/it.gif",
@@ -2064,10 +2076,10 @@
       "chars": 26629
     },
     {
-      "order": 53,
+      "order": 54,
       "title": "Apparecchi di illuminazione ad altissima efficienza luminosa a radio onde - RF-LIGHTING.com",
       "path": "rf_lighting_devices/index_it.htm",
-      "slug": "053-apparecchi-di-illuminazione-ad-altissima-efficienza-luminosa-a-radio-onde-rf-lig",
+      "slug": "054-apparecchi-di-illuminazione-ad-altissima-efficienza-luminosa-a-radio-onde-rf-lig",
       "reachable_from_entry": true,
       "images": [
         "./img/en.gif",
@@ -2083,10 +2095,10 @@
       "chars": 29170
     },
     {
-      "order": 54,
+      "order": 55,
       "title": "RF LIGHTING DEVICES, RFLD, HELUs, RF powered fluorescent tubes, high efficiency light sources, RF-LIGHTING.com",
       "path": "rf_lighting_devices/contact.htm",
-      "slug": "054-rf-lighting-devices-rfld-helus-rf-powered-fluorescent-tubes-high-efficiency-ligh",
+      "slug": "055-rf-lighting-devices-rfld-helus-rf-powered-fluorescent-tubes-high-efficiency-ligh",
       "reachable_from_entry": true,
       "images": [
         "img/header.png",
@@ -2099,10 +2111,10 @@
       "chars": 4470
     },
     {
-      "order": 55,
+      "order": 56,
       "title": "Radio frequency noise from high energy efficiency fluorescent lights ballasts",
       "path": "rf_lighting_devices/radio_interference_from_high_efficiency_fluorescent_lights.htm",
-      "slug": "055-radio-frequency-noise-from-high-energy-efficiency-fluorescent-lights-ballasts",
+      "slug": "056-radio-frequency-noise-from-high-energy-efficiency-fluorescent-lights-ballasts",
       "reachable_from_entry": true,
       "images": [
         "img/header.png"

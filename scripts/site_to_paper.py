@@ -68,6 +68,14 @@ class PageParser(html.parser.HTMLParser):
             if href and href not in self._seen:
                 self._seen.add(href)
                 self.links.append(href)
+        elif tag in ("frame", "iframe"):
+            # A framed-in page IS reachable — the reader sees it embedded in
+            # the parent. Counting only <a> made mismatching_simulator.htm an
+            # orphan even though balanced_lines.htm displays it inline.
+            src = (a.get("src") or "").strip()
+            if src and src not in self._seen:
+                self._seen.add(src)
+                self.links.append(src)
         elif tag == "img":
             src = (a.get("src") or "").strip()
             if src:

@@ -443,6 +443,8 @@ class _LinkExtractorHTML(HTMLParser):
             href = attrs_dict.get('href')
         elif tag == 'script':
             href = attrs_dict.get('src')
+        elif tag in ('frame', 'iframe'):
+            href = attrs_dict.get('src')
 
         if href and not href.startswith(('#', 'javascript:', 'mailto:', 'data:')):
             full = urllib.parse.urljoin(self.base_url, href)
@@ -465,6 +467,35 @@ def _extract_meta_refresh_targets(text, base_url):
     for m in _META_REFRESH_RE.finditer(text):
         target = m.group(1).strip().strip('"\'')
         if target:
+            urls.add(urllib.parse.urljoin(base_url, target))
+    return urls
+
+
+_FRAME_SRC_RE = re.compile(
+    r'<(?:frame|iframe)\b[^>]*?\bsrc\s*=\s*["\']?([^"\'>\s]+)',
+    re.IGNORECASE,
+)
+
+
+def extract_frame_targets(html_content, base_url):
+    """Return URLs from <frame src=...> / <iframe src=...>.
+
+    A frameset page has zero <a> tags — its entire content is behind the
+    frame's src. Without this we crawl exactly one file and stop, and the
+    mirror looks "complete" while holding nothing. This is the same failure
+    shape as _extract_meta_refresh_targets (meyl.eu), and it is what made
+    the radiondistics.com mirror 1 file / 688 bytes: its only body is
+    <frameset><frame src="https://www.radiondistics.altervista.org/">.
+
+    Kept separate from extract_links (which also folds these in) so the
+    crawler can notice when a frame points OFF-domain — the real content
+    lives at another host and needs its own mirror job.
+    """
+    text = html_content if isinstance(html_content, str) else html_content.decode('utf-8', errors='replace')
+    urls = set()
+    for m in _FRAME_SRC_RE.finditer(text):
+        target = m.group(1).strip().strip('"\'')
+        if target and not target.startswith(('#', 'javascript:', 'mailto:', 'data:', 'about:')):
             urls.add(urllib.parse.urljoin(base_url, target))
     return urls
 
@@ -497,13 +528,16 @@ def extract_links(html_content, base_url):
             if src:
                 links.add(urllib.parse.urljoin(base_url, src))
         links |= _extract_meta_refresh_targets(text, base_url)
+        links |= extract_frame_targets(text, base_url)
         links = {l for l in links if not l.startswith(('javascript:', 'mailto:', 'data:', '#'))}
         return links
 
     # Fallback: stdlib HTMLParser
     extractor = _LinkExtractorHTML(base_url)
     extractor.feed(text)
-    return extractor.links | _extract_meta_refresh_targets(text, base_url)
+    return (extractor.links
+            | _extract_meta_refresh_targets(text, base_url)
+            | extract_frame_targets(text, base_url))
 
 
 def should_skip_url(url, domain):
@@ -742,7 +776,8 @@ def download_live_url(url, domain, output_dir):
 
 # ── 14. Index & metadata generation ─────────────────────────────────────────
 
-def write_source_info(output_dir, target_url, mode, path_filter=None, label=None, page_title=None):
+def write_source_info(output_dir, target_url, mode, path_filter=None, label=None,
+                      page_title=None, frame_targets=None):
     """Write SOURCE.txt — human-readable provenance file alongside ALLFILES.txt.
     Answers 'what URL was this directory mirrored from, in what mode, when'.
     Idempotent overwrite — last run wins, which matches mirror semantics.
@@ -757,6 +792,11 @@ def write_source_info(output_dir, target_url, mode, path_filter=None, label=None
         lines.append(f"label: {label}")
     if page_title:
         lines.append(f"title: {page_title}")
+    # A frameset whose <frame src> points at another host: the content is NOT
+    # here. Record where it actually lives so the mirror can't be mistaken for
+    # complete (radiondistics.com → radiondistics.altervista.org).
+    for frame_url in (frame_targets or []):
+        lines.append(f"frame_target: {frame_url}")
     lines.append(f"mirror_date: {datetime.datetime.utcnow().strftime('%Y-%m-%dT%H:%M:%SZ')}")
     try:
         os.makedirs(output_dir, exist_ok=True)
@@ -1123,6 +1163,11 @@ def run_live(url, seeds_file=None, delay=None, max_pages=None, output_base=None,
     downloaded_count = 0
     ok_count = 0
     failed_urls = []
+    # Frame targets that live on ANOTHER host. should_skip_url drops them (as
+    # it must — they're out of scope for this domain), but silently: a pure
+    # frameset site then mirrors as one file and looks fine. Collect them so
+    # we can say out loud where the content actually is.
+    offsite_frames = set()
 
     for seed in seed_urls:
         queue.append((seed, 0))
@@ -1208,6 +1253,9 @@ def run_live(url, seeds_file=None, delay=None, max_pages=None, output_base=None,
         if is_html:
             try:
                 found_links = extract_links(content, page_url)
+                for frame_url in extract_frame_targets(content, page_url):
+                    if should_skip_url(frame_url, domain):
+                        offsite_frames.add(frame_url)
                 new_count = 0
                 for link in found_links:
                     link = urllib.parse.urldefrag(link)[0]
@@ -1255,13 +1303,21 @@ def run_live(url, seeds_file=None, delay=None, max_pages=None, output_base=None,
     except Exception:
         pass
 
-    write_source_info(output_dir, url, 'live', path_filter=path_filter, page_title=seed_title)
+    write_source_info(output_dir, url, 'live', path_filter=path_filter,
+                      page_title=seed_title, frame_targets=sorted(offsite_frames))
     generate_index(output_dir, domain, source='live')
 
     log("\n" + "=" * 60)
     log("LIVE MIRROR COMPLETE")
     log(f"Downloaded: {downloaded_count}, OK: {ok_count}, Failed: {len(failed_urls)}")
     log(f"Total URLs seen: {len(seen)}")
+    if offsite_frames:
+        log("-" * 60)
+        log(f"FRAMESET: this site's content is framed in from {len(offsite_frames)} "
+            f"off-domain target(s) — NOT included in this mirror:")
+        for frame_url in sorted(offsite_frames):
+            log(f"  → {frame_url}")
+        log("Queue those hosts as their own mirror jobs to capture the content.")
     log("=" * 60)
     log(f"\nNext step: fe-ingest.sh {output_dir}")
 

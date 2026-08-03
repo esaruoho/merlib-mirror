@@ -5,8 +5,8 @@ source_path: balanced_lines.htm
 order: 12
 reachable_from_entry: true
 images: 32
-internal_links: 13
-extracted: 2026-07-29T14:15:53Z
+internal_links: 14
+extracted: 2026-08-03T13:07:32Z
 extractor: site_to_paper.py (pandoc)
 ---
 

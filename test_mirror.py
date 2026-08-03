@@ -374,5 +374,115 @@ class TestEnsureDirPath(unittest.TestCase):
         mirror.ensure_dir_path("file.html")
 
 
+class TestExtractFrameTargets(unittest.TestCase):
+    """<frame src> / <iframe src> — the radiondistics.com frameset bug.
+
+    radiondistics.com's entire body is a frameset pointing at
+    radiondistics.altervista.org. With no frame extraction the crawler found
+    0 links and the mirror was 1 file / 688 bytes while reporting success.
+    """
+
+    # The real radiondistics.com homepage, trimmed to the frameset.
+    FRAMESET = (
+        '<html><head><title>Radiondistics</title></head>'
+        '<frameset rows="100%" border="0" frameborder="0">'
+        '<frame name="main" src="https://www.radiondistics.altervista.org/" '
+        'marginwidth="0" scrolling="auto" noresize="noresize">'
+        '</frameset><noframes></noframes></html>'
+    )
+
+    def test_extracts_absolute_frame_src(self):
+        targets = mirror.extract_frame_targets(
+            self.FRAMESET, "https://www.radiondistics.com/")
+        self.assertEqual(
+            targets, {"https://www.radiondistics.altervista.org/"})
+
+    def test_extracts_relative_frame_src(self):
+        html = '<frameset><frame src="content/main.htm"></frameset>'
+        targets = mirror.extract_frame_targets(html, "https://example.org/")
+        self.assertEqual(targets, {"https://example.org/content/main.htm"})
+
+    def test_extracts_iframe_src(self):
+        html = '<iframe src="/embed/player.html" width="640"></iframe>'
+        targets = mirror.extract_frame_targets(html, "https://example.org/a/b")
+        self.assertEqual(targets, {"https://example.org/embed/player.html"})
+
+    def test_multiple_frames(self):
+        html = ('<frameset cols="20%,80%">'
+                '<frame src="nav.htm"><frame src="body.htm"></frameset>')
+        targets = mirror.extract_frame_targets(html, "https://example.org/")
+        self.assertEqual(targets, {"https://example.org/nav.htm",
+                                   "https://example.org/body.htm"})
+
+    def test_skips_non_navigable_schemes(self):
+        html = ('<iframe src="javascript:void(0)"></iframe>'
+                '<iframe src="about:blank"></iframe>'
+                '<iframe src="data:text/html,x"></iframe>')
+        self.assertEqual(
+            mirror.extract_frame_targets(html, "https://example.org/"), set())
+
+    def test_accepts_bytes(self):
+        targets = mirror.extract_frame_targets(
+            self.FRAMESET.encode(), "https://www.radiondistics.com/")
+        self.assertEqual(
+            targets, {"https://www.radiondistics.altervista.org/"})
+
+    def test_no_frames_is_empty(self):
+        html = '<html><body><a href="/x">x</a></body></html>'
+        self.assertEqual(
+            mirror.extract_frame_targets(html, "https://example.org/"), set())
+
+    def test_extract_links_folds_frames_in(self):
+        # Whichever parser backend is active, extract_links must surface the
+        # frame target — this is what actually feeds the crawl queue.
+        links = mirror.extract_links(
+            self.FRAMESET, "https://www.radiondistics.com/")
+        self.assertIn("https://www.radiondistics.altervista.org/", links)
+
+    def test_same_domain_frameset_is_crawlable(self):
+        # The silent-total-failure case: a frameset whose content IS on the
+        # same host. Must produce a link that survives should_skip_url.
+        html = '<frameset><frame src="main.htm"></frameset>'
+        links = mirror.extract_links(html, "https://example.org/")
+        crawlable = [l for l in links
+                     if not mirror.should_skip_url(l, "example.org")]
+        self.assertEqual(crawlable, ["https://example.org/main.htm"])
+
+
+class TestWriteSourceInfoFrameTargets(unittest.TestCase):
+    """SOURCE.txt records off-domain frame targets, so a 1-file frameset
+    mirror can't be mistaken for a complete one."""
+
+    def setUp(self):
+        self.tmpdir = tempfile.mkdtemp()
+
+    def tearDown(self):
+        shutil.rmtree(self.tmpdir, ignore_errors=True)
+
+    def _source_text(self, **kwargs):
+        mirror.write_source_info(
+            self.tmpdir, "https://www.radiondistics.com/", "live", **kwargs)
+        with open(os.path.join(self.tmpdir, "SOURCE.txt")) as fh:
+            return fh.read()
+
+    def test_frame_target_recorded(self):
+        text = self._source_text(
+            frame_targets=["https://www.radiondistics.altervista.org/"])
+        self.assertIn(
+            "frame_target: https://www.radiondistics.altervista.org/", text)
+
+    def test_multiple_frame_targets_recorded(self):
+        text = self._source_text(
+            frame_targets=["https://a.example/", "https://b.example/"])
+        self.assertIn("frame_target: https://a.example/", text)
+        self.assertIn("frame_target: https://b.example/", text)
+
+    def test_absent_when_no_frames(self):
+        self.assertNotIn("frame_target:", self._source_text())
+
+    def test_absent_when_empty_list(self):
+        self.assertNotIn("frame_target:", self._source_text(frame_targets=[]))
+
+
 if __name__ == "__main__":
     unittest.main()
