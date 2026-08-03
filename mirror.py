@@ -565,6 +565,27 @@ def normalize_url(url):
         (p.scheme.lower(), host, p.path, p.query, ''))
 
 
+def dedup_key(url):
+    """The identity of a URL *for mirroring purposes*: its output file path.
+
+    Two URLs that would be written to the same file ARE the same resource here —
+    save_page() already treats them that way and skips the second. Keying `seen` on
+    the URL string instead meant the crawler walked amasci.com in full and then
+    walked www.amasci.com in full, doubling `total known` from 1,752 to 3,088. No
+    content was lost (the second pass was all cached skips) but every page's links
+    were re-extracted and re-queued.
+
+    Deliberately NOT solved by stripping `www.` inside normalize_url: that would
+    change the URL we actually FETCH, and plenty of hosts answer on www and not on
+    the bare name (www.radiondistics.altervista.org is one). So the fetch URL stays
+    verbatim and only the dedup identity is canonical.
+    """
+    try:
+        return sanitize_path(url)
+    except Exception:
+        return url
+
+
 # Path extensions that mean we sliced a hostname out of broken markup, not a file.
 _HOSTNAME_EXTS = {'.com', '.co', '.c', '.org', '.net', '.ne', '.edu', '.gov',
                   '.uk', '.de', '.ru', '.n', '.o', '.or'}
@@ -1285,7 +1306,7 @@ def run_live(url, seeds_file=None, delay=None, max_pages=None, output_base=None,
     seed_queue = deque()
     for seed in sorted(seed_urls):
         seed_queue.append((seed, 0))
-        seen.add(seed)
+        seen.add(dedup_key(seed))
 
     def is_under_seed_path(u):
         """Check if URL is under the seed path."""
@@ -1325,10 +1346,7 @@ def run_live(url, seeds_file=None, delay=None, max_pages=None, output_base=None,
             continue
 
         # Strip fragments — they're the same page
-        original = page_url
         page_url = normalize_url(page_url)
-        if page_url != original and page_url in seen:  # dedup only if defrag changed the URL
-            continue
 
         # Skip if already downloaded on disk
         local_path = os.path.join(output_dir, sanitize_path(page_url))
@@ -1386,12 +1404,13 @@ def run_live(url, seeds_file=None, delay=None, max_pages=None, output_base=None,
                 new_count = 0
                 for link in found_links:
                     link = normalize_url(link)
-                    if link in seen:
+                    lkey = dedup_key(link)
+                    if lkey in seen:
                         continue
                     if should_skip_url(link, domain):
                         continue
                     if robots_blocked(link):
-                        seen.add(link)
+                        seen.add(lkey)
                         continue
                     # Path filter: drop links whose path doesn't contain
                     # the filter substring. Marks them as seen too so we
@@ -1401,9 +1420,9 @@ def run_live(url, seeds_file=None, delay=None, max_pages=None, output_base=None,
                     if path_filter:
                         link_path = urllib.parse.urlparse(link).path
                         if path_filter not in link_path:
-                            seen.add(link)
+                            seen.add(lkey)
                             continue
-                    seen.add(link)
+                    seen.add(lkey)
 
                     # Links under seed path stay at same depth (priority)
                     if is_under_seed_path(link):

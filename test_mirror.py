@@ -419,6 +419,43 @@ class TestNormalizeUrl(unittest.TestCase):
         self.assertEqual(len(variants), 1)
 
 
+class TestDedupKey(unittest.TestCase):
+    """Crawl identity is the OUTPUT FILE, not the URL string.
+
+    Keying `seen` on the URL string made the crawler walk amasci.com in full and
+    then walk www.amasci.com in full — `total known` doubled 1,752 -> 3,088. No
+    content was lost (the second pass was cached skips) but every page's links were
+    re-extracted and re-queued, doubling the run.
+    """
+
+    def test_www_and_bare_host_collapse(self):
+        self.assertEqual(mirror.dedup_key("http://amasci.com/x.html"),
+                         mirror.dedup_key("http://www.amasci.com/x.html"))
+
+    def test_scheme_does_not_split_identity(self):
+        self.assertEqual(mirror.dedup_key("http://amasci.com/x.html"),
+                         mirror.dedup_key("https://amasci.com/x.html"))
+
+    def test_distinct_paths_stay_distinct(self):
+        self.assertNotEqual(mirror.dedup_key("http://amasci.com/a.html"),
+                            mirror.dedup_key("http://amasci.com/b.html"))
+
+    def test_directory_and_its_index_are_the_same_resource(self):
+        self.assertEqual(mirror.dedup_key("http://amasci.com/oldtech/"),
+                         "oldtech/index.html")
+
+    def test_query_strings_remain_separate_resources(self):
+        self.assertNotEqual(mirror.dedup_key("http://amasci.com/a.html"),
+                            mirror.dedup_key("http://amasci.com/a.html?proceed=1"))
+
+    def test_fetch_url_is_not_rewritten_by_normalisation(self):
+        # normalize_url must NOT strip www — plenty of hosts answer on www and not
+        # on the bare name (www.radiondistics.altervista.org). Only the dedup
+        # identity is canonical; the URL we fetch stays verbatim.
+        self.assertEqual(mirror.normalize_url("http://www.amasci.com/x.html"),
+                         "http://www.amasci.com/x.html")
+
+
 class TestIsMalformedUrl(unittest.TestCase):
     """Broken source markup must not cost real requests.
 
