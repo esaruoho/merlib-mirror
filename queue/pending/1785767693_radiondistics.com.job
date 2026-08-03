@@ -1,0 +1,10 @@
+target: https://www.radiondistics.com/
+domain: radiondistics.com
+mode: live
+path_filter: 
+ts_to: 
+label: 
+offline: false
+to_syncthing: false
+submitted: 2026-08-03T14:34:53Z
+submitted_from: RayMac
