@@ -124,6 +124,37 @@ Feature: "Failed: 0" is not evidence of completeness
     #          the archive look BETTER covered than it is. Same failure class as
     #          "Failed: 0". Stable once cached: 22,765 rows / 7,471 .html.
 
+  @hw-verified
+  Scenario: Discovery does not rely on link-following alone
+    Given BFS from one entry page cannot reach a page nothing links to
+    Then seeds are gathered from robots.txt Sitemap: directives, the sitemaps they
+         name, conventional /sitemap.* locations, the site's own index/stats pages,
+         the internal-link gap, and optionally Wayback
+    And robots.txt Disallow paths are EXCLUDED unless --ignore-robots
+    # cite: scripts/build_seed_list.py
+    # verified on amasci.com — 1,384 seeds:
+    #   897 from robots.txt -> Sitemap: http://amasci.com/googmap.xml (899 URLs,
+    #       Beatty's OWN sitemap — 209 of them, 23%, were absent from our mirror:
+    #       blog.html, books1.html, feynexpt.txt, feyntape.html, buscards.html)
+    #    15 from /sitemap.html
+    #   272 from the internal-link gap
+    #   201 from the site's own index/stats pages (stats/idbylink2.html alone
+    #       carries 1,517 links — an auto-generated index of the whole site)
+    #    -1 excluded by robots.txt Disallow (72 rules)
+    # mechanism: python3 scripts/build_seed_list.py amasci.com --out seeds.txt
+
+  @hw-verified
+  Scenario: An HTTP 300 is a rename hint, not a dead end
+    Given Apache MultiViews answering 300 for /sitemap.xml
+    Then its body lists "Available documents" naming the real file
+    And those alternatives are followed
+    # verified: http://amasci.com/sitemap.xml -> 300, body names /sitemap.html,
+    #           which exists and yielded 15 seeds. So the 300s measured earlier
+    #           are RECOVERABLE, not lost — the server is telling us the filename.
+    # cite: scripts/build_seed_list.py  the 300/"Available documents" branch
+    # NOTE: build_seed_list.py parses this; mirror.py still treats 300 as a
+    #       failure. See the @todo below.
+
   @built
   Scenario: Exit status is actionable
     Then exit 1 when a real gap exists, exit 0 otherwise

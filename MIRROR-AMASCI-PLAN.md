@@ -139,15 +139,41 @@ which is the category this repo keeps getting hurt by.
 
 ## Recipe
 
-### Phase 1 — refresh the live layer (cheap, low yield, do it anyway)
+### Phase 1 — SEEDED live crawl (this turned out to be the big win, not Wayback)
+
+Correction to an earlier version of this plan, which called Phase 1 "cheap, low
+yield". It is not low yield, because **the site publishes its own inventory** and
+BFS from the entry page never reads it:
+
+| Discovery channel | Seeds contributed |
+|---|---|
+| `robots.txt` → `Sitemap: http://amasci.com/googmap.xml` (Beatty's own sitemap, 899 URLs) | **897** |
+| `/sitemap.html` — found via the **HTTP 300 MultiViews** response, which *names the real file* | 15 |
+| Internal-link gap (pages we cite but lack) | 272 |
+| The site's own index/stats pages (`stats/idbylink2.html` alone has 1,517 links) | 201 |
+| — excluded by `robots.txt` Disallow (72 rules) | −1 |
+| **Total** | **1,384** |
+
+**209 of the 899 URLs in Beatty's own sitemap (23%) were absent from our mirror** —
+`blog.html`, `books1.html`, `feynexpt.txt`, `feyntape.html`, `buscards.html`. All
+live. None reachable by link-following.
 
 ```sh
-./mirror-submit http://amasci.com/          # NOTE: http://, never https://
+python3 scripts/build_seed_list.py amasci.com --out amasci-seeds.txt
+python3 mirror.py live http://amasci.com/ --seeds amasci-seeds.txt \
+        --max-pages 40000 --output-dir sites
 ```
 
-Expect ~2 recovered pages plus whatever Beatty has added since 2026-03-05. The
-real reason to run it is that the engine now follows frames and will emit
-`allpages.html` + the per-page markdown.
+Two things that matter here:
+
+- **`--seeds` already existed** in `mirror.py live`. Check before building.
+- **`--max-pages` must be raised.** `MAX_DISCOVER_PAGES` defaults to **500**, which
+  silently caps link discovery far below this site's size. Left at the default, the
+  crawl stops long before the corpus does — another quiet-ceiling failure.
+
+The HTTP 300 handling is worth generalising: Apache's MultiViews body lists
+`Available documents`, so a 300 is not a dead end, it is a *rename hint*. Today
+`build_seed_list.py` parses it; the crawler still treats 300 as a failure.
 
 ### Phase 1b — Wayback as an INDEX, fetched from the LIVE server
 
