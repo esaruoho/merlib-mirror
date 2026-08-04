@@ -1163,8 +1163,34 @@ def run_wayback(domain, resume=False, ts_from=None, ts_to=None, delay=None, outp
         # this is someone else's archive being read, and hammering it earns 429s
         # and helps nobody. Each worker still sleeps `delay` after its fetch, so
         # the effective request rate is workers/delay, not unbounded.
+        # ── drop what cannot be mirrored before spending requests on it ───────
+        # CDX discovery returns whatever archive.org recorded a 200 for, which on a
+        # WordPress-era site includes the blog's own plumbing: wp-includes/*.php,
+        # wp-admin CSS and images, plus server-side endpoints generally. There is no
+        # static content behind a .php, and wp-admin assets are not archive material.
+        #
+        # Measured on amasci.com: 1,890 of 20,440 discovered URLs (9%) are this.
+        # They cost MORE than a success, because a miss walks the whole
+        # FALLBACK_TIMESTAMPS list before giving up — 45 of the first 79 failures
+        # were /amblog/wp-includes alone. Skipping them also keeps
+        # _failed_downloads.txt meaningful instead of a wall of WordPress noise.
+        def unmirrorable(u):
+            p = urllib.parse.urlparse(u).path
+            low = p.lower()
+            if any(seg in low for seg in ('/wp-includes/', '/wp-admin/',
+                                          '/wp-content/plugins/')):
+                return True
+            return os.path.splitext(low)[1] in ('.php', '.asp', '.aspx', '.jsp',
+                                                '.pl', '.cgi')
+
         pending = [u for u in urls if u['original'] not in downloaded]
-        count = total - len(pending)   # already-done URLs count as progress
+        skipped_unmirrorable = [u for u in pending if unmirrorable(u['original'])]
+        if skipped_unmirrorable:
+            pending = [u for u in pending if not unmirrorable(u['original'])]
+            log(f"Skipping {len(skipped_unmirrorable):,} unmirrorable URL(s) "
+                f"(server-side / WordPress plumbing) — not fetched, not counted "
+                f"as failures")
+        count = total - len(pending) - len(skipped_unmirrorable)
         log(f"Downloading {len(pending):,} of {total:,} with {workers} worker(s) "
             f"(delay {_current_delay}s each)")
 
