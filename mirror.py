@@ -58,6 +58,10 @@ MAX_DISCOVER_PAGES = 500
 DEFAULT_WAYBACK_WORKERS = 4
 MAX_LINK_DEPTH = 5
 BATCH_SIZE = 50
+# Checkpoint at least this often regardless of counter multiples — concurrent
+# workers skip past `count % BATCH_SIZE == 0`, which stranded a resume point 80
+# minutes behind reality on the amasci run.
+SAVE_INTERVAL_S = 120
 BATCH_PAUSE = 10
 MAX_TIMESTAMP_ATTEMPTS = 8
 CONSECUTIVE_FAIL_BAIL = 8
@@ -1175,18 +1179,62 @@ def run_wayback(domain, resume=False, ts_from=None, ts_to=None, delay=None, outp
         # were /amblog/wp-includes alone. Skipping them also keeps
         # _failed_downloads.txt meaningful instead of a wall of WordPress noise.
         def unmirrorable(u):
-            p = urllib.parse.urlparse(u).path
-            low = p.lower()
+            parsed = urllib.parse.urlparse(u)
+            low = parsed.path.lower()
+            base = os.path.basename(low)
+
+            # Server-side endpoints and WordPress plumbing — no static content.
             if any(seg in low for seg in ('/wp-includes/', '/wp-admin/',
                                           '/wp-content/plugins/')):
                 return True
-            return os.path.splitext(low)[1] in ('.php', '.asp', '.aspx', '.jsp',
-                                                '.pl', '.cgi')
+            if os.path.splitext(low)[1] in ('.php', '.asp', '.aspx', '.jsp',
+                                            '.pl', '.cgi'):
+                return True
+
+            # Apache mod_autoindex sort links (?D=A, ?C=S;O=D, ?N=D…) and tracking
+            # params. These are the SAME directory listing re-sorted — not content,
+            # and each one costs a full FALLBACK_TIMESTAMPS walk before failing.
+            if parsed.query:
+                return True
+
+            # Apache's own directory-listing icons, not the author's material.
+            if '/icons/' in low:
+                return True
+
+            # The author's working detritus: editor backups and scratch files that
+            # happen to have been served once. amasci has weird.html.save,
+            # maglev.html.save, we-nerds.html.save, indexphp.old, temp1, temp2,
+            # newsrc. Measured: 13 of the first 91 failures were these.
+            if base in ('temp', 'temp1', 'temp2', 'newsrc'):
+                return True
+            if low.endswith(('.save', '.old', '.bak', '~')):
+                return True
+
+            return False
 
         pending = [u for u in urls if u['original'] not in downloaded]
         skipped_unmirrorable = [u for u in pending if unmirrorable(u['original'])]
         if skipped_unmirrorable:
             pending = [u for u in pending if not unmirrorable(u['original'])]
+
+        # One fetch per OUTPUT FILE. amasci.com/x, www.amasci.com/x and
+        # www.amasci.com:80/x all write the same path, so fetching all three is
+        # two wasted requests — and on a miss each costs a full timestamp walk.
+        # `temp1` failed three times for exactly this reason.
+        # Modest in aggregate here (20,440 -> 20,249 distinct paths; CDX had
+        # already collapsed most host variants) but it is free and it stops the
+        # failure list double-counting one lost file as three.
+        seen_keys, deduped = set(), []
+        for u in pending:
+            k = dedup_key(u['original'])
+            if k in seen_keys:
+                continue
+            seen_keys.add(k)
+            deduped.append(u)
+        if len(deduped) != len(pending):
+            log(f"Collapsed {len(pending) - len(deduped):,} host-variant "
+                f"duplicate(s) to one fetch each")
+            pending = deduped
             log(f"Skipping {len(skipped_unmirrorable):,} unmirrorable URL(s) "
                 f"(server-side / WordPress plumbing) — not fetched, not counted "
                 f"as failures")
@@ -1195,6 +1243,7 @@ def run_wayback(domain, resume=False, ts_from=None, ts_to=None, delay=None, outp
             f"(delay {_current_delay}s each)")
 
         lock = threading.Lock()
+        last_save = time.time()
 
         def fetch_one(url_info):
             original = url_info['original']
@@ -1241,7 +1290,17 @@ def run_wayback(domain, resume=False, ts_from=None, ts_to=None, delay=None, outp
                             failed.append({'url': original,
                                            'error': err or 'all timestamps failed'})
 
-                        if count % BATCH_SIZE == 0:
+                        # Checkpoint on ELAPSED TIME, not on `count` hitting an exact
+                        # multiple. With concurrent workers the counter jumps past
+                        # multiples, so `count % BATCH_SIZE == 0` fires erratically —
+                        # measured on the amasci run: _progress.json went 80 MINUTES
+                        # without a save while the crawl was visibly working. Two
+                        # costs: the resume point silently rots that far behind, and
+                        # anything watching the progress file (a stall detector, a
+                        # status pane) reads "no movement" on a healthy crawl.
+                        now = time.time()
+                        if now - last_save >= SAVE_INTERVAL_S or count % BATCH_SIZE == 0:
+                            last_save = now
                             progress['downloaded'] = list(downloaded)
                             progress['failed'] = failed
                             save_progress(progress, progress_file)
