@@ -191,6 +191,29 @@ sync_repo() {
   WORKER_HASH="$new_hash"
 }
 
+# Record a job claim in git by committing the .job file's removal from the tracked
+# queue/pending/ dir. See the call site for why this is load-bearing: without it
+# every pull re-materialises the job and the mirror re-runs forever.
+claim_job_in_git() {
+  local filename="$1"
+  cd "$REPO_DIR" || return 1
+
+  # Nothing tracked at that path (e.g. a locally-dropped job) → nothing to claim.
+  if ! git ls-files --error-unmatch -- "queue/pending/$filename" >/dev/null 2>&1; then
+    return 0
+  fi
+
+  git rm -q --cached --ignore-unmatch -- "queue/pending/$filename" || return 1
+  git commit -q -m "queue: claim $filename (worker)" \
+      -- "queue/pending/$filename" || return 1
+
+  # Push so OTHER machines stop seeing the job as pending too. A push failure is
+  # not fatal — the claim is committed locally and the next push carries it.
+  git push -q origin HEAD || return 1
+  log "Claimed $filename in git (removed from tracked queue/pending)"
+  return 0
+}
+
 commit_and_push() {
   local msg="$1"
   local domain="$2"
@@ -362,6 +385,25 @@ process_job_file() {
 
   # Move to processing
   mv "$job_file" "$PROCESSING_DIR/$filename"
+
+  # ── claim the job IN GIT, or it runs forever ──────────────────────────────
+  # queue/pending/ is TRACKED; queue/processing|done|failed/ are gitignored. So
+  # moving the .job file only claims it on THIS machine — the deletion from
+  # queue/pending/ is never recorded, and the next `git pull` re-materialises the
+  # job file and the whole mirror runs again.
+  #
+  # 2026-08-04: exactly that happened. radiondistics was re-mirrored a second
+  # time, opening duplicate PRs #55 and #56 for work already merged in #52 and
+  # closed in #53, and force-updating mirror/radiondistics.com. The amasci
+  # Wayback backfill would have looped the same way, indefinitely.
+  #
+  # Committing the removal is what actually claims the job. Path-scoped, never
+  # -A. Non-fatal: a push failure must not stop a good mirror — the job is
+  # already out of pending locally, and the next successful push carries it.
+  if [[ "$offline" != "true" ]]; then
+    claim_job_in_git "$filename" || \
+      log "NOTE: could not record job claim in git (next push will carry it)"
+  fi
 
   # Capture start time for the result.json we write on completion.
   local started_at
