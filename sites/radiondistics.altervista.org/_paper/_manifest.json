@@ -5,9 +5,9 @@
   "pages_total": 56,
   "pages_reachable": 56,
   "pages_unreached": 0,
-  "body_chars": 1163231,
-  "extractor": "pandoc",
-  "generated": "2026-08-03T15:02:38Z",
+  "body_chars": 1044025,
+  "extractor": "builtin",
+  "generated": "2026-08-04T08:21:32Z",
   "pages": [
     {
       "order": 1,
@@ -44,7 +44,7 @@
         "guglielmo_marconi_nobel_lecture.htm",
         "capacitive_grounding.htm"
       ],
-      "chars": 11534
+      "chars": 9293
     },
     {
       "order": 2,
@@ -75,7 +75,7 @@
         "errante_gaseous_core_atomic_resonance_nuclear_reactor.htm",
         "antonio_meucci.htm"
       ],
-      "chars": 21739
+      "chars": 19305
     },
     {
       "order": 3,
@@ -112,7 +112,7 @@
         "guglielmo_marconi_premio_nobel.htm",
         "messa_a_terra_capacitiva.htm"
       ],
-      "chars": 11931
+      "chars": 9477
     },
     {
       "order": 4,
@@ -151,7 +151,7 @@
         "antenna_errante.htm",
         "detector.htm"
       ],
-      "chars": 9912
+      "chars": 7734
     },
     {
       "order": 5,
@@ -185,7 +185,7 @@
         "vgng.htm",
         "quadripole.htm"
       ],
-      "chars": 9314
+      "chars": 6546
     },
     {
       "order": 6,
@@ -211,7 +211,7 @@
         "scientific_index.htm",
         "communications_index.htm"
       ],
-      "chars": 6565
+      "chars": 1906
     },
     {
       "order": 7,
@@ -252,7 +252,7 @@
         "contact.htm",
         "antonio_meucci.htm"
       ],
-      "chars": 22637
+      "chars": 15059
     },
     {
       "order": 8,
@@ -296,7 +296,7 @@
         "balanced_lines.htm",
         "hertzian_radiation.htm"
       ],
-      "chars": 18046
+      "chars": 14633
     },
     {
       "order": 9,
@@ -341,7 +341,7 @@
         "errante_apparatus.htm",
         "capacitive_grounding.htm"
       ],
-      "chars": 26699
+      "chars": 25669
     },
     {
       "order": 10,
@@ -386,7 +386,7 @@
         "hertzian_radiation.htm",
         "capacitive_grounding.htm"
       ],
-      "chars": 23811
+      "chars": 20427
     },
     {
       "order": 11,
@@ -423,7 +423,7 @@
         "balanced_lines.htm",
         "multiband.htm"
       ],
-      "chars": 13621
+      "chars": 11366
     },
     {
       "order": 12,
@@ -481,7 +481,7 @@
         "tlc.htm",
         "suppressor.htm"
       ],
-      "chars": 42269
+      "chars": 39646
     },
     {
       "order": 13,
@@ -533,7 +533,7 @@
         "capacitive_grounding.htm",
         "fessenden_marconi_radio_differences.htm"
       ],
-      "chars": 52820
+      "chars": 61085
     },
     {
       "order": 14,
@@ -573,7 +573,7 @@
         "balun_errante.htm",
         "hertzian_radiation.htm"
       ],
-      "chars": 15535
+      "chars": 13788
     },
     {
       "order": 15,
@@ -598,7 +598,7 @@
         "scientific_index.htm",
         "contact.htm"
       ],
-      "chars": 40384
+      "chars": 40522
     },
     {
       "order": 16,
@@ -624,7 +624,7 @@
         "communications_index.htm",
         "contact.htm"
       ],
-      "chars": 10214
+      "chars": 8475
     },
     {
       "order": 17,
@@ -664,7 +664,7 @@
         "detector_it.htm",
         "distributori.htm"
       ],
-      "chars": 8832
+      "chars": 9475
     },
     {
       "order": 18,
@@ -699,7 +699,7 @@
         "quadripolo.htm",
         "distributori.htm"
       ],
-      "chars": 8624
+      "chars": 8702
     },
     {
       "order": 19,
@@ -741,7 +741,7 @@
         "contact.htm",
         "antonio_meucci.htm"
       ],
-      "chars": 22392
+      "chars": 19780
     },
     {
       "order": 20,
@@ -786,7 +786,7 @@
         "linee_bilanciate.htm",
         "radiazione_hertziana.htm"
       ],
-      "chars": 23506
+      "chars": 21081
     },
     {
       "order": 21,
@@ -830,7 +830,7 @@
         "apparato_errante.htm",
         "messa_a_terra_capacitiva.htm"
       ],
-      "chars": 27998
+      "chars": 27353
     },
     {
       "order": 22,
@@ -875,7 +875,7 @@
         "radiazione_hertziana.htm",
         "messa_a_terra_capacitiva.htm"
       ],
-      "chars": 24258
+      "chars": 20328
     },
     {
       "order": 23,
@@ -912,7 +912,7 @@
         "linee_bilanciate.htm",
         "multibanda.htm"
       ],
-      "chars": 14351
+      "chars": 12056
     },
     {
       "order": 24,
@@ -969,7 +969,7 @@
         "tlc.htm",
         "soppressore.htm"
       ],
-      "chars": 42419
+      "chars": 41024
     },
     {
       "order": 25,
@@ -1021,7 +1021,7 @@
         "messa_a_terra_capacitiva.htm",
         "fessenden_marconi_radio_differences.htm"
       ],
-      "chars": 51826
+      "chars": 56575
     },
     {
       "order": 26,
@@ -1061,7 +1061,7 @@
         "balun_errante_it.htm",
         "radiazione_hertziana.htm"
       ],
-      "chars": 16734
+      "chars": 14630
     },
     {
       "order": 27,
@@ -1104,7 +1104,7 @@
         "hertzian_radiation.htm",
         "balanced_lines.htm"
       ],
-      "chars": 17038
+      "chars": 13769
     },
     {
       "order": 28,
@@ -1142,7 +1142,7 @@
         "balanced_lines.htm",
         "hertzian_radiation.htm"
       ],
-      "chars": 17041
+      "chars": 15187
     },
     {
       "order": 29,
@@ -1187,7 +1187,7 @@
         "balanced_lines.htm",
         "bvgng.htm"
       ],
-      "chars": 14348
+      "chars": 9264
     },
     {
       "order": 30,
@@ -1217,7 +1217,7 @@
         "suppressor.htm",
         "detector.htm"
       ],
-      "chars": 7810
+      "chars": 4923
     },
     {
       "order": 31,
@@ -1261,7 +1261,7 @@
         "balanced_lines.htm",
         "hertzian_radiation.htm"
       ],
-      "chars": 18069
+      "chars": 14584
     },
     {
       "order": 32,
@@ -1303,7 +1303,7 @@
         "capacitive_grounding.htm",
         "rf_lighting_devices/index.html"
       ],
-      "chars": 20114
+      "chars": 16737
     },
     {
       "order": 33,
@@ -1343,7 +1343,7 @@
         "suppressor.htm",
         "hertzian_radiation.htm"
       ],
-      "chars": 15848
+      "chars": 13381
     },
     {
       "order": 34,
@@ -1395,7 +1395,7 @@
         "balanced_lines.htm",
         "hertzian_radiation.htm"
       ],
-      "chars": 25741
+      "chars": 21888
     },
     {
       "order": 35,
@@ -1432,7 +1432,7 @@
         "balanced_lines.htm",
         "hertzian_radiation.htm"
       ],
-      "chars": 13582
+      "chars": 10935
     },
     {
       "order": 36,
@@ -1468,7 +1468,7 @@
         "detector.htm",
         "balanced_lines.htm"
       ],
-      "chars": 29712
+      "chars": 12103
     },
     {
       "order": 37,
@@ -1511,7 +1511,7 @@
         "messa_a_terra_capacitiva.htm",
         "rf_lighting_devices/index_it.htm"
       ],
-      "chars": 21893
+      "chars": 18415
     },
     {
       "order": 38,
@@ -1559,7 +1559,7 @@
         "contact.htm",
         "hertzian_radiation.htm"
       ],
-      "chars": 77282
+      "chars": 74076
     },
     {
       "order": 39,
@@ -1593,7 +1593,7 @@
         "bvgng.htm",
         "multiband.htm"
       ],
-      "chars": 13279
+      "chars": 11227
     },
     {
       "order": 40,
@@ -1603,7 +1603,7 @@
       "reachable_from_entry": true,
       "images": [],
       "internal_links": [],
-      "chars": 182
+      "chars": 54
     },
     {
       "order": 41,
@@ -1630,7 +1630,7 @@
         "contact.htm",
         "balanced_lines.htm"
       ],
-      "chars": 8728
+      "chars": 7873
     },
     {
       "order": 42,
@@ -1663,7 +1663,7 @@
         "contact.htm",
         "guglielmo_marconi_nobel_lecture.htm"
       ],
-      "chars": 56652
+      "chars": 65687
     },
     {
       "order": 43,
@@ -1706,7 +1706,7 @@
         "radiazione_hertziana.htm",
         "linee_bilanciate.htm"
       ],
-      "chars": 17480
+      "chars": 14685
     },
     {
       "order": 44,
@@ -1744,7 +1744,7 @@
         "linee_bilanciate.htm",
         "radiazione_hertziana.htm"
       ],
-      "chars": 18435
+      "chars": 16673
     },
     {
       "order": 45,
@@ -1790,7 +1790,7 @@
         "distributori.htm",
         "bvgng_it.htm"
       ],
-      "chars": 17568
+      "chars": 16354
     },
     {
       "order": 46,
@@ -1821,7 +1821,7 @@
         "detector_it.htm",
         "distributori.htm"
       ],
-      "chars": 8062
+      "chars": 5601
     },
     {
       "order": 47,
@@ -1866,7 +1866,7 @@
         "linee_bilanciate.htm",
         "radiazione_hertziana.htm"
       ],
-      "chars": 22295
+      "chars": 19860
     },
     {
       "order": 48,
@@ -1889,7 +1889,7 @@
       "internal_links": [
         "contact.htm"
       ],
-      "chars": 11026
+      "chars": 8799
     },
     {
       "order": 49,
@@ -1929,7 +1929,7 @@
         "soppressore.htm",
         "radiazione_hertziana.htm"
       ],
-      "chars": 16986
+      "chars": 14707
     },
     {
       "order": 50,
@@ -1981,7 +1981,7 @@
         "linee_bilanciate.htm",
         "radiazione_hertziana.htm"
       ],
-      "chars": 26514
+      "chars": 22745
     },
     {
       "order": 51,
@@ -2019,7 +2019,7 @@
         "linee_bilanciate.htm",
         "radiazione_hertziana.htm"
       ],
-      "chars": 14405
+      "chars": 11701
     },
     {
       "order": 52,
@@ -2054,7 +2054,7 @@
         "bvgng_it.htm",
         "multibanda.htm"
       ],
-      "chars": 11252
+      "chars": 12174
     },
     {
       "order": 53,
@@ -2073,7 +2073,7 @@
         "detector.htm",
         "rf_lighting_devices/radio_interference_from_high_efficiency_fluorescent_lights.htm"
       ],
-      "chars": 26629
+      "chars": 24476
     },
     {
       "order": 54,
@@ -2092,7 +2092,7 @@
         "detector_it.htm",
         "rf_lighting_devices/radio_interference_from_high_efficiency_fluorescent_lights.htm"
       ],
-      "chars": 29170
+      "chars": 25731
     },
     {
       "order": 55,
@@ -2108,7 +2108,7 @@
       "internal_links": [
         "rf_lighting_devices/index.html"
       ],
-      "chars": 4470
+      "chars": 2317
     },
     {
       "order": 56,
@@ -2123,7 +2123,7 @@
         "rf_lighting_devices/index.html",
         "rf_lighting_devices/contact.htm"
       ],
-      "chars": 3649
+      "chars": 2164
     }
   ]
 }
