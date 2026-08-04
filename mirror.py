@@ -12,10 +12,12 @@ Optional: pip install scrapling (better TLS fingerprinting for live sites)
 Falls back to stdlib urllib if scrapling is not installed.
 """
 
+import concurrent.futures
 import os
 import re
 import sys
 import json
+import threading
 import time
 import shutil
 import hashlib
@@ -51,6 +53,9 @@ WEB_EXTS = {'.html', '.htm', '.php', '.asp', '.aspx', '.jsp', '.css', '.js', '.x
 DEFAULT_WAYBACK_DELAY = 1.0
 DEFAULT_LIVE_DELAY = 0.5
 MAX_DISCOVER_PAGES = 500
+# Wayback replay is ~13s/URL; single-threaded that is days for a big site.
+# Modest on purpose — this reads someone else's archive.
+DEFAULT_WAYBACK_WORKERS = 6
 MAX_LINK_DEPTH = 5
 BATCH_SIZE = 50
 BATCH_PAUSE = 10
@@ -958,7 +963,7 @@ def generate_index(output_dir, domain, source='web.archive.org', progress=None):
 
 # ── 15. Main loop — wayback mode ────────────────────────────────────────────
 
-def run_wayback(domain, resume=False, ts_from=None, ts_to=None, delay=None, output_base=None, dry_run=False, path_filter=None):
+def run_wayback(domain, resume=False, ts_from=None, ts_to=None, delay=None, output_base=None, dry_run=False, path_filter=None, workers=None):
     """3-phase wayback mirror: CDX discovery -> download -> index."""
     global _current_delay
 
@@ -970,6 +975,7 @@ def run_wayback(domain, resume=False, ts_from=None, ts_to=None, delay=None, outp
     init_logging(output_dir)
 
     _current_delay = delay or DEFAULT_WAYBACK_DELAY
+    workers = max(1, int(workers or DEFAULT_WAYBACK_WORKERS))
 
     log("=" * 60)
     log(f"WAYBACK MIRROR: {domain}")
@@ -1126,40 +1132,63 @@ def run_wayback(domain, resume=False, ts_from=None, ts_to=None, delay=None, outp
         new_downloads = 0
         start_time = time.time()
 
-        for url_info in urls:
+        # ── concurrency ───────────────────────────────────────────────────────
+        # Wayback replay latency, not our politeness delay, is the wall here.
+        # Measured on amasci.com 2026-08-04: 60 URLs in 14m15s = 14.25s per URL
+        # with ZERO failures, i.e. one request each — so there is no retry waste
+        # to remove, the fetch itself is just slow. Single-threaded, 20,440 URLs
+        # projects to ~81 HOURS (3.4 days). At 6 workers it is ~13h.
+        #
+        # So the download phase is a bounded thread pool. Deliberately modest:
+        # this is someone else's archive being read, and hammering it earns 429s
+        # and helps nobody. Each worker still sleeps `delay` after its fetch, so
+        # the effective request rate is workers/delay, not unbounded.
+        pending = [u for u in urls if u['original'] not in downloaded]
+        count = total - len(pending)   # already-done URLs count as progress
+        log(f"Downloading {len(pending):,} of {total:,} with {workers} worker(s) "
+            f"(delay {_current_delay}s each)")
+
+        lock = threading.Lock()
+
+        def fetch_one(url_info):
             original = url_info['original']
+            try:
+                ok, size, ts = download_wayback_url(
+                    original, url_info.get('timestamp', ''), domain, output_dir,
+                    _current_delay)
+            except Exception as e:                      # never let one URL kill the pool
+                return original, False, 0, '', repr(e)
+            time.sleep(_current_delay)                  # politeness, per worker
+            return original, ok, size, ts, None
 
-            if original in downloaded:
-                count += 1
-                continue
+        with concurrent.futures.ThreadPoolExecutor(max_workers=workers) as pool:
+            futures = {pool.submit(fetch_one, ui): ui for ui in pending}
+            for fut in concurrent.futures.as_completed(futures):
+                original, ok, size, ts, err = fut.result()
+                with lock:
+                    count += 1
+                    if ok:
+                        downloaded.add(original)
+                        new_downloads += 1
+                        if new_downloads % 10 == 0:
+                            path = sanitize_path(original)
+                            log(f"[{count}/{total}] OK {path[:70]} ({size:,}b) @{ts}")
+                    else:
+                        failed.append({'url': original,
+                                       'error': err or 'all timestamps failed'})
+                        log(f"[{count}/{total}] FAIL {original[:70]}")
 
-            success, size, ts = download_wayback_url(
-                original, url_info.get('timestamp', ''), domain, output_dir, _current_delay
-            )
-
-            if success:
-                downloaded.add(original)
-                new_downloads += 1
-                if new_downloads % 10 == 0:
-                    path = sanitize_path(original)
-                    log(f"[{count+1}/{total}] OK {path[:70]} ({size:,}b) @{ts}")
-            else:
-                failed.append({'url': original, 'error': 'all timestamps failed'})
-                log(f"[{count+1}/{total}] FAIL {original[:70]}")
-
-            count += 1
-            time.sleep(_current_delay)
-
-            # Batch pause + atomic save
-            if count % BATCH_SIZE == 0:
-                progress['downloaded'] = list(downloaded)
-                progress['failed'] = failed
-                save_progress(progress, progress_file)
-                elapsed = time.time() - start_time
-                rate = count / max(elapsed, 1) * 60
-                pct = count * 100 // max(total, 1)
-                log(f"--- Progress: {count}/{total} ({pct}%) | New: {new_downloads} | Rate: {rate:.0f}/min ---")
-                time.sleep(BATCH_PAUSE)
+                    if count % BATCH_SIZE == 0:
+                        progress['downloaded'] = list(downloaded)
+                        progress['failed'] = failed
+                        save_progress(progress, progress_file)
+                        elapsed = time.time() - start_time
+                        rate = count / max(elapsed, 1) * 60
+                        pct = count * 100 // max(total, 1)
+                        eta_h = ((total - count) / max(rate, 0.01)) / 60
+                        log(f"--- Progress: {count}/{total} ({pct}%) | "
+                            f"New: {new_downloads} | Rate: {rate:.0f}/min | "
+                            f"ETA {eta_h:.1f}h ---")
 
         progress['downloaded'] = list(downloaded)
         progress['failed'] = failed
@@ -2047,6 +2076,7 @@ Smart mode (auto-detects):
     wb.add_argument('--dry-run', action='store_true', help='Run CDX discovery only, show URL count without downloading')
     wb.add_argument('--output-dir', dest='output_dir', help='Override output base directory')
     wb.add_argument('--path', dest='path_filter', help='Only download URLs containing this path (e.g. /ine/)')
+    wb.add_argument('--workers', type=int, default=None, help=f'Concurrent Wayback fetches (default: {DEFAULT_WAYBACK_WORKERS}). Wayback replay is ~13s/URL, so this is the only real speed lever.')
 
     # live
     lv = sub.add_parser('live', help='Live crawl a website')
@@ -2082,7 +2112,8 @@ Smart mode (auto-detects):
         run_wayback(args.domain, resume=args.resume,
                     ts_from=args.ts_from, ts_to=args.ts_to, delay=args.delay,
                     output_base=output_base, dry_run=getattr(args, 'dry_run', False),
-                    path_filter=getattr(args, 'path_filter', None))
+                    path_filter=getattr(args, 'path_filter', None),
+                    workers=getattr(args, 'workers', None))
     elif args.mode == 'live':
         run_live(args.url, seeds_file=args.seeds, delay=args.delay,
                  max_pages=args.max_pages, output_base=output_base,
