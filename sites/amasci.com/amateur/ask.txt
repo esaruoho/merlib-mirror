@@ -1,0 +1,23 @@
+
+<li><A HREF=http://shuttle.nasa.gov/sts-69/crew/question.html>Ask a Shuttle Astronaut</A>
+<li><A HREF=http://www2.ari.net/home/odenwald/qadir/qanda.html>Ask an Astronomer</A>
+<li><A HREF=http://www.atlcard.com/ask_md.html>Ask a Cardiologist</A>
+<li><A HREF=http://www.chem.lsu.edu/form.html>Ask a Chemist</A>
+<li><A HREF=http://www.intel.com/intel/educate/kids/askeng.htm>Ask about Computers</A>
+<li><A HREF="http://www.rain.org/~inverts/curator.htm">Ask a Curator</a> (Natural History, Zoology)
+<li><A HREF="http://www.dentistinfo.com/aska.htm">Ask a Dentist</a>
+<li><A HREF=http://www.hoptechno.com/rdindex.htm>Ask a Dietician</A>
+<li><A HREF="http://www.rain.org/~medmall/askadoc.htm">Ask a doctor</a>
+<li><A HREF=http://healthnet.ivi.com/common/html/askques.htm>Ask a Doctor</A>
+<li><A HREF=http://tonys.ecology.umn.edu/resources/expert/expert.cgi>Ask an Ecologist</A>
+<li><A HREF="http://walrus.wr.usgs.gov/docs/ask-a-ge.html">Ask a Geologist</a>
+<li><A HREF=http://wwwdwatcm.wr.usgs.gov/askhyd.html>Ask an Hydrologist</A>
+<li><A HREF="http://www.weather.com/metnet.html">Ask a Meteorologist</a>
+<li><A HREF=http://crusher.bev.net/education/SeaWorld/ask_shamu/asintro.html>Ask an Oceanographer</A>
+<li><A HREF="http://denr1.igis.uiuc.edu/isgsroot/dinos/rjjinput_form.html">Ask a Paleontologist</a>
+<li><A HREF=http://www.wilmington.net/dees/ask.html>Ask a Pharmacologist</A>
+<li><A HREF=http://alcom.kent.edu/ALCOM/K12/ASK/Ask_feedback.html>Physical Sciences</A>
+<li><A HREF=http://www.ag.auburn.edu/~mwooten/form1.html>Population Genetics</A>
+<li><A HREF="http://volcano.und.nodak.edu/vwdocs/ask_a.html">Ask a Volcanologist</a>
+
+

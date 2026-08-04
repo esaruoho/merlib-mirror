@@ -1,0 +1,132 @@
+Science Teachers' Business Cards 
+
+-->
+
+ AMATEUR SCI. | 
+
+ GOOD STUFF | 
+
+ NEW STUFF | 
+
+ SEARCH 
+
+ Google: 
+
+ Science Teachers' Business Card Ideas 
+ &copy;1997 William J. Beaty 
+
+- hole with foil, pinhole for seeing eye-entopic phenom
+- hole with foil, dual pinhole for 2slit diffraction
+- hole w/congo blue
+- hole w/fresnel prism, walk funny or feel taller
+- hidden fluor stamp ink URL, for UV light activities
+- green film, use double-stick tape
+- FS mirror for loudspeaker w/laser pointer
+
+Print a starfield on the card (black random stars.) 
+Photocopy the same pattern onto transparencies. Place 
+them together, rotate slightly, and weird circular 
+"swirl" appears. Move it very slightly and the "swirl"
+moves rapidly. A random-moire effect I stumbled across 
+in the 1980s.
+
+Cut up a large thin flexible fresnel lens. Every piece still works, but 
+most will act like lens+prism. 9" fresnel sheets can be found for $2.
+
+Card with phosphorescent ink artwork or message. But use Strontium 
+Aluminate pigment, it glows blue instead of green, and keeps glowing 
+about 10X longer than zinc sulfide cupric.
+
+Print out cards on "Goldenrod" orange paper. It turns bright red in 
+alkaline, ammonia Windex etc. Nasty humor: make "saliva test strip" 
+portion on the card, with printed instructions to wet it. Rub a tiny bit 
+of dry baking soda on the test section, but only on certain cards. When 
+wet, only those cards turn red. "ALIEN DNA TEST, WERE THE UFO PILOTS 
+ACTUALLY SOME OF YOUR ANCESTORS?" Also, if the card is wet with salt 
+water, a 9V battery terminal will turn it red and anti-red (make red 
+marks, then rotate the battery to erase them again.) Hidden message: 
+block-print some transparent krylon paint onto cards. When wetted with 
+bicarb water or ammonia, the unpainted parts turn red.
+
+Inexpensive: buy thermochromic color-change ink or paint (find pigment 
+powder on eBay.) Use it to coat the cards yourself. The usual type is 
+black or magenta, then vanishes at 85degF. The black ink can be used to 
+hide photos or messages, then revealed when warmed w/hands or under your 
+arm. Expensive is custom run of promotional ad color-change cards from 
+Hallcrest
+
+Card with a hole in the center, piece of "congo blue" filter over one 
+side, "Primary Red" over the other side. Look through the filters at 
+bright outdoors, and you see near-IR scenery.
+
+Photocopy some fine Moire patterns onto transparent laserprinter sheets, 
+cut up the sheets. You can even make a 3-cycle animation on a card, and 
+provide a transparent moire grating card which slides over the image to 
+animate.
+
+Double-slit diffraction card: make a card with a small hole, aluminum 
+foil glued over hole. Make a dual-tip needle hole-puncher with adjustable 
+needle spacing. Poke paired-pinholes in each foil. When placed against 
+eye in the sun, you see "Bokeh" disk. But if done right (very small 
+holes, very close together,) there will be vertical stripes from 2-slit 
+interference, e.g. http://www.fredmiranda.com/forum/topic/880700/
+
+Same as above, but single pinhole. Place it over eye and view sun. In the 
+"Bokeh" disk you see several eye entopic phenomena
+
+If you can have some 1/32" plastic sheet cut up into cards, you can make 
+your own inexpensive 3D image plates. 3 or 4 photos taken from different 
+horizontal positions, sliced into narrow vertical strips and interleaved. 
+Then a moire transparency which acts as pinhole lens (black opaque with 
+narrow vertical slits.) The color image goes on the back of the clear 
+plastic spacer-plate. Slide the moire transparency around until you see 
+the 3D. (If the 3D image is a skeletal polyhedron or similar, then the 
+"wrong" position of the moire sheet will turn it inside-out, like a 
+bowl.)
+
+Painted card with zinc sulfide powder and burned thorium lantern mantel 
+powder, sparkles constantly in pitch dark room. (Joking!)
+
+- mica $2.85 grainger 1507607 for heatgun, crossed polarizers
+- metal powder packet for rubbing alcohol bowl
+- congo blue & red, and UV sheets
+- printed IR sign (need special black paper (blue dye))
+- goldenrod paper, joke cards
+- goldenrod paper, bicarb-soaked paper
+- goldenrod paper soaked in salt
+- various moire transparencies, random stars, animated cat, 3D sign
+- green mag film
+- green mag card w/sheet magnet, supermag chip
+- 3D postcard sign layers, need 1/32" .0625 polycarb
+- Business card which is also a tiny paper envelope
+- "9-volt laboratory&trade;," just add a 9v batt
+- "Flat Science&trade;", slightly larger than business cards
+- Red and green transparent plastic for "Red Green Electricity" and a few 2" disks of red and 
+green for showing static electric imbalance
+- 2 LEDs, 2 FETs, 9V batt clip, for Charge Detector activity
+- Swatch of xxxx steel wool for oil-bottle magnet viewer (or even a
+ packet of chopped-up steel wool powder)
+- Adhesive foil, tiny test tubes, for pop-bottle electrostatic motor
+- Moire pattern sheets, weird stars effect (printout onto transparencies)
+- Magnet rubber and tiny supermagnet (for green magnetic film, secret messages)
+- Green magnet-detector film, laminated into cards (a bit expensive)
+- NE-2 neon pilot light for static electricity activity
+- Glass beads packet for frying pan and flashlight bulb activity
+- square of black polycarbonate plastic for hand-drawn holograms
+- a simple hand-drawn hologram of the letter "V" (stamp these out with embossing?)
+- scratch-holo, little picture made with spinning dremel tool
+- packet of zinc sulphide glow powder, tiny sample of blue 7-hour glow powder
+- Website CDROM, entire amasci/scienceclub.org contents
+- Plastic with fine lines for "ghost orb detector camera"
+- Mirrored polycarb for small disgustoscope with score-and-snap lines
+- Polaroid plastic and stressed clear tape or chip of polycarbonate for pliers
+- Slightly dangerous
+ Carbon cloth veil and a dead CDROM (for microwave oven plasma)
+ Theatrical filter squares, congo blue and red, the DIY infrared filter 
+ small cube of foam-soap
+ mexican snack food cartwheels
+
+/amateur/buscards.html 
+
+Created and maintained by Bill 
+Beaty . Mail me at: .

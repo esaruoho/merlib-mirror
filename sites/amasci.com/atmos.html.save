@@ -1,0 +1,165 @@
+
+<html>
+<head>
+<link rev="made" href="mailto:billb@eskimo.com">
+<title>ADOBE ATMOSPHERE: links</title>
+<meta http-equiv="keywords" content="vrml,virtual,worlds,avatar">
+</head>
+
+<body bgcolor="#ffffff">
+
+
+<center>
+<TABLE cellpadding=5 summary="Navigation links"><TR>
+<TD ALIGN="CENTER">
+<a href="/">SCIENCE HOBBYIST</a><br></TD>
+<TD ALIGN="CENTER">
+<a href="/search.html">HELP!</a><br></TD>
+<TD ALIGN="CENTER">
+<a href="/unew.html">GOOD STUFF</a><br></TD>
+<TD ALIGN="CENTER">
+<a href="/news.html">NEW STUFF</a><br></TD>
+</TR></TABLE>
+</center>
+
+<font size=4>
+
+<H1>ATMOSPHERE Virtual Reality worlds</h1>
+
+<h2>ADOBE site</h2>
+<ul>
+<li><a href="http://www.adobe.com/products/atmosphere/sampleworlds.html">Adobe worlds</a>
+<li><a href="http://www.adobe.com/products/atmosphere/">Adobe ATMOSPHERE home page</a>
+<li><a href="http://www.adobe.com/products/atmosphere/avatars.html">Avatars at Adobe</a>
+<li><a href="http://www.adobeforums.com/cgi-bin/webx.fcgi">Web forum</a>
+<li><a href="http://www.adobe.com:82/products/atmosphere/samplefiles.html">World samples for Builder</a>
+<li><a href=""></a>
+</ul>
+
+<h2>MEETINGPAGE site</h2>
+<ul>
+<li><a href="http://www.adobe.com/products/atmosphere/worlds/HomeWorld/HomeWorld.aer">Atmosphere
+homeworld</a>
+<li><a href="http://www.meetingpage.com/communities/atmosphere/gallery.html">Gallery of worlds</a>
+<li><a href="http://www.meetingpage.com/communities/atmosphere/world-loaders.html">More avatars</a>
+<li><a href="http://www.meet3d.com">meet3d.com</a>
+<li><a href=""></a>
+</ul>
+
+<h2>Other pages</h2>
+<ul>
+<li><a href="http://www.geocities.com/atmoavatars/main.html">Big list of avatar URLs</a> (geocities)
+<li><a href="http://www.dmu.com/atmosphere/gal0.html">Unofficial Gallery</a> (new worlds)
+<li><a href="http://roce.org/atmosphere.html">Roce</a> avatars, tutorials
+<li><a href=""></a>
+<li><a href="http://sifter.org/atmo/">sifter.org worlds list</a>
+<li><a href="http://www.activeworlds.com/">activeworlds.com</a>
+<li><a href="http://www.curiouslabs.com">Poser</a>, and <a href="
+/goto http://www.curiouslabs.com/worlds/curiousworld/curiousworld.aer">
+world</a>
+<li><a href="http://3dgraphics.about.com/compute/3dgraphics/index.htm">about.com: VRML</a>
+</ul>
+
+
+<pre>
+
+My avatars
+/avatar http://www.halcyon.com/sciclub/faulty/Test.aer  HEADLESS
+/avatar http://www.halcyon.com/sciclub/yel/yelsign.aer  "WORLD IS CLOSED"
+/avatar /graphics/avs/nosign/nosign.aer "LYING"
+
+Adobe Worlds
+
+/goto http://www.adobe.com/products/atmosphere/worlds/HomeWorld/HomeWorld.aer
+/goto http://www.adobe.com/products/atmosphere/worlds/digispace/digispace.aer
+/goto http://www.adobe.com/products/atmosphere/worlds/lostnight/lostnight.aer
+/goto http://www.adobe.com/products/atmosphere/worlds/velocitygames/velocitygames.aer
+/goto http://www.adobe.com/products/atmosphere/worlds/wizards/wizards.aer
+/goto http://www.adobe.com/products/atmosphere/worlds/stonehenge/stonehenge.aer
+/goto http://www.adobe.com/products/atmosphere/worlds/Khufu/Khufu.aer
+/goto http://www.adobe.com/products/atmosphere/worlds/hex/hex.aer
+/goto http://www.adobe.com/products/atmosphere/worlds/VeniceChurchChat/VeniceChurchChat.aer
+/goto http://www.adobe.com/products/atmosphere/worlds/CellX/CellX.aer
+/goto http://www.adobe.com/products/atmosphere/worlds/TeaGardenChat/TeaGardenChat.aer
+/goto http://www.adobe.com/products/atmosphere/worlds/CoffeHouseChat/CoffeHouseChat.aer
+/goto http://www.adobe.com/products/atmosphere/worlds/SouthSeasChat/SouthSeasChat.aer
+/goto http://www.adobe.com/products/atmosphere/worlds/ChezWhat/ChezWhat.aer
+/goto http://www.adobe.com/products/atmosphere/worlds/metropolis/metropolis.aer
+
+
+Other Worlds
+
+/goto http://www.adobe.com/products/atmosphere/worlds/digitalspace/ds_home/ds_home.aer
+/goto http://www.curiouslabs.com/worlds/curiousworld/curiousworld.aer
+/goto http://www.meet3d.org/content/atmo/ds/asto/DrillRoom.aer
+/goto http://www.meet3d.org/content/atmo/ds/cars/aa.aer
+/goto http://www.meet3d.org/content/atmo/ds/dock/DockingBay.aer
+/goto http://www.meet3d.org/content/atmo/ds/team/TeamRoom.aer
+/goto http://www.meet3d.org/content/atmo/ds/fmars/fmars.aer
+/goto http://www.meet3d.org/content/atmo/ds/office/office.aer
+/goto http://www.meet3d.org/content/atmo/ds/pwr/PowerRoom.aer
+/goto http://www.meet3d.org/content/atmo/ds/trade/fair.aer
+/goto http://www.meet3d.org/content/atmo/ds/zen/zen.aer
+/goto http://www.meet3d.org/content/atmo/ds/Maze/maze.aer
+/goto http://www.meet3d.org/content/atmo/ds/gallery/gallery.aer
+/goto http://www.meet3d.org/content/atmo/ds/office2/office2.aer
+/goto http://www.meet3d.org/content/atmo/ds/home/home.aer
+
+
+Avatars at Adobe
+
+/avatar http://www.adobe.com/products/atmosphere/avatars/default/default.aer
+/avatar http://www.adobe.com/products/atmosphere/avatars/bird/bird.aer
+/avatar http://www.adobe.com/products/atmosphere/avatars/minnie/minnie.aer
+/avatar http://www.adobe.com/products/atmosphere/avatars/moe/moe.aer
+/avatar http://www.adobe.com/products/atmosphere/avatars/barney/barney.aer
+/avatar http://www.adobe.com/products/atmosphere/avatars/flo/flo.aer
+/avatar http://www.adobe.com/products/atmosphere/avatars/piper/piper.aer
+/avatar http://www.adobe.com/products/atmosphere/avatars/hand/hand.aer
+/avatar http://www.adobe.com/products/atmosphere/avatars/phone/phone.aer
+
+Avatars at meet3d
+
+/avatar http://www.meet3d.org/content/atmo/ds/avatars/Publish/poser/Brent/Brent.aer
+/avatar http://www.meet3d.org/content/atmo/ds/avatars/Publish/poser/Brian/Brian.aer
+/avatar http://www.meet3d.org/content/atmo/ds/avatars/Publish/poser/Rebecca/Rebecca.aer
+/avatar http://www.meet3d.org/content/atmo/ds/avatars/Publish/poser/Sally/Sally.aer
+/avatar http://www.meet3d.org/content/atmo/ds/avatars/Publish/poser/Silver/Silver.aer
+/avatar http://www.meet3d.org/content/atmo/ds/avatars/Publish/poser/Tiddern/Tiddern.aer
+/avatar http://www.meet3d.org/content/atmo/ds/avatars/Publish/poser/Zyntrezaq/Zyntrezaq.aer
+
+Atmosphere Avatars
+
+/avatar http://www.curiouslabs.com/avatars/manny/manny.aer
+/avatar http://www.meet3d.org/content/atmo/ds/avatars/Publish/atmo/King/king.aer
+/avatar http://www.meet3d.org/content/atmo/ds/avatars/Publish/atmo/m1/M1.aer
+/avatar http://www.meet3d.org/content/atmo/ds/avatars/Publish/atmo/m2/M2.aer
+/avatar http://www.meet3d.org/content/atmo/ds/avatars/Publish/atmo/m3/M3.aer
+/avatar http://www.meet3d.org/content/atmo/ds/avatars/Publish/atmo/Queen/queen.aer
+/avatar http://www.meet3d.org/content/atmo/ds/avatars/Publish/atmo/Tick/tick.aer
+/avatar http://www.meet3d.org/content/atmo/ds/avatars/Publish/atmo/Toot/toot.aer
+/avatar http://www.meet3d.org/content/atmo/ds/avatars/Publish/atmo/tophat/tophat.aer
+
+
+
+
+
+</pre>
+<center>
+<font size=3>
+<a
+href="/atmos.html">/atmos.html</a><br>
+Created and maintained by 
+<a href="/billb.html">Bill Beaty</a>.  Mail me at: 
+<a href="/amateur/amform.html#urls">
+billb@eskimo.com</a>.
+<br>
+
+If you are using Lynx, type "c" to email.
+</center>
+</strong>
+</font>
+</body>
+</html>
+
+

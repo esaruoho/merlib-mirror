@@ -1,0 +1,49 @@
+ORIENTATION OF ICE CRYSTALS IN THE ELECTRIC FIELD OF A THUNDERSTORM
+Vonnegut B,  WEATHER v20, no.10, pp310-312 (1965)
+doi: 10.1002/j.1477-8696.1965.tb02740.x
+
+An interesting and unusual optical phenomenon associated with a thunder- 
+cloud is reported and discussed by Hale(1950), Ludlam(1950), and 
+Lacy(1950).  Early in the afternoon a thundercloud viewed from the north 
+was observed to form a 'bright streamer apparently of cloud projecting 
+northwards from the anvil.' This streamer repeatedly built up slowly and 
+then suddenly disappeared apparently at the same time as a lightning 
+discharge took place.  When I recently came across the report of these 
+observations, I was struck by their similarity to an interesting 
+electrical phenomenon that can readily be demonstrated in the laboratory 
+using the elegant cold-box technique devised by Schaefer(1946). It appears 
+worth describing this possible laboratory analogue to the thunderstorm 
+phenomenon for it adds yet another possible interpretation to those that 
+have already been suggested by Ludlam and Lacy.
+
+If a supercooled cloud in a Schaefer cold-box is seeded (either with dry 
+ice or silver iodide) and illuminated with a beam of light, it can be 
+observed that the ice crystals reflect the light like little mirrors.  As 
+the ice crystal platelets slowly fall, they all become orientated with 
+their princepal axes in the vertical direction so that the light is 
+reflected from their horizontal surfaqces and the cloud appears quite 
+bright in the region where the light is reflected toward the observer 
+(see Fig. 1).  This phenomenon is apparently identical with the sun pillar 
+and sun reflections sometimes observed in the atmosphere (Coons and Gunn 
+1951).
+
+If one performs the experiment of creating a strong electric field in the
+ice-crystal cloud by the introduction of an electrically-charged object
+such as an ebonite rod, it will be observed that the position where the
+cloud appears bright because of reflections from the ice crystals can be
+made to change and move about by changing the position of the electrified
+object.
+
+The electric field apparently causes this effect because it induces
+electrical dipoles in the ice crystals giving rise to forces that tilt
+them as is illustrated in Fig. 2.
+
+According to the descriptions of Hale and Lacy, ice crystals were present
+and it appears possible that the unusual optical effects that they
+observed might have been caused by changes in the orientation of ice
+crystals produced by the strong electric field of the thundercloud.
+
+[Fig. 1]
+
+[Fig. 2]
+

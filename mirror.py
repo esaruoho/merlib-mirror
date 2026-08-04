@@ -12,10 +12,12 @@ Optional: pip install scrapling (better TLS fingerprinting for live sites)
 Falls back to stdlib urllib if scrapling is not installed.
 """
 
+import concurrent.futures
 import os
 import re
 import sys
 import json
+import threading
 import time
 import shutil
 import hashlib
@@ -51,6 +53,9 @@ WEB_EXTS = {'.html', '.htm', '.php', '.asp', '.aspx', '.jsp', '.css', '.js', '.x
 DEFAULT_WAYBACK_DELAY = 1.0
 DEFAULT_LIVE_DELAY = 0.5
 MAX_DISCOVER_PAGES = 500
+# Wayback replay is ~13s/URL; single-threaded that is days for a big site.
+# Modest on purpose — this reads someone else's archive.
+DEFAULT_WAYBACK_WORKERS = 4
 MAX_LINK_DEPTH = 5
 BATCH_SIZE = 50
 BATCH_PAUSE = 10
@@ -751,7 +756,14 @@ FALLBACK_TIMESTAMPS = [
 def download_wayback_url(url, cdx_timestamp, domain, output_dir, delay):
     """Download one URL from Wayback with modifier + timestamp fallback.
 
-    Returns (success, size, timestamp_used).
+    Returns (success, size, timestamp_used, throttled).
+
+    `throttled` exists because archive.org answers 429 under load and fetch_url
+    reports that as an ordinary failure — indistinguishable from a 404. The caller
+    then recorded it as "all timestamps failed", i.e. a THROTTLED request was
+    written down as a permanently dead URL. On amasci that produced 185 "failures"
+    against 65 successes and would have condemned thousands of recoverable pages.
+    A throttle is a "come back later", never a verdict about the content.
     """
     global _current_delay
 
@@ -760,6 +772,13 @@ def download_wayback_url(url, cdx_timestamp, domain, output_dir, delay):
     ext = os.path.splitext(parsed.path)[1].lower()
     modifier = get_wayback_modifier(ext)
 
+    # Already on disk (e.g. from a prior live crawl) → nothing to fetch. Without
+    # this the backfill re-downloads everything the live pass already got, and
+    # 20,440 CDX rows collapse to far fewer distinct local paths anyway.
+    existing = os.path.join(output_dir, path)
+    if os.path.exists(existing) and os.path.getsize(existing) > 0:
+        return True, os.path.getsize(existing), 'on-disk', False
+
     clean_url = url.replace(':80', '')
 
     # Build timestamp list: CDX first, then fallbacks
@@ -767,6 +786,7 @@ def download_wayback_url(url, cdx_timestamp, domain, output_dir, delay):
     timestamps += [t for t in FALLBACK_TIMESTAMPS if t not in timestamps]
 
     consecutive_fails = 0
+    throttled = False
     cdx_extras_loaded = False
     attempts_made = 0
     # Cap grows once CDX extras are loaded so we can actually try them.
@@ -779,6 +799,11 @@ def download_wayback_url(url, cdx_timestamp, domain, output_dir, delay):
         attempts_made += 1
         wayback_url = f"https://web.archive.org/web/{ts}{modifier}/{clean_url}"
         content, _ct, ok = fetch_url(wayback_url)
+        if not ok and isinstance(_ct, str) and 'Rate limited' in _ct:
+            # archive.org is asking us to slow down. Record it and stop trying
+            # more timestamps for this URL — every further attempt is also 429.
+            throttled = True
+            break
 
         if ok and is_valid_content(content, ext):
             # Process HTML
@@ -804,7 +829,7 @@ def download_wayback_url(url, cdx_timestamp, domain, output_dir, delay):
                     with open(txt_path, 'w', encoding='utf-8') as f:
                         f.write(text)
 
-            return True, len(content), ts
+            return True, len(content), ts, False
 
         consecutive_fails += 1
         if consecutive_fails >= CONSECUTIVE_FAIL_BAIL:
@@ -836,7 +861,7 @@ def download_wayback_url(url, cdx_timestamp, domain, output_dir, delay):
             except Exception:
                 pass
 
-    return False, 0, None
+    return False, 0, None, throttled
 
 
 # ── 13. Live download engine ────────────────────────────────────────────────
@@ -958,7 +983,7 @@ def generate_index(output_dir, domain, source='web.archive.org', progress=None):
 
 # ── 15. Main loop — wayback mode ────────────────────────────────────────────
 
-def run_wayback(domain, resume=False, ts_from=None, ts_to=None, delay=None, output_base=None, dry_run=False, path_filter=None):
+def run_wayback(domain, resume=False, ts_from=None, ts_to=None, delay=None, output_base=None, dry_run=False, path_filter=None, workers=None):
     """3-phase wayback mirror: CDX discovery -> download -> index."""
     global _current_delay
 
@@ -970,6 +995,7 @@ def run_wayback(domain, resume=False, ts_from=None, ts_to=None, delay=None, outp
     init_logging(output_dir)
 
     _current_delay = delay or DEFAULT_WAYBACK_DELAY
+    workers = max(1, int(workers or DEFAULT_WAYBACK_WORKERS))
 
     log("=" * 60)
     log(f"WAYBACK MIRROR: {domain}")
@@ -1126,40 +1152,120 @@ def run_wayback(domain, resume=False, ts_from=None, ts_to=None, delay=None, outp
         new_downloads = 0
         start_time = time.time()
 
-        for url_info in urls:
+        # ── concurrency ───────────────────────────────────────────────────────
+        # Wayback replay latency, not our politeness delay, is the wall here.
+        # Measured on amasci.com 2026-08-04: 60 URLs in 14m15s = 14.25s per URL
+        # with ZERO failures, i.e. one request each — so there is no retry waste
+        # to remove, the fetch itself is just slow. Single-threaded, 20,440 URLs
+        # projects to ~81 HOURS (3.4 days). At 6 workers it is ~13h.
+        #
+        # So the download phase is a bounded thread pool. Deliberately modest:
+        # this is someone else's archive being read, and hammering it earns 429s
+        # and helps nobody. Each worker still sleeps `delay` after its fetch, so
+        # the effective request rate is workers/delay, not unbounded.
+        # ── drop what cannot be mirrored before spending requests on it ───────
+        # CDX discovery returns whatever archive.org recorded a 200 for, which on a
+        # WordPress-era site includes the blog's own plumbing: wp-includes/*.php,
+        # wp-admin CSS and images, plus server-side endpoints generally. There is no
+        # static content behind a .php, and wp-admin assets are not archive material.
+        #
+        # Measured on amasci.com: 1,890 of 20,440 discovered URLs (9%) are this.
+        # They cost MORE than a success, because a miss walks the whole
+        # FALLBACK_TIMESTAMPS list before giving up — 45 of the first 79 failures
+        # were /amblog/wp-includes alone. Skipping them also keeps
+        # _failed_downloads.txt meaningful instead of a wall of WordPress noise.
+        def unmirrorable(u):
+            p = urllib.parse.urlparse(u).path
+            low = p.lower()
+            if any(seg in low for seg in ('/wp-includes/', '/wp-admin/',
+                                          '/wp-content/plugins/')):
+                return True
+            return os.path.splitext(low)[1] in ('.php', '.asp', '.aspx', '.jsp',
+                                                '.pl', '.cgi')
+
+        pending = [u for u in urls if u['original'] not in downloaded]
+        skipped_unmirrorable = [u for u in pending if unmirrorable(u['original'])]
+        if skipped_unmirrorable:
+            pending = [u for u in pending if not unmirrorable(u['original'])]
+            log(f"Skipping {len(skipped_unmirrorable):,} unmirrorable URL(s) "
+                f"(server-side / WordPress plumbing) — not fetched, not counted "
+                f"as failures")
+        count = total - len(pending) - len(skipped_unmirrorable)
+        log(f"Downloading {len(pending):,} of {total:,} with {workers} worker(s) "
+            f"(delay {_current_delay}s each)")
+
+        lock = threading.Lock()
+
+        def fetch_one(url_info):
             original = url_info['original']
+            try:
+                ok, size, ts, thr = download_wayback_url(
+                    original, url_info.get('timestamp', ''), domain, output_dir,
+                    _current_delay)
+            except Exception as e:                      # never let one URL kill the pool
+                return original, False, 0, '', repr(e), False
+            time.sleep(_current_delay)                  # politeness, per worker
+            return original, ok, size, ts, None, thr
 
-            if original in downloaded:
-                count += 1
-                continue
+        # Retry PASSES rather than one shot. A 429 means "come back later", so a
+        # throttled URL stays pending instead of being written down as dead, and
+        # each pass backs off further and uses fewer workers. Bounded, so a
+        # genuinely-blocked run still terminates and says so.
+        MAX_PASSES = 6
+        for pass_no in range(1, MAX_PASSES + 1):
+            if not pending:
+                break
+            pass_workers = max(1, workers // (2 ** (pass_no - 1)))
+            throttled_again = []
+            log(f"--- pass {pass_no}/{MAX_PASSES}: {len(pending):,} URL(s), "
+                f"{pass_workers} worker(s) ---")
 
-            success, size, ts = download_wayback_url(
-                original, url_info.get('timestamp', ''), domain, output_dir, _current_delay
-            )
+            with concurrent.futures.ThreadPoolExecutor(max_workers=pass_workers) as pool:
+                futures = {pool.submit(fetch_one, ui): ui for ui in pending}
+                for fut in concurrent.futures.as_completed(futures):
+                    original, ok, size, ts, err, thr = fut.result()
+                    with lock:
+                        if thr:
+                            # Not counted, not failed — retried next pass.
+                            throttled_again.append(futures[fut])
+                            continue
+                        count += 1
+                        if ok:
+                            downloaded.add(original)
+                            new_downloads += 1
+                            if new_downloads % 25 == 0:
+                                path = sanitize_path(original)
+                                log(f"[{count}/{total}] OK {path[:70]} "
+                                    f"({size:,}b) @{ts}")
+                        else:
+                            failed.append({'url': original,
+                                           'error': err or 'all timestamps failed'})
 
-            if success:
-                downloaded.add(original)
-                new_downloads += 1
-                if new_downloads % 10 == 0:
-                    path = sanitize_path(original)
-                    log(f"[{count+1}/{total}] OK {path[:70]} ({size:,}b) @{ts}")
-            else:
-                failed.append({'url': original, 'error': 'all timestamps failed'})
-                log(f"[{count+1}/{total}] FAIL {original[:70]}")
+                        if count % BATCH_SIZE == 0:
+                            progress['downloaded'] = list(downloaded)
+                            progress['failed'] = failed
+                            save_progress(progress, progress_file)
+                            elapsed = time.time() - start_time
+                            rate = count / max(elapsed, 1) * 60
+                            pct = count * 100 // max(total, 1)
+                            eta_h = ((total - count) / max(rate, 0.01)) / 60
+                            log(f"--- Progress: {count}/{total} ({pct}%) | "
+                                f"New: {new_downloads} | Fail: {len(failed)} | "
+                                f"Throttled-deferred: {len(throttled_again)} | "
+                                f"Rate: {rate:.0f}/min | ETA {eta_h:.1f}h ---")
 
-            count += 1
-            time.sleep(_current_delay)
+            pending = throttled_again
+            if pending:
+                backoff = 60 * (2 ** (pass_no - 1))
+                log(f"archive.org throttled {len(pending):,} URL(s) — "
+                    f"backing off {backoff}s before pass {pass_no + 1}. "
+                    f"These are NOT recorded as failures.")
+                time.sleep(backoff)
 
-            # Batch pause + atomic save
-            if count % BATCH_SIZE == 0:
-                progress['downloaded'] = list(downloaded)
-                progress['failed'] = failed
-                save_progress(progress, progress_file)
-                elapsed = time.time() - start_time
-                rate = count / max(elapsed, 1) * 60
-                pct = count * 100 // max(total, 1)
-                log(f"--- Progress: {count}/{total} ({pct}%) | New: {new_downloads} | Rate: {rate:.0f}/min ---")
-                time.sleep(BATCH_PAUSE)
+        if pending:
+            log(f"WARNING: {len(pending):,} URL(s) still throttled after "
+                f"{MAX_PASSES} passes — left PENDING, not marked failed. "
+                f"Re-run with --resume later; this crawl is NOT complete.")
 
         progress['downloaded'] = list(downloaded)
         progress['failed'] = failed
@@ -2047,6 +2153,7 @@ Smart mode (auto-detects):
     wb.add_argument('--dry-run', action='store_true', help='Run CDX discovery only, show URL count without downloading')
     wb.add_argument('--output-dir', dest='output_dir', help='Override output base directory')
     wb.add_argument('--path', dest='path_filter', help='Only download URLs containing this path (e.g. /ine/)')
+    wb.add_argument('--workers', type=int, default=None, help=f'Concurrent Wayback fetches (default: {DEFAULT_WAYBACK_WORKERS}). Wayback replay is ~13s/URL, so this is the only real speed lever.')
 
     # live
     lv = sub.add_parser('live', help='Live crawl a website')
@@ -2082,7 +2189,8 @@ Smart mode (auto-detects):
         run_wayback(args.domain, resume=args.resume,
                     ts_from=args.ts_from, ts_to=args.ts_to, delay=args.delay,
                     output_base=output_base, dry_run=getattr(args, 'dry_run', False),
-                    path_filter=getattr(args, 'path_filter', None))
+                    path_filter=getattr(args, 'path_filter', None),
+                    workers=getattr(args, 'workers', None))
     elif args.mode == 'live':
         run_live(args.url, seeds_file=args.seeds, delay=args.delay,
                  max_pages=args.max_pages, output_base=output_base,

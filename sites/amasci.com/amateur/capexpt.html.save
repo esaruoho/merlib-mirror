@@ -1,0 +1,366 @@
+
+<html>
+<head>
+
+
+<meta http-equiv="pics-label" content='(pics-1.1 
+"http://www.icra.org/ratingsv02.html" comment "ICRAonline v2.0" l 
+gen true for "/amateur/capexpt.html"  r (nz 1 vb 1 vc 
+1 vd 1 ve 1 vf 1 vg 1 vh 1 vi 1 vj 1 vk 1 lz 1 og 1 oh 1 ca 1) 
+"http://www.rsac.org/ratingsv01.html" l 
+gen true for "/amateur/capexpt.html"  r (n 0 s 0 v 4 l 0)
+
+
+
+
+
+"http://www.classify.org/safesurf/" l r (SS~~000 7 SS~~005 9)
+)'>
+
+
+
+<title>Fantastically Dangerous Capacitor-bank Experiments</title>
+<meta http-equiv="keywords" content="  rail, gun, capacitor, discharge,
+experiment, railgun, mass, driver, amateur, science"> 
+</head>
+
+<body bgcolor="#ffffff">
+<center>
+Up to <a href="http://www.eskimo.com/~billb/">SCIENCE HOBBYIST</a>
+  |  <a href="http://www.eskimo.com/~billb/amasci.html">AMATEUR SCIENCE</a>
+  |  <a href="http://www.eskimo.com/~billb/weird.html">WEIRD SCIENCE</a>
+
+<h1>CAPACITOR-BANK DISCHARGE EXPERIMENTS</h1></center>
+<br><p>
+<br>6/15/94  William Beaty, <a href="mailto:billb@eskimo.com">billb@eskimo.com</a>
+<br><p>
+<font size=2>This page is intended for an adult technical audience, and
+has a <a href="http://www.rsac.org">RSACi</a> rating of V4. If your kids
+can see it, then you are not using an Internet Filter to block violent
+content.</font>  
+<pre>
+_____________________________________________________________
+DISCLAIMER: the experiments described below are fantastically
+dangerous, and they are described without reference to the 
+many precautions needed to guarantee the experimenter's safety.  
+Accidentally discharging these capacitor banks through your 
+body can not only kill, but can explode flesh and bone. 
+The "exploding water" effect can launch electrode fragments at 
+high velocities.  The "watergun" is a full-fledged cannon, and 
+must be treated as such.  And these are not the only hazards. I 
+describe these experiments for your information only.  Anyone 
+who attempts to duplicate them does so at their own risk.  And 
+the risk is considerable unless you know EXACTLY what you are 
+doing.  If you don't have lots of experience with lethal high 
+voltage and the effects of explosions, stay safe and steer 
+clear of this stuff.
+
+PARENTS: I supply no detailed plans for reproducing these
+experiments.  Also, these experiments require large and 
+expensive lab equipment which is not obtainable by children.  
+(And the plans for an atomic bomb are safe for children too,
+because kids can't afford to buy kilograms of Plutonium!) 
+If your kids have access to 5,000 volt high-current power supplies, 
+then they are already in great danger, whether or not they read
+about my capacitor discharge experiments below.
+
+-------------------------------------------------------------
+</pre>
+<h1>Other Cap-Discharge sites</h1>
+
+<ul>
+<li><a href="http://www.teslamania.com">Hickman Quartershrinker</a>
+<li><a href="http://members.tripod.com/~mad_coiler/tesla/">T. Stewart</a> can crusher, railgun
+<li><a href="http://www.powerlabs.org/capexperiments.htm">Sam Barros'</a> Powerlabs
+<li><a href="http://hibp.ecse.rpi.edu/Can_Crusher/home.html">EM pulse Can Crusher</a> at RPI Plasma Dyn. Lab
+<li><a href="http://www.sover.net/~geoffk/railgun.html">Railgun Page</a>
+<li><a href="/amateur/steril.txt">Sterilization by cap discharge?!</a>
+</ul>
+
+<pre>
+
+THE "WATERGUN"
+
+by Bill Beaty,  experiment by Chris P., Dan Y. and Dale T. in ?1991?
+Water cannon built by Chris P.
+
+The capacitor discharge gun was a 6" cylinder of mild steel, 2"  diameter
+with a 1/2" hole bored most of the way through axially.  At the base, two
+holes were bored in from the sides and threaded to take standard
+sparkplugs.  The gun was fired at potentials ranging up to 40,000 Volts
+supplied by a bank of six 3uF, 150,000-volt capacitors (about 1/2 cubic
+yard in size!) using 1-1/2" x 1/2" copper busbar as conductors.  The
+switching gap was a pair of metal spheres between which a short length of
+metal rod was inserted using air pressure. The charging supply was a DC HV
+unit from an old X-ray machine.  Later versions used a 50,000V neon sign
+transformer and strings of the high voltage diodes sold as replacement
+parts for microwave oven repair.  About one cm^3 of water was placed in
+the gun, and a steel ballbearing was initially used as the projectile.
+</pre>
+<img align=left width=256 height=238 src="/graphics/qshrnk2.jpg">
+
+<img align=right width=261 height=237 src="/graphics/qshrnk.jpg">
+<br clear=all>
+<pre>
+     <b>ABOVE: THE CAPACITOR BANK</b>
+(gun not present, set up for 'shrinking' coins
+
+In the initial tries, the sparkplugs blew out violently from the
+gun, and the ballbearing was gently lofted from the barrel.  We assume 
+that the force originates in the discharge gap, and so we need to 
+position the gap closer to the base of the barrel.
+
+The sparkplugs were replaced with turned teflon rods and copper wire
+conductors, with the single discharge gap centered in the barrel.  The
+ball bearing was replaced with a black polyethelene cylinder with flat
+ends, which gave a slip-fit into the bore.  A clay cube of about 10" to
+12" thick (water based modeling clay) was used as a target.  When fired, the
+teflon rods and the copper conductors were still blown out of the holes. 
+But this time the slug went through the entire clay block, leaving a large
+entrance hole and a tiny exit hole.  The entrance hole was conical, with
+ripples and spirals on the walls.  Amazingly, the projectle had not the
+slightest bit of damage, and the edges of the beveled end were even still
+sharp and polished.  Even more amazing, after going through the entire
+block of clay, the slug was stopped by the thin poly bag that covered the
+back of the clay block.
+
+
+5/95 - In the spring issue of ELECTRIC SPACECRAFT JOURNAL, the Richmond 
+Virginia Tesla Coil Builders Assn. have an article on their own watergun 
+experiments.  They manage to perforate a 1/4" aluminum plate with nothing 
+but the water fired from the end of the gun.  They attempt to look 
+for anomalous energy production, but their results are inconclusive.
+
+</pre>
+For info on subscribing to ESJ, see FREE ENERGY NEWSLETTERS AND JOURNALS 
+in WWW Weird Science at <a href="http://www.eskimo.com/~billb/weird.html">http://www.eskimo.com/~billb/weird.html</a>
+
+<br>
+<pre>
+
+Some references recommended by Tom Coradeschi
+
+IEEE Transactions on Magnetics:
+
+Vol. MAG-18, No. 1, January 1982
+     1980 Conference on Electromagnetic Guns and Launchers 
+     
+Vol. MAG-20, No. 2, March 1984
+     2nd Symposium on Electromagnetic Launch Technology
+     
+Vol. MAG-22, No. 6, November 1986
+     3rd Symposium on Electromagnetic Launch Technology
+     
+Vol. 25, No. 1, January 1989
+     4th Symposium on Electromagnetic Launch Technology
+     
+Vol. 27, No. 1, January 1991
+     5th Symposium on Electromagnetic Launch Technology
+     
+Vol. 29, No. 1, January 1993
+     6th Symposium on Electromagnetic Launch Technology
+     
+Vol. 31, No. 1, January 1995
+     7th Symposium on Electromagnetic Launch Technology
+</pre>
+
+
+<pre>
+--------------------------------------------------------------------
+SOME CAPACITOR EXPERIMENT RESULTS,                          7/10/94
+or,  Blowing Stuff Up: a "guy thing"
+
+We tried discharging the capacitor bank through small pieces of agar gel
+with various electrode lengths and spacing.  Capacitors: three 100uF,
+30,000-volt units in parallel.  Switching gap: two 1-1/2" brass spheres
+moved by an AC solenoid, with flexible contact made via several flat 1"
+ground braids.  8" lengths of heavy solid copper wire (#12?) were run from
+the capacitor terminals and were bent to form a gap, into which small
+blocks of agar were placed.  A styrene cottage cheese bowl was placed
+below the gap to shield the capacitor conductors from agar splatter.  A
+12" Tupperware bowl was placed over the gap to shield the rest of the room
+from flying agar.
+
+At lower voltages (under 2,000V) there was no explosion.  Instead, the
+agar glowed yellow, sputtered, and melted adjacent to one electrode wire. 
+This is similar to the "glowing 120V pickel" demo, where an arc burns
+pickel flesh from around an electrode with a crawling arc which
+sequentially attacks the material closest to the electrode. 
+
+With electrodes inserted 1/2" into the agar at 1" spacing and 2,500V,
+there was an extremely loud blast which shattered the styrene cottage
+cheese bowl we had placed below the wires in an attempt to shield the
+conductors from agar splatter.  But even with a blast like a shotgun
+discharge, the agar simply broke into several pieces and fell from the
+electrodes.  The explosion was all sound, but with very little mechanical
+force. 
+
+With 1/2" electrodes at 1/4" spacing, the blast was extremely loud, the
+agar was thrown out from the discharge as a liquid spray, the cottage
+cheese bowl was again shattered and blown downwards, and the 10"
+tupperware bowl that covered the assembly was shattered!  Bill thinks it
+happened not only from overpressure, but from fast risetime of force which
+shattered the plastic like sillyputty with a hammer.  Because the agar was
+liquified rather than gently fractured as before, we suspect that the
+voltage and spacing in the previous run must have been just at the
+explosion-producing threshold.  Also note that the explosion energy seems
+to be nonlinear with respect to e-field, and with respect to total input
+energy, since reducing the gap while keeping capacitor voltage and
+capacitance constant seems to have enormously raised the energy output. 
+Perhaps energy is proportional to peak current? Or perhaps there is a
+threshold in the voltage or current below which explosion energy falls
+rapidly. 
+
+Since the discharge is intensely loud, Bill suspects that the extremely
+loud noise from the quartershrinker^* setup may be coming from the 
+switching gap, and not from the exploding coil.  After all, covering the 
+quarter with the iron pipe did not reduce the noise all that much.  Dr. 
+<a href="http://www.eskimo.com/~billb/weird/wvort.html#gran">P. Graneau</a> has written about anomolies with high current air arcs, 
+pointing out in particular that the sound from lightning may not simply 
+be from thermal transient air expansion, but from unexplored plasma 
+dynamics which produce shock waves via motor effects.  Perhaps this is 
+the source of the intense sound from the discharge.
+
+ *
+  Quartershrinker: device which electrically compresses a coin
+   into a small, shrivled, spherical lump.  See EXTRAORDINARY
+   SCIENCE, Vol 5 No.3, Summer 1993, p10 (pub of the Intl. Tesla
+   Society, Colorado Springs, CO, 719-475-0918.  Email the author
+   at <a href="mailto:ghawk@eskimo.com">ghawk@eskimo.com</a>, or <a href="http://www.eskimo.com/~ghawk">http://www.eskimo.com/~ghawk</a>
+
+
+-------------------------------------------------------------------
+IDEAS FOR THE FUTURE:
+
+Place a glob of jello against a solid sheet (metal, plastic, etc.)
+Stick capacitor wires in the jello.  Fire the capacitor bank.  Will
+the exploding jello shatter or dent the plate?  Place it against
+a coin.  Will it cause dents?  Can exploding jello drive a quarter
+into a block of wood?
+
+Obtain a satellite TV dish.  Suspend a jello-glob blaster (as above)
+a little farther away than the dish focus.  Find the distant
+secondary focus optically, and place objects there.  Fire off
+the capacitor bank, and see if the refocussed blast wave can do damage
+at a distance.  Blow out a candle at fifty paces?  Shred a roll
+of toilet paper?  Atmospheric lithotripter!
+
+Measure the output energy of the capacitor bank's discharge.
+"Free energy" test: fast, high current impulses tend to do weird 
+things.  Are they a F/E source? Discharge the capacitor many 
+times in a container of water.  Measure the temperature increase, 
+and calculate energy input.  Calculate electrical energy use.
+Is it anywhere near unity?  Is it over unity?  Fire a supergun
+upwards with a heavy bullet, measure the height.  Fire it into
+a ballistic pendulum, measure the height.  
+
+Coil-crush a quarter inside a heavy pipe full of oil.  Is coil still
+destroyed?  (Put it in a big baggie to limit the mess)
+
+Blow a bare coil inside a cup of water.  Anything interesting happen?
+Is explosion symmetrical, or do water jets form?  Is there a difference
+between fresh water and electrolyte?
+
+Drill a 1/2" depression in a metal block.  Fill it with water.
+suspend a wire that touches the center of the water.  Discharge
+the capacitor between block and wire.  Is safety shield needed?
+Maybe not, and the plasma jet will be easily observed.  Try
+different sizes of holes.  Try a deep hole with a drop of water in the
+bottom and a long conductor making contact. Direct the jet against 
+various materials.
+
+Run the capacitor leads to a baggie of water.  Fire it off, and
+make a mess.  Do it with paint in a parking lot, maybe several
+colors and various objects to make blast shadows.  A big blast
+with manniquins against a wall makes "Hiroshima" effects.
+
+Fill a flexible (rubber?) container with water, insert capacitor
+leads.  Try firing it with low voltages, see how high a voltage
+is needed for explosions.  Try firing it with various electrode
+separations.  What exactly is needed to make water explode?
+
+Install a heavy polycarbonate window on the above rubber bucket, and
+observe small water explosions underwater.
+
+Discharge a capacitor bank through the ground, while using geophones
+to listen at great distance.  How far can the sound be detected?
+Instead, use electrodes and an audio amp to listen at a distance.
+How far away can the EMF effects be detected?
+
+Can "machinable ceramic" stand up to water blasts?  If so, make a
+reusable cannon: Bore a large hole most of the way through a 2"
+metal bar.  Bore a much smaller hole the rest of the way.  Carve
+a thick disk of ceramic that slip-fits into the large bored hole.
+Drill a hole through the center of the ceramic disk.  Machine another
+electrode in the shape of a giant nailhead.  Stick this through
+the ceramic disk, so the shaft of the "nail" extends out the back
+of the cannon, and the ceramic separates the center electrode from
+the metal cannon.  Put a little water in the cannon, and discharge
+the capacitor between the cannon and the center electrode.  If the
+ceramic can take the shock, the device is reusable.  If a small-
+bore cannon with lots of water is used, the slug of water itself will
+become the projectile.  P. Graneau claims that such a waterslug can
+penetrate a 1/4" aluminum plate.  But how big a capacitor bank did
+HE use?
+              ___          ___
+             |   |        |   |                 
+             |   |        |   |                 
+             |   |        |   |                 
+             |   |        |   |                 
+             |   |        |   |                 
+ ASSEMBLED   |   |        |   |                 
+  CANNON     |   |        |   |                 
+             |   |        |   |                 
+             |   |        |   |                         CENTER
+             |   |        |   |                        ELECTRODE
+             |   | ====== |   |           CERAMIC       ======
+             |   | ==||== |   |          ___   ___        ||
+             |   |+++||+++|   |         |+++| |+++|       || 
+             |   |+++||+++|   |         |+++| |+++|       ||
+             |   |+++||+++|   |         |+++| |+++|       ||
+             |    \++||++/    |         |_++| |++_|       ||
+              \____|+||+|____/            \_| |_/         ||
+                     ||                                   ||
+                     ||                                   ||
+                     ||                                   ||
+                     ||                                   ||
+
+
+
+=======================================================================
+MORE STUFF:
+
+F/E testing: discharge in a calorimeter repeatedly, maybe use sorbothane
+packing around sphere electrodes, see if T(rise) is anomolous.  Underwater
+discharges are probably too destructive to containers
+
+Discharge underwater with plastic or wax lenses to refocus the shockwave and
+destroy objects at the lens focus.
+
+Place a small water drop on a metal block, touch the drop with a metal
+wire, connect the block and wire to the discharge capacitor.  Is the
+block surface damaged?
+
+Try inducing long discharge paths using wet thread, the thinner the better.
+Will curved thread cause shockwave focusing effects?
+
+Wrap wet string around a thin plastic tube, place a quarter inside.
+Perhaps the discharge will form a spiral arc with good conductivity
+which will warp the coin without requiring the destruction of a copper 
+coil?
+
+Try graphing sound peak amplitude versus capacitor voltage for a constant 
+length short arc.  Force an arc initiation at all voltages by using wet 
+filaments or #40 wire across electrodes.  Is sound proportional to voltage,
+energy, or what?  If more than proportional to energy, F/E is revealed?
+
+Are water-arcs different from other arcs?  Run some very thin wire to a
+tiny block of jello and fire it off.  Does the exploding jello give a
+different explosion pattern than the exploding wire?
+
+=======================================================================
+</pre>
+
+</body>
+<html>
+

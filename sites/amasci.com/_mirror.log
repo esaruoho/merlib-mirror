@@ -3297,3 +3297,368 @@ Next step: fe-ingest.sh /Users/esaruoho/work/merlib-mirror/sites/amasci.com
 [2026-08-03 20:47:22]   [2345 d0*] http://amasci.com/graphics/jarvis2.gif  (1833 OK, 7 queued)
 [2026-08-03 20:47:25]   [2350 d0*] http://amasci.com/uvlas.gif  (1838 OK, 2 queued)
 [2026-08-03 20:47:26] WordPress PDF extraction: found 127 PDF(s)
+[2026-08-04 12:16:29] ============================================================
+[2026-08-04 12:16:29] WAYBACK MIRROR: amasci.com
+[2026-08-04 12:16:29] Output: /Users/esaruoho/work/merlib-mirror/sites/amasci.com
+[2026-08-04 12:16:29] Delay: 1.0s
+[2026-08-04 12:16:29] ============================================================
+[2026-08-04 12:16:29] Resuming: phase=init, 0 already done
+[2026-08-04 12:16:29] 
+=== PHASE 1: URL Discovery ===
+[2026-08-04 12:16:29] Querying CDX for amasci.com/*...
+[2026-08-04 12:16:55]   Found 22765 URLs for amasci.com/*
+[2026-08-04 12:16:55] Querying CDX for www.amasci.com/*...
+[2026-08-04 12:17:35]   Found 22765 URLs for www.amasci.com/*
+[2026-08-04 12:18:15] Total unique valid URLs: 20440
+[2026-08-04 12:18:15]   text/html: 12241
+[2026-08-04 12:18:15]   image/jpeg: 3780
+[2026-08-04 12:18:15]   image/gif: 2685
+[2026-08-04 12:18:15]   text/plain: 854
+[2026-08-04 12:18:15]   application/x-javascript: 164
+[2026-08-04 12:18:15]   text/pl: 133
+[2026-08-04 12:18:15]   text/css: 124
+[2026-08-04 12:18:15]   image/png: 85
+[2026-08-04 12:18:15]   application/pdf: 64
+[2026-08-04 12:18:15]   application/zip: 62
+[2026-08-04 12:18:15]   im: 34
+[2026-08-04 12:18:15]   application/octet-stream: 30
+[2026-08-04 12:18:15]   application/msword: 23
+[2026-08-04 12:18:15]   unk: 11
+[2026-08-04 12:18:15]   application/r01: 11
+[2026-08-04 12:18:15]   application/x-shockwave-flash: 10
+[2026-08-04 12:18:15]   application/r00: 9
+[2026-08-04 12:18:15]   application/r02: 9
+[2026-08-04 12:18:15]   text/xml: 8
+[2026-08-04 12:18:15]   audio/mpeg: 8
+[2026-08-04 12:18:15]   application/x-chat: 8
+[2026-08-04 12:18:15]   application/postscript: 8
+[2026-08-04 12:18:15]   application/r03: 7
+[2026-08-04 12:18:15]   application/x-dvi: 7
+[2026-08-04 12:18:15]   application/x-tex: 6
+[2026-08-04 12:18:15]   application/r04: 6
+[2026-08-04 12:18:15]   video/mpeg: 5
+[2026-08-04 12:18:15]   audio/x-pn-realaudio-plugin: 5
+[2026-08-04 12:18:15]   application/x-director: 4
+[2026-08-04 12:18:15]   application/vnd: 3
+[2026-08-04 12:18:15]   message/rfc822: 3
+[2026-08-04 12:18:15]   application/xml: 3
+[2026-08-04 12:18:15]   audio/x-midi: 3
+[2026-08-04 12:18:15]   application/javascript: 3
+[2026-08-04 12:18:15]   image/bmp: 3
+[2026-08-04 12:18:15]   application/java-vm: 3
+[2026-08-04 12:18:15]   audio/x-wav: 2
+[2026-08-04 12:18:15]   application/rtf: 2
+[2026-08-04 12:18:15]   x-world/x-vrml: 2
+[2026-08-04 12:18:15]   application/x-tar: 2
+[2026-08-04 12:18:15]   image/x-xbitmap: 2
+[2026-08-04 12:18:15]   application/djvu: 2
+[2026-08-04 12:18:15]   image/x-icon: 1
+[2026-08-04 12:18:15]   application/x-gzip: 1
+[2026-08-04 12:18:15]   application/pgp-signature: 1
+[2026-08-04 12:18:15]   audio/x-aiff: 1
+[2026-08-04 12:18:15]   video/vnd: 1
+[2026-08-04 12:18:15]   application/vnd.ms-excel: 1
+[2026-08-04 12:18:15] 
+=== PHASE 2: Downloading ===
+[2026-08-04 12:20:15] [10/20440] OK index.html__id%3D25 (20,415b) @20080704
+[2026-08-04 12:22:56] [20/20440] OK index.html__ref%3Drehackedhub.com (20,695b) @20240725
+[2026-08-04 12:25:12] [30/20440] OK amateur/alt_sci_amateur.html (2,840b) @19990427
+[2026-08-04 12:27:16] [40/20440] OK amateur/amfrmJ.html (4,423b) @20170529
+[2026-08-04 12:29:19] [50/20440] OK amateur/antibub/anti3.gif (1,046b) @20060207
+[2026-08-04 12:29:21] --- Progress: 50/20440 (0%) | New: 50 | Rate: 5/min ---
+[2026-08-04 12:32:04] [60/20440] OK amateur/antibub/index.html__N%3DA (2,134b) @20020422
+[2026-08-04 12:34:30] [70/20440] OK amateur/bead.html (25,008b) @20081201
+[2026-08-04 12:36:31] [80/20440] OK amateur/blljar3.txt (8,249b) @19990506
+[2026-08-04 12:38:33] [90/20440] OK amateur/chemsupl.html (10,621b) @20080118
+[2026-08-04 12:38:57] ============================================================
+[2026-08-04 12:38:57] WAYBACK MIRROR: amasci.com
+[2026-08-04 12:38:57] Output: /Users/esaruoho/work/merlib-mirror/sites/amasci.com
+[2026-08-04 12:38:57] Delay: 1.0s
+[2026-08-04 12:38:57] ============================================================
+[2026-08-04 12:38:57] Resuming: phase=downloading, 50 already done
+[2026-08-04 12:38:57] 
+=== PHASE 2: Downloading ===
+[2026-08-04 12:38:57] Downloading 20,390 of 20,440 with 6 worker(s) (delay 1.0s each)
+[2026-08-04 12:40:22] [60/20440] OK amateur/antibub/index.html__S%3DA (2,023b) @20191221
+[2026-08-04 12:40:28] [61/20440] FAIL http://www.amasci.com:80/amateur/antibub/?D=D
+[2026-08-04 12:40:38] [62/20440] FAIL http://amasci.com/amateur/antibub/anti9.gif
+[2026-08-04 12:41:48] [69/20440] FAIL http://amasci.com:80/amateur/bbylnian.html
+[2026-08-04 12:42:28] [71/20440] FAIL http://www.amasci.com:80/amateur/bellj5.txt
+[2026-08-04 12:42:36] [73/20440] FAIL http://amasci.com/amateur/bead.html
+[2026-08-04 12:42:38] [75/20440] FAIL http://www.amasci.com:80/amateur/belljar.html
+[2026-08-04 12:43:04] [76/20440] OK amateur/blljar2.txt (15,759b) @20220428
+[2026-08-04 12:43:33] [78/20440] FAIL http://www.amasci.com:80/amateur/blljar1.txt?btimart.com
+[2026-08-04 12:43:40] [81/20440] FAIL http://www.amasci.com:80/amateur/blljar3.txt
+[2026-08-04 12:44:46] [88/20440] OK amateur/capacitron.html (6,945b) @20190804
+[2026-08-04 12:44:47] [89/20440] FAIL http://www.amasci.com:80/amateur/capexpt.txt
+[2026-08-04 12:46:02] [95/20440] FAIL http://amasci.com/amateur/coilgen
+[2026-08-04 12:46:53] ============================================================
+[2026-08-04 12:46:53] WAYBACK MIRROR: amasci.com
+[2026-08-04 12:46:53] Output: /Users/esaruoho/work/merlib-mirror/sites/amasci.com
+[2026-08-04 12:46:53] Delay: 1.0s
+[2026-08-04 12:46:53] ============================================================
+[2026-08-04 12:46:53] Resuming: phase=downloading, 50 already done
+[2026-08-04 12:46:53] 
+=== PHASE 2: Downloading ===
+[2026-08-04 12:46:53] Downloading 20,390 of 20,440 with 14 worker(s) (delay 1.0s each)
+[2026-08-04 12:47:48] [51/20440] FAIL http://www.amasci.com:80/amateur/antibub/?D=A
+[2026-08-04 12:47:48] [52/20440] FAIL http://www.amasci.com:80/amateur/antibub/?S=A
+[2026-08-04 12:47:48] [53/20440] FAIL http://www.amasci.com:80/amateur/ask.html
+[2026-08-04 12:47:48] [54/20440] FAIL http://www.amasci.com:80/amateur/antibub/?S=D
+[2026-08-04 12:47:48] [55/20440] FAIL http://www.amasci.com:80/amateur/antibub/antibub1.html
+[2026-08-04 12:47:48] [56/20440] FAIL http://www.amasci.com:80/amateur/antibub/anti6.gif
+[2026-08-04 12:47:48] [57/20440] FAIL http://www.amasci.com:80/amateur/antibub/?N=A
+[2026-08-04 12:47:48] [58/20440] FAIL http://www.amasci.com:80/amateur/antibub/?N=D
+[2026-08-04 12:47:54] [59/20440] FAIL http://www.amasci.com:80/amateur/antibub/?D=D
+[2026-08-04 12:48:04] [61/20440] FAIL http://www.amasci.com:80/amateur/antibub/?M=A
+[2026-08-04 12:48:06] [64/20440] FAIL http://www.amasci.com:80/amateur/antibub/?M=D
+[2026-08-04 12:48:06] [65/20440] FAIL http://www.amasci.com:80/amateur/antibub/anti5.gif
+[2026-08-04 12:48:15] [66/20440] FAIL http://amasci.com:80/amateur/antibub/anti7.gif
+[2026-08-04 12:48:43] [67/20440] FAIL http://www.amasci.com:80/amateur/bbb4b.html
+[2026-08-04 12:48:43] [68/20440] FAIL http://amasci.com/amateur/bead.html
+[2026-08-04 12:48:43] [69/20440] FAIL http://www.amasci.com:80/amateur/balloon.txt
+[2026-08-04 12:48:43] [70/20440] FAIL http://amasci.com:80/amateur/beads.html
+[2026-08-04 12:48:43] [71/20440] FAIL http://www.amasci.com:80/amateur/balloon.html
+[2026-08-04 12:48:43] [72/20440] FAIL http://amasci.com/amateur/beads_list.html
+[2026-08-04 12:48:52] [73/20440] FAIL http://amasci.com:80/amateur/bbylnian.html
+[2026-08-04 12:48:59] [74/20440] FAIL http://amasci.com:80/amateur/bio.html
+[2026-08-04 12:49:03] [75/20440] FAIL http://www.amasci.com:80/amateur/belljar.html
+[2026-08-04 12:49:04] [76/20440] FAIL http://www.amasci.com:80/amateur/blljar1.txt
+[2026-08-04 12:49:07] [77/20440] FAIL http://www.amasci.com:80/amateur/bllindx.txt
+[2026-08-04 12:49:14] [78/20440] FAIL http://www.amasci.com:80/amateur/blljar2.txt
+[2026-08-04 12:49:18] [79/20440] FAIL http://www.amasci.com:80/amateur/blljar1.txt?btimart.com
+[2026-08-04 12:49:20] [80/20440] FAIL http://www.amasci.com:80/amateur/blljar3.txt
+[2026-08-04 12:49:37] [81/20440] FAIL http://www.amasci.com:80/amateur/blljar4.txt
+[2026-08-04 12:49:42] [82/20440] FAIL http://www.amasci.com:80/amateur/bloblamp.html
+[2026-08-04 12:49:43] [83/20440] FAIL http://amasci.com/amateur/buscards.html
+[2026-08-04 12:49:43] [84/20440] FAIL http://amasci.com/amateur/capacitron.html
+[2026-08-04 12:49:43] [85/20440] FAIL http://www.amasci.com:80/amateur/bllsupl.txt
+[2026-08-04 12:49:50] [86/20440] FAIL http://amasci.com/amateur/capacitron
+[2026-08-04 12:49:52] [87/20440] FAIL http://www.amasci.com:80/amateur/capexpt.html
+[2026-08-04 12:49:59] [88/20440] FAIL http://www.amasci.com:80/amateur/capexpt.html.save
+[2026-08-04 12:49:59] [89/20440] FAIL http://amasci.com:80/amateur/chemsupl.html
+[2026-08-04 12:50:08] [90/20440] FAIL http://www.amasci.com:80/amateur/clouds.html
+[2026-08-04 12:50:08] [91/20440] FAIL http://www.amasci.com:80/amateur/capexpt.txt
+[2026-08-04 12:50:09] [92/20440] FAIL http://amasci.com:80/amateur/clouds.txt
+[2026-08-04 12:50:13] [93/20440] FAIL http://amasci.com/amateur/coilgen
+[2026-08-04 12:50:20] [95/20440] FAIL http://www.amasci.com:80/amateur/coilgen.html
+[2026-08-04 12:50:37] [96/20440] FAIL http://www.amasci.com:80/amateur/coilgen.txt
+[2026-08-04 12:50:38] [97/20440] FAIL http://amasci.com/amateur/coolinks
+[2026-08-04 12:50:45] [98/20440] FAIL http://amasci.com:80/amateur/coolinks.html
+[2026-08-04 12:50:48] [99/20440] FAIL http://amasci.com:80/amateur/coilgen.html?worlds_simplest_generator=
+[2026-08-04 12:50:53] [100/20440] FAIL http://www.amasci.com:80/amateur/coolsci.html
+[2026-08-04 12:50:53] --- Progress: 100/20440 (0%) | New: 4 | Rate: 25/min | ETA 13.5h ---
+[2026-08-04 12:50:54] [101/20440] FAIL http://www.amasci.com:80/amateur/drugbust.html
+[2026-08-04 12:50:54] [102/20440] FAIL http://amasci.com:80/amateur/coilgen.html.save
+[2026-08-04 12:50:59] [103/20440] FAIL http://www.amasci.com:80/amateur/coolsci.html.save
+[2026-08-04 12:51:04] [104/20440] FAIL http://www.amasci.com:80/amateur/dscope.html
+[2026-08-04 12:51:08] [105/20440] FAIL http://www.amasci.com:80/amateur/dryice.html
+[2026-08-04 12:51:08] [106/20440] FAIL http://amasci.com:80/amateur/dscope.gif
+[2026-08-04 12:51:09] [107/20440] FAIL http://amasci.com:80/amateur/dscope3.gif
+[2026-08-04 12:51:36] [113/20440] FAIL http://www.amasci.com:80/amateur/elecdir.html
+[2026-08-04 12:51:38] [114/20440] FAIL http://amasci.com/amateur/elehob
+[2026-08-04 12:51:45] [115/20440] FAIL http://www.amasci.com:80/amateur/elehob.html
+[2026-08-04 12:51:47] [116/20440] FAIL http://amasci.com:80/amateur/elsafe.html
+[2026-08-04 12:51:48] [117/20440] FAIL http://www.amasci.com:80/amateur/elsafe.txt
+[2026-08-04 12:51:54] [118/20440] FAIL http://amasci.com:80/amateur/eyeself.html
+[2026-08-04 12:51:57] [119/20440] FAIL http://www.amasci.com:80/amateur/elehob.html?proceed=1
+[2026-08-04 12:52:02] [120/20440] FAIL http://amasci.com:80/amateur/gauge_tubes.html
+[2026-08-04 12:52:09] [121/20440] FAIL http://www.amasci.com:80/amateur/eyeself.txt
+[2026-08-04 12:52:11] [122/20440] FAIL http://amasci.com:80/amateur/gold.txt
+[2026-08-04 12:52:14] [123/20440] FAIL http://amasci.com/amateur/GOLD1992b.TXT
+[2026-08-04 12:52:20] [124/20440] FAIL http://www.amasci.com:80/amateur/gravcam.txt
+[2026-08-04 12:52:27] [125/20440] FAIL http://www.amasci.com:80/amateur/gravcam.html
+[2026-08-04 12:52:28] [126/20440] FAIL http://amasci.com:80/amateur/gravrok.html
+[2026-08-04 12:52:31] [127/20440] OK amateur/heat.html (11,100b) @20191221
+[2026-08-04 12:52:36] [128/20440] FAIL http://amasci.com:80/amateur/hand1.html
+[2026-08-04 12:52:46] [129/20440] FAIL http://www.amasci.com:80/amateur/heresy3.txt
+[2026-08-04 12:52:48] [130/20440] FAIL http://www.amasci.com:80/amateur/hglob.gif
+[2026-08-04 12:52:49] [131/20440] FAIL http://www.amasci.com:80/amateur/holbrief.html
+[2026-08-04 12:53:01] [132/20440] FAIL http://www.amasci.com/amateur/holo1
+[2026-08-04 12:53:03] [133/20440] FAIL http://www.amasci.com:80/amateur/holo1.html
+[2026-08-04 12:53:09] [134/20440] FAIL http://www.amasci.com:80/amateur/holo1.html.save
+[2026-08-04 12:53:12] [135/20440] FAIL http://amasci.com/amateur/holo1.html?=dupe
+[2026-08-04 12:53:15] [136/20440] FAIL http://amasci.com:80/amateur/holo1.html?utm_source=hackernewsletter&ut
+[2026-08-04 12:53:15] [137/20440] FAIL http://www.amasci.com:80/amateur/holo1.txt
+[2026-08-04 12:53:22] [138/20440] FAIL http://www.amasci.com:80/amateur/holo1a.gif
+[2026-08-04 12:53:23] [139/20440] FAIL http://www.amasci.com:80/amateur/holo1b.gif
+[2026-08-04 12:53:24] [140/20440] FAIL http://amasci.com/amateur/holo1.html?utm_source=dlvr.it&utm_medium=twi
+[2026-08-04 12:53:30] [141/20440] FAIL http://www.amasci.com:80/amateur/holo3.html
+[2026-08-04 12:53:37] [142/20440] FAIL http://www.amasci.com:80/amateur/holo1c.gif
+[2026-08-04 12:53:43] [143/20440] FAIL http://amasci.com:80/amateur/holocc.html
+[2026-08-04 12:53:49] [144/20440] FAIL http://www.amasci.com:80/amateur/holocc.txt
+[2026-08-04 12:53:52] [145/20440] FAIL http://www.amasci.com:80/amateur/holo3.txt
+[2026-08-04 12:54:04] [146/20440] FAIL http://www.amasci.com:80/amateur/holodisc.txt
+[2026-08-04 12:54:09] [147/20440] FAIL http://www.amasci.com:80/amateur/holohint.html
+[2026-08-04 12:54:10] [148/20440] FAIL http://www.amasci.com:80/amateur/hovercft.html
+[2026-08-04 12:54:14] [149/20440] FAIL http://amasci.com:80/amateur/holodisc.html
+[2026-08-04 12:54:16] [150/20440] FAIL http://amasci.com/amateur/holowhtstn.txt
+[2026-08-04 12:54:16] --- Progress: 150/20440 (0%) | New: 10 | Rate: 20/min | ETA 16.6h ---
+[2026-08-04 12:54:18] [151/20440] FAIL http://amasci.com/amateur/holohint.html?utm_source=dlvr.it&utm_medium=
+[2026-08-04 12:54:19] [152/20440] FAIL http://www.amasci.com:80/amateur/index2.html
+[2026-08-04 12:54:23] [153/20440] FAIL http://www.amasci.com:80/amateur/hovercft.html?category_id=89&a=401
+[2026-08-04 12:54:25] [154/20440] FAIL http://www.amasci.com:80/amateur/instr.html
+[2026-08-04 12:54:34] [155/20440] FAIL http://amasci.com/amateur/index.html
+[2026-08-04 12:54:42] [156/20440] FAIL http://www.amasci.com:80/amateur/instr.txt
+[2026-08-04 12:54:43] [157/20440] FAIL http://amasci.com/amateur/irgogg2.html
+[2026-08-04 12:54:56] [158/20440] FAIL http://amasci.com/amateur/irgoggA.html
+[2026-08-04 12:54:56] [159/20440] FAIL http://www.amasci.com:80/amateur/irgoggl.html
+[2026-08-04 12:55:02] [160/20440] FAIL http://www.amasci.com:80/amateur/kidsite.html
+[2026-08-04 12:55:04] [161/20440] FAIL http://amasci.com/amateur/laser101ways.pdf
+[2026-08-04 12:55:14] [162/20440] FAIL http://amasci.com:80/amateur/led.html
+[2026-08-04 12:55:15] [163/20440] FAIL http://www.amasci.com:80/amateur/lavalamp.html
+[2026-08-04 12:55:15] [164/20440] FAIL http://www.amasci.com:80/amateur/lasqueal.html
+[2026-08-04 12:55:19] [165/20440] FAIL http://www.amasci.com:80/amateur/led.txt
+[2026-08-04 12:55:22] [166/20440] FAIL http://amasci.com:80/amateur/lenses.html
+[2026-08-04 12:55:28] [167/20440] FAIL http://www.amasci.com:80/amateur/life.txt
+[2026-08-04 12:55:28] [168/20440] FAIL http://www.amasci.com:80/amateur/lenses.txt
+[2026-08-04 12:55:29] [169/20440] FAIL http://amasci.com:80/amateur/liquid_n2.html
+[2026-08-04 12:55:37] [170/20440] FAIL http://www.amasci.com:80/amateur/Member.html
+[2026-08-04 12:55:47] [172/20440] FAIL http://amasci.com:80/amateur/magnerite.html
+[2026-08-04 12:55:51] [173/20440] FAIL http://www.amasci.com:80/amateur/microsco.txt
+[2026-08-04 12:55:56] [174/20440] FAIL http://www.amasci.com:80/amateur/microsco.html
+[2026-08-04 12:55:57] [175/20440] FAIL http://amasci.com:80/amateur/MIRROR.GIF
+[2026-08-04 12:56:04] [176/20440] FAIL http://www.amasci.com:80/amateur/mirror.html
+[2026-08-04 12:56:10] [177/20440] FAIL http://amasci.com:80/amateur/MIRROR3.GIF
+[2026-08-04 12:56:13] [178/20440] FAIL http://amasci.com:80/amateur/neodymium.html
+[2026-08-04 12:56:21] [179/20440] FAIL http://amasci.com:80/amateur/MIRROR2.GIF
+[2026-08-04 12:56:26] [180/20440] FAIL http://amasci.com:80/amateur/mushr.html
+[2026-08-04 12:56:29] [181/20440] FAIL http://www.amasci.com:80/amateur/neospher.html
+[2026-08-04 12:56:29] [182/20440] FAIL http://www.amasci.com:80/amateur/neospher.html.save
+[2026-08-04 12:56:34] [183/20440] FAIL http://amasci.com/amateur/nerdsmax.html
+[2026-08-04 12:56:48] [185/20440] FAIL http://www.amasci.com:80/amateur/optosup.txt
+[2026-08-04 12:56:50] [186/20440] FAIL http://amasci.com:80/amateur/oilfilm.txt
+[2026-08-04 12:56:51] [187/20440] FAIL http://amasci.com:80/amateur/physvids.html
+[2026-08-04 12:56:52] [188/20440] FAIL http://www.amasci.com:80/amateur/physerm1.html
+[2026-08-04 12:56:57] [189/20440] FAIL http://amasci.com/amateur/physvids.html.save
+[2026-08-04 12:57:00] [190/20440] FAIL http://amasci.com:80/amateur/phdemo.txt
+[2026-08-04 12:57:04] [191/20440] FAIL http://www.amasci.com:80/amateur/pinhole.txt
+[2026-08-04 12:57:05] [192/20440] FAIL http://amasci.com/amateur/pinhole.html
+[2026-08-04 12:57:21] [193/20440] FAIL http://www.amasci.com:80/amateur/pris.txt
+[2026-08-04 12:57:24] [194/20440] FAIL http://amasci.com:80/amateur/pulsreflA.xls
+[2026-08-04 12:57:26] [195/20440] FAIL http://amasci.com:80/amateur/projs.html
+[2026-08-04 12:57:30] [196/20440] FAIL http://www.amasci.com:80/amateur/projs.txt
+[2026-08-04 12:57:33] [197/20440] FAIL http://amasci.com:80/amateur/pykrete.html
+[2026-08-04 12:57:43] [199/20440] FAIL http://www.amasci.com:80/amateur/pykrete.html.save
+[2026-08-04 12:57:50] [200/20440] FAIL http://www.amasci.com:80/amateur/sasemb4.gif
+[2026-08-04 12:57:50] --- Progress: 200/20440 (0%) | New: 13 | Rate: 18/min | ETA 18.5h ---
+[2026-08-04 12:57:50] [201/20440] FAIL http://amasci.com:80/amateur/rsmagnet.txt
+[2026-08-04 12:57:51] [202/20440] FAIL http://www.amasci.com/amateur/schlrn2.gif
+[2026-08-04 12:57:54] [203/20440] FAIL http://www.amasci.com:80/amateur/ringlas.txt
+[2026-08-04 12:58:00] [204/20440] FAIL http://www.amasci.com:80/amateur/sci-list.html
+[2026-08-04 12:58:03] [205/20440] FAIL http://www.amasci.com:80/amateur/saslgosm.gif
+[2026-08-04 12:58:11] [206/20440] FAIL http://amasci.com:80/amateur/sciam1
+[2026-08-04 12:58:19] [207/20440] FAIL http://amasci.com:80/amateur/sciamdx.html
+[2026-08-04 12:58:22] [208/20440] FAIL http://www.amasci.com:80/amateur/sciam1.html
+[2026-08-04 12:58:27] [209/20440] FAIL http://www.amasci.com:80/amateur/sciamdx1.html
+[2026-08-04 12:58:34] [210/20440] FAIL http://www.amasci.com:80/amateur/sciamdx3.html
+[2026-08-04 12:58:41] [211/20440] FAIL http://www.amasci.com:80/amateur/scigrps.html
+[2026-08-04 12:58:44] [212/20440] FAIL http://amasci.com:80/amateur/screet.html
+[2026-08-04 12:58:45] [213/20440] FAIL http://www.amasci.com:80/amateur/seesnd.html
+[2026-08-04 12:58:46] [214/20440] FAIL http://www.amasci.com:80/amateur/sciamdx2.html
+[2026-08-04 12:58:47] [215/20440] FAIL http://amasci.com:80/amateur/sciexp.txt
+[2026-08-04 12:58:58] [217/20440] FAIL http://www.amasci.com:80/amateur/ssz.txt
+[2026-08-04 12:58:58] [218/20440] FAIL http://amasci.com:80/amateur/teles.html
+[2026-08-04 12:59:00] [219/20440] FAIL http://www.amasci.com:80/amateur/steril.txt
+[2026-08-04 12:59:02] [220/20440] FAIL http://amasci.com/amateur/sundog.html
+[2026-08-04 12:59:06] [221/20440] FAIL http://amasci.com:80/amateur/teles.txt
+[2026-08-04 12:59:19] [222/20440] FAIL http://amasci.com/amateur/temp.css
+[2026-08-04 12:59:27] [223/20440] FAIL http://www.amasci.com:80/amateur/temp1
+[2026-08-04 12:59:33] [224/20440] FAIL http://www.amasci.com:80/amateur/temp2
+[2026-08-04 12:59:39] [225/20440] FAIL http://www.amasci.com:80/amateur/timid.jpg
+[2026-08-04 12:59:42] [226/20440] FAIL http://amasci.com/amateur/thermcam.html
+[2026-08-04 12:59:42] [227/20440] FAIL http://www.amasci.com:80/amateur/tornbox.html
+[2026-08-04 12:59:50] [228/20440] FAIL http://amasci.com/amateur/tornbox.html?amasci.html
+[2026-08-04 12:59:51] [229/20440] FAIL http://www.amasci.com:80/amateur/thvoice.gif
+[2026-08-04 12:59:52] [230/20440] FAIL http://amasci.com:80/amateur/tornbox.gif
+[2026-08-04 12:59:56] [231/20440] FAIL http://amasci.com/amateur/traffic/eee.html
+[2026-08-04 13:00:02] [232/20440] FAIL http://www.amasci.com:80/amateur/toys1.html
+[2026-08-04 13:00:05] [233/20440] FAIL http://www.amasci.com:80/amateur/tornbox.txt
+[2026-08-04 13:00:10] [234/20440] FAIL http://www.amasci.com:80/amateur/traffic/
+[2026-08-04 13:00:17] [235/20440] FAIL http://amasci.com/amateur/traffic/favicon.ico
+[2026-08-04 13:00:20] [236/20440] FAIL http://amasci.com:80/amateur/traffic/fasmerg1.gif
+[2026-08-04 13:00:33] [237/20440] FAIL http://www.amasci.com:80/amateur/traffic/gcsweb.gif
+[2026-08-04 13:00:33] [238/20440] FAIL http://www.amasci.com:80/amateur/traffic/fhwahop09037_principles.htm
+[2026-08-04 13:00:36] [239/20440] FAIL http://amasci.com/amateur/traffic/index.html
+[2026-08-04 13:00:38] [240/20440] FAIL http://www.amasci.com:80/amateur/traffic/jamail.html
+[2026-08-04 13:00:39] [241/20440] FAIL http://amasci.com/amateur/traffic/guestbok.html
+[2026-08-04 13:00:44] [242/20440] FAIL http://www.amasci.com:80/amateur/traffic/jamail.txt
+[2026-08-04 13:00:53] [243/20440] FAIL http://www.amasci.com:80/amateur/traffic/links.html
+[2026-08-04 13:00:56] [244/20440] FAIL http://amasci.com:80/amateur/traffic/slomerg1.gif
+[2026-08-04 13:01:04] [245/20440] FAIL http://www.amasci.com:80/amateur/traffic/m25.zip
+[2026-08-04 13:01:08] [246/20440] FAIL http://www.amasci.com:80/amateur/traffic/seatraf.html
+[2026-08-04 13:01:09] [247/20440] FAIL http://www.amasci.com:80/amateur/traffic/swave1.gif
+[2026-08-04 13:01:11] [248/20440] FAIL http://amasci.com:80/amateur/traffic/tbig.html
+[2026-08-04 13:01:16] [250/20440] FAIL http://www.amasci.com:80/amateur/traffic/tanim.html
+[2026-08-04 13:01:16] --- Progress: 250/20440 (1%) | New: 15 | Rate: 17/min | ETA 19.4h ---
+[2026-08-04 13:01:22] [251/20440] FAIL http://www.amasci.com:80/amateur/traffic/tfaq.html
+[2026-08-04 13:01:27] [252/20440] FAIL http://www.amasci.com:80/amateur/traffic/traf1.gif
+[2026-08-04 13:01:35] [254/20440] FAIL http://amasci.com/amateur/traffic/traffic.html
+[2026-08-04 13:01:38] [255/20440] FAIL http://www.amasci.com/amateur/traffic/trafexp.html?ref=a.wholelottanot
+[2026-08-04 13:01:39] [256/20440] FAIL http://www.amasci.com:80/amateur/traffic/traf2.gif
+[2026-08-04 13:01:39] [257/20440] FAIL http://www.amasci.com:80/amateur/traffic/traffic1.html
+[2026-08-04 13:01:42] [258/20440] FAIL http://www.amasci.com:80/amateur/traffic/trafexp.html
+[2026-08-04 13:01:52] [259/20440] FAIL http://amasci.com/amateur/traffic/trafgraf2.gif
+[2026-08-04 13:02:03] [260/20440] FAIL http://amasci.com/amateur/traffic/twide1.gif
+[2026-08-04 13:02:06] [261/20440] FAIL http://www.amasci.com:80/amateur/traffic/twlite2.gif
+[2026-08-04 13:02:10] [262/20440] FAIL http://www.amasci.com:80/amateur/traffic/trafmsg1.txt
+[2026-08-04 13:02:12] [264/20440] FAIL http://www.amasci.com:80/amateur/traffic/twlite1.gif
+[2026-08-04 13:02:28] [265/20440] FAIL http://www.amasci.com:80/amateur/transis.html
+[2026-08-04 13:02:29] [266/20440] FAIL http://www.amasci.com:80/amateur/transis.html.save
+[2026-08-04 13:02:30] [267/20440] FAIL http://www.amasci.com/amateur/traffic/wtlite1.gif
+[2026-08-04 13:02:31] [268/20440] FAIL http://amasci.com/amateur/transis.html?ref=highscalability.com
+[2026-08-04 13:02:37] [270/20440] FAIL http://amasci.com/amateur/ultrason
+[2026-08-04 13:02:40] [272/20440] FAIL http://amasci.com:80/amateur/transis2.html
+[2026-08-04 13:02:44] [273/20440] FAIL http://amasci.com/amateur/trnsisFAQ.html
+[2026-08-04 13:02:47] [274/20440] FAIL http://amasci.com/amateur/ultrason.html
+[2026-08-04 13:03:01] [275/20440] FAIL http://amasci.com:80/amateur/vidlist.html
+[2026-08-04 13:03:03] [276/20440] FAIL http://amasci.com:80/amateur/videos.html
+[2026-08-04 13:03:05] [277/20440] FAIL http://amasci.com/amateur/vonngt_1965.txt
+[2026-08-04 13:03:07] [278/20440] FAIL http://www.amasci.com:80/amateur/vort2.txt
+[2026-08-04 13:05:34] ============================================================
+[2026-08-04 13:05:34] WAYBACK MIRROR: amasci.com
+[2026-08-04 13:05:34] Output: /Users/esaruoho/work/merlib-mirror/sites/amasci.com
+[2026-08-04 13:05:34] Delay: 1.0s
+[2026-08-04 13:05:34] ============================================================
+[2026-08-04 13:05:34] Resuming: phase=downloading, 65 already done
+[2026-08-04 13:05:34] 
+=== PHASE 2: Downloading ===
+[2026-08-04 13:05:34] Downloading 20,375 of 20,440 with 4 worker(s) (delay 1.0s each)
+[2026-08-04 13:05:34] --- pass 1/6: 20,375 URL(s), 4 worker(s) ---
+[2026-08-04 13:05:41] [90/20440] OK amateur/blljar1.txt__btimart.com (22,716b) @on-disk
+[2026-08-04 13:05:43] --- Progress: 100/20440 (0%) | New: 35 | Fail: 0 | Throttled-deferred: 0 | Rate: 656/min | ETA 0.5h ---
+[2026-08-04 13:05:50] [115/20440] OK amateur/dscope3.gif (1,821b) @on-disk
+[2026-08-04 13:06:19] [140/20440] OK amateur/holo1.txt (17,850b) @on-disk
+[2026-08-04 13:06:42] --- Progress: 150/20440 (0%) | New: 85 | Fail: 0 | Throttled-deferred: 0 | Rate: 132/min | ETA 2.6h ---
+[2026-08-04 13:08:11] [166/20440] OK amateur/led.html (13,067b) @on-disk
+[2026-08-04 13:09:19] [192/20440] OK amateur/pinhole.html (17,726b) @on-disk
+[2026-08-04 13:09:41] --- Progress: 200/20440 (0%) | New: 133 | Fail: 2 | Throttled-deferred: 0 | Rate: 48/min | ETA 7.0h ---
+[2026-08-04 13:10:41] [217/20440] OK amateur/sundog.html (19,214b) @on-disk
+[2026-08-04 13:13:03] [246/20440] OK amateur/traffic/tanim.html (5,308b) @on-disk
+[2026-08-04 13:13:40] --- Progress: 250/20440 (1%) | New: 178 | Fail: 7 | Throttled-deferred: 0 | Rate: 31/min | ETA 10.9h ---
+[2026-08-04 13:14:13] [272/20440] OK amateur/videos.html (25,821b) @on-disk
+[2026-08-04 13:16:26] [297/20440] OK amblog/htaccess.html (219b) @20101104
+[2026-08-04 13:17:17] --- Progress: 300/20440 (1%) | New: 227 | Fail: 8 | Throttled-deferred: 0 | Rate: 26/min | ETA 13.1h ---
+[2026-08-04 13:26:17] [341/20440] OK amblog/wp-admin/install.php (684b) @20220428
+[2026-08-04 13:29:02] --- Progress: 350/20440 (1%) | New: 253 | Fail: 32 | Throttled-deferred: 0 | Rate: 15/min | ETA 22.5h ---
+[2026-08-04 13:45:04] --- Progress: 400/20440 (1%) | New: 256 | Fail: 79 | Throttled-deferred: 0 | Rate: 10/min | ETA 33.0h ---
+[2026-08-04 13:50:40] [425/20440] OK amblog/wp-includes/images/smilies/icon_idea.gif (176b) @20101027
+[2026-08-04 13:52:58] ============================================================
+[2026-08-04 13:52:58] WAYBACK MIRROR: amasci.com
+[2026-08-04 13:52:58] Output: /Users/esaruoho/work/merlib-mirror/sites/amasci.com
+[2026-08-04 13:52:58] Delay: 1.0s
+[2026-08-04 13:52:58] ============================================================
+[2026-08-04 13:52:58] Resuming: phase=downloading, 321 already done
+[2026-08-04 13:52:58] 
+=== PHASE 2: Downloading ===
+[2026-08-04 13:52:58] Skipping 1,037 unmirrorable URL(s) (server-side / WordPress plumbing) — not fetched, not counted as failures
+[2026-08-04 13:52:58] Downloading 19,082 of 20,440 with 4 worker(s) (delay 1.0s each)
+[2026-08-04 13:52:58] --- pass 1/6: 19,082 URL(s), 4 worker(s) ---
+[2026-08-04 13:57:40] --- Progress: 350/20440 (1%) | New: 24 | Fail: 16 | Throttled-deferred: 0 | Rate: 74/min | ETA 4.5h ---
+[2026-08-04 13:57:41] [351/20440] OK art/dork07/faraday1.JPG (52,562b) @on-disk
+[2026-08-04 13:59:40] [377/20440] OK art/pondmach/bumbr007a.jpg (19,390b) @on-disk
+[2026-08-04 13:59:57] --- Progress: 400/20440 (1%) | New: 73 | Fail: 17 | Throttled-deferred: 0 | Rate: 57/min | ETA 5.8h ---
+[2026-08-04 13:59:59] [402/20440] OK brain/index.html (260b) @on-disk
+[2026-08-04 14:00:13] [427/20440] OK caps/ring2.gif (78,602b) @on-disk
+[2026-08-04 14:02:03] --- Progress: 450/20440 (2%) | New: 121 | Fail: 19 | Throttled-deferred: 0 | Rate: 50/min | ETA 6.7h ---
+[2026-08-04 14:03:11] [454/20440] OK edu/index.html (583b) @20190804

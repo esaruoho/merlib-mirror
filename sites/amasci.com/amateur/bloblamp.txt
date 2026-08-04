@@ -1,0 +1,244 @@
+SCIENCE FAIR: moving blob lamps 
+
+ SCIENCE FAIR PROJS | 
+
+ TOP | 
+
+ GOOD STUFF | 
+
+ NEW STUFF | 
+
+ SEARCH 
+
+MATERIALS FOR MOVING-GLOBULE LAMPS
+
+From Charles R. Patton, Feb 1999:
+
+I believe I ran across some references on your site while I was looking
+for the Kalliroscope fluid. People seem to be guessing at the liquid
+compositions. You might be interested in the following. The original
+patent by David George Smith of England is 3,387,396 for a "Display
+Device". The listed two fluids are water and a "solidified globule of
+mineral oil, paraffin and a dye as well as paraffin wax or petroleum jell,
+preferably Ondina 17 with a light paraffin, carbon tetrachoride, a dye and
+the paraffin wax or petroleum jelly." The patent is very short, only 3
+pages total. But it includes all the aspects including the reason for the
+wire spring in the bottom. [Go to Delphion and search for US03387396 ]
+
+From Sean L, TAP-L Listserv, 7/95
+
+> Does anyone know what is in a liquid-globule lamp? Does anyone know how
+
+> to make those wave things that I always see (some blue fluid and yellow
+
+> or clear fluid between two sheets of plexi.)? 
+
+The stuff inside is (I believe) a trade secret - imagine that. A pretty
+good substitute can be found in this: 
+
+ Benzyl alcohol (probably around 150 - 250 ml)
+ 4.8% salt water solution (48 g per liter)
+
+Benzyl alcohol has a specific gravity of 1.043 g/cc and the brine solution
+has a s.g. of 1.032 g/cc. When heated, the benzyl alcohol expands enough
+to become less dense than the brine. Once it cools off, it becomes heavier
+(denser) and it falls. The cycle hopefully repeats. I've built several of
+these with students, using a 40 - 60 W light bulb as a heat source. The
+bulb is in a fixture in a can (small coffee can or such) close to the
+bottom of the vessel for the mixture. To get the color, find an
+oil-soluble marker (Magic Marker?) and break it open. Carefully remove the
+felt ink-soaked thing (technical talk; sorry) and place it in a small bowl
+with the benzyl alcohol. The longer you leave it in, the darker it will
+become. A couple of minutes should do the trick. The darker it is,
+however, the more it will tend to bleed into the brine solution. I've
+heard from my students that Sharpies bleed too much, so you may want to
+avoid them as an ink source.
+
+Also, benzyl alcohol is a bit expensive: about $40 per liter (enough for
+6-7 lamps). Other liquids work too, but may be more dangerous or costly: 
+
+ cinnamyl alcohol
+ diethyl phthalate
+ ethyl salicylate
+ nitrobenzine
+
+Experimentation is the key here. Oh, these do work very well if you have
+a good container. I've not had a chance to try this mixture in an old
+lamp assembly, though I can't imagine why it wouldn't work well. 
+
+By the way, more detailed ideas on this can be found in an article in a
+back issue of Popular Electronics (March of 1992? 93? I'm not sure) by
+Ralph Hubscher. It describes pretty much what I just have, but with
+better graphics and grammar:-) 
+
+As for the wave tank, here's a sure fire technique: baby oil and water,
+and food coloring. Find a good bottle and an old VW wiper motor (JerryCo
+{American Science and Surplus} or JC Whitney) for your own wave machine.
+
+Hope this helps. Sorry for the delay in responding but I've just moved
+recently and only now have gotten around to checking my e-mail. Yeesh,
+where are my priorities? 175 messages!!!
+
+Bye now,
+
+Sean
+
+From: stormoen@sparc.isl.net (Stormoen MD)
+
+Newsgroups: alt.drugs
+
+Subject: Lamp Plans Here.
+
+Date: 13 Jan 1995 08:08:15 GMT
+
+I've had SEVERAL requests for the plans, so here they are.
+
+Sorry, I guess I lost the name of the guy who gave 'em to me.
+(I recieved two versions, and I liked this one best).
+
+WARNING!! This electronic document deals with and involves subject matter
+and the use of materials and substances that may be hazardous to health
+and life. Do not attempt to implement or use the information contained
+herein unless you are experienced and skilled with respect to such subject
+matter, materials and substances. The author makes no representations as
+for the completeness or the accuracy of the information contained herein
+and disclaim any liability for damages or injuries, whether caused by or
+arising from the lack of completeness, inaccuracies of the information,
+misinterpretation of the directions, misapplication of the information or
+otherwise. 
+
+Please note: The information contained in this electronic document can 
+be found in the 1992 Edition of Popular Electronics Electronics Hobbyists 
+handbook, published annually by Gernsback Publications Inc, USA.
+
+Inside the lamp are two immiscible fluids. If it is assumed that fluid
+1 is water, then fluid 2 must be: 
+
+ insoluble in water;
+ heavier than water;
+ non-flammable (for safety);
+ non-reactive with water or air;
+ more viscous than water;
+ reasonably priced.
+
+Furthermore, fluid 2 must not be:
+
+ very poisonous (for safety);
+ chlorinated;
+ emulsifiable in water (for rapid separation).
+
+In addition, fluid 2 must have a greater coefficient of expansion than 
+water. Check a Perry's handbook of Chemical Engineering, and the above 
+list eliminates quite a few possibilities.
+
+Here is a list of possible chemicals to use:
+
+ benzyl alcohol (sp.g. 1.043, bp 204.7 deg. C, sl. soluble);
+ cinnamyl alcohol (sp. g. 1.04, bp 257.5 deg. C, sl. soluble);
+ diethyl phthalate (sp. g. 1.121, bp 298 deg. C, insoluble);
+ ethyl salicylate (sp. g. 113, bp 233 deg. C, insoluble).
+
+If desired, use a suitable red oil-soluble dye to color fluid 2. A 
+permanent felt-tip pen is a possible source. Break open the pen and put 
+the felt in a beaker with fluid 2.
+
+It is recommended to use benzyl alcohol as fluid 2. (Caution!! Do not 
+come into contact with benzyl alcohol either by ingestion, skin, or
+inhalation.) In addition to water, the following items will be necessary:
+
+sodium chloride (table salt);
+
+a clear glass bottle, about 10 inches (25.4 cm) high;
+
+a 40 watt light bulb and ceramic light fixture;
+
+a 1 pint (473 ml) tin can or larger;
+
+plywood;
+
+1/4 inch (0.635 cm) thick foam-rubber;
+
+AC plug with 16 gauge lamp wire;
+
+hardware;
+
+light dimmer (optional);
+
+ small fan (optional).
+
+The performance of the lamp will depend on the quality of the water
+used. A few experiments must be conducted to determine how much sodium
+chloride is necessary to increase the water's specific gravity. Try a 5%
+salt concentration first (50 g of salt to 1 liter of water). Pour the
+red-dyed benzyl alcohol mixture in a Pyrex beaker. Add an equal or
+greater amount of water and heat slowly on a hot plate. If the benzyl
+alcohol floats to the top and stays there, decrease the salt
+concentration. If it stays at the bottom, add more salt. 
+
+Construct the lamp by fastening the ceramic lamp fixture to a 5 inch (12.7
+cm) diameter piece of plywood. Attach the lamp wire to the fixture. 
+Screw in the 40 watt bulb. Cut one end off the tin can, remove its
+contents, and clean thoroughly. Drill a hole in the tin can for the wire
+to go through. Invert the can over the bulb (open end down) and affix to
+the plywood with epoxy. Cut a round gasket from the foam-rubber and fit
+it into the top lip of the can. 
+
+Fill the bottle partially with brine, add about 150 ml of benzyl alcohol, 
+then fill up the bottle with brine. Leave about 1 inch (2.54 cm) of 
+airspace on top for expansion. Bubble size will be influenced by amount 
+of air space. Tightly cap the bottle and place on gasket.
+
+The light dimmer is used to control the amount of heat in the bottle. It 
+is helpful if the bottle is too short and the 40 watt bulb makes the 
+benzyl alcohol accumulate at the top.
+
+The fan can also be used to cool the top of the bottle and help the benzyl
+alcohol to sink to the bottom. 
+
+If desired, add a trace of an antioxidant such as BHA or BHT to the brine
+to add color and contrast.
+
+Enjoy and good luck.
+
+BILLB:
+
+Some theorizing: The wax material smells like gasoline. That seems
+unsafe, but could it perhaps be a mixture of paraffin wax thinned by
+gasoline? By itself this wouldn't sink in water, but by varying the
+amounts it might be possible to adjust the viscosity and melting point. 
+The mixture might not be very flammable if only a small amount of gasoline
+is needed. Use extreme care if you experiment with flammable materials! 
+
+Another clue: after a few years a Lamp fails because the wax
+separates into two masses, one which floats and one which sinks. This
+suggests that one ingredient may be a finely powdered solid. Over time
+this solid settles to the bottom of the wax blob, and eventually the
+lower part of blob becomes too dense to float when heated. The
+heavy powder would need to be very fine, and should be dense enough to
+sink the wax, but not so dense that it settles within the blob quickly.
+Could it be something as simple as talc? Or maybe it's very fine powdered
+silica. This powder would also make the wax appear translucent, while
+other mixtures usually result in a blob that is as transparent as glass.
+
+- Bill Beaty
+
+Other places to try:
+
+ Lavaworld International the Source of All!
+ Oozing Goo , several recipes
+ Another Recipe uses mineral oil
+ Self-made lamps in Deutch
+ LavaRand , random number generator
+
+ VICTORIAN 
+SCIENTI - FICTION!!! 
+
+(Natural philoso-fiction?) 
+
+ /amateur/bloblamp.html 
+
+Created and maintained by Bill Beaty . 
+Mail me at: 
+ . 
+
+ View My Stats

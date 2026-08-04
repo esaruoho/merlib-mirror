@@ -1,0 +1,3 @@
+WordPress &rsaquo; Installation 
+
+ Already Installed You appear to have already installed WordPress. To reinstall please clear your old database tables first.

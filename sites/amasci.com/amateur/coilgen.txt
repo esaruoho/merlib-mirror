@@ -1,0 +1,738 @@
+Science fair project: Ultra-simple Electric Generator, spinning magnets 
+
+ ELECTR. ARTICLES | 
+
+ SCI. FAIR | 
+
+ SURPLUS JUNK | 
+
+ GOOD STUFF | 
+
+ SEARCH 
+
+ Web 
+
+ amasci.com 
+
+ ELECTRONIC 
+ SURPLUS 
+ CATALOGS 
+
+The Big List
+
+ Ultra-simple Electric Generator 
+ wi re and spinning magnets 
+ (c)1996 William Beaty 
+
+ Also more amasci 
+videos 
+
+ PARTS:
+
+ 4 - 1x2x5cm ceramic magnet: 
+ Edu. Innv M-700 
+or Radio Shk #64-1877 ,
+or CMS 
+ 1 - #30 Magnet wi re 200ft, Rad. Shack 278-1345 $6.59
+ 1 - Miniature Lamp, 1.5V 25mA Rad. Sh. # 272-1139 $1.29, 
+or All. 
+LP-3 
+or #48 lamp 
+ 1 - Cardboard strip, 8cm x 30.4cm
+ 1 - Large nail, 8cm long or more
+ Misc. - Knife or sandpaper to strip the wi res
+ Misc. - tape to hold wi re down
+ Optional: hand drill or electric drill to spin it (hand drill is best)
+
+Cheaper: 600ft wire from a $1.50 
+Electr. Goldmine solenoid (need vise-grips)
+
+ Also: 
+ other sources of wire 
+
+ This is an AC electric generator which lights up a tiny
+incandescent light bulb. The generator is made from a hollow-ended
+cardboard box with a nail through the center. The box has many turns of
+fine copper wi re wound around it, with four large magnets clamped around
+the nail. When the nail and magnets are spun fast by hand, the little
+light bulb lights up dimly. 
+
+I wrote this article because I found lots of projects for making a simple
+electric motor, but nobody gave the secret for making a generator. Well,
+here it is: use strong magnets, lots of fine wi re, and a special light
+bulb which only needs 1/2 volt. Also, don't bother making a "commutator,"
+just hook the wi res directly to the bulb. It's much simpler that way,
+but the generator will produce AC (alternating current). 
+
+Before you start, here are some notes: you must use a special light bulb. 
+Normal flashlight bulbs will not work. Also, you must use the large, 
+strong magnets shown in the parts list. Smaller magnets won't work. The 
+wi re must be #30 gauge or smaller. Also, you can improve the generator 
+if you buy lots of extra kits of wi re and wind it on the cardboard, since the 
+bulb will light up even when the generator spins slowly.
+Three kits of Radio Shack wire is expensive, it's cheaper to order just 
+one 
+$1.50 solenoid, 
+but you'll, need vise-grips pliers to pry apart the steel frame and remove the 
+spool of wire.
+
+ SHORTCUTS:
+
+ NEXT
+PAGE-> 
+
+ Construction 
+ Testing 
+ How It Works 
+ Other Things To Try 
+
+ WARNING: magnets! 
+ Motor Challenge! 
+ If it doesn't work...DEBUGGING 
+ Frequent Questions 
+ Links 
+ More Electricity Projects 
+
+SEE ALSO: 
+- STATIC ELECTRICITY PROJECTS 
+- VANDEGRAAFF MACHINES 
+- SUPERMAGNET FUN 
+- ELECTRICITY PROJECTS 
+
+- SODA-BOTTLE MOTOR 
+- RIDICULOUS CHARGE DETECTOR 
+- MORE SCIENCE PROJECTS FOR KIDS 
+
+ CONSTRUCTION 
+
+[ SHORTER VIDEO 2.5 min ]
+
+[ LONGER VIDEO, 8 min.
+ ]
+
+First make the hollow-ended box. Score the cardboard strip like so:
+
+ ___________________________________________________________________
+ | 8cm | 3.5cm | 8cm | 3.2cm | 7.7cm |
+ | | | | | |
+ | | | | | |
+ | | | | | |
+ |8 | | | | |
+ |cm | | | | |
+ | | | | | |
+ | | | | | |
+ | | | | | |
+ | | | | | |
+ |________________|________|_________________|_______|_______________|
+
+NOTE: this page must be displayed in COURIER FONT, otherwise 
+these pictures will be wrecked and unreadable. Most browsers 
+do this automatically.
+
+ _____8_________
+ _|______________ \
+ |\ 7.7 | \ 3.5
+ | \3.2 | \
+ | \_____________|___\
+ | | 8 |
+ | | |
+ | | |
+ | | | Fold it like this and tape
+ | | | it securely.
+ | | |
+ | | |
+ | | |
+ | | |
+ \ | |
+ \|__________________|
+
+ ________________
+ _|_______________ \
+ |\ | \
+ | \ | \ Use the nail to poke a hole 
+ | \______________|___\ perfectly straight through the 
+ | | /| center of the box, going through
+ | | \ / | both sides and all three layers
+ | | \ / | of cardboard. Then pull the nail
+ | | \ (hole) | out and use it to widen all the
+ | | \ / | holes slightly, so when you put
+ | | O | the nail back through, it will
+ | | / \ | be a bit loose and able to spin.
+ | | / \ | 
+ | | / \ | ( You can find the exact center
+ \ | / \ | by using a ruler to draw an "X" 
+ \|___________________| from the corners. )
+
+At this point you should clamp your four magnets around the nail and give
+it a spin. This makes sure the box is large enough. The nail and
+magnets should spin freely. The corners of the magnets should NOT bump
+the inside of the box as they spin. If the box is a bit too small, start
+over and make it a little bigger. Either that, or try a thinner nail. 
+And be sure to use the right magnets. Smaller ones won't work.
+
+ [YES, you can build the box from plexiglas or thin wood instead if you 
+ wish. However, don't make it any larger than shown above. You want 
+ the wi re to stay very close to the spinning magnets, so keep the box 
+ as small as possible. And don't use smaller magnets.]
+
+ Pick the spool of number-30 magnet wi re from
+ _______________ the kit of spools. This is the thinnest.
+ _|______________ \ Tape one end of the number-30 magnet wi re
+ |\ | \ to the side of the box, then wind all of
+ | \ | \ the wi re onto the box as shown. It's OK
+ | \_____________|___\ to cover up the nail hole. Pull the taped
+ | | | end of the wi re out, then tape down both
+ \ | | of the wi res so the coil doesn't unwind.
+ \\ | | You should have about 10cm of wi re left
+ \\\====================| sticking out.
+ \\\====================/___
+ |\\====================/ \
+ -----+-\====================/ \
+ / | ==================== \
+ / | | | \ Use sandpaper or the edge of a
+| \ | | | knife to scrape the thin plastic
+| \|__________________| | coating off 2cm of the wi re ends.
+| Remove every bit of red coating,
+ so the wi re ends are coppery.
+
+ (note: the five lines of wi re shown above are not real, that's
+ the 'equals signs' I used to draw with. The real wi re can just 
+ be wound up in a big wad in the center of the cardboard box.)
+
+ _______________
+ _|______________ \
+ |\ | \
+ | \ | \
+ | \_____________|___\ Spread the wi re away from the
+ | | | nail hole and tape it in place.
+ \ | | Stick the nail back through the
+ \\ | | holes and make sure it can spin.
+ \\\====================| Take your four magnets, stick
+ \\\========---=========/___ them face to face in two pairs,
+ |\\========(\\)========/ \ Then stick the two pairs inside
+ -----+-\==========(_)=======/ \ the box and on either side of the
+ / | ==================== | nail so they grab the nail. Push
+ / | | | | them around until they are some-
+ \ | | | what balanced and even, then spin
+ \|__________________| | the nail and see if they turn
+ freely. If you wish, you can
+ push 2cm squares of cardboard
+ between the magnets to straighten
+ them. If you wish, tape the 
+ magnets so they don't move
+ around on the nail.
+
+ _____ magnets
+ |_____| _____________
+ |_____| |_____________| 2 magnets
+ =================|| NAIL |_____________|
+ |_____| ______O______
+ |_____| |_____________| 2 magnets
+ |_____________|
+ SIDE VIEW OF THE
+ NAIL AND MAGNETS VIEW FROM THE END
+
+ TWIST THE WI RES TOGETHER 
+
+Make sure that each end of the generator's wi res are totally cleared of
+red plastic coating. If there is a bit of plastic left, it can act as an
+insulator which turns off your light bulb circuit. 
+
+ Twist the scraped end of each generator wi re securely around the silver
+tip of each wi re from the small light bulb. (If necessary, use a knife to
+strip more plastic from the ends of the light bulb wi res.) One generator
+wi re goes to one light bulb wi re, the other generator wi re goes to the
+other light bulb wi re, and the two twisted wi re connections should not
+touch together. In the twisted wi res, metal must touch metal with no
+plastic in between.
+
+ _______________
+ _|______________ \
+ |\ | \
+ | \ | \
+ | \_____________|___\ 
+ | | | 
+ \ | | 
+ \\ | | 
+ \\\====================| 
+ \\\========---=========/___ 
+ |\\========(\\)========/ \ 
+ -----+-\==========(_)=======/ \ 
+ / | ==================== | 
+ | | | | | 
+ | \ | | | 
+ | \|__________________| | 
+ | | 
+ \ / 
+ \ twist / 
+ \ {} twist {} / 
+ \ {} {} / 
+ \____/\______ _______/\__/ 
+ \_/ 
+ ( ) 
+ ( ) tiny 
+ (_) light bulb
+
+ STUPID BILL B. VIDEOS ! 
+
+ educational too. But no less stupid! 
+
+DRAW A HOLOGRAM 
+
+DIY GENERATOR 
+
+MICROWAVE MAYHEM 
+
+BOTTLE SMASH! 
+
+EATING dry ice! 
+
+DANGEROUS MAGLEV! 
+
+ TEST IT 
+
+ Spin the magnet REALLY fast and the bulb will light dimly.
+If it doesn't work, try spinning it in a dark room so you don't miss
+the dim glow. If needed, adjust the position of the magnets so they don't
+hit or scrape the cardboard. This thing has to spin *fast*, and if the
+magnets whack the cardboard and slow down, you won't see any light.
+(IF IT DOESN'T WORK, SEE " DEBUGGING " BELOW)
+
+Once you get it to work, try clamping the point of the nail into the chuck
+of a hand-crank drill. Spin the magnets fast with the drill and the bulb
+will light brightly. Don't go too fast or you'll burn out the bulb, or
+maybe fling magnets all over the room. You can try this with an electric 
+drill as well, although electric drills don't spin as fast. 
+
+Note: your generator produces Alternating Current, not Direct Current. 
+The output voltage is about 2 volts max, so there is no electric shock 
+hazard at all. 
+
+ MORE PROJECTS 
+ | 
+ EVEN MORE PROJECTS | 
+ | 
+ MY ELECTRICITY EXPLANATIONS 
+
+ HOW IT WORKS 
+
+All metals contain a movable substance called "electric charge". Even
+uncharged wi res are full of charge! After all, the atoms of the metal are
+made half of positive protons and half of negative electrons. Metals are
+special because their electrons don't stay connected to the metal atoms,
+instead they fly around inside the metal and form a type of electric
+"liquid" inside the wi res. All wi res are full of electric fluid. Modern
+scientists call this the "electron sea" or "electron gas." The fluid
+charge is movable, and this lets metals be electric conductors. The 
+movable charge-stuff is not
+invisible, it actually gives metals their silvery shine. The electron gas
+is like a silvery fluid. Sort of. 
+
+When a circle of wi re surrounds a magnetic field, and
+the magnetic field then changes, a circular "pressure" called Voltage
+appears. The faster the magnetic field changes, the larger the voltage 
+becomes. This circular voltage trys to force the movable charges in the
+wi re to rotate around the circle. In other words,
+moving magnets cause changing magnetic fields which try to create electric
+currents in closed circles of wi re. A moving magnet
+causes a pumping action. If the circuit is not complete, if there is a
+break, then the pumping force will cause no charge flow. Instead, a
+voltage difference will appear at the ends of the wir es. But if the
+circuit is "complete" or "closed", then the magnet's pumping action can
+force the electrons of the coil to begin flowing. A moving magnet can
+create an electric current in a closed circuit. The effect is called
+
+Electromagnetic Induction . This is a basic law of physics, and it is 
+used by all coil/magnet electric generators. 
+
+Generators don't have just one circle of w ire. 
+Suppose that many circles surround the
+moving magnet. Suppose that all the circles are connected in series to
+form a coil. The small voltages from all the circles will add together
+to give much larger voltage. A coil with 100 turns will have a hundred 
+times more voltage than a one-turn coil.
+
+Now for the light bulb. If we connect the ends of the coil together, 
+then whenever the magnet moves, the metal's charges will move and a 
+large electric current will appear in the coil. What if we instead 
+connect a light bulb between the ends of the coil? A light bulb is 
+really just a piece of wire. The charges of the light bulb's filament 
+will be pushed
+along. When the charges within the copper wi re pass into the thin light
+bulb filament, their speed greatly increases. When the charges leave the
+filament and move back into the larger copper wi re, they slow down again. 
+Inside the narrow filament, the fast-moving charges heat the metal by a
+sort of electrical "friction". The metal filament gets so hot that it
+glows. The moving charges also heat the wi res of the generator a bit, but
+since the generator wi res are so much thicker, almost all of the heating
+takes place in the light bulb filament. 
+
+So, just connect a light bulb to a coil of wire, place a short powerful 
+magnet in the coil, then spin the magnet fast. The faster you spin the 
+magnet, the higher the voltage pump-force becomes, and the brighter the 
+light bulb lights up. The more powerful your magnet, the higher the 
+voltage and the brighter the bulb. And the more circles of wire in your 
+coil, the higher the voltage and the brighter the bulb.
+
+ OTHER THINGS TO TRY 
+
+Disconnect one wi re from the light bulb. Spin the magnet. While
+still spinning the magnet, have a friend touch the wi res together
+so the bulb lights up again. Is the nail still as easy to spin?
+Keep spinning the magnet while your friend connects and disconnects
+the bulb. Do you feel any differences in how hard you must spin the nail?
+Also try spinning the magnets while your friend connects the generator 
+wi res directly together (with no bulb connected.)
+
+ SO WHAT? 
+
+When you crank the generator and make the lightbulb turn on, you are
+working against electrical friction in order to create the heat and light.
+You can FEEL the work you perform, because whenever you connect the bulb,
+it suddenly gets harder to crank the generator. When you disconnect the
+bulb, it gets easier. 
+
+Think of it like this. If you rub your hands together lightly, the skin
+stays cool, but if you rub your hands together hard, your skin gets hot.
+It takes more effort to rub skin hard so that it heats up;
+ it takes work. And in a similar way, it's hard to heat the lightbulb
+filament, it takes work. You twist the generator shaft, the generator
+pushes the wi re's charge through the tiny filament, and if you don't keep
+spinning the magnet, the magnet will be slowed quickly. 
+
+ FEEL THE ELECTRONS 
+
+When your hand spins the magnet, you can feel the extra work it takes
+to light the bulb. This happens because your hand is connected to the
+flowing charge in the bulb, and when you push on it, you can feel it
+push back on you! How is your hand connected to the flowing charges? 
+Your hand twists the nail, the nail spins the
+magnet, the magnet pushes the invisible magnetic fields, the fields
+push the movable charges, the charges flow slowly through the light
+bulb filament, and the tiny filament causes friction against the flow
+of charge and heats up. But then the reverse happens! The charge
+can't move much because of the tiny filament, so it resists the
+pressure from the magnetic fields, which in turn resist the pressure
+from the magnet, which resists the twisting pressure from the nail,
+which resists the twisting pressure from your fingers. So, in a
+very real way, you can FEEL the electrons in the light bulb filament.
+When you push them, you can FEEL their reluctance to move through
+the narrow filament!
+
+ TURN OFF THE FIELD 
+
+Try changing the magnets' position. Remove the magnets, then tape them
+around the nail so that the two stacks are clinging side by side, rather
+than stacked up in a line. Spin the magnets. Does the light bulb still
+light up? No. This happens because The N pole of one magnet stack is
+very close to the S pole of the other, and vice versa. The magnetic field
+is now stretching between the two stacks of magnets, and isn't spreading
+outward. Most of the field is trapped between the neighboring opposite
+poles, so the field doesn't extend out through the coil. When magnets are 
+side by side like this, they form one larger but weak magnet. On the 
+other
+hand, when you make a single stack of magnets instead, the field extends
+outwards for many inches. The stacked magnets form a larger but very 
+strong magnet. If you spin the single magnet stack, the
+field cuts through the wi res and pumps their electrons
+into motion.
+
+ MEASURE THE VOLTAGE AND CURRENT 
+
+If you can get a Digital Voltmeter or DVM, you can make some measurements.
+(Once you can see some numbers, you can perform some professional science
+experiments. This is great for science fair projects.) Spin the magnets
+to light up the bulb, then connect the meter leads across the light bulb
+connections. Set the meter for AC volts. Spin the magnets and see just
+how high a voltage your generator produces. 
+
+How high can you make the voltage just 
+by using fingers? Or using a hand drill? Try spinning the magnets just 
+fast enough to barely light the bulb in a dark room. How small a voltage 
+is needed? Also try 
+disconnecting the
+light bulb, then measure the AC voltage across the two ends of the coil.
+Can you tell if it's still the same as when the bulb was connected? Hint: 
+to spin the magnets at a constant rate, use an electric drill with a 
+fully-charged battery. Or perhaps hook the nail to an electric motor and 
+connect the motor to a DC power supply with settable voltage.
+
+ MOTOR CHALLENGE! 
+There is a simple way to convert your generator into a 
+motor. It involves using paint or tape to insulate a spot on one side of 
+the nail,
+then using a 6V battery and using the generator's wi res,
+touching the nail to form a switch. The rotating magnets turn the nail, 
+which turns the coil on
+and off at just the right times. Can you discover the trick? 
+
+ MAKING DC 
+
+You can change this generator so it makes DC rather than AC. The voltage
+is still very low, so it's not very useful. If spun very fast, you might
+be able to recharge a tiny 1.2v rechargeable battery. (Maybe you could
+add lots more turns of wi re to the coil to increase the voltage?)
+
+Converting to DC, the hard way: add a spinning "commutator" switch and
+sliding metal "brushes," so that each time the magnets turn half way, the
+switch reverses the generator connections. 
+
+There is an easier way: Add a
+one-way valve! An "electricity valve" is called a diode or rectifier. 
+If you connect a diode in series with one of your motor wi res, it will
+only let the charges flow in one direction. It will change the
+Alternating Current into one-way flow (called "pulsating direct current.) 
+Try diodes from Radio Shack such as 1N4000 or 1N4001. Unfortunately a 
+diode needs about 3/4 volts to force charges through, and this voltage
+subtracts from your generator output. So if you want to add a diode, try 
+doubling or tripling the amount of wire on 
+your generator. Also try using a special "Schottky" diode with lower 
+voltage, such as 1N5819 from digikey.com. 
+
+ HISTORY OF "ULTRA SIMPLE" GENERATOR 
+
+While running the tech shop at the Museum of Science in Boston, I was
+working on new ideas for exhibits for the Electricity Hall in 1988. I
+knew that the Exploratorium had an electric generator exhibit where the
+museum visitor would yank a plastic-embedded coil plate through a row of
+huge magnets (magnetron horn-magnets from a military radar.) Doing so
+would light up a small bulb. I just knew that there HAD to be a way which
+uses more common magnets. So I stacked up a pile of 3" loudspeaker
+magnets (those black donut things) and waved it past various coils. 
+Finally I wound about five pounds of #26 wire around a ring of nails
+pounded into a board, hooked up a #49 light bulb, then moved the stack of
+speaker magnets in and out. This easily lit up the bulb.
+
+Around 1994 I was thinking about the ultra-simple electric motor which
+later became known on internet as the "Beakman Motor." Wouldn't it be
+cool if kids could also make an electric generator that simple? 
+But it should be possible with parts from a Radio Shack store, since Radio
+Shack had the special light bulb as well as magnets and spools of
+electromagnet wire. After a few hours of experimenting I fould that I
+could just barely light up the 20 milliamps bulb by using a single spool
+of #30 wire from radio shack. But the wire had to be VERY close to a fast
+spinning magnet, and the magnet had to be composed of four powerful
+ceramic magnets in a stack.
+
+To impress all the Physics Teachers, I tried to make the parts be easily
+available, and the cost as low as possible. To make a popular project, I
+made sure no tools were needed except scissors. I refused to use ball
+bearings or plastic parts. So I made my own cardboard box for the
+coil, and used a nail for the spinning shaft. To avoid extra parts, the
+nail is just clamped by the powerful magnets. If anyone else wants to try
+to make a cheaper or simpler electric generator, they have to do better
+than I did!
+
+ MAGNET WARNING 
+
+WARNING: Keep the magnets away from computers, disks, videotapes, color
+TV sets, and from wallets and purses containing credit cards. Try this: 
+Keep
+the generator far from your color TV, turn on the TV, start spinning the
+nail so the magnet is spinning fast, then bring the generator about 2ft
+away from the TV screen. DON'T BRING IT CLOSER!!! Keep spinning the
+magnets, and you'll see a cool wobbling effect in the TV picture, along
+with some color changes. The field from the magnet is bending the
+electron beam that paints the picture on the screen. Be careful, if you
+bring the magnet about 15cm away, the iron sheet inside the TV picture
+tube will become magnetized and the distorted colors will be permanent.
+
+ DEBUGGING 
+
+SPIN IT FAST, IN THE DARK. Sometimes your generator is working fine, but
+you're not spinning it fast enough. Or perhaps the dim glow of the light
+bulb is being missed in a brightly lit room. So, go into semi-darkness. 
+Then spin the thing REALLY FAST. Try cranking it with an old-fashioned
+drill. (Electric drills don't go very fast.) Or try gluing a tiny
+wheel to the nail, then rub the wheel on the spinning tire of an 
+upside-down
+bicycle (don't go too fast or the bulb will burn out.) 
+
+ADD LOTS MORE WI RE. If your coil has more turns, 
+then the bulb lights brighter. The Radio Shack wire is 200 feet long, 
+which gives about 250 turns. If you could wind more turns on your coil, 
+then your bulb would light up at lower magnet speed. Buy two kits of 
+wi re from Radio Shack, then use both spools of #30. 
+Scrape the red plastic coating off all the wire ends. Then twist the 
+end of the new spool to the end of the old one. This creates a single
+longer wi re. Be sure to wind the extra wire in the same 
+direction as before.
+
+Better source of wi re: buy a large "Solenoid"
+from a mail order company, then use Vice-grip pliers to pry open the metal 
+bracket. The hole in the solenoid is in a square steel plate, and if you 
+pry the rest of the steel frame outwards, you can remove the square plate 
+and take out the wire spool. Peel off the tape, and 
+wind 600 turns on your generator. Try this one:
+
+ELECTRONICS GOLDMINE:
+
+ Heavy Duty 24V solenoid $1.49 
+
+DON'T USE OTHER MAGNETS, use the large 2-inch rectangular 
+magnets sold by Radio Shack, 
+
+#64-1899 . Or try 
+
+Edu. Innovations, 
+or CMS .
+They cost about $2 each, and have no holes through the center. 
+Don't use the smaller 1 inch Radio Shack magnets. Most other magnets are 
+way too weak and will not work unless you spin the
+magnets incredibly fast, at thousands of RPM (revolutions per
+minute.) 
+
+USING SMALLER MAGNETS If you can't wait for mail-order of the correct 
+magnets, instead you can use twenty of the Radio Shack 1" magnets 64-1879 . 
+Glue them together to form two large magnets. 
+
+Here's how I did it. 
+First I formed four magnets: I glued twenty magnets in four separate 
+stacks of five magnets each. 
+I used 
+5-minute epoxy. Before the glue hardens, adjust the magnets so the sides 
+of each small stack are flat, and wipe off the excess epoxy. (To make the 
+sides flat, I laid each stack 
+down on aluminum foil, pressed them down to align the magnets, then peeled 
+off the foil when the glue was hard.) Next, glue 
+two of these 5-magnet stacks together side by side so the stacks are 
+repelling 
+each 
+other, 
+then hold them together until the glue hardens. That way the N pole of 
+one stack is near the N pole of the other, and S is near S. Do the same 
+with the other two 
+stacks. This gives you two large magnets, each made up of ten small ones.
+Each magnet should have two holes on each flat pole face.
+Clamp the magnets on either side of your nail as usual. These aren't as 
+powerful as the four 
+"high energy" ceramic magnets, so you'll need twice as much wi re for your 
+generator. 
+
+DON'T USE A DIFFERENT BULB. This generator cannot power a normal
+flashlight bulb, it needs the special 25-milliamp, 1.5-volt bulb sold by
+Radio Shack. Also try using a red LED. Don't use a normal flashlight 
+bulb, since that kind of bulb
+requires way more energy before it starts to glow. If you simply cannot
+find the Radio Shack 25mA bulb, you can use a 1.5V 40mA bulb, but add
+twice as much magnet wi re to your coil (buy two of those kits of magnet
+wire.) The generator needs more than 200 turns wrapped 
+around it. Five hundred turns is better, that way you won't have 
+to spin the magnets so fast. 
+
+STACK THE MAGNETS SO THEY STRONGLY ATTRACT. Make sure the magnets are
+stacked to create two strong poles, otherwise the generator won't work. 
+Do this: stack 
+up all
+four magnets so their widest faces are clinging together. Then jam the
+nail through the crack in the middle of the stack. Then take this
+apart, and re-assemble it inside the generator in the same way. 
+
+CLEAN THE WI RE ENDS THOROUGHLY. 
+If the generator refuses to work, inspect the spot where the wi res twist
+together. The coil of wi re has a very thin red plastic coating, and you
+must clean ALL of this coating off the last half-inch of the wi re ends 
+before twisting them to
+the light bulb wi res. Also, the tips of the light bulb wi res must be 
+stripped clean of all plastic. The metal part of the light bulb wi re 
+must touch the metal of the coil
+If there is any plastic between the metal of the generator wi re and the 
+light
+bulb wi re, the circuit will be "open" and no charge will flow. 
+
+Be sure to follow the instructions and diagrams. You MUST wind the coil
+so the coil goes across the side of the box which has the nail hole. If
+you wind it so no coil is crossing the nail-hole side of the box, then the
+magnetic fields won't cut across the wi res, and no electric voltage will
+be created. 
+
+Also, don't wind the coil over the open end of the box, otherwise you
+won't be able to get your fingers inside to make changes to the
+magnet. 
+
+If you cannot spin the magnets fast enough with your fingers, try a 
+"twist drill" or hand-crank drill. Clamp the nail in the end of
+the drill and spin the magnets as fast as you can. An electric
+drill may work too, but most electric drills don't move as fast as
+the hand-cranked type. 
+
+AC VOLTMETER. If you have an electronic voltmeter, set it to measure two
+volts AC, then connect it to the generator wires and spin the generator. 
+The light bulb needs a bit more than 0.50 volts AC in order to light
+dimly. At 1.0V it lights brightly. If your generator's voltage is lower
+than 0.5V, you need to spin it much faster, or you need strong magnets, or
+you need to add lots more turns of wire. 
+
+DON'T SUBSTITUTE THE MAGNETS OR THE LIGHT BULB WITH A DIFFERENT TYPE. It
+needs strong magnets and a low-voltage, low-current incandescent bulb. 
+If your generator doesn't work, check the parts again and make sure you
+have the right type of magnets and the right type of light bulb. Don't
+use fewer magnets. Weaker magnets may work in theory, but you won't be
+able to spin them fast enough by hand, and a high speed motor will be
+required in order to spin them. Don't use an LED. A red LED could work
+in theory, but you need at least 1-1/2 volts to barely light one up (the
+green or blue kind need even higher volts.) The light bulb is better
+because it lights up at less than 1/2 volt. (If you really must light up 
+an LED, use the red kind, and also add about three more spools of #30 wi re 
+to your generator coil.) 
+
+Perhaps your luck is bad and you got a dead light bulb. To test it, get
+any new, fresh 1.5V battery (the size doesn't matter.) Take the bulb off
+the generator, then touch one wi re form the bulb to the top of the battery
+and one wi re to the bottom. The light bulb should light up brightly. If
+it stays dark, the bulb is bad. 
+
+The generator can be improved by using more turns of wi re. You used only
+the spool of #30 wi re. With more wi re, the magnets don't have to spin as
+fast to light the bulb. Connect the thinnest of the remaining spools of
+wi re to one end of the wi re that's already wrapped, making sure to scrape
+the wi re ends totally clean before twisting them together. Make sure to
+wind the extra wi re in the same direction as the rest of the coil. 
+
+Or, if you want to light your light bulb REALLY bright, buy a second kit
+of wi re, hook the second #30 spool to the coil you have already made, then
+wind all the wi re onto the coil. Be sure to clean all the red plastic off
+the ends of the extra wi re that you've added. 
+
+ NEXT: FREQUENT QUESTIONS ANSWERED 
+ (FAQ) ---> 
+
+ LINKS 
+
+ Supermagnet Hamster Generator (OtherPower)
+ Professor Arvind's supermagnet generator 
+and another 
+ GENERATOR KIT : wood, magnet, wire $24
+ Generator w/cow magnet 
+
+Supermagnet generator for wind turbine
+ Science fair generators: supermagnets (OtherPower)
+ Freelights bicycle gen kit 
+ Supermagnet shaker-generator 
+ wind power generator 
+ PDF file , Girl Scouts version of the above generator
+ Wind Turbines for Science Fair (OtherPower)
+
+ MISC. 
+
+ Beakman's motor 
+ Ancient motors, generators (Spark Museum)
+ Home built generator for wind turbine
+ Electromagnets w/Radio-Shack wire (CoolMagnetMan)
+ PBS: Tesla for Teachers (AC power grid, etc.)
+
+Want books? Try searching 
+
+amazon.com : 
+
+ (try "science fair project" keywords too)
+
+See: Science Projects & Experiment books 
+
+/amateur/coilgen.html 
+Created and maintained by Bill Beaty . 
+
+ .
+
+ Best if viewed with ANY 
+Browser.
