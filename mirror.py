@@ -55,7 +55,7 @@ DEFAULT_LIVE_DELAY = 0.5
 MAX_DISCOVER_PAGES = 500
 # Wayback replay is ~13s/URL; single-threaded that is days for a big site.
 # Modest on purpose — this reads someone else's archive.
-DEFAULT_WAYBACK_WORKERS = 6
+DEFAULT_WAYBACK_WORKERS = 4
 MAX_LINK_DEPTH = 5
 BATCH_SIZE = 50
 BATCH_PAUSE = 10
@@ -756,7 +756,14 @@ FALLBACK_TIMESTAMPS = [
 def download_wayback_url(url, cdx_timestamp, domain, output_dir, delay):
     """Download one URL from Wayback with modifier + timestamp fallback.
 
-    Returns (success, size, timestamp_used).
+    Returns (success, size, timestamp_used, throttled).
+
+    `throttled` exists because archive.org answers 429 under load and fetch_url
+    reports that as an ordinary failure — indistinguishable from a 404. The caller
+    then recorded it as "all timestamps failed", i.e. a THROTTLED request was
+    written down as a permanently dead URL. On amasci that produced 185 "failures"
+    against 65 successes and would have condemned thousands of recoverable pages.
+    A throttle is a "come back later", never a verdict about the content.
     """
     global _current_delay
 
@@ -765,6 +772,13 @@ def download_wayback_url(url, cdx_timestamp, domain, output_dir, delay):
     ext = os.path.splitext(parsed.path)[1].lower()
     modifier = get_wayback_modifier(ext)
 
+    # Already on disk (e.g. from a prior live crawl) → nothing to fetch. Without
+    # this the backfill re-downloads everything the live pass already got, and
+    # 20,440 CDX rows collapse to far fewer distinct local paths anyway.
+    existing = os.path.join(output_dir, path)
+    if os.path.exists(existing) and os.path.getsize(existing) > 0:
+        return True, os.path.getsize(existing), 'on-disk', False
+
     clean_url = url.replace(':80', '')
 
     # Build timestamp list: CDX first, then fallbacks
@@ -772,6 +786,7 @@ def download_wayback_url(url, cdx_timestamp, domain, output_dir, delay):
     timestamps += [t for t in FALLBACK_TIMESTAMPS if t not in timestamps]
 
     consecutive_fails = 0
+    throttled = False
     cdx_extras_loaded = False
     attempts_made = 0
     # Cap grows once CDX extras are loaded so we can actually try them.
@@ -784,6 +799,11 @@ def download_wayback_url(url, cdx_timestamp, domain, output_dir, delay):
         attempts_made += 1
         wayback_url = f"https://web.archive.org/web/{ts}{modifier}/{clean_url}"
         content, _ct, ok = fetch_url(wayback_url)
+        if not ok and isinstance(_ct, str) and 'Rate limited' in _ct:
+            # archive.org is asking us to slow down. Record it and stop trying
+            # more timestamps for this URL — every further attempt is also 429.
+            throttled = True
+            break
 
         if ok and is_valid_content(content, ext):
             # Process HTML
@@ -809,7 +829,7 @@ def download_wayback_url(url, cdx_timestamp, domain, output_dir, delay):
                     with open(txt_path, 'w', encoding='utf-8') as f:
                         f.write(text)
 
-            return True, len(content), ts
+            return True, len(content), ts, False
 
         consecutive_fails += 1
         if consecutive_fails >= CONSECUTIVE_FAIL_BAIL:
@@ -841,7 +861,7 @@ def download_wayback_url(url, cdx_timestamp, domain, output_dir, delay):
             except Exception:
                 pass
 
-    return False, 0, None
+    return False, 0, None, throttled
 
 
 # ── 13. Live download engine ────────────────────────────────────────────────
@@ -1153,42 +1173,73 @@ def run_wayback(domain, resume=False, ts_from=None, ts_to=None, delay=None, outp
         def fetch_one(url_info):
             original = url_info['original']
             try:
-                ok, size, ts = download_wayback_url(
+                ok, size, ts, thr = download_wayback_url(
                     original, url_info.get('timestamp', ''), domain, output_dir,
                     _current_delay)
             except Exception as e:                      # never let one URL kill the pool
-                return original, False, 0, '', repr(e)
+                return original, False, 0, '', repr(e), False
             time.sleep(_current_delay)                  # politeness, per worker
-            return original, ok, size, ts, None
+            return original, ok, size, ts, None, thr
 
-        with concurrent.futures.ThreadPoolExecutor(max_workers=workers) as pool:
-            futures = {pool.submit(fetch_one, ui): ui for ui in pending}
-            for fut in concurrent.futures.as_completed(futures):
-                original, ok, size, ts, err = fut.result()
-                with lock:
-                    count += 1
-                    if ok:
-                        downloaded.add(original)
-                        new_downloads += 1
-                        if new_downloads % 10 == 0:
-                            path = sanitize_path(original)
-                            log(f"[{count}/{total}] OK {path[:70]} ({size:,}b) @{ts}")
-                    else:
-                        failed.append({'url': original,
-                                       'error': err or 'all timestamps failed'})
-                        log(f"[{count}/{total}] FAIL {original[:70]}")
+        # Retry PASSES rather than one shot. A 429 means "come back later", so a
+        # throttled URL stays pending instead of being written down as dead, and
+        # each pass backs off further and uses fewer workers. Bounded, so a
+        # genuinely-blocked run still terminates and says so.
+        MAX_PASSES = 6
+        for pass_no in range(1, MAX_PASSES + 1):
+            if not pending:
+                break
+            pass_workers = max(1, workers // (2 ** (pass_no - 1)))
+            throttled_again = []
+            log(f"--- pass {pass_no}/{MAX_PASSES}: {len(pending):,} URL(s), "
+                f"{pass_workers} worker(s) ---")
 
-                    if count % BATCH_SIZE == 0:
-                        progress['downloaded'] = list(downloaded)
-                        progress['failed'] = failed
-                        save_progress(progress, progress_file)
-                        elapsed = time.time() - start_time
-                        rate = count / max(elapsed, 1) * 60
-                        pct = count * 100 // max(total, 1)
-                        eta_h = ((total - count) / max(rate, 0.01)) / 60
-                        log(f"--- Progress: {count}/{total} ({pct}%) | "
-                            f"New: {new_downloads} | Rate: {rate:.0f}/min | "
-                            f"ETA {eta_h:.1f}h ---")
+            with concurrent.futures.ThreadPoolExecutor(max_workers=pass_workers) as pool:
+                futures = {pool.submit(fetch_one, ui): ui for ui in pending}
+                for fut in concurrent.futures.as_completed(futures):
+                    original, ok, size, ts, err, thr = fut.result()
+                    with lock:
+                        if thr:
+                            # Not counted, not failed — retried next pass.
+                            throttled_again.append(futures[fut])
+                            continue
+                        count += 1
+                        if ok:
+                            downloaded.add(original)
+                            new_downloads += 1
+                            if new_downloads % 25 == 0:
+                                path = sanitize_path(original)
+                                log(f"[{count}/{total}] OK {path[:70]} "
+                                    f"({size:,}b) @{ts}")
+                        else:
+                            failed.append({'url': original,
+                                           'error': err or 'all timestamps failed'})
+
+                        if count % BATCH_SIZE == 0:
+                            progress['downloaded'] = list(downloaded)
+                            progress['failed'] = failed
+                            save_progress(progress, progress_file)
+                            elapsed = time.time() - start_time
+                            rate = count / max(elapsed, 1) * 60
+                            pct = count * 100 // max(total, 1)
+                            eta_h = ((total - count) / max(rate, 0.01)) / 60
+                            log(f"--- Progress: {count}/{total} ({pct}%) | "
+                                f"New: {new_downloads} | Fail: {len(failed)} | "
+                                f"Throttled-deferred: {len(throttled_again)} | "
+                                f"Rate: {rate:.0f}/min | ETA {eta_h:.1f}h ---")
+
+            pending = throttled_again
+            if pending:
+                backoff = 60 * (2 ** (pass_no - 1))
+                log(f"archive.org throttled {len(pending):,} URL(s) — "
+                    f"backing off {backoff}s before pass {pass_no + 1}. "
+                    f"These are NOT recorded as failures.")
+                time.sleep(backoff)
+
+        if pending:
+            log(f"WARNING: {len(pending):,} URL(s) still throttled after "
+                f"{MAX_PASSES} passes — left PENDING, not marked failed. "
+                f"Re-run with --resume later; this crawl is NOT complete.")
 
         progress['downloaded'] = list(downloaded)
         progress['failed'] = failed
