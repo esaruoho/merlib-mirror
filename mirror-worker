@@ -486,7 +486,31 @@ process_job_file() {
   mkdir -p "$site_dir" 2>/dev/null || true
   local exit_code=0
   set -o pipefail
-  python3 "$MIRROR_PY" "${mirror_args[@]}" 2>&1 | tee "$site_dir/_mirror_worker.log" 2>/dev/null || exit_code=$?
+  # ── keep the heartbeat fresh WHILE the crawl runs ─────────────────────────
+  # write_heartbeat was called only at job start and between jobs. The guardian
+  # kills the worker when the heartbeat is older than STALE_THRESHOLD_S=600, so
+  # ANY job longer than ten minutes was killed mid-crawl as "STUCK". The belt
+  # structurally could not complete a long job.
+  #
+  # From merlib-mirror-guardian.log on 2026-08-04, amasci Wayback backfill queued:
+  #   11:44:33 mirror-worker pid=95108 STUCK (heartbeat 607s old > 600s) — killing
+  #   11:55:12 mirror-worker pid=5011  STUCK (heartbeat 606s old > 600s) — killing
+  #   12:05:51 mirror-worker pid=14699 STUCK (heartbeat 607s old > 600s) — killing
+  # Three kills, zero progress, repeating forever. A ~20,000-URL Wayback crawl
+  # takes hours and never got past ten minutes.
+  #
+  # The heartbeat means "this worker is alive", and it IS alive while the crawler
+  # runs — so refresh it every 60s for the duration. Not a daemon, not nohup: a
+  # subshell supervised by this worker, dying with it.
+  python3 "$MIRROR_PY" "${mirror_args[@]}" 2>&1 | tee "$site_dir/_mirror_worker.log" 2>/dev/null &
+  local mirror_pid=$!
+  while kill -0 "$mirror_pid" 2>/dev/null; do
+    write_heartbeat "processing" "$target" "$mode" "$path_filter" "$domain" "$started_at"
+    sleep 60
+  done
+  # Exit code still comes from the pipeline, not tee — verified a pipeline exiting
+  # 7 still surfaces 7, so a crashed / OOM-killed crawler is still detected.
+  wait "$mirror_pid" || exit_code=$?
   set +o pipefail
 
   # Job is over (success or failure) — wipe the per-job progress snapshot
