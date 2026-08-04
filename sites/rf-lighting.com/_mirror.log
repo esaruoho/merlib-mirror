@@ -1,0 +1,27 @@
+[2026-08-04 19:13:48] ============================================================
+[2026-08-04 19:13:48] LIVE MIRROR: www.rf-lighting.com
+[2026-08-04 19:13:48] Seed: https://www.rf-lighting.com/
+[2026-08-04 19:13:48] Seed path: /
+[2026-08-04 19:13:48] Max link depth: 5
+[2026-08-04 19:13:48] Output: /Users/esaruoho/work/merlib-mirror/sites/www.rf-lighting.com
+[2026-08-04 19:13:48] ============================================================
+[2026-08-04 19:13:49] robots.txt: honouring 5 Disallow rule(s) (MIRROR_IGNORE_ROBOTS=1 to override)
+[2026-08-04 19:13:49] Crawling / (download-as-you-go)...
+[2026-08-04 19:13:50]   [1 d0*] https://www.rf-lighting.com/  (1 OK, 0 queued)
+[2026-08-04 19:13:50]     +2 links (3 total known)
+[2026-08-04 19:13:51]   [2 d0*] https://www.rf-lighting.com/terms.html  (2 OK, 1 queued)
+[2026-08-04 19:13:51]     +1 links (4 total known)
+[2026-08-04 19:13:52]   [3 d0*] https://www.rf-lighting.com/css/roboto.css  (3 OK, 1 queued)
+[2026-08-04 19:13:54]   [4 d0*] https://www.rf-lighting.com/privacy.html  (4 OK, 0 queued)
+[2026-08-04 19:13:55] Generating index...
+[2026-08-04 19:13:55] Index: 4 files
+[2026-08-04 19:13:55]   .html: 3
+[2026-08-04 19:13:55]   .css: 1
+[2026-08-04 19:13:55] 
+============================================================
+[2026-08-04 19:13:55] LIVE MIRROR COMPLETE
+[2026-08-04 19:13:55] Downloaded: 4, OK: 4, Failed: 0
+[2026-08-04 19:13:55] Total URLs seen: 4
+[2026-08-04 19:13:55] ============================================================
+[2026-08-04 19:13:55] 
+Next step: fe-ingest.sh /Users/esaruoho/work/merlib-mirror/sites/www.rf-lighting.com

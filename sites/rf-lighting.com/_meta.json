@@ -1,0 +1,13 @@
+{
+  "source": "live",
+  "domain": "www.rf-lighting.com",
+  "mirror_date": "2026-08-04T19:13:55.097229",
+  "total_urls": 0,
+  "downloaded": 4,
+  "failed": 0,
+  "files": 4,
+  "file_types": {
+    ".css": 1,
+    ".html": 3
+  }
+}
