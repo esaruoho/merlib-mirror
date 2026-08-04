@@ -1,0 +1,280 @@
+---
+title: "SCIENCE HOBBYIST: Misconceptions Page"
+source_domain: amasci.com
+source_path: miscon/myths10.html
+order: 327
+reachable_from_entry: true
+images: 2
+internal_links: 8
+extracted: 2026-08-03T18:11:48Z
+extractor: site_to_paper.py (pandoc)
+---
+
+# SCIENCE HOBBYIST: Misconceptions Page
+
+*Source page: `miscon/myths10.html`*
+
+<table data-summary="nav links, google search window" width="100%">
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td><table data-cellpadding="5" data-summary="Navigation links">
+<colgroup>
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+<col style="width: 20%" />
+</colgroup>
+<tbody>
+<tr>
+<td><strong><a href="http://amasci.com/miscon/miscon.html">K-6 MISCONCEPTIONS</a>  |</strong><br />
+</td>
+<td><strong><a href="http://amasci.com/~billb/cgi-bin/miscon/guestbok.html">COMMENT</a>  |</strong><br />
+</td>
+<td><strong><a href="http://amasci.com/unew.html">GOOD STUFF</a>  |</strong><br />
+</td>
+<td><strong><a href="http://amasci.com/news.html">NEW STUFF</a>  |</strong><br />
+</td>
+<td><strong><a href="http://amasci.com/search.html">SEARCH</a></strong><br />
+</td>
+</tr>
+</tbody>
+</table></td>
+<td style="text-align: right;" data-summary="google search" data-valign="top"><div id="google_translate_element">
+&#10;</div>
+<div>
+&#10;</div></td>
+</tr>
+</tbody>
+</table>
+
+<table width="100%" data-summary="main text" data-cellpadding="10">
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr>
+<td width="800">NOTE: a revised/updated version in .pdf format is available at <a href="http://pase.uark.edu/index.php" rel="nofollow">UARK</a>:<br />
+&#10;<blockquote>
+The Principle Elements of the Nature of Science: Dispelling the Myths<br />
+<a href="http://%0Apase.uark.edu/_resources/images/the-myths-of-science.pdf" rel="nofollow">http:// pase.uark.edu /_resources/images/ The-Myths-Of-Science .pdf</a> McComas 1998
+</blockquote>
+<br />
+&#10;<p><em>McComas, William, Ten myths of science: Reexamining what we think we know...., Vol. 96, School Science &amp; Mathematics, 01-01-1996, pp 10.</em><br />
+</p>
+<h2 id="ten-myths-of-science-reexamining-what-we-think-we-know...-w.-mccomas-1996">TEN MYTHS OF SCIENCE: REEXAMINING WHAT WE THINK WE KNOW...<br />
+W. McComas 1996</h2>
+<blockquote>
+<p>This article addresses and attempts to refute several of the most widespread and enduring misconceptions held by students regarding the enterprise of science. The ten myths discussed include the common notions that theories become laws, that hypotheses are best characterized as educated guesses, and that there is a commonly-applied scientific method. In addition, the article includes discussion of other incorrect ideas such as the view that evidence leads to sure knowledge, that science and its methods provide absolute proof, and that science is not a creative endeavor. Finally, the myths that scientists are objective, that experiments are the sole route to scientific knowledge and that scientific conclusions are continually reviewed conclude this presentation. The paper ends with a plea that instruction in and opportunities to experience the nature of science are vital in preservice and inservice teacher education programs to help unseat the myths of science.<br />
+</p>
+<p>Myths are typically defined as traditional views, fables, legends or stories. As such, myths can be entertaining and even educational since they help people make sense of the world. In fact, the explanatory role of myths most likely accounts for their development, spread and persistence. However, when fact and fiction blur, myths lose their entertainment value and serve only to block full understanding. Such is the case with the myths of science.<br />
+</p>
+<p>Scholar Joseph Campbell (1968) has proposed that the similarity among many folk myths worldwide is due to a subconscious link between all peoples, but no such link can explain the myths of science. Misconceptions about science are most likely due to the lack of philosophy of science content in teacher education programs, the failure of such programs to provide and require authentic science experiences for preservice teachers and the generally shallow treatment of the nature of science in the precollege textbooks to which teachers might turn for guidance.<br />
+</p>
+<p>As Steven Jay Gould points out in <strong>The Case of the Creeping Fox Terrier Clone</strong> (1988), science textbook writers are among the most egregious purveyors of myth and inaccuracy. The fox terrier mentioned in the title refers to the classic comparison used to express the size of the dawn horse, the tiny precursor to the modem horse. This comparison is unfortunate for two reasons. Not only was this horse ancestor much bigger than a fox terrier, but the fox terrier breed of dog is virtually unknown to American students. The major criticism leveled by Gould is that once this comparison took hold, no one bothered to check its validity or utility. Through time, one author after another simply repeated the inept comparison and continued a tradition that has made many science texts virtual clones of each other on this and countless other points.<br />
+</p>
+<p>In an attempt to provide a more realistic view of science and point out issues on which science teachers should focus, this article presents and discusses 10 widely-held, yet incorrect ideas about the nature of science. There is no implication that all students, or most teachers for that matter, hold all of these views to be true, nor is the list meant to be the definitive catolog. Cole (1986) and Rothman (1992) have suggested additional misconceptions worthy of consideration. However, years of science teaching and the review of countless texts has substantiated the validity of the inventory presented here.<br />
+</p>
+<p><br />
+</p>
+<p><span id="myth1"></span> <strong>Myth 1: Hypotheses Become Theories Which Become Laws</strong><br />
+</p>
+<p>This myth deals with the general belief that with increased evidence there is a developmental sequence through which scientific ideas pass on their way to final acceptance. Many believe that scientific ideas pass through the hypothesis and theory stages and finally mature as laws. A former U.S. president showed his misunderstanding of science by saying that he was not troubled by the idea of evolution because it was "just a theory." The president's misstatement is the essence of this myth; that an idea is not worthy of consideration until "lawness" has been bestowed upon it.<br />
+</p>
+<p>The problem created by the false hierarchical nature inherent in this myth is that theories and laws are very different kinds of knowledge. Of course there is a relationship between laws and theories, but one simply does not become the other--no matter how much empirical evidence is amassed. Laws are generalizations, principles or patterns in nature and theories are the explanations of those generalizations (Rhodes &amp; Schaible, 1989; Homer &amp; Rubba, 1979; Campbell, 1953).<br />
+</p>
+<p>For instance, Newton described the relationship of mass and distance to gravitational attraction between objects with such precision that we can use the law of gravity to plan spaceflights. During the Apollo 8 mission, astronaut Bill Anders responded to the question of who was flying the spacecraft by saying, "I think that Issac Newton is doing most of the driving fight now." (Chaikin, 1994, p. 127). His response was understood by all to mean that the capsule was simply following the basic laws of physics described by Isaac Newton years centuries earlier.<br />
+</p>
+<p>The more thorny, and many would say more interesting, issue with respect to gravity is the explanation for why the law operates as it does. At this point, there is no well. accepted theory of gravity. Some physicists suggest that gravity waves are the correct explanation for the law of gravity, but with clear confirmation and consensus lacking, most feel that the theory of gravity still eludes science. Interestingly, Newton addressed the distinction between law and theory with respect to gravity. Although he had discovered the law of gravity, he refrained from speculating publically about its cause. In Principial, Newton states" . . . I have not been able to discover the cause of those properties of gravity from phenomena, and I frame no hypothesis . . ." " . . . it is enough that gravity does really exist, and act according to the laws which we have explained . . ." (Newton, 1720/1946, p. 547).<br />
+</p>
+<p><br />
+</p>
+<p><span id="myth2"></span> <strong>Myth 2: A Hypothesis is an Educated Guess</strong><br />
+</p>
+<p>The definition of the term hypothesis has taken on an almost mantra- like life of its own in science classes. If a hypothesis is always an educated guess as students typically assert, the question remains, "an educated guess about what?" The best answer for this question must be, that without a clear view of the context in which the term is used, it is impossible to tell.<br />
+</p>
+<p>The term hypothesis has at least three definitions, and for that reason, should be abandoned, or at least used with caution. For instance, when Newton said that he framed no hypothesis as to the cause of gravity he was saying that he had no speculation about an explanation of why the law of gravity operates as it does. In this case, Newton used the term hypothesis to represent an immature theory.<br />
+</p>
+<p>As a solution to the hypothesis problem, Sonleitner (1989) suggested that tentative or trial laws be called generalizing hypotheses with provisional theories referred to as explanatory hypotheses. Another approach would be to abandon the word hypothesis altogether in favor of terms such as speculative law or speculative theory. With evidence, generalizing hypotheses may become laws and speculative theories become theories, but under no circumstances do theories become laws. Finally, when students are asked to propose a hypothesis during a laboratory experience, the term now means a prediction. As for those hypotheses that are really forecasts, perhaps they should simply be called what they are, predictions.<br />
+</p>
+<p><br />
+</p>
+<p><span id="myth3"></span> <strong>Myth 3: A General and Universal Scientific Method Exists</strong><br />
+</p>
+<p>The notion that a common series of steps is followed by all research scientists must be among the most pervasive myths of science given the appearance of such a list in the introductory chapters of many precollege science texts. This myth has been part of the folklore of school science ever since its proposal by statistician Karl Pearson (1937). The steps listed for the scientific method vary from text to text but usually include, a) define the problem, b) gather background information, c) form a hypothesis, d) make observations, e) test the hypothesis, and f) draw conclusions. Some texts conclude their list of the steps of the scientific method by listing communication of results as the final ingredient.<br />
+</p>
+<p>One of the reasons for the widespread belief in a general scientific method may be the way in which results are presented for publication in research journals. The standardized style makes it appear that scientists follow a standard research plan. Medawar (1990) reacted to the common style exhibited by research papers by calling the scientific paper a fraud since the final journal report rarely outlines the actual way in which the problem was investigated.<br />
+</p>
+<p>Philosophers of science who have studied scientists at work have shown that no research method is applied universally (Carey, 1994; Gibbs &amp; Lawson, 1992; Chalmers, 1990; Gjertsen, 1989). The notion of a single scientific method is so pervasive it seems certain that many students must be disappointed when they discover that scientists do not have a framed copy of the steps of the scientific method posted high above each laboratory workbench.<br />
+</p>
+<p>Close inspection will reveal that scientists approach and solve problems with imagination, creativity, prior knowledge and perseverance. These, of course, are the same methods used by all problem-solvers. The lesson to be learned is that science is no different from other human endeavors when puzzles are investigated. Fortunately, this is one myth that may eventually be displaced since many newer texts are abandoning or augmenting the list in favor of discussions of methods of science.<br />
+</p>
+<p><br />
+</p>
+<p><span id="myth4"></span> <strong>Myth 4: Evidence Accumulated Carefully Will Result in Sure Knowledge</strong><br />
+</p>
+<p>All investigators, including scientists, collect and interpret empirical evidence through the process called induction. This is a technique by which individual pieces of evidence are collected and examined until a law is discovered or a theory is invented. Useful as this technique is, even a preponderance of evidence does not guarantee the production of valid knowledge because of what is called the problem of induction.<br />
+</p>
+<p>Induction was first formalized by Frances Bacon in the 17th century. In his book, Novum Organum (1620/ 1952), Bacon advised that facts be assimilated without bias to reach a conclusion. The method of induction he suggested is the principal way in which humans traditionally have produced generalizations that permit predictions. What then is the problem with induction?<br />
+</p>
+<p>It is both impossible to make all observations pertaining to a given situation and illogical to secure all relevant facts for all time, past, present and future. However, only by making all relevant observations throughout all time, could one say that a final valid conclusion had been made. This is the problem of induction. On a personal level, this problem is of little consequence, but in science the problem is significant. Scientists formulate laws and theories that are supposed to hold true in all places and for all time but the problem of induction makes such a guarantee impossible.<br />
+</p>
+<p>The proposal of a new law begins through induction as facts are heaped upon other relevant facts. Deduction is useful in checking the validity of a law. For example, if we postulate that all swans are white, we can evaluate the law by predicting that the next swan found will also be white. If it is, the law is supported, but not proved as will be seen in the discussion of another science myth. Locating even a single black swan will cause the law to be called into question.<br />
+</p>
+<p>The nature of induction itself is another interesting aspect associated with this myth. If we set aside the problem of induction momentarily, there is still the issue of how scientists make the final leap from the mass of evidence to the conclusion. In an idealized view of induction, the accumulated evidence will simply result in the production of a new law or theory in a procedural or mechanical fashion. In reality, there is no such method. The issue is far more complex -- and interesting --than that. The final creative leap from evidence to scientific knowledge is the focus of another myth of science.<br />
+</p>
+<p><br />
+</p>
+<p><span id="myth5"></span> <strong>Myth 5: Science and its Methods Provide Absolute Proof</strong><br />
+</p>
+<p>The general success of the scientific endeavor suggests that its products must be valid. However, a hallmark of scientific knowledge is that it is subject to revision when new information is presented. Tentativeness is one of the points that differentiates science from other forms of knowledge. Accumulated evidence can provide support, validation and substantiation for a law or theory, but will never prove those laws and theories to be true. This idea has been addressed by Homer and Rubba (1978) and Lopnshinsky (1993).<br />
+</p>
+<p>The problem of induction argues against proof in science, but there is another element of this myth worth exploring. In actuality, the only truly conclusive knowledge produced by science results when a notion is falsified. What this means is that no matter what scientific idea is considered, once evidence begins to accumulate, at least we know that the notion is untrue. Consider the example of the white swans discussed earlier. One could search the world and see only white swans, and arrive at the generalization that "all swans are white. " However, the discovery of one black swan has the potential to overturn, or at least result in modifications of, this proposed law of nature. However, whether scientists routinely try to falsify their notions and how much contrary evidence it takes for a scientist's mind to change are issues worth exploring.<br />
+</p>
+<p><br />
+</p>
+<p><span id="myth6"></span> <strong>Myth 6: Science Is Procedural More Than Creative</strong><br />
+</p>
+<p>We accept that no single guaranteed method of science can account for the success of science, but realize that induction, the collection and interpretation of individual facts providing the raw materials for laws and theories, is at the foundation of most scientific endeavors. This awareness brings with it a paradox. If induction itself is not a guaranteed method for arriving at conclusions, how do scientists develop useful laws and theories?<br />
+</p>
+<p>Induction makes use of individual facts that are collected, analyzed and examined. Some observers may perceive a pattern in these data and propose a law in response, but there is no logical or procedural method by which the pattern is suggested. With a theory, the issue is much the same. Only the creativity of the individual scientist permits the discovery of laws and the invention of theories. If there truly was a single scientific method, two individuals with the same expertise could review the same facts and reach identical conclusions. There is no guarantee of this because the range and nature of creativity is a personal attribute.<br />
+</p>
+<p>Unfortunately, many common science teaching orientations and methods serve to work against the creative element in science. The majority of laboratory exercises, for instance, are verification activities. The teacher discusses what will happen in the laboratory, the manual provides step-by-step directions, and the student is expected to arrive at a particular answer. Not only is this approach the antithesis of the way in which science actually operates, but such a portrayal must seem dry, clinical and uninteresting to many students. In her book, They're Not Dumb, They're Different (1990) Shiela Tobias argues that many capable and clever students reject science as a career because they are not given an opportunity to see it as an exciting and creative pursuit. The moral in Tobias' thesis is that science itself may be impoverished when students who feel a need for a creative outlet eliminate it as a potential career because of the way it is taught.<br />
+</p>
+<p><span id="myth7"></span> <strong>Myth 7: Science and its Methods Can Answer All Questions.</strong><br />
+</p>
+<p>Philosophers of science have found it useful to refer to the work of Karl Popper (1968) and his principle of falsifiability to provide an operational definition of science. Popper believed that only those ideas that are potentially falsifiable are scientific ideas.<br />
+</p>
+<p>For instance, the law of gravity states that more massive objects exert a stronger gravitational attraction than do objects with less mass when distance is held constant. This is a scientific law because it could be falsified if newly-discovered objects operate differently with respect to gravitational attraction. In contrast, the core idea among creationists is that species were placed on earth fully-formed by some supernatural entity. Obviously, there is no scientific method by which such a belief could be shown to be false. Since this special creation view is impossible to falsify, it is not science at all and the term creation science is an oxymoron. Creation science is a religious belief and as such, does not require that it be falsifiable. Hundreds of years ago thoughtful theologians and scientists carved out their spheres of influence and have since coexisted with little acrimony. Today, only those who fail to understand the distinction between science and religion confuse the rules, roles, and limitations of these two important world views.<br />
+</p>
+<p>It should now be clear that some questions simply must not be asked of scientists. During a recent creation science trial for instance, Nobel laureates were asked to sign a statement about the nature of science to provide some guidance to the court. These famous scientists responded resoundingly to support such a statement; after all they were experts in the realm of science (Klayman, Slocombe, Lehman, &amp; Kaufman, 1986). Later, those interested in citing expert opinion in the abortion debate asked scientists to issue a statement regarding their feelings on this issue. Wisely, few participated. Science cannot answer the moral and ethical questions engendered by the matter of abortion. Of course, scientists as individuals have personal opinions about many issues, but as a group, they must remain silent if those issues are outside the realm of scientific inquiry. Science simply cannot address moral, ethical, aesthetic, social and metaphysical questions.<br />
+</p>
+<p><span id="myth8"></span> <strong>Myth 8. Scientists are Particularly Objective</strong><br />
+</p>
+<p>Scientists are no different in their level of objectivity than are other professionals. They are careful in the analysis of evidence and in the procedures applied to arrive at conclusions. With this admission, it may seem that this myth is valid, but contributions from both the philosophy of science and psychology reveal that there are at least three major reasons that make complete objectivity impossible.<br />
+</p>
+<p>Many philosophers of science support Popper's (1963) view that science can advance only through a string of what he called conjectures and refutations. In other words, scientists should propose laws and theories as conjectures and then actively work to disprove or refute those ideas. Popper suggests that the absence of contrary evidence, demonstrated through an active program of refutation, will provide the best support available. It may seem like a strange way of thinking about verification, but the absence of disproof is considered support. There is one major problem with the idea of conjecture and refutation. Popper seems to have proposed it as a recommendation for scientists, not as a description of what scientists do. From a philosophical perspective the idea is sound, but there are no indications that scientists actively practice programs to search for disconfirming evidence.<br />
+</p>
+<p>Another aspect of the inability of scientists to be objective is found in theory-laden observation, a psychological notion (Hodson, 1986). Scientists, like all observers, hold a myriad of preconceptions and biases about the way the world operates. These notions, held in the subconscious, affect everyone's ability to make observations. It is impossible to collect and interpret facts without any bias. There have been countless cases in the history of science in which scientists have failed to include particular observations in their final analyses of phenomena. This occurs, not because of fraud or deceit, but because of the prior knowledge possessed by the individual. Certain facts either were not seen at all or were deemed unimportant based on the scientists's prior knowledge. In earlier discussions of induction, we postulated that two individuals reviewing the same data would not be expected to reach the same conclusions. Not only does individual creativity play a role, but the issue of personal theory-laden observation further complicates the situation.<br />
+</p>
+<p>This lesson has clear implications for science teaching. Teachers typically provide learning experiences for students without considering their prior knowledge. In the laboratory, for instance, students are asked to perform activities, make observations and then form conclusions. There is an expectation that the conclusions formed will be both self-evident and uniform. In other words, teachers anticipate that the data will lead all pupils to the same conclusion. This could only happen if each student had the same exact prior conceptions and made and evaluated observations using identical schemes. This does not happen in science nor does it occur in the science classroom.<br />
+</p>
+<p>Related to the issue of theory-based observations is the allegiance to the paradigm. Thomas Kuhn (1970), in his ground-breaking analysis of the history of science, shows that scientists work within a research tradition called a paradigm. This research tradition, shared by those working in a given discipline, provides clues to the questions worth investigating, dictates what evidence is admissible and prescribes the tests and techniques that are reasonable. Although the paradigm provides direction to the research it may also stifle or limit investigation. Anything that confines the research endeavor necessarily limits objectivity. While there is no conscious desire on the part of scientists to limit discussion, it is likely that some new ideas in science are rejected because of the paradigm issue. When research reports are submitted for publication they are reviewed by other members of the discipline. Ideas from outside the paradigm are liable to be eliminated from consideration as crackpot or poor science and thus do not appear in print.<br />
+</p>
+<p>Examples of scientific ideas that were originally rejected because they fell outside the accepted paradigm include the sun-centered solar system, warm-bloodedness in dinosaurs, the germ-theory of disease, and continental drift. When first proposed early in this century by Alfred Wegener, the idea of moving continents, for example, was vigorously rejected. Scientists were not ready to embrace a notion so contrary to the traditional teachings of their discipline. Continental drift was finally accepted in the 1960s with the proposal of a mechanism or theory to explain how continental plates move (Hallam, 1975 and Menard, 1986). This fundamental change in the earth sciences, called a revolution by Kuhn, might have occurred decades earlier had it not been for the strength of the paradigm.<br />
+</p>
+<p>It would be unwise to conclude a discussion of scientific paradigms on a negative note. Although the examples provided do show the contrary aspects associated with paradigm-fixity, Kuhn would argue that the blinders created by allegiance to the paradigm help keep scientists on track. His review of the history of science demonstrates that paradigms are responsible for far more successes in science than delays.<br />
+</p>
+<p><span id="myth9"></span> <strong>Myth 9: Experiments are the Principle Route to Scientific Knowledge</strong><br />
+</p>
+<p>Throughout their school science careers, students are encouraged to associate science with experimentation. Virtually all hands-on experiences that students have in science class is called experiments even if it would be more accurate to refer to these exercises as technical procedures, explorations or activities. True experiments involve carefully orchestrated procedures along with control and test groups usually with the goal of establishing a cause and effect relationship. Of course, true experimentation is a useful tool in science, but is not the sole route to knowledge.<br />
+</p>
+<p>Many note-worthy scientists have used non-experimental techniques to advance knowledge. In fact, in a number of science disciplines, true experimentation is not possible because of the inability to control variables. Many fundamental discoveries in astronomy are based on extensive observations rather than experiments. Copernicus and Kepler changed our view of the solar system using observational evidence derived from lengthy and detailed observations frequently contributed by other scientists, but neither performed experiments.<br />
+</p>
+<p>Charles Darwin punctuated his career with an investigatory regime more similar to qualitative techniques used in the social sciences than the experimental techniques commonly associated with the natural sciences. For his most revolutionary discoveries, Darwin recorded his extensive observations in notebooks annotated by speculations and thoughts about those observations. Although Darwin supported the inductive method proposed by Bacon, he was aware that observation without speculation or prior understanding was both ineffective and impossible. The techniques advanced by Darwin have been widely used by scientists Goodall and Nossey in their primate studies. Scientific knowledge is gained in a variety of ways including observation, analysis, speculation, library investigation and experimentation.<br />
+</p>
+<p><span id="myth10"></span> <strong>Myth 10: All Work in Science is Reviewed to Keep the Process Honest.</strong><br />
+</p>
+<p>Frequently, the final step in the traditional scientific method is that researchers communicate their results so that others may learn from and evaluate their research. When completing laboratory reports, students are frequently told to present their methods section so clearly that others could repeat the activity. The conclusion that students will likely draw from this request is that professional scientists are also constantly reviewing each other's experiments to check up on each other. Unfortunately, while such a check and balance system would be useful, the number of findings from one scientist checked by others is vanishingly small In reality, most scientists are simply too busy and research funds too limited for this type of review.<br />
+</p>
+<p>The result of the lack of oversight has recently put science itself under suspicion. With the pressures of academic tenure, personal competition and funding, it is not surprising that instances of outright scientific fraud do occur. However, even without fraud, the enormous amount of original scientific research published, and the pressure to produce new information rather than reproduce others' work dramatically increases the chance that errors will go unnoticed.<br />
+</p>
+<p>An interesting corollary to this myth is that scientists rarely report valid, but negative results. While this is understandable given the space limitations in scientific journals, the failure to report what did not work is a problem. Only when those working in a particular scientific discipline have access to all of the information regarding a phenomenon -- both positive and negative -- can the discipline progress.<br />
+</p>
+</blockquote>
+<h2 id="conclusions">Conclusions</h2>
+<blockquote>
+<p>If, in fact, students and many of their teachers hold these myths to be true, we have strong support for a renewed focus on science itself rather than just its facts and principles in science teaching and science teacher education. This is one of the central messages in both of the new science education projects. Benchmarks for Science Literacy (AAAS, 1993) and the National Science Education Standards (National Research Council, 1994) project both strongly suggest that school science must give students an opportunity to experience science authentically, free of the legends, misconceptions and idealizations inherent in the myths about the nature of the scientific enterprise. There must be increased opportunity for both preservice and inservice teachers to learn about and apply the real rules of the game of science accompanied by careful review of textbooks to remove the "creeping fox terriers" that have helped provide an inaccurate view of the nature of science. Only by clearing away the mist of half-truths and revealing science in its full light, with knowledge of both its strengths and limitations, will learners become enamored of the true pageant of science and be able fairly to judge its processes and products.<br />
+</p>
+<p>Note: William McComas' address is School of Education-WPH 1001E, University of Southern California, Los Angeles, CA 90089-0031.</p>
+</blockquote>
+<h2 id="references">References</h2>
+<blockquote>
+<p>American Association for the Advancement of Science (1993). Benchmarks for science literacy. New York: Oxford University Press.<br />
+</p>
+<p>Bacon, F. (1952). The new organon. In R. M. Hutchins, (Ed.), Great Books of the Western World: Vol. 30. The Works of Francis Bacon (pp. 107-195) Chicago: Encyclopedia Britannica, Inc. (Original work published in 1620).<br />
+</p>
+<p>Campbell, N. (1953). What is science? New York: Dover Publications.<br />
+</p>
+<p>Campbell, J. (1968). The hero with a thousand faces. Princeton, NJ: Princeton University Press.<br />
+</p>
+<p>Carey, S. S. (1994). A beginners guide to scientific method Belmont, CA: Wadsworth Publishing Company.<br />
+</p>
+<p>Chaikin, A. (1994). A man on the moon: The voyages of the Apollo astronauts. New York: Viking Press.<br />
+</p>
+<p>Chalmers, A. (1990). Science and its fabrication. Minneapolis, MN: University of Minnesota Press.<br />
+</p>
+<p>Cole, K.C. (1986, March 23). Things your teacher never told you about science: Nine shocking revelations! The Newsday Magazine, 21-27.<br />
+</p>
+<p>Gibbs, A. and Lawson, A. E. (1992). The nature of scientific thinking as reflected by the work of biologists and by biology textbooks. American Biology Teacher, 54 (3), 137-152.<br />
+</p>
+<p>Gjertsen, D. (1989). Science and philosophy past and present. New York: Penguin Books.<br />
+</p>
+<p>Gould, S. J. (1988). The case of the creeping fox terrier clone. Natural History, 96(1), 16-24.<br />
+</p>
+<p>Hallam, A. (1975). Alfred Wegener and the hypothesis of continental drift. Scientific American, 252(2), 88-97.<br />
+</p>
+<p>Hodson, D. (1986). The mature of scientific observation. School Science Review, 58(242), 17-28.<br />
+</p>
+<p>Horner, J. K. &amp; Rubba, P. A. (1979) The laws are mature theories fable. The Science Teacher,46(2), 31.<br />
+</p>
+<p>Horner, J. K. &amp; Rubba, P. A. (1978) The myth of absolute truth. The Science Teacher, 45(1), 29-30.<br />
+</p>
+<p>Klayman, R. A., Slocombe, W. B., Lehman, J. S. and Kaufman, B.S. (1986). Amicus curiae brief of 72 Nobel laureates, 17 state academies of science, and 7 other scientific organizations, in support of appellees. Edwards v. Aguillard, 85 U.S. 1513.<br />
+</p>
+<p>Kuhn, T. S. (1970). The structure of scientific revolutions, (2nd ed.). Chicago: University of Chicago Press.<br />
+</p>
+<p>Lopushinsky, T. (1993). Does science deal in truth? The Journal of College Science Teaching, 23(3), 208.<br />
+</p>
+<p>Medawar. P. B. (1963). Is the scientific paper a fraud? In P. B. Medawar. The Threat and the Glory. (pp. 228-233). New York: HarperCollins.<br />
+</p>
+<p>Menard, H. W. (1986). The ocean of truth: A personal history of global tectonics. Princeton, NJ: Princeton University Press.<br />
+</p>
+<p>National Research Council (1994). National science education standards (Draft). Washington, DC: Author.<br />
+</p>
+<p>Newton, I. (1946). Sir Isaac Newton's mathematical principles of natural philosophy and his system of the world. (A. Motte, Transl. revised and appendix supplied by F. Cajori). Berkeley, CA: University of California Press. (Original work published in 1720).<br />
+</p>
+<p>Pearson,. K. (1937). The grammar of science. London: Dutton.<br />
+</p>
+<p>Popper, K. R. (1968). The logic of scientific discovery, (2nd ed. revised). New York: Harper Torchbooks.<br />
+</p>
+<p>Popper, K. R. (1963). Conjectures and refutations: The growth of scientific knowledge. New York: Harper and Row.<br />
+</p>
+<p>Rhodes, G. and Schaible (1989). Fact, law, and theory: Ways of thinking in science and literature. Journal of College Science Teaching, 18(4), 228-232 &amp; 288.<br />
+</p>
+<p>Rothman, M. A. (1992). The science gap. Buffalo: Prometheus Books.<br />
+</p>
+<p>Sonleitner, F. J. (1989, Nov/Dec). Theories, laws and all that. National Center for Science Education, Newsletter, 9(6), 3-4.<br />
+</p>
+<p>Tobias, S. (1990). They're not dumb, they're different: Stalking the second tier. Tucson, AZ: The Research Corporation.<br />
+</p>
+</blockquote>
+<br />
+&#10;<p><br />
+</p>
+<p>See also:<br />
+</p>
+<blockquote>
+<a href="http://amasci.com/miscon/miscon.html">K6 SCIENCE MISCONCEPTIONS</a><br />
+<a href="http://amasci.com/miscon/miscon4.html#meth">IS SCIENTIFIC METHOD A MYTH?</a>
+</blockquote></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+
+<http://amasci.com/miscon/myths10.html>\
+Created and maintained by [Bill Beaty](http://amasci.com/billb.html). Mail me at: [<img src="http://amasci.com/graphics/abc.gif" data-border="0" width="141" height="19" />](http://amasci.com/miscon/mform.html).\
+
+<div class="statcounter">
+
+<a href="http://statcounter.com/shopify/" target="_blank" title="shopify stats"><img src="http://c.statcounter.com/10408414/0/00267183/0/" class="statcounter" alt="shopify stats" /></a>
+
+</div>
+
+[View My Stats](http://statcounter.com/p10408414/?guest=1)

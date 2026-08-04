@@ -1,0 +1,566 @@
+Newsgroups: k12.ed.science
+From: billbeskimo.com (William Beaty)
+Subject: A misconception spread by texts
+Date: Sat, 3 Dec 1994 15:14:27 GMT
+
+Are people aware of the presence of a screwy diagram that appears
+widely in popular books and children's textbooks?  I noticed it
+in a popular grade-school text, and then started noticing it in
+many other texts, popular science books, newspapers, etc.  Here is
+a crude version:
+
+      ______________ /\__                  __ - |
+  /^\               /  \ --__          __--     |
+   |               |    |    --__  __--         |
+   |               |    |        --__           |
+   |               |    |    __--    --__       |
+   | ______________|    |__--            --__   |
+                    \  /                       \|/
+                     \/
+
+  object             lens                       screen
+
+The diagram purports to explain how cameras and eyes form images. Yet it
+implies many incorrect ideas: that the lens/object distance doesn't affect
+the image, that the object must be smaller than the lens in order to
+"fit," that the inverted image on the screen will become erect if the
+screen is moved close to the lens, and that lens cameras are basically
+different than pinhole cameras.
+
+I've seen this diagram in about twenty separate places now, including the
+cover of a text on cameras!  In an anti-evolution article, it was offered
+in support of the idea that eyes could not function in intermediate states
+of evolution. In a paper by McDermott on student misconceptions, the
+students participating in dialog seemed to be basing their naiive notions
+about optics on the above diagram. I fear that it has become firmly
+embedded in the popular imagination, and also seems to be spreading from
+textbook to textbook like some sort of mind-virus. 
+
+The point of this message is to find out if instructors are aware of
+"communicable misconceptions" like the above diagram.  There are 
+a number of other ones out there as well, both in the form of
+diagrams and written explanations.
+
+************************************************************************
+William J. Beaty                            http://amasci.com
+Engineer/programmer/exhibit designer        Science hobbyist page
+billbeskimo.com, Seattle, WA  
+
+
+
+By the way, here is a more correct version.
+
+                                              ___--- |
+                       /\               ___---       |
+  /|\ ---___          /  \        ___---             |
+   |        ---___   |    | ___---                   |
+   |             ---_|    |-                         |
+   |             ___-|    |_                         |
+   |        ___---   |    | ---___                   |
+   |   __---         |    |       ---___             |
+                      \  /              ---___       |
+                       \/                     ---___\|/ 
+
+   object             lens                       screen
+
+
+-- 
+.....................uuuu / oo \ uuuu........,.............................
+William Beaty  voice:   bbs:206-789-0775    cserv:71241,3623
+EE/Programmer/Science exhibit designer        http://amasci.com/
+Seattle, WA 98117  billbeskimo.com           SCIENCE HOBBYIST web page
+
+
+
+
+Date: Sun, 4 Dec 94 13:56:36 PST
+From: R_Tim_Coslet@cup.portal.com
+To: William Beaty <billbeskimo.com>
+Subject: Re: A misconception spread by texts
+
+>
+>      ______________ /\__                  __ - |
+>  /^\               /  \ --__          __--     |
+>   |               |    |    --__  __--         |
+>   |               |    |        --__           |
+>   |               |    |    __--    --__       |
+>   | ______________|    |__--            --__   |
+>                    \  /                       \|/
+>                     \/
+>
+>  object             lens                       screen
+
+The major problem (as I see it) with this diagram is simply that
+it oversimplifies things to produce a "readable" figure.
+
+The oversimplification is that is picks a single pair of light
+rays to follow, and probably NOT the best pair. But any attempt
+to show on paper in a single figure ALL the relavent rays will
+unfortunately produce a nearly indecypherable diagram.
+
+The main thing that it DOES illustrate is the operation of the
+lens by refraction of the light rays. This is VITAL to developing
+any understanding of a lens.
+>
+>
+>By the way, here is a more correct version.
+>
+>                                              ___--- |
+>                       /\               ___---       |
+>  /|\ ---___          /  \        ___---             |
+>   |        ---___   |    | ___---                   |
+>   |             ---_|    |-                         |
+>   |             ___-|    |_                         |
+>   |        ___---   |    | ---___                   |
+>   |   __---         |    |       ---___             |
+>                      \  /              ---___       |
+>                       \/                     ---___\|/ 
+>
+>   object             lens                       screen
+>
+Hmm, not exactly "more correct", you simply picked a different
+pair of light rays to follow.
+
+Unfortunately, your pair of rays, passing so close to the center
+of the lens fail to illustrate any significant refraction effects.
+
+These ARE indeed the same rays that are used by both lenses and
+pinholes to produce their images... but the advantage of a lens
+is that it gets a larger aperture because the refraction
+effect permits OTHER light rays to also contribute to the
+image brightness.
+
+A MINIMAL figure that I would consider acceptable to illustrate the
+concepts of lenses would need to trace a dozen or so rays (including
+both the rays of the original figure and those of your "more correct"
+figure). Unfortunately this MAY be too cluttered for many books
+to consider printing it.
+
+                                        R. Tim Coslet
+
+
+
+
+
+
+Date: Tue, 6 Dec 1994 05:04:37 -0800 (PST)
+From: William Beaty <billbeskimo.com>
+To: R_Tim_Coslet@cup.portal.com
+Subject: Re: A misconception spread by texts
+
+On Sun, 4 Dec 1994 R_Tim_Coslet@cup.portal.com wrote:
+
+> >billbeskimo.com wrote:
+
+
+> >
+> >      ______________ /\__                  __ - |
+> >  /^\               /  \ --__          __--     |
+> >   |               |    |    --__  __--         |
+> >   |               |    |        --__           |
+> >   |               |    |    __--    --__       |
+> >   | ______________|    |__--            --__   |
+> >                    \  /                       \|/
+> >                     \/
+> >
+> >  object             lens                       screen
+
+> 
+> The major problem (as I see it) with this diagram is simply that
+> it oversimplifies things to produce a "readable" figure.
+
+Yet it produces serious misconceptions as to how lenses work.  Want to
+check out the McDermott paper on student's optics misconceptions?  I think
+it was in '88 or '89 in AJP.  The paper discusses results of pre-tests of
+student understanding of lenses before they took an optics course.  A
+large percentage of the students predicted that when a screen behind a
+lens was slid from the location of the real-image and moved toward the
+lens, the image on the screen would contract to a point, then reappear
+RIGHT SIDE UP.  Many of them drew the above diagram to explain their
+beliefs.  I think this is strong evidence that the above diagram is
+creating serious misconceptions in those who HAVE NOT taken optics courses
+(the majority of the population.) I didn't make it entirely clear that the
+above diagram mostly appears in gradeschool texts and in books aimed at
+the public.
+
+> 
+> The oversimplification is that is picks a single pair of light
+> rays to follow, and probably NOT the best pair. But any attempt
+> to show on paper in a single figure ALL the relavent rays will
+> unfortunately produce a nearly indecypherable diagram.
+> 
+> The main thing that it DOES illustrate is the operation of the
+> lens by refraction of the light rays. This is VITAL to developing
+> any understanding of a lens.
+
+Good point.  But shouldn't the above diagram show that the rays come
+to a focus at the real image, and not somewhere in the space between
+the lens and the screen?
+
+My diagram below was offered as an equally-oversimplified but improved
+view as to how a camera or eye generally works.  A camera is simply an
+aperature in a box (a 'pinhole'), with a lens installed in the aperature. 
+The diagram below is a crude explanation of where the image comes from.
+The diagram above is not.  The diagram below unfortunately is too 
+simplified, and it does not explain why the image on the screen is
+blurry at some screen positions and sharp at others.
+
+> >
+> >
+> >By the way, here is a more correct version.
+> >
+> >                                              ___--- |
+> >                       /\               ___---       |
+> >  /|\ ---___          /  \        ___---             |
+> >   |        ---___   |    | ___---                   |
+> >   |             ---_|    |-                         |
+> >   |             ___-|    |_                         |
+> >   |        ___---   |    | ---___                   |
+> >   |   __---         |    |       ---___             |
+> >                      \  /              ---___       |
+> >                       \/                     ---___\|/ 
+> >
+> >   object             lens                       screen
+> >
+> Hmm, not exactly "more correct", you simply picked a different
+> pair of light rays to follow.
+
+
+Oooops!  I should have called it "less misleading."
+
+> 
+> Unfortunately, your pair of rays, passing so close to the center
+> of the lens fail to illustrate any significant refraction effects.
+> 
+> These ARE indeed the same rays that are used by both lenses and
+> pinholes to produce their images... but the advantage of a lens
+> is that it gets a larger aperture because the refraction
+> effect permits OTHER light rays to also contribute to the
+> image brightness.
+> 
+> A MINIMAL figure that I would consider acceptable to illustrate the
+> concepts of lenses would need to trace a dozen or so rays (including
+> both the rays of the original figure and those of your "more correct"
+> figure). Unfortunately this MAY be too cluttered for many books
+> to consider printing it.
+> 
+
+Maybe something more like the one below?  Oversimplified still, but
+it combines both the refraction and the camera-obscura concepts
+needed in any explanation.
+
+ /^\----_____
+  |   ---___ -----_____
+  |         --___      -----_____
+  |              --___           ----  /\ -_        |
+  |                   --___           /  \  -_      |
+  |                        --___     |    |   -_    |
+  |                             --___ \  /      -_  |
+  |                                    \/---------=\|/
+  |
+
+Darn ascii art!  There must be an easier way than this, or by UUE.
+Those Mosaic guys should look into setting some graphics standards
+for usenet.
+
+Well, thanks much for your input.  It's helping me think more clearly
+about the problem.
+
+.....................uuuu / oo \ uuuu........,.............................
+William Beaty  voice:206   bbs:206-789-0775    cserv:71241,3623
+EE/Programmer/Science exhibit designer        http://amasci.com/
+Seattle, WA 98117  billbeskimo.com           SCIENCE HOBBYIST web page
+
+
+
+
+
+From: dave.moore@tcbbs.cais.com (DAVE MOORE)
+Newsgroups: k12.ed.science
+Subject: A misconception spread by
+Date: Sun, 04 Dec 94 18:49:00 -0500
+
+WB> @FROM   :billbeskimo.com
+
+WB>Are people aware of the presence of a screwy diagram that appears
+WB>widely in popular books and children's textbooks?  I noticed it
+WB>in a popular grade-school text, and then started noticing it in
+WB>many other texts, popular science books, newspapers, etc.  Here is
+WB>a crude version:
+
+WB>      ______________ /\__                  __ - |
+WB>  /^\               /  \ --__          __--     |
+WB>   |               |    |    --__  __--         |
+WB>   |               |    |        --__           |
+WB>   |               |    |    __--    --__       |
+WB>   | ______________|    |__--            --__   |
+WB>                    \  /                       \|/
+WB>                     \/
+
+WB>  object             lens                       screen
+
+WB>The diagram purports to explain how cameras and eyes form images. Yet
+WB>it implies many incorrect ideas: that the lens/object distance
+WB>doesn't affect the image, that the object must be smaller than the
+WB>lens in order to "fit," that the inverted image on the screen will
+WB>become erect if the screen is moved close to the lens, and that lens
+WB>cameras are basically different than pinhole cameras.
+
+It's difficult to separate the limitations of ascii art from the point 
+that you're trying to make.  However if one assumes near parallel rays 
+from an object arbitrarily far away, the object appears to be smaller 
+than the lenses regardless of the size.  The classic example is that of 
+stars.  The question in this diagram is why the image appears where it 
+does rather than left or right.  What's missing are rays through the 
+lens center and focus to make the image position obvious.
+
+
+WB>By the way, here is a more correct version.
+
+WB>                                              ___--- |
+WB>                       /\               ___---       |
+WB>  /|\ ---___          /  \        ___---             |
+WB>   |        ---___   |    | ___---                   |
+WB>   |             ---_|    |-                         |
+WB>   |             ___-|    |_                         |
+WB>   |        ___---   |    | ---___                   |
+WB>   |   __---         |    |       ---___             |
+WB>                      \  /              ---___       |
+WB>                       \/                     ---___\|/ 
+
+WB>   object             lens                       screen
+
+
+Your diagram suffers from the same problem.  Try this one:
+
+                           /\                                           
+                          /  \                                      
+                         |    |                                         
+                         |    |                                   
+                         |    |                            ___              
+ /|\ -----               |    |                         ___ |             
+  |  \    -----          |    |                      ___    |                 
+  |    \       -----     |    |                   ___       |                 
+  |      \          ---- |    |                ___          |                
+  |        \  focus     -|    |       focus ___             |               
+  |   .......\...........|....|___.......___................|... Center
+  |            \         |    |   --- ___                   |              
+  | _______ _____\_______|    |_____--  -----               |                 
+                   \     |    |              -----          |              
+                     \   |    |                   -----     |
+                       \ |    |                        ---- |      
+  object                 |    | ___________________________\|/___
+                         |    |                                     
+                          \  /                           real image          
+                           \/                                      
+                                                              
+                          lens                           
+ 
+In the above: a ray from the object head passes in a straight line 
+through the center of the lens.  Another ray from the object head passes 
+through the near focus and comes out of the lens parallel to the center.  
+The intersection of these two rays defines the image point.  The size of 
+the image can be determined by a projection from the object tail.  In 
+this case, I chose a ray parallel to the center passing through the far 
+focus.
+
+dave.moore@tcbbs.cais.com
+
+---
+* Enter any 11-digit prime number to continue
+* CMPQwk 1.42-17 1347
+
+
+
+
+
+
+From: billbeskimo.com (William Beaty)
+Subject: Re: A misconception spread by
+Date: Mon, 5 Dec 1994 20:11:03 GMT
+
+DAVE MOORE (dave.moore@tcbbs.cais.com) wrote:
+
+: WB>      ______________ /\__                  __ - |
+: WB>  /^\               /  \ --__          __--     |
+: WB>   |               |    |    --__  __--         |
+: WB>   |               |    |        --__           |
+: WB>   |               |    |    __--    --__       |
+: WB>   | ______________|    |__--            --__   |
+: WB>                    \  /                       \|/
+: WB>                     \/
+
+: WB>  object             lens                       screen
+
+<deletions>
+
+: It's difficult to separate the limitations of ascii art from the point 
+: that you're trying to make.
+
+Yeah, it's a bit difficult to discuss diagrams via usenet!  The point I
+was trying to make is that its a bad idea to use the above diagram to
+explain how cameras and eyes work.  Yet this diagram has become a sort of
+science-cliche', at least in gradeschool texts and works of popular science.
+I agree that INDIVIDUALLY each ray in the diagram is correct.  But that 
+doesn't mean the diagram correctly explains how a camera works.
+
+:  However if one assumes near parallel rays 
+: from an object arbitrarily far away, the object appears to be smaller 
+: than the lenses regardless of the size.  The classic example is that of 
+: stars.
+
+I have to disagree.  Distant objects need not appear smaller than the
+lens.  The night sky, if taken as a single "object," is enormous.  The
+sun, while far enough away that the light from its individual points is
+parallel, does not shed parallel light.  An object can be a billion miles
+away, and a billion miles across, and its light is not parallel.So in
+a diagram explaining the camera, light entering the lens should be shown
+coming in from a variety of angles.  Darn, I wish I could draw this 
+easily!
+
+:  The question in this diagram is why the image appears where it 
+: does rather than left or right.  What's missing are rays through the 
+: lens center and focus to make the image position obvious.
+
+True.  But the diagram also is teaching that the light from the object
+is focussed to a point behind the lens, then expands again to create
+an inverted image.  This idea has become widespread enough that it
+appears on the front cover of a photography textbook, in color and in
+detail.  Very twisted concept!
+
+Another thing I should make clear: The above diagram appears as part of
+an explanation of the operation of cameras and eyes, NOT in physics
+texts where the ray construction for locating real image distance appears.
+The two situations are quite different.  For example, a camera is an
+opaque box with a hole in the front, while in the ray diagram, the lens
+diameter is ignored and assumed to be infinite, which hides the mechanism
+behind effects like depth-of-field and the camera-obscura geometry found
+in simple (non-zoom) camera lenses.
+
+
+: WB>By the way, here is a more correct version.
+
+: WB>                                              ___--- |
+: WB>                       /\               ___---       |
+: WB>  /|\ ---___          /  \        ___---             |
+: WB>   |        ---___   |    | ___---                   |
+: WB>   |             ---_|    |-                         |
+: WB>   |             ___-|    |_                         |
+: WB>   |        ___---   |    | ---___                   |
+: WB>   |   __---         |    |       ---___             |
+: WB>                      \  /              ---___       |
+: WB>                       \/                     ---___\|/ 
+
+: WB>   object             lens                       screen
+
+
+: Your diagram suffers from the same problem.  Try this one:
+
+:                            /\                                           
+:                           /  \                                      
+:                          |    |                                         
+:                          |    |                                   
+:                          |    |                            ___              
+:  /|\ -----               |    |                         ___ |             
+:   |  \    -----          |    |                      ___    |                 
+:   |    \       -----     |    |                   ___       |                 
+:   |      \          ---- |    |                ___          |                
+:   |        \  focus     -|    |       focus ___             |               
+:   |   .......\...........|....|___.......___................|... Center
+:   |            \         |    |   --- ___                   |              
+:   | _______ _____\_______|    |_____--  -----               |                 
+:                    \     |    |              -----          |              
+:                      \   |    |                   -----     |
+:                        \ |    |                        ---- |      
+:   object                 |    | ___________________________\|/___
+:                          |    |                                     
+:                           \  /                           real image          
+:                            \/                                      
+:                                                               
+:                           lens                           
+:  
+: In the above: a ray from the object head passes in a straight line 
+: through the center of the lens.  Another ray from the object head passes 
+: through the near focus and comes out of the lens parallel to the center.  
+: The intersection of these two rays defines the image point.  The size of 
+: the image can be determined by a projection from the object tail.  In 
+: this case, I chose a ray parallel to the center passing through the far 
+: focus.
+
+Bravo!  Geez, I wonder if there is a mouse-based drawing program for
+unix that would let one draw directly in ascii art?
+
+Your diagram is even more "correct," but I see that I didn't make my
+original point clear.  The intention of the diagram was to explain
+cameras and eyes either to the general public, or to 5th grade students
+(which is often assumed to mean the same thing.)
+
+So, what is needed here is a diagram which answers these questions
+in a simple obvious way:
+
+HOW DOES A LENS TURN THE IMAGE UPSIDE DOWN?,
+
+and
+
+WHY DOES THE IMAGE PROJECTED ON THE FILM VARY IN BLURRYNESS AS
+VARIOUS OBJECT/LENS/FILM DISTANCES ARE CHANGED?
+
+That diagram at the top of this message answers these two questions
+in a completely wrong manner.  Yet that same diagram is used again
+and again in numerous books which intend to explain eyes and cameras!
+The diagram has become a Meme, living a life of its own in the 
+"culture dish" of the printed page.
+
+.....................uuuu / oo \ uuuu........,.............................
+William Beaty  voice:206   bbs:206-789-0775    cserv:71241,3623
+EE/Programmer/Science exhibit designer        http://amasci.com/
+Seattle, WA 98117  billbeskimo.com           SCIENCE HOBBYIST web page
+
+
+
+
+
+
+
+Date: 04 Dec 1994 16:05:07 GMT
+From: Michael_Porter@carletonbe.ottawa.on.ca (Michael Porter)
+Subject: Re: A misconception spread by texts
+Newsgroups: k12.ed.science
+
+William, the diagram that you criticise,
+
+      ______________ /\__                  __ - |
+  /^\               /  \ --__          __--     |
+   |               |    |    --__  __--         |
+   |               |    |        --__           |
+   |               |    |    __--    --__       |
+   | ______________|    |__--            --__   |
+                    \  /                       \|/
+                     \/
+
+  object             lens                       screen
+
+...and the one you offer as "a more correct version",
+
+                                              ___--- |
+                       /\               ___---       |
+  /|\ ---___          /  \        ___---             |
+   |        ---___   |    | ___---                   |
+   |             ---_|    |-                         |
+   |             ___-|    |_                         |
+   |        ___---   |    | ---___                   |
+   |   __---         |    |       ---___             |
+                      \  /              ---___       |
+                       \/                     ---___\|/ 
+
+   object             lens                       screen
+
+...are equally correct, and both misleading.  Your diagram would suggest that
+any lens to screen distance would provide a focussed image.  Both diagrams
+would be improved if an extra ray were added from each point on the object
+(you could combine the two diagrams to achieve this).  Where the rays cross
+on the other side of the lens (_if_ they cross), you get a focussed, real
+image corresponding to that point on the object.
+
+Mike
+

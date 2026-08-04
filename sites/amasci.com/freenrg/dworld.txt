@@ -1,0 +1,49 @@
+DESTROY THE WORLD WITH A LONG PIECE OF WIRE     (c)1997 William J. Beaty
+
+So raindrops form by collision rather than condensation, with larger cloud
+droplets touching and "eating" small ones in their paths.  But I also hear
+that without the electrical attraction providec by sky/ground e-fields,
+droplets will bounce off each other rather than melding together.  Cloud
+droplets will grow a little, but won't make the jump to raindrops.  Rain
+cannot exist without the earth's vertical e-field.
+
+But rain within thunderstorms acts to sort the dense cloud droplets from
+the warm air, which allows it to rise violently, and so is a major cause
+of thunderstorm vertical circulation.  So to some extent, rain drives
+thunderstorms, and if raindrops didn't form, the updrafts would be
+eliminated or greatly reduced.
+
+Thunderstorms pump charge between earth and ionosphere and keep the
+sky/ground potential maintained.  But the thunderstorm charge-pump is
+thought to rely on the pre-existing vertical e-field between earth and the
+ionosphere, analogous to a shunt-wound generator whose output powers its
+own field coil.  Stop the generator, lose the self-maintaining bootstrap
+effect, and it doesn't reappear when the generator is restarted. 
+
+So, if the earth/ionosphere potential were removed, it would interfere
+with thunderstorm charge flow, and the potential would not build up again
+quickly.  Also, it would interfere with droplet accretion, and rain would
+halt worldwide.  Suppression of rain might act to suppress the physical
+operation of thunderstorms while suppression of sky/ground voltage would
+suppress their electrical action. 
+
+My question:  if one were to entirely short out the earth/ionosphere
+potential, how long would it take for things to right themselves?  For
+example if I build a really big UV laser, aim it upwards, and trigger an
+earth/ionosphere lightning strike, will I suppress all rainfall and wreck
+the worldwide environment for weeks?  Decades?  Permanently?  Is this
+something that could be estimated, or will I have to try it and see? 
+
+Since a laser is a big project, a simple piece of wire would be
+preferable.  How about a 50-mile long carbon fiber strand with a ceramic
+heatshield at its tip?  If the spool was kicked out of the Shuttle,
+allowed to unreel, then reentered tip-first, it should induce a nice big
+lightning bolt and discharge the sky/ground capacitor plates.  Zap,
+instant worldwide desert.
+
+((((((((((((((((((((( ( (  (   (    (O)    )   )  ) ) )))))))))))))))))))))
+William J. Beaty                                  SCIENCE HOBBYIST website
+billbeskimo.com                                  amasci.com
+EE/programmer/sci-exhibits          science projects, tesla, weird science
+Seattle, WA   206-762-3818          freenrg-L taoshum-L vortex-L webhead-L
+

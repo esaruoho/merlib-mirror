@@ -1,0 +1,49 @@
+From eskimo!openwx!news.sprintlink.net!howland.reston.ans.net!swrinde!ihnp4.ucsd.edu!munnari.oz.au!mel.dit.csiro.au!its.csiro.au!dmssyd.syd.dms.CSIRO.AU!metro!news.cs.su.oz.au!news.adelaide.edu.au!crackle.aelmg.adelaide.edu.au!kburg Sat Feb  4 07:44:07 1995
+Xref: eskimo alt.sci.physics.acoustics:1539
+Path: eskimo!openwx!news.sprintlink.net!howland.reston.ans.net!swrinde!ihnp4.ucsd.edu!munnari.oz.au!mel.dit.csiro.au!its.csiro.au!dmssyd.syd.dms.CSIRO.AU!metro!news.cs.su.oz.au!news.adelaide.edu.au!crackle.aelmg.adelaide.edu.au!kburg
+From: kburg@aelmg.adelaide.edu.au (Rodney)
+Newsgroups: alt.sci.physics.acoustics
+Subject: Re: The 'Taos Hum' again <- a great paper!
+Date: 29 Jan 1995 22:05:08 GMT
+Organization: The University of Adelaide
+Lines: 34
+Distribution: world
+Message-ID: <3gh3ek$s59@quandong.itd.adelaide.edu.au>
+References: <D2pJtI.4LG@eskimo.com> <3g7g2a$aki@polo.iquest.com>
+NNTP-Posting-Host: crackle.aelmg.adelaide.edu.au
+
+In <3g7g2a$aki@polo.iquest.com> larrfull@iquest.com (Larry Fullerton) writes:
+>William Beaty (billb@eskimo.com) wrote:
+>: The 'Taos Hum,' that low throbbing noise reported by people across the
+>: country, turns out not to be detectable by audio or EM instruments.
+>: Therefor it does not exist.
+>The experiment you describe would be very compelling if successful, but it
+>is difficult to tell a subject which part of the wave interference to use
+>as the que to tap, so the coherency would be lost.  A sightly different
+>experiment might be as convincing, albeit not a coherency test.  Each
+>subject could be asked to turn the knob on the audio oscillator to the
+>frequency which gives a zero beat, and measure that frequency very
+>accurately (0.1 Hz is probably close enough, since a 10 sec. beat is
+>beyond the ability of a typical subject to perceive). The spread of
+>measured frequencies could then be analyzed and given a confidence level.
+>-- Larry
+
+A *fantastic* paper on related subjects is:
+
+Dean, O., 1991, "Problem Solving Infrasound", proc. InterNoise '91, Sydney
+Australia, pp. 863-866.
+
+Cheers,
+
+Kym
+
+
+_______________________________________________________________________________
+Kym A. Burgemeister
+Department of Mechanical Engineering
+University of Adelaide
+South Australia                                            Ph.   +61 8 30 33156
+5005                                                       Facs. +61 8 30 34367
+e-mail to : kburg@aelmg.adelaide.edu.au
+===============================================================================
+

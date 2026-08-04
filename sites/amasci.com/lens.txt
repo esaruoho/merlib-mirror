@@ -1,0 +1,179 @@
+LENS MISCONCEPTION                              William J. Beaty 1994
+
+Are people aware of the presence of a screwy diagram that appears widely
+in popular books and children's textbooks?  I noticed it in a major
+grade-school science text, and then started noticing it in many other
+texts, in popular science books, newspapers, etc.  Here is a crude
+version: 
+
+      ______________ /\__                  __ - |
+  /^\               /  \ --__          __--     |
+   |               |    |    --__  __--         |
+   |               |    |        --__           |
+   |               |    |    __--    --__       |
+   | ______________|    |__--            --__   |
+                    \  /                       \|/
+                     \/
+
+  object             lens                       screen
+
+
+This diagram purports to explain how cameras and eyes form images. Yet it
+teaches quite a number of incorrect concepts: 
+
+- That there is a special "point" between lens and image where all the
+  light comes to a focus,
+
+- That lens/object distance doesn't affect the sharpness of the image,
+
+- That an object must be smaller than the lens in order to "fit",
+
+- That as the screen is moved closer to the lens, the inverted image on the 
+  screen will contract to a point, then become erect,
+
+- That if half the lens is covered, half the image will vanish,
+
+- That cameras based on lenses use an image-forming mechanism which is
+  fundamentally different than that used by pinhole cameras
+
+This diagram has direct bearing on the whole "science misconception" area
+which has attracted so much attention recently.  Misconceptions are formed
+in early years and then present serious barriers to learning during later
+schooling.  Early concepts are a stumbling block for many of us, and are
+probably a major force for turning people away from science classes.  But
+note that the above misconceptions do not occur naturally.  They are
+specifically taught by faulty textbooks.  If believing in this faulty
+diagram will forever make optics difficult to understand, then any books
+which contain it are doing actual harm.  And the number of books is not
+small (see below.)
+
+I've seen this diagram in about twenty five books now, and in quite a few
+newspaper and magazine artices.  In an anti-evolution article, it was
+offered as proof that eyes could not function in intermediate states of
+evolution.  In an AJP paper by Goldberg and McDermott on student
+misconceptions, the college freshmen participating in dialog were
+obviously basing many of their naiive optics notions on just this diagram. 
+A number of gradeschool science texts use the diagram to explain near and
+far sightedness.  It even appears on the cover of a college-level
+photography text! I fear that it has become firmly embedded in the popular
+imagination, and also seems to be spreading from textbook to textbook like
+some sort of mind-virus. 
+
+One point of this message is to find out if instructors and authors are
+aware of these "communicable misconceptions" which have spread from book
+to book, and even now are being used to misinform the young. There are a
+number of other examples out there as well, both in the form of diagrams
+and written explanations. 
+
+
+By the way, here are a couple of corrected versions of the diagram...
+
+This one is appropriate for explaining image formation:
+
+
+                                             ___--- |
+                      /\               ___---       |
+  /|\ ---___         /  \        ___---             |
+   |        ---___  |    | ___---                   |
+   |              --|    |-                         |
+   |              __|    |_                         |
+   |        ___---  |    | ---___                   |
+   |   __---        |    |       ---___             |
+   | --              \  /              ---___       |
+                      \/                     ---__ \|/ 
+
+ object               lens                       screen
+
+It shows that a simple-lens camera is fundamentally similar to a pinhole 
+camera, that the image projected on a screen will contract in size as the 
+screen approaches the lens, and it shows the process by which the image 
+is "turned upside down."
+
+
+This one shows how light from the object is focussed to create
+a sharp image:
+                                                     |
+                   __  /\ ___                        |
+  /|\          __--   /  \   ----___                 |
+   |       __--      |    |         ---____          |
+   |   __--          |    |                ---___    |
+   |-==__            |    |                   ___=== |
+   |     --__        |    |            ____---       |
+   |         --__    |    |      ___---              |
+                 --__ \  /___----                    |
+                       \/                           \|/ 
+
+ object               lens                       screen
+
+It shows why the image becomes sharp at one special distance, why a large 
+lens gathers more light than a small lens, and why a large image can get 
+through even a tiny lens.
+
+Keep in mind that these two diagrams are intended for children.  Any 
+optics textbook will obviously use much more exact and complex diagrams.
+
+
+
+Some books containing the diagram:
+
+CHILDREN'S SCIENCE BOOKS
+
+"How It Works, Vol II" 1974 p191-194
+"How It Works... the Telescope and Microscope" 1971 p11
+"Light and Radiation" 1968 p30 
+"Eye and Brain" 1973 p23
+"Light and Vision" 1966 p35
+"First book of Light" 1962 p48
+"Understanding Light" 1960, p102,106
+"The Story of Light" 1952, p23,33-37
+"Light and Sight" 1963, p49
+"Optics: Light for a New Age" 1987
+
+
+TEXTBOOKS AND EDUCATIONAL MATERIAL
+
+"Physical Science" Prentice-Hall, 1988 p569
+"Holt Science" fifth grade text, 1984 p130
+"The New Exploring Science" 1982 p172
+Silver-Burdett "Science" instructor's workbook p69
+"Elementary School Science and How to Teach It" 1984 p561
+"Teaching Children Science",1982 p352
+"Teaching Science Through Discovery" 3rd ed., 1985 p505
+"Physics for Scientists and Engineers" 2nd ed, 1986
+"Perception" 1984 p2
+"Photography" 1984 (cover, and several diagrams)
+"A Sourcebook of Elementary Science" 1971 p244
+Carolina Biological Supply, transparency 50-6950
+
+OTHER
+
+"Academic American Encyclopedia" 1986, entry under "eye"
+"Encyclopedia Americana" 1986, Vol E, p812
+"Science and Technology Illustrated" Ency. Brit. 1983, under "Lens"
+"Physics in Everyday Life" 1979 p239
+"LIFE Science Library, Light and Vision" 1966 p35, p54
+"Life Library of Photography, The Camera" 1970  p64, p77
+"Time-Life Inc "Light and Film" 1970 (frontspiece)
+"Eye and Brain" 1973 p23
+
+
+---------------------------------------------------------------------------
+Some Misconception Resources:
+
+F.M. Goldberg and L. C. McDermott, AN INVESTIGATION OF STUDENT 
+UNDERSTANDING OF THE REAL IMAGE FORMED BY A CONVERGING LENS OR CONCAVE 
+MIRROR, Am. J. of Phys. 55 (2) Feb. 1987 pp108-119.
+
+PROCEEDINGS OF THE 2nd INTL SEMINAR ON MISCONCEPTIONS AND EDUCATIONAL 
+STRATEGIES IN SCIENCE AND MATHEMATICS, VOL 1-3 1987 Cornell U., Ithaca NY
+
+Mario Iona, WHY JOHNNY CAN'T LEARN PHYSICS FROM TEXTBOOKS I HAVE KNOWN
+Millikan Award Lecture, Am J. Phys. 55 (4) Apr 1987 pp299-307
+
+Mario Iona, HOW SHOULD WE SAY IT? Series of columns in The Science 
+Teacher, 1970-1972
+
+Mario Iona, WOULD YOUR BELIEVE? Series of columns in The Physics Teacher 
+Teacher, 1970-1972
+
+

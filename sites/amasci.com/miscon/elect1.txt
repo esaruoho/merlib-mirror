@@ -1,0 +1,298 @@
+
+ELECTRICITY MISCONCEPTIONS IN TEXTBOOKS - - -William J. Beaty
+
+   billbeskimo.com
+     _________________________________________________________________
+   
+  Accesses since 8/19/95:
+  
+   [INLINE]
+     _________________________________________________________________
+   
+   Add Your Own
+   
+UNDER CONSTRUCTION
+
+   Sorry if the following is a bit contentious at times. I wrote it in an
+   attempt to get some things off my chest. If you keep watching this
+   site, I'll probably clean it up and make it sound a bit more
+   professional. Also, this file is still under construction and is being
+   written, edited, corrected, etc. It does currently contain some
+   mistakes of its own. I placed it online as a sort of 'trial by fire'
+   in order to hear readers' responses and target weak or unclear
+   sections for improvement. Please feel free to make comments to the
+   author at billbeskimo.com -Bill B.
+   
+   ELECTRICITY DOES NOT EXIST
+          The term "electricity" is a catch-all word with many meanings.
+          Unfortunately these meanings are contradictory. There is no
+          single substance or energy called "electricity." When we say
+          "quantity of electricity," we could be talking about quantities
+          of charged particles, or energy, or potential, forces, fields,
+          net charge, current, power, or even about electrical phenomena.
+          All of these are found under the definition of the word
+          "electricity." Part of this problem would vanish if we used the
+          word "electricity" only to designate a field of science or
+          class of phenomena, in the same way we use the words "physics"
+          or "optics." We do use it this way occasionally. But then we
+          immediately turn around and do the equivalent of teaching our
+          kids that the "optics" comes out of the light bulb and passes
+          through the lens!
+          
+          Here are a couple of examples of errors caused by the
+          contradictory meanings. In AC electric circuits the *charges*
+          wiggle back and forth, but the *energy* moves continuously
+          forward. This is analogous to the way that sound moves
+          continuously forward while air wiggles back and forth. By
+          applying contradictory definitions to the the term
+          "electricity," we teach that electricity sits in one spot in
+          the wires and wiggles, but at the same time electricity moves
+          forward rapidly. Garbage! It's like saying that sound and wind
+          are the same thing! And the error is directly tracable to the
+          bogus "electricity" concept.
+          
+          Another: when a battery lights a bulb, we explain that the path
+          of electricity is into, through, and back out of the bulb, and
+          that none is used up. Then we say that electricity flows from
+          the battery to bulb and is totally converted to light! So does
+          the bulb consume "electricity" or does the "electricity" flow
+          through it and back out again? As far as students are
+          concerned, we've just told them that it does both at the same
+          time!
+          
+          Another: There are two forms of electricity, positive
+          electricity and negative. NO, the two forms of electricity are
+          static and current. NO, there are many forms of electricity,
+          triboelectricity, bioelectricity, myoelectricity,
+          piezoelectricity. Which is right? All and none, because the
+          word "electricity" has multiple contradictory definitions.
+          
+   THE ELECTRICITY WHICH FLOWS IN WIRES IS NOT MADE BY BATTERIES OR
+          GENERATORS
+          Electric currents in copper wires are a flow of electrons, and
+          these electrons comes from the copper atoms. Those electrons
+          were in the metal before the battery was connected. They were
+          even there before the copper was mined and made into wires!
+          Batteries and generators do not create these electrons, they
+          merely pump them, and the electrons are like a pre-existing
+          fluid that exists within the wires. A generator takes electrons
+          in from one wire and simultaneously spits them out the other
+          one, and at the same time it pushes them through the coil of
+          wire within the generator and through the entire electric
+          circuit. A generator or battery is a closed-loop pump, but it
+          does not supply the substance being pumped. A generator is like
+          your heart: it moves blood, but it does not create blood. When
+          a generator stops or when the circuit is opened, all the
+          electrons stop where they are, and the wires remain filled with
+          electrons. But this isn't unexpected, because the wires were
+          full of vast quantities of electrons at the start.
+          
+   THE "ELECTRICITY" FLOWING INSIDE OF WIRES DOES NOT FLOW AT THE SPEED
+          OF LIGHT
+          In metals, electric current is a flow of electrons. Many books
+          claim that these electrons flow at the speed of light. This is
+          incorrect. Electrons flow incredibly slowly, at speeds on the
+          order of centimeters per minute. It's the energy in the circuit
+          which flows fast, not the electrons. When the electrons at one
+          point in the circuit are pumped, electrons in the entire loop
+          of the circuit are forced to flow, and energy spreads instantly
+          througout the circuit. Energy and electrons are two distinct
+          entities. Electrical energy is composed of electromagnetic
+          fields. It does not travel along with individual electrons. The
+          energy does not even flow inside the wires.
+          
+   ELECTRIC ENERGY IN A CIRCUIT DOES NOT FLOW IN A CIRCLE
+          When you connect a light bulb to a battery, energy moves from
+          the battery to the bulb. If this phenomena is examined in great
+          detail, we find that the energy is composed of EM fields, that
+          it moves as wave energy, that it exists only outside of the
+          wires, and most importantly, that it TRAVELS ALONG BOTH WIRES
+          on its way from the battery to the bulb. So when you plug a
+          lamp into a wall socket, you should not imagine that the energy
+          is a mysterious invisible entity travelling back and forth
+          inside the wires. You should think of it as a mysterious
+          invisible "tube"-shaped flow that comes out of the outlet, runs
+          out along BOTH wires, and dives into the filament of the
+          lightbulb.
+          
+   CHARGE
+          The word "charge" has more than one contradictory meaning, so
+          if you are using it, you are probably creating misconceptions.
+          "Charge" refers to several things: to net-charge, to quantities
+          of charged particles, and to "charges" of energy.
+          
+          For example, even when totally neutral, metals contain vast
+          quantities of movable electrons. So, should we say that they
+          contain zero charge, or that they contain immense quantities of
+          charge? Or if I place an electron and a proton together, do I
+          have twice as much charge as before, or do I have a neutral
+          hydrogen atom with no charge at all? Misuse of "charge" makes
+          descriptions of electric circuits extremely confusing. Electric
+          currents are a motion of neutralized charge, so if you teach
+          that a wire is uncharged, and that current is a flow of charge,
+          how can anyone make sense of a situation where a wire is
+          uncharged yet contains an enormous flow of charge?
+          
+          Another one: if you charge a capacitor or a battery, you move
+          charges from one plate to the other, and the device as a whole
+          has exactly the same charge whether it's "charged" or not! When
+          speaking of "charging" batteries or capacitors, we've suddenly
+          started talking about energy, and a "charged" battery has quite
+          a bit more energy (but exactly the same net-charge, and the
+          same quantitity of particles) as an "uncharged" battery. This
+          concept is very important in understanding simple circuitry,
+          yet it is never taught, because the misleading term "charge"
+          stands in the way.
+          
+   CONTACT ELECTRIFICATION OR "STATIC ELECTRICITY" IS NOT CAUSED BY
+          FRICTION
+          "Static electricity" appears when two dissimilar insulating
+          materials are placed into intimate contact and then separated.
+          All that's required is the touching. For example, when adhesive
+          tape is placed on a surface and then peeled off, both the tape
+          and the surface will become electrified. No friction was
+          required. Of course if one of the materials is fiberous and
+          does not give a very large footprint of contact area, the
+          process of rubbing the material upon another can greatly
+          increase the total contact area. But this rubbing is not the
+          cause of electrification.
+          
+   "STATIC ELECTRICITY" IS NOT ELECTRICITY WHICH IS STATIC
+          "Static electricity" exists whenever there are unequal amounts
+          of positive and negative charged particles present. All solid
+          objects contain vast quantities of positive and negative
+          particles. When these quantities are not exactly equal and
+          there is a tiny bit more positive than negative (or vice
+          versa), we say that the object is "charged" and that "static
+          electricity" exists. When the quantities are equal, we say the
+          object is "neutral" or "uncharged." "Charged" and "uncharged"
+          depends on the sum of opposite quantities. Since "static"
+          electricity is actually an imbalance in the quantities of
+          positive and negative, it is wrong to believe that the effect
+          has anything to do with lack of motion, with being "static." In
+          fact, "static electricity" can easily be made to MOVE along
+          conductive surfaces. When this happens, it continues to display
+          all it's normal characteristics as it flows, so it does not
+          stop being "static electricity" while it moves along very
+          non-statically! And when an electric circuit is broken and the
+          charges stop flowing, they don't turn into "static electricity"
+          and begin attracting lint, etc. A quantity of unmoving charged
+          particles does not constitute "static electricity." If you
+          believe that "static" and "current" are opposite types of
+          "electricity," you will forever be hopelessly confused about
+          electricity in general.
+          
+   ELECTRIC CURRENT IS NOT A FLOW OF ENERGY
+          Electric current is a slow motion of charged particles. On the
+          other hand, electric energy is made of fields and it moves
+          fast. Electric energy can move in a direction opposite to that
+          of the electric current. Electric energy can even move
+          continuously forward in the same wire where the direction of
+          the current is alternating back and forth at high frequency.
+          Electric energy is composed of electric and magnetic fields,
+          and it exists in the space surrounding the wires. Electric
+          current is very different, it's (usually) a flowing motion of
+          electrons, and electrons are material particles. Electric
+          current is a flow of matter, not of energy. When electric
+          current exists in an electrolyte (in batteries, salt water, the
+          earth, or in your body) it is a flow of charged atoms called
+          ions, so there is no denying that it is a flow of material.
+          Current is a matter flow, not an energy flow.
+          
+   ELECTRIC POWER CANNOT BE MADE TO FLOW
+          Power is defined as "flow of energy." Saying that power "flows"
+          is as silly as saying that the stuff in a moving river is named
+          "current" rather than of "water." Water is real, water can
+          flow, flows of water are called "currents," but we shouldn't
+          make the mistake of believing that "currents" are a substance.
+          Energy is sort of like a stuff, and it can flow along. When
+          electric energy flows, it's flow is called electric power. But
+          electric power has no existance of its own. Electric power is
+          the flowing motion of another thing. Electric power is an
+          energy current. This impacts the concepts behind the units of
+          electrical measurement. Energy can be measured in Joules or
+          Ergs. The rate of flow of energy is called Joules per second.
+          For convenience, we give this rate of flow the name "power,"
+          and we measure it in terms of Watts. Yet Watts have no physical
+          substance-like existance. The Joule is the fundamental unit,
+          and the Watt is a unit of convenience. It is probably a good
+          idea to teach only the term "Joule" in early grades, to
+          entirely avoid the "watt" concept, and to only introduce it
+          years later when the students feel a need for a convenient way
+          to state the energy-flow-per-unit-time concept. Unfortunately
+          many textbooks do the reverse, and keep the seemingly-complex
+          "Joule" away from the kids, while spreading the "watt" concept
+          far and wide!
+          
+   LIGHT AND RADIO WAVES DO NOT TRAVEL AT 186,000 MILES PER SECOND
+          They only travel at 186,000 miles per second while in a perfect
+          vacuum. Light travels a bit slower in the air, and it travels
+          LOTS slower when inside glass. Radio waves move much slower
+          than 186,000 miles/sec when they travel within
+          plastic-insulated coaxial cable. The term "speed of light" is
+          misleading, because the complete term actually reads "speed of
+          light in a vacuum." There actually is no set "speed of light,"
+          and light (and electrical energy) can travel at many different
+          speeds.
+          
+   ELECTROMAGNET COILS DO NOT USE UP ENERGY TO MAKE MAGNETISM
+          Coils only require energy to initially create a magnetic field.
+          They also require energy to defeat electrical friction when a
+          field is being maintained. But if the friction is removed, the
+          magnetic field can exist continuously without energy input. If
+          frictionless (superconductive) wire is used, a coil can be
+          momentarily connected to an energy supply to create the field,
+          then the supply can be removed and the field will continue
+          forever.
+          
+   Voltage
+          
+          
+   STORM CLOUDS ARE NOT CHARGED BY FRICTION
+          Some books claim that the separated charges in thunderstorms
+          comes about when clouds rub against each other, or when the
+          rain moves through the air. This is not correct. In fact, the
+          true explanation for storm electrification is unknown. There
+          are several possible explanations, but none of them has been
+          yet proved true, and all have problems. Here's one: in a
+          mixture of hail and rain, the ice and water become oppositely
+          electrified through contact. The large hail then falls faster
+          than the small raindrops, so two large regions of opposite
+          charge are gradually created within the cloud, one above the
+          other.
+          
+   BEN FRANKLIN'S KITE WAS NEVER STRUCK BY LIGHTNING
+          Many people believe that Ben Franklin's kite was hit by a
+          lightning bolt, and this is how he proved that lightning was
+          electrical. A number of books and even some encyclopedias say
+          the same thing. They are wrong. When lightning strikes a kite,
+          the spreading electric currents in the ground can kill anyone
+          standing nearby, to say nothing of the person holding the
+          string! What Franklin actually did was to show that a kite
+          would collect a tiny bit of electric charge out of the sky
+          during a thunderstorm. Electric leakage through the air caused
+          his kite and string to become charged, and the hairs on the
+          twine stood outwards. The twine was then used to charge a metal
+          key, and tiny sparks could then be drawn from the key. (He used
+          a metal object because sparks cannot be directly drawn from the
+          twine, it's not conductive enough.) This suggested that some
+          stormclouds carry strong electrical charges, and it IMPLIED
+          that lightning was just a large electric spark. The common
+          belief that Franklin easily survived a lightning strike is not
+          just wrong, it is dangerous: it may convince kids that it's OK
+          to duplicate the kite experiment as long as they "protect"
+          themselves by holding a silk ribbon. Make no mistake,
+          Franklin's experiment was extremely dangerous, and if lightning
+          had actually hit his kite, he certainly would have been killed.
+          
+          
+   ELECTRICITY IS NOT MADE OF ELECTRONS
+          Electric current in metals is a flow of electrons. But electric
+          current doesn't only flow in metals. It also flows in
+          electrolytes. Electric currents in electrolytes are flows of
+          electrified atoms. So when an electric current is passing
+          through a battery, it is made of moving atoms, not of moving
+          electrons. A similar thing happens when a current passes
+          through the earth, the ocean, and your body. All the electric
+          currents in your brain and nerves are composed of moving sodium
+          and potassium atoms!
