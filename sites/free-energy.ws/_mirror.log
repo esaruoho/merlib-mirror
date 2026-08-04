@@ -1,0 +1,54 @@
+[2026-08-04 16:28:49] ============================================================
+[2026-08-04 16:28:49] WAYBACK MIRROR: free-energy.ws
+[2026-08-04 16:28:49] Output: /Users/esaruoho/work/merlib-mirror/sites/free-energy.ws
+[2026-08-04 16:28:49] Delay: 1.0s
+[2026-08-04 16:28:49] ============================================================
+[2026-08-04 16:28:49] Resuming: phase=init, 0 already done
+[2026-08-04 16:28:49] 
+=== PHASE 1: URL Discovery ===
+[2026-08-04 16:28:49] Querying CDX for free-energy.ws/index.php/*...
+[2026-08-04 16:29:13] ============================================================
+[2026-08-04 16:29:13] WAYBACK MIRROR: free-energy.ws
+[2026-08-04 16:29:13] Output: /Users/esaruoho/work/merlib-mirror/sites/free-energy.ws
+[2026-08-04 16:29:13] Delay: 1.0s
+[2026-08-04 16:29:13] ============================================================
+[2026-08-04 16:29:13] Resuming: phase=init, 0 already done
+[2026-08-04 16:29:13] 
+=== PHASE 1: URL Discovery ===
+[2026-08-04 16:29:13] Querying CDX for free-energy.ws/index.php/*...
+[2026-08-04 16:29:28]   CDX query failed for free-energy.ws/index.php/*
+[2026-08-04 16:29:28] Querying CDX for www.free-energy.ws/index.php/*...
+[2026-08-04 16:29:35]   Found 1 URLs for www.free-energy.ws/index.php/*
+[2026-08-04 16:30:08] ============================================================
+[2026-08-04 16:30:08] WAYBACK MIRROR: free-energy.ws
+[2026-08-04 16:30:08] Output: /Users/esaruoho/work/merlib-mirror/sites/free-energy.ws
+[2026-08-04 16:30:08] Delay: 1.0s
+[2026-08-04 16:30:08] ============================================================
+[2026-08-04 16:30:08] Resuming: phase=init, 0 already done
+[2026-08-04 16:30:08] 
+=== PHASE 1: URL Discovery ===
+[2026-08-04 16:30:08] Querying CDX for free-energy.ws/index.php/*...
+[2026-08-04 16:30:14]   Found 1 URLs for free-energy.ws/index.php/*
+[2026-08-04 16:30:14] Querying CDX for www.free-energy.ws/index.php/*...
+[2026-08-04 16:30:30]   Found 1 URLs for www.free-energy.ws/index.php/*
+[2026-08-04 16:31:14] Path filter '/index.php': 3 -> 1 URLs
+[2026-08-04 16:31:14] Total unique valid URLs: 1
+[2026-08-04 16:31:14]   text/html: 1
+[2026-08-04 16:31:14] 
+=== PHASE 2: Downloading ===
+[2026-08-04 16:31:14] Skipping 1 unmirrorable URL(s) (server-side / WordPress plumbing) — not fetched, not counted as failures
+[2026-08-04 16:31:14] Downloading 0 of 1 with 4 worker(s) (delay 1.0s each)
+[2026-08-04 16:31:14] 
+=== PHASE 3: Generating Index ===
+[2026-08-04 16:31:14] Generating index...
+[2026-08-04 16:31:14] Index: 0 files
+[2026-08-04 16:31:14] 
+============================================================
+[2026-08-04 16:31:14] MIRROR COMPLETE
+[2026-08-04 16:31:14] Total URLs: 1
+[2026-08-04 16:31:14] Downloaded: 0
+[2026-08-04 16:31:14] Failed: 0
+[2026-08-04 16:31:14] Files: 0
+[2026-08-04 16:31:14] ============================================================
+[2026-08-04 16:31:14] 
+Next step: fe-ingest.sh /Users/esaruoho/work/merlib-mirror/sites/free-energy.ws
