@@ -1,0 +1,23 @@
+{
+  "domain": "radiondistics.com",
+  "source_url": "https://www.radiondistics.com/",
+  "entry": "index.html",
+  "pages_total": 1,
+  "pages_reachable": 1,
+  "pages_unreached": 0,
+  "body_chars": 0,
+  "extractor": "builtin",
+  "generated": "2026-08-04T08:22:42Z",
+  "pages": [
+    {
+      "order": 1,
+      "title": "Radiondistics - Physics of the radio waves, radio-electrical & radio-electronics engineering - Errante - www.Radiondistics.com",
+      "path": "index.html",
+      "slug": "001-radiondistics-physics-of-the-radio-waves-radio-electrical-radio-electronics-engi",
+      "reachable_from_entry": true,
+      "images": [],
+      "internal_links": [],
+      "chars": 0
+    }
+  ]
+}

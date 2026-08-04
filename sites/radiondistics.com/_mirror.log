@@ -1,0 +1,24 @@
+[2026-08-04 11:22:40] ============================================================
+[2026-08-04 11:22:40] LIVE MIRROR: www.radiondistics.com
+[2026-08-04 11:22:40] Seed: https://www.radiondistics.com/
+[2026-08-04 11:22:40] Seed path: /
+[2026-08-04 11:22:40] Max link depth: 5
+[2026-08-04 11:22:40] Output: /Users/esaruoho/work/merlib-mirror/sites/www.radiondistics.com
+[2026-08-04 11:22:40] ============================================================
+[2026-08-04 11:22:41] Crawling / (download-as-you-go)...
+[2026-08-04 11:22:41]   [1 d0*] https://www.radiondistics.com/  (1 OK, 0 queued)
+[2026-08-04 11:22:42] Generating index...
+[2026-08-04 11:22:42] Index: 1 files
+[2026-08-04 11:22:42]   .html: 1
+[2026-08-04 11:22:42] 
+============================================================
+[2026-08-04 11:22:42] LIVE MIRROR COMPLETE
+[2026-08-04 11:22:42] Downloaded: 1, OK: 1, Failed: 0
+[2026-08-04 11:22:42] Total URLs seen: 1
+[2026-08-04 11:22:42] ------------------------------------------------------------
+[2026-08-04 11:22:42] FRAMESET: this site's content is framed in from 1 off-domain target(s) — NOT included in this mirror:
+[2026-08-04 11:22:42]   → https://www.radiondistics.altervista.org/
+[2026-08-04 11:22:42] Queue those hosts as their own mirror jobs to capture the content.
+[2026-08-04 11:22:42] ============================================================
+[2026-08-04 11:22:42] 
+Next step: fe-ingest.sh /Users/esaruoho/work/merlib-mirror/sites/www.radiondistics.com
