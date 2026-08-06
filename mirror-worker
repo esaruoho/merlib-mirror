@@ -260,18 +260,47 @@ commit_and_push() {
   size_kb="$(du -sk "$site_dir" 2>/dev/null | cut -f1)"
   local size_mb=$(( size_kb / 1024 ))
 
+  # A large mirror is the POINT of this archive, so size alone must not stop it
+  # reaching GitHub. This used to skip the push and `return 0` — reporting the job
+  # as SUCCESS while the mirror existed only on the Mini's disk. That is the same
+  # silent-loss shape as everything else this engine has been bitten by: it looks
+  # done, and the content is one disk failure from gone.
+  #
+  # amasci.com is 974MB and still growing, i.e. about to cross this line.
+  #
+  # Now: warn loudly, then push anyway. Skipping requires an explicit opt-out, and
+  # says so unmistakably when it happens.
   if [[ "$size_kb" -gt "$MAX_PUSH_SIZE_KB" ]]; then
-    log "WARNING: $domain is ${size_mb}MB (>${MAX_PUSH_SIZE_KB}KB) — committed locally, skipping push"
-    git checkout main 2>/dev/null
-    return 0
+    if [[ "${MIRROR_SKIP_LARGE_PUSH:-}" == "1" ]]; then
+      log "!!! NOT PUSHED: $domain is ${size_mb}MB and MIRROR_SKIP_LARGE_PUSH=1."
+      log "!!! The mirror exists ONLY on this machine. It is NOT retained."
+      log "!!! Push it by hand: git -C $REPO_DIR push -u origin $branch"
+      git checkout main 2>/dev/null
+      return 1
+    fi
+    log "WARNING: $domain is ${size_mb}MB (over the ${MAX_PUSH_SIZE_KB}KB advisory) "
+    log "         — pushing anyway; a mirror that is not pushed is not retained."
+  else
+    log "Size: ${size_mb}MB — under threshold, pushing"
   fi
-  log "Size: ${size_mb}MB — under 1GB threshold, pushing"
 
-  git push -u origin "$branch" || {
-    log "Push failed, will retry next cycle"
+  # "will retry next cycle" was a lie: by this point the job has been claimed and
+  # moved to done/, so NOTHING retries it. A failed push meant the branch never
+  # reached GitHub and the run still reported success. Retry here, then fail
+  # loudly — a mirror that is not pushed is not retained.
+  local push_ok=0
+  for attempt in 1 2 3; do
+    if git push -u origin "$branch"; then push_ok=1; break; fi
+    log "Push attempt $attempt/3 failed for $branch — retrying in $((attempt * 30))s"
+    sleep $((attempt * 30))
+  done
+  if [[ "$push_ok" -ne 1 ]]; then
+    log "!!! PUSH FAILED 3x for $branch. The mirror is committed LOCALLY ONLY and"
+    log "!!! is NOT retained. Nothing will retry this — the job is already claimed."
+    log "!!! Recover by hand: git -C $REPO_DIR push -u origin $branch"
     git checkout main 2>/dev/null
-    return 0
-  }
+    return 1
+  fi
 
   local file_count
   file_count="$(find "$site_dir" -type f ! -name '_*' ! -name 'ALLFILES.txt' ! -name 'SOURCE.txt' 2>/dev/null | wc -l | tr -d ' ')"
